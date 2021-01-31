@@ -1,22 +1,20 @@
 <!DOCTYPE html>
 <html>
+
 <head>
 	<meta charset="utf-8">
-	<title>SAPUI5 Walkthrough</title>
-	<script
-		id="sap-ui-bootstrap"
-		src="https://openui5.hana.ondemand.com/resources/sap-ui-core.js"
-		data-sap-ui-theme="sap_belize"
-		data-sap-ui-libs="sap.m"
-		data-sap-ui-compatVersion="edge"
-		data-sap-ui-async="true"
-		data-sap-ui-onInit="module:sap/ui/demo/walkthrough/index"
-		data-sap-ui-resourceroots='{
-			"sap.ui.demo.walkthrough": "./"
-		}'>
-	</script>
+	<title>FFXIV Quest Tracker</title>
+	<script src="index.js"></script>
 </head>
-<body class="sapUiBody" id="content">
+
+<body>
+	<button onclick="test()"  type="button" title="Test" name="test">Test</button>
+
+<script>
+	function test() {
+		updateContent();
+	};
+</script>
 </body>
 
 </html>

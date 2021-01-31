@@ -20,5 +20,10 @@
   "homepage": "https://github.com/Lovi1997/ffxiv-tracker#readme",
   "devDependencies": {
     "electron": "^11.2.1"
+  },
+  "dependencies": {
+    "file-system": "^2.2.2",
+    "request": "^2.88.2",
+    "winston": "^3.3.3"
   }
 }

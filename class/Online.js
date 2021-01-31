@@ -1,0 +1,1 @@
+exports.QuestOnline = require('./online/Quest');

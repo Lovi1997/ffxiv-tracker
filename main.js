@@ -1,28 +1,24 @@
-const { app, BrowserWindow, ipcMain, ipcRenderer } = require('electron');
-let vIsOnline;
+const { app, BrowserWindow, ipcMain } = require('electron');
+const { appHandler, updateContent } = require('./events/events');
+const { fs } = require('file-system');
 
-function createWindow () {
-  const win = new BrowserWindow({
-    width: 800,
-    height: 600,
-    webPreferences: {
-        contextIsolation: true
-    }
-  });
-
-  win.loadFile('app/index.html')
-};
-
-app.whenReady().then(createWindow);
-
-app.on('window-all-closed', () => {
-  if (process.platform !== 'darwin') {
-    app.quit()
-  }
+// Create main window when ready
+app.whenReady().then(function() {
+  appHandler.createWindow(BrowserWindow);
+  fs.unlink('./log/log.log', function(){});
 });
 
+// Close everything
+app.on('window-all-closed', () => {
+  appHandler.win_all_closed(app);
+});
+
+//activate and create Browser window
 app.on('activate', () => {
-  if (BrowserWindow.getAllWindows().length === 0) {
-    createWindow()
-  }
+  appHandler.activate(BrowserWindow);
+});
+
+// Check for update or force update
+ipcMain.on('updateContent', (bForce) => {
+  updateContent();
 });
