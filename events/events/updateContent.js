@@ -1,6 +1,7 @@
 //Update Asynchronous
 const oContent = require('../../class/Content')
-const { Logger } = require('../../class/Util')
+const { Logger } = require('../../class/Util');
+const { updateContent } = require('../events');
 
 // Export Event
 module.exports = function (bForce) {update(bForce)};
@@ -10,7 +11,9 @@ module.exports = function (bForce) {update(bForce)};
 // Update Main Function
 async function update(bForce) {
   // Initialize variables
-  var oLogger = new Logger();
+  var sMsg         = "";
+  var oResponse    = {message: [], success: true};
+  var oLogger      = new Logger();
   let aContentKeys = Object.keys(oContent);
 
   // Log Update
@@ -23,15 +26,57 @@ async function update(bForce) {
 
   // Update if needed
   if (bUpdateRequired === true) {
+    // Perform Update
     oLogger.log("Updating Content...", 'I')
     oLogger.increaseDetLevel();
-    aContentKeys.forEach(function (sContentKey) {
-      oLogger.log(`Updating Content for '${sContentKey}'`, 'I');
-    });
+    oResponse.success = await updateContentObject(aContentKeys, oContentUpdates, oLogger);
+    oLogger.decreaseDetLevel();
+  } else if (bUpdateRequired === false) {
+    // Log and set Response -> no update
+    sMsg = "No Update required.";
+    oResponse.message.push(sMsg);
+    oLogger.log(sMsg, 'I');
   } else {
-    oLogger.log("No Update required.", 'I');
+     // Log and set Response -> error
+     sMsg = "Could not Update.";
+     oResponse.message.push(sMsg);
+     oLogger.log(sMsg, 'E');
   };
+
+  // Log and set Response according if update was successful or not
+  if (oResponse.success === true) {
+    sMsg = "Update Successfull.";
+    oResponse.message.push(sMsg);
+    oLogger.log(sMsg, 'I');
+  } else {
+    sMsg = "Could not Update.";
+    oResponse.message.push(sMsg);
+    oLogger.log(sMsg, 'E');
+  }
+
+  // Send response
 }
+
+
+async function updateContentObject(aContentKeys, oContentUpdates, oLogger) {
+  var bSuccess = true;
+
+  // Update each Content Item
+  for (var sContentKey of aContentKeys) {
+    oLogger.log(`Updating Content for '${sContentKey}'.`, 'I');
+    oLogger.increaseDetLevel();
+
+    // Call Update Function
+    let oContentObject = new oContent[sContentKey](oLogger);
+    bSuccess = await oContentObject.update();
+
+    oLogger.decreaseDetLevel();
+  };
+
+  // Return
+  return bSuccess;
+}
+
 
 async function checkForUpdate(aContentKeys, oLogger) {
   var bUpdateRequired = false;
@@ -50,7 +95,8 @@ async function checkForUpdate(aContentKeys, oLogger) {
     if (iTotalLocal === null || iTotalOnline === null) {
       // error during determination if update is required
       oLogger.log(`Could not determine if Update is required for '${sContentKey}'`, 'E');
-      oContentUpdates[sContentKey].bUpdateRequired = false;
+      bUpdateRequired = "error";
+      break;
     } else if (iTotalLocal < iTotalOnline) {
       // Update is required
       oContentUpdates[sContentKey].bUpdateRequired = true;

@@ -2,9 +2,9 @@ const { Logger } = require('../Util')
 
 class Super {
         // Instance Data
-        _oObjectOnline = {}
-        _oObjectLocal  = {}
-        _oLogger       = {}
+        _oOnline = {}
+        _oLocal  = {}
+        _oLogger = {}
 
     constructor(oLogger) {
         // Create Logger if needed
@@ -25,6 +25,12 @@ class Super {
     async getTotalOnline() {
         let iNumber = await this._oOnline.getTotal()
         return iNumber;
+    }
+
+    async update() {
+
+        
+        return true;
     }
 }
 module.exports = Super;

@@ -58,7 +58,7 @@ class Logger {
                 this._oWinston.log("warn", sMsg);
                 break;
             case 'E':
-                this._oWinston.log("error", sMsg);
+                this._oWinston.log("error", `'${sMsg}'`);
                 break;
             default:
                 this._oWinston.log("silly", sMsg);
