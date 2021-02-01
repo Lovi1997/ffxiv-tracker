@@ -71,6 +71,7 @@ async function updateContentObject(aContentKeys, oContentUpdates, oLogger) {
     bSuccess = await oContentObject.update();
 
     oLogger.decreaseDetLevel();
+    oLogger.log(`Finished Update for Content '${sContentKey}' with ${bSuccess ? "no Error" : "Error"}.`, `${bSuccess ? 'I' : 'E'}`)
   };
 
   // Return
@@ -99,11 +100,11 @@ async function checkForUpdate(aContentKeys, oLogger) {
       break;
     } else if (iTotalLocal < iTotalOnline) {
       // Update is required
+      oLogger.log(`Content for '${sContentKey}' requires Update.`, 'I');
       oContentUpdates[sContentKey].bUpdateRequired = true;
       bUpdateRequired = true;
     } else {
       // Update is not required
-      oLogger.log(`Content for '${sContentKey}' requires Update.`, 'I');
       oContentUpdates[sContentKey].bUpdateRequired = false;
     };
   };

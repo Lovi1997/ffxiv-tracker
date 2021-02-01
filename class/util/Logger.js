@@ -1,4 +1,5 @@
 const { createLogger, format, transports } = require('winston')
+const config = require('../../config/config.json')
 
 class Logger {
 
@@ -47,7 +48,8 @@ class Logger {
 
     log(sText, cType, bConsole) {
         // Add span according to detlevel
-        var sMsg = this._sSpan + sText;
+        sText = (cType === 'E' ? `"${sText}"` : sText);
+        var sMsg = `${this._sSpan}${sText}`;
 
         // Log according to Message Type
         switch (cType) {
@@ -58,7 +60,7 @@ class Logger {
                 this._oWinston.log("warn", sMsg);
                 break;
             case 'E':
-                this._oWinston.log("error", `'${sMsg}'`);
+                this._oWinston.log("error", sMsg);
                 break;
             default:
                 this._oWinston.log("silly", sMsg);
@@ -66,7 +68,7 @@ class Logger {
         };
 
         // Log in console if requested
-        if (bConsole === true) {
+        if (bConsole === true || config.console_log === true) {
             console.log(sMsg);
         };
     }

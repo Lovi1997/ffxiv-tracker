@@ -41,6 +41,7 @@ class FileSystem {
             // Log StatusCode and Error
             this._oLogger.log(`ErrorCode ${error.errno}: ${error.code}`, 'E');
             this._oLogger.log(`Message: ${error.message}`, 'E');
+            this._oLogger.log(`Could not read File '${error.path}'.`, 'E');
             // Reject Promise to trigger error fallback
             reject();
         } else {
@@ -50,6 +51,45 @@ class FileSystem {
             }
             // Resolve and return response data
             resolve(JSON.parse(data));
+        };
+    }
+
+    write(sPath, oData, bLog) {
+        // return Promise for async Read
+        var that = this;
+        return new Promise(function (resolve, reject) {
+            that._onWrite(resolve, reject, sPath, oData, bLog);
+        });
+    }
+
+    _onWrite(resolve, reject, sPath, oData, bLog) {
+        // Log Info
+        if (bLog === true) {
+            this._oLogger.log(`Write File: ${sPath}`, 'I');
+        }
+
+        var that = this;
+        var sData = JSON.stringify(oData, null, 4);
+        this._oFS.writeFile(sPath, sData, function (error) {
+            that._onWriteFinished(resolve, reject, error, bLog);
+        });
+    }
+
+    _onWriteFinished(resolve, reject, error, bLog) {
+        if (error) {
+            // Log StatusCode and Error
+            this._oLogger.log(`ErrorCode ${error.errno}: ${error.code}`, 'E');
+            this._oLogger.log(`Message: ${error.message}`, 'E');
+            this._oLogger.log(`Could not write File '${error.path}'.`, 'E');
+            // Reject Promise to trigger error fallback
+            resolve(false);
+        } else {
+            // Log Success Message
+            if (bLog === true) {
+                this._oLogger.log("Message: File read successfull.", 'I');
+            }
+            // Resolve and return response data
+            resolve(true);
         };
     }
 }

@@ -1,7 +1,6 @@
 const { Downloader, Logger } = require('../Util');
 
 class Super {
-
     // Instance Data
     _oDownloader = {}
     _oLogger     = {}
@@ -20,9 +19,14 @@ class Super {
 
     // Get Total Number of Items
     async getTotal() {
-        var sTotal = await this._get(false, "Total");
-        return sTotal;
-    };
+        var iTotal = await this._get(false, "Total");
+        return iTotal;
+    }
+
+    async getPage(iID) {
+        var oPage = await this._get(false, "Page", iID);
+        return oPage;
+    }
 
     // Do single Request to XIVAPI for given ContentID
     async _get(bLog, sContentName, iID) {
@@ -48,9 +52,8 @@ class Super {
             case "Total":
                 oResult = oData.Pagination.ResultsTotal;
                 break;
-            case "Page":
-                break;
             default:
+                oResult = oData;
                 break;
         };
         return oResult;
@@ -72,7 +75,7 @@ class Super {
                 break;
             // Page additionally needs to now, which page it wants -> iID
             case "Page":
-                aParams = [{name: "page",value: iID}];
+                aParams = [{name: "page",value: iID}, {name: "limit",value: 1100}];
                 break;
             // Cant specify ID for URL (e.g. sContentName = Total)
             default:
