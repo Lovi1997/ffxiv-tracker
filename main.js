@@ -1,5 +1,5 @@
 const { app, BrowserWindow, ipcMain } = require('electron');
-const { appHandler, updateContent } = require('./events/events');
+const { appHandler } = require('./events/events');
 const { fs } = require('file-system');
 
 // Create main window when ready
@@ -19,6 +19,5 @@ app.on('activate', () => {
 });
 
 // Check for update or force update
-ipcMain.on('updateContent', (bForce) => {
-  updateContent();
+ipcMain.on('getInitData', () => {
 });
