@@ -29,8 +29,8 @@
     "test": "react-scripts test",
     "eject": "react-scripts eject",
     "electron-start": "electron .",
-    "preelectron-pack": "npm run build",
-    "electron-pack": "electron-builder --win -c.extraMetadata.main=build/main.js"
+    "predist": "npm run build",
+    "dist": "electron-builder --win -c.extraMetadata.main=build/main.js"
   },
   "eslintConfig": {
     "extends": [
@@ -58,13 +58,15 @@
     "winston": "^3.3.3"
   },
   "build": {
-    "appId": "FFXIVTracker",
-    "files": [
-      "build/**/*",
-      "node_modules/**/*"
-    ],
+    "appId": "ffxiv.tracker",
+    "productName": "FFXIV-Tracker",
+    "target": "NSIS",
     "directories": {
       "buildResources": "assets"
+    },
+    "nsis": {
+      "allowToChangeInstallationDirectory": true,
+      "oneClick": false
     }
   }
 }
