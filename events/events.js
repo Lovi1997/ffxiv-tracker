@@ -1,1 +1,0 @@
-exports.appHandler    = require('./events/appHandler.js');

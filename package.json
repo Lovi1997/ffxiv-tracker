@@ -2,11 +2,7 @@
   "name": "ffxiv-tracker",
   "version": "1.0.0",
   "description": "FFXIV-Tracker",
-  "main": "main.js",
-  "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1",
-    "start": "electron ."
-  },
+  "main": "public/main.js",
   "repository": {
     "type": "git",
     "url": "git+https://github.com/Lovi1997/ffxiv-tracker.git"
@@ -17,13 +13,58 @@
   "bugs": {
     "url": "https://github.com/Lovi1997/ffxiv-tracker/issues"
   },
-  "homepage": "https://github.com/Lovi1997/ffxiv-tracker#readme",
-  "devDependencies": {
-    "electron": "^11.2.1"
-  },
+  "homepage": "./",
   "dependencies": {
+    "@testing-library/jest-dom": "^5.11.9",
+    "@testing-library/react": "^11.2.5",
+    "@testing-library/user-event": "^12.7.1",
+    "react": "^17.0.1",
+    "react-dom": "^17.0.1",
+    "react-scripts": "4.0.2",
+    "web-vitals": "^1.1.0"
+  },
+  "scripts": {
+    "start": "react-scripts start",
+    "build": "react-scripts build",
+    "test": "react-scripts test",
+    "eject": "react-scripts eject",
+    "electron-start": "electron .",
+    "preelectron-pack": "npm run build",
+    "electron-pack": "electron-builder --win -c.extraMetadata.main=build/main.js"
+  },
+  "eslintConfig": {
+    "extends": [
+      "react-app",
+      "react-app/jest"
+    ]
+  },
+  "browserslist": {
+    "production": [
+      ">0.2%",
+      "not dead",
+      "not op_mini all"
+    ],
+    "development": [
+      "last 1 chrome version",
+      "last 1 firefox version",
+      "last 1 safari version"
+    ]
+  },
+  "devDependencies": {
+    "electron": "^11.2.3",
+    "electron-builder": "^22.9.1",
     "file-system": "^2.2.2",
     "request": "^2.88.2",
     "winston": "^3.3.3"
+  },
+  "build": {
+    "appId": "FFXIVTracker",
+    "files": [
+      "build/**/*",
+      "node_modules/**/*"
+    ],
+    "directories": {
+      "buildResources": "assets"
+    }
   }
 }
