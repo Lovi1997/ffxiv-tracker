@@ -3,8 +3,10 @@
   width: 12%;
   position: fixed;
   z-index: 1;
-  top: 0;
   left: 0;
+  margin-top: 41px;
   overflow-x: hidden;
+  overflow-y: scroll;
+  min-width: 300px;
   background-color: #202027;
 }

@@ -32,11 +32,10 @@ class Downloader {
         // get URL Params and build URL for HTTP Request
         let sURLParam = this._getURLParamString(aParams);
         let sURL = (`${Downloader.sHost}${sPath}/${iID}${sURLParam}`);
+        console.log(sURL);
 
         // Log Info
-        if (bLog === true) {
-            this._oLogger.log(`Download: ${sURL}`, 'I');
-        }
+        this._oLogger.log(`Download: ${sURL}`, 'I');
 
         // Do HTTP Request (GET)
         var that = this;
@@ -69,7 +68,7 @@ class Downloader {
 
         // Loop over Params and build String
         aParams.forEach(function (oParam) {
-            sParamString = `${oParam.name}=${oParam.value}&`;
+            sParamString = `${sParamString}${oParam.name}=${oParam.value}&`;
         });
 
         // Return either empty String or Params (without '&' in the end)

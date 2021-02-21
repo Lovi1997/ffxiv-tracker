@@ -3,13 +3,13 @@ import styles from "../css/NavbarItem.module.css";
 
 class NavbarItem extends Component {
   state = {
-    JournalSection: this.props.oJournalSection,
+    JournalSection: this.props.JournalSection,
   };
 
   getClasses = function () {
     let sClasses = styles.navbaritem;
     sClasses =
-      this.state.JournalSection.bActive === true
+      this.state.JournalSection.isActive === true
         ? sClasses + " " + styles.active
         : sClasses;
     return sClasses;
@@ -19,9 +19,9 @@ class NavbarItem extends Component {
     return (
       <button
         className={this.getClasses()}
-        onClick={() => this.props.onActivate(this.props.oJournalSection)}
+        onClick={() => this.props.onActivate(this.props.JournalSection)}
       >
-        {this.props.oJournalSection.sText}
+        {this.props.JournalSection.Name}
       </button>
     );
   }

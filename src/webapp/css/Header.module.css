@@ -1,0 +1,31 @@
+.header {
+  list-style-type: none;
+  width: 100%;
+  margin: 0;
+  padding: 0;
+  z-index: 2;
+  overflow-x: hidden;
+  overflow-y: hidden;
+  background-color: #202027;
+  position: fixed;
+  top: 0;
+  min-width: 500px;
+}
+
+.headeritem {
+  display: block;
+  color: white;
+  text-align: center;
+  padding: 10px 16px;
+  text-decoration: none;
+  float: left;
+}
+
+.clock {
+  display: block;
+  color: white;
+  text-align: center;
+  padding: 10px 32px;
+  text-decoration: none;
+  float: right;
+}

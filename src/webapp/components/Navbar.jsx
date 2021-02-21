@@ -1,27 +1,24 @@
 import React, { Component } from "react";
-import styles               from "../css/Navbar.module.css";
-import BusyIndicator        from "./BusyIndicator";
-import NavbarItem           from "./NavbarItem";
-const { ipcRenderer } = window.require("electron");
+import styles from "../css/Navbar.module.css";
+import BusyIndicator from "./BusyIndicator";
+import NavbarItem from "./NavbarItem";
 
 class Navbar extends Component {
   constructor(props) {
     super(props);
 
     this.state = {
-      error: false,
-      ready: false,
-      JournalSections: [] 
-    }
+      JournalSections: this.props.JournalSections,
+    };
   }
 
   onActivate = (oJournalSection) => {
     var JournalSectionsNew = [...this.state.JournalSections];
     var iIndex = JournalSectionsNew.indexOf(oJournalSection);
     JournalSectionsNew.forEach(
-      (JournalSectionNew) => (JournalSectionNew.bActive = false)
+      (JournalSectionNew) => (JournalSectionNew.isActive = false)
     );
-    JournalSectionsNew[iIndex].bActive = true;
+    JournalSectionsNew[iIndex].isActive = true;
     this.setState({ JournalSectionsNew });
   };
 
@@ -29,17 +26,16 @@ class Navbar extends Component {
     return this.state.JournalSections.map((oJournalSection) => {
       return (
         <NavbarItem
-          key={"js-" + oJournalSection.iID}
+          key={"nvi-" + oJournalSection.ID}
           onActivate={this.onActivate}
-          oJournalSection={oJournalSection}
+          JournalSection={oJournalSection}
         />
       );
     });
   };
 
   render() {
-      return <BusyIndicator/>;
-      //return <div className={styles.navbar}>{this.getNavbarItems()}</div>;
+    return <div className={styles.navbar}>{this.getNavbarItems()}</div>;
   }
 }
 
