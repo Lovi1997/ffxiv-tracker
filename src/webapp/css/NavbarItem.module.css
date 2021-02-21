@@ -1,0 +1,33 @@
+/* Fixed sidenav, full height */
+.navbaritem {
+  width: 100%;
+  display: inline-block;
+  padding: 10% 15% 6%;
+  font-size: 120%;
+  cursor: pointer;
+  text-align: right;
+  text-decoration: none;
+  outline: none;
+  color: #999999;
+  background-color: #202027;
+  border: none;
+  border-radius: 0px;
+  box-shadow: 0 2px #202027;
+}
+
+/* On mouse-over */
+.navbaritem:hover {
+  color: #e3e3e3;
+}
+
+/* On mouse-left down */
+.navbaritem:active {
+  box-shadow: 0 0px #151520;
+  transform: translateY(2px);
+}
+
+/* Active Dropdown */
+.active {
+  background-color: #303037;
+  color: white;
+}

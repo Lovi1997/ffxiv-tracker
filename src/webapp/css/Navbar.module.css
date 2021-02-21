@@ -1,0 +1,10 @@
+.navbar {
+  height: 100%;
+  width: 12%;
+  position: fixed;
+  z-index: 1;
+  top: 0;
+  left: 0;
+  overflow-x: hidden;
+  background-color: #202027;
+}
