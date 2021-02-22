@@ -22,15 +22,23 @@ function formatJournalSections(aJournalSections) {
     {
       ID: 99,
       Name: "Suchen",
+      isActive: true,
+      Icon: 10,
     },
     {
       ID: 0,
       Name: "Hauptszenario (ARR/Heavensward/Stormblood)",
+      Icon: 1,
     },
   ];
-  aJournalSections.forEach((oJournalSection) =>
-    aJournalSectionsNew.push(oJournalSection)
-  );
+
+  var i = 2;
+  aJournalSections.forEach((oJournalSection) => {
+    oJournalSection.Icon = i > 9 ? "none" : i;
+    aJournalSectionsNew.push(oJournalSection);
+    i++;
+  });
+
   return aJournalSectionsNew;
 }
 

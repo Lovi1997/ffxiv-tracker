@@ -68,7 +68,6 @@ class App extends Component {
   };
 
   onIsOnline = function (bOnline, oHandler) {
-    console.log(bOnline);
     var App = { ...oHandler.state.App };
     App.internetConnection = bOnline;
 

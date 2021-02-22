@@ -2,10 +2,10 @@
 .navbaritem {
   width: 100%;
   display: inline-block;
-  padding: 10% 15% 6%;
-  font-size: 100%;
+  padding: 8% 15% 6%;
+  font-size: 80%;
   cursor: pointer;
-  text-align: right;
+  text-align: left;
   text-decoration: none;
   outline: none;
   color: #999999;
@@ -30,4 +30,10 @@
 .active {
   background-color: #303037;
   color: white;
+}
+
+.image {
+  height: 30px;
+  width:30px;
+  float: right;
 }
