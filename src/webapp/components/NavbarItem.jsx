@@ -21,8 +21,8 @@ class NavbarItem extends Component {
         className={this.getClasses()}
         onClick={() => this.props.onActivate(this.props.JournalSection)}
       >
-        {this.props.JournalSection.Name}
         {this.getImage()}
+        <div className={styles.text}>{this.props.JournalSection.Name}</div>
       </button>
     );
   }
@@ -30,7 +30,9 @@ class NavbarItem extends Component {
   getImage = function () {
     if (this.props.JournalSection.Icon !== "none") {
       return (
+        <div className={styles.wrapper}>
         <img className={styles.image} src={`./icons/i${this.props.JournalSection.Icon}.png`} />
+        </div>
       );
     }
   };

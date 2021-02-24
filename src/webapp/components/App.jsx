@@ -3,6 +3,7 @@ import Navbar from "./Navbar";
 import BusyIndicator from "./BusyIndicator";
 import Header from "./Header";
 import ErrorPage from "./ErrorPage";
+import Page from "./Page";
 const { ipcRenderer } = window.require("electron");
 
 class App extends Component {
@@ -33,10 +34,13 @@ class App extends Component {
     switch (this.state.App.state) {
       case "ready":
         return (
-          <Navbar
-            key="app-nv"
-            JournalSections={this.state.App.JournalSections}
-          />
+          <div>
+            <Navbar
+              key="app-nv"
+              JournalSections={this.state.App.JournalSections}
+            />
+            <Page state="Error" />
+          </div>
         );
         break;
       case "error":
