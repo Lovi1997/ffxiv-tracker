@@ -4,6 +4,7 @@ import BusyIndicator from "./BusyIndicator";
 import Header from "./Header";
 import ErrorPage from "./ErrorPage";
 import Page from "./Page";
+import styles from "../css/App.module.css";
 const { ipcRenderer } = window.require("electron");
 
 class App extends Component {
@@ -34,7 +35,7 @@ class App extends Component {
     switch (this.state.App.state) {
       case "ready":
         return (
-          <div>
+          <div className={styles.app}>
             <Navbar
               key="app-nv"
               JournalSections={this.state.App.JournalSections}
