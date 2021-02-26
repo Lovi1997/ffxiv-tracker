@@ -5,6 +5,7 @@ import Header from "./Header";
 import ErrorPage from "./ErrorPage";
 import Page from "./Page";
 import styles from "../css/App.module.css";
+
 const { ipcRenderer } = window.require("electron");
 
 class App extends Component {
@@ -16,6 +17,7 @@ class App extends Component {
         ready: false,
         JournalSections: [],
         internetConnection: null,
+        activeSection: null,
       },
     };
 
@@ -26,7 +28,7 @@ class App extends Component {
     return (
       <div>
         <Header key="app-header" />
-        {this.getApplication()}
+        <div className={styles.app}>{this.getApplication()}</div>
       </div>
     );
   }
@@ -35,13 +37,14 @@ class App extends Component {
     switch (this.state.App.state) {
       case "ready":
         return (
-          <div className={styles.app}>
+          <React.Fragment>
             <Navbar
               key="app-nv"
               JournalSections={this.state.App.JournalSections}
+              onNavigate={this.onNavigate}
             />
-            <Page state="Error" />
-          </div>
+            <Page key="app-pa" JournalSection={this.state.activeSection} />
+          </React.Fragment>
         );
         break;
       case "error":
@@ -56,6 +59,7 @@ class App extends Component {
         break;
       default:
         return <BusyIndicator key="app-bi" />;
+        break;
     }
   };
 
@@ -64,7 +68,6 @@ class App extends Component {
       var App = { ...oHandler.state.App };
       App.state = "checking";
       oHandler.setState({ App });
-      console.log(App.internetConnection);
 
       ipcRenderer
         .invoke("is-online")
@@ -79,7 +82,6 @@ class App extends Component {
     if (bOnline !== true) {
       App.ready = false;
       App.state = "error";
-      console.log(App.internetConnection);
     }
     oHandler.setState({ App });
 
@@ -102,8 +104,22 @@ class App extends Component {
       App.state = "ready";
       App.ready = true;
       App.JournalSections = oResult.aJournalSections;
+      App.activeSection = App.JournalSections[0];
     }
     oApp.setState({ App });
+  };
+
+  onNavigate = (oJournalSection) => {
+    var App = { ...this.state.App };
+    let aJournalSectionsNew = App.JournalSections;
+    let iIndex = aJournalSectionsNew.indexOf(oJournalSection);
+    aJournalSectionsNew.forEach(
+      (oJournalSectionNew) => (oJournalSectionNew.isActive = false)
+    );
+    aJournalSectionsNew[iIndex].isActive = true;
+    App.activeSection = aJournalSectionsNew[iIndex].ID;
+    App.JournalSections = aJournalSectionsNew;
+    this.setState({ App });
   };
 }
 
