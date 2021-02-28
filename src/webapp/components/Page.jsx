@@ -1,6 +1,9 @@
 import React, { Component } from "react";
 import styles from "../css/Page.module.css";
 import BusyIndicator from "./BusyIndicator";
+import QuestPage from "./QuestPage";
+import ErrorPage from "./ErrorPage";
+import SearchPage from "./SearchPage";
 
 const { ipcRenderer } = window.require("electron");
 
@@ -19,20 +22,16 @@ class Page extends Component {
   }
 
   render() {
-    return (
-      <div className={styles.page}>
-        <BusyIndicator />
-      </div>
-    );
+    return <div className={styles.page}>{this.getPage()}</div>;
   }
 
   getPage = function () {
-    switch (this.state.App.state) {
-      case "detail":
-        return <h1>Page is ready</h1>;
+    switch (this.state.Page.state) {
+      case "quest":
+        return <QuestPage key="pa-quest" />;
         break;
       case "search":
-        return <h1>Page is ready</h1>;
+        return <SearchPage key="pa-search" />;
         break;
       case "error":
         return (
@@ -40,7 +39,7 @@ class Page extends Component {
             key="pa-error"
             Type={this.state.Page.internetConnection ? "Error" : "Internet"}
             checkConnection={this.checkConnection}
-            App={this}
+            Handler={this}
           />
         );
         break;
@@ -49,6 +48,7 @@ class Page extends Component {
         break;
     }
   };
+
   checkConnection = function (oHandler) {
     if (oHandler.state.Page.state !== "checking") {
       var Page = { ...oHandler.state.Page };
@@ -73,12 +73,34 @@ class Page extends Component {
       oHandler.setState({ Page });
 
       if (bOnline === true && oHandler.state.Page.ready === false) {
-        oHandler.requestData(this.state.JournalSection);
+        oHandler.requestData();
       }
     }
   };
 
-  requestData = function () {};
+  requestData = function () {
+    var iJournalSectionID = this.state.Page.JournalSection.iID;
+    ipcRenderer
+      .invoke("init-JournalCategories", iJournalSectionID)
+      .then((oResult) => this.onJournalCategoriesReceived(oResult, this));
+  };
+
+  onJournalCategoriesReceived = function (oResult, oHandler) {
+    var Page = { ...oHandler.state.Page };
+    if (oResult === null) {
+      Page.state = "error";
+    } else {
+      Page.ready = true;
+      Page.JournalCategories = oResult.aJournalCategories;
+      if (oHandler.state.Page.JournalSection.iID === 99) {
+        Page.state = "search";
+      } else {
+        Page.activeCategory = Page.JournalCategories[0];
+        Page.state = "quest";
+      }
+    }
+    oHandler.setState({ Page });
+  };
 }
 
 export default Page;

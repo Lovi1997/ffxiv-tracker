@@ -59,12 +59,11 @@ class ErrorPage extends Component {
     var Error = { ...this.state.Error };
     if (Error.Time > 0) {
       Error.Time = Error.Time - 1;
-      console.log(Error.Time);
       this.setState({ Error });
       var that = this;
       setTimeout(() => that.setTime(), 1000);
     } else {
-      this.props.checkConnection(this.props.App);
+      this.props.checkConnection(this.props.Handler);
     }
   }
 }

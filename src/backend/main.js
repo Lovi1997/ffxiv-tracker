@@ -1,5 +1,9 @@
 const { app, BrowserWindow, ipcMain } = require("electron");
-const { appHandler, initJournalSections } = require("./events/events");
+const {
+  appHandler,
+  initJournalSections,
+  initJournalCategories,
+} = require("./events/events");
 const { fs } = require("file-system");
 const path = require("path");
 const isOnline = require("is-online");
@@ -24,6 +28,12 @@ app.on("activate", () => {
 ipcMain.handle("init-JournalSections", async () => {
   const result = await initJournalSections();
   return result;
+});
+
+// Initialze Journal Sections
+ipcMain.handle("init-JournalCategories", async () => {
+  console.log("INIT");
+  return {aJournalCategories: [1]};
 });
 
 // Check online Status

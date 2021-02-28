@@ -1,0 +1,47 @@
+.wrapper {
+  margin: 10% 10% auto 10%;
+}
+
+.table {
+  font-size: 19px;
+  font-weight: normal;
+  width: 100%;
+  max-width: 100%;
+  min-width: 500px;
+  background-color: #202020;
+  overflow: hidden;
+  border-collapse: collapse;
+  border-spacing: 0;
+}
+
+.table td,
+.table th {
+  text-align: center;
+  padding: 8px;
+  border: none;
+}
+
+.table td {
+  font-size: 18px;
+}
+
+.table thead th {
+  color: #909090;
+  background: #202020;
+}
+
+.table tfoot tr {
+  color: #909090;
+  background: #202020;
+  width: 100%;
+}
+
+.table tr:nth-child(even) {
+  color: #909090;
+  background: #202020;
+}
+
+.table tr:nth-child(odd) {
+  color: #909090;
+  background: #303030;
+}

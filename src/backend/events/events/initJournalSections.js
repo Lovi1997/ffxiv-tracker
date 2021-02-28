@@ -20,13 +20,13 @@ async function getJournalSections() {
 function formatJournalSections(aJournalSections) {
   var aJournalSectionsNew = [
     {
-      ID: 99,
+      iID: 99,
       Name: "Suchen",
       isActive: true,
       Icon: 10,
     },
     {
-      ID: 0,
+      iID: 0,
       Name: "Hauptszenario (ARR/Heavensward/Stormblood)",
       Icon: 1,
     },
@@ -34,8 +34,12 @@ function formatJournalSections(aJournalSections) {
 
   var i = 2;
   aJournalSections.forEach((oJournalSection) => {
-    oJournalSection.Icon = i > 9 ? "none" : i;
-    aJournalSectionsNew.push(oJournalSection);
+    aJournalSectionsNew.push({
+      iID: oJournalSection.ID,
+      Name: oJournalSection.Name,
+      isActive: false,
+      Icon: i > 9 ? "none" : i,
+    });
     i++;
   });
 

@@ -11,7 +11,7 @@ class Navbar extends Component {
     return this.props.JournalSections.map((oJournalSection) => {
       return (
         <NavbarItem
-          key={"nvi-" + oJournalSection.ID}
+          key={"nvi-" + oJournalSection.iID}
           onActivate={this.props.onNavigate}
           JournalSection={oJournalSection}
         />

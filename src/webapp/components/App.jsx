@@ -18,6 +18,7 @@ class App extends Component {
         JournalSections: [],
         internetConnection: null,
         activeSection: null,
+        navigating: false,
       },
     };
 
@@ -37,14 +38,14 @@ class App extends Component {
     switch (this.state.App.state) {
       case "ready":
         return (
-          <React.Fragment>
+          <div>
             <Navbar
               key="app-nv"
               JournalSections={this.state.App.JournalSections}
               onNavigate={this.onNavigate}
             />
-            <Page key="app-pa" JournalSection={this.state.activeSection} />
-          </React.Fragment>
+            {this.getPage()}
+          </div>
         );
         break;
       case "error":
@@ -53,7 +54,7 @@ class App extends Component {
             key="app-ep"
             Type={this.state.App.internetConnection ? "Error" : "Internet"}
             checkConnection={this.checkConnection}
-            App={this}
+            Handler={this}
           />
         );
         break;
@@ -61,6 +62,16 @@ class App extends Component {
         return <BusyIndicator key="app-bi" />;
         break;
     }
+  };
+
+  getPage = function () {
+    return this.state.App.navigating === true ? (
+      <div styles={{ "margin-left": "350px" }}>
+        <BusyIndicator key="app-bi" />
+      </div>
+    ) : (
+      <Page key="app-pa" JournalSection={this.state.App.activeSection} />
+    );
   };
 
   checkConnection = function (oHandler) {
@@ -117,9 +128,17 @@ class App extends Component {
       (oJournalSectionNew) => (oJournalSectionNew.isActive = false)
     );
     aJournalSectionsNew[iIndex].isActive = true;
-    App.activeSection = aJournalSectionsNew[iIndex].ID;
+    App.activeSection = aJournalSectionsNew[iIndex];
     App.JournalSections = aJournalSectionsNew;
+    App.navigating = true;
     this.setState({ App });
+    setTimeout(() => this.onNavigationDone(this), 50);
+  };
+
+  onNavigationDone = function (oHandler) {
+    var App = { ...oHandler.state.App };
+    App.navigating = false;
+    oHandler.setState({ App });
   };
 }
 
