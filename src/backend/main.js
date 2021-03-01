@@ -3,6 +3,7 @@ const {
   appHandler,
   initJournalSections,
   initJournalCategories,
+  performSearch,
 } = require("./events/events");
 const { fs } = require("file-system");
 const path = require("path");
@@ -33,7 +34,13 @@ ipcMain.handle("init-JournalSections", async () => {
 // Initialze Journal Sections
 ipcMain.handle("init-JournalCategories", async () => {
   console.log("INIT");
-  return {aJournalCategories: [1]};
+  return [1];
+});
+
+// Initialze Journal Sections
+ipcMain.handle("search", async (event, sSearchString) => {
+  aResult = await performSearch(sSearchString);
+  return aResult;
 });
 
 // Check online Status

@@ -1,23 +1,64 @@
 .icon {
-    width: 5%;
-  }
-  
-  .name {
-    width: 41%;
-  }
-  
-  .category {
-    width: 24%;
-  }
-  
-  .location {
-    width: 11%;
-  }
-  
-  .level {
-    width: 7%;
-  }
-  
-  .action {
-    width: 12%;
-  }
+  width: 5%;
+}
+
+.name {
+  width: 39%;
+}
+
+.category {
+  width: 24%;
+}
+
+.location {
+  width: 18%;
+}
+
+.level {
+  width: 7%;
+}
+
+.action {
+  width: 7%;
+}
+
+.image {
+  height: 30px;
+  width: 30px;
+  float: left;
+}
+
+.doneRow {
+  background-color: rgba(50, 78, 50, 0.514) !important;
+  border-bottom: 1px solid #202020 !important;
+}
+
+.undoneRow {
+  width: 100%;
+}
+
+.select {
+  display: inline-block;
+  padding: 0.3em 1.2em;
+  margin: 0 0.3em 0.3em 0;
+  border-radius: 4em;
+  box-sizing: border-box;
+  text-decoration: none;
+  font-family: "Roboto", sans-serif;
+  font-weight: 300;
+  color: #1b1b1b;
+  background-color: #006ba8c4;
+  text-align: center;
+  transition: all 0.2s;
+  box-shadow: 0 2px #202027;
+  outline: none;
+}
+
+.select:hover {
+  background-color: #003eb3d7;
+}
+
+.select:active {
+  box-shadow: 0 0px #151520;
+  transform: translateY(2px);
+}

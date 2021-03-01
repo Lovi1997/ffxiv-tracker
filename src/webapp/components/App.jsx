@@ -104,17 +104,17 @@ class App extends Component {
   requestJournalSections = async function () {
     ipcRenderer
       .invoke("init-JournalSections")
-      .then((oResult) => this.onJournalSectionsReceived(oResult, this));
+      .then((aResult) => this.onDataReceived(aResult, this));
   };
 
-  onJournalSectionsReceived = function (oResult, oApp) {
+  onDataReceived = function (aResult, oApp) {
     var App = { ...oApp.state.App };
-    if (oResult === null) {
+    if (aResult === null) {
       App.state = "error";
     } else {
       App.state = "ready";
       App.ready = true;
-      App.JournalSections = oResult.aJournalSections;
+      App.JournalSections = aResult;
       App.activeSection = App.JournalSections[0];
     }
     oApp.setState({ App });

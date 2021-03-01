@@ -1,5 +1,5 @@
 .wrapper {
-  margin: 10% 10% auto 10%;
+  margin: 10% 5% auto 5%;
 }
 
 .table {
@@ -30,10 +30,10 @@
   background: #202020;
 }
 
-.table tfoot tr {
+.table tfoot th {
   color: #ffffff;
-  background: #202020;
-  width: 100%;
+  background: #303030;
+  font-weight: lighter;
 }
 
 .table tr:nth-child(even) {

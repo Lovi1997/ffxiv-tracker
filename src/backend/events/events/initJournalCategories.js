@@ -1,6 +1,6 @@
 const { Logger } = require("../../class/Util");
 
-const initJournalCategories = async function (oSender) {
+const initJournalCategories = async function () {
 };
 
 

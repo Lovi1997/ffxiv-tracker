@@ -32,7 +32,6 @@ class Downloader {
     // get URL Params and build URL for HTTP Request
     let sURLParam = this._getURLParamString(aParams);
     let sURL = `${Downloader.sHost}${sPath}/${iID}${sURLParam}`;
-    console.log(sURL);
 
     // Log Info
     this._oLogger.log(`Download: ${sURL}`, "I");

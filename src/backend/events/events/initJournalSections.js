@@ -1,13 +1,11 @@
 const { Logger } = require("../../class/Util");
 const JournalSection = require("../../class/online/JournalSection");
 
-const initJournalSections = async function (oSender) {
+const initJournalSections = async function () {
   var aJournalSections = await getJournalSections();
-  oResult =
-    aJournalSections === null
-      ? null
-      : { aJournalSections: formatJournalSections(aJournalSections) };
-  return oResult;
+  aResult =
+    aJournalSections === null ? null : formatJournalSections(aJournalSections);
+  return aResult;
 };
 
 async function getJournalSections() {

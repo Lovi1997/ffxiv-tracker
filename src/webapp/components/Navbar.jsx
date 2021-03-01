@@ -5,7 +5,7 @@ import NavbarItem from "./NavbarItem";
 class Navbar extends Component {
   state = {
     JournalSections: this.props.JournalSections,
-  }
+  };
 
   getNavbarItems = function () {
     return this.props.JournalSections.map((oJournalSection) => {

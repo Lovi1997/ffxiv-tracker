@@ -10,7 +10,7 @@ class QuestTable extends Component {
         <table className={styles.table}>
           {this.getHeader()}
           {this.getFooter()}
-          {this.getBody()}
+          <tbody>{this.getBody()}</tbody>
         </table>
       </div>
     );
@@ -32,15 +32,35 @@ class QuestTable extends Component {
   };
 
   getFooter = function () {
-    return <tfoot></tfoot>;
+    if (this.props.Quests.length === 0) {
+      return (
+        <tfoot>
+          <th></th>
+          <th>{this.getMessage()}</th>
+          <th></th>
+          <th></th>
+          <th></th>
+          <th></th>
+        </tfoot>
+      );
+    }
+  };
+
+  getMessage = function () {
+    return this.props.Quests.length === 0 ? "Keine Einträge vorhanden" : "";
   };
 
   getBody = function () {
-    return (
-      <tbody>
-        <QuestItem />
-      </tbody>
-    );
+    return this.props.Quests.map((oQuest) => {
+      return (
+        <QuestItem
+          key={"qu-item" + oQuest.iID}
+          setDone={this.props.setDone}
+          Page={this.props.Page}
+          Quest={oQuest}
+        />
+      );
+    });
   };
 }
 

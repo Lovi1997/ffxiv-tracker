@@ -15,6 +15,7 @@ class Page extends Component {
         ready: false,
         internetConnection: null,
         state: "loading",
+        Quests: [],
         JournalSection: this.props.JournalSection,
       },
     };
@@ -28,10 +29,25 @@ class Page extends Component {
   getPage = function () {
     switch (this.state.Page.state) {
       case "quest":
-        return <QuestPage key="pa-quest" />;
+        return (
+          <QuestPage
+            setQuests={this.setQuests}
+            setDone={this.setDone}
+            Quests={this.state.Page.Quests}
+            key="pa-quest"
+          />
+        );
         break;
       case "search":
-        return <SearchPage key="pa-search" />;
+        return (
+          <SearchPage
+            setQuests={this.setQuests}
+            setDone={this.setDone}
+            Quests={this.state.Page.Quests}
+            Page={this}
+            key="pa-search"
+          />
+        );
         break;
       case "error":
         return (
@@ -82,16 +98,16 @@ class Page extends Component {
     var iJournalSectionID = this.state.Page.JournalSection.iID;
     ipcRenderer
       .invoke("init-JournalCategories", iJournalSectionID)
-      .then((oResult) => this.onJournalCategoriesReceived(oResult, this));
+      .then((aResult) => this.onDataReceived(aResult, this));
   };
 
-  onJournalCategoriesReceived = function (oResult, oHandler) {
+  onDataReceived = function (aResult, oHandler) {
     var Page = { ...oHandler.state.Page };
-    if (oResult === null) {
+    if (aResult === null) {
       Page.state = "error";
     } else {
       Page.ready = true;
-      Page.JournalCategories = oResult.aJournalCategories;
+      Page.JournalCategories = aResult;
       if (oHandler.state.Page.JournalSection.iID === 99) {
         Page.state = "search";
       } else {
@@ -99,6 +115,23 @@ class Page extends Component {
         Page.state = "quest";
       }
     }
+    oHandler.setState({ Page });
+  };
+
+  setQuests = function (aQuests, oHandler) {
+    var Page = { ...oHandler.state.Page };
+    if (aQuests === null) {
+      Page.Quests = [];
+      Page.state = "error";
+    } else {
+      Page.Quests = aQuests;
+    }
+    oHandler.setState({ Page });
+  };
+
+  setDone = function (bDone, oQuest, oHandler) {
+    var Page = { ...oHandler.state.Page };
+    Page.Quests[Page.Quests.indexOf(oQuest)].Done = bDone;
     oHandler.setState({ Page });
   };
 }
