@@ -3,7 +3,12 @@ import styles from "../css/SearchPage.module.css";
 import QuestTable from "./QuestTable";
 
 class SearchPage extends Component {
-  state = {};
+  state = {
+    Search: {
+      searchString: "",
+      searching: false,
+    },
+  };
   render() {
     return (
       <div>
@@ -12,6 +17,7 @@ class SearchPage extends Component {
             type="text"
             placeholder="Name der Quest"
             name="seachfield"
+            onChange={(e) => this.handleChange(e.target.value)}
             onKeyDown={(e) => {
               if (e.key === "Enter") {
                 this.handleSearch();
@@ -19,7 +25,11 @@ class SearchPage extends Component {
             }}
             className={styles.searchfield}
           ></input>
-          <button className={styles.searchbutton} onClick={this.handleSearch}>
+          <button
+            className={styles.searchbutton}
+            onClick={() => this.handleSearch()}
+            disabled={this.state.Search.searching}
+          >
             Suchen
           </button>
         </div>
@@ -28,8 +38,14 @@ class SearchPage extends Component {
     );
   }
 
+  handleChange = function (searchString) {
+    var Search = { ...this.state.Search };
+    Search.searchString = searchString;
+    this.setState({ Search });
+  };
+
   handleSearch = function () {
-    console.log("pressed");
+    console.log(this.state.Search.searchString);
   };
 }
 

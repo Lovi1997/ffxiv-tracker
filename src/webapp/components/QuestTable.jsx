@@ -1,5 +1,6 @@
 import React, { Component } from "react";
 import styles from "../css/QuestTable.module.css";
+import QuestItem from "./QuestItem";
 
 class QuestTable extends Component {
   state = {};
@@ -19,39 +20,25 @@ class QuestTable extends Component {
     return (
       <thead>
         <tr>
-          <th>Test 1</th>
-          <th>Test 2</th>
-          <th>Test 3</th>
+          <th className={styles.icon}></th>
+          <th className={styles.name}>Name</th>
+          <th className={styles.level}>Level</th>
+          <th className={styles.category}>Kategorie</th>
+          <th className={styles.location}>Location</th>
+          <th className={styles.action}>Action</th>
         </tr>
       </thead>
     );
   };
 
   getFooter = function () {
-    return (
-      <tfoot>
-      </tfoot>
-    );
+    return <tfoot></tfoot>;
   };
 
   getBody = function () {
     return (
       <tbody>
-        <tr>
-          <td>Test 1</td>
-          <td>Test 2</td>
-          <td>Test 3</td>
-        </tr>
-        <tr>
-          <td>Test 1</td>
-          <td>Test 2</td>
-          <td>Test 3</td>
-        </tr>
-        <tr>
-          <td>Test 1</td>
-          <td>Test 2</td>
-          <td>Test 3</td>
-        </tr>
+        <QuestItem />
       </tbody>
     );
   };

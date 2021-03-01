@@ -5,12 +5,15 @@
   font-size: 18px;
   min-width: 300px;
   width: 65%;
+  padding: 10px;
   background-color: #202020;
   border: 2px solid rgb(121, 121, 121);
   border-radius: 4px;
+  margin-top: 5%;
+  position: relative;
 }
 
-.searchfield:focus{
+.searchfield:focus {
   outline: none;
 }
 
@@ -33,13 +36,14 @@
   font-size: 19px;
   cursor: pointer;
   text-align: center;
+  padding: 10px;
   text-decoration: none;
   outline: none;
   color: #999999;
   background-color: #353535;
   border: 1px solid #414141;
   border-radius: 1px;
-  box-shadow: 0 2px #303030;
+  box-shadow: 0 3px #303030;
 }
 
 /* On mouse-over */
@@ -50,5 +54,5 @@
 /* On mouse-left down */
 .searchbutton:active {
   box-shadow: 0 0px #151515;
-  transform: translateY(2px);
+  transform: translateY(4px);
 }
