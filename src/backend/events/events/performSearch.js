@@ -1,4 +1,3 @@
-const { Logger } = require("../../class/Util");
 const Quest = require("../../class/online/Quest");
 
 const performSearch = async function (sSearchString) {

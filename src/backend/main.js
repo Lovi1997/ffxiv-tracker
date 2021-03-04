@@ -4,6 +4,7 @@ const {
   initJournalSections,
   initJournalCategories,
   performSearch,
+  loadQuests,
 } = require("./events/events");
 const { fs } = require("file-system");
 const path = require("path");
@@ -32,9 +33,9 @@ ipcMain.handle("init-JournalSections", async () => {
 });
 
 // Initialze Journal Sections
-ipcMain.handle("init-JournalCategories", async () => {
-  console.log("INIT");
-  return [1];
+ipcMain.handle("init-JournalCategories", async (event, iJournalSection) => {
+  aResult = await initJournalCategories(iJournalSection);
+  return aResult;
 });
 
 // Initialze Journal Sections
@@ -42,6 +43,15 @@ ipcMain.handle("search", async (event, sSearchString) => {
   aResult = await performSearch(sSearchString);
   return aResult;
 });
+
+// Initialze Journal Sections
+ipcMain.handle(
+  "loadQuests",
+  async (event, iJournalCategory) => {
+    aResult = await loadQuests(iJournalCategory);
+    return aResult;
+  }
+);
 
 // Check online Status
 ipcMain.handle("is-online", async () => {

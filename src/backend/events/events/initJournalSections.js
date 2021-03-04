@@ -1,4 +1,3 @@
-const { Logger } = require("../../class/Util");
 const JournalSection = require("../../class/online/JournalSection");
 
 const initJournalSections = async function () {
@@ -32,12 +31,14 @@ function formatJournalSections(aJournalSections) {
 
   var i = 2;
   aJournalSections.forEach((oJournalSection) => {
-    aJournalSectionsNew.push({
-      iID: oJournalSection.ID,
-      Name: oJournalSection.Name,
-      isActive: false,
-      Icon: i > 9 ? "none" : i,
-    });
+    if (oJournalSection.ID < 8) {
+      aJournalSectionsNew.push({
+        iID: oJournalSection.ID,
+        Name: oJournalSection.Name,
+        isActive: false,
+        Icon: i,
+      });
+    }
     i++;
   });
 

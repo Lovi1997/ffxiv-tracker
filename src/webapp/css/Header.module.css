@@ -6,17 +6,20 @@
   z-index: 2;
   overflow-x: hidden;
   overflow-y: hidden;
-  background-color: #202027;
+  background-color: #191e25;
   position: fixed;
   top: 0;
   min-width: 500px;
+  font-size: 18px;
+  border-bottom: 2px solid #505050;
+  border-radius: 0.25em;
 }
 
 .headeritem {
   display: block;
   color: white;
   text-align: center;
-  padding: 10px 16px;
+  padding: 13px 20px;
   text-decoration: none;
   float: left;
 }
@@ -25,7 +28,7 @@
   display: block;
   color: white;
   text-align: center;
-  padding: 10px 32px;
+  padding: 13px 30px;
   text-decoration: none;
   float: right;
 }

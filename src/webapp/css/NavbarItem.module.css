@@ -9,12 +9,12 @@
   text-decoration: none;
   outline: none;
   color: #999999;
-  background-color: #202027;
+  background-color: #191e25;
   border: none;
   border-radius: 0px;
-  box-shadow: 0 2px #202027;
+  box-shadow: 0 2px #191e25;
 }
-.text{
+.text {
   display: inline;
   text-align: left;
   width: 80%;
@@ -35,7 +35,7 @@
 
 /* Active Dropdown */
 .active {
-  background-color: #303037;
+  background-color: #4880b1;
   color: white;
 }
 
@@ -46,6 +46,6 @@
 
 .image {
   height: 30px;
-  width:30px;
+  width: 30px;
   float: left;
 }

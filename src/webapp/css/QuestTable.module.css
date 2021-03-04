@@ -1,5 +1,5 @@
 .wrapper {
-  margin: 10% 5% auto 5%;
+  margin: 10% 10% 5% 5%;
 }
 
 .table {
@@ -8,7 +8,7 @@
   width: 100%;
   max-width: 100%;
   min-width: 500px;
-  background-color: #202020;
+  background-color: #2f3237;
   overflow-x: hidden;
   border-collapse: collapse;
   border-spacing: 0;
@@ -27,23 +27,23 @@
 
 .table thead th {
   color: #ffffff;
-  background: #202020;
+  background: #2f3237;
 }
 
 .table tfoot th {
   color: #ffffff;
-  background: #303030;
+  background: #3f4247;
   font-weight: lighter;
 }
 
 .table tr:nth-child(even) {
   color: #ffffff;
-  background: #202020;
+  background: #2f3237;
 }
 
 .table tr:nth-child(odd) {
   color: #ffffff;
-  background: #303030;
+  background: #3f4247;
 }
 
 .icon {

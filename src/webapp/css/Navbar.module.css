@@ -1,13 +1,16 @@
 .navbar {
-  height: calc(100%-41px);
-  width: 350px;
+  height: calc(99.8%-54px);
+  width: 300px;
   position: fixed;
   z-index: 1;
   left: 0;
   overflow-x: hidden;
   overflow-y: auto;
-  min-width: 350px;
-  background-color: #202027;
+  min-width: 300px;
+  background-color: #191e25;
+  border-left: 2px solid #505050;
+  border-bottom: 2px solid #505050;
+  border-right: 2px solid #505050;
 }
 
 .navbar::-webkit-scrollbar-track {

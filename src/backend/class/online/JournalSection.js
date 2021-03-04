@@ -5,10 +5,13 @@ class JournalSection extends Super {
     super();
     this._sContentName = "JournalSection";
     this._aColumns = ["ID", "Name"];
-    this._sFilter = ""
+    this._sSortField = "ID";
+    this._sFilter = "";
   }
 
   async performSearch() {}
+
+  async getWithFilter() {}
 }
 
 module.exports = JournalSection;

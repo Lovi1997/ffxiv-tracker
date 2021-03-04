@@ -21,8 +21,8 @@ class Super {
     return aResult;
   }
 
-  async getWithFilter() {
-    var aResult = await this._get(false, "filter");
+  async getWithFilter(sFilterValue) {
+    var aResult = await this._get(false, "filter", sFilterValue);
     return aResult;
   }
 
@@ -81,7 +81,7 @@ class Super {
       case "filter":
         aParams = [
           { name: "indexes", value: this._sContentName },
-          { name: "filters", value: this._sFilter },
+          { name: "filters", value: `${this._sFilter}=${iID}` },
           { name: "sort_field", value: this._sSortField },
           { name: "sort_order", value: "asc" },
         ];

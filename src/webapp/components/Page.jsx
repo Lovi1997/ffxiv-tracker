@@ -17,6 +17,7 @@ class Page extends Component {
         state: "loading",
         Quests: [],
         JournalSection: this.props.JournalSection,
+        JournalCategories: [],
       },
     };
     this.checkConnection(this);
@@ -34,6 +35,8 @@ class Page extends Component {
             setQuests={this.setQuests}
             setDone={this.setDone}
             Quests={this.state.Page.Quests}
+            JournalCategories={this.state.Page.JournalCategories}
+            Page={this}
             key="pa-quest"
           />
         );
@@ -95,10 +98,16 @@ class Page extends Component {
   };
 
   requestData = function () {
-    var iJournalSectionID = this.state.Page.JournalSection.iID;
-    ipcRenderer
-      .invoke("init-JournalCategories", iJournalSectionID)
-      .then((aResult) => this.onDataReceived(aResult, this));
+    if (this.state.Page.JournalSection.iID === 99) {
+      var Page = { ...this.state.Page };
+      Page.state = "search";
+      this.setState({ Page });
+    } else {
+      var iJournalSectionID = this.state.Page.JournalSection.iID;
+      ipcRenderer
+        .invoke("init-JournalCategories", iJournalSectionID)
+        .then((aResult) => this.onDataReceived(aResult, this));
+    }
   };
 
   onDataReceived = function (aResult, oHandler) {
@@ -108,12 +117,7 @@ class Page extends Component {
     } else {
       Page.ready = true;
       Page.JournalCategories = aResult;
-      if (oHandler.state.Page.JournalSection.iID === 99) {
-        Page.state = "search";
-      } else {
-        Page.activeCategory = Page.JournalCategories[0];
-        Page.state = "quest";
-      }
+      Page.state = "quest";
     }
     oHandler.setState({ Page });
   };
