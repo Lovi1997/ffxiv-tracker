@@ -5,6 +5,7 @@ const {
   initJournalCategories,
   performSearch,
   loadQuests,
+  saveQuests,
 } = require("./events/events");
 const { fs } = require("file-system");
 const path = require("path");
@@ -45,13 +46,16 @@ ipcMain.handle("search", async (event, sSearchString) => {
 });
 
 // Initialze Journal Sections
-ipcMain.handle(
-  "loadQuests",
-  async (event, iJournalCategory) => {
-    aResult = await loadQuests(iJournalCategory);
-    return aResult;
-  }
-);
+ipcMain.handle("loadQuests", async (event, iJournalCategory) => {
+  aResult = await loadQuests(iJournalCategory);
+  return aResult;
+});
+
+// save Quests
+ipcMain.handle("saveQuests", async (event, aQuests) => {
+  bResult = await saveQuests(aQuests);
+  return bResult;
+});
 
 // Check online Status
 ipcMain.handle("is-online", async () => {

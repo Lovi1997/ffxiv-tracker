@@ -1,8 +1,14 @@
 import React, { Component } from "react";
 import styles from "../css/QuestItem.module.css";
 
+const { ipcRenderer } = window.require("electron");
+
 class QuestItem extends Component {
-  state = {};
+  state = {
+    QuestItem: {
+      loading: false,
+    },
+  };
   render() {
     return (
       <tr className={this.getRowStyle()}>
@@ -25,28 +31,54 @@ class QuestItem extends Component {
   };
 
   getButton = function () {
-    if (this.props.Quest.Done === true) {
+    if (this.state.QuestItem.loading === true) {
       return (
-        <button
-          className={styles.select}
-          onClick={() =>
-            this.props.setDone(false, this.props.Quest, this.props.Page)
-          }
-        >
-          <i class="fas fa-times"></i>
+        <button className={styles.select} disabled={true}>
+          <i class="fa fa-spinner fa-spin"></i>
         </button>
       );
     } else {
-      return (
-        <button
-          className={styles.select}
-          onClick={() =>
-            this.props.setDone(true, this.props.Quest, this.props.Page)
-          }
-        >
-          <i class="fas fa-check"></i>
-        </button>
-      );
+      if (this.props.Quest.Done === true) {
+        return (
+          <button className={styles.select} onClick={() => this.setDone(false)}>
+            <i class="fas fa-times"></i>
+          </button>
+        );
+      } else {
+        return (
+          <button className={styles.select} onClick={() => this.setDone(true)}>
+            <i class="fas fa-check"></i>
+          </button>
+        );
+      }
+    }
+  };
+
+  setDone = function (bDone) {
+    ipcRenderer
+      .invoke("saveQuests", [{ iID: this.props.Quest.iID, Done: bDone }])
+      .then((bSuccess) => this.onSaved(bDone, bSuccess));
+
+    var QuestItem = { ...this.state.QuestItem };
+    QuestItem.loading = true;
+    this.setState({ QuestItem });
+  };
+
+  onSaved = function (bDone, bSuccess) {
+    if (bSuccess !== true) {
+      this.props.Page.addMSG("Fehler beim Speichern", "E");
+    }
+
+    setTimeout(() => this.setEnabledState(bDone, bSuccess), 1700);
+  };
+
+  setEnabledState = function (bDone, bSuccess) {
+    var QuestItem = { ...this.state.QuestItem };
+    QuestItem.loading = false;
+    this.setState({ QuestItem });
+
+    if (bSuccess === true) {
+      this.props.setDone(bDone, this.props.Quest, this.props.Page);
     }
   };
 }

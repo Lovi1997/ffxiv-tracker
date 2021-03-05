@@ -124,15 +124,17 @@ class App extends Component {
     var App = { ...this.state.App };
     let aJournalSectionsNew = App.JournalSections;
     let iIndex = aJournalSectionsNew.indexOf(oJournalSection);
-    aJournalSectionsNew.forEach(
-      (oJournalSectionNew) => (oJournalSectionNew.isActive = false)
-    );
-    aJournalSectionsNew[iIndex].isActive = true;
-    App.activeSection = aJournalSectionsNew[iIndex];
-    App.JournalSections = aJournalSectionsNew;
-    App.navigating = true;
-    this.setState({ App });
-    setTimeout(() => this.onNavigationDone(this), 50);
+    if (aJournalSectionsNew[iIndex].iID !== App.activeSection.iID) {
+      aJournalSectionsNew.forEach(
+        (oJournalSectionNew) => (oJournalSectionNew.isActive = false)
+      );
+      aJournalSectionsNew[iIndex].isActive = true;
+      App.activeSection = aJournalSectionsNew[iIndex];
+      App.JournalSections = aJournalSectionsNew;
+      App.navigating = true;
+      this.setState({ App });
+      setTimeout(() => this.onNavigationDone(this), 50);
+    }
   };
 
   onNavigationDone = function (oHandler) {

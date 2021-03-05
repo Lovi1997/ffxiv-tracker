@@ -3,7 +3,7 @@ import styles from "../css/NavbarItem.module.css";
 
 class NavbarItem extends Component {
   state = {
-    JournalSection: this.props.JournalSection
+    JournalSection: this.props.JournalSection,
   };
 
   getClasses = function () {
@@ -31,12 +31,14 @@ class NavbarItem extends Component {
     if (this.props.JournalSection.Icon !== "none") {
       return (
         <div className={styles.wrapper}>
-        <img className={styles.image} src={`./icons/i${this.props.JournalSection.Icon}.png`} />
+          <img
+            className={styles.image}
+            src={`./icons/i${this.props.JournalSection.Icon}.png`}
+          />
         </div>
       );
     }
   };
-
 }
 
 export default NavbarItem;

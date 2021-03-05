@@ -4,6 +4,7 @@ import BusyIndicator from "./BusyIndicator";
 import QuestPage from "./QuestPage";
 import ErrorPage from "./ErrorPage";
 import SearchPage from "./SearchPage";
+import MessageToastContainer from "./MessageToastContainer";
 
 const { ipcRenderer } = window.require("electron");
 
@@ -15,16 +16,25 @@ class Page extends Component {
         ready: false,
         internetConnection: null,
         state: "loading",
-        Quests: [],
         JournalSection: this.props.JournalSection,
         JournalCategories: [],
+        Quests: [],
+        Messages: [],
       },
     };
     this.checkConnection(this);
   }
 
   render() {
-    return <div className={styles.page}>{this.getPage()}</div>;
+    return (
+      <div className={styles.page}>
+        {this.getPage()}
+        <MessageToastContainer
+          Messages={this.state.Page.Messages}
+          Page={this}
+        />
+      </div>
+    );
   }
 
   getPage = function () {
@@ -35,8 +45,8 @@ class Page extends Component {
             setQuests={this.setQuests}
             setDone={this.setDone}
             Quests={this.state.Page.Quests}
-            JournalCategories={this.state.Page.JournalCategories}
             Page={this}
+            JournalCategories={this.state.Page.JournalCategories}
             key="pa-quest"
           />
         );
@@ -124,12 +134,7 @@ class Page extends Component {
 
   setQuests = function (aQuests, oHandler) {
     var Page = { ...oHandler.state.Page };
-    if (aQuests === null) {
-      Page.Quests = [];
-      Page.state = "error";
-    } else {
-      Page.Quests = aQuests;
-    }
+    Page.Quests = aQuests;
     oHandler.setState({ Page });
   };
 
@@ -137,6 +142,26 @@ class Page extends Component {
     var Page = { ...oHandler.state.Page };
     Page.Quests[Page.Quests.indexOf(oQuest)].Done = bDone;
     oHandler.setState({ Page });
+  };
+
+  delMessages = function (oMessage) {
+    var Page = { ...this.state.Page };
+    var iIndex = Page.Messages.indexOf(oMessage);
+    if (iIndex > -1) {
+      Page.Messages.splice(iIndex, 1);
+    }
+    Page.refresh = Math.floor(Math.random() * 101 + 1);
+    this.setState({ Page });
+  };
+
+  addMSG = function (sText, cType) {
+    var Page = { ...this.state.Page };
+    Page.Messages.push({
+      iID: Math.floor(Math.random() * 101 + 1),
+      Type: cType,
+      Text: sText,
+    });
+    this.setState({ Page });
   };
 }
 
