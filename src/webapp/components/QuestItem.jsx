@@ -78,7 +78,7 @@ class QuestItem extends Component {
     this.setState({ QuestItem });
 
     if (bSuccess === true) {
-      this.props.setDone(bDone, this.props.Quest, this.props.Page);
+      this.props.QuestHandler.setDone(bDone, this.props.Quest);
     }
   };
 }

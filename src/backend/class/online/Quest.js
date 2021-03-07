@@ -23,6 +23,15 @@ class Quest extends Super {
 
   getAll() {}
 
+  async getWithFilter(sFilterValue) {
+    this._sFilter =
+      sFilterValue == 0
+        ? "JournalGenreTargetID"
+        : "JournalGenre.JournalCategoryTargetID";
+    var aResult = await super.getWithFilter(sFilterValue);
+    return aResult;
+  }
+
   format(aQuests, bSearch) {
     if (aQuests === null) {
       return null;

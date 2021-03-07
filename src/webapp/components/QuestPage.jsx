@@ -11,6 +11,8 @@ class QuestPage extends Component {
       QuestPage: {
         loading: true,
         activeCategory: this.props.JournalCategories[0],
+        Display: [],
+        Quests: [],
       },
     };
 
@@ -43,14 +45,16 @@ class QuestPage extends Component {
   }
 
   onCategoryChange = function (iCategoryID) {
-    var QuestPage = { ...this.state.QuestPage };
-    QuestPage.activeCategory = this.props.JournalCategories.find(
-      (oCategory) => oCategory.iID == iCategoryID
-    );
-    QuestPage.loading = true;
-    this.setState({ QuestPage });
+    if (iCategoryID != this.state.QuestPage.activeCategory.iID) {
+      var QuestPage = { ...this.state.QuestPage };
+      QuestPage.activeCategory = this.props.JournalCategories.find(
+        (oCategory) => oCategory.iID == iCategoryID
+      );
+      QuestPage.loading = true;
+      this.setState({ QuestPage });
 
-    this.loadQuests(QuestPage.activeCategory.iID);
+      this.loadQuests(QuestPage.activeCategory.iID);
+    }
   };
 
   loadQuests = function (iJournalCategoryID) {
@@ -66,9 +70,9 @@ class QuestPage extends Component {
       return (
         <QuestTable
           key="qu-table"
-          Quests={this.props.Quests}
+          Quests={this.state.QuestPage.Display}
           Page={this.props.Page}
-          setDone={this.props.setDone}
+          QuestHandler={this}
         />
       );
     }
@@ -77,8 +81,26 @@ class QuestPage extends Component {
   onDataReceived = function (aResult, oHandler) {
     var QuestPage = { ...oHandler.state.QuestPage };
     QuestPage.loading = false;
+    QuestPage.Quests = aResult;
+    QuestPage.Display = QuestPage.Quests;
+    QuestPage.numberOfDone = oHandler.getNumberOfDone(QuestPage.Display);
     oHandler.setState({ QuestPage });
-    oHandler.props.setQuests(aResult, oHandler.props.Page);
+  };
+
+  setDone = function (bDone, oQuest) {
+    var QuestPage = { ...this.state.QuestPage };
+    QuestPage.Quests[QuestPage.Quests.indexOf(oQuest)].Done = bDone;
+    QuestPage.Display[QuestPage.Display.indexOf(oQuest)].Done = bDone;
+    bDone === true ? ++QuestPage.iNumberOfDone : --QuestPage.iNumberOfDone;
+    this.setState({ QuestPage });
+  };
+
+  getNumberOfDone = function (aQuests) {
+    var iNumberOfDone = 0;
+    aQuests.forEach(function (oQuest) {
+      if (oQuest.Done === true) ++iNumberOfDone;
+    });
+    return iNumberOfDone;
   };
 }
 

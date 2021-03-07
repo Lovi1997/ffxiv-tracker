@@ -9,6 +9,7 @@ class SearchPage extends Component {
     Search: {
       searchString: "",
       searching: false,
+      Quests: [],
     },
   };
   render() {
@@ -73,9 +74,9 @@ class SearchPage extends Component {
       return (
         <QuestTable
           key="qu-table"
-          Quests={this.props.Quests}
+          Quests={this.state.Search.Quests}
           Page={this.props.Page}
-          setDone={this.props.setDone}
+          QuestHandler={this}
         />
       );
     }
@@ -85,8 +86,15 @@ class SearchPage extends Component {
     var Search = { ...oHandler.state.Search };
     Search.searching = false;
     Search.searchString = "";
+    Search.Quests = aResult;
     oHandler.setState({ Search });
-    oHandler.props.setQuests(aResult, oHandler.props.Page);
+    oHandler.setQuests(aResult);
+  };
+
+  setDone = function (bDone, oQuest) {
+    var Search = { ...this.state.Search };
+    Search.Quests[Search.Quests.indexOf(oQuest)].Done = bDone;
+    this.setState({ Search });
   };
 }
 

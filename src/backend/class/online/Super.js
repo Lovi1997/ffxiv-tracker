@@ -30,33 +30,41 @@ class Super {
     // Initialize Get Parameters
     var { sContentName, aParams, sID } = this._getParams(sMethod, iID);
 
-    // Call Downloader
-    var that = this;
-    var oResult = await this._oDownloader
-      .download(sContentName, sID, aParams, bLog)
-      .then((oData) => {
-        return that._onSuccess(oData, sMethod);
-      })
-      .catch(() => {
-        return that._onError();
-      });
+    //
+    var bComplete = false;
+    var bError = false;
 
-    // Give Back either null (if error) or the corresponding content Item
-    return oResult;
-  }
+    var oQuests = { Total: 0, PageTotal: 0, Data: [] };
+    var iPage = 1;
 
-  _onSuccess(oData, sMethod) {
-    var oResult = {};
-    switch (sMethod) {
-      default:
-        oResult = oData.Results;
-        break;
+    while (bComplete === false) {
+      var aParameters = [...aParams];
+      aParameters.push({ name: "page", value: iPage });
+
+      await this._oDownloader
+        .download(sContentName, sID, aParameters, bLog)
+        .then((oResult) => {
+          oQuests.Total = oResult.Pagination.ResultsTotal;
+          oQuests.PageTotal = oResult.Pagination.PageTotal;
+          oResult.Results.forEach(function (oQuest) {
+            oQuests.Data.push(oQuest);
+          });
+          if (iPage == oQuests.PageTotal || oQuests.PageTotal == 0) {
+            bComplete = true;
+          } else {
+            ++iPage;
+          }
+        })
+        .catch(() => {
+          bError = true;
+          bComplete = true;
+        });
+      if (bComplete === false) {
+        await this._sleep();
+      }
     }
-    return oResult;
-  }
 
-  _onError() {
-    return null;
+    return bError === true ? null : oQuests.Data;
   }
 
   _getParams(sMethod, iID) {
@@ -110,6 +118,14 @@ class Super {
     aParams.push({ name: "language", value: "de" });
 
     return { sContentName, aParams, sID };
+  }
+
+  _timeout(ms) {
+    return new Promise((resolve) => setTimeout(resolve, ms));
+  }
+  async _sleep() {
+    await this._timeout(500);
+    return null;
   }
 }
 module.exports = Super;

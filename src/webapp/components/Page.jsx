@@ -18,7 +18,6 @@ class Page extends Component {
         state: "loading",
         JournalSection: this.props.JournalSection,
         JournalCategories: [],
-        Quests: [],
         Messages: [],
       },
     };
@@ -42,9 +41,6 @@ class Page extends Component {
       case "quest":
         return (
           <QuestPage
-            setQuests={this.setQuests}
-            setDone={this.setDone}
-            Quests={this.state.Page.Quests}
             Page={this}
             JournalCategories={this.state.Page.JournalCategories}
             key="pa-quest"
@@ -52,15 +48,7 @@ class Page extends Component {
         );
         break;
       case "search":
-        return (
-          <SearchPage
-            setQuests={this.setQuests}
-            setDone={this.setDone}
-            Quests={this.state.Page.Quests}
-            Page={this}
-            key="pa-search"
-          />
-        );
+        return <SearchPage Page={this} key="pa-search" />;
         break;
       case "error":
         return (
@@ -129,18 +117,6 @@ class Page extends Component {
       Page.JournalCategories = aResult;
       Page.state = "quest";
     }
-    oHandler.setState({ Page });
-  };
-
-  setQuests = function (aQuests, oHandler) {
-    var Page = { ...oHandler.state.Page };
-    Page.Quests = aQuests;
-    oHandler.setState({ Page });
-  };
-
-  setDone = function (bDone, oQuest, oHandler) {
-    var Page = { ...oHandler.state.Page };
-    Page.Quests[Page.Quests.indexOf(oQuest)].Done = bDone;
     oHandler.setState({ Page });
   };
 

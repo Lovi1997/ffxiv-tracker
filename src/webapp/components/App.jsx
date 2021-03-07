@@ -107,17 +107,17 @@ class App extends Component {
       .then((aResult) => this.onDataReceived(aResult, this));
   };
 
-  onDataReceived = function (aResult, oApp) {
-    var App = { ...oApp.state.App };
-    if (aResult === null) {
+  onDataReceived = function (oResult, oHandler) {
+    var App = { ...oHandler.state.App };
+    if (oResult === null) {
       App.state = "error";
     } else {
       App.state = "ready";
       App.ready = true;
-      App.JournalSections = aResult;
+      App.JournalSections = oResult.JournalSections;
       App.activeSection = App.JournalSections[0];
     }
-    oApp.setState({ App });
+    oHandler.setState({ App });
   };
 
   onNavigate = (oJournalSection) => {

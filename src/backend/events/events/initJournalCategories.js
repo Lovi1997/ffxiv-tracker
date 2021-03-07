@@ -1,11 +1,21 @@
 const JournalCategory = require("../../class/online/JournalCategory");
 
 const initJournalCategories = async function (iJournalSection) {
-  var aJournalCategories = await getJournalCategories();
-  aResult =
-    aJournalCategories === null
-      ? null
-      : formatJournalCategories(aJournalCategories, iJournalSection);
+  var aResult = [];
+  if (iJournalSection != 98) {
+    var aJournalCategories = await getJournalCategories();
+    aResult =
+      aJournalCategories === null
+        ? null
+        : formatJournalCategories(aJournalCategories, iJournalSection);
+  } else {
+    aResult = [
+      {
+        iID: 0,
+        Name: "Unbestimmt",
+      },
+    ];
+  }
   return aResult;
 };
 
@@ -24,7 +34,6 @@ function formatJournalCategories(aJournalCategories, iJournalSection) {
       aJournalCategoriesNew.push({
         iID: oJournalCategory.ID,
         Name: oJournalCategory.Name,
-        isActive: false,
       });
     }
   });
