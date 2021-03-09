@@ -9,6 +9,7 @@ class Super {
 
   constructor() {
     this._oDownloader = new Downloader();
+    this._config = require("../../config/config.json");
   }
 
   async getAll() {
@@ -115,7 +116,7 @@ class Super {
     aParams.push({ name: "limit", value: 3000 });
 
     // Add Language
-    aParams.push({ name: "language", value: "de" });
+    aParams.push({ name: "language", value: this._config.language });
 
     return { sContentName, aParams, sID };
   }

@@ -93,6 +93,8 @@ class QuestPage extends Component {
     QuestPage.Display[QuestPage.Display.indexOf(oQuest)].Done = bDone;
     bDone === true ? ++QuestPage.iNumberOfDone : --QuestPage.iNumberOfDone;
     this.setState({ QuestPage });
+
+    this.props.App.setTotalDone(bDone);
   };
 
   getNumberOfDone = function (aQuests) {

@@ -6,7 +6,7 @@
 }
 
 /* Reset Select */
-select {
+.select select {
   -webkit-appearance: none;
   -moz-appearance: none;
   -ms-appearance: none;
@@ -18,7 +18,7 @@ select {
   background-image: none;
 }
 /* Remove IE arrow */
-select::-ms-expand {
+.select select::-ms-expand {
   display: none;
 }
 /* Custom Select */
@@ -34,7 +34,7 @@ select::-ms-expand {
   border: 1px solid #707070;
   border-radius: 0.25em;
 }
-select {
+.select select {
   flex: 1;
   padding: 0.5em 1em;
   color: #eeeeee;

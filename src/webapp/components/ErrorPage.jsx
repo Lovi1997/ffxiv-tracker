@@ -1,5 +1,6 @@
 import React, { Component } from "react";
 import styles from "../css/ErrorPage.module.css";
+import Text from "../i18n/ErrorPage.json";
 
 class ErrorPage extends Component {
   constructor(props) {
@@ -35,10 +36,10 @@ class ErrorPage extends Component {
   getInternetError = function () {
     return (
       <div className={styles.errorpage}>
+        <div className={styles.text}>{Text[window.lang]["ReasonI"]}</div>
         <div className={styles.text}>
-          Leider wurde die Internetverbindung unterbrochen.
+          {Text[window.lang]["Next"]} {this.state.Error.Time}.
         </div>
-        <div className={styles.text}>Retrying in {this.state.Error.Time}.</div>
       </div>
     );
   };
@@ -46,11 +47,9 @@ class ErrorPage extends Component {
   getDefaultError = function () {
     return (
       <div className={styles.errorpage}>
-        <div className={styles.text}>
-          Ein unerwarteter Fehler ist aufgetreten.
-        </div>
-        <div className={styles.text}>Bitte versuche es später erneut.</div>
-        <div className={styles.text}>Optional: Siehe Logs.</div>
+        <div className={styles.text}>{Text[window.lang]["ReasonE"]}</div>
+        <div className={styles.text}>{Text[window.lang]["Later"]}</div>
+        <div className={styles.text}>{Text[window.lang]["Log"]}</div>
       </div>
     );
   };

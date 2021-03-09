@@ -1,5 +1,5 @@
 .navbar {
-  height: calc(99.8%-54px);
+  height: calc(99.8%-53px);
   width: 300px;
   position: fixed;
   z-index: 1;
@@ -35,4 +35,26 @@
     transparent,
     transparent
   );
+}
+
+.totalDisplay {
+  bottom: 20px;
+  left: 15px;
+  font-size: 20px;
+  font-weight: bold;
+  color: rgb(0, 146, 0);
+  box-sizing: border-box;
+  padding: 16px 10px;
+  min-width: 270px;
+  position: fixed;
+  border: 2px solid #505050;
+  background-color: #292e35;
+}
+
+.totalText {
+  float: left;
+}
+
+.totalNumber {
+  float: right;
 }

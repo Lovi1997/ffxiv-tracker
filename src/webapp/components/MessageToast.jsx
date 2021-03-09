@@ -38,7 +38,7 @@ class MessageToast extends Component {
     var oDisplaySettings = {};
     switch (this.props.Message.Type) {
       case "S":
-        oDisplaySettings.Title = "Erfolg";
+        oDisplaySettings.Title = "Nice";
         oDisplaySettings.Color = "#5cb85c";
         oDisplaySettings.Icon = checkIcon;
         break;
@@ -48,7 +48,7 @@ class MessageToast extends Component {
         oDisplaySettings.Icon = infoIcon;
         break;
       default:
-        oDisplaySettings.Title = "Error";
+        oDisplaySettings.Title = "Oops";
         oDisplaySettings.Color = "#d9534f";
         oDisplaySettings.Icon = errorIcon;
         break;

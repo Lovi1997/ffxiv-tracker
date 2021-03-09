@@ -1,5 +1,6 @@
 import React, { Component } from "react";
 import styles from "../css/QuestItem.module.css";
+import Text from "../i18n/QuestItem.json";
 
 const { ipcRenderer } = window.require("electron");
 
@@ -66,7 +67,7 @@ class QuestItem extends Component {
 
   onSaved = function (bDone, bSuccess) {
     if (bSuccess !== true) {
-      this.props.Page.addMSG("Fehler beim Speichern", "E");
+      this.props.Page.addMSG(Text[window.lang]["SaveError"], "E");
     }
 
     setTimeout(() => this.setEnabledState(bDone, bSuccess), 1700);

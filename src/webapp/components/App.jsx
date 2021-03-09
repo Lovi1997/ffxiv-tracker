@@ -5,6 +5,7 @@ import Header from "./Header";
 import ErrorPage from "./ErrorPage";
 import Page from "./Page";
 import styles from "../css/App.module.css";
+import Text from "../i18n/App.json";
 
 const { ipcRenderer } = window.require("electron");
 
@@ -19,16 +20,33 @@ class App extends Component {
         internetConnection: null,
         activeSection: null,
         navigating: false,
+        NumberDone: 0,
+        NumberTotal: 0,
       },
     };
-
     this.checkConnection(this);
+
+    window.lang = ipcRenderer.sendSync("get_lang");
+    console.log("Window created");
   }
+
+  changeLangu = function (sLangu) {
+    var that = this;
+    ipcRenderer.invoke("changeLangu", sLangu).then((bResult) => {
+      if (bResult === true) {
+        window.location.reload();
+      } else {
+        var App = { ...that.state.App };
+        App.state = "error";
+        that.setState({ App });
+      }
+    });
+  };
 
   render() {
     return (
       <div>
-        <Header key="app-header" />
+        <Header key="app-header" changeLangu={this.changeLangu} />
         <div className={styles.app}>{this.getApplication()}</div>
       </div>
     );
@@ -43,6 +61,8 @@ class App extends Component {
               key="app-nv"
               JournalSections={this.state.App.JournalSections}
               onNavigate={this.onNavigate}
+              NumberTotal={this.state.App.NumberTotal}
+              NumberDone={this.state.App.NumberDone}
             />
             {this.getPage()}
           </div>
@@ -70,7 +90,11 @@ class App extends Component {
         <BusyIndicator key="app-bi" />
       </div>
     ) : (
-      <Page key="app-pa" JournalSection={this.state.App.activeSection} />
+      <Page
+        key="app-pa"
+        JournalSection={this.state.App.activeSection}
+        App={this}
+      />
     );
   };
 
@@ -115,6 +139,16 @@ class App extends Component {
       App.state = "ready";
       App.ready = true;
       App.JournalSections = oResult.JournalSections;
+      App.JournalSections.forEach((oJournalSection) => {
+        oJournalSection.Name =
+          oJournalSection.iID === 0 ||
+          oJournalSection.iID === 98 ||
+          oJournalSection.iID === 99
+            ? Text[window.lang][`${oJournalSection.iID}`]
+            : oJournalSection.Name;
+      });
+      App.NumberTotal = oResult.NumberTotal;
+      App.NumberDone = oResult.NumberDone;
       App.activeSection = App.JournalSections[0];
     }
     oHandler.setState({ App });
@@ -141,6 +175,12 @@ class App extends Component {
     var App = { ...oHandler.state.App };
     App.navigating = false;
     oHandler.setState({ App });
+  };
+
+  setTotalDone = function (bDone) {
+    var App = { ...this.state.App };
+    bDone === true ? ++App.NumberDone : --App.NumberDone;
+    this.setState({ App });
   };
 }
 

@@ -12,7 +12,6 @@ const initJournalCategories = async function (iJournalSection) {
     aResult = [
       {
         iID: 0,
-        Name: "Unbestimmt",
       },
     ];
   }

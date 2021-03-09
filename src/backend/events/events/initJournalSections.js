@@ -9,8 +9,8 @@ const initJournalSections = async function () {
     oResult = null;
   } else {
     oResult = {
-      Done: iDone,
-      Total: iTotal,
+      NumberDone: iDone,
+      NumberTotal: iTotal,
       JournalSections: formatJournalSections(aJournalSections),
     };
   }
@@ -40,14 +40,15 @@ async function getTotal() {
 
   await sleep();
 
-  oDownloader
+  var iTotal = await oDownloader
     .download("search", "", aParams, false)
     .then((oResult) => {
-      return oResult.ResultsTotal;
+      return oResult.Pagination.ResultsTotal;
     })
     .catch(() => {
       return null;
     });
+  return iTotal;
 }
 
 async function getJournalSections() {
@@ -61,13 +62,11 @@ function formatJournalSections(aJournalSections) {
   var aJournalSectionsNew = [
     {
       iID: 99,
-      Name: "Suchen",
       isActive: true,
       Icon: 10,
     },
     {
       iID: 0,
-      Name: "Hauptszenario (ARR/Heavensward/Stormblood)",
       Icon: 1,
     },
   ];
@@ -87,7 +86,6 @@ function formatJournalSections(aJournalSections) {
 
   aJournalSectionsNew.push({
     iID: 98,
-    Name: "Unbestimmt",
     isActive: false,
     Icon: "none",
   });

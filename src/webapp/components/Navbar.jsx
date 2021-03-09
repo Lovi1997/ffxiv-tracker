@@ -1,6 +1,7 @@
 import React, { Component } from "react";
 import styles from "../css/Navbar.module.css";
 import NavbarItem from "./NavbarItem";
+import Text from "../i18n/Navbar.json";
 
 class Navbar extends Component {
   state = {
@@ -20,7 +21,17 @@ class Navbar extends Component {
   };
 
   render() {
-    return <div className={styles.navbar}>{this.getNavbarItems()}</div>;
+    return (
+      <div className={styles.navbar}>
+        {this.getNavbarItems()}
+        <div className={styles.totalDisplay}>
+          <div className={styles.totalText}>{Text[window.lang]["Done"]}</div>
+          <div className={styles.totalNumber}>
+            {this.props.NumberDone}/{this.props.NumberTotal}
+          </div>
+        </div>
+      </div>
+    );
   }
 }
 

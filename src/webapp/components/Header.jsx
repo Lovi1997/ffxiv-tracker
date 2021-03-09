@@ -49,10 +49,21 @@ class Header extends Component {
     return (
       <div>
         <ul className={styles.header}>
-          <li className={styles.headeritem}>Icon</li>
-          <li className={styles.headeritem}>FFXIV-Tracker</li>
-          <li className={styles.headeritem}>v0.5</li>
-          <li className={styles.clock}>{this.getTime()}</li>
+          <li className={styles.left}>Icon</li>
+          <li className={styles.left}>FFXIV-Tracker</li>
+          <li className={styles.left}>v0.5</li>
+          <li className={styles.right}>{this.getTime()}</li>
+          <li className={styles.dropdown}>
+            <div className={styles.langu}>
+              <select
+                onChange={(event) => this.props.changeLangu(event.target.value)}
+                value={window.lang}
+              >
+                <option value="de">DE</option>
+                <option value="en">EN</option>
+              </select>
+            </div>
+          </li>
         </ul>
       </div>
     );

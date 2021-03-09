@@ -1,6 +1,7 @@
 import React, { Component } from "react";
 import styles from "../css/QuestTable.module.css";
 import QuestItem from "./QuestItem";
+import Text from "../i18n/QuestTable.json";
 
 class QuestTable extends Component {
   state = {};
@@ -21,11 +22,11 @@ class QuestTable extends Component {
       <thead>
         <tr>
           <th className={styles.icon}></th>
-          <th className={styles.name}>Name</th>
-          <th className={styles.level}>Level</th>
-          <th className={styles.category}>Kategorie</th>
-          <th className={styles.location}>Location</th>
-          <th className={styles.action}>Action</th>
+          <th className={styles.name}>{Text[window.lang]["Name"]}</th>
+          <th className={styles.level}>{Text[window.lang]["Level"]}</th>
+          <th className={styles.category}>{Text[window.lang]["Category"]}</th>
+          <th className={styles.location}>{Text[window.lang]["Location"]}</th>
+          <th className={styles.action}>{Text[window.lang]["Action"]}</th>
         </tr>
       </thead>
     );
@@ -47,7 +48,7 @@ class QuestTable extends Component {
   };
 
   getMessage = function () {
-    return this.props.Quests.length === 0 ? "Keine Einträge vorhanden" : "";
+    return this.props.Quests.length === 0 ? Text[window.lang]["NoEntries"] : "";
   };
 
   getBody = function () {

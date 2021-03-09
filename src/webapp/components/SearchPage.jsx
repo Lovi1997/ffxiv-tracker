@@ -2,6 +2,7 @@ import React, { Component } from "react";
 import styles from "../css/SearchPage.module.css";
 import BusyIndicator from "./BusyIndicator";
 import QuestTable from "./QuestTable";
+import Text from "../i18n/SearchPage.json";
 const { ipcRenderer } = window.require("electron");
 
 class SearchPage extends Component {
@@ -18,7 +19,7 @@ class SearchPage extends Component {
         <div className={styles.wrapper}>
           <input
             type="text"
-            placeholder="Name der Quest"
+            placeholder={Text[window.lang]["PlaceHolder"]}
             name="seachfield"
             onChange={(e) => this.handleChange(e.target.value)}
             onKeyDown={(e) => {
@@ -33,7 +34,7 @@ class SearchPage extends Component {
             onClick={() => this.handleSearch()}
             disabled={this.state.Search.searching}
           >
-            Suchen
+            {Text[window.lang]["Search"]}
           </button>
         </div>
         {this.getQuestTable()}
@@ -95,6 +96,8 @@ class SearchPage extends Component {
     var Search = { ...this.state.Search };
     Search.Quests[Search.Quests.indexOf(oQuest)].Done = bDone;
     this.setState({ Search });
+
+    this.props.App.setTotalDone(bDone);
   };
 }
 

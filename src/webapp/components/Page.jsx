@@ -5,6 +5,7 @@ import QuestPage from "./QuestPage";
 import ErrorPage from "./ErrorPage";
 import SearchPage from "./SearchPage";
 import MessageToastContainer from "./MessageToastContainer";
+import Text from "../i18n/Page.json";
 
 const { ipcRenderer } = window.require("electron");
 
@@ -44,11 +45,12 @@ class Page extends Component {
             Page={this}
             JournalCategories={this.state.Page.JournalCategories}
             key="pa-quest"
+            App={this.props.App}
           />
         );
         break;
       case "search":
-        return <SearchPage Page={this} key="pa-search" />;
+        return <SearchPage Page={this} key="pa-search" App={this.props.App} />;
         break;
       case "error":
         return (
@@ -116,6 +118,9 @@ class Page extends Component {
       Page.ready = true;
       Page.JournalCategories = aResult;
       Page.state = "quest";
+    }
+    if (oHandler.state.Page.JournalSection.iID === 98) {
+      Page.JournalCategories[0].Name = Text[window.lang]["Unknown"];
     }
     oHandler.setState({ Page });
   };

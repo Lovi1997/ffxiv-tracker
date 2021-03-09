@@ -10,6 +10,7 @@ const {
 const { fs } = require("file-system");
 const path = require("path");
 const isOnline = require("is-online");
+const { FileSystem } = require("./class/Util");
 
 // Create main window when ready
 app.whenReady().then(function () {
@@ -63,4 +64,22 @@ ipcMain.handle("is-online", async () => {
 ipcMain.handle("search", async (event, sSearchString) => {
   let aResult = await performSearch(sSearchString);
   return aResult;
+});
+
+ipcMain.on("get_lang", (event) => {
+  const config = require("./config/config.json");
+  event.returnValue = config.language;
+});
+
+ipcMain.handle("changeLangu", async (event, sLangu) => {
+  var oFileSystem = new FileSystem();
+
+  var config = require("./config/config.json");
+  config.language = sLangu.toLowerCase();
+
+  var bResult = await oFileSystem
+    .write("./config/config.json", config, false)
+    .then((result) => result);
+
+  return bResult;
 });
