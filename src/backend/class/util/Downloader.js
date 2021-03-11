@@ -58,8 +58,16 @@ class Downloader {
         this._oLogger.log(`StatusCode: ${response.statusCode}`, "I");
         this._oLogger.log("Message: Request successful.", "I");
       }
+
       // Resolve and return response data
-      resolve(JSON.parse(body));
+      var oData = {};
+      try {
+        oData = JSON.parse(body);
+        resolve(oData);
+      } catch (e) {
+        this._oLogger.log(e.message, "E");
+        reject();
+      }
     }
   }
 

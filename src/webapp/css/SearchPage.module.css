@@ -9,7 +9,7 @@
   background-color: #1f2227;
   border: 1px solid rgb(121, 121, 121);
   border-radius: 4px;
-  margin-top: 5%;
+  margin-top: 8%;
   position: relative;
 }
 
@@ -17,12 +17,16 @@
   outline: none;
 }
 
-.wrapper {
+.searchwrapper {
   width: 80%;
   margin-left: 10%;
   margin-right: 10%;
   overflow-x: hidden;
   display: inline;
+}
+
+.tableWrapper {
+  margin-top: 6%;
 }
 
 .searchfield::placeholder {

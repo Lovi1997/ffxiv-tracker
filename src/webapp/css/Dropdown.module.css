@@ -1,0 +1,55 @@
+/* Remove IE arrow */
+.select select::-ms-expand {
+  display: none;
+}
+/* Custom Select */
+.select {
+  -ms-appearance: none;
+  appearance: none;
+  outline: 0;
+  box-shadow: none;
+  width: 100%;
+  position: relative;
+  display: flex;
+  overflow: hidden;
+}
+.select select {
+  flex: 1;
+  padding: 0.5em 1em;
+  outline: 0;
+  color: #eeeeee;
+  cursor: pointer;
+  font-size: 16px;
+  background: #1f2227;
+  border: 1px solid #707070;
+  border-radius: 0.4em;
+}
+/* Arrow */
+.select::after {
+  content: "\25BC";
+  font-size: 15px;
+  position: absolute;
+  top: 1px;
+  right: 1px;
+  outline: 0;
+  padding: 0.5em 1em;
+  background: #212d4d;
+  cursor: pointer;
+  border-radius: 0.4em;
+  pointer-events: none;
+  -webkit-transition: 0.25s all ease;
+  -o-transition: 0.25s all ease;
+  transition: 0.25s all ease;
+}
+
+.select:active::after {
+  box-shadow: 0 0px #151515;
+  outline: 0;
+  transform: translateY(3px);
+}
+
+/* Transition */
+.select:hover::after {
+  outline: 0;
+  color: #cccccc;
+}

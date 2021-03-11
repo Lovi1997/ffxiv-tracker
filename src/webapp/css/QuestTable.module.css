@@ -1,5 +1,5 @@
 .wrapper {
-  margin: 10% 8% 5% 8%;
+  margin: 0% 8% 5% 8%;
 }
 
 .table {
@@ -51,7 +51,7 @@
 }
 
 .name {
-  width: 41%;
+  width: 39%;
 }
 
 .category {
@@ -59,7 +59,7 @@
 }
 
 .location {
-  width: 11%;
+  width: 18%;
 }
 
 .level {
@@ -67,5 +67,5 @@
 }
 
 .action {
-  width: 12%;
+  width: 7%;
 }

@@ -70,5 +70,6 @@
 .langu select {
   color: #eeeeee;
   cursor: pointer;
+  border-radius: 0.25em;
   font-size: 14px !important;
 }

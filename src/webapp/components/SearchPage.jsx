@@ -16,7 +16,7 @@ class SearchPage extends Component {
   render() {
     return (
       <div>
-        <div className={styles.wrapper}>
+        <div className={styles.searchwrapper}>
           <input
             type="text"
             placeholder={Text[window.lang]["PlaceHolder"]}
@@ -73,12 +73,14 @@ class SearchPage extends Component {
       return <BusyIndicator key="sea-bi" />;
     } else {
       return (
-        <QuestTable
-          key="qu-table"
-          Quests={this.state.Search.Quests}
-          Page={this.props.Page}
-          QuestHandler={this}
-        />
+        <div className={styles.tableWrapper}>
+          <QuestTable
+            key="qu-table"
+            Quests={this.state.Search.Quests}
+            Page={this.props.Page}
+            QuestHandler={this}
+          />
+        </div>
       );
     }
   };

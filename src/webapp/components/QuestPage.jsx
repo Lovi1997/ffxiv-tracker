@@ -2,58 +2,156 @@ import React, { Component } from "react";
 import styles from "../css/QuestPage.module.css";
 import BusyIndicator from "./BusyIndicator";
 import QuestTable from "./QuestTable";
+import Text from "../i18n/QuestPage.json";
+import Dropdown from "./Dropdown";
+import QuestPageHelper from "./util/QuestPageHelper";
 const { ipcRenderer } = window.require("electron");
 
 class QuestPage extends Component {
   constructor(props) {
     super(props);
     this.state = {
-      QuestPage: {
+      QPage: {
         loading: true,
         activeCategory: this.props.JournalCategories[0],
         Display: [],
         Quests: [],
+        NumberOfDone: 0,
+        Sort: { Field: "Level", Order: "ASC" },
+        Filter: { Field: "none", Value: "" },
       },
     };
 
-    this.loadQuests(this.state.QuestPage.activeCategory.iID);
+    this.loadQuests(this.state.QPage.activeCategory.iID);
   }
   render() {
     return (
       <div>
-        <div className={styles.wrapper}>
-          <div
-            className={styles.select}
-            disabled={this.state.QuestPage.loading}
-            onChange={(event) => this.onCategoryChange(event.target.value)}
-            value={this.state.QuestPage.activeCategory.iID}
-          >
-            <select>
-              {this.props.JournalCategories.map((oJournalCategory) => {
-                return (
-                  <option value={oJournalCategory.iID}>
-                    {oJournalCategory.Name}
-                  </option>
-                );
-              })}
-            </select>
-          </div>
+        <div className={styles.questPageWrapper}>
+          {this.getCategoriesUI()}
+          {this.getDisplayUI()}
         </div>
-        {this.getQuestTable()}
+        {this.getQuestTableUI()}
       </div>
     );
   }
 
-  onCategoryChange = function (iCategoryID) {
-    if (iCategoryID != this.state.QuestPage.activeCategory.iID) {
-      var QuestPage = { ...this.state.QuestPage };
-      QuestPage.activeCategory = this.props.JournalCategories.find(
+  getCategoriesUI = function () {
+    var aOptions = [];
+    this.props.JournalCategories.forEach(function (oJournalCategory) {
+      aOptions.push({
+        Value: oJournalCategory.iID,
+        Text: oJournalCategory.Name,
+      });
+    });
+    return (
+      <div className={styles.categoryWrapper}>
+        <Dropdown
+          disabled={this.state.QPage.loading}
+          onChange={this.onCategoryChange}
+          Options={aOptions}
+          Handler={this}
+        />
+      </div>
+    );
+  };
+
+  getDisplayUI = function () {
+    return (
+      <div>
+        <div className={styles.filterWrapper}>
+          <span className={styles.dropdownText}>Filter:</span>
+          {this.getFilterUI()}
+        </div>
+        <div className={styles.sortWrapper}>
+          <span className={styles.dropdownText}>
+            {Text[window.lang]["Sort"]}:
+          </span>
+          {this.getSortUI()}
+        </div>
+      </div>
+    );
+  };
+
+  getFilterUI = function () {
+    var aOptions = QuestPageHelper.getFilterOptions(Text);
+    return (
+      <Dropdown
+        disabled={this.state.QPage.loading}
+        onChange={this.onFilterChange}
+        Options={aOptions}
+        Handler={this}
+      />
+    );
+  };
+
+  getSortUI = function () {
+    var aOptions = QuestPageHelper.getSortOptions(Text);
+    return (
+      <Dropdown
+        disabled={this.state.QPage.loading}
+        onChange={this.onSortChange}
+        Options={aOptions}
+        Handler={this}
+      />
+    );
+  };
+
+  getQuestTableUI = function () {
+    if (this.state.QPage.loading === true) {
+      return <BusyIndicator key="sea-bi" />;
+    } else {
+      return (
+        <div>
+          <div className={styles.doneDisplay}>
+            {Text[window.lang]["Done"]} {this.state.QPage.NumberOfDone}/
+            {this.state.QPage.Quests.length}
+          </div>
+          <QuestTable
+            key="qu-table"
+            Quests={this.state.QPage.Display}
+            Page={this.props.Page}
+            QuestHandler={this}
+          />
+        </div>
+      );
+    }
+  };
+
+  onDisplayChange = function () {
+    var QPage = { ...this.state.QPage };
+    QPage.Display = QuestPageHelper.filter(QPage.Quests, QPage.Filter);
+    QPage.Display = QuestPageHelper.sort(QPage.Display, QPage.Sort, "Level");
+    QPage.loading = false;
+    this.setState({ QPage });
+  };
+
+  onFilterChange = function (sFilter, oHandler) {
+    var QPage = { ...oHandler.state.QPage };
+    QPage.loading = true;
+    QPage.Filter = JSON.parse(sFilter);
+    oHandler.setState({ QPage });
+    setTimeout(() => oHandler.onDisplayChange(), 1000);
+  };
+
+  onSortChange = function (sSort, oHandler) {
+    var QPage = { ...oHandler.state.QPage };
+    QPage.loading = true;
+    QPage.Sort = JSON.parse(sSort);
+    oHandler.setState({ QPage });
+    setTimeout(() => oHandler.onDisplayChange(), 1000);
+  };
+
+  onCategoryChange = function (iCategoryID, oHandler) {
+    if (iCategoryID != oHandler.state.QPage.activeCategory.iID) {
+      var QPage = { ...oHandler.state.QPage };
+      QPage.activeCategory = oHandler.props.JournalCategories.find(
         (oCategory) => oCategory.iID == iCategoryID
       );
-      QuestPage.loading = true;
-      this.setState({ QuestPage });
-
-      this.loadQuests(QuestPage.activeCategory.iID);
+      QPage.loading = true;
+      QPage.NumberOfDone = 0;
+      oHandler.setState({ QPage });
+      oHandler.loadQuests(QPage.activeCategory.iID);
     }
   };
 
@@ -63,36 +161,25 @@ class QuestPage extends Component {
       .then((aResult) => this.onDataReceived(aResult, this));
   };
 
-  getQuestTable = function () {
-    if (this.state.QuestPage.loading === true) {
-      return <BusyIndicator key="sea-bi" />;
-    } else {
-      return (
-        <QuestTable
-          key="qu-table"
-          Quests={this.state.QuestPage.Display}
-          Page={this.props.Page}
-          QuestHandler={this}
-        />
-      );
-    }
-  };
-
   onDataReceived = function (aResult, oHandler) {
-    var QuestPage = { ...oHandler.state.QuestPage };
-    QuestPage.loading = false;
-    QuestPage.Quests = aResult;
-    QuestPage.Display = QuestPage.Quests;
-    QuestPage.numberOfDone = oHandler.getNumberOfDone(QuestPage.Display);
-    oHandler.setState({ QuestPage });
+    var QPage = { ...oHandler.state.QPage };
+    QPage.loading = false;
+    QPage.Quests = aResult;
+    QPage.NumberOfDone = oHandler.getNumberOfDone(QPage.Quests);
+    QPage.Display = QuestPageHelper.filter(QPage.Quests, QPage.Filter);
+
+    if (QPage.Sort.Field !== "Level" || QPage.Sort.Order !== "ASC") {
+      QPage.Display = QuestPageHelper.sort(QPage.Display, QPage.Sort, "Level");
+    }
+    oHandler.setState({ QPage });
   };
 
   setDone = function (bDone, oQuest) {
-    var QuestPage = { ...this.state.QuestPage };
-    QuestPage.Quests[QuestPage.Quests.indexOf(oQuest)].Done = bDone;
-    QuestPage.Display[QuestPage.Display.indexOf(oQuest)].Done = bDone;
-    bDone === true ? ++QuestPage.iNumberOfDone : --QuestPage.iNumberOfDone;
-    this.setState({ QuestPage });
+    var QPage = { ...this.state.QPage };
+    QPage.Quests[QPage.Quests.indexOf(oQuest)].Done = bDone;
+    QPage.Display[QPage.Display.indexOf(oQuest)].Done = bDone;
+    bDone === true ? ++QPage.NumberOfDone : --QPage.NumberOfDone;
+    this.setState({ QPage });
 
     this.props.App.setTotalDone(bDone);
   };
@@ -105,5 +192,4 @@ class QuestPage extends Component {
     return iNumberOfDone;
   };
 }
-
 export default QuestPage;
