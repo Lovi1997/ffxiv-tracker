@@ -24,7 +24,6 @@
     "start": "react-scripts start",
     "build": "react-scripts build",
     "test": "react-scripts test",
-    "eject": "react-scripts eject",
     "electron-start": "electron .",
     "predist": "npm run build",
     "dist": "electron-builder --win -c.extraMetadata.main=build/main.js"
