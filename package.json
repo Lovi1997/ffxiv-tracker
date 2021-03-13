@@ -27,7 +27,9 @@
     "test": "react-scripts test",
     "electron-start": "electron .",
     "predist": "npm run build",
-    "dist": "electron-builder --win -c.extraMetadata.main=build/main.js"
+    "dist": "electron-builder --win -c.extraMetadata.main=build/main.js --publish never",
+    "predeploy": "npm run build",
+    "deploy": "electron-builder --win -c.extraMetadata.main=build/main.js --publish always"
   },
   "eslintConfig": {
     "extends": [
@@ -57,6 +59,10 @@
   },
   "build": {
     "appId": "ffxiv.tracker",
+    "publich": {
+      "provider": "github",
+      "token": "4210011c6a505becc1d55b25304ada94d15be002"
+    },
     "productName": "FFXIV-Tracker",
     "target": "NSIS",
     "directories": {
