@@ -10,11 +10,15 @@ const {
 const { fs } = require("file-system");
 const path = require("path");
 const isOnline = require("is-online");
+const { autoUpdater } = require("electron-updater");
 const { FileSystem } = require("./class/Util");
+
+// Variable for MainWindow
+var mainWindow;
 
 // Create main window when ready
 app.whenReady().then(function () {
-  appHandler.createWindow(BrowserWindow);
+  mainWindow = appHandler.createWindow(BrowserWindow, autoUpdater);
   fs.unlink(`${path.join(__dirname, "../log/log.log")}`, function () {});
 });
 
@@ -25,7 +29,27 @@ app.on("window-all-closed", () => {
 
 //activate and create Browser window
 app.on("activate", () => {
-  appHandler.activate(BrowserWindow);
+  mainWindow = appHandler.activate(BrowserWindow, autoUpdater);
+});
+
+// Get Version
+ipcMain.on("app_version", (event) => {
+  event.returnValue = app.getVersion();
+});
+
+// Send Notification -> Update Available
+autoUpdater.on("update-available", () => {
+  mainWindow.webContents.send("update_available");
+});
+
+// Send Notification -> Update Downloaded
+autoUpdater.on("update-downloaded", () => {
+  mainWindow.webContents.send("update_downloaded");
+});
+
+// Install Update
+ipcMain.on("restart_app", () => {
+  autoUpdater.quitAndInstall();
 });
 
 // Initialze Journal Sections
@@ -66,11 +90,13 @@ ipcMain.handle("search", async (event, sSearchString) => {
   return aResult;
 });
 
+// Read Config
 ipcMain.on("get_config", (event) => {
   const config = require("./config/config.json");
   event.returnValue = { language: config.language, IconIDs: config.IconIDs };
 });
 
+// Change Language
 ipcMain.handle("changeLangu", async (event, sLangu) => {
   var oFileSystem = new FileSystem();
 
@@ -78,7 +104,7 @@ ipcMain.handle("changeLangu", async (event, sLangu) => {
   config.language = sLangu.toLowerCase();
 
   var bResult = await oFileSystem
-    .write("./config/config.json", config, false)
+    .write("../../config/config.json", config, false)
     .then((result) => result);
 
   return bResult;

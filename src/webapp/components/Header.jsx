@@ -51,7 +51,7 @@ class Header extends Component {
         <ul className={styles.header}>
           <li className={styles.left}>Icon</li>
           <li className={styles.left}>FFXIV-Tracker</li>
-          <li className={styles.left}>v0.5</li>
+          <li className={styles.left}>v{this.props.Version}</li>
           <li className={styles.right}>{this.getTime()}</li>
           <li className={styles.dropdown}>
             <div className={styles.langu}>

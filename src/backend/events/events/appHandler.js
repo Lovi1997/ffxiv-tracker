@@ -5,12 +5,12 @@ function win_all_closed(app) {
     app.quit();
   }
 }
-function activate(BrowserWindow) {
+function activate(BrowserWindow, autoUpdater) {
   if (BrowserWindow.getAllWindows().length === 0) {
-    createWindow(BrowserWindow);
+    return createWindow(BrowserWindow);
   }
 }
-function createWindow(BrowserWindow) {
+function createWindow(BrowserWindow, autoUpdater) {
   const win = new BrowserWindow({
     width: 1280,
     height: 1024,
@@ -21,6 +21,12 @@ function createWindow(BrowserWindow) {
   });
 
   win.loadURL(`file://${path.join(__dirname, "../../../../build/index.html")}`);
+
+  // win.once("ready-to-show", () => {
+  //   autoUpdater.checkForUpdatesAndNotify();
+  // });
+
+  return win;
 }
 
 module.exports = {

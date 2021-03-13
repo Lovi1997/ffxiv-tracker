@@ -6,6 +6,7 @@ import ErrorPage from "./ErrorPage";
 import Page from "./Page";
 import styles from "../css/App.module.css";
 import Text from "../i18n/App.json";
+import ConfirmDialog from "./ConfirmDialog";
 
 const { ipcRenderer } = window.require("electron");
 
@@ -22,37 +23,42 @@ class App extends Component {
         navigating: false,
         NumberDone: 0,
         NumberTotal: 0,
+        Version: ipcRenderer.sendSync("app_version"),
+        updateAvailable: false,
+        updateDownloaded: false,
       },
     };
+    ipcRenderer.on("update_available", () => this.onUpdateAvailable(this));
+    ipcRenderer.on("update_downloaded", () => this.onUpdateDownloaded(this));
+
     this.checkConnection(this);
 
     var config = ipcRenderer.sendSync("get_config");
+    console.log(config.language);
     window.lang = config.language;
     window.IconIDs = config.IconIDs;
-    console.log("Window created");
   }
-
-  changeLangu = function (sLangu) {
-    var that = this;
-    ipcRenderer.invoke("changeLangu", sLangu).then((bResult) => {
-      if (bResult === true) {
-        window.location.reload();
-      } else {
-        var App = { ...that.state.App };
-        App.state = "error";
-        that.setState({ App });
-      }
-    });
-  };
 
   render() {
     return (
       <div>
-        <Header key="app-header" changeLangu={this.changeLangu} />
+        {this.getDialog()}
+        <Header
+          key="app-header"
+          Version={this.state.App.Version}
+          changeLangu={this.changeLangu}
+          updateAvailable={this.state.App.updateAvailable}
+        />
         <div className={styles.app}>{this.getApplication()}</div>
       </div>
     );
   }
+
+  getDialog = function () {
+    if (this.state.App.updateDownloaded === true) {
+      return <ConfirmDialog />;
+    }
+  };
 
   getApplication = function () {
     switch (this.state.App.state) {
@@ -98,6 +104,33 @@ class App extends Component {
         App={this}
       />
     );
+  };
+
+  onUpdateAvailable = function (oHandler) {
+    ipcRenderer.removeAllListeners("update_available");
+    var App = { ...oHandler.state.App };
+    App.updateAvailable = true;
+    oHandler.setState({ App });
+  };
+
+  onUpdateDownloaded = function (oHandler) {
+    ipcRenderer.removeAllListeners("update_downloaded");
+    var App = { ...oHandler.state.App };
+    App.updateDownloaded = true;
+    oHandler.setState({ App });
+  };
+
+  changeLangu = function (sLangu) {
+    var that = this;
+    ipcRenderer.invoke("changeLangu", sLangu).then((bResult) => {
+      if (bResult === true) {
+        window.location.reload();
+      } else {
+        var App = { ...that.state.App };
+        App.state = "error";
+        that.setState({ App });
+      }
+    });
   };
 
   checkConnection = function (oHandler) {

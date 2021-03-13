@@ -1,6 +1,6 @@
 {
   "name": "ffxiv-tracker",
-  "version": "1.0.0",
+  "version": "0.1.0",
   "description": "FFXIV-Tracker",
   "main": "src/backend/main.js",
   "repository": {
@@ -15,6 +15,7 @@
   },
   "homepage": "./",
   "dependencies": {
+    "electron-updater": "^4.3.8",
     "react": "^17.0.1",
     "react-dom": "^17.0.1",
     "react-scripts": "4.0.2",

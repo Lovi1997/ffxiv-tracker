@@ -64,7 +64,7 @@ class SearchPage extends Component {
 
   performSearch = function () {
     ipcRenderer
-      .invoke("search", this.state.Search.searchString)
+      .invoke("search", encodeURI(this.state.Search.searchString))
       .then((aResult) => this.onDataReceived(aResult, this));
   };
 
@@ -91,7 +91,6 @@ class SearchPage extends Component {
     Search.searchString = "";
     Search.Quests = aResult;
     oHandler.setState({ Search });
-    oHandler.setQuests(aResult);
   };
 
   setDone = function (bDone, oQuest) {

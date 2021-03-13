@@ -51,8 +51,16 @@ class QuestPageHelper {
     var aArrayNew = [...aArray];
 
     aArrayNew.sort(function (oObject1, oObject2) {
-      var sValue1 = oObject1[oSort.Field].toString().toUpperCase();
-      var sValue2 = oObject2[oSort.Field].toString().toUpperCase();
+      var sValue1 = "";
+      var sValue2 = "";
+
+      if (oSort.Field === "Level") {
+        sValue1 = parseInt(oObject1[oSort.Field].toString().toUpperCase());
+        sValue2 = parseInt(oObject2[oSort.Field].toString().toUpperCase());
+      } else {
+        sValue1 = oObject1[oSort.Field].toString().toUpperCase();
+        sValue2 = oObject2[oSort.Field].toString().toUpperCase();
+      }
 
       if (sValue1 < sValue2) {
         return iLower;
@@ -62,8 +70,16 @@ class QuestPageHelper {
       }
 
       if (sSecondary !== undefined && sSecondary !== oSort.Field) {
-        var sValue3 = oObject1[sSecondary].toString().toUpperCase();
-        var sValue4 = oObject2[sSecondary].toString().toUpperCase();
+        var sValue3 = "";
+        var sValue4 = "";
+        if (sSecondary === "Level") {
+          sValue3 = parseInt(oObject1[sSecondary].toString().toUpperCase());
+          sValue4 = parseInt(oObject2[sSecondary].toString().toUpperCase());
+        } else {
+          sValue3 = oObject1[sSecondary].toString().toUpperCase();
+          sValue4 = oObject2[sSecondary].toString().toUpperCase();
+        }
+
         if (sValue3 < sValue4) {
           return -1;
         }
