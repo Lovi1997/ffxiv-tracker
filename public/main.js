@@ -23,7 +23,9 @@ var mainWindow;
 // Create main window when ready
 app.whenReady().then(function () {
   mainWindow = appHandler.createWindow(BrowserWindow, autoUpdater);
-  var sPath = isDev ? "../extraResources/log/log.log" : "../../extraResources/log/log.log";
+  var sPath = isDev
+    ? "../extraResources/log/log.log"
+    : "../../extraResources/log/log.log";
   fs.unlink(`${path.join(__dirname, sPath)}`, function () {});
 });
 

@@ -2,7 +2,7 @@ const { createLogger, format, transports } = require("winston");
 const isDev = require("electron-is-dev");
 const sPathConfig = isDev
   ? "../../../../extraResources/config/config.json"
-  : "../../../../../config/config.json";
+  : "../../../../../extraResources/config/config.json";
 const config = require(sPathConfig);
 const path = require("path");
 
