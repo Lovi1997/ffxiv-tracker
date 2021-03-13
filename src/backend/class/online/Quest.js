@@ -42,7 +42,7 @@ class Quest extends Super {
 
     const sPathRead = isDev
       ? "../../../../extraResources/data/quest.json"
-      : "../../../../../data/quest.json";
+      : "../../../../../extraResources/data/quest.json";
 
     while (Quest._saving === true) {}
     var aQuestsNew = [];
@@ -85,7 +85,7 @@ class Quest extends Super {
   async save(aQuestsNew) {
     const sPathFile = isDev
       ? "../../../../extraResources/data/quest.json"
-      : "../../../../../data/quest.json";
+      : "../../../../../extraResources/data/quest.json";
 
     var oQuests = require(sPathFile);
     aQuestsNew.forEach(function (oQuestNew) {

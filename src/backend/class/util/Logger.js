@@ -18,7 +18,7 @@ class Logger {
   constructor() {
     const sPathLog = isDev
       ? "../../../../extraResources/log/log.log"
-      : "../../../../../log/log.log";
+      : "../../../../../extraResources/log/log.log";
 
     this._iLevel = 0;
     this._sSpan = "";

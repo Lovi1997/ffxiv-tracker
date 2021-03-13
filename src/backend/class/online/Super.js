@@ -11,7 +11,7 @@ class Super {
   constructor() {
     const sPath = isDev
       ? "../../../../extraResources/config/config.json"
-      : "../../../../../config/config.json";
+      : "../../../../../extraResources/config/config.json";
 
     this._oDownloader = new Downloader();
     this._config = require(sPath);

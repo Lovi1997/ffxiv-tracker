@@ -70,7 +70,9 @@
       "build/*"
     ],
     "extraResources": [
-      "extraResources/**/*"
+      "extraResources/config/**/*",
+      "extraResources/log/**/*",
+      "extraResources/data/**/*"
     ],
     "productName": "FFXIV-Tracker",
     "target": "NSIS",

@@ -21,7 +21,7 @@ const initJournalSections = async function () {
 async function getTotalDone() {
   const sPathFile = isDev
     ? "../../../../extraResources/data/quest.json"
-    : "../../../../../data/quest.json";
+    : "../../../../../extraResources/data/quest.json";
   var oExisting = require(sPathFile);
 
   var iDone = 0;

@@ -23,7 +23,7 @@ var mainWindow;
 // Create main window when ready
 app.whenReady().then(function () {
   mainWindow = appHandler.createWindow(BrowserWindow, autoUpdater);
-  var sPath = isDev ? "../extraResources/log/log.log" : "../../log/log.log";
+  var sPath = isDev ? "../extraResources/log/log.log" : "../../extraResources/log/log.log";
   fs.unlink(`${path.join(__dirname, sPath)}`, function () {});
 });
 
@@ -99,7 +99,7 @@ ipcMain.handle("search", async (event, sSearchString) => {
 ipcMain.on("get_config", (event) => {
   const sPath = isDev
     ? "../extraResources/config/config.json"
-    : "../../config/config.json";
+    : "../../extraResources/config/config.json";
   const config = require(sPath);
   event.returnValue = { language: config.language, IconIDs: config.IconIDs };
 });
@@ -109,10 +109,10 @@ ipcMain.handle("changeLangu", async (event, sLangu) => {
   var oFileSystem = new FileSystem();
   const sPathRead = isDev
     ? "../extraResources/config/config.json"
-    : "../../config/config.json";
+    : "../../extraResources/config/config.json";
   const sPathWrite = isDev
     ? "../../../../extraResources/config/config.json"
-    : "../../../../../config/config.json";
+    : "../../../../../extraResources/config/config.json";
 
   var config = require(sPathRead);
   config.language = sLangu.toLowerCase();
