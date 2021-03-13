@@ -66,9 +66,9 @@ ipcMain.handle("search", async (event, sSearchString) => {
   return aResult;
 });
 
-ipcMain.on("get_lang", (event) => {
+ipcMain.on("get_config", (event) => {
   const config = require("./config/config.json");
-  event.returnValue = config.language;
+  event.returnValue = { language: config.language, IconIDs: config.IconIDs };
 });
 
 ipcMain.handle("changeLangu", async (event, sLangu) => {

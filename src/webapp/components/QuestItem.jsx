@@ -13,7 +13,7 @@ class QuestItem extends Component {
   render() {
     return (
       <tr className={this.getRowStyle()}>
-        <td className={styles.icon}></td>
+        <td className={styles.icon}>{this.getIcon()}</td>
         <td className={styles.name}>{this.props.Quest.Name}</td>
         <td className={styles.level}>{this.props.Quest.Level}</td>
         <td className={styles.category}>{this.props.Quest.JournalCategory}</td>
@@ -22,6 +22,24 @@ class QuestItem extends Component {
       </tr>
     );
   }
+
+  getIcon = function () {
+    if (window.IconIDs.indexOf(this.props.Quest.IconID) === -1) {
+      return (
+        <img
+          className={styles.questImage}
+          src={`https://xivapi.com${this.props.Quest.Icon}`}
+        />
+      );
+    } else {
+      return (
+        <img
+          className={styles.questImage}
+          src={`./icons/questIcons/${this.props.Quest.IconID}.png`}
+        />
+      );
+    }
+  };
 
   getRowStyle = function () {
     if (this.props.Quest.Done === true) {

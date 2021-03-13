@@ -14,6 +14,8 @@ class Quest extends Super {
       "JournalGenre.JournalCategory.Name",
       "JournalGenre.Name",
       "IssuerLocation.Map.PlaceName.Name",
+      "Icon",
+      "IconID",
     ];
     this._sSortField = "ClassJobLevel0";
     this._sFilter = "JournalGenre.JournalCategoryTargetID";
@@ -62,6 +64,8 @@ class Quest extends Super {
 
       aQuestsNew.push({
         iID: oQuest.ID,
+        IconID: oQuest.IconID,
+        Icon: oQuest.Icon,
         Name: oQuest.Name,
         Level: oQuest.ClassJobLevel0,
         Location: oQuest.IssuerLocation.Map.PlaceName.Name,

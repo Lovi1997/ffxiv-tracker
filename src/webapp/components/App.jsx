@@ -26,7 +26,9 @@ class App extends Component {
     };
     this.checkConnection(this);
 
-    window.lang = ipcRenderer.sendSync("get_lang");
+    var config = ipcRenderer.sendSync("get_config");
+    window.lang = config.language;
+    window.IconIDs = config.IconIDs;
     console.log("Window created");
   }
 
