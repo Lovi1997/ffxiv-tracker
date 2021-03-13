@@ -1,5 +1,6 @@
 const { FileSystem } = require("../Util");
 const Super = require("./Super");
+const isDev = require("electron-is-dev");
 
 class Quest extends Super {
   static _saving = false;
@@ -39,10 +40,13 @@ class Quest extends Super {
       return null;
     }
 
-    while (Quest._saving === true) {}
+    const sPathRead = isDev
+      ? "../../../../extraResources/data/quest.json"
+      : "../../../../../data/quest.json";
 
+    while (Quest._saving === true) {}
     var aQuestsNew = [];
-    var oExisting = require("../../data/quest.json");
+    var oExisting = require(sPathRead);
 
     aQuests.forEach((oQuest) => {
       var sJournalCategory = "";
@@ -79,7 +83,11 @@ class Quest extends Super {
   }
 
   async save(aQuestsNew) {
-    var oQuests = require("../../data/quest.json");
+    const sPathFile = isDev
+      ? "../../../../extraResources/data/quest.json"
+      : "../../../../../data/quest.json";
+
+    var oQuests = require(sPathFile);
     aQuestsNew.forEach(function (oQuestNew) {
       var iExisting = oQuests.quests.findIndex(function (oElement) {
         return oElement.iID === oQuestNew.iID;
@@ -99,7 +107,7 @@ class Quest extends Super {
     while (Quest._saving === true) {}
     Quest._saving = true;
     var bResult = await this._FileSystem
-      .write("../../data/quest.json", oQuests, false)
+      .write(sPathFile, oQuests, false)
       .then((result) => {
         Quest._saving = false;
         return result;

@@ -70,7 +70,7 @@ class FileSystem {
     }
 
     var that = this;
-    var sData = JSON.stringify(oData, null, 4);
+    var sData = JSON.stringify(oData);
     this._oFS.writeFile(
       `${path.join(__dirname, sPath)}`,
       sData,

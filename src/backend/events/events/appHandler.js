@@ -22,9 +22,9 @@ function createWindow(BrowserWindow, autoUpdater) {
 
   win.loadURL(`file://${path.join(__dirname, "../../../../build/index.html")}`);
 
-  // win.once("ready-to-show", () => {
-  //   autoUpdater.checkForUpdatesAndNotify();
-  // });
+  win.once("ready-to-show", () => {
+    autoUpdater.checkForUpdatesAndNotify();
+  });
 
   return win;
 }

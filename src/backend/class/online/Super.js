@@ -1,4 +1,5 @@
 const { Downloader } = require("../Util");
+const isDev = require("electron-is-dev");
 
 class Super {
   _oDownloader = {};
@@ -8,8 +9,12 @@ class Super {
   _sSortField = "";
 
   constructor() {
+    const sPath = isDev
+      ? "../../../../extraResources/config/config.json"
+      : "../../../../../config/config.json";
+
     this._oDownloader = new Downloader();
-    this._config = require("../../config/config.json");
+    this._config = require(sPath);
   }
 
   async getAll() {

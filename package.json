@@ -2,7 +2,7 @@
   "name": "ffxiv-tracker",
   "version": "0.1.0",
   "description": "FFXIV-Tracker",
-  "main": "src/backend/main.js",
+  "main": "public/main.js",
   "repository": {
     "type": "git",
     "url": "git+https://github.com/Lovi1997/ffxiv-tracker.git"
@@ -15,11 +15,16 @@
   },
   "homepage": "./",
   "dependencies": {
+    "electron-is-dev": "^2.0.0",
     "electron-updater": "^4.3.8",
+    "file-system": "^2.2.2",
+    "is-online": "^9.0.0",
     "react": "^17.0.1",
     "react-dom": "^17.0.1",
     "react-scripts": "4.0.2",
-    "web-vitals": "^1.1.0"
+    "request": "^2.88.2",
+    "web-vitals": "^1.1.0",
+    "winston": "^3.3.3"
   },
   "scripts": {
     "start": "react-scripts start",
@@ -51,18 +56,22 @@
   },
   "devDependencies": {
     "electron": "^11.2.3",
-    "electron-builder": "^22.9.1",
-    "file-system": "^2.2.2",
-    "is-online": "^9.0.0",
-    "request": "^2.88.2",
-    "winston": "^3.3.3"
+    "electron-builder": "^22.9.1"
   },
   "build": {
     "appId": "ffxiv.tracker",
-    "publich": {
+    "publish": {
       "provider": "github",
-      "token": "4210011c6a505becc1d55b25304ada94d15be002"
+      "token": ""
     },
+    "files": [
+      "src/**/*",
+      "!node_modules/.cache/*",
+      "build/*"
+    ],
+    "extraResources": [
+      "extraResources/**/*"
+    ],
     "productName": "FFXIV-Tracker",
     "target": "NSIS",
     "directories": {

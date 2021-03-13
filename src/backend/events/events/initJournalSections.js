@@ -1,5 +1,6 @@
 const JournalSection = require("../../class/online/JournalSection");
 const { Downloader } = require("../../class/Util");
+const isDev = require("electron-is-dev");
 
 const initJournalSections = async function () {
   var aJournalSections = await getJournalSections();
@@ -18,7 +19,10 @@ const initJournalSections = async function () {
 };
 
 async function getTotalDone() {
-  var oExisting = require("../../data/quest.json");
+  const sPathFile = isDev
+    ? "../../../../extraResources/data/quest.json"
+    : "../../../../../data/quest.json";
+  var oExisting = require(sPathFile);
 
   var iDone = 0;
   oExisting.quests.forEach((oQuest) => {

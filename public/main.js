@@ -1,4 +1,13 @@
+// Node Modules
 const { app, BrowserWindow, ipcMain } = require("electron");
+const path = require("path");
+const { fs } = require("file-system");
+const isOnline = require("is-online");
+const { autoUpdater } = require("electron-updater");
+const isDev = require("electron-is-dev");
+// Own Modules
+const { FileSystem } = require("../src/backend/class/Util");
+// Events
 const {
   appHandler,
   initJournalSections,
@@ -6,12 +15,7 @@ const {
   performSearch,
   loadQuests,
   saveQuests,
-} = require("./events/events");
-const { fs } = require("file-system");
-const path = require("path");
-const isOnline = require("is-online");
-const { autoUpdater } = require("electron-updater");
-const { FileSystem } = require("./class/Util");
+} = require(`${path.join(__dirname, "../src/backend/events/events")}`);
 
 // Variable for MainWindow
 var mainWindow;
@@ -19,7 +23,8 @@ var mainWindow;
 // Create main window when ready
 app.whenReady().then(function () {
   mainWindow = appHandler.createWindow(BrowserWindow, autoUpdater);
-  fs.unlink(`${path.join(__dirname, "../log/log.log")}`, function () {});
+  var sPath = isDev ? "../extraResources/log/log.log" : "../../log/log.log";
+  fs.unlink(`${path.join(__dirname, sPath)}`, function () {});
 });
 
 // Close everything
@@ -92,19 +97,28 @@ ipcMain.handle("search", async (event, sSearchString) => {
 
 // Read Config
 ipcMain.on("get_config", (event) => {
-  const config = require("./config/config.json");
+  const sPath = isDev
+    ? "../extraResources/config/config.json"
+    : "../../config/config.json";
+  const config = require(sPath);
   event.returnValue = { language: config.language, IconIDs: config.IconIDs };
 });
 
 // Change Language
 ipcMain.handle("changeLangu", async (event, sLangu) => {
   var oFileSystem = new FileSystem();
+  const sPathRead = isDev
+    ? "../extraResources/config/config.json"
+    : "../../config/config.json";
+  const sPathWrite = isDev
+    ? "../../../../extraResources/config/config.json"
+    : "../../../../../config/config.json";
 
-  var config = require("./config/config.json");
+  var config = require(sPathRead);
   config.language = sLangu.toLowerCase();
 
   var bResult = await oFileSystem
-    .write("../../config/config.json", config, false)
+    .write(sPathWrite, config, false)
     .then((result) => result);
 
   return bResult;
