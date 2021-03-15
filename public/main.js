@@ -23,10 +23,22 @@ var mainWindow;
 // Create main window when ready
 app.whenReady().then(function () {
   mainWindow = appHandler.createWindow(BrowserWindow, autoUpdater);
-  var sPath = isDev
+  var sPathLog = isDev
     ? "../extraResources/log/log.log"
     : "../../extraResources/log/log.log";
-  fs.unlink(`${path.join(__dirname, sPath)}`, function () {});
+  fs.unlink(`${path.join(__dirname, sPathLog)}`, function () {});
+
+  var sPathData = isDev
+    ? "../extraResources/data/quest.json"
+    : "../../extraResources/data/quest.json";
+
+  try {
+    if (!fs.existsSync(`${path.join(__dirname, sPathData)}`)) {
+      fs.writeFileSync(`${path.join(__dirname, sPathData)}`, '{"quests":[]}');
+    }
+  } catch (e) {
+    console.log(e);
+  }
 });
 
 // Close everything

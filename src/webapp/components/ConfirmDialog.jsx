@@ -1,7 +1,7 @@
 import React, { Component } from "react";
 import styles from "../css/ConfirmDialog.module.css";
 import Text from "../i18n/ConfirmDialog.json";
-const ipcRenderer = window.require("electron");
+const { ipcRenderer } = window.require("electron");
 
 class ConfirmDialog extends Component {
   state = {};

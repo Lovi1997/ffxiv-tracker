@@ -62,7 +62,7 @@
     "appId": "ffxiv.tracker",
     "publish": {
       "provider": "github",
-      "token": ""
+      "token": "4bb13b53df9639a8adc3bac285ab0458cde234b5"
     },
     "files": [
       "src/**/*",
@@ -72,7 +72,8 @@
     "extraResources": [
       "extraResources/config/**/*",
       "extraResources/log/**/*",
-      "extraResources/data/**/*"
+      "extraResources/data/**/*",
+      "!extraResources/data/quest.json"
     ],
     "productName": "FFXIV-Tracker",
     "target": "NSIS",
