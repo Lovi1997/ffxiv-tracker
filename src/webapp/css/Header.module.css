@@ -73,3 +73,14 @@
   border-radius: 0.25em;
   font-size: 14px !important;
 }
+
+.headerimage {
+  height: 34px;
+  width:  34px;
+}
+
+.leftimage {
+  display: block;
+  padding: 8px 18px;
+  float: left;
+}

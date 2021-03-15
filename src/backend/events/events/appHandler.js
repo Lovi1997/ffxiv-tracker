@@ -18,6 +18,7 @@ function createWindow(BrowserWindow, autoUpdater) {
       contextIsolation: false,
       nodeIntegration: true,
     },
+    autoHideMenuBar: true,
   });
 
   win.loadURL(`file://${path.join(__dirname, "../../../../build/index.html")}`);

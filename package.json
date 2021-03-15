@@ -1,6 +1,6 @@
 {
   "name": "ffxiv-tracker",
-  "version": "0.1.1",
+  "version": "0.1.0",
   "description": "FFXIV-Tracker",
   "main": "public/main.js",
   "repository": {
@@ -62,7 +62,7 @@
     "appId": "ffxiv.tracker",
     "publish": {
       "provider": "github",
-      "token": "4bb13b53df9639a8adc3bac285ab0458cde234b5"
+      "token": ""
     },
     "files": [
       "src/**/*",
@@ -83,6 +83,10 @@
     "nsis": {
       "allowToChangeInstallationDirectory": true,
       "oneClick": false
+    },
+    "win": {
+      "certificateFile:": "cert.pfx",
+      "certificatePassword": ""
     }
   }
 }
