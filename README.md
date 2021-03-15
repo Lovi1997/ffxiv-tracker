@@ -14,7 +14,7 @@ FFXIV-Tracker is build with following APIs/Frameworks:
 * [Winston](https://www.npmjs.com/package/winston)
 
 ## Installation
-Download the Windows Installer from the published Releases.
+Download the Windows Installer from the published [Releases](https://github.com/Lovi1997/ffxiv-tracker/releases).
 -> latest Release is always recommended
 
 ---
