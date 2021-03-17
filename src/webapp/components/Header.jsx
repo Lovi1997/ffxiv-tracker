@@ -53,7 +53,7 @@ class Header extends Component {
             <img className={styles.headerimage} src={`./icons/header.png`} />
           </li>
           <li className={styles.left}>FFXIV-Tracker</li>
-          <li className={styles.left}>v{this.props.Version}</li>
+          <li className={styles.left}>{this.getVersion()}</li>
           <li className={styles.right}>{this.getTime()}</li>
           <li className={styles.dropdown}>
             <div className={styles.langu}>
@@ -70,6 +70,14 @@ class Header extends Component {
       </div>
     );
   }
+
+  getVersion = function () {
+    return this.props.updateAvailable ? (
+      <i class="fa fa-spinner fa-spin"></i>
+    ) : (
+      <div>v{this.props.Version}</div>
+    );
+  };
 }
 
 export default Header;
