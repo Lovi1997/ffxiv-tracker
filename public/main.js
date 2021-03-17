@@ -5,8 +5,9 @@ const { fs } = require("file-system");
 const isOnline = require("is-online");
 const { autoUpdater } = require("electron-updater");
 const isDev = require("electron-is-dev");
+
 // Own Modules
-const { FileSystem } = require("../src/backend/class/Util");
+const { FileSystem, Logger } = require("../src/backend/class/Util");
 // Events
 const {
   appHandler,
@@ -17,8 +18,9 @@ const {
   saveQuests,
 } = require(`${path.join(__dirname, "../src/backend/events/events")}`);
 
-// Variable for MainWindow
+// Variables
 var mainWindow;
+const oLogger = new Logger();
 
 // Create main window when ready
 app.whenReady().then(function () {
@@ -58,11 +60,13 @@ ipcMain.on("app_version", (event) => {
 
 // Send Notification -> Update Available
 autoUpdater.on("update-available", () => {
+  oLogger.log("Update Available", "I");
   mainWindow.webContents.send("update_available");
 });
 
 // Send Notification -> Update Downloaded
 autoUpdater.on("update-downloaded", () => {
+  oLogger.log("Update Downloaded", "I");
   mainWindow.webContents.send("update_downloaded");
 });
 
