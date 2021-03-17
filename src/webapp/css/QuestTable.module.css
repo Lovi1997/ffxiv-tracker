@@ -51,19 +51,23 @@
 }
 
 .name {
-  width: 39%;
+  width: 26%;
+}
+
+.jobs {
+  width: 22%;
 }
 
 .category {
-  width: 24%;
+  width: 21%;
 }
 
 .location {
-  width: 18%;
+  width: 14%;
 }
 
 .level {
-  width: 7%;
+  width: 5%;
 }
 
 .action {

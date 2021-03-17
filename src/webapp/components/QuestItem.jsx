@@ -15,6 +15,7 @@ class QuestItem extends Component {
       <tr className={this.getRowStyle()}>
         <td className={styles.icon}>{this.getIcon()}</td>
         <td className={styles.name}>{this.props.Quest.Name}</td>
+        <td className={styles.jobs}>{this.props.Quest.Jobs}</td>
         <td className={styles.level}>{this.props.Quest.Level}</td>
         <td className={styles.category}>{this.props.Quest.JournalCategory}</td>
         <td className={styles.location}>{this.props.Quest.Location}</td>

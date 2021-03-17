@@ -12,6 +12,8 @@ class Quest extends Super {
       "ID",
       "Name",
       "ClassJobLevel0",
+      "ClassJobCategory0.Name",
+      "ClassJobUnlock.Abbreviation",
       "JournalGenre.JournalCategory.Name",
       "JournalGenre.Name",
       "IssuerLocation.Map.PlaceName.Name",
@@ -66,10 +68,16 @@ class Quest extends Super {
         bDone = oExisting.quests[iExisting].Done;
       }
 
+      var sJob =
+        oQuest.ClassJobUnlock.Abbreviation == null
+          ? oQuest.ClassJobCategory0.Name
+          : oQuest.ClassJobUnlock.Abbreviation;
+
       aQuestsNew.push({
         iID: oQuest.ID,
         IconID: oQuest.IconID,
         Icon: oQuest.Icon,
+        Jobs: sJob,
         Name: oQuest.Name,
         Level: oQuest.ClassJobLevel0,
         Location: oQuest.IssuerLocation.Map.PlaceName.Name,

@@ -23,6 +23,7 @@ class QuestTable extends Component {
         <tr>
           <th className={styles.icon}></th>
           <th className={styles.name}>{Text[window.lang]["Name"]}</th>
+          <th className={styles.jobs}>Jobs</th>
           <th className={styles.level}>{Text[window.lang]["Level"]}</th>
           <th className={styles.category}>{Text[window.lang]["Category"]}</th>
           <th className={styles.location}>{Text[window.lang]["Location"]}</th>
@@ -38,6 +39,7 @@ class QuestTable extends Component {
         <tfoot>
           <th></th>
           <th>{this.getMessage()}</th>
+          <th></th>
           <th></th>
           <th></th>
           <th></th>
