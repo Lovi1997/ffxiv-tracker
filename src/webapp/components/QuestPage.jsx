@@ -10,6 +10,12 @@ const { ipcRenderer } = window.require("electron");
 class QuestPage extends Component {
   constructor(props) {
     super(props);
+
+    var oSort =
+      this.props.JournalSectionID == 0 || this.props.JournalSectionID === 1
+        ? { Field: "Level", Order: "ASC" }
+        : { Field: "JournalCategory", Order: "ASC" };
+
     this.state = {
       QPage: {
         loading: true,
@@ -17,7 +23,7 @@ class QuestPage extends Component {
         Display: [],
         Quests: [],
         NumberOfDone: 0,
-        Sort: { Field: "Level", Order: "ASC" },
+        Sort: oSort,
         Filter: { Field: "none", Value: "" },
       },
     };
@@ -93,6 +99,7 @@ class QuestPage extends Component {
         onChange={this.onSortChange}
         Options={aOptions}
         Handler={this}
+        Value={JSON.stringify(this.state.QPage.Sort)}
       />
     );
   };
@@ -121,7 +128,7 @@ class QuestPage extends Component {
   onDisplayChange = function () {
     var QPage = { ...this.state.QPage };
     QPage.Display = QuestPageHelper.filter(QPage.Quests, QPage.Filter);
-    QPage.Display = QuestPageHelper.sort(QPage.Display, QPage.Sort, "Level");
+    QPage.Display = QuestPageHelper.sort(QPage.Display, QPage.Sort);
     QPage.loading = false;
     this.setState({ QPage });
   };
@@ -169,7 +176,7 @@ class QuestPage extends Component {
     QPage.Display = QuestPageHelper.filter(QPage.Quests, QPage.Filter);
 
     if (QPage.Sort.Field !== "Level" || QPage.Sort.Order !== "ASC") {
-      QPage.Display = QuestPageHelper.sort(QPage.Display, QPage.Sort, "Level");
+      QPage.Display = QuestPageHelper.sort(QPage.Display, QPage.Sort);
     }
     oHandler.setState({ QPage });
   };

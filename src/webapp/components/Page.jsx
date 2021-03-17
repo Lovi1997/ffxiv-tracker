@@ -46,6 +46,7 @@ class Page extends Component {
             JournalCategories={this.state.Page.JournalCategories}
             key="pa-quest"
             App={this.props.App}
+            JournalSectionID={this.state.Page.JournalSection.iID}
           />
         );
         break;

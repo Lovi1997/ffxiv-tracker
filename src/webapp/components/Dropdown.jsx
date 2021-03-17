@@ -14,7 +14,14 @@ class Dropdown extends Component {
       >
         <select>
           {this.props.Options.map((oOption) => {
-            return <option value={oOption.Value}>{oOption.Text}</option>;
+            return (
+              <option
+                selected={oOption.Value === this.props.Value}
+                value={oOption.Value}
+              >
+                {oOption.Text}
+              </option>
+            );
           })}
         </select>
       </div>

@@ -34,7 +34,6 @@ class App extends Component {
     this.checkConnection(this);
 
     var config = ipcRenderer.sendSync("get_config");
-    console.log(config.language);
     window.lang = config.language;
     window.IconIDs = config.IconIDs;
   }

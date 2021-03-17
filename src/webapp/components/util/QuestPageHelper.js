@@ -49,45 +49,29 @@ class QuestPageHelper {
     }
 
     var aArrayNew = [...aArray];
+    var sSecondary = oSort.Field === "Level" ? "JournalCategory" : "Level";
 
     aArrayNew.sort(function (oObject1, oObject2) {
-      var sValue1 = "";
-      var sValue2 = "";
-
-      if (oSort.Field === "Level") {
-        sValue1 = parseInt(oObject1[oSort.Field].toString().toUpperCase());
-        sValue2 = parseInt(oObject2[oSort.Field].toString().toUpperCase());
-      } else {
-        sValue1 = oObject1[oSort.Field].toString().toUpperCase();
-        sValue2 = oObject2[oSort.Field].toString().toUpperCase();
-      }
-
-      if (sValue1 < sValue2) {
+      if (oObject1[oSort.Field] < oObject2[oSort.Field]) {
         return iLower;
       }
-      if (sValue1 > sValue2) {
+      if (oObject1[oSort.Field] > oObject2[oSort.Field]) {
         return iHigher;
       }
-
-      if (sSecondary !== undefined && sSecondary !== oSort.Field) {
-        var sValue3 = "";
-        var sValue4 = "";
-        if (sSecondary === "Level") {
-          sValue3 = parseInt(oObject1[sSecondary].toString().toUpperCase());
-          sValue4 = parseInt(oObject2[sSecondary].toString().toUpperCase());
-        } else {
-          sValue3 = oObject1[sSecondary].toString().toUpperCase();
-          sValue4 = oObject2[sSecondary].toString().toUpperCase();
-        }
-
-        if (sValue3 < sValue4) {
+      if (sSecondary !== oSort.Field) {
+        if (oObject1[sSecondary] < oObject2[sSecondary]) {
           return -1;
         }
-        if (sValue3 > sValue4) {
+        if (oObject1[sSecondary] > oObject2[sSecondary]) {
           return 1;
         }
       }
-
+      if (oObject1.iID < oObject2.iID) {
+        return -1;
+      }
+      if (oObject1.iID > oObject2.iID) {
+        return 1;
+      }
       return 0;
     });
     return aArrayNew;
