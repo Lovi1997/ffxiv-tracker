@@ -1,3 +1,6 @@
+// Own Modules
+const { FileSystem, Logger } = require("../src/backend/class/Util");
+
 // Node Modules
 const { app, BrowserWindow, ipcMain } = require("electron");
 const path = require("path");
@@ -6,8 +9,6 @@ const isOnline = require("is-online");
 const { autoUpdater } = require("electron-updater");
 const isDev = require("electron-is-dev");
 
-// Own Modules
-const { FileSystem, Logger } = require("../src/backend/class/Util");
 // Events
 const {
   appHandler,
@@ -20,11 +21,10 @@ const {
 
 // Variables
 var mainWindow;
-const oLogger = new Logger();
+var oLogger = {};
 
 // Create main window when ready
 app.whenReady().then(function () {
-  mainWindow = appHandler.createWindow(BrowserWindow, autoUpdater);
   var sPathLog = isDev
     ? "../extraResources/log/log.log"
     : "../../extraResources/log/log.log";
@@ -41,6 +41,10 @@ app.whenReady().then(function () {
   } catch (e) {
     console.log(e);
   }
+
+  oLooger = new Logger();
+  autoUpdater.logger = oLogger._oWinston;
+  mainWindow = appHandler.createWindow(BrowserWindow, autoUpdater);
 });
 
 // Close everything
@@ -69,6 +73,18 @@ autoUpdater.on("update-downloaded", () => {
   oLogger.log("Update Downloaded", "I");
   mainWindow.webContents.send("update_downloaded");
 });
+
+// Log Update Process
+autoUpdater.on(
+  "download-progress",
+  (progress, bytesPerSecond, percent, total, transferred) => {
+    oLogger.log(percent, "I");
+    oLogger.log(total, "I");
+    oLogger.log(bytesPerSecond, "I");
+
+    mainWindow.webContents.send("progress", percent);
+  }
+);
 
 // Install Update
 ipcMain.on("restart_app", () => {

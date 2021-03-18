@@ -30,6 +30,9 @@ class App extends Component {
     };
     ipcRenderer.on("update_available", () => this.onUpdateAvailable(this));
     ipcRenderer.on("update_downloaded", () => this.onUpdateDownloaded(this));
+    ipcRenderer.on("progress", (percent, total, bytesPerSecond) => {
+      console.log(`${percent} ; ${total} ; ${bytesPerSecond}`);
+    });
 
     this.checkConnection(this);
 
@@ -106,16 +109,17 @@ class App extends Component {
   };
 
   onUpdateAvailable = function (oHandler) {
-    ipcRenderer.removeAllListeners("update_available");
+    console.log("Update Available");
     var App = { ...oHandler.state.App };
     App.updateAvailable = true;
     oHandler.setState({ App });
   };
 
   onUpdateDownloaded = function (oHandler) {
-    ipcRenderer.removeAllListeners("update_downloaded");
+    console.log("Update Downloaded");
     var App = { ...oHandler.state.App };
     App.updateDownloaded = true;
+    App.updateAvailable = false;
     oHandler.setState({ App });
   };
 
