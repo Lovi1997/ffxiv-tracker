@@ -42,9 +42,9 @@ app.whenReady().then(function () {
     console.log(e);
   }
 
-  oLooger = new Logger();
+  oLogger = new Logger();
   autoUpdater.logger = oLogger._oWinston;
-  mainWindow = appHandler.createWindow(BrowserWindow, autoUpdater);
+  mainWindow = appHandler.createWindow(BrowserWindow);
 });
 
 // Close everything
@@ -54,7 +54,7 @@ app.on("window-all-closed", () => {
 
 //activate and create Browser window
 app.on("activate", () => {
-  mainWindow = appHandler.activate(BrowserWindow, autoUpdater);
+  mainWindow = appHandler.activate(BrowserWindow);
 });
 
 // Get Version
@@ -88,7 +88,13 @@ autoUpdater.on(
 
 // Install Update
 ipcMain.on("restart_app", () => {
+  oLogger.log("Install Update", "I");
   autoUpdater.quitAndInstall();
+});
+
+ipcMain.on("check_update", () => {
+  oLogger.log("Check for Update", "I");
+  autoUpdater.checkForUpdatesAndNotify();
 });
 
 // Initialze Journal Sections

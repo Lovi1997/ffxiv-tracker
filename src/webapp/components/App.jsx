@@ -33,6 +33,7 @@ class App extends Component {
     ipcRenderer.on("progress", (percent, total, bytesPerSecond) => {
       console.log(`${percent} ; ${total} ; ${bytesPerSecond}`);
     });
+    ipcRenderer.send("check_update");
 
     this.checkConnection(this);
 

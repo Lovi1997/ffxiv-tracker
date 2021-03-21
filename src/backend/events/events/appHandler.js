@@ -5,12 +5,12 @@ function win_all_closed(app) {
     app.quit();
   }
 }
-function activate(BrowserWindow, autoUpdater) {
+function activate(BrowserWindow) {
   if (BrowserWindow.getAllWindows().length === 0) {
     return createWindow(BrowserWindow);
   }
 }
-function createWindow(BrowserWindow, autoUpdater) {
+function createWindow(BrowserWindow) {
   const win = new BrowserWindow({
     width: 1280,
     height: 1024,
@@ -22,11 +22,6 @@ function createWindow(BrowserWindow, autoUpdater) {
   });
 
   win.loadURL(`file://${path.join(__dirname, "../../../../build/index.html")}`);
-
-  win.once("ready-to-show", () => {
-    autoUpdater.checkForUpdatesAndNotify();
-  });
-
   return win;
 }
 
