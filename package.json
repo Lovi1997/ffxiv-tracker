@@ -1,6 +1,6 @@
 {
   "name": "ffxiv-tracker",
-  "version": "0.1.3",
+  "version": "0.1.1",
   "description": "FFXIV-Tracker",
   "main": "public/main.js",
   "repository": {
@@ -86,7 +86,8 @@
     },
     "win": {
       "certificateFile": "cert.pfx",
-      "certificatePassword": ""
+      "certificatePassword": "",
+      "verifyUpdateCodeSignature": false
     }
   }
 }

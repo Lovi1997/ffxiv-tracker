@@ -30,9 +30,6 @@ class App extends Component {
     };
     ipcRenderer.on("update_available", () => this.onUpdateAvailable(this));
     ipcRenderer.on("update_downloaded", () => this.onUpdateDownloaded(this));
-    ipcRenderer.on("progress", (percent, total, bytesPerSecond) => {
-      console.log(`${percent} ; ${total} ; ${bytesPerSecond}`);
-    });
     ipcRenderer.send("check_update");
 
     this.checkConnection(this);

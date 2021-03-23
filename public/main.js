@@ -64,36 +64,20 @@ ipcMain.on("app_version", (event) => {
 
 // Send Notification -> Update Available
 autoUpdater.on("update-available", () => {
-  oLogger.log("Update Available", "I");
   mainWindow.webContents.send("update_available");
 });
 
 // Send Notification -> Update Downloaded
 autoUpdater.on("update-downloaded", () => {
-  oLogger.log("Update Downloaded", "I");
   mainWindow.webContents.send("update_downloaded");
 });
 
-// Log Update Process
-autoUpdater.on(
-  "download-progress",
-  (progress, bytesPerSecond, percent, total, transferred) => {
-    oLogger.log(percent, "I");
-    oLogger.log(total, "I");
-    oLogger.log(bytesPerSecond, "I");
-
-    mainWindow.webContents.send("progress", percent);
-  }
-);
-
 // Install Update
 ipcMain.on("restart_app", () => {
-  oLogger.log("Install Update", "I");
   autoUpdater.quitAndInstall();
 });
 
 ipcMain.on("check_update", () => {
-  oLogger.log("Check for Update", "I");
   autoUpdater.checkForUpdatesAndNotify();
 });
 
