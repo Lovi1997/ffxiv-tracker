@@ -27,11 +27,13 @@ Download the Windows Installer from the published [Releases](https://github.com/
 - 0.1.1
 
   - Fixes in sorting
+  - Fix Auto Updater
   - Adding spinning Icon if Updating,
   - Adding Jobs for better distinction between quests
 
 - 0.1.0
   - Initial Release
+  - Auto Updater not working yet
 
 ---
 
