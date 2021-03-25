@@ -72,8 +72,7 @@
     "extraResources": [
       "extraResources/config/**/*",
       "extraResources/log/**/*",
-      "extraResources/data/**/*",
-      "!extraResources/data/quest.json"
+      "!extraResources/data/**/*"
     ],
     "productName": "FFXIV-Tracker",
     "target": "NSIS",

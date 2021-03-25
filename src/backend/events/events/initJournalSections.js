@@ -1,6 +1,7 @@
 const JournalSection = require("../../class/online/JournalSection");
 const { Downloader } = require("../../class/Util");
 const isDev = require("electron-is-dev");
+const path = require("path");
 
 const initJournalSections = async function () {
   var aJournalSections = await getJournalSections();
@@ -21,7 +22,7 @@ const initJournalSections = async function () {
 async function getTotalDone() {
   const sPathFile = isDev
     ? "../../../../extraResources/data/quest.json"
-    : "../../../../../extraResources/data/quest.json";
+    : `${path.join(process.env.APPDATA, "./ffxiv-tracker/quest.json")}`;
   var oExisting = require(sPathFile);
 
   var iDone = 0;

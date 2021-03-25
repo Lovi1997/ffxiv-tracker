@@ -91,9 +91,16 @@ class Quest extends Super {
   }
 
   async save(aQuestsNew) {
-    const sPathFile = isDev
-      ? "../../../../extraResources/data/quest.json"
-      : "../../../../../extraResources/data/quest.json";
+    var sPathFile = "";
+    var bAPPDATA = true;
+
+    if (isDev) {
+      sPathFile = "../../../../extraResources/data/quest.json";
+      bAPPDATA = false;
+    } else {
+      bAPPDATA = true;
+      sPathFile = "./ffxiv-tracker/quest.json";
+    }
 
     var oQuests = require(sPathFile);
     aQuestsNew.forEach(function (oQuestNew) {
@@ -115,7 +122,7 @@ class Quest extends Super {
     while (Quest._saving === true) {}
     Quest._saving = true;
     var bResult = await this._FileSystem
-      .write(sPathFile, oQuests, false)
+      .write(sPathFile, oQuests, false, bAPPDATA)
       .then((result) => {
         Quest._saving = false;
         return result;

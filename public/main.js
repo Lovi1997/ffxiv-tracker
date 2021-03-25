@@ -8,6 +8,7 @@ const { fs } = require("file-system");
 const isOnline = require("is-online");
 const { autoUpdater } = require("electron-updater");
 const isDev = require("electron-is-dev");
+const { globalAgent } = require("http");
 
 // Events
 const {
@@ -30,16 +31,19 @@ app.whenReady().then(function () {
     : "../../extraResources/log/log.log";
   fs.unlink(`${path.join(__dirname, sPathLog)}`, function () {});
 
-  var sPathData = isDev
-    ? "../extraResources/data/quest.json"
-    : "../../extraResources/data/quest.json";
+  var sPathDir = isDev
+    ? `${path.join(__dirname, "../extraResources/data")}`
+    : `${path.join(process.env.APPDATA, "./ffxiv-tracker")}`;
+
+  var sPathFile = `${path.join(sPathDir, "./quest.json")}`;
 
   try {
-    if (!fs.existsSync(`${path.join(__dirname, sPathData)}`)) {
-      fs.writeFileSync(`${path.join(__dirname, sPathData)}`, '{"quests":[]}');
+    if (!fs.existsSync(sPathFile)) {
+      fs.writeFileSync(sPathFile, '{"quests":[]}');
     }
   } catch (e) {
-    console.log(e);
+    fs.mkdirSync(sPathDir, { recursive: true });
+    fs.writeFileSync(sPathFile, '{"quests":[]}');
   }
 
   oLogger = new Logger();
@@ -121,11 +125,13 @@ ipcMain.handle("search", async (event, sSearchString) => {
 
 // Read Config
 ipcMain.on("get_config", (event) => {
-  const sPath = isDev
+  const sPathConfig = isDev
     ? "../extraResources/config/config.json"
     : "../../extraResources/config/config.json";
-  const config = require(sPath);
-  event.returnValue = { language: config.language, IconIDs: config.IconIDs };
+  const oConfig = require(sPathConfig);
+
+  const aIcons = require("../src/preload.json");
+  event.returnValue = { language: oConfig.language, IconIDs: aIcons };
 });
 
 // Change Language
