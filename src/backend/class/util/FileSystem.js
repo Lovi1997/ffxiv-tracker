@@ -55,15 +55,15 @@ class FileSystem {
     }
   }
 
-  write(sPath, oData, bLog, bAPPDATA) {
+  write(sPath, oData, bLog, bFullPath) {
     // return Promise for async Read
     var that = this;
     return new Promise(function (resolve, reject) {
-      that._onWrite(resolve, reject, sPath, oData, bLog, bAPPDATA);
+      that._onWrite(resolve, reject, sPath, oData, bLog, bFullPath);
     });
   }
 
-  _onWrite(resolve, reject, sPath, oData, bLog, bAPPDATA) {
+  _onWrite(resolve, reject, sPath, oData, bLog, bFullPath) {
     // Log Info
     if (bLog === true) {
       this._oLogger.log(`Write File: ${sPath}`, "I");
@@ -73,9 +73,7 @@ class FileSystem {
     var sData = JSON.stringify(oData);
 
     var sFilePath =
-      bAPPDATA === true
-        ? `${path.join(process.env.APPDATA, sPath)}`
-        : `${path.join(__dirname, sPath)}`;
+      bFullPath === true ? sPath : `${path.join(__dirname, sPath)}`;
 
     this._oFS.writeFile(sFilePath, sData, function (error) {
       that._onWriteFinished(resolve, reject, error, bLog);

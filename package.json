@@ -1,6 +1,6 @@
 {
   "name": "ffxiv-tracker",
-  "version": "0.1.1",
+  "version": "0.1.2",
   "description": "FFXIV-Tracker",
   "main": "public/main.js",
   "repository": {
@@ -67,6 +67,7 @@
     "files": [
       "src/**/*",
       "!node_modules/.cache/*",
+      "!package-lock-json",
       "build/*"
     ],
     "extraResources": [

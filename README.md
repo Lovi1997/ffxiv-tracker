@@ -24,6 +24,11 @@ Download the Windows Installer from the published [Releases](https://github.com/
 
 ## Release History
 
+- 0.1.2
+  - New Icon Preload
+  - File writing adapted
+  - config fix
+
 - 0.1.1
 
   - Fixes in sorting

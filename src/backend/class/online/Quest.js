@@ -1,6 +1,7 @@
 const { FileSystem } = require("../Util");
 const Super = require("./Super");
 const isDev = require("electron-is-dev");
+const path = require("path");
 
 class Quest extends Super {
   static _saving = false;
@@ -44,7 +45,7 @@ class Quest extends Super {
 
     const sPathRead = isDev
       ? "../../../../extraResources/data/quest.json"
-      : "../../../../../extraResources/data/quest.json";
+      : `${path.join(process.env.APPDATA, "./ffxiv-tracker/quest.json")}`;
 
     while (Quest._saving === true) {}
     var aQuestsNew = [];
@@ -92,14 +93,14 @@ class Quest extends Super {
 
   async save(aQuestsNew) {
     var sPathFile = "";
-    var bAPPDATA = true;
+    var bFullPath = true;
 
     if (isDev) {
       sPathFile = "../../../../extraResources/data/quest.json";
-      bAPPDATA = false;
+      bFullPath = false;
     } else {
-      bAPPDATA = true;
-      sPathFile = "./ffxiv-tracker/quest.json";
+      bFullPath = true;
+      sPathFile = `${path.join(process.env.APPDATA, "./ffxiv-tracker/quest.json")}`;
     }
 
     var oQuests = require(sPathFile);
@@ -122,7 +123,7 @@ class Quest extends Super {
     while (Quest._saving === true) {}
     Quest._saving = true;
     var bResult = await this._FileSystem
-      .write(sPathFile, oQuests, false, bAPPDATA)
+      .write(sPathFile, oQuests, false, bFullPath)
       .then((result) => {
         Quest._saving = false;
         return result;
