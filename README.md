@@ -10,7 +10,6 @@ The FFXIV-Tracker is a small Quest-Tracker for Final Fantasy XIV.
 
 FFXIV-Tracker is build with following APIs/Frameworks:
 
-- [XIVAPI](https://xivapi.com)
 - [Electron](https://www.electronjs.org/)
 - [ReactJS](https://reactjs.org/)
 - [Winston](https://www.npmjs.com/package/winston)
@@ -23,6 +22,10 @@ Download the Windows Installer from the published [Releases](https://github.com/
 ---
 
 ## Release History
+
+- 0.2.0
+  - Removed XIVAPI and added Data locally (now its complete)
+  - Some fixes in Search
 
 - 0.1.2
   - New Icon Preload
