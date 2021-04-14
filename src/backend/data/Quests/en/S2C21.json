@@ -1,0 +1,1777 @@
+[
+    {
+        "ID": "19390ac302f",
+        "Name": "All That Grinds Is Not Gloom",
+        "Location": "Kholusia",
+        "Level": 80,
+        "JournalSection": 2,
+        "JournalCategory": 21,
+        "JournalGenre": "YoRHa: Dark Apocalypse",
+        "Url": "/lodestone/playguide/db/quest/19390ac302f/",
+        "Image": null,
+        "Icon": "function_repeat",
+        "Issuer": "Doomsaying Dwarf",
+        "StartLocation": {
+            "Name": "Kholusia",
+            "X": "34.5",
+            "Y": "18.0"
+        },
+        "StartClass": null,
+        "Job": "Any Disciple of War or Magic (excluding limited jobs)",
+        "Company": "Not specified",
+        "Requirement": "Not specified",
+        "Rewards": {
+            "Gil": 310,
+            "Exp": 0,
+            "ItemsMand": [],
+            "ItemsOpt": []
+        },
+        "Infos": {
+            "PrevQuests": [
+                {
+                    "Name": "Komra Wasn't Built in a Day",
+                    "Url": "/lodestone/playguide/db/quest/e40ede1be5f/",
+                    "Area": "Kholusia",
+                    "Level": "80"
+                }
+            ]
+        },
+        "Seq": 16,
+        "oldID": 69586,
+        "Map": {
+            "ID": 492
+        }
+    },
+    {
+        "ID": "4bd0d3f34f3",
+        "Name": "Crime and Punishment",
+        "Location": "Anogg's Lair",
+        "Level": 80,
+        "JournalSection": 2,
+        "JournalCategory": 21,
+        "JournalGenre": "YoRHa: Dark Apocalypse",
+        "Url": "/lodestone/playguide/db/quest/4bd0d3f34f3/",
+        "Image": "https://img.finalfantasyxiv.com/lds/pc/global/images/itemicon/27/27c43b136598849945edcd582e80736daa7b23d9.png?n5.5",
+        "Icon": "function_normal",
+        "Issuer": "Konogg",
+        "StartLocation": {
+            "Name": "Excavation Tunnels",
+            "X": "6.1",
+            "Y": "6.0"
+        },
+        "StartClass": null,
+        "Job": "Any Disciple of War or Magic (excluding limited jobs)",
+        "Company": "Not specified",
+        "Requirement": "Not specified",
+        "Rewards": {
+            "Gil": 0,
+            "Exp": 0,
+            "ItemsMand": [
+                {
+                    "Icon": "https://img.finalfantasyxiv.com/lds/pc/global/images/itemicon/7e/7eaa53e1fe9e2bd80f81d9ce69c98c24f6223b0b.png?n5.5",
+                    "Name": "Broken Heart Orchestrion Roll",
+                    "Amount": 1,
+                    "Url": "/lodestone/playguide/db/item/f05eedca46b/"
+                }
+            ],
+            "ItemsOpt": []
+        },
+        "Infos": {
+            "PrevQuests": [
+                {
+                    "Name": "Everything You Know Is Wrong",
+                    "Url": "/lodestone/playguide/db/quest/a0328655d65/",
+                    "Area": "Excavation Tunnels",
+                    "Level": "80"
+                }
+            ],
+            "NextQuests": [
+                {
+                    "Name": "To Make Amends",
+                    "Url": "/lodestone/playguide/db/quest/815c32e14aa/",
+                    "Area": "Kholusia",
+                    "Level": "80"
+                }
+            ],
+            "NPCs": [
+                {
+                    "Name": "Anogg",
+                    "Url": "/lodestone/playguide/db/npc/npc/9ad5908213f/",
+                    "Area": "Excavation Tunnels (X:5.9 Y:5.0)"
+                },
+                {
+                    "Name": "Anogg",
+                    "Url": "/lodestone/playguide/db/npc/npc/699ea11751b/",
+                    "Area": "Excavation Tunnels (X:6.1 Y:6.0)"
+                },
+                {
+                    "Name": "Decisive Dwarf",
+                    "Url": "/lodestone/playguide/db/npc/npc/c054d0ec190/",
+                    "Area": "Excavation Tunnels (X:6.0 Y:5.1)"
+                },
+                {
+                    "Name": "Demanding Dwarf",
+                    "Url": "/lodestone/playguide/db/npc/npc/046944276fa/",
+                    "Area": "Excavation Tunnels (X:6.0 Y:5.0)"
+                },
+                {
+                    "Name": "Dig Site Chief",
+                    "Url": "/lodestone/playguide/db/npc/npc/32e4556bcac/",
+                    "Area": "Excavation Tunnels (X:5.9 Y:5.1)"
+                },
+                {
+                    "Name": "Dig Site Chief",
+                    "Url": "/lodestone/playguide/db/npc/npc/d3a6bcaf8c1/",
+                    "Area": "Excavation Tunnels (X:5.9 Y:5.0)"
+                },
+                {
+                    "Name": "Dismayed Dwarf",
+                    "Url": "/lodestone/playguide/db/npc/npc/3b8fb3053bd/",
+                    "Area": "Excavation Tunnels (X:5.9 Y:4.9)"
+                },
+                {
+                    "Name": "Doomsaying Dwarf",
+                    "Url": "/lodestone/playguide/db/npc/npc/3f301c410ed/",
+                    "Area": "Excavation Tunnels (X:6.0 Y:5.0)"
+                },
+                {
+                    "Name": "Dour Dwarf",
+                    "Url": "/lodestone/playguide/db/npc/npc/2e156558ef7/",
+                    "Area": "Excavation Tunnels (X:5.9 Y:5.1)"
+                },
+                {
+                    "Name": "Glagg",
+                    "Url": "/lodestone/playguide/db/npc/npc/bf39bcd95fe/",
+                    "Area": "Excavation Tunnels (X:5.9 Y:5.0)"
+                },
+                {
+                    "Name": "Konogg",
+                    "Url": "/lodestone/playguide/db/npc/npc/4d734cc4ccc/",
+                    "Area": "Excavation Tunnels (X:5.9 Y:5.0)"
+                },
+                {
+                    "Name": "Konogg",
+                    "Url": "/lodestone/playguide/db/npc/npc/22932568db3/",
+                    "Area": "Kholusia (X:33.8 Y:18.0)"
+                }
+            ]
+        },
+        "Seq": 10,
+        "oldID": 69490,
+        "Map": {
+            "ID": 614
+        }
+    },
+    {
+        "ID": "5d1432411a8",
+        "Name": "How to Catch an Automaton",
+        "Location": "Kholusia",
+        "Level": 80,
+        "JournalSection": 2,
+        "JournalCategory": 21,
+        "JournalGenre": "YoRHa: Dark Apocalypse",
+        "Url": "/lodestone/playguide/db/quest/5d1432411a8/",
+        "Image": null,
+        "Icon": "function_repeat",
+        "Issuer": "Decisive Dwarf",
+        "StartLocation": {
+            "Name": "Kholusia",
+            "X": "34.5",
+            "Y": "18.0"
+        },
+        "StartClass": null,
+        "Job": "Any Disciple of War or Magic (excluding limited jobs)",
+        "Company": "Not specified",
+        "Requirement": "Not specified",
+        "Rewards": {
+            "Gil": 310,
+            "Exp": 0,
+            "ItemsMand": [],
+            "ItemsOpt": []
+        },
+        "Infos": {
+            "PrevQuests": [
+                {
+                    "Name": "Doomsaying Dwarf",
+                    "Url": "/lodestone/playguide/db/npc/npc/f2e24122dc3/",
+                    "Area": "Kholusia (X:34.5 Y:18.0)"
+                },
+                {
+                    "Name": "Dour Dwarf",
+                    "Url": "/lodestone/playguide/db/npc/npc/6550c2ae2ae/",
+                    "Area": "Kholusia (X:34.5 Y:18.0)"
+                }
+            ]
+        },
+        "Seq": 18,
+        "oldID": 69588,
+        "Map": {
+            "ID": 492
+        }
+    },
+    {
+        "ID": "72a6f70a79f",
+        "Name": "Tails, You Lose",
+        "Location": "The Copied Factory",
+        "Level": 80,
+        "JournalSection": 2,
+        "JournalCategory": 21,
+        "JournalGenre": "YoRHa: Dark Apocalypse",
+        "Url": "/lodestone/playguide/db/quest/72a6f70a79f/",
+        "Image": "https://img.finalfantasyxiv.com/lds/pc/global/images/itemicon/29/294dee4fbc1661a287a1407082e17b7e06715dcf.png?n5.5",
+        "Icon": "function_normal",
+        "Issuer": "Anogg",
+        "StartLocation": {
+            "Name": "The Copied Factory",
+            "X": "13.4",
+            "Y": "17.5"
+        },
+        "StartClass": null,
+        "Job": "Any Disciple of War or Magic (excluding limited jobs)",
+        "Company": "Not specified",
+        "Requirement": "Not specified",
+        "Rewards": {
+            "Gil": 1455,
+            "Exp": 0,
+            "ItemsMand": [
+                {
+                    "Icon": "https://img.finalfantasyxiv.com/lds/pc/global/images/itemicon/7e/7eaa53e1fe9e2bd80f81d9ce69c98c24f6223b0b.png?n5.5",
+                    "Name": "Voice of no Return (Guitar) Orchestrion Roll",
+                    "Amount": 1,
+                    "Url": "/lodestone/playguide/db/item/01f68664010/"
+                }
+            ],
+            "ItemsOpt": []
+        },
+        "Infos": {
+            "PrevQuests": [
+                {
+                    "Name": "An Academic Dispute",
+                    "Url": "/lodestone/playguide/db/quest/8169b41d06c/",
+                    "Area": "Excavation Tunnels",
+                    "Level": "80"
+                }
+            ],
+            "NextQuests": [
+                {
+                    "Name": "Carnivals and Confrontations",
+                    "Url": "/lodestone/playguide/db/quest/f59f3e86cb3/",
+                    "Area": "Kholusia",
+                    "Level": "80"
+                }
+            ],
+            "NPCs": [
+                {
+                    "Name": "Anogg",
+                    "Url": "/lodestone/playguide/db/npc/npc/0d779657630/",
+                    "Area": "Excavation Tunnels (X:6.0 Y:4.3)"
+                },
+                {
+                    "Name": "Anogg",
+                    "Url": "/lodestone/playguide/db/npc/npc/7f9cc63ddb1/",
+                    "Area": "Excavation Tunnels (X:5.8 Y:4.7)"
+                },
+                {
+                    "Name": "Konogg",
+                    "Url": "/lodestone/playguide/db/npc/npc/15abaa804dd/",
+                    "Area": "Excavation Tunnels (X:5.8 Y:4.7)"
+                },
+                {
+                    "Name": "Pod",
+                    "Url": "/lodestone/playguide/db/npc/npc/6dc4333773d/",
+                    "Area": "Excavation Tunnels (X:5.8 Y:4.7)"
+                },
+                {
+                    "Name": "Dig Site Chief",
+                    "Url": "/lodestone/playguide/db/npc/npc/66471f2a8e8/",
+                    "Area": "Kholusia (X:34.7 Y:18.2)"
+                },
+                {
+                    "Name": "Anogg",
+                    "Url": "/lodestone/playguide/db/npc/npc/613b51df7a5/",
+                    "Area": "The Copied Factory (X:11.9 Y:7.3)"
+                },
+                {
+                    "Name": "Anogg",
+                    "Url": "/lodestone/playguide/db/npc/npc/7b43a078849/",
+                    "Area": "The Copied Factory (X:9.9 Y:6.7)"
+                },
+                {
+                    "Name": "Anogg",
+                    "Url": "/lodestone/playguide/db/npc/npc/d249e54348a/",
+                    "Area": "The Copied Factory (X:12.2 Y:9.8)"
+                },
+                {
+                    "Name": "Anogg",
+                    "Url": "/lodestone/playguide/db/npc/npc/e1ded9f70e7/",
+                    "Area": "The Copied Factory (X:11.2 Y:15.4)"
+                },
+                {
+                    "Name": "Damaged Pod",
+                    "Url": "/lodestone/playguide/db/npc/npc/ff8a2688777/",
+                    "Area": "The Copied Factory (X:11.4 Y:10.4)"
+                },
+                {
+                    "Name": "Konogg",
+                    "Url": "/lodestone/playguide/db/npc/npc/71b5da21c0a/",
+                    "Area": "The Copied Factory (X:11.2 Y:15.4)"
+                },
+                {
+                    "Name": "Konogg",
+                    "Url": "/lodestone/playguide/db/npc/npc/52a6ba85e3f/",
+                    "Area": "The Copied Factory (X:13.4 Y:17.5)"
+                }
+            ]
+        },
+        "Seq": 4,
+        "oldID": 69256,
+        "Map": {
+            "ID": 578
+        }
+    },
+    {
+        "ID": "743d0eaef54",
+        "Name": "It Takes a Village",
+        "Location": "Kholusia",
+        "Level": 80,
+        "JournalSection": 2,
+        "JournalCategory": 21,
+        "JournalGenre": "YoRHa: Dark Apocalypse",
+        "Url": "/lodestone/playguide/db/quest/743d0eaef54/",
+        "Image": "https://img.finalfantasyxiv.com/lds/pc/global/images/itemicon/a0/a091cd3aa537428a486acc2787a274c6a1cdc315.png?n5.5",
+        "Icon": "function_normal",
+        "Issuer": "Dig Site Chief",
+        "StartLocation": {
+            "Name": "Kholusia",
+            "X": "35.5",
+            "Y": "18.6"
+        },
+        "StartClass": null,
+        "Job": "Any Disciple of War or Magic (excluding limited jobs)",
+        "Company": "Not specified",
+        "Requirement": "Not specified",
+        "Rewards": {
+            "Gil": 1255,
+            "Exp": 0,
+            "ItemsMand": [],
+            "ItemsOpt": []
+        },
+        "Infos": {
+            "PrevQuests": [
+                {
+                    "Name": "Brave New World",
+                    "Url": "/lodestone/playguide/db/quest/bf682344248/",
+                    "Area": "The Puppets' Bunker",
+                    "Level": "80"
+                }
+            ],
+            "NextQuests": [
+                {
+                    "Name": "Komra Wasn't Built in a Day",
+                    "Url": "/lodestone/playguide/db/quest/e40ede1be5f/",
+                    "Area": "Kholusia",
+                    "Level": "80"
+                }
+            ],
+            "NPCs": [
+                {
+                    "Name": "Decisive Dwarf",
+                    "Url": "/lodestone/playguide/db/npc/npc/3528ce9b9ca/",
+                    "Area": "Excavation Tunnels (X:6.2 Y:5.1)"
+                },
+                {
+                    "Name": "Demanding Dwarf",
+                    "Url": "/lodestone/playguide/db/npc/npc/45b9315a914/",
+                    "Area": "Excavation Tunnels (X:6.1 Y:5.0)"
+                },
+                {
+                    "Name": "Dig Site Chief",
+                    "Url": "/lodestone/playguide/db/npc/npc/cb0aa1388b1/",
+                    "Area": "Excavation Tunnels (X:5.9 Y:4.8)"
+                },
+                {
+                    "Name": "Dig Site Chief",
+                    "Url": "/lodestone/playguide/db/npc/npc/33a30df056d/",
+                    "Area": "Excavation Tunnels (X:6.1 Y:5.0)"
+                },
+                {
+                    "Name": "Dismayed Dwarf",
+                    "Url": "/lodestone/playguide/db/npc/npc/f39b171ca12/",
+                    "Area": "Excavation Tunnels (X:6.1 Y:5.1)"
+                },
+                {
+                    "Name": "Doomsaying Dwarf",
+                    "Url": "/lodestone/playguide/db/npc/npc/8878015c673/",
+                    "Area": "Excavation Tunnels (X:6.1 Y:5.0)"
+                },
+                {
+                    "Name": "Dour Dwarf",
+                    "Url": "/lodestone/playguide/db/npc/npc/db2b1b80d90/",
+                    "Area": "Excavation Tunnels (X:6.2 Y:5.0)"
+                },
+                {
+                    "Name": "Glagg",
+                    "Url": "/lodestone/playguide/db/npc/npc/0d1132479b6/",
+                    "Area": "Excavation Tunnels (X:6.1 Y:5.0)"
+                },
+                {
+                    "Name": "Konogg",
+                    "Url": "/lodestone/playguide/db/npc/npc/5633b656751/",
+                    "Area": "Excavation Tunnels (X:5.8 Y:4.7)"
+                },
+                {
+                    "Name": "Konogg",
+                    "Url": "/lodestone/playguide/db/npc/npc/6a872dddc3b/",
+                    "Area": "Excavation Tunnels (X:6.1 Y:6.0)"
+                },
+                {
+                    "Name": "Pod",
+                    "Url": "/lodestone/playguide/db/npc/npc/719f5ec99a4/",
+                    "Area": "Excavation Tunnels (X:5.8 Y:4.8)"
+                },
+                {
+                    "Name": "Dig Site Chief",
+                    "Url": "/lodestone/playguide/db/npc/npc/66471f2a8e8/",
+                    "Area": "Kholusia (X:34.7 Y:18.2)"
+                }
+            ]
+        },
+        "Seq": 14,
+        "oldID": 69572,
+        "Map": {
+            "ID": null
+        }
+    },
+    {
+        "ID": "763be877846",
+        "Name": "The Merchant of Komra",
+        "Location": "Kholusia",
+        "Level": 80,
+        "JournalSection": 2,
+        "JournalCategory": 21,
+        "JournalGenre": "YoRHa: Dark Apocalypse",
+        "Url": "/lodestone/playguide/db/quest/763be877846/",
+        "Image": null,
+        "Icon": "function_repeat",
+        "Issuer": "Dour Dwarf",
+        "StartLocation": {
+            "Name": "Kholusia",
+            "X": "34.5",
+            "Y": "18.0"
+        },
+        "StartClass": null,
+        "Job": "Any Disciple of War or Magic (excluding limited jobs)",
+        "Company": "Not specified",
+        "Requirement": "Not specified",
+        "Rewards": {
+            "Gil": 310,
+            "Exp": 0,
+            "ItemsMand": [],
+            "ItemsOpt": []
+        },
+        "Infos": {},
+        "Seq": 17,
+        "oldID": 69587,
+        "Map": {
+            "ID": 492
+        }
+    },
+    {
+        "ID": "815c32e14aa",
+        "Name": "To Make Amends",
+        "Location": "Kholusia",
+        "Level": 80,
+        "JournalSection": 2,
+        "JournalCategory": 21,
+        "JournalGenre": "YoRHa: Dark Apocalypse",
+        "Url": "/lodestone/playguide/db/quest/815c32e14aa/",
+        "Image": "https://img.finalfantasyxiv.com/lds/pc/global/images/itemicon/93/936061a9d6ea1da64ab91980fd7324425facb2d4.png?n5.5",
+        "Icon": "function_normal",
+        "Issuer": "Konogg",
+        "StartLocation": {
+            "Name": "Kholusia",
+            "X": "33.8",
+            "Y": "18.0"
+        },
+        "StartClass": null,
+        "Job": "Any Disciple of War or Magic (excluding limited jobs)",
+        "Company": "Not specified",
+        "Requirement": "Not specified",
+        "Rewards": {
+            "Gil": 1500,
+            "Exp": 0,
+            "ItemsMand": [],
+            "ItemsOpt": []
+        },
+        "Infos": {
+            "PrevQuests": [
+                {
+                    "Name": "Crime and Punishment",
+                    "Url": "/lodestone/playguide/db/quest/4bd0d3f34f3/",
+                    "Area": "Anogg's Lair",
+                    "Level": "80"
+                }
+            ],
+            "NextQuests": [
+                {
+                    "Name": "Konogg, Alone",
+                    "Url": "/lodestone/playguide/db/quest/ca9e90fcc8b/",
+                    "Area": "Kholusia",
+                    "Level": "80"
+                }
+            ],
+            "NPCs": [
+                {
+                    "Name": "Konogg",
+                    "Url": "/lodestone/playguide/db/npc/npc/af1427a70f1/",
+                    "Area": "Excavation Tunnels (X:5.7 Y:4.7)"
+                },
+                {
+                    "Name": "Dig Site Chief",
+                    "Url": "/lodestone/playguide/db/npc/npc/66471f2a8e8/",
+                    "Area": "Kholusia (X:34.7 Y:18.2)"
+                },
+                {
+                    "Name": "Doomsaying Dwarf",
+                    "Url": "/lodestone/playguide/db/npc/npc/ff26c7304ea/",
+                    "Area": "Kholusia (X:34.6 Y:18.5)"
+                },
+                {
+                    "Name": "Dour Dwarf",
+                    "Url": "/lodestone/playguide/db/npc/npc/9233d47bcee/",
+                    "Area": "Kholusia (X:34.6 Y:18.5)"
+                },
+                {
+                    "Name": "Konogg",
+                    "Url": "/lodestone/playguide/db/npc/npc/4415744f247/",
+                    "Area": "Kholusia (X:34.9 Y:26.9)"
+                },
+                {
+                    "Name": "Konogg",
+                    "Url": "/lodestone/playguide/db/npc/npc/a2136e20361/",
+                    "Area": "Kholusia (X:32.1 Y:17.7)"
+                },
+                {
+                    "Name": "Konogg",
+                    "Url": "/lodestone/playguide/db/npc/npc/625a09f4ba7/",
+                    "Area": "Kholusia (X:33.8 Y:18.0)"
+                },
+                {
+                    "Name": "Konogg",
+                    "Url": "/lodestone/playguide/db/npc/npc/5b3ea7795e4/",
+                    "Area": "Kholusia (X:29.7 Y:18.2)"
+                },
+                {
+                    "Name": "Konogg",
+                    "Url": "/lodestone/playguide/db/npc/npc/a6d22ebfa46/",
+                    "Area": "Kholusia (X:20.8 Y:20.7)"
+                },
+                {
+                    "Name": "Konogg",
+                    "Url": "/lodestone/playguide/db/npc/npc/5f42a8754eb/",
+                    "Area": "Kholusia (X:11.9 Y:20.4)"
+                },
+                {
+                    "Name": "Konogg",
+                    "Url": "/lodestone/playguide/db/npc/npc/755ae9dffd3/",
+                    "Area": "Kholusia (X:12.4 Y:23.3)"
+                },
+                {
+                    "Name": "Konogg",
+                    "Url": "/lodestone/playguide/db/npc/npc/5a763c84ce7/",
+                    "Area": "Kholusia (X:33.7 Y:16.9)"
+                }
+            ]
+        },
+        "Seq": 11,
+        "oldID": 69534,
+        "Map": {
+            "ID": 492
+        }
+    },
+    {
+        "ID": "8169b41d06c",
+        "Name": "An Academic Dispute",
+        "Location": "Excavation Tunnels",
+        "Level": 80,
+        "JournalSection": 2,
+        "JournalCategory": 21,
+        "JournalGenre": "YoRHa: Dark Apocalypse",
+        "Url": "/lodestone/playguide/db/quest/8169b41d06c/",
+        "Image": null,
+        "Icon": "function_normal",
+        "Issuer": "Anogg",
+        "StartLocation": {
+            "Name": "Excavation Tunnels",
+            "X": "5.9",
+            "Y": "4.7"
+        },
+        "StartClass": null,
+        "Job": "Any Disciple of War or Magic (excluding limited jobs)",
+        "Company": "Not specified",
+        "Requirement": "Not specified",
+        "Rewards": {
+            "Gil": 695,
+            "Exp": 0,
+            "ItemsMand": [],
+            "ItemsOpt": []
+        },
+        "Infos": {
+            "PrevQuests": [
+                {
+                    "Name": "On the Threshold",
+                    "Url": "/lodestone/playguide/db/quest/bf797dd3937/",
+                    "Area": "Kholusia",
+                    "Level": "80"
+                }
+            ],
+            "NextQuests": [
+                {
+                    "Name": "Tails, You Lose",
+                    "Url": "/lodestone/playguide/db/quest/72a6f70a79f/",
+                    "Area": "The Copied Factory",
+                    "Level": "80"
+                },
+                {
+                    "Name": "Heads, I Win",
+                    "Url": "/lodestone/playguide/db/quest/989bdf3c51c/",
+                    "Area": "The Copied Factory",
+                    "Level": "80"
+                }
+            ],
+            "NPCs": [
+                {
+                    "Name": "Konogg",
+                    "Url": "/lodestone/playguide/db/npc/npc/c74645dba57/",
+                    "Area": "Excavation Tunnels (X:5.9 Y:4.7)"
+                },
+                {
+                    "Name": "Anogg",
+                    "Url": "/lodestone/playguide/db/npc/npc/44144a8d52f/",
+                    "Area": "The Copied Factory (X:13.4 Y:17.5)"
+                },
+                {
+                    "Name": "Konogg",
+                    "Url": "/lodestone/playguide/db/npc/npc/52a6ba85e3f/",
+                    "Area": "The Copied Factory (X:13.4 Y:17.5)"
+                }
+            ]
+        },
+        "Seq": 3,
+        "oldID": 69255,
+        "Map": {
+            "ID": 575
+        }
+    },
+    {
+        "ID": "89c95b41c81",
+        "Name": " Word about Komra",
+        "Location": "Kholusia",
+        "Level": 70,
+        "JournalSection": 2,
+        "JournalCategory": 21,
+        "JournalGenre": "YoRHa: Dark Apocalypse",
+        "Url": "/lodestone/playguide/db/quest/89c95b41c81/",
+        "Image": null,
+        "Icon": "function_normal",
+        "Issuer": "Gossipy Dwarf",
+        "StartLocation": {
+            "Name": "Kholusia",
+            "X": "12.9",
+            "Y": "8.7"
+        },
+        "StartClass": null,
+        "Job": "",
+        "Company": "Not specified",
+        "Requirement": "Not specified",
+        "Rewards": {
+            "Gil": 1279,
+            "Exp": null,
+            "ItemsMand": [],
+            "ItemsOpt": [
+                {
+                    "Icon": "https://img.finalfantasyxiv.com/lds/pc/global/images/itemicon/71/71860f9db7c2800909350796c376b286964a25c9.png?n5.5",
+                    "Name": "Paella",
+                    "Amount": 2,
+                    "Url": "/lodestone/playguide/db/item/af1118e0f5f/"
+                },
+                {
+                    "Icon": "https://img.finalfantasyxiv.com/lds/pc/global/images/itemicon/9b/9bcbc49a589a34378dcea2d9d2a4e6e8f28564f4.png?n5.5",
+                    "Name": "Ovim Cordon Bleu",
+                    "Amount": 2,
+                    "Url": "/lodestone/playguide/db/item/7e79001bf0c/"
+                },
+                {
+                    "Icon": "https://img.finalfantasyxiv.com/lds/pc/global/images/itemicon/1a/1a667017e3e2bb679c546fdc0a40273b4b0d4281.png?n5.5",
+                    "Name": "Lemonade",
+                    "Amount": 2,
+                    "Url": "/lodestone/playguide/db/item/8055bb19c73/"
+                },
+                {
+                    "Icon": "https://img.finalfantasyxiv.com/lds/pc/global/images/itemicon/66/66eb4cd1ad7c73e0c008f0b39e2fc79fe0fe415b.png?n5.5",
+                    "Name": "Jellied Harcot",
+                    "Amount": 2,
+                    "Url": "/lodestone/playguide/db/item/404134085d3/"
+                },
+                {
+                    "Icon": "https://img.finalfantasyxiv.com/lds/pc/global/images/itemicon/ba/baa2341dd17414fae7fd62ae7bc62c64589b67be.png?n5.5",
+                    "Name": "Nightworld Silver Piece",
+                    "Amount": 3,
+                    "Url": "/lodestone/playguide/db/item/50ed823230e/"
+                }
+            ]
+        },
+        "Infos": {
+            "PrevQuests": [
+                {
+                    "Name": "Meet the Tholls",
+                    "Url": "/lodestone/playguide/db/quest/990b7143c29/",
+                    "Area": "Kholusia",
+                    "Level": "78"
+                }
+            ],
+            "NextQuests": [
+                {
+                    "Name": "A Scandal in Komra",
+                    "Url": "/lodestone/playguide/db/quest/b3e20c46e23/",
+                    "Area": "Kholusia",
+                    "Level": "80"
+                }
+            ],
+            "NPCs": [
+                {
+                    "Name": "Anogg",
+                    "Url": "/lodestone/playguide/db/npc/npc/9586ee2f246/",
+                    "Area": "Kholusia (X:34.7 Y:18.2)"
+                },
+                {
+                    "Name": "Anogg",
+                    "Url": "/lodestone/playguide/db/npc/npc/d9f99997377/",
+                    "Area": "Kholusia (X:36.2 Y:19.7)"
+                },
+                {
+                    "Name": "Dig Site Chief",
+                    "Url": "/lodestone/playguide/db/npc/npc/92e65713c48/",
+                    "Area": "Kholusia (X:36.1 Y:19.8)"
+                },
+                {
+                    "Name": "Dig Site Chief",
+                    "Url": "/lodestone/playguide/db/npc/npc/319eb45059e/",
+                    "Area": "Kholusia (X:34.7 Y:18.2)"
+                },
+                {
+                    "Name": "Dig Site Watch",
+                    "Url": "/lodestone/playguide/db/npc/npc/227ae00c36d/",
+                    "Area": "Kholusia (X:36.2 Y:19.7)"
+                },
+                {
+                    "Name": "Konogg",
+                    "Url": "/lodestone/playguide/db/npc/npc/5449928b32e/",
+                    "Area": "Kholusia (X:34.7 Y:18.2)"
+                },
+                {
+                    "Name": "Konogg",
+                    "Url": "/lodestone/playguide/db/npc/npc/8da2d50c167/",
+                    "Area": "Kholusia (X:36.2 Y:19.7)"
+                }
+            ]
+        },
+        "Seq": 8,
+        "oldID": 69207,
+        "Map": {
+            "ID": 492
+        }
+    },
+    {
+        "ID": "989bdf3c51c",
+        "Name": "Heads, I Win",
+        "Location": "The Copied Factory",
+        "Level": 80,
+        "JournalSection": 2,
+        "JournalCategory": 21,
+        "JournalGenre": "YoRHa: Dark Apocalypse",
+        "Url": "/lodestone/playguide/db/quest/989bdf3c51c/",
+        "Image": "https://img.finalfantasyxiv.com/lds/pc/global/images/itemicon/23/2365fb97ac00ced395bf43313d4b3adac4db7cb5.png?n5.5",
+        "Icon": "function_normal",
+        "Issuer": "Konogg",
+        "StartLocation": {
+            "Name": "The Copied Factory",
+            "X": "13.4",
+            "Y": "17.5"
+        },
+        "StartClass": null,
+        "Job": "Any Disciple of War or Magic (excluding limited jobs)",
+        "Company": "Not specified",
+        "Requirement": "Not specified",
+        "Rewards": {
+            "Gil": 1455,
+            "Exp": 0,
+            "ItemsMand": [
+                {
+                    "Icon": "https://img.finalfantasyxiv.com/lds/pc/global/images/itemicon/7e/7eaa53e1fe9e2bd80f81d9ce69c98c24f6223b0b.png?n5.5",
+                    "Name": "Voice of no Return (Guitar) Orchestrion Roll",
+                    "Amount": 1,
+                    "Url": "/lodestone/playguide/db/item/01f68664010/"
+                }
+            ],
+            "ItemsOpt": []
+        },
+        "Infos": {
+            "PrevQuests": [
+                {
+                    "Name": "An Academic Dispute",
+                    "Url": "/lodestone/playguide/db/quest/8169b41d06c/",
+                    "Area": "Excavation Tunnels",
+                    "Level": "80"
+                }
+            ],
+            "NextQuests": [
+                {
+                    "Name": "Carnivals and Confrontations",
+                    "Url": "/lodestone/playguide/db/quest/f59f3e86cb3/",
+                    "Area": "Kholusia",
+                    "Level": "80"
+                }
+            ],
+            "NPCs": [
+                {
+                    "Name": "Anogg",
+                    "Url": "/lodestone/playguide/db/npc/npc/7f9cc63ddb1/",
+                    "Area": "Excavation Tunnels (X:5.8 Y:4.7)"
+                },
+                {
+                    "Name": "Konogg",
+                    "Url": "/lodestone/playguide/db/npc/npc/22132b6f43e/",
+                    "Area": "Excavation Tunnels (X:6.1 Y:4.3)"
+                },
+                {
+                    "Name": "Konogg",
+                    "Url": "/lodestone/playguide/db/npc/npc/15abaa804dd/",
+                    "Area": "Excavation Tunnels (X:5.8 Y:4.7)"
+                },
+                {
+                    "Name": "Pod",
+                    "Url": "/lodestone/playguide/db/npc/npc/6dc4333773d/",
+                    "Area": "Excavation Tunnels (X:5.8 Y:4.7)"
+                },
+                {
+                    "Name": "Dig Site Chief",
+                    "Url": "/lodestone/playguide/db/npc/npc/66471f2a8e8/",
+                    "Area": "Kholusia (X:34.7 Y:18.2)"
+                },
+                {
+                    "Name": "Anogg",
+                    "Url": "/lodestone/playguide/db/npc/npc/e1ded9f70e7/",
+                    "Area": "The Copied Factory (X:11.2 Y:15.4)"
+                },
+                {
+                    "Name": "Anogg",
+                    "Url": "/lodestone/playguide/db/npc/npc/44144a8d52f/",
+                    "Area": "The Copied Factory (X:13.4 Y:17.5)"
+                },
+                {
+                    "Name": "Damaged Pod",
+                    "Url": "/lodestone/playguide/db/npc/npc/ff8a2688777/",
+                    "Area": "The Copied Factory (X:11.4 Y:10.4)"
+                },
+                {
+                    "Name": "Konogg",
+                    "Url": "/lodestone/playguide/db/npc/npc/2e782f52d2b/",
+                    "Area": "The Copied Factory (X:11.9 Y:7.3)"
+                },
+                {
+                    "Name": "Konogg",
+                    "Url": "/lodestone/playguide/db/npc/npc/282a0a518f5/",
+                    "Area": "The Copied Factory (X:9.9 Y:6.7)"
+                },
+                {
+                    "Name": "Konogg",
+                    "Url": "/lodestone/playguide/db/npc/npc/515a42071f2/",
+                    "Area": "The Copied Factory (X:12.2 Y:9.8)"
+                },
+                {
+                    "Name": "Konogg",
+                    "Url": "/lodestone/playguide/db/npc/npc/71b5da21c0a/",
+                    "Area": "The Copied Factory (X:11.2 Y:15.4)"
+                }
+            ]
+        },
+        "Seq": 5,
+        "oldID": 69257,
+        "Map": {
+            "ID": 578
+        }
+    },
+    {
+        "ID": "a0328655d65",
+        "Name": "Everything You Know Is Wrong",
+        "Location": "Excavation Tunnels",
+        "Level": 80,
+        "JournalSection": 2,
+        "JournalCategory": 21,
+        "JournalGenre": "YoRHa: Dark Apocalypse",
+        "Url": "/lodestone/playguide/db/quest/a0328655d65/",
+        "Image": "https://img.finalfantasyxiv.com/lds/pc/global/images/itemicon/ea/eaeb10c52f3f8ae6a9a6ecd45a2014cd09752a10.png?n5.5",
+        "Icon": "function_normal",
+        "Issuer": "Anogg",
+        "StartLocation": {
+            "Name": "Excavation Tunnels",
+            "X": "5.9",
+            "Y": "4.7"
+        },
+        "StartClass": null,
+        "Job": "Any Disciple of War or Magic (excluding limited jobs)",
+        "Company": "Not specified",
+        "Requirement": "Not specified",
+        "Rewards": {
+            "Gil": 4800,
+            "Exp": 0,
+            "ItemsMand": [],
+            "ItemsOpt": []
+        },
+        "Infos": {
+            "PrevQuests": [
+                {
+                    "Name": "We Can Rebuild Her",
+                    "Url": "/lodestone/playguide/db/quest/fb4929adbbe/",
+                    "Area": "Kholusia",
+                    "Level": "80"
+                }
+            ],
+            "NextQuests": [
+                {
+                    "Name": "Crime and Punishment",
+                    "Url": "/lodestone/playguide/db/quest/4bd0d3f34f3/",
+                    "Area": "Anogg's Lair",
+                    "Level": "80"
+                }
+            ],
+            "NPCs": [
+                {
+                    "Name": "2B",
+                    "Url": "/lodestone/playguide/db/npc/npc/5bc5b7f09d4/",
+                    "Area": "Excavation Tunnels (X:6.1 Y:6.0)"
+                },
+                {
+                    "Name": "2B",
+                    "Url": "/lodestone/playguide/db/npc/npc/4201a50ba70/",
+                    "Area": "Excavation Tunnels (X:5.7 Y:4.9)"
+                },
+                {
+                    "Name": "2P",
+                    "Url": "/lodestone/playguide/db/npc/npc/5ef7c8d933e/",
+                    "Area": "Excavation Tunnels (X:5.9 Y:4.8)"
+                },
+                {
+                    "Name": "Anogg",
+                    "Url": "/lodestone/playguide/db/npc/npc/699ea11751b/",
+                    "Area": "Excavation Tunnels (X:6.1 Y:6.0)"
+                },
+                {
+                    "Name": "Anogg",
+                    "Url": "/lodestone/playguide/db/npc/npc/6a4aa77f681/",
+                    "Area": "Excavation Tunnels (X:5.7 Y:4.9)"
+                },
+                {
+                    "Name": "Konogg",
+                    "Url": "/lodestone/playguide/db/npc/npc/152bf136493/",
+                    "Area": "Excavation Tunnels (X:5.9 Y:4.8)"
+                },
+                {
+                    "Name": "Konogg",
+                    "Url": "/lodestone/playguide/db/npc/npc/e50a0dfa9f6/",
+                    "Area": "Excavation Tunnels (X:6.1 Y:6.0)"
+                },
+                {
+                    "Name": "Konogg",
+                    "Url": "/lodestone/playguide/db/npc/npc/dbb3d5268ae/",
+                    "Area": "Excavation Tunnels (X:5.7 Y:4.9)"
+                },
+                {
+                    "Name": "Pod",
+                    "Url": "/lodestone/playguide/db/npc/npc/ec2d48e3147/",
+                    "Area": "Excavation Tunnels (X:5.9 Y:4.8)"
+                },
+                {
+                    "Name": "Pod",
+                    "Url": "/lodestone/playguide/db/npc/npc/719f5ec99a4/",
+                    "Area": "Excavation Tunnels (X:5.8 Y:4.8)"
+                },
+                {
+                    "Name": "2B",
+                    "Url": "/lodestone/playguide/db/npc/npc/c1cc07cf8ba/",
+                    "Area": "Kholusia (X:35.4 Y:18.3)"
+                },
+                {
+                    "Name": "Anogg",
+                    "Url": "/lodestone/playguide/db/npc/npc/a67763648be/",
+                    "Area": "Kholusia (X:35.3 Y:18.3)"
+                },
+                {
+                    "Name": "Konogg",
+                    "Url": "/lodestone/playguide/db/npc/npc/2162ea0f16a/",
+                    "Area": "Kholusia (X:35.3 Y:18.3)"
+                },
+                {
+                    "Name": "2B",
+                    "Url": "/lodestone/playguide/db/npc/npc/374cd661d77/",
+                    "Area": "The Puppets' Bunker (X:9.6 Y:14.8)"
+                },
+                {
+                    "Name": "Anogg",
+                    "Url": "/lodestone/playguide/db/npc/npc/43eeb6bf494/",
+                    "Area": "The Puppets' Bunker (X:9.7 Y:14.7)"
+                },
+                {
+                    "Name": "Konogg",
+                    "Url": "/lodestone/playguide/db/npc/npc/1120f13b79e/",
+                    "Area": "The Puppets' Bunker (X:9.7 Y:14.8)"
+                }
+            ]
+        },
+        "Seq": 9,
+        "oldID": 69489,
+        "Map": {
+            "ID": 575
+        }
+    },
+    {
+        "ID": "b3e20c46e23",
+        "Name": "A Scandal in Komra",
+        "Location": "Kholusia",
+        "Level": 80,
+        "JournalSection": 2,
+        "JournalCategory": 21,
+        "JournalGenre": "YoRHa: Dark Apocalypse",
+        "Url": "/lodestone/playguide/db/quest/b3e20c46e23/",
+        "Image": "https://img.finalfantasyxiv.com/lds/pc/global/images/itemicon/12/1208b57460245db2c16395d63750a141fc9d47e7.png?n5.5",
+        "Icon": "function_normal",
+        "Issuer": "Gossipy Dwarf",
+        "StartLocation": {
+            "Name": "Kholusia",
+            "X": "12.9",
+            "Y": "8.7"
+        },
+        "StartClass": null,
+        "Job": "Any Disciple of War or Magic (excluding limited jobs)",
+        "Company": "Not specified",
+        "Requirement": "Not specified",
+        "Rewards": {
+            "Gil": 1455,
+            "Exp": 0,
+            "ItemsMand": [],
+            "ItemsOpt": []
+        },
+        "Infos": {
+            "PrevQuests": [
+                {
+                    "Name": "Shadowbringers",
+                    "Url": "/lodestone/playguide/db/quest/4ed1668d377/",
+                    "Area": "The Tempest",
+                    "Level": "80"
+                },
+                {
+                    "Name": " Word about Komra",
+                    "Url": "/lodestone/playguide/db/quest/89c95b41c81/",
+                    "Area": "Kholusia",
+                    "Level": "70"
+                }
+            ],
+            "NextQuests": [
+                {
+                    "Name": "On the Threshold",
+                    "Url": "/lodestone/playguide/db/quest/bf797dd3937/",
+                    "Area": "Kholusia",
+                    "Level": "80"
+                }
+            ],
+            "NPCs": [
+                {
+                    "Name": "Anogg",
+                    "Url": "/lodestone/playguide/db/npc/npc/d889f9088f1/",
+                    "Area": "Kholusia (X:25.7 Y:21.1)"
+                },
+                {
+                    "Name": "Anogg",
+                    "Url": "/lodestone/playguide/db/npc/npc/90f1b2a50e4/",
+                    "Area": "Kholusia (X:36.2 Y:19.7)"
+                },
+                {
+                    "Name": "Delicate Dwarven Damsel",
+                    "Url": "/lodestone/playguide/db/npc/npc/11d9cd07774/",
+                    "Area": "Kholusia (X:33.9 Y:17.4)"
+                },
+                {
+                    "Name": "Dig Site Chief",
+                    "Url": "/lodestone/playguide/db/npc/npc/319eb45059e/",
+                    "Area": "Kholusia (X:34.7 Y:18.2)"
+                },
+                {
+                    "Name": "Dig Site Watch",
+                    "Url": "/lodestone/playguide/db/npc/npc/227ae00c36d/",
+                    "Area": "Kholusia (X:36.2 Y:19.7)"
+                },
+                {
+                    "Name": "Dig Site Watch",
+                    "Url": "/lodestone/playguide/db/npc/npc/a92ea3cfb4a/",
+                    "Area": "Kholusia (X:25.7 Y:21.1)"
+                },
+                {
+                    "Name": "Dig Site Watch",
+                    "Url": "/lodestone/playguide/db/npc/npc/68b83698de6/",
+                    "Area": "Kholusia (X:26.2 Y:19.1)"
+                },
+                {
+                    "Name": "Dig Site Watch",
+                    "Url": "/lodestone/playguide/db/npc/npc/7704d12049e/",
+                    "Area": "Kholusia (X:34.7 Y:18.2)"
+                },
+                {
+                    "Name": "Konogg",
+                    "Url": "/lodestone/playguide/db/npc/npc/c2b544c7ca6/",
+                    "Area": "Kholusia (X:25.7 Y:21.1)"
+                },
+                {
+                    "Name": "Konogg",
+                    "Url": "/lodestone/playguide/db/npc/npc/8b2de7d6453/",
+                    "Area": "Kholusia (X:36.2 Y:19.7)"
+                }
+            ]
+        },
+        "Seq": 1,
+        "oldID": 69253,
+        "Map": {
+            "ID": 492
+        }
+    },
+    {
+        "ID": "bf682344248",
+        "Name": "Brave New World",
+        "Location": "The Puppets' Bunker",
+        "Level": 80,
+        "JournalSection": 2,
+        "JournalCategory": 21,
+        "JournalGenre": "YoRHa: Dark Apocalypse",
+        "Url": "/lodestone/playguide/db/quest/bf682344248/",
+        "Image": "https://img.finalfantasyxiv.com/lds/pc/global/images/itemicon/8a/8aa72f52d8672bef7407325749c19e5ac9915c6a.png?n5.5",
+        "Icon": "function_normal",
+        "Issuer": "Dig Site Chief",
+        "StartLocation": {
+            "Name": "The Puppets' Bunker",
+            "X": "9.8",
+            "Y": "14.3"
+        },
+        "StartClass": null,
+        "Job": "Any Disciple of War or Magic (excluding limited jobs)",
+        "Company": "Not specified",
+        "Requirement": "Not specified",
+        "Rewards": {
+            "Gil": 4500,
+            "Exp": 0,
+            "ItemsMand": [
+                {
+                    "Icon": "https://img.finalfantasyxiv.com/lds/pc/global/images/itemicon/7e/7eaa53e1fe9e2bd80f81d9ce69c98c24f6223b0b.png?n5.5",
+                    "Name": "Widespread Illness Orchestrion Roll",
+                    "Amount": 1,
+                    "Url": "/lodestone/playguide/db/item/6cd5367cb05/"
+                },
+                {
+                    "Icon": "https://img.finalfantasyxiv.com/lds/pc/global/images/itemicon/7e/7eaa53e1fe9e2bd80f81d9ce69c98c24f6223b0b.png?n5.5",
+                    "Name": "Possessed by Disease Orchestrion Roll",
+                    "Amount": 1,
+                    "Url": "/lodestone/playguide/db/item/92e0d4f11ad/"
+                },
+                {
+                    "Icon": "https://img.finalfantasyxiv.com/lds/pc/global/images/itemicon/7e/7eaa53e1fe9e2bd80f81d9ce69c98c24f6223b0b.png?n5.5",
+                    "Name": "Faltering Prayer (Dawn Breeze) Orchestrion Roll",
+                    "Amount": 1,
+                    "Url": "/lodestone/playguide/db/item/820f318199a/"
+                }
+            ],
+            "ItemsOpt": []
+        },
+        "Infos": {
+            "PrevQuests": [
+                {
+                    "Name": "Konogg, Alone",
+                    "Url": "/lodestone/playguide/db/quest/ca9e90fcc8b/",
+                    "Area": "Kholusia",
+                    "Level": "80"
+                }
+            ],
+            "NextQuests": [
+                {
+                    "Name": "It Takes a Village",
+                    "Url": "/lodestone/playguide/db/quest/743d0eaef54/",
+                    "Area": "Kholusia",
+                    "Level": "80"
+                }
+            ],
+            "NPCs": [
+                {
+                    "Name": "Dig Site Chief",
+                    "Url": "/lodestone/playguide/db/npc/npc/dd5c3628d2c/",
+                    "Area": "Kholusia (X:35.5 Y:18.6)"
+                },
+                {
+                    "Name": "2B",
+                    "Url": "/lodestone/playguide/db/npc/npc/2a13473703c/",
+                    "Area": "The Puppets' Bunker (X:9.7 Y:14.4)"
+                },
+                {
+                    "Name": "9S",
+                    "Url": "/lodestone/playguide/db/npc/npc/f39fa71214f/",
+                    "Area": "The Puppets' Bunker (X:9.7 Y:14.4)"
+                },
+                {
+                    "Name": "Anogg",
+                    "Url": "/lodestone/playguide/db/npc/npc/ecac6b1a9b0/",
+                    "Area": "The Puppets' Bunker (X:9.8 Y:14.3)"
+                }
+            ]
+        },
+        "Seq": 13,
+        "oldID": 69571,
+        "Map": {
+            "ID": null
+        }
+    },
+    {
+        "ID": "bf797dd3937",
+        "Name": "On the Threshold",
+        "Location": "Kholusia",
+        "Level": 80,
+        "JournalSection": 2,
+        "JournalCategory": 21,
+        "JournalGenre": "YoRHa: Dark Apocalypse",
+        "Url": "/lodestone/playguide/db/quest/bf797dd3937/",
+        "Image": "https://img.finalfantasyxiv.com/lds/pc/global/images/itemicon/c6/c6d71d588a3161dff96c14a17c4d431b61230723.png?n5.5",
+        "Icon": "function_normal",
+        "Issuer": "Dig Site Chief",
+        "StartLocation": {
+            "Name": "Kholusia",
+            "X": "34.7",
+            "Y": "18.2"
+        },
+        "StartClass": null,
+        "Job": "Any Disciple of War or Magic (excluding limited jobs)",
+        "Company": "Not specified",
+        "Requirement": "Not specified",
+        "Rewards": {
+            "Gil": 5500,
+            "Exp": 0,
+            "ItemsMand": [
+                {
+                    "Icon": "https://img.finalfantasyxiv.com/lds/pc/global/images/itemicon/7e/7eaa53e1fe9e2bd80f81d9ce69c98c24f6223b0b.png?n5.5",
+                    "Name": "Significance (Nothing) Orchestrion Roll",
+                    "Amount": 1,
+                    "Url": "/lodestone/playguide/db/item/325bc75ff51/"
+                }
+            ],
+            "ItemsOpt": []
+        },
+        "Infos": {
+            "PrevQuests": [
+                {
+                    "Name": "A Scandal in Komra",
+                    "Url": "/lodestone/playguide/db/quest/b3e20c46e23/",
+                    "Area": "Kholusia",
+                    "Level": "80"
+                }
+            ],
+            "NextQuests": [
+                {
+                    "Name": "An Academic Dispute",
+                    "Url": "/lodestone/playguide/db/quest/8169b41d06c/",
+                    "Area": "Excavation Tunnels",
+                    "Level": "80"
+                }
+            ],
+            "NPCs": [
+                {
+                    "Name": "2P",
+                    "Url": "/lodestone/playguide/db/npc/npc/f81a9ea1ec4/",
+                    "Area": "Excavation Tunnels (X:5.9 Y:4.8)"
+                },
+                {
+                    "Name": "2P",
+                    "Url": "/lodestone/playguide/db/npc/npc/962802dbc2a/",
+                    "Area": "Excavation Tunnels (X:6.1 Y:4.2)"
+                },
+                {
+                    "Name": "Anogg",
+                    "Url": "/lodestone/playguide/db/npc/npc/0d779657630/",
+                    "Area": "Excavation Tunnels (X:6.0 Y:4.3)"
+                },
+                {
+                    "Name": "Anogg",
+                    "Url": "/lodestone/playguide/db/npc/npc/20c478ca1c9/",
+                    "Area": "Excavation Tunnels (X:5.9 Y:4.7)"
+                },
+                {
+                    "Name": "Dig Site Chief",
+                    "Url": "/lodestone/playguide/db/npc/npc/d63395b0174/",
+                    "Area": "Excavation Tunnels (X:6.3 Y:5.1)"
+                },
+                {
+                    "Name": "Dig Site Chief",
+                    "Url": "/lodestone/playguide/db/npc/npc/84605bec932/",
+                    "Area": "Excavation Tunnels (X:5.9 Y:4.8)"
+                },
+                {
+                    "Name": "Konogg",
+                    "Url": "/lodestone/playguide/db/npc/npc/22132b6f43e/",
+                    "Area": "Excavation Tunnels (X:6.1 Y:4.3)"
+                },
+                {
+                    "Name": "Konogg",
+                    "Url": "/lodestone/playguide/db/npc/npc/c74645dba57/",
+                    "Area": "Excavation Tunnels (X:5.9 Y:4.7)"
+                },
+                {
+                    "Name": "Anogg",
+                    "Url": "/lodestone/playguide/db/npc/npc/a006b892921/",
+                    "Area": "Kholusia (X:36.2 Y:19.7)"
+                },
+                {
+                    "Name": "Dig Site Watch",
+                    "Url": "/lodestone/playguide/db/npc/npc/7704d12049e/",
+                    "Area": "Kholusia (X:34.7 Y:18.2)"
+                },
+                {
+                    "Name": "Konogg",
+                    "Url": "/lodestone/playguide/db/npc/npc/272e36f68d6/",
+                    "Area": "Kholusia (X:36.2 Y:19.8)"
+                }
+            ]
+        },
+        "Seq": 2,
+        "oldID": 69254,
+        "Map": {
+            "ID": 492
+        }
+    },
+    {
+        "ID": "ca9e90fcc8b",
+        "Name": "Konogg, Alone",
+        "Location": "Kholusia",
+        "Level": 80,
+        "JournalSection": 2,
+        "JournalCategory": 21,
+        "JournalGenre": "YoRHa: Dark Apocalypse",
+        "Url": "/lodestone/playguide/db/quest/ca9e90fcc8b/",
+        "Image": "https://img.finalfantasyxiv.com/lds/pc/global/images/itemicon/51/5113b800f22a3007ec295f9f7e65f3ae5e8e96e2.png?n5.5",
+        "Icon": "function_normal",
+        "Issuer": "Dig Site Chief",
+        "StartLocation": {
+            "Name": "Kholusia",
+            "X": "34.7",
+            "Y": "18.2"
+        },
+        "StartClass": null,
+        "Job": "Any Disciple of War or Magic (excluding limited jobs)",
+        "Company": "Not specified",
+        "Requirement": "Not specified",
+        "Rewards": {
+            "Gil": 0,
+            "Exp": 0,
+            "ItemsMand": [
+                {
+                    "Icon": "https://img.finalfantasyxiv.com/lds/pc/global/images/itemicon/7e/7eaa53e1fe9e2bd80f81d9ce69c98c24f6223b0b.png?n5.5",
+                    "Name": "Voice of no Return (Normal) Orchestrion Roll",
+                    "Amount": 1,
+                    "Url": "/lodestone/playguide/db/item/9671682f88b/"
+                },
+                {
+                    "Icon": "https://img.finalfantasyxiv.com/lds/pc/global/images/itemicon/7e/7eaa53e1fe9e2bd80f81d9ce69c98c24f6223b0b.png?n5.5",
+                    "Name": "The Color of Depression Orchestrion Roll",
+                    "Amount": 1,
+                    "Url": "/lodestone/playguide/db/item/4b2e68c73b6/"
+                }
+            ],
+            "ItemsOpt": []
+        },
+        "Infos": {
+            "PrevQuests": [
+                {
+                    "Name": "To Make Amends",
+                    "Url": "/lodestone/playguide/db/quest/815c32e14aa/",
+                    "Area": "Kholusia",
+                    "Level": "80"
+                }
+            ],
+            "NextQuests": [
+                {
+                    "Name": "Brave New World",
+                    "Url": "/lodestone/playguide/db/quest/bf682344248/",
+                    "Area": "The Puppets' Bunker",
+                    "Level": "80"
+                }
+            ],
+            "NPCs": [
+                {
+                    "Name": "Dig Site Chief",
+                    "Url": "/lodestone/playguide/db/npc/npc/cb0aa1388b1/",
+                    "Area": "Excavation Tunnels (X:5.9 Y:4.8)"
+                },
+                {
+                    "Name": "Konogg",
+                    "Url": "/lodestone/playguide/db/npc/npc/404cbe298ed/",
+                    "Area": "Excavation Tunnels (X:6.0 Y:4.9)"
+                },
+                {
+                    "Name": "Konogg",
+                    "Url": "/lodestone/playguide/db/npc/npc/b7e2125394d/",
+                    "Area": "Excavation Tunnels (X:5.9 Y:4.8)"
+                },
+                {
+                    "Name": "Dig Site Chief",
+                    "Url": "/lodestone/playguide/db/npc/npc/aff7ca7428f/",
+                    "Area": "Kholusia (X:32.3 Y:17.0)"
+                },
+                {
+                    "Name": "Dig Site Chief",
+                    "Url": "/lodestone/playguide/db/npc/npc/a5a28291a8a/",
+                    "Area": "Kholusia (X:35.7 Y:19.0)"
+                },
+                {
+                    "Name": "Dismayed Dwarf",
+                    "Url": "/lodestone/playguide/db/npc/npc/1dc1d89a7a2/",
+                    "Area": "Kholusia (X:34.6 Y:18.5)"
+                },
+                {
+                    "Name": "Gesugg",
+                    "Url": "/lodestone/playguide/db/npc/npc/9d5c0a2f7c9/",
+                    "Area": "Kholusia (X:33.6 Y:18.1)"
+                },
+                {
+                    "Name": "Glagg",
+                    "Url": "/lodestone/playguide/db/npc/npc/3290e38fb45/",
+                    "Area": "Kholusia (X:34.2 Y:17.8)"
+                },
+                {
+                    "Name": "Dig Site Chief",
+                    "Url": "/lodestone/playguide/db/npc/npc/14c075685e3/",
+                    "Area": "The Puppets' Bunker (X:9.8 Y:14.3)"
+                }
+            ]
+        },
+        "Seq": 12,
+        "oldID": 69570,
+        "Map": {
+            "ID": null
+        }
+    },
+    {
+        "ID": "e40ede1be5f",
+        "Name": "Komra Wasn't Built in a Day",
+        "Location": "Kholusia",
+        "Level": 80,
+        "JournalSection": 2,
+        "JournalCategory": 21,
+        "JournalGenre": "YoRHa: Dark Apocalypse",
+        "Url": "/lodestone/playguide/db/quest/e40ede1be5f/",
+        "Image": null,
+        "Icon": "function_normal",
+        "Issuer": "Dig Site Chief",
+        "StartLocation": {
+            "Name": "Kholusia",
+            "X": "34.7",
+            "Y": "18.2"
+        },
+        "StartClass": null,
+        "Job": "Any Disciple of War or Magic (excluding limited jobs)",
+        "Company": "Not specified",
+        "Requirement": "Not specified",
+        "Rewards": {
+            "Gil": 106,
+            "Exp": 0,
+            "ItemsMand": [],
+            "ItemsOpt": []
+        },
+        "Infos": {
+            "PrevQuests": [
+                {
+                    "Name": "It Takes a Village",
+                    "Url": "/lodestone/playguide/db/quest/743d0eaef54/",
+                    "Area": "Kholusia",
+                    "Level": "80"
+                }
+            ],
+            "NextQuests": [
+                {
+                    "Name": "All That Grinds Is Not Gloom",
+                    "Url": "/lodestone/playguide/db/quest/19390ac302f/",
+                    "Area": "Kholusia",
+                    "Level": "80"
+                }
+            ],
+            "NPCs": [
+                {
+                    "Name": "Doomsaying Dwarf",
+                    "Url": "/lodestone/playguide/db/npc/npc/f2e24122dc3/",
+                    "Area": "Kholusia (X:34.5 Y:18.0)"
+                }
+            ]
+        },
+        "Seq": 15,
+        "oldID": 69579,
+        "Map": {
+            "ID": 492
+        }
+    },
+    {
+        "ID": "f4189903bc7",
+        "Name": "One Way to Do It",
+        "Location": "Excavation Tunnels",
+        "Level": 80,
+        "JournalSection": 2,
+        "JournalCategory": 21,
+        "JournalGenre": "YoRHa: Dark Apocalypse",
+        "Url": "/lodestone/playguide/db/quest/f4189903bc7/",
+        "Image": "https://img.finalfantasyxiv.com/lds/pc/global/images/itemicon/0f/0f7c6edc2a479e17a76dd7218743b956a4b7efa1.png?n5.5",
+        "Icon": "function_normal",
+        "Issuer": "Anogg",
+        "StartLocation": {
+            "Name": "Excavation Tunnels",
+            "X": "5.8",
+            "Y": "4.7"
+        },
+        "StartClass": null,
+        "Job": "Any Disciple of War or Magic (excluding limited jobs)",
+        "Company": "Not specified",
+        "Requirement": "Not specified",
+        "Rewards": {
+            "Gil": 0,
+            "Exp": 0,
+            "ItemsMand": [
+                {
+                    "Icon": "https://img.finalfantasyxiv.com/lds/pc/global/images/itemicon/7e/7eaa53e1fe9e2bd80f81d9ce69c98c24f6223b0b.png?n5.5",
+                    "Name": "Crumbling Lies (Front) Orchestrion Roll",
+                    "Amount": 1,
+                    "Url": "/lodestone/playguide/db/item/6f23dbbff08/"
+                }
+            ],
+            "ItemsOpt": []
+        },
+        "Infos": {
+            "PrevQuests": [
+                {
+                    "Name": "Carnivals and Confrontations",
+                    "Url": "/lodestone/playguide/db/quest/f59f3e86cb3/",
+                    "Area": "Kholusia",
+                    "Level": "80"
+                }
+            ],
+            "NextQuests": [
+                {
+                    "Name": "We Can Rebuild Her",
+                    "Url": "/lodestone/playguide/db/quest/fb4929adbbe/",
+                    "Area": "Kholusia",
+                    "Level": "80"
+                }
+            ],
+            "NPCs": [
+                {
+                    "Name": "Anogg",
+                    "Url": "/lodestone/playguide/db/npc/npc/9586ee2f246/",
+                    "Area": "Kholusia (X:34.7 Y:18.2)"
+                },
+                {
+                    "Name": "Konogg",
+                    "Url": "/lodestone/playguide/db/npc/npc/5449928b32e/",
+                    "Area": "Kholusia (X:34.7 Y:18.2)"
+                }
+            ]
+        },
+        "Seq": 7,
+        "oldID": 69321,
+        "Map": {
+            "ID": 575
+        }
+    },
+    {
+        "ID": "f59f3e86cb3",
+        "Name": "Carnivals and Confrontations",
+        "Location": "Kholusia",
+        "Level": 80,
+        "JournalSection": 2,
+        "JournalCategory": 21,
+        "JournalGenre": "YoRHa: Dark Apocalypse",
+        "Url": "/lodestone/playguide/db/quest/f59f3e86cb3/",
+        "Image": "https://img.finalfantasyxiv.com/lds/pc/global/images/itemicon/d4/d45a96ec633e60f44fd4fa5674635194a056a459.png?n5.5",
+        "Icon": "function_normal",
+        "Issuer": "Dig Site Chief",
+        "StartLocation": {
+            "Name": "Kholusia",
+            "X": "34.7",
+            "Y": "18.2"
+        },
+        "StartClass": null,
+        "Job": "Any Disciple of War or Magic (excluding limited jobs)",
+        "Company": "Not specified",
+        "Requirement": "Not specified",
+        "Rewards": {
+            "Gil": 655,
+            "Exp": 0,
+            "ItemsMand": [],
+            "ItemsOpt": []
+        },
+        "Infos": {
+            "PrevQuests": [
+                {
+                    "Name": "Tails, You Lose",
+                    "Url": "/lodestone/playguide/db/quest/72a6f70a79f/",
+                    "Area": "The Copied Factory",
+                    "Level": "80"
+                },
+                {
+                    "Name": "Heads, I Win",
+                    "Url": "/lodestone/playguide/db/quest/989bdf3c51c/",
+                    "Area": "The Copied Factory",
+                    "Level": "80"
+                }
+            ],
+            "NextQuests": [
+                {
+                    "Name": "One Way to Do It",
+                    "Url": "/lodestone/playguide/db/quest/f4189903bc7/",
+                    "Area": "Excavation Tunnels",
+                    "Level": "80"
+                }
+            ],
+            "NPCs": [
+                {
+                    "Name": "Anogg",
+                    "Url": "/lodestone/playguide/db/npc/npc/7f9cc63ddb1/",
+                    "Area": "Excavation Tunnels (X:5.8 Y:4.7)"
+                },
+                {
+                    "Name": "Konogg",
+                    "Url": "/lodestone/playguide/db/npc/npc/15abaa804dd/",
+                    "Area": "Excavation Tunnels (X:5.8 Y:4.7)"
+                }
+            ]
+        },
+        "Seq": 6,
+        "oldID": 69320,
+        "Map": {
+            "ID": 492
+        }
+    },
+    {
+        "ID": "fb4929adbbe",
+        "Name": "We Can Rebuild Her",
+        "Location": "Kholusia",
+        "Level": 80,
+        "JournalSection": 2,
+        "JournalCategory": 21,
+        "JournalGenre": "YoRHa: Dark Apocalypse",
+        "Url": "/lodestone/playguide/db/quest/fb4929adbbe/",
+        "Image": "https://img.finalfantasyxiv.com/lds/pc/global/images/itemicon/16/160099c2d6e14f25fff173f097e1d9d064f3f9bb.png?n5.5",
+        "Icon": "function_normal",
+        "Issuer": "Dig Site Chief",
+        "StartLocation": {
+            "Name": "Kholusia",
+            "X": "34.7",
+            "Y": "18.2"
+        },
+        "StartClass": null,
+        "Job": "Any Disciple of War or Magic (excluding limited jobs)",
+        "Company": "Not specified",
+        "Requirement": "Not specified",
+        "Rewards": {
+            "Gil": 0,
+            "Exp": 0,
+            "ItemsMand": [
+                {
+                    "Icon": "https://img.finalfantasyxiv.com/lds/pc/global/images/itemicon/7e/7eaa53e1fe9e2bd80f81d9ce69c98c24f6223b0b.png?n5.5",
+                    "Name": "Amusement Park Orchestrion Roll",
+                    "Amount": 1,
+                    "Url": "/lodestone/playguide/db/item/b253dff2ee9/"
+                }
+            ],
+            "ItemsOpt": []
+        },
+        "Infos": {
+            "PrevQuests": [
+                {
+                    "Name": "One Way to Do It",
+                    "Url": "/lodestone/playguide/db/quest/f4189903bc7/",
+                    "Area": "Excavation Tunnels",
+                    "Level": "80"
+                }
+            ],
+            "NextQuests": [
+                {
+                    "Name": "Everything You Know Is Wrong",
+                    "Url": "/lodestone/playguide/db/quest/a0328655d65/",
+                    "Area": "Excavation Tunnels",
+                    "Level": "80"
+                }
+            ],
+            "NPCs": [
+                {
+                    "Name": "Anogg",
+                    "Url": "/lodestone/playguide/db/npc/npc/20c478ca1c9/",
+                    "Area": "Excavation Tunnels (X:5.9 Y:4.7)"
+                },
+                {
+                    "Name": "Anogg",
+                    "Url": "/lodestone/playguide/db/npc/npc/7f9cc63ddb1/",
+                    "Area": "Excavation Tunnels (X:5.8 Y:4.7)"
+                },
+                {
+                    "Name": "Konogg",
+                    "Url": "/lodestone/playguide/db/npc/npc/15abaa804dd/",
+                    "Area": "Excavation Tunnels (X:5.8 Y:4.7)"
+                },
+                {
+                    "Name": "Konogg",
+                    "Url": "/lodestone/playguide/db/npc/npc/152bf136493/",
+                    "Area": "Excavation Tunnels (X:5.9 Y:4.8)"
+                },
+                {
+                    "Name": "Pod",
+                    "Url": "/lodestone/playguide/db/npc/npc/ec2d48e3147/",
+                    "Area": "Excavation Tunnels (X:5.9 Y:4.8)"
+                },
+                {
+                    "Name": "Earnest Villager",
+                    "Url": "/lodestone/playguide/db/npc/npc/b36bc21418c/",
+                    "Area": "Kholusia (X:33.3 Y:17.9)"
+                },
+                {
+                    "Name": "Eccentric Villager",
+                    "Url": "/lodestone/playguide/db/npc/npc/34bd00a212d/",
+                    "Area": "Kholusia (X:33.9 Y:17.4)"
+                },
+                {
+                    "Name": "Excitable Villager",
+                    "Url": "/lodestone/playguide/db/npc/npc/e1510884e36/",
+                    "Area": "Kholusia (X:33.5 Y:17.8)"
+                },
+                {
+                    "Name": "Anogg",
+                    "Url": "/lodestone/playguide/db/npc/npc/119c43ed475/",
+                    "Area": "The Copied Factory (X:10.7 Y:5.3)"
+                },
+                {
+                    "Name": "Konogg",
+                    "Url": "/lodestone/playguide/db/npc/npc/0e3eea12cac/",
+                    "Area": "The Copied Factory (X:10.9 Y:5.4)"
+                },
+                {
+                    "Name": "Pod",
+                    "Url": "/lodestone/playguide/db/npc/npc/17b451d95e9/",
+                    "Area": "The Copied Factory (X:10.9 Y:5.4)"
+                }
+            ]
+        },
+        "Seq": 8,
+        "oldID": 69488,
+        "Map": {
+            "ID": 492
+        }
+    }
+]

@@ -6,6 +6,7 @@ class QuestPageHelper {
   ];
 
   static aSorts = [
+    { Field: "Seq", Order: "ASC" },
     { Field: "Level", Order: "ASC" },
     { Field: "Level", Order: "DESC" },
     { Field: "Name", Order: "ASC" },
@@ -49,7 +50,7 @@ class QuestPageHelper {
     }
 
     var aArrayNew = [...aArray];
-    var sSecondary = oSort.Field === "Level" ? "JournalCategory" : "Level";
+    var sSecondary = oSort.Field === "Seq" ? "JournalCategory" : "Seq";
 
     aArrayNew.sort(function (oObject1, oObject2) {
       if (oObject1[oSort.Field] < oObject2[oSort.Field]) {
@@ -66,10 +67,10 @@ class QuestPageHelper {
           return 1;
         }
       }
-      if (oObject1.iID < oObject2.iID) {
+      if (oObject1.Seq < oObject2.Seq) {
         return -1;
       }
-      if (oObject1.iID > oObject2.iID) {
+      if (oObject1.Seq > oObject2.Seq) {
         return 1;
       }
       return 0;

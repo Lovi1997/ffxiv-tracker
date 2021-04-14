@@ -1,0 +1,1771 @@
+[
+    {
+        "ID": "0bc4f1bcc7a",
+        "Name": " Liebe und andere Irrwege",
+        "Location": "Abanisches Grenzland",
+        "Level": 60,
+        "JournalSection": 4,
+        "JournalCategory": 35,
+        "JournalGenre": "\n\t\t\t\t\t\t\tHauptaufträge\n\t\t\t\t\t\t",
+        "Url": "/lodestone/playguide/db/quest/0bc4f1bcc7a/",
+        "Image": "https://img.finalfantasyxiv.com/lds/pc/global/images/itemicon/8a/8ae11ee224676c0f78b1728e71f88ae2bf1fa418.png?n5.5",
+        "Icon": "function_normal",
+        "Issuer": "Alpa",
+        "StartLocation": {
+            "Name": "Abanisches Grenzland",
+            "X": "21.7",
+            "Y": "26.2"
+        },
+        "StartClass": null,
+        "Job": "",
+        "Company": "Keine Angabe",
+        "Requirement": "Keine Angabe",
+        "Rewards": {
+            "Gil": 1523,
+            "Exp": null,
+            "ItemsMand": [],
+            "ItemsOpt": []
+        },
+        "Infos": {
+            "PrevQuests": [
+                {
+                    "Name": " Wie man sich bettet",
+                    "Url": "/lodestone/playguide/db/quest/df9a1804ad1/",
+                    "Area": "Abanisches Grenzland",
+                    "Level": "60"
+                }
+            ],
+            "NextQuests": [
+                {
+                    "Name": " Schwesternliebe, Schwesternhiebe",
+                    "Url": "/lodestone/playguide/db/quest/21fa2258d32/",
+                    "Area": "Abanisches Grenzland",
+                    "Level": "60"
+                }
+            ],
+            "NPCs": [
+                {
+                    "Name": "Alpa",
+                    "Url": "/lodestone/playguide/db/npc/npc/b0deb82168c/",
+                    "Area": "Abanisches Grenzland (X:19.0 Y:21.6)"
+                },
+                {
+                    "Name": "Alpa",
+                    "Url": "/lodestone/playguide/db/npc/npc/a613b7961b9/",
+                    "Area": "Abanisches Grenzland (X:11.5 Y:12.9)"
+                },
+                {
+                    "Name": "Alpa",
+                    "Url": "/lodestone/playguide/db/npc/npc/8c46d6685fb/",
+                    "Area": "Abanisches Grenzland (X:21.7 Y:26.2)"
+                },
+                {
+                    "Name": "Gales",
+                    "Url": "/lodestone/playguide/db/npc/npc/10a7fc66342/",
+                    "Area": "Abanisches Grenzland (X:22.1 Y:26.8)"
+                },
+                {
+                    "Name": "Gales",
+                    "Url": "/lodestone/playguide/db/npc/npc/4fe269c0c9c/",
+                    "Area": "Abanisches Grenzland (X:18.9 Y:21.6)"
+                },
+                {
+                    "Name": "J'olhmyn",
+                    "Url": "/lodestone/playguide/db/npc/npc/2941596de9e/",
+                    "Area": "Abanisches Grenzland (X:19.0 Y:21.7)"
+                },
+                {
+                    "Name": "M'zhet Tia",
+                    "Url": "/lodestone/playguide/db/npc/npc/3e417d89d0d/",
+                    "Area": "Abanisches Grenzland (X:18.9 Y:21.6)"
+                },
+                {
+                    "Name": "M'zhet Tia",
+                    "Url": "/lodestone/playguide/db/npc/npc/8f3f59d242a/",
+                    "Area": "Abanisches Grenzland (X:18.9 Y:21.6)"
+                },
+                {
+                    "Name": "M'zhet Tia",
+                    "Url": "/lodestone/playguide/db/npc/npc/b1923151849/",
+                    "Area": "Abanisches Grenzland (X:21.6 Y:26.1)"
+                },
+                {
+                    "Name": "Alpa",
+                    "Url": "/lodestone/playguide/db/npc/npc/e751471fff8/",
+                    "Area": "Rhalgrs Wacht (X:8.8 Y:10.0)"
+                },
+                {
+                    "Name": "J'olhmyn",
+                    "Url": "/lodestone/playguide/db/npc/npc/b65c04cb84f/",
+                    "Area": "Rhalgrs Wacht (X:8.8 Y:10.1)"
+                },
+                {
+                    "Name": "Orella",
+                    "Url": "/lodestone/playguide/db/npc/npc/09dd7592447/",
+                    "Area": "Rhalgrs Wacht (X:8.9 Y:10.1)"
+                }
+            ]
+        },
+        "Seq": 3,
+        "oldID": 68575,
+        "Map": {
+            "ID": 367
+        }
+    },
+    {
+        "ID": "14419873983",
+        "Name": " Vitale Bäume",
+        "Location": "Abanisches Grenzland",
+        "Level": 60,
+        "JournalSection": 4,
+        "JournalCategory": 35,
+        "JournalGenre": "\n\t\t\t\t\t\t\tNebenaufträge\n\t\t\t\t\t\t",
+        "Url": "/lodestone/playguide/db/quest/14419873983/",
+        "Image": null,
+        "Icon": "common_repeat",
+        "Issuer": "Eshana",
+        "StartLocation": {
+            "Name": "Abanisches Grenzland",
+            "X": "20.9",
+            "Y": "26.2"
+        },
+        "StartClass": null,
+        "Job": "",
+        "Company": "Keine Angabe",
+        "Requirement": "Keine Angabe",
+        "Rewards": {
+            "Gil": 550,
+            "Exp": null,
+            "ItemsMand": [],
+            "ItemsOpt": []
+        },
+        "Infos": {},
+        "Seq": 8,
+        "oldID": 68581,
+        "Map": {
+            "ID": 367
+        }
+    },
+    {
+        "ID": "147876e3b3f",
+        "Name": " Das Geheimnis schöner Schuppen",
+        "Location": "Abanisches Grenzland",
+        "Level": 60,
+        "JournalSection": 4,
+        "JournalCategory": 35,
+        "JournalGenre": "\n\t\t\t\t\t\t\tNebenaufträge\n\t\t\t\t\t\t",
+        "Url": "/lodestone/playguide/db/quest/147876e3b3f/",
+        "Image": null,
+        "Icon": "common_repeat",
+        "Issuer": "Eshana",
+        "StartLocation": {
+            "Name": "Abanisches Grenzland",
+            "X": "20.9",
+            "Y": "26.2"
+        },
+        "StartClass": null,
+        "Job": "",
+        "Company": "Keine Angabe",
+        "Requirement": "Keine Angabe",
+        "Rewards": {
+            "Gil": 550,
+            "Exp": null,
+            "ItemsMand": [],
+            "ItemsOpt": []
+        },
+        "Infos": {},
+        "Seq": 12,
+        "oldID": 68585,
+        "Map": {
+            "ID": 367
+        }
+    },
+    {
+        "ID": "21fa2258d32",
+        "Name": " Schwesternliebe, Schwesternhiebe",
+        "Location": "Abanisches Grenzland",
+        "Level": 60,
+        "JournalSection": 4,
+        "JournalCategory": 35,
+        "JournalGenre": "\n\t\t\t\t\t\t\tHauptaufträge\n\t\t\t\t\t\t",
+        "Url": "/lodestone/playguide/db/quest/21fa2258d32/",
+        "Image": "https://img.finalfantasyxiv.com/lds/pc/global/images/itemicon/70/70187809d2280ec992b20d91f8525ddcaf7a92a1.png?n5.5",
+        "Icon": "function_normal",
+        "Issuer": "Alpa",
+        "StartLocation": {
+            "Name": "Abanisches Grenzland",
+            "X": "21.7",
+            "Y": "26.2"
+        },
+        "StartClass": null,
+        "Job": "",
+        "Company": "Keine Angabe",
+        "Requirement": "Keine Angabe",
+        "Rewards": {
+            "Gil": 2045,
+            "Exp": null,
+            "ItemsMand": [],
+            "ItemsOpt": []
+        },
+        "Infos": {
+            "PrevQuests": [
+                {
+                    "Name": " Liebe und andere Irrwege",
+                    "Url": "/lodestone/playguide/db/quest/0bc4f1bcc7a/",
+                    "Area": "Abanisches Grenzland",
+                    "Level": "60"
+                }
+            ],
+            "NextQuests": [
+                {
+                    "Name": " Festessen über dem Velodyna",
+                    "Url": "/lodestone/playguide/db/quest/b47825bd164/",
+                    "Area": "Abanisches Grenzland",
+                    "Level": "60"
+                }
+            ],
+            "NPCs": [
+                {
+                    "Name": "Alpa",
+                    "Url": "/lodestone/playguide/db/npc/npc/5d01c046586/",
+                    "Area": "Abanisches Grenzland (X:24.3 Y:29.6)"
+                },
+                {
+                    "Name": "Alpa",
+                    "Url": "/lodestone/playguide/db/npc/npc/5afef760ab1/",
+                    "Area": "Abanisches Grenzland (X:26.9 Y:28.3)"
+                },
+                {
+                    "Name": "Alpa",
+                    "Url": "/lodestone/playguide/db/npc/npc/8c46d6685fb/",
+                    "Area": "Abanisches Grenzland (X:21.7 Y:26.2)"
+                },
+                {
+                    "Name": "Geschwächte Qalyana",
+                    "Url": "/lodestone/playguide/db/npc/npc/30eade5e4b2/",
+                    "Area": "Abanisches Grenzland (X:22.6 Y:26.6)"
+                },
+                {
+                    "Name": "J'olhmyn",
+                    "Url": "/lodestone/playguide/db/npc/npc/7cd3e00094d/",
+                    "Area": "Abanisches Grenzland (X:21.7 Y:26.1)"
+                },
+                {
+                    "Name": "J'olhmyn",
+                    "Url": "/lodestone/playguide/db/npc/npc/9a4358a0de6/",
+                    "Area": "Abanisches Grenzland (X:24.2 Y:29.7)"
+                },
+                {
+                    "Name": "J'olhmyn",
+                    "Url": "/lodestone/playguide/db/npc/npc/f385198a13f/",
+                    "Area": "Abanisches Grenzland (X:26.9 Y:28.3)"
+                },
+                {
+                    "Name": "M'zhet Tia",
+                    "Url": "/lodestone/playguide/db/npc/npc/06f641bf203/",
+                    "Area": "Abanisches Grenzland (X:21.5 Y:26.5)"
+                },
+                {
+                    "Name": "Qalyana-Kriegerin",
+                    "Url": "/lodestone/playguide/db/npc/npc/39d1667ce75/",
+                    "Area": "Abanisches Grenzland (X:23.8 Y:33.4)"
+                },
+                {
+                    "Name": "Tahla Molkoh",
+                    "Url": "/lodestone/playguide/db/npc/npc/27dadb09927/",
+                    "Area": "Abanisches Grenzland (X:21.4 Y:26.5)"
+                },
+                {
+                    "Name": "Verfolgte Qalyana",
+                    "Url": "/lodestone/playguide/db/npc/npc/6072f628afe/",
+                    "Area": "Abanisches Grenzland (X:26.9 Y:28.3)"
+                }
+            ]
+        },
+        "Seq": 4,
+        "oldID": 68576,
+        "Map": {
+            "ID": 367
+        }
+    },
+    {
+        "ID": "2e1fe8a8d08",
+        "Name": " Schwanzpflege",
+        "Location": "Abanisches Grenzland",
+        "Level": 60,
+        "JournalSection": 4,
+        "JournalCategory": 35,
+        "JournalGenre": "\n\t\t\t\t\t\t\tNebenaufträge\n\t\t\t\t\t\t",
+        "Url": "/lodestone/playguide/db/quest/2e1fe8a8d08/",
+        "Image": null,
+        "Icon": "common_repeat",
+        "Issuer": "Eshana",
+        "StartLocation": {
+            "Name": "Abanisches Grenzland",
+            "X": "20.9",
+            "Y": "26.2"
+        },
+        "StartClass": null,
+        "Job": "",
+        "Company": "Keine Angabe",
+        "Requirement": "Keine Angabe",
+        "Rewards": {
+            "Gil": 615,
+            "Exp": null,
+            "ItemsMand": [],
+            "ItemsOpt": []
+        },
+        "Infos": {
+            "PrevQuests": [
+                {
+                    "Name": "Jagranti",
+                    "Url": "/lodestone/playguide/db/npc/npc/91ef4a13de1/",
+                    "Area": "Abanisches Grenzland (X:21.3 Y:26.4)"
+                }
+            ]
+        },
+        "Seq": 28,
+        "oldID": 68600,
+        "Map": {
+            "ID": 367
+        }
+    },
+    {
+        "ID": "316d6b32f90",
+        "Name": " Trampeltier",
+        "Location": "Abanisches Grenzland",
+        "Level": 60,
+        "JournalSection": 4,
+        "JournalCategory": 35,
+        "JournalGenre": "\n\t\t\t\t\t\t\tNebenaufträge\n\t\t\t\t\t\t",
+        "Url": "/lodestone/playguide/db/quest/316d6b32f90/",
+        "Image": null,
+        "Icon": "common_repeat",
+        "Issuer": "Eshana",
+        "StartLocation": {
+            "Name": "Abanisches Grenzland",
+            "X": "20.9",
+            "Y": "26.2"
+        },
+        "StartClass": null,
+        "Job": "",
+        "Company": "Keine Angabe",
+        "Requirement": "Keine Angabe",
+        "Rewards": {
+            "Gil": 615,
+            "Exp": null,
+            "ItemsMand": [],
+            "ItemsOpt": []
+        },
+        "Infos": {
+            "PrevQuests": [
+                {
+                    "Name": "Dakshina",
+                    "Url": "/lodestone/playguide/db/npc/npc/9add07e7c4d/",
+                    "Area": "Abanisches Grenzland (X:20.6 Y:25.7)"
+                }
+            ]
+        },
+        "Seq": 24,
+        "oldID": 68597,
+        "Map": {
+            "ID": 367
+        }
+    },
+    {
+        "ID": "31ca72dc841",
+        "Name": " Schleimige Erzfeinde",
+        "Location": "Abanisches Grenzland",
+        "Level": 60,
+        "JournalSection": 4,
+        "JournalCategory": 35,
+        "JournalGenre": "\n\t\t\t\t\t\t\tNebenaufträge\n\t\t\t\t\t\t",
+        "Url": "/lodestone/playguide/db/quest/31ca72dc841/",
+        "Image": null,
+        "Icon": "common_repeat",
+        "Issuer": "Eshana",
+        "StartLocation": {
+            "Name": "Abanisches Grenzland",
+            "X": "20.9",
+            "Y": "26.2"
+        },
+        "StartClass": null,
+        "Job": "",
+        "Company": "Keine Angabe",
+        "Requirement": "Keine Angabe",
+        "Rewards": {
+            "Gil": 550,
+            "Exp": null,
+            "ItemsMand": [],
+            "ItemsOpt": []
+        },
+        "Infos": {},
+        "Seq": 7,
+        "oldID": 68580,
+        "Map": {
+            "ID": 367
+        }
+    },
+    {
+        "ID": "3c40d102e8f",
+        "Name": " Fetter Foper",
+        "Location": "Abanisches Grenzland",
+        "Level": 60,
+        "JournalSection": 4,
+        "JournalCategory": 35,
+        "JournalGenre": "\n\t\t\t\t\t\t\tNebenaufträge\n\t\t\t\t\t\t",
+        "Url": "/lodestone/playguide/db/quest/3c40d102e8f/",
+        "Image": null,
+        "Icon": "common_repeat",
+        "Issuer": "Eshana",
+        "StartLocation": {
+            "Name": "Abanisches Grenzland",
+            "X": "20.9",
+            "Y": "26.2"
+        },
+        "StartClass": null,
+        "Job": "",
+        "Company": "Keine Angabe",
+        "Requirement": "Keine Angabe",
+        "Rewards": {
+            "Gil": 550,
+            "Exp": null,
+            "ItemsMand": [],
+            "ItemsOpt": []
+        },
+        "Infos": {},
+        "Seq": 19,
+        "oldID": 68592,
+        "Map": {
+            "ID": 367
+        }
+    },
+    {
+        "ID": "3f8f00fd66e",
+        "Name": " Handelsbeziehungen",
+        "Location": "Abanisches Grenzland",
+        "Level": 60,
+        "JournalSection": 4,
+        "JournalCategory": 35,
+        "JournalGenre": "\n\t\t\t\t\t\t\tNebenaufträge\n\t\t\t\t\t\t",
+        "Url": "/lodestone/playguide/db/quest/3f8f00fd66e/",
+        "Image": null,
+        "Icon": "common_repeat",
+        "Issuer": "Eshana",
+        "StartLocation": {
+            "Name": "Abanisches Grenzland",
+            "X": "20.9",
+            "Y": "26.2"
+        },
+        "StartClass": null,
+        "Job": "",
+        "Company": "Keine Angabe",
+        "Requirement": "Keine Angabe",
+        "Rewards": {
+            "Gil": 615,
+            "Exp": null,
+            "ItemsMand": [],
+            "ItemsOpt": []
+        },
+        "Infos": {
+            "PrevQuests": [
+                {
+                    "Name": "Händlerin der M",
+                    "Url": "/lodestone/playguide/db/npc/npc/92eb1e8e3a0/",
+                    "Area": "Abanisches Grenzland (X:29.4 Y:25.2)"
+                },
+                {
+                    "Name": "Wache der Befreiungsarmee",
+                    "Url": "/lodestone/playguide/db/npc/npc/c70d30d904a/",
+                    "Area": "Abanisches Grenzland (X:24.1 Y:27.5)"
+                }
+            ]
+        },
+        "Seq": 30,
+        "oldID": 68602,
+        "Map": {
+            "ID": 367
+        }
+    },
+    {
+        "ID": "42fbcdb96b9",
+        "Name": " Die Lebensader der Grenzwache",
+        "Location": "Abanisches Grenzland",
+        "Level": 60,
+        "JournalSection": 4,
+        "JournalCategory": 35,
+        "JournalGenre": "\n\t\t\t\t\t\t\tNebenaufträge\n\t\t\t\t\t\t",
+        "Url": "/lodestone/playguide/db/quest/42fbcdb96b9/",
+        "Image": null,
+        "Icon": "common_repeat",
+        "Issuer": "Eshana",
+        "StartLocation": {
+            "Name": "Abanisches Grenzland",
+            "X": "20.9",
+            "Y": "26.2"
+        },
+        "StartClass": null,
+        "Job": "",
+        "Company": "Keine Angabe",
+        "Requirement": "Keine Angabe",
+        "Rewards": {
+            "Gil": 550,
+            "Exp": null,
+            "ItemsMand": [],
+            "ItemsOpt": []
+        },
+        "Infos": {
+            "PrevQuests": [
+                {
+                    "Name": "Hochländer-Lieferant",
+                    "Url": "/lodestone/playguide/db/npc/npc/68278583d5a/",
+                    "Area": "Abanisches Grenzland (X:12.6 Y:24.3)"
+                },
+                {
+                    "Name": "Hochländer-Lieferant",
+                    "Url": "/lodestone/playguide/db/npc/npc/510a9718632/",
+                    "Area": "Abanisches Grenzland (X:11.6 Y:14.8)"
+                },
+                {
+                    "Name": "Roegadyn-Lieferant",
+                    "Url": "/lodestone/playguide/db/npc/npc/e3b20bc5994/",
+                    "Area": "Abanisches Grenzland (X:16.0 Y:13.9)"
+                }
+            ]
+        },
+        "Seq": 10,
+        "oldID": 68583,
+        "Map": {
+            "ID": 367
+        }
+    },
+    {
+        "ID": "4e9b464f0be",
+        "Name": " Hartnäckige Flecken",
+        "Location": "Abanisches Grenzland",
+        "Level": 60,
+        "JournalSection": 4,
+        "JournalCategory": 35,
+        "JournalGenre": "\n\t\t\t\t\t\t\tNebenaufträge\n\t\t\t\t\t\t",
+        "Url": "/lodestone/playguide/db/quest/4e9b464f0be/",
+        "Image": null,
+        "Icon": "common_repeat",
+        "Issuer": "Eshana",
+        "StartLocation": {
+            "Name": "Abanisches Grenzland",
+            "X": "20.9",
+            "Y": "26.2"
+        },
+        "StartClass": null,
+        "Job": "",
+        "Company": "Keine Angabe",
+        "Requirement": "Keine Angabe",
+        "Rewards": {
+            "Gil": 680,
+            "Exp": null,
+            "ItemsMand": [],
+            "ItemsOpt": []
+        },
+        "Infos": {},
+        "Seq": 25,
+        "oldID": 68598,
+        "Map": {
+            "ID": 367
+        }
+    },
+    {
+        "ID": "5530a95258c",
+        "Name": " Aromatische Ananta-Speise",
+        "Location": "Abanisches Grenzland",
+        "Level": 60,
+        "JournalSection": 4,
+        "JournalCategory": 35,
+        "JournalGenre": "\n\t\t\t\t\t\t\tNebenaufträge\n\t\t\t\t\t\t",
+        "Url": "/lodestone/playguide/db/quest/5530a95258c/",
+        "Image": null,
+        "Icon": "common_repeat",
+        "Issuer": "Eshana",
+        "StartLocation": {
+            "Name": "Abanisches Grenzland",
+            "X": "20.9",
+            "Y": "26.2"
+        },
+        "StartClass": null,
+        "Job": "",
+        "Company": "Keine Angabe",
+        "Requirement": "Keine Angabe",
+        "Rewards": {
+            "Gil": 615,
+            "Exp": null,
+            "ItemsMand": [],
+            "ItemsOpt": []
+        },
+        "Infos": {
+            "PrevQuests": [
+                {
+                    "Name": "Anuraga",
+                    "Url": "/lodestone/playguide/db/npc/npc/f81f1c797fb/",
+                    "Area": "Abanisches Grenzland (X:21.7 Y:26.6)"
+                }
+            ]
+        },
+        "Seq": 11,
+        "oldID": 68584,
+        "Map": {
+            "ID": 367
+        }
+    },
+    {
+        "ID": "6c65f9e9ccf",
+        "Name": " Die große Leuchte",
+        "Location": "Abanisches Grenzland",
+        "Level": 60,
+        "JournalSection": 4,
+        "JournalCategory": 35,
+        "JournalGenre": "\n\t\t\t\t\t\t\tNebenaufträge\n\t\t\t\t\t\t",
+        "Url": "/lodestone/playguide/db/quest/6c65f9e9ccf/",
+        "Image": null,
+        "Icon": "common_repeat",
+        "Issuer": "Eshana",
+        "StartLocation": {
+            "Name": "Abanisches Grenzland",
+            "X": "20.9",
+            "Y": "26.2"
+        },
+        "StartClass": null,
+        "Job": "",
+        "Company": "Keine Angabe",
+        "Requirement": "Keine Angabe",
+        "Rewards": {
+            "Gil": 550,
+            "Exp": null,
+            "ItemsMand": [],
+            "ItemsOpt": []
+        },
+        "Infos": {},
+        "Seq": 26,
+        "oldID": 68599,
+        "Map": {
+            "ID": 367
+        }
+    },
+    {
+        "ID": "7f999b6d2f6",
+        "Name": " Herzen aus Stein",
+        "Location": "Abanisches Grenzland",
+        "Level": 60,
+        "JournalSection": 4,
+        "JournalCategory": 35,
+        "JournalGenre": "\n\t\t\t\t\t\t\tNebenaufträge\n\t\t\t\t\t\t",
+        "Url": "/lodestone/playguide/db/quest/7f999b6d2f6/",
+        "Image": null,
+        "Icon": "common_repeat",
+        "Issuer": "Eshana",
+        "StartLocation": {
+            "Name": "Abanisches Grenzland",
+            "X": "20.9",
+            "Y": "26.2"
+        },
+        "StartClass": null,
+        "Job": "",
+        "Company": "Keine Angabe",
+        "Requirement": "Keine Angabe",
+        "Rewards": {
+            "Gil": 680,
+            "Exp": null,
+            "ItemsMand": [],
+            "ItemsOpt": []
+        },
+        "Infos": {
+            "PrevQuests": [
+                {
+                    "Name": "Hauptmann der Befreiungsarmee",
+                    "Url": "/lodestone/playguide/db/npc/npc/7bd974d0c5d/",
+                    "Area": "Abanisches Grenzland (X:35.3 Y:31.0)"
+                }
+            ]
+        },
+        "Seq": 23,
+        "oldID": 68596,
+        "Map": {
+            "ID": 367
+        }
+    },
+    {
+        "ID": "8077cb3dd46",
+        "Name": " Lektion in Demut",
+        "Location": "Abanisches Grenzland",
+        "Level": 60,
+        "JournalSection": 4,
+        "JournalCategory": 35,
+        "JournalGenre": "\n\t\t\t\t\t\t\tNebenaufträge\n\t\t\t\t\t\t",
+        "Url": "/lodestone/playguide/db/quest/8077cb3dd46/",
+        "Image": null,
+        "Icon": "common_repeat",
+        "Issuer": "Eshana",
+        "StartLocation": {
+            "Name": "Abanisches Grenzland",
+            "X": "20.9",
+            "Y": "26.2"
+        },
+        "StartClass": null,
+        "Job": "",
+        "Company": "Keine Angabe",
+        "Requirement": "Keine Angabe",
+        "Rewards": {
+            "Gil": 615,
+            "Exp": null,
+            "ItemsMand": [],
+            "ItemsOpt": []
+        },
+        "Infos": {
+            "PrevQuests": [
+                {
+                    "Name": "Ananta-Ausbilderin",
+                    "Url": "/lodestone/playguide/db/npc/npc/589c66112ab/",
+                    "Area": "Abanisches Grenzland (X:22.3 Y:17.1)"
+                },
+                {
+                    "Name": "Ananta-Rekrutin",
+                    "Url": "/lodestone/playguide/db/npc/npc/5aaf13eaae5/",
+                    "Area": "Abanisches Grenzland (X:22.2 Y:17.0)"
+                }
+            ]
+        },
+        "Seq": 16,
+        "oldID": 68589,
+        "Map": {
+            "ID": 367
+        }
+    },
+    {
+        "ID": "83773aa891b",
+        "Name": " Balsam für geschundene Soldaten",
+        "Location": "Abanisches Grenzland",
+        "Level": 60,
+        "JournalSection": 4,
+        "JournalCategory": 35,
+        "JournalGenre": "\n\t\t\t\t\t\t\tNebenaufträge\n\t\t\t\t\t\t",
+        "Url": "/lodestone/playguide/db/quest/83773aa891b/",
+        "Image": null,
+        "Icon": "common_repeat",
+        "Issuer": "Eshana",
+        "StartLocation": {
+            "Name": "Abanisches Grenzland",
+            "X": "20.9",
+            "Y": "26.2"
+        },
+        "StartClass": null,
+        "Job": "",
+        "Company": "Keine Angabe",
+        "Requirement": "Keine Angabe",
+        "Rewards": {
+            "Gil": 550,
+            "Exp": null,
+            "ItemsMand": [],
+            "ItemsOpt": []
+        },
+        "Infos": {},
+        "Seq": 32,
+        "oldID": 68604,
+        "Map": {
+            "ID": 367
+        }
+    },
+    {
+        "ID": "87f76e3fdc3",
+        "Name": " Verbrecherjagd im Grenzland",
+        "Location": "Abanisches Grenzland",
+        "Level": 60,
+        "JournalSection": 4,
+        "JournalCategory": 35,
+        "JournalGenre": "\n\t\t\t\t\t\t\tNebenaufträge\n\t\t\t\t\t\t",
+        "Url": "/lodestone/playguide/db/quest/87f76e3fdc3/",
+        "Image": null,
+        "Icon": "common_repeat",
+        "Issuer": "Eshana",
+        "StartLocation": {
+            "Name": "Abanisches Grenzland",
+            "X": "20.9",
+            "Y": "26.2"
+        },
+        "StartClass": null,
+        "Job": "",
+        "Company": "Keine Angabe",
+        "Requirement": "Keine Angabe",
+        "Rewards": {
+            "Gil": 550,
+            "Exp": null,
+            "ItemsMand": [],
+            "ItemsOpt": []
+        },
+        "Infos": {
+            "PrevQuests": [
+                {
+                    "Name": "Verdächtige Jägerin",
+                    "Url": "/lodestone/playguide/db/npc/npc/c8266d74f29/",
+                    "Area": "Abanisches Grenzland (X:11.7 Y:17.6)"
+                },
+                {
+                    "Name": "Verdächtige Jägerin",
+                    "Url": "/lodestone/playguide/db/npc/npc/16619e77f51/",
+                    "Area": "Abanisches Grenzland (X:11.7 Y:17.6)"
+                },
+                {
+                    "Name": "Verdächtiger Abenteurer",
+                    "Url": "/lodestone/playguide/db/npc/npc/ddc1ea23e59/",
+                    "Area": "Abanisches Grenzland (X:10.0 Y:16.8)"
+                },
+                {
+                    "Name": "Verdächtiger Abenteurer",
+                    "Url": "/lodestone/playguide/db/npc/npc/7b53aa95234/",
+                    "Area": "Abanisches Grenzland (X:10.0 Y:16.8)"
+                },
+                {
+                    "Name": "Verdächtiger Elezen",
+                    "Url": "/lodestone/playguide/db/npc/npc/ad338f5473a/",
+                    "Area": "Abanisches Grenzland (X:14.5 Y:25.0)"
+                },
+                {
+                    "Name": "Verdächtiger Elezen",
+                    "Url": "/lodestone/playguide/db/npc/npc/65ae7f1cd9c/",
+                    "Area": "Abanisches Grenzland (X:14.8 Y:21.0)"
+                }
+            ]
+        },
+        "Seq": 14,
+        "oldID": 68587,
+        "Map": {
+            "ID": 367
+        }
+    },
+    {
+        "ID": "8880453990e",
+        "Name": " Vom Jäger zum Gejagten",
+        "Location": "Abanisches Grenzland",
+        "Level": 60,
+        "JournalSection": 4,
+        "JournalCategory": 35,
+        "JournalGenre": "\n\t\t\t\t\t\t\tNebenaufträge\n\t\t\t\t\t\t",
+        "Url": "/lodestone/playguide/db/quest/8880453990e/",
+        "Image": null,
+        "Icon": "common_repeat",
+        "Issuer": "Eshana",
+        "StartLocation": {
+            "Name": "Abanisches Grenzland",
+            "X": "20.9",
+            "Y": "26.2"
+        },
+        "StartClass": null,
+        "Job": "",
+        "Company": "Keine Angabe",
+        "Requirement": "Keine Angabe",
+        "Rewards": {
+            "Gil": 550,
+            "Exp": null,
+            "ItemsMand": [],
+            "ItemsOpt": []
+        },
+        "Infos": {},
+        "Seq": 17,
+        "oldID": 68590,
+        "Map": {
+            "ID": 367
+        }
+    },
+    {
+        "ID": "8cf2d03c89a",
+        "Name": " Sanitätsdienst",
+        "Location": "Abanisches Grenzland",
+        "Level": 60,
+        "JournalSection": 4,
+        "JournalCategory": 35,
+        "JournalGenre": "\n\t\t\t\t\t\t\tNebenaufträge\n\t\t\t\t\t\t",
+        "Url": "/lodestone/playguide/db/quest/8cf2d03c89a/",
+        "Image": null,
+        "Icon": "common_repeat",
+        "Issuer": "Eshana",
+        "StartLocation": {
+            "Name": "Abanisches Grenzland",
+            "X": "20.9",
+            "Y": "26.2"
+        },
+        "StartClass": null,
+        "Job": "",
+        "Company": "Keine Angabe",
+        "Requirement": "Keine Angabe",
+        "Rewards": {
+            "Gil": 550,
+            "Exp": null,
+            "ItemsMand": [],
+            "ItemsOpt": []
+        },
+        "Infos": {
+            "PrevQuests": [
+                {
+                    "Name": "Blutender Späher",
+                    "Url": "/lodestone/playguide/db/npc/npc/001a6964450/",
+                    "Area": "Abanisches Grenzland (X:26.9 Y:23.4)"
+                },
+                {
+                    "Name": "Verwundeter Späher",
+                    "Url": "/lodestone/playguide/db/npc/npc/1b20bc25eed/",
+                    "Area": "Abanisches Grenzland (X:32.5 Y:21.6)"
+                },
+                {
+                    "Name": "Wimmernde Späherin",
+                    "Url": "/lodestone/playguide/db/npc/npc/336a393c9ff/",
+                    "Area": "Abanisches Grenzland (X:28.7 Y:22.9)"
+                }
+            ]
+        },
+        "Seq": 31,
+        "oldID": 68603,
+        "Map": {
+            "ID": 367
+        }
+    },
+    {
+        "ID": "9d637784009",
+        "Name": " Gefahr im Sand",
+        "Location": "Abanisches Grenzland",
+        "Level": 60,
+        "JournalSection": 4,
+        "JournalCategory": 35,
+        "JournalGenre": "\n\t\t\t\t\t\t\tNebenaufträge\n\t\t\t\t\t\t",
+        "Url": "/lodestone/playguide/db/quest/9d637784009/",
+        "Image": null,
+        "Icon": "common_repeat",
+        "Issuer": "Eshana",
+        "StartLocation": {
+            "Name": "Abanisches Grenzland",
+            "X": "20.9",
+            "Y": "26.2"
+        },
+        "StartClass": null,
+        "Job": "",
+        "Company": "Keine Angabe",
+        "Requirement": "Keine Angabe",
+        "Rewards": {
+            "Gil": 615,
+            "Exp": null,
+            "ItemsMand": [],
+            "ItemsOpt": []
+        },
+        "Infos": {},
+        "Seq": 22,
+        "oldID": 68595,
+        "Map": {
+            "ID": 367
+        }
+    },
+    {
+        "ID": "9d675807c2e",
+        "Name": " Geisterstunde",
+        "Location": "Abanisches Grenzland",
+        "Level": 60,
+        "JournalSection": 4,
+        "JournalCategory": 35,
+        "JournalGenre": "\n\t\t\t\t\t\t\tNebenaufträge\n\t\t\t\t\t\t",
+        "Url": "/lodestone/playguide/db/quest/9d675807c2e/",
+        "Image": null,
+        "Icon": "common_repeat",
+        "Issuer": "Eshana",
+        "StartLocation": {
+            "Name": "Abanisches Grenzland",
+            "X": "20.9",
+            "Y": "26.2"
+        },
+        "StartClass": null,
+        "Job": "",
+        "Company": "Keine Angabe",
+        "Requirement": "Keine Angabe",
+        "Rewards": {
+            "Gil": 550,
+            "Exp": null,
+            "ItemsMand": [],
+            "ItemsOpt": []
+        },
+        "Infos": {},
+        "Seq": 27,
+        "oldID": 68593,
+        "Map": {
+            "ID": 367
+        }
+    },
+    {
+        "ID": "9fbe3eda8b2",
+        "Name": " Steinige Zukunft",
+        "Location": "Abanisches Grenzland",
+        "Level": 60,
+        "JournalSection": 4,
+        "JournalCategory": 35,
+        "JournalGenre": "\n\t\t\t\t\t\t\tNebenaufträge\n\t\t\t\t\t\t",
+        "Url": "/lodestone/playguide/db/quest/9fbe3eda8b2/",
+        "Image": null,
+        "Icon": "common_repeat",
+        "Issuer": "Eshana",
+        "StartLocation": {
+            "Name": "Abanisches Grenzland",
+            "X": "20.9",
+            "Y": "26.2"
+        },
+        "StartClass": null,
+        "Job": "",
+        "Company": "Keine Angabe",
+        "Requirement": "Keine Angabe",
+        "Rewards": {
+            "Gil": 615,
+            "Exp": null,
+            "ItemsMand": [],
+            "ItemsOpt": []
+        },
+        "Infos": {
+            "PrevQuests": [
+                {
+                    "Name": "Ananta-Wahrsagerin",
+                    "Url": "/lodestone/playguide/db/npc/npc/d361dfaa802/",
+                    "Area": "Abanisches Grenzland (X:22.4 Y:27.4)"
+                }
+            ]
+        },
+        "Seq": 20,
+        "oldID": 68578,
+        "Map": {
+            "ID": 367
+        }
+    },
+    {
+        "ID": "a82f292c10b",
+        "Name": " Robuste Konstruktion",
+        "Location": "Abanisches Grenzland",
+        "Level": 60,
+        "JournalSection": 4,
+        "JournalCategory": 35,
+        "JournalGenre": "\n\t\t\t\t\t\t\tNebenaufträge\n\t\t\t\t\t\t",
+        "Url": "/lodestone/playguide/db/quest/a82f292c10b/",
+        "Image": null,
+        "Icon": "common_repeat",
+        "Issuer": "Eshana",
+        "StartLocation": {
+            "Name": "Abanisches Grenzland",
+            "X": "20.9",
+            "Y": "26.2"
+        },
+        "StartClass": null,
+        "Job": "",
+        "Company": "Keine Angabe",
+        "Requirement": "Keine Angabe",
+        "Rewards": {
+            "Gil": 550,
+            "Exp": null,
+            "ItemsMand": [],
+            "ItemsOpt": []
+        },
+        "Infos": {},
+        "Seq": 6,
+        "oldID": 68579,
+        "Map": {
+            "ID": 367
+        }
+    },
+    {
+        "ID": "b47825bd164",
+        "Name": " Festessen über dem Velodyna",
+        "Location": "Abanisches Grenzland",
+        "Level": 60,
+        "JournalSection": 4,
+        "JournalCategory": 35,
+        "JournalGenre": "\n\t\t\t\t\t\t\tHauptaufträge\n\t\t\t\t\t\t",
+        "Url": "/lodestone/playguide/db/quest/b47825bd164/",
+        "Image": "https://img.finalfantasyxiv.com/lds/pc/global/images/itemicon/a2/a2a21231ac40f8336dd87b6df4b050c96a353e54.png?n5.5",
+        "Icon": "function_normal",
+        "Issuer": "Alpa",
+        "StartLocation": {
+            "Name": "Abanisches Grenzland",
+            "X": "21.7",
+            "Y": "26.2"
+        },
+        "StartClass": null,
+        "Job": "",
+        "Company": "Keine Angabe",
+        "Requirement": "Keine Angabe",
+        "Rewards": {
+            "Gil": 1075,
+            "Exp": null,
+            "ItemsMand": [],
+            "ItemsOpt": []
+        },
+        "Infos": {
+            "PrevQuests": [
+                {
+                    "Name": " Schwesternliebe, Schwesternhiebe",
+                    "Url": "/lodestone/playguide/db/quest/21fa2258d32/",
+                    "Area": "Abanisches Grenzland",
+                    "Level": "60"
+                }
+            ],
+            "NextQuests": [
+                {
+                    "Name": "Eine Meerjungfrau in Kugane",
+                    "Url": "/lodestone/playguide/db/quest/cd6b17e9dfb/",
+                    "Area": "Kugane",
+                    "Level": "70"
+                }
+            ],
+            "NPCs": [
+                {
+                    "Name": "Alpa",
+                    "Url": "/lodestone/playguide/db/npc/npc/8c46d6685fb/",
+                    "Area": "Abanisches Grenzland (X:21.7 Y:26.2)"
+                },
+                {
+                    "Name": "Alpa",
+                    "Url": "/lodestone/playguide/db/npc/npc/f92a315986a/",
+                    "Area": "Abanisches Grenzland (X:18.3 Y:24.6)"
+                },
+                {
+                    "Name": "Gales",
+                    "Url": "/lodestone/playguide/db/npc/npc/10a7fc66342/",
+                    "Area": "Abanisches Grenzland (X:22.1 Y:26.8)"
+                },
+                {
+                    "Name": "J'olhmyn",
+                    "Url": "/lodestone/playguide/db/npc/npc/7cd3e00094d/",
+                    "Area": "Abanisches Grenzland (X:21.7 Y:26.1)"
+                },
+                {
+                    "Name": "J'olhmyn",
+                    "Url": "/lodestone/playguide/db/npc/npc/bac630472d3/",
+                    "Area": "Abanisches Grenzland (X:18.4 Y:24.6)"
+                },
+                {
+                    "Name": "M'zhet Tia",
+                    "Url": "/lodestone/playguide/db/npc/npc/a339ac1287b/",
+                    "Area": "Abanisches Grenzland (X:30.4 Y:26.1)"
+                },
+                {
+                    "Name": "Qalyana-Rekrutin",
+                    "Url": "/lodestone/playguide/db/npc/npc/1afbef6ff2b/",
+                    "Area": "Abanisches Grenzland (X:18.3 Y:24.6)"
+                },
+                {
+                    "Name": "Tahla Molkoh",
+                    "Url": "/lodestone/playguide/db/npc/npc/45356cdf9b2/",
+                    "Area": "Abanisches Grenzland (X:8.6 Y:10.7)"
+                },
+                {
+                    "Name": "Verletzter Reiter",
+                    "Url": "/lodestone/playguide/db/npc/npc/3cf8d7576cc/",
+                    "Area": "Abanisches Grenzland (X:18.4 Y:24.6)"
+                }
+            ]
+        },
+        "Seq": 5,
+        "oldID": 68577,
+        "Map": {
+            "ID": 367
+        }
+    },
+    {
+        "ID": "b49267c62ad",
+        "Name": " Bissige Insekten",
+        "Location": "Abanisches Grenzland",
+        "Level": 60,
+        "JournalSection": 4,
+        "JournalCategory": 35,
+        "JournalGenre": "\n\t\t\t\t\t\t\tNebenaufträge\n\t\t\t\t\t\t",
+        "Url": "/lodestone/playguide/db/quest/b49267c62ad/",
+        "Image": null,
+        "Icon": "common_repeat",
+        "Issuer": "Eshana",
+        "StartLocation": {
+            "Name": "Abanisches Grenzland",
+            "X": "20.9",
+            "Y": "26.2"
+        },
+        "StartClass": null,
+        "Job": "",
+        "Company": "Keine Angabe",
+        "Requirement": "Keine Angabe",
+        "Rewards": {
+            "Gil": 615,
+            "Exp": null,
+            "ItemsMand": [],
+            "ItemsOpt": []
+        },
+        "Infos": {
+            "PrevQuests": [
+                {
+                    "Name": "Ananta-Wachposten",
+                    "Url": "/lodestone/playguide/db/npc/npc/db59751feaf/",
+                    "Area": "Abanisches Grenzland (X:26.5 Y:29.8)"
+                },
+                {
+                    "Name": "Ananta-Wachposten",
+                    "Url": "/lodestone/playguide/db/npc/npc/5bc076c9db4/",
+                    "Area": "Abanisches Grenzland (X:28.4 Y:26.0)"
+                },
+                {
+                    "Name": "Giff",
+                    "Url": "/lodestone/playguide/db/npc/npc/bb3a81c0886/",
+                    "Area": "Abanisches Grenzland (X:20.7 Y:25.7)"
+                },
+                {
+                    "Name": "Hochländer-Soldat",
+                    "Url": "/lodestone/playguide/db/npc/npc/cbc7de528cf/",
+                    "Area": "Abanisches Grenzland (X:26.5 Y:29.8)"
+                },
+                {
+                    "Name": "Hochländer-Soldat",
+                    "Url": "/lodestone/playguide/db/npc/npc/61f6303bb73/",
+                    "Area": "Abanisches Grenzland (X:28.5 Y:26.0)"
+                },
+                {
+                    "Name": "Insektenschwarm",
+                    "Url": "/lodestone/playguide/db/npc/npc/f0bf64b5e75/",
+                    "Area": "Abanisches Grenzland (X:26.5 Y:29.8)"
+                },
+                {
+                    "Name": "Insektenschwarm",
+                    "Url": "/lodestone/playguide/db/npc/npc/4dbc93e3da1/",
+                    "Area": "Abanisches Grenzland (X:28.4 Y:26.0)"
+                }
+            ]
+        },
+        "Seq": 18,
+        "oldID": 68591,
+        "Map": {
+            "ID": 367
+        }
+    },
+    {
+        "ID": "b5b8233b0db",
+        "Name": " Grenzwache Velodyna",
+        "Location": "Abanisches Grenzland",
+        "Level": 60,
+        "JournalSection": 4,
+        "JournalCategory": 35,
+        "JournalGenre": "\n\t\t\t\t\t\t\tHauptaufträge\n\t\t\t\t\t\t",
+        "Url": "/lodestone/playguide/db/quest/b5b8233b0db/",
+        "Image": "https://img.finalfantasyxiv.com/lds/pc/global/images/itemicon/a6/a6a7fc520aba841419f19e4615b6f5362a79208c.png?n5.5",
+        "Icon": "function_normal",
+        "Issuer": "M'rahz Nunh",
+        "StartLocation": {
+            "Name": "Abanisches Grenzland",
+            "X": "30.2",
+            "Y": "25.7"
+        },
+        "StartClass": null,
+        "Job": "",
+        "Company": "Keine Angabe",
+        "Requirement": "Keine Angabe",
+        "Rewards": {
+            "Gil": 1158,
+            "Exp": null,
+            "ItemsMand": [],
+            "ItemsOpt": []
+        },
+        "Infos": {
+            "PrevQuests": [
+                {
+                    "Name": "Ans Tageslicht",
+                    "Url": "/lodestone/playguide/db/quest/1d63c997677/",
+                    "Area": "Abanisches Grenzland",
+                    "Level": "67"
+                }
+            ],
+            "NextQuests": [
+                {
+                    "Name": " Von der Wildheit mhigischer Greifen ",
+                    "Url": "/lodestone/playguide/db/quest/d496db08988/",
+                    "Area": "Abanisches Grenzland",
+                    "Level": "60"
+                }
+            ],
+            "NPCs": [
+                {
+                    "Name": "Alpa",
+                    "Url": "/lodestone/playguide/db/npc/npc/18c3e64cd4b/",
+                    "Area": "Abanisches Grenzland (X:21.7 Y:26.2)"
+                },
+                {
+                    "Name": "J'olhmyn",
+                    "Url": "/lodestone/playguide/db/npc/npc/7cd3e00094d/",
+                    "Area": "Abanisches Grenzland (X:21.7 Y:26.1)"
+                },
+                {
+                    "Name": "Sarisha",
+                    "Url": "/lodestone/playguide/db/npc/npc/c6c2b4c5102/",
+                    "Area": "Abanisches Grenzland (X:28.0 Y:19.4)"
+                },
+                {
+                    "Name": "Alpa",
+                    "Url": "/lodestone/playguide/db/npc/npc/0a73757feab/",
+                    "Area": "Rhalgrs Wacht (X:11.6 Y:11.5)"
+                },
+                {
+                    "Name": "J'olhmyn",
+                    "Url": "/lodestone/playguide/db/npc/npc/cc7855ee176/",
+                    "Area": "Rhalgrs Wacht (X:11.6 Y:11.5)"
+                }
+            ]
+        },
+        "Seq": 25,
+        "oldID": 68572,
+        "Map": {
+            "ID": 367
+        }
+    },
+    {
+        "ID": "d496db08988",
+        "Name": " Von der Wildheit mhigischer Greifen ",
+        "Location": "Abanisches Grenzland",
+        "Level": 60,
+        "JournalSection": 4,
+        "JournalCategory": 35,
+        "JournalGenre": "\n\t\t\t\t\t\t\tHauptaufträge\n\t\t\t\t\t\t",
+        "Url": "/lodestone/playguide/db/quest/d496db08988/",
+        "Image": "https://img.finalfantasyxiv.com/lds/pc/global/images/itemicon/01/01a8cf7486f4de5ddfdf23701ac3c99488a1f432.png?n5.5",
+        "Icon": "function_normal",
+        "Issuer": "Alpa",
+        "StartLocation": {
+            "Name": "Abanisches Grenzland",
+            "X": "21.7",
+            "Y": "26.2"
+        },
+        "StartClass": null,
+        "Job": "",
+        "Company": "Keine Angabe",
+        "Requirement": "Keine Angabe",
+        "Rewards": {
+            "Gil": 1681,
+            "Exp": null,
+            "ItemsMand": [],
+            "ItemsOpt": []
+        },
+        "Infos": {
+            "PrevQuests": [
+                {
+                    "Name": " Grenzwache Velodyna",
+                    "Url": "/lodestone/playguide/db/quest/b5b8233b0db/",
+                    "Area": "Abanisches Grenzland",
+                    "Level": "60"
+                }
+            ],
+            "NextQuests": [
+                {
+                    "Name": " Wie man sich bettet",
+                    "Url": "/lodestone/playguide/db/quest/df9a1804ad1/",
+                    "Area": "Abanisches Grenzland",
+                    "Level": "60"
+                }
+            ],
+            "NPCs": [
+                {
+                    "Name": "Alpa",
+                    "Url": "/lodestone/playguide/db/npc/npc/b3b67ce4a7d/",
+                    "Area": "Abanisches Grenzland (X:19.8 Y:26.1)"
+                },
+                {
+                    "Name": "Alpa",
+                    "Url": "/lodestone/playguide/db/npc/npc/8c46d6685fb/",
+                    "Area": "Abanisches Grenzland (X:21.7 Y:26.2)"
+                },
+                {
+                    "Name": "Giff",
+                    "Url": "/lodestone/playguide/db/npc/npc/2a55716f868/",
+                    "Area": "Abanisches Grenzland (X:20.4 Y:25.8)"
+                },
+                {
+                    "Name": "Tahla Molkoh",
+                    "Url": "/lodestone/playguide/db/npc/npc/99715293638/",
+                    "Area": "Abanisches Grenzland (X:8.8 Y:12.4)"
+                },
+                {
+                    "Name": "Giff",
+                    "Url": "/lodestone/playguide/db/npc/npc/c71f5bf214b/",
+                    "Area": "Rhalgrs Wacht (X:9.7 Y:10.2)"
+                }
+            ]
+        },
+        "Seq": 1,
+        "oldID": 68573,
+        "Map": {
+            "ID": 367
+        }
+    },
+    {
+        "ID": "d7ffdb1c48e",
+        "Name": " Befiederung der Pfeile",
+        "Location": "Abanisches Grenzland",
+        "Level": 60,
+        "JournalSection": 4,
+        "JournalCategory": 35,
+        "JournalGenre": "\n\t\t\t\t\t\t\tNebenaufträge\n\t\t\t\t\t\t",
+        "Url": "/lodestone/playguide/db/quest/d7ffdb1c48e/",
+        "Image": null,
+        "Icon": "common_repeat",
+        "Issuer": "Eshana",
+        "StartLocation": {
+            "Name": "Abanisches Grenzland",
+            "X": "20.9",
+            "Y": "26.2"
+        },
+        "StartClass": null,
+        "Job": "",
+        "Company": "Keine Angabe",
+        "Requirement": "Keine Angabe",
+        "Rewards": {
+            "Gil": 550,
+            "Exp": null,
+            "ItemsMand": [],
+            "ItemsOpt": []
+        },
+        "Infos": {},
+        "Seq": 33,
+        "oldID": 68605,
+        "Map": {
+            "ID": 367
+        }
+    },
+    {
+        "ID": "df9a1804ad1",
+        "Name": " Wie man sich bettet",
+        "Location": "Abanisches Grenzland",
+        "Level": 60,
+        "JournalSection": 4,
+        "JournalCategory": 35,
+        "JournalGenre": "\n\t\t\t\t\t\t\tHauptaufträge\n\t\t\t\t\t\t",
+        "Url": "/lodestone/playguide/db/quest/df9a1804ad1/",
+        "Image": "https://img.finalfantasyxiv.com/lds/pc/global/images/itemicon/27/270f3a61affbc453bc366a1369f7c035a6ce9853.png?n5.5",
+        "Icon": "function_normal",
+        "Issuer": "Alpa",
+        "StartLocation": {
+            "Name": "Abanisches Grenzland",
+            "X": "21.7",
+            "Y": "26.2"
+        },
+        "StartClass": null,
+        "Job": "",
+        "Company": "Keine Angabe",
+        "Requirement": "Keine Angabe",
+        "Rewards": {
+            "Gil": 1585,
+            "Exp": null,
+            "ItemsMand": [],
+            "ItemsOpt": []
+        },
+        "Infos": {
+            "PrevQuests": [
+                {
+                    "Name": " Von der Wildheit mhigischer Greifen ",
+                    "Url": "/lodestone/playguide/db/quest/d496db08988/",
+                    "Area": "Abanisches Grenzland",
+                    "Level": "60"
+                }
+            ],
+            "NextQuests": [
+                {
+                    "Name": " Liebe und andere Irrwege",
+                    "Url": "/lodestone/playguide/db/quest/0bc4f1bcc7a/",
+                    "Area": "Abanisches Grenzland",
+                    "Level": "60"
+                }
+            ],
+            "NPCs": [
+                {
+                    "Name": "Alpa",
+                    "Url": "/lodestone/playguide/db/npc/npc/415be2e4397/",
+                    "Area": "Abanisches Grenzland (X:23.5 Y:27.4)"
+                },
+                {
+                    "Name": "Alpa",
+                    "Url": "/lodestone/playguide/db/npc/npc/8c46d6685fb/",
+                    "Area": "Abanisches Grenzland (X:21.7 Y:26.2)"
+                },
+                {
+                    "Name": "Dakshina",
+                    "Url": "/lodestone/playguide/db/npc/npc/0589a1b283e/",
+                    "Area": "Abanisches Grenzland (X:19.6 Y:25.2)"
+                },
+                {
+                    "Name": "Gales",
+                    "Url": "/lodestone/playguide/db/npc/npc/7a644ff8416/",
+                    "Area": "Abanisches Grenzland (X:21.6 Y:26.2)"
+                },
+                {
+                    "Name": "Gridanischer Handlungsreisender",
+                    "Url": "/lodestone/playguide/db/npc/npc/7c675bb8d16/",
+                    "Area": "Abanisches Grenzland (X:23.7 Y:27.4)"
+                },
+                {
+                    "Name": "J'olhmyn",
+                    "Url": "/lodestone/playguide/db/npc/npc/7cd3e00094d/",
+                    "Area": "Abanisches Grenzland (X:21.7 Y:26.1)"
+                },
+                {
+                    "Name": "J'olhmyn",
+                    "Url": "/lodestone/playguide/db/npc/npc/3e553c38fe7/",
+                    "Area": "Abanisches Grenzland (X:23.5 Y:27.4)"
+                },
+                {
+                    "Name": "Roegadyn-Grenzsoldat",
+                    "Url": "/lodestone/playguide/db/npc/npc/b4ca1c0c4f9/",
+                    "Area": "Abanisches Grenzland (X:17.3 Y:18.4)"
+                },
+                {
+                    "Name": "Wiesländer-Grenzsoldat",
+                    "Url": "/lodestone/playguide/db/npc/npc/71cf4cd259f/",
+                    "Area": "Abanisches Grenzland (X:17.2 Y:18.3)"
+                },
+                {
+                    "Name": "Alpa",
+                    "Url": "/lodestone/playguide/db/npc/npc/afa655bd505/",
+                    "Area": "Die Zinnen (X:16.6 Y:37.1)"
+                },
+                {
+                    "Name": "Alpa",
+                    "Url": "/lodestone/playguide/db/npc/npc/725155bc17c/",
+                    "Area": "Die Zinnen (X:16.6 Y:31.6)"
+                },
+                {
+                    "Name": "Gales",
+                    "Url": "/lodestone/playguide/db/npc/npc/40e94026e56/",
+                    "Area": "Die Zinnen (X:16.7 Y:31.6)"
+                },
+                {
+                    "Name": "Gerbod",
+                    "Url": "/lodestone/playguide/db/npc/npc/5ccd1a9fe7c/",
+                    "Area": "Die Zinnen (X:15.9 Y:37.1)"
+                },
+                {
+                    "Name": "J'nairoh",
+                    "Url": "/lodestone/playguide/db/npc/npc/1b87a6a15d1/",
+                    "Area": "Die Zinnen (X:17.2 Y:36.8)"
+                },
+                {
+                    "Name": "J'olhmyn",
+                    "Url": "/lodestone/playguide/db/npc/npc/d84a54f45b8/",
+                    "Area": "Die Zinnen (X:16.6 Y:37.1)"
+                },
+                {
+                    "Name": "J'olhmyn",
+                    "Url": "/lodestone/playguide/db/npc/npc/4edfb052861/",
+                    "Area": "Die Zinnen (X:16.7 Y:31.5)"
+                },
+                {
+                    "Name": "Weidheri",
+                    "Url": "/lodestone/playguide/db/npc/npc/039d8ba396e/",
+                    "Area": "Die Zinnen (X:16.7 Y:36.3)"
+                }
+            ]
+        },
+        "Seq": 2,
+        "oldID": 68574,
+        "Map": {
+            "ID": 367
+        }
+    },
+    {
+        "ID": "efbf54835a5",
+        "Name": " Empfindliche Blumen",
+        "Location": "Abanisches Grenzland",
+        "Level": 60,
+        "JournalSection": 4,
+        "JournalCategory": 35,
+        "JournalGenre": "\n\t\t\t\t\t\t\tNebenaufträge\n\t\t\t\t\t\t",
+        "Url": "/lodestone/playguide/db/quest/efbf54835a5/",
+        "Image": null,
+        "Icon": "common_repeat",
+        "Issuer": "Eshana",
+        "StartLocation": {
+            "Name": "Abanisches Grenzland",
+            "X": "20.9",
+            "Y": "26.2"
+        },
+        "StartClass": null,
+        "Job": "",
+        "Company": "Keine Angabe",
+        "Requirement": "Keine Angabe",
+        "Rewards": {
+            "Gil": 550,
+            "Exp": null,
+            "ItemsMand": [],
+            "ItemsOpt": []
+        },
+        "Infos": {},
+        "Seq": 29,
+        "oldID": 68601,
+        "Map": {
+            "ID": 367
+        }
+    },
+    {
+        "ID": "f14253a077d",
+        "Name": " Hungriger Maride",
+        "Location": "Abanisches Grenzland",
+        "Level": 60,
+        "JournalSection": 4,
+        "JournalCategory": 35,
+        "JournalGenre": "\n\t\t\t\t\t\t\tNebenaufträge\n\t\t\t\t\t\t",
+        "Url": "/lodestone/playguide/db/quest/f14253a077d/",
+        "Image": null,
+        "Icon": "common_repeat",
+        "Issuer": "Eshana",
+        "StartLocation": {
+            "Name": "Abanisches Grenzland",
+            "X": "20.9",
+            "Y": "26.2"
+        },
+        "StartClass": null,
+        "Job": "",
+        "Company": "Keine Angabe",
+        "Requirement": "Keine Angabe",
+        "Rewards": {
+            "Gil": 745,
+            "Exp": null,
+            "ItemsMand": [],
+            "ItemsOpt": []
+        },
+        "Infos": {
+            "PrevQuests": [
+                {
+                    "Name": "Alter Maride",
+                    "Url": "/lodestone/playguide/db/npc/npc/22132c4be21/",
+                    "Area": "Abanisches Grenzland (X:23.3 Y:29.0)"
+                }
+            ]
+        },
+        "Seq": 21,
+        "oldID": 68594,
+        "Map": {
+            "ID": 367
+        }
+    },
+    {
+        "ID": "f599ad98290",
+        "Name": " Kühlendes Moos",
+        "Location": "Abanisches Grenzland",
+        "Level": 60,
+        "JournalSection": 4,
+        "JournalCategory": 35,
+        "JournalGenre": "\n\t\t\t\t\t\t\tNebenaufträge\n\t\t\t\t\t\t",
+        "Url": "/lodestone/playguide/db/quest/f599ad98290/",
+        "Image": null,
+        "Icon": "common_repeat",
+        "Issuer": "Eshana",
+        "StartLocation": {
+            "Name": "Abanisches Grenzland",
+            "X": "20.9",
+            "Y": "26.2"
+        },
+        "StartClass": null,
+        "Job": "",
+        "Company": "Keine Angabe",
+        "Requirement": "Keine Angabe",
+        "Rewards": {
+            "Gil": 550,
+            "Exp": null,
+            "ItemsMand": [],
+            "ItemsOpt": []
+        },
+        "Infos": {},
+        "Seq": 9,
+        "oldID": 68582,
+        "Map": {
+            "ID": 367
+        }
+    },
+    {
+        "ID": "f6daac2aa09",
+        "Name": " Olfaktorische Rauchzeichen",
+        "Location": "Abanisches Grenzland",
+        "Level": 60,
+        "JournalSection": 4,
+        "JournalCategory": 35,
+        "JournalGenre": "\n\t\t\t\t\t\t\tNebenaufträge\n\t\t\t\t\t\t",
+        "Url": "/lodestone/playguide/db/quest/f6daac2aa09/",
+        "Image": null,
+        "Icon": "common_repeat",
+        "Issuer": "Eshana",
+        "StartLocation": {
+            "Name": "Abanisches Grenzland",
+            "X": "20.9",
+            "Y": "26.2"
+        },
+        "StartClass": null,
+        "Job": "",
+        "Company": "Keine Angabe",
+        "Requirement": "Keine Angabe",
+        "Rewards": {
+            "Gil": 615,
+            "Exp": null,
+            "ItemsMand": [],
+            "ItemsOpt": []
+        },
+        "Infos": {},
+        "Seq": 13,
+        "oldID": 68586,
+        "Map": {
+            "ID": 367
+        }
+    },
+    {
+        "ID": "fe1088d4d3f",
+        "Name": " Streit unter Greifen",
+        "Location": "Abanisches Grenzland",
+        "Level": 60,
+        "JournalSection": 4,
+        "JournalCategory": 35,
+        "JournalGenre": "\n\t\t\t\t\t\t\tNebenaufträge\n\t\t\t\t\t\t",
+        "Url": "/lodestone/playguide/db/quest/fe1088d4d3f/",
+        "Image": null,
+        "Icon": "common_repeat",
+        "Issuer": "Eshana",
+        "StartLocation": {
+            "Name": "Abanisches Grenzland",
+            "X": "20.9",
+            "Y": "26.2"
+        },
+        "StartClass": null,
+        "Job": "",
+        "Company": "Keine Angabe",
+        "Requirement": "Keine Angabe",
+        "Rewards": {
+            "Gil": 550,
+            "Exp": null,
+            "ItemsMand": [],
+            "ItemsOpt": []
+        },
+        "Infos": {
+            "PrevQuests": [
+                {
+                    "Name": "Junger Greif",
+                    "Url": "/lodestone/playguide/db/npc/npc/4a6ad87ee15/",
+                    "Area": "Abanisches Grenzland (X:27.3 Y:11.5)"
+                },
+                {
+                    "Name": "Junger Greif",
+                    "Url": "/lodestone/playguide/db/npc/npc/ac58a2278ac/",
+                    "Area": "Abanisches Grenzland (X:25.1 Y:14.0)"
+                },
+                {
+                    "Name": "Junger Greif",
+                    "Url": "/lodestone/playguide/db/npc/npc/d28be5b9ddf/",
+                    "Area": "Abanisches Grenzland (X:20.0 Y:3.9)"
+                },
+                {
+                    "Name": "Junger Greif",
+                    "Url": "/lodestone/playguide/db/npc/npc/5ed24d3c046/",
+                    "Area": "Abanisches Grenzland (X:18.3 Y:14.1)"
+                }
+            ]
+        },
+        "Seq": 15,
+        "oldID": 68588,
+        "Map": {
+            "ID": 367
+        }
+    }
+]

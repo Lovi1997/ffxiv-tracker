@@ -1,4 +1,4 @@
-const Quest = require("../../class/online/Quest");
+const Quest = require("../../class/local/Quest");
 
 const saveQuests = async function (aQuests) {
   var oQuest = new Quest();

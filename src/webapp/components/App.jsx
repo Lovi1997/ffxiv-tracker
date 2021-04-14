@@ -36,7 +36,6 @@ class App extends Component {
 
     var config = ipcRenderer.sendSync("get_config");
     window.lang = config.language;
-    window.IconIDs = config.IconIDs;
   }
 
   render() {
@@ -98,11 +97,7 @@ class App extends Component {
         <BusyIndicator key="app-bi" />
       </div>
     ) : (
-      <Page
-        key="app-pa"
-        JournalSection={this.state.App.activeSection}
-        App={this}
-      />
+      <Page key="app-pa" JournalSection={this.state.App.activeSection} App={this} />
     );
   };
 
@@ -140,9 +135,7 @@ class App extends Component {
       App.state = "checking";
       oHandler.setState({ App });
 
-      ipcRenderer
-        .invoke("is-online")
-        .then((online) => oHandler.onIsOnline(online, oHandler));
+      ipcRenderer.invoke("is-online").then((online) => oHandler.onIsOnline(online, oHandler));
     }
   };
 
@@ -162,9 +155,7 @@ class App extends Component {
   };
 
   requestJournalSections = async function () {
-    ipcRenderer
-      .invoke("init-JournalSections")
-      .then((aResult) => this.onDataReceived(aResult, this));
+    ipcRenderer.invoke("init-JournalSections").then((aResult) => this.onDataReceived(aResult, this));
   };
 
   onDataReceived = function (oResult, oHandler) {
@@ -177,9 +168,7 @@ class App extends Component {
       App.JournalSections = oResult.JournalSections;
       App.JournalSections.forEach((oJournalSection) => {
         oJournalSection.Name =
-          oJournalSection.iID === 0 ||
-          oJournalSection.iID === 98 ||
-          oJournalSection.iID === 99
+          oJournalSection.iID === 0 || oJournalSection.iID === 98 || oJournalSection.iID === 99
             ? Text[window.lang][`${oJournalSection.iID}`]
             : oJournalSection.Name;
       });
@@ -195,9 +184,7 @@ class App extends Component {
     let aJournalSectionsNew = App.JournalSections;
     let iIndex = aJournalSectionsNew.indexOf(oJournalSection);
     if (aJournalSectionsNew[iIndex].iID !== App.activeSection.iID) {
-      aJournalSectionsNew.forEach(
-        (oJournalSectionNew) => (oJournalSectionNew.isActive = false)
-      );
+      aJournalSectionsNew.forEach((oJournalSectionNew) => (oJournalSectionNew.isActive = false));
       aJournalSectionsNew[iIndex].isActive = true;
       App.activeSection = aJournalSectionsNew[iIndex];
       App.JournalSections = aJournalSectionsNew;

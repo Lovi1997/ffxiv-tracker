@@ -1,15 +1,9 @@
-const Quest = require("../../class/online/Quest");
+const Quest = require("../../class/local/Quest");
 
-const loadQuests = async function (iJournalCategory) {
-  var aResult = null;
-  aResult = await getQuests(iJournalCategory);
+const loadQuests = async function (iJournalSection, iJournalCategory) {
+  var oQuest = new Quest();
+  var aResult = await oQuest.getForSectionAndCategory(iJournalSection, iJournalCategory);
   return aResult;
 };
-
-async function getQuests(iJournalCategory) {
-  var oQuest = new Quest();
-  var aQuests = await oQuest.getWithFilter(iJournalCategory);
-  return oQuest.format(aQuests);
-}
 
 module.exports = loadQuests;

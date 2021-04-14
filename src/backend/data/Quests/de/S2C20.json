@@ -1,0 +1,1984 @@
+[
+    {
+        "ID": "0640eab80b3",
+        "Name": "Ein Versprechen für die Ewigkeit",
+        "Location": "Das Herz",
+        "Level": 80,
+        "JournalSection": 2,
+        "JournalCategory": 20,
+        "JournalGenre": "Eden",
+        "Url": "/lodestone/playguide/db/quest/0640eab80b3/",
+        "Image": "https://img.finalfantasyxiv.com/lds/pc/global/images/itemicon/77/77c96d33dcd6a907693378f74a546310a3df744f.png?n5.5",
+        "Icon": "function_normal",
+        "Issuer": "Ryne",
+        "StartLocation": {
+            "Name": "Das Herz",
+            "X": "23.5",
+            "Y": "23.5"
+        },
+        "StartClass": null,
+        "Job": "Krieger oder Magier (außer beschränkte Jobs)",
+        "Company": "Keine Angabe",
+        "Requirement": "Keine Angabe",
+        "Rewards": {
+            "Gil": 3000,
+            "Exp": 0,
+            "ItemsMand": [],
+            "ItemsOpt": [
+                {
+                    "Icon": "https://img.finalfantasyxiv.com/lds/pc/global/images/itemicon/01/01947a3034803440796fe4eb7c9dca412b782390.png?n5.5",
+                    "Name": "Hellseher-Materia VII",
+                    "Amount": 3,
+                    "Url": "/lodestone/playguide/db/item/85587a58d9a/"
+                },
+                {
+                    "Icon": "https://img.finalfantasyxiv.com/lds/pc/global/images/itemicon/01/01947a3034803440796fe4eb7c9dca412b782390.png?n5.5",
+                    "Name": "Strategen-Materia VII",
+                    "Amount": 3,
+                    "Url": "/lodestone/playguide/db/item/ae193b74ae4/"
+                },
+                {
+                    "Icon": "https://img.finalfantasyxiv.com/lds/pc/global/images/itemicon/01/01947a3034803440796fe4eb7c9dca412b782390.png?n5.5",
+                    "Name": "Assassinen-Materia VII",
+                    "Amount": 3,
+                    "Url": "/lodestone/playguide/db/item/a3870117f91/"
+                }
+            ]
+        },
+        "Infos": {
+            "PrevQuests": [
+                {
+                    "Name": "Flüchtige Vergangenheit",
+                    "Url": "/lodestone/playguide/db/quest/0c60a276bb2/",
+                    "Area": "Die Große Leere",
+                    "Level": "80"
+                }
+            ],
+            "NextQuests": [
+                {
+                    "Name": "Mein Platz in dieser Welt",
+                    "Url": "/lodestone/playguide/db/quest/764097e364d/",
+                    "Area": "Die Große Leere",
+                    "Level": "80"
+                }
+            ],
+            "NPCs": [
+                {
+                    "Name": "Ryne",
+                    "Url": "/lodestone/playguide/db/npc/npc/f84071bdc43/",
+                    "Area": "Das Herz (X:23.4 Y:23.3)"
+                },
+                {
+                    "Name": "Gaia",
+                    "Url": "/lodestone/playguide/db/npc/npc/3f444ef0152/",
+                    "Area": "Die Große Leere (X:5.9 Y:6.3)"
+                },
+                {
+                    "Name": "Ryne",
+                    "Url": "/lodestone/playguide/db/npc/npc/479b6662d65/",
+                    "Area": "Die Große Leere (X:5.9 Y:6.3)"
+                }
+            ]
+        },
+        "Seq": 16,
+        "oldID": 69514,
+        "Map": {
+            "ID": 564
+        }
+    },
+    {
+        "ID": "06c31efdde9",
+        "Name": "Angst vor der Dunkelheit",
+        "Location": "Die Große Leere",
+        "Level": 80,
+        "JournalSection": 2,
+        "JournalCategory": 20,
+        "JournalGenre": "Eden",
+        "Url": "/lodestone/playguide/db/quest/06c31efdde9/",
+        "Image": "https://img.finalfantasyxiv.com/lds/pc/global/images/itemicon/43/4318cf7f4273f57046293ad2c370a738b020376a.png?n5.5",
+        "Icon": "function_normal",
+        "Issuer": "Gaia",
+        "StartLocation": {
+            "Name": "Die Große Leere",
+            "X": "6.7",
+            "Y": "5.9"
+        },
+        "StartClass": null,
+        "Job": "Krieger oder Magier (außer beschränkte Jobs)",
+        "Company": "Keine Angabe",
+        "Requirement": "Keine Angabe",
+        "Rewards": {
+            "Gil": 3000,
+            "Exp": 0,
+            "ItemsMand": [],
+            "ItemsOpt": [
+                {
+                    "Icon": "https://img.finalfantasyxiv.com/lds/pc/global/images/itemicon/a3/a37a4b7e006f3be47e7425d5912a9b772f70ad7d.png?n5.5",
+                    "Name": "Kampf-Materia VII",
+                    "Amount": 2,
+                    "Url": "/lodestone/playguide/db/item/adeb9e0a07c/"
+                },
+                {
+                    "Icon": "https://img.finalfantasyxiv.com/lds/pc/global/images/itemicon/a3/a37a4b7e006f3be47e7425d5912a9b772f70ad7d.png?n5.5",
+                    "Name": "Zauber-Materia VII",
+                    "Amount": 2,
+                    "Url": "/lodestone/playguide/db/item/117f1387915/"
+                },
+                {
+                    "Icon": "https://img.finalfantasyxiv.com/lds/pc/global/images/itemicon/eb/eb584f7fe108c91fe738789576754bcfce3e48cb.png?n5.5",
+                    "Name": "Fechtkunst-Materia VII",
+                    "Amount": 2,
+                    "Url": "/lodestone/playguide/db/item/d45e4b5e3ef/"
+                },
+                {
+                    "Icon": "https://img.finalfantasyxiv.com/lds/pc/global/images/itemicon/eb/eb584f7fe108c91fe738789576754bcfce3e48cb.png?n5.5",
+                    "Name": "Frömmigkeits-Materia VII",
+                    "Amount": 2,
+                    "Url": "/lodestone/playguide/db/item/c2be6ee80a9/"
+                }
+            ]
+        },
+        "Infos": {
+            "PrevQuests": [
+                {
+                    "Name": "Leeres Versprechen",
+                    "Url": "/lodestone/playguide/db/quest/a5f76c8d063/",
+                    "Area": "Amh Araeng",
+                    "Level": "80"
+                }
+            ],
+            "NextQuests": [
+                {
+                    "Name": "Flüchtige Vergangenheit",
+                    "Url": "/lodestone/playguide/db/quest/0c60a276bb2/",
+                    "Area": "Die Große Leere",
+                    "Level": "80"
+                }
+            ],
+            "NPCs": [
+                {
+                    "Name": "Gaia",
+                    "Url": "/lodestone/playguide/db/npc/npc/a05007c501b/",
+                    "Area": "Das Herz (X:23.5 Y:23.3)"
+                },
+                {
+                    "Name": "Gaia",
+                    "Url": "/lodestone/playguide/db/npc/npc/7550380e1f0/",
+                    "Area": "Das Herz (X:23.5 Y:23.3)"
+                },
+                {
+                    "Name": "Ryne",
+                    "Url": "/lodestone/playguide/db/npc/npc/f84071bdc43/",
+                    "Area": "Das Herz (X:23.4 Y:23.3)"
+                },
+                {
+                    "Name": "Ryne",
+                    "Url": "/lodestone/playguide/db/npc/npc/3ccec2b93d5/",
+                    "Area": "Das Herz (X:23.4 Y:23.3)"
+                },
+                {
+                    "Name": "Ryne",
+                    "Url": "/lodestone/playguide/db/npc/npc/5b31bbfe59d/",
+                    "Area": "Die Große Leere (X:6.7 Y:5.9)"
+                }
+            ]
+        },
+        "Seq": 14,
+        "oldID": 69512,
+        "Map": {
+            "ID": 565
+        }
+    },
+    {
+        "ID": "0c60a276bb2",
+        "Name": "Flüchtige Vergangenheit",
+        "Location": "Die Große Leere",
+        "Level": 80,
+        "JournalSection": 2,
+        "JournalCategory": 20,
+        "JournalGenre": "Eden",
+        "Url": "/lodestone/playguide/db/quest/0c60a276bb2/",
+        "Image": "https://img.finalfantasyxiv.com/lds/pc/global/images/itemicon/4f/4f5c7b7e1d9a91abadf27f8ffb6f997cf05f6874.png?n5.5",
+        "Icon": "function_normal",
+        "Issuer": "Gaia",
+        "StartLocation": {
+            "Name": "Die Große Leere",
+            "X": "5.9",
+            "Y": "6.4"
+        },
+        "StartClass": null,
+        "Job": "Krieger oder Magier (außer beschränkte Jobs)",
+        "Company": "Keine Angabe",
+        "Requirement": "Keine Angabe",
+        "Rewards": {
+            "Gil": 3000,
+            "Exp": 0,
+            "ItemsMand": [],
+            "ItemsOpt": [
+                {
+                    "Icon": "https://img.finalfantasyxiv.com/lds/pc/global/images/itemicon/a3/a37a4b7e006f3be47e7425d5912a9b772f70ad7d.png?n5.5",
+                    "Name": "Kampf-Materia VII",
+                    "Amount": 2,
+                    "Url": "/lodestone/playguide/db/item/adeb9e0a07c/"
+                },
+                {
+                    "Icon": "https://img.finalfantasyxiv.com/lds/pc/global/images/itemicon/a3/a37a4b7e006f3be47e7425d5912a9b772f70ad7d.png?n5.5",
+                    "Name": "Zauber-Materia VII",
+                    "Amount": 2,
+                    "Url": "/lodestone/playguide/db/item/117f1387915/"
+                },
+                {
+                    "Icon": "https://img.finalfantasyxiv.com/lds/pc/global/images/itemicon/eb/eb584f7fe108c91fe738789576754bcfce3e48cb.png?n5.5",
+                    "Name": "Fechtkunst-Materia VII",
+                    "Amount": 2,
+                    "Url": "/lodestone/playguide/db/item/d45e4b5e3ef/"
+                },
+                {
+                    "Icon": "https://img.finalfantasyxiv.com/lds/pc/global/images/itemicon/eb/eb584f7fe108c91fe738789576754bcfce3e48cb.png?n5.5",
+                    "Name": "Frömmigkeits-Materia VII",
+                    "Amount": 2,
+                    "Url": "/lodestone/playguide/db/item/c2be6ee80a9/"
+                }
+            ]
+        },
+        "Infos": {
+            "PrevQuests": [
+                {
+                    "Name": "Angst vor der Dunkelheit",
+                    "Url": "/lodestone/playguide/db/quest/06c31efdde9/",
+                    "Area": "Die Große Leere",
+                    "Level": "80"
+                }
+            ],
+            "NextQuests": [
+                {
+                    "Name": "Ein Versprechen für die Ewigkeit",
+                    "Url": "/lodestone/playguide/db/quest/0640eab80b3/",
+                    "Area": "Das Herz",
+                    "Level": "80"
+                }
+            ],
+            "NPCs": [
+                {
+                    "Name": "Gaia",
+                    "Url": "/lodestone/playguide/db/npc/npc/f989cd91fd3/",
+                    "Area": "Das Herz (X:23.4 Y:23.5)"
+                },
+                {
+                    "Name": "Ryne",
+                    "Url": "/lodestone/playguide/db/npc/npc/8091c878939/",
+                    "Area": "Das Herz (X:23.5 Y:23.5)"
+                },
+                {
+                    "Name": "Gaia",
+                    "Url": "/lodestone/playguide/db/npc/npc/762e5b0e373/",
+                    "Area": "Die Große Leere (X:5.8 Y:6.5)"
+                },
+                {
+                    "Name": "Ryne",
+                    "Url": "/lodestone/playguide/db/npc/npc/7323f9f01cc/",
+                    "Area": "Die Große Leere (X:5.9 Y:6.5)"
+                },
+                {
+                    "Name": "Ryne",
+                    "Url": "/lodestone/playguide/db/npc/npc/7d923f52f16/",
+                    "Area": "Die Große Leere (X:5.9 Y:6.3)"
+                },
+                {
+                    "Name": "Ryne",
+                    "Url": "/lodestone/playguide/db/npc/npc/4008e2824d9/",
+                    "Area": "Die Große Leere (X:5.7 Y:6.5)"
+                },
+                {
+                    "Name": "Ryne",
+                    "Url": "/lodestone/playguide/db/npc/npc/d6419e3565e/",
+                    "Area": "Die Große Leere (X:5.8 Y:6.5)"
+                }
+            ]
+        },
+        "Seq": 15,
+        "oldID": 69513,
+        "Map": {
+            "ID": 565
+        }
+    },
+    {
+        "ID": "56a704d322e",
+        "Name": "Gefahr von oben",
+        "Location": "Das Herz",
+        "Level": 80,
+        "JournalSection": 2,
+        "JournalCategory": 20,
+        "JournalGenre": "Eden",
+        "Url": "/lodestone/playguide/db/quest/56a704d322e/",
+        "Image": "https://img.finalfantasyxiv.com/lds/pc/global/images/itemicon/28/28043cfd25c994b50907bce001d09b590c3e3263.png?n5.5",
+        "Icon": "function_normal",
+        "Issuer": "Ryne",
+        "StartLocation": {
+            "Name": "Das Herz",
+            "X": "23.4",
+            "Y": "23.3"
+        },
+        "StartClass": null,
+        "Job": "Krieger oder Magier (außer beschränkte Jobs)",
+        "Company": "Keine Angabe",
+        "Requirement": "Keine Angabe",
+        "Rewards": {
+            "Gil": 3000,
+            "Exp": 0,
+            "ItemsMand": [
+                {
+                    "Icon": "https://img.finalfantasyxiv.com/lds/pc/global/images/itemicon/a3/a37a4b7e006f3be47e7425d5912a9b772f70ad7d.png?n5.5",
+                    "Name": "Zauber-Materia VII",
+                    "Amount": 5,
+                    "Url": "/lodestone/playguide/db/item/117f1387915/"
+                }
+            ],
+            "ItemsOpt": [
+                {
+                    "Icon": "https://img.finalfantasyxiv.com/lds/pc/global/images/itemicon/01/01947a3034803440796fe4eb7c9dca412b782390.png?n5.5",
+                    "Name": "Hellseher-Materia VII",
+                    "Amount": 3,
+                    "Url": "/lodestone/playguide/db/item/85587a58d9a/"
+                },
+                {
+                    "Icon": "https://img.finalfantasyxiv.com/lds/pc/global/images/itemicon/01/01947a3034803440796fe4eb7c9dca412b782390.png?n5.5",
+                    "Name": "Strategen-Materia VII",
+                    "Amount": 3,
+                    "Url": "/lodestone/playguide/db/item/ae193b74ae4/"
+                },
+                {
+                    "Icon": "https://img.finalfantasyxiv.com/lds/pc/global/images/itemicon/01/01947a3034803440796fe4eb7c9dca412b782390.png?n5.5",
+                    "Name": "Assassinen-Materia VII",
+                    "Amount": 3,
+                    "Url": "/lodestone/playguide/db/item/a3870117f91/"
+                }
+            ]
+        },
+        "Infos": {
+            "PrevQuests": [
+                {
+                    "Name": "Reise in das Herz",
+                    "Url": "/lodestone/playguide/db/quest/f77599b0abc/",
+                    "Area": "Die Große Leere",
+                    "Level": "80"
+                }
+            ],
+            "NextQuests": [
+                {
+                    "Name": "Bewässerung der Wüste",
+                    "Url": "/lodestone/playguide/db/quest/c82be801aff/",
+                    "Area": "Das Herz",
+                    "Level": "80"
+                }
+            ],
+            "NPCs": [
+                {
+                    "Name": "Ryne",
+                    "Url": "/lodestone/playguide/db/npc/npc/f84071bdc43/",
+                    "Area": "Das Herz (X:23.4 Y:23.3)"
+                },
+                {
+                    "Name": "Thancred",
+                    "Url": "/lodestone/playguide/db/npc/npc/6821bbc519d/",
+                    "Area": "Das Herz (X:23.4 Y:23.4)"
+                },
+                {
+                    "Name": "Urianger",
+                    "Url": "/lodestone/playguide/db/npc/npc/efe06f768ad/",
+                    "Area": "Das Herz (X:23.4 Y:23.3)"
+                },
+                {
+                    "Name": "Urianger",
+                    "Url": "/lodestone/playguide/db/npc/npc/56020ecee78/",
+                    "Area": "Das Herz (X:23.5 Y:23.3)"
+                },
+                {
+                    "Name": "Thancred",
+                    "Url": "/lodestone/playguide/db/npc/npc/388c8073d08/",
+                    "Area": "Die Große Leere (X:6.0 Y:5.7)"
+                }
+            ]
+        },
+        "Seq": 2,
+        "oldID": 68793,
+        "Map": {
+            "ID": 564
+        }
+    },
+    {
+        "ID": "67ce9e21833",
+        "Name": "Seismische Aktivitäten",
+        "Location": "Die Große Leere",
+        "Level": 80,
+        "JournalSection": 2,
+        "JournalCategory": 20,
+        "JournalGenre": "Eden",
+        "Url": "/lodestone/playguide/db/quest/67ce9e21833/",
+        "Image": "https://img.finalfantasyxiv.com/lds/pc/global/images/itemicon/ba/ba801f3e8610f0a0c5c6b45358e163265dae1767.png?n5.5",
+        "Icon": "function_normal",
+        "Issuer": "Ryne",
+        "StartLocation": {
+            "Name": "Die Große Leere",
+            "X": "6.0",
+            "Y": "6.4"
+        },
+        "StartClass": null,
+        "Job": "Krieger oder Magier (außer beschränkte Jobs)",
+        "Company": "Keine Angabe",
+        "Requirement": "Keine Angabe",
+        "Rewards": {
+            "Gil": 3000,
+            "Exp": 0,
+            "ItemsMand": [
+                {
+                    "Icon": "https://img.finalfantasyxiv.com/lds/pc/global/images/itemicon/eb/eb584f7fe108c91fe738789576754bcfce3e48cb.png?n5.5",
+                    "Name": "Frömmigkeits-Materia VII",
+                    "Amount": 5,
+                    "Url": "/lodestone/playguide/db/item/c2be6ee80a9/"
+                }
+            ],
+            "ItemsOpt": [
+                {
+                    "Icon": "https://img.finalfantasyxiv.com/lds/pc/global/images/itemicon/01/01947a3034803440796fe4eb7c9dca412b782390.png?n5.5",
+                    "Name": "Hellseher-Materia VII",
+                    "Amount": 3,
+                    "Url": "/lodestone/playguide/db/item/85587a58d9a/"
+                },
+                {
+                    "Icon": "https://img.finalfantasyxiv.com/lds/pc/global/images/itemicon/01/01947a3034803440796fe4eb7c9dca412b782390.png?n5.5",
+                    "Name": "Strategen-Materia VII",
+                    "Amount": 3,
+                    "Url": "/lodestone/playguide/db/item/ae193b74ae4/"
+                },
+                {
+                    "Icon": "https://img.finalfantasyxiv.com/lds/pc/global/images/itemicon/01/01947a3034803440796fe4eb7c9dca412b782390.png?n5.5",
+                    "Name": "Assassinen-Materia VII",
+                    "Amount": 3,
+                    "Url": "/lodestone/playguide/db/item/a3870117f91/"
+                }
+            ]
+        },
+        "Infos": {
+            "PrevQuests": [
+                {
+                    "Name": "Bewässerung der Wüste",
+                    "Url": "/lodestone/playguide/db/quest/c82be801aff/",
+                    "Area": "Das Herz",
+                    "Level": "80"
+                }
+            ],
+            "NextQuests": [
+                {
+                    "Name": "Das Orakel der Dunkelheit",
+                    "Url": "/lodestone/playguide/db/quest/6d94f481fbc/",
+                    "Area": "Die Große Leere",
+                    "Level": "80"
+                }
+            ],
+            "NPCs": [
+                {
+                    "Name": "Ryne",
+                    "Url": "/lodestone/playguide/db/npc/npc/f84071bdc43/",
+                    "Area": "Das Herz (X:23.4 Y:23.3)"
+                },
+                {
+                    "Name": "Ryne",
+                    "Url": "/lodestone/playguide/db/npc/npc/3ccec2b93d5/",
+                    "Area": "Das Herz (X:23.4 Y:23.3)"
+                },
+                {
+                    "Name": "Urianger",
+                    "Url": "/lodestone/playguide/db/npc/npc/56020ecee78/",
+                    "Area": "Das Herz (X:23.5 Y:23.3)"
+                },
+                {
+                    "Name": "Urianger",
+                    "Url": "/lodestone/playguide/db/npc/npc/86314ef7241/",
+                    "Area": "Das Herz (X:23.5 Y:23.3)"
+                },
+                {
+                    "Name": "Thancred",
+                    "Url": "/lodestone/playguide/db/npc/npc/81d1db49b4c/",
+                    "Area": "Die Große Leere (X:6.1 Y:6.4)"
+                },
+                {
+                    "Name": "Urianger",
+                    "Url": "/lodestone/playguide/db/npc/npc/3d41bfb26a1/",
+                    "Area": "Die Große Leere (X:6.0 Y:6.4)"
+                }
+            ]
+        },
+        "Seq": 4,
+        "oldID": 68795,
+        "Map": {
+            "ID": 565
+        }
+    },
+    {
+        "ID": "6d94f481fbc",
+        "Name": "Das Orakel der Dunkelheit",
+        "Location": "Die Große Leere",
+        "Level": 80,
+        "JournalSection": 2,
+        "JournalCategory": 20,
+        "JournalGenre": "Eden",
+        "Url": "/lodestone/playguide/db/quest/6d94f481fbc/",
+        "Image": "https://img.finalfantasyxiv.com/lds/pc/global/images/itemicon/db/dbc875fa8d4012f69fadae8843c1174fa99efc8d.png?n5.5",
+        "Icon": "function_normal",
+        "Issuer": "Ryne",
+        "StartLocation": {
+            "Name": "Die Große Leere",
+            "X": "6.0",
+            "Y": "6.5"
+        },
+        "StartClass": null,
+        "Job": "Krieger oder Magier (außer beschränkte Jobs)",
+        "Company": "Keine Angabe",
+        "Requirement": "Keine Angabe",
+        "Rewards": {
+            "Gil": 7500,
+            "Exp": 0,
+            "ItemsMand": [
+                {
+                    "Icon": "https://img.finalfantasyxiv.com/lds/pc/global/images/itemicon/01/01947a3034803440796fe4eb7c9dca412b782390.png?n5.5",
+                    "Name": "Hellseher-Materia VII",
+                    "Amount": 1,
+                    "Url": "/lodestone/playguide/db/item/85587a58d9a/"
+                },
+                {
+                    "Icon": "https://img.finalfantasyxiv.com/lds/pc/global/images/itemicon/01/01947a3034803440796fe4eb7c9dca412b782390.png?n5.5",
+                    "Name": "Strategen-Materia VII",
+                    "Amount": 1,
+                    "Url": "/lodestone/playguide/db/item/ae193b74ae4/"
+                },
+                {
+                    "Icon": "https://img.finalfantasyxiv.com/lds/pc/global/images/itemicon/01/01947a3034803440796fe4eb7c9dca412b782390.png?n5.5",
+                    "Name": "Assassinen-Materia VII",
+                    "Amount": 1,
+                    "Url": "/lodestone/playguide/db/item/a3870117f91/"
+                }
+            ],
+            "ItemsOpt": [
+                {
+                    "Icon": "https://img.finalfantasyxiv.com/lds/pc/global/images/itemicon/a3/a37a4b7e006f3be47e7425d5912a9b772f70ad7d.png?n5.5",
+                    "Name": "Kampf-Materia VII",
+                    "Amount": 3,
+                    "Url": "/lodestone/playguide/db/item/adeb9e0a07c/"
+                },
+                {
+                    "Icon": "https://img.finalfantasyxiv.com/lds/pc/global/images/itemicon/a3/a37a4b7e006f3be47e7425d5912a9b772f70ad7d.png?n5.5",
+                    "Name": "Zauber-Materia VII",
+                    "Amount": 3,
+                    "Url": "/lodestone/playguide/db/item/117f1387915/"
+                },
+                {
+                    "Icon": "https://img.finalfantasyxiv.com/lds/pc/global/images/itemicon/eb/eb584f7fe108c91fe738789576754bcfce3e48cb.png?n5.5",
+                    "Name": "Fechtkunst-Materia VII",
+                    "Amount": 3,
+                    "Url": "/lodestone/playguide/db/item/d45e4b5e3ef/"
+                },
+                {
+                    "Icon": "https://img.finalfantasyxiv.com/lds/pc/global/images/itemicon/eb/eb584f7fe108c91fe738789576754bcfce3e48cb.png?n5.5",
+                    "Name": "Frömmigkeits-Materia VII",
+                    "Amount": 3,
+                    "Url": "/lodestone/playguide/db/item/c2be6ee80a9/"
+                }
+            ]
+        },
+        "Infos": {
+            "PrevQuests": [
+                {
+                    "Name": "Seismische Aktivitäten",
+                    "Url": "/lodestone/playguide/db/quest/67ce9e21833/",
+                    "Area": "Die Große Leere",
+                    "Level": "80"
+                }
+            ],
+            "NextQuests": [
+                {
+                    "Name": "Eine Stimme im Kopf",
+                    "Url": "/lodestone/playguide/db/quest/e6e10a260eb/",
+                    "Area": "Amh Araeng",
+                    "Level": "80"
+                }
+            ],
+            "NPCs": [
+                {
+                    "Name": "Ryne",
+                    "Url": "/lodestone/playguide/db/npc/npc/2c5476ccb81/",
+                    "Area": "Amh Araeng (X:29.1 Y:31.7)"
+                },
+                {
+                    "Name": "Ryne",
+                    "Url": "/lodestone/playguide/db/npc/npc/4eeab45f4fa/",
+                    "Area": "Amh Araeng (X:26.8 Y:16.8)"
+                },
+                {
+                    "Name": "Ryne",
+                    "Url": "/lodestone/playguide/db/npc/npc/fb35d3165e4/",
+                    "Area": "Die Große Leere (X:6.7 Y:5.9)"
+                },
+                {
+                    "Name": "Thancred",
+                    "Url": "/lodestone/playguide/db/npc/npc/388c8073d08/",
+                    "Area": "Die Große Leere (X:6.0 Y:5.7)"
+                },
+                {
+                    "Name": "Thancred",
+                    "Url": "/lodestone/playguide/db/npc/npc/f662e59bb33/",
+                    "Area": "Die Große Leere (X:6.0 Y:6.4)"
+                },
+                {
+                    "Name": "Thancred",
+                    "Url": "/lodestone/playguide/db/npc/npc/630794a4e6f/",
+                    "Area": "Die Große Leere (X:6.0 Y:6.4)"
+                },
+                {
+                    "Name": "Urianger",
+                    "Url": "/lodestone/playguide/db/npc/npc/63c28bb171b/",
+                    "Area": "Die Große Leere (X:6.0 Y:6.4)"
+                },
+                {
+                    "Name": "Urianger",
+                    "Url": "/lodestone/playguide/db/npc/npc/3ac04f3dd68/",
+                    "Area": "Die Große Leere (X:6.0 Y:5.8)"
+                },
+                {
+                    "Name": "Urianger",
+                    "Url": "/lodestone/playguide/db/npc/npc/48d8959ed42/",
+                    "Area": "Die Große Leere (X:6.0 Y:6.4)"
+                }
+            ]
+        },
+        "Seq": 5,
+        "oldID": 68796,
+        "Map": {
+            "ID": 565
+        }
+    },
+    {
+        "ID": "72636ce56be",
+        "Name": "Der Himmel reißt auf",
+        "Location": "Die Große Leere",
+        "Level": 80,
+        "JournalSection": 2,
+        "JournalCategory": 20,
+        "JournalGenre": "Eden",
+        "Url": "/lodestone/playguide/db/quest/72636ce56be/",
+        "Image": "https://img.finalfantasyxiv.com/lds/pc/global/images/itemicon/be/be65093b55bb22d8e99eca186807d8fedc8bfeae.png?n5.5",
+        "Icon": "function_normal",
+        "Issuer": "Gaia",
+        "StartLocation": {
+            "Name": "Die Große Leere",
+            "X": "6.0",
+            "Y": "6.5"
+        },
+        "StartClass": null,
+        "Job": "Krieger oder Magier (außer beschränkte Jobs)",
+        "Company": "Keine Angabe",
+        "Requirement": "Keine Angabe",
+        "Rewards": {
+            "Gil": 3000,
+            "Exp": 0,
+            "ItemsMand": [],
+            "ItemsOpt": [
+                {
+                    "Icon": "https://img.finalfantasyxiv.com/lds/pc/global/images/itemicon/a3/a37a4b7e006f3be47e7425d5912a9b772f70ad7d.png?n5.5",
+                    "Name": "Kampf-Materia VII",
+                    "Amount": 2,
+                    "Url": "/lodestone/playguide/db/item/adeb9e0a07c/"
+                },
+                {
+                    "Icon": "https://img.finalfantasyxiv.com/lds/pc/global/images/itemicon/a3/a37a4b7e006f3be47e7425d5912a9b772f70ad7d.png?n5.5",
+                    "Name": "Zauber-Materia VII",
+                    "Amount": 2,
+                    "Url": "/lodestone/playguide/db/item/117f1387915/"
+                },
+                {
+                    "Icon": "https://img.finalfantasyxiv.com/lds/pc/global/images/itemicon/eb/eb584f7fe108c91fe738789576754bcfce3e48cb.png?n5.5",
+                    "Name": "Fechtkunst-Materia VII",
+                    "Amount": 2,
+                    "Url": "/lodestone/playguide/db/item/d45e4b5e3ef/"
+                },
+                {
+                    "Icon": "https://img.finalfantasyxiv.com/lds/pc/global/images/itemicon/eb/eb584f7fe108c91fe738789576754bcfce3e48cb.png?n5.5",
+                    "Name": "Frömmigkeits-Materia VII",
+                    "Amount": 2,
+                    "Url": "/lodestone/playguide/db/item/c2be6ee80a9/"
+                }
+            ]
+        },
+        "Infos": {
+            "PrevQuests": [
+                {
+                    "Name": "Eine Stimme im Kopf",
+                    "Url": "/lodestone/playguide/db/quest/e6e10a260eb/",
+                    "Area": "Amh Araeng",
+                    "Level": "80"
+                }
+            ],
+            "NextQuests": [
+                {
+                    "Name": "In den Feuersturm",
+                    "Url": "/lodestone/playguide/db/quest/d3b5b217021/",
+                    "Area": "Die Große Leere",
+                    "Level": "80"
+                }
+            ],
+            "NPCs": [
+                {
+                    "Name": "Gaia",
+                    "Url": "/lodestone/playguide/db/npc/npc/e5ab45bd0a1/",
+                    "Area": "Das Herz (X:23.5 Y:23.4)"
+                },
+                {
+                    "Name": "Ryne",
+                    "Url": "/lodestone/playguide/db/npc/npc/f84071bdc43/",
+                    "Area": "Das Herz (X:23.4 Y:23.3)"
+                },
+                {
+                    "Name": "Ryne",
+                    "Url": "/lodestone/playguide/db/npc/npc/3ccec2b93d5/",
+                    "Area": "Das Herz (X:23.4 Y:23.3)"
+                },
+                {
+                    "Name": "Thancred",
+                    "Url": "/lodestone/playguide/db/npc/npc/2a08a6f9c05/",
+                    "Area": "Das Herz (X:23.4 Y:23.3)"
+                },
+                {
+                    "Name": "Urianger",
+                    "Url": "/lodestone/playguide/db/npc/npc/56020ecee78/",
+                    "Area": "Das Herz (X:23.5 Y:23.3)"
+                },
+                {
+                    "Name": "Urianger",
+                    "Url": "/lodestone/playguide/db/npc/npc/86314ef7241/",
+                    "Area": "Das Herz (X:23.5 Y:23.3)"
+                },
+                {
+                    "Name": "Ryne",
+                    "Url": "/lodestone/playguide/db/npc/npc/193244b99c5/",
+                    "Area": "Die Große Leere (X:6.0 Y:6.3)"
+                },
+                {
+                    "Name": "Thancred",
+                    "Url": "/lodestone/playguide/db/npc/npc/2d7c1fe19ff/",
+                    "Area": "Die Große Leere (X:6.0 Y:6.3)"
+                },
+                {
+                    "Name": "Urianger",
+                    "Url": "/lodestone/playguide/db/npc/npc/3e5fe483c38/",
+                    "Area": "Die Große Leere (X:5.9 Y:6.3)"
+                }
+            ]
+        },
+        "Seq": 7,
+        "oldID": 69324,
+        "Map": {
+            "ID": 565
+        }
+    },
+    {
+        "ID": "74200bea56e",
+        "Name": "Auf dünnem Eis",
+        "Location": "Das Herz",
+        "Level": 80,
+        "JournalSection": 2,
+        "JournalCategory": 20,
+        "JournalGenre": "Eden",
+        "Url": "/lodestone/playguide/db/quest/74200bea56e/",
+        "Image": "https://img.finalfantasyxiv.com/lds/pc/global/images/itemicon/b5/b58da76fcc33fb333c3e4c3e75b65ffd36bededa.png?n5.5",
+        "Icon": "function_normal",
+        "Issuer": "Gaia",
+        "StartLocation": {
+            "Name": "Das Herz",
+            "X": "23.5",
+            "Y": "23.3"
+        },
+        "StartClass": null,
+        "Job": "Krieger oder Magier (außer beschränkte Jobs)",
+        "Company": "Keine Angabe",
+        "Requirement": "Keine Angabe",
+        "Rewards": {
+            "Gil": 3000,
+            "Exp": 0,
+            "ItemsMand": [],
+            "ItemsOpt": [
+                {
+                    "Icon": "https://img.finalfantasyxiv.com/lds/pc/global/images/itemicon/01/01947a3034803440796fe4eb7c9dca412b782390.png?n5.5",
+                    "Name": "Hellseher-Materia VII",
+                    "Amount": 3,
+                    "Url": "/lodestone/playguide/db/item/85587a58d9a/"
+                },
+                {
+                    "Icon": "https://img.finalfantasyxiv.com/lds/pc/global/images/itemicon/01/01947a3034803440796fe4eb7c9dca412b782390.png?n5.5",
+                    "Name": "Strategen-Materia VII",
+                    "Amount": 3,
+                    "Url": "/lodestone/playguide/db/item/ae193b74ae4/"
+                },
+                {
+                    "Icon": "https://img.finalfantasyxiv.com/lds/pc/global/images/itemicon/01/01947a3034803440796fe4eb7c9dca412b782390.png?n5.5",
+                    "Name": "Assassinen-Materia VII",
+                    "Amount": 3,
+                    "Url": "/lodestone/playguide/db/item/a3870117f91/"
+                }
+            ]
+        },
+        "Infos": {
+            "PrevQuests": [
+                {
+                    "Name": "Herz der Dunkelheit",
+                    "Url": "/lodestone/playguide/db/quest/897f2266db7/",
+                    "Area": "Die Große Leere",
+                    "Level": "80"
+                }
+            ],
+            "NextQuests": [
+                {
+                    "Name": "Das Leben findet einen Weg",
+                    "Url": "/lodestone/playguide/db/quest/c69c34a890b/",
+                    "Area": "Die Große Leere",
+                    "Level": "80"
+                }
+            ],
+            "NPCs": [
+                {
+                    "Name": "Gaia",
+                    "Url": "/lodestone/playguide/db/npc/npc/e5ab45bd0a1/",
+                    "Area": "Das Herz (X:23.5 Y:23.4)"
+                },
+                {
+                    "Name": "Ryne",
+                    "Url": "/lodestone/playguide/db/npc/npc/3ccec2b93d5/",
+                    "Area": "Das Herz (X:23.4 Y:23.3)"
+                },
+                {
+                    "Name": "Ryne",
+                    "Url": "/lodestone/playguide/db/npc/npc/93c5818904a/",
+                    "Area": "Das Herz (X:23.5 Y:23.3)"
+                },
+                {
+                    "Name": "Thancred",
+                    "Url": "/lodestone/playguide/db/npc/npc/2a08a6f9c05/",
+                    "Area": "Das Herz (X:23.4 Y:23.3)"
+                },
+                {
+                    "Name": "Thancred",
+                    "Url": "/lodestone/playguide/db/npc/npc/4b99d286fc5/",
+                    "Area": "Das Herz (X:23.4 Y:23.3)"
+                },
+                {
+                    "Name": "Urianger",
+                    "Url": "/lodestone/playguide/db/npc/npc/56020ecee78/",
+                    "Area": "Das Herz (X:23.5 Y:23.3)"
+                },
+                {
+                    "Name": "Urianger",
+                    "Url": "/lodestone/playguide/db/npc/npc/0f09f39d844/",
+                    "Area": "Das Herz (X:23.5 Y:23.3)"
+                }
+            ]
+        },
+        "Seq": 10,
+        "oldID": 69327,
+        "Map": {
+            "ID": 564
+        }
+    },
+    {
+        "ID": "757f797ff4f",
+        "Name": "Mitten im Nirgendwo",
+        "Location": "Crystarium",
+        "Level": 80,
+        "JournalSection": 2,
+        "JournalCategory": 20,
+        "JournalGenre": "Eden",
+        "Url": "/lodestone/playguide/db/quest/757f797ff4f/",
+        "Image": "https://img.finalfantasyxiv.com/lds/pc/global/images/itemicon/3e/3e9f020f02fa2e0da9803108b6d697d59f52ce84.png?n5.5",
+        "Icon": "function_normal",
+        "Issuer": "Besorgte Stadtwache",
+        "StartLocation": {
+            "Name": "Crystarium",
+            "X": "9.7",
+            "Y": "12.3"
+        },
+        "StartClass": null,
+        "Job": "Krieger oder Magier (außer beschränkte Jobs)",
+        "Company": "Keine Angabe",
+        "Requirement": "Keine Angabe",
+        "Rewards": {
+            "Gil": 1150,
+            "Exp": 0,
+            "ItemsMand": [],
+            "ItemsOpt": []
+        },
+        "Infos": {
+            "PrevQuests": [
+                {
+                    "Name": "Schattenbringer",
+                    "Url": "/lodestone/playguide/db/quest/4ed1668d377/",
+                    "Area": "Tempest",
+                    "Level": "80"
+                }
+            ],
+            "NextQuests": [
+                {
+                    "Name": "Reise in das Herz",
+                    "Url": "/lodestone/playguide/db/quest/f77599b0abc/",
+                    "Area": "Die Große Leere",
+                    "Level": "80"
+                }
+            ],
+            "NPCs": [
+                {
+                    "Name": "Ryne",
+                    "Url": "/lodestone/playguide/db/npc/npc/2c5476ccb81/",
+                    "Area": "Amh Araeng (X:29.1 Y:31.7)"
+                },
+                {
+                    "Name": "Thancred",
+                    "Url": "/lodestone/playguide/db/npc/npc/ce4590d6ebd/",
+                    "Area": "Amh Araeng (X:29.1 Y:31.7)"
+                },
+                {
+                    "Name": "Urianger",
+                    "Url": "/lodestone/playguide/db/npc/npc/5f6b41b3110/",
+                    "Area": "Amh Araeng (X:29.0 Y:31.7)"
+                },
+                {
+                    "Name": "Ryne",
+                    "Url": "/lodestone/playguide/db/npc/npc/771baa12d65/",
+                    "Area": "Die Große Leere (X:6.1 Y:5.7)"
+                },
+                {
+                    "Name": "Urianger",
+                    "Url": "/lodestone/playguide/db/npc/npc/4d6439de38d/",
+                    "Area": "Die Große Leere (X:6.0 Y:5.7)"
+                }
+            ]
+        },
+        "Seq": 8,
+        "oldID": 68791,
+        "Map": {
+            "ID": 497
+        }
+    },
+    {
+        "ID": "764097e364d",
+        "Name": "Mein Platz in dieser Welt",
+        "Location": "Die Große Leere",
+        "Level": 80,
+        "JournalSection": 2,
+        "JournalCategory": 20,
+        "JournalGenre": "Eden",
+        "Url": "/lodestone/playguide/db/quest/764097e364d/",
+        "Image": "https://img.finalfantasyxiv.com/lds/pc/global/images/itemicon/c6/c6a185b0a0a5e83f016b54d72cf727dc42d04785.png?n5.5",
+        "Icon": "function_normal",
+        "Issuer": "Ryne",
+        "StartLocation": {
+            "Name": "Die Große Leere",
+            "X": "5.9",
+            "Y": "6.5"
+        },
+        "StartClass": null,
+        "Job": "Krieger oder Magier (außer beschränkte Jobs)",
+        "Company": "Keine Angabe",
+        "Requirement": "Keine Angabe",
+        "Rewards": {
+            "Gil": 7500,
+            "Exp": 0,
+            "ItemsMand": [],
+            "ItemsOpt": [
+                {
+                    "Icon": "https://img.finalfantasyxiv.com/lds/pc/global/images/itemicon/01/01947a3034803440796fe4eb7c9dca412b782390.png?n5.5",
+                    "Name": "Hellseher-Materia VII",
+                    "Amount": 3,
+                    "Url": "/lodestone/playguide/db/item/85587a58d9a/"
+                },
+                {
+                    "Icon": "https://img.finalfantasyxiv.com/lds/pc/global/images/itemicon/01/01947a3034803440796fe4eb7c9dca412b782390.png?n5.5",
+                    "Name": "Strategen-Materia VII",
+                    "Amount": 3,
+                    "Url": "/lodestone/playguide/db/item/ae193b74ae4/"
+                },
+                {
+                    "Icon": "https://img.finalfantasyxiv.com/lds/pc/global/images/itemicon/01/01947a3034803440796fe4eb7c9dca412b782390.png?n5.5",
+                    "Name": "Assassinen-Materia VII",
+                    "Amount": 3,
+                    "Url": "/lodestone/playguide/db/item/a3870117f91/"
+                }
+            ]
+        },
+        "Infos": {
+            "PrevQuests": [
+                {
+                    "Name": "Ein Versprechen für die Ewigkeit",
+                    "Url": "/lodestone/playguide/db/quest/0640eab80b3/",
+                    "Area": "Das Herz",
+                    "Level": "80"
+                }
+            ],
+            "NextQuests": [
+                {
+                    "Name": "Gaia",
+                    "Url": "/lodestone/playguide/db/npc/npc/a43fe2b52da/",
+                    "Area": "Amh Araeng (X:26.8 Y:16.6)"
+                },
+                {
+                    "Name": "Gaia",
+                    "Url": "/lodestone/playguide/db/npc/npc/4d69c3d7e9c/",
+                    "Area": "Amh Araeng (X:29.0 Y:31.6)"
+                },
+                {
+                    "Name": "Ryne",
+                    "Url": "/lodestone/playguide/db/npc/npc/e8cf04bae02/",
+                    "Area": "Amh Araeng (X:26.8 Y:16.6)"
+                },
+                {
+                    "Name": "Ryne",
+                    "Url": "/lodestone/playguide/db/npc/npc/a0415155135/",
+                    "Area": "Amh Araeng (X:29.1 Y:31.7)"
+                },
+                {
+                    "Name": "Yalfort",
+                    "Url": "/lodestone/playguide/db/npc/npc/9398ed1b4c6/",
+                    "Area": "Amh Araeng (X:26.7 Y:16.7)"
+                },
+                {
+                    "Name": "Gaia",
+                    "Url": "/lodestone/playguide/db/npc/npc/77d6e19cb3d/",
+                    "Area": "Die Große Leere (X:6.0 Y:6.5)"
+                }
+            ]
+        },
+        "Seq": 17,
+        "oldID": 69515,
+        "Map": {
+            "ID": 565
+        }
+    },
+    {
+        "ID": "897f2266db7",
+        "Name": "Herz der Dunkelheit",
+        "Location": "Die Große Leere",
+        "Level": 80,
+        "JournalSection": 2,
+        "JournalCategory": 20,
+        "JournalGenre": "Eden",
+        "Url": "/lodestone/playguide/db/quest/897f2266db7/",
+        "Image": "https://img.finalfantasyxiv.com/lds/pc/global/images/itemicon/c1/c114f1ab9c531e5297dfc5c8dbafe12aec0dbe25.png?n5.5",
+        "Icon": "function_normal",
+        "Issuer": "Thancred",
+        "StartLocation": {
+            "Name": "Die Große Leere",
+            "X": "5.9",
+            "Y": "5.8"
+        },
+        "StartClass": null,
+        "Job": "Krieger oder Magier (außer beschränkte Jobs)",
+        "Company": "Keine Angabe",
+        "Requirement": "Keine Angabe",
+        "Rewards": {
+            "Gil": 3000,
+            "Exp": 0,
+            "ItemsMand": [],
+            "ItemsOpt": [
+                {
+                    "Icon": "https://img.finalfantasyxiv.com/lds/pc/global/images/itemicon/a3/a37a4b7e006f3be47e7425d5912a9b772f70ad7d.png?n5.5",
+                    "Name": "Kampf-Materia VII",
+                    "Amount": 2,
+                    "Url": "/lodestone/playguide/db/item/adeb9e0a07c/"
+                },
+                {
+                    "Icon": "https://img.finalfantasyxiv.com/lds/pc/global/images/itemicon/a3/a37a4b7e006f3be47e7425d5912a9b772f70ad7d.png?n5.5",
+                    "Name": "Zauber-Materia VII",
+                    "Amount": 2,
+                    "Url": "/lodestone/playguide/db/item/117f1387915/"
+                },
+                {
+                    "Icon": "https://img.finalfantasyxiv.com/lds/pc/global/images/itemicon/eb/eb584f7fe108c91fe738789576754bcfce3e48cb.png?n5.5",
+                    "Name": "Fechtkunst-Materia VII",
+                    "Amount": 2,
+                    "Url": "/lodestone/playguide/db/item/d45e4b5e3ef/"
+                },
+                {
+                    "Icon": "https://img.finalfantasyxiv.com/lds/pc/global/images/itemicon/eb/eb584f7fe108c91fe738789576754bcfce3e48cb.png?n5.5",
+                    "Name": "Frömmigkeits-Materia VII",
+                    "Amount": 2,
+                    "Url": "/lodestone/playguide/db/item/c2be6ee80a9/"
+                }
+            ]
+        },
+        "Infos": {
+            "PrevQuests": [
+                {
+                    "Name": "In den Feuersturm",
+                    "Url": "/lodestone/playguide/db/quest/d3b5b217021/",
+                    "Area": "Die Große Leere",
+                    "Level": "80"
+                }
+            ],
+            "NextQuests": [
+                {
+                    "Name": "Auf dünnem Eis",
+                    "Url": "/lodestone/playguide/db/quest/74200bea56e/",
+                    "Area": "Das Herz",
+                    "Level": "80"
+                }
+            ],
+            "NPCs": [
+                {
+                    "Name": "Gaia",
+                    "Url": "/lodestone/playguide/db/npc/npc/66d1cafbadd/",
+                    "Area": "Das Herz (X:23.5 Y:23.4)"
+                },
+                {
+                    "Name": "Gaia",
+                    "Url": "/lodestone/playguide/db/npc/npc/0103541f75f/",
+                    "Area": "Das Herz (X:23.5 Y:23.3)"
+                },
+                {
+                    "Name": "Ryne",
+                    "Url": "/lodestone/playguide/db/npc/npc/3ccec2b93d5/",
+                    "Area": "Das Herz (X:23.4 Y:23.3)"
+                },
+                {
+                    "Name": "Ryne",
+                    "Url": "/lodestone/playguide/db/npc/npc/4ed18ba79ed/",
+                    "Area": "Das Herz (X:23.5 Y:23.3)"
+                },
+                {
+                    "Name": "Thancred",
+                    "Url": "/lodestone/playguide/db/npc/npc/2a08a6f9c05/",
+                    "Area": "Das Herz (X:23.4 Y:23.3)"
+                },
+                {
+                    "Name": "Thancred",
+                    "Url": "/lodestone/playguide/db/npc/npc/4b99d286fc5/",
+                    "Area": "Das Herz (X:23.4 Y:23.3)"
+                },
+                {
+                    "Name": "Urianger",
+                    "Url": "/lodestone/playguide/db/npc/npc/56020ecee78/",
+                    "Area": "Das Herz (X:23.5 Y:23.3)"
+                },
+                {
+                    "Name": "Urianger",
+                    "Url": "/lodestone/playguide/db/npc/npc/d4f43ede857/",
+                    "Area": "Das Herz (X:23.5 Y:23.3)"
+                },
+                {
+                    "Name": "Gaia",
+                    "Url": "/lodestone/playguide/db/npc/npc/afb914e3183/",
+                    "Area": "Die Große Leere (X:5.9 Y:5.9)"
+                },
+                {
+                    "Name": "Ryne",
+                    "Url": "/lodestone/playguide/db/npc/npc/2738e3291fe/",
+                    "Area": "Die Große Leere (X:5.9 Y:5.9)"
+                },
+                {
+                    "Name": "Urianger",
+                    "Url": "/lodestone/playguide/db/npc/npc/4e9a00c11ed/",
+                    "Area": "Die Große Leere (X:5.9 Y:5.9)"
+                }
+            ]
+        },
+        "Seq": 9,
+        "oldID": 69326,
+        "Map": {
+            "ID": 565
+        }
+    },
+    {
+        "ID": "a5f76c8d063",
+        "Name": "Leeres Versprechen",
+        "Location": "Amh Araeng",
+        "Level": 80,
+        "JournalSection": 2,
+        "JournalCategory": 20,
+        "JournalGenre": "Eden",
+        "Url": "/lodestone/playguide/db/quest/a5f76c8d063/",
+        "Image": "https://img.finalfantasyxiv.com/lds/pc/global/images/itemicon/25/25551f9e4c948cb521e7377d5cd076e412e74631.png?n5.5",
+        "Icon": "function_normal",
+        "Issuer": "Yalfort",
+        "StartLocation": {
+            "Name": "Amh Araeng",
+            "X": "26.7",
+            "Y": "16.7"
+        },
+        "StartClass": null,
+        "Job": "Krieger oder Magier (außer beschränkte Jobs)",
+        "Company": "Keine Angabe",
+        "Requirement": "Keine Angabe",
+        "Rewards": {
+            "Gil": 3000,
+            "Exp": 0,
+            "ItemsMand": [],
+            "ItemsOpt": [
+                {
+                    "Icon": "https://img.finalfantasyxiv.com/lds/pc/global/images/itemicon/a3/a37a4b7e006f3be47e7425d5912a9b772f70ad7d.png?n5.5",
+                    "Name": "Kampf-Materia VII",
+                    "Amount": 2,
+                    "Url": "/lodestone/playguide/db/item/adeb9e0a07c/"
+                },
+                {
+                    "Icon": "https://img.finalfantasyxiv.com/lds/pc/global/images/itemicon/a3/a37a4b7e006f3be47e7425d5912a9b772f70ad7d.png?n5.5",
+                    "Name": "Zauber-Materia VII",
+                    "Amount": 2,
+                    "Url": "/lodestone/playguide/db/item/117f1387915/"
+                },
+                {
+                    "Icon": "https://img.finalfantasyxiv.com/lds/pc/global/images/itemicon/eb/eb584f7fe108c91fe738789576754bcfce3e48cb.png?n5.5",
+                    "Name": "Fechtkunst-Materia VII",
+                    "Amount": 2,
+                    "Url": "/lodestone/playguide/db/item/d45e4b5e3ef/"
+                },
+                {
+                    "Icon": "https://img.finalfantasyxiv.com/lds/pc/global/images/itemicon/eb/eb584f7fe108c91fe738789576754bcfce3e48cb.png?n5.5",
+                    "Name": "Frömmigkeits-Materia VII",
+                    "Amount": 2,
+                    "Url": "/lodestone/playguide/db/item/c2be6ee80a9/"
+                }
+            ]
+        },
+        "Infos": {
+            "PrevQuests": [
+                {
+                    "Name": "Kristall-Reflektionen",
+                    "Url": "/lodestone/playguide/db/quest/29d7ff6ba43/",
+                    "Area": "Crystarium",
+                    "Level": "80"
+                },
+                {
+                    "Name": "Welten entfernt",
+                    "Url": "/lodestone/playguide/db/quest/f909a1f23ce/",
+                    "Area": "Amh Araeng",
+                    "Level": "80"
+                }
+            ],
+            "NextQuests": [
+                {
+                    "Name": "Angst vor der Dunkelheit",
+                    "Url": "/lodestone/playguide/db/quest/06c31efdde9/",
+                    "Area": "Die Große Leere",
+                    "Level": "80"
+                }
+            ],
+            "NPCs": [
+                {
+                    "Name": "Gaia",
+                    "Url": "/lodestone/playguide/db/npc/npc/4d69c3d7e9c/",
+                    "Area": "Amh Araeng (X:29.0 Y:31.6)"
+                },
+                {
+                    "Name": "Ryne",
+                    "Url": "/lodestone/playguide/db/npc/npc/a0415155135/",
+                    "Area": "Amh Araeng (X:29.1 Y:31.7)"
+                }
+            ]
+        },
+        "Seq": 13,
+        "oldID": 69511,
+        "Map": {
+            "ID": 493
+        }
+    },
+    {
+        "ID": "c69c34a890b",
+        "Name": "Das Leben findet einen Weg",
+        "Location": "Die Große Leere",
+        "Level": 80,
+        "JournalSection": 2,
+        "JournalCategory": 20,
+        "JournalGenre": "Eden",
+        "Url": "/lodestone/playguide/db/quest/c69c34a890b/",
+        "Image": "https://img.finalfantasyxiv.com/lds/pc/global/images/itemicon/72/7259f69bace7d01c6b73f48f3de212366083ebcf.png?n5.5",
+        "Icon": "function_normal",
+        "Issuer": "Ryne",
+        "StartLocation": {
+            "Name": "Die Große Leere",
+            "X": "5.9",
+            "Y": "5.9"
+        },
+        "StartClass": null,
+        "Job": "Krieger oder Magier (außer beschränkte Jobs)",
+        "Company": "Keine Angabe",
+        "Requirement": "Keine Angabe",
+        "Rewards": {
+            "Gil": 7500,
+            "Exp": 0,
+            "ItemsMand": [],
+            "ItemsOpt": [
+                {
+                    "Icon": "https://img.finalfantasyxiv.com/lds/pc/global/images/itemicon/01/01947a3034803440796fe4eb7c9dca412b782390.png?n5.5",
+                    "Name": "Hellseher-Materia VII",
+                    "Amount": 3,
+                    "Url": "/lodestone/playguide/db/item/85587a58d9a/"
+                },
+                {
+                    "Icon": "https://img.finalfantasyxiv.com/lds/pc/global/images/itemicon/01/01947a3034803440796fe4eb7c9dca412b782390.png?n5.5",
+                    "Name": "Strategen-Materia VII",
+                    "Amount": 3,
+                    "Url": "/lodestone/playguide/db/item/ae193b74ae4/"
+                },
+                {
+                    "Icon": "https://img.finalfantasyxiv.com/lds/pc/global/images/itemicon/01/01947a3034803440796fe4eb7c9dca412b782390.png?n5.5",
+                    "Name": "Assassinen-Materia VII",
+                    "Amount": 3,
+                    "Url": "/lodestone/playguide/db/item/a3870117f91/"
+                }
+            ]
+        },
+        "Infos": {
+            "PrevQuests": [
+                {
+                    "Name": "Auf dünnem Eis",
+                    "Url": "/lodestone/playguide/db/quest/74200bea56e/",
+                    "Area": "Das Herz",
+                    "Level": "80"
+                }
+            ],
+            "NextQuests": [
+                {
+                    "Name": "Welten entfernt",
+                    "Url": "/lodestone/playguide/db/quest/f909a1f23ce/",
+                    "Area": "Amh Araeng",
+                    "Level": "80"
+                }
+            ],
+            "NPCs": [
+                {
+                    "Name": "Gaia",
+                    "Url": "/lodestone/playguide/db/npc/npc/7c25a7e6671/",
+                    "Area": "Amh Araeng (X:29.0 Y:31.7)"
+                },
+                {
+                    "Name": "Gaia",
+                    "Url": "/lodestone/playguide/db/npc/npc/a43fe2b52da/",
+                    "Area": "Amh Araeng (X:26.8 Y:16.6)"
+                },
+                {
+                    "Name": "Ryne",
+                    "Url": "/lodestone/playguide/db/npc/npc/2c5476ccb81/",
+                    "Area": "Amh Araeng (X:29.1 Y:31.7)"
+                },
+                {
+                    "Name": "Ryne",
+                    "Url": "/lodestone/playguide/db/npc/npc/e8cf04bae02/",
+                    "Area": "Amh Araeng (X:26.8 Y:16.6)"
+                },
+                {
+                    "Name": "Thancred",
+                    "Url": "/lodestone/playguide/db/npc/npc/ce4590d6ebd/",
+                    "Area": "Amh Araeng (X:29.1 Y:31.7)"
+                },
+                {
+                    "Name": "Urianger",
+                    "Url": "/lodestone/playguide/db/npc/npc/5f6b41b3110/",
+                    "Area": "Amh Araeng (X:29.0 Y:31.7)"
+                },
+                {
+                    "Name": "Yalfort",
+                    "Url": "/lodestone/playguide/db/npc/npc/122dbb102c0/",
+                    "Area": "Amh Araeng (X:26.7 Y:16.7)"
+                },
+                {
+                    "Name": "Gaia",
+                    "Url": "/lodestone/playguide/db/npc/npc/afb914e3183/",
+                    "Area": "Die Große Leere (X:5.9 Y:5.9)"
+                },
+                {
+                    "Name": "Thancred",
+                    "Url": "/lodestone/playguide/db/npc/npc/2afcf5de51f/",
+                    "Area": "Die Große Leere (X:5.9 Y:5.8)"
+                },
+                {
+                    "Name": "Urianger",
+                    "Url": "/lodestone/playguide/db/npc/npc/4e9a00c11ed/",
+                    "Area": "Die Große Leere (X:5.9 Y:5.9)"
+                }
+            ]
+        },
+        "Seq": 11,
+        "oldID": 69328,
+        "Map": {
+            "ID": 565
+        }
+    },
+    {
+        "ID": "c82be801aff",
+        "Name": "Bewässerung der Wüste",
+        "Location": "Das Herz",
+        "Level": 80,
+        "JournalSection": 2,
+        "JournalCategory": 20,
+        "JournalGenre": "Eden",
+        "Url": "/lodestone/playguide/db/quest/c82be801aff/",
+        "Image": "https://img.finalfantasyxiv.com/lds/pc/global/images/itemicon/b9/b9992f9044be44646e16abeae21d23fd4d166119.png?n5.5",
+        "Icon": "function_normal",
+        "Issuer": "Ryne",
+        "StartLocation": {
+            "Name": "Das Herz",
+            "X": "23.4",
+            "Y": "23.3"
+        },
+        "StartClass": null,
+        "Job": "Krieger oder Magier (außer beschränkte Jobs)",
+        "Company": "Keine Angabe",
+        "Requirement": "Keine Angabe",
+        "Rewards": {
+            "Gil": 3000,
+            "Exp": 0,
+            "ItemsMand": [
+                {
+                    "Icon": "https://img.finalfantasyxiv.com/lds/pc/global/images/itemicon/eb/eb584f7fe108c91fe738789576754bcfce3e48cb.png?n5.5",
+                    "Name": "Fechtkunst-Materia VII",
+                    "Amount": 5,
+                    "Url": "/lodestone/playguide/db/item/d45e4b5e3ef/"
+                }
+            ],
+            "ItemsOpt": [
+                {
+                    "Icon": "https://img.finalfantasyxiv.com/lds/pc/global/images/itemicon/01/01947a3034803440796fe4eb7c9dca412b782390.png?n5.5",
+                    "Name": "Hellseher-Materia VII",
+                    "Amount": 3,
+                    "Url": "/lodestone/playguide/db/item/85587a58d9a/"
+                },
+                {
+                    "Icon": "https://img.finalfantasyxiv.com/lds/pc/global/images/itemicon/01/01947a3034803440796fe4eb7c9dca412b782390.png?n5.5",
+                    "Name": "Strategen-Materia VII",
+                    "Amount": 3,
+                    "Url": "/lodestone/playguide/db/item/ae193b74ae4/"
+                },
+                {
+                    "Icon": "https://img.finalfantasyxiv.com/lds/pc/global/images/itemicon/01/01947a3034803440796fe4eb7c9dca412b782390.png?n5.5",
+                    "Name": "Assassinen-Materia VII",
+                    "Amount": 3,
+                    "Url": "/lodestone/playguide/db/item/a3870117f91/"
+                }
+            ]
+        },
+        "Infos": {
+            "PrevQuests": [
+                {
+                    "Name": "Gefahr von oben",
+                    "Url": "/lodestone/playguide/db/quest/56a704d322e/",
+                    "Area": "Das Herz",
+                    "Level": "80"
+                }
+            ],
+            "NextQuests": [
+                {
+                    "Name": "Seismische Aktivitäten",
+                    "Url": "/lodestone/playguide/db/quest/67ce9e21833/",
+                    "Area": "Die Große Leere",
+                    "Level": "80"
+                }
+            ],
+            "NPCs": [
+                {
+                    "Name": "Ryne",
+                    "Url": "/lodestone/playguide/db/npc/npc/f84071bdc43/",
+                    "Area": "Das Herz (X:23.4 Y:23.3)"
+                },
+                {
+                    "Name": "Urianger",
+                    "Url": "/lodestone/playguide/db/npc/npc/56020ecee78/",
+                    "Area": "Das Herz (X:23.5 Y:23.3)"
+                },
+                {
+                    "Name": "Urianger",
+                    "Url": "/lodestone/playguide/db/npc/npc/86314ef7241/",
+                    "Area": "Das Herz (X:23.5 Y:23.3)"
+                },
+                {
+                    "Name": "Ryne",
+                    "Url": "/lodestone/playguide/db/npc/npc/6bb49eb674e/",
+                    "Area": "Die Große Leere (X:6.0 Y:5.7)"
+                },
+                {
+                    "Name": "Thancred",
+                    "Url": "/lodestone/playguide/db/npc/npc/388c8073d08/",
+                    "Area": "Die Große Leere (X:6.0 Y:5.7)"
+                },
+                {
+                    "Name": "Urianger",
+                    "Url": "/lodestone/playguide/db/npc/npc/14d8f2dc5ba/",
+                    "Area": "Die Große Leere (X:6.0 Y:5.7)"
+                }
+            ]
+        },
+        "Seq": 3,
+        "oldID": 68794,
+        "Map": {
+            "ID": 564
+        }
+    },
+    {
+        "ID": "d3b5b217021",
+        "Name": "In den Feuersturm",
+        "Location": "Die Große Leere",
+        "Level": 80,
+        "JournalSection": 2,
+        "JournalCategory": 20,
+        "JournalGenre": "Eden",
+        "Url": "/lodestone/playguide/db/quest/d3b5b217021/",
+        "Image": "https://img.finalfantasyxiv.com/lds/pc/global/images/itemicon/36/368cd449551e53b55df7abc20863b4ffa50f64cc.png?n5.5",
+        "Icon": "function_normal",
+        "Issuer": "Urianger",
+        "StartLocation": {
+            "Name": "Die Große Leere",
+            "X": "5.9",
+            "Y": "5.9"
+        },
+        "StartClass": null,
+        "Job": "Krieger oder Magier (außer beschränkte Jobs)",
+        "Company": "Keine Angabe",
+        "Requirement": "Keine Angabe",
+        "Rewards": {
+            "Gil": 3000,
+            "Exp": 0,
+            "ItemsMand": [],
+            "ItemsOpt": [
+                {
+                    "Icon": "https://img.finalfantasyxiv.com/lds/pc/global/images/itemicon/a3/a37a4b7e006f3be47e7425d5912a9b772f70ad7d.png?n5.5",
+                    "Name": "Kampf-Materia VII",
+                    "Amount": 2,
+                    "Url": "/lodestone/playguide/db/item/adeb9e0a07c/"
+                },
+                {
+                    "Icon": "https://img.finalfantasyxiv.com/lds/pc/global/images/itemicon/a3/a37a4b7e006f3be47e7425d5912a9b772f70ad7d.png?n5.5",
+                    "Name": "Zauber-Materia VII",
+                    "Amount": 2,
+                    "Url": "/lodestone/playguide/db/item/117f1387915/"
+                },
+                {
+                    "Icon": "https://img.finalfantasyxiv.com/lds/pc/global/images/itemicon/eb/eb584f7fe108c91fe738789576754bcfce3e48cb.png?n5.5",
+                    "Name": "Fechtkunst-Materia VII",
+                    "Amount": 2,
+                    "Url": "/lodestone/playguide/db/item/d45e4b5e3ef/"
+                },
+                {
+                    "Icon": "https://img.finalfantasyxiv.com/lds/pc/global/images/itemicon/eb/eb584f7fe108c91fe738789576754bcfce3e48cb.png?n5.5",
+                    "Name": "Frömmigkeits-Materia VII",
+                    "Amount": 2,
+                    "Url": "/lodestone/playguide/db/item/c2be6ee80a9/"
+                }
+            ]
+        },
+        "Infos": {
+            "PrevQuests": [
+                {
+                    "Name": "Der Himmel reißt auf",
+                    "Url": "/lodestone/playguide/db/quest/72636ce56be/",
+                    "Area": "Die Große Leere",
+                    "Level": "80"
+                }
+            ],
+            "NextQuests": [
+                {
+                    "Name": "Herz der Dunkelheit",
+                    "Url": "/lodestone/playguide/db/quest/897f2266db7/",
+                    "Area": "Die Große Leere",
+                    "Level": "80"
+                }
+            ],
+            "NPCs": [
+                {
+                    "Name": "Gaia",
+                    "Url": "/lodestone/playguide/db/npc/npc/e5ab45bd0a1/",
+                    "Area": "Das Herz (X:23.5 Y:23.4)"
+                },
+                {
+                    "Name": "Ryne",
+                    "Url": "/lodestone/playguide/db/npc/npc/f84071bdc43/",
+                    "Area": "Das Herz (X:23.4 Y:23.3)"
+                },
+                {
+                    "Name": "Ryne",
+                    "Url": "/lodestone/playguide/db/npc/npc/3ccec2b93d5/",
+                    "Area": "Das Herz (X:23.4 Y:23.3)"
+                },
+                {
+                    "Name": "Thancred",
+                    "Url": "/lodestone/playguide/db/npc/npc/2a08a6f9c05/",
+                    "Area": "Das Herz (X:23.4 Y:23.3)"
+                },
+                {
+                    "Name": "Urianger",
+                    "Url": "/lodestone/playguide/db/npc/npc/56020ecee78/",
+                    "Area": "Das Herz (X:23.5 Y:23.3)"
+                },
+                {
+                    "Name": "Urianger",
+                    "Url": "/lodestone/playguide/db/npc/npc/86314ef7241/",
+                    "Area": "Das Herz (X:23.5 Y:23.3)"
+                },
+                {
+                    "Name": "Gaia",
+                    "Url": "/lodestone/playguide/db/npc/npc/77d6e19cb3d/",
+                    "Area": "Die Große Leere (X:6.0 Y:6.5)"
+                },
+                {
+                    "Name": "Gaia",
+                    "Url": "/lodestone/playguide/db/npc/npc/afb914e3183/",
+                    "Area": "Die Große Leere (X:5.9 Y:5.9)"
+                },
+                {
+                    "Name": "Ryne",
+                    "Url": "/lodestone/playguide/db/npc/npc/193244b99c5/",
+                    "Area": "Die Große Leere (X:6.0 Y:6.3)"
+                },
+                {
+                    "Name": "Ryne",
+                    "Url": "/lodestone/playguide/db/npc/npc/2738e3291fe/",
+                    "Area": "Die Große Leere (X:5.9 Y:5.9)"
+                },
+                {
+                    "Name": "Thancred",
+                    "Url": "/lodestone/playguide/db/npc/npc/2afcf5de51f/",
+                    "Area": "Die Große Leere (X:5.9 Y:5.8)"
+                }
+            ]
+        },
+        "Seq": 8,
+        "oldID": 69325,
+        "Map": {
+            "ID": 565
+        }
+    },
+    {
+        "ID": "e6e10a260eb",
+        "Name": "Eine Stimme im Kopf",
+        "Location": "Amh Araeng",
+        "Level": 80,
+        "JournalSection": 2,
+        "JournalCategory": 20,
+        "JournalGenre": "Eden",
+        "Url": "/lodestone/playguide/db/quest/e6e10a260eb/",
+        "Image": "https://img.finalfantasyxiv.com/lds/pc/global/images/itemicon/03/034755eb114a39f07b80267b7860b165d910ef19.png?n5.5",
+        "Icon": "function_normal",
+        "Issuer": "Yalfort",
+        "StartLocation": {
+            "Name": "Amh Araeng",
+            "X": "26.7",
+            "Y": "16.7"
+        },
+        "StartClass": null,
+        "Job": "Krieger oder Magier (außer beschränkte Jobs)",
+        "Company": "Keine Angabe",
+        "Requirement": "Keine Angabe",
+        "Rewards": {
+            "Gil": 1752,
+            "Exp": 0,
+            "ItemsMand": [],
+            "ItemsOpt": []
+        },
+        "Infos": {
+            "PrevQuests": [
+                {
+                    "Name": "Das Orakel der Dunkelheit",
+                    "Url": "/lodestone/playguide/db/quest/6d94f481fbc/",
+                    "Area": "Die Große Leere",
+                    "Level": "80"
+                }
+            ],
+            "NextQuests": [
+                {
+                    "Name": "Der Himmel reißt auf",
+                    "Url": "/lodestone/playguide/db/quest/72636ce56be/",
+                    "Area": "Die Große Leere",
+                    "Level": "80"
+                }
+            ],
+            "NPCs": [
+                {
+                    "Name": "Gaia",
+                    "Url": "/lodestone/playguide/db/npc/npc/fca5c715201/",
+                    "Area": "Amh Araeng (X:31.1 Y:23.1)"
+                },
+                {
+                    "Name": "Gaia",
+                    "Url": "/lodestone/playguide/db/npc/npc/0a867170bb0/",
+                    "Area": "Amh Araeng (X:29.1 Y:31.6)"
+                },
+                {
+                    "Name": "Gaia",
+                    "Url": "/lodestone/playguide/db/npc/npc/10465a3f147/",
+                    "Area": "Amh Araeng (X:27.8 Y:16.9)"
+                },
+                {
+                    "Name": "Ryne",
+                    "Url": "/lodestone/playguide/db/npc/npc/2c5476ccb81/",
+                    "Area": "Amh Araeng (X:29.1 Y:31.7)"
+                },
+                {
+                    "Name": "Ryne",
+                    "Url": "/lodestone/playguide/db/npc/npc/313ed51c0ef/",
+                    "Area": "Amh Araeng (X:31.2 Y:23.0)"
+                },
+                {
+                    "Name": "Ryne",
+                    "Url": "/lodestone/playguide/db/npc/npc/a03320063dc/",
+                    "Area": "Amh Araeng (X:27.8 Y:16.8)"
+                },
+                {
+                    "Name": "Ryne",
+                    "Url": "/lodestone/playguide/db/npc/npc/29f96b24a60/",
+                    "Area": "Amh Araeng (X:31.1 Y:21.1)"
+                },
+                {
+                    "Name": "Thancred",
+                    "Url": "/lodestone/playguide/db/npc/npc/ce4590d6ebd/",
+                    "Area": "Amh Araeng (X:29.1 Y:31.7)"
+                },
+                {
+                    "Name": "Thancred",
+                    "Url": "/lodestone/playguide/db/npc/npc/9c8a0e5d126/",
+                    "Area": "Amh Araeng (X:31.2 Y:22.9)"
+                },
+                {
+                    "Name": "Thancred",
+                    "Url": "/lodestone/playguide/db/npc/npc/27e0bbc0e96/",
+                    "Area": "Amh Araeng (X:27.7 Y:16.9)"
+                },
+                {
+                    "Name": "Urianger",
+                    "Url": "/lodestone/playguide/db/npc/npc/5f6b41b3110/",
+                    "Area": "Amh Araeng (X:29.0 Y:31.7)"
+                },
+                {
+                    "Name": "Urianger",
+                    "Url": "/lodestone/playguide/db/npc/npc/d118b7be531/",
+                    "Area": "Amh Araeng (X:31.2 Y:23.0)"
+                },
+                {
+                    "Name": "Urianger",
+                    "Url": "/lodestone/playguide/db/npc/npc/37aafa77303/",
+                    "Area": "Amh Araeng (X:27.7 Y:16.8)"
+                },
+                {
+                    "Name": "Gaia",
+                    "Url": "/lodestone/playguide/db/npc/npc/77d6e19cb3d/",
+                    "Area": "Die Große Leere (X:6.0 Y:6.5)"
+                },
+                {
+                    "Name": "Ryne",
+                    "Url": "/lodestone/playguide/db/npc/npc/193244b99c5/",
+                    "Area": "Die Große Leere (X:6.0 Y:6.3)"
+                },
+                {
+                    "Name": "Thancred",
+                    "Url": "/lodestone/playguide/db/npc/npc/2d7c1fe19ff/",
+                    "Area": "Die Große Leere (X:6.0 Y:6.3)"
+                },
+                {
+                    "Name": "Urianger",
+                    "Url": "/lodestone/playguide/db/npc/npc/3e5fe483c38/",
+                    "Area": "Die Große Leere (X:5.9 Y:6.3)"
+                }
+            ]
+        },
+        "Seq": 6,
+        "oldID": 69323,
+        "Map": {
+            "ID": 493
+        }
+    },
+    {
+        "ID": "f77599b0abc",
+        "Name": "Reise in das Herz",
+        "Location": "Die Große Leere",
+        "Level": 80,
+        "JournalSection": 2,
+        "JournalCategory": 20,
+        "JournalGenre": "Eden",
+        "Url": "/lodestone/playguide/db/quest/f77599b0abc/",
+        "Image": "https://img.finalfantasyxiv.com/lds/pc/global/images/itemicon/1f/1fed360e736cb131ddbcf1b3c62554a3c170333c.png?n5.5",
+        "Icon": "function_normal",
+        "Issuer": "Ryne",
+        "StartLocation": {
+            "Name": "Die Große Leere",
+            "X": "6.1",
+            "Y": "5.7"
+        },
+        "StartClass": null,
+        "Job": "Krieger oder Magier (außer beschränkte Jobs)",
+        "Company": "Keine Angabe",
+        "Requirement": "Keine Angabe",
+        "Rewards": {
+            "Gil": 3000,
+            "Exp": 0,
+            "ItemsMand": [
+                {
+                    "Icon": "https://img.finalfantasyxiv.com/lds/pc/global/images/itemicon/a3/a37a4b7e006f3be47e7425d5912a9b772f70ad7d.png?n5.5",
+                    "Name": "Kampf-Materia VII",
+                    "Amount": 5,
+                    "Url": "/lodestone/playguide/db/item/adeb9e0a07c/"
+                }
+            ],
+            "ItemsOpt": [
+                {
+                    "Icon": "https://img.finalfantasyxiv.com/lds/pc/global/images/itemicon/01/01947a3034803440796fe4eb7c9dca412b782390.png?n5.5",
+                    "Name": "Hellseher-Materia VII",
+                    "Amount": 3,
+                    "Url": "/lodestone/playguide/db/item/85587a58d9a/"
+                },
+                {
+                    "Icon": "https://img.finalfantasyxiv.com/lds/pc/global/images/itemicon/01/01947a3034803440796fe4eb7c9dca412b782390.png?n5.5",
+                    "Name": "Strategen-Materia VII",
+                    "Amount": 3,
+                    "Url": "/lodestone/playguide/db/item/ae193b74ae4/"
+                },
+                {
+                    "Icon": "https://img.finalfantasyxiv.com/lds/pc/global/images/itemicon/01/01947a3034803440796fe4eb7c9dca412b782390.png?n5.5",
+                    "Name": "Assassinen-Materia VII",
+                    "Amount": 3,
+                    "Url": "/lodestone/playguide/db/item/a3870117f91/"
+                }
+            ]
+        },
+        "Infos": {
+            "PrevQuests": [
+                {
+                    "Name": "Mitten im Nirgendwo",
+                    "Url": "/lodestone/playguide/db/quest/757f797ff4f/",
+                    "Area": "Crystarium",
+                    "Level": "80"
+                }
+            ],
+            "NextQuests": [
+                {
+                    "Name": "Gefahr von oben",
+                    "Url": "/lodestone/playguide/db/quest/56a704d322e/",
+                    "Area": "Das Herz",
+                    "Level": "80"
+                }
+            ],
+            "NPCs": [
+                {
+                    "Name": "Ryne",
+                    "Url": "/lodestone/playguide/db/npc/npc/33c422cb018/",
+                    "Area": "Das Herz (X:23.5 Y:23.3)"
+                },
+                {
+                    "Name": "Thancred",
+                    "Url": "/lodestone/playguide/db/npc/npc/4780e1a4db0/",
+                    "Area": "Das Herz (X:23.4 Y:23.4)"
+                },
+                {
+                    "Name": "Urianger",
+                    "Url": "/lodestone/playguide/db/npc/npc/a20b2cbfbdd/",
+                    "Area": "Das Herz (X:23.4 Y:23.3)"
+                },
+                {
+                    "Name": "Ryne",
+                    "Url": "/lodestone/playguide/db/npc/npc/cfa3a491532/",
+                    "Area": "Die Große Leere (X:5.7 Y:6.6)"
+                },
+                {
+                    "Name": "Ryne",
+                    "Url": "/lodestone/playguide/db/npc/npc/657aa97f671/",
+                    "Area": "Die Große Leere (X:5.9 Y:6.3)"
+                },
+                {
+                    "Name": "Thancred",
+                    "Url": "/lodestone/playguide/db/npc/npc/5cc5d1ea2a0/",
+                    "Area": "Die Große Leere (X:5.9 Y:5.8)"
+                },
+                {
+                    "Name": "Thancred",
+                    "Url": "/lodestone/playguide/db/npc/npc/4e1a8207032/",
+                    "Area": "Die Große Leere (X:5.9 Y:6.3)"
+                },
+                {
+                    "Name": "Urianger",
+                    "Url": "/lodestone/playguide/db/npc/npc/4d6439de38d/",
+                    "Area": "Die Große Leere (X:6.0 Y:5.7)"
+                },
+                {
+                    "Name": "Urianger",
+                    "Url": "/lodestone/playguide/db/npc/npc/18db8181635/",
+                    "Area": "Die Große Leere (X:5.7 Y:6.5)"
+                },
+                {
+                    "Name": "Urianger",
+                    "Url": "/lodestone/playguide/db/npc/npc/d5ce1684a29/",
+                    "Area": "Die Große Leere (X:5.9 Y:6.3)"
+                }
+            ]
+        },
+        "Seq": 1,
+        "oldID": 68792,
+        "Map": {
+            "ID": 565
+        }
+    },
+    {
+        "ID": "f909a1f23ce",
+        "Name": "Welten entfernt",
+        "Location": "Amh Araeng",
+        "Level": 80,
+        "JournalSection": 2,
+        "JournalCategory": 20,
+        "JournalGenre": "Eden",
+        "Url": "/lodestone/playguide/db/quest/f909a1f23ce/",
+        "Image": "https://img.finalfantasyxiv.com/lds/pc/global/images/itemicon/55/55b2580c2ce2c23c2a5adb92efe8a24124ce61b3.png?n5.5",
+        "Icon": "function_normal",
+        "Issuer": "Yalfort",
+        "StartLocation": {
+            "Name": "Amh Araeng",
+            "X": "26.7",
+            "Y": "16.7"
+        },
+        "StartClass": null,
+        "Job": "Krieger oder Magier (außer beschränkte Jobs)",
+        "Company": "Keine Angabe",
+        "Requirement": "Keine Angabe",
+        "Rewards": {
+            "Gil": 1085,
+            "Exp": 0,
+            "ItemsMand": [
+                {
+                    "Icon": "https://img.finalfantasyxiv.com/lds/pc/global/images/itemicon/7e/7eaa53e1fe9e2bd80f81d9ce69c98c24f6223b0b.png?n5.5",
+                    "Name": "Notenrolle von „Blue Fields“",
+                    "Amount": 1,
+                    "Url": "/lodestone/playguide/db/item/62941a7064d/"
+                }
+            ],
+            "ItemsOpt": []
+        },
+        "Infos": {
+            "PrevQuests": [
+                {
+                    "Name": "Echo des Sternenregens",
+                    "Url": "/lodestone/playguide/db/quest/b7a00665b7b/",
+                    "Area": "Kholusia",
+                    "Level": "80"
+                },
+                {
+                    "Name": "Das Leben findet einen Weg",
+                    "Url": "/lodestone/playguide/db/quest/c69c34a890b/",
+                    "Area": "Die Große Leere",
+                    "Level": "80"
+                }
+            ],
+            "NextQuests": [
+                {
+                    "Name": "Leeres Versprechen",
+                    "Url": "/lodestone/playguide/db/quest/a5f76c8d063/",
+                    "Area": "Amh Araeng",
+                    "Level": "80"
+                }
+            ]
+        },
+        "Seq": 12,
+        "oldID": 69329,
+        "Map": {
+            "ID": 493
+        }
+    }
+]

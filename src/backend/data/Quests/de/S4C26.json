@@ -1,0 +1,1629 @@
+[
+    {
+        "ID": "02fa757e0af",
+        "Name": "Wasserscheu",
+        "Location": "Südliches Thanalan",
+        "Level": 46,
+        "JournalSection": 4,
+        "JournalCategory": 26,
+        "JournalGenre": "\n\t\t\t\t\t\t\tNebenaufträge\n\t\t\t\t\t\t",
+        "Url": "/lodestone/playguide/db/quest/02fa757e0af/",
+        "Image": null,
+        "Icon": "common_repeat",
+        "Issuer": "Narujj Boh",
+        "StartLocation": {
+            "Name": "Südliches Thanalan",
+            "X": "23.4",
+            "Y": "14.4"
+        },
+        "StartClass": null,
+        "Job": "",
+        "Company": "Keine Angabe",
+        "Requirement": "Keine Angabe",
+        "Rewards": {
+            "Gil": 660,
+            "Exp": 9693,
+            "ItemsMand": [],
+            "ItemsOpt": []
+        },
+        "Infos": {},
+        "Seq": 21,
+        "oldID": 66774,
+        "Map": {
+            "ID": 23
+        }
+    },
+    {
+        "ID": "1dda07eb9e7",
+        "Name": "Loonh Gahs Vergangenheit",
+        "Location": "Südliches Thanalan",
+        "Level": 46,
+        "JournalSection": 4,
+        "JournalCategory": 26,
+        "JournalGenre": "\n\t\t\t\t\t\t\tHauptaufträge\n\t\t\t\t\t\t",
+        "Url": "/lodestone/playguide/db/quest/1dda07eb9e7/",
+        "Image": "https://img.finalfantasyxiv.com/lds/pc/global/images/itemicon/61/61f82764a9464e0ad267659dba88a158e7e2cc48.png?n5.5",
+        "Icon": "function_normal",
+        "Issuer": "Hamujj Gah",
+        "StartLocation": {
+            "Name": "Südliches Thanalan",
+            "X": "23.9",
+            "Y": "14.2"
+        },
+        "StartClass": null,
+        "Job": "",
+        "Company": "Keine Angabe",
+        "Requirement": "Keine Angabe",
+        "Rewards": {
+            "Gil": 884,
+            "Exp": 12925,
+            "ItemsMand": [],
+            "ItemsOpt": []
+        },
+        "Infos": {
+            "PrevQuests": [
+                {
+                    "Name": "Im Ring der Asche",
+                    "Url": "/lodestone/playguide/db/quest/bef10dc5418/",
+                    "Area": "Südliches Thanalan",
+                    "Level": "43"
+                }
+            ],
+            "NextQuests": [
+                {
+                    "Name": "Funken des Zorns",
+                    "Url": "/lodestone/playguide/db/quest/67083a8e12c/",
+                    "Area": "Südliches Thanalan",
+                    "Level": "48"
+                }
+            ],
+            "NPCs": [
+                {
+                    "Name": "Kühl blickende Jägerin",
+                    "Url": "/lodestone/playguide/db/npc/npc/a991bcc0467/",
+                    "Area": "Südliches Thanalan (X:15.3 Y:29.3)"
+                },
+                {
+                    "Name": "Lieblich duftende Jägerin",
+                    "Url": "/lodestone/playguide/db/npc/npc/0eceafeb58b/",
+                    "Area": "Südliches Thanalan (X:14.8 Y:31.0)"
+                },
+                {
+                    "Name": "Loonh Gah",
+                    "Url": "/lodestone/playguide/db/npc/npc/b22c81e50c9/",
+                    "Area": "Südliches Thanalan (X:23.2 Y:13.7)"
+                },
+                {
+                    "Name": "Loonh Gah",
+                    "Url": "/lodestone/playguide/db/npc/npc/12482fbd9d1/",
+                    "Area": "Südliches Thanalan (X:20.3 Y:20.5)"
+                },
+                {
+                    "Name": "Loonh Gah",
+                    "Url": "/lodestone/playguide/db/npc/npc/53e97cfd06e/",
+                    "Area": "Südliches Thanalan (X:19.1 Y:27.6)"
+                },
+                {
+                    "Name": "Scharf blickende Jägerin",
+                    "Url": "/lodestone/playguide/db/npc/npc/d4be642d06b/",
+                    "Area": "Südliches Thanalan (X:15.0 Y:30.0)"
+                },
+                {
+                    "Name": "Strenge Jägerin",
+                    "Url": "/lodestone/playguide/db/npc/npc/9403c384cc2/",
+                    "Area": "Südliches Thanalan (X:14.1 Y:29.3)"
+                },
+                {
+                    "Name": "U'napa",
+                    "Url": "/lodestone/playguide/db/npc/npc/d0415ab9a5b/",
+                    "Area": "Südliches Thanalan (X:19.1 Y:27.6)"
+                },
+                {
+                    "Name": "U'napa",
+                    "Url": "/lodestone/playguide/db/npc/npc/ee05692f906/",
+                    "Area": "Südliches Thanalan (X:16.2 Y:29.7)"
+                }
+            ]
+        },
+        "Seq": 2,
+        "oldID": 66755,
+        "Map": {
+            "ID": 23
+        }
+    },
+    {
+        "ID": "2438d01b8b6",
+        "Name": "Flammende Fähnchen im Wind",
+        "Location": "Südliches Thanalan",
+        "Level": 48,
+        "JournalSection": 4,
+        "JournalCategory": 26,
+        "JournalGenre": "\n\t\t\t\t\t\t\tNebenaufträge\n\t\t\t\t\t\t",
+        "Url": "/lodestone/playguide/db/quest/2438d01b8b6/",
+        "Image": null,
+        "Icon": "common_repeat",
+        "Issuer": "Yadovv Gah",
+        "StartLocation": {
+            "Name": "Südliches Thanalan",
+            "X": "23.1",
+            "Y": "14.3"
+        },
+        "StartClass": null,
+        "Job": "",
+        "Company": "Keine Angabe",
+        "Requirement": "Keine Angabe",
+        "Rewards": {
+            "Gil": 780,
+            "Exp": 10473,
+            "ItemsMand": [],
+            "ItemsOpt": [
+                {
+                    "Icon": "https://img.finalfantasyxiv.com/lds/pc/global/images/itemicon/59/591709d485ebd155ba018c8cd773fe3c662caed3.png?n5.5",
+                    "Name": "Frömmigkeits-Materia IV",
+                    "Amount": 1,
+                    "Url": "/lodestone/playguide/db/item/905d47601dd/"
+                },
+                {
+                    "Icon": "https://img.finalfantasyxiv.com/lds/pc/global/images/itemicon/06/06bd35b3df19cbc5d80eed3ed99c67a366c835aa.png?n5.5",
+                    "Name": "Hellseher-Materia IV",
+                    "Amount": 1,
+                    "Url": "/lodestone/playguide/db/item/93fe1786b70/"
+                },
+                {
+                    "Icon": "https://img.finalfantasyxiv.com/lds/pc/global/images/itemicon/60/6072436b0c90d22b6a9d7da93f356256a04be53d.png?n5.5",
+                    "Name": "Kampf-Materia IV",
+                    "Amount": 1,
+                    "Url": "/lodestone/playguide/db/item/1162b3fcc58/"
+                }
+            ]
+        },
+        "Infos": {},
+        "Seq": 33,
+        "oldID": 66786,
+        "Map": {
+            "ID": 23
+        }
+    },
+    {
+        "ID": "2561eaf8910",
+        "Name": "Zerstörung der heiligen Flammen",
+        "Location": "Südliches Thanalan",
+        "Level": 46,
+        "JournalSection": 4,
+        "JournalCategory": 26,
+        "JournalGenre": "\n\t\t\t\t\t\t\tNebenaufträge\n\t\t\t\t\t\t",
+        "Url": "/lodestone/playguide/db/quest/2561eaf8910/",
+        "Image": null,
+        "Icon": "common_repeat",
+        "Issuer": "Narujj Boh",
+        "StartLocation": {
+            "Name": "Südliches Thanalan",
+            "X": "23.4",
+            "Y": "14.4"
+        },
+        "StartClass": null,
+        "Job": "",
+        "Company": "Keine Angabe",
+        "Requirement": "Keine Angabe",
+        "Rewards": {
+            "Gil": 660,
+            "Exp": 9693,
+            "ItemsMand": [],
+            "ItemsOpt": []
+        },
+        "Infos": {},
+        "Seq": 24,
+        "oldID": 66777,
+        "Map": {
+            "ID": 23
+        }
+    },
+    {
+        "ID": "2658799de8a",
+        "Name": "Feuriges Futter",
+        "Location": "Südliches Thanalan",
+        "Level": 46,
+        "JournalSection": 4,
+        "JournalCategory": 26,
+        "JournalGenre": "\n\t\t\t\t\t\t\tNebenaufträge\n\t\t\t\t\t\t",
+        "Url": "/lodestone/playguide/db/quest/2658799de8a/",
+        "Image": null,
+        "Icon": "common_repeat",
+        "Issuer": "Narujj Boh",
+        "StartLocation": {
+            "Name": "Südliches Thanalan",
+            "X": "23.4",
+            "Y": "14.4"
+        },
+        "StartClass": null,
+        "Job": "",
+        "Company": "Keine Angabe",
+        "Requirement": "Keine Angabe",
+        "Rewards": {
+            "Gil": 660,
+            "Exp": 9693,
+            "ItemsMand": [],
+            "ItemsOpt": []
+        },
+        "Infos": {
+            "PrevQuests": [
+                {
+                    "Name": "Reit-Drakon",
+                    "Url": "/lodestone/playguide/db/npc/npc/7fdc9145c15/",
+                    "Area": "Südliches Thanalan (X:23.3 Y:13.8)"
+                },
+                {
+                    "Name": "Reit-Drakon",
+                    "Url": "/lodestone/playguide/db/npc/npc/33186ce09e0/",
+                    "Area": "Südliches Thanalan (X:23.4 Y:13.9)"
+                },
+                {
+                    "Name": "Reit-Drakon",
+                    "Url": "/lodestone/playguide/db/npc/npc/515c7c72e82/",
+                    "Area": "Südliches Thanalan (X:23.4 Y:14.0)"
+                }
+            ]
+        },
+        "Seq": 20,
+        "oldID": 66773,
+        "Map": {
+            "ID": 23
+        }
+    },
+    {
+        "ID": "2b237a84117",
+        "Name": "Gebrannte Katze scheut das Feuer",
+        "Location": "Südliches Thanalan",
+        "Level": 46,
+        "JournalSection": 4,
+        "JournalCategory": 26,
+        "JournalGenre": "\n\t\t\t\t\t\t\tNebenaufträge\n\t\t\t\t\t\t",
+        "Url": "/lodestone/playguide/db/quest/2b237a84117/",
+        "Image": null,
+        "Icon": "common_repeat",
+        "Issuer": "Narujj Boh",
+        "StartLocation": {
+            "Name": "Südliches Thanalan",
+            "X": "23.4",
+            "Y": "14.4"
+        },
+        "StartClass": null,
+        "Job": "",
+        "Company": "Keine Angabe",
+        "Requirement": "Keine Angabe",
+        "Rewards": {
+            "Gil": 660,
+            "Exp": 9693,
+            "ItemsMand": [],
+            "ItemsOpt": []
+        },
+        "Infos": {
+            "PrevQuests": [
+                {
+                    "Name": "Drakon-Flüsterer",
+                    "Url": "/lodestone/playguide/db/npc/npc/8c5df968164/",
+                    "Area": "Südliches Thanalan (X:19.4 Y:29.5)"
+                }
+            ]
+        },
+        "Seq": 19,
+        "oldID": 66772,
+        "Map": {
+            "ID": 23
+        }
+    },
+    {
+        "ID": "465672c6b20",
+        "Name": "Heilige Flammen",
+        "Location": "Südliches Thanalan",
+        "Level": 43,
+        "JournalSection": 4,
+        "JournalCategory": 26,
+        "JournalGenre": "\n\t\t\t\t\t\t\tNebenaufträge\n\t\t\t\t\t\t",
+        "Url": "/lodestone/playguide/db/quest/465672c6b20/",
+        "Image": null,
+        "Icon": "common_repeat",
+        "Issuer": "Fibubb Gah",
+        "StartLocation": {
+            "Name": "Südliches Thanalan",
+            "X": "23.5",
+            "Y": "14.3"
+        },
+        "StartClass": null,
+        "Job": "",
+        "Company": "Keine Angabe",
+        "Requirement": "Keine Angabe",
+        "Rewards": {
+            "Gil": 480,
+            "Exp": 8970,
+            "ItemsMand": [],
+            "ItemsOpt": []
+        },
+        "Infos": {},
+        "Seq": 14,
+        "oldID": 66767,
+        "Map": {
+            "ID": 23
+        }
+    },
+    {
+        "ID": "4e350375909",
+        "Name": "Feuer mit Feuer bekämpfen",
+        "Location": "Südliches Thanalan",
+        "Level": 48,
+        "JournalSection": 4,
+        "JournalCategory": 26,
+        "JournalGenre": "\n\t\t\t\t\t\t\tNebenaufträge\n\t\t\t\t\t\t",
+        "Url": "/lodestone/playguide/db/quest/4e350375909/",
+        "Image": null,
+        "Icon": "common_repeat",
+        "Issuer": "Yadovv Gah",
+        "StartLocation": {
+            "Name": "Südliches Thanalan",
+            "X": "23.1",
+            "Y": "14.3"
+        },
+        "StartClass": null,
+        "Job": "",
+        "Company": "Keine Angabe",
+        "Requirement": "Keine Angabe",
+        "Rewards": {
+            "Gil": 780,
+            "Exp": 10473,
+            "ItemsMand": [],
+            "ItemsOpt": [
+                {
+                    "Icon": "https://img.finalfantasyxiv.com/lds/pc/global/images/itemicon/06/06bd35b3df19cbc5d80eed3ed99c67a366c835aa.png?n5.5",
+                    "Name": "Hellseher-Materia IV",
+                    "Amount": 1,
+                    "Url": "/lodestone/playguide/db/item/93fe1786b70/"
+                },
+                {
+                    "Icon": "https://img.finalfantasyxiv.com/lds/pc/global/images/itemicon/06/06bd35b3df19cbc5d80eed3ed99c67a366c835aa.png?n5.5",
+                    "Name": "Assassinen-Materia IV",
+                    "Amount": 1,
+                    "Url": "/lodestone/playguide/db/item/1bc25f58180/"
+                },
+                {
+                    "Icon": "https://img.finalfantasyxiv.com/lds/pc/global/images/itemicon/60/6072436b0c90d22b6a9d7da93f356256a04be53d.png?n5.5",
+                    "Name": "Zauber-Materia IV",
+                    "Amount": 1,
+                    "Url": "/lodestone/playguide/db/item/5bbb25ff7dd/"
+                }
+            ]
+        },
+        "Infos": {},
+        "Seq": 30,
+        "oldID": 66783,
+        "Map": {
+            "ID": 23
+        }
+    },
+    {
+        "ID": "4f67840d37b",
+        "Name": "Abwehr der Schatten",
+        "Location": "Südliches Thanalan",
+        "Level": 43,
+        "JournalSection": 4,
+        "JournalCategory": 26,
+        "JournalGenre": "\n\t\t\t\t\t\t\tNebenaufträge\n\t\t\t\t\t\t",
+        "Url": "/lodestone/playguide/db/quest/4f67840d37b/",
+        "Image": null,
+        "Icon": "common_repeat",
+        "Issuer": "Fibubb Gah",
+        "StartLocation": {
+            "Name": "Südliches Thanalan",
+            "X": "23.5",
+            "Y": "14.3"
+        },
+        "StartClass": null,
+        "Job": "",
+        "Company": "Keine Angabe",
+        "Requirement": "Keine Angabe",
+        "Rewards": {
+            "Gil": 480,
+            "Exp": 8970,
+            "ItemsMand": [],
+            "ItemsOpt": []
+        },
+        "Infos": {},
+        "Seq": 6,
+        "oldID": 66759,
+        "Map": {
+            "ID": 23
+        }
+    },
+    {
+        "ID": "50488bcf251",
+        "Name": "In infernalischer Flamme gehärtet",
+        "Location": "Südliches Thanalan",
+        "Level": 46,
+        "JournalSection": 4,
+        "JournalCategory": 26,
+        "JournalGenre": "\n\t\t\t\t\t\t\tNebenaufträge\n\t\t\t\t\t\t",
+        "Url": "/lodestone/playguide/db/quest/50488bcf251/",
+        "Image": null,
+        "Icon": "common_repeat",
+        "Issuer": "Narujj Boh",
+        "StartLocation": {
+            "Name": "Südliches Thanalan",
+            "X": "23.4",
+            "Y": "14.4"
+        },
+        "StartClass": null,
+        "Job": "",
+        "Company": "Keine Angabe",
+        "Requirement": "Keine Angabe",
+        "Rewards": {
+            "Gil": 660,
+            "Exp": 9693,
+            "ItemsMand": [],
+            "ItemsOpt": []
+        },
+        "Infos": {},
+        "Seq": 17,
+        "oldID": 66770,
+        "Map": {
+            "ID": 23
+        }
+    },
+    {
+        "ID": "5408d333fd3",
+        "Name": "Die Elite der Flammenfänge",
+        "Location": "Südliches Thanalan",
+        "Level": 48,
+        "JournalSection": 4,
+        "JournalCategory": 26,
+        "JournalGenre": "\n\t\t\t\t\t\t\tNebenaufträge\n\t\t\t\t\t\t",
+        "Url": "/lodestone/playguide/db/quest/5408d333fd3/",
+        "Image": null,
+        "Icon": "common_repeat",
+        "Issuer": "Yadovv Gah",
+        "StartLocation": {
+            "Name": "Südliches Thanalan",
+            "X": "23.1",
+            "Y": "14.3"
+        },
+        "StartClass": null,
+        "Job": "",
+        "Company": "Keine Angabe",
+        "Requirement": "Keine Angabe",
+        "Rewards": {
+            "Gil": 780,
+            "Exp": 10473,
+            "ItemsMand": [],
+            "ItemsOpt": [
+                {
+                    "Icon": "https://img.finalfantasyxiv.com/lds/pc/global/images/itemicon/59/591709d485ebd155ba018c8cd773fe3c662caed3.png?n5.5",
+                    "Name": "Frömmigkeits-Materia IV",
+                    "Amount": 1,
+                    "Url": "/lodestone/playguide/db/item/905d47601dd/"
+                },
+                {
+                    "Icon": "https://img.finalfantasyxiv.com/lds/pc/global/images/itemicon/59/591709d485ebd155ba018c8cd773fe3c662caed3.png?n5.5",
+                    "Name": "Fechtkunst-Materia IV",
+                    "Amount": 1,
+                    "Url": "/lodestone/playguide/db/item/37f25043bf3/"
+                },
+                {
+                    "Icon": "https://img.finalfantasyxiv.com/lds/pc/global/images/itemicon/60/6072436b0c90d22b6a9d7da93f356256a04be53d.png?n5.5",
+                    "Name": "Zauber-Materia IV",
+                    "Amount": 1,
+                    "Url": "/lodestone/playguide/db/item/5bbb25ff7dd/"
+                }
+            ]
+        },
+        "Infos": {},
+        "Seq": 25,
+        "oldID": 66778,
+        "Map": {
+            "ID": 23
+        }
+    },
+    {
+        "ID": "544cce51f58",
+        "Name": "Echsenmedizin",
+        "Location": "Südliches Thanalan",
+        "Level": 43,
+        "JournalSection": 4,
+        "JournalCategory": 26,
+        "JournalGenre": "\n\t\t\t\t\t\t\tNebenaufträge\n\t\t\t\t\t\t",
+        "Url": "/lodestone/playguide/db/quest/544cce51f58/",
+        "Image": null,
+        "Icon": "common_repeat",
+        "Issuer": "Fibubb Gah",
+        "StartLocation": {
+            "Name": "Südliches Thanalan",
+            "X": "23.5",
+            "Y": "14.3"
+        },
+        "StartClass": null,
+        "Job": "",
+        "Company": "Keine Angabe",
+        "Requirement": "Keine Angabe",
+        "Rewards": {
+            "Gil": 480,
+            "Exp": 8970,
+            "ItemsMand": [],
+            "ItemsOpt": []
+        },
+        "Infos": {},
+        "Seq": 7,
+        "oldID": 66760,
+        "Map": {
+            "ID": 23
+        }
+    },
+    {
+        "ID": "67083a8e12c",
+        "Name": "Funken des Zorns",
+        "Location": "Südliches Thanalan",
+        "Level": 48,
+        "JournalSection": 4,
+        "JournalCategory": 26,
+        "JournalGenre": "\n\t\t\t\t\t\t\tHauptaufträge\n\t\t\t\t\t\t",
+        "Url": "/lodestone/playguide/db/quest/67083a8e12c/",
+        "Image": "https://img.finalfantasyxiv.com/lds/pc/global/images/itemicon/13/13d5ac8bd3cb020d22d1e852dae835b709d787c8.png?n5.5",
+        "Icon": "function_normal",
+        "Issuer": "Hamujj Gah",
+        "StartLocation": {
+            "Name": "Südliches Thanalan",
+            "X": "23.9",
+            "Y": "14.2"
+        },
+        "StartClass": null,
+        "Job": "",
+        "Company": "Keine Angabe",
+        "Requirement": "Keine Angabe",
+        "Rewards": {
+            "Gil": 912,
+            "Exp": 13965,
+            "ItemsMand": [],
+            "ItemsOpt": []
+        },
+        "Infos": {
+            "PrevQuests": [
+                {
+                    "Name": "Loonh Gahs Vergangenheit",
+                    "Url": "/lodestone/playguide/db/quest/1dda07eb9e7/",
+                    "Area": "Südliches Thanalan",
+                    "Level": "46"
+                }
+            ],
+            "NextQuests": [
+                {
+                    "Name": "Flammende Rache",
+                    "Url": "/lodestone/playguide/db/quest/9b0010491d8/",
+                    "Area": "Südliches Thanalan",
+                    "Level": "48"
+                }
+            ],
+            "NPCs": [
+                {
+                    "Name": "Gisilbehrt",
+                    "Url": "/lodestone/playguide/db/npc/npc/cbcdf03c4cf/",
+                    "Area": "Südliches Thanalan (X:17.8 Y:13.4)"
+                },
+                {
+                    "Name": "Legionsgefreiter",
+                    "Url": "/lodestone/playguide/db/npc/npc/3d3b7f462d7/",
+                    "Area": "Südliches Thanalan (X:19.9 Y:19.6)"
+                },
+                {
+                    "Name": "Verräterischer Legionär",
+                    "Url": "/lodestone/playguide/db/npc/npc/437993c9579/",
+                    "Area": "Südliches Thanalan (X:19.9 Y:19.7)"
+                }
+            ]
+        },
+        "Seq": 3,
+        "oldID": 66756,
+        "Map": {
+            "ID": 23
+        }
+    },
+    {
+        "ID": "7094dc96442",
+        "Name": "Der letzte Funken erlischt",
+        "Location": "Südliches Thanalan",
+        "Level": 48,
+        "JournalSection": 4,
+        "JournalCategory": 26,
+        "JournalGenre": "\n\t\t\t\t\t\t\tNebenaufträge\n\t\t\t\t\t\t",
+        "Url": "/lodestone/playguide/db/quest/7094dc96442/",
+        "Image": null,
+        "Icon": "common_repeat",
+        "Issuer": "Yadovv Gah",
+        "StartLocation": {
+            "Name": "Südliches Thanalan",
+            "X": "23.1",
+            "Y": "14.3"
+        },
+        "StartClass": null,
+        "Job": "",
+        "Company": "Keine Angabe",
+        "Requirement": "Keine Angabe",
+        "Rewards": {
+            "Gil": 780,
+            "Exp": 10473,
+            "ItemsMand": [],
+            "ItemsOpt": [
+                {
+                    "Icon": "https://img.finalfantasyxiv.com/lds/pc/global/images/itemicon/06/06bd35b3df19cbc5d80eed3ed99c67a366c835aa.png?n5.5",
+                    "Name": "Strategen-Materia IV",
+                    "Amount": 1,
+                    "Url": "/lodestone/playguide/db/item/dce3a5f3467/"
+                },
+                {
+                    "Icon": "https://img.finalfantasyxiv.com/lds/pc/global/images/itemicon/59/591709d485ebd155ba018c8cd773fe3c662caed3.png?n5.5",
+                    "Name": "Fechtkunst-Materia IV",
+                    "Amount": 1,
+                    "Url": "/lodestone/playguide/db/item/37f25043bf3/"
+                },
+                {
+                    "Icon": "https://img.finalfantasyxiv.com/lds/pc/global/images/itemicon/60/6072436b0c90d22b6a9d7da93f356256a04be53d.png?n5.5",
+                    "Name": "Kampf-Materia IV",
+                    "Amount": 1,
+                    "Url": "/lodestone/playguide/db/item/1162b3fcc58/"
+                }
+            ]
+        },
+        "Infos": {},
+        "Seq": 34,
+        "oldID": 66787,
+        "Map": {
+            "ID": 23
+        }
+    },
+    {
+        "ID": "78d2820f366",
+        "Name": "Leuchtfeuer der Amalj'aa",
+        "Location": "Südliches Thanalan",
+        "Level": 43,
+        "JournalSection": 4,
+        "JournalCategory": 26,
+        "JournalGenre": "\n\t\t\t\t\t\t\tNebenaufträge\n\t\t\t\t\t\t",
+        "Url": "/lodestone/playguide/db/quest/78d2820f366/",
+        "Image": null,
+        "Icon": "common_repeat",
+        "Issuer": "Fibubb Gah",
+        "StartLocation": {
+            "Name": "Südliches Thanalan",
+            "X": "23.5",
+            "Y": "14.3"
+        },
+        "StartClass": null,
+        "Job": "",
+        "Company": "Keine Angabe",
+        "Requirement": "Keine Angabe",
+        "Rewards": {
+            "Gil": 480,
+            "Exp": 8970,
+            "ItemsMand": [],
+            "ItemsOpt": []
+        },
+        "Infos": {},
+        "Seq": 10,
+        "oldID": 66763,
+        "Map": {
+            "ID": 23
+        }
+    },
+    {
+        "ID": "7ea536aec62",
+        "Name": "Gezielte Demütigung",
+        "Location": "Südliches Thanalan",
+        "Level": 48,
+        "JournalSection": 4,
+        "JournalCategory": 26,
+        "JournalGenre": "\n\t\t\t\t\t\t\tNebenaufträge\n\t\t\t\t\t\t",
+        "Url": "/lodestone/playguide/db/quest/7ea536aec62/",
+        "Image": null,
+        "Icon": "common_repeat",
+        "Issuer": "Yadovv Gah",
+        "StartLocation": {
+            "Name": "Südliches Thanalan",
+            "X": "23.1",
+            "Y": "14.3"
+        },
+        "StartClass": null,
+        "Job": "",
+        "Company": "Keine Angabe",
+        "Requirement": "Keine Angabe",
+        "Rewards": {
+            "Gil": 780,
+            "Exp": 10473,
+            "ItemsMand": [],
+            "ItemsOpt": [
+                {
+                    "Icon": "https://img.finalfantasyxiv.com/lds/pc/global/images/itemicon/06/06bd35b3df19cbc5d80eed3ed99c67a366c835aa.png?n5.5",
+                    "Name": "Assassinen-Materia IV",
+                    "Amount": 1,
+                    "Url": "/lodestone/playguide/db/item/1bc25f58180/"
+                },
+                {
+                    "Icon": "https://img.finalfantasyxiv.com/lds/pc/global/images/itemicon/59/591709d485ebd155ba018c8cd773fe3c662caed3.png?n5.5",
+                    "Name": "Fechtkunst-Materia IV",
+                    "Amount": 1,
+                    "Url": "/lodestone/playguide/db/item/37f25043bf3/"
+                },
+                {
+                    "Icon": "https://img.finalfantasyxiv.com/lds/pc/global/images/itemicon/60/6072436b0c90d22b6a9d7da93f356256a04be53d.png?n5.5",
+                    "Name": "Kampf-Materia IV",
+                    "Amount": 1,
+                    "Url": "/lodestone/playguide/db/item/1162b3fcc58/"
+                }
+            ]
+        },
+        "Infos": {},
+        "Seq": 31,
+        "oldID": 66784,
+        "Map": {
+            "ID": 23
+        }
+    },
+    {
+        "ID": "840d9c61183",
+        "Name": "Aus den Klauen der Amalj'aa",
+        "Location": "Südliches Thanalan",
+        "Level": 43,
+        "JournalSection": 4,
+        "JournalCategory": 26,
+        "JournalGenre": "\n\t\t\t\t\t\t\tNebenaufträge\n\t\t\t\t\t\t",
+        "Url": "/lodestone/playguide/db/quest/840d9c61183/",
+        "Image": null,
+        "Icon": "common_repeat",
+        "Issuer": "Fibubb Gah",
+        "StartLocation": {
+            "Name": "Südliches Thanalan",
+            "X": "23.5",
+            "Y": "14.3"
+        },
+        "StartClass": null,
+        "Job": "",
+        "Company": "Keine Angabe",
+        "Requirement": "Keine Angabe",
+        "Rewards": {
+            "Gil": 480,
+            "Exp": 8970,
+            "ItemsMand": [],
+            "ItemsOpt": []
+        },
+        "Infos": {},
+        "Seq": 12,
+        "oldID": 66765,
+        "Map": {
+            "ID": 23
+        }
+    },
+    {
+        "ID": "8659abecedd",
+        "Name": "Infernalische Macht in kaltem Stahl",
+        "Location": "Südliches Thanalan",
+        "Level": 48,
+        "JournalSection": 4,
+        "JournalCategory": 26,
+        "JournalGenre": "\n\t\t\t\t\t\t\tNebenaufträge\n\t\t\t\t\t\t",
+        "Url": "/lodestone/playguide/db/quest/8659abecedd/",
+        "Image": null,
+        "Icon": "common_repeat",
+        "Issuer": "Yadovv Gah",
+        "StartLocation": {
+            "Name": "Südliches Thanalan",
+            "X": "23.1",
+            "Y": "14.3"
+        },
+        "StartClass": null,
+        "Job": "",
+        "Company": "Keine Angabe",
+        "Requirement": "Keine Angabe",
+        "Rewards": {
+            "Gil": 780,
+            "Exp": 10473,
+            "ItemsMand": [],
+            "ItemsOpt": [
+                {
+                    "Icon": "https://img.finalfantasyxiv.com/lds/pc/global/images/itemicon/59/591709d485ebd155ba018c8cd773fe3c662caed3.png?n5.5",
+                    "Name": "Frömmigkeits-Materia IV",
+                    "Amount": 1,
+                    "Url": "/lodestone/playguide/db/item/905d47601dd/"
+                },
+                {
+                    "Icon": "https://img.finalfantasyxiv.com/lds/pc/global/images/itemicon/06/06bd35b3df19cbc5d80eed3ed99c67a366c835aa.png?n5.5",
+                    "Name": "Strategen-Materia IV",
+                    "Amount": 1,
+                    "Url": "/lodestone/playguide/db/item/dce3a5f3467/"
+                },
+                {
+                    "Icon": "https://img.finalfantasyxiv.com/lds/pc/global/images/itemicon/60/6072436b0c90d22b6a9d7da93f356256a04be53d.png?n5.5",
+                    "Name": "Zauber-Materia IV",
+                    "Amount": 1,
+                    "Url": "/lodestone/playguide/db/item/5bbb25ff7dd/"
+                }
+            ]
+        },
+        "Infos": {},
+        "Seq": 27,
+        "oldID": 66780,
+        "Map": {
+            "ID": 23
+        }
+    },
+    {
+        "ID": "8a7809c83de",
+        "Name": "Aus flammenden Fängen befreit",
+        "Location": "Südliches Thanalan",
+        "Level": 46,
+        "JournalSection": 4,
+        "JournalCategory": 26,
+        "JournalGenre": "\n\t\t\t\t\t\t\tNebenaufträge\n\t\t\t\t\t\t",
+        "Url": "/lodestone/playguide/db/quest/8a7809c83de/",
+        "Image": null,
+        "Icon": "common_repeat",
+        "Issuer": "Narujj Boh",
+        "StartLocation": {
+            "Name": "Südliches Thanalan",
+            "X": "23.4",
+            "Y": "14.4"
+        },
+        "StartClass": null,
+        "Job": "",
+        "Company": "Keine Angabe",
+        "Requirement": "Keine Angabe",
+        "Rewards": {
+            "Gil": 660,
+            "Exp": 9693,
+            "ItemsMand": [],
+            "ItemsOpt": []
+        },
+        "Infos": {},
+        "Seq": 22,
+        "oldID": 66775,
+        "Map": {
+            "ID": 23
+        }
+    },
+    {
+        "ID": "970e1935ff2",
+        "Name": "Vorräte in Flammen",
+        "Location": "Südliches Thanalan",
+        "Level": 48,
+        "JournalSection": 4,
+        "JournalCategory": 26,
+        "JournalGenre": "\n\t\t\t\t\t\t\tNebenaufträge\n\t\t\t\t\t\t",
+        "Url": "/lodestone/playguide/db/quest/970e1935ff2/",
+        "Image": null,
+        "Icon": "common_repeat",
+        "Issuer": "Yadovv Gah",
+        "StartLocation": {
+            "Name": "Südliches Thanalan",
+            "X": "23.1",
+            "Y": "14.3"
+        },
+        "StartClass": null,
+        "Job": "",
+        "Company": "Keine Angabe",
+        "Requirement": "Keine Angabe",
+        "Rewards": {
+            "Gil": 780,
+            "Exp": 10473,
+            "ItemsMand": [],
+            "ItemsOpt": [
+                {
+                    "Icon": "https://img.finalfantasyxiv.com/lds/pc/global/images/itemicon/59/591709d485ebd155ba018c8cd773fe3c662caed3.png?n5.5",
+                    "Name": "Frömmigkeits-Materia IV",
+                    "Amount": 1,
+                    "Url": "/lodestone/playguide/db/item/905d47601dd/"
+                },
+                {
+                    "Icon": "https://img.finalfantasyxiv.com/lds/pc/global/images/itemicon/59/591709d485ebd155ba018c8cd773fe3c662caed3.png?n5.5",
+                    "Name": "Fechtkunst-Materia IV",
+                    "Amount": 1,
+                    "Url": "/lodestone/playguide/db/item/37f25043bf3/"
+                },
+                {
+                    "Icon": "https://img.finalfantasyxiv.com/lds/pc/global/images/itemicon/60/6072436b0c90d22b6a9d7da93f356256a04be53d.png?n5.5",
+                    "Name": "Kampf-Materia IV",
+                    "Amount": 1,
+                    "Url": "/lodestone/playguide/db/item/1162b3fcc58/"
+                }
+            ]
+        },
+        "Infos": {
+            "PrevQuests": [
+                {
+                    "Name": "Drakon-Flüsterer",
+                    "Url": "/lodestone/playguide/db/npc/npc/4c366a97527/",
+                    "Area": "Südliches Thanalan (X:19.0 Y:21.5)"
+                }
+            ]
+        },
+        "Seq": 29,
+        "oldID": 66782,
+        "Map": {
+            "ID": 23
+        }
+    },
+    {
+        "ID": "9731b4b525c",
+        "Name": "Heilung der Verblendeten",
+        "Location": "Südliches Thanalan",
+        "Level": 43,
+        "JournalSection": 4,
+        "JournalCategory": 26,
+        "JournalGenre": "\n\t\t\t\t\t\t\tNebenaufträge\n\t\t\t\t\t\t",
+        "Url": "/lodestone/playguide/db/quest/9731b4b525c/",
+        "Image": null,
+        "Icon": "common_repeat",
+        "Issuer": "Fibubb Gah",
+        "StartLocation": {
+            "Name": "Südliches Thanalan",
+            "X": "23.5",
+            "Y": "14.3"
+        },
+        "StartClass": null,
+        "Job": "",
+        "Company": "Keine Angabe",
+        "Requirement": "Keine Angabe",
+        "Rewards": {
+            "Gil": 480,
+            "Exp": 8970,
+            "ItemsMand": [],
+            "ItemsOpt": []
+        },
+        "Infos": {},
+        "Seq": 11,
+        "oldID": 66764,
+        "Map": {
+            "ID": 23
+        }
+    },
+    {
+        "ID": "9b0010491d8",
+        "Name": "Flammende Rache",
+        "Location": "Südliches Thanalan",
+        "Level": 48,
+        "JournalSection": 4,
+        "JournalCategory": 26,
+        "JournalGenre": "\n\t\t\t\t\t\t\tHauptaufträge\n\t\t\t\t\t\t",
+        "Url": "/lodestone/playguide/db/quest/9b0010491d8/",
+        "Image": "https://img.finalfantasyxiv.com/lds/pc/global/images/itemicon/fc/fc27eff37d83890dfffeeb5cb1b4ae4a5e9122c5.png?n5.5",
+        "Icon": "function_normal",
+        "Issuer": "Yadovv Gah",
+        "StartLocation": {
+            "Name": "Südliches Thanalan",
+            "X": "23.1",
+            "Y": "14.3"
+        },
+        "StartClass": null,
+        "Job": "",
+        "Company": "Keine Angabe",
+        "Requirement": "Keine Angabe",
+        "Rewards": {
+            "Gil": 912,
+            "Exp": 13965,
+            "ItemsMand": [],
+            "ItemsOpt": []
+        },
+        "Infos": {
+            "PrevQuests": [
+                {
+                    "Name": "Funken des Zorns",
+                    "Url": "/lodestone/playguide/db/quest/67083a8e12c/",
+                    "Area": "Südliches Thanalan",
+                    "Level": "48"
+                }
+            ],
+            "NextQuests": [
+                {
+                    "Name": "Swift",
+                    "Url": "/lodestone/playguide/db/npc/npc/e201100500b/",
+                    "Area": "Nald-Kreuzgang (X:8.4 Y:8.9)"
+                },
+                {
+                    "Name": "Hamujj Gah",
+                    "Url": "/lodestone/playguide/db/npc/npc/5fbb0b694f1/",
+                    "Area": "Südliches Thanalan (X:23.9 Y:14.2)"
+                },
+                {
+                    "Name": "Loonh Gah",
+                    "Url": "/lodestone/playguide/db/npc/npc/b22c81e50c9/",
+                    "Area": "Südliches Thanalan (X:23.2 Y:13.7)"
+                },
+                {
+                    "Name": "Loonh Gah",
+                    "Url": "/lodestone/playguide/db/npc/npc/0bae8d54fb5/",
+                    "Area": "Südliches Thanalan (X:25.6 Y:21.5)"
+                }
+            ]
+        },
+        "Seq": 4,
+        "oldID": 66757,
+        "Map": {
+            "ID": 23
+        }
+    },
+    {
+        "ID": "b0332192ca1",
+        "Name": "Befreiung aus Zahar'ak",
+        "Location": "Südliches Thanalan",
+        "Level": 48,
+        "JournalSection": 4,
+        "JournalCategory": 26,
+        "JournalGenre": "\n\t\t\t\t\t\t\tNebenaufträge\n\t\t\t\t\t\t",
+        "Url": "/lodestone/playguide/db/quest/b0332192ca1/",
+        "Image": null,
+        "Icon": "common_repeat",
+        "Issuer": "Yadovv Gah",
+        "StartLocation": {
+            "Name": "Südliches Thanalan",
+            "X": "23.1",
+            "Y": "14.3"
+        },
+        "StartClass": null,
+        "Job": "",
+        "Company": "Keine Angabe",
+        "Requirement": "Keine Angabe",
+        "Rewards": {
+            "Gil": 780,
+            "Exp": 10473,
+            "ItemsMand": [],
+            "ItemsOpt": [
+                {
+                    "Icon": "https://img.finalfantasyxiv.com/lds/pc/global/images/itemicon/06/06bd35b3df19cbc5d80eed3ed99c67a366c835aa.png?n5.5",
+                    "Name": "Hellseher-Materia IV",
+                    "Amount": 1,
+                    "Url": "/lodestone/playguide/db/item/93fe1786b70/"
+                },
+                {
+                    "Icon": "https://img.finalfantasyxiv.com/lds/pc/global/images/itemicon/06/06bd35b3df19cbc5d80eed3ed99c67a366c835aa.png?n5.5",
+                    "Name": "Assassinen-Materia IV",
+                    "Amount": 1,
+                    "Url": "/lodestone/playguide/db/item/1bc25f58180/"
+                },
+                {
+                    "Icon": "https://img.finalfantasyxiv.com/lds/pc/global/images/itemicon/60/6072436b0c90d22b6a9d7da93f356256a04be53d.png?n5.5",
+                    "Name": "Kampf-Materia IV",
+                    "Amount": 1,
+                    "Url": "/lodestone/playguide/db/item/1162b3fcc58/"
+                }
+            ]
+        },
+        "Infos": {},
+        "Seq": 32,
+        "oldID": 66785,
+        "Map": {
+            "ID": 23
+        }
+    },
+    {
+        "ID": "b196d80e10c",
+        "Name": "Das natürliche Gleichgewicht",
+        "Location": "Südliches Thanalan",
+        "Level": 43,
+        "JournalSection": 4,
+        "JournalCategory": 26,
+        "JournalGenre": "\n\t\t\t\t\t\t\tNebenaufträge\n\t\t\t\t\t\t",
+        "Url": "/lodestone/playguide/db/quest/b196d80e10c/",
+        "Image": null,
+        "Icon": "common_repeat",
+        "Issuer": "Fibubb Gah",
+        "StartLocation": {
+            "Name": "Südliches Thanalan",
+            "X": "23.5",
+            "Y": "14.3"
+        },
+        "StartClass": null,
+        "Job": "",
+        "Company": "Keine Angabe",
+        "Requirement": "Keine Angabe",
+        "Rewards": {
+            "Gil": 480,
+            "Exp": 8970,
+            "ItemsMand": [],
+            "ItemsOpt": []
+        },
+        "Infos": {},
+        "Seq": 8,
+        "oldID": 66761,
+        "Map": {
+            "ID": 23
+        }
+    },
+    {
+        "ID": "bef10dc5418",
+        "Name": "Im Ring der Asche",
+        "Location": "Südliches Thanalan",
+        "Level": 43,
+        "JournalSection": 4,
+        "JournalCategory": 26,
+        "JournalGenre": "\n\t\t\t\t\t\t\tHauptaufträge\n\t\t\t\t\t\t",
+        "Url": "/lodestone/playguide/db/quest/bef10dc5418/",
+        "Image": "https://img.finalfantasyxiv.com/lds/pc/global/images/itemicon/88/882286c6cc8fa703174b3200e0eb4061bdc6cc9f.png?n5.5",
+        "Icon": "function_normal",
+        "Issuer": "Hamujj Gah",
+        "StartLocation": {
+            "Name": "Südliches Thanalan",
+            "X": "23.9",
+            "Y": "14.2"
+        },
+        "StartClass": null,
+        "Job": "",
+        "Company": "Keine Angabe",
+        "Requirement": "Keine Angabe",
+        "Rewards": {
+            "Gil": 840,
+            "Exp": 11960,
+            "ItemsMand": [],
+            "ItemsOpt": []
+        },
+        "Infos": {
+            "PrevQuests": [
+                {
+                    "Name": "Die Bruderschaft der Asche",
+                    "Url": "/lodestone/playguide/db/quest/d9069dea4a7/",
+                    "Area": "Ul'dah",
+                    "Level": "43"
+                }
+            ],
+            "NextQuests": [
+                {
+                    "Name": "Loonh Gahs Vergangenheit",
+                    "Url": "/lodestone/playguide/db/quest/1dda07eb9e7/",
+                    "Area": "Südliches Thanalan",
+                    "Level": "46"
+                }
+            ],
+            "NPCs": [
+                {
+                    "Name": "Loonh Gah",
+                    "Url": "/lodestone/playguide/db/npc/npc/b22c81e50c9/",
+                    "Area": "Südliches Thanalan (X:23.2 Y:13.7)"
+                },
+                {
+                    "Name": "Loonh Gah",
+                    "Url": "/lodestone/playguide/db/npc/npc/589fcc721dd/",
+                    "Area": "Südliches Thanalan (X:16.2 Y:19.9)"
+                },
+                {
+                    "Name": "Nervöser Kaufmann",
+                    "Url": "/lodestone/playguide/db/npc/npc/ca288ebbea8/",
+                    "Area": "Südliches Thanalan (X:16.2 Y:19.9)"
+                }
+            ]
+        },
+        "Seq": 1,
+        "oldID": 66754,
+        "Map": {
+            "ID": 23
+        }
+    },
+    {
+        "ID": "c2bc4caa34b",
+        "Name": "Geschwister im Geiste",
+        "Location": "Südliches Thanalan",
+        "Level": 46,
+        "JournalSection": 4,
+        "JournalCategory": 26,
+        "JournalGenre": "\n\t\t\t\t\t\t\tNebenaufträge\n\t\t\t\t\t\t",
+        "Url": "/lodestone/playguide/db/quest/c2bc4caa34b/",
+        "Image": null,
+        "Icon": "common_repeat",
+        "Issuer": "Narujj Boh",
+        "StartLocation": {
+            "Name": "Südliches Thanalan",
+            "X": "23.4",
+            "Y": "14.4"
+        },
+        "StartClass": null,
+        "Job": "",
+        "Company": "Keine Angabe",
+        "Requirement": "Keine Angabe",
+        "Rewards": {
+            "Gil": 660,
+            "Exp": 9693,
+            "ItemsMand": [],
+            "ItemsOpt": []
+        },
+        "Infos": {},
+        "Seq": 16,
+        "oldID": 66769,
+        "Map": {
+            "ID": 23
+        }
+    },
+    {
+        "ID": "cb1d7c46dd0",
+        "Name": "Die Ehre der Gefangenen",
+        "Location": "Südliches Thanalan",
+        "Level": 43,
+        "JournalSection": 4,
+        "JournalCategory": 26,
+        "JournalGenre": "\n\t\t\t\t\t\t\tNebenaufträge\n\t\t\t\t\t\t",
+        "Url": "/lodestone/playguide/db/quest/cb1d7c46dd0/",
+        "Image": null,
+        "Icon": "common_repeat",
+        "Issuer": "Fibubb Gah",
+        "StartLocation": {
+            "Name": "Südliches Thanalan",
+            "X": "23.5",
+            "Y": "14.3"
+        },
+        "StartClass": null,
+        "Job": "",
+        "Company": "Keine Angabe",
+        "Requirement": "Keine Angabe",
+        "Rewards": {
+            "Gil": 480,
+            "Exp": 8970,
+            "ItemsMand": [],
+            "ItemsOpt": []
+        },
+        "Infos": {},
+        "Seq": 13,
+        "oldID": 66766,
+        "Map": {
+            "ID": 23
+        }
+    },
+    {
+        "ID": "cb703e88f76",
+        "Name": "Demonstrierte Überlegenheit",
+        "Location": "Südliches Thanalan",
+        "Level": 48,
+        "JournalSection": 4,
+        "JournalCategory": 26,
+        "JournalGenre": "\n\t\t\t\t\t\t\tNebenaufträge\n\t\t\t\t\t\t",
+        "Url": "/lodestone/playguide/db/quest/cb703e88f76/",
+        "Image": null,
+        "Icon": "common_repeat",
+        "Issuer": "Yadovv Gah",
+        "StartLocation": {
+            "Name": "Südliches Thanalan",
+            "X": "23.1",
+            "Y": "14.3"
+        },
+        "StartClass": null,
+        "Job": "",
+        "Company": "Keine Angabe",
+        "Requirement": "Keine Angabe",
+        "Rewards": {
+            "Gil": 780,
+            "Exp": 10473,
+            "ItemsMand": [],
+            "ItemsOpt": [
+                {
+                    "Icon": "https://img.finalfantasyxiv.com/lds/pc/global/images/itemicon/06/06bd35b3df19cbc5d80eed3ed99c67a366c835aa.png?n5.5",
+                    "Name": "Strategen-Materia IV",
+                    "Amount": 1,
+                    "Url": "/lodestone/playguide/db/item/dce3a5f3467/"
+                },
+                {
+                    "Icon": "https://img.finalfantasyxiv.com/lds/pc/global/images/itemicon/06/06bd35b3df19cbc5d80eed3ed99c67a366c835aa.png?n5.5",
+                    "Name": "Assassinen-Materia IV",
+                    "Amount": 1,
+                    "Url": "/lodestone/playguide/db/item/1bc25f58180/"
+                },
+                {
+                    "Icon": "https://img.finalfantasyxiv.com/lds/pc/global/images/itemicon/60/6072436b0c90d22b6a9d7da93f356256a04be53d.png?n5.5",
+                    "Name": "Zauber-Materia IV",
+                    "Amount": 1,
+                    "Url": "/lodestone/playguide/db/item/5bbb25ff7dd/"
+                }
+            ]
+        },
+        "Infos": {},
+        "Seq": 28,
+        "oldID": 66781,
+        "Map": {
+            "ID": 23
+        }
+    },
+    {
+        "ID": "d3815ff7d43",
+        "Name": "Gepanzertes Orakel",
+        "Location": "Südliches Thanalan",
+        "Level": 43,
+        "JournalSection": 4,
+        "JournalCategory": 26,
+        "JournalGenre": "\n\t\t\t\t\t\t\tNebenaufträge\n\t\t\t\t\t\t",
+        "Url": "/lodestone/playguide/db/quest/d3815ff7d43/",
+        "Image": null,
+        "Icon": "common_repeat",
+        "Issuer": "Fibubb Gah",
+        "StartLocation": {
+            "Name": "Südliches Thanalan",
+            "X": "23.5",
+            "Y": "14.3"
+        },
+        "StartClass": null,
+        "Job": "",
+        "Company": "Keine Angabe",
+        "Requirement": "Keine Angabe",
+        "Rewards": {
+            "Gil": 480,
+            "Exp": 8970,
+            "ItemsMand": [],
+            "ItemsOpt": []
+        },
+        "Infos": {},
+        "Seq": 5,
+        "oldID": 66758,
+        "Map": {
+            "ID": 23
+        }
+    },
+    {
+        "ID": "d9069dea4a7",
+        "Name": "Die Bruderschaft der Asche",
+        "Location": "Ul'dah",
+        "Level": 43,
+        "JournalSection": 4,
+        "JournalCategory": 26,
+        "JournalGenre": "\n\t\t\t\t\t\t\tHauptaufträge\n\t\t\t\t\t\t",
+        "Url": "/lodestone/playguide/db/quest/d9069dea4a7/",
+        "Image": "https://img.finalfantasyxiv.com/lds/pc/global/images/itemicon/7c/7c1aa3aecbc9722aab1548abf8458f59a09cfa68.png?n5.5",
+        "Icon": "function_normal",
+        "Issuer": "Swift",
+        "StartLocation": {
+            "Name": "Nald-Kreuzgang",
+            "X": "8.4",
+            "Y": "8.9"
+        },
+        "StartClass": null,
+        "Job": "",
+        "Company": "Keine Angabe",
+        "Requirement": "Keine Angabe",
+        "Rewards": {
+            "Gil": 592,
+            "Exp": 11960,
+            "ItemsMand": [],
+            "ItemsOpt": []
+        },
+        "Infos": {
+            "PrevQuests": [
+                {
+                    "Name": "Der Drache der Steinernen Wacht",
+                    "Url": "/lodestone/playguide/db/quest/4bb6ef83f13/",
+                    "Area": "Zentrales Hochland von Coerthas",
+                    "Level": "41"
+                }
+            ],
+            "NextQuests": [
+                {
+                    "Name": "Im Ring der Asche",
+                    "Url": "/lodestone/playguide/db/quest/bef10dc5418/",
+                    "Area": "Südliches Thanalan",
+                    "Level": "43"
+                }
+            ],
+            "NPCs": [
+                {
+                    "Name": "Gisilbehrt",
+                    "Url": "/lodestone/playguide/db/npc/npc/cbcdf03c4cf/",
+                    "Area": "Südliches Thanalan (X:17.8 Y:13.4)"
+                },
+                {
+                    "Name": "Hamujj Gah",
+                    "Url": "/lodestone/playguide/db/npc/npc/5fbb0b694f1/",
+                    "Area": "Südliches Thanalan (X:23.9 Y:14.2)"
+                },
+                {
+                    "Name": "Sorgloser Händler",
+                    "Url": "/lodestone/playguide/db/npc/npc/a446a51ba3d/",
+                    "Area": "Südliches Thanalan (X:23.2 Y:12.6)"
+                }
+            ]
+        },
+        "Seq": 29,
+        "oldID": 66753,
+        "Map": {
+            "ID": 13
+        }
+    },
+    {
+        "ID": "e398395116b",
+        "Name": "Die Schamanen der Flammenfänge",
+        "Location": "Südliches Thanalan",
+        "Level": 48,
+        "JournalSection": 4,
+        "JournalCategory": 26,
+        "JournalGenre": "\n\t\t\t\t\t\t\tNebenaufträge\n\t\t\t\t\t\t",
+        "Url": "/lodestone/playguide/db/quest/e398395116b/",
+        "Image": null,
+        "Icon": "common_repeat",
+        "Issuer": "Yadovv Gah",
+        "StartLocation": {
+            "Name": "Südliches Thanalan",
+            "X": "23.1",
+            "Y": "14.3"
+        },
+        "StartClass": null,
+        "Job": "",
+        "Company": "Keine Angabe",
+        "Requirement": "Keine Angabe",
+        "Rewards": {
+            "Gil": 780,
+            "Exp": 10473,
+            "ItemsMand": [],
+            "ItemsOpt": [
+                {
+                    "Icon": "https://img.finalfantasyxiv.com/lds/pc/global/images/itemicon/06/06bd35b3df19cbc5d80eed3ed99c67a366c835aa.png?n5.5",
+                    "Name": "Hellseher-Materia IV",
+                    "Amount": 1,
+                    "Url": "/lodestone/playguide/db/item/93fe1786b70/"
+                },
+                {
+                    "Icon": "https://img.finalfantasyxiv.com/lds/pc/global/images/itemicon/06/06bd35b3df19cbc5d80eed3ed99c67a366c835aa.png?n5.5",
+                    "Name": "Strategen-Materia IV",
+                    "Amount": 1,
+                    "Url": "/lodestone/playguide/db/item/dce3a5f3467/"
+                },
+                {
+                    "Icon": "https://img.finalfantasyxiv.com/lds/pc/global/images/itemicon/60/6072436b0c90d22b6a9d7da93f356256a04be53d.png?n5.5",
+                    "Name": "Zauber-Materia IV",
+                    "Amount": 1,
+                    "Url": "/lodestone/playguide/db/item/5bbb25ff7dd/"
+                }
+            ]
+        },
+        "Infos": {},
+        "Seq": 26,
+        "oldID": 66779,
+        "Map": {
+            "ID": 23
+        }
+    },
+    {
+        "ID": "e8befb1b62f",
+        "Name": "Kultige Gegenstände",
+        "Location": "Südliches Thanalan",
+        "Level": 46,
+        "JournalSection": 4,
+        "JournalCategory": 26,
+        "JournalGenre": "\n\t\t\t\t\t\t\tNebenaufträge\n\t\t\t\t\t\t",
+        "Url": "/lodestone/playguide/db/quest/e8befb1b62f/",
+        "Image": null,
+        "Icon": "common_repeat",
+        "Issuer": "Narujj Boh",
+        "StartLocation": {
+            "Name": "Südliches Thanalan",
+            "X": "23.4",
+            "Y": "14.4"
+        },
+        "StartClass": null,
+        "Job": "",
+        "Company": "Keine Angabe",
+        "Requirement": "Keine Angabe",
+        "Rewards": {
+            "Gil": 660,
+            "Exp": 9693,
+            "ItemsMand": [],
+            "ItemsOpt": []
+        },
+        "Infos": {},
+        "Seq": 15,
+        "oldID": 66768,
+        "Map": {
+            "ID": 23
+        }
+    },
+    {
+        "ID": "f78316df344",
+        "Name": "Berittene Feuerwehr",
+        "Location": "Südliches Thanalan",
+        "Level": 43,
+        "JournalSection": 4,
+        "JournalCategory": 26,
+        "JournalGenre": "\n\t\t\t\t\t\t\tNebenaufträge\n\t\t\t\t\t\t",
+        "Url": "/lodestone/playguide/db/quest/f78316df344/",
+        "Image": null,
+        "Icon": "common_repeat",
+        "Issuer": "Fibubb Gah",
+        "StartLocation": {
+            "Name": "Südliches Thanalan",
+            "X": "23.5",
+            "Y": "14.3"
+        },
+        "StartClass": null,
+        "Job": "",
+        "Company": "Keine Angabe",
+        "Requirement": "Keine Angabe",
+        "Rewards": {
+            "Gil": 480,
+            "Exp": 8970,
+            "ItemsMand": [],
+            "ItemsOpt": []
+        },
+        "Infos": {
+            "PrevQuests": [
+                {
+                    "Name": "Drakon-Flüsterer",
+                    "Url": "/lodestone/playguide/db/npc/npc/1e4d677c5f7/",
+                    "Area": "Südliches Thanalan (X:22.3 Y:14.5)"
+                }
+            ]
+        },
+        "Seq": 9,
+        "oldID": 66762,
+        "Map": {
+            "ID": 23
+        }
+    },
+    {
+        "ID": "fc2981a9168",
+        "Name": "Ifrits heiliges Feuer",
+        "Location": "Südliches Thanalan",
+        "Level": 46,
+        "JournalSection": 4,
+        "JournalCategory": 26,
+        "JournalGenre": "\n\t\t\t\t\t\t\tNebenaufträge\n\t\t\t\t\t\t",
+        "Url": "/lodestone/playguide/db/quest/fc2981a9168/",
+        "Image": null,
+        "Icon": "common_repeat",
+        "Issuer": "Narujj Boh",
+        "StartLocation": {
+            "Name": "Südliches Thanalan",
+            "X": "23.4",
+            "Y": "14.4"
+        },
+        "StartClass": null,
+        "Job": "",
+        "Company": "Keine Angabe",
+        "Requirement": "Keine Angabe",
+        "Rewards": {
+            "Gil": 660,
+            "Exp": 9693,
+            "ItemsMand": [],
+            "ItemsOpt": []
+        },
+        "Infos": {},
+        "Seq": 18,
+        "oldID": 66771,
+        "Map": {
+            "ID": 23
+        }
+    },
+    {
+        "ID": "fcc6ff3e38d",
+        "Name": "Kristallraub in Ifrits Namen",
+        "Location": "Südliches Thanalan",
+        "Level": 46,
+        "JournalSection": 4,
+        "JournalCategory": 26,
+        "JournalGenre": "\n\t\t\t\t\t\t\tNebenaufträge\n\t\t\t\t\t\t",
+        "Url": "/lodestone/playguide/db/quest/fcc6ff3e38d/",
+        "Image": null,
+        "Icon": "common_repeat",
+        "Issuer": "Narujj Boh",
+        "StartLocation": {
+            "Name": "Südliches Thanalan",
+            "X": "23.4",
+            "Y": "14.4"
+        },
+        "StartClass": null,
+        "Job": "",
+        "Company": "Keine Angabe",
+        "Requirement": "Keine Angabe",
+        "Rewards": {
+            "Gil": 660,
+            "Exp": 9693,
+            "ItemsMand": [],
+            "ItemsOpt": []
+        },
+        "Infos": {
+            "PrevQuests": [
+                {
+                    "Name": "Ausgeraubter Händler",
+                    "Url": "/lodestone/playguide/db/npc/npc/0b50c1f1cc1/",
+                    "Area": "Südliches Thanalan (X:21.9 Y:12.6)"
+                }
+            ]
+        },
+        "Seq": 23,
+        "oldID": 66776,
+        "Map": {
+            "ID": 23
+        }
+    }
+]

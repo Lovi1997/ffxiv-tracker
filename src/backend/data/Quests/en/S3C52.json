@@ -1,0 +1,3105 @@
+[
+    {
+        "ID": "09878008ca2",
+        "Name": " Two Tails Are Better than One",
+        "Location": "Amh Araeng",
+        "Level": 70,
+        "JournalSection": 3,
+        "JournalCategory": 52,
+        "JournalGenre": "Amh Araeng Sidequests",
+        "Url": "/lodestone/playguide/db/quest/09878008ca2/",
+        "Image": "https://img.finalfantasyxiv.com/lds/pc/global/images/itemicon/dd/dde1d30404494006b10d5f8e3989901d308bf826.png?n5.5",
+        "Icon": "common_normal",
+        "Issuer": "Kee-Satt",
+        "StartLocation": {
+            "Name": "Amh Araeng",
+            "X": "9.7",
+            "Y": "24.9"
+        },
+        "StartClass": null,
+        "Job": "",
+        "Company": "Not specified",
+        "Requirement": "Not specified",
+        "Rewards": {
+            "Gil": 941,
+            "Exp": null,
+            "ItemsMand": [],
+            "ItemsOpt": []
+        },
+        "Infos": {
+            "PrevQuests": [
+                {
+                    "Name": " Tunnel Vision",
+                    "Url": "/lodestone/playguide/db/quest/1bd037903b3/",
+                    "Area": "Amh Araeng",
+                    "Level": "70"
+                }
+            ],
+            "NextQuests": [
+                {
+                    "Name": " The Rutabite at the End of the Tunnel",
+                    "Url": "/lodestone/playguide/db/quest/fc7390335f8/",
+                    "Area": "Amh Araeng",
+                    "Level": "70"
+                }
+            ],
+            "NPCs": [
+                {
+                    "Name": "Horthur",
+                    "Url": "/lodestone/playguide/db/npc/npc/7b61faa4f2a/",
+                    "Area": "Amh Araeng (X:11.3 Y:17.5)"
+                },
+                {
+                    "Name": "Kee-Satt",
+                    "Url": "/lodestone/playguide/db/npc/npc/0d2a29591e9/",
+                    "Area": "Amh Araeng (X:12.1 Y:16.0)"
+                },
+                {
+                    "Name": "Kee-Satt",
+                    "Url": "/lodestone/playguide/db/npc/npc/d72eb2cbd55/",
+                    "Area": "Amh Araeng (X:11.3 Y:17.5)"
+                },
+                {
+                    "Name": "Kee-Satt",
+                    "Url": "/lodestone/playguide/db/npc/npc/56d164bd4c0/",
+                    "Area": "Amh Araeng (X:12.6 Y:17.4)"
+                }
+            ]
+        },
+        "Seq": 48,
+        "oldID": 69063,
+        "Map": {
+            "ID": 493
+        }
+    },
+    {
+        "ID": "1048538d734",
+        "Name": " Gnome Ore Heroes",
+        "Location": "Amh Araeng",
+        "Level": 70,
+        "JournalSection": 3,
+        "JournalCategory": 52,
+        "JournalGenre": "Amh Araeng Sidequests",
+        "Url": "/lodestone/playguide/db/quest/1048538d734/",
+        "Image": null,
+        "Icon": "common_normal",
+        "Issuer": "Fiery Young Lad",
+        "StartLocation": {
+            "Name": "Amh Araeng",
+            "X": "15.0",
+            "Y": "23.6"
+        },
+        "StartClass": null,
+        "Job": "",
+        "Company": "Not specified",
+        "Requirement": "Not specified",
+        "Rewards": {
+            "Gil": 606,
+            "Exp": null,
+            "ItemsMand": [],
+            "ItemsOpt": []
+        },
+        "Infos": {
+            "PrevQuests": [
+                {
+                    "Name": " Charmless Man",
+                    "Url": "/lodestone/playguide/db/quest/9fafc766718/",
+                    "Area": "Amh Araeng",
+                    "Level": "70"
+                }
+            ],
+            "NextQuests": [
+                {
+                    "Name": " The Piping of the Dead",
+                    "Url": "/lodestone/playguide/db/quest/fee304c252e/",
+                    "Area": "Amh Araeng",
+                    "Level": "70"
+                }
+            ],
+            "NPCs": [
+                {
+                    "Name": "Chiseled Miner",
+                    "Url": "/lodestone/playguide/db/npc/npc/f166c95804f/",
+                    "Area": "Amh Araeng (X:15.0 Y:23.6)"
+                }
+            ]
+        },
+        "Seq": 41,
+        "oldID": 69049,
+        "Map": {
+            "ID": 493
+        }
+    },
+    {
+        "ID": "10e982c682b",
+        "Name": " I Drink, Therefore I Am (in Trouble)",
+        "Location": "Amh Araeng",
+        "Level": 70,
+        "JournalSection": 3,
+        "JournalCategory": 52,
+        "JournalGenre": "Amh Araeng Sidequests",
+        "Url": "/lodestone/playguide/db/quest/10e982c682b/",
+        "Image": null,
+        "Icon": "common_normal",
+        "Issuer": "Wild-eyed Miner",
+        "StartLocation": {
+            "Name": "Amh Araeng",
+            "X": "11.2",
+            "Y": "15.7"
+        },
+        "StartClass": null,
+        "Job": "",
+        "Company": "Not specified",
+        "Requirement": "Not specified",
+        "Rewards": {
+            "Gil": 679,
+            "Exp": null,
+            "ItemsMand": [],
+            "ItemsOpt": []
+        },
+        "Infos": {
+            "PrevQuests": [
+                {
+                    "Name": "On Track",
+                    "Url": "/lodestone/playguide/db/quest/7177aa07e51/",
+                    "Area": "Amh Araeng",
+                    "Level": "76"
+                }
+            ],
+            "NextQuests": [
+                {
+                    "Name": "Guthlaugur",
+                    "Url": "/lodestone/playguide/db/npc/npc/252abdeee7d/",
+                    "Area": "Amh Araeng (X:10.9 Y:18.7)"
+                },
+                {
+                    "Name": "Wild-eyed Miner",
+                    "Url": "/lodestone/playguide/db/npc/npc/f2c4457be75/",
+                    "Area": "Amh Araeng (X:11.0 Y:18.7)"
+                }
+            ]
+        },
+        "Seq": 21,
+        "oldID": 69029,
+        "Map": {
+            "ID": 493
+        }
+    },
+    {
+        "ID": "17f592c1239",
+        "Name": " Shovel or Boogie",
+        "Location": "Amh Araeng",
+        "Level": 70,
+        "JournalSection": 3,
+        "JournalCategory": 52,
+        "JournalGenre": "Amh Araeng Sidequests",
+        "Url": "/lodestone/playguide/db/quest/17f592c1239/",
+        "Image": null,
+        "Icon": "common_normal",
+        "Issuer": "Rhil Ril",
+        "StartLocation": {
+            "Name": "Amh Araeng",
+            "X": "13.6",
+            "Y": "9.7"
+        },
+        "StartClass": null,
+        "Job": "",
+        "Company": "Not specified",
+        "Requirement": "Not specified",
+        "Rewards": {
+            "Gil": 606,
+            "Exp": null,
+            "ItemsMand": [
+                {
+                    "Icon": "https://img.finalfantasyxiv.com/lds/pc/global/images/itemicon/bc/bc5d818a0aef5cd74321f4a1f455e4be6abff0a1.png?n5.5",
+                    "Name": "Titanbronze Hand Gear Coffer",
+                    "Amount": 1,
+                    "Url": "/lodestone/playguide/db/item/c52f6735acd/"
+                }
+            ],
+            "ItemsOpt": []
+        },
+        "Infos": {
+            "PrevQuests": [
+                {
+                    "Name": "Free Trade",
+                    "Url": "/lodestone/playguide/db/quest/51198a1dd76/",
+                    "Area": "Amh Araeng",
+                    "Level": "76"
+                }
+            ]
+        },
+        "Seq": 17,
+        "oldID": 69025,
+        "Map": {
+            "ID": 493
+        }
+    },
+    {
+        "ID": "1b472a57352",
+        "Name": " Stripe for the Picking",
+        "Location": "Amh Araeng",
+        "Level": 70,
+        "JournalSection": 3,
+        "JournalCategory": 52,
+        "JournalGenre": "Amh Araeng Sidequests",
+        "Url": "/lodestone/playguide/db/quest/1b472a57352/",
+        "Image": null,
+        "Icon": "common_normal",
+        "Issuer": "Andri",
+        "StartLocation": {
+            "Name": "Amh Araeng",
+            "X": "10.8",
+            "Y": "16.3"
+        },
+        "StartClass": null,
+        "Job": "",
+        "Company": "Not specified",
+        "Requirement": "Not specified",
+        "Rewards": {
+            "Gil": 759,
+            "Exp": null,
+            "ItemsMand": [],
+            "ItemsOpt": []
+        },
+        "Infos": {
+            "PrevQuests": [
+                {
+                    "Name": "On Track",
+                    "Url": "/lodestone/playguide/db/quest/7177aa07e51/",
+                    "Area": "Amh Araeng",
+                    "Level": "76"
+                }
+            ]
+        },
+        "Seq": 37,
+        "oldID": 69045,
+        "Map": {
+            "ID": 493
+        }
+    },
+    {
+        "ID": "1bd037903b3",
+        "Name": " Tunnel Vision",
+        "Location": "Amh Araeng",
+        "Level": 70,
+        "JournalSection": 3,
+        "JournalCategory": 52,
+        "JournalGenre": "Amh Araeng Sidequests",
+        "Url": "/lodestone/playguide/db/quest/1bd037903b3/",
+        "Image": "https://img.finalfantasyxiv.com/lds/pc/global/images/itemicon/dd/dde1d30404494006b10d5f8e3989901d308bf826.png?n5.5",
+        "Icon": "common_normal",
+        "Issuer": "Kee-Satt",
+        "StartLocation": {
+            "Name": "Amh Araeng",
+            "X": "11.9",
+            "Y": "25.3"
+        },
+        "StartClass": null,
+        "Job": "",
+        "Company": "Not specified",
+        "Requirement": "Not specified",
+        "Rewards": {
+            "Gil": 715,
+            "Exp": null,
+            "ItemsMand": [],
+            "ItemsOpt": []
+        },
+        "Infos": {
+            "PrevQuests": [
+                {
+                    "Name": " A Vein Pursuit",
+                    "Url": "/lodestone/playguide/db/quest/5f7a1c47f05/",
+                    "Area": "Amh Araeng",
+                    "Level": "70"
+                }
+            ],
+            "NextQuests": [
+                {
+                    "Name": " Two Tails Are Better than One",
+                    "Url": "/lodestone/playguide/db/quest/09878008ca2/",
+                    "Area": "Amh Araeng",
+                    "Level": "70"
+                }
+            ],
+            "NPCs": [
+                {
+                    "Name": "Kee-Satt",
+                    "Url": "/lodestone/playguide/db/npc/npc/fde983423f2/",
+                    "Area": "Amh Araeng (X:9.7 Y:24.9)"
+                }
+            ]
+        },
+        "Seq": 47,
+        "oldID": 69062,
+        "Map": {
+            "ID": 493
+        }
+    },
+    {
+        "ID": "1bf1166dc66",
+        "Name": " I Felt Your Presents",
+        "Location": "Amh Araeng",
+        "Level": 70,
+        "JournalSection": 3,
+        "JournalCategory": 52,
+        "JournalGenre": "Amh Araeng Sidequests",
+        "Url": "/lodestone/playguide/db/quest/1bf1166dc66/",
+        "Image": null,
+        "Icon": "common_normal",
+        "Issuer": "Thaymoth",
+        "StartLocation": {
+            "Name": "Amh Araeng",
+            "X": "34.8",
+            "Y": "8.1"
+        },
+        "StartClass": null,
+        "Job": "",
+        "Company": "Not specified",
+        "Requirement": "Not specified",
+        "Rewards": {
+            "Gil": 779,
+            "Exp": null,
+            "ItemsMand": [],
+            "ItemsOpt": []
+        },
+        "Infos": {
+            "PrevQuests": [
+                {
+                    "Name": " Mollycoddled Mord",
+                    "Url": "/lodestone/playguide/db/quest/8f96e96c212/",
+                    "Area": "Amh Araeng",
+                    "Level": "70"
+                }
+            ],
+            "NextQuests": [
+                {
+                    "Name": "Ghin Gin",
+                    "Url": "/lodestone/playguide/db/npc/npc/7758a99f371/",
+                    "Area": "Amh Araeng (X:27.9 Y:15.9)"
+                },
+                {
+                    "Name": "Lorotte",
+                    "Url": "/lodestone/playguide/db/npc/npc/1003cfa5f1e/",
+                    "Area": "Amh Araeng (X:35.0 Y:8.6)"
+                }
+            ]
+        },
+        "Seq": 3,
+        "oldID": 68900,
+        "Map": {
+            "ID": 493
+        }
+    },
+    {
+        "ID": "30eece52551",
+        "Name": " No Disassemble",
+        "Location": "Amh Araeng",
+        "Level": 70,
+        "JournalSection": 3,
+        "JournalCategory": 52,
+        "JournalGenre": "Amh Araeng Sidequests",
+        "Url": "/lodestone/playguide/db/quest/30eece52551/",
+        "Image": null,
+        "Icon": "common_normal",
+        "Issuer": "Talos Enthusiast",
+        "StartLocation": {
+            "Name": "Amh Araeng",
+            "X": "15.2",
+            "Y": "30.3"
+        },
+        "StartClass": null,
+        "Job": "",
+        "Company": "Not specified",
+        "Requirement": "Not specified",
+        "Rewards": {
+            "Gil": 606,
+            "Exp": null,
+            "ItemsMand": [],
+            "ItemsOpt": []
+        },
+        "Infos": {
+            "PrevQuests": [
+                {
+                    "Name": "A Fresh Start",
+                    "Url": "/lodestone/playguide/db/quest/dd9cc07fd61/",
+                    "Area": "Amh Araeng",
+                    "Level": "77"
+                }
+            ]
+        },
+        "Seq": 43,
+        "oldID": 69066,
+        "Map": {
+            "ID": 493
+        }
+    },
+    {
+        "ID": "3382b730489",
+        "Name": " Repair for the Worst",
+        "Location": "Amh Araeng",
+        "Level": 70,
+        "JournalSection": 3,
+        "JournalCategory": 52,
+        "JournalGenre": "Amh Araeng Sidequests",
+        "Url": "/lodestone/playguide/db/quest/3382b730489/",
+        "Image": null,
+        "Icon": "common_normal",
+        "Issuer": "Restless Laborer",
+        "StartLocation": {
+            "Name": "Amh Araeng",
+            "X": "11.6",
+            "Y": "16.1"
+        },
+        "StartClass": null,
+        "Job": "",
+        "Company": "Not specified",
+        "Requirement": "Not specified",
+        "Rewards": {
+            "Gil": 606,
+            "Exp": null,
+            "ItemsMand": [],
+            "ItemsOpt": []
+        },
+        "Infos": {
+            "PrevQuests": [
+                {
+                    "Name": "On Track",
+                    "Url": "/lodestone/playguide/db/quest/7177aa07e51/",
+                    "Area": "Amh Araeng",
+                    "Level": "76"
+                }
+            ],
+            "NextQuests": [
+                {
+                    "Name": "Building Material Supplier",
+                    "Url": "/lodestone/playguide/db/npc/npc/3beac84bfc8/",
+                    "Area": "Amh Araeng (X:11.6 Y:16.0)"
+                }
+            ]
+        },
+        "Seq": 36,
+        "oldID": 69044,
+        "Map": {
+            "ID": 493
+        }
+    },
+    {
+        "ID": "344b5797e45",
+        "Name": " Semi Auto-malik",
+        "Location": "Amh Araeng",
+        "Level": 70,
+        "JournalSection": 3,
+        "JournalCategory": 52,
+        "JournalGenre": "Amh Araeng Sidequests",
+        "Url": "/lodestone/playguide/db/quest/344b5797e45/",
+        "Image": "https://img.finalfantasyxiv.com/lds/pc/global/images/itemicon/23/2398733e2969cf3bf171b160027171c2b6dc4aac.png?n5.5",
+        "Icon": "common_normal",
+        "Issuer": "Ghun Gun",
+        "StartLocation": {
+            "Name": "Amh Araeng",
+            "X": "32.3",
+            "Y": "30.3"
+        },
+        "StartClass": null,
+        "Job": "",
+        "Company": "Not specified",
+        "Requirement": "Not specified",
+        "Rewards": {
+            "Gil": 925,
+            "Exp": null,
+            "ItemsMand": [],
+            "ItemsOpt": [
+                {
+                    "Icon": "https://img.finalfantasyxiv.com/lds/pc/global/images/itemicon/09/09570b3c3c46b1e8a52e8475c5b16cbcca432d97.png?n5.5",
+                    "Name": "Grilled Rail",
+                    "Amount": 2,
+                    "Url": "/lodestone/playguide/db/item/aedd374afad/"
+                },
+                {
+                    "Icon": "https://img.finalfantasyxiv.com/lds/pc/global/images/itemicon/b2/b2a6274417cab57616f207bbaa55ea18d6a164fb.png?n5.5",
+                    "Name": "Purple Carrot Juice",
+                    "Amount": 2,
+                    "Url": "/lodestone/playguide/db/item/cf2ba60550f/"
+                },
+                {
+                    "Icon": "https://img.finalfantasyxiv.com/lds/pc/global/images/itemicon/87/8703f574246b8290761053ffe4e130a2b7d56125.png?n5.5",
+                    "Name": "Caramels",
+                    "Amount": 2,
+                    "Url": "/lodestone/playguide/db/item/ed88a70bb54/"
+                },
+                {
+                    "Icon": "https://img.finalfantasyxiv.com/lds/pc/global/images/itemicon/da/da6527324aacc543133f5fa88c59efe11cc0e767.png?n5.5",
+                    "Name": "Broad Bean Soup",
+                    "Amount": 2,
+                    "Url": "/lodestone/playguide/db/item/47b9501c21a/"
+                },
+                {
+                    "Icon": "https://img.finalfantasyxiv.com/lds/pc/global/images/itemicon/ba/baa2341dd17414fae7fd62ae7bc62c64589b67be.png?n5.5",
+                    "Name": "Nightworld Silver Piece",
+                    "Amount": 3,
+                    "Url": "/lodestone/playguide/db/item/50ed823230e/"
+                }
+            ]
+        },
+        "Infos": {
+            "PrevQuests": [
+                {
+                    "Name": " Nabaath Breakdown",
+                    "Url": "/lodestone/playguide/db/quest/67167cdf55a/",
+                    "Area": "Amh Araeng",
+                    "Level": "70"
+                }
+            ],
+            "NextQuests": [
+                {
+                    "Name": " An Axle to Grind",
+                    "Url": "/lodestone/playguide/db/quest/ca5230ee183/",
+                    "Area": "Amh Araeng",
+                    "Level": "70"
+                }
+            ],
+            "NPCs": [
+                {
+                    "Name": "Ghun Gun",
+                    "Url": "/lodestone/playguide/db/npc/npc/14c72bccd1f/",
+                    "Area": "Amh Araeng (X:25.9 Y:29.7)"
+                },
+                {
+                    "Name": "Ghun Gun",
+                    "Url": "/lodestone/playguide/db/npc/npc/d6f7f18896b/",
+                    "Area": "Amh Araeng (X:28.1 Y:18.5)"
+                },
+                {
+                    "Name": "Jamial",
+                    "Url": "/lodestone/playguide/db/npc/npc/1b76ca3df87/",
+                    "Area": "Amh Araeng (X:32.2 Y:30.3)"
+                },
+                {
+                    "Name": "Jamial",
+                    "Url": "/lodestone/playguide/db/npc/npc/105f9f5ea22/",
+                    "Area": "Amh Araeng (X:25.8 Y:29.8)"
+                }
+            ]
+        },
+        "Seq": 13,
+        "oldID": 68914,
+        "Map": {
+            "ID": 493
+        }
+    },
+    {
+        "ID": "35bc51561a2",
+        "Name": " The Brother Lode",
+        "Location": "Amh Araeng",
+        "Level": 70,
+        "JournalSection": 3,
+        "JournalCategory": 52,
+        "JournalGenre": "Amh Araeng Sidequests",
+        "Url": "/lodestone/playguide/db/quest/35bc51561a2/",
+        "Image": null,
+        "Icon": "common_normal",
+        "Issuer": "Stocky Miner",
+        "StartLocation": {
+            "Name": "Amh Araeng",
+            "X": "21.3",
+            "Y": "11.0"
+        },
+        "StartClass": null,
+        "Job": "",
+        "Company": "Not specified",
+        "Requirement": "Not specified",
+        "Rewards": {
+            "Gil": 832,
+            "Exp": null,
+            "ItemsMand": [],
+            "ItemsOpt": []
+        },
+        "Infos": {
+            "PrevQuests": [
+                {
+                    "Name": " Big Sister Is Watching You",
+                    "Url": "/lodestone/playguide/db/quest/52e98fb9ba4/",
+                    "Area": "Amh Araeng",
+                    "Level": "70"
+                }
+            ],
+            "NextQuests": [
+                {
+                    "Name": "Annine",
+                    "Url": "/lodestone/playguide/db/npc/npc/bc6738cc234/",
+                    "Area": "Amh Araeng (X:11.0 Y:15.9)"
+                },
+                {
+                    "Name": "Stout Miner",
+                    "Url": "/lodestone/playguide/db/npc/npc/8673adfba41/",
+                    "Area": "Amh Araeng (X:21.3 Y:11.0)"
+                }
+            ]
+        },
+        "Seq": 28,
+        "oldID": 69036,
+        "Map": {
+            "ID": 493
+        }
+    },
+    {
+        "ID": "408f5cca120",
+        "Name": " Assault on a Deadly Weapon",
+        "Location": "Amh Araeng",
+        "Level": 70,
+        "JournalSection": 3,
+        "JournalCategory": 52,
+        "JournalGenre": "Amh Araeng Sidequests",
+        "Url": "/lodestone/playguide/db/quest/408f5cca120/",
+        "Image": null,
+        "Icon": "common_normal",
+        "Issuer": "Mhon Mon",
+        "StartLocation": {
+            "Name": "Amh Araeng",
+            "X": "13.5",
+            "Y": "10.4"
+        },
+        "StartClass": null,
+        "Job": "",
+        "Company": "Not specified",
+        "Requirement": "Not specified",
+        "Rewards": {
+            "Gil": 606,
+            "Exp": null,
+            "ItemsMand": [],
+            "ItemsOpt": []
+        },
+        "Infos": {
+            "PrevQuests": [
+                {
+                    "Name": "Free Trade",
+                    "Url": "/lodestone/playguide/db/quest/51198a1dd76/",
+                    "Area": "Amh Araeng",
+                    "Level": "76"
+                }
+            ]
+        },
+        "Seq": 15,
+        "oldID": 69023,
+        "Map": {
+            "ID": 493
+        }
+    },
+    {
+        "ID": "42286b3b234",
+        "Name": " Thy Well Be Done",
+        "Location": "Amh Araeng",
+        "Level": 70,
+        "JournalSection": 3,
+        "JournalCategory": 52,
+        "JournalGenre": "Amh Araeng Sidequests",
+        "Url": "/lodestone/playguide/db/quest/42286b3b234/",
+        "Image": null,
+        "Icon": "common_normal",
+        "Issuer": "Intrepid Miner",
+        "StartLocation": {
+            "Name": "Amh Araeng",
+            "X": "16.0",
+            "Y": "29.7"
+        },
+        "StartClass": null,
+        "Job": "",
+        "Company": "Not specified",
+        "Requirement": "Not specified",
+        "Rewards": {
+            "Gil": 606,
+            "Exp": null,
+            "ItemsMand": [],
+            "ItemsOpt": []
+        },
+        "Infos": {
+            "PrevQuests": [
+                {
+                    "Name": "A Fresh Start",
+                    "Url": "/lodestone/playguide/db/quest/dd9cc07fd61/",
+                    "Area": "Amh Araeng",
+                    "Level": "77"
+                }
+            ]
+        },
+        "Seq": 44,
+        "oldID": 69067,
+        "Map": {
+            "ID": 493
+        }
+    },
+    {
+        "ID": "430fe550ada",
+        "Name": " Taken Down a Peck or Two",
+        "Location": "Amh Araeng",
+        "Level": 70,
+        "JournalSection": 3,
+        "JournalCategory": 52,
+        "JournalGenre": "Amh Araeng Sidequests",
+        "Url": "/lodestone/playguide/db/quest/430fe550ada/",
+        "Image": null,
+        "Icon": "common_normal",
+        "Issuer": "Dalric",
+        "StartLocation": {
+            "Name": "Amh Araeng",
+            "X": "11.7",
+            "Y": "17.6"
+        },
+        "StartClass": null,
+        "Job": "",
+        "Company": "Not specified",
+        "Requirement": "Not specified",
+        "Rewards": {
+            "Gil": 759,
+            "Exp": null,
+            "ItemsMand": [],
+            "ItemsOpt": []
+        },
+        "Infos": {
+            "PrevQuests": [
+                {
+                    "Name": " The Yolk's on You",
+                    "Url": "/lodestone/playguide/db/quest/78baadd6fa7/",
+                    "Area": "Amh Araeng",
+                    "Level": "70"
+                }
+            ]
+        },
+        "Seq": 35,
+        "oldID": 69043,
+        "Map": {
+            "ID": 493
+        }
+    },
+    {
+        "ID": "43ea8a4c7a3",
+        "Name": " Worm Food",
+        "Location": "Amh Araeng",
+        "Level": 70,
+        "JournalSection": 3,
+        "JournalCategory": 52,
+        "JournalGenre": "Amh Araeng Sidequests",
+        "Url": "/lodestone/playguide/db/quest/43ea8a4c7a3/",
+        "Image": null,
+        "Icon": "common_normal",
+        "Issuer": "Flea-bitten Scavenger",
+        "StartLocation": {
+            "Name": "Amh Araeng",
+            "X": "27.5",
+            "Y": "17.1"
+        },
+        "StartClass": null,
+        "Job": "",
+        "Company": "Not specified",
+        "Requirement": "Not specified",
+        "Rewards": {
+            "Gil": 825,
+            "Exp": null,
+            "ItemsMand": [],
+            "ItemsOpt": []
+        },
+        "Infos": {
+            "PrevQuests": [
+                {
+                    "Name": "City of the Mord",
+                    "Url": "/lodestone/playguide/db/quest/440ec78367a/",
+                    "Area": "Amh Araeng",
+                    "Level": "70"
+                }
+            ],
+            "NextQuests": [
+                {
+                    "Name": "Flea-bitten Scavenger",
+                    "Url": "/lodestone/playguide/db/npc/npc/d986268806e/",
+                    "Area": "Amh Araeng (X:28.8 Y:18.5)"
+                },
+                {
+                    "Name": "Flea-bitten Scavenger",
+                    "Url": "/lodestone/playguide/db/npc/npc/394f998f272/",
+                    "Area": "Amh Araeng (X:25.3 Y:15.9)"
+                },
+                {
+                    "Name": "Thil Til",
+                    "Url": "/lodestone/playguide/db/npc/npc/894e42b78ac/",
+                    "Area": "Amh Araeng (X:25.2 Y:15.9)"
+                }
+            ]
+        },
+        "Seq": 14,
+        "oldID": 68897,
+        "Map": {
+            "ID": 493
+        }
+    },
+    {
+        "ID": "447ca68ffab",
+        "Name": " A Tab in the Dark",
+        "Location": "Amh Araeng",
+        "Level": 70,
+        "JournalSection": 3,
+        "JournalCategory": 52,
+        "JournalGenre": "Amh Araeng Sidequests",
+        "Url": "/lodestone/playguide/db/quest/447ca68ffab/",
+        "Image": null,
+        "Icon": "common_normal",
+        "Issuer": "Hapless Miner",
+        "StartLocation": {
+            "Name": "Amh Araeng",
+            "X": "11.2",
+            "Y": "16.3"
+        },
+        "StartClass": null,
+        "Job": "",
+        "Company": "Not specified",
+        "Requirement": "Not specified",
+        "Rewards": {
+            "Gil": 679,
+            "Exp": null,
+            "ItemsMand": [],
+            "ItemsOpt": []
+        },
+        "Infos": {
+            "PrevQuests": [
+                {
+                    "Name": "On Track",
+                    "Url": "/lodestone/playguide/db/quest/7177aa07e51/",
+                    "Area": "Amh Araeng",
+                    "Level": "76"
+                }
+            ],
+            "NextQuests": [
+                {
+                    "Name": "Twine Barkeep",
+                    "Url": "/lodestone/playguide/db/npc/npc/0b066bb498a/",
+                    "Area": "Amh Araeng (X:11.2 Y:16.3)"
+                }
+            ]
+        },
+        "Seq": 25,
+        "oldID": 69033,
+        "Map": {
+            "ID": 493
+        }
+    },
+    {
+        "ID": "52e98fb9ba4",
+        "Name": " Big Sister Is Watching You",
+        "Location": "Amh Araeng",
+        "Level": 70,
+        "JournalSection": 3,
+        "JournalCategory": 52,
+        "JournalGenre": "Amh Araeng Sidequests",
+        "Url": "/lodestone/playguide/db/quest/52e98fb9ba4/",
+        "Image": null,
+        "Icon": "common_normal",
+        "Issuer": "Annine",
+        "StartLocation": {
+            "Name": "Amh Araeng",
+            "X": "11.0",
+            "Y": "15.9"
+        },
+        "StartClass": null,
+        "Job": "",
+        "Company": "Not specified",
+        "Requirement": "Not specified",
+        "Rewards": {
+            "Gil": 679,
+            "Exp": null,
+            "ItemsMand": [
+                {
+                    "Icon": "https://img.finalfantasyxiv.com/lds/pc/global/images/itemicon/f3/f357ea7ae8d550e78704823b64f7e5d104e16e2f.png?n5.5",
+                    "Name": "Titanbronze Earring Coffer",
+                    "Amount": 1,
+                    "Url": "/lodestone/playguide/db/item/5deec18b4f2/"
+                }
+            ],
+            "ItemsOpt": []
+        },
+        "Infos": {
+            "PrevQuests": [
+                {
+                    "Name": "The Truth Hurts",
+                    "Url": "/lodestone/playguide/db/quest/df6973bf38b/",
+                    "Area": "Amh Araeng",
+                    "Level": "76"
+                }
+            ],
+            "NextQuests": [
+                {
+                    "Name": " The Brother Lode",
+                    "Url": "/lodestone/playguide/db/quest/35bc51561a2/",
+                    "Area": "Amh Araeng",
+                    "Level": "70"
+                }
+            ],
+            "NPCs": [
+                {
+                    "Name": "Stocky Miner",
+                    "Url": "/lodestone/playguide/db/npc/npc/eb1e1e99bac/",
+                    "Area": "Amh Araeng (X:21.3 Y:11.0)"
+                },
+                {
+                    "Name": "Stout Miner",
+                    "Url": "/lodestone/playguide/db/npc/npc/5a06c9be4fc/",
+                    "Area": "Amh Araeng (X:21.5 Y:8.8)"
+                },
+                {
+                    "Name": "Stout Miner",
+                    "Url": "/lodestone/playguide/db/npc/npc/8673adfba41/",
+                    "Area": "Amh Araeng (X:21.3 Y:11.0)"
+                }
+            ]
+        },
+        "Seq": 27,
+        "oldID": 69035,
+        "Map": {
+            "ID": 493
+        }
+    },
+    {
+        "ID": "54f2940b112",
+        "Name": " Church Warrant",
+        "Location": "Amh Araeng",
+        "Level": 70,
+        "JournalSection": 3,
+        "JournalCategory": 52,
+        "JournalGenre": "Amh Araeng Sidequests",
+        "Url": "/lodestone/playguide/db/quest/54f2940b112/",
+        "Image": null,
+        "Icon": "common_normal",
+        "Issuer": "Tofrith",
+        "StartLocation": {
+            "Name": "Amh Araeng",
+            "X": "11.6",
+            "Y": "17.5"
+        },
+        "StartClass": null,
+        "Job": "",
+        "Company": "Not specified",
+        "Requirement": "Not specified",
+        "Rewards": {
+            "Gil": 832,
+            "Exp": null,
+            "ItemsMand": [],
+            "ItemsOpt": []
+        },
+        "Infos": {
+            "PrevQuests": [
+                {
+                    "Name": "On Track",
+                    "Url": "/lodestone/playguide/db/quest/7177aa07e51/",
+                    "Area": "Amh Araeng",
+                    "Level": "76"
+                }
+            ],
+            "NextQuests": [
+                {
+                    "Name": "Traveling Historian",
+                    "Url": "/lodestone/playguide/db/npc/npc/60e8b1de1e9/",
+                    "Area": "Amh Araeng (X:19.4 Y:21.4)"
+                }
+            ]
+        },
+        "Seq": 30,
+        "oldID": 69038,
+        "Map": {
+            "ID": 493
+        }
+    },
+    {
+        "ID": "574c74a1384",
+        "Name": " Flower for a Friend",
+        "Location": "Amh Araeng",
+        "Level": 70,
+        "JournalSection": 3,
+        "JournalCategory": 52,
+        "JournalGenre": "Amh Araeng Sidequests",
+        "Url": "/lodestone/playguide/db/quest/574c74a1384/",
+        "Image": null,
+        "Icon": "common_normal",
+        "Issuer": "Taciturn Miner",
+        "StartLocation": {
+            "Name": "Amh Araeng",
+            "X": "11.1",
+            "Y": "16.7"
+        },
+        "StartClass": null,
+        "Job": "",
+        "Company": "Not specified",
+        "Requirement": "Not specified",
+        "Rewards": {
+            "Gil": 832,
+            "Exp": null,
+            "ItemsMand": [],
+            "ItemsOpt": []
+        },
+        "Infos": {
+            "PrevQuests": [
+                {
+                    "Name": "On Track",
+                    "Url": "/lodestone/playguide/db/quest/7177aa07e51/",
+                    "Area": "Amh Araeng",
+                    "Level": "76"
+                }
+            ],
+            "NextQuests": [
+                {
+                    "Name": "Taciturn Miner",
+                    "Url": "/lodestone/playguide/db/npc/npc/93d93fa5f49/",
+                    "Area": "Amh Araeng (X:17.8 Y:14.9)"
+                }
+            ]
+        },
+        "Seq": 29,
+        "oldID": 69037,
+        "Map": {
+            "ID": 493
+        }
+    },
+    {
+        "ID": "574dfd30b2a",
+        "Name": " A Shiver Down the Spine",
+        "Location": "Amh Araeng",
+        "Level": 70,
+        "JournalSection": 3,
+        "JournalCategory": 52,
+        "JournalGenre": "Amh Araeng Sidequests",
+        "Url": "/lodestone/playguide/db/quest/574dfd30b2a/",
+        "Image": null,
+        "Icon": "common_normal",
+        "Issuer": "Skittish Mord",
+        "StartLocation": {
+            "Name": "Amh Araeng",
+            "X": "27.8",
+            "Y": "15.5"
+        },
+        "StartClass": null,
+        "Job": "",
+        "Company": "Not specified",
+        "Requirement": "Not specified",
+        "Rewards": {
+            "Gil": 679,
+            "Exp": null,
+            "ItemsMand": [],
+            "ItemsOpt": []
+        },
+        "Infos": {
+            "PrevQuests": [
+                {
+                    "Name": "City of the Mord",
+                    "Url": "/lodestone/playguide/db/quest/440ec78367a/",
+                    "Area": "Amh Araeng",
+                    "Level": "70"
+                }
+            ],
+            "NextQuests": [
+                {
+                    "Name": "Foolhardy Mord",
+                    "Url": "/lodestone/playguide/db/npc/npc/d7bcd7bba66/",
+                    "Area": "Amh Araeng (X:30.4 Y:14.8)"
+                },
+                {
+                    "Name": "Foolhardy Mord",
+                    "Url": "/lodestone/playguide/db/npc/npc/bb720c18f44/",
+                    "Area": "Amh Araeng (X:27.8 Y:15.5)"
+                },
+                {
+                    "Name": "Irrational Mord",
+                    "Url": "/lodestone/playguide/db/npc/npc/2b25ca1b85e/",
+                    "Area": "Amh Araeng (X:30.4 Y:14.7)"
+                },
+                {
+                    "Name": "Irrational Mord",
+                    "Url": "/lodestone/playguide/db/npc/npc/f4762e0431f/",
+                    "Area": "Amh Araeng (X:27.8 Y:15.6)"
+                }
+            ]
+        },
+        "Seq": 4,
+        "oldID": 68901,
+        "Map": {
+            "ID": 493
+        }
+    },
+    {
+        "ID": "5d3b25d6f7f",
+        "Name": " Mord of the Ring",
+        "Location": "Amh Araeng",
+        "Level": 70,
+        "JournalSection": 3,
+        "JournalCategory": 52,
+        "JournalGenre": "Amh Araeng Sidequests",
+        "Url": "/lodestone/playguide/db/quest/5d3b25d6f7f/",
+        "Image": "https://img.finalfantasyxiv.com/lds/pc/global/images/itemicon/23/2398733e2969cf3bf171b160027171c2b6dc4aac.png?n5.5",
+        "Icon": "common_normal",
+        "Issuer": "Ghun Gun",
+        "StartLocation": {
+            "Name": "Amh Araeng",
+            "X": "33.0",
+            "Y": "7.7"
+        },
+        "StartClass": null,
+        "Job": "",
+        "Company": "Not specified",
+        "Requirement": "Not specified",
+        "Rewards": {
+            "Gil": 888,
+            "Exp": null,
+            "ItemsMand": [],
+            "ItemsOpt": []
+        },
+        "Infos": {
+            "PrevQuests": [
+                {
+                    "Name": " Work to Live or Live to Work",
+                    "Url": "/lodestone/playguide/db/quest/7eb968e66cc/",
+                    "Area": "Amh Araeng",
+                    "Level": "70"
+                }
+            ],
+            "NextQuests": [
+                {
+                    "Name": " Nabaath Breakdown",
+                    "Url": "/lodestone/playguide/db/quest/67167cdf55a/",
+                    "Area": "Amh Araeng",
+                    "Level": "70"
+                }
+            ],
+            "NPCs": [
+                {
+                    "Name": "Antiquities Dealer",
+                    "Url": "/lodestone/playguide/db/npc/npc/367a0311414/",
+                    "Area": "Amh Araeng (X:27.5 Y:18.1)"
+                },
+                {
+                    "Name": "Ghun Gun",
+                    "Url": "/lodestone/playguide/db/npc/npc/45fbc0e5e94/",
+                    "Area": "Amh Araeng (X:27.4 Y:16.1)"
+                },
+                {
+                    "Name": "Ghun Gun",
+                    "Url": "/lodestone/playguide/db/npc/npc/ded507f4645/",
+                    "Area": "Amh Araeng (X:25.9 Y:15.9)"
+                },
+                {
+                    "Name": "Ghun Gun",
+                    "Url": "/lodestone/playguide/db/npc/npc/abc8e76c28b/",
+                    "Area": "Amh Araeng (X:27.5 Y:18.0)"
+                },
+                {
+                    "Name": "Ghun Gun",
+                    "Url": "/lodestone/playguide/db/npc/npc/bdb2a8cbdaf/",
+                    "Area": "Amh Araeng (X:25.3 Y:17.8)"
+                },
+                {
+                    "Name": "Jamial",
+                    "Url": "/lodestone/playguide/db/npc/npc/433c7a01bde/",
+                    "Area": "Amh Araeng (X:25.2 Y:17.9)"
+                },
+                {
+                    "Name": "Scrupulous Trader",
+                    "Url": "/lodestone/playguide/db/npc/npc/d8e69c2494d/",
+                    "Area": "Amh Araeng (X:25.9 Y:15.8)"
+                }
+            ]
+        },
+        "Seq": 11,
+        "oldID": 68912,
+        "Map": {
+            "ID": 493
+        }
+    },
+    {
+        "ID": "5d489ad1d1f",
+        "Name": " Oil Be Back",
+        "Location": "Amh Araeng",
+        "Level": 70,
+        "JournalSection": 3,
+        "JournalCategory": 52,
+        "JournalGenre": "Amh Araeng Sidequests",
+        "Url": "/lodestone/playguide/db/quest/5d489ad1d1f/",
+        "Image": null,
+        "Icon": "common_normal",
+        "Issuer": "Hilmar",
+        "StartLocation": {
+            "Name": "Amh Araeng",
+            "X": "14.3",
+            "Y": "23.2"
+        },
+        "StartClass": null,
+        "Job": "",
+        "Company": "Not specified",
+        "Requirement": "Not specified",
+        "Rewards": {
+            "Gil": 606,
+            "Exp": null,
+            "ItemsMand": [],
+            "ItemsOpt": []
+        },
+        "Infos": {
+            "PrevQuests": [
+                {
+                    "Name": " Charmless Man",
+                    "Url": "/lodestone/playguide/db/quest/9fafc766718/",
+                    "Area": "Amh Araeng",
+                    "Level": "70"
+                }
+            ],
+            "NextQuests": [
+                {
+                    "Name": " The Piping of the Dead",
+                    "Url": "/lodestone/playguide/db/quest/fee304c252e/",
+                    "Area": "Amh Araeng",
+                    "Level": "70"
+                }
+            ]
+        },
+        "Seq": 40,
+        "oldID": 69048,
+        "Map": {
+            "ID": 493
+        }
+    },
+    {
+        "ID": "5f7a1c47f05",
+        "Name": " A Vein Pursuit",
+        "Location": "Amh Araeng",
+        "Level": 70,
+        "JournalSection": 3,
+        "JournalCategory": 52,
+        "JournalGenre": "Amh Araeng Sidequests",
+        "Url": "/lodestone/playguide/db/quest/5f7a1c47f05/",
+        "Image": "https://img.finalfantasyxiv.com/lds/pc/global/images/itemicon/dd/dde1d30404494006b10d5f8e3989901d308bf826.png?n5.5",
+        "Icon": "function_normal",
+        "Issuer": "Horthur",
+        "StartLocation": {
+            "Name": "Amh Araeng",
+            "X": "11.3",
+            "Y": "17.5"
+        },
+        "StartClass": null,
+        "Job": "",
+        "Company": "Not specified",
+        "Requirement": "Not specified",
+        "Rewards": {
+            "Gil": 715,
+            "Exp": null,
+            "ItemsMand": [
+                {
+                    "Icon": "https://img.finalfantasyxiv.com/lds/pc/global/images/itemicon/af/af26e4b79fb1de83550f6ddbd3a170408fcfe702.png?n5.5",
+                    "Name": "",
+                    "Amount": null
+                }
+            ],
+            "ItemsOpt": []
+        },
+        "Infos": {
+            "PrevQuests": [
+                {
+                    "Name": "A Dirty Job",
+                    "Url": "/lodestone/playguide/db/quest/3e3cbd7ec79/",
+                    "Area": "Amh Araeng",
+                    "Level": "77"
+                }
+            ],
+            "NextQuests": [
+                {
+                    "Name": " Tunnel Vision",
+                    "Url": "/lodestone/playguide/db/quest/1bd037903b3/",
+                    "Area": "Amh Araeng",
+                    "Level": "70"
+                }
+            ],
+            "NPCs": [
+                {
+                    "Name": "Kee-Satt",
+                    "Url": "/lodestone/playguide/db/npc/npc/b0b390b9b14/",
+                    "Area": "Amh Araeng (X:11.9 Y:25.3)"
+                },
+                {
+                    "Name": "Kee-Satt",
+                    "Url": "/lodestone/playguide/db/npc/npc/0d2a29591e9/",
+                    "Area": "Amh Araeng (X:12.1 Y:16.0)"
+                }
+            ]
+        },
+        "Seq": 46,
+        "oldID": 69061,
+        "Map": {
+            "ID": 493
+        }
+    },
+    {
+        "ID": "67167cdf55a",
+        "Name": " Nabaath Breakdown",
+        "Location": "Amh Araeng",
+        "Level": 70,
+        "JournalSection": 3,
+        "JournalCategory": 52,
+        "JournalGenre": "Amh Araeng Sidequests",
+        "Url": "/lodestone/playguide/db/quest/67167cdf55a/",
+        "Image": "https://img.finalfantasyxiv.com/lds/pc/global/images/itemicon/23/2398733e2969cf3bf171b160027171c2b6dc4aac.png?n5.5",
+        "Icon": "common_normal",
+        "Issuer": "Ghun Gun",
+        "StartLocation": {
+            "Name": "Amh Araeng",
+            "X": "25.3",
+            "Y": "17.8"
+        },
+        "StartClass": null,
+        "Job": "",
+        "Company": "Not specified",
+        "Requirement": "Not specified",
+        "Rewards": {
+            "Gil": 1017,
+            "Exp": null,
+            "ItemsMand": [],
+            "ItemsOpt": []
+        },
+        "Infos": {
+            "PrevQuests": [
+                {
+                    "Name": " Mord of the Ring",
+                    "Url": "/lodestone/playguide/db/quest/5d3b25d6f7f/",
+                    "Area": "Amh Araeng",
+                    "Level": "70"
+                }
+            ],
+            "NextQuests": [
+                {
+                    "Name": " Semi Auto-malik",
+                    "Url": "/lodestone/playguide/db/quest/344b5797e45/",
+                    "Area": "Amh Araeng",
+                    "Level": "70"
+                }
+            ],
+            "NPCs": [
+                {
+                    "Name": "Ghun Gun",
+                    "Url": "/lodestone/playguide/db/npc/npc/f49baa9405a/",
+                    "Area": "Amh Araeng (X:32.3 Y:26.5)"
+                },
+                {
+                    "Name": "Ghun Gun",
+                    "Url": "/lodestone/playguide/db/npc/npc/c0c945e7487/",
+                    "Area": "Amh Araeng (X:32.3 Y:30.3)"
+                },
+                {
+                    "Name": "Jamial",
+                    "Url": "/lodestone/playguide/db/npc/npc/433c7a01bde/",
+                    "Area": "Amh Araeng (X:25.2 Y:17.9)"
+                },
+                {
+                    "Name": "Jamial",
+                    "Url": "/lodestone/playguide/db/npc/npc/d931138453d/",
+                    "Area": "Amh Araeng (X:32.3 Y:26.6)"
+                },
+                {
+                    "Name": "Jamial",
+                    "Url": "/lodestone/playguide/db/npc/npc/1b76ca3df87/",
+                    "Area": "Amh Araeng (X:32.2 Y:30.3)"
+                }
+            ]
+        },
+        "Seq": 12,
+        "oldID": 68913,
+        "Map": {
+            "ID": 493
+        }
+    },
+    {
+        "ID": "67e666adf69",
+        "Name": " Worm in the Ointment",
+        "Location": "Amh Araeng",
+        "Level": 70,
+        "JournalSection": 3,
+        "JournalCategory": 52,
+        "JournalGenre": "Amh Araeng Sidequests",
+        "Url": "/lodestone/playguide/db/quest/67e666adf69/",
+        "Image": null,
+        "Icon": "common_normal",
+        "Issuer": "Seasoned Scavenger",
+        "StartLocation": {
+            "Name": "Amh Araeng",
+            "X": "21.7",
+            "Y": "24.8"
+        },
+        "StartClass": null,
+        "Job": "",
+        "Company": "Not specified",
+        "Requirement": "Not specified",
+        "Rewards": {
+            "Gil": 832,
+            "Exp": null,
+            "ItemsMand": [],
+            "ItemsOpt": [
+                {
+                    "Icon": "https://img.finalfantasyxiv.com/lds/pc/global/images/itemicon/2c/2c54e432fad3e96bce93e5d274197d3f654112de.png?n5.5",
+                    "Name": "Sausage Links",
+                    "Amount": 2,
+                    "Url": "/lodestone/playguide/db/item/e43ba98fe38/"
+                },
+                {
+                    "Icon": "https://img.finalfantasyxiv.com/lds/pc/global/images/itemicon/26/264d0e5862be8b2d176bad80e4821427a07b40ea.png?n5.5",
+                    "Name": "Roast Ovim",
+                    "Amount": 2,
+                    "Url": "/lodestone/playguide/db/item/25e13d314ce/"
+                },
+                {
+                    "Icon": "https://img.finalfantasyxiv.com/lds/pc/global/images/itemicon/ef/ef0702346009dbf9d96987361b7b43ef96c902eb.png?n5.5",
+                    "Name": "Mushroom Skewer",
+                    "Amount": 2,
+                    "Url": "/lodestone/playguide/db/item/928aab4790b/"
+                },
+                {
+                    "Icon": "https://img.finalfantasyxiv.com/lds/pc/global/images/itemicon/80/80d3c7c05337d7d1c31977a47984269e2c415c02.png?n5.5",
+                    "Name": "Baked Megapiranha",
+                    "Amount": 2,
+                    "Url": "/lodestone/playguide/db/item/1979a9a6320/"
+                },
+                {
+                    "Icon": "https://img.finalfantasyxiv.com/lds/pc/global/images/itemicon/ba/baa2341dd17414fae7fd62ae7bc62c64589b67be.png?n5.5",
+                    "Name": "Nightworld Silver Piece",
+                    "Amount": 3,
+                    "Url": "/lodestone/playguide/db/item/50ed823230e/"
+                }
+            ]
+        },
+        "Infos": {
+            "PrevQuests": [
+                {
+                    "Name": " Town Haul",
+                    "Url": "/lodestone/playguide/db/quest/9110d3a0e78/",
+                    "Area": "Amh Araeng",
+                    "Level": "70"
+                }
+            ],
+            "NextQuests": [
+                {
+                    "Name": "Fledgling Scavenger",
+                    "Url": "/lodestone/playguide/db/npc/npc/0b081dd746b/",
+                    "Area": "Amh Araeng (X:21.7 Y:24.9)"
+                },
+                {
+                    "Name": "Fledgling Scavenger",
+                    "Url": "/lodestone/playguide/db/npc/npc/ab4f74ad60d/",
+                    "Area": "Amh Araeng (X:13.0 Y:16.9)"
+                },
+                {
+                    "Name": "Quick-witted Scavenger",
+                    "Url": "/lodestone/playguide/db/npc/npc/6c2f0c78b09/",
+                    "Area": "Amh Araeng (X:12.9 Y:16.9)"
+                },
+                {
+                    "Name": "Seasoned Scavenger",
+                    "Url": "/lodestone/playguide/db/npc/npc/96f031f6386/",
+                    "Area": "Amh Araeng (X:13.0 Y:16.9)"
+                }
+            ]
+        },
+        "Seq": 33,
+        "oldID": 69041,
+        "Map": {
+            "ID": 493
+        }
+    },
+    {
+        "ID": "73131617532",
+        "Name": " Prankster's Paradise",
+        "Location": "Amh Araeng",
+        "Level": 70,
+        "JournalSection": 3,
+        "JournalCategory": 52,
+        "JournalGenre": "Amh Araeng Sidequests",
+        "Url": "/lodestone/playguide/db/quest/73131617532/",
+        "Image": null,
+        "Icon": "common_normal",
+        "Issuer": "Shifty-eyed Miner",
+        "StartLocation": {
+            "Name": "Amh Araeng",
+            "X": "12.2",
+            "Y": "16.3"
+        },
+        "StartClass": null,
+        "Job": "",
+        "Company": "Not specified",
+        "Requirement": "Not specified",
+        "Rewards": {
+            "Gil": 905,
+            "Exp": null,
+            "ItemsMand": [],
+            "ItemsOpt": []
+        },
+        "Infos": {
+            "PrevQuests": [
+                {
+                    "Name": "On Track",
+                    "Url": "/lodestone/playguide/db/quest/7177aa07e51/",
+                    "Area": "Amh Araeng",
+                    "Level": "76"
+                }
+            ],
+            "NextQuests": [
+                {
+                    "Name": "Crystarium Merchant",
+                    "Url": "/lodestone/playguide/db/npc/npc/338dae0d8dc/",
+                    "Area": "Amh Araeng (X:16.8 Y:16.5)"
+                }
+            ]
+        },
+        "Seq": 24,
+        "oldID": 69032,
+        "Map": {
+            "ID": 493
+        }
+    },
+    {
+        "ID": "78baadd6fa7",
+        "Name": " The Yolk's on You",
+        "Location": "Amh Araeng",
+        "Level": 70,
+        "JournalSection": 3,
+        "JournalCategory": 52,
+        "JournalGenre": "Amh Araeng Sidequests",
+        "Url": "/lodestone/playguide/db/quest/78baadd6fa7/",
+        "Image": null,
+        "Icon": "common_normal",
+        "Issuer": "Dalric",
+        "StartLocation": {
+            "Name": "Amh Araeng",
+            "X": "11.7",
+            "Y": "17.6"
+        },
+        "StartClass": null,
+        "Job": "",
+        "Company": "Not specified",
+        "Requirement": "Not specified",
+        "Rewards": {
+            "Gil": 679,
+            "Exp": null,
+            "ItemsMand": [
+                {
+                    "Icon": "https://img.finalfantasyxiv.com/lds/pc/global/images/itemicon/e3/e37fdec0415b0585949d8355ae92379da2a0c37d.png?n5.5",
+                    "Name": "Titanbronze Ring Coffer",
+                    "Amount": 1,
+                    "Url": "/lodestone/playguide/db/item/8ecc7580318/"
+                }
+            ],
+            "ItemsOpt": []
+        },
+        "Infos": {
+            "PrevQuests": [
+                {
+                    "Name": "On Track",
+                    "Url": "/lodestone/playguide/db/quest/7177aa07e51/",
+                    "Area": "Amh Araeng",
+                    "Level": "76"
+                }
+            ],
+            "NextQuests": [
+                {
+                    "Name": " Taken Down a Peck or Two",
+                    "Url": "/lodestone/playguide/db/quest/430fe550ada/",
+                    "Area": "Amh Araeng",
+                    "Level": "70"
+                }
+            ],
+            "NPCs": [
+                {
+                    "Name": "Warehouse Custodian",
+                    "Url": "/lodestone/playguide/db/npc/npc/07f861729d0/",
+                    "Area": "Amh Araeng (X:11.7 Y:17.6)"
+                }
+            ]
+        },
+        "Seq": 34,
+        "oldID": 69042,
+        "Map": {
+            "ID": 493
+        }
+    },
+    {
+        "ID": "78f18fdcc8d",
+        "Name": " Where There's a Well, There's a Way",
+        "Location": "Amh Araeng",
+        "Level": 70,
+        "JournalSection": 3,
+        "JournalCategory": 52,
+        "JournalGenre": "Amh Araeng Sidequests",
+        "Url": "/lodestone/playguide/db/quest/78f18fdcc8d/",
+        "Image": null,
+        "Icon": "common_normal",
+        "Issuer": "Dusty Merchant",
+        "StartLocation": {
+            "Name": "Amh Araeng",
+            "X": "14.2",
+            "Y": "8.3"
+        },
+        "StartClass": null,
+        "Job": "",
+        "Company": "Not specified",
+        "Requirement": "Not specified",
+        "Rewards": {
+            "Gil": 752,
+            "Exp": null,
+            "ItemsMand": [
+                {
+                    "Icon": "https://img.finalfantasyxiv.com/lds/pc/global/images/itemicon/5f/5f81fc943503b956667de93751bb06886e8e752d.png?n5.5",
+                    "Name": "Titanbronze Waist Gear Coffer",
+                    "Amount": 1,
+                    "Url": "/lodestone/playguide/db/item/ecf65f2ae3e/"
+                }
+            ],
+            "ItemsOpt": []
+        },
+        "Infos": {
+            "PrevQuests": [
+                {
+                    "Name": "Free Trade",
+                    "Url": "/lodestone/playguide/db/quest/51198a1dd76/",
+                    "Area": "Amh Araeng",
+                    "Level": "76"
+                }
+            ],
+            "NextQuests": [
+                {
+                    "Name": "Ghil Gil",
+                    "Url": "/lodestone/playguide/db/npc/npc/5e4dcfac0df/",
+                    "Area": "Amh Araeng (X:13.5 Y:10.1)"
+                }
+            ]
+        },
+        "Seq": 14,
+        "oldID": 69022,
+        "Map": {
+            "ID": 493
+        }
+    },
+    {
+        "ID": "7eb968e66cc",
+        "Name": " Work to Live or Live to Work",
+        "Location": "Amh Araeng",
+        "Level": 70,
+        "JournalSection": 3,
+        "JournalCategory": 52,
+        "JournalGenre": "Amh Araeng Sidequests",
+        "Url": "/lodestone/playguide/db/quest/7eb968e66cc/",
+        "Image": "https://img.finalfantasyxiv.com/lds/pc/global/images/itemicon/23/2398733e2969cf3bf171b160027171c2b6dc4aac.png?n5.5",
+        "Icon": "function_normal",
+        "Issuer": "Ghen Gen",
+        "StartLocation": {
+            "Name": "Amh Araeng",
+            "X": "26.8",
+            "Y": "18.5"
+        },
+        "StartClass": null,
+        "Job": "",
+        "Company": "Not specified",
+        "Requirement": "Not specified",
+        "Rewards": {
+            "Gil": 715,
+            "Exp": null,
+            "ItemsMand": [
+                {
+                    "Icon": "https://img.finalfantasyxiv.com/lds/pc/global/images/itemicon/af/af26e4b79fb1de83550f6ddbd3a170408fcfe702.png?n5.5",
+                    "Name": "",
+                    "Amount": null
+                }
+            ],
+            "ItemsOpt": []
+        },
+        "Infos": {
+            "PrevQuests": [
+                {
+                    "Name": "Working Off the Meal",
+                    "Url": "/lodestone/playguide/db/quest/6c01c286812/",
+                    "Area": "Amh Araeng",
+                    "Level": "70"
+                }
+            ],
+            "NextQuests": [
+                {
+                    "Name": " Mord of the Ring",
+                    "Url": "/lodestone/playguide/db/quest/5d3b25d6f7f/",
+                    "Area": "Amh Araeng",
+                    "Level": "70"
+                }
+            ],
+            "NPCs": [
+                {
+                    "Name": "Ghun Gun",
+                    "Url": "/lodestone/playguide/db/npc/npc/65c0d029d1b/",
+                    "Area": "Amh Araeng (X:33.0 Y:7.7)"
+                }
+            ]
+        },
+        "Seq": 10,
+        "oldID": 68911,
+        "Map": {
+            "ID": 493
+        }
+    },
+    {
+        "ID": "7f085d3f7d1",
+        "Name": " The Most Succulent of Succulents",
+        "Location": "Amh Araeng",
+        "Level": 70,
+        "JournalSection": 3,
+        "JournalCategory": 52,
+        "JournalGenre": "Amh Araeng Sidequests",
+        "Url": "/lodestone/playguide/db/quest/7f085d3f7d1/",
+        "Image": null,
+        "Icon": "common_normal",
+        "Issuer": "Bhil Bil",
+        "StartLocation": {
+            "Name": "Amh Araeng",
+            "X": "27.8",
+            "Y": "18.0"
+        },
+        "StartClass": null,
+        "Job": "",
+        "Company": "Not specified",
+        "Requirement": "Not specified",
+        "Rewards": {
+            "Gil": 606,
+            "Exp": null,
+            "ItemsMand": [],
+            "ItemsOpt": []
+        },
+        "Infos": {
+            "PrevQuests": [
+                {
+                    "Name": "City of the Mord",
+                    "Url": "/lodestone/playguide/db/quest/440ec78367a/",
+                    "Area": "Amh Araeng",
+                    "Level": "70"
+                }
+            ]
+        },
+        "Seq": 1,
+        "oldID": 68898,
+        "Map": {
+            "ID": 493
+        }
+    },
+    {
+        "ID": "88e5753ffe7",
+        "Name": " Like a Tonze of Bricks",
+        "Location": "Amh Araeng",
+        "Level": 70,
+        "JournalSection": 3,
+        "JournalCategory": 52,
+        "JournalGenre": "Amh Araeng Sidequests",
+        "Url": "/lodestone/playguide/db/quest/88e5753ffe7/",
+        "Image": null,
+        "Icon": "common_normal",
+        "Issuer": "Willfort",
+        "StartLocation": {
+            "Name": "Amh Araeng",
+            "X": "29.0",
+            "Y": "27.9"
+        },
+        "StartClass": null,
+        "Job": "",
+        "Company": "Not specified",
+        "Requirement": "Not specified",
+        "Rewards": {
+            "Gil": 606,
+            "Exp": null,
+            "ItemsMand": [],
+            "ItemsOpt": []
+        },
+        "Infos": {
+            "PrevQuests": [
+                {
+                    "Name": "Culling Their Ranks",
+                    "Url": "/lodestone/playguide/db/quest/0ed164f08a1/",
+                    "Area": "Amh Araeng",
+                    "Level": "70"
+                }
+            ],
+            "NextQuests": [
+                {
+                    "Name": "Belated Porter",
+                    "Url": "/lodestone/playguide/db/npc/npc/8c6d59341ff/",
+                    "Area": "Amh Araeng (X:26.3 Y:30.4)"
+                },
+                {
+                    "Name": "Expectant Mord Merchant",
+                    "Url": "/lodestone/playguide/db/npc/npc/b65b5fdaac3/",
+                    "Area": "Amh Araeng (X:29.0 Y:27.9)"
+                }
+            ]
+        },
+        "Seq": 9,
+        "oldID": 68906,
+        "Map": {
+            "ID": 493
+        }
+    },
+    {
+        "ID": "8b0116218a5",
+        "Name": " From Darts till Dawn",
+        "Location": "Amh Araeng",
+        "Level": 70,
+        "JournalSection": 3,
+        "JournalCategory": 52,
+        "JournalGenre": "Amh Araeng Sidequests",
+        "Url": "/lodestone/playguide/db/quest/8b0116218a5/",
+        "Image": null,
+        "Icon": "common_normal",
+        "Issuer": "Bleary-eyed Guard",
+        "StartLocation": {
+            "Name": "Amh Araeng",
+            "X": "29.0",
+            "Y": "28.2"
+        },
+        "StartClass": null,
+        "Job": "",
+        "Company": "Not specified",
+        "Requirement": "Not specified",
+        "Rewards": {
+            "Gil": 606,
+            "Exp": null,
+            "ItemsMand": [],
+            "ItemsOpt": []
+        },
+        "Infos": {
+            "PrevQuests": [
+                {
+                    "Name": "Culling Their Ranks",
+                    "Url": "/lodestone/playguide/db/quest/0ed164f08a1/",
+                    "Area": "Amh Araeng",
+                    "Level": "70"
+                }
+            ],
+            "NextQuests": [
+                {
+                    "Name": "Bleary-eyed Guard",
+                    "Url": "/lodestone/playguide/db/npc/npc/6b4d8073faf/",
+                    "Area": "Amh Araeng (X:27.4 Y:28.9)"
+                }
+            ]
+        },
+        "Seq": 7,
+        "oldID": 68904,
+        "Map": {
+            "ID": 493
+        }
+    },
+    {
+        "ID": "8eb1fd9b7a1",
+        "Name": " Mystery Miners",
+        "Location": "Amh Araeng",
+        "Level": 70,
+        "JournalSection": 3,
+        "JournalCategory": 52,
+        "JournalGenre": "Amh Araeng Sidequests",
+        "Url": "/lodestone/playguide/db/quest/8eb1fd9b7a1/",
+        "Image": null,
+        "Icon": "common_normal",
+        "Issuer": "Drery",
+        "StartLocation": {
+            "Name": "Amh Araeng",
+            "X": "11.8",
+            "Y": "16.9"
+        },
+        "StartClass": null,
+        "Job": "",
+        "Company": "Not specified",
+        "Requirement": "Not specified",
+        "Rewards": {
+            "Gil": 832,
+            "Exp": null,
+            "ItemsMand": [
+                {
+                    "Icon": "https://img.finalfantasyxiv.com/lds/pc/global/images/itemicon/2c/2c54e432fad3e96bce93e5d274197d3f654112de.png?n5.5",
+                    "Name": "Sausage Links",
+                    "Amount": 2,
+                    "Url": "/lodestone/playguide/db/item/e43ba98fe38/"
+                }
+            ],
+            "ItemsOpt": []
+        },
+        "Infos": {
+            "PrevQuests": [
+                {
+                    "Name": "On Track",
+                    "Url": "/lodestone/playguide/db/quest/7177aa07e51/",
+                    "Area": "Amh Araeng",
+                    "Level": "76"
+                }
+            ]
+        },
+        "Seq": 38,
+        "oldID": 69046,
+        "Map": {
+            "ID": 493
+        }
+    },
+    {
+        "ID": "8f96e96c212",
+        "Name": " Mollycoddled Mord",
+        "Location": "Amh Araeng",
+        "Level": 70,
+        "JournalSection": 3,
+        "JournalCategory": 52,
+        "JournalGenre": "Amh Araeng Sidequests",
+        "Url": "/lodestone/playguide/db/quest/8f96e96c212/",
+        "Image": null,
+        "Icon": "common_normal",
+        "Issuer": "Ghin Gin",
+        "StartLocation": {
+            "Name": "Amh Araeng",
+            "X": "27.9",
+            "Y": "15.9"
+        },
+        "StartClass": null,
+        "Job": "",
+        "Company": "Not specified",
+        "Requirement": "Not specified",
+        "Rewards": {
+            "Gil": 679,
+            "Exp": null,
+            "ItemsMand": [
+                {
+                    "Icon": "https://img.finalfantasyxiv.com/lds/pc/global/images/itemicon/66/66e40643e0b44d9f56e8628395cdf870c5820fe6.png?n5.5",
+                    "Name": "White Oak Necklace Coffer",
+                    "Amount": 1,
+                    "Url": "/lodestone/playguide/db/item/c3d82c2caef/"
+                }
+            ],
+            "ItemsOpt": []
+        },
+        "Infos": {
+            "PrevQuests": [
+                {
+                    "Name": "City of the Mord",
+                    "Url": "/lodestone/playguide/db/quest/440ec78367a/",
+                    "Area": "Amh Araeng",
+                    "Level": "70"
+                }
+            ],
+            "NextQuests": [
+                {
+                    "Name": " I Felt Your Presents",
+                    "Url": "/lodestone/playguide/db/quest/1bf1166dc66/",
+                    "Area": "Amh Araeng",
+                    "Level": "70"
+                }
+            ],
+            "NPCs": [
+                {
+                    "Name": "Thaymoth",
+                    "Url": "/lodestone/playguide/db/npc/npc/a62e1d749f1/",
+                    "Area": "Amh Araeng (X:34.8 Y:8.1)"
+                }
+            ]
+        },
+        "Seq": 2,
+        "oldID": 68899,
+        "Map": {
+            "ID": 493
+        }
+    },
+    {
+        "ID": "8fdc8dabced",
+        "Name": " Pass the Parcel",
+        "Location": "Amh Araeng",
+        "Level": 70,
+        "JournalSection": 3,
+        "JournalCategory": 52,
+        "JournalGenre": "Amh Araeng Sidequests",
+        "Url": "/lodestone/playguide/db/quest/8fdc8dabced/",
+        "Image": null,
+        "Icon": "common_normal",
+        "Issuer": "Poorly Scribed Flyer",
+        "StartLocation": {
+            "Name": "Amh Araeng",
+            "X": "26.7",
+            "Y": "15.9"
+        },
+        "StartClass": null,
+        "Job": "",
+        "Company": "Not specified",
+        "Requirement": "Not specified",
+        "Rewards": {
+            "Gil": 679,
+            "Exp": null,
+            "ItemsMand": [],
+            "ItemsOpt": []
+        },
+        "Infos": {
+            "PrevQuests": [
+                {
+                    "Name": "City of the Mord",
+                    "Url": "/lodestone/playguide/db/quest/440ec78367a/",
+                    "Area": "Amh Araeng",
+                    "Level": "70"
+                }
+            ],
+            "NextQuests": [
+                {
+                    "Name": "Mord Taskmaster",
+                    "Url": "/lodestone/playguide/db/npc/npc/3b22d94bfcc/",
+                    "Area": "Amh Araeng (X:28.1 Y:17.2)"
+                },
+                {
+                    "Name": "Unsavory Mord",
+                    "Url": "/lodestone/playguide/db/npc/npc/d2c62e2a3c5/",
+                    "Area": "Amh Araeng (X:27.5 Y:19.7)"
+                },
+                {
+                    "Name": "Unsavory Mord",
+                    "Url": "/lodestone/playguide/db/npc/npc/07300cc2cab/",
+                    "Area": "Amh Araeng (X:28.2 Y:17.2)"
+                }
+            ]
+        },
+        "Seq": 5,
+        "oldID": 68902,
+        "Map": {
+            "ID": 493
+        }
+    },
+    {
+        "ID": "9110d3a0e78",
+        "Name": " Town Haul",
+        "Location": "Amh Araeng",
+        "Level": 70,
+        "JournalSection": 3,
+        "JournalCategory": 52,
+        "JournalGenre": "Amh Araeng Sidequests",
+        "Url": "/lodestone/playguide/db/quest/9110d3a0e78/",
+        "Image": null,
+        "Icon": "common_normal",
+        "Issuer": "Seasoned Scavenger",
+        "StartLocation": {
+            "Name": "Amh Araeng",
+            "X": "21.7",
+            "Y": "24.8"
+        },
+        "StartClass": null,
+        "Job": "",
+        "Company": "Not specified",
+        "Requirement": "Not specified",
+        "Rewards": {
+            "Gil": 606,
+            "Exp": null,
+            "ItemsMand": [],
+            "ItemsOpt": []
+        },
+        "Infos": {
+            "PrevQuests": [
+                {
+                    "Name": " Scavengers Assemble",
+                    "Url": "/lodestone/playguide/db/quest/fddad1ecd61/",
+                    "Area": "Amh Araeng",
+                    "Level": "70"
+                }
+            ],
+            "NextQuests": [
+                {
+                    "Name": " Worm in the Ointment",
+                    "Url": "/lodestone/playguide/db/quest/67e666adf69/",
+                    "Area": "Amh Araeng",
+                    "Level": "70"
+                }
+            ],
+            "NPCs": [
+                {
+                    "Name": "Fledgling Scavenger",
+                    "Url": "/lodestone/playguide/db/npc/npc/0b081dd746b/",
+                    "Area": "Amh Araeng (X:21.7 Y:24.9)"
+                }
+            ]
+        },
+        "Seq": 32,
+        "oldID": 69040,
+        "Map": {
+            "ID": 493
+        }
+    },
+    {
+        "ID": "97a23315161",
+        "Name": " A Relatively Miner Issue",
+        "Location": "Amh Araeng",
+        "Level": 70,
+        "JournalSection": 3,
+        "JournalCategory": 52,
+        "JournalGenre": "Amh Araeng Sidequests",
+        "Url": "/lodestone/playguide/db/quest/97a23315161/",
+        "Image": null,
+        "Icon": "common_normal",
+        "Issuer": "Hathenstein",
+        "StartLocation": {
+            "Name": "Amh Araeng",
+            "X": "11.4",
+            "Y": "16.6"
+        },
+        "StartClass": null,
+        "Job": "",
+        "Company": "Not specified",
+        "Requirement": "Not specified",
+        "Rewards": {
+            "Gil": 759,
+            "Exp": null,
+            "ItemsMand": [
+                {
+                    "Icon": "https://img.finalfantasyxiv.com/lds/pc/global/images/itemicon/e3/e37fdec0415b0585949d8355ae92379da2a0c37d.png?n5.5",
+                    "Name": "Titanbronze Ring Coffer",
+                    "Amount": 1,
+                    "Url": "/lodestone/playguide/db/item/8ecc7580318/"
+                }
+            ],
+            "ItemsOpt": []
+        },
+        "Infos": {
+            "PrevQuests": [
+                {
+                    "Name": "On Track",
+                    "Url": "/lodestone/playguide/db/quest/7177aa07e51/",
+                    "Area": "Amh Araeng",
+                    "Level": "76"
+                }
+            ],
+            "NextQuests": [
+                {
+                    "Name": "Blusterous Miner",
+                    "Url": "/lodestone/playguide/db/npc/npc/e491abfccb7/",
+                    "Area": "Amh Araeng (X:22.4 Y:17.5)"
+                },
+                {
+                    "Name": "Enthusiastic Miner",
+                    "Url": "/lodestone/playguide/db/npc/npc/1c017303d66/",
+                    "Area": "Amh Araeng (X:22.0 Y:18.6)"
+                },
+                {
+                    "Name": "Lethargic Miner",
+                    "Url": "/lodestone/playguide/db/npc/npc/8561c32e316/",
+                    "Area": "Amh Araeng (X:21.6 Y:19.1)"
+                }
+            ]
+        },
+        "Seq": 20,
+        "oldID": 69028,
+        "Map": {
+            "ID": 493
+        }
+    },
+    {
+        "ID": "9fafc766718",
+        "Name": " Charmless Man",
+        "Location": "Amh Araeng",
+        "Level": 70,
+        "JournalSection": 3,
+        "JournalCategory": 52,
+        "JournalGenre": "Amh Araeng Sidequests",
+        "Url": "/lodestone/playguide/db/quest/9fafc766718/",
+        "Image": null,
+        "Icon": "function_normal",
+        "Issuer": "Sveinn",
+        "StartLocation": {
+            "Name": "Amh Araeng",
+            "X": "11.9",
+            "Y": "17.4"
+        },
+        "StartClass": null,
+        "Job": "",
+        "Company": "Not specified",
+        "Requirement": "Not specified",
+        "Rewards": {
+            "Gil": 606,
+            "Exp": null,
+            "ItemsMand": [
+                {
+                    "Icon": "https://img.finalfantasyxiv.com/lds/pc/global/images/itemicon/af/af26e4b79fb1de83550f6ddbd3a170408fcfe702.png?n5.5",
+                    "Name": "",
+                    "Amount": null
+                }
+            ],
+            "ItemsOpt": []
+        },
+        "Infos": {
+            "PrevQuests": [
+                {
+                    "Name": "The Truth Hurts",
+                    "Url": "/lodestone/playguide/db/quest/df6973bf38b/",
+                    "Area": "Amh Araeng",
+                    "Level": "76"
+                }
+            ],
+            "NextQuests": [
+                {
+                    "Name": " Oil Be Back",
+                    "Url": "/lodestone/playguide/db/quest/5d489ad1d1f/",
+                    "Area": "Amh Araeng",
+                    "Level": "70"
+                },
+                {
+                    "Name": " Gnome Ore Heroes",
+                    "Url": "/lodestone/playguide/db/quest/1048538d734/",
+                    "Area": "Amh Araeng",
+                    "Level": "70"
+                }
+            ],
+            "NPCs": [
+                {
+                    "Name": "Graveyard Keeper",
+                    "Url": "/lodestone/playguide/db/npc/npc/538e8a552a2/",
+                    "Area": "Amh Araeng (X:10.3 Y:17.7)"
+                },
+                {
+                    "Name": "One-eyed Miner",
+                    "Url": "/lodestone/playguide/db/npc/npc/fac1486902a/",
+                    "Area": "Amh Araeng (X:14.7 Y:22.9)"
+                }
+            ]
+        },
+        "Seq": 39,
+        "oldID": 69047,
+        "Map": {
+            "ID": 493
+        }
+    },
+    {
+        "ID": "a326d741cdc",
+        "Name": " The Crystal Knaves",
+        "Location": "Amh Araeng",
+        "Level": 70,
+        "JournalSection": 3,
+        "JournalCategory": 52,
+        "JournalGenre": "Amh Araeng Sidequests",
+        "Url": "/lodestone/playguide/db/quest/a326d741cdc/",
+        "Image": null,
+        "Icon": "common_normal",
+        "Issuer": "Battle-ready Mord",
+        "StartLocation": {
+            "Name": "Amh Araeng",
+            "X": "16.1",
+            "Y": "30.0"
+        },
+        "StartClass": null,
+        "Job": "",
+        "Company": "Not specified",
+        "Requirement": "Not specified",
+        "Rewards": {
+            "Gil": 606,
+            "Exp": null,
+            "ItemsMand": [
+                {
+                    "Icon": "https://img.finalfantasyxiv.com/lds/pc/global/images/itemicon/e8/e88d404bd56effa8df06cb3cd5b9dad699693de2.png?n5.5",
+                    "Name": "Masala Chai",
+                    "Amount": 2,
+                    "Url": "/lodestone/playguide/db/item/2d4fb73f2dd/"
+                }
+            ],
+            "ItemsOpt": []
+        },
+        "Infos": {
+            "PrevQuests": [
+                {
+                    "Name": "A Fresh Start",
+                    "Url": "/lodestone/playguide/db/quest/dd9cc07fd61/",
+                    "Area": "Amh Araeng",
+                    "Level": "77"
+                }
+            ],
+            "NextQuests": [
+                {
+                    "Name": "Forbidden Crystal Peddler",
+                    "Url": "/lodestone/playguide/db/npc/npc/79ffa7ab7c1/",
+                    "Area": "Amh Araeng (X:28.4 Y:35.1)"
+                }
+            ]
+        },
+        "Seq": 45,
+        "oldID": 69068,
+        "Map": {
+            "ID": 493
+        }
+    },
+    {
+        "ID": "a33ae28f422",
+        "Name": " To the Far Side",
+        "Location": "Amh Araeng",
+        "Level": 70,
+        "JournalSection": 3,
+        "JournalCategory": 52,
+        "JournalGenre": "Amh Araeng Sidequests",
+        "Url": "/lodestone/playguide/db/quest/a33ae28f422/",
+        "Image": null,
+        "Icon": "common_normal",
+        "Issuer": "Harlolth",
+        "StartLocation": {
+            "Name": "Amh Araeng",
+            "X": "11.5",
+            "Y": "16.7"
+        },
+        "StartClass": null,
+        "Job": "",
+        "Company": "Not specified",
+        "Requirement": "Not specified",
+        "Rewards": {
+            "Gil": 905,
+            "Exp": null,
+            "ItemsMand": [],
+            "ItemsOpt": []
+        },
+        "Infos": {
+            "PrevQuests": [
+                {
+                    "Name": "On Track",
+                    "Url": "/lodestone/playguide/db/quest/7177aa07e51/",
+                    "Area": "Amh Araeng",
+                    "Level": "76"
+                }
+            ],
+            "NextQuests": [
+                {
+                    "Name": "Cactus Trader",
+                    "Url": "/lodestone/playguide/db/npc/npc/7f8fa3d1e45/",
+                    "Area": "Amh Araeng (X:20.9 Y:26.3)"
+                },
+                {
+                    "Name": "Desert Apothecary",
+                    "Url": "/lodestone/playguide/db/npc/npc/825a57d7be6/",
+                    "Area": "Amh Araeng (X:16.3 Y:22.8)"
+                }
+            ]
+        },
+        "Seq": 22,
+        "oldID": 69030,
+        "Map": {
+            "ID": 493
+        }
+    },
+    {
+        "ID": "a7624324d0b",
+        "Name": " Whistle While You Shirk",
+        "Location": "Amh Araeng",
+        "Level": 70,
+        "JournalSection": 3,
+        "JournalCategory": 52,
+        "JournalGenre": "Amh Araeng Sidequests",
+        "Url": "/lodestone/playguide/db/quest/a7624324d0b/",
+        "Image": null,
+        "Icon": "common_normal",
+        "Issuer": "Elderly Miner",
+        "StartLocation": {
+            "Name": "Amh Araeng",
+            "X": "12.5",
+            "Y": "17.5"
+        },
+        "StartClass": null,
+        "Job": "",
+        "Company": "Not specified",
+        "Requirement": "Not specified",
+        "Rewards": {
+            "Gil": 0,
+            "Exp": null,
+            "ItemsMand": [
+                {
+                    "Icon": "https://img.finalfantasyxiv.com/lds/pc/global/images/itemicon/27/2778bbc3d01f5268fe9c83919d4499b35ce991eb.png?n5.5",
+                    "Name": "Titanbronze Foot Gear Coffer",
+                    "Amount": 1,
+                    "Url": "/lodestone/playguide/db/item/edbb24bacfe/"
+                }
+            ],
+            "ItemsOpt": []
+        },
+        "Infos": {
+            "PrevQuests": [
+                {
+                    "Name": "On Track",
+                    "Url": "/lodestone/playguide/db/quest/7177aa07e51/",
+                    "Area": "Amh Araeng",
+                    "Level": "76"
+                }
+            ],
+            "NextQuests": [
+                {
+                    "Name": "Melodramatic Miner",
+                    "Url": "/lodestone/playguide/db/npc/npc/427407ebd84/",
+                    "Area": "Amh Araeng (X:11.0 Y:18.1)"
+                },
+                {
+                    "Name": "Melodramatic Miner",
+                    "Url": "/lodestone/playguide/db/npc/npc/880bbbc55e2/",
+                    "Area": "Amh Araeng (X:12.6 Y:17.5)"
+                },
+                {
+                    "Name": "Rueful Miner",
+                    "Url": "/lodestone/playguide/db/npc/npc/dbf9a6db56b/",
+                    "Area": "Amh Araeng (X:11.9 Y:16.0)"
+                },
+                {
+                    "Name": "Rueful Miner",
+                    "Url": "/lodestone/playguide/db/npc/npc/d7cea09e48e/",
+                    "Area": "Amh Araeng (X:12.6 Y:17.6)"
+                },
+                {
+                    "Name": "Temperamental Miner",
+                    "Url": "/lodestone/playguide/db/npc/npc/8571d04d10b/",
+                    "Area": "Amh Araeng (X:11.7 Y:16.3)"
+                },
+                {
+                    "Name": "Temperamental Miner",
+                    "Url": "/lodestone/playguide/db/npc/npc/e21ce02456e/",
+                    "Area": "Amh Araeng (X:12.6 Y:17.6)"
+                }
+            ]
+        },
+        "Seq": 23,
+        "oldID": 69031,
+        "Map": {
+            "ID": 493
+        }
+    },
+    {
+        "ID": "ca5230ee183",
+        "Name": " An Axle to Grind",
+        "Location": "Amh Araeng",
+        "Level": 70,
+        "JournalSection": 3,
+        "JournalCategory": 52,
+        "JournalGenre": "Amh Araeng Sidequests",
+        "Url": "/lodestone/playguide/db/quest/ca5230ee183/",
+        "Image": "https://img.finalfantasyxiv.com/lds/pc/global/images/itemicon/38/386597ccc7a6be75cf371bf9d1c65dfc461dedc8.png?n5.5",
+        "Icon": "common_normal",
+        "Issuer": "Horthur",
+        "StartLocation": {
+            "Name": "Amh Araeng",
+            "X": "11.3",
+            "Y": "17.5"
+        },
+        "StartClass": null,
+        "Job": "",
+        "Company": "Not specified",
+        "Requirement": "Not specified",
+        "Rewards": {
+            "Gil": 1014,
+            "Exp": null,
+            "ItemsMand": [],
+            "ItemsOpt": [
+                {
+                    "Icon": "https://img.finalfantasyxiv.com/lds/pc/global/images/itemicon/2c/2c54e432fad3e96bce93e5d274197d3f654112de.png?n5.5",
+                    "Name": "Sausage Links",
+                    "Amount": 2,
+                    "Url": "/lodestone/playguide/db/item/e43ba98fe38/"
+                },
+                {
+                    "Icon": "https://img.finalfantasyxiv.com/lds/pc/global/images/itemicon/26/264d0e5862be8b2d176bad80e4821427a07b40ea.png?n5.5",
+                    "Name": "Roast Ovim",
+                    "Amount": 2,
+                    "Url": "/lodestone/playguide/db/item/25e13d314ce/"
+                },
+                {
+                    "Icon": "https://img.finalfantasyxiv.com/lds/pc/global/images/itemicon/ef/ef0702346009dbf9d96987361b7b43ef96c902eb.png?n5.5",
+                    "Name": "Mushroom Skewer",
+                    "Amount": 2,
+                    "Url": "/lodestone/playguide/db/item/928aab4790b/"
+                },
+                {
+                    "Icon": "https://img.finalfantasyxiv.com/lds/pc/global/images/itemicon/80/80d3c7c05337d7d1c31977a47984269e2c415c02.png?n5.5",
+                    "Name": "Baked Megapiranha",
+                    "Amount": 2,
+                    "Url": "/lodestone/playguide/db/item/1979a9a6320/"
+                },
+                {
+                    "Icon": "https://img.finalfantasyxiv.com/lds/pc/global/images/itemicon/ba/baa2341dd17414fae7fd62ae7bc62c64589b67be.png?n5.5",
+                    "Name": "Nightworld Silver Piece",
+                    "Amount": 3,
+                    "Url": "/lodestone/playguide/db/item/50ed823230e/"
+                }
+            ]
+        },
+        "Infos": {
+            "PrevQuests": [
+                {
+                    "Name": " Semi Auto-malik",
+                    "Url": "/lodestone/playguide/db/quest/344b5797e45/",
+                    "Area": "Amh Araeng",
+                    "Level": "70"
+                },
+                {
+                    "Name": " The Rutabite at the End of the Tunnel",
+                    "Url": "/lodestone/playguide/db/quest/fc7390335f8/",
+                    "Area": "Amh Araeng",
+                    "Level": "70"
+                }
+            ],
+            "NextQuests": [
+                {
+                    "Name": "Ghen Gen",
+                    "Url": "/lodestone/playguide/db/npc/npc/e12cacfe0f9/",
+                    "Area": "Amh Araeng (X:26.8 Y:18.5)"
+                },
+                {
+                    "Name": "Ghun Gun",
+                    "Url": "/lodestone/playguide/db/npc/npc/05882006c8e/",
+                    "Area": "Amh Araeng (X:26.9 Y:15.8)"
+                },
+                {
+                    "Name": "Jamial",
+                    "Url": "/lodestone/playguide/db/npc/npc/8eee1b49b45/",
+                    "Area": "Amh Araeng (X:26.9 Y:15.8)"
+                },
+                {
+                    "Name": "Kee-Satt",
+                    "Url": "/lodestone/playguide/db/npc/npc/56d164bd4c0/",
+                    "Area": "Amh Araeng (X:12.6 Y:17.4)"
+                },
+                {
+                    "Name": "Kee-Satt",
+                    "Url": "/lodestone/playguide/db/npc/npc/a123d63fa79/",
+                    "Area": "Amh Araeng (X:24.3 Y:17.7)"
+                },
+                {
+                    "Name": "Kee-Satt",
+                    "Url": "/lodestone/playguide/db/npc/npc/a0fe649ecec/",
+                    "Area": "Amh Araeng (X:26.8 Y:18.5)"
+                },
+                {
+                    "Name": "Kee-Satt",
+                    "Url": "/lodestone/playguide/db/npc/npc/40e8b3c26ca/",
+                    "Area": "Amh Araeng (X:26.9 Y:15.8)"
+                }
+            ]
+        },
+        "Seq": 50,
+        "oldID": 69065,
+        "Map": {
+            "ID": 493
+        }
+    },
+    {
+        "ID": "ca898cc2041",
+        "Name": " Water Palaver",
+        "Location": "Amh Araeng",
+        "Level": 70,
+        "JournalSection": 3,
+        "JournalCategory": 52,
+        "JournalGenre": "Amh Araeng Sidequests",
+        "Url": "/lodestone/playguide/db/quest/ca898cc2041/",
+        "Image": null,
+        "Icon": "common_normal",
+        "Issuer": "Ghon Gon",
+        "StartLocation": {
+            "Name": "Amh Araeng",
+            "X": "12.5",
+            "Y": "10.3"
+        },
+        "StartClass": null,
+        "Job": "",
+        "Company": "Not specified",
+        "Requirement": "Not specified",
+        "Rewards": {
+            "Gil": 606,
+            "Exp": null,
+            "ItemsMand": [],
+            "ItemsOpt": []
+        },
+        "Infos": {
+            "PrevQuests": [
+                {
+                    "Name": "Free Trade",
+                    "Url": "/lodestone/playguide/db/quest/51198a1dd76/",
+                    "Area": "Amh Araeng",
+                    "Level": "76"
+                }
+            ],
+            "NextQuests": [
+                {
+                    "Name": "Ghon Gon's Nephew",
+                    "Url": "/lodestone/playguide/db/npc/npc/45cd8757625/",
+                    "Area": "Amh Araeng (X:15.5 Y:12.2)"
+                }
+            ]
+        },
+        "Seq": 16,
+        "oldID": 69024,
+        "Map": {
+            "ID": 493
+        }
+    },
+    {
+        "ID": "e448855a7c4",
+        "Name": " Absent without Leave",
+        "Location": "Amh Araeng",
+        "Level": 70,
+        "JournalSection": 3,
+        "JournalCategory": 52,
+        "JournalGenre": "Amh Araeng Sidequests",
+        "Url": "/lodestone/playguide/db/quest/e448855a7c4/",
+        "Image": null,
+        "Icon": "common_normal",
+        "Issuer": "Wrenric",
+        "StartLocation": {
+            "Name": "Amh Araeng",
+            "X": "29.7",
+            "Y": "26.9"
+        },
+        "StartClass": null,
+        "Job": "",
+        "Company": "Not specified",
+        "Requirement": "Not specified",
+        "Rewards": {
+            "Gil": 752,
+            "Exp": null,
+            "ItemsMand": [],
+            "ItemsOpt": []
+        },
+        "Infos": {
+            "PrevQuests": [
+                {
+                    "Name": "Culling Their Ranks",
+                    "Url": "/lodestone/playguide/db/quest/0ed164f08a1/",
+                    "Area": "Amh Araeng",
+                    "Level": "70"
+                }
+            ],
+            "NextQuests": [
+                {
+                    "Name": "Fallen Guard",
+                    "Url": "/lodestone/playguide/db/npc/npc/2d3ee4ea33d/",
+                    "Area": "Amh Araeng (X:32.5 Y:25.0)"
+                },
+                {
+                    "Name": "Nonchalant Watchman",
+                    "Url": "/lodestone/playguide/db/npc/npc/ca905895178/",
+                    "Area": "Amh Araeng (X:33.5 Y:29.1)"
+                },
+                {
+                    "Name": "Timid Guard",
+                    "Url": "/lodestone/playguide/db/npc/npc/96e3c2c5c79/",
+                    "Area": "Amh Araeng (X:28.7 Y:32.3)"
+                }
+            ]
+        },
+        "Seq": 8,
+        "oldID": 68905,
+        "Map": {
+            "ID": 493
+        }
+    },
+    {
+        "ID": "ea86729e715",
+        "Name": " The Creaky Mill Gets the Grease",
+        "Location": "Amh Araeng",
+        "Level": 70,
+        "JournalSection": 3,
+        "JournalCategory": 52,
+        "JournalGenre": "Amh Araeng Sidequests",
+        "Url": "/lodestone/playguide/db/quest/ea86729e715/",
+        "Image": null,
+        "Icon": "common_normal",
+        "Issuer": "Minebern",
+        "StartLocation": {
+            "Name": "Amh Araeng",
+            "X": "12.3",
+            "Y": "16.2"
+        },
+        "StartClass": null,
+        "Job": "",
+        "Company": "Not specified",
+        "Requirement": "Not specified",
+        "Rewards": {
+            "Gil": 905,
+            "Exp": null,
+            "ItemsMand": [],
+            "ItemsOpt": []
+        },
+        "Infos": {
+            "PrevQuests": [
+                {
+                    "Name": "On Track",
+                    "Url": "/lodestone/playguide/db/quest/7177aa07e51/",
+                    "Area": "Amh Araeng",
+                    "Level": "76"
+                }
+            ]
+        },
+        "Seq": 26,
+        "oldID": 69034,
+        "Map": {
+            "ID": 493
+        }
+    },
+    {
+        "ID": "ee6bcfbeef1",
+        "Name": " Shine On You Crazy Mordling",
+        "Location": "Amh Araeng",
+        "Level": 70,
+        "JournalSection": 3,
+        "JournalCategory": 52,
+        "JournalGenre": "Amh Araeng Sidequests",
+        "Url": "/lodestone/playguide/db/quest/ee6bcfbeef1/",
+        "Image": null,
+        "Icon": "common_normal",
+        "Issuer": "Paternal Mord",
+        "StartLocation": {
+            "Name": "Amh Araeng",
+            "X": "13.3",
+            "Y": "10.4"
+        },
+        "StartClass": null,
+        "Job": "",
+        "Company": "Not specified",
+        "Requirement": "Not specified",
+        "Rewards": {
+            "Gil": 679,
+            "Exp": null,
+            "ItemsMand": [],
+            "ItemsOpt": []
+        },
+        "Infos": {
+            "PrevQuests": [
+                {
+                    "Name": "Free Trade",
+                    "Url": "/lodestone/playguide/db/quest/51198a1dd76/",
+                    "Area": "Amh Araeng",
+                    "Level": "76"
+                }
+            ],
+            "NextQuests": [
+                {
+                    "Name": "Maternal Mord",
+                    "Url": "/lodestone/playguide/db/npc/npc/b76c45d9de2/",
+                    "Area": "Amh Araeng (X:13.6 Y:10.0)"
+                },
+                {
+                    "Name": "Mord Youngling",
+                    "Url": "/lodestone/playguide/db/npc/npc/72d838f29e4/",
+                    "Area": "Amh Araeng (X:13.6 Y:10.0)"
+                },
+                {
+                    "Name": "Paternal Mord",
+                    "Url": "/lodestone/playguide/db/npc/npc/5f5f8b0c0af/",
+                    "Area": "Amh Araeng (X:13.5 Y:9.9)"
+                },
+                {
+                    "Name": "Paternal Mord",
+                    "Url": "/lodestone/playguide/db/npc/npc/46604f6a31f/",
+                    "Area": "Amh Araeng (X:14.1 Y:8.9)"
+                }
+            ]
+        },
+        "Seq": 18,
+        "oldID": 69026,
+        "Map": {
+            "ID": 493
+        }
+    },
+    {
+        "ID": "f6a705f4c67",
+        "Name": " Succulent Secretions",
+        "Location": "Amh Araeng",
+        "Level": 70,
+        "JournalSection": 3,
+        "JournalCategory": 52,
+        "JournalGenre": "Amh Araeng Sidequests",
+        "Url": "/lodestone/playguide/db/quest/f6a705f4c67/",
+        "Image": null,
+        "Icon": "common_normal",
+        "Issuer": "Lamon",
+        "StartLocation": {
+            "Name": "Amh Araeng",
+            "X": "29.5",
+            "Y": "28.4"
+        },
+        "StartClass": null,
+        "Job": "",
+        "Company": "Not specified",
+        "Requirement": "Not specified",
+        "Rewards": {
+            "Gil": 606,
+            "Exp": null,
+            "ItemsMand": [
+                {
+                    "Icon": "https://img.finalfantasyxiv.com/lds/pc/global/images/itemicon/87/8703f574246b8290761053ffe4e130a2b7d56125.png?n5.5",
+                    "Name": "Caramels",
+                    "Amount": 2,
+                    "Url": "/lodestone/playguide/db/item/ed88a70bb54/"
+                }
+            ],
+            "ItemsOpt": []
+        },
+        "Infos": {
+            "PrevQuests": [
+                {
+                    "Name": "Culling Their Ranks",
+                    "Url": "/lodestone/playguide/db/quest/0ed164f08a1/",
+                    "Area": "Amh Araeng",
+                    "Level": "70"
+                }
+            ]
+        },
+        "Seq": 6,
+        "oldID": 68903,
+        "Map": {
+            "ID": 493
+        }
+    },
+    {
+        "ID": "fc7390335f8",
+        "Name": " The Rutabite at the End of the Tunnel",
+        "Location": "Amh Araeng",
+        "Level": 70,
+        "JournalSection": 3,
+        "JournalCategory": 52,
+        "JournalGenre": "Amh Araeng Sidequests",
+        "Url": "/lodestone/playguide/db/quest/fc7390335f8/",
+        "Image": "https://img.finalfantasyxiv.com/lds/pc/global/images/itemicon/dd/dde1d30404494006b10d5f8e3989901d308bf826.png?n5.5",
+        "Icon": "common_normal",
+        "Issuer": "Kee-Satt",
+        "StartLocation": {
+            "Name": "Amh Araeng",
+            "X": "12.6",
+            "Y": "17.4"
+        },
+        "StartClass": null,
+        "Job": "",
+        "Company": "Not specified",
+        "Requirement": "Not specified",
+        "Rewards": {
+            "Gil": 1087,
+            "Exp": null,
+            "ItemsMand": [
+                {
+                    "Icon": "https://img.finalfantasyxiv.com/lds/pc/global/images/itemicon/30/30b5f35d0481a6e2c068d1c0488a0aa9de0d5d13.png?n5.5",
+                    "Name": "Titanbronze Bracelet Coffer",
+                    "Amount": 1,
+                    "Url": "/lodestone/playguide/db/item/8d792ba7b95/"
+                }
+            ],
+            "ItemsOpt": []
+        },
+        "Infos": {
+            "PrevQuests": [
+                {
+                    "Name": " Two Tails Are Better than One",
+                    "Url": "/lodestone/playguide/db/quest/09878008ca2/",
+                    "Area": "Amh Araeng",
+                    "Level": "70"
+                }
+            ],
+            "NextQuests": [
+                {
+                    "Name": " An Axle to Grind",
+                    "Url": "/lodestone/playguide/db/quest/ca5230ee183/",
+                    "Area": "Amh Araeng",
+                    "Level": "70"
+                }
+            ],
+            "NPCs": [
+                {
+                    "Name": "Kee-Satt",
+                    "Url": "/lodestone/playguide/db/npc/npc/0d2a29591e9/",
+                    "Area": "Amh Araeng (X:12.1 Y:16.0)"
+                },
+                {
+                    "Name": "Kee-Satt",
+                    "Url": "/lodestone/playguide/db/npc/npc/73ff820262b/",
+                    "Area": "Amh Araeng (X:21.4 Y:16.5)"
+                }
+            ]
+        },
+        "Seq": 49,
+        "oldID": 69064,
+        "Map": {
+            "ID": 493
+        }
+    },
+    {
+        "ID": "fddad1ecd61",
+        "Name": " Scavengers Assemble",
+        "Location": "Amh Araeng",
+        "Level": 70,
+        "JournalSection": 3,
+        "JournalCategory": 52,
+        "JournalGenre": "Amh Araeng Sidequests",
+        "Url": "/lodestone/playguide/db/quest/fddad1ecd61/",
+        "Image": null,
+        "Icon": "function_normal",
+        "Issuer": "Quick-witted Scavenger",
+        "StartLocation": {
+            "Name": "Amh Araeng",
+            "X": "12.9",
+            "Y": "16.9"
+        },
+        "StartClass": null,
+        "Job": "",
+        "Company": "Not specified",
+        "Requirement": "Not specified",
+        "Rewards": {
+            "Gil": 825,
+            "Exp": null,
+            "ItemsMand": [
+                {
+                    "Icon": "https://img.finalfantasyxiv.com/lds/pc/global/images/itemicon/af/af26e4b79fb1de83550f6ddbd3a170408fcfe702.png?n5.5",
+                    "Name": "",
+                    "Amount": null
+                }
+            ],
+            "ItemsOpt": []
+        },
+        "Infos": {
+            "PrevQuests": [
+                {
+                    "Name": "On Track",
+                    "Url": "/lodestone/playguide/db/quest/7177aa07e51/",
+                    "Area": "Amh Araeng",
+                    "Level": "76"
+                }
+            ],
+            "NextQuests": [
+                {
+                    "Name": " Town Haul",
+                    "Url": "/lodestone/playguide/db/quest/9110d3a0e78/",
+                    "Area": "Amh Araeng",
+                    "Level": "70"
+                }
+            ],
+            "NPCs": [
+                {
+                    "Name": "Fledgling Scavenger",
+                    "Url": "/lodestone/playguide/db/npc/npc/1c442d887b6/",
+                    "Area": "Amh Araeng (X:22.6 Y:23.5)"
+                },
+                {
+                    "Name": "Fledgling Scavenger",
+                    "Url": "/lodestone/playguide/db/npc/npc/0b081dd746b/",
+                    "Area": "Amh Araeng (X:21.7 Y:24.9)"
+                },
+                {
+                    "Name": "Seasoned Scavenger",
+                    "Url": "/lodestone/playguide/db/npc/npc/f1943c7e52c/",
+                    "Area": "Amh Araeng (X:20.4 Y:22.1)"
+                },
+                {
+                    "Name": "Seasoned Scavenger",
+                    "Url": "/lodestone/playguide/db/npc/npc/b063ffcfec7/",
+                    "Area": "Amh Araeng (X:21.7 Y:24.8)"
+                }
+            ]
+        },
+        "Seq": 31,
+        "oldID": 69039,
+        "Map": {
+            "ID": 493
+        }
+    },
+    {
+        "ID": "fee304c252e",
+        "Name": " The Piping of the Dead",
+        "Location": "Amh Araeng",
+        "Level": 70,
+        "JournalSection": 3,
+        "JournalCategory": 52,
+        "JournalGenre": "Amh Araeng Sidequests",
+        "Url": "/lodestone/playguide/db/quest/fee304c252e/",
+        "Image": null,
+        "Icon": "common_normal",
+        "Issuer": "Haraldur",
+        "StartLocation": {
+            "Name": "Amh Araeng",
+            "X": "14.8",
+            "Y": "23.3"
+        },
+        "StartClass": null,
+        "Job": "",
+        "Company": "Not specified",
+        "Requirement": "Not specified",
+        "Rewards": {
+            "Gil": 759,
+            "Exp": null,
+            "ItemsMand": [
+                {
+                    "Icon": "https://img.finalfantasyxiv.com/lds/pc/global/images/itemicon/66/66e40643e0b44d9f56e8628395cdf870c5820fe6.png?n5.5",
+                    "Name": "Titanbronze Necklace Coffer",
+                    "Amount": 1,
+                    "Url": "/lodestone/playguide/db/item/9bd23e0bf31/"
+                }
+            ],
+            "ItemsOpt": []
+        },
+        "Infos": {
+            "PrevQuests": [
+                {
+                    "Name": " Oil Be Back",
+                    "Url": "/lodestone/playguide/db/quest/5d489ad1d1f/",
+                    "Area": "Amh Araeng",
+                    "Level": "70"
+                },
+                {
+                    "Name": " Gnome Ore Heroes",
+                    "Url": "/lodestone/playguide/db/quest/1048538d734/",
+                    "Area": "Amh Araeng",
+                    "Level": "70"
+                }
+            ],
+            "NextQuests": [
+                {
+                    "Name": "Chiseled Miner",
+                    "Url": "/lodestone/playguide/db/npc/npc/565520f2e60/",
+                    "Area": "Amh Araeng (X:12.0 Y:17.3)"
+                },
+                {
+                    "Name": "Chiseled Miner",
+                    "Url": "/lodestone/playguide/db/npc/npc/e9f33972ffb/",
+                    "Area": "Amh Araeng (X:10.4 Y:18.1)"
+                }
+            ]
+        },
+        "Seq": 42,
+        "oldID": 69050,
+        "Map": {
+            "ID": 493
+        }
+    },
+    {
+        "ID": "ffbb67912bc",
+        "Name": " And Justice Feral",
+        "Location": "Amh Araeng",
+        "Level": 70,
+        "JournalSection": 3,
+        "JournalCategory": 52,
+        "JournalGenre": "Amh Araeng Sidequests",
+        "Url": "/lodestone/playguide/db/quest/ffbb67912bc/",
+        "Image": null,
+        "Icon": "common_normal",
+        "Issuer": "Bhol Bol",
+        "StartLocation": {
+            "Name": "Amh Araeng",
+            "X": "12.9",
+            "Y": "9.4"
+        },
+        "StartClass": null,
+        "Job": "",
+        "Company": "Not specified",
+        "Requirement": "Not specified",
+        "Rewards": {
+            "Gil": 606,
+            "Exp": null,
+            "ItemsMand": [],
+            "ItemsOpt": []
+        },
+        "Infos": {
+            "PrevQuests": [
+                {
+                    "Name": "Free Trade",
+                    "Url": "/lodestone/playguide/db/quest/51198a1dd76/",
+                    "Area": "Amh Araeng",
+                    "Level": "76"
+                }
+            ]
+        },
+        "Seq": 19,
+        "oldID": 69027,
+        "Map": {
+            "ID": 493
+        }
+    }
+]

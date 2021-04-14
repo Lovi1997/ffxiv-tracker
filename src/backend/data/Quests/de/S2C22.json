@@ -1,0 +1,675 @@
+[
+    {
+        "ID": "2204cf37dca",
+        "Name": "Luftangriff auf Werlyt",
+        "Location": "Das Fenn",
+        "Level": 80,
+        "JournalSection": 2,
+        "JournalCategory": 22,
+        "JournalGenre": "Schlacht um Werlyt",
+        "Url": "/lodestone/playguide/db/quest/2204cf37dca/",
+        "Image": "https://img.finalfantasyxiv.com/lds/pc/global/images/itemicon/a6/a6a792193504c878bd604a544af1a6bede97df72.png?n5.5",
+        "Icon": "function_normal",
+        "Issuer": "General der Befreiungsarmee",
+        "StartLocation": {
+            "Name": "Das Fenn",
+            "X": "11.3",
+            "Y": "22.5"
+        },
+        "StartClass": null,
+        "Job": "Krieger oder Magier (außer beschränkte Jobs)",
+        "Company": "Keine Angabe",
+        "Requirement": "Keine Angabe",
+        "Rewards": {
+            "Gil": 0,
+            "Exp": 0,
+            "ItemsMand": [
+                {
+                    "Icon": "https://img.finalfantasyxiv.com/lds/pc/global/images/itemicon/fb/fb000afa3b641a86f1f443904fff67f28e2c5b11.png?n5.5",
+                    "Name": "",
+                    "Amount": null
+                }
+            ],
+            "ItemsOpt": []
+        },
+        "Infos": {
+            "PrevQuests": [
+                {
+                    "Name": "Rubinrote Konfrontation",
+                    "Url": "/lodestone/playguide/db/quest/bf05ca6707e/",
+                    "Area": "Das Fenn",
+                    "Level": "80"
+                }
+            ],
+            "NextQuests": [
+                {
+                    "Name": "Blutsmaragd",
+                    "Url": "/lodestone/playguide/db/quest/931c52aabb5/",
+                    "Area": "Das Fenn",
+                    "Level": "80"
+                }
+            ],
+            "NPCs": [
+                {
+                    "Name": "Militärlogistiker",
+                    "Url": "/lodestone/playguide/db/npc/npc/a4526351191/",
+                    "Area": "Das Fenn (X:10.8 Y:20.5)"
+                },
+                {
+                    "Name": "Offizier der Befreiungsarmee",
+                    "Url": "/lodestone/playguide/db/npc/npc/e68d1b9d13d/",
+                    "Area": "Das Fenn (X:10.9 Y:21.1)"
+                },
+                {
+                    "Name": "Cid",
+                    "Url": "/lodestone/playguide/db/npc/npc/9e1ce1bc825/",
+                    "Area": "Hauptquartier der Allianz (X:6.0 Y:6.2)"
+                },
+                {
+                    "Name": "Gaius",
+                    "Url": "/lodestone/playguide/db/npc/npc/297132b3c24/",
+                    "Area": "Hauptquartier der Allianz (X:6.0 Y:5.9)"
+                },
+                {
+                    "Name": "Severa",
+                    "Url": "/lodestone/playguide/db/npc/npc/16f479d538a/",
+                    "Area": "Hauptquartier der Allianz (X:6.0 Y:5.9)"
+                },
+                {
+                    "Name": "Severa",
+                    "Url": "/lodestone/playguide/db/npc/npc/0531d6a6e2e/",
+                    "Area": "Hauptquartier der Allianz (X:6.0 Y:6.2)"
+                },
+                {
+                    "Name": "Techniker der Garlond-Metallwerke",
+                    "Url": "/lodestone/playguide/db/npc/npc/f87b38700e8/",
+                    "Area": "Hauptquartier der Allianz (X:6.1 Y:5.9)"
+                },
+                {
+                    "Name": "Valdeaulin",
+                    "Url": "/lodestone/playguide/db/npc/npc/9a696e7e53f/",
+                    "Area": "Hauptquartier der Allianz (X:6.1 Y:5.9)"
+                },
+                {
+                    "Name": "Gaius",
+                    "Url": "/lodestone/playguide/db/npc/npc/4ea496ea16f/",
+                    "Area": "Wendeklipp (X:6.1 Y:5.9)"
+                },
+                {
+                    "Name": "Gaius",
+                    "Url": "/lodestone/playguide/db/npc/npc/3b227ef5fd1/",
+                    "Area": "Wendeklipp (X:6.3 Y:5.7)"
+                },
+                {
+                    "Name": "Severa",
+                    "Url": "/lodestone/playguide/db/npc/npc/ef4b35455d0/",
+                    "Area": "Wendeklipp (X:6.2 Y:5.8)"
+                },
+                {
+                    "Name": "Severa",
+                    "Url": "/lodestone/playguide/db/npc/npc/31e0c12a816/",
+                    "Area": "Wendeklipp (X:6.2 Y:5.7)"
+                },
+                {
+                    "Name": "Valdeaulin",
+                    "Url": "/lodestone/playguide/db/npc/npc/63a8be244bb/",
+                    "Area": "Wendeklipp (X:6.1 Y:5.8)"
+                },
+                {
+                    "Name": "Valdeaulin",
+                    "Url": "/lodestone/playguide/db/npc/npc/1a29b5eb0f3/",
+                    "Area": "Wendeklipp (X:7.1 Y:6.7)"
+                },
+                {
+                    "Name": "Valdeaulin",
+                    "Url": "/lodestone/playguide/db/npc/npc/6958da890d5/",
+                    "Area": "Wendeklipp (X:6.2 Y:5.7)"
+                }
+            ]
+        },
+        "Seq": 1,
+        "oldID": 69431,
+        "Map": {
+            "ID": 369
+        }
+    },
+    {
+        "ID": "931c52aabb5",
+        "Name": "Blutsmaragd",
+        "Location": "Das Fenn",
+        "Level": 80,
+        "JournalSection": 2,
+        "JournalCategory": 22,
+        "JournalGenre": "Schlacht um Werlyt",
+        "Url": "/lodestone/playguide/db/quest/931c52aabb5/",
+        "Image": "https://img.finalfantasyxiv.com/lds/pc/global/images/itemicon/9c/9cc25fa5a38f49c3e9c0b0da6c42458955809a01.png?n5.5",
+        "Icon": "function_normal",
+        "Issuer": "General der Befreiungsarmee",
+        "StartLocation": {
+            "Name": "Das Fenn",
+            "X": "11.3",
+            "Y": "22.5"
+        },
+        "StartClass": null,
+        "Job": "Krieger oder Magier (außer beschränkte Jobs)",
+        "Company": "Keine Angabe",
+        "Requirement": "Keine Angabe",
+        "Rewards": {
+            "Gil": 1655,
+            "Exp": 0,
+            "ItemsMand": [],
+            "ItemsOpt": []
+        },
+        "Infos": {
+            "PrevQuests": [
+                {
+                    "Name": "Luftangriff auf Werlyt",
+                    "Url": "/lodestone/playguide/db/quest/2204cf37dca/",
+                    "Area": "Das Fenn",
+                    "Level": "80"
+                }
+            ],
+            "NextQuests": [
+                {
+                    "Name": "Mahnmal der Sühne",
+                    "Url": "/lodestone/playguide/db/quest/c351fc217ef/",
+                    "Area": "Das Fenn",
+                    "Level": "80"
+                }
+            ],
+            "NPCs": [
+                {
+                    "Name": "Gaius",
+                    "Url": "/lodestone/playguide/db/npc/npc/12079f645d9/",
+                    "Area": "Trockendock von Castrum Marinum (X:6.0 Y:4.6)"
+                },
+                {
+                    "Name": "Gaius",
+                    "Url": "/lodestone/playguide/db/npc/npc/4ea2c369d0b/",
+                    "Area": "Westliches Thanalan (X:12.1 Y:13.1)"
+                },
+                {
+                    "Name": "Tauchboot-Kommandant",
+                    "Url": "/lodestone/playguide/db/npc/npc/32999ab554b/",
+                    "Area": "Westliches Thanalan (X:12.1 Y:13.1)"
+                },
+                {
+                    "Name": "Militärlogistiker",
+                    "Url": "/lodestone/playguide/db/npc/npc/a4526351191/",
+                    "Area": "Das Fenn (X:10.8 Y:20.5)"
+                },
+                {
+                    "Name": "Gaius",
+                    "Url": "/lodestone/playguide/db/npc/npc/4ea496ea16f/",
+                    "Area": "Wendeklipp (X:6.1 Y:5.9)"
+                },
+                {
+                    "Name": "Gaius",
+                    "Url": "/lodestone/playguide/db/npc/npc/3b227ef5fd1/",
+                    "Area": "Wendeklipp (X:6.3 Y:5.7)"
+                },
+                {
+                    "Name": "Gaius",
+                    "Url": "/lodestone/playguide/db/npc/npc/99b9aab47c8/",
+                    "Area": "Wendeklipp (X:5.4 Y:5.5)"
+                },
+                {
+                    "Name": "Severa",
+                    "Url": "/lodestone/playguide/db/npc/npc/ef4b35455d0/",
+                    "Area": "Wendeklipp (X:6.2 Y:5.8)"
+                },
+                {
+                    "Name": "Severa",
+                    "Url": "/lodestone/playguide/db/npc/npc/092d4c9d3fd/",
+                    "Area": "Wendeklipp (X:5.4 Y:5.5)"
+                },
+                {
+                    "Name": "Severa",
+                    "Url": "/lodestone/playguide/db/npc/npc/929a3f9610a/",
+                    "Area": "Wendeklipp (X:5.3 Y:5.5)"
+                },
+                {
+                    "Name": "Valdeaulin",
+                    "Url": "/lodestone/playguide/db/npc/npc/63a8be244bb/",
+                    "Area": "Wendeklipp (X:6.1 Y:5.8)"
+                },
+                {
+                    "Name": "Valdeaulin",
+                    "Url": "/lodestone/playguide/db/npc/npc/6958da890d5/",
+                    "Area": "Wendeklipp (X:6.2 Y:5.7)"
+                },
+                {
+                    "Name": "Valdeaulin",
+                    "Url": "/lodestone/playguide/db/npc/npc/43ae99a5de4/",
+                    "Area": "Wendeklipp (X:5.4 Y:5.5)"
+                }
+            ]
+        },
+        "Seq": 2,
+        "oldID": 69516,
+        "Map": {
+            "ID": 369
+        }
+    },
+    {
+        "ID": "ac1352f077f",
+        "Name": "Leben für die Freiheit",
+        "Location": "Das Fenn",
+        "Level": 80,
+        "JournalSection": 2,
+        "JournalCategory": 22,
+        "JournalGenre": "Schlacht um Werlyt",
+        "Url": "/lodestone/playguide/db/quest/ac1352f077f/",
+        "Image": "https://img.finalfantasyxiv.com/lds/pc/global/images/itemicon/eb/eb7e4d5950feb1fc19c766a1a1977186b682294e.png?n5.5",
+        "Icon": "function_normal",
+        "Issuer": "Severa",
+        "StartLocation": {
+            "Name": "Wendeklipp",
+            "X": "5.8",
+            "Y": "5.6"
+        },
+        "StartClass": null,
+        "Job": "Krieger oder Magier (außer beschränkte Jobs)",
+        "Company": "Keine Angabe",
+        "Requirement": "Keine Angabe",
+        "Rewards": {
+            "Gil": 0,
+            "Exp": 0,
+            "ItemsMand": [
+                {
+                    "Icon": "https://img.finalfantasyxiv.com/lds/pc/global/images/itemicon/81/812a306f69ecdf949c45a4a2700b5f12f6f44ac7.png?n5.5",
+                    "Name": "Miniatur-G-Krieger",
+                    "Amount": 1,
+                    "Url": "/lodestone/playguide/db/item/f143d56c030/"
+                }
+            ],
+            "ItemsOpt": []
+        },
+        "Infos": {
+            "PrevQuests": [
+                {
+                    "Name": "Gleißendes Leben",
+                    "Url": "/lodestone/playguide/db/quest/e633761020c/",
+                    "Area": "Das Fenn",
+                    "Level": "80"
+                }
+            ],
+            "NextQuests": [
+                {
+                    "Name": "General der Befreiungsarmee",
+                    "Url": "/lodestone/playguide/db/npc/npc/5145fc200b6/",
+                    "Area": "Das Fenn (X:11.3 Y:22.5)"
+                },
+                {
+                    "Name": "Militärlogistiker",
+                    "Url": "/lodestone/playguide/db/npc/npc/a4526351191/",
+                    "Area": "Das Fenn (X:10.8 Y:20.5)"
+                },
+                {
+                    "Name": "Allie",
+                    "Url": "/lodestone/playguide/db/npc/npc/7955dde6419/",
+                    "Area": "Wendeklipp (X:5.7 Y:5.6)"
+                },
+                {
+                    "Name": "Avilina",
+                    "Url": "/lodestone/playguide/db/npc/npc/2e4cb8405cf/",
+                    "Area": "Wendeklipp (X:7.2 Y:7.1)"
+                },
+                {
+                    "Name": "Avilina",
+                    "Url": "/lodestone/playguide/db/npc/npc/e10df967536/",
+                    "Area": "Wendeklipp (X:7.2 Y:7.1)"
+                },
+                {
+                    "Name": "Gaius",
+                    "Url": "/lodestone/playguide/db/npc/npc/40ada3a43ae/",
+                    "Area": "Wendeklipp (X:5.7 Y:5.6)"
+                },
+                {
+                    "Name": "Valdeaulin",
+                    "Url": "/lodestone/playguide/db/npc/npc/837aab91b75/",
+                    "Area": "Wendeklipp (X:5.8 Y:5.6)"
+                }
+            ],
+            "NPCs": [
+                {
+                    "Name": "Das Ende des Waffenprojekts",
+                    "Url": "/lodestone/playguide/db/achievement/5d578415f61/",
+                    "Reward": "-",
+                    "Points": "10"
+                }
+            ]
+        },
+        "Seq": 5,
+        "oldID": 69568,
+        "Map": {
+            "ID": 617
+        }
+    },
+    {
+        "ID": "bf05ca6707e",
+        "Name": "Rubinrote Konfrontation",
+        "Location": "Das Fenn",
+        "Level": 80,
+        "JournalSection": 2,
+        "JournalCategory": 22,
+        "JournalGenre": "Schlacht um Werlyt",
+        "Url": "/lodestone/playguide/db/quest/bf05ca6707e/",
+        "Image": "https://img.finalfantasyxiv.com/lds/pc/global/images/itemicon/f7/f77c106ec7aca7ff32458de66b951c65ed7753a8.png?n5.5",
+        "Icon": "function_normal",
+        "Issuer": "Mhigischer Offizier",
+        "StartLocation": {
+            "Name": "Das Fenn",
+            "X": "36.4",
+            "Y": "31.8"
+        },
+        "StartClass": null,
+        "Job": "Krieger oder Magier (außer beschränkte Jobs)",
+        "Company": "Keine Angabe",
+        "Requirement": "Keine Angabe",
+        "Rewards": {
+            "Gil": 4255,
+            "Exp": 0,
+            "ItemsMand": [],
+            "ItemsOpt": []
+        },
+        "Infos": {
+            "PrevQuests": [
+                {
+                    "Name": "Eine Warnung für die Allianz",
+                    "Url": "/lodestone/playguide/db/quest/ef125190f21/",
+                    "Area": "Sonnenstein",
+                    "Level": "80"
+                }
+            ],
+            "NextQuests": [
+                {
+                    "Name": "Luftangriff auf Werlyt",
+                    "Url": "/lodestone/playguide/db/quest/2204cf37dca/",
+                    "Area": "Das Fenn",
+                    "Level": "80"
+                }
+            ],
+            "NPCs": [
+                {
+                    "Name": "Garlond-Modellbauer",
+                    "Url": "/lodestone/playguide/db/npc/npc/2ccacb99814/",
+                    "Area": "Das Fenn (X:11.5 Y:22.5)"
+                },
+                {
+                    "Name": "General der Befreiungsarmee",
+                    "Url": "/lodestone/playguide/db/npc/npc/5145fc200b6/",
+                    "Area": "Das Fenn (X:11.3 Y:22.5)"
+                },
+                {
+                    "Name": "Offizier der Befreiungsarmee",
+                    "Url": "/lodestone/playguide/db/npc/npc/e68d1b9d13d/",
+                    "Area": "Das Fenn (X:10.9 Y:21.1)"
+                },
+                {
+                    "Name": "Gaius",
+                    "Url": "/lodestone/playguide/db/npc/npc/838118015e4/",
+                    "Area": "Hauptquartier der Allianz (X:6.0 Y:5.9)"
+                },
+                {
+                    "Name": "Gaius",
+                    "Url": "/lodestone/playguide/db/npc/npc/297132b3c24/",
+                    "Area": "Hauptquartier der Allianz (X:6.0 Y:5.9)"
+                },
+                {
+                    "Name": "Gaius",
+                    "Url": "/lodestone/playguide/db/npc/npc/2f3d6396f00/",
+                    "Area": "Hauptquartier der Allianz (X:6.2 Y:6.1)"
+                },
+                {
+                    "Name": "Militärlogistiker",
+                    "Url": "/lodestone/playguide/db/npc/npc/699512f6c45/",
+                    "Area": "Hauptquartier der Allianz (X:6.4 Y:6.1)"
+                },
+                {
+                    "Name": "Severa",
+                    "Url": "/lodestone/playguide/db/npc/npc/64b4394705d/",
+                    "Area": "Hauptquartier der Allianz (X:6.0 Y:5.9)"
+                },
+                {
+                    "Name": "Severa",
+                    "Url": "/lodestone/playguide/db/npc/npc/16f479d538a/",
+                    "Area": "Hauptquartier der Allianz (X:6.0 Y:5.9)"
+                },
+                {
+                    "Name": "Valdeaulin",
+                    "Url": "/lodestone/playguide/db/npc/npc/362bab0b698/",
+                    "Area": "Hauptquartier der Allianz (X:6.1 Y:5.9)"
+                },
+                {
+                    "Name": "Valdeaulin",
+                    "Url": "/lodestone/playguide/db/npc/npc/9a696e7e53f/",
+                    "Area": "Hauptquartier der Allianz (X:6.1 Y:5.9)"
+                }
+            ]
+        },
+        "Seq": 3,
+        "oldID": 69319,
+        "Map": {
+            "ID": 369
+        }
+    },
+    {
+        "ID": "c351fc217ef",
+        "Name": "Mahnmal der Sühne",
+        "Location": "Das Fenn",
+        "Level": 80,
+        "JournalSection": 2,
+        "JournalCategory": 22,
+        "JournalGenre": "Schlacht um Werlyt",
+        "Url": "/lodestone/playguide/db/quest/c351fc217ef/",
+        "Image": "https://img.finalfantasyxiv.com/lds/pc/global/images/itemicon/35/35e1ac7cf3ac40d41936aa70f1b862e48f0616a6.png?n5.5",
+        "Icon": "function_normal",
+        "Issuer": "General der Befreiungsarmee",
+        "StartLocation": {
+            "Name": "Das Fenn",
+            "X": "11.3",
+            "Y": "22.5"
+        },
+        "StartClass": null,
+        "Job": "Krieger oder Magier (außer beschränkte Jobs)",
+        "Company": "Keine Angabe",
+        "Requirement": "Keine Angabe",
+        "Rewards": {
+            "Gil": 855,
+            "Exp": 0,
+            "ItemsMand": [],
+            "ItemsOpt": []
+        },
+        "Infos": {
+            "PrevQuests": [
+                {
+                    "Name": "Blutsmaragd",
+                    "Url": "/lodestone/playguide/db/quest/931c52aabb5/",
+                    "Area": "Das Fenn",
+                    "Level": "80"
+                }
+            ],
+            "NextQuests": [
+                {
+                    "Name": "Gleißendes Leben",
+                    "Url": "/lodestone/playguide/db/quest/e633761020c/",
+                    "Area": "Das Fenn",
+                    "Level": "80"
+                }
+            ],
+            "NPCs": [
+                {
+                    "Name": "Militärlogistiker",
+                    "Url": "/lodestone/playguide/db/npc/npc/a4526351191/",
+                    "Area": "Das Fenn (X:10.8 Y:20.5)"
+                },
+                {
+                    "Name": "Avilina",
+                    "Url": "/lodestone/playguide/db/npc/npc/705fdf49b08/",
+                    "Area": "Wendeklipp (X:6.2 Y:6.0)"
+                },
+                {
+                    "Name": "Betrübte Bürgerin",
+                    "Url": "/lodestone/playguide/db/npc/npc/8cef9360ba7/",
+                    "Area": "Wendeklipp (X:7.2 Y:6.1)"
+                },
+                {
+                    "Name": "Muskulöser Garlond-Arbeiter",
+                    "Url": "/lodestone/playguide/db/npc/npc/83b5fc7c45a/",
+                    "Area": "Wendeklipp (X:6.1 Y:6.0)"
+                }
+            ]
+        },
+        "Seq": 3,
+        "oldID": 69517,
+        "Map": {
+            "ID": 369
+        }
+    },
+    {
+        "ID": "e633761020c",
+        "Name": "Gleißendes Leben",
+        "Location": "Das Fenn",
+        "Level": 80,
+        "JournalSection": 2,
+        "JournalCategory": 22,
+        "JournalGenre": "Schlacht um Werlyt",
+        "Url": "/lodestone/playguide/db/quest/e633761020c/",
+        "Image": "https://img.finalfantasyxiv.com/lds/pc/global/images/itemicon/ef/ef7db43cda82de299afef092dd70b1488bbd7f0e.png?n5.5",
+        "Icon": "function_normal",
+        "Issuer": "General der Befreiungsarmee",
+        "StartLocation": {
+            "Name": "Das Fenn",
+            "X": "11.3",
+            "Y": "22.5"
+        },
+        "StartClass": null,
+        "Job": "Krieger oder Magier (außer beschränkte Jobs)",
+        "Company": "Keine Angabe",
+        "Requirement": "Keine Angabe",
+        "Rewards": {
+            "Gil": 0,
+            "Exp": 0,
+            "ItemsMand": [
+                {
+                    "Icon": "https://img.finalfantasyxiv.com/lds/pc/global/images/itemicon/7e/7eaa53e1fe9e2bd80f81d9ce69c98c24f6223b0b.png?n5.5",
+                    "Name": "Notenrolle von „And Love You Shall Find“",
+                    "Amount": 1,
+                    "Url": "/lodestone/playguide/db/item/ee0076b250a/"
+                }
+            ],
+            "ItemsOpt": []
+        },
+        "Infos": {
+            "PrevQuests": [
+                {
+                    "Name": "Mahnmal der Sühne",
+                    "Url": "/lodestone/playguide/db/quest/c351fc217ef/",
+                    "Area": "Das Fenn",
+                    "Level": "80"
+                }
+            ],
+            "NextQuests": [
+                {
+                    "Name": "Leben für die Freiheit",
+                    "Url": "/lodestone/playguide/db/quest/ac1352f077f/",
+                    "Area": "Das Fenn",
+                    "Level": "80"
+                }
+            ],
+            "NPCs": [
+                {
+                    "Name": "Militärlogistiker",
+                    "Url": "/lodestone/playguide/db/npc/npc/a4526351191/",
+                    "Area": "Das Fenn (X:10.8 Y:20.5)"
+                },
+                {
+                    "Name": "Pilot der Garlond-Metallwerke",
+                    "Url": "/lodestone/playguide/db/npc/npc/cff47247620/",
+                    "Area": "Das Fenn (X:10.8 Y:20.6)"
+                },
+                {
+                    "Name": "M'naago",
+                    "Url": "/lodestone/playguide/db/npc/npc/599ba2bae3c/",
+                    "Area": "Rhalgrs Wacht (X:14.6 Y:9.4)"
+                },
+                {
+                    "Name": "Avilina",
+                    "Url": "/lodestone/playguide/db/npc/npc/41941609af9/",
+                    "Area": "Gefechtsplattform des G-Retters (X:5.6 Y:5.9)"
+                },
+                {
+                    "Name": "Cid",
+                    "Url": "/lodestone/playguide/db/npc/npc/d973e75cda6/",
+                    "Area": "Gefechtsplattform des G-Retters (X:5.6 Y:5.8)"
+                },
+                {
+                    "Name": "Gaius",
+                    "Url": "/lodestone/playguide/db/npc/npc/fa996ebe3df/",
+                    "Area": "Gefechtsplattform des G-Retters (X:5.7 Y:5.8)"
+                },
+                {
+                    "Name": "Severa",
+                    "Url": "/lodestone/playguide/db/npc/npc/8e4ed8784cc/",
+                    "Area": "Gefechtsplattform des G-Retters (X:5.6 Y:5.9)"
+                },
+                {
+                    "Name": "Anführer der Revolutionäre",
+                    "Url": "/lodestone/playguide/db/npc/npc/bf915849d61/",
+                    "Area": "Wendeklipp (X:6.3 Y:5.7)"
+                },
+                {
+                    "Name": "Gaius",
+                    "Url": "/lodestone/playguide/db/npc/npc/4ea496ea16f/",
+                    "Area": "Wendeklipp (X:6.1 Y:5.9)"
+                },
+                {
+                    "Name": "Gaius",
+                    "Url": "/lodestone/playguide/db/npc/npc/3b227ef5fd1/",
+                    "Area": "Wendeklipp (X:6.3 Y:5.7)"
+                },
+                {
+                    "Name": "Gaius",
+                    "Url": "/lodestone/playguide/db/npc/npc/cdb0fefb4b4/",
+                    "Area": "Wendeklipp (X:7.0 Y:6.9)"
+                },
+                {
+                    "Name": "Pilot der Garlond-Metallwerke",
+                    "Url": "/lodestone/playguide/db/npc/npc/75f5ee95be5/",
+                    "Area": "Wendeklipp (X:6.1 Y:5.9)"
+                },
+                {
+                    "Name": "Revolutionär von Werlyt",
+                    "Url": "/lodestone/playguide/db/npc/npc/509a1f5c885/",
+                    "Area": "Wendeklipp (X:6.3 Y:5.7)"
+                },
+                {
+                    "Name": "Severa",
+                    "Url": "/lodestone/playguide/db/npc/npc/ef4b35455d0/",
+                    "Area": "Wendeklipp (X:6.2 Y:5.8)"
+                },
+                {
+                    "Name": "Severa",
+                    "Url": "/lodestone/playguide/db/npc/npc/b9134ba539c/",
+                    "Area": "Wendeklipp (X:7.1 Y:6.9)"
+                },
+                {
+                    "Name": "Severa",
+                    "Url": "/lodestone/playguide/db/npc/npc/d1282c8b9cd/",
+                    "Area": "Wendeklipp (X:5.8 Y:5.6)"
+                },
+                {
+                    "Name": "Valdeaulin",
+                    "Url": "/lodestone/playguide/db/npc/npc/837aab91b75/",
+                    "Area": "Wendeklipp (X:5.8 Y:5.6)"
+                }
+            ]
+        },
+        "Seq": 4,
+        "oldID": 69567,
+        "Map": {
+            "ID": 369
+        }
+    }
+]

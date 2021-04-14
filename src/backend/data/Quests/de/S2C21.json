@@ -1,0 +1,1777 @@
+[
+    {
+        "ID": "19390ac302f",
+        "Name": "Des einen Tand ...",
+        "Location": "Kholusia",
+        "Level": 80,
+        "JournalSection": 2,
+        "JournalCategory": 21,
+        "JournalGenre": "YoRHa: Dark Apocalypse",
+        "Url": "/lodestone/playguide/db/quest/19390ac302f/",
+        "Image": null,
+        "Icon": "function_repeat",
+        "Issuer": "Ratloser Gogg",
+        "StartLocation": {
+            "Name": "Kholusia",
+            "X": "34.5",
+            "Y": "18.0"
+        },
+        "StartClass": null,
+        "Job": "Krieger oder Magier (außer beschränkte Jobs)",
+        "Company": "Keine Angabe",
+        "Requirement": "Keine Angabe",
+        "Rewards": {
+            "Gil": 310,
+            "Exp": 0,
+            "ItemsMand": [],
+            "ItemsOpt": []
+        },
+        "Infos": {
+            "PrevQuests": [
+                {
+                    "Name": "Zart blüht die Hoffnung",
+                    "Url": "/lodestone/playguide/db/quest/e40ede1be5f/",
+                    "Area": "Kholusia",
+                    "Level": "80"
+                }
+            ]
+        },
+        "Seq": 16,
+        "oldID": 69586,
+        "Map": {
+            "ID": 492
+        }
+    },
+    {
+        "ID": "4bd0d3f34f3",
+        "Name": "Schuld und Sühne",
+        "Location": "Anoggs Zimmer",
+        "Level": 80,
+        "JournalSection": 2,
+        "JournalCategory": 21,
+        "JournalGenre": "YoRHa: Dark Apocalypse",
+        "Url": "/lodestone/playguide/db/quest/4bd0d3f34f3/",
+        "Image": "https://img.finalfantasyxiv.com/lds/pc/global/images/itemicon/27/27c43b136598849945edcd582e80736daa7b23d9.png?n5.5",
+        "Icon": "function_normal",
+        "Issuer": "Konogg",
+        "StartLocation": {
+            "Name": "Alter Stollen",
+            "X": "6.1",
+            "Y": "6.0"
+        },
+        "StartClass": null,
+        "Job": "Krieger oder Magier (außer beschränkte Jobs)",
+        "Company": "Keine Angabe",
+        "Requirement": "Keine Angabe",
+        "Rewards": {
+            "Gil": 0,
+            "Exp": 0,
+            "ItemsMand": [
+                {
+                    "Icon": "https://img.finalfantasyxiv.com/lds/pc/global/images/itemicon/7e/7eaa53e1fe9e2bd80f81d9ce69c98c24f6223b0b.png?n5.5",
+                    "Name": "Notenrolle von „Broken Heart“",
+                    "Amount": 1,
+                    "Url": "/lodestone/playguide/db/item/f05eedca46b/"
+                }
+            ],
+            "ItemsOpt": []
+        },
+        "Infos": {
+            "PrevQuests": [
+                {
+                    "Name": "Auferstanden von den Toten",
+                    "Url": "/lodestone/playguide/db/quest/a0328655d65/",
+                    "Area": "Alter Stollen",
+                    "Level": "80"
+                }
+            ],
+            "NextQuests": [
+                {
+                    "Name": "Kummer in Kugelform",
+                    "Url": "/lodestone/playguide/db/quest/815c32e14aa/",
+                    "Area": "Kholusia",
+                    "Level": "80"
+                }
+            ],
+            "NPCs": [
+                {
+                    "Name": "Anogg",
+                    "Url": "/lodestone/playguide/db/npc/npc/9ad5908213f/",
+                    "Area": "Alter Stollen (X:5.9 Y:5.0)"
+                },
+                {
+                    "Name": "Anogg",
+                    "Url": "/lodestone/playguide/db/npc/npc/699ea11751b/",
+                    "Area": "Alter Stollen (X:6.1 Y:6.0)"
+                },
+                {
+                    "Name": "Aufgeregter Gogg",
+                    "Url": "/lodestone/playguide/db/npc/npc/046944276fa/",
+                    "Area": "Alter Stollen (X:6.0 Y:5.0)"
+                },
+                {
+                    "Name": "Findiger Gogg",
+                    "Url": "/lodestone/playguide/db/npc/npc/2e156558ef7/",
+                    "Area": "Alter Stollen (X:5.9 Y:5.1)"
+                },
+                {
+                    "Name": "Konogg",
+                    "Url": "/lodestone/playguide/db/npc/npc/4d734cc4ccc/",
+                    "Area": "Alter Stollen (X:5.9 Y:5.0)"
+                },
+                {
+                    "Name": "Kühner Gogg",
+                    "Url": "/lodestone/playguide/db/npc/npc/c054d0ec190/",
+                    "Area": "Alter Stollen (X:6.0 Y:5.1)"
+                },
+                {
+                    "Name": "Papa Glagg",
+                    "Url": "/lodestone/playguide/db/npc/npc/bf39bcd95fe/",
+                    "Area": "Alter Stollen (X:5.9 Y:5.0)"
+                },
+                {
+                    "Name": "Ratloser Gogg",
+                    "Url": "/lodestone/playguide/db/npc/npc/3f301c410ed/",
+                    "Area": "Alter Stollen (X:6.0 Y:5.0)"
+                },
+                {
+                    "Name": "Vorarbeiter",
+                    "Url": "/lodestone/playguide/db/npc/npc/32e4556bcac/",
+                    "Area": "Alter Stollen (X:5.9 Y:5.1)"
+                },
+                {
+                    "Name": "Vorarbeiter",
+                    "Url": "/lodestone/playguide/db/npc/npc/d3a6bcaf8c1/",
+                    "Area": "Alter Stollen (X:5.9 Y:5.0)"
+                },
+                {
+                    "Name": "Zaghafter Gogg",
+                    "Url": "/lodestone/playguide/db/npc/npc/3b8fb3053bd/",
+                    "Area": "Alter Stollen (X:5.9 Y:4.9)"
+                },
+                {
+                    "Name": "Konogg",
+                    "Url": "/lodestone/playguide/db/npc/npc/22932568db3/",
+                    "Area": "Kholusia (X:33.8 Y:18.0)"
+                }
+            ]
+        },
+        "Seq": 10,
+        "oldID": 69490,
+        "Map": {
+            "ID": 614
+        }
+    },
+    {
+        "ID": "5d1432411a8",
+        "Name": "Tapfere Taten und kühne Kämpfe",
+        "Location": "Kholusia",
+        "Level": 80,
+        "JournalSection": 2,
+        "JournalCategory": 21,
+        "JournalGenre": "YoRHa: Dark Apocalypse",
+        "Url": "/lodestone/playguide/db/quest/5d1432411a8/",
+        "Image": null,
+        "Icon": "function_repeat",
+        "Issuer": "Kühner Gogg",
+        "StartLocation": {
+            "Name": "Kholusia",
+            "X": "34.5",
+            "Y": "18.0"
+        },
+        "StartClass": null,
+        "Job": "Krieger oder Magier (außer beschränkte Jobs)",
+        "Company": "Keine Angabe",
+        "Requirement": "Keine Angabe",
+        "Rewards": {
+            "Gil": 310,
+            "Exp": 0,
+            "ItemsMand": [],
+            "ItemsOpt": []
+        },
+        "Infos": {
+            "PrevQuests": [
+                {
+                    "Name": "Findiger Gogg",
+                    "Url": "/lodestone/playguide/db/npc/npc/6550c2ae2ae/",
+                    "Area": "Kholusia (X:34.5 Y:18.0)"
+                },
+                {
+                    "Name": "Ratloser Gogg",
+                    "Url": "/lodestone/playguide/db/npc/npc/f2e24122dc3/",
+                    "Area": "Kholusia (X:34.5 Y:18.0)"
+                }
+            ]
+        },
+        "Seq": 18,
+        "oldID": 69588,
+        "Map": {
+            "ID": 492
+        }
+    },
+    {
+        "ID": "72a6f70a79f",
+        "Name": "Anoggs Abenteuerlust",
+        "Location": "Die kopierte Fabrik",
+        "Level": 80,
+        "JournalSection": 2,
+        "JournalCategory": 21,
+        "JournalGenre": "YoRHa: Dark Apocalypse",
+        "Url": "/lodestone/playguide/db/quest/72a6f70a79f/",
+        "Image": "https://img.finalfantasyxiv.com/lds/pc/global/images/itemicon/29/294dee4fbc1661a287a1407082e17b7e06715dcf.png?n5.5",
+        "Icon": "function_normal",
+        "Issuer": "Anogg",
+        "StartLocation": {
+            "Name": "Die kopierte Fabrik",
+            "X": "13.4",
+            "Y": "17.5"
+        },
+        "StartClass": null,
+        "Job": "Krieger oder Magier (außer beschränkte Jobs)",
+        "Company": "Keine Angabe",
+        "Requirement": "Keine Angabe",
+        "Rewards": {
+            "Gil": 1455,
+            "Exp": 0,
+            "ItemsMand": [
+                {
+                    "Icon": "https://img.finalfantasyxiv.com/lds/pc/global/images/itemicon/7e/7eaa53e1fe9e2bd80f81d9ce69c98c24f6223b0b.png?n5.5",
+                    "Name": "Notenrolle von „Voice of no Return (Guitar)“",
+                    "Amount": 1,
+                    "Url": "/lodestone/playguide/db/item/01f68664010/"
+                }
+            ],
+            "ItemsOpt": []
+        },
+        "Infos": {
+            "PrevQuests": [
+                {
+                    "Name": "Zwischen Wracks, Ruinen und Geheimnissen",
+                    "Url": "/lodestone/playguide/db/quest/8169b41d06c/",
+                    "Area": "Alter Stollen",
+                    "Level": "80"
+                }
+            ],
+            "NextQuests": [
+                {
+                    "Name": "Zwillingszwist",
+                    "Url": "/lodestone/playguide/db/quest/f59f3e86cb3/",
+                    "Area": "Kholusia",
+                    "Level": "80"
+                }
+            ],
+            "NPCs": [
+                {
+                    "Name": "Anogg",
+                    "Url": "/lodestone/playguide/db/npc/npc/0d779657630/",
+                    "Area": "Alter Stollen (X:6.0 Y:4.3)"
+                },
+                {
+                    "Name": "Anogg",
+                    "Url": "/lodestone/playguide/db/npc/npc/7f9cc63ddb1/",
+                    "Area": "Alter Stollen (X:5.8 Y:4.7)"
+                },
+                {
+                    "Name": "Konogg",
+                    "Url": "/lodestone/playguide/db/npc/npc/15abaa804dd/",
+                    "Area": "Alter Stollen (X:5.8 Y:4.7)"
+                },
+                {
+                    "Name": "Pod",
+                    "Url": "/lodestone/playguide/db/npc/npc/6dc4333773d/",
+                    "Area": "Alter Stollen (X:5.8 Y:4.7)"
+                },
+                {
+                    "Name": "Anogg",
+                    "Url": "/lodestone/playguide/db/npc/npc/613b51df7a5/",
+                    "Area": "Die kopierte Fabrik (X:11.9 Y:7.3)"
+                },
+                {
+                    "Name": "Anogg",
+                    "Url": "/lodestone/playguide/db/npc/npc/7b43a078849/",
+                    "Area": "Die kopierte Fabrik (X:9.9 Y:6.7)"
+                },
+                {
+                    "Name": "Anogg",
+                    "Url": "/lodestone/playguide/db/npc/npc/d249e54348a/",
+                    "Area": "Die kopierte Fabrik (X:12.2 Y:9.8)"
+                },
+                {
+                    "Name": "Anogg",
+                    "Url": "/lodestone/playguide/db/npc/npc/e1ded9f70e7/",
+                    "Area": "Die kopierte Fabrik (X:11.2 Y:15.4)"
+                },
+                {
+                    "Name": "Defekter Pod",
+                    "Url": "/lodestone/playguide/db/npc/npc/ff8a2688777/",
+                    "Area": "Die kopierte Fabrik (X:11.4 Y:10.4)"
+                },
+                {
+                    "Name": "Konogg",
+                    "Url": "/lodestone/playguide/db/npc/npc/71b5da21c0a/",
+                    "Area": "Die kopierte Fabrik (X:11.2 Y:15.4)"
+                },
+                {
+                    "Name": "Konogg",
+                    "Url": "/lodestone/playguide/db/npc/npc/52a6ba85e3f/",
+                    "Area": "Die kopierte Fabrik (X:13.4 Y:17.5)"
+                },
+                {
+                    "Name": "Vorarbeiter",
+                    "Url": "/lodestone/playguide/db/npc/npc/66471f2a8e8/",
+                    "Area": "Kholusia (X:34.7 Y:18.2)"
+                }
+            ]
+        },
+        "Seq": 4,
+        "oldID": 69256,
+        "Map": {
+            "ID": 578
+        }
+    },
+    {
+        "ID": "743d0eaef54",
+        "Name": "Komras kaltes Herz",
+        "Location": "Kholusia",
+        "Level": 80,
+        "JournalSection": 2,
+        "JournalCategory": 21,
+        "JournalGenre": "YoRHa: Dark Apocalypse",
+        "Url": "/lodestone/playguide/db/quest/743d0eaef54/",
+        "Image": "https://img.finalfantasyxiv.com/lds/pc/global/images/itemicon/a0/a091cd3aa537428a486acc2787a274c6a1cdc315.png?n5.5",
+        "Icon": "function_normal",
+        "Issuer": "Vorarbeiter",
+        "StartLocation": {
+            "Name": "Kholusia",
+            "X": "35.5",
+            "Y": "18.6"
+        },
+        "StartClass": null,
+        "Job": "Krieger oder Magier (außer beschränkte Jobs)",
+        "Company": "Keine Angabe",
+        "Requirement": "Keine Angabe",
+        "Rewards": {
+            "Gil": 1255,
+            "Exp": 0,
+            "ItemsMand": [],
+            "ItemsOpt": []
+        },
+        "Infos": {
+            "PrevQuests": [
+                {
+                    "Name": "Des Schicksals grausam Ränke",
+                    "Url": "/lodestone/playguide/db/quest/bf682344248/",
+                    "Area": "Die Puppenfestung",
+                    "Level": "80"
+                }
+            ],
+            "NextQuests": [
+                {
+                    "Name": "Zart blüht die Hoffnung",
+                    "Url": "/lodestone/playguide/db/quest/e40ede1be5f/",
+                    "Area": "Kholusia",
+                    "Level": "80"
+                }
+            ],
+            "NPCs": [
+                {
+                    "Name": "Aufgeregter Gogg",
+                    "Url": "/lodestone/playguide/db/npc/npc/45b9315a914/",
+                    "Area": "Alter Stollen (X:6.1 Y:5.0)"
+                },
+                {
+                    "Name": "Findiger Gogg",
+                    "Url": "/lodestone/playguide/db/npc/npc/db2b1b80d90/",
+                    "Area": "Alter Stollen (X:6.2 Y:5.0)"
+                },
+                {
+                    "Name": "Konogg",
+                    "Url": "/lodestone/playguide/db/npc/npc/5633b656751/",
+                    "Area": "Alter Stollen (X:5.8 Y:4.7)"
+                },
+                {
+                    "Name": "Konogg",
+                    "Url": "/lodestone/playguide/db/npc/npc/6a872dddc3b/",
+                    "Area": "Alter Stollen (X:6.1 Y:6.0)"
+                },
+                {
+                    "Name": "Kühner Gogg",
+                    "Url": "/lodestone/playguide/db/npc/npc/3528ce9b9ca/",
+                    "Area": "Alter Stollen (X:6.2 Y:5.1)"
+                },
+                {
+                    "Name": "Papa Glagg",
+                    "Url": "/lodestone/playguide/db/npc/npc/0d1132479b6/",
+                    "Area": "Alter Stollen (X:6.1 Y:5.0)"
+                },
+                {
+                    "Name": "Pod",
+                    "Url": "/lodestone/playguide/db/npc/npc/719f5ec99a4/",
+                    "Area": "Alter Stollen (X:5.8 Y:4.8)"
+                },
+                {
+                    "Name": "Ratloser Gogg",
+                    "Url": "/lodestone/playguide/db/npc/npc/8878015c673/",
+                    "Area": "Alter Stollen (X:6.1 Y:5.0)"
+                },
+                {
+                    "Name": "Vorarbeiter",
+                    "Url": "/lodestone/playguide/db/npc/npc/cb0aa1388b1/",
+                    "Area": "Alter Stollen (X:5.9 Y:4.8)"
+                },
+                {
+                    "Name": "Vorarbeiter",
+                    "Url": "/lodestone/playguide/db/npc/npc/33a30df056d/",
+                    "Area": "Alter Stollen (X:6.1 Y:5.0)"
+                },
+                {
+                    "Name": "Zaghafter Gogg",
+                    "Url": "/lodestone/playguide/db/npc/npc/f39b171ca12/",
+                    "Area": "Alter Stollen (X:6.1 Y:5.1)"
+                },
+                {
+                    "Name": "Vorarbeiter",
+                    "Url": "/lodestone/playguide/db/npc/npc/66471f2a8e8/",
+                    "Area": "Kholusia (X:34.7 Y:18.2)"
+                }
+            ]
+        },
+        "Seq": 14,
+        "oldID": 69572,
+        "Map": {
+            "ID": null
+        }
+    },
+    {
+        "ID": "763be877846",
+        "Name": "Meisterhafter Merkantilismus",
+        "Location": "Kholusia",
+        "Level": 80,
+        "JournalSection": 2,
+        "JournalCategory": 21,
+        "JournalGenre": "YoRHa: Dark Apocalypse",
+        "Url": "/lodestone/playguide/db/quest/763be877846/",
+        "Image": null,
+        "Icon": "function_repeat",
+        "Issuer": "Findiger Gogg",
+        "StartLocation": {
+            "Name": "Kholusia",
+            "X": "34.5",
+            "Y": "18.0"
+        },
+        "StartClass": null,
+        "Job": "Krieger oder Magier (außer beschränkte Jobs)",
+        "Company": "Keine Angabe",
+        "Requirement": "Keine Angabe",
+        "Rewards": {
+            "Gil": 310,
+            "Exp": 0,
+            "ItemsMand": [],
+            "ItemsOpt": []
+        },
+        "Infos": {},
+        "Seq": 17,
+        "oldID": 69587,
+        "Map": {
+            "ID": 492
+        }
+    },
+    {
+        "ID": "815c32e14aa",
+        "Name": "Kummer in Kugelform",
+        "Location": "Kholusia",
+        "Level": 80,
+        "JournalSection": 2,
+        "JournalCategory": 21,
+        "JournalGenre": "YoRHa: Dark Apocalypse",
+        "Url": "/lodestone/playguide/db/quest/815c32e14aa/",
+        "Image": "https://img.finalfantasyxiv.com/lds/pc/global/images/itemicon/93/936061a9d6ea1da64ab91980fd7324425facb2d4.png?n5.5",
+        "Icon": "function_normal",
+        "Issuer": "Konogg",
+        "StartLocation": {
+            "Name": "Kholusia",
+            "X": "33.8",
+            "Y": "18.0"
+        },
+        "StartClass": null,
+        "Job": "Krieger oder Magier (außer beschränkte Jobs)",
+        "Company": "Keine Angabe",
+        "Requirement": "Keine Angabe",
+        "Rewards": {
+            "Gil": 1500,
+            "Exp": 0,
+            "ItemsMand": [],
+            "ItemsOpt": []
+        },
+        "Infos": {
+            "PrevQuests": [
+                {
+                    "Name": "Schuld und Sühne",
+                    "Url": "/lodestone/playguide/db/quest/4bd0d3f34f3/",
+                    "Area": "Anoggs Zimmer",
+                    "Level": "80"
+                }
+            ],
+            "NextQuests": [
+                {
+                    "Name": "Kummerkrank",
+                    "Url": "/lodestone/playguide/db/quest/ca9e90fcc8b/",
+                    "Area": "Kholusia",
+                    "Level": "80"
+                }
+            ],
+            "NPCs": [
+                {
+                    "Name": "Konogg",
+                    "Url": "/lodestone/playguide/db/npc/npc/af1427a70f1/",
+                    "Area": "Alter Stollen (X:5.7 Y:4.7)"
+                },
+                {
+                    "Name": "Findiger Gogg",
+                    "Url": "/lodestone/playguide/db/npc/npc/9233d47bcee/",
+                    "Area": "Kholusia (X:34.6 Y:18.5)"
+                },
+                {
+                    "Name": "Konogg",
+                    "Url": "/lodestone/playguide/db/npc/npc/4415744f247/",
+                    "Area": "Kholusia (X:34.9 Y:26.9)"
+                },
+                {
+                    "Name": "Konogg",
+                    "Url": "/lodestone/playguide/db/npc/npc/a2136e20361/",
+                    "Area": "Kholusia (X:32.1 Y:17.7)"
+                },
+                {
+                    "Name": "Konogg",
+                    "Url": "/lodestone/playguide/db/npc/npc/625a09f4ba7/",
+                    "Area": "Kholusia (X:33.8 Y:18.0)"
+                },
+                {
+                    "Name": "Konogg",
+                    "Url": "/lodestone/playguide/db/npc/npc/5b3ea7795e4/",
+                    "Area": "Kholusia (X:29.7 Y:18.2)"
+                },
+                {
+                    "Name": "Konogg",
+                    "Url": "/lodestone/playguide/db/npc/npc/a6d22ebfa46/",
+                    "Area": "Kholusia (X:20.8 Y:20.7)"
+                },
+                {
+                    "Name": "Konogg",
+                    "Url": "/lodestone/playguide/db/npc/npc/5f42a8754eb/",
+                    "Area": "Kholusia (X:11.9 Y:20.4)"
+                },
+                {
+                    "Name": "Konogg",
+                    "Url": "/lodestone/playguide/db/npc/npc/755ae9dffd3/",
+                    "Area": "Kholusia (X:12.4 Y:23.3)"
+                },
+                {
+                    "Name": "Konogg",
+                    "Url": "/lodestone/playguide/db/npc/npc/5a763c84ce7/",
+                    "Area": "Kholusia (X:33.7 Y:16.9)"
+                },
+                {
+                    "Name": "Ratloser Gogg",
+                    "Url": "/lodestone/playguide/db/npc/npc/ff26c7304ea/",
+                    "Area": "Kholusia (X:34.6 Y:18.5)"
+                },
+                {
+                    "Name": "Vorarbeiter",
+                    "Url": "/lodestone/playguide/db/npc/npc/66471f2a8e8/",
+                    "Area": "Kholusia (X:34.7 Y:18.2)"
+                }
+            ]
+        },
+        "Seq": 11,
+        "oldID": 69534,
+        "Map": {
+            "ID": 492
+        }
+    },
+    {
+        "ID": "8169b41d06c",
+        "Name": "Zwischen Wracks, Ruinen und Geheimnissen",
+        "Location": "Alter Stollen",
+        "Level": 80,
+        "JournalSection": 2,
+        "JournalCategory": 21,
+        "JournalGenre": "YoRHa: Dark Apocalypse",
+        "Url": "/lodestone/playguide/db/quest/8169b41d06c/",
+        "Image": null,
+        "Icon": "function_normal",
+        "Issuer": "Anogg",
+        "StartLocation": {
+            "Name": "Alter Stollen",
+            "X": "5.9",
+            "Y": "4.7"
+        },
+        "StartClass": null,
+        "Job": "Krieger oder Magier (außer beschränkte Jobs)",
+        "Company": "Keine Angabe",
+        "Requirement": "Keine Angabe",
+        "Rewards": {
+            "Gil": 695,
+            "Exp": 0,
+            "ItemsMand": [],
+            "ItemsOpt": []
+        },
+        "Infos": {
+            "PrevQuests": [
+                {
+                    "Name": "Hinter verschlossenen Türen",
+                    "Url": "/lodestone/playguide/db/quest/bf797dd3937/",
+                    "Area": "Kholusia",
+                    "Level": "80"
+                }
+            ],
+            "NextQuests": [
+                {
+                    "Name": "Anoggs Abenteuerlust",
+                    "Url": "/lodestone/playguide/db/quest/72a6f70a79f/",
+                    "Area": "Die kopierte Fabrik",
+                    "Level": "80"
+                },
+                {
+                    "Name": "Konoggs kühler Kopf",
+                    "Url": "/lodestone/playguide/db/quest/989bdf3c51c/",
+                    "Area": "Die kopierte Fabrik",
+                    "Level": "80"
+                }
+            ],
+            "NPCs": [
+                {
+                    "Name": "Konogg",
+                    "Url": "/lodestone/playguide/db/npc/npc/c74645dba57/",
+                    "Area": "Alter Stollen (X:5.9 Y:4.7)"
+                },
+                {
+                    "Name": "Anogg",
+                    "Url": "/lodestone/playguide/db/npc/npc/44144a8d52f/",
+                    "Area": "Die kopierte Fabrik (X:13.4 Y:17.5)"
+                },
+                {
+                    "Name": "Konogg",
+                    "Url": "/lodestone/playguide/db/npc/npc/52a6ba85e3f/",
+                    "Area": "Die kopierte Fabrik (X:13.4 Y:17.5)"
+                }
+            ]
+        },
+        "Seq": 3,
+        "oldID": 69255,
+        "Map": {
+            "ID": 575
+        }
+    },
+    {
+        "ID": "89c95b41c81",
+        "Name": " Zwergengeflüster",
+        "Location": "Kholusia",
+        "Level": 70,
+        "JournalSection": 2,
+        "JournalCategory": 21,
+        "JournalGenre": "YoRHa: Dark Apocalypse",
+        "Url": "/lodestone/playguide/db/quest/89c95b41c81/",
+        "Image": null,
+        "Icon": "function_normal",
+        "Issuer": "Tratschender Zwerg",
+        "StartLocation": {
+            "Name": "Kholusia",
+            "X": "12.9",
+            "Y": "8.7"
+        },
+        "StartClass": null,
+        "Job": "",
+        "Company": "Keine Angabe",
+        "Requirement": "Keine Angabe",
+        "Rewards": {
+            "Gil": 1279,
+            "Exp": null,
+            "ItemsMand": [],
+            "ItemsOpt": [
+                {
+                    "Icon": "https://img.finalfantasyxiv.com/lds/pc/global/images/itemicon/71/71860f9db7c2800909350796c376b286964a25c9.png?n5.5",
+                    "Name": "Paella",
+                    "Amount": 2,
+                    "Url": "/lodestone/playguide/db/item/af1118e0f5f/"
+                },
+                {
+                    "Icon": "https://img.finalfantasyxiv.com/lds/pc/global/images/itemicon/9b/9bcbc49a589a34378dcea2d9d2a4e6e8f28564f4.png?n5.5",
+                    "Name": "Cordon bleu vom Ovim",
+                    "Amount": 2,
+                    "Url": "/lodestone/playguide/db/item/7e79001bf0c/"
+                },
+                {
+                    "Icon": "https://img.finalfantasyxiv.com/lds/pc/global/images/itemicon/1a/1a667017e3e2bb679c546fdc0a40273b4b0d4281.png?n5.5",
+                    "Name": "Limonade",
+                    "Amount": 2,
+                    "Url": "/lodestone/playguide/db/item/8055bb19c73/"
+                },
+                {
+                    "Icon": "https://img.finalfantasyxiv.com/lds/pc/global/images/itemicon/66/66eb4cd1ad7c73e0c008f0b39e2fc79fe0fe415b.png?n5.5",
+                    "Name": "Harcot-Kompott",
+                    "Amount": 2,
+                    "Url": "/lodestone/playguide/db/item/404134085d3/"
+                },
+                {
+                    "Icon": "https://img.finalfantasyxiv.com/lds/pc/global/images/itemicon/ba/baa2341dd17414fae7fd62ae7bc62c64589b67be.png?n5.5",
+                    "Name": "Antikes Silberstück",
+                    "Amount": 3,
+                    "Url": "/lodestone/playguide/db/item/50ed823230e/"
+                }
+            ]
+        },
+        "Infos": {
+            "PrevQuests": [
+                {
+                    "Name": "Prüfung aus dem Stollen der Geschichte",
+                    "Url": "/lodestone/playguide/db/quest/990b7143c29/",
+                    "Area": "Kholusia",
+                    "Level": "78"
+                }
+            ],
+            "NextQuests": [
+                {
+                    "Name": "Kabale in Komra",
+                    "Url": "/lodestone/playguide/db/quest/b3e20c46e23/",
+                    "Area": "Kholusia",
+                    "Level": "80"
+                }
+            ],
+            "NPCs": [
+                {
+                    "Name": "Anogg",
+                    "Url": "/lodestone/playguide/db/npc/npc/9586ee2f246/",
+                    "Area": "Kholusia (X:34.7 Y:18.2)"
+                },
+                {
+                    "Name": "Anogg",
+                    "Url": "/lodestone/playguide/db/npc/npc/d9f99997377/",
+                    "Area": "Kholusia (X:36.2 Y:19.7)"
+                },
+                {
+                    "Name": "Konogg",
+                    "Url": "/lodestone/playguide/db/npc/npc/5449928b32e/",
+                    "Area": "Kholusia (X:34.7 Y:18.2)"
+                },
+                {
+                    "Name": "Konogg",
+                    "Url": "/lodestone/playguide/db/npc/npc/8da2d50c167/",
+                    "Area": "Kholusia (X:36.2 Y:19.7)"
+                },
+                {
+                    "Name": "Stollenwächter",
+                    "Url": "/lodestone/playguide/db/npc/npc/227ae00c36d/",
+                    "Area": "Kholusia (X:36.2 Y:19.7)"
+                },
+                {
+                    "Name": "Vorarbeiter",
+                    "Url": "/lodestone/playguide/db/npc/npc/92e65713c48/",
+                    "Area": "Kholusia (X:36.1 Y:19.8)"
+                },
+                {
+                    "Name": "Vorarbeiter",
+                    "Url": "/lodestone/playguide/db/npc/npc/319eb45059e/",
+                    "Area": "Kholusia (X:34.7 Y:18.2)"
+                }
+            ]
+        },
+        "Seq": 8,
+        "oldID": 69207,
+        "Map": {
+            "ID": 492
+        }
+    },
+    {
+        "ID": "989bdf3c51c",
+        "Name": "Konoggs kühler Kopf",
+        "Location": "Die kopierte Fabrik",
+        "Level": 80,
+        "JournalSection": 2,
+        "JournalCategory": 21,
+        "JournalGenre": "YoRHa: Dark Apocalypse",
+        "Url": "/lodestone/playguide/db/quest/989bdf3c51c/",
+        "Image": "https://img.finalfantasyxiv.com/lds/pc/global/images/itemicon/23/2365fb97ac00ced395bf43313d4b3adac4db7cb5.png?n5.5",
+        "Icon": "function_normal",
+        "Issuer": "Konogg",
+        "StartLocation": {
+            "Name": "Die kopierte Fabrik",
+            "X": "13.4",
+            "Y": "17.5"
+        },
+        "StartClass": null,
+        "Job": "Krieger oder Magier (außer beschränkte Jobs)",
+        "Company": "Keine Angabe",
+        "Requirement": "Keine Angabe",
+        "Rewards": {
+            "Gil": 1455,
+            "Exp": 0,
+            "ItemsMand": [
+                {
+                    "Icon": "https://img.finalfantasyxiv.com/lds/pc/global/images/itemicon/7e/7eaa53e1fe9e2bd80f81d9ce69c98c24f6223b0b.png?n5.5",
+                    "Name": "Notenrolle von „Voice of no Return (Guitar)“",
+                    "Amount": 1,
+                    "Url": "/lodestone/playguide/db/item/01f68664010/"
+                }
+            ],
+            "ItemsOpt": []
+        },
+        "Infos": {
+            "PrevQuests": [
+                {
+                    "Name": "Zwischen Wracks, Ruinen und Geheimnissen",
+                    "Url": "/lodestone/playguide/db/quest/8169b41d06c/",
+                    "Area": "Alter Stollen",
+                    "Level": "80"
+                }
+            ],
+            "NextQuests": [
+                {
+                    "Name": "Zwillingszwist",
+                    "Url": "/lodestone/playguide/db/quest/f59f3e86cb3/",
+                    "Area": "Kholusia",
+                    "Level": "80"
+                }
+            ],
+            "NPCs": [
+                {
+                    "Name": "Anogg",
+                    "Url": "/lodestone/playguide/db/npc/npc/7f9cc63ddb1/",
+                    "Area": "Alter Stollen (X:5.8 Y:4.7)"
+                },
+                {
+                    "Name": "Konogg",
+                    "Url": "/lodestone/playguide/db/npc/npc/22132b6f43e/",
+                    "Area": "Alter Stollen (X:6.1 Y:4.3)"
+                },
+                {
+                    "Name": "Konogg",
+                    "Url": "/lodestone/playguide/db/npc/npc/15abaa804dd/",
+                    "Area": "Alter Stollen (X:5.8 Y:4.7)"
+                },
+                {
+                    "Name": "Pod",
+                    "Url": "/lodestone/playguide/db/npc/npc/6dc4333773d/",
+                    "Area": "Alter Stollen (X:5.8 Y:4.7)"
+                },
+                {
+                    "Name": "Anogg",
+                    "Url": "/lodestone/playguide/db/npc/npc/e1ded9f70e7/",
+                    "Area": "Die kopierte Fabrik (X:11.2 Y:15.4)"
+                },
+                {
+                    "Name": "Anogg",
+                    "Url": "/lodestone/playguide/db/npc/npc/44144a8d52f/",
+                    "Area": "Die kopierte Fabrik (X:13.4 Y:17.5)"
+                },
+                {
+                    "Name": "Defekter Pod",
+                    "Url": "/lodestone/playguide/db/npc/npc/ff8a2688777/",
+                    "Area": "Die kopierte Fabrik (X:11.4 Y:10.4)"
+                },
+                {
+                    "Name": "Konogg",
+                    "Url": "/lodestone/playguide/db/npc/npc/2e782f52d2b/",
+                    "Area": "Die kopierte Fabrik (X:11.9 Y:7.3)"
+                },
+                {
+                    "Name": "Konogg",
+                    "Url": "/lodestone/playguide/db/npc/npc/282a0a518f5/",
+                    "Area": "Die kopierte Fabrik (X:9.9 Y:6.7)"
+                },
+                {
+                    "Name": "Konogg",
+                    "Url": "/lodestone/playguide/db/npc/npc/515a42071f2/",
+                    "Area": "Die kopierte Fabrik (X:12.2 Y:9.8)"
+                },
+                {
+                    "Name": "Konogg",
+                    "Url": "/lodestone/playguide/db/npc/npc/71b5da21c0a/",
+                    "Area": "Die kopierte Fabrik (X:11.2 Y:15.4)"
+                },
+                {
+                    "Name": "Vorarbeiter",
+                    "Url": "/lodestone/playguide/db/npc/npc/66471f2a8e8/",
+                    "Area": "Kholusia (X:34.7 Y:18.2)"
+                }
+            ]
+        },
+        "Seq": 5,
+        "oldID": 69257,
+        "Map": {
+            "ID": 578
+        }
+    },
+    {
+        "ID": "a0328655d65",
+        "Name": "Auferstanden von den Toten",
+        "Location": "Alter Stollen",
+        "Level": 80,
+        "JournalSection": 2,
+        "JournalCategory": 21,
+        "JournalGenre": "YoRHa: Dark Apocalypse",
+        "Url": "/lodestone/playguide/db/quest/a0328655d65/",
+        "Image": "https://img.finalfantasyxiv.com/lds/pc/global/images/itemicon/ea/eaeb10c52f3f8ae6a9a6ecd45a2014cd09752a10.png?n5.5",
+        "Icon": "function_normal",
+        "Issuer": "Anogg",
+        "StartLocation": {
+            "Name": "Alter Stollen",
+            "X": "5.9",
+            "Y": "4.7"
+        },
+        "StartClass": null,
+        "Job": "Krieger oder Magier (außer beschränkte Jobs)",
+        "Company": "Keine Angabe",
+        "Requirement": "Keine Angabe",
+        "Rewards": {
+            "Gil": 4800,
+            "Exp": 0,
+            "ItemsMand": [],
+            "ItemsOpt": []
+        },
+        "Infos": {
+            "PrevQuests": [
+                {
+                    "Name": "Zwergische Genüsse",
+                    "Url": "/lodestone/playguide/db/quest/fb4929adbbe/",
+                    "Area": "Kholusia",
+                    "Level": "80"
+                }
+            ],
+            "NextQuests": [
+                {
+                    "Name": "Schuld und Sühne",
+                    "Url": "/lodestone/playguide/db/quest/4bd0d3f34f3/",
+                    "Area": "Anoggs Zimmer",
+                    "Level": "80"
+                }
+            ],
+            "NPCs": [
+                {
+                    "Name": "2B",
+                    "Url": "/lodestone/playguide/db/npc/npc/5bc5b7f09d4/",
+                    "Area": "Alter Stollen (X:6.1 Y:6.0)"
+                },
+                {
+                    "Name": "2B",
+                    "Url": "/lodestone/playguide/db/npc/npc/4201a50ba70/",
+                    "Area": "Alter Stollen (X:5.7 Y:4.9)"
+                },
+                {
+                    "Name": "2P",
+                    "Url": "/lodestone/playguide/db/npc/npc/5ef7c8d933e/",
+                    "Area": "Alter Stollen (X:5.9 Y:4.8)"
+                },
+                {
+                    "Name": "Anogg",
+                    "Url": "/lodestone/playguide/db/npc/npc/699ea11751b/",
+                    "Area": "Alter Stollen (X:6.1 Y:6.0)"
+                },
+                {
+                    "Name": "Anogg",
+                    "Url": "/lodestone/playguide/db/npc/npc/6a4aa77f681/",
+                    "Area": "Alter Stollen (X:5.7 Y:4.9)"
+                },
+                {
+                    "Name": "Konogg",
+                    "Url": "/lodestone/playguide/db/npc/npc/152bf136493/",
+                    "Area": "Alter Stollen (X:5.9 Y:4.8)"
+                },
+                {
+                    "Name": "Konogg",
+                    "Url": "/lodestone/playguide/db/npc/npc/e50a0dfa9f6/",
+                    "Area": "Alter Stollen (X:6.1 Y:6.0)"
+                },
+                {
+                    "Name": "Konogg",
+                    "Url": "/lodestone/playguide/db/npc/npc/dbb3d5268ae/",
+                    "Area": "Alter Stollen (X:5.7 Y:4.9)"
+                },
+                {
+                    "Name": "Pod",
+                    "Url": "/lodestone/playguide/db/npc/npc/ec2d48e3147/",
+                    "Area": "Alter Stollen (X:5.9 Y:4.8)"
+                },
+                {
+                    "Name": "Pod",
+                    "Url": "/lodestone/playguide/db/npc/npc/719f5ec99a4/",
+                    "Area": "Alter Stollen (X:5.8 Y:4.8)"
+                },
+                {
+                    "Name": "2B",
+                    "Url": "/lodestone/playguide/db/npc/npc/374cd661d77/",
+                    "Area": "Die Puppenfestung (X:9.6 Y:14.8)"
+                },
+                {
+                    "Name": "Anogg",
+                    "Url": "/lodestone/playguide/db/npc/npc/43eeb6bf494/",
+                    "Area": "Die Puppenfestung (X:9.7 Y:14.7)"
+                },
+                {
+                    "Name": "Konogg",
+                    "Url": "/lodestone/playguide/db/npc/npc/1120f13b79e/",
+                    "Area": "Die Puppenfestung (X:9.7 Y:14.8)"
+                },
+                {
+                    "Name": "2B",
+                    "Url": "/lodestone/playguide/db/npc/npc/c1cc07cf8ba/",
+                    "Area": "Kholusia (X:35.4 Y:18.3)"
+                },
+                {
+                    "Name": "Anogg",
+                    "Url": "/lodestone/playguide/db/npc/npc/a67763648be/",
+                    "Area": "Kholusia (X:35.3 Y:18.3)"
+                },
+                {
+                    "Name": "Konogg",
+                    "Url": "/lodestone/playguide/db/npc/npc/2162ea0f16a/",
+                    "Area": "Kholusia (X:35.3 Y:18.3)"
+                }
+            ]
+        },
+        "Seq": 9,
+        "oldID": 69489,
+        "Map": {
+            "ID": 575
+        }
+    },
+    {
+        "ID": "b3e20c46e23",
+        "Name": "Kabale in Komra",
+        "Location": "Kholusia",
+        "Level": 80,
+        "JournalSection": 2,
+        "JournalCategory": 21,
+        "JournalGenre": "YoRHa: Dark Apocalypse",
+        "Url": "/lodestone/playguide/db/quest/b3e20c46e23/",
+        "Image": "https://img.finalfantasyxiv.com/lds/pc/global/images/itemicon/12/1208b57460245db2c16395d63750a141fc9d47e7.png?n5.5",
+        "Icon": "function_normal",
+        "Issuer": "Tratschender Zwerg",
+        "StartLocation": {
+            "Name": "Kholusia",
+            "X": "12.9",
+            "Y": "8.7"
+        },
+        "StartClass": null,
+        "Job": "Krieger oder Magier (außer beschränkte Jobs)",
+        "Company": "Keine Angabe",
+        "Requirement": "Keine Angabe",
+        "Rewards": {
+            "Gil": 1455,
+            "Exp": 0,
+            "ItemsMand": [],
+            "ItemsOpt": []
+        },
+        "Infos": {
+            "PrevQuests": [
+                {
+                    "Name": "Schattenbringer",
+                    "Url": "/lodestone/playguide/db/quest/4ed1668d377/",
+                    "Area": "Tempest",
+                    "Level": "80"
+                },
+                {
+                    "Name": " Zwergengeflüster",
+                    "Url": "/lodestone/playguide/db/quest/89c95b41c81/",
+                    "Area": "Kholusia",
+                    "Level": "70"
+                }
+            ],
+            "NextQuests": [
+                {
+                    "Name": "Hinter verschlossenen Türen",
+                    "Url": "/lodestone/playguide/db/quest/bf797dd3937/",
+                    "Area": "Kholusia",
+                    "Level": "80"
+                }
+            ],
+            "NPCs": [
+                {
+                    "Name": "Anogg",
+                    "Url": "/lodestone/playguide/db/npc/npc/d889f9088f1/",
+                    "Area": "Kholusia (X:25.7 Y:21.1)"
+                },
+                {
+                    "Name": "Anogg",
+                    "Url": "/lodestone/playguide/db/npc/npc/90f1b2a50e4/",
+                    "Area": "Kholusia (X:36.2 Y:19.7)"
+                },
+                {
+                    "Name": "Junge Zwergin",
+                    "Url": "/lodestone/playguide/db/npc/npc/11d9cd07774/",
+                    "Area": "Kholusia (X:33.9 Y:17.4)"
+                },
+                {
+                    "Name": "Konogg",
+                    "Url": "/lodestone/playguide/db/npc/npc/c2b544c7ca6/",
+                    "Area": "Kholusia (X:25.7 Y:21.1)"
+                },
+                {
+                    "Name": "Konogg",
+                    "Url": "/lodestone/playguide/db/npc/npc/8b2de7d6453/",
+                    "Area": "Kholusia (X:36.2 Y:19.7)"
+                },
+                {
+                    "Name": "Stollenwächter",
+                    "Url": "/lodestone/playguide/db/npc/npc/227ae00c36d/",
+                    "Area": "Kholusia (X:36.2 Y:19.7)"
+                },
+                {
+                    "Name": "Stollenwächter",
+                    "Url": "/lodestone/playguide/db/npc/npc/a92ea3cfb4a/",
+                    "Area": "Kholusia (X:25.7 Y:21.1)"
+                },
+                {
+                    "Name": "Stollenwächter",
+                    "Url": "/lodestone/playguide/db/npc/npc/68b83698de6/",
+                    "Area": "Kholusia (X:26.2 Y:19.1)"
+                },
+                {
+                    "Name": "Stollenwächter",
+                    "Url": "/lodestone/playguide/db/npc/npc/7704d12049e/",
+                    "Area": "Kholusia (X:34.7 Y:18.2)"
+                },
+                {
+                    "Name": "Vorarbeiter",
+                    "Url": "/lodestone/playguide/db/npc/npc/319eb45059e/",
+                    "Area": "Kholusia (X:34.7 Y:18.2)"
+                }
+            ]
+        },
+        "Seq": 1,
+        "oldID": 69253,
+        "Map": {
+            "ID": 492
+        }
+    },
+    {
+        "ID": "bf682344248",
+        "Name": "Des Schicksals grausam Ränke",
+        "Location": "Die Puppenfestung",
+        "Level": 80,
+        "JournalSection": 2,
+        "JournalCategory": 21,
+        "JournalGenre": "YoRHa: Dark Apocalypse",
+        "Url": "/lodestone/playguide/db/quest/bf682344248/",
+        "Image": "https://img.finalfantasyxiv.com/lds/pc/global/images/itemicon/8a/8aa72f52d8672bef7407325749c19e5ac9915c6a.png?n5.5",
+        "Icon": "function_normal",
+        "Issuer": "Vorarbeiter",
+        "StartLocation": {
+            "Name": "Die Puppenfestung",
+            "X": "9.8",
+            "Y": "14.3"
+        },
+        "StartClass": null,
+        "Job": "Krieger oder Magier (außer beschränkte Jobs)",
+        "Company": "Keine Angabe",
+        "Requirement": "Keine Angabe",
+        "Rewards": {
+            "Gil": 4500,
+            "Exp": 0,
+            "ItemsMand": [
+                {
+                    "Icon": "https://img.finalfantasyxiv.com/lds/pc/global/images/itemicon/7e/7eaa53e1fe9e2bd80f81d9ce69c98c24f6223b0b.png?n5.5",
+                    "Name": "Notenrolle von „Widespread Illness“",
+                    "Amount": 1,
+                    "Url": "/lodestone/playguide/db/item/6cd5367cb05/"
+                },
+                {
+                    "Icon": "https://img.finalfantasyxiv.com/lds/pc/global/images/itemicon/7e/7eaa53e1fe9e2bd80f81d9ce69c98c24f6223b0b.png?n5.5",
+                    "Name": "Notenrolle von „Possessed by Disease“",
+                    "Amount": 1,
+                    "Url": "/lodestone/playguide/db/item/92e0d4f11ad/"
+                },
+                {
+                    "Icon": "https://img.finalfantasyxiv.com/lds/pc/global/images/itemicon/7e/7eaa53e1fe9e2bd80f81d9ce69c98c24f6223b0b.png?n5.5",
+                    "Name": "Notenrolle von „Faltering Prayer (Dawn Breeze)“",
+                    "Amount": 1,
+                    "Url": "/lodestone/playguide/db/item/820f318199a/"
+                }
+            ],
+            "ItemsOpt": []
+        },
+        "Infos": {
+            "PrevQuests": [
+                {
+                    "Name": "Kummerkrank",
+                    "Url": "/lodestone/playguide/db/quest/ca9e90fcc8b/",
+                    "Area": "Kholusia",
+                    "Level": "80"
+                }
+            ],
+            "NextQuests": [
+                {
+                    "Name": "Komras kaltes Herz",
+                    "Url": "/lodestone/playguide/db/quest/743d0eaef54/",
+                    "Area": "Kholusia",
+                    "Level": "80"
+                }
+            ],
+            "NPCs": [
+                {
+                    "Name": "2B",
+                    "Url": "/lodestone/playguide/db/npc/npc/2a13473703c/",
+                    "Area": "Die Puppenfestung (X:9.7 Y:14.4)"
+                },
+                {
+                    "Name": "9S",
+                    "Url": "/lodestone/playguide/db/npc/npc/f39fa71214f/",
+                    "Area": "Die Puppenfestung (X:9.7 Y:14.4)"
+                },
+                {
+                    "Name": "Anogg",
+                    "Url": "/lodestone/playguide/db/npc/npc/ecac6b1a9b0/",
+                    "Area": "Die Puppenfestung (X:9.8 Y:14.3)"
+                },
+                {
+                    "Name": "Vorarbeiter",
+                    "Url": "/lodestone/playguide/db/npc/npc/dd5c3628d2c/",
+                    "Area": "Kholusia (X:35.5 Y:18.6)"
+                }
+            ]
+        },
+        "Seq": 13,
+        "oldID": 69571,
+        "Map": {
+            "ID": null
+        }
+    },
+    {
+        "ID": "bf797dd3937",
+        "Name": "Hinter verschlossenen Türen",
+        "Location": "Kholusia",
+        "Level": 80,
+        "JournalSection": 2,
+        "JournalCategory": 21,
+        "JournalGenre": "YoRHa: Dark Apocalypse",
+        "Url": "/lodestone/playguide/db/quest/bf797dd3937/",
+        "Image": "https://img.finalfantasyxiv.com/lds/pc/global/images/itemicon/c6/c6d71d588a3161dff96c14a17c4d431b61230723.png?n5.5",
+        "Icon": "function_normal",
+        "Issuer": "Vorarbeiter",
+        "StartLocation": {
+            "Name": "Kholusia",
+            "X": "34.7",
+            "Y": "18.2"
+        },
+        "StartClass": null,
+        "Job": "Krieger oder Magier (außer beschränkte Jobs)",
+        "Company": "Keine Angabe",
+        "Requirement": "Keine Angabe",
+        "Rewards": {
+            "Gil": 5500,
+            "Exp": 0,
+            "ItemsMand": [
+                {
+                    "Icon": "https://img.finalfantasyxiv.com/lds/pc/global/images/itemicon/7e/7eaa53e1fe9e2bd80f81d9ce69c98c24f6223b0b.png?n5.5",
+                    "Name": "Notenrolle von „Significance (Nothing)“",
+                    "Amount": 1,
+                    "Url": "/lodestone/playguide/db/item/325bc75ff51/"
+                }
+            ],
+            "ItemsOpt": []
+        },
+        "Infos": {
+            "PrevQuests": [
+                {
+                    "Name": "Kabale in Komra",
+                    "Url": "/lodestone/playguide/db/quest/b3e20c46e23/",
+                    "Area": "Kholusia",
+                    "Level": "80"
+                }
+            ],
+            "NextQuests": [
+                {
+                    "Name": "Zwischen Wracks, Ruinen und Geheimnissen",
+                    "Url": "/lodestone/playguide/db/quest/8169b41d06c/",
+                    "Area": "Alter Stollen",
+                    "Level": "80"
+                }
+            ],
+            "NPCs": [
+                {
+                    "Name": "2P",
+                    "Url": "/lodestone/playguide/db/npc/npc/f81a9ea1ec4/",
+                    "Area": "Alter Stollen (X:5.9 Y:4.8)"
+                },
+                {
+                    "Name": "2P",
+                    "Url": "/lodestone/playguide/db/npc/npc/962802dbc2a/",
+                    "Area": "Alter Stollen (X:6.1 Y:4.2)"
+                },
+                {
+                    "Name": "Anogg",
+                    "Url": "/lodestone/playguide/db/npc/npc/0d779657630/",
+                    "Area": "Alter Stollen (X:6.0 Y:4.3)"
+                },
+                {
+                    "Name": "Anogg",
+                    "Url": "/lodestone/playguide/db/npc/npc/20c478ca1c9/",
+                    "Area": "Alter Stollen (X:5.9 Y:4.7)"
+                },
+                {
+                    "Name": "Konogg",
+                    "Url": "/lodestone/playguide/db/npc/npc/22132b6f43e/",
+                    "Area": "Alter Stollen (X:6.1 Y:4.3)"
+                },
+                {
+                    "Name": "Konogg",
+                    "Url": "/lodestone/playguide/db/npc/npc/c74645dba57/",
+                    "Area": "Alter Stollen (X:5.9 Y:4.7)"
+                },
+                {
+                    "Name": "Vorarbeiter",
+                    "Url": "/lodestone/playguide/db/npc/npc/d63395b0174/",
+                    "Area": "Alter Stollen (X:6.3 Y:5.1)"
+                },
+                {
+                    "Name": "Vorarbeiter",
+                    "Url": "/lodestone/playguide/db/npc/npc/84605bec932/",
+                    "Area": "Alter Stollen (X:5.9 Y:4.8)"
+                },
+                {
+                    "Name": "Anogg",
+                    "Url": "/lodestone/playguide/db/npc/npc/a006b892921/",
+                    "Area": "Kholusia (X:36.2 Y:19.7)"
+                },
+                {
+                    "Name": "Konogg",
+                    "Url": "/lodestone/playguide/db/npc/npc/272e36f68d6/",
+                    "Area": "Kholusia (X:36.2 Y:19.8)"
+                },
+                {
+                    "Name": "Stollenwächter",
+                    "Url": "/lodestone/playguide/db/npc/npc/7704d12049e/",
+                    "Area": "Kholusia (X:34.7 Y:18.2)"
+                }
+            ]
+        },
+        "Seq": 2,
+        "oldID": 69254,
+        "Map": {
+            "ID": 492
+        }
+    },
+    {
+        "ID": "ca9e90fcc8b",
+        "Name": "Kummerkrank",
+        "Location": "Kholusia",
+        "Level": 80,
+        "JournalSection": 2,
+        "JournalCategory": 21,
+        "JournalGenre": "YoRHa: Dark Apocalypse",
+        "Url": "/lodestone/playguide/db/quest/ca9e90fcc8b/",
+        "Image": "https://img.finalfantasyxiv.com/lds/pc/global/images/itemicon/51/5113b800f22a3007ec295f9f7e65f3ae5e8e96e2.png?n5.5",
+        "Icon": "function_normal",
+        "Issuer": "Vorarbeiter",
+        "StartLocation": {
+            "Name": "Kholusia",
+            "X": "34.7",
+            "Y": "18.2"
+        },
+        "StartClass": null,
+        "Job": "Krieger oder Magier (außer beschränkte Jobs)",
+        "Company": "Keine Angabe",
+        "Requirement": "Keine Angabe",
+        "Rewards": {
+            "Gil": 0,
+            "Exp": 0,
+            "ItemsMand": [
+                {
+                    "Icon": "https://img.finalfantasyxiv.com/lds/pc/global/images/itemicon/7e/7eaa53e1fe9e2bd80f81d9ce69c98c24f6223b0b.png?n5.5",
+                    "Name": "Notenrolle von „Voice of no Return (Normal)“",
+                    "Amount": 1,
+                    "Url": "/lodestone/playguide/db/item/9671682f88b/"
+                },
+                {
+                    "Icon": "https://img.finalfantasyxiv.com/lds/pc/global/images/itemicon/7e/7eaa53e1fe9e2bd80f81d9ce69c98c24f6223b0b.png?n5.5",
+                    "Name": "Notenrolle von „The Color of Depression“",
+                    "Amount": 1,
+                    "Url": "/lodestone/playguide/db/item/4b2e68c73b6/"
+                }
+            ],
+            "ItemsOpt": []
+        },
+        "Infos": {
+            "PrevQuests": [
+                {
+                    "Name": "Kummer in Kugelform",
+                    "Url": "/lodestone/playguide/db/quest/815c32e14aa/",
+                    "Area": "Kholusia",
+                    "Level": "80"
+                }
+            ],
+            "NextQuests": [
+                {
+                    "Name": "Des Schicksals grausam Ränke",
+                    "Url": "/lodestone/playguide/db/quest/bf682344248/",
+                    "Area": "Die Puppenfestung",
+                    "Level": "80"
+                }
+            ],
+            "NPCs": [
+                {
+                    "Name": "Konogg",
+                    "Url": "/lodestone/playguide/db/npc/npc/404cbe298ed/",
+                    "Area": "Alter Stollen (X:6.0 Y:4.9)"
+                },
+                {
+                    "Name": "Konogg",
+                    "Url": "/lodestone/playguide/db/npc/npc/b7e2125394d/",
+                    "Area": "Alter Stollen (X:5.9 Y:4.8)"
+                },
+                {
+                    "Name": "Vorarbeiter",
+                    "Url": "/lodestone/playguide/db/npc/npc/cb0aa1388b1/",
+                    "Area": "Alter Stollen (X:5.9 Y:4.8)"
+                },
+                {
+                    "Name": "Vorarbeiter",
+                    "Url": "/lodestone/playguide/db/npc/npc/14c075685e3/",
+                    "Area": "Die Puppenfestung (X:9.8 Y:14.3)"
+                },
+                {
+                    "Name": "Gesugg",
+                    "Url": "/lodestone/playguide/db/npc/npc/9d5c0a2f7c9/",
+                    "Area": "Kholusia (X:33.6 Y:18.1)"
+                },
+                {
+                    "Name": "Papa Glagg",
+                    "Url": "/lodestone/playguide/db/npc/npc/3290e38fb45/",
+                    "Area": "Kholusia (X:34.2 Y:17.8)"
+                },
+                {
+                    "Name": "Vorarbeiter",
+                    "Url": "/lodestone/playguide/db/npc/npc/aff7ca7428f/",
+                    "Area": "Kholusia (X:32.3 Y:17.0)"
+                },
+                {
+                    "Name": "Vorarbeiter",
+                    "Url": "/lodestone/playguide/db/npc/npc/a5a28291a8a/",
+                    "Area": "Kholusia (X:35.7 Y:19.0)"
+                },
+                {
+                    "Name": "Zaghafter Gogg",
+                    "Url": "/lodestone/playguide/db/npc/npc/1dc1d89a7a2/",
+                    "Area": "Kholusia (X:34.6 Y:18.5)"
+                }
+            ]
+        },
+        "Seq": 12,
+        "oldID": 69570,
+        "Map": {
+            "ID": null
+        }
+    },
+    {
+        "ID": "e40ede1be5f",
+        "Name": "Zart blüht die Hoffnung",
+        "Location": "Kholusia",
+        "Level": 80,
+        "JournalSection": 2,
+        "JournalCategory": 21,
+        "JournalGenre": "YoRHa: Dark Apocalypse",
+        "Url": "/lodestone/playguide/db/quest/e40ede1be5f/",
+        "Image": null,
+        "Icon": "function_normal",
+        "Issuer": "Vorarbeiter",
+        "StartLocation": {
+            "Name": "Kholusia",
+            "X": "34.7",
+            "Y": "18.2"
+        },
+        "StartClass": null,
+        "Job": "Krieger oder Magier (außer beschränkte Jobs)",
+        "Company": "Keine Angabe",
+        "Requirement": "Keine Angabe",
+        "Rewards": {
+            "Gil": 106,
+            "Exp": 0,
+            "ItemsMand": [],
+            "ItemsOpt": []
+        },
+        "Infos": {
+            "PrevQuests": [
+                {
+                    "Name": "Komras kaltes Herz",
+                    "Url": "/lodestone/playguide/db/quest/743d0eaef54/",
+                    "Area": "Kholusia",
+                    "Level": "80"
+                }
+            ],
+            "NextQuests": [
+                {
+                    "Name": "Des einen Tand ...",
+                    "Url": "/lodestone/playguide/db/quest/19390ac302f/",
+                    "Area": "Kholusia",
+                    "Level": "80"
+                }
+            ],
+            "NPCs": [
+                {
+                    "Name": "Ratloser Gogg",
+                    "Url": "/lodestone/playguide/db/npc/npc/f2e24122dc3/",
+                    "Area": "Kholusia (X:34.5 Y:18.0)"
+                }
+            ]
+        },
+        "Seq": 15,
+        "oldID": 69579,
+        "Map": {
+            "ID": 492
+        }
+    },
+    {
+        "ID": "f4189903bc7",
+        "Name": "Die brillanten Pläne der brillanten Anogg",
+        "Location": "Alter Stollen",
+        "Level": 80,
+        "JournalSection": 2,
+        "JournalCategory": 21,
+        "JournalGenre": "YoRHa: Dark Apocalypse",
+        "Url": "/lodestone/playguide/db/quest/f4189903bc7/",
+        "Image": "https://img.finalfantasyxiv.com/lds/pc/global/images/itemicon/0f/0f7c6edc2a479e17a76dd7218743b956a4b7efa1.png?n5.5",
+        "Icon": "function_normal",
+        "Issuer": "Anogg",
+        "StartLocation": {
+            "Name": "Alter Stollen",
+            "X": "5.8",
+            "Y": "4.7"
+        },
+        "StartClass": null,
+        "Job": "Krieger oder Magier (außer beschränkte Jobs)",
+        "Company": "Keine Angabe",
+        "Requirement": "Keine Angabe",
+        "Rewards": {
+            "Gil": 0,
+            "Exp": 0,
+            "ItemsMand": [
+                {
+                    "Icon": "https://img.finalfantasyxiv.com/lds/pc/global/images/itemicon/7e/7eaa53e1fe9e2bd80f81d9ce69c98c24f6223b0b.png?n5.5",
+                    "Name": "Notenrolle von „Crumbling Lies (Front)“",
+                    "Amount": 1,
+                    "Url": "/lodestone/playguide/db/item/6f23dbbff08/"
+                }
+            ],
+            "ItemsOpt": []
+        },
+        "Infos": {
+            "PrevQuests": [
+                {
+                    "Name": "Zwillingszwist",
+                    "Url": "/lodestone/playguide/db/quest/f59f3e86cb3/",
+                    "Area": "Kholusia",
+                    "Level": "80"
+                }
+            ],
+            "NextQuests": [
+                {
+                    "Name": "Zwergische Genüsse",
+                    "Url": "/lodestone/playguide/db/quest/fb4929adbbe/",
+                    "Area": "Kholusia",
+                    "Level": "80"
+                }
+            ],
+            "NPCs": [
+                {
+                    "Name": "Anogg",
+                    "Url": "/lodestone/playguide/db/npc/npc/9586ee2f246/",
+                    "Area": "Kholusia (X:34.7 Y:18.2)"
+                },
+                {
+                    "Name": "Konogg",
+                    "Url": "/lodestone/playguide/db/npc/npc/5449928b32e/",
+                    "Area": "Kholusia (X:34.7 Y:18.2)"
+                }
+            ]
+        },
+        "Seq": 7,
+        "oldID": 69321,
+        "Map": {
+            "ID": 575
+        }
+    },
+    {
+        "ID": "f59f3e86cb3",
+        "Name": "Zwillingszwist",
+        "Location": "Kholusia",
+        "Level": 80,
+        "JournalSection": 2,
+        "JournalCategory": 21,
+        "JournalGenre": "YoRHa: Dark Apocalypse",
+        "Url": "/lodestone/playguide/db/quest/f59f3e86cb3/",
+        "Image": "https://img.finalfantasyxiv.com/lds/pc/global/images/itemicon/d4/d45a96ec633e60f44fd4fa5674635194a056a459.png?n5.5",
+        "Icon": "function_normal",
+        "Issuer": "Vorarbeiter",
+        "StartLocation": {
+            "Name": "Kholusia",
+            "X": "34.7",
+            "Y": "18.2"
+        },
+        "StartClass": null,
+        "Job": "Krieger oder Magier (außer beschränkte Jobs)",
+        "Company": "Keine Angabe",
+        "Requirement": "Keine Angabe",
+        "Rewards": {
+            "Gil": 655,
+            "Exp": 0,
+            "ItemsMand": [],
+            "ItemsOpt": []
+        },
+        "Infos": {
+            "PrevQuests": [
+                {
+                    "Name": "Anoggs Abenteuerlust",
+                    "Url": "/lodestone/playguide/db/quest/72a6f70a79f/",
+                    "Area": "Die kopierte Fabrik",
+                    "Level": "80"
+                },
+                {
+                    "Name": "Konoggs kühler Kopf",
+                    "Url": "/lodestone/playguide/db/quest/989bdf3c51c/",
+                    "Area": "Die kopierte Fabrik",
+                    "Level": "80"
+                }
+            ],
+            "NextQuests": [
+                {
+                    "Name": "Die brillanten Pläne der brillanten Anogg",
+                    "Url": "/lodestone/playguide/db/quest/f4189903bc7/",
+                    "Area": "Alter Stollen",
+                    "Level": "80"
+                }
+            ],
+            "NPCs": [
+                {
+                    "Name": "Anogg",
+                    "Url": "/lodestone/playguide/db/npc/npc/7f9cc63ddb1/",
+                    "Area": "Alter Stollen (X:5.8 Y:4.7)"
+                },
+                {
+                    "Name": "Konogg",
+                    "Url": "/lodestone/playguide/db/npc/npc/15abaa804dd/",
+                    "Area": "Alter Stollen (X:5.8 Y:4.7)"
+                }
+            ]
+        },
+        "Seq": 6,
+        "oldID": 69320,
+        "Map": {
+            "ID": 492
+        }
+    },
+    {
+        "ID": "fb4929adbbe",
+        "Name": "Zwergische Genüsse",
+        "Location": "Kholusia",
+        "Level": 80,
+        "JournalSection": 2,
+        "JournalCategory": 21,
+        "JournalGenre": "YoRHa: Dark Apocalypse",
+        "Url": "/lodestone/playguide/db/quest/fb4929adbbe/",
+        "Image": "https://img.finalfantasyxiv.com/lds/pc/global/images/itemicon/16/160099c2d6e14f25fff173f097e1d9d064f3f9bb.png?n5.5",
+        "Icon": "function_normal",
+        "Issuer": "Vorarbeiter",
+        "StartLocation": {
+            "Name": "Kholusia",
+            "X": "34.7",
+            "Y": "18.2"
+        },
+        "StartClass": null,
+        "Job": "Krieger oder Magier (außer beschränkte Jobs)",
+        "Company": "Keine Angabe",
+        "Requirement": "Keine Angabe",
+        "Rewards": {
+            "Gil": 0,
+            "Exp": 0,
+            "ItemsMand": [
+                {
+                    "Icon": "https://img.finalfantasyxiv.com/lds/pc/global/images/itemicon/7e/7eaa53e1fe9e2bd80f81d9ce69c98c24f6223b0b.png?n5.5",
+                    "Name": "Notenrolle von „Amusement Park“",
+                    "Amount": 1,
+                    "Url": "/lodestone/playguide/db/item/b253dff2ee9/"
+                }
+            ],
+            "ItemsOpt": []
+        },
+        "Infos": {
+            "PrevQuests": [
+                {
+                    "Name": "Die brillanten Pläne der brillanten Anogg",
+                    "Url": "/lodestone/playguide/db/quest/f4189903bc7/",
+                    "Area": "Alter Stollen",
+                    "Level": "80"
+                }
+            ],
+            "NextQuests": [
+                {
+                    "Name": "Auferstanden von den Toten",
+                    "Url": "/lodestone/playguide/db/quest/a0328655d65/",
+                    "Area": "Alter Stollen",
+                    "Level": "80"
+                }
+            ],
+            "NPCs": [
+                {
+                    "Name": "Anogg",
+                    "Url": "/lodestone/playguide/db/npc/npc/20c478ca1c9/",
+                    "Area": "Alter Stollen (X:5.9 Y:4.7)"
+                },
+                {
+                    "Name": "Anogg",
+                    "Url": "/lodestone/playguide/db/npc/npc/7f9cc63ddb1/",
+                    "Area": "Alter Stollen (X:5.8 Y:4.7)"
+                },
+                {
+                    "Name": "Konogg",
+                    "Url": "/lodestone/playguide/db/npc/npc/15abaa804dd/",
+                    "Area": "Alter Stollen (X:5.8 Y:4.7)"
+                },
+                {
+                    "Name": "Konogg",
+                    "Url": "/lodestone/playguide/db/npc/npc/152bf136493/",
+                    "Area": "Alter Stollen (X:5.9 Y:4.8)"
+                },
+                {
+                    "Name": "Pod",
+                    "Url": "/lodestone/playguide/db/npc/npc/ec2d48e3147/",
+                    "Area": "Alter Stollen (X:5.9 Y:4.8)"
+                },
+                {
+                    "Name": "Anogg",
+                    "Url": "/lodestone/playguide/db/npc/npc/119c43ed475/",
+                    "Area": "Die kopierte Fabrik (X:10.7 Y:5.3)"
+                },
+                {
+                    "Name": "Konogg",
+                    "Url": "/lodestone/playguide/db/npc/npc/0e3eea12cac/",
+                    "Area": "Die kopierte Fabrik (X:10.9 Y:5.4)"
+                },
+                {
+                    "Name": "Pod",
+                    "Url": "/lodestone/playguide/db/npc/npc/17b451d95e9/",
+                    "Area": "Die kopierte Fabrik (X:10.9 Y:5.4)"
+                },
+                {
+                    "Name": "Ernster Zwerg",
+                    "Url": "/lodestone/playguide/db/npc/npc/b36bc21418c/",
+                    "Area": "Kholusia (X:33.3 Y:17.9)"
+                },
+                {
+                    "Name": "Gehetzter Zwerg",
+                    "Url": "/lodestone/playguide/db/npc/npc/34bd00a212d/",
+                    "Area": "Kholusia (X:33.9 Y:17.4)"
+                },
+                {
+                    "Name": "Weinerlicher Zwerg",
+                    "Url": "/lodestone/playguide/db/npc/npc/e1510884e36/",
+                    "Area": "Kholusia (X:33.5 Y:17.8)"
+                }
+            ]
+        },
+        "Seq": 8,
+        "oldID": 69488,
+        "Map": {
+            "ID": 492
+        }
+    }
+]

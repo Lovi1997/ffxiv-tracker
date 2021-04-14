@@ -1,0 +1,825 @@
+[
+    {
+        "ID": "08876212b30",
+        "Name": "A Journey to Remember",
+        "Location": "Limsa Lominsa",
+        "Level": 30,
+        "JournalSection": 7,
+        "JournalCategory": 66,
+        "JournalGenre": "\n\t\t\t\t\t\t\tCollaboration Quests\n\t\t\t\t\t\t",
+        "Url": "/lodestone/playguide/db/quest/08876212b30/",
+        "Image": "https://img.finalfantasyxiv.com/lds/pc/global/images/itemicon/c8/c8e2edf90e6c8a3638f781535c7007bf15572dbb.png?n5.5",
+        "Icon": "common_normal",
+        "Issuer": "",
+        "StartLocation": "",
+        "StartClass": null,
+        "Job": "",
+        "Company": "Not specified",
+        "Requirement": "Not specified",
+        "Rewards": {
+            "Gil": 0,
+            "Exp": 0,
+            "ItemsMand": [
+                {
+                    "Icon": "https://img.finalfantasyxiv.com/lds/pc/global/images/itemicon/34/344468aa3b182f893f10c4c604565953cb4992f3.png?n5.5",
+                    "Name": "Amatsu Hachigane",
+                    "Amount": 1,
+                    "Url": "/lodestone/playguide/db/item/385e5a23533/"
+                },
+                {
+                    "Icon": "https://img.finalfantasyxiv.com/lds/pc/global/images/itemicon/60/603fc13cf75dfde37bae7a4f7ed1a0be59532455.png?n5.5",
+                    "Name": "Amatsu Togi",
+                    "Amount": 1,
+                    "Url": "/lodestone/playguide/db/item/89e26ae67f7/"
+                },
+                {
+                    "Icon": "https://img.finalfantasyxiv.com/lds/pc/global/images/itemicon/69/69f397513776fd0270d730437c24cf38bcf81125.png?n5.5",
+                    "Name": "Amatsu Tekko",
+                    "Amount": 1,
+                    "Url": "/lodestone/playguide/db/item/2d8772c4d07/"
+                },
+                {
+                    "Icon": "https://img.finalfantasyxiv.com/lds/pc/global/images/itemicon/4c/4c2b32e8de9afb4544f8435895c568eea9a3064e.png?n5.5",
+                    "Name": "Amatsu Haidate",
+                    "Amount": 1,
+                    "Url": "/lodestone/playguide/db/item/12801b9da1a/"
+                },
+                {
+                    "Icon": "https://img.finalfantasyxiv.com/lds/pc/global/images/itemicon/be/bed5599b1082cd75ccce6e64ac31462f17989188.png?n5.5",
+                    "Name": "Amatsu Sune-ate",
+                    "Amount": 1,
+                    "Url": "/lodestone/playguide/db/item/1cc9f5f5ec0/"
+                }
+            ],
+            "ItemsOpt": []
+        },
+        "Infos": {},
+        "Seq": 7,
+        "oldID": 67742,
+        "Map": {
+            "ID": 11
+        }
+    },
+    {
+        "ID": "1a87e0a027a",
+        "Name": "The Newer King on the Block",
+        "Location": "Kugane",
+        "Level": 70,
+        "JournalSection": 7,
+        "JournalCategory": 66,
+        "JournalGenre": "\n\t\t\t\t\t\t\tCollaboration Quests\n\t\t\t\t\t\t",
+        "Url": "/lodestone/playguide/db/quest/1a87e0a027a/",
+        "Image": null,
+        "Icon": "function_normal",
+        "Issuer": "Hearty Hunter",
+        "StartLocation": {
+            "Name": "Kugane",
+            "X": "9.7",
+            "Y": "8.9"
+        },
+        "StartClass": null,
+        "Job": "",
+        "Company": "Not specified",
+        "Requirement": "Not specified",
+        "Rewards": {
+            "Gil": 500,
+            "Exp": 0,
+            "ItemsMand": [],
+            "ItemsOpt": []
+        },
+        "Infos": {
+            "PrevQuests": [
+                {
+                    "Name": "The New King on the Block",
+                    "Url": "/lodestone/playguide/db/quest/46776032553/",
+                    "Area": "Kugane",
+                    "Level": "70"
+                }
+            ]
+        },
+        "Seq": 10,
+        "oldID": 67091,
+        "Map": {
+            "ID": 370
+        }
+    },
+    {
+        "ID": "1c8111715df",
+        "Name": "Breaking Brick Mountains",
+        "Location": "Ul'dah",
+        "Level": 7,
+        "JournalSection": 7,
+        "JournalCategory": 66,
+        "JournalGenre": "\n\t\t\t\t\t\t\tCollaboration Quests\n\t\t\t\t\t\t",
+        "Url": "/lodestone/playguide/db/quest/1c8111715df/",
+        "Image": "https://img.finalfantasyxiv.com/lds/pc/global/images/itemicon/83/83812913ef6e0a7d0c33349892d15181df99f12b.png?n5.5",
+        "Icon": "common_normal",
+        "Issuer": "",
+        "StartLocation": "",
+        "StartClass": null,
+        "Job": "",
+        "Company": "Not specified",
+        "Requirement": "Not specified",
+        "Rewards": {
+            "Gil": 0,
+            "Exp": 1120,
+            "ItemsMand": [
+                {
+                    "Icon": "https://img.finalfantasyxiv.com/lds/pc/global/images/itemicon/b7/b75e9414c12155dfb82161f6c6f95b1de478eab6.png?n5.5",
+                    "Name": "Wind-up Brickman",
+                    "Amount": 1,
+                    "Url": "/lodestone/playguide/db/item/547846e1fdc/"
+                },
+                {
+                    "Icon": "https://img.finalfantasyxiv.com/lds/pc/global/images/itemicon/92/927edffda4fb424b71708dc859a9e6d995827213.png?n5.5",
+                    "Name": "Thug's Mug",
+                    "Amount": 1,
+                    "Url": "/lodestone/playguide/db/item/e3576aa3ffc/"
+                }
+            ],
+            "ItemsOpt": []
+        },
+        "Infos": {},
+        "Seq": 6,
+        "oldID": 66824,
+        "Map": {
+            "ID": 13
+        }
+    },
+    {
+        "ID": "46776032553",
+        "Name": "The New King on the Block",
+        "Location": "Kugane",
+        "Level": 70,
+        "JournalSection": 7,
+        "JournalCategory": 66,
+        "JournalGenre": "\n\t\t\t\t\t\t\tCollaboration Quests\n\t\t\t\t\t\t",
+        "Url": "/lodestone/playguide/db/quest/46776032553/",
+        "Image": "https://img.finalfantasyxiv.com/lds/pc/global/images/itemicon/29/295d122f09dd31e1143d57b7ed05de34a0e85bce.png?n5.5",
+        "Icon": "function_normal",
+        "Issuer": "Hearty Hunter",
+        "StartLocation": {
+            "Name": "Kugane",
+            "X": "9.7",
+            "Y": "8.9"
+        },
+        "StartClass": null,
+        "Job": "",
+        "Company": "Not specified",
+        "Requirement": "Not specified",
+        "Rewards": {
+            "Gil": 0,
+            "Exp": 0,
+            "ItemsMand": [
+                {
+                    "Icon": "https://img.finalfantasyxiv.com/lds/pc/global/images/itemicon/fb/fb000afa3b641a86f1f443904fff67f28e2c5b11.png?n5.5",
+                    "Name": "",
+                    "Amount": null
+                }
+            ],
+            "ItemsOpt": []
+        },
+        "Infos": {
+            "PrevQuests": [
+                {
+                    "Name": "Stormblood",
+                    "Url": "/lodestone/playguide/db/quest/08908744553/",
+                    "Area": "The Lochs",
+                    "Level": "70"
+                }
+            ],
+            "NextQuests": [
+                {
+                    "Name": "The Newer King on the Block",
+                    "Url": "/lodestone/playguide/db/quest/1a87e0a027a/",
+                    "Area": "Kugane",
+                    "Level": "70"
+                }
+            ],
+            "NPCs": [
+                {
+                    "Name": "Adamant Oroniri Warrior",
+                    "Url": "/lodestone/playguide/db/npc/npc/3a33bc1c6d7/",
+                    "Area": "The Azim Steppe (X:32.2 Y:27.9)"
+                },
+                {
+                    "Name": "Apprehensive Auri Traveler",
+                    "Url": "/lodestone/playguide/db/npc/npc/a3c10e06478/",
+                    "Area": "The Azim Steppe (X:33.0 Y:27.0)"
+                },
+                {
+                    "Name": "Concerned Qestir",
+                    "Url": "/lodestone/playguide/db/npc/npc/ab2f85c4fee/",
+                    "Area": "The Azim Steppe (X:31.7 Y:27.2)"
+                },
+                {
+                    "Name": "Felyne",
+                    "Url": "/lodestone/playguide/db/npc/npc/82840ffb107/",
+                    "Area": "The Azim Steppe (X:11.8 Y:11.1)"
+                },
+                {
+                    "Name": "Wayfaring Kha Hunter",
+                    "Url": "/lodestone/playguide/db/npc/npc/d5786e45a69/",
+                    "Area": "The Azim Steppe (X:32.2 Y:26.8)"
+                },
+                {
+                    "Name": "Smithy",
+                    "Url": "/lodestone/playguide/db/shop/c9b26b7b668/",
+                    "Area": "Kugane (X:9.7 Y:8.9)"
+                }
+            ],
+            "RelatedAchievements": [
+                {
+                    "Name": "The New King on the Block",
+                    "Url": "/lodestone/playguide/db/achievement/4d2e3ff51c3/",
+                    "Reward": "Title",
+                    "Points": "10"
+                }
+            ]
+        },
+        "Seq": 9,
+        "oldID": 67090,
+        "Map": {
+            "ID": 370
+        }
+    },
+    {
+        "ID": "51fc1b5f028",
+        "Name": "A Complete Game Changer",
+        "Location": "Ul'dah",
+        "Level": 15,
+        "JournalSection": 7,
+        "JournalCategory": 66,
+        "JournalGenre": "\n\t\t\t\t\t\t\tCollaboration Quests\n\t\t\t\t\t\t",
+        "Url": "/lodestone/playguide/db/quest/51fc1b5f028/",
+        "Image": "https://img.finalfantasyxiv.com/lds/pc/global/images/itemicon/19/1901a17ab89d29c1021eb51c3b7a3a96e6cbaf3c.png?n5.5",
+        "Icon": "common_normal",
+        "Issuer": "",
+        "StartLocation": "",
+        "StartClass": null,
+        "Job": "",
+        "Company": "Not specified",
+        "Requirement": "Not specified",
+        "Rewards": {
+            "Gil": 1171,
+            "Exp": 3360,
+            "ItemsMand": [
+                {
+                    "Icon": "https://img.finalfantasyxiv.com/lds/pc/global/images/itemicon/82/827569a5bc2a3938bff2e952e76d6768537b1d15.png?n5.5",
+                    "Name": "Yo-kai Watch",
+                    "Amount": 1,
+                    "Url": "/lodestone/playguide/db/item/e13711ed096/"
+                },
+                {
+                    "Icon": "https://img.finalfantasyxiv.com/lds/pc/global/images/itemicon/e5/e59959ccc7c882bebdf231cde7e8a36beba7b509.png?n5.5",
+                    "Name": "Yo-kai Medal",
+                    "Amount": 1,
+                    "Url": "/lodestone/playguide/db/item/2e6f316acc8/"
+                },
+                {
+                    "Icon": "https://img.finalfantasyxiv.com/lds/pc/global/images/itemicon/13/1373c64259569fffc882c28478daaa7ba680ad47.png?n5.5",
+                    "Name": "",
+                    "Amount": null
+                }
+            ],
+            "ItemsOpt": []
+        },
+        "Infos": {
+            "PrevQuests": [
+                {
+                    "Name": "The Gridanian Envoy",
+                    "Url": "/lodestone/playguide/db/quest/37d5a29a600/",
+                    "Area": "Gridania",
+                    "Level": "15"
+                },
+                {
+                    "Name": "The Lominsan Envoy",
+                    "Url": "/lodestone/playguide/db/quest/1021e1320bb/",
+                    "Area": "Limsa Lominsa",
+                    "Level": "15"
+                },
+                {
+                    "Name": "The Ul'dahn Envoy",
+                    "Url": "/lodestone/playguide/db/quest/7d64f29d867/",
+                    "Area": "Ul'dah",
+                    "Level": "15"
+                }
+            ]
+        },
+        "Seq": 8,
+        "oldID": 67677,
+        "Map": {
+            "ID": 13
+        }
+    },
+    {
+        "ID": "5b27936eff0",
+        "Name": "The Man in Black",
+        "Location": "Ul'dah",
+        "Level": 50,
+        "JournalSection": 7,
+        "JournalCategory": 66,
+        "JournalGenre": "\n\t\t\t\t\t\t\tCollaboration Quests\n\t\t\t\t\t\t",
+        "Url": "/lodestone/playguide/db/quest/5b27936eff0/",
+        "Image": "https://img.finalfantasyxiv.com/lds/pc/global/images/itemicon/da/daa9827cefd9323b3d3fc33b043bf5facbeb427f.png?n5.5",
+        "Icon": "common_normal",
+        "Issuer": "",
+        "StartLocation": "",
+        "StartClass": null,
+        "Job": "",
+        "Company": "Not specified",
+        "Requirement": "Not specified",
+        "Rewards": {
+            "Gil": 1080,
+            "Exp": 24000,
+            "ItemsMand": [
+                {
+                    "Icon": "https://img.finalfantasyxiv.com/lds/pc/global/images/itemicon/21/2176a47afeec6c78f4a2e61e85244eca1e1c2e6a.png?n5.5",
+                    "Name": "Lucian Prince's Fingerless Glove",
+                    "Amount": 1,
+                    "Url": "/lodestone/playguide/db/item/fcd60708aaa/"
+                }
+            ],
+            "ItemsOpt": []
+        },
+        "Infos": {
+            "PrevQuests": [
+                {
+                    "Name": "The Ultimate Weapon",
+                    "Url": "/lodestone/playguide/db/quest/3ab32cfebf8/",
+                    "Area": "Northern Thanalan",
+                    "Level": "50"
+                }
+            ],
+            "NextQuests": [
+                {
+                    "Name": "In the Dark of Night",
+                    "Url": "/lodestone/playguide/db/quest/8f0eb851d33/",
+                    "Area": "Ul'dah",
+                    "Level": "50"
+                }
+            ]
+        },
+        "Seq": 11,
+        "oldID": 68694,
+        "Map": {
+            "ID": 13
+        }
+    },
+    {
+        "ID": "61439e23b9b",
+        "Name": "The Ties That Bind",
+        "Location": "East Shroud",
+        "Level": 1,
+        "JournalSection": 7,
+        "JournalCategory": 66,
+        "JournalGenre": "\n\t\t\t\t\t\t\tSpecial Quests\n\t\t\t\t\t\t",
+        "Url": "/lodestone/playguide/db/quest/61439e23b9b/",
+        "Image": "https://img.finalfantasyxiv.com/lds/pc/global/images/itemicon/63/63cb3a5ec9ec78ad6e602638ecdced070363a7aa.png?n5.5",
+        "Icon": "common_normal",
+        "Issuer": "Claribel",
+        "StartLocation": {
+            "Name": "East Shroud",
+            "X": "17.5",
+            "Y": "18.2"
+        },
+        "StartClass": null,
+        "Job": "",
+        "Company": "Not specified",
+        "Requirement": "Not specified",
+        "Rewards": {
+            "Gil": 0,
+            "Exp": 0,
+            "ItemsMand": [
+                {
+                    "Icon": "https://img.finalfantasyxiv.com/lds/pc/global/images/itemicon/83/83c0ee1101ffc87b0fffa7ccdd0eded7a969a2f0.png?n5.5",
+                    "Name": "Eternity Cake",
+                    "Amount": 1,
+                    "Url": "/lodestone/playguide/db/item/8a8489e4c4a/"
+                },
+                {
+                    "Icon": "https://img.finalfantasyxiv.com/lds/pc/global/images/itemicon/1b/1bbc23b85360d1a5d9d907b7d66e8a72e3ae99fa.png?n5.5",
+                    "Name": "Magicked Prism (Wings)",
+                    "Amount": 99,
+                    "Url": "/lodestone/playguide/db/item/41fbdb7d2d3/"
+                },
+                {
+                    "Icon": "https://img.finalfantasyxiv.com/lds/pc/global/images/itemicon/1b/1bbc23b85360d1a5d9d907b7d66e8a72e3ae99fa.png?n5.5",
+                    "Name": "Magicked Prism (Glassy Wings)",
+                    "Amount": 99,
+                    "Url": "/lodestone/playguide/db/item/7a46f1b6f6c/"
+                }
+            ],
+            "ItemsOpt": []
+        },
+        "Infos": {
+            "PrevQuests": [
+                {
+                    "Name": "The Scions of the Seventh Dawn",
+                    "Url": "/lodestone/playguide/db/quest/2d43e3d459f/",
+                    "Area": "Ul'dah",
+                    "Level": "17"
+                }
+            ],
+            "NextQuests": [
+                {
+                    "Name": "Ceremony Outfitter",
+                    "Url": "/lodestone/playguide/db/npc/npc/44f83e0e278/",
+                    "Area": "East Shroud (X:17.7 Y:18.2)"
+                },
+                {
+                    "Name": "Ceremony Usher",
+                    "Url": "/lodestone/playguide/db/npc/npc/ce81f626c04/",
+                    "Area": "East Shroud (X:17.5 Y:15.5)"
+                },
+                {
+                    "Name": "Etoinelle",
+                    "Url": "/lodestone/playguide/db/npc/npc/4a4b997bf31/",
+                    "Area": "East Shroud (X:17.7 Y:15.7)"
+                },
+                {
+                    "Name": "Raitmeaux",
+                    "Url": "/lodestone/playguide/db/npc/npc/370446f9f16/",
+                    "Area": "Sanctum of the Twelve (X:11.3 Y:9.2)"
+                },
+                {
+                    "Name": "Jemime",
+                    "Url": "/lodestone/playguide/db/npc/npc/5ad694e893e/",
+                    "Area": "Ul'dah - Steps of Thal (X:10.5 Y:13.1)"
+                }
+            ]
+        },
+        "Seq": 6,
+        "oldID": 67114,
+        "Map": {
+            "ID": 5
+        }
+    },
+    {
+        "ID": "6e56c270c7c",
+        "Name": "Messenger of the Winds",
+        "Location": "Gridania",
+        "Level": 50,
+        "JournalSection": 7,
+        "JournalCategory": 66,
+        "JournalGenre": "\n\t\t\t\t\t\t\tCollaboration Quests\n\t\t\t\t\t\t",
+        "Url": "/lodestone/playguide/db/quest/6e56c270c7c/",
+        "Image": "https://img.finalfantasyxiv.com/lds/pc/global/images/itemicon/20/200b4e3c86e47bd26d9263a24409e38361b3fa08.png?n5.5",
+        "Icon": "common_normal",
+        "Issuer": "",
+        "StartLocation": "",
+        "StartClass": null,
+        "Job": "",
+        "Company": "Not specified",
+        "Requirement": "Not specified",
+        "Rewards": {
+            "Gil": 1755,
+            "Exp": 24000,
+            "ItemsMand": [
+                {
+                    "Icon": "https://img.finalfantasyxiv.com/lds/pc/global/images/itemicon/5c/5c8f46b97d06fe578869b054c3c03343acd80c49.png?n5.5",
+                    "Name": "Lucian Prince's Jacket",
+                    "Amount": 1,
+                    "Url": "/lodestone/playguide/db/item/771c8d48717/"
+                },
+                {
+                    "Icon": "https://img.finalfantasyxiv.com/lds/pc/global/images/itemicon/5d/5d372b2cbf7cc2f1dac57fc8b77b36941cd332d4.png?n5.5",
+                    "Name": "Lucian Prince's Boots",
+                    "Amount": 1,
+                    "Url": "/lodestone/playguide/db/item/3c803db6402/"
+                }
+            ],
+            "ItemsOpt": []
+        },
+        "Infos": {
+            "PrevQuests": [
+                {
+                    "Name": "In the Dark of Night",
+                    "Url": "/lodestone/playguide/db/quest/8f0eb851d33/",
+                    "Area": "Ul'dah",
+                    "Level": "50"
+                }
+            ]
+        },
+        "Seq": 13,
+        "oldID": 68696,
+        "Map": {
+            "ID": 2
+        }
+    },
+    {
+        "ID": "7f6aa69c62d",
+        "Name": "Seeking the Scoop",
+        "Location": "Ul'dah",
+        "Level": 26,
+        "JournalSection": 7,
+        "JournalCategory": 66,
+        "JournalGenre": "\n\t\t\t\t\t\t\tCollaboration Quests\n\t\t\t\t\t\t",
+        "Url": "/lodestone/playguide/db/quest/7f6aa69c62d/",
+        "Image": "https://img.finalfantasyxiv.com/lds/pc/global/images/itemicon/e0/e036e883bc5a20ae821e9c39cd36e4ee33f0966e.png?n5.5",
+        "Icon": "common_normal",
+        "Issuer": "",
+        "StartLocation": "",
+        "StartClass": null,
+        "Job": "",
+        "Company": "Not specified",
+        "Requirement": "Not specified",
+        "Rewards": {
+            "Gil": 0,
+            "Exp": 5075,
+            "ItemsMand": [
+                {
+                    "Icon": "https://img.finalfantasyxiv.com/lds/pc/global/images/itemicon/5a/5a6782119d989bb347a79d457340f0e4ef8ec57b.png?n5.5",
+                    "Name": "Bohemian's Trousers",
+                    "Amount": null,
+                    "Url": "/lodestone/playguide/db/item/5ed3be1981a/"
+                },
+                {
+                    "Icon": "https://img.finalfantasyxiv.com/lds/pc/global/images/itemicon/4f/4f44171491e29f6a2a5ba8203e5a4d98806032df.png?n5.5",
+                    "Name": "Guardian Corps Skirt",
+                    "Amount": null,
+                    "Url": "/lodestone/playguide/db/item/5a55a3f7472/"
+                }
+            ],
+            "ItemsOpt": []
+        },
+        "Infos": {
+            "PrevQuests": [
+                {
+                    "Name": "For the Winsome",
+                    "Url": "/lodestone/playguide/db/quest/fc4cec14ee3/",
+                    "Area": "Limsa Lominsa",
+                    "Level": "12"
+                }
+            ],
+            "NextQuests": [
+                {
+                    "Name": "The Knight's Passage",
+                    "Url": "/lodestone/playguide/db/quest/df547d8ed6b/",
+                    "Area": "Gridania",
+                    "Level": "38"
+                }
+            ]
+        },
+        "Seq": 2,
+        "oldID": 66690,
+        "Map": {
+            "ID": 13
+        }
+    },
+    {
+        "ID": "8f0eb851d33",
+        "Name": "In the Dark of Night",
+        "Location": "Ul'dah",
+        "Level": 50,
+        "JournalSection": 7,
+        "JournalCategory": 66,
+        "JournalGenre": "\n\t\t\t\t\t\t\tCollaboration Quests\n\t\t\t\t\t\t",
+        "Url": "/lodestone/playguide/db/quest/8f0eb851d33/",
+        "Image": "https://img.finalfantasyxiv.com/lds/pc/global/images/itemicon/61/6116c3b35bee17ba30ed4b549941d2c16813e69b.png?n5.5",
+        "Icon": "common_normal",
+        "Issuer": "",
+        "StartLocation": "",
+        "StartClass": null,
+        "Job": "",
+        "Company": "Not specified",
+        "Requirement": "Not specified",
+        "Rewards": {
+            "Gil": 1670,
+            "Exp": 24000,
+            "ItemsMand": [
+                {
+                    "Icon": "https://img.finalfantasyxiv.com/lds/pc/global/images/itemicon/3b/3b9f401948f3420c853edb5c75ad65296417c4ba.png?n5.5",
+                    "Name": "Lucian Prince's Bottoms",
+                    "Amount": 1,
+                    "Url": "/lodestone/playguide/db/item/f2ef802a7e1/"
+                }
+            ],
+            "ItemsOpt": []
+        },
+        "Infos": {
+            "PrevQuests": [
+                {
+                    "Name": "The Man in Black",
+                    "Url": "/lodestone/playguide/db/quest/5b27936eff0/",
+                    "Area": "Ul'dah",
+                    "Level": "50"
+                }
+            ],
+            "NextQuests": [
+                {
+                    "Name": "Messenger of the Winds",
+                    "Url": "/lodestone/playguide/db/quest/6e56c270c7c/",
+                    "Area": "Gridania",
+                    "Level": "50"
+                }
+            ]
+        },
+        "Seq": 12,
+        "oldID": 68695,
+        "Map": {
+            "ID": 13
+        }
+    },
+    {
+        "ID": "df547d8ed6b",
+        "Name": "The Knight's Passage",
+        "Location": "Gridania",
+        "Level": 38,
+        "JournalSection": 7,
+        "JournalCategory": 66,
+        "JournalGenre": "\n\t\t\t\t\t\t\tCollaboration Quests\n\t\t\t\t\t\t",
+        "Url": "/lodestone/playguide/db/quest/df547d8ed6b/",
+        "Image": "https://img.finalfantasyxiv.com/lds/pc/global/images/itemicon/e0/e036e883bc5a20ae821e9c39cd36e4ee33f0966e.png?n5.5",
+        "Icon": "common_normal",
+        "Issuer": "",
+        "StartLocation": "",
+        "StartClass": null,
+        "Job": "",
+        "Company": "Not specified",
+        "Requirement": "Not specified",
+        "Rewards": {
+            "Gil": 0,
+            "Exp": 10105,
+            "ItemsMand": [
+                {
+                    "Icon": "https://img.finalfantasyxiv.com/lds/pc/global/images/itemicon/76/76fe610f9651db9c2e479b3fb20f57bcbaad2133.png?n5.5",
+                    "Name": "Bohemian's Boots",
+                    "Amount": null,
+                    "Url": "/lodestone/playguide/db/item/fdab3d86d8a/"
+                },
+                {
+                    "Icon": "https://img.finalfantasyxiv.com/lds/pc/global/images/itemicon/fe/fe73b476f77f8a01eabb1f8b5def7f2cee10acf3.png?n5.5",
+                    "Name": "Guardian Corps Boots",
+                    "Amount": null,
+                    "Url": "/lodestone/playguide/db/item/e2e6fe013f0/"
+                }
+            ],
+            "ItemsOpt": []
+        },
+        "Infos": {
+            "PrevQuests": [
+                {
+                    "Name": "Seeking the Scoop",
+                    "Url": "/lodestone/playguide/db/quest/7f6aa69c62d/",
+                    "Area": "Ul'dah",
+                    "Level": "26"
+                }
+            ],
+            "NextQuests": [
+                {
+                    "Name": "Wonder and Lightning",
+                    "Url": "/lodestone/playguide/db/quest/fea3bc51b76/",
+                    "Area": "Gridania",
+                    "Level": "45"
+                }
+            ]
+        },
+        "Seq": 3,
+        "oldID": 66691,
+        "Map": {
+            "ID": 3
+        }
+    },
+    {
+        "ID": "f94d6f3f6e1",
+        "Name": "Burgeoning Dread",
+        "Location": "Gridania",
+        "Level": 10,
+        "JournalSection": 7,
+        "JournalCategory": 66,
+        "JournalGenre": "\n\t\t\t\t\t\t\tCollaboration Quests\n\t\t\t\t\t\t",
+        "Url": "/lodestone/playguide/db/quest/f94d6f3f6e1/",
+        "Image": "https://img.finalfantasyxiv.com/lds/pc/global/images/itemicon/3a/3aab3b94a0d7a82a470198215507f841663dd67b.png?n5.5",
+        "Icon": "common_normal",
+        "Issuer": "",
+        "StartLocation": "",
+        "StartClass": null,
+        "Job": "",
+        "Company": "Not specified",
+        "Requirement": "Not specified",
+        "Rewards": {
+            "Gil": 0,
+            "Exp": 1710,
+            "ItemsMand": [
+                {
+                    "Icon": "https://img.finalfantasyxiv.com/lds/pc/global/images/itemicon/69/6988dcbd7e9dc3d77fbf44db81aab3817ebb9b79.png?n5.5",
+                    "Name": "Wind-up Shantotto",
+                    "Amount": 1,
+                    "Url": "/lodestone/playguide/db/item/3b0f1051268/"
+                }
+            ],
+            "ItemsOpt": []
+        },
+        "Infos": {},
+        "Seq": 5,
+        "oldID": 66823,
+        "Map": {
+            "ID": 2
+        }
+    },
+    {
+        "ID": "fc4cec14ee3",
+        "Name": "For the Winsome",
+        "Location": "Limsa Lominsa",
+        "Level": 12,
+        "JournalSection": 7,
+        "JournalCategory": 66,
+        "JournalGenre": "\n\t\t\t\t\t\t\tCollaboration Quests\n\t\t\t\t\t\t",
+        "Url": "/lodestone/playguide/db/quest/fc4cec14ee3/",
+        "Image": "https://img.finalfantasyxiv.com/lds/pc/global/images/itemicon/e0/e036e883bc5a20ae821e9c39cd36e4ee33f0966e.png?n5.5",
+        "Icon": "common_normal",
+        "Issuer": "",
+        "StartLocation": "",
+        "StartClass": null,
+        "Job": "",
+        "Company": "Not specified",
+        "Requirement": "Not specified",
+        "Rewards": {
+            "Gil": 0,
+            "Exp": 2625,
+            "ItemsMand": [
+                {
+                    "Icon": "https://img.finalfantasyxiv.com/lds/pc/global/images/itemicon/ec/ecfb1f7efc6701b9bbb659eaaa61befb26b33cbb.png?n5.5",
+                    "Name": "Bohemian's Gloves",
+                    "Amount": null,
+                    "Url": "/lodestone/playguide/db/item/3e2eed461d4/"
+                },
+                {
+                    "Icon": "https://img.finalfantasyxiv.com/lds/pc/global/images/itemicon/9e/9e908836237f6db2b4304705380b303ddf8f2407.png?n5.5",
+                    "Name": "Guardian Corps Gauntlets",
+                    "Amount": null,
+                    "Url": "/lodestone/playguide/db/item/d92cf5caf90/"
+                }
+            ],
+            "ItemsOpt": []
+        },
+        "Infos": {
+            "PrevQuests": [
+                {
+                    "Name": "Seeking the Scoop",
+                    "Url": "/lodestone/playguide/db/quest/7f6aa69c62d/",
+                    "Area": "Ul'dah",
+                    "Level": "26"
+                }
+            ]
+        },
+        "Seq": 1,
+        "oldID": 66689,
+        "Map": {
+            "ID": 12
+        }
+    },
+    {
+        "ID": "fea3bc51b76",
+        "Name": "Wonder and Lightning",
+        "Location": "Gridania",
+        "Level": 45,
+        "JournalSection": 7,
+        "JournalCategory": 66,
+        "JournalGenre": "\n\t\t\t\t\t\t\tCollaboration Quests\n\t\t\t\t\t\t",
+        "Url": "/lodestone/playguide/db/quest/fea3bc51b76/",
+        "Image": "https://img.finalfantasyxiv.com/lds/pc/global/images/itemicon/e0/e036e883bc5a20ae821e9c39cd36e4ee33f0966e.png?n5.5",
+        "Icon": "common_normal",
+        "Issuer": "",
+        "StartLocation": "",
+        "StartClass": null,
+        "Job": "",
+        "Company": "Not specified",
+        "Requirement": "Not specified",
+        "Rewards": {
+            "Gil": 0,
+            "Exp": 12420,
+            "ItemsMand": [
+                {
+                    "Icon": "https://img.finalfantasyxiv.com/lds/pc/global/images/itemicon/9f/9fb7bb531387d545bd506a0b7dfa7e018b705ff7.png?n5.5",
+                    "Name": "Bohemian's Coat",
+                    "Amount": null,
+                    "Url": "/lodestone/playguide/db/item/ce33061eab6/"
+                },
+                {
+                    "Icon": "https://img.finalfantasyxiv.com/lds/pc/global/images/itemicon/0d/0d49ce34e9d41ced883c3ca81d4365f68a1845da.png?n5.5",
+                    "Name": "Guardian Corps Coat",
+                    "Amount": null,
+                    "Url": "/lodestone/playguide/db/item/80ab02e9793/"
+                }
+            ],
+            "ItemsOpt": []
+        },
+        "Infos": {
+            "PrevQuests": [
+                {
+                    "Name": "The Knight's Passage",
+                    "Url": "/lodestone/playguide/db/quest/df547d8ed6b/",
+                    "Area": "Gridania",
+                    "Level": "38"
+                }
+            ]
+        },
+        "Seq": 4,
+        "oldID": 66692,
+        "Map": {
+            "ID": 3
+        }
+    }
+]

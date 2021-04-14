@@ -1,0 +1,3209 @@
+[
+    {
+        "ID": "02f039d7119",
+        "Name": "As Goes Light, So Goes Darkness",
+        "Location": "Ishgard",
+        "Level": 60,
+        "JournalSection": 0,
+        "JournalCategory": 4,
+        "JournalGenre": "Dragonsong Main Scenario Quests",
+        "Url": "/lodestone/playguide/db/quest/02f039d7119/",
+        "Image": "https://img.finalfantasyxiv.com/lds/pc/global/images/itemicon/eb/eb84be21517f254d6d6e1ea42d8512a6d60769bb.png?n5.5",
+        "Icon": "main",
+        "Issuer": "Lucia",
+        "StartLocation": {
+            "Name": "Foundation",
+            "X": "13.7",
+            "Y": "11.1"
+        },
+        "StartClass": null,
+        "Job": "Any Disciple of War or Magic (excluding limited jobs)",
+        "Company": "Not specified",
+        "Requirement": "Not specified",
+        "Rewards": {
+            "Gil": 10000,
+            "Exp": 16740,
+            "ItemsMand": [
+                {
+                    "Icon": "https://img.finalfantasyxiv.com/lds/pc/global/images/itemicon/49/490f6f64bd7de76df0024925489cd8243f0f958f.png?n5.5",
+                    "Name": "House Fortemps Kite Shield",
+                    "Amount": 1,
+                    "Url": "/lodestone/playguide/db/item/217c71a27c7/"
+                },
+                {
+                    "Icon": "https://img.finalfantasyxiv.com/lds/pc/global/images/itemicon/74/742669b7cb87cd09d2ffb4052913980556319d54.png?n5.5",
+                    "Name": "Wind-up Haurchefant",
+                    "Amount": 1,
+                    "Url": "/lodestone/playguide/db/item/d27ac620f62/"
+                }
+            ],
+            "ItemsOpt": [
+                {
+                    "Icon": "https://img.finalfantasyxiv.com/lds/pc/global/images/itemicon/5c/5c253d583ff892bf2e9662bbf85e4bf7567b9e2b.png?n5.5",
+                    "Name": "Primal Accessories of Aiming Coffer",
+                    "Amount": 1,
+                    "Url": "/lodestone/playguide/db/item/4740202a614/"
+                },
+                {
+                    "Icon": "https://img.finalfantasyxiv.com/lds/pc/global/images/itemicon/5c/5c253d583ff892bf2e9662bbf85e4bf7567b9e2b.png?n5.5",
+                    "Name": "Primal Accessories of Healing Coffer",
+                    "Amount": 1,
+                    "Url": "/lodestone/playguide/db/item/5232f1cde01/"
+                },
+                {
+                    "Icon": "https://img.finalfantasyxiv.com/lds/pc/global/images/itemicon/5c/5c253d583ff892bf2e9662bbf85e4bf7567b9e2b.png?n5.5",
+                    "Name": "Primal Accessories of Casting Coffer",
+                    "Amount": 1,
+                    "Url": "/lodestone/playguide/db/item/cba2dc72215/"
+                },
+                {
+                    "Icon": "https://img.finalfantasyxiv.com/lds/pc/global/images/itemicon/ba/baa2341dd17414fae7fd62ae7bc62c64589b67be.png?n5.5",
+                    "Name": "Allagan Silver Piece",
+                    "Amount": 7,
+                    "Url": "/lodestone/playguide/db/item/a3ac3ba4b00/"
+                }
+            ]
+        },
+        "Infos": {
+            "PrevQuests": [
+                {
+                    "Name": "Against the Dying of the Light",
+                    "Url": "/lodestone/playguide/db/quest/8ff1b389dd5/",
+                    "Area": "Ishgard",
+                    "Level": "60"
+                }
+            ],
+            "NextQuests": [
+                {
+                    "Name": "As It Once Was",
+                    "Url": "/lodestone/playguide/db/quest/32390cd716d/",
+                    "Area": "Ishgard",
+                    "Level": "60"
+                },
+                {
+                    "Name": "When the Bough Wakes",
+                    "Url": "/lodestone/playguide/db/quest/71fe495b79d/",
+                    "Area": "The Rising Stones",
+                    "Level": "60"
+                }
+            ],
+            "NPCs": [
+                {
+                    "Name": "Alphinaud",
+                    "Url": "/lodestone/playguide/db/npc/npc/e64b1b38954/",
+                    "Area": "Fortemps Manor (X:6.1 Y:6.2)"
+                },
+                {
+                    "Name": "House Fortemps Manservant",
+                    "Url": "/lodestone/playguide/db/npc/npc/6a4b6aa2d05/",
+                    "Area": "Fortemps Manor (X:6.0 Y:6.0)"
+                },
+                {
+                    "Name": "House Fortemps Steward",
+                    "Url": "/lodestone/playguide/db/npc/npc/9474ba513d8/",
+                    "Area": "Fortemps Manor (X:6.2 Y:6.2)"
+                },
+                {
+                    "Name": "Tataru",
+                    "Url": "/lodestone/playguide/db/npc/npc/c9e504d91e9/",
+                    "Area": "Fortemps Manor (X:6.1 Y:6.2)"
+                },
+                {
+                    "Name": "Alphinaud",
+                    "Url": "/lodestone/playguide/db/npc/npc/e891fb4009f/",
+                    "Area": "Foundation (X:13.7 Y:11.0)"
+                },
+                {
+                    "Name": "Eudestand",
+                    "Url": "/lodestone/playguide/db/npc/npc/77a4927c154/",
+                    "Area": "Foundation (X:11.4 Y:12.0)"
+                },
+                {
+                    "Name": "Eudestand",
+                    "Url": "/lodestone/playguide/db/npc/npc/7cd1dfb7590/",
+                    "Area": "Foundation (X:11.9 Y:12.7)"
+                },
+                {
+                    "Name": "Handeloup",
+                    "Url": "/lodestone/playguide/db/npc/npc/ec3496b94e2/",
+                    "Area": "Foundation (X:13.8 Y:11.2)"
+                },
+                {
+                    "Name": "Hilda",
+                    "Url": "/lodestone/playguide/db/npc/npc/d38f3d4ddd2/",
+                    "Area": "Foundation (X:11.4 Y:12.0)"
+                },
+                {
+                    "Name": "Hilda",
+                    "Url": "/lodestone/playguide/db/npc/npc/710e3829a11/",
+                    "Area": "Foundation (X:13.7 Y:11.0)"
+                },
+                {
+                    "Name": "Hilda",
+                    "Url": "/lodestone/playguide/db/npc/npc/7d7f3df79fc/",
+                    "Area": "Foundation (X:13.0 Y:12.5)"
+                },
+                {
+                    "Name": "Lucia",
+                    "Url": "/lodestone/playguide/db/npc/npc/2fb397135ab/",
+                    "Area": "Foundation (X:13.7 Y:11.2)"
+                },
+                {
+                    "Name": "Symme",
+                    "Url": "/lodestone/playguide/db/npc/npc/e78a7fc5c05/",
+                    "Area": "Foundation (X:11.4 Y:12.0)"
+                },
+                {
+                    "Name": "Symme",
+                    "Url": "/lodestone/playguide/db/npc/npc/99eecbf9e44/",
+                    "Area": "Foundation (X:13.3 Y:12.6)"
+                },
+                {
+                    "Name": "Thancred",
+                    "Url": "/lodestone/playguide/db/npc/npc/eb52f7dec30/",
+                    "Area": "Foundation (X:13.6 Y:11.0)"
+                },
+                {
+                    "Name": "Y'shtola",
+                    "Url": "/lodestone/playguide/db/npc/npc/ebb4c411d6e/",
+                    "Area": "Foundation (X:13.6 Y:11.0)"
+                },
+                {
+                    "Name": "Alphinaud",
+                    "Url": "/lodestone/playguide/db/npc/npc/7cdd900ebc3/",
+                    "Area": "The Pillars (X:7.5 Y:9.8)"
+                },
+                {
+                    "Name": "Alphinaud",
+                    "Url": "/lodestone/playguide/db/npc/npc/c082017826c/",
+                    "Area": "The Pillars (X:11.1 Y:8.4)"
+                },
+                {
+                    "Name": "Artoirel",
+                    "Url": "/lodestone/playguide/db/npc/npc/9f073cbaf1d/",
+                    "Area": "The Pillars (X:7.6 Y:9.7)"
+                },
+                {
+                    "Name": "Aymeric",
+                    "Url": "/lodestone/playguide/db/npc/npc/2b53f9189c3/",
+                    "Area": "The Pillars (X:7.5 Y:9.8)"
+                },
+                {
+                    "Name": "Lucia",
+                    "Url": "/lodestone/playguide/db/npc/npc/c93b76a20a9/",
+                    "Area": "The Pillars (X:11.2 Y:7.8)"
+                },
+                {
+                    "Name": "Thancred",
+                    "Url": "/lodestone/playguide/db/npc/npc/03c17fb9d4b/",
+                    "Area": "The Pillars (X:7.5 Y:9.9)"
+                },
+                {
+                    "Name": "Thancred",
+                    "Url": "/lodestone/playguide/db/npc/npc/a6ed8965913/",
+                    "Area": "The Pillars (X:11.2 Y:8.4)"
+                },
+                {
+                    "Name": "Y'shtola",
+                    "Url": "/lodestone/playguide/db/npc/npc/7969e2aa503/",
+                    "Area": "The Pillars (X:7.6 Y:9.8)"
+                },
+                {
+                    "Name": "Y'shtola",
+                    "Url": "/lodestone/playguide/db/npc/npc/9a8babfb94c/",
+                    "Area": "The Pillars (X:11.1 Y:8.4)"
+                }
+            ],
+            "RelatedAchievements": [
+                {
+                    "Name": "So It Goes",
+                    "Url": "/lodestone/playguide/db/achievement/04423c5e794/",
+                    "Reward": "Title",
+                    "Points": "10"
+                }
+            ]
+        },
+        "Seq": 7,
+        "oldID": 67699,
+        "Map": {
+            "ID": 218
+        }
+    },
+    {
+        "ID": "069e844f02b",
+        "Name": "A Little Slow, a Little Late",
+        "Location": "The Dravanian Forelands",
+        "Level": 60,
+        "JournalSection": 0,
+        "JournalCategory": 4,
+        "JournalGenre": "Dragonsong Main Scenario Quests",
+        "Url": "/lodestone/playguide/db/quest/069e844f02b/",
+        "Image": "https://img.finalfantasyxiv.com/lds/pc/global/images/itemicon/b8/b89e3d34c927c3df8be51a9e3577afc5e0835161.png?n5.5",
+        "Icon": "main",
+        "Issuer": "Alphinaud",
+        "StartLocation": {
+            "Name": "The Dravanian Forelands",
+            "X": "26.4",
+            "Y": "17.8"
+        },
+        "StartClass": null,
+        "Job": "Any Disciple of War or Magic (excluding limited jobs)",
+        "Company": "Not specified",
+        "Requirement": "Not specified",
+        "Rewards": {
+            "Gil": 843,
+            "Exp": 16740,
+            "ItemsMand": [],
+            "ItemsOpt": []
+        },
+        "Infos": {
+            "PrevQuests": [
+                {
+                    "Name": "In the Eye of the Beholder",
+                    "Url": "/lodestone/playguide/db/quest/6f430c40c81/",
+                    "Area": "The Dravanian Hinterlands",
+                    "Level": "60"
+                }
+            ],
+            "NextQuests": [
+                {
+                    "Name": "Dreams of the Lost",
+                    "Url": "/lodestone/playguide/db/quest/66bbcc31e02/",
+                    "Area": "The Dravanian Forelands",
+                    "Level": "60"
+                }
+            ],
+            "NPCs": [
+                {
+                    "Name": "Alphinaud",
+                    "Url": "/lodestone/playguide/db/npc/npc/d0083ba944c/",
+                    "Area": "The Dravanian Forelands (X:27.0 Y:32.6)"
+                },
+                {
+                    "Name": "Krile",
+                    "Url": "/lodestone/playguide/db/npc/npc/bf9e017a5f0/",
+                    "Area": "The Dravanian Forelands (X:26.4 Y:17.8)"
+                },
+                {
+                    "Name": "Krile",
+                    "Url": "/lodestone/playguide/db/npc/npc/f41dfa7c304/",
+                    "Area": "The Dravanian Forelands (X:26.9 Y:32.6)"
+                },
+                {
+                    "Name": "Thancred",
+                    "Url": "/lodestone/playguide/db/npc/npc/7eed729f803/",
+                    "Area": "The Dravanian Forelands (X:27.0 Y:32.6)"
+                },
+                {
+                    "Name": "Vath Storyteller",
+                    "Url": "/lodestone/playguide/db/npc/npc/41a0c5ab8cb/",
+                    "Area": "The Dravanian Forelands (X:24.0 Y:19.7)"
+                },
+                {
+                    "Name": "Y'shtola",
+                    "Url": "/lodestone/playguide/db/npc/npc/f8791140ff3/",
+                    "Area": "The Dravanian Forelands (X:26.4 Y:17.8)"
+                },
+                {
+                    "Name": "Y'shtola",
+                    "Url": "/lodestone/playguide/db/npc/npc/2ab9670caf3/",
+                    "Area": "The Dravanian Forelands (X:27.0 Y:32.6)"
+                }
+            ]
+        },
+        "Seq": 4,
+        "oldID": 67696,
+        "Map": {
+            "ID": 212
+        }
+    },
+    {
+        "ID": "08262718569",
+        "Name": "Staunch Conviction",
+        "Location": "Coerthas Western Highlands",
+        "Level": 60,
+        "JournalSection": 0,
+        "JournalCategory": 4,
+        "JournalGenre": "Dragonsong Main Scenario Quests",
+        "Url": "/lodestone/playguide/db/quest/08262718569/",
+        "Image": null,
+        "Icon": "main",
+        "Issuer": "Lucia",
+        "StartLocation": {
+            "Name": "Coerthas Western Highlands",
+            "X": "32.1",
+            "Y": "38.4"
+        },
+        "StartClass": null,
+        "Job": "Any Disciple of War or Magic (excluding limited jobs)",
+        "Company": "Not specified",
+        "Requirement": "Not specified",
+        "Rewards": {
+            "Gil": 550,
+            "Exp": 16740,
+            "ItemsMand": [],
+            "ItemsOpt": []
+        },
+        "Infos": {
+            "PrevQuests": [
+                {
+                    "Name": "This War of Ours",
+                    "Url": "/lodestone/playguide/db/quest/91b37896382/",
+                    "Area": "Matoya's Cave",
+                    "Level": "60"
+                }
+            ],
+            "NextQuests": [
+                {
+                    "Name": "Once More, a Favor",
+                    "Url": "/lodestone/playguide/db/quest/76bd02df80b/",
+                    "Area": "Coerthas Western Highlands",
+                    "Level": "60"
+                }
+            ],
+            "NPCs": [
+                {
+                    "Name": "Artoirel",
+                    "Url": "/lodestone/playguide/db/npc/npc/0b991992317/",
+                    "Area": "Coerthas Western Highlands (X:32.6 Y:37.7)"
+                },
+                {
+                    "Name": "Emmanellain",
+                    "Url": "/lodestone/playguide/db/npc/npc/cb7932d61f6/",
+                    "Area": "Coerthas Western Highlands (X:32.8 Y:37.8)"
+                },
+                {
+                    "Name": "Highborn Merchant",
+                    "Url": "/lodestone/playguide/db/npc/npc/337b2abb611/",
+                    "Area": "Coerthas Western Highlands (X:32.4 Y:37.4)"
+                },
+                {
+                    "Name": "Honoroit",
+                    "Url": "/lodestone/playguide/db/npc/npc/5e401871d20/",
+                    "Area": "Coerthas Western Highlands (X:32.8 Y:37.7)"
+                },
+                {
+                    "Name": "Lowborn Youth",
+                    "Url": "/lodestone/playguide/db/npc/npc/3851356f407/",
+                    "Area": "Coerthas Western Highlands (X:31.8 Y:37.6)"
+                },
+                {
+                    "Name": "Redwald",
+                    "Url": "/lodestone/playguide/db/npc/npc/b4d663a226f/",
+                    "Area": "Coerthas Western Highlands (X:32.6 Y:38.3)"
+                },
+                {
+                    "Name": "Rothe",
+                    "Url": "/lodestone/playguide/db/npc/npc/ffaef59a515/",
+                    "Area": "Coerthas Western Highlands (X:31.4 Y:37.8)"
+                },
+                {
+                    "Name": "Spirited Stonecutter",
+                    "Url": "/lodestone/playguide/db/npc/npc/730100fb657/",
+                    "Area": "Coerthas Western Highlands (X:32.9 Y:37.6)"
+                }
+            ]
+        },
+        "Seq": 11,
+        "oldID": 67770,
+        "Map": {
+            "ID": 211
+        }
+    },
+    {
+        "ID": "0c061001c21",
+        "Name": "Winning Over the Wyrm",
+        "Location": "The Dravanian Forelands",
+        "Level": 60,
+        "JournalSection": 0,
+        "JournalCategory": 4,
+        "JournalGenre": "Dragonsong Main Scenario Quests",
+        "Url": "/lodestone/playguide/db/quest/0c061001c21/",
+        "Image": "https://img.finalfantasyxiv.com/lds/pc/global/images/itemicon/d8/d87b5201d2540e0d88cce697ebeb52bf2a59de6f.png?n5.5",
+        "Icon": "main",
+        "Issuer": "Alphinaud",
+        "StartLocation": {
+            "Name": "The Dravanian Forelands",
+            "X": "16.7",
+            "Y": "23.2"
+        },
+        "StartClass": null,
+        "Job": "Any Disciple of War or Magic (excluding limited jobs)",
+        "Company": "Not specified",
+        "Requirement": "Not specified",
+        "Rewards": {
+            "Gil": 5000,
+            "Exp": 16740,
+            "ItemsMand": [],
+            "ItemsOpt": [
+                {
+                    "Icon": "https://img.finalfantasyxiv.com/lds/pc/global/images/itemicon/dd/dd2fcafc52c0bb50128b180a476647ecde2d4be4.png?n5.5",
+                    "Name": "Max-Potion",
+                    "Amount": 5,
+                    "Url": "/lodestone/playguide/db/item/810081f550e/"
+                },
+                {
+                    "Icon": "https://img.finalfantasyxiv.com/lds/pc/global/images/itemicon/3e/3ee92d9de756abd64f6757db06c3068d7d0f5f82.png?n5.5",
+                    "Name": "Max-Ether",
+                    "Amount": 5,
+                    "Url": "/lodestone/playguide/db/item/bdc7322695b/"
+                }
+            ]
+        },
+        "Infos": {
+            "PrevQuests": [
+                {
+                    "Name": "An Ally for Ishgard",
+                    "Url": "/lodestone/playguide/db/quest/5ab77718354/",
+                    "Area": "Ishgard",
+                    "Level": "60"
+                }
+            ],
+            "NextQuests": [
+                {
+                    "Name": "An End to the Song",
+                    "Url": "/lodestone/playguide/db/quest/36d55886b37/",
+                    "Area": "The Churning Mists",
+                    "Level": "60"
+                }
+            ],
+            "NPCs": [
+                {
+                    "Name": "Alphinaud",
+                    "Url": "/lodestone/playguide/db/npc/npc/a0d6bf535f4/",
+                    "Area": "The Churning Mists (X:27.3 Y:34.8)"
+                },
+                {
+                    "Name": "Alphinaud",
+                    "Url": "/lodestone/playguide/db/npc/npc/ac58c244d1c/",
+                    "Area": "The Churning Mists (X:7.3 Y:26.7)"
+                },
+                {
+                    "Name": "Alphinaud",
+                    "Url": "/lodestone/playguide/db/npc/npc/e376f409812/",
+                    "Area": "The Churning Mists (X:7.3 Y:26.7)"
+                },
+                {
+                    "Name": "Alphinaud",
+                    "Url": "/lodestone/playguide/db/npc/npc/5567a9f9129/",
+                    "Area": "The Churning Mists (X:7.8 Y:27.9)"
+                },
+                {
+                    "Name": "Aymeric",
+                    "Url": "/lodestone/playguide/db/npc/npc/fc740ca575b/",
+                    "Area": "The Churning Mists (X:27.2 Y:34.8)"
+                },
+                {
+                    "Name": "Aymeric",
+                    "Url": "/lodestone/playguide/db/npc/npc/91c827a0bc1/",
+                    "Area": "The Churning Mists (X:7.4 Y:26.7)"
+                },
+                {
+                    "Name": "Aymeric",
+                    "Url": "/lodestone/playguide/db/npc/npc/6be518a0624/",
+                    "Area": "The Churning Mists (X:7.4 Y:26.7)"
+                },
+                {
+                    "Name": "Aymeric",
+                    "Url": "/lodestone/playguide/db/npc/npc/c22d9accf23/",
+                    "Area": "The Churning Mists (X:7.8 Y:27.9)"
+                },
+                {
+                    "Name": "Imperious Wyvern",
+                    "Url": "/lodestone/playguide/db/npc/npc/4e278ffee30/",
+                    "Area": "The Churning Mists (X:7.6 Y:27.9)"
+                },
+                {
+                    "Name": "Moghan",
+                    "Url": "/lodestone/playguide/db/npc/npc/8576e801691/",
+                    "Area": "The Churning Mists (X:30.0 Y:36.4)"
+                },
+                {
+                    "Name": "Alphinaud",
+                    "Url": "/lodestone/playguide/db/npc/npc/d8488d29b16/",
+                    "Area": "The Dravanian Forelands (X:16.6 Y:23.2)"
+                },
+                {
+                    "Name": "Aymeric",
+                    "Url": "/lodestone/playguide/db/npc/npc/4f4b9f726b7/",
+                    "Area": "The Dravanian Forelands (X:16.6 Y:23.2)"
+                }
+            ]
+        },
+        "Seq": 21,
+        "oldID": 67780,
+        "Map": {
+            "ID": 212
+        }
+    },
+    {
+        "ID": "15530701908",
+        "Name": "Litany of Peace",
+        "Location": "Ishgard",
+        "Level": 60,
+        "JournalSection": 0,
+        "JournalCategory": 4,
+        "JournalGenre": "Dragonsong Main Scenario Quests",
+        "Url": "/lodestone/playguide/db/quest/15530701908/",
+        "Image": "https://img.finalfantasyxiv.com/lds/pc/global/images/itemicon/cc/cc2b89fdbcc68ed8a275123946dc03cd6f064137.png?n5.5",
+        "Icon": "main",
+        "Issuer": "Aymeric",
+        "StartLocation": {
+            "Name": "Foundation",
+            "X": "13.7",
+            "Y": "11.2"
+        },
+        "StartClass": null,
+        "Job": "Any Disciple of War or Magic (excluding limited jobs)",
+        "Company": "Not specified",
+        "Requirement": "Not specified",
+        "Rewards": {
+            "Gil": 10000,
+            "Exp": 16740,
+            "ItemsMand": [
+                {
+                    "Icon": "https://img.finalfantasyxiv.com/lds/pc/global/images/itemicon/7e/7e8070e70daee9156e641bc3da9b71fb543b6e18.png?n5.5",
+                    "Name": "Wind-up Aymeric",
+                    "Amount": 1,
+                    "Url": "/lodestone/playguide/db/item/75eec7c4049/"
+                },
+                {
+                    "Icon": "https://img.finalfantasyxiv.com/lds/pc/global/images/itemicon/7e/7eaa53e1fe9e2bd80f81d9ce69c98c24f6223b0b.png?n5.5",
+                    "Name": "Dragonsong Orchestrion Roll",
+                    "Amount": 1,
+                    "Url": "/lodestone/playguide/db/item/08482160f39/"
+                },
+                {
+                    "Icon": "https://img.finalfantasyxiv.com/lds/pc/global/images/itemicon/f2/f2395a41d5024edbc2837be517920badae151364.png?n5.5",
+                    "Name": "Alpine Coat",
+                    "Amount": 1,
+                    "Url": "/lodestone/playguide/db/item/1747c179521/"
+                }
+            ],
+            "ItemsOpt": []
+        },
+        "Infos": {
+            "PrevQuests": [
+                {
+                    "Name": "Heroes of the Hour",
+                    "Url": "/lodestone/playguide/db/quest/e84cd810fc2/",
+                    "Area": "Ishgard",
+                    "Level": "60"
+                }
+            ],
+            "NextQuests": [
+                {
+                    "Name": "Promises Kept",
+                    "Url": "/lodestone/playguide/db/quest/c54202b45bb/",
+                    "Area": "Ishgard",
+                    "Level": "60"
+                },
+                {
+                    "Name": "The Paths We Walk",
+                    "Url": "/lodestone/playguide/db/quest/f01419fe7f4/",
+                    "Area": "Fortemps Manor",
+                    "Level": "60"
+                },
+                {
+                    "Name": "Nidhogg's Rage",
+                    "Url": "/lodestone/playguide/db/quest/69bd9a55ca3/",
+                    "Area": "Mor Dhona",
+                    "Level": "60"
+                },
+                {
+                    "Name": "Towards the Firmament",
+                    "Url": "/lodestone/playguide/db/quest/5c20f6c7a0f/",
+                    "Area": "Ishgard",
+                    "Level": "60"
+                },
+                {
+                    "Name": "Into the Blue Again",
+                    "Url": "/lodestone/playguide/db/quest/f4c22380d70/",
+                    "Area": "Ul'dah",
+                    "Level": "50"
+                }
+            ],
+            "NPCs": [
+                {
+                    "Name": "Alphinaud",
+                    "Url": "/lodestone/playguide/db/npc/npc/df89d9822eb/",
+                    "Area": "Fortemps Manor (X:6.1 Y:6.2)"
+                },
+                {
+                    "Name": "Tataru",
+                    "Url": "/lodestone/playguide/db/npc/npc/010b65bed3e/",
+                    "Area": "Fortemps Manor (X:6.1 Y:6.2)"
+                },
+                {
+                    "Name": "Aymeric",
+                    "Url": "/lodestone/playguide/db/npc/npc/8db18268493/",
+                    "Area": "Foundation (X:13.7 Y:11.2)"
+                },
+                {
+                    "Name": "Handeloup",
+                    "Url": "/lodestone/playguide/db/npc/npc/ec3496b94e2/",
+                    "Area": "Foundation (X:13.8 Y:11.2)"
+                },
+                {
+                    "Name": "Lucia",
+                    "Url": "/lodestone/playguide/db/npc/npc/2fb397135ab/",
+                    "Area": "Foundation (X:13.7 Y:11.2)"
+                },
+                {
+                    "Name": "Temple Herald",
+                    "Url": "/lodestone/playguide/db/npc/npc/dc81da99286/",
+                    "Area": "Foundation (X:13.6 Y:11.1)"
+                },
+                {
+                    "Name": "Aymeric",
+                    "Url": "/lodestone/playguide/db/npc/npc/8aeaf78950b/",
+                    "Area": "The Pillars (X:14.6 Y:11.9)"
+                }
+            ],
+            "RelatedAchievements": [
+                {
+                    "Name": "Floor the Horde",
+                    "Url": "/lodestone/playguide/db/achievement/4b443b4bb0d/",
+                    "Reward": "Title",
+                    "Points": "10"
+                }
+            ]
+        },
+        "Seq": 24,
+        "oldID": 67783,
+        "Map": {
+            "ID": 218
+        }
+    },
+    {
+        "ID": "32390cd716d",
+        "Name": "As It Once Was",
+        "Location": "Ishgard",
+        "Level": 60,
+        "JournalSection": 0,
+        "JournalCategory": 4,
+        "JournalGenre": "Dragonsong Main Scenario Quests",
+        "Url": "/lodestone/playguide/db/quest/32390cd716d/",
+        "Image": "https://img.finalfantasyxiv.com/lds/pc/global/images/itemicon/99/99915f73342a973504d0c55ad4cb14347111253b.png?n5.5",
+        "Icon": "main",
+        "Issuer": "Tataru",
+        "StartLocation": {
+            "Name": "The Pillars",
+            "X": "11.5",
+            "Y": "11.1"
+        },
+        "StartClass": null,
+        "Job": "Any Disciple of War or Magic (excluding limited jobs)",
+        "Company": "Not specified",
+        "Requirement": "Not specified",
+        "Rewards": {
+            "Gil": 1807,
+            "Exp": 16740,
+            "ItemsMand": [],
+            "ItemsOpt": [
+                {
+                    "Icon": "https://img.finalfantasyxiv.com/lds/pc/global/images/itemicon/7a/7a10eb986e6ae3278bc8cbfa1bf9db059cd4150a.png?n5.5",
+                    "Name": "Steamed Staff",
+                    "Amount": 1,
+                    "Url": "/lodestone/playguide/db/item/d340d25dce6/"
+                },
+                {
+                    "Icon": "https://img.finalfantasyxiv.com/lds/pc/global/images/itemicon/99/9966fffb538269fb56727c67250489c86e50b052.png?n5.5",
+                    "Name": "Sesame Cookie",
+                    "Amount": 1,
+                    "Url": "/lodestone/playguide/db/item/483f65b5569/"
+                }
+            ]
+        },
+        "Infos": {
+            "PrevQuests": [
+                {
+                    "Name": "As Goes Light, So Goes Darkness",
+                    "Url": "/lodestone/playguide/db/quest/02f039d7119/",
+                    "Area": "Ishgard",
+                    "Level": "60"
+                }
+            ],
+            "NextQuests": [
+                {
+                    "Name": "The Word of the Mother",
+                    "Url": "/lodestone/playguide/db/quest/aec942d7783/",
+                    "Area": "The Rising Stones",
+                    "Level": "60"
+                }
+            ],
+            "NPCs": [
+                {
+                    "Name": "Coultenet",
+                    "Url": "/lodestone/playguide/db/npc/npc/6b933de6170/",
+                    "Area": "Limsa Lominsa Lower Decks (X:4.7 Y:12.0)"
+                },
+                {
+                    "Name": "F'lhaminn",
+                    "Url": "/lodestone/playguide/db/npc/npc/9fcafb0a58a/",
+                    "Area": "Limsa Lominsa Lower Decks (X:4.7 Y:12.1)"
+                },
+                {
+                    "Name": "Hoary Boulder",
+                    "Url": "/lodestone/playguide/db/npc/npc/950eff9a560/",
+                    "Area": "Limsa Lominsa Lower Decks (X:4.7 Y:12.0)"
+                },
+                {
+                    "Name": "Alphinaud",
+                    "Url": "/lodestone/playguide/db/npc/npc/52208e46db9/",
+                    "Area": "The Pillars (X:11.5 Y:11.1)"
+                },
+                {
+                    "Name": "Coultenet",
+                    "Url": "/lodestone/playguide/db/npc/npc/700172153f1/",
+                    "Area": "Mor Dhona (X:22.3 Y:8.5)"
+                },
+                {
+                    "Name": "F'lhaminn",
+                    "Url": "/lodestone/playguide/db/npc/npc/0dcfc61bd3b/",
+                    "Area": "Mor Dhona (X:22.2 Y:8.4)"
+                },
+                {
+                    "Name": "Hoary Boulder",
+                    "Url": "/lodestone/playguide/db/npc/npc/9f9b505dd94/",
+                    "Area": "Mor Dhona (X:22.2 Y:8.5)"
+                },
+                {
+                    "Name": "Aenor",
+                    "Url": "/lodestone/playguide/db/npc/npc/779dba76c16/",
+                    "Area": "The Rising Stones (X:6.7 Y:6.1)"
+                },
+                {
+                    "Name": "Aergmhus",
+                    "Url": "/lodestone/playguide/db/npc/npc/a50af5353b7/",
+                    "Area": "The Rising Stones (X:6.4 Y:5.9)"
+                },
+                {
+                    "Name": "Alianne",
+                    "Url": "/lodestone/playguide/db/npc/npc/989d4563d87/",
+                    "Area": "The Rising Stones (X:6.1 Y:5.9)"
+                },
+                {
+                    "Name": "Alphinaud",
+                    "Url": "/lodestone/playguide/db/npc/npc/fc6feddddc5/",
+                    "Area": "The Rising Stones (X:6.0 Y:6.1)"
+                },
+                {
+                    "Name": "Alphinaud",
+                    "Url": "/lodestone/playguide/db/npc/npc/adc4580c40d/",
+                    "Area": "The Rising Stones (X:6.0 Y:6.0)"
+                },
+                {
+                    "Name": "Bluomwyda",
+                    "Url": "/lodestone/playguide/db/npc/npc/e296b8673ff/",
+                    "Area": "The Rising Stones (X:6.3 Y:5.9)"
+                },
+                {
+                    "Name": "Clemence",
+                    "Url": "/lodestone/playguide/db/npc/npc/e271cc9335a/",
+                    "Area": "The Rising Stones (X:6.5 Y:6.1)"
+                },
+                {
+                    "Name": "Coultenet",
+                    "Url": "/lodestone/playguide/db/npc/npc/f0001605ebd/",
+                    "Area": "The Rising Stones (X:6.7 Y:6.2)"
+                },
+                {
+                    "Name": "Ephemie",
+                    "Url": "/lodestone/playguide/db/npc/npc/8e99a33a306/",
+                    "Area": "The Rising Stones (X:6.1 Y:5.9)"
+                },
+                {
+                    "Name": "F'lhaminn",
+                    "Url": "/lodestone/playguide/db/npc/npc/84a4c3d2cd3/",
+                    "Area": "The Rising Stones (X:6.1 Y:5.9)"
+                },
+                {
+                    "Name": "Hoary Boulder",
+                    "Url": "/lodestone/playguide/db/npc/npc/3184fc7b7b1/",
+                    "Area": "The Rising Stones (X:6.8 Y:6.1)"
+                },
+                {
+                    "Name": "Homei",
+                    "Url": "/lodestone/playguide/db/npc/npc/76e5ba16062/",
+                    "Area": "The Rising Stones (X:6.7 Y:6.0)"
+                },
+                {
+                    "Name": "Isildaure",
+                    "Url": "/lodestone/playguide/db/npc/npc/cbabb651c47/",
+                    "Area": "The Rising Stones (X:6.7 Y:5.9)"
+                },
+                {
+                    "Name": "Ocher Boulder",
+                    "Url": "/lodestone/playguide/db/npc/npc/b407fca6168/",
+                    "Area": "The Rising Stones (X:6.8 Y:6.1)"
+                },
+                {
+                    "Name": "Tataru",
+                    "Url": "/lodestone/playguide/db/npc/npc/e40132d24fe/",
+                    "Area": "The Rising Stones (X:6.0 Y:6.1)"
+                },
+                {
+                    "Name": "Tataru",
+                    "Url": "/lodestone/playguide/db/npc/npc/e0172086f74/",
+                    "Area": "The Rising Stones (X:6.0 Y:6.0)"
+                },
+                {
+                    "Name": "V'mah Tia",
+                    "Url": "/lodestone/playguide/db/npc/npc/82e5df6a613/",
+                    "Area": "The Rising Stones (X:6.0 Y:6.2)"
+                }
+            ]
+        },
+        "Seq": 8,
+        "oldID": 67767,
+        "Map": {
+            "ID": 219
+        }
+    },
+    {
+        "ID": "365f15c23ff",
+        "Name": "An Uncertain Future",
+        "Location": "Fortemps Manor",
+        "Level": 60,
+        "JournalSection": 0,
+        "JournalCategory": 4,
+        "JournalGenre": "Dragonsong Main Scenario Quests",
+        "Url": "/lodestone/playguide/db/quest/365f15c23ff/",
+        "Image": "https://img.finalfantasyxiv.com/lds/pc/global/images/itemicon/6d/6da46828f856929c8f90be4d55bac0320e7c7903.png?n5.5",
+        "Icon": "main",
+        "Issuer": "Alphinaud",
+        "StartLocation": {
+            "Name": "Fortemps Manor",
+            "X": "6.1",
+            "Y": "6.2"
+        },
+        "StartClass": null,
+        "Job": "Any Disciple of War or Magic (excluding limited jobs)",
+        "Company": "Not specified",
+        "Requirement": "Not specified",
+        "Rewards": {
+            "Gil": 745,
+            "Exp": 16740,
+            "ItemsMand": [],
+            "ItemsOpt": [
+                {
+                    "Icon": "https://img.finalfantasyxiv.com/lds/pc/global/images/itemicon/e8/e88d404bd56effa8df06cb3cd5b9dad699693de2.png?n5.5",
+                    "Name": "Hot Chocolate",
+                    "Amount": 1,
+                    "Url": "/lodestone/playguide/db/item/096c3cb0a3b/"
+                },
+                {
+                    "Icon": "https://img.finalfantasyxiv.com/lds/pc/global/images/itemicon/f0/f0a749c224d396cc45f4dfa49cc4c4c6677c2b7f.png?n5.5",
+                    "Name": "Creme Brulee",
+                    "Amount": 1,
+                    "Url": "/lodestone/playguide/db/item/4ded7d291a0/"
+                },
+                {
+                    "Icon": "https://img.finalfantasyxiv.com/lds/pc/global/images/itemicon/e1/e1b827acae9bc88692df7cad74e490e698195cb0.png?n5.5",
+                    "Name": "Almond Cream Croissant",
+                    "Amount": 1,
+                    "Url": "/lodestone/playguide/db/item/837b3547c16/"
+                },
+                {
+                    "Icon": "https://img.finalfantasyxiv.com/lds/pc/global/images/itemicon/16/16f15fb9a5cc6f533d80d9ab96ff91faf8a1ec89.png?n5.5",
+                    "Name": "Urchin Loaf",
+                    "Amount": 1,
+                    "Url": "/lodestone/playguide/db/item/4174dfa55e2/"
+                }
+            ]
+        },
+        "Infos": {
+            "PrevQuests": [
+                {
+                    "Name": "Heavensward",
+                    "Url": "/lodestone/playguide/db/quest/29fa56153f5/",
+                    "Area": "Azys Lla",
+                    "Level": "60"
+                }
+            ],
+            "NextQuests": [
+                {
+                    "Name": "Breaking the Cycle",
+                    "Url": "/lodestone/playguide/db/quest/6722c641c32/",
+                    "Area": "Ishgard",
+                    "Level": "60"
+                }
+            ],
+            "NPCs": [
+                {
+                    "Name": "Alphinaud",
+                    "Url": "/lodestone/playguide/db/npc/npc/bc196e7240c/",
+                    "Area": "Foundation (X:13.1 Y:11.9)"
+                },
+                {
+                    "Name": "Alphinaud",
+                    "Url": "/lodestone/playguide/db/npc/npc/e6c941efdcb/",
+                    "Area": "Foundation (X:13.4 Y:11.1)"
+                },
+                {
+                    "Name": "Eudestand",
+                    "Url": "/lodestone/playguide/db/npc/npc/77a4927c154/",
+                    "Area": "Foundation (X:11.4 Y:12.0)"
+                },
+                {
+                    "Name": "Handeloup",
+                    "Url": "/lodestone/playguide/db/npc/npc/ec3496b94e2/",
+                    "Area": "Foundation (X:13.8 Y:11.2)"
+                },
+                {
+                    "Name": "Hilda",
+                    "Url": "/lodestone/playguide/db/npc/npc/d38f3d4ddd2/",
+                    "Area": "Foundation (X:11.4 Y:12.0)"
+                },
+                {
+                    "Name": "Lucia",
+                    "Url": "/lodestone/playguide/db/npc/npc/a42fdf385d5/",
+                    "Area": "Foundation (X:13.4 Y:11.1)"
+                },
+                {
+                    "Name": "Symme",
+                    "Url": "/lodestone/playguide/db/npc/npc/e78a7fc5c05/",
+                    "Area": "Foundation (X:11.4 Y:12.0)"
+                },
+                {
+                    "Name": "Tataru",
+                    "Url": "/lodestone/playguide/db/npc/npc/194e34e2190/",
+                    "Area": "Foundation (X:13.0 Y:11.9)"
+                },
+                {
+                    "Name": "Temple Knight Guard",
+                    "Url": "/lodestone/playguide/db/npc/npc/340b2c2824b/",
+                    "Area": "Foundation (X:13.5 Y:11.0)"
+                }
+            ]
+        },
+        "Seq": 6,
+        "oldID": 67692,
+        "Map": {
+            "ID": 222
+        }
+    },
+    {
+        "ID": "36d55886b37",
+        "Name": "An End to the Song",
+        "Location": "The Churning Mists",
+        "Level": 60,
+        "JournalSection": 0,
+        "JournalCategory": 4,
+        "JournalGenre": "Dragonsong Main Scenario Quests",
+        "Url": "/lodestone/playguide/db/quest/36d55886b37/",
+        "Image": "https://img.finalfantasyxiv.com/lds/pc/global/images/itemicon/5a/5a335819c21410899a37ef773174f6a639fb8265.png?n5.5",
+        "Icon": "main",
+        "Issuer": "Aymeric",
+        "StartLocation": {
+            "Name": "The Churning Mists",
+            "X": "7.4",
+            "Y": "26.7"
+        },
+        "StartClass": null,
+        "Job": "Any Disciple of War or Magic (excluding limited jobs)",
+        "Company": "Not specified",
+        "Requirement": "Not specified",
+        "Rewards": {
+            "Gil": 5000,
+            "Exp": 16740,
+            "ItemsMand": [],
+            "ItemsOpt": []
+        },
+        "Infos": {
+            "PrevQuests": [
+                {
+                    "Name": "Winning Over the Wyrm",
+                    "Url": "/lodestone/playguide/db/quest/0c061001c21/",
+                    "Area": "The Dravanian Forelands",
+                    "Level": "60"
+                }
+            ],
+            "NextQuests": [
+                {
+                    "Name": "Heroes of the Hour",
+                    "Url": "/lodestone/playguide/db/quest/e84cd810fc2/",
+                    "Area": "Ishgard",
+                    "Level": "60"
+                }
+            ],
+            "NPCs": [
+                {
+                    "Name": "Chaunollet",
+                    "Url": "/lodestone/playguide/db/npc/npc/475affca137/",
+                    "Area": "Coerthas Central Highlands (X:18.9 Y:15.5)"
+                },
+                {
+                    "Name": "Loanne",
+                    "Url": "/lodestone/playguide/db/npc/npc/030c3b76dc5/",
+                    "Area": "Coerthas Central Highlands (X:18.7 Y:15.7)"
+                },
+                {
+                    "Name": "Marcelain",
+                    "Url": "/lodestone/playguide/db/npc/npc/142b6d5191f/",
+                    "Area": "Coerthas Central Highlands (X:18.1 Y:14.9)"
+                },
+                {
+                    "Name": "Alphinaud",
+                    "Url": "/lodestone/playguide/db/npc/npc/97f712e100f/",
+                    "Area": "Foundation (X:11.3 Y:13.3)"
+                },
+                {
+                    "Name": "Beltardois",
+                    "Url": "/lodestone/playguide/db/npc/npc/ba1758707ea/",
+                    "Area": "Foundation (X:11.1 Y:13.9)"
+                },
+                {
+                    "Name": "Dependable Temple Knight",
+                    "Url": "/lodestone/playguide/db/npc/npc/25cb4694831/",
+                    "Area": "Foundation (X:11.1 Y:14.2)"
+                },
+                {
+                    "Name": "Gondelimbaud",
+                    "Url": "/lodestone/playguide/db/npc/npc/93d185415b3/",
+                    "Area": "Foundation (X:9.9 Y:11.8)"
+                },
+                {
+                    "Name": "Handeloup",
+                    "Url": "/lodestone/playguide/db/npc/npc/ec3496b94e2/",
+                    "Area": "Foundation (X:13.8 Y:11.2)"
+                },
+                {
+                    "Name": "Quomonrentin",
+                    "Url": "/lodestone/playguide/db/npc/npc/d26ec72423c/",
+                    "Area": "Foundation (X:11.3 Y:12.6)"
+                },
+                {
+                    "Name": "Tescelingeon",
+                    "Url": "/lodestone/playguide/db/npc/npc/8737faad68b/",
+                    "Area": "Foundation (X:13.3 Y:11.2)"
+                },
+                {
+                    "Name": "Vaincannet",
+                    "Url": "/lodestone/playguide/db/npc/npc/5f9a8a545e7/",
+                    "Area": "Foundation (X:13.9 Y:11.4)"
+                },
+                {
+                    "Name": "Alphinaud",
+                    "Url": "/lodestone/playguide/db/npc/npc/77ba3bd0b28/",
+                    "Area": "The Churning Mists (X:7.3 Y:26.7)"
+                }
+            ]
+        },
+        "Seq": 22,
+        "oldID": 67781,
+        "Map": {
+            "ID": 214
+        }
+    },
+    {
+        "ID": "466f00e3695",
+        "Name": "The Man Within",
+        "Location": "Ishgard",
+        "Level": 60,
+        "JournalSection": 0,
+        "JournalCategory": 4,
+        "JournalGenre": "Dragonsong Main Scenario Quests",
+        "Url": "/lodestone/playguide/db/quest/466f00e3695/",
+        "Image": "https://img.finalfantasyxiv.com/lds/pc/global/images/itemicon/72/7229e2600f62f8d406d82141c24057cce8b06086.png?n5.5",
+        "Icon": "main",
+        "Issuer": "House Fortemps Knight",
+        "StartLocation": {
+            "Name": "The Pillars",
+            "X": "11.5",
+            "Y": "11.2"
+        },
+        "StartClass": null,
+        "Job": "Any Disciple of War or Magic (excluding limited jobs)",
+        "Company": "Not specified",
+        "Requirement": "Not specified",
+        "Rewards": {
+            "Gil": 713,
+            "Exp": 16740,
+            "ItemsMand": [],
+            "ItemsOpt": [
+                {
+                    "Icon": "https://img.finalfantasyxiv.com/lds/pc/global/images/itemicon/5c/5c253d583ff892bf2e9662bbf85e4bf7567b9e2b.png?n5.5",
+                    "Name": "Torrent Attire of Aiming Coffer",
+                    "Amount": 1,
+                    "Url": "/lodestone/playguide/db/item/e7e4d53c121/"
+                },
+                {
+                    "Icon": "https://img.finalfantasyxiv.com/lds/pc/global/images/itemicon/5c/5c253d583ff892bf2e9662bbf85e4bf7567b9e2b.png?n5.5",
+                    "Name": "Hailstorm Attire of Healing Coffer",
+                    "Amount": 1,
+                    "Url": "/lodestone/playguide/db/item/e12e509d3a2/"
+                },
+                {
+                    "Icon": "https://img.finalfantasyxiv.com/lds/pc/global/images/itemicon/5c/5c253d583ff892bf2e9662bbf85e4bf7567b9e2b.png?n5.5",
+                    "Name": "Hailstorm Attire of Casting Coffer",
+                    "Amount": 1,
+                    "Url": "/lodestone/playguide/db/item/e7421cfd413/"
+                },
+                {
+                    "Icon": "https://img.finalfantasyxiv.com/lds/pc/global/images/itemicon/ba/baa2341dd17414fae7fd62ae7bc62c64589b67be.png?n5.5",
+                    "Name": "Allagan Gold Piece",
+                    "Amount": 3,
+                    "Url": "/lodestone/playguide/db/item/5196db0fd91/"
+                }
+            ]
+        },
+        "Infos": {
+            "PrevQuests": [
+                {
+                    "Name": "Causes and Costs",
+                    "Url": "/lodestone/playguide/db/quest/ea28e641d9c/",
+                    "Area": "Coerthas Western Highlands",
+                    "Level": "60"
+                }
+            ],
+            "NextQuests": [
+                {
+                    "Name": "An Ally for Ishgard",
+                    "Url": "/lodestone/playguide/db/quest/5ab77718354/",
+                    "Area": "Ishgard",
+                    "Level": "60"
+                }
+            ],
+            "NPCs": [
+                {
+                    "Name": "Alphinaud",
+                    "Url": "/lodestone/playguide/db/npc/npc/df89d9822eb/",
+                    "Area": "Fortemps Manor (X:6.1 Y:6.2)"
+                },
+                {
+                    "Name": "Alphinaud",
+                    "Url": "/lodestone/playguide/db/npc/npc/98bf1f0cfa1/",
+                    "Area": "Foundation (X:13.4 Y:11.1)"
+                },
+                {
+                    "Name": "Krile",
+                    "Url": "/lodestone/playguide/db/npc/npc/8f5a7d01aa0/",
+                    "Area": "Foundation (X:13.0 Y:12.0)"
+                },
+                {
+                    "Name": "Tataru",
+                    "Url": "/lodestone/playguide/db/npc/npc/b2ffb69d29f/",
+                    "Area": "Foundation (X:12.9 Y:11.9)"
+                },
+                {
+                    "Name": "Y'shtola",
+                    "Url": "/lodestone/playguide/db/npc/npc/151cc3661c4/",
+                    "Area": "Foundation (X:13.0 Y:11.9)"
+                },
+                {
+                    "Name": "Honoroit",
+                    "Url": "/lodestone/playguide/db/npc/npc/0962ebb0499/",
+                    "Area": "The Pillars (X:7.6 Y:10.4)"
+                }
+            ]
+        },
+        "Seq": 19,
+        "oldID": 67778,
+        "Map": {
+            "ID": 219
+        }
+    },
+    {
+        "ID": "47a3d1929c9",
+        "Name": "Consequences",
+        "Location": "Coerthas Western Highlands",
+        "Level": 60,
+        "JournalSection": 0,
+        "JournalCategory": 4,
+        "JournalGenre": "Dragonsong Main Scenario Quests",
+        "Url": "/lodestone/playguide/db/quest/47a3d1929c9/",
+        "Image": null,
+        "Icon": "main",
+        "Issuer": "Thancred",
+        "StartLocation": {
+            "Name": "Coerthas Western Highlands",
+            "X": "30.8",
+            "Y": "37.6"
+        },
+        "StartClass": null,
+        "Job": "Any Disciple of War or Magic (excluding limited jobs)",
+        "Company": "Not specified",
+        "Requirement": "Not specified",
+        "Rewards": {
+            "Gil": 680,
+            "Exp": 16740,
+            "ItemsMand": [],
+            "ItemsOpt": [
+                {
+                    "Icon": "https://img.finalfantasyxiv.com/lds/pc/global/images/itemicon/7d/7dc8dde7ae53dc3dfc86ec50d0482994cef9f313.png?n5.5",
+                    "Name": "Augmented Hellfire Blade",
+                    "Amount": 1,
+                    "Url": "/lodestone/playguide/db/item/ad323e74da8/"
+                },
+                {
+                    "Icon": "https://img.finalfantasyxiv.com/lds/pc/global/images/itemicon/99/995409e699bba92bc23a2b04e6d0adf785d5ec0f.png?n5.5",
+                    "Name": "Augmented Hellfire Battleaxe",
+                    "Amount": 1,
+                    "Url": "/lodestone/playguide/db/item/b2beeb8e0c4/"
+                },
+                {
+                    "Icon": "https://img.finalfantasyxiv.com/lds/pc/global/images/itemicon/2d/2dd3eeca8e889fd17bbcbc8c036880099cb74a55.png?n5.5",
+                    "Name": "Augmented Hellfire Guillotine",
+                    "Amount": 1,
+                    "Url": "/lodestone/playguide/db/item/8f3e9612d4d/"
+                },
+                {
+                    "Icon": "https://img.finalfantasyxiv.com/lds/pc/global/images/itemicon/b3/b39326f8a5a50ff0b41d072ad0b540006f8a148c.png?n5.5",
+                    "Name": "Augmented Hellfire Katana",
+                    "Amount": 1,
+                    "Url": "/lodestone/playguide/db/item/832b5a5e098/"
+                },
+                {
+                    "Icon": "https://img.finalfantasyxiv.com/lds/pc/global/images/itemicon/ba/baa2341dd17414fae7fd62ae7bc62c64589b67be.png?n5.5",
+                    "Name": "Allagan Silver Piece",
+                    "Amount": 4,
+                    "Url": "/lodestone/playguide/db/item/a3ac3ba4b00/"
+                }
+            ]
+        },
+        "Infos": {
+            "PrevQuests": [
+                {
+                    "Name": "For Those We Have Lost",
+                    "Url": "/lodestone/playguide/db/quest/64c819d8eb3/",
+                    "Area": "Coerthas Western Highlands",
+                    "Level": "60"
+                }
+            ],
+            "NextQuests": [
+                {
+                    "Name": "Choices",
+                    "Url": "/lodestone/playguide/db/quest/bbdb71c2872/",
+                    "Area": "Coerthas Western Highlands",
+                    "Level": "60"
+                }
+            ],
+            "NPCs": [
+                {
+                    "Name": "Artoirel",
+                    "Url": "/lodestone/playguide/db/npc/npc/be7bdd2df50/",
+                    "Area": "Coerthas Western Highlands (X:33.3 Y:37.9)"
+                },
+                {
+                    "Name": "Emmanellain",
+                    "Url": "/lodestone/playguide/db/npc/npc/3e8906fe5b2/",
+                    "Area": "Coerthas Western Highlands (X:31.6 Y:37.4)"
+                },
+                {
+                    "Name": "Emmanellain",
+                    "Url": "/lodestone/playguide/db/npc/npc/17006ed6d99/",
+                    "Area": "Coerthas Western Highlands (X:33.2 Y:37.9)"
+                },
+                {
+                    "Name": "Emmanellain",
+                    "Url": "/lodestone/playguide/db/npc/npc/85f8b779941/",
+                    "Area": "Coerthas Western Highlands (X:32.1 Y:39.9)"
+                },
+                {
+                    "Name": "Highborn Merchant",
+                    "Url": "/lodestone/playguide/db/npc/npc/337b2abb611/",
+                    "Area": "Coerthas Western Highlands (X:32.4 Y:37.4)"
+                },
+                {
+                    "Name": "Honoroit",
+                    "Url": "/lodestone/playguide/db/npc/npc/4981f7c7ada/",
+                    "Area": "Coerthas Western Highlands (X:32.1 Y:40.0)"
+                },
+                {
+                    "Name": "Lowborn Youth",
+                    "Url": "/lodestone/playguide/db/npc/npc/3851356f407/",
+                    "Area": "Coerthas Western Highlands (X:31.8 Y:37.6)"
+                },
+                {
+                    "Name": "Lucia",
+                    "Url": "/lodestone/playguide/db/npc/npc/9f09592b90e/",
+                    "Area": "Coerthas Western Highlands (X:33.3 Y:37.9)"
+                },
+                {
+                    "Name": "Spirited Stonecutter",
+                    "Url": "/lodestone/playguide/db/npc/npc/730100fb657/",
+                    "Area": "Coerthas Western Highlands (X:32.9 Y:37.6)"
+                },
+                {
+                    "Name": "Thancred",
+                    "Url": "/lodestone/playguide/db/npc/npc/753aff65380/",
+                    "Area": "Coerthas Western Highlands (X:32.8 Y:37.8)"
+                },
+                {
+                    "Name": "Thancred",
+                    "Url": "/lodestone/playguide/db/npc/npc/6080f11a525/",
+                    "Area": "Coerthas Western Highlands (X:32.7 Y:37.9)"
+                }
+            ]
+        },
+        "Seq": 14,
+        "oldID": 67773,
+        "Map": {
+            "ID": 211
+        }
+    },
+    {
+        "ID": "521b3461f33",
+        "Name": "A Spectacle for the Ages",
+        "Location": "Ishgard",
+        "Level": 60,
+        "JournalSection": 0,
+        "JournalCategory": 4,
+        "JournalGenre": "Dragonsong Main Scenario Quests",
+        "Url": "/lodestone/playguide/db/quest/521b3461f33/",
+        "Image": "https://img.finalfantasyxiv.com/lds/pc/global/images/itemicon/a8/a80236b1a5fcb70ff7b8fe439052f614633c9ea1.png?n5.5",
+        "Icon": "main",
+        "Issuer": "Lucia",
+        "StartLocation": {
+            "Name": "Foundation",
+            "X": "13.4",
+            "Y": "11.1"
+        },
+        "StartClass": null,
+        "Job": "Any Disciple of War or Magic (excluding limited jobs)",
+        "Company": "Not specified",
+        "Requirement": "Not specified",
+        "Rewards": {
+            "Gil": 2793,
+            "Exp": 16740,
+            "ItemsMand": [
+                {
+                    "Icon": "https://img.finalfantasyxiv.com/lds/pc/global/images/itemicon/de/de88b5ba33a36f4a4457518a59e24ac7d02dbea5.png?n5.5",
+                    "Name": "",
+                    "Amount": null
+                }
+            ],
+            "ItemsOpt": [
+                {
+                    "Icon": "https://img.finalfantasyxiv.com/lds/pc/global/images/itemicon/4c/4c3d80e00021168b2dd18f256f2dbe3de07da91c.png?n5.5",
+                    "Name": "Augmented Torrent Longbow",
+                    "Amount": 1,
+                    "Url": "/lodestone/playguide/db/item/f96b8102cc3/"
+                },
+                {
+                    "Icon": "https://img.finalfantasyxiv.com/lds/pc/global/images/itemicon/52/529e31dfd202ca63042ade504c2cee7dcda7b5c8.png?n5.5",
+                    "Name": "Augmented Torrent Musketoon",
+                    "Amount": 1,
+                    "Url": "/lodestone/playguide/db/item/492567de8e6/"
+                },
+                {
+                    "Icon": "https://img.finalfantasyxiv.com/lds/pc/global/images/itemicon/99/99113e3f13a9734e22d739f921eeba62736fda1c.png?n5.5",
+                    "Name": "Augmented Hailstorm Rod",
+                    "Amount": 1,
+                    "Url": "/lodestone/playguide/db/item/be42d4cf2f1/"
+                },
+                {
+                    "Icon": "https://img.finalfantasyxiv.com/lds/pc/global/images/itemicon/cb/cb90718cb1f7b3208f7f481e55d0b79251d6e5d9.png?n5.5",
+                    "Name": "Augmented Hailstorm Grimoire",
+                    "Amount": 1,
+                    "Url": "/lodestone/playguide/db/item/819dfb046da/"
+                },
+                {
+                    "Icon": "https://img.finalfantasyxiv.com/lds/pc/global/images/itemicon/ba/baa2341dd17414fae7fd62ae7bc62c64589b67be.png?n5.5",
+                    "Name": "Allagan Silver Piece",
+                    "Amount": 4,
+                    "Url": "/lodestone/playguide/db/item/a3ac3ba4b00/"
+                }
+            ]
+        },
+        "Infos": {
+            "PrevQuests": [
+                {
+                    "Name": "Choices",
+                    "Url": "/lodestone/playguide/db/quest/bbdb71c2872/",
+                    "Area": "Coerthas Western Highlands",
+                    "Level": "60"
+                }
+            ],
+            "NextQuests": [
+                {
+                    "Name": "For Those We Can Yet Save",
+                    "Url": "/lodestone/playguide/db/quest/99abd95f23c/",
+                    "Area": "Coerthas Central Highlands",
+                    "Level": "60"
+                }
+            ],
+            "NPCs": [
+                {
+                    "Name": "Aymeric",
+                    "Url": "/lodestone/playguide/db/npc/npc/81789597f42/",
+                    "Area": "Coerthas Central Highlands (X:18.6 Y:15.2)"
+                },
+                {
+                    "Name": "Chaunollet",
+                    "Url": "/lodestone/playguide/db/npc/npc/475affca137/",
+                    "Area": "Coerthas Central Highlands (X:18.9 Y:15.5)"
+                },
+                {
+                    "Name": "Emmanellain",
+                    "Url": "/lodestone/playguide/db/npc/npc/b9a87a21067/",
+                    "Area": "Coerthas Central Highlands (X:18.8 Y:15.4)"
+                },
+                {
+                    "Name": "Flame Herald",
+                    "Url": "/lodestone/playguide/db/npc/npc/6ed1211c07c/",
+                    "Area": "Coerthas Central Highlands (X:18.3 Y:15.3)"
+                },
+                {
+                    "Name": "Hilda",
+                    "Url": "/lodestone/playguide/db/npc/npc/e362d13b93f/",
+                    "Area": "Coerthas Central Highlands (X:18.6 Y:15.2)"
+                },
+                {
+                    "Name": "Loanne",
+                    "Url": "/lodestone/playguide/db/npc/npc/030c3b76dc5/",
+                    "Area": "Coerthas Central Highlands (X:18.7 Y:15.7)"
+                },
+                {
+                    "Name": "Lucia",
+                    "Url": "/lodestone/playguide/db/npc/npc/ee1162e8f13/",
+                    "Area": "Coerthas Central Highlands (X:18.6 Y:15.3)"
+                },
+                {
+                    "Name": "Pipin",
+                    "Url": "/lodestone/playguide/db/npc/npc/770914e11c9/",
+                    "Area": "Coerthas Central Highlands (X:20.3 Y:17.3)"
+                },
+                {
+                    "Name": "Raubahn",
+                    "Url": "/lodestone/playguide/db/npc/npc/9ce5e181ad5/",
+                    "Area": "Coerthas Central Highlands (X:20.4 Y:17.3)"
+                },
+                {
+                    "Name": "Thancred",
+                    "Url": "/lodestone/playguide/db/npc/npc/3dbee7beeb1/",
+                    "Area": "Coerthas Central Highlands (X:18.7 Y:15.3)"
+                },
+                {
+                    "Name": "Lucia",
+                    "Url": "/lodestone/playguide/db/npc/npc/c8f87784184/",
+                    "Area": "Foundation (X:13.7 Y:11.1)"
+                },
+                {
+                    "Name": "Thancred",
+                    "Url": "/lodestone/playguide/db/npc/npc/c8a74378283/",
+                    "Area": "Foundation (X:13.4 Y:11.1)"
+                }
+            ]
+        },
+        "Seq": 16,
+        "oldID": 67775,
+        "Map": {
+            "ID": 218
+        }
+    },
+    {
+        "ID": "525556a0151",
+        "Name": "Another Time, Another Place",
+        "Location": "The Dravanian Forelands",
+        "Level": 60,
+        "JournalSection": 0,
+        "JournalCategory": 4,
+        "JournalGenre": "Dragonsong Main Scenario Quests",
+        "Url": "/lodestone/playguide/db/quest/525556a0151/",
+        "Image": "https://img.finalfantasyxiv.com/lds/pc/global/images/itemicon/22/224f0dafbcf956d57dc1f12c1a175085644b7b7b.png?n5.5",
+        "Icon": "main",
+        "Issuer": "Alphinaud",
+        "StartLocation": {
+            "Name": "The Dravanian Forelands",
+            "X": "16.6",
+            "Y": "23.2"
+        },
+        "StartClass": null,
+        "Job": "Any Disciple of War or Magic (excluding limited jobs)",
+        "Company": "Not specified",
+        "Requirement": "Not specified",
+        "Rewards": {
+            "Gil": 824,
+            "Exp": 16740,
+            "ItemsMand": [],
+            "ItemsOpt": []
+        },
+        "Infos": {
+            "PrevQuests": [
+                {
+                    "Name": "Breaking the Cycle",
+                    "Url": "/lodestone/playguide/db/quest/6722c641c32/",
+                    "Area": "Ishgard",
+                    "Level": "60"
+                }
+            ],
+            "NextQuests": [
+                {
+                    "Name": "In the Eye of the Beholder",
+                    "Url": "/lodestone/playguide/db/quest/6f430c40c81/",
+                    "Area": "The Dravanian Hinterlands",
+                    "Level": "60"
+                }
+            ],
+            "NPCs": [
+                {
+                    "Name": "Handeloup",
+                    "Url": "/lodestone/playguide/db/npc/npc/ec3496b94e2/",
+                    "Area": "Foundation (X:13.8 Y:11.2)"
+                },
+                {
+                    "Name": "Alphinaud",
+                    "Url": "/lodestone/playguide/db/npc/npc/3408b370923/",
+                    "Area": "Idyllshire (X:6.9 Y:6.5)"
+                },
+                {
+                    "Name": "Alphinaud",
+                    "Url": "/lodestone/playguide/db/npc/npc/84c7c1e2b82/",
+                    "Area": "Idyllshire (X:8.1 Y:8.3)"
+                },
+                {
+                    "Name": "Y'shtola",
+                    "Url": "/lodestone/playguide/db/npc/npc/e384e0d8f48/",
+                    "Area": "Idyllshire (X:6.9 Y:6.5)"
+                },
+                {
+                    "Name": "Y'shtola",
+                    "Url": "/lodestone/playguide/db/npc/npc/c1a96c7f664/",
+                    "Area": "Idyllshire (X:8.1 Y:8.3)"
+                },
+                {
+                    "Name": "Lucia",
+                    "Url": "/lodestone/playguide/db/npc/npc/e7ef96c9fb0/",
+                    "Area": "The Dravanian Forelands (X:16.8 Y:24.2)"
+                },
+                {
+                    "Name": "Alphinaud",
+                    "Url": "/lodestone/playguide/db/npc/npc/30184800fc7/",
+                    "Area": "The Dravanian Hinterlands (X:13.0 Y:36.5)"
+                },
+                {
+                    "Name": "Krile",
+                    "Url": "/lodestone/playguide/db/npc/npc/0053e2b5b36/",
+                    "Area": "The Dravanian Hinterlands (X:12.9 Y:36.5)"
+                },
+                {
+                    "Name": "Y'shtola",
+                    "Url": "/lodestone/playguide/db/npc/npc/c12ef2d70c4/",
+                    "Area": "The Dravanian Hinterlands (X:13.0 Y:36.6)"
+                }
+            ]
+        },
+        "Seq": 2,
+        "oldID": 67694,
+        "Map": {
+            "ID": 212
+        }
+    },
+    {
+        "ID": "5ab77718354",
+        "Name": "An Ally for Ishgard",
+        "Location": "Ishgard",
+        "Level": 60,
+        "JournalSection": 0,
+        "JournalCategory": 4,
+        "JournalGenre": "Dragonsong Main Scenario Quests",
+        "Url": "/lodestone/playguide/db/quest/5ab77718354/",
+        "Image": null,
+        "Icon": "main",
+        "Issuer": "Alphinaud",
+        "StartLocation": {
+            "Name": "Foundation",
+            "X": "13.4",
+            "Y": "11.1"
+        },
+        "StartClass": null,
+        "Job": "Any Disciple of War or Magic (excluding limited jobs)",
+        "Company": "Not specified",
+        "Requirement": "Not specified",
+        "Rewards": {
+            "Gil": 1031,
+            "Exp": 16740,
+            "ItemsMand": [],
+            "ItemsOpt": [
+                {
+                    "Icon": "https://img.finalfantasyxiv.com/lds/pc/global/images/itemicon/ac/ac8db79739da3d0a5f5d375a54e2ff2fbe9f5339.png?n5.5",
+                    "Name": "Peperoncino",
+                    "Amount": 1,
+                    "Url": "/lodestone/playguide/db/item/52abd13a555/"
+                },
+                {
+                    "Icon": "https://img.finalfantasyxiv.com/lds/pc/global/images/itemicon/86/864a8a9dcd7703c2bdd26dd499e58bce6da8e7c8.png?n5.5",
+                    "Name": "Boscaiola",
+                    "Amount": 1,
+                    "Url": "/lodestone/playguide/db/item/70d8d4afc7b/"
+                },
+                {
+                    "Icon": "https://img.finalfantasyxiv.com/lds/pc/global/images/itemicon/50/50051265dea3d069ab9a837056ed05204f2c8e40.png?n5.5",
+                    "Name": "Loaghtan Steak",
+                    "Amount": 1,
+                    "Url": "/lodestone/playguide/db/item/39661d731cd/"
+                },
+                {
+                    "Icon": "https://img.finalfantasyxiv.com/lds/pc/global/images/itemicon/7b/7b58432ba9cf9eaef79ffcc7b201e8b808739b6e.png?n5.5",
+                    "Name": "Apple Strudel",
+                    "Amount": 1,
+                    "Url": "/lodestone/playguide/db/item/193ade093f9/"
+                },
+                {
+                    "Icon": "https://img.finalfantasyxiv.com/lds/pc/global/images/itemicon/da/da7216f73b0cc772e8f68f3feaf7d20bffa3f095.png?n5.5",
+                    "Name": "Spiced Cider",
+                    "Amount": 1,
+                    "Url": "/lodestone/playguide/db/item/07d7d095370/"
+                }
+            ]
+        },
+        "Infos": {
+            "PrevQuests": [
+                {
+                    "Name": "The Man Within",
+                    "Url": "/lodestone/playguide/db/quest/466f00e3695/",
+                    "Area": "Ishgard",
+                    "Level": "60"
+                }
+            ],
+            "NextQuests": [
+                {
+                    "Name": "Winning Over the Wyrm",
+                    "Url": "/lodestone/playguide/db/quest/0c061001c21/",
+                    "Area": "The Dravanian Forelands",
+                    "Level": "60"
+                }
+            ],
+            "NPCs": [
+                {
+                    "Name": "Alphinaud",
+                    "Url": "/lodestone/playguide/db/npc/npc/9147f3335b5/",
+                    "Area": "Foundation (X:13.4 Y:11.1)"
+                },
+                {
+                    "Name": "Alphinaud",
+                    "Url": "/lodestone/playguide/db/npc/npc/a7ae30d73f1/",
+                    "Area": "Foundation (X:13.4 Y:11.1)"
+                },
+                {
+                    "Name": "Aymeric",
+                    "Url": "/lodestone/playguide/db/npc/npc/4656d207f92/",
+                    "Area": "Foundation (X:13.4 Y:11.1)"
+                },
+                {
+                    "Name": "Tataru",
+                    "Url": "/lodestone/playguide/db/npc/npc/194e34e2190/",
+                    "Area": "Foundation (X:13.0 Y:11.9)"
+                },
+                {
+                    "Name": "Tataru",
+                    "Url": "/lodestone/playguide/db/npc/npc/b2ffb69d29f/",
+                    "Area": "Foundation (X:12.9 Y:11.9)"
+                },
+                {
+                    "Name": "Vidofnir",
+                    "Url": "/lodestone/playguide/db/npc/npc/40cd529c034/",
+                    "Area": "The Dravanian Forelands (X:16.8 Y:23.6)"
+                }
+            ]
+        },
+        "Seq": 20,
+        "oldID": 67779,
+        "Map": {
+            "ID": 218
+        }
+    },
+    {
+        "ID": "64c819d8eb3",
+        "Name": "For Those We Have Lost",
+        "Location": "Coerthas Western Highlands",
+        "Level": 60,
+        "JournalSection": 0,
+        "JournalCategory": 4,
+        "JournalGenre": "Dragonsong Main Scenario Quests",
+        "Url": "/lodestone/playguide/db/quest/64c819d8eb3/",
+        "Image": "https://img.finalfantasyxiv.com/lds/pc/global/images/itemicon/1c/1cac691b09bc0726b605985f12d27b8ebc3bf083.png?n5.5",
+        "Icon": "main",
+        "Issuer": "Emmanellain",
+        "StartLocation": {
+            "Name": "Coerthas Western Highlands",
+            "X": "32.8",
+            "Y": "37.8"
+        },
+        "StartClass": null,
+        "Job": "Any Disciple of War or Magic (excluding limited jobs)",
+        "Company": "Not specified",
+        "Requirement": "Not specified",
+        "Rewards": {
+            "Gil": 810,
+            "Exp": 16740,
+            "ItemsMand": [],
+            "ItemsOpt": []
+        },
+        "Infos": {
+            "PrevQuests": [
+                {
+                    "Name": "Once More, a Favor",
+                    "Url": "/lodestone/playguide/db/quest/76bd02df80b/",
+                    "Area": "Coerthas Western Highlands",
+                    "Level": "60"
+                }
+            ],
+            "NextQuests": [
+                {
+                    "Name": "Consequences",
+                    "Url": "/lodestone/playguide/db/quest/47a3d1929c9/",
+                    "Area": "Coerthas Western Highlands",
+                    "Level": "60"
+                }
+            ],
+            "NPCs": [
+                {
+                    "Name": "Auriaune",
+                    "Url": "/lodestone/playguide/db/npc/npc/df1b7f75272/",
+                    "Area": "Coerthas Western Highlands (X:31.8 Y:38.5)"
+                },
+                {
+                    "Name": "Emerissel",
+                    "Url": "/lodestone/playguide/db/npc/npc/805dff1cb62/",
+                    "Area": "Coerthas Western Highlands (X:32.9 Y:37.9)"
+                },
+                {
+                    "Name": "Emmanellain",
+                    "Url": "/lodestone/playguide/db/npc/npc/17006ed6d99/",
+                    "Area": "Coerthas Western Highlands (X:33.2 Y:37.9)"
+                },
+                {
+                    "Name": "Highborn Merchant",
+                    "Url": "/lodestone/playguide/db/npc/npc/337b2abb611/",
+                    "Area": "Coerthas Western Highlands (X:32.4 Y:37.4)"
+                },
+                {
+                    "Name": "Honoroit",
+                    "Url": "/lodestone/playguide/db/npc/npc/5e401871d20/",
+                    "Area": "Coerthas Western Highlands (X:32.8 Y:37.7)"
+                },
+                {
+                    "Name": "Ingaret",
+                    "Url": "/lodestone/playguide/db/npc/npc/8c503870550/",
+                    "Area": "Coerthas Western Highlands (X:32.4 Y:35.8)"
+                },
+                {
+                    "Name": "Josseloux",
+                    "Url": "/lodestone/playguide/db/npc/npc/4ec88c86de9/",
+                    "Area": "Coerthas Western Highlands (X:33.0 Y:37.0)"
+                },
+                {
+                    "Name": "Lowborn Youth",
+                    "Url": "/lodestone/playguide/db/npc/npc/3851356f407/",
+                    "Area": "Coerthas Western Highlands (X:31.8 Y:37.6)"
+                },
+                {
+                    "Name": "Noirterel",
+                    "Url": "/lodestone/playguide/db/npc/npc/725667c730f/",
+                    "Area": "Coerthas Western Highlands (X:33.2 Y:38.1)"
+                },
+                {
+                    "Name": "Redwald",
+                    "Url": "/lodestone/playguide/db/npc/npc/b4d663a226f/",
+                    "Area": "Coerthas Western Highlands (X:32.6 Y:38.3)"
+                },
+                {
+                    "Name": "Rothe",
+                    "Url": "/lodestone/playguide/db/npc/npc/ffaef59a515/",
+                    "Area": "Coerthas Western Highlands (X:31.4 Y:37.8)"
+                },
+                {
+                    "Name": "Spirited Stonecutter",
+                    "Url": "/lodestone/playguide/db/npc/npc/730100fb657/",
+                    "Area": "Coerthas Western Highlands (X:32.9 Y:37.6)"
+                },
+                {
+                    "Name": "Thancred",
+                    "Url": "/lodestone/playguide/db/npc/npc/753aff65380/",
+                    "Area": "Coerthas Western Highlands (X:32.8 Y:37.8)"
+                },
+                {
+                    "Name": "Thancred",
+                    "Url": "/lodestone/playguide/db/npc/npc/6080f11a525/",
+                    "Area": "Coerthas Western Highlands (X:32.7 Y:37.9)"
+                },
+                {
+                    "Name": "Thancred",
+                    "Url": "/lodestone/playguide/db/npc/npc/f064c9848c0/",
+                    "Area": "Coerthas Western Highlands (X:30.8 Y:37.6)"
+                },
+                {
+                    "Name": "Tourcenet",
+                    "Url": "/lodestone/playguide/db/npc/npc/ccd348c62e2/",
+                    "Area": "Coerthas Western Highlands (X:32.6 Y:38.4)"
+                }
+            ]
+        },
+        "Seq": 13,
+        "oldID": 67772,
+        "Map": {
+            "ID": 211
+        }
+    },
+    {
+        "ID": "66bbcc31e02",
+        "Name": "Dreams of the Lost",
+        "Location": "The Dravanian Forelands",
+        "Level": 60,
+        "JournalSection": 0,
+        "JournalCategory": 4,
+        "JournalGenre": "Dragonsong Main Scenario Quests",
+        "Url": "/lodestone/playguide/db/quest/66bbcc31e02/",
+        "Image": null,
+        "Icon": "main",
+        "Issuer": "Alphinaud",
+        "StartLocation": {
+            "Name": "The Dravanian Forelands",
+            "X": "27.0",
+            "Y": "32.6"
+        },
+        "StartClass": null,
+        "Job": "Any Disciple of War or Magic (excluding limited jobs)",
+        "Company": "Not specified",
+        "Requirement": "Not specified",
+        "Rewards": {
+            "Gil": 974,
+            "Exp": 16740,
+            "ItemsMand": [],
+            "ItemsOpt": []
+        },
+        "Infos": {
+            "PrevQuests": [
+                {
+                    "Name": "A Little Slow, a Little Late",
+                    "Url": "/lodestone/playguide/db/quest/069e844f02b/",
+                    "Area": "The Dravanian Forelands",
+                    "Level": "60"
+                }
+            ],
+            "NextQuests": [
+                {
+                    "Name": "Against the Dying of the Light",
+                    "Url": "/lodestone/playguide/db/quest/8ff1b389dd5/",
+                    "Area": "Ishgard",
+                    "Level": "60"
+                }
+            ],
+            "NPCs": [
+                {
+                    "Name": "Alphinaud",
+                    "Url": "/lodestone/playguide/db/npc/npc/ba5245beaf0/",
+                    "Area": "Foundation (X:11.0 Y:12.0)"
+                },
+                {
+                    "Name": "Gibrillont",
+                    "Url": "/lodestone/playguide/db/npc/npc/4ad45038a31/",
+                    "Area": "Foundation (X:13.0 Y:11.8)"
+                },
+                {
+                    "Name": "Handeloup",
+                    "Url": "/lodestone/playguide/db/npc/npc/ec3496b94e2/",
+                    "Area": "Foundation (X:13.8 Y:11.2)"
+                },
+                {
+                    "Name": "Hilda",
+                    "Url": "/lodestone/playguide/db/npc/npc/710e3829a11/",
+                    "Area": "Foundation (X:13.7 Y:11.0)"
+                },
+                {
+                    "Name": "Lucia",
+                    "Url": "/lodestone/playguide/db/npc/npc/c8f87784184/",
+                    "Area": "Foundation (X:13.7 Y:11.1)"
+                },
+                {
+                    "Name": "Tataru",
+                    "Url": "/lodestone/playguide/db/npc/npc/194e34e2190/",
+                    "Area": "Foundation (X:13.0 Y:11.9)"
+                },
+                {
+                    "Name": "Thancred",
+                    "Url": "/lodestone/playguide/db/npc/npc/55049190912/",
+                    "Area": "Foundation (X:11.0 Y:12.0)"
+                },
+                {
+                    "Name": "Y'shtola",
+                    "Url": "/lodestone/playguide/db/npc/npc/befd2e19a30/",
+                    "Area": "Foundation (X:11.0 Y:12.0)"
+                },
+                {
+                    "Name": "Krile",
+                    "Url": "/lodestone/playguide/db/npc/npc/f41dfa7c304/",
+                    "Area": "The Dravanian Forelands (X:26.9 Y:32.6)"
+                },
+                {
+                    "Name": "Thancred",
+                    "Url": "/lodestone/playguide/db/npc/npc/7eed729f803/",
+                    "Area": "The Dravanian Forelands (X:27.0 Y:32.6)"
+                },
+                {
+                    "Name": "Vidofnir",
+                    "Url": "/lodestone/playguide/db/npc/npc/40cd529c034/",
+                    "Area": "The Dravanian Forelands (X:16.8 Y:23.6)"
+                },
+                {
+                    "Name": "Y'shtola",
+                    "Url": "/lodestone/playguide/db/npc/npc/2ab9670caf3/",
+                    "Area": "The Dravanian Forelands (X:27.0 Y:32.6)"
+                }
+            ]
+        },
+        "Seq": 5,
+        "oldID": 67697,
+        "Map": {
+            "ID": 212
+        }
+    },
+    {
+        "ID": "6722c641c32",
+        "Name": "Breaking the Cycle",
+        "Location": "Ishgard",
+        "Level": 60,
+        "JournalSection": 0,
+        "JournalCategory": 4,
+        "JournalGenre": "Dragonsong Main Scenario Quests",
+        "Url": "/lodestone/playguide/db/quest/6722c641c32/",
+        "Image": null,
+        "Icon": "main",
+        "Issuer": "Alphinaud",
+        "StartLocation": {
+            "Name": "Foundation",
+            "X": "13.4",
+            "Y": "11.1"
+        },
+        "StartClass": null,
+        "Job": "Any Disciple of War or Magic (excluding limited jobs)",
+        "Company": "Not specified",
+        "Requirement": "Not specified",
+        "Rewards": {
+            "Gil": 1066,
+            "Exp": 16740,
+            "ItemsMand": [],
+            "ItemsOpt": []
+        },
+        "Infos": {
+            "PrevQuests": [
+                {
+                    "Name": "An Uncertain Future",
+                    "Url": "/lodestone/playguide/db/quest/365f15c23ff/",
+                    "Area": "Fortemps Manor",
+                    "Level": "60"
+                }
+            ],
+            "NextQuests": [
+                {
+                    "Name": "Another Time, Another Place",
+                    "Url": "/lodestone/playguide/db/quest/525556a0151/",
+                    "Area": "The Dravanian Forelands",
+                    "Level": "60"
+                }
+            ],
+            "NPCs": [
+                {
+                    "Name": "Lucia",
+                    "Url": "/lodestone/playguide/db/npc/npc/a42fdf385d5/",
+                    "Area": "Foundation (X:13.4 Y:11.1)"
+                },
+                {
+                    "Name": "Alphinaud",
+                    "Url": "/lodestone/playguide/db/npc/npc/4a7ef1e3250/",
+                    "Area": "The Dravanian Forelands (X:35.2 Y:23.9)"
+                },
+                {
+                    "Name": "Alphinaud",
+                    "Url": "/lodestone/playguide/db/npc/npc/d8488d29b16/",
+                    "Area": "The Dravanian Forelands (X:16.6 Y:23.2)"
+                },
+                {
+                    "Name": "Lucia",
+                    "Url": "/lodestone/playguide/db/npc/npc/1472a127f2a/",
+                    "Area": "The Dravanian Forelands (X:35.2 Y:23.9)"
+                },
+                {
+                    "Name": "Lucia",
+                    "Url": "/lodestone/playguide/db/npc/npc/f55bdecd61e/",
+                    "Area": "The Dravanian Forelands (X:16.6 Y:23.2)"
+                },
+                {
+                    "Name": "Vidofnir",
+                    "Url": "/lodestone/playguide/db/npc/npc/40cd529c034/",
+                    "Area": "The Dravanian Forelands (X:16.8 Y:23.6)"
+                }
+            ]
+        },
+        "Seq": 1,
+        "oldID": 67693,
+        "Map": {
+            "ID": 218
+        }
+    },
+    {
+        "ID": "6f430c40c81",
+        "Name": "In the Eye of the Beholder",
+        "Location": "The Dravanian Hinterlands",
+        "Level": 60,
+        "JournalSection": 0,
+        "JournalCategory": 4,
+        "JournalGenre": "Dragonsong Main Scenario Quests",
+        "Url": "/lodestone/playguide/db/quest/6f430c40c81/",
+        "Image": "https://img.finalfantasyxiv.com/lds/pc/global/images/itemicon/29/2937dd4e1760bca2a5f69725a18d649f73ee82ef.png?n5.5",
+        "Icon": "main",
+        "Issuer": "Krile",
+        "StartLocation": {
+            "Name": "The Dravanian Hinterlands",
+            "X": "12.9",
+            "Y": "36.5"
+        },
+        "StartClass": null,
+        "Job": "Any Disciple of War or Magic (excluding limited jobs)",
+        "Company": "Not specified",
+        "Requirement": "Not specified",
+        "Rewards": {
+            "Gil": 1019,
+            "Exp": 16740,
+            "ItemsMand": [
+                {
+                    "Icon": "https://img.finalfantasyxiv.com/lds/pc/global/images/itemicon/dd/dd2fcafc52c0bb50128b180a476647ecde2d4be4.png?n5.5",
+                    "Name": "Max-Potion",
+                    "Amount": 3,
+                    "Url": "/lodestone/playguide/db/item/810081f550e/"
+                },
+                {
+                    "Icon": "https://img.finalfantasyxiv.com/lds/pc/global/images/itemicon/3e/3ee92d9de756abd64f6757db06c3068d7d0f5f82.png?n5.5",
+                    "Name": "Max-Ether",
+                    "Amount": 3,
+                    "Url": "/lodestone/playguide/db/item/bdc7322695b/"
+                }
+            ],
+            "ItemsOpt": []
+        },
+        "Infos": {
+            "PrevQuests": [
+                {
+                    "Name": "Another Time, Another Place",
+                    "Url": "/lodestone/playguide/db/quest/525556a0151/",
+                    "Area": "The Dravanian Forelands",
+                    "Level": "60"
+                }
+            ],
+            "NextQuests": [
+                {
+                    "Name": "A Little Slow, a Little Late",
+                    "Url": "/lodestone/playguide/db/quest/069e844f02b/",
+                    "Area": "The Dravanian Forelands",
+                    "Level": "60"
+                }
+            ],
+            "NPCs": [
+                {
+                    "Name": "Matoya",
+                    "Url": "/lodestone/playguide/db/npc/npc/f3f8bd985d8/",
+                    "Area": "Matoya's Cave (X:6.5 Y:6.4)"
+                },
+                {
+                    "Name": "Alphinaud",
+                    "Url": "/lodestone/playguide/db/npc/npc/84a95167552/",
+                    "Area": "The Dravanian Forelands (X:34.3 Y:23.9)"
+                },
+                {
+                    "Name": "Alphinaud",
+                    "Url": "/lodestone/playguide/db/npc/npc/3769d2b67e3/",
+                    "Area": "The Dravanian Forelands (X:39.1 Y:21.8)"
+                },
+                {
+                    "Name": "Grimold",
+                    "Url": "/lodestone/playguide/db/npc/npc/5062bdbf8eb/",
+                    "Area": "The Dravanian Forelands (X:31.5 Y:24.7)"
+                },
+                {
+                    "Name": "Krile",
+                    "Url": "/lodestone/playguide/db/npc/npc/8e54eb6840f/",
+                    "Area": "The Dravanian Forelands (X:34.3 Y:23.9)"
+                },
+                {
+                    "Name": "Krile",
+                    "Url": "/lodestone/playguide/db/npc/npc/1539f606a87/",
+                    "Area": "The Dravanian Forelands (X:31.9 Y:23.3)"
+                },
+                {
+                    "Name": "Krile",
+                    "Url": "/lodestone/playguide/db/npc/npc/bf9e017a5f0/",
+                    "Area": "The Dravanian Forelands (X:26.4 Y:17.8)"
+                },
+                {
+                    "Name": "Loupard",
+                    "Url": "/lodestone/playguide/db/npc/npc/50c12c642a8/",
+                    "Area": "The Dravanian Forelands (X:33.2 Y:23.8)"
+                },
+                {
+                    "Name": "Marcechamp",
+                    "Url": "/lodestone/playguide/db/npc/npc/7a3fbf03e28/",
+                    "Area": "The Dravanian Forelands (X:31.9 Y:22.9)"
+                },
+                {
+                    "Name": "Y'shtola",
+                    "Url": "/lodestone/playguide/db/npc/npc/2b4483b70b0/",
+                    "Area": "The Dravanian Forelands (X:34.3 Y:23.9)"
+                },
+                {
+                    "Name": "Y'shtola",
+                    "Url": "/lodestone/playguide/db/npc/npc/1edd6d05051/",
+                    "Area": "The Dravanian Forelands (X:39.1 Y:21.8)"
+                },
+                {
+                    "Name": "Alphinaud",
+                    "Url": "/lodestone/playguide/db/npc/npc/30184800fc7/",
+                    "Area": "The Dravanian Hinterlands (X:13.0 Y:36.5)"
+                },
+                {
+                    "Name": "Y'shtola",
+                    "Url": "/lodestone/playguide/db/npc/npc/c12ef2d70c4/",
+                    "Area": "The Dravanian Hinterlands (X:13.0 Y:36.6)"
+                }
+            ]
+        },
+        "Seq": 3,
+        "oldID": 67695,
+        "Map": {
+            "ID": 213
+        }
+    },
+    {
+        "ID": "76bd02df80b",
+        "Name": "Once More, a Favor",
+        "Location": "Coerthas Western Highlands",
+        "Level": 60,
+        "JournalSection": 0,
+        "JournalCategory": 4,
+        "JournalGenre": "Dragonsong Main Scenario Quests",
+        "Url": "/lodestone/playguide/db/quest/76bd02df80b/",
+        "Image": null,
+        "Icon": "main",
+        "Issuer": "Emmanellain",
+        "StartLocation": {
+            "Name": "Coerthas Western Highlands",
+            "X": "32.8",
+            "Y": "37.8"
+        },
+        "StartClass": null,
+        "Job": "Any Disciple of War or Magic (excluding limited jobs)",
+        "Company": "Not specified",
+        "Requirement": "Not specified",
+        "Rewards": {
+            "Gil": 810,
+            "Exp": 16740,
+            "ItemsMand": [],
+            "ItemsOpt": [
+                {
+                    "Icon": "https://img.finalfantasyxiv.com/lds/pc/global/images/itemicon/dd/dd2fcafc52c0bb50128b180a476647ecde2d4be4.png?n5.5",
+                    "Name": "Max-Potion",
+                    "Amount": 1,
+                    "Url": "/lodestone/playguide/db/item/810081f550e/"
+                },
+                {
+                    "Icon": "https://img.finalfantasyxiv.com/lds/pc/global/images/itemicon/3e/3ee92d9de756abd64f6757db06c3068d7d0f5f82.png?n5.5",
+                    "Name": "Max-Ether",
+                    "Amount": 1,
+                    "Url": "/lodestone/playguide/db/item/bdc7322695b/"
+                }
+            ]
+        },
+        "Infos": {
+            "PrevQuests": [
+                {
+                    "Name": "Staunch Conviction",
+                    "Url": "/lodestone/playguide/db/quest/08262718569/",
+                    "Area": "Coerthas Western Highlands",
+                    "Level": "60"
+                }
+            ],
+            "NextQuests": [
+                {
+                    "Name": "For Those We Have Lost",
+                    "Url": "/lodestone/playguide/db/quest/64c819d8eb3/",
+                    "Area": "Coerthas Western Highlands",
+                    "Level": "60"
+                }
+            ],
+            "NPCs": [
+                {
+                    "Name": "Highborn Merchant",
+                    "Url": "/lodestone/playguide/db/npc/npc/337b2abb611/",
+                    "Area": "Coerthas Western Highlands (X:32.4 Y:37.4)"
+                },
+                {
+                    "Name": "Honoroit",
+                    "Url": "/lodestone/playguide/db/npc/npc/5e401871d20/",
+                    "Area": "Coerthas Western Highlands (X:32.8 Y:37.7)"
+                },
+                {
+                    "Name": "Hopeful Heretic",
+                    "Url": "/lodestone/playguide/db/npc/npc/8e1b628ec35/",
+                    "Area": "Coerthas Western Highlands (X:24.1 Y:25.7)"
+                },
+                {
+                    "Name": "Lowborn Youth",
+                    "Url": "/lodestone/playguide/db/npc/npc/3851356f407/",
+                    "Area": "Coerthas Western Highlands (X:31.8 Y:37.6)"
+                },
+                {
+                    "Name": "Spirited Stonecutter",
+                    "Url": "/lodestone/playguide/db/npc/npc/730100fb657/",
+                    "Area": "Coerthas Western Highlands (X:32.9 Y:37.6)"
+                },
+                {
+                    "Name": "Thancred",
+                    "Url": "/lodestone/playguide/db/npc/npc/753aff65380/",
+                    "Area": "Coerthas Western Highlands (X:32.8 Y:37.8)"
+                },
+                {
+                    "Name": "Thancred",
+                    "Url": "/lodestone/playguide/db/npc/npc/38f9e82e794/",
+                    "Area": "Coerthas Western Highlands (X:24.1 Y:25.7)"
+                }
+            ]
+        },
+        "Seq": 12,
+        "oldID": 67771,
+        "Map": {
+            "ID": 211
+        }
+    },
+    {
+        "ID": "8ff1b389dd5",
+        "Name": "Against the Dying of the Light",
+        "Location": "Ishgard",
+        "Level": 60,
+        "JournalSection": 0,
+        "JournalCategory": 4,
+        "JournalGenre": "Dragonsong Main Scenario Quests",
+        "Url": "/lodestone/playguide/db/quest/8ff1b389dd5/",
+        "Image": null,
+        "Icon": "main",
+        "Issuer": "Lucia",
+        "StartLocation": {
+            "Name": "Foundation",
+            "X": "13.7",
+            "Y": "11.1"
+        },
+        "StartClass": null,
+        "Job": "Any Disciple of War or Magic (excluding limited jobs)",
+        "Company": "Not specified",
+        "Requirement": "Not specified",
+        "Rewards": {
+            "Gil": 713,
+            "Exp": 16740,
+            "ItemsMand": [],
+            "ItemsOpt": [
+                {
+                    "Icon": "https://img.finalfantasyxiv.com/lds/pc/global/images/itemicon/5c/5c253d583ff892bf2e9662bbf85e4bf7567b9e2b.png?n5.5",
+                    "Name": "Primal Accessories of Fending Coffer",
+                    "Amount": 1,
+                    "Url": "/lodestone/playguide/db/item/a244a396434/"
+                },
+                {
+                    "Icon": "https://img.finalfantasyxiv.com/lds/pc/global/images/itemicon/5c/5c253d583ff892bf2e9662bbf85e4bf7567b9e2b.png?n5.5",
+                    "Name": "Primal Accessories of Slaying Coffer",
+                    "Amount": 1,
+                    "Url": "/lodestone/playguide/db/item/0c07e6c717a/"
+                },
+                {
+                    "Icon": "https://img.finalfantasyxiv.com/lds/pc/global/images/itemicon/ba/baa2341dd17414fae7fd62ae7bc62c64589b67be.png?n5.5",
+                    "Name": "Allagan Silver Piece",
+                    "Amount": 7,
+                    "Url": "/lodestone/playguide/db/item/a3ac3ba4b00/"
+                }
+            ]
+        },
+        "Infos": {
+            "PrevQuests": [
+                {
+                    "Name": "Dreams of the Lost",
+                    "Url": "/lodestone/playguide/db/quest/66bbcc31e02/",
+                    "Area": "The Dravanian Forelands",
+                    "Level": "60"
+                }
+            ],
+            "NextQuests": [
+                {
+                    "Name": "As Goes Light, So Goes Darkness",
+                    "Url": "/lodestone/playguide/db/quest/02f039d7119/",
+                    "Area": "Ishgard",
+                    "Level": "60"
+                }
+            ],
+            "NPCs": [
+                {
+                    "Name": "Alphinaud",
+                    "Url": "/lodestone/playguide/db/npc/npc/e891fb4009f/",
+                    "Area": "Foundation (X:13.7 Y:11.0)"
+                },
+                {
+                    "Name": "Alphinaud",
+                    "Url": "/lodestone/playguide/db/npc/npc/d1f8bcb2f4a/",
+                    "Area": "Foundation (X:11.9 Y:12.5)"
+                },
+                {
+                    "Name": "Alphinaud",
+                    "Url": "/lodestone/playguide/db/npc/npc/b583126fe0f/",
+                    "Area": "Foundation (X:11.5 Y:11.9)"
+                },
+                {
+                    "Name": "Captive",
+                    "Url": "/lodestone/playguide/db/npc/npc/af5b9100e93/",
+                    "Area": "Foundation (X:11.5 Y:11.9)"
+                },
+                {
+                    "Name": "Handeloup",
+                    "Url": "/lodestone/playguide/db/npc/npc/ec3496b94e2/",
+                    "Area": "Foundation (X:13.8 Y:11.2)"
+                },
+                {
+                    "Name": "Hilda",
+                    "Url": "/lodestone/playguide/db/npc/npc/710e3829a11/",
+                    "Area": "Foundation (X:13.7 Y:11.0)"
+                },
+                {
+                    "Name": "Lucia",
+                    "Url": "/lodestone/playguide/db/npc/npc/2fb397135ab/",
+                    "Area": "Foundation (X:13.7 Y:11.2)"
+                },
+                {
+                    "Name": "Tataru",
+                    "Url": "/lodestone/playguide/db/npc/npc/36e8596a0fa/",
+                    "Area": "Foundation (X:14.2 Y:12.5)"
+                },
+                {
+                    "Name": "Tataru",
+                    "Url": "/lodestone/playguide/db/npc/npc/c7454033abf/",
+                    "Area": "Foundation (X:11.4 Y:11.9)"
+                },
+                {
+                    "Name": "Thancred",
+                    "Url": "/lodestone/playguide/db/npc/npc/eb52f7dec30/",
+                    "Area": "Foundation (X:13.6 Y:11.0)"
+                },
+                {
+                    "Name": "Thancred",
+                    "Url": "/lodestone/playguide/db/npc/npc/bb69cc22056/",
+                    "Area": "Foundation (X:11.5 Y:11.9)"
+                },
+                {
+                    "Name": "Y'shtola",
+                    "Url": "/lodestone/playguide/db/npc/npc/ebb4c411d6e/",
+                    "Area": "Foundation (X:13.6 Y:11.0)"
+                },
+                {
+                    "Name": "Y'shtola",
+                    "Url": "/lodestone/playguide/db/npc/npc/a2231b73a74/",
+                    "Area": "Foundation (X:11.4 Y:11.9)"
+                },
+                {
+                    "Name": "Y'shtola",
+                    "Url": "/lodestone/playguide/db/npc/npc/2043b44de21/",
+                    "Area": "Foundation (X:14.1 Y:12.6)"
+                },
+                {
+                    "Name": "Emmanellain",
+                    "Url": "/lodestone/playguide/db/npc/npc/a4078ae8387/",
+                    "Area": "The Pillars (X:7.5 Y:10.4)"
+                },
+                {
+                    "Name": "Hilda",
+                    "Url": "/lodestone/playguide/db/npc/npc/c66e147ad58/",
+                    "Area": "The Pillars (X:7.6 Y:10.4)"
+                },
+                {
+                    "Name": "Hilda",
+                    "Url": "/lodestone/playguide/db/npc/npc/6ebe695e8c3/",
+                    "Area": "The Pillars (X:12.4 Y:10.4)"
+                },
+                {
+                    "Name": "Honoroit",
+                    "Url": "/lodestone/playguide/db/npc/npc/c7bfa6071a2/",
+                    "Area": "The Pillars (X:7.6 Y:10.4)"
+                },
+                {
+                    "Name": "Maelie",
+                    "Url": "/lodestone/playguide/db/npc/npc/a3436da121a/",
+                    "Area": "The Pillars (X:11.7 Y:8.3)"
+                },
+                {
+                    "Name": "Thancred",
+                    "Url": "/lodestone/playguide/db/npc/npc/8eee1d97934/",
+                    "Area": "The Pillars (X:7.5 Y:10.5)"
+                },
+                {
+                    "Name": "Thancred",
+                    "Url": "/lodestone/playguide/db/npc/npc/72c4428f680/",
+                    "Area": "The Pillars (X:12.4 Y:10.4)"
+                },
+                {
+                    "Name": "Unruffled Refugee",
+                    "Url": "/lodestone/playguide/db/npc/npc/7ba4bfef2f5/",
+                    "Area": "The Pillars (X:11.0 Y:9.1)"
+                },
+                {
+                    "Name": "Vault Priest",
+                    "Url": "/lodestone/playguide/db/npc/npc/3b452fb2da0/",
+                    "Area": "The Pillars (X:11.1 Y:8.2)"
+                }
+            ]
+        },
+        "Seq": 6,
+        "oldID": 67698,
+        "Map": {
+            "ID": 218
+        }
+    },
+    {
+        "ID": "91b37896382",
+        "Name": "This War of Ours",
+        "Location": "Matoya's Cave",
+        "Level": 60,
+        "JournalSection": 0,
+        "JournalCategory": 4,
+        "JournalGenre": "Dragonsong Main Scenario Quests",
+        "Url": "/lodestone/playguide/db/quest/91b37896382/",
+        "Image": null,
+        "Icon": "main",
+        "Issuer": "Alphinaud",
+        "StartLocation": {
+            "Name": "Matoya's Cave",
+            "X": "6.5",
+            "Y": "6.2"
+        },
+        "StartClass": null,
+        "Job": "Any Disciple of War or Magic (excluding limited jobs)",
+        "Company": "Not specified",
+        "Requirement": "Not specified",
+        "Rewards": {
+            "Gil": 1194,
+            "Exp": 16740,
+            "ItemsMand": [],
+            "ItemsOpt": []
+        },
+        "Infos": {
+            "PrevQuests": [
+                {
+                    "Name": "The Word of the Mother",
+                    "Url": "/lodestone/playguide/db/quest/aec942d7783/",
+                    "Area": "The Rising Stones",
+                    "Level": "60"
+                }
+            ],
+            "NextQuests": [
+                {
+                    "Name": "Staunch Conviction",
+                    "Url": "/lodestone/playguide/db/quest/08262718569/",
+                    "Area": "Coerthas Western Highlands",
+                    "Level": "60"
+                }
+            ],
+            "NPCs": [
+                {
+                    "Name": "Artoirel",
+                    "Url": "/lodestone/playguide/db/npc/npc/0b991992317/",
+                    "Area": "Coerthas Western Highlands (X:32.6 Y:37.7)"
+                },
+                {
+                    "Name": "Emmanellain",
+                    "Url": "/lodestone/playguide/db/npc/npc/cb7932d61f6/",
+                    "Area": "Coerthas Western Highlands (X:32.8 Y:37.8)"
+                },
+                {
+                    "Name": "Highborn Merchant",
+                    "Url": "/lodestone/playguide/db/npc/npc/337b2abb611/",
+                    "Area": "Coerthas Western Highlands (X:32.4 Y:37.4)"
+                },
+                {
+                    "Name": "Honoroit",
+                    "Url": "/lodestone/playguide/db/npc/npc/5e401871d20/",
+                    "Area": "Coerthas Western Highlands (X:32.8 Y:37.7)"
+                },
+                {
+                    "Name": "Lowborn Youth",
+                    "Url": "/lodestone/playguide/db/npc/npc/3851356f407/",
+                    "Area": "Coerthas Western Highlands (X:31.8 Y:37.6)"
+                },
+                {
+                    "Name": "Lucia",
+                    "Url": "/lodestone/playguide/db/npc/npc/154b0bc118a/",
+                    "Area": "Coerthas Western Highlands (X:32.1 Y:38.4)"
+                },
+                {
+                    "Name": "Spirited Stonecutter",
+                    "Url": "/lodestone/playguide/db/npc/npc/730100fb657/",
+                    "Area": "Coerthas Western Highlands (X:32.9 Y:37.6)"
+                },
+                {
+                    "Name": "Handeloup",
+                    "Url": "/lodestone/playguide/db/npc/npc/ec3496b94e2/",
+                    "Area": "Foundation (X:13.8 Y:11.2)"
+                },
+                {
+                    "Name": "Temple Knight Guard",
+                    "Url": "/lodestone/playguide/db/npc/npc/340b2c2824b/",
+                    "Area": "Foundation (X:13.5 Y:11.0)"
+                }
+            ]
+        },
+        "Seq": 10,
+        "oldID": 67769,
+        "Map": {
+            "ID": 253
+        }
+    },
+    {
+        "ID": "99abd95f23c",
+        "Name": "For Those We Can Yet Save",
+        "Location": "Coerthas Central Highlands",
+        "Level": 60,
+        "JournalSection": 0,
+        "JournalCategory": 4,
+        "JournalGenre": "Dragonsong Main Scenario Quests",
+        "Url": "/lodestone/playguide/db/quest/99abd95f23c/",
+        "Image": "https://img.finalfantasyxiv.com/lds/pc/global/images/itemicon/3c/3ca2fa953076c071596792a89b342bb00e68db00.png?n5.5",
+        "Icon": "main",
+        "Issuer": "Aymeric",
+        "StartLocation": {
+            "Name": "Coerthas Central Highlands",
+            "X": "18.6",
+            "Y": "15.2"
+        },
+        "StartClass": null,
+        "Job": "Any Disciple of War or Magic (excluding limited jobs)",
+        "Company": "Not specified",
+        "Requirement": "Not specified",
+        "Rewards": {
+            "Gil": 1087,
+            "Exp": 16740,
+            "ItemsMand": [],
+            "ItemsOpt": [
+                {
+                    "Icon": "https://img.finalfantasyxiv.com/lds/pc/global/images/itemicon/67/676e5bc8dd9ef717ec931be80a60b688176007ec.png?n5.5",
+                    "Name": "Augmented Hailstorm Cane",
+                    "Amount": 1,
+                    "Url": "/lodestone/playguide/db/item/9e9981da777/"
+                },
+                {
+                    "Icon": "https://img.finalfantasyxiv.com/lds/pc/global/images/itemicon/23/234efd0fe4d915c6d60bb01b3c050ee13309bfc6.png?n5.5",
+                    "Name": "Augmented Hailstorm Codex",
+                    "Amount": 1,
+                    "Url": "/lodestone/playguide/db/item/df25e068579/"
+                },
+                {
+                    "Icon": "https://img.finalfantasyxiv.com/lds/pc/global/images/itemicon/b6/b64b6520f8fb6f7749d3cb2e4fd57151e31bf240.png?n5.5",
+                    "Name": "Augmented Hailstorm Astrometer",
+                    "Amount": 1,
+                    "Url": "/lodestone/playguide/db/item/6ed13d4f0a7/"
+                },
+                {
+                    "Icon": "https://img.finalfantasyxiv.com/lds/pc/global/images/itemicon/5e/5e50d19ded5d5545c4616a19d21b938b5ba39db3.png?n5.5",
+                    "Name": "Augmented Hailstorm Rapier",
+                    "Amount": 1,
+                    "Url": "/lodestone/playguide/db/item/6433f9c42df/"
+                },
+                {
+                    "Icon": "https://img.finalfantasyxiv.com/lds/pc/global/images/itemicon/ba/baa2341dd17414fae7fd62ae7bc62c64589b67be.png?n5.5",
+                    "Name": "Allagan Silver Piece",
+                    "Amount": 4,
+                    "Url": "/lodestone/playguide/db/item/a3ac3ba4b00/"
+                }
+            ]
+        },
+        "Infos": {
+            "PrevQuests": [
+                {
+                    "Name": "A Spectacle for the Ages",
+                    "Url": "/lodestone/playguide/db/quest/521b3461f33/",
+                    "Area": "Ishgard",
+                    "Level": "60"
+                }
+            ],
+            "NextQuests": [
+                {
+                    "Name": "Causes and Costs",
+                    "Url": "/lodestone/playguide/db/quest/ea28e641d9c/",
+                    "Area": "Coerthas Western Highlands",
+                    "Level": "60"
+                }
+            ],
+            "NPCs": [
+                {
+                    "Name": "Emmanellain",
+                    "Url": "/lodestone/playguide/db/npc/npc/b9a87a21067/",
+                    "Area": "Coerthas Central Highlands (X:18.8 Y:15.4)"
+                },
+                {
+                    "Name": "Hilda",
+                    "Url": "/lodestone/playguide/db/npc/npc/e362d13b93f/",
+                    "Area": "Coerthas Central Highlands (X:18.6 Y:15.2)"
+                },
+                {
+                    "Name": "Lucia",
+                    "Url": "/lodestone/playguide/db/npc/npc/ee1162e8f13/",
+                    "Area": "Coerthas Central Highlands (X:18.6 Y:15.3)"
+                },
+                {
+                    "Name": "Thancred",
+                    "Url": "/lodestone/playguide/db/npc/npc/3dbee7beeb1/",
+                    "Area": "Coerthas Central Highlands (X:18.7 Y:15.3)"
+                },
+                {
+                    "Name": "Alphinaud",
+                    "Url": "/lodestone/playguide/db/npc/npc/b62a8b63b7b/",
+                    "Area": "Coerthas Western Highlands (X:32.5 Y:37.8)"
+                },
+                {
+                    "Name": "Artoirel",
+                    "Url": "/lodestone/playguide/db/npc/npc/0b991992317/",
+                    "Area": "Coerthas Western Highlands (X:32.6 Y:37.7)"
+                },
+                {
+                    "Name": "Auriaune",
+                    "Url": "/lodestone/playguide/db/npc/npc/df1b7f75272/",
+                    "Area": "Coerthas Western Highlands (X:31.8 Y:38.5)"
+                },
+                {
+                    "Name": "Emerissel",
+                    "Url": "/lodestone/playguide/db/npc/npc/805dff1cb62/",
+                    "Area": "Coerthas Western Highlands (X:32.9 Y:37.9)"
+                },
+                {
+                    "Name": "Highborn Merchant",
+                    "Url": "/lodestone/playguide/db/npc/npc/337b2abb611/",
+                    "Area": "Coerthas Western Highlands (X:32.4 Y:37.4)"
+                },
+                {
+                    "Name": "Ingaret",
+                    "Url": "/lodestone/playguide/db/npc/npc/8c503870550/",
+                    "Area": "Coerthas Western Highlands (X:32.4 Y:35.8)"
+                },
+                {
+                    "Name": "Lowborn Youth",
+                    "Url": "/lodestone/playguide/db/npc/npc/3851356f407/",
+                    "Area": "Coerthas Western Highlands (X:31.8 Y:37.6)"
+                },
+                {
+                    "Name": "Modest Matron",
+                    "Url": "/lodestone/playguide/db/npc/npc/844949cade7/",
+                    "Area": "Coerthas Western Highlands (X:32.7 Y:37.6)"
+                },
+                {
+                    "Name": "Noirterel",
+                    "Url": "/lodestone/playguide/db/npc/npc/725667c730f/",
+                    "Area": "Coerthas Western Highlands (X:33.2 Y:38.1)"
+                },
+                {
+                    "Name": "Proud Patriot",
+                    "Url": "/lodestone/playguide/db/npc/npc/cbdcbbbdac6/",
+                    "Area": "Coerthas Western Highlands (X:32.3 Y:37.9)"
+                },
+                {
+                    "Name": "Redwald",
+                    "Url": "/lodestone/playguide/db/npc/npc/b4d663a226f/",
+                    "Area": "Coerthas Western Highlands (X:32.6 Y:38.3)"
+                },
+                {
+                    "Name": "Rothe",
+                    "Url": "/lodestone/playguide/db/npc/npc/ffaef59a515/",
+                    "Area": "Coerthas Western Highlands (X:31.4 Y:37.8)"
+                },
+                {
+                    "Name": "Spirited Stonecutter",
+                    "Url": "/lodestone/playguide/db/npc/npc/730100fb657/",
+                    "Area": "Coerthas Western Highlands (X:32.9 Y:37.6)"
+                },
+                {
+                    "Name": "Tourcenet",
+                    "Url": "/lodestone/playguide/db/npc/npc/ccd348c62e2/",
+                    "Area": "Coerthas Western Highlands (X:32.6 Y:38.4)"
+                },
+                {
+                    "Name": "Alphinaud",
+                    "Url": "/lodestone/playguide/db/npc/npc/97f712e100f/",
+                    "Area": "Foundation (X:11.3 Y:13.3)"
+                }
+            ]
+        },
+        "Seq": 17,
+        "oldID": 67776,
+        "Map": {
+            "ID": 53
+        }
+    },
+    {
+        "ID": "aec942d7783",
+        "Name": "The Word of the Mother",
+        "Location": "The Rising Stones",
+        "Level": 60,
+        "JournalSection": 0,
+        "JournalCategory": 4,
+        "JournalGenre": "Dragonsong Main Scenario Quests",
+        "Url": "/lodestone/playguide/db/quest/aec942d7783/",
+        "Image": "https://img.finalfantasyxiv.com/lds/pc/global/images/itemicon/1a/1a1db23e058f3dd67f478d9a609efa9d29a55719.png?n5.5",
+        "Icon": "main",
+        "Issuer": "Alphinaud",
+        "StartLocation": {
+            "Name": "The Rising Stones",
+            "X": "6.0",
+            "Y": "6.0"
+        },
+        "StartClass": null,
+        "Job": "Any Disciple of War or Magic (excluding limited jobs)",
+        "Company": "Not specified",
+        "Requirement": "Not specified",
+        "Rewards": {
+            "Gil": 4500,
+            "Exp": 16740,
+            "ItemsMand": [
+                {
+                    "Icon": "https://img.finalfantasyxiv.com/lds/pc/global/images/itemicon/e8/e874d188d081402f02742f5010d48f8b6a570925.png?n5.5",
+                    "Name": "Poro Roggo",
+                    "Amount": 1,
+                    "Url": "/lodestone/playguide/db/item/a8d061cf3f1/"
+                }
+            ],
+            "ItemsOpt": []
+        },
+        "Infos": {
+            "PrevQuests": [
+                {
+                    "Name": "As It Once Was",
+                    "Url": "/lodestone/playguide/db/quest/32390cd716d/",
+                    "Area": "Ishgard",
+                    "Level": "60"
+                }
+            ],
+            "NextQuests": [
+                {
+                    "Name": "This War of Ours",
+                    "Url": "/lodestone/playguide/db/quest/91b37896382/",
+                    "Area": "Matoya's Cave",
+                    "Level": "60"
+                }
+            ],
+            "NPCs": [
+                {
+                    "Name": "Tataru",
+                    "Url": "/lodestone/playguide/db/npc/npc/e0172086f74/",
+                    "Area": "The Rising Stones (X:6.0 Y:6.0)"
+                },
+                {
+                    "Name": "Krile",
+                    "Url": "/lodestone/playguide/db/npc/npc/6232f6a8937/",
+                    "Area": "Idyllshire (X:6.9 Y:6.5)"
+                },
+                {
+                    "Name": "Thancred",
+                    "Url": "/lodestone/playguide/db/npc/npc/8d901c342f6/",
+                    "Area": "Idyllshire (X:6.9 Y:6.5)"
+                },
+                {
+                    "Name": "Y'shtola",
+                    "Url": "/lodestone/playguide/db/npc/npc/e384e0d8f48/",
+                    "Area": "Idyllshire (X:6.9 Y:6.5)"
+                },
+                {
+                    "Name": "Alphinaud",
+                    "Url": "/lodestone/playguide/db/npc/npc/40ff50769ff/",
+                    "Area": "Matoya's Cave (X:6.5 Y:6.2)"
+                },
+                {
+                    "Name": "Krile",
+                    "Url": "/lodestone/playguide/db/npc/npc/e5cde55c606/",
+                    "Area": "Matoya's Cave (X:6.8 Y:6.2)"
+                },
+                {
+                    "Name": "Matoya",
+                    "Url": "/lodestone/playguide/db/npc/npc/f3f8bd985d8/",
+                    "Area": "Matoya's Cave (X:6.5 Y:6.4)"
+                },
+                {
+                    "Name": "Thancred",
+                    "Url": "/lodestone/playguide/db/npc/npc/88067ade923/",
+                    "Area": "Matoya's Cave (X:6.8 Y:6.2)"
+                },
+                {
+                    "Name": "Y'shtola",
+                    "Url": "/lodestone/playguide/db/npc/npc/f515953bb0d/",
+                    "Area": "Matoya's Cave (X:6.5 Y:6.2)"
+                }
+            ]
+        },
+        "Seq": 9,
+        "oldID": 67768,
+        "Map": {
+            "ID": 136
+        }
+    },
+    {
+        "ID": "bbdb71c2872",
+        "Name": "Choices",
+        "Location": "Coerthas Western Highlands",
+        "Level": 60,
+        "JournalSection": 0,
+        "JournalCategory": 4,
+        "JournalGenre": "Dragonsong Main Scenario Quests",
+        "Url": "/lodestone/playguide/db/quest/bbdb71c2872/",
+        "Image": null,
+        "Icon": "main",
+        "Issuer": "Thancred",
+        "StartLocation": {
+            "Name": "Coerthas Western Highlands",
+            "X": "32.7",
+            "Y": "37.9"
+        },
+        "StartClass": null,
+        "Job": "Any Disciple of War or Magic (excluding limited jobs)",
+        "Company": "Not specified",
+        "Requirement": "Not specified",
+        "Rewards": {
+            "Gil": 1087,
+            "Exp": 16740,
+            "ItemsMand": [],
+            "ItemsOpt": [
+                {
+                    "Icon": "https://img.finalfantasyxiv.com/lds/pc/global/images/itemicon/d4/d45a92bd048effea92b37a8688656044001c93ea.png?n5.5",
+                    "Name": "Augmented Hellfire Claws",
+                    "Amount": 1,
+                    "Url": "/lodestone/playguide/db/item/8aa023cd585/"
+                },
+                {
+                    "Icon": "https://img.finalfantasyxiv.com/lds/pc/global/images/itemicon/a3/a3213699defdb3b8873282d3dab1a9756136b554.png?n5.5",
+                    "Name": "Augmented Slipstream Partisan",
+                    "Amount": 1,
+                    "Url": "/lodestone/playguide/db/item/234774173b2/"
+                },
+                {
+                    "Icon": "https://img.finalfantasyxiv.com/lds/pc/global/images/itemicon/ff/ff84f4fbf9c7e2e545d8f7d8193094f00f622a36.png?n5.5",
+                    "Name": "Augmented Torrent Kris",
+                    "Amount": 1,
+                    "Url": "/lodestone/playguide/db/item/a97b9c789c4/"
+                },
+                {
+                    "Icon": "https://img.finalfantasyxiv.com/lds/pc/global/images/itemicon/d4/d426596dbd658638b44fb701a8da4b603686871a.png?n5.5",
+                    "Name": "Augmented Hellfire Shield",
+                    "Amount": 1,
+                    "Url": "/lodestone/playguide/db/item/752e18277a1/"
+                },
+                {
+                    "Icon": "https://img.finalfantasyxiv.com/lds/pc/global/images/itemicon/ba/baa2341dd17414fae7fd62ae7bc62c64589b67be.png?n5.5",
+                    "Name": "Allagan Silver Piece",
+                    "Amount": 4,
+                    "Url": "/lodestone/playguide/db/item/a3ac3ba4b00/"
+                }
+            ]
+        },
+        "Infos": {
+            "PrevQuests": [
+                {
+                    "Name": "Consequences",
+                    "Url": "/lodestone/playguide/db/quest/47a3d1929c9/",
+                    "Area": "Coerthas Western Highlands",
+                    "Level": "60"
+                }
+            ],
+            "NextQuests": [
+                {
+                    "Name": "A Spectacle for the Ages",
+                    "Url": "/lodestone/playguide/db/quest/521b3461f33/",
+                    "Area": "Ishgard",
+                    "Level": "60"
+                }
+            ],
+            "NPCs": [
+                {
+                    "Name": "Artoirel",
+                    "Url": "/lodestone/playguide/db/npc/npc/be7bdd2df50/",
+                    "Area": "Coerthas Western Highlands (X:33.3 Y:37.9)"
+                },
+                {
+                    "Name": "Lucia",
+                    "Url": "/lodestone/playguide/db/npc/npc/9f09592b90e/",
+                    "Area": "Coerthas Western Highlands (X:33.3 Y:37.9)"
+                },
+                {
+                    "Name": "Emmanellain",
+                    "Url": "/lodestone/playguide/db/npc/npc/6939e232c1e/",
+                    "Area": "Foundation (X:13.3 Y:11.0)"
+                },
+                {
+                    "Name": "Eudestand",
+                    "Url": "/lodestone/playguide/db/npc/npc/77a4927c154/",
+                    "Area": "Foundation (X:11.4 Y:12.0)"
+                },
+                {
+                    "Name": "Hilda",
+                    "Url": "/lodestone/playguide/db/npc/npc/d38f3d4ddd2/",
+                    "Area": "Foundation (X:11.4 Y:12.0)"
+                },
+                {
+                    "Name": "Lucia",
+                    "Url": "/lodestone/playguide/db/npc/npc/2fb397135ab/",
+                    "Area": "Foundation (X:13.7 Y:11.2)"
+                },
+                {
+                    "Name": "Lucia",
+                    "Url": "/lodestone/playguide/db/npc/npc/a42fdf385d5/",
+                    "Area": "Foundation (X:13.4 Y:11.1)"
+                },
+                {
+                    "Name": "Symme",
+                    "Url": "/lodestone/playguide/db/npc/npc/e78a7fc5c05/",
+                    "Area": "Foundation (X:11.4 Y:12.0)"
+                },
+                {
+                    "Name": "Temple Knight Guard",
+                    "Url": "/lodestone/playguide/db/npc/npc/340b2c2824b/",
+                    "Area": "Foundation (X:13.5 Y:11.0)"
+                },
+                {
+                    "Name": "Thancred",
+                    "Url": "/lodestone/playguide/db/npc/npc/c8a74378283/",
+                    "Area": "Foundation (X:13.4 Y:11.1)"
+                },
+                {
+                    "Name": "Thancred",
+                    "Url": "/lodestone/playguide/db/npc/npc/de22c2bbaa0/",
+                    "Area": "Foundation (X:11.5 Y:12.0)"
+                },
+                {
+                    "Name": "Aymeric",
+                    "Url": "/lodestone/playguide/db/npc/npc/ce0888844df/",
+                    "Area": "Seat of the Lord Commander (X:6.1 Y:5.9)"
+                },
+                {
+                    "Name": "Count Edmont De Fortemps",
+                    "Url": "/lodestone/playguide/db/npc/npc/c099f4072d2/",
+                    "Area": "Seat of the Lord Commander (X:6.1 Y:6.0)"
+                },
+                {
+                    "Name": "Emmanellain",
+                    "Url": "/lodestone/playguide/db/npc/npc/3a62ab530ad/",
+                    "Area": "The Pillars (X:7.6 Y:10.3)"
+                }
+            ]
+        },
+        "Seq": 15,
+        "oldID": 67774,
+        "Map": {
+            "ID": 211
+        }
+    },
+    {
+        "ID": "e84cd810fc2",
+        "Name": "Heroes of the Hour",
+        "Location": "Ishgard",
+        "Level": 60,
+        "JournalSection": 0,
+        "JournalCategory": 4,
+        "JournalGenre": "Dragonsong Main Scenario Quests",
+        "Url": "/lodestone/playguide/db/quest/e84cd810fc2/",
+        "Image": null,
+        "Icon": "main",
+        "Issuer": "Alphinaud",
+        "StartLocation": {
+            "Name": "Foundation",
+            "X": "11.3",
+            "Y": "13.3"
+        },
+        "StartClass": null,
+        "Job": "Any Disciple of War or Magic (excluding limited jobs)",
+        "Company": "Not specified",
+        "Requirement": "Not specified",
+        "Rewards": {
+            "Gil": 583,
+            "Exp": 16740,
+            "ItemsMand": [],
+            "ItemsOpt": []
+        },
+        "Infos": {
+            "PrevQuests": [
+                {
+                    "Name": "An End to the Song",
+                    "Url": "/lodestone/playguide/db/quest/36d55886b37/",
+                    "Area": "The Churning Mists",
+                    "Level": "60"
+                }
+            ],
+            "NextQuests": [
+                {
+                    "Name": "Litany of Peace",
+                    "Url": "/lodestone/playguide/db/quest/15530701908/",
+                    "Area": "Ishgard",
+                    "Level": "60"
+                }
+            ],
+            "NPCs": [
+                {
+                    "Name": "Artoirel",
+                    "Url": "/lodestone/playguide/db/npc/npc/e5be7e769f8/",
+                    "Area": "Fortemps Manor (X:6.1 Y:6.1)"
+                },
+                {
+                    "Name": "Count Edmont De Fortemps",
+                    "Url": "/lodestone/playguide/db/npc/npc/7a3bcf14583/",
+                    "Area": "Fortemps Manor (X:6.1 Y:6.1)"
+                },
+                {
+                    "Name": "Emmanellain",
+                    "Url": "/lodestone/playguide/db/npc/npc/10be7019e97/",
+                    "Area": "Fortemps Manor (X:6.0 Y:6.1)"
+                },
+                {
+                    "Name": "Honoroit",
+                    "Url": "/lodestone/playguide/db/npc/npc/ddea1103640/",
+                    "Area": "Fortemps Manor (X:6.0 Y:6.1)"
+                },
+                {
+                    "Name": "House Fortemps Manservant",
+                    "Url": "/lodestone/playguide/db/npc/npc/6a4b6aa2d05/",
+                    "Area": "Fortemps Manor (X:6.0 Y:6.0)"
+                },
+                {
+                    "Name": "House Fortemps Steward",
+                    "Url": "/lodestone/playguide/db/npc/npc/9474ba513d8/",
+                    "Area": "Fortemps Manor (X:6.2 Y:6.2)"
+                },
+                {
+                    "Name": "Alphinaud",
+                    "Url": "/lodestone/playguide/db/npc/npc/98bf1f0cfa1/",
+                    "Area": "Foundation (X:13.4 Y:11.1)"
+                },
+                {
+                    "Name": "Alphinaud",
+                    "Url": "/lodestone/playguide/db/npc/npc/2bd084dd510/",
+                    "Area": "Foundation (X:11.2 Y:14.0)"
+                },
+                {
+                    "Name": "Aymeric",
+                    "Url": "/lodestone/playguide/db/npc/npc/7ff1c9d1a02/",
+                    "Area": "Foundation (X:13.7 Y:11.2)"
+                },
+                {
+                    "Name": "Lucia",
+                    "Url": "/lodestone/playguide/db/npc/npc/2834f297325/",
+                    "Area": "Foundation (X:13.4 Y:11.1)"
+                }
+            ]
+        },
+        "Seq": 23,
+        "oldID": 67782,
+        "Map": {
+            "ID": 218
+        }
+    },
+    {
+        "ID": "ea28e641d9c",
+        "Name": "Causes and Costs",
+        "Location": "Coerthas Western Highlands",
+        "Level": 60,
+        "JournalSection": 0,
+        "JournalCategory": 4,
+        "JournalGenre": "Dragonsong Main Scenario Quests",
+        "Url": "/lodestone/playguide/db/quest/ea28e641d9c/",
+        "Image": "https://img.finalfantasyxiv.com/lds/pc/global/images/itemicon/99/9962f1e8c59101c71770ba95f9305c5bad833b9b.png?n5.5",
+        "Icon": "main",
+        "Issuer": "Alphinaud",
+        "StartLocation": {
+            "Name": "Coerthas Western Highlands",
+            "X": "32.5",
+            "Y": "37.8"
+        },
+        "StartClass": null,
+        "Job": "Any Disciple of War or Magic (excluding limited jobs)",
+        "Company": "Not specified",
+        "Requirement": "Not specified",
+        "Rewards": {
+            "Gil": 1200,
+            "Exp": 16740,
+            "ItemsMand": [
+                {
+                    "Icon": "https://img.finalfantasyxiv.com/lds/pc/global/images/itemicon/15/15822442996bc70cd7a4b522a2c5cfa5f7f75080.png?n5.5",
+                    "Name": "",
+                    "Amount": null
+                }
+            ],
+            "ItemsOpt": [
+                {
+                    "Icon": "https://img.finalfantasyxiv.com/lds/pc/global/images/itemicon/5c/5c253d583ff892bf2e9662bbf85e4bf7567b9e2b.png?n5.5",
+                    "Name": "Hellfire Armor of Fending Coffer",
+                    "Amount": 1,
+                    "Url": "/lodestone/playguide/db/item/a115f84e4d4/"
+                },
+                {
+                    "Icon": "https://img.finalfantasyxiv.com/lds/pc/global/images/itemicon/5c/5c253d583ff892bf2e9662bbf85e4bf7567b9e2b.png?n5.5",
+                    "Name": "Slipstream Armor of Maiming Coffer",
+                    "Amount": 1,
+                    "Url": "/lodestone/playguide/db/item/c56222a8fb9/"
+                },
+                {
+                    "Icon": "https://img.finalfantasyxiv.com/lds/pc/global/images/itemicon/5c/5c253d583ff892bf2e9662bbf85e4bf7567b9e2b.png?n5.5",
+                    "Name": "Hellfire Armor of Striking Coffer",
+                    "Amount": 1,
+                    "Url": "/lodestone/playguide/db/item/3706ff16629/"
+                },
+                {
+                    "Icon": "https://img.finalfantasyxiv.com/lds/pc/global/images/itemicon/5c/5c253d583ff892bf2e9662bbf85e4bf7567b9e2b.png?n5.5",
+                    "Name": "Torrent Attire of Scouting Coffer",
+                    "Amount": 1,
+                    "Url": "/lodestone/playguide/db/item/8ed6839616b/"
+                },
+                {
+                    "Icon": "https://img.finalfantasyxiv.com/lds/pc/global/images/itemicon/ba/baa2341dd17414fae7fd62ae7bc62c64589b67be.png?n5.5",
+                    "Name": "Allagan Gold Piece",
+                    "Amount": 3,
+                    "Url": "/lodestone/playguide/db/item/5196db0fd91/"
+                }
+            ]
+        },
+        "Infos": {
+            "PrevQuests": [
+                {
+                    "Name": "For Those We Can Yet Save",
+                    "Url": "/lodestone/playguide/db/quest/99abd95f23c/",
+                    "Area": "Coerthas Central Highlands",
+                    "Level": "60"
+                }
+            ],
+            "NextQuests": [
+                {
+                    "Name": "The Man Within",
+                    "Url": "/lodestone/playguide/db/quest/466f00e3695/",
+                    "Area": "Ishgard",
+                    "Level": "60"
+                }
+            ],
+            "NPCs": [
+                {
+                    "Name": "Alphinaud",
+                    "Url": "/lodestone/playguide/db/npc/npc/d9cefcad448/",
+                    "Area": "Intercessory (X:6.0 Y:6.2)"
+                },
+                {
+                    "Name": "Alphinaud",
+                    "Url": "/lodestone/playguide/db/npc/npc/52208e46db9/",
+                    "Area": "The Pillars (X:11.5 Y:11.1)"
+                },
+                {
+                    "Name": "Tataru",
+                    "Url": "/lodestone/playguide/db/npc/npc/6698903bcbc/",
+                    "Area": "The Pillars (X:11.5 Y:11.1)"
+                }
+            ],
+            "RelatedAchievements": [
+                {
+                    "Name": "First Gear",
+                    "Url": "/lodestone/playguide/db/achievement/361d9f27d40/",
+                    "Reward": "Title",
+                    "Points": "10"
+                }
+            ]
+        },
+        "Seq": 18,
+        "oldID": 67777,
+        "Map": {
+            "ID": 211
+        }
+    }
+]

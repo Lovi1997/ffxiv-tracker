@@ -1,0 +1,2415 @@
+[
+    {
+        "ID": "0185193cbd8",
+        "Name": "Nicht alle Flüsse münden ins Meer",
+        "Location": "Abalathisches Wolkenmeer",
+        "Level": 57,
+        "JournalSection": 3,
+        "JournalCategory": 44,
+        "JournalGenre": "Aufträge Abalathia",
+        "Url": "/lodestone/playguide/db/quest/0185193cbd8/",
+        "Image": "https://img.finalfantasyxiv.com/lds/pc/global/images/itemicon/1f/1fbd4e2d9e6a37d3aadbe77fec18348142e616db.png?n5.5",
+        "Icon": "common_normal",
+        "Issuer": "Gunu Vanu",
+        "StartLocation": {
+            "Name": "Abalathisches Wolkenmeer",
+            "X": "12.5",
+            "Y": "14.4"
+        },
+        "StartClass": null,
+        "Job": "",
+        "Company": "Keine Angabe",
+        "Requirement": "Keine Angabe",
+        "Rewards": {
+            "Gil": 502,
+            "Exp": 38400,
+            "ItemsMand": [],
+            "ItemsOpt": [
+                {
+                    "Icon": "https://img.finalfantasyxiv.com/lds/pc/global/images/itemicon/d1/d100cb7a56b821be8d14db69a302122195edc056.png?n5.5",
+                    "Name": "Seenebelblauer Farbstoff",
+                    "Amount": 5,
+                    "Url": "/lodestone/playguide/db/item/56afc8783ff/"
+                },
+                {
+                    "Icon": "https://img.finalfantasyxiv.com/lds/pc/global/images/itemicon/7b/7bf85ff916a27cc2b17a3cbe2c9509757a2ed3fd.png?n5.5",
+                    "Name": "Schieferbrauner Farbstoff",
+                    "Amount": 5,
+                    "Url": "/lodestone/playguide/db/item/1aae57e1629/"
+                },
+                {
+                    "Icon": "https://img.finalfantasyxiv.com/lds/pc/global/images/itemicon/87/8766a615ce1f564836948df8c194a9c33b733b45.png?n5.5",
+                    "Name": "Grasgrüner Farbstoff",
+                    "Amount": 5,
+                    "Url": "/lodestone/playguide/db/item/79031c0f52f/"
+                },
+                {
+                    "Icon": "https://img.finalfantasyxiv.com/lds/pc/global/images/itemicon/d1/d100cb7a56b821be8d14db69a302122195edc056.png?n5.5",
+                    "Name": "Leichenblauer Farbstoff",
+                    "Amount": 5,
+                    "Url": "/lodestone/playguide/db/item/e67029752b0/"
+                },
+                {
+                    "Icon": "https://img.finalfantasyxiv.com/lds/pc/global/images/itemicon/87/8766a615ce1f564836948df8c194a9c33b733b45.png?n5.5",
+                    "Name": "Morbolgrüner Farbstoff",
+                    "Amount": 5,
+                    "Url": "/lodestone/playguide/db/item/ec06adbbd4f/"
+                }
+            ]
+        },
+        "Infos": {
+            "PrevQuests": [
+                {
+                    "Name": "Weißes Kind, nun Wolkengott",
+                    "Url": "/lodestone/playguide/db/quest/563c24561fe/",
+                    "Area": "Abalathisches Wolkenmeer",
+                    "Level": "57"
+                },
+                {
+                    "Name": "Erwachsensein ist schwer",
+                    "Url": "/lodestone/playguide/db/quest/11b2c283cde/",
+                    "Area": "Abalathisches Wolkenmeer",
+                    "Level": "57"
+                }
+            ],
+            "NextQuests": [
+                {
+                    "Name": "Plan B",
+                    "Url": "/lodestone/playguide/db/quest/1b8ea54b3bc/",
+                    "Area": "Abalathisches Wolkenmeer",
+                    "Level": "57"
+                }
+            ],
+            "NPCs": [
+                {
+                    "Name": "Aanu Vanu",
+                    "Url": "/lodestone/playguide/db/npc/npc/7d521699989/",
+                    "Area": "Abalathisches Wolkenmeer (X:12.5 Y:14.4)"
+                },
+                {
+                    "Name": "Gunu Vanu",
+                    "Url": "/lodestone/playguide/db/npc/npc/99fa9d1c45d/",
+                    "Area": "Abalathisches Wolkenmeer (X:11.4 Y:14.0)"
+                }
+            ]
+        },
+        "Seq": 28,
+        "oldID": 67450,
+        "Map": {
+            "ID": 215
+        }
+    },
+    {
+        "ID": "01c998ebeaf",
+        "Name": "Gefangen von den Wilden",
+        "Location": "Abalathisches Wolkenmeer",
+        "Level": 57,
+        "JournalSection": 3,
+        "JournalCategory": 44,
+        "JournalGenre": "Aufträge Abalathia",
+        "Url": "/lodestone/playguide/db/quest/01c998ebeaf/",
+        "Image": null,
+        "Icon": "common_normal",
+        "Issuer": "Sonu Vanu",
+        "StartLocation": {
+            "Name": "Abalathisches Wolkenmeer",
+            "X": "11.7",
+            "Y": "14.8"
+        },
+        "StartClass": null,
+        "Job": "",
+        "Company": "Keine Angabe",
+        "Requirement": "Keine Angabe",
+        "Rewards": {
+            "Gil": 533,
+            "Exp": 38400,
+            "ItemsMand": [],
+            "ItemsOpt": [
+                {
+                    "Icon": "https://img.finalfantasyxiv.com/lds/pc/global/images/itemicon/06/06bd35b3df19cbc5d80eed3ed99c67a366c835aa.png?n5.5",
+                    "Name": "Assassinen-Materia IV",
+                    "Amount": 1,
+                    "Url": "/lodestone/playguide/db/item/1bc25f58180/"
+                },
+                {
+                    "Icon": "https://img.finalfantasyxiv.com/lds/pc/global/images/itemicon/06/06bd35b3df19cbc5d80eed3ed99c67a366c835aa.png?n5.5",
+                    "Name": "Strategen-Materia IV",
+                    "Amount": 1,
+                    "Url": "/lodestone/playguide/db/item/dce3a5f3467/"
+                },
+                {
+                    "Icon": "https://img.finalfantasyxiv.com/lds/pc/global/images/itemicon/06/06bd35b3df19cbc5d80eed3ed99c67a366c835aa.png?n5.5",
+                    "Name": "Hellseher-Materia IV",
+                    "Amount": 1,
+                    "Url": "/lodestone/playguide/db/item/93fe1786b70/"
+                },
+                {
+                    "Icon": "https://img.finalfantasyxiv.com/lds/pc/global/images/itemicon/59/591709d485ebd155ba018c8cd773fe3c662caed3.png?n5.5",
+                    "Name": "Frömmigkeits-Materia IV",
+                    "Amount": 1,
+                    "Url": "/lodestone/playguide/db/item/905d47601dd/"
+                }
+            ]
+        },
+        "Infos": {
+            "PrevQuests": [
+                {
+                    "Name": "Himmlischer Köder",
+                    "Url": "/lodestone/playguide/db/quest/a54bd372189/",
+                    "Area": "Abalathisches Wolkenmeer",
+                    "Level": "57"
+                },
+                {
+                    "Name": "Der Schlüssel zur Freiheit",
+                    "Url": "/lodestone/playguide/db/quest/657dba7d6d9/",
+                    "Area": "Abalathisches Wolkenmeer",
+                    "Level": "57"
+                }
+            ],
+            "NextQuests": [
+                {
+                    "Name": "Befreiter Zundo",
+                    "Url": "/lodestone/playguide/db/npc/npc/a98ac05aa36/",
+                    "Area": "Abalathisches Wolkenmeer (X:12.3 Y:11.3)"
+                },
+                {
+                    "Name": "Gefangene Rosenkavalleristin",
+                    "Url": "/lodestone/playguide/db/npc/npc/5755b32f66c/",
+                    "Area": "Abalathisches Wolkenmeer (X:18.3 Y:26.9)"
+                },
+                {
+                    "Name": "Gefangener Rosenkavallerist",
+                    "Url": "/lodestone/playguide/db/npc/npc/3619e4e5d48/",
+                    "Area": "Abalathisches Wolkenmeer (X:15.4 Y:16.4)"
+                },
+                {
+                    "Name": "Gefangener Rosenkavallerist",
+                    "Url": "/lodestone/playguide/db/npc/npc/92dec538b92/",
+                    "Area": "Abalathisches Wolkenmeer (X:21.3 Y:31.4)"
+                },
+                {
+                    "Name": "Laniaitte",
+                    "Url": "/lodestone/playguide/db/npc/npc/eceacc0b266/",
+                    "Area": "Abalathisches Wolkenmeer (X:17.0 Y:37.3)"
+                }
+            ]
+        },
+        "Seq": 24,
+        "oldID": 67454,
+        "Map": {
+            "ID": 215
+        }
+    },
+    {
+        "ID": "0651a5acc2a",
+        "Name": "Eine reife Leistung",
+        "Location": "Abalathisches Wolkenmeer",
+        "Level": 57,
+        "JournalSection": 3,
+        "JournalCategory": 44,
+        "JournalGenre": "Aufträge Abalathia",
+        "Url": "/lodestone/playguide/db/quest/0651a5acc2a/",
+        "Image": "https://img.finalfantasyxiv.com/lds/pc/global/images/itemicon/1f/1fbd4e2d9e6a37d3aadbe77fec18348142e616db.png?n5.5",
+        "Icon": "common_normal",
+        "Issuer": "Gunu Vanu",
+        "StartLocation": {
+            "Name": "Abalathisches Wolkenmeer",
+            "X": "12.5",
+            "Y": "14.4"
+        },
+        "StartClass": null,
+        "Job": "",
+        "Company": "Keine Angabe",
+        "Requirement": "Keine Angabe",
+        "Rewards": {
+            "Gil": 997,
+            "Exp": 38400,
+            "ItemsMand": [],
+            "ItemsOpt": [
+                {
+                    "Icon": "https://img.finalfantasyxiv.com/lds/pc/global/images/itemicon/59/591709d485ebd155ba018c8cd773fe3c662caed3.png?n5.5",
+                    "Name": "Fechtkunst-Materia IV",
+                    "Amount": 1,
+                    "Url": "/lodestone/playguide/db/item/37f25043bf3/"
+                },
+                {
+                    "Icon": "https://img.finalfantasyxiv.com/lds/pc/global/images/itemicon/60/6072436b0c90d22b6a9d7da93f356256a04be53d.png?n5.5",
+                    "Name": "Kampf-Materia IV",
+                    "Amount": 1,
+                    "Url": "/lodestone/playguide/db/item/1162b3fcc58/"
+                },
+                {
+                    "Icon": "https://img.finalfantasyxiv.com/lds/pc/global/images/itemicon/60/6072436b0c90d22b6a9d7da93f356256a04be53d.png?n5.5",
+                    "Name": "Zauber-Materia IV",
+                    "Amount": 1,
+                    "Url": "/lodestone/playguide/db/item/5bbb25ff7dd/"
+                }
+            ]
+        },
+        "Infos": {
+            "PrevQuests": [
+                {
+                    "Name": "Weißes Kind, nun Wolkengott",
+                    "Url": "/lodestone/playguide/db/quest/563c24561fe/",
+                    "Area": "Abalathisches Wolkenmeer",
+                    "Level": "57"
+                },
+                {
+                    "Name": "Plan B",
+                    "Url": "/lodestone/playguide/db/quest/1b8ea54b3bc/",
+                    "Area": "Abalathisches Wolkenmeer",
+                    "Level": "57"
+                }
+            ],
+            "NextQuests": [
+                {
+                    "Name": "Aanu Vanu",
+                    "Url": "/lodestone/playguide/db/npc/npc/7d521699989/",
+                    "Area": "Abalathisches Wolkenmeer (X:12.5 Y:14.4)"
+                },
+                {
+                    "Name": "Guna Vanu",
+                    "Url": "/lodestone/playguide/db/npc/npc/bc70123b282/",
+                    "Area": "Abalathisches Wolkenmeer (X:10.6 Y:14.8)"
+                },
+                {
+                    "Name": "Gunu Vanu",
+                    "Url": "/lodestone/playguide/db/npc/npc/ad740126187/",
+                    "Area": "Abalathisches Wolkenmeer (X:15.0 Y:9.9)"
+                },
+                {
+                    "Name": "Gunu Vanu",
+                    "Url": "/lodestone/playguide/db/npc/npc/cdb726d404e/",
+                    "Area": "Abalathisches Wolkenmeer (X:10.5 Y:14.8)"
+                },
+                {
+                    "Name": "Gunu Vanu",
+                    "Url": "/lodestone/playguide/db/npc/npc/06db251fee9/",
+                    "Area": "Abalathisches Wolkenmeer (X:30.2 Y:13.6)"
+                }
+            ]
+        },
+        "Seq": 30,
+        "oldID": 67452,
+        "Map": {
+            "ID": 215
+        }
+    },
+    {
+        "ID": "11b2c283cde",
+        "Name": "Erwachsensein ist schwer",
+        "Location": "Abalathisches Wolkenmeer",
+        "Level": 57,
+        "JournalSection": 3,
+        "JournalCategory": 44,
+        "JournalGenre": "Aufträge Abalathia",
+        "Url": "/lodestone/playguide/db/quest/11b2c283cde/",
+        "Image": "https://img.finalfantasyxiv.com/lds/pc/global/images/itemicon/1f/1fbd4e2d9e6a37d3aadbe77fec18348142e616db.png?n5.5",
+        "Icon": "common_normal",
+        "Issuer": "Gunu Vanu",
+        "StartLocation": {
+            "Name": "Abalathisches Wolkenmeer",
+            "X": "15.0",
+            "Y": "9.9"
+        },
+        "StartClass": null,
+        "Job": "",
+        "Company": "Keine Angabe",
+        "Requirement": "Keine Angabe",
+        "Rewards": {
+            "Gil": 653,
+            "Exp": 38400,
+            "ItemsMand": [
+                {
+                    "Icon": "https://img.finalfantasyxiv.com/lds/pc/global/images/itemicon/60/606b393d7113c4a3c6980dcac15d90d18ffc0222.png?n5.5",
+                    "Name": "Projektionsprisma",
+                    "Amount": 5,
+                    "Url": "/lodestone/playguide/db/item/58886c8cb88/"
+                }
+            ],
+            "ItemsOpt": []
+        },
+        "Infos": {
+            "PrevQuests": [
+                {
+                    "Name": "Weißes Kind, nun Wolkengott",
+                    "Url": "/lodestone/playguide/db/quest/563c24561fe/",
+                    "Area": "Abalathisches Wolkenmeer",
+                    "Level": "57"
+                },
+                {
+                    "Name": "Die Reifeprüfung",
+                    "Url": "/lodestone/playguide/db/quest/14cf20c3707/",
+                    "Area": "Abalathisches Wolkenmeer",
+                    "Level": "57"
+                }
+            ],
+            "NextQuests": [
+                {
+                    "Name": "Nicht alle Flüsse münden ins Meer",
+                    "Url": "/lodestone/playguide/db/quest/0185193cbd8/",
+                    "Area": "Abalathisches Wolkenmeer",
+                    "Level": "57"
+                }
+            ],
+            "NPCs": [
+                {
+                    "Name": "Gunu Vanu",
+                    "Url": "/lodestone/playguide/db/npc/npc/5baffd98856/",
+                    "Area": "Abalathisches Wolkenmeer (X:16.7 Y:9.7)"
+                },
+                {
+                    "Name": "Gunu Vanu",
+                    "Url": "/lodestone/playguide/db/npc/npc/67afba59c97/",
+                    "Area": "Abalathisches Wolkenmeer (X:12.5 Y:14.4)"
+                }
+            ]
+        },
+        "Seq": 27,
+        "oldID": 67447,
+        "Map": {
+            "ID": 215
+        }
+    },
+    {
+        "ID": "124cdba5102",
+        "Name": "Sitte und Anstand",
+        "Location": "Abalathisches Wolkenmeer",
+        "Level": 57,
+        "JournalSection": 3,
+        "JournalCategory": 44,
+        "JournalGenre": "Aufträge Abalathia",
+        "Url": "/lodestone/playguide/db/quest/124cdba5102/",
+        "Image": null,
+        "Icon": "common_normal",
+        "Issuer": "Ganu Vali",
+        "StartLocation": {
+            "Name": "Abalathisches Wolkenmeer",
+            "X": "9.6",
+            "Y": "14.2"
+        },
+        "StartClass": null,
+        "Job": "",
+        "Company": "Keine Angabe",
+        "Requirement": "Keine Angabe",
+        "Rewards": {
+            "Gil": 684,
+            "Exp": 38400,
+            "ItemsMand": [],
+            "ItemsOpt": []
+        },
+        "Infos": {
+            "PrevQuests": [
+                {
+                    "Name": "Himmlischer Köder",
+                    "Url": "/lodestone/playguide/db/quest/a54bd372189/",
+                    "Area": "Abalathisches Wolkenmeer",
+                    "Level": "57"
+                }
+            ]
+        },
+        "Seq": 20,
+        "oldID": 67449,
+        "Map": {
+            "ID": 215
+        }
+    },
+    {
+        "ID": "14cf20c3707",
+        "Name": "Die Reifeprüfung",
+        "Location": "Abalathisches Wolkenmeer",
+        "Level": 57,
+        "JournalSection": 3,
+        "JournalCategory": 44,
+        "JournalGenre": "Aufträge Abalathia",
+        "Url": "/lodestone/playguide/db/quest/14cf20c3707/",
+        "Image": "https://img.finalfantasyxiv.com/lds/pc/global/images/itemicon/1f/1fbd4e2d9e6a37d3aadbe77fec18348142e616db.png?n5.5",
+        "Icon": "function_normal",
+        "Issuer": "Guna Vanu",
+        "StartLocation": {
+            "Name": "Abalathisches Wolkenmeer",
+            "X": "10.6",
+            "Y": "14.8"
+        },
+        "StartClass": null,
+        "Job": "",
+        "Company": "Keine Angabe",
+        "Requirement": "Keine Angabe",
+        "Rewards": {
+            "Gil": 502,
+            "Exp": 38400,
+            "ItemsMand": [
+                {
+                    "Icon": "https://img.finalfantasyxiv.com/lds/pc/global/images/itemicon/af/af26e4b79fb1de83550f6ddbd3a170408fcfe702.png?n5.5",
+                    "Name": "",
+                    "Amount": null
+                }
+            ],
+            "ItemsOpt": []
+        },
+        "Infos": {
+            "PrevQuests": [
+                {
+                    "Name": "Weißes Kind, nun Wolkengott",
+                    "Url": "/lodestone/playguide/db/quest/563c24561fe/",
+                    "Area": "Abalathisches Wolkenmeer",
+                    "Level": "57"
+                }
+            ],
+            "NextQuests": [
+                {
+                    "Name": "Erwachsensein ist schwer",
+                    "Url": "/lodestone/playguide/db/quest/11b2c283cde/",
+                    "Area": "Abalathisches Wolkenmeer",
+                    "Level": "57"
+                }
+            ],
+            "NPCs": [
+                {
+                    "Name": "Conu Vanu",
+                    "Url": "/lodestone/playguide/db/npc/npc/b64087fe06b/",
+                    "Area": "Abalathisches Wolkenmeer (X:11.1 Y:13.5)"
+                },
+                {
+                    "Name": "Ganu Vali",
+                    "Url": "/lodestone/playguide/db/npc/npc/aaa4449bdb8/",
+                    "Area": "Abalathisches Wolkenmeer (X:9.6 Y:14.2)"
+                },
+                {
+                    "Name": "Gunu Vanu",
+                    "Url": "/lodestone/playguide/db/npc/npc/ad740126187/",
+                    "Area": "Abalathisches Wolkenmeer (X:15.0 Y:9.9)"
+                },
+                {
+                    "Name": "Hinu Vali",
+                    "Url": "/lodestone/playguide/db/npc/npc/a0fd26b8951/",
+                    "Area": "Abalathisches Wolkenmeer (X:11.1 Y:13.5)"
+                }
+            ]
+        },
+        "Seq": 26,
+        "oldID": 67446,
+        "Map": {
+            "ID": 215
+        }
+    },
+    {
+        "ID": "17514f1db13",
+        "Name": "Ehret die Ahnen",
+        "Location": "Abalathisches Wolkenmeer",
+        "Level": 57,
+        "JournalSection": 3,
+        "JournalCategory": 44,
+        "JournalGenre": "Aufträge Abalathia",
+        "Url": "/lodestone/playguide/db/quest/17514f1db13/",
+        "Image": null,
+        "Icon": "common_normal",
+        "Issuer": "Aanu Vanu",
+        "StartLocation": {
+            "Name": "Abalathisches Wolkenmeer",
+            "X": "12.5",
+            "Y": "14.4"
+        },
+        "StartClass": null,
+        "Job": "",
+        "Company": "Keine Angabe",
+        "Requirement": "Keine Angabe",
+        "Rewards": {
+            "Gil": 684,
+            "Exp": 38400,
+            "ItemsMand": [],
+            "ItemsOpt": []
+        },
+        "Infos": {
+            "PrevQuests": [
+                {
+                    "Name": "Himmlischer Köder",
+                    "Url": "/lodestone/playguide/db/quest/a54bd372189/",
+                    "Area": "Abalathisches Wolkenmeer",
+                    "Level": "57"
+                }
+            ]
+        },
+        "Seq": 21,
+        "oldID": 67453,
+        "Map": {
+            "ID": 215
+        }
+    },
+    {
+        "ID": "1aa2e50c5ce",
+        "Name": "Sicherheit geht vor",
+        "Location": "Abalathisches Wolkenmeer",
+        "Level": 51,
+        "JournalSection": 3,
+        "JournalCategory": 44,
+        "JournalGenre": "Aufträge Abalathia",
+        "Url": "/lodestone/playguide/db/quest/1aa2e50c5ce/",
+        "Image": null,
+        "Icon": "common_normal",
+        "Issuer": "Terremiaux",
+        "StartLocation": {
+            "Name": "Abalathisches Wolkenmeer",
+            "X": "37.9",
+            "Y": "24.2"
+        },
+        "StartClass": null,
+        "Job": "",
+        "Company": "Keine Angabe",
+        "Requirement": "Keine Angabe",
+        "Rewards": {
+            "Gil": 581,
+            "Exp": 25200,
+            "ItemsMand": [],
+            "ItemsOpt": []
+        },
+        "Infos": {
+            "PrevQuests": [
+                {
+                    "Name": "Ein Plan nimmt Gestalt an",
+                    "Url": "/lodestone/playguide/db/quest/77cb6c15d41/",
+                    "Area": "Anwesen der Fortemps",
+                    "Level": "51"
+                },
+                {
+                    "Name": "Hinter feindlichen Linien",
+                    "Url": "/lodestone/playguide/db/quest/c2b6ca2a319/",
+                    "Area": "Abalathisches Wolkenmeer",
+                    "Level": "51"
+                }
+            ],
+            "NextQuests": [
+                {
+                    "Name": "Die gestohlenen Ausrüstungsgegenstände",
+                    "Url": "/lodestone/playguide/db/quest/bee640fa8b7/",
+                    "Area": "Abalathisches Wolkenmeer",
+                    "Level": "51"
+                }
+            ],
+            "NPCs": [
+                {
+                    "Name": "Laniaitte",
+                    "Url": "/lodestone/playguide/db/npc/npc/eceacc0b266/",
+                    "Area": "Abalathisches Wolkenmeer (X:17.0 Y:37.3)"
+                },
+                {
+                    "Name": "Rosenkavallerist",
+                    "Url": "/lodestone/playguide/db/npc/npc/26170cb7128/",
+                    "Area": "Abalathisches Wolkenmeer (X:35.1 Y:23.4)"
+                },
+                {
+                    "Name": "Rosenkavallerist",
+                    "Url": "/lodestone/playguide/db/npc/npc/0664e0ec9aa/",
+                    "Area": "Abalathisches Wolkenmeer (X:36.6 Y:22.1)"
+                },
+                {
+                    "Name": "Rosenkavallerist",
+                    "Url": "/lodestone/playguide/db/npc/npc/9f86ab1cffa/",
+                    "Area": "Abalathisches Wolkenmeer (X:37.5 Y:23.6)"
+                },
+                {
+                    "Name": "Verwundeter Ritter",
+                    "Url": "/lodestone/playguide/db/npc/npc/1f7b7bf8167/",
+                    "Area": "Abalathisches Wolkenmeer (X:34.0 Y:27.2)"
+                }
+            ]
+        },
+        "Seq": 8,
+        "oldID": 67293,
+        "Map": {
+            "ID": 215
+        }
+    },
+    {
+        "ID": "1b8ea54b3bc",
+        "Name": "Plan B",
+        "Location": "Abalathisches Wolkenmeer",
+        "Level": 57,
+        "JournalSection": 3,
+        "JournalCategory": 44,
+        "JournalGenre": "Aufträge Abalathia",
+        "Url": "/lodestone/playguide/db/quest/1b8ea54b3bc/",
+        "Image": "https://img.finalfantasyxiv.com/lds/pc/global/images/itemicon/1f/1fbd4e2d9e6a37d3aadbe77fec18348142e616db.png?n5.5",
+        "Icon": "common_normal",
+        "Issuer": "Gunu Vanu",
+        "StartLocation": {
+            "Name": "Abalathisches Wolkenmeer",
+            "X": "12.5",
+            "Y": "14.4"
+        },
+        "StartClass": null,
+        "Job": "",
+        "Company": "Keine Angabe",
+        "Requirement": "Keine Angabe",
+        "Rewards": {
+            "Gil": 684,
+            "Exp": 38400,
+            "ItemsMand": [],
+            "ItemsOpt": []
+        },
+        "Infos": {
+            "PrevQuests": [
+                {
+                    "Name": "Weißes Kind, nun Wolkengott",
+                    "Url": "/lodestone/playguide/db/quest/563c24561fe/",
+                    "Area": "Abalathisches Wolkenmeer",
+                    "Level": "57"
+                },
+                {
+                    "Name": "Nicht alle Flüsse münden ins Meer",
+                    "Url": "/lodestone/playguide/db/quest/0185193cbd8/",
+                    "Area": "Abalathisches Wolkenmeer",
+                    "Level": "57"
+                }
+            ],
+            "NextQuests": [
+                {
+                    "Name": "Eine reife Leistung",
+                    "Url": "/lodestone/playguide/db/quest/0651a5acc2a/",
+                    "Area": "Abalathisches Wolkenmeer",
+                    "Level": "57"
+                }
+            ],
+            "NPCs": [
+                {
+                    "Name": "Gezähmter Sanuwa",
+                    "Url": "/lodestone/playguide/db/npc/npc/6655554f6d1/",
+                    "Area": "Abalathisches Wolkenmeer (X:27.8 Y:13.5)"
+                },
+                {
+                    "Name": "Gunu Vanu",
+                    "Url": "/lodestone/playguide/db/npc/npc/11b6b93ba52/",
+                    "Area": "Abalathisches Wolkenmeer (X:27.4 Y:13.6)"
+                }
+            ]
+        },
+        "Seq": 29,
+        "oldID": 67451,
+        "Map": {
+            "ID": 215
+        }
+    },
+    {
+        "ID": "20c7de18782",
+        "Name": "Starr vor Schreck",
+        "Location": "Abalathisches Wolkenmeer",
+        "Level": 57,
+        "JournalSection": 3,
+        "JournalCategory": 44,
+        "JournalGenre": "Aufträge Abalathia",
+        "Url": "/lodestone/playguide/db/quest/20c7de18782/",
+        "Image": null,
+        "Icon": "common_normal",
+        "Issuer": "Opfer-Zundo",
+        "StartLocation": {
+            "Name": "Abalathisches Wolkenmeer",
+            "X": "17.7",
+            "Y": "17.6"
+        },
+        "StartClass": null,
+        "Job": "",
+        "Company": "Keine Angabe",
+        "Requirement": "Keine Angabe",
+        "Rewards": {
+            "Gil": 742,
+            "Exp": 38400,
+            "ItemsMand": [],
+            "ItemsOpt": []
+        },
+        "Infos": {
+            "PrevQuests": [
+                {
+                    "Name": "Himmlischer Köder",
+                    "Url": "/lodestone/playguide/db/quest/a54bd372189/",
+                    "Area": "Abalathisches Wolkenmeer",
+                    "Level": "57"
+                }
+            ],
+            "NextQuests": [
+                {
+                    "Name": "Aanu Vanu",
+                    "Url": "/lodestone/playguide/db/npc/npc/7d521699989/",
+                    "Area": "Abalathisches Wolkenmeer (X:12.5 Y:14.4)"
+                }
+            ]
+        },
+        "Seq": 25,
+        "oldID": 67457,
+        "Map": {
+            "ID": 215
+        }
+    },
+    {
+        "ID": "291348387d7",
+        "Name": "Der Geschmack der Kindheit",
+        "Location": "Abalathisches Wolkenmeer",
+        "Level": 57,
+        "JournalSection": 3,
+        "JournalCategory": 44,
+        "JournalGenre": "Aufträge Abalathia",
+        "Url": "/lodestone/playguide/db/quest/291348387d7/",
+        "Image": null,
+        "Icon": "common_normal",
+        "Issuer": "Conu Vanu",
+        "StartLocation": {
+            "Name": "Abalathisches Wolkenmeer",
+            "X": "11.1",
+            "Y": "13.5"
+        },
+        "StartClass": null,
+        "Job": "",
+        "Company": "Keine Angabe",
+        "Requirement": "Keine Angabe",
+        "Rewards": {
+            "Gil": 564,
+            "Exp": 38400,
+            "ItemsMand": [],
+            "ItemsOpt": []
+        },
+        "Infos": {
+            "PrevQuests": [
+                {
+                    "Name": "Weißes Kind, nun Wolkengott",
+                    "Url": "/lodestone/playguide/db/quest/563c24561fe/",
+                    "Area": "Abalathisches Wolkenmeer",
+                    "Level": "57"
+                }
+            ]
+        },
+        "Seq": 16,
+        "oldID": 67443,
+        "Map": {
+            "ID": 215
+        }
+    },
+    {
+        "ID": "2a0d5542429",
+        "Name": "Messerscharfe Krallen",
+        "Location": "Abalathisches Wolkenmeer",
+        "Level": 57,
+        "JournalSection": 3,
+        "JournalCategory": 44,
+        "JournalGenre": "Aufträge Abalathia",
+        "Url": "/lodestone/playguide/db/quest/2a0d5542429/",
+        "Image": null,
+        "Icon": "common_normal",
+        "Issuer": "Hinu Vali",
+        "StartLocation": {
+            "Name": "Abalathisches Wolkenmeer",
+            "X": "11.1",
+            "Y": "13.5"
+        },
+        "StartClass": null,
+        "Job": "",
+        "Company": "Keine Angabe",
+        "Requirement": "Keine Angabe",
+        "Rewards": {
+            "Gil": 564,
+            "Exp": 38400,
+            "ItemsMand": [],
+            "ItemsOpt": []
+        },
+        "Infos": {
+            "PrevQuests": [
+                {
+                    "Name": "Weißes Kind, nun Wolkengott",
+                    "Url": "/lodestone/playguide/db/quest/563c24561fe/",
+                    "Area": "Abalathisches Wolkenmeer",
+                    "Level": "57"
+                }
+            ]
+        },
+        "Seq": 17,
+        "oldID": 67444,
+        "Map": {
+            "ID": 215
+        }
+    },
+    {
+        "ID": "2de1162d2dc",
+        "Name": "Frisch vom Feld auf die Teller",
+        "Location": "Abalathisches Wolkenmeer",
+        "Level": 50,
+        "JournalSection": 3,
+        "JournalCategory": 44,
+        "JournalGenre": "Aufträge Abalathia",
+        "Url": "/lodestone/playguide/db/quest/2de1162d2dc/",
+        "Image": null,
+        "Icon": "common_normal",
+        "Issuer": "Caribault",
+        "StartLocation": {
+            "Name": "Abalathisches Wolkenmeer",
+            "X": "9.3",
+            "Y": "35.0"
+        },
+        "StartClass": null,
+        "Job": "",
+        "Company": "Keine Angabe",
+        "Requirement": "Keine Angabe",
+        "Rewards": {
+            "Gil": 517,
+            "Exp": 24000,
+            "ItemsMand": [],
+            "ItemsOpt": []
+        },
+        "Infos": {
+            "PrevQuests": [
+                {
+                    "Name": "Zu neuem Glanz",
+                    "Url": "/lodestone/playguide/db/quest/da4fd01f849/",
+                    "Area": "Empfangszimmer",
+                    "Level": "50"
+                }
+            ]
+        },
+        "Seq": 12,
+        "oldID": 67274,
+        "Map": {
+            "ID": 215
+        }
+    },
+    {
+        "ID": "2e181ce4208",
+        "Name": "Fruchtbare Erde",
+        "Location": "Abalathisches Wolkenmeer",
+        "Level": 56,
+        "JournalSection": 3,
+        "JournalCategory": 44,
+        "JournalGenre": "Aufträge Abalathia",
+        "Url": "/lodestone/playguide/db/quest/2e181ce4208/",
+        "Image": null,
+        "Icon": "common_normal",
+        "Issuer": "Caribault",
+        "StartLocation": {
+            "Name": "Abalathisches Wolkenmeer",
+            "X": "9.3",
+            "Y": "35.0"
+        },
+        "StartClass": null,
+        "Job": "",
+        "Company": "Keine Angabe",
+        "Requirement": "Keine Angabe",
+        "Rewards": {
+            "Gil": 527,
+            "Exp": 36000,
+            "ItemsMand": [],
+            "ItemsOpt": []
+        },
+        "Infos": {
+            "PrevQuests": [
+                {
+                    "Name": "Wild entschlossen",
+                    "Url": "/lodestone/playguide/db/quest/502fe826ab0/",
+                    "Area": "Ishgard",
+                    "Level": "56"
+                },
+                {
+                    "Name": "Zum Gedenken",
+                    "Url": "/lodestone/playguide/db/quest/675895e15c9/",
+                    "Area": "Ishgard",
+                    "Level": "56"
+                }
+            ]
+        },
+        "Seq": 15,
+        "oldID": 67438,
+        "Map": {
+            "ID": 215
+        }
+    },
+    {
+        "ID": "34698be0632",
+        "Name": "Filigranmembran",
+        "Location": "Abalathisches Wolkenmeer",
+        "Level": 50,
+        "JournalSection": 3,
+        "JournalCategory": 44,
+        "JournalGenre": "Aufträge Abalathia",
+        "Url": "/lodestone/playguide/db/quest/34698be0632/",
+        "Image": null,
+        "Icon": "function_normal",
+        "Issuer": "Laniaitte",
+        "StartLocation": {
+            "Name": "Abalathisches Wolkenmeer",
+            "X": "17.0",
+            "Y": "37.3"
+        },
+        "StartClass": null,
+        "Job": "",
+        "Company": "Keine Angabe",
+        "Requirement": "Keine Angabe",
+        "Rewards": {
+            "Gil": 517,
+            "Exp": 24000,
+            "ItemsMand": [
+                {
+                    "Icon": "https://img.finalfantasyxiv.com/lds/pc/global/images/itemicon/af/af26e4b79fb1de83550f6ddbd3a170408fcfe702.png?n5.5",
+                    "Name": "",
+                    "Amount": null
+                }
+            ],
+            "ItemsOpt": []
+        },
+        "Infos": {
+            "PrevQuests": [
+                {
+                    "Name": "Die Audienz",
+                    "Url": "/lodestone/playguide/db/quest/c30cb94ef47/",
+                    "Area": "Ishgard",
+                    "Level": "50"
+                }
+            ]
+        },
+        "Seq": 2,
+        "oldID": 67284,
+        "Map": {
+            "ID": 215
+        }
+    },
+    {
+        "ID": "35d4cb04163",
+        "Name": "Die Legende der Mogrys",
+        "Location": "Abalathisches Wolkenmeer",
+        "Level": 59,
+        "JournalSection": 3,
+        "JournalCategory": 44,
+        "JournalGenre": "Aufträge Abalathia",
+        "Url": "/lodestone/playguide/db/quest/35d4cb04163/",
+        "Image": "https://img.finalfantasyxiv.com/lds/pc/global/images/itemicon/b6/b634b02713c04db844bf6cedb24dbbc71781cc65.png?n5.5",
+        "Icon": "common_normal",
+        "Issuer": "Kupli Kuki",
+        "StartLocation": {
+            "Name": "Abalathisches Wolkenmeer",
+            "X": "37.2",
+            "Y": "33.7"
+        },
+        "StartClass": null,
+        "Job": "",
+        "Company": "Keine Angabe",
+        "Requirement": "Keine Angabe",
+        "Rewards": {
+            "Gil": 1038,
+            "Exp": 43200,
+            "ItemsMand": [],
+            "ItemsOpt": []
+        },
+        "Infos": {
+            "PrevQuests": [
+                {
+                    "Name": "Äther für die Ramme",
+                    "Url": "/lodestone/playguide/db/quest/17ec1e31564/",
+                    "Area": "Matoyas Höhle",
+                    "Level": "59"
+                },
+                {
+                    "Name": "Dreistes Mogrynapping",
+                    "Url": "/lodestone/playguide/db/quest/b1723b3ebab/",
+                    "Area": "Abalathisches Wolkenmeer",
+                    "Level": "59"
+                }
+            ],
+            "NextQuests": [
+                {
+                    "Name": "Ahnenforschung",
+                    "Url": "/lodestone/playguide/db/quest/aa69859f72e/",
+                    "Area": "Wallende Nebel",
+                    "Level": "59"
+                }
+            ],
+            "NPCs": [
+                {
+                    "Name": "Flatter-Mogry",
+                    "Url": "/lodestone/playguide/db/npc/npc/a2453aa611a/",
+                    "Area": "Abalathisches Wolkenmeer (X:37.2 Y:33.7)"
+                },
+                {
+                    "Name": "Flausch-Mogry",
+                    "Url": "/lodestone/playguide/db/npc/npc/1630d348829/",
+                    "Area": "Abalathisches Wolkenmeer (X:37.2 Y:33.7)"
+                },
+                {
+                    "Name": "Moglin",
+                    "Url": "/lodestone/playguide/db/npc/npc/3f4711a3aeb/",
+                    "Area": "Wallende Nebel (X:30.1 Y:36.5)"
+                },
+                {
+                    "Name": "Mogule",
+                    "Url": "/lodestone/playguide/db/npc/npc/5fe9d33dc61/",
+                    "Area": "Wallende Nebel (X:29.4 Y:33.6)"
+                }
+            ]
+        },
+        "Seq": 34,
+        "oldID": 67513,
+        "Map": {
+            "ID": 215
+        }
+    },
+    {
+        "ID": "5299aeff726",
+        "Name": "Lästige Fliegen",
+        "Location": "Abalathisches Wolkenmeer",
+        "Level": 57,
+        "JournalSection": 3,
+        "JournalCategory": 44,
+        "JournalGenre": "Aufträge Abalathia",
+        "Url": "/lodestone/playguide/db/quest/5299aeff726/",
+        "Image": null,
+        "Icon": "function_normal",
+        "Issuer": "Ganu Vali",
+        "StartLocation": {
+            "Name": "Abalathisches Wolkenmeer",
+            "X": "9.6",
+            "Y": "14.2"
+        },
+        "StartClass": null,
+        "Job": "",
+        "Company": "Keine Angabe",
+        "Requirement": "Keine Angabe",
+        "Rewards": {
+            "Gil": 684,
+            "Exp": 38400,
+            "ItemsMand": [
+                {
+                    "Icon": "https://img.finalfantasyxiv.com/lds/pc/global/images/itemicon/af/af26e4b79fb1de83550f6ddbd3a170408fcfe702.png?n5.5",
+                    "Name": "",
+                    "Amount": null
+                }
+            ],
+            "ItemsOpt": []
+        },
+        "Infos": {
+            "PrevQuests": [
+                {
+                    "Name": "Weißes Kind, nun Wolkengott",
+                    "Url": "/lodestone/playguide/db/quest/563c24561fe/",
+                    "Area": "Abalathisches Wolkenmeer",
+                    "Level": "57"
+                }
+            ]
+        },
+        "Seq": 18,
+        "oldID": 67445,
+        "Map": {
+            "ID": 215
+        }
+    },
+    {
+        "ID": "657dba7d6d9",
+        "Name": "Der Schlüssel zur Freiheit",
+        "Location": "Abalathisches Wolkenmeer",
+        "Level": 57,
+        "JournalSection": 3,
+        "JournalCategory": 44,
+        "JournalGenre": "Aufträge Abalathia",
+        "Url": "/lodestone/playguide/db/quest/657dba7d6d9/",
+        "Image": null,
+        "Icon": "common_normal",
+        "Issuer": "Gefangener Zundo",
+        "StartLocation": {
+            "Name": "Abalathisches Wolkenmeer",
+            "X": "31.3",
+            "Y": "13.8"
+        },
+        "StartClass": null,
+        "Job": "",
+        "Company": "Keine Angabe",
+        "Requirement": "Keine Angabe",
+        "Rewards": {
+            "Gil": 840,
+            "Exp": 38400,
+            "ItemsMand": [],
+            "ItemsOpt": []
+        },
+        "Infos": {
+            "PrevQuests": [
+                {
+                    "Name": "Himmlischer Köder",
+                    "Url": "/lodestone/playguide/db/quest/a54bd372189/",
+                    "Area": "Abalathisches Wolkenmeer",
+                    "Level": "57"
+                },
+                {
+                    "Name": "Achtung, Spione!",
+                    "Url": "/lodestone/playguide/db/quest/a3f62f59b82/",
+                    "Area": "Abalathisches Wolkenmeer",
+                    "Level": "57"
+                }
+            ],
+            "NextQuests": [
+                {
+                    "Name": "Gefangen von den Wilden",
+                    "Url": "/lodestone/playguide/db/quest/01c998ebeaf/",
+                    "Area": "Abalathisches Wolkenmeer",
+                    "Level": "57"
+                }
+            ],
+            "NPCs": [
+                {
+                    "Name": "Befreiter Zundo",
+                    "Url": "/lodestone/playguide/db/npc/npc/a98ac05aa36/",
+                    "Area": "Abalathisches Wolkenmeer (X:12.3 Y:11.3)"
+                }
+            ]
+        },
+        "Seq": 23,
+        "oldID": 67455,
+        "Map": {
+            "ID": 215
+        }
+    },
+    {
+        "ID": "680ec41d73e",
+        "Name": "Vermisste Ritter",
+        "Location": "Abalathisches Wolkenmeer",
+        "Level": 56,
+        "JournalSection": 3,
+        "JournalCategory": 44,
+        "JournalGenre": "Aufträge Abalathia",
+        "Url": "/lodestone/playguide/db/quest/680ec41d73e/",
+        "Image": null,
+        "Icon": "common_normal",
+        "Issuer": "Laniaitte",
+        "StartLocation": {
+            "Name": "Abalathisches Wolkenmeer",
+            "X": "17.0",
+            "Y": "37.3"
+        },
+        "StartClass": null,
+        "Job": "",
+        "Company": "Keine Angabe",
+        "Requirement": "Keine Angabe",
+        "Rewards": {
+            "Gil": 496,
+            "Exp": 36000,
+            "ItemsMand": [],
+            "ItemsOpt": []
+        },
+        "Infos": {
+            "PrevQuests": [
+                {
+                    "Name": "Wild entschlossen",
+                    "Url": "/lodestone/playguide/db/quest/502fe826ab0/",
+                    "Area": "Ishgard",
+                    "Level": "56"
+                },
+                {
+                    "Name": "Zum Gedenken",
+                    "Url": "/lodestone/playguide/db/quest/675895e15c9/",
+                    "Area": "Ishgard",
+                    "Level": "56"
+                }
+            ],
+            "NextQuests": [
+                {
+                    "Name": "Rosenkavallerist",
+                    "Url": "/lodestone/playguide/db/npc/npc/d56de1bf58c/",
+                    "Area": "Abalathisches Wolkenmeer (X:24.9 Y:31.1)"
+                },
+                {
+                    "Name": "Rosenkavallerist",
+                    "Url": "/lodestone/playguide/db/npc/npc/11d128f575f/",
+                    "Area": "Abalathisches Wolkenmeer (X:24.6 Y:31.2)"
+                },
+                {
+                    "Name": "Rosenkavallerist",
+                    "Url": "/lodestone/playguide/db/npc/npc/d9324b5c71a/",
+                    "Area": "Abalathisches Wolkenmeer (X:24.9 Y:31.3)"
+                }
+            ]
+        },
+        "Seq": 14,
+        "oldID": 67437,
+        "Map": {
+            "ID": 215
+        }
+    },
+    {
+        "ID": "80ea9905a75",
+        "Name": "Erst die Nüsse, dann der Mogry",
+        "Location": "Abalathisches Wolkenmeer",
+        "Level": 59,
+        "JournalSection": 3,
+        "JournalCategory": 44,
+        "JournalGenre": "Aufträge Abalathia",
+        "Url": "/lodestone/playguide/db/quest/80ea9905a75/",
+        "Image": "https://img.finalfantasyxiv.com/lds/pc/global/images/itemicon/b6/b634b02713c04db844bf6cedb24dbbc71781cc65.png?n5.5",
+        "Icon": "common_normal",
+        "Issuer": "Kupli Kuki",
+        "StartLocation": {
+            "Name": "Abalathisches Wolkenmeer",
+            "X": "15.8",
+            "Y": "10.3"
+        },
+        "StartClass": null,
+        "Job": "",
+        "Company": "Keine Angabe",
+        "Requirement": "Keine Angabe",
+        "Rewards": {
+            "Gil": 577,
+            "Exp": 43200,
+            "ItemsMand": [],
+            "ItemsOpt": []
+        },
+        "Infos": {
+            "PrevQuests": [
+                {
+                    "Name": "Äther für die Ramme",
+                    "Url": "/lodestone/playguide/db/quest/17ec1e31564/",
+                    "Area": "Matoyas Höhle",
+                    "Level": "59"
+                },
+                {
+                    "Name": "Auf den Spuren der Mogrys",
+                    "Url": "/lodestone/playguide/db/quest/80f464e48af/",
+                    "Area": "Abalathisches Wolkenmeer",
+                    "Level": "59"
+                }
+            ],
+            "NextQuests": [
+                {
+                    "Name": "Dreistes Mogrynapping",
+                    "Url": "/lodestone/playguide/db/quest/b1723b3ebab/",
+                    "Area": "Abalathisches Wolkenmeer",
+                    "Level": "59"
+                }
+            ],
+            "NPCs": [
+                {
+                    "Name": "Flausch-Mogry",
+                    "Url": "/lodestone/playguide/db/npc/npc/98904cb98e7/",
+                    "Area": "Abalathisches Wolkenmeer (X:15.8 Y:10.3)"
+                },
+                {
+                    "Name": "Flausch-Mogry",
+                    "Url": "/lodestone/playguide/db/npc/npc/3795b466a07/",
+                    "Area": "Abalathisches Wolkenmeer (X:35.3 Y:8.2)"
+                },
+                {
+                    "Name": "Kupli Kuki",
+                    "Url": "/lodestone/playguide/db/npc/npc/1dcb62cf32e/",
+                    "Area": "Abalathisches Wolkenmeer (X:35.3 Y:8.2)"
+                }
+            ]
+        },
+        "Seq": 32,
+        "oldID": 67511,
+        "Map": {
+            "ID": 215
+        }
+    },
+    {
+        "ID": "80f464e48af",
+        "Name": "Auf den Spuren der Mogrys",
+        "Location": "Abalathisches Wolkenmeer",
+        "Level": 59,
+        "JournalSection": 3,
+        "JournalCategory": 44,
+        "JournalGenre": "Aufträge Abalathia",
+        "Url": "/lodestone/playguide/db/quest/80f464e48af/",
+        "Image": "https://img.finalfantasyxiv.com/lds/pc/global/images/itemicon/b6/b634b02713c04db844bf6cedb24dbbc71781cc65.png?n5.5",
+        "Icon": "common_normal",
+        "Issuer": "Kupli Kuki",
+        "StartLocation": {
+            "Name": "Abalathisches Wolkenmeer",
+            "X": "15.8",
+            "Y": "10.3"
+        },
+        "StartClass": null,
+        "Job": "",
+        "Company": "Keine Angabe",
+        "Requirement": "Keine Angabe",
+        "Rewards": {
+            "Gil": 545,
+            "Exp": 43200,
+            "ItemsMand": [],
+            "ItemsOpt": []
+        },
+        "Infos": {
+            "PrevQuests": [
+                {
+                    "Name": "Äther für die Ramme",
+                    "Url": "/lodestone/playguide/db/quest/17ec1e31564/",
+                    "Area": "Matoyas Höhle",
+                    "Level": "59"
+                },
+                {
+                    "Name": "Verschollen im Wolkenmeer",
+                    "Url": "/lodestone/playguide/db/quest/c6ecce544ce/",
+                    "Area": "Wallende Nebel",
+                    "Level": "59"
+                }
+            ],
+            "NextQuests": [
+                {
+                    "Name": "Erst die Nüsse, dann der Mogry",
+                    "Url": "/lodestone/playguide/db/quest/80ea9905a75/",
+                    "Area": "Abalathisches Wolkenmeer",
+                    "Level": "59"
+                }
+            ],
+            "NPCs": [
+                {
+                    "Name": "Flausch-Mogry",
+                    "Url": "/lodestone/playguide/db/npc/npc/a5537f50c67/",
+                    "Area": "Abalathisches Wolkenmeer (X:26.6 Y:7.0)"
+                },
+                {
+                    "Name": "Flausch-Mogry",
+                    "Url": "/lodestone/playguide/db/npc/npc/98904cb98e7/",
+                    "Area": "Abalathisches Wolkenmeer (X:15.8 Y:10.3)"
+                }
+            ]
+        },
+        "Seq": 31,
+        "oldID": 67510,
+        "Map": {
+            "ID": 215
+        }
+    },
+    {
+        "ID": "855769abe34",
+        "Name": "Genug ist genug",
+        "Location": "Abalathisches Wolkenmeer",
+        "Level": 57,
+        "JournalSection": 3,
+        "JournalCategory": 44,
+        "JournalGenre": "Aufträge Abalathia",
+        "Url": "/lodestone/playguide/db/quest/855769abe34/",
+        "Image": null,
+        "Icon": "common_normal",
+        "Issuer": "Hinu Vali",
+        "StartLocation": {
+            "Name": "Abalathisches Wolkenmeer",
+            "X": "11.1",
+            "Y": "13.5"
+        },
+        "StartClass": null,
+        "Job": "",
+        "Company": "Keine Angabe",
+        "Requirement": "Keine Angabe",
+        "Rewards": {
+            "Gil": 622,
+            "Exp": 38400,
+            "ItemsMand": [
+                {
+                    "Icon": "https://img.finalfantasyxiv.com/lds/pc/global/images/itemicon/60/606b393d7113c4a3c6980dcac15d90d18ffc0222.png?n5.5",
+                    "Name": "Projektionsprisma",
+                    "Amount": 5,
+                    "Url": "/lodestone/playguide/db/item/58886c8cb88/"
+                }
+            ],
+            "ItemsOpt": []
+        },
+        "Infos": {
+            "PrevQuests": [
+                {
+                    "Name": "Himmlischer Köder",
+                    "Url": "/lodestone/playguide/db/quest/a54bd372189/",
+                    "Area": "Abalathisches Wolkenmeer",
+                    "Level": "57"
+                }
+            ]
+        },
+        "Seq": 19,
+        "oldID": 67448,
+        "Map": {
+            "ID": 215
+        }
+    },
+    {
+        "ID": "8a53f8711ce",
+        "Name": "Der Köchin kleiner Lieferservice",
+        "Location": "Abalathisches Wolkenmeer",
+        "Level": 50,
+        "JournalSection": 3,
+        "JournalCategory": 44,
+        "JournalGenre": "Aufträge Abalathia",
+        "Url": "/lodestone/playguide/db/quest/8a53f8711ce/",
+        "Image": null,
+        "Icon": "common_normal",
+        "Issuer": "Lagerköchin",
+        "StartLocation": {
+            "Name": "Abalathisches Wolkenmeer",
+            "X": "17.5",
+            "Y": "37.4"
+        },
+        "StartClass": null,
+        "Job": "",
+        "Company": "Keine Angabe",
+        "Requirement": "Keine Angabe",
+        "Rewards": {
+            "Gil": 433,
+            "Exp": 24000,
+            "ItemsMand": [],
+            "ItemsOpt": [
+                {
+                    "Icon": "https://img.finalfantasyxiv.com/lds/pc/global/images/itemicon/09/09570b3c3c46b1e8a52e8475c5b16cbcca432d97.png?n5.5",
+                    "Name": "Molchsteak",
+                    "Amount": 3,
+                    "Url": "/lodestone/playguide/db/item/3a8e51ad61f/"
+                },
+                {
+                    "Icon": "https://img.finalfantasyxiv.com/lds/pc/global/images/itemicon/72/72b57850dc26f184e59b08415ed63e6319f576de.png?n5.5",
+                    "Name": "Pilz-Kohlrouladen",
+                    "Amount": 3,
+                    "Url": "/lodestone/playguide/db/item/b85a5db91c8/"
+                },
+                {
+                    "Icon": "https://img.finalfantasyxiv.com/lds/pc/global/images/itemicon/da/da7216f73b0cc772e8f68f3feaf7d20bffa3f095.png?n5.5",
+                    "Name": "Glühtee",
+                    "Amount": 3,
+                    "Url": "/lodestone/playguide/db/item/e979df3a51d/"
+                }
+            ]
+        },
+        "Infos": {
+            "PrevQuests": [
+                {
+                    "Name": "Fette Beute",
+                    "Url": "/lodestone/playguide/db/quest/6e8692318d9/",
+                    "Area": "Abalathisches Wolkenmeer",
+                    "Level": "50"
+                }
+            ],
+            "NextQuests": [
+                {
+                    "Name": "Gildon",
+                    "Url": "/lodestone/playguide/db/npc/npc/86d882da4a4/",
+                    "Area": "Abalathisches Wolkenmeer (X:15.6 Y:39.2)"
+                },
+                {
+                    "Name": "Laniaitte",
+                    "Url": "/lodestone/playguide/db/npc/npc/eceacc0b266/",
+                    "Area": "Abalathisches Wolkenmeer (X:17.0 Y:37.3)"
+                },
+                {
+                    "Name": "Marielle",
+                    "Url": "/lodestone/playguide/db/npc/npc/5badaea7330/",
+                    "Area": "Abalathisches Wolkenmeer (X:15.3 Y:37.7)"
+                }
+            ]
+        },
+        "Seq": 1,
+        "oldID": 67275,
+        "Map": {
+            "ID": 215
+        }
+    },
+    {
+        "ID": "8aa5aa4596a",
+        "Name": "Jagd auf Dhalmele",
+        "Location": "Abalathisches Wolkenmeer",
+        "Level": 56,
+        "JournalSection": 3,
+        "JournalCategory": 44,
+        "JournalGenre": "Aufträge Abalathia",
+        "Url": "/lodestone/playguide/db/quest/8aa5aa4596a/",
+        "Image": null,
+        "Icon": "common_normal",
+        "Issuer": "Gildon",
+        "StartLocation": {
+            "Name": "Abalathisches Wolkenmeer",
+            "X": "15.6",
+            "Y": "39.2"
+        },
+        "StartClass": null,
+        "Job": "",
+        "Company": "Keine Angabe",
+        "Requirement": "Keine Angabe",
+        "Rewards": {
+            "Gil": 496,
+            "Exp": 36000,
+            "ItemsMand": [],
+            "ItemsOpt": []
+        },
+        "Infos": {
+            "PrevQuests": [
+                {
+                    "Name": "Wild entschlossen",
+                    "Url": "/lodestone/playguide/db/quest/502fe826ab0/",
+                    "Area": "Ishgard",
+                    "Level": "56"
+                },
+                {
+                    "Name": "Zum Gedenken",
+                    "Url": "/lodestone/playguide/db/quest/675895e15c9/",
+                    "Area": "Ishgard",
+                    "Level": "56"
+                },
+                {
+                    "Name": "Mundraub",
+                    "Url": "/lodestone/playguide/db/quest/ef8cb27278d/",
+                    "Area": "Abalathisches Wolkenmeer",
+                    "Level": "56"
+                }
+            ]
+        },
+        "Seq": 11,
+        "oldID": 67440,
+        "Map": {
+            "ID": 215
+        }
+    },
+    {
+        "ID": "a3f62f59b82",
+        "Name": "Achtung, Spione!",
+        "Location": "Abalathisches Wolkenmeer",
+        "Level": 57,
+        "JournalSection": 3,
+        "JournalCategory": 44,
+        "JournalGenre": "Aufträge Abalathia",
+        "Url": "/lodestone/playguide/db/quest/a3f62f59b82/",
+        "Image": null,
+        "Icon": "common_normal",
+        "Issuer": "Zundo-Spion",
+        "StartLocation": {
+            "Name": "Abalathisches Wolkenmeer",
+            "X": "23.0",
+            "Y": "19.8"
+        },
+        "StartClass": null,
+        "Job": "",
+        "Company": "Keine Angabe",
+        "Requirement": "Keine Angabe",
+        "Rewards": {
+            "Gil": 622,
+            "Exp": 38400,
+            "ItemsMand": [],
+            "ItemsOpt": []
+        },
+        "Infos": {
+            "PrevQuests": [
+                {
+                    "Name": "Himmlischer Köder",
+                    "Url": "/lodestone/playguide/db/quest/a54bd372189/",
+                    "Area": "Abalathisches Wolkenmeer",
+                    "Level": "57"
+                }
+            ],
+            "NextQuests": [
+                {
+                    "Name": "Der Schlüssel zur Freiheit",
+                    "Url": "/lodestone/playguide/db/quest/657dba7d6d9/",
+                    "Area": "Abalathisches Wolkenmeer",
+                    "Level": "57"
+                }
+            ],
+            "NPCs": [
+                {
+                    "Name": "Sonu Vanu",
+                    "Url": "/lodestone/playguide/db/npc/npc/86fa51a3d8e/",
+                    "Area": "Abalathisches Wolkenmeer (X:11.7 Y:14.8)"
+                },
+                {
+                    "Name": "Versteckter Zundo",
+                    "Url": "/lodestone/playguide/db/npc/npc/3d63e4ecd9e/",
+                    "Area": "Abalathisches Wolkenmeer (X:27.3 Y:24.9)"
+                },
+                {
+                    "Name": "Versteckter Zundo",
+                    "Url": "/lodestone/playguide/db/npc/npc/6090eb9eebd/",
+                    "Area": "Abalathisches Wolkenmeer (X:20.3 Y:14.6)"
+                },
+                {
+                    "Name": "Versteckter Zundo",
+                    "Url": "/lodestone/playguide/db/npc/npc/5f1718c19af/",
+                    "Area": "Abalathisches Wolkenmeer (X:27.0 Y:21.6)"
+                }
+            ]
+        },
+        "Seq": 22,
+        "oldID": 67456,
+        "Map": {
+            "ID": 215
+        }
+    },
+    {
+        "ID": "aa2e3045686",
+        "Name": "Sag mir, wo die Drachen sind",
+        "Location": "Abalathisches Wolkenmeer",
+        "Level": 50,
+        "JournalSection": 3,
+        "JournalCategory": 44,
+        "JournalGenre": "Aufträge Abalathia",
+        "Url": "/lodestone/playguide/db/quest/aa2e3045686/",
+        "Image": "https://img.finalfantasyxiv.com/lds/pc/global/images/itemicon/3f/3fc2887b990cd4cd50ab9fd9216b2460932e898c.png?n5.5",
+        "Icon": "common_normal",
+        "Issuer": "Gildon",
+        "StartLocation": {
+            "Name": "Abalathisches Wolkenmeer",
+            "X": "15.6",
+            "Y": "39.2"
+        },
+        "StartClass": null,
+        "Job": "",
+        "Company": "Keine Angabe",
+        "Requirement": "Keine Angabe",
+        "Rewards": {
+            "Gil": 574,
+            "Exp": 24000,
+            "ItemsMand": [],
+            "ItemsOpt": [
+                {
+                    "Icon": "https://img.finalfantasyxiv.com/lds/pc/global/images/itemicon/4c/4c1bc19cca1e8074cdfb3898c3e7e91c76c892b4.png?n5.5",
+                    "Name": "Mythrit-Ohrringe der Verteidigung",
+                    "Amount": 1,
+                    "Url": "/lodestone/playguide/db/item/e6573ea0474/?hq=1"
+                },
+                {
+                    "Icon": "https://img.finalfantasyxiv.com/lds/pc/global/images/itemicon/4c/4c1bc19cca1e8074cdfb3898c3e7e91c76c892b4.png?n5.5",
+                    "Name": "Mythrit-Ohrringe des Schlachtens",
+                    "Amount": 1,
+                    "Url": "/lodestone/playguide/db/item/7898343ff58/?hq=1"
+                },
+                {
+                    "Icon": "https://img.finalfantasyxiv.com/lds/pc/global/images/itemicon/4c/4c1bc19cca1e8074cdfb3898c3e7e91c76c892b4.png?n5.5",
+                    "Name": "Mythrit-Ohrringe des Zielens",
+                    "Amount": 1,
+                    "Url": "/lodestone/playguide/db/item/aa65bcb61ad/?hq=1"
+                },
+                {
+                    "Icon": "https://img.finalfantasyxiv.com/lds/pc/global/images/itemicon/4c/4c1bc19cca1e8074cdfb3898c3e7e91c76c892b4.png?n5.5",
+                    "Name": "Mythrit-Ohrringe der Heilung",
+                    "Amount": 1,
+                    "Url": "/lodestone/playguide/db/item/5f573003830/?hq=1"
+                },
+                {
+                    "Icon": "https://img.finalfantasyxiv.com/lds/pc/global/images/itemicon/4c/4c1bc19cca1e8074cdfb3898c3e7e91c76c892b4.png?n5.5",
+                    "Name": "Mythrit-Ohrringe der Magie",
+                    "Amount": 1,
+                    "Url": "/lodestone/playguide/db/item/d997c096906/?hq=1"
+                }
+            ]
+        },
+        "Infos": {
+            "PrevQuests": [
+                {
+                    "Name": "Beistand für Camp Wolkenwipfel",
+                    "Url": "/lodestone/playguide/db/quest/bc979e21d1c/",
+                    "Area": "Anwesen der Fortemps",
+                    "Level": "50"
+                },
+                {
+                    "Name": "Ernährungsberatung",
+                    "Url": "/lodestone/playguide/db/quest/b0a8ae85193/",
+                    "Area": "Abalathisches Wolkenmeer",
+                    "Level": "50"
+                }
+            ],
+            "NextQuests": [
+                {
+                    "Name": "Neugierige Vögel",
+                    "Url": "/lodestone/playguide/db/quest/d3adf8c7f26/",
+                    "Area": "Abalathisches Wolkenmeer",
+                    "Level": "50"
+                }
+            ],
+            "NPCs": [
+                {
+                    "Name": "Caribault",
+                    "Url": "/lodestone/playguide/db/npc/npc/7dcf222383b/",
+                    "Area": "Abalathisches Wolkenmeer (X:9.3 Y:35.0)"
+                },
+                {
+                    "Name": "Harmiette",
+                    "Url": "/lodestone/playguide/db/npc/npc/333abc0f493/",
+                    "Area": "Abalathisches Wolkenmeer (X:10.5 Y:33.7)"
+                },
+                {
+                    "Name": "Jauminfrest",
+                    "Url": "/lodestone/playguide/db/npc/npc/0c905edd5a6/",
+                    "Area": "Abalathisches Wolkenmeer (X:8.0 Y:32.2)"
+                },
+                {
+                    "Name": "Vanu-Späher",
+                    "Url": "/lodestone/playguide/db/npc/npc/a7dbc6f1a38/",
+                    "Area": "Abalathisches Wolkenmeer (X:19.9 Y:32.8)"
+                }
+            ]
+        },
+        "Seq": 4,
+        "oldID": 67277,
+        "Map": {
+            "ID": 215
+        }
+    },
+    {
+        "ID": "b0a8ae85193",
+        "Name": "Ernährungsberatung",
+        "Location": "Abalathisches Wolkenmeer",
+        "Level": 50,
+        "JournalSection": 3,
+        "JournalCategory": 44,
+        "JournalGenre": "Aufträge Abalathia",
+        "Url": "/lodestone/playguide/db/quest/b0a8ae85193/",
+        "Image": "https://img.finalfantasyxiv.com/lds/pc/global/images/itemicon/3f/3fc2887b990cd4cd50ab9fd9216b2460932e898c.png?n5.5",
+        "Icon": "common_normal",
+        "Issuer": "Gildon",
+        "StartLocation": {
+            "Name": "Abalathisches Wolkenmeer",
+            "X": "15.6",
+            "Y": "39.2"
+        },
+        "StartClass": null,
+        "Job": "",
+        "Company": "Keine Angabe",
+        "Requirement": "Keine Angabe",
+        "Rewards": {
+            "Gil": 517,
+            "Exp": 24000,
+            "ItemsMand": [],
+            "ItemsOpt": []
+        },
+        "Infos": {
+            "PrevQuests": [
+                {
+                    "Name": "Beistand für Camp Wolkenwipfel",
+                    "Url": "/lodestone/playguide/db/quest/bc979e21d1c/",
+                    "Area": "Anwesen der Fortemps",
+                    "Level": "50"
+                }
+            ],
+            "NextQuests": [
+                {
+                    "Name": "Sag mir, wo die Drachen sind",
+                    "Url": "/lodestone/playguide/db/quest/aa2e3045686/",
+                    "Area": "Abalathisches Wolkenmeer",
+                    "Level": "50"
+                }
+            ],
+            "NPCs": [
+                {
+                    "Name": "Fabrellet",
+                    "Url": "/lodestone/playguide/db/npc/npc/864646bd557/",
+                    "Area": "Abalathisches Wolkenmeer (X:9.7 Y:31.9)"
+                }
+            ]
+        },
+        "Seq": 3,
+        "oldID": 67276,
+        "Map": {
+            "ID": 215
+        }
+    },
+    {
+        "ID": "b1723b3ebab",
+        "Name": "Dreistes Mogrynapping",
+        "Location": "Abalathisches Wolkenmeer",
+        "Level": 59,
+        "JournalSection": 3,
+        "JournalCategory": 44,
+        "JournalGenre": "Aufträge Abalathia",
+        "Url": "/lodestone/playguide/db/quest/b1723b3ebab/",
+        "Image": "https://img.finalfantasyxiv.com/lds/pc/global/images/itemicon/b6/b634b02713c04db844bf6cedb24dbbc71781cc65.png?n5.5",
+        "Icon": "common_normal",
+        "Issuer": "Kupli Kuki",
+        "StartLocation": {
+            "Name": "Abalathisches Wolkenmeer",
+            "X": "35.3",
+            "Y": "8.2"
+        },
+        "StartClass": null,
+        "Job": "",
+        "Company": "Keine Angabe",
+        "Requirement": "Keine Angabe",
+        "Rewards": {
+            "Gil": 609,
+            "Exp": 43200,
+            "ItemsMand": [],
+            "ItemsOpt": []
+        },
+        "Infos": {
+            "PrevQuests": [
+                {
+                    "Name": "Äther für die Ramme",
+                    "Url": "/lodestone/playguide/db/quest/17ec1e31564/",
+                    "Area": "Matoyas Höhle",
+                    "Level": "59"
+                },
+                {
+                    "Name": "Erst die Nüsse, dann der Mogry",
+                    "Url": "/lodestone/playguide/db/quest/80ea9905a75/",
+                    "Area": "Abalathisches Wolkenmeer",
+                    "Level": "59"
+                }
+            ],
+            "NextQuests": [
+                {
+                    "Name": "Die Legende der Mogrys",
+                    "Url": "/lodestone/playguide/db/quest/35d4cb04163/",
+                    "Area": "Abalathisches Wolkenmeer",
+                    "Level": "59"
+                }
+            ],
+            "NPCs": [
+                {
+                    "Name": "Flatter-Mogry",
+                    "Url": "/lodestone/playguide/db/npc/npc/a2453aa611a/",
+                    "Area": "Abalathisches Wolkenmeer (X:37.2 Y:33.7)"
+                },
+                {
+                    "Name": "Flatter-Mogry",
+                    "Url": "/lodestone/playguide/db/npc/npc/41aced17c08/",
+                    "Area": "Abalathisches Wolkenmeer (X:35.5 Y:35.6)"
+                },
+                {
+                    "Name": "Flausch-Mogry",
+                    "Url": "/lodestone/playguide/db/npc/npc/3795b466a07/",
+                    "Area": "Abalathisches Wolkenmeer (X:35.3 Y:8.2)"
+                },
+                {
+                    "Name": "Flausch-Mogry",
+                    "Url": "/lodestone/playguide/db/npc/npc/1630d348829/",
+                    "Area": "Abalathisches Wolkenmeer (X:37.2 Y:33.7)"
+                },
+                {
+                    "Name": "Kupli Kuki",
+                    "Url": "/lodestone/playguide/db/npc/npc/24584963646/",
+                    "Area": "Abalathisches Wolkenmeer (X:37.2 Y:33.7)"
+                }
+            ]
+        },
+        "Seq": 33,
+        "oldID": 67512,
+        "Map": {
+            "ID": 215
+        }
+    },
+    {
+        "ID": "bc06a070806",
+        "Name": "Gastornis-Züchter",
+        "Location": "Abalathisches Wolkenmeer",
+        "Level": 56,
+        "JournalSection": 3,
+        "JournalCategory": 44,
+        "JournalGenre": "Aufträge Abalathia",
+        "Url": "/lodestone/playguide/db/quest/bc06a070806/",
+        "Image": null,
+        "Icon": "common_normal",
+        "Issuer": "Fabrellet",
+        "StartLocation": {
+            "Name": "Abalathisches Wolkenmeer",
+            "X": "9.7",
+            "Y": "31.9"
+        },
+        "StartClass": null,
+        "Job": "",
+        "Company": "Keine Angabe",
+        "Requirement": "Keine Angabe",
+        "Rewards": {
+            "Gil": 596,
+            "Exp": 36000,
+            "ItemsMand": [],
+            "ItemsOpt": []
+        },
+        "Infos": {
+            "PrevQuests": [
+                {
+                    "Name": "Wild entschlossen",
+                    "Url": "/lodestone/playguide/db/quest/502fe826ab0/",
+                    "Area": "Ishgard",
+                    "Level": "56"
+                },
+                {
+                    "Name": "Zum Gedenken",
+                    "Url": "/lodestone/playguide/db/quest/675895e15c9/",
+                    "Area": "Ishgard",
+                    "Level": "56"
+                },
+                {
+                    "Name": "In der Not frisst der Eufel Wisents",
+                    "Url": "/lodestone/playguide/db/quest/d1fa1a7aabe/",
+                    "Area": "Abalathisches Wolkenmeer",
+                    "Level": "56"
+                }
+            ]
+        },
+        "Seq": 13,
+        "oldID": 67439,
+        "Map": {
+            "ID": 215
+        }
+    },
+    {
+        "ID": "bee640fa8b7",
+        "Name": "Die gestohlenen Ausrüstungsgegenstände",
+        "Location": "Abalathisches Wolkenmeer",
+        "Level": 51,
+        "JournalSection": 3,
+        "JournalCategory": 44,
+        "JournalGenre": "Aufträge Abalathia",
+        "Url": "/lodestone/playguide/db/quest/bee640fa8b7/",
+        "Image": null,
+        "Icon": "common_normal",
+        "Issuer": "Terremiaux",
+        "StartLocation": {
+            "Name": "Abalathisches Wolkenmeer",
+            "X": "37.9",
+            "Y": "24.2"
+        },
+        "StartClass": null,
+        "Job": "",
+        "Company": "Keine Angabe",
+        "Requirement": "Keine Angabe",
+        "Rewards": {
+            "Gil": 496,
+            "Exp": 25200,
+            "ItemsMand": [],
+            "ItemsOpt": []
+        },
+        "Infos": {
+            "PrevQuests": [
+                {
+                    "Name": "Ein Plan nimmt Gestalt an",
+                    "Url": "/lodestone/playguide/db/quest/77cb6c15d41/",
+                    "Area": "Anwesen der Fortemps",
+                    "Level": "51"
+                },
+                {
+                    "Name": "Sicherheit geht vor",
+                    "Url": "/lodestone/playguide/db/quest/1aa2e50c5ce/",
+                    "Area": "Abalathisches Wolkenmeer",
+                    "Level": "51"
+                }
+            ],
+            "NextQuests": [
+                {
+                    "Name": "Laniaitte",
+                    "Url": "/lodestone/playguide/db/npc/npc/eceacc0b266/",
+                    "Area": "Abalathisches Wolkenmeer (X:17.0 Y:37.3)"
+                },
+                {
+                    "Name": "Rosenkavallerist",
+                    "Url": "/lodestone/playguide/db/npc/npc/5f70c1706d8/",
+                    "Area": "Abalathisches Wolkenmeer (X:34.0 Y:27.1)"
+                },
+                {
+                    "Name": "Rosenkavallerist",
+                    "Url": "/lodestone/playguide/db/npc/npc/6455d43266a/",
+                    "Area": "Abalathisches Wolkenmeer (X:34.0 Y:27.1)"
+                },
+                {
+                    "Name": "Rosenkavallerist",
+                    "Url": "/lodestone/playguide/db/npc/npc/5b3f58bdc72/",
+                    "Area": "Abalathisches Wolkenmeer (X:34.0 Y:27.1)"
+                },
+                {
+                    "Name": "Terremiaux",
+                    "Url": "/lodestone/playguide/db/npc/npc/82a832005a6/",
+                    "Area": "Abalathisches Wolkenmeer (X:34.1 Y:27.2)"
+                },
+                {
+                    "Name": "Verwundeter Ritter",
+                    "Url": "/lodestone/playguide/db/npc/npc/1f7b7bf8167/",
+                    "Area": "Abalathisches Wolkenmeer (X:34.0 Y:27.2)"
+                }
+            ]
+        },
+        "Seq": 9,
+        "oldID": 67294,
+        "Map": {
+            "ID": 215
+        }
+    },
+    {
+        "ID": "c2b6ca2a319",
+        "Name": "Hinter feindlichen Linien",
+        "Location": "Abalathisches Wolkenmeer",
+        "Level": 51,
+        "JournalSection": 3,
+        "JournalCategory": 44,
+        "JournalGenre": "Aufträge Abalathia",
+        "Url": "/lodestone/playguide/db/quest/c2b6ca2a319/",
+        "Image": null,
+        "Icon": "common_normal",
+        "Issuer": "Laniaitte",
+        "StartLocation": {
+            "Name": "Abalathisches Wolkenmeer",
+            "X": "17.0",
+            "Y": "37.3"
+        },
+        "StartClass": null,
+        "Job": "",
+        "Company": "Keine Angabe",
+        "Requirement": "Keine Angabe",
+        "Rewards": {
+            "Gil": 467,
+            "Exp": 25200,
+            "ItemsMand": [],
+            "ItemsOpt": []
+        },
+        "Infos": {
+            "PrevQuests": [
+                {
+                    "Name": "Ein Plan nimmt Gestalt an",
+                    "Url": "/lodestone/playguide/db/quest/77cb6c15d41/",
+                    "Area": "Anwesen der Fortemps",
+                    "Level": "51"
+                }
+            ],
+            "NextQuests": [
+                {
+                    "Name": "Sicherheit geht vor",
+                    "Url": "/lodestone/playguide/db/quest/1aa2e50c5ce/",
+                    "Area": "Abalathisches Wolkenmeer",
+                    "Level": "51"
+                }
+            ],
+            "NPCs": [
+                {
+                    "Name": "Terremiaux",
+                    "Url": "/lodestone/playguide/db/npc/npc/cb11355dfc7/",
+                    "Area": "Abalathisches Wolkenmeer (X:37.9 Y:24.2)"
+                },
+                {
+                    "Name": "Verwundeter Ritter",
+                    "Url": "/lodestone/playguide/db/npc/npc/1f7b7bf8167/",
+                    "Area": "Abalathisches Wolkenmeer (X:34.0 Y:27.2)"
+                }
+            ]
+        },
+        "Seq": 7,
+        "oldID": 67291,
+        "Map": {
+            "ID": 215
+        }
+    },
+    {
+        "ID": "d1fa1a7aabe",
+        "Name": "In der Not frisst der Eufel Wisents",
+        "Location": "Abalathisches Wolkenmeer",
+        "Level": 56,
+        "JournalSection": 3,
+        "JournalCategory": 44,
+        "JournalGenre": "Aufträge Abalathia",
+        "Url": "/lodestone/playguide/db/quest/d1fa1a7aabe/",
+        "Image": null,
+        "Icon": "common_normal",
+        "Issuer": "Fabrellet",
+        "StartLocation": {
+            "Name": "Abalathisches Wolkenmeer",
+            "X": "9.7",
+            "Y": "31.9"
+        },
+        "StartClass": null,
+        "Job": "",
+        "Company": "Keine Angabe",
+        "Requirement": "Keine Angabe",
+        "Rewards": {
+            "Gil": 527,
+            "Exp": 36000,
+            "ItemsMand": [],
+            "ItemsOpt": []
+        },
+        "Infos": {
+            "PrevQuests": [
+                {
+                    "Name": "Wild entschlossen",
+                    "Url": "/lodestone/playguide/db/quest/502fe826ab0/",
+                    "Area": "Ishgard",
+                    "Level": "56"
+                },
+                {
+                    "Name": "Zum Gedenken",
+                    "Url": "/lodestone/playguide/db/quest/675895e15c9/",
+                    "Area": "Ishgard",
+                    "Level": "56"
+                }
+            ],
+            "NextQuests": [
+                {
+                    "Name": "Gastornis-Züchter",
+                    "Url": "/lodestone/playguide/db/quest/bc06a070806/",
+                    "Area": "Abalathisches Wolkenmeer",
+                    "Level": "56"
+                }
+            ]
+        },
+        "Seq": 12,
+        "oldID": 67436,
+        "Map": {
+            "ID": 215
+        }
+    },
+    {
+        "ID": "d3adf8c7f26",
+        "Name": "Neugierige Vögel",
+        "Location": "Abalathisches Wolkenmeer",
+        "Level": 50,
+        "JournalSection": 3,
+        "JournalCategory": 44,
+        "JournalGenre": "Aufträge Abalathia",
+        "Url": "/lodestone/playguide/db/quest/d3adf8c7f26/",
+        "Image": "https://img.finalfantasyxiv.com/lds/pc/global/images/itemicon/3f/3fc2887b990cd4cd50ab9fd9216b2460932e898c.png?n5.5",
+        "Icon": "common_normal",
+        "Issuer": "Gildon",
+        "StartLocation": {
+            "Name": "Abalathisches Wolkenmeer",
+            "X": "15.6",
+            "Y": "39.2"
+        },
+        "StartClass": null,
+        "Job": "",
+        "Company": "Keine Angabe",
+        "Requirement": "Keine Angabe",
+        "Rewards": {
+            "Gil": 517,
+            "Exp": 24000,
+            "ItemsMand": [],
+            "ItemsOpt": [
+                {
+                    "Icon": "https://img.finalfantasyxiv.com/lds/pc/global/images/itemicon/d8/d80669c37a12b3faf3e58c08920bd8a2c8e6fdd8.png?n5.5",
+                    "Name": "Gulasch",
+                    "Amount": 3,
+                    "Url": "/lodestone/playguide/db/item/265818d4531/"
+                },
+                {
+                    "Icon": "https://img.finalfantasyxiv.com/lds/pc/global/images/itemicon/e2/e29a5a675e98e74024ac3f3b03abb7d112ad1c7d.png?n5.5",
+                    "Name": "Toffelpuffer",
+                    "Amount": 3,
+                    "Url": "/lodestone/playguide/db/item/5310374fa2e/"
+                },
+                {
+                    "Icon": "https://img.finalfantasyxiv.com/lds/pc/global/images/itemicon/a9/a96e8a6bc0d00f22df8e3de6c1130ebb0cd75366.png?n5.5",
+                    "Name": "Apfelsaft",
+                    "Amount": 3,
+                    "Url": "/lodestone/playguide/db/item/3cc6d9ce0b6/"
+                }
+            ]
+        },
+        "Infos": {
+            "PrevQuests": [
+                {
+                    "Name": "Die Audienz",
+                    "Url": "/lodestone/playguide/db/quest/c30cb94ef47/",
+                    "Area": "Ishgard",
+                    "Level": "50"
+                },
+                {
+                    "Name": "Sag mir, wo die Drachen sind",
+                    "Url": "/lodestone/playguide/db/quest/aa2e3045686/",
+                    "Area": "Abalathisches Wolkenmeer",
+                    "Level": "50"
+                }
+            ],
+            "NextQuests": [
+                {
+                    "Name": "Knochenrätsel",
+                    "Url": "/lodestone/playguide/db/quest/f02aa875df0/",
+                    "Area": "Abalathisches Wolkenmeer",
+                    "Level": "51"
+                }
+            ],
+            "NPCs": [
+                {
+                    "Name": "Vanu-Späher",
+                    "Url": "/lodestone/playguide/db/npc/npc/95c570cf278/",
+                    "Area": "Abalathisches Wolkenmeer (X:19.9 Y:32.8)"
+                }
+            ]
+        },
+        "Seq": 5,
+        "oldID": 67285,
+        "Map": {
+            "ID": 215
+        }
+    },
+    {
+        "ID": "da816a91231",
+        "Name": "Vertreibung aus Nimmerreich",
+        "Location": "Abalathisches Wolkenmeer",
+        "Level": 60,
+        "JournalSection": 3,
+        "JournalCategory": 44,
+        "JournalGenre": "Aufträge Abalathia",
+        "Url": "/lodestone/playguide/db/quest/da816a91231/",
+        "Image": "https://img.finalfantasyxiv.com/lds/pc/global/images/itemicon/f5/f517b7d5d8a69050c8f746b6f13924cb34c91272.png?n5.5",
+        "Icon": "function_normal",
+        "Issuer": "Sanu Vanu",
+        "StartLocation": {
+            "Name": "Abalathisches Wolkenmeer",
+            "X": "11.7",
+            "Y": "14.9"
+        },
+        "StartClass": null,
+        "Job": "",
+        "Company": "Keine Angabe",
+        "Requirement": "Keine Angabe",
+        "Rewards": {
+            "Gil": 5000,
+            "Exp": 0,
+            "ItemsMand": [],
+            "ItemsOpt": []
+        },
+        "Infos": {
+            "PrevQuests": [
+                {
+                    "Name": "Himmelwärts",
+                    "Url": "/lodestone/playguide/db/quest/29fa56153f5/",
+                    "Area": "Azys Lla",
+                    "Level": "60"
+                }
+            ],
+            "NextQuests": [
+                {
+                    "Name": "Tonu Vanu",
+                    "Url": "/lodestone/playguide/db/npc/npc/fbcaa4e652e/",
+                    "Area": "Abalathisches Wolkenmeer (X:40.1 Y:7.7)"
+                }
+            ]
+        },
+        "Seq": 35,
+        "oldID": 67648,
+        "Map": {
+            "ID": 215
+        }
+    },
+    {
+        "ID": "ef8cb27278d",
+        "Name": "Mundraub",
+        "Location": "Abalathisches Wolkenmeer",
+        "Level": 56,
+        "JournalSection": 3,
+        "JournalCategory": 44,
+        "JournalGenre": "Aufträge Abalathia",
+        "Url": "/lodestone/playguide/db/quest/ef8cb27278d/",
+        "Image": null,
+        "Icon": "common_normal",
+        "Issuer": "Gildon",
+        "StartLocation": {
+            "Name": "Abalathisches Wolkenmeer",
+            "X": "15.6",
+            "Y": "39.2"
+        },
+        "StartClass": null,
+        "Job": "",
+        "Company": "Keine Angabe",
+        "Requirement": "Keine Angabe",
+        "Rewards": {
+            "Gil": 496,
+            "Exp": 36000,
+            "ItemsMand": [],
+            "ItemsOpt": []
+        },
+        "Infos": {
+            "PrevQuests": [
+                {
+                    "Name": "Wild entschlossen",
+                    "Url": "/lodestone/playguide/db/quest/502fe826ab0/",
+                    "Area": "Ishgard",
+                    "Level": "56"
+                },
+                {
+                    "Name": "Zum Gedenken",
+                    "Url": "/lodestone/playguide/db/quest/675895e15c9/",
+                    "Area": "Ishgard",
+                    "Level": "56"
+                }
+            ],
+            "NextQuests": [
+                {
+                    "Name": "Jagd auf Dhalmele",
+                    "Url": "/lodestone/playguide/db/quest/8aa5aa4596a/",
+                    "Area": "Abalathisches Wolkenmeer",
+                    "Level": "56"
+                }
+            ]
+        },
+        "Seq": 10,
+        "oldID": 67435,
+        "Map": {
+            "ID": 215
+        }
+    },
+    {
+        "ID": "f02aa875df0",
+        "Name": "Knochenrätsel",
+        "Location": "Abalathisches Wolkenmeer",
+        "Level": 51,
+        "JournalSection": 3,
+        "JournalCategory": 44,
+        "JournalGenre": "Aufträge Abalathia",
+        "Url": "/lodestone/playguide/db/quest/f02aa875df0/",
+        "Image": "https://img.finalfantasyxiv.com/lds/pc/global/images/itemicon/3f/3fc2887b990cd4cd50ab9fd9216b2460932e898c.png?n5.5",
+        "Icon": "common_normal",
+        "Issuer": "Gildon",
+        "StartLocation": {
+            "Name": "Abalathisches Wolkenmeer",
+            "X": "15.6",
+            "Y": "39.2"
+        },
+        "StartClass": null,
+        "Job": "",
+        "Company": "Keine Angabe",
+        "Requirement": "Keine Angabe",
+        "Rewards": {
+            "Gil": 610,
+            "Exp": 25200,
+            "ItemsMand": [],
+            "ItemsOpt": [
+                {
+                    "Icon": "https://img.finalfantasyxiv.com/lds/pc/global/images/itemicon/59/591709d485ebd155ba018c8cd773fe3c662caed3.png?n5.5",
+                    "Name": "Fechtkunst-Materia IV",
+                    "Amount": 1,
+                    "Url": "/lodestone/playguide/db/item/37f25043bf3/"
+                },
+                {
+                    "Icon": "https://img.finalfantasyxiv.com/lds/pc/global/images/itemicon/60/6072436b0c90d22b6a9d7da93f356256a04be53d.png?n5.5",
+                    "Name": "Kampf-Materia IV",
+                    "Amount": 1,
+                    "Url": "/lodestone/playguide/db/item/1162b3fcc58/"
+                },
+                {
+                    "Icon": "https://img.finalfantasyxiv.com/lds/pc/global/images/itemicon/60/6072436b0c90d22b6a9d7da93f356256a04be53d.png?n5.5",
+                    "Name": "Zauber-Materia IV",
+                    "Amount": 1,
+                    "Url": "/lodestone/playguide/db/item/5bbb25ff7dd/"
+                }
+            ]
+        },
+        "Infos": {
+            "PrevQuests": [
+                {
+                    "Name": "Ein Plan nimmt Gestalt an",
+                    "Url": "/lodestone/playguide/db/quest/77cb6c15d41/",
+                    "Area": "Anwesen der Fortemps",
+                    "Level": "51"
+                },
+                {
+                    "Name": "Neugierige Vögel",
+                    "Url": "/lodestone/playguide/db/quest/d3adf8c7f26/",
+                    "Area": "Abalathisches Wolkenmeer",
+                    "Level": "50"
+                }
+            ],
+            "NextQuests": [
+                {
+                    "Name": "Fabrellet",
+                    "Url": "/lodestone/playguide/db/npc/npc/864646bd557/",
+                    "Area": "Abalathisches Wolkenmeer (X:9.7 Y:31.9)"
+                },
+                {
+                    "Name": "Laniaitte",
+                    "Url": "/lodestone/playguide/db/npc/npc/eceacc0b266/",
+                    "Area": "Abalathisches Wolkenmeer (X:17.0 Y:37.3)"
+                },
+                {
+                    "Name": "Marielle",
+                    "Url": "/lodestone/playguide/db/npc/npc/5badaea7330/",
+                    "Area": "Abalathisches Wolkenmeer (X:15.3 Y:37.7)"
+                },
+                {
+                    "Name": "Verletzter Ritter",
+                    "Url": "/lodestone/playguide/db/npc/npc/240c3aee515/",
+                    "Area": "Abalathisches Wolkenmeer (X:8.3 Y:31.6)"
+                }
+            ]
+        },
+        "Seq": 6,
+        "oldID": 67292,
+        "Map": {
+            "ID": 215
+        }
+    }
+]

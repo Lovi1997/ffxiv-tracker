@@ -1,43 +1,36 @@
-const JournalCategory = require("../../class/online/JournalCategory");
+const isDev = require("electron-is-dev");
+const path = require("path");
 
 const initJournalCategories = async function (iJournalSection) {
-  var aResult = [];
-  if (iJournalSection != 98) {
-    var aJournalCategories = await getJournalCategories();
-    aResult =
-      aJournalCategories === null
-        ? null
-        : formatJournalCategories(aJournalCategories, iJournalSection);
-  } else {
-    aResult = [
-      {
-        iID: 0,
-      },
-    ];
-  }
+  var aResult = getJournalCategories(iJournalSection);
+  await sleep();
   return aResult;
 };
 
-async function getJournalCategories() {
-  var oJournalCategory = new JournalCategory();
-  var aJournalCategories = await oJournalCategory.getAll();
+function getJournalCategories(iJournalSection) {
+  // Get Config
+  const sPathConfig = isDev
+    ? "../../../../extraResources/config/config.json"
+    : "../../../../../extraResources/config/config.json";
+  const oConfig = require(sPathConfig);
 
-  return aJournalCategories;
+  // Read Journal Categories
+  var aJournalCategoriesFormatted = [];
+  var aJournalCategories = require(`../../data/JournalCategories/js${iJournalSection}.json`);
+
+  // Format Journal Categories
+  aJournalCategories.forEach((oJournalCategory) => {
+    aJournalCategoriesFormatted.push({
+      iID: oJournalCategory.ID,
+      Name: oJournalCategory[`Name_${oConfig.language}`],
+    });
+  });
+  return aJournalCategoriesFormatted;
 }
 
-function formatJournalCategories(aJournalCategories, iJournalSection) {
-  var aJournalCategoriesNew = [];
-
-  aJournalCategories.forEach((oJournalCategory) => {
-    if (oJournalCategory.JournalSectionTargetID == iJournalSection) {
-      aJournalCategoriesNew.push({
-        iID: oJournalCategory.ID,
-        Name: oJournalCategory.Name,
-      });
-    }
-  });
-
-  return aJournalCategoriesNew;
+function sleep() {
+  // Wait for 0.5 seconds
+  return new Promise((resolve) => setTimeout(resolve, 750));
 }
 
 module.exports = initJournalCategories;

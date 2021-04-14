@@ -1,110 +1,79 @@
-const JournalSection = require("../../class/online/JournalSection");
-const { Downloader } = require("../../class/Util");
 const isDev = require("electron-is-dev");
 const path = require("path");
 
 const initJournalSections = async function () {
-  var aJournalSections = await getJournalSections();
-  var { iDone, iTotal } = await getTotalDone();
-
-  if (iDone === null || iTotal === null || aJournalSections === null) {
-    oResult = null;
-  } else {
-    oResult = {
-      NumberDone: iDone,
-      NumberTotal: iTotal,
-      JournalSections: formatJournalSections(aJournalSections),
-    };
-  }
+  // Create Result and return
+  var oResult = {
+    NumberDone: getNumberOfDone(),
+    NumberTotal: getNumberTotal(),
+    JournalSections: getJournalSections(),
+  };
+  await sleep();
   return oResult;
 };
 
-async function getTotalDone() {
+function getNumberOfDone() {
+  // Read existing Quests
   const sPathFile = isDev
     ? "../../../../extraResources/data/quest.json"
     : `${path.join(process.env.APPDATA, "./ffxiv-tracker/quest.json")}`;
   var oExisting = require(sPathFile);
 
+  // Count Number of Done
   var iDone = 0;
   oExisting.quests.forEach((oQuest) => {
     if (oQuest.Done === true) ++iDone;
   });
-
-  var iTotal = await getTotal();
-
-  return { iDone, iTotal };
+  return iDone;
 }
 
-async function getTotal() {
-  var oDownloader = new Downloader();
-  var aParams = [
-    { name: "columns", value: "ID" },
-    { name: "limit", value: "1" },
-    { name: "indexes", value: "quest" },
-  ];
-
-  await sleep();
-
-  var iTotal = await oDownloader
-    .download("search", "", aParams, false)
-    .then((oResult) => {
-      return oResult.Pagination.ResultsTotal;
-    })
-    .catch(() => {
-      return null;
-    });
-  return iTotal;
+function getNumberTotal() {
+  // Read Metadata
+  var oMetaData = require("../../data/metadata.json");
+  return oMetaData.Total;
 }
 
-async function getJournalSections() {
-  var oJournalSection = new JournalSection();
-  var aJournalSections = await oJournalSection.getAll();
+function getJournalSections() {
+  // Read Journal Sections
+  var aJournalSections = require("../../data/JournalSections.json");
 
-  return aJournalSections;
-}
+  // Sort Journal Sections
+  aJournalSections.sort((o1, o2) => {
+    if (o1.ID < o2.ID) return -1;
+    if (o1.ID > o2.ID) return 1;
+    return 0;
+  });
 
-function formatJournalSections(aJournalSections) {
-  var aJournalSectionsNew = [
-    {
-      iID: 99,
-      isActive: true,
-      Icon: 10,
-    },
-    {
-      iID: 0,
-      Icon: 1,
-    },
-  ];
+  // Read Config
+  const sPathConfig = isDev
+    ? "../../../../extraResources/config/config.json"
+    : "../../../../../extraResources/config/config.json";
+  const oConfig = require(sPathConfig);
 
-  var i = 2;
+  // Add Search
+  var aJournalSectionsFormatted = [];
+  aJournalSectionsFormatted.push({
+    iID: 99,
+    iActive: true,
+    Icon: 10,
+  });
+  // Format Sections
   aJournalSections.forEach((oJournalSection) => {
-    if (oJournalSection.ID < 8) {
-      aJournalSectionsNew.push({
-        iID: oJournalSection.ID,
-        Name: oJournalSection.Name,
-        isActive: false,
-        Icon: i,
-      });
-    }
-    i++;
+    aJournalSectionsFormatted.push({
+      iID: oJournalSection.ID,
+      Name: oJournalSection[`Name_${oConfig.language}`],
+      isActive: false,
+      Icon: oJournalSection.Icon,
+    });
   });
 
-  aJournalSectionsNew.push({
-    iID: 98,
-    isActive: false,
-    Icon: "none",
-  });
-
-  return aJournalSectionsNew;
+  // Return formatted JournalSectionss
+  return aJournalSectionsFormatted;
 }
 
-function _timeout(ms) {
-  return new Promise((resolve) => setTimeout(resolve, ms));
-}
-
-async function sleep() {
-  await _timeout(500);
-  return null;
+function sleep() {
+  // Wait for 0.5 seconds
+  return new Promise((resolve) => setTimeout(resolve, 750));
 }
 
 module.exports = initJournalSections;

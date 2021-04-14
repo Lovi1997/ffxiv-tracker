@@ -1,0 +1,1599 @@
+[
+    {
+        "ID": "3f8904a0a88",
+        "Name": "Sturköpfe sind dicker als Blut",
+        "Location": "Ishgard",
+        "Level": 56,
+        "JournalSection": 3,
+        "JournalCategory": 43,
+        "JournalGenre": "Aufträge Ishgard",
+        "Url": "/lodestone/playguide/db/quest/3f8904a0a88/",
+        "Image": null,
+        "Icon": "common_normal",
+        "Issuer": "Schwermütiges Fräulein",
+        "StartLocation": {
+            "Name": "Strebewerk",
+            "X": "10.6",
+            "Y": "12.2"
+        },
+        "StartClass": null,
+        "Job": "",
+        "Company": "Keine Angabe",
+        "Requirement": "Keine Angabe",
+        "Rewards": {
+            "Gil": 672,
+            "Exp": 36000,
+            "ItemsMand": [],
+            "ItemsOpt": []
+        },
+        "Infos": {
+            "PrevQuests": [
+                {
+                    "Name": "Wild entschlossen",
+                    "Url": "/lodestone/playguide/db/quest/502fe826ab0/",
+                    "Area": "Ishgard",
+                    "Level": "56"
+                }
+            ],
+            "NextQuests": [
+                {
+                    "Name": "Drachentatar",
+                    "Url": "/lodestone/playguide/db/quest/5c559d408e5/",
+                    "Area": "Westliches Hochland von Coerthas",
+                    "Level": "56"
+                },
+                {
+                    "Name": "Das Häretikernest",
+                    "Url": "/lodestone/playguide/db/quest/2a8df87c34e/",
+                    "Area": "Westliches Hochland von Coerthas",
+                    "Level": "56"
+                },
+                {
+                    "Name": "Taten statt Worte",
+                    "Url": "/lodestone/playguide/db/quest/15906d83039/",
+                    "Area": "Westliches Hochland von Coerthas",
+                    "Level": "56"
+                },
+                {
+                    "Name": "Wenn das Eis geschmolzen ist",
+                    "Url": "/lodestone/playguide/db/quest/54e930d96f3/",
+                    "Area": "Westliches Hochland von Coerthas",
+                    "Level": "56"
+                },
+                {
+                    "Name": "Ein hanebüchener Plan",
+                    "Url": "/lodestone/playguide/db/quest/343ff6eb6fc/",
+                    "Area": "Westliches Hochland von Coerthas",
+                    "Level": "56"
+                },
+                {
+                    "Name": "Ein echter Kamerad",
+                    "Url": "/lodestone/playguide/db/quest/92dba83909d/",
+                    "Area": "Westliches Hochland von Coerthas",
+                    "Level": "56"
+                },
+                {
+                    "Name": "Nachschublinien",
+                    "Url": "/lodestone/playguide/db/quest/ff50e79b99b/",
+                    "Area": "Westliches Hochland von Coerthas",
+                    "Level": "56"
+                },
+                {
+                    "Name": "Not macht erfinderisch",
+                    "Url": "/lodestone/playguide/db/quest/b0af5820a17/",
+                    "Area": "Westliches Hochland von Coerthas",
+                    "Level": "56"
+                },
+                {
+                    "Name": "Der Fangzahn des Drachen",
+                    "Url": "/lodestone/playguide/db/quest/2caf6e7b13f/",
+                    "Area": "Westliches Hochland von Coerthas",
+                    "Level": "56"
+                },
+                {
+                    "Name": "Frustration am Falkenhorst",
+                    "Url": "/lodestone/playguide/db/quest/6c1e9ad14d0/",
+                    "Area": "Westliches Hochland von Coerthas",
+                    "Level": "56"
+                },
+                {
+                    "Name": "Ayleths Ambitionen",
+                    "Url": "/lodestone/playguide/db/quest/e6e2a5e1155/",
+                    "Area": "Westliches Hochland von Coerthas",
+                    "Level": "56"
+                },
+                {
+                    "Name": "Ayleth auf Abwegen",
+                    "Url": "/lodestone/playguide/db/quest/4af2b0f8b89/",
+                    "Area": "Westliches Hochland von Coerthas",
+                    "Level": "56"
+                },
+                {
+                    "Name": "Gemeinsam sind wir stark",
+                    "Url": "/lodestone/playguide/db/quest/4a54351c04f/",
+                    "Area": "Westliches Hochland von Coerthas",
+                    "Level": "56"
+                },
+                {
+                    "Name": "Der Kampf hat erst begonnen",
+                    "Url": "/lodestone/playguide/db/quest/aaf11e472ab/",
+                    "Area": "Westliches Hochland von Coerthas",
+                    "Level": "56"
+                }
+            ],
+            "NPCs": [
+                {
+                    "Name": "Adlig wirkender Junge",
+                    "Url": "/lodestone/playguide/db/npc/npc/998c9da36b0/",
+                    "Area": "Westliches Hochland von Coerthas (X:16.6 Y:22.1)"
+                },
+                {
+                    "Name": "Redwald",
+                    "Url": "/lodestone/playguide/db/npc/npc/b4d663a226f/",
+                    "Area": "Westliches Hochland von Coerthas (X:32.6 Y:38.3)"
+                }
+            ]
+        },
+        "Seq": 10,
+        "oldID": 67409,
+        "Map": {
+            "ID": 219
+        }
+    },
+    {
+        "ID": "43e735a475f",
+        "Name": "Zurück auf den rechten Weg",
+        "Location": "Ishgard",
+        "Level": 60,
+        "JournalSection": 3,
+        "JournalCategory": 43,
+        "JournalGenre": "Aufträge Ishgard",
+        "Url": "/lodestone/playguide/db/quest/43e735a475f/",
+        "Image": "https://img.finalfantasyxiv.com/lds/pc/global/images/itemicon/0c/0ccd06aaab677ff37bd067ab41a6ab20cf3d6e4f.png?n5.5",
+        "Icon": "function_normal",
+        "Issuer": "Notrelchamps",
+        "StartLocation": {
+            "Name": "Strebewerk",
+            "X": "14.6",
+            "Y": "12.2"
+        },
+        "StartClass": null,
+        "Job": "",
+        "Company": "Keine Angabe",
+        "Requirement": "Keine Angabe",
+        "Rewards": {
+            "Gil": 5000,
+            "Exp": 0,
+            "ItemsMand": [
+                {
+                    "Icon": "https://img.finalfantasyxiv.com/lds/pc/global/images/itemicon/3e/3eb5297929a1a976ce769bdab360921d274f4ef7.png?n5.5",
+                    "Name": "Begleitmodul",
+                    "Amount": 1,
+                    "Url": "/lodestone/playguide/db/item/f6fdfaa6679/"
+                }
+            ],
+            "ItemsOpt": []
+        },
+        "Infos": {
+            "PrevQuests": [
+                {
+                    "Name": "Himmelwärts",
+                    "Url": "/lodestone/playguide/db/quest/29fa56153f5/",
+                    "Area": "Azys Lla",
+                    "Level": "60"
+                }
+            ],
+            "NextQuests": [
+                {
+                    "Name": "Wedge",
+                    "Url": "/lodestone/playguide/db/npc/npc/ce81b746a1d/",
+                    "Area": "Azys Lla (X:21.2 Y:22.4)"
+                }
+            ]
+        },
+        "Seq": 21,
+        "oldID": 67649,
+        "Map": {
+            "ID": 219
+        }
+    },
+    {
+        "ID": "4aa01a416f7",
+        "Name": "Die Heiligen von Ishgard",
+        "Location": "Ishgard",
+        "Level": 50,
+        "JournalSection": 3,
+        "JournalCategory": 43,
+        "JournalGenre": "Aufträge Ishgard",
+        "Url": "/lodestone/playguide/db/quest/4aa01a416f7/",
+        "Image": null,
+        "Icon": "common_normal",
+        "Issuer": "Frommer Greis",
+        "StartLocation": {
+            "Name": "Fundamente",
+            "X": "10.4",
+            "Y": "11.9"
+        },
+        "StartClass": null,
+        "Job": "",
+        "Company": "Keine Angabe",
+        "Requirement": "Keine Angabe",
+        "Rewards": {
+            "Gil": 517,
+            "Exp": 24000,
+            "ItemsMand": [],
+            "ItemsOpt": [
+                {
+                    "Icon": "https://img.finalfantasyxiv.com/lds/pc/global/images/itemicon/46/46cf321948aeec3564dee390dbb90b5f639db85f.png?n5.5",
+                    "Name": "Trank der Bindung",
+                    "Amount": 3,
+                    "Url": "/lodestone/playguide/db/item/a64a481ba31/"
+                },
+                {
+                    "Icon": "https://img.finalfantasyxiv.com/lds/pc/global/images/itemicon/9a/9a428685bb35986bc9175d12a0eae7541353219f.png?n5.5",
+                    "Name": "Haltbarkeits-Gebräu",
+                    "Amount": 3,
+                    "Url": "/lodestone/playguide/db/item/ca06d9d6fe8/"
+                },
+                {
+                    "Icon": "https://img.finalfantasyxiv.com/lds/pc/global/images/itemicon/8f/8f12af6bda62c5a2cb04217138b387d61f225940.png?n5.5",
+                    "Name": "Bastlertrank",
+                    "Amount": 1,
+                    "Url": "/lodestone/playguide/db/item/e34d0c6d1e4/"
+                }
+            ]
+        },
+        "Infos": {
+            "PrevQuests": [
+                {
+                    "Name": "Einladung in die Schwaden",
+                    "Url": "/lodestone/playguide/db/quest/8ef1c45e2a4/",
+                    "Area": "Ishgard",
+                    "Level": "50"
+                }
+            ],
+            "NextQuests": [
+                {
+                    "Name": "Frommer Greis",
+                    "Url": "/lodestone/playguide/db/npc/npc/cd565317b36/",
+                    "Area": "Fundamente (X:9.5 Y:10.3)"
+                },
+                {
+                    "Name": "Frommer Greis",
+                    "Url": "/lodestone/playguide/db/npc/npc/b4f45452dbe/",
+                    "Area": "Fundamente (X:12.4 Y:10.9)"
+                },
+                {
+                    "Name": "Outreguerlain",
+                    "Url": "/lodestone/playguide/db/npc/npc/08e64e39d70/",
+                    "Area": "Strebewerk (X:7.9 Y:7.7)"
+                }
+            ]
+        },
+        "Seq": 2,
+        "oldID": 67262,
+        "Map": {
+            "ID": 218
+        }
+    },
+    {
+        "ID": "557100f6be0",
+        "Name": "Futterlieferung",
+        "Location": "Ishgard",
+        "Level": 50,
+        "JournalSection": 3,
+        "JournalCategory": 43,
+        "JournalGenre": "Aufträge Ishgard",
+        "Url": "/lodestone/playguide/db/quest/557100f6be0/",
+        "Image": null,
+        "Icon": "common_normal",
+        "Issuer": "Mathye",
+        "StartLocation": {
+            "Name": "Strebewerk",
+            "X": "6.2",
+            "Y": "9.4"
+        },
+        "StartClass": null,
+        "Job": "",
+        "Company": "Keine Angabe",
+        "Requirement": "Keine Angabe",
+        "Rewards": {
+            "Gil": 517,
+            "Exp": 24000,
+            "ItemsMand": [
+                {
+                    "Icon": "https://img.finalfantasyxiv.com/lds/pc/global/images/itemicon/92/92743e98b49dd98b493c4857b72036ceddaef072.png?n5.5",
+                    "Name": "Thavnair-Zwiebel",
+                    "Amount": 1,
+                    "Url": "/lodestone/playguide/db/item/cd8f0584d92/"
+                }
+            ],
+            "ItemsOpt": []
+        },
+        "Infos": {
+            "PrevQuests": [
+                {
+                    "Name": "Einladung in die Schwaden",
+                    "Url": "/lodestone/playguide/db/quest/8ef1c45e2a4/",
+                    "Area": "Ishgard",
+                    "Level": "50"
+                }
+            ],
+            "NextQuests": [
+                {
+                    "Name": "Cevilia",
+                    "Url": "/lodestone/playguide/db/npc/npc/363b5d0f4d8/",
+                    "Area": "Fundamente (X:7.9 Y:11.7)"
+                },
+                {
+                    "Name": "Leichtfeder-Wachmann",
+                    "Url": "/lodestone/playguide/db/npc/npc/6ada3541a5a/",
+                    "Area": "Fundamente (X:13.1 Y:10.5)"
+                },
+                {
+                    "Name": "Stallmeister",
+                    "Url": "/lodestone/playguide/db/npc/npc/50715b1ea39/",
+                    "Area": "Leichtfeder-Arena (X:6.5 Y:5.9)"
+                }
+            ]
+        },
+        "Seq": 3,
+        "oldID": 67265,
+        "Map": {
+            "ID": 219
+        }
+    },
+    {
+        "ID": "590d5fc1f69",
+        "Name": "Gelegenheit macht Diebe",
+        "Location": "Ishgard",
+        "Level": 50,
+        "JournalSection": 3,
+        "JournalCategory": 43,
+        "JournalGenre": "Aufträge Ishgard",
+        "Url": "/lodestone/playguide/db/quest/590d5fc1f69/",
+        "Image": null,
+        "Icon": "common_normal",
+        "Issuer": "Brictt",
+        "StartLocation": {
+            "Name": "Fundamente",
+            "X": "13.2",
+            "Y": "12.5"
+        },
+        "StartClass": null,
+        "Job": "",
+        "Company": "Keine Angabe",
+        "Requirement": "Keine Angabe",
+        "Rewards": {
+            "Gil": 517,
+            "Exp": 24000,
+            "ItemsMand": [],
+            "ItemsOpt": []
+        },
+        "Infos": {
+            "PrevQuests": [
+                {
+                    "Name": "Einladung in die Schwaden",
+                    "Url": "/lodestone/playguide/db/quest/8ef1c45e2a4/",
+                    "Area": "Ishgard",
+                    "Level": "50"
+                }
+            ],
+            "NextQuests": [
+                {
+                    "Name": "Die Spur der Meisterdiebin",
+                    "Url": "/lodestone/playguide/db/quest/87269640a2b/",
+                    "Area": "Ishgard",
+                    "Level": "56"
+                }
+            ],
+            "NPCs": [
+                {
+                    "Name": "Bibbernder Mann",
+                    "Url": "/lodestone/playguide/db/npc/npc/7fd5254da4b/",
+                    "Area": "Fundamente (X:13.1 Y:12.8)"
+                },
+                {
+                    "Name": "Frierende Frau",
+                    "Url": "/lodestone/playguide/db/npc/npc/0f02d7a87ee/",
+                    "Area": "Fundamente (X:12.4 Y:12.8)"
+                },
+                {
+                    "Name": "Osaulie",
+                    "Url": "/lodestone/playguide/db/npc/npc/2957a2e233d/",
+                    "Area": "Fundamente (X:11.7 Y:11.9)"
+                },
+                {
+                    "Name": "Vaincannet",
+                    "Url": "/lodestone/playguide/db/npc/npc/5f9a8a545e7/",
+                    "Area": "Fundamente (X:13.9 Y:11.4)"
+                },
+                {
+                    "Name": "Zitternde Frau",
+                    "Url": "/lodestone/playguide/db/npc/npc/5be1ff6919f/",
+                    "Area": "Fundamente (X:13.8 Y:12.4)"
+                }
+            ]
+        },
+        "Seq": 4,
+        "oldID": 67266,
+        "Map": {
+            "ID": 218
+        }
+    },
+    {
+        "ID": "675895e15c9",
+        "Name": "Zum Gedenken",
+        "Location": "Ishgard",
+        "Level": 56,
+        "JournalSection": 3,
+        "JournalCategory": 43,
+        "JournalGenre": "Aufträge Ishgard",
+        "Url": "/lodestone/playguide/db/quest/675895e15c9/",
+        "Image": null,
+        "Icon": "function_normal",
+        "Issuer": "Haillenarte-Ritter",
+        "StartLocation": {
+            "Name": "Strebewerk",
+            "X": "11.5",
+            "Y": "10.9"
+        },
+        "StartClass": null,
+        "Job": "",
+        "Company": "Keine Angabe",
+        "Requirement": "Keine Angabe",
+        "Rewards": {
+            "Gil": 732,
+            "Exp": 36000,
+            "ItemsMand": [
+                {
+                    "Icon": "https://img.finalfantasyxiv.com/lds/pc/global/images/itemicon/af/af26e4b79fb1de83550f6ddbd3a170408fcfe702.png?n5.5",
+                    "Name": "",
+                    "Amount": null
+                }
+            ],
+            "ItemsOpt": [
+                {
+                    "Icon": "https://img.finalfantasyxiv.com/lds/pc/global/images/itemicon/06/06bd35b3df19cbc5d80eed3ed99c67a366c835aa.png?n5.5",
+                    "Name": "Assassinen-Materia IV",
+                    "Amount": 1,
+                    "Url": "/lodestone/playguide/db/item/1bc25f58180/"
+                },
+                {
+                    "Icon": "https://img.finalfantasyxiv.com/lds/pc/global/images/itemicon/06/06bd35b3df19cbc5d80eed3ed99c67a366c835aa.png?n5.5",
+                    "Name": "Strategen-Materia IV",
+                    "Amount": 1,
+                    "Url": "/lodestone/playguide/db/item/dce3a5f3467/"
+                },
+                {
+                    "Icon": "https://img.finalfantasyxiv.com/lds/pc/global/images/itemicon/06/06bd35b3df19cbc5d80eed3ed99c67a366c835aa.png?n5.5",
+                    "Name": "Hellseher-Materia IV",
+                    "Amount": 1,
+                    "Url": "/lodestone/playguide/db/item/93fe1786b70/"
+                },
+                {
+                    "Icon": "https://img.finalfantasyxiv.com/lds/pc/global/images/itemicon/59/591709d485ebd155ba018c8cd773fe3c662caed3.png?n5.5",
+                    "Name": "Frömmigkeits-Materia IV",
+                    "Amount": 1,
+                    "Url": "/lodestone/playguide/db/item/905d47601dd/"
+                }
+            ]
+        },
+        "Infos": {
+            "PrevQuests": [
+                {
+                    "Name": "Wild entschlossen",
+                    "Url": "/lodestone/playguide/db/quest/502fe826ab0/",
+                    "Area": "Ishgard",
+                    "Level": "56"
+                }
+            ],
+            "NextQuests": [
+                {
+                    "Name": "Mundraub",
+                    "Url": "/lodestone/playguide/db/quest/ef8cb27278d/",
+                    "Area": "Abalathisches Wolkenmeer",
+                    "Level": "56"
+                },
+                {
+                    "Name": "Jagd auf Dhalmele",
+                    "Url": "/lodestone/playguide/db/quest/8aa5aa4596a/",
+                    "Area": "Abalathisches Wolkenmeer",
+                    "Level": "56"
+                },
+                {
+                    "Name": "In der Not frisst der Eufel Wisents",
+                    "Url": "/lodestone/playguide/db/quest/d1fa1a7aabe/",
+                    "Area": "Abalathisches Wolkenmeer",
+                    "Level": "56"
+                },
+                {
+                    "Name": "Gastornis-Züchter",
+                    "Url": "/lodestone/playguide/db/quest/bc06a070806/",
+                    "Area": "Abalathisches Wolkenmeer",
+                    "Level": "56"
+                },
+                {
+                    "Name": "Vermisste Ritter",
+                    "Url": "/lodestone/playguide/db/quest/680ec41d73e/",
+                    "Area": "Abalathisches Wolkenmeer",
+                    "Level": "56"
+                },
+                {
+                    "Name": "Fruchtbare Erde",
+                    "Url": "/lodestone/playguide/db/quest/2e181ce4208/",
+                    "Area": "Abalathisches Wolkenmeer",
+                    "Level": "56"
+                }
+            ],
+            "NPCs": [
+                {
+                    "Name": "Laniaitte",
+                    "Url": "/lodestone/playguide/db/npc/npc/eceacc0b266/",
+                    "Area": "Abalathisches Wolkenmeer (X:17.0 Y:37.3)"
+                },
+                {
+                    "Name": "Rontremont",
+                    "Url": "/lodestone/playguide/db/npc/npc/a2144218aa5/",
+                    "Area": "Abalathisches Wolkenmeer (X:9.4 Y:32.4)"
+                }
+            ]
+        },
+        "Seq": 11,
+        "oldID": 67410,
+        "Map": {
+            "ID": 219
+        }
+    },
+    {
+        "ID": "78b452d40d8",
+        "Name": "Hohe Jagd im Hohen Land 1",
+        "Location": "Ishgard",
+        "Level": 53,
+        "JournalSection": 3,
+        "JournalCategory": 43,
+        "JournalGenre": "Aufträge Ishgard",
+        "Url": "/lodestone/playguide/db/quest/78b452d40d8/",
+        "Image": null,
+        "Icon": "function_normal",
+        "Issuer": "Aytienne",
+        "StartLocation": {
+            "Name": "Fundamente",
+            "X": "12.9",
+            "Y": "11.8"
+        },
+        "StartClass": null,
+        "Job": "",
+        "Company": "Keine Angabe",
+        "Requirement": "Keine Angabe",
+        "Rewards": {
+            "Gil": 449,
+            "Exp": 28800,
+            "ItemsMand": [],
+            "ItemsOpt": []
+        },
+        "Infos": {
+            "PrevQuests": [
+                {
+                    "Name": "Die Hohe Jagd (Mahlstrom)",
+                    "Url": "/lodestone/playguide/db/quest/363811b27b4/",
+                    "Area": "Limsa Lominsa",
+                    "Level": "50"
+                },
+                {
+                    "Name": "Die Hohe Jagd (Bruderschaft)",
+                    "Url": "/lodestone/playguide/db/quest/32c7488b0f1/",
+                    "Area": "Gridania",
+                    "Level": "50"
+                },
+                {
+                    "Name": "Die Hohe Jagd (Legion)",
+                    "Url": "/lodestone/playguide/db/quest/0262fe02207/",
+                    "Area": "Ul'dah",
+                    "Level": "50"
+                }
+            ],
+            "NextQuests": [
+                {
+                    "Name": "Hohe Jagd im Hohen Land 2",
+                    "Url": "/lodestone/playguide/db/quest/d2a0497a5cb/",
+                    "Area": "Ishgard",
+                    "Level": "56"
+                }
+            ],
+            "NPCs": [
+                {
+                    "Name": "Ardolain",
+                    "Url": "/lodestone/playguide/db/shop/afe98eb0ed3/",
+                    "Area": "Fundamente (X:13.0 Y:11.8)"
+                }
+            ]
+        },
+        "Seq": 18,
+        "oldID": 67655,
+        "Map": {
+            "ID": 218
+        }
+    },
+    {
+        "ID": "87269640a2b",
+        "Name": "Die Spur der Meisterdiebin",
+        "Location": "Ishgard",
+        "Level": 56,
+        "JournalSection": 3,
+        "JournalCategory": 43,
+        "JournalGenre": "Aufträge Ishgard",
+        "Url": "/lodestone/playguide/db/quest/87269640a2b/",
+        "Image": null,
+        "Icon": "common_normal",
+        "Issuer": "Elaisse",
+        "StartLocation": {
+            "Name": "Strebewerk",
+            "X": "7.7",
+            "Y": "10.8"
+        },
+        "StartClass": null,
+        "Job": "",
+        "Company": "Keine Angabe",
+        "Requirement": "Keine Angabe",
+        "Rewards": {
+            "Gil": 496,
+            "Exp": 36000,
+            "ItemsMand": [],
+            "ItemsOpt": [
+                {
+                    "Icon": "https://img.finalfantasyxiv.com/lds/pc/global/images/itemicon/ca/ca0f794d46184aca2dfbbf00ef3d4a27ac7eabd9.png?n5.5",
+                    "Name": "Geheiligte Kastanienmaske des Zielens",
+                    "Amount": 1,
+                    "Url": "/lodestone/playguide/db/item/5cb320a2cf9/?hq=1"
+                },
+                {
+                    "Icon": "https://img.finalfantasyxiv.com/lds/pc/global/images/itemicon/77/77dafb775c567a6bc5c92fdd2c576759653a78b7.png?n5.5",
+                    "Name": "Geheiligte Kastanienmaske der Heilung",
+                    "Amount": 1,
+                    "Url": "/lodestone/playguide/db/item/5e5456bf42f/?hq=1"
+                },
+                {
+                    "Icon": "https://img.finalfantasyxiv.com/lds/pc/global/images/itemicon/50/50590d517b9ccb99f4d89dee4f3689cb92705dc8.png?n5.5",
+                    "Name": "Geheiligte Kastanienmaske der Magie",
+                    "Amount": 1,
+                    "Url": "/lodestone/playguide/db/item/41a5ea1bbfd/?hq=1"
+                },
+                {
+                    "Icon": "https://img.finalfantasyxiv.com/lds/pc/global/images/itemicon/ba/baa2341dd17414fae7fd62ae7bc62c64589b67be.png?n5.5",
+                    "Name": "Allagisches Silberstück",
+                    "Amount": 5,
+                    "Url": "/lodestone/playguide/db/item/a3ac3ba4b00/"
+                }
+            ]
+        },
+        "Infos": {
+            "PrevQuests": [
+                {
+                    "Name": "Wild entschlossen",
+                    "Url": "/lodestone/playguide/db/quest/502fe826ab0/",
+                    "Area": "Ishgard",
+                    "Level": "56"
+                },
+                {
+                    "Name": "Gelegenheit macht Diebe",
+                    "Url": "/lodestone/playguide/db/quest/590d5fc1f69/",
+                    "Area": "Ishgard",
+                    "Level": "50"
+                }
+            ],
+            "NextQuests": [
+                {
+                    "Name": "Kleine Diebin, großer Traum",
+                    "Url": "/lodestone/playguide/db/quest/e4f2a925bfa/",
+                    "Area": "Ishgard",
+                    "Level": "57"
+                }
+            ],
+            "NPCs": [
+                {
+                    "Name": "Osaulie",
+                    "Url": "/lodestone/playguide/db/npc/npc/3d82a7c9f99/",
+                    "Area": "Strebewerk (X:13.6 Y:10.9)"
+                }
+            ]
+        },
+        "Seq": 12,
+        "oldID": 67406,
+        "Map": {
+            "ID": 219
+        }
+    },
+    {
+        "ID": "93996802443",
+        "Name": "Zwist der Generationen",
+        "Location": "Ishgard",
+        "Level": 51,
+        "JournalSection": 3,
+        "JournalCategory": 43,
+        "JournalGenre": "Aufträge Ishgard",
+        "Url": "/lodestone/playguide/db/quest/93996802443/",
+        "Image": null,
+        "Icon": "common_normal",
+        "Issuer": "Bohemondas",
+        "StartLocation": {
+            "Name": "Fundamente",
+            "X": "9.5",
+            "Y": "10.3"
+        },
+        "StartClass": null,
+        "Job": "",
+        "Company": "Keine Angabe",
+        "Requirement": "Keine Angabe",
+        "Rewards": {
+            "Gil": 617,
+            "Exp": 25200,
+            "ItemsMand": [],
+            "ItemsOpt": []
+        },
+        "Infos": {
+            "PrevQuests": [
+                {
+                    "Name": "Ein Plan nimmt Gestalt an",
+                    "Url": "/lodestone/playguide/db/quest/77cb6c15d41/",
+                    "Area": "Anwesen der Fortemps",
+                    "Level": "51"
+                }
+            ],
+            "NextQuests": [
+                {
+                    "Name": "Josseloux",
+                    "Url": "/lodestone/playguide/db/npc/npc/4ec88c86de9/",
+                    "Area": "Westliches Hochland von Coerthas (X:33.0 Y:37.0)"
+                }
+            ]
+        },
+        "Seq": 8,
+        "oldID": 67286,
+        "Map": {
+            "ID": 218
+        }
+    },
+    {
+        "ID": "983e308cab3",
+        "Name": "Die Fortemps haben geladen",
+        "Location": "Ishgard",
+        "Level": 50,
+        "JournalSection": 3,
+        "JournalCategory": 43,
+        "JournalGenre": "Aufträge Ishgard",
+        "Url": "/lodestone/playguide/db/quest/983e308cab3/",
+        "Image": null,
+        "Icon": "common_normal",
+        "Issuer": "Torsefers",
+        "StartLocation": {
+            "Name": "Strebewerk",
+            "X": "11.7",
+            "Y": "11.6"
+        },
+        "StartClass": null,
+        "Job": "",
+        "Company": "Keine Angabe",
+        "Requirement": "Keine Angabe",
+        "Rewards": {
+            "Gil": 545,
+            "Exp": 24000,
+            "ItemsMand": [],
+            "ItemsOpt": []
+        },
+        "Infos": {
+            "PrevQuests": [
+                {
+                    "Name": "Einladung in die Schwaden",
+                    "Url": "/lodestone/playguide/db/quest/8ef1c45e2a4/",
+                    "Area": "Ishgard",
+                    "Level": "50"
+                }
+            ],
+            "NextQuests": [
+                {
+                    "Name": "Bartelot",
+                    "Url": "/lodestone/playguide/db/npc/npc/dfd0b373722/",
+                    "Area": "Strebewerk (X:10.8 Y:11.1)"
+                },
+                {
+                    "Name": "Framoncis",
+                    "Url": "/lodestone/playguide/db/npc/npc/f3259a6a65b/",
+                    "Area": "Strebewerk (X:8.1 Y:9.6)"
+                },
+                {
+                    "Name": "Jainelette",
+                    "Url": "/lodestone/playguide/db/npc/npc/ec93148a661/",
+                    "Area": "Strebewerk (X:14.2 Y:9.3)"
+                }
+            ]
+        },
+        "Seq": 5,
+        "oldID": 67267,
+        "Map": {
+            "ID": 219
+        }
+    },
+    {
+        "ID": "a135cd2a311",
+        "Name": "Ungeduld ist keine Tugend",
+        "Location": "Ishgard",
+        "Level": 59,
+        "JournalSection": 3,
+        "JournalCategory": 43,
+        "JournalGenre": "Aufträge Ishgard",
+        "Url": "/lodestone/playguide/db/quest/a135cd2a311/",
+        "Image": "https://img.finalfantasyxiv.com/lds/pc/global/images/itemicon/b6/b634b02713c04db844bf6cedb24dbbc71781cc65.png?n5.5",
+        "Icon": "common_normal",
+        "Issuer": "Fortemps-Ritter",
+        "StartLocation": {
+            "Name": "Strebewerk",
+            "X": "11.5",
+            "Y": "11.0"
+        },
+        "StartClass": null,
+        "Job": "",
+        "Company": "Keine Angabe",
+        "Requirement": "Keine Angabe",
+        "Rewards": {
+            "Gil": 859,
+            "Exp": 43200,
+            "ItemsMand": [],
+            "ItemsOpt": []
+        },
+        "Infos": {
+            "PrevQuests": [
+                {
+                    "Name": "Äther für die Ramme",
+                    "Url": "/lodestone/playguide/db/quest/17ec1e31564/",
+                    "Area": "Matoyas Höhle",
+                    "Level": "59"
+                },
+                {
+                    "Name": "Mutige Mogrys braucht das Wachkorps",
+                    "Url": "/lodestone/playguide/db/quest/f22bc580f8e/",
+                    "Area": "Wallende Nebel",
+                    "Level": "54"
+                }
+            ],
+            "NextQuests": [
+                {
+                    "Name": "Verschollen im Wolkenmeer",
+                    "Url": "/lodestone/playguide/db/quest/c6ecce544ce/",
+                    "Area": "Wallende Nebel",
+                    "Level": "59"
+                }
+            ],
+            "NPCs": [
+                {
+                    "Name": "Moglin",
+                    "Url": "/lodestone/playguide/db/npc/npc/3f4711a3aeb/",
+                    "Area": "Wallende Nebel (X:30.1 Y:36.5)"
+                },
+                {
+                    "Name": "Mogule",
+                    "Url": "/lodestone/playguide/db/npc/npc/5fe9d33dc61/",
+                    "Area": "Wallende Nebel (X:29.4 Y:33.6)"
+                }
+            ]
+        },
+        "Seq": 16,
+        "oldID": 67508,
+        "Map": {
+            "ID": 219
+        }
+    },
+    {
+        "ID": "a5faad05086",
+        "Name": "Hochwild im Hochland",
+        "Location": "Ishgard",
+        "Level": 60,
+        "JournalSection": 3,
+        "JournalCategory": 43,
+        "JournalGenre": "Aufträge Ishgard",
+        "Url": "/lodestone/playguide/db/quest/a5faad05086/",
+        "Image": "https://img.finalfantasyxiv.com/lds/pc/global/images/itemicon/71/71b4f40c7c5fcf4586d6d115d2b1acda47138719.png?n5.5",
+        "Icon": "function_normal",
+        "Issuer": "Ardolain",
+        "StartLocation": {
+            "Name": "Fundamente",
+            "X": "13.0",
+            "Y": "11.8"
+        },
+        "StartClass": null,
+        "Job": "",
+        "Company": "Keine Angabe",
+        "Requirement": "Keine Angabe",
+        "Rewards": {
+            "Gil": 485,
+            "Exp": 0,
+            "ItemsMand": [],
+            "ItemsOpt": []
+        },
+        "Infos": {
+            "PrevQuests": [
+                {
+                    "Name": "Hohe Jagd im Hohen Land 3",
+                    "Url": "/lodestone/playguide/db/quest/04edf80cf2a/",
+                    "Area": "Frohehalde",
+                    "Level": "59"
+                }
+            ],
+            "NextQuests": [
+                {
+                    "Name": "Hohe Jagd im Osten 1",
+                    "Url": "/lodestone/playguide/db/quest/f0a91b02e0b/",
+                    "Area": "Kugane",
+                    "Level": "61"
+                },
+                {
+                    "Name": "Clan Kupo bläst zur Jagd 1",
+                    "Url": "/lodestone/playguide/db/quest/f2816833d78/",
+                    "Area": "Crystarium",
+                    "Level": "70"
+                }
+            ]
+        },
+        "Seq": 20,
+        "oldID": 67658,
+        "Map": {
+            "ID": 218
+        }
+    },
+    {
+        "ID": "a9129de3475",
+        "Name": "Gemäldeschmuggel",
+        "Location": "Ishgard",
+        "Level": 50,
+        "JournalSection": 3,
+        "JournalCategory": 43,
+        "JournalGenre": "Aufträge Ishgard",
+        "Url": "/lodestone/playguide/db/quest/a9129de3475/",
+        "Image": null,
+        "Icon": "common_normal",
+        "Issuer": "Durendaire-Ritter",
+        "StartLocation": {
+            "Name": "Strebewerk",
+            "X": "11.4",
+            "Y": "10.9"
+        },
+        "StartClass": null,
+        "Job": "",
+        "Company": "Keine Angabe",
+        "Requirement": "Keine Angabe",
+        "Rewards": {
+            "Gil": 640,
+            "Exp": 24000,
+            "ItemsMand": [],
+            "ItemsOpt": []
+        },
+        "Infos": {
+            "PrevQuests": [
+                {
+                    "Name": "Die Audienz",
+                    "Url": "/lodestone/playguide/db/quest/c30cb94ef47/",
+                    "Area": "Ishgard",
+                    "Level": "50"
+                }
+            ],
+            "NextQuests": [
+                {
+                    "Name": "Freischaffender Maler",
+                    "Url": "/lodestone/playguide/db/npc/npc/176ec5f1ee6/",
+                    "Area": "Fundamente (X:13.5 Y:12.3)"
+                },
+                {
+                    "Name": "Emerissel",
+                    "Url": "/lodestone/playguide/db/npc/npc/805dff1cb62/",
+                    "Area": "Westliches Hochland von Coerthas (X:32.9 Y:37.9)"
+                }
+            ]
+        },
+        "Seq": 6,
+        "oldID": 67278,
+        "Map": {
+            "ID": 219
+        }
+    },
+    {
+        "ID": "a94b1abd066",
+        "Name": "Mit Sammlerwert heißt heiß begehrt",
+        "Location": "Ishgard",
+        "Level": 50,
+        "JournalSection": 3,
+        "JournalCategory": 43,
+        "JournalGenre": "Aufträge Ishgard",
+        "Url": "/lodestone/playguide/db/quest/a94b1abd066/",
+        "Image": null,
+        "Icon": "function_normal",
+        "Issuer": "Morgayne",
+        "StartLocation": {
+            "Name": "Fundamente",
+            "X": "10.1",
+            "Y": "10.4"
+        },
+        "StartClass": null,
+        "Job": "",
+        "Company": "Keine Angabe",
+        "Requirement": "Keine Angabe",
+        "Rewards": {
+            "Gil": 377,
+            "Exp": 24000,
+            "ItemsMand": [
+                {
+                    "Icon": "https://img.finalfantasyxiv.com/lds/pc/global/images/itemicon/27/279470b2370be00877c385ee1072eb0017376dc5.png?n5.5",
+                    "Name": "",
+                    "Amount": null
+                }
+            ],
+            "ItemsOpt": []
+        },
+        "Infos": {
+            "PrevQuests": [
+                {
+                    "Name": "Einladung in die Schwaden",
+                    "Url": "/lodestone/playguide/db/quest/8ef1c45e2a4/",
+                    "Area": "Ishgard",
+                    "Level": "50"
+                }
+            ],
+            "NextQuests": [
+                {
+                    "Name": "Frohes Sammlerstückesammeln",
+                    "Url": "/lodestone/playguide/db/quest/f4be7048089/",
+                    "Area": "Mor Dhona",
+                    "Level": "60"
+                }
+            ],
+            "NPCs": [
+                {
+                    "Name": "Lydirlona",
+                    "Url": "/lodestone/playguide/db/npc/npc/2f64fe89b08/",
+                    "Area": "Mor Dhona (X:22.3 Y:6.8)"
+                }
+            ]
+        },
+        "Seq": 17,
+        "oldID": 67631,
+        "Map": {
+            "ID": 218
+        }
+    },
+    {
+        "ID": "d0a2152a734",
+        "Name": "Im Namen der Liebe",
+        "Location": "Ishgard",
+        "Level": 50,
+        "JournalSection": 3,
+        "JournalCategory": 43,
+        "JournalGenre": "Aufträge Ishgard",
+        "Url": "/lodestone/playguide/db/quest/d0a2152a734/",
+        "Image": null,
+        "Icon": "common_normal",
+        "Issuer": "Torsefers",
+        "StartLocation": {
+            "Name": "Strebewerk",
+            "X": "11.7",
+            "Y": "11.6"
+        },
+        "StartClass": null,
+        "Job": "",
+        "Company": "Keine Angabe",
+        "Requirement": "Keine Angabe",
+        "Rewards": {
+            "Gil": 728,
+            "Exp": 24000,
+            "ItemsMand": [],
+            "ItemsOpt": []
+        },
+        "Infos": {
+            "PrevQuests": [
+                {
+                    "Name": "Die Audienz",
+                    "Url": "/lodestone/playguide/db/quest/c30cb94ef47/",
+                    "Area": "Ishgard",
+                    "Level": "50"
+                }
+            ],
+            "NextQuests": [
+                {
+                    "Name": "Laniaitte",
+                    "Url": "/lodestone/playguide/db/npc/npc/eceacc0b266/",
+                    "Area": "Abalathisches Wolkenmeer (X:17.0 Y:37.3)"
+                }
+            ]
+        },
+        "Seq": 7,
+        "oldID": 67279,
+        "Map": {
+            "ID": 219
+        }
+    },
+    {
+        "ID": "d2a0497a5cb",
+        "Name": "Hohe Jagd im Hohen Land 2",
+        "Location": "Ishgard",
+        "Level": 56,
+        "JournalSection": 3,
+        "JournalCategory": 43,
+        "JournalGenre": "Aufträge Ishgard",
+        "Url": "/lodestone/playguide/db/quest/d2a0497a5cb/",
+        "Image": null,
+        "Icon": "function_normal",
+        "Issuer": "Eustacia",
+        "StartLocation": {
+            "Name": "Fundamente",
+            "X": "12.6",
+            "Y": "11.6"
+        },
+        "StartClass": null,
+        "Job": "",
+        "Company": "Keine Angabe",
+        "Requirement": "Keine Angabe",
+        "Rewards": {
+            "Gil": 465,
+            "Exp": 36000,
+            "ItemsMand": [],
+            "ItemsOpt": []
+        },
+        "Infos": {
+            "PrevQuests": [
+                {
+                    "Name": "Hohe Jagd im Hohen Land 1",
+                    "Url": "/lodestone/playguide/db/quest/78b452d40d8/",
+                    "Area": "Ishgard",
+                    "Level": "53"
+                }
+            ],
+            "NextQuests": [
+                {
+                    "Name": "Hohe Jagd im Hohen Land 3",
+                    "Url": "/lodestone/playguide/db/quest/04edf80cf2a/",
+                    "Area": "Frohehalde",
+                    "Level": "59"
+                }
+            ],
+            "NPCs": [
+                {
+                    "Name": "Ardolain",
+                    "Url": "/lodestone/playguide/db/shop/afe98eb0ed3/",
+                    "Area": "Fundamente (X:13.0 Y:11.8)"
+                }
+            ]
+        },
+        "Seq": 19,
+        "oldID": 67656,
+        "Map": {
+            "ID": 218
+        }
+    },
+    {
+        "ID": "dbed1e0c53c",
+        "Name": "Suppenküche",
+        "Location": "Ishgard",
+        "Level": 57,
+        "JournalSection": 3,
+        "JournalCategory": 43,
+        "JournalGenre": "Aufträge Ishgard",
+        "Url": "/lodestone/playguide/db/quest/dbed1e0c53c/",
+        "Image": null,
+        "Icon": "common_normal",
+        "Issuer": "Ermiance",
+        "StartLocation": {
+            "Name": "Fundamente",
+            "X": "8.6",
+            "Y": "11.9"
+        },
+        "StartClass": null,
+        "Job": "",
+        "Company": "Keine Angabe",
+        "Requirement": "Keine Angabe",
+        "Rewards": {
+            "Gil": 502,
+            "Exp": 38400,
+            "ItemsMand": [
+                {
+                    "Icon": "https://img.finalfantasyxiv.com/lds/pc/global/images/itemicon/b6/b62d9488ab1897345a89c5517cd86e70cb8c36ec.png?n5.5",
+                    "Name": "Dhalmel-Frikassee",
+                    "Amount": 1,
+                    "Url": "/lodestone/playguide/db/item/d684044f486/"
+                }
+            ],
+            "ItemsOpt": [
+                {
+                    "Icon": "https://img.finalfantasyxiv.com/lds/pc/global/images/itemicon/d8/d80669c37a12b3faf3e58c08920bd8a2c8e6fdd8.png?n5.5",
+                    "Name": "Gulasch",
+                    "Amount": 1,
+                    "Url": "/lodestone/playguide/db/item/265818d4531/"
+                },
+                {
+                    "Icon": "https://img.finalfantasyxiv.com/lds/pc/global/images/itemicon/46/4696b2f027b0b33da98c53098783aef7b1e3cb58.png?n5.5",
+                    "Name": "Bouillabaisse",
+                    "Amount": 1,
+                    "Url": "/lodestone/playguide/db/item/4eb57fadd27/"
+                },
+                {
+                    "Icon": "https://img.finalfantasyxiv.com/lds/pc/global/images/itemicon/80/807946239db549d533cf672d2c02bd4dd74478cd.png?n5.5",
+                    "Name": "Specksuppe",
+                    "Amount": 1,
+                    "Url": "/lodestone/playguide/db/item/c9e719b4072/"
+                }
+            ]
+        },
+        "Infos": {
+            "PrevQuests": [
+                {
+                    "Name": "Der wahre Wandel",
+                    "Url": "/lodestone/playguide/db/quest/e6b448f8e05/",
+                    "Area": "Ishgard",
+                    "Level": "57"
+                }
+            ],
+            "NextQuests": [
+                {
+                    "Name": "Erzürnter Ritter",
+                    "Url": "/lodestone/playguide/db/npc/npc/9d0315fca92/",
+                    "Area": "Fundamente (X:11.4 Y:13.5)"
+                },
+                {
+                    "Name": "Hungriger Junge",
+                    "Url": "/lodestone/playguide/db/npc/npc/6682f59c224/",
+                    "Area": "Fundamente (X:13.5 Y:11.9)"
+                },
+                {
+                    "Name": "Trauernde Witwe",
+                    "Url": "/lodestone/playguide/db/npc/npc/aafb6483b9b/",
+                    "Area": "Fundamente (X:10.6 Y:12.3)"
+                },
+                {
+                    "Name": "Ungehaltener Bürger",
+                    "Url": "/lodestone/playguide/db/npc/npc/714ac43e1a0/",
+                    "Area": "Fundamente (X:11.4 Y:13.5)"
+                },
+                {
+                    "Name": "Fortemps-Ritter",
+                    "Url": "/lodestone/playguide/db/npc/npc/3bac6edbc75/",
+                    "Area": "Strebewerk (X:11.9 Y:10.5)"
+                },
+                {
+                    "Name": "Haillenarte-Ritter",
+                    "Url": "/lodestone/playguide/db/npc/npc/bd3c03c2516/",
+                    "Area": "Strebewerk (X:11.9 Y:10.5)"
+                }
+            ]
+        },
+        "Seq": 14,
+        "oldID": 67441,
+        "Map": {
+            "ID": 218
+        }
+    },
+    {
+        "ID": "e4f2a925bfa",
+        "Name": "Kleine Diebin, großer Traum",
+        "Location": "Ishgard",
+        "Level": 57,
+        "JournalSection": 3,
+        "JournalCategory": 43,
+        "JournalGenre": "Aufträge Ishgard",
+        "Url": "/lodestone/playguide/db/quest/e4f2a925bfa/",
+        "Image": null,
+        "Icon": "common_normal",
+        "Issuer": "Brictt",
+        "StartLocation": {
+            "Name": "Fundamente",
+            "X": "13.2",
+            "Y": "12.5"
+        },
+        "StartClass": null,
+        "Job": "",
+        "Company": "Keine Angabe",
+        "Requirement": "Keine Angabe",
+        "Rewards": {
+            "Gil": 1098,
+            "Exp": 38400,
+            "ItemsMand": [
+                {
+                    "Icon": "https://img.finalfantasyxiv.com/lds/pc/global/images/itemicon/ff/ff2348815e6785e2d6a28ce66f46b920d2749ea2.png?n5.5",
+                    "Name": "Larimar",
+                    "Amount": 1,
+                    "Url": "/lodestone/playguide/db/item/558e8b93077/"
+                }
+            ],
+            "ItemsOpt": []
+        },
+        "Infos": {
+            "PrevQuests": [
+                {
+                    "Name": "Der wahre Wandel",
+                    "Url": "/lodestone/playguide/db/quest/e6b448f8e05/",
+                    "Area": "Ishgard",
+                    "Level": "57"
+                },
+                {
+                    "Name": "Die Spur der Meisterdiebin",
+                    "Url": "/lodestone/playguide/db/quest/87269640a2b/",
+                    "Area": "Ishgard",
+                    "Level": "56"
+                }
+            ],
+            "NextQuests": [
+                {
+                    "Name": "Betrunkener Ritter",
+                    "Url": "/lodestone/playguide/db/npc/npc/c1de0ab7933/",
+                    "Area": "Fundamente (X:13.3 Y:12.2)"
+                }
+            ]
+        },
+        "Seq": 15,
+        "oldID": 67442,
+        "Map": {
+            "ID": 218
+        }
+    },
+    {
+        "ID": "ee29a496192",
+        "Name": "Forschung im Drachenkorridor",
+        "Location": "Ishgard",
+        "Level": 56,
+        "JournalSection": 3,
+        "JournalCategory": 43,
+        "JournalGenre": "Aufträge Ishgard",
+        "Url": "/lodestone/playguide/db/quest/ee29a496192/",
+        "Image": "https://img.finalfantasyxiv.com/lds/pc/global/images/itemicon/24/2485008209e46b56cd2bafbba2466cec9de9eced.png?n5.5",
+        "Icon": "common_normal",
+        "Issuer": "Misstrauischer Tempelritter",
+        "StartLocation": {
+            "Name": "Strebewerk",
+            "X": "11.4",
+            "Y": "11.0"
+        },
+        "StartClass": null,
+        "Job": "",
+        "Company": "Keine Angabe",
+        "Requirement": "Keine Angabe",
+        "Rewards": {
+            "Gil": 875,
+            "Exp": 36000,
+            "ItemsMand": [],
+            "ItemsOpt": []
+        },
+        "Infos": {
+            "PrevQuests": [
+                {
+                    "Name": "Wild entschlossen",
+                    "Url": "/lodestone/playguide/db/quest/502fe826ab0/",
+                    "Area": "Ishgard",
+                    "Level": "56"
+                },
+                {
+                    "Name": "Das verhasste Symbol",
+                    "Url": "/lodestone/playguide/db/quest/19d2b10ae15/",
+                    "Area": "Wallende Nebel",
+                    "Level": "55"
+                }
+            ],
+            "NextQuests": [
+                {
+                    "Name": "Ruhe für Mutter Schiefer",
+                    "Url": "/lodestone/playguide/db/quest/3dda4de15be/",
+                    "Area": "Wallende Nebel",
+                    "Level": "56"
+                },
+                {
+                    "Name": "Eine unheilvolle Vorahnung",
+                    "Url": "/lodestone/playguide/db/quest/79323656b77/",
+                    "Area": "Wallende Nebel",
+                    "Level": "56"
+                }
+            ],
+            "NPCs": [
+                {
+                    "Name": "Handeloup",
+                    "Url": "/lodestone/playguide/db/npc/npc/ec3496b94e2/",
+                    "Area": "Fundamente (X:13.8 Y:11.2)"
+                },
+                {
+                    "Name": "Maenne",
+                    "Url": "/lodestone/playguide/db/npc/npc/ac2b82a3944/",
+                    "Area": "Fundamente (X:13.8 Y:11.2)"
+                },
+                {
+                    "Name": "Misstrauischer Tempelritter",
+                    "Url": "/lodestone/playguide/db/npc/npc/6614adc213e/",
+                    "Area": "Fundamente (X:13.8 Y:11.2)"
+                },
+                {
+                    "Name": "Dragoon-Aufklärerin",
+                    "Url": "/lodestone/playguide/db/npc/npc/daabfdd41a2/",
+                    "Area": "Wallende Nebel (X:22.8 Y:16.1)"
+                },
+                {
+                    "Name": "Maenne",
+                    "Url": "/lodestone/playguide/db/npc/npc/b8b48a5e088/",
+                    "Area": "Wallende Nebel (X:22.8 Y:16.2)"
+                }
+            ]
+        },
+        "Seq": 13,
+        "oldID": 67408,
+        "Map": {
+            "ID": 219
+        }
+    },
+    {
+        "ID": "f9124b405d9",
+        "Name": "Bereit zum Abflug",
+        "Location": "Ishgard",
+        "Level": 50,
+        "JournalSection": 3,
+        "JournalCategory": 43,
+        "JournalGenre": "Aufträge Ishgard",
+        "Url": "/lodestone/playguide/db/quest/f9124b405d9/",
+        "Image": null,
+        "Icon": "common_normal",
+        "Issuer": "Cliaux",
+        "StartLocation": {
+            "Name": "Strebewerk",
+            "X": "14.2",
+            "Y": "11.5"
+        },
+        "StartClass": null,
+        "Job": "",
+        "Company": "Keine Angabe",
+        "Requirement": "Keine Angabe",
+        "Rewards": {
+            "Gil": 517,
+            "Exp": 24000,
+            "ItemsMand": [],
+            "ItemsOpt": []
+        },
+        "Infos": {
+            "PrevQuests": [
+                {
+                    "Name": "Einladung in die Schwaden",
+                    "Url": "/lodestone/playguide/db/quest/8ef1c45e2a4/",
+                    "Area": "Ishgard",
+                    "Level": "50"
+                }
+            ],
+            "NextQuests": [
+                {
+                    "Name": "Fromelaut",
+                    "Url": "/lodestone/playguide/db/npc/npc/217a4a6ae22/",
+                    "Area": "Fundamente (X:8.2 Y:10.2)"
+                },
+                {
+                    "Name": "Jannequinard",
+                    "Url": "/lodestone/playguide/db/npc/npc/5238a5312b1/",
+                    "Area": "Strebewerk (X:15.2 Y:10.0)"
+                }
+            ]
+        },
+        "Seq": 1,
+        "oldID": 67263,
+        "Map": {
+            "ID": 219
+        }
+    },
+    {
+        "ID": "fc85fd3f8c9",
+        "Name": "Alkohol ist auch keine Lösung",
+        "Location": "Ishgard",
+        "Level": 50,
+        "JournalSection": 3,
+        "JournalCategory": 43,
+        "JournalGenre": "Aufträge Ishgard",
+        "Url": "/lodestone/playguide/db/quest/fc85fd3f8c9/",
+        "Image": null,
+        "Icon": "common_normal",
+        "Issuer": "Gibrillont",
+        "StartLocation": {
+            "Name": "Fundamente",
+            "X": "13.0",
+            "Y": "11.8"
+        },
+        "StartClass": null,
+        "Job": "",
+        "Company": "Keine Angabe",
+        "Requirement": "Keine Angabe",
+        "Rewards": {
+            "Gil": 517,
+            "Exp": 24000,
+            "ItemsMand": [],
+            "ItemsOpt": []
+        },
+        "Infos": {
+            "PrevQuests": [
+                {
+                    "Name": "Einladung in die Schwaden",
+                    "Url": "/lodestone/playguide/db/quest/8ef1c45e2a4/",
+                    "Area": "Ishgard",
+                    "Level": "50"
+                }
+            ],
+            "NextQuests": [
+                {
+                    "Name": "Niedergeschlagener Mann",
+                    "Url": "/lodestone/playguide/db/npc/npc/417c3fbd71a/",
+                    "Area": "Fundamente (X:13.5 Y:12.2)"
+                },
+                {
+                    "Name": "Ehemaliger Feudalherr",
+                    "Url": "/lodestone/playguide/db/npc/npc/af6ab9abc84/",
+                    "Area": "Strebewerk (X:14.2 Y:11.1)"
+                },
+                {
+                    "Name": "Sohn des Feudalherrn",
+                    "Url": "/lodestone/playguide/db/npc/npc/4e993852dad/",
+                    "Area": "Strebewerk (X:12.7 Y:9.2)"
+                }
+            ]
+        },
+        "Seq": 2,
+        "oldID": 67264,
+        "Map": {
+            "ID": 218
+        }
+    },
+    {
+        "ID": "fda9f1e0ce0",
+        "Name": "Versprechen und halten ist zweierlei",
+        "Location": "Ishgard",
+        "Level": 51,
+        "JournalSection": 3,
+        "JournalCategory": 43,
+        "JournalGenre": "Aufträge Ishgard",
+        "Url": "/lodestone/playguide/db/quest/fda9f1e0ce0/",
+        "Image": null,
+        "Icon": "common_normal",
+        "Issuer": "Zutiefst verzweifelter Mann",
+        "StartLocation": {
+            "Name": "Fundamente",
+            "X": "12.5",
+            "Y": "10.9"
+        },
+        "StartClass": null,
+        "Job": "",
+        "Company": "Keine Angabe",
+        "Requirement": "Keine Angabe",
+        "Rewards": {
+            "Gil": 791,
+            "Exp": 25200,
+            "ItemsMand": [],
+            "ItemsOpt": []
+        },
+        "Infos": {
+            "PrevQuests": [
+                {
+                    "Name": "Ein Plan nimmt Gestalt an",
+                    "Url": "/lodestone/playguide/db/quest/77cb6c15d41/",
+                    "Area": "Anwesen der Fortemps",
+                    "Level": "51"
+                }
+            ],
+            "NextQuests": [
+                {
+                    "Name": "Bartelot",
+                    "Url": "/lodestone/playguide/db/npc/npc/dfd0b373722/",
+                    "Area": "Strebewerk (X:10.8 Y:11.1)"
+                },
+                {
+                    "Name": "Laniaitte",
+                    "Url": "/lodestone/playguide/db/npc/npc/eceacc0b266/",
+                    "Area": "Abalathisches Wolkenmeer (X:17.0 Y:37.3)"
+                },
+                {
+                    "Name": "Marielle",
+                    "Url": "/lodestone/playguide/db/npc/npc/5badaea7330/",
+                    "Area": "Abalathisches Wolkenmeer (X:15.3 Y:37.7)"
+                }
+            ]
+        },
+        "Seq": 9,
+        "oldID": 67287,
+        "Map": {
+            "ID": 218
+        }
+    }
+]

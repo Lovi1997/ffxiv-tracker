@@ -1,0 +1,779 @@
+[
+    {
+        "ID": "0eaf5b7d2ad",
+        "Name": "Gefahr in Vollzug",
+        "Location": "Azys Lla",
+        "Level": 59,
+        "JournalSection": 3,
+        "JournalCategory": 46,
+        "JournalGenre": "Aufträge Azys Lla",
+        "Url": "/lodestone/playguide/db/quest/0eaf5b7d2ad/",
+        "Image": null,
+        "Icon": "common_normal",
+        "Issuer": "Sicherheitsmodul",
+        "StartLocation": {
+            "Name": "Azys Lla",
+            "X": "14.0",
+            "Y": "15.9"
+        },
+        "StartClass": null,
+        "Job": "",
+        "Company": "Keine Angabe",
+        "Requirement": "Keine Angabe",
+        "Rewards": {
+            "Gil": 577,
+            "Exp": 43200,
+            "ItemsMand": [
+                {
+                    "Icon": "https://img.finalfantasyxiv.com/lds/pc/global/images/itemicon/9b/9bcbc49a589a34378dcea2d9d2a4e6e8f28564f4.png?n5.5",
+                    "Name": "Okeanis-Schnitzel",
+                    "Amount": 1,
+                    "Url": "/lodestone/playguide/db/item/a8c3d2ab01f/"
+                }
+            ],
+            "ItemsOpt": [
+                {
+                    "Icon": "https://img.finalfantasyxiv.com/lds/pc/global/images/itemicon/f3/f38ea068d667e2a65209d73624530113eff08c7b.png?n5.5",
+                    "Name": "Feuerstein-Kaviar",
+                    "Amount": 3,
+                    "Url": "/lodestone/playguide/db/item/d1e8651409e/"
+                },
+                {
+                    "Icon": "https://img.finalfantasyxiv.com/lds/pc/global/images/itemicon/f8/f87cca16e7c34ff2ea865c40bc434678aee08ea1.png?n5.5",
+                    "Name": "Risotto mit schwarzen Trüffeln",
+                    "Amount": 3,
+                    "Url": "/lodestone/playguide/db/item/e33a69364dd/"
+                },
+                {
+                    "Icon": "https://img.finalfantasyxiv.com/lds/pc/global/images/itemicon/50/50051265dea3d069ab9a837056ed05204f2c8e40.png?n5.5",
+                    "Name": "Coeurlfleisch",
+                    "Amount": 3,
+                    "Url": "/lodestone/playguide/db/item/33ce9194865/"
+                }
+            ]
+        },
+        "Infos": {
+            "PrevQuests": [
+                {
+                    "Name": "Erkundung mit System",
+                    "Url": "/lodestone/playguide/db/quest/b212ea09f91/",
+                    "Area": "Azys Lla",
+                    "Level": "59"
+                }
+            ]
+        },
+        "Seq": 2,
+        "oldID": 67517,
+        "Map": {
+            "ID": 216
+        }
+    },
+    {
+        "ID": "20883ced6fd",
+        "Name": "Gejagter Jäger",
+        "Location": "Azys Lla",
+        "Level": 59,
+        "JournalSection": 3,
+        "JournalCategory": 46,
+        "JournalGenre": "Aufträge Azys Lla",
+        "Url": "/lodestone/playguide/db/quest/20883ced6fd/",
+        "Image": null,
+        "Icon": "common_normal",
+        "Issuer": "Jagdmodul",
+        "StartLocation": {
+            "Name": "Azys Lla",
+            "X": "38.6",
+            "Y": "12.0"
+        },
+        "StartClass": null,
+        "Job": "",
+        "Company": "Keine Angabe",
+        "Requirement": "Keine Angabe",
+        "Rewards": {
+            "Gil": 801,
+            "Exp": 43200,
+            "ItemsMand": [
+                {
+                    "Icon": "https://img.finalfantasyxiv.com/lds/pc/global/images/itemicon/d7/d71842fe1562ec9134d467c3a18ccda2f456feff.png?n5.5",
+                    "Name": "Glasierte Glanznüsse",
+                    "Amount": 1,
+                    "Url": "/lodestone/playguide/db/item/fb25a597fee/"
+                }
+            ],
+            "ItemsOpt": [
+                {
+                    "Icon": "https://img.finalfantasyxiv.com/lds/pc/global/images/itemicon/8a/8a7b7e68ab6fdb5284cf36875daf25e66850aae7.png?n5.5",
+                    "Name": "Einspänner",
+                    "Amount": 3,
+                    "Url": "/lodestone/playguide/db/item/4aa4865d977/"
+                },
+                {
+                    "Icon": "https://img.finalfantasyxiv.com/lds/pc/global/images/itemicon/2d/2ddb8f87d4fa3376a3c197facec98318b5b4fffa.png?n5.5",
+                    "Name": "Ananas-Ponzenkuchen",
+                    "Amount": 3,
+                    "Url": "/lodestone/playguide/db/item/9b10bbe5b60/"
+                },
+                {
+                    "Icon": "https://img.finalfantasyxiv.com/lds/pc/global/images/itemicon/d6/d64e1f96e906ee879b1e50f26f17675d8c4c231c.png?n5.5",
+                    "Name": "Apkallu-Omelett",
+                    "Amount": 3,
+                    "Url": "/lodestone/playguide/db/item/4c7a827e4b4/"
+                }
+            ]
+        },
+        "Infos": {
+            "PrevQuests": [
+                {
+                    "Name": "Kompetent geführt",
+                    "Url": "/lodestone/playguide/db/quest/c5a827ce4ec/",
+                    "Area": "Azys Lla",
+                    "Level": "59"
+                }
+            ]
+        },
+        "Seq": 6,
+        "oldID": 67521,
+        "Map": {
+            "ID": 216
+        }
+    },
+    {
+        "ID": "209f435f08a",
+        "Name": "Allagisches Kampftraining",
+        "Location": "Azys Lla",
+        "Level": 59,
+        "JournalSection": 3,
+        "JournalCategory": 46,
+        "JournalGenre": "Aufträge Azys Lla",
+        "Url": "/lodestone/playguide/db/quest/209f435f08a/",
+        "Image": null,
+        "Icon": "common_normal",
+        "Issuer": "Trainingsmodul",
+        "StartLocation": {
+            "Name": "Azys Lla",
+            "X": "10.4",
+            "Y": "12.0"
+        },
+        "StartClass": null,
+        "Job": "",
+        "Company": "Keine Angabe",
+        "Requirement": "Keine Angabe",
+        "Rewards": {
+            "Gil": 545,
+            "Exp": 43200,
+            "ItemsMand": [],
+            "ItemsOpt": []
+        },
+        "Infos": {
+            "PrevQuests": [
+                {
+                    "Name": "Erkundung mit System",
+                    "Url": "/lodestone/playguide/db/quest/b212ea09f91/",
+                    "Area": "Azys Lla",
+                    "Level": "59"
+                }
+            ]
+        },
+        "Seq": 2,
+        "oldID": 67515,
+        "Map": {
+            "ID": 216
+        }
+    },
+    {
+        "ID": "3c55865d0cb",
+        "Name": "Putzkolonne außer Kontrolle",
+        "Location": "Azys Lla",
+        "Level": 59,
+        "JournalSection": 3,
+        "JournalCategory": 46,
+        "JournalGenre": "Aufträge Azys Lla",
+        "Url": "/lodestone/playguide/db/quest/3c55865d0cb/",
+        "Image": null,
+        "Icon": "common_normal",
+        "Issuer": "Reinigungsmodul",
+        "StartLocation": {
+            "Name": "Azys Lla",
+            "X": "9.6",
+            "Y": "12.0"
+        },
+        "StartClass": null,
+        "Job": "",
+        "Company": "Keine Angabe",
+        "Requirement": "Keine Angabe",
+        "Rewards": {
+            "Gil": 673,
+            "Exp": 43200,
+            "ItemsMand": [],
+            "ItemsOpt": [
+                {
+                    "Icon": "https://img.finalfantasyxiv.com/lds/pc/global/images/itemicon/c1/c14184c6be6330462a5d4d44f4b911b45af2b9b5.png?n5.5",
+                    "Name": "Coeurlgelber Farbstoff",
+                    "Amount": 5,
+                    "Url": "/lodestone/playguide/db/item/090214496c7/"
+                },
+                {
+                    "Icon": "https://img.finalfantasyxiv.com/lds/pc/global/images/itemicon/7b/7bf85ff916a27cc2b17a3cbe2c9509757a2ed3fd.png?n5.5",
+                    "Name": "Steinbockbrauner Farbstoff",
+                    "Amount": 5,
+                    "Url": "/lodestone/playguide/db/item/5c9385d9e3b/"
+                },
+                {
+                    "Icon": "https://img.finalfantasyxiv.com/lds/pc/global/images/itemicon/87/8766a615ce1f564836948df8c194a9c33b733b45.png?n5.5",
+                    "Name": "Sylphengrüner Farbstoff",
+                    "Amount": 5,
+                    "Url": "/lodestone/playguide/db/item/affd21c6f76/"
+                },
+                {
+                    "Icon": "https://img.finalfantasyxiv.com/lds/pc/global/images/itemicon/01/01b25fdbfd80233262131662c4d73e836a284b71.png?n5.5",
+                    "Name": "Altrosa Farbstoff",
+                    "Amount": 5,
+                    "Url": "/lodestone/playguide/db/item/853d5204143/"
+                },
+                {
+                    "Icon": "https://img.finalfantasyxiv.com/lds/pc/global/images/itemicon/87/8766a615ce1f564836948df8c194a9c33b733b45.png?n5.5",
+                    "Name": "Jägergrüner Farbstoff",
+                    "Amount": 5,
+                    "Url": "/lodestone/playguide/db/item/73f7ac282d9/"
+                }
+            ]
+        },
+        "Infos": {
+            "PrevQuests": [
+                {
+                    "Name": "Erkundung mit System",
+                    "Url": "/lodestone/playguide/db/quest/b212ea09f91/",
+                    "Area": "Azys Lla",
+                    "Level": "59"
+                }
+            ]
+        },
+        "Seq": 1,
+        "oldID": 67516,
+        "Map": {
+            "ID": 216
+        }
+    },
+    {
+        "ID": "7c70edd18ae",
+        "Name": "Altmetallriesen",
+        "Location": "Azys Lla",
+        "Level": 59,
+        "JournalSection": 3,
+        "JournalCategory": 46,
+        "JournalGenre": "Aufträge Azys Lla",
+        "Url": "/lodestone/playguide/db/quest/7c70edd18ae/",
+        "Image": null,
+        "Icon": "common_normal",
+        "Issuer": "Produktionsmodul",
+        "StartLocation": {
+            "Name": "Azys Lla",
+            "X": "26.8",
+            "Y": "33.2"
+        },
+        "StartClass": null,
+        "Job": "",
+        "Company": "Keine Angabe",
+        "Requirement": "Keine Angabe",
+        "Rewards": {
+            "Gil": 577,
+            "Exp": 43200,
+            "ItemsMand": [
+                {
+                    "Icon": "https://img.finalfantasyxiv.com/lds/pc/global/images/itemicon/b3/b3afa3f6ddfbfe9df0f1fbc82e3a0b56b8a32c18.png?n5.5",
+                    "Name": "Muschelsuppe",
+                    "Amount": 1,
+                    "Url": "/lodestone/playguide/db/item/f2adb9b5e98/"
+                }
+            ],
+            "ItemsOpt": [
+                {
+                    "Icon": "https://img.finalfantasyxiv.com/lds/pc/global/images/itemicon/4e/4e3bf61f99bb59af8e71487eb4c5cdbae01a27b3.png?n5.5",
+                    "Name": "Haifischflossensuppe",
+                    "Amount": 3,
+                    "Url": "/lodestone/playguide/db/item/5dd7114e7c8/"
+                },
+                {
+                    "Icon": "https://img.finalfantasyxiv.com/lds/pc/global/images/itemicon/b3/b3afa3f6ddfbfe9df0f1fbc82e3a0b56b8a32c18.png?n5.5",
+                    "Name": "Kalte Toffelsuppe",
+                    "Amount": 3,
+                    "Url": "/lodestone/playguide/db/item/858982437ec/"
+                },
+                {
+                    "Icon": "https://img.finalfantasyxiv.com/lds/pc/global/images/itemicon/a0/a02194449b9efb177af0cfe2f083e273a5704f03.png?n5.5",
+                    "Name": "Fischsuppe",
+                    "Amount": 3,
+                    "Url": "/lodestone/playguide/db/item/655e06195ec/"
+                }
+            ]
+        },
+        "Infos": {
+            "PrevQuests": [
+                {
+                    "Name": "Schleusenwartung",
+                    "Url": "/lodestone/playguide/db/quest/7145740cd42/",
+                    "Area": "Azys Lla",
+                    "Level": "59"
+                }
+            ]
+        },
+        "Seq": 10,
+        "oldID": 67525,
+        "Map": {
+            "ID": 216
+        }
+    },
+    {
+        "ID": "8d82dcd1e67",
+        "Name": "Erhöhte Aggressivität",
+        "Location": "Azys Lla",
+        "Level": 59,
+        "JournalSection": 3,
+        "JournalCategory": 46,
+        "JournalGenre": "Aufträge Azys Lla",
+        "Url": "/lodestone/playguide/db/quest/8d82dcd1e67/",
+        "Image": null,
+        "Icon": "common_normal",
+        "Issuer": "Verbesserungsmodul",
+        "StartLocation": {
+            "Name": "Azys Lla",
+            "X": "18.7",
+            "Y": "32.0"
+        },
+        "StartClass": null,
+        "Job": "",
+        "Company": "Keine Angabe",
+        "Requirement": "Keine Angabe",
+        "Rewards": {
+            "Gil": 577,
+            "Exp": 43200,
+            "ItemsMand": [],
+            "ItemsOpt": []
+        },
+        "Infos": {
+            "PrevQuests": [
+                {
+                    "Name": "Kontakt vermeiden",
+                    "Url": "/lodestone/playguide/db/quest/dc39b7b5f1d/",
+                    "Area": "Azys Lla",
+                    "Level": "59"
+                }
+            ]
+        },
+        "Seq": 13,
+        "oldID": 67528,
+        "Map": {
+            "ID": 216
+        }
+    },
+    {
+        "ID": "96a23455eff",
+        "Name": "Hocheffizient",
+        "Location": "Azys Lla",
+        "Level": 59,
+        "JournalSection": 3,
+        "JournalCategory": 46,
+        "JournalGenre": "Aufträge Azys Lla",
+        "Url": "/lodestone/playguide/db/quest/96a23455eff/",
+        "Image": null,
+        "Icon": "common_normal",
+        "Issuer": "Steuermodul",
+        "StartLocation": {
+            "Name": "Azys Lla",
+            "X": "11.4",
+            "Y": "37.9"
+        },
+        "StartClass": null,
+        "Job": "",
+        "Company": "Keine Angabe",
+        "Requirement": "Keine Angabe",
+        "Rewards": {
+            "Gil": 673,
+            "Exp": 43200,
+            "ItemsMand": [
+                {
+                    "Icon": "https://img.finalfantasyxiv.com/lds/pc/global/images/itemicon/f2/f27ff89b4c8351ee2040fa720d9d12a121a3f20d.png?n5.5",
+                    "Name": "Gefüllter Kohlkraut-Kopf",
+                    "Amount": 1,
+                    "Url": "/lodestone/playguide/db/item/4cb85b0975c/"
+                }
+            ],
+            "ItemsOpt": [
+                {
+                    "Icon": "https://img.finalfantasyxiv.com/lds/pc/global/images/itemicon/21/21c6b808f0e4b460ec8b4f88908441f48c1eab51.png?n5.5",
+                    "Name": "Taramosalata",
+                    "Amount": 3,
+                    "Url": "/lodestone/playguide/db/item/38df087fd67/"
+                },
+                {
+                    "Icon": "https://img.finalfantasyxiv.com/lds/pc/global/images/itemicon/8a/8aea4a8a10fdc318a80347233a17b999a989dd15.png?n5.5",
+                    "Name": "Fallensteller-Quiche",
+                    "Amount": 3,
+                    "Url": "/lodestone/playguide/db/item/162adf9a05b/"
+                },
+                {
+                    "Icon": "https://img.finalfantasyxiv.com/lds/pc/global/images/itemicon/f2/f27ff89b4c8351ee2040fa720d9d12a121a3f20d.png?n5.5",
+                    "Name": "Gefüllte Artischocke",
+                    "Amount": 3,
+                    "Url": "/lodestone/playguide/db/item/6df6c6106d1/"
+                }
+            ]
+        },
+        "Infos": {
+            "PrevQuests": [
+                {
+                    "Name": "Kontakt vermeiden",
+                    "Url": "/lodestone/playguide/db/quest/dc39b7b5f1d/",
+                    "Area": "Azys Lla",
+                    "Level": "59"
+                }
+            ]
+        },
+        "Seq": 12,
+        "oldID": 67527,
+        "Map": {
+            "ID": 216
+        }
+    },
+    {
+        "ID": "99ad241a500",
+        "Name": "Sachbeschädigung",
+        "Location": "Azys Lla",
+        "Level": 59,
+        "JournalSection": 3,
+        "JournalCategory": 46,
+        "JournalGenre": "Aufträge Azys Lla",
+        "Url": "/lodestone/playguide/db/quest/99ad241a500/",
+        "Image": null,
+        "Icon": "common_normal",
+        "Issuer": "Logistikmodul",
+        "StartLocation": {
+            "Name": "Azys Lla",
+            "X": "34.0",
+            "Y": "29.1"
+        },
+        "StartClass": null,
+        "Job": "",
+        "Company": "Keine Angabe",
+        "Requirement": "Keine Angabe",
+        "Rewards": {
+            "Gil": 737,
+            "Exp": 43200,
+            "ItemsMand": [
+                {
+                    "Icon": "https://img.finalfantasyxiv.com/lds/pc/global/images/itemicon/c9/c9531bb5da87b693f15d446e227a7362971cb3bb.png?n5.5",
+                    "Name": "Mörchel-Salat",
+                    "Amount": 1,
+                    "Url": "/lodestone/playguide/db/item/b5294844d36/"
+                }
+            ],
+            "ItemsOpt": [
+                {
+                    "Icon": "https://img.finalfantasyxiv.com/lds/pc/global/images/itemicon/26/264d0e5862be8b2d176bad80e4821427a07b40ea.png?n5.5",
+                    "Name": "Röstente",
+                    "Amount": 3,
+                    "Url": "/lodestone/playguide/db/item/5df63e40d7d/"
+                },
+                {
+                    "Icon": "https://img.finalfantasyxiv.com/lds/pc/global/images/itemicon/c9/c9099b0cc5279350c5eaa1e00b78125a251797ee.png?n5.5",
+                    "Name": "Eiersandwich à la Bismarck",
+                    "Amount": 3,
+                    "Url": "/lodestone/playguide/db/item/b5301f8cf68/"
+                },
+                {
+                    "Icon": "https://img.finalfantasyxiv.com/lds/pc/global/images/itemicon/ca/ca9b8e5c197c3a50d06e1e29f1582c41e729d825.png?n5.5",
+                    "Name": "Verteufelte Eier",
+                    "Amount": 3,
+                    "Url": "/lodestone/playguide/db/item/702014863f4/"
+                }
+            ]
+        },
+        "Infos": {
+            "PrevQuests": [
+                {
+                    "Name": "Schleusenwartung",
+                    "Url": "/lodestone/playguide/db/quest/7145740cd42/",
+                    "Area": "Azys Lla",
+                    "Level": "59"
+                }
+            ]
+        },
+        "Seq": 8,
+        "oldID": 67523,
+        "Map": {
+            "ID": 216
+        }
+    },
+    {
+        "ID": "addb14d009e",
+        "Name": "Revolutionäre Legionäre",
+        "Location": "Azys Lla",
+        "Level": 59,
+        "JournalSection": 3,
+        "JournalCategory": 46,
+        "JournalGenre": "Aufträge Azys Lla",
+        "Url": "/lodestone/playguide/db/quest/addb14d009e/",
+        "Image": null,
+        "Icon": "common_normal",
+        "Issuer": "Beseitigungsmodul",
+        "StartLocation": {
+            "Name": "Azys Lla",
+            "X": "34.2",
+            "Y": "24.5"
+        },
+        "StartClass": null,
+        "Job": "",
+        "Company": "Keine Angabe",
+        "Requirement": "Keine Angabe",
+        "Rewards": {
+            "Gil": 737,
+            "Exp": 43200,
+            "ItemsMand": [],
+            "ItemsOpt": []
+        },
+        "Infos": {
+            "PrevQuests": [
+                {
+                    "Name": "Schleusenwartung",
+                    "Url": "/lodestone/playguide/db/quest/7145740cd42/",
+                    "Area": "Azys Lla",
+                    "Level": "59"
+                }
+            ]
+        },
+        "Seq": 7,
+        "oldID": 67522,
+        "Map": {
+            "ID": 216
+        }
+    },
+    {
+        "ID": "c10de8d596c",
+        "Name": "Aufstandsbekämpfungskapazität",
+        "Location": "Azys Lla",
+        "Level": 59,
+        "JournalSection": 3,
+        "JournalCategory": 46,
+        "JournalGenre": "Aufträge Azys Lla",
+        "Url": "/lodestone/playguide/db/quest/c10de8d596c/",
+        "Image": null,
+        "Icon": "common_normal",
+        "Issuer": "Repressionsmodul",
+        "StartLocation": {
+            "Name": "Azys Lla",
+            "X": "19.0",
+            "Y": "12.3"
+        },
+        "StartClass": null,
+        "Job": "",
+        "Company": "Keine Angabe",
+        "Requirement": "Keine Angabe",
+        "Rewards": {
+            "Gil": 545,
+            "Exp": 43200,
+            "ItemsMand": [],
+            "ItemsOpt": []
+        },
+        "Infos": {
+            "PrevQuests": [
+                {
+                    "Name": "Erkundung mit System",
+                    "Url": "/lodestone/playguide/db/quest/b212ea09f91/",
+                    "Area": "Azys Lla",
+                    "Level": "59"
+                }
+            ]
+        },
+        "Seq": 3,
+        "oldID": 67518,
+        "Map": {
+            "ID": 216
+        }
+    },
+    {
+        "ID": "c9e7e8ed7bc",
+        "Name": "Hohe Standards",
+        "Location": "Azys Lla",
+        "Level": 59,
+        "JournalSection": 3,
+        "JournalCategory": 46,
+        "JournalGenre": "Aufträge Azys Lla",
+        "Url": "/lodestone/playguide/db/quest/c9e7e8ed7bc/",
+        "Image": null,
+        "Icon": "common_normal",
+        "Issuer": "Konstriktionsmodul",
+        "StartLocation": {
+            "Name": "Azys Lla",
+            "X": "9.3",
+            "Y": "36.5"
+        },
+        "StartClass": null,
+        "Job": "",
+        "Company": "Keine Angabe",
+        "Requirement": "Keine Angabe",
+        "Rewards": {
+            "Gil": 737,
+            "Exp": 43200,
+            "ItemsMand": [],
+            "ItemsOpt": []
+        },
+        "Infos": {
+            "PrevQuests": [
+                {
+                    "Name": "Kontakt vermeiden",
+                    "Url": "/lodestone/playguide/db/quest/dc39b7b5f1d/",
+                    "Area": "Azys Lla",
+                    "Level": "59"
+                }
+            ]
+        },
+        "Seq": 11,
+        "oldID": 67526,
+        "Map": {
+            "ID": 216
+        }
+    },
+    {
+        "ID": "db0780df5cc",
+        "Name": "Technologiediebstahl",
+        "Location": "Azys Lla",
+        "Level": 59,
+        "JournalSection": 3,
+        "JournalCategory": 46,
+        "JournalGenre": "Aufträge Azys Lla",
+        "Url": "/lodestone/playguide/db/quest/db0780df5cc/",
+        "Image": null,
+        "Icon": "common_normal",
+        "Issuer": "Observationsmodul",
+        "StartLocation": {
+            "Name": "Azys Lla",
+            "X": "29.8",
+            "Y": "37.6"
+        },
+        "StartClass": null,
+        "Job": "",
+        "Company": "Keine Angabe",
+        "Requirement": "Keine Angabe",
+        "Rewards": {
+            "Gil": 705,
+            "Exp": 43200,
+            "ItemsMand": [],
+            "ItemsOpt": []
+        },
+        "Infos": {
+            "PrevQuests": [
+                {
+                    "Name": "Schleusenwartung",
+                    "Url": "/lodestone/playguide/db/quest/7145740cd42/",
+                    "Area": "Azys Lla",
+                    "Level": "59"
+                }
+            ]
+        },
+        "Seq": 9,
+        "oldID": 67524,
+        "Map": {
+            "ID": 216
+        }
+    },
+    {
+        "ID": "e41a842a4dd",
+        "Name": "Sporenbelastung",
+        "Location": "Azys Lla",
+        "Level": 59,
+        "JournalSection": 3,
+        "JournalCategory": 46,
+        "JournalGenre": "Aufträge Azys Lla",
+        "Url": "/lodestone/playguide/db/quest/e41a842a4dd/",
+        "Image": null,
+        "Icon": "common_normal",
+        "Issuer": "Lebenserhaltungssystem",
+        "StartLocation": {
+            "Name": "Azys Lla",
+            "X": "37.7",
+            "Y": "10.9"
+        },
+        "StartClass": null,
+        "Job": "",
+        "Company": "Keine Angabe",
+        "Requirement": "Keine Angabe",
+        "Rewards": {
+            "Gil": 545,
+            "Exp": 43200,
+            "ItemsMand": [
+                {
+                    "Icon": "https://img.finalfantasyxiv.com/lds/pc/global/images/itemicon/60/606b393d7113c4a3c6980dcac15d90d18ffc0222.png?n5.5",
+                    "Name": "Projektionsprisma",
+                    "Amount": 5,
+                    "Url": "/lodestone/playguide/db/item/58886c8cb88/"
+                }
+            ],
+            "ItemsOpt": []
+        },
+        "Infos": {
+            "PrevQuests": [
+                {
+                    "Name": "Kompetent geführt",
+                    "Url": "/lodestone/playguide/db/quest/c5a827ce4ec/",
+                    "Area": "Azys Lla",
+                    "Level": "59"
+                }
+            ]
+        },
+        "Seq": 5,
+        "oldID": 67520,
+        "Map": {
+            "ID": 216
+        }
+    },
+    {
+        "ID": "f0c22eb277b",
+        "Name": "Hybridzüchtung",
+        "Location": "Azys Lla",
+        "Level": 59,
+        "JournalSection": 3,
+        "JournalCategory": 46,
+        "JournalGenre": "Aufträge Azys Lla",
+        "Url": "/lodestone/playguide/db/quest/f0c22eb277b/",
+        "Image": null,
+        "Icon": "common_normal",
+        "Issuer": "Forschungsmodul",
+        "StartLocation": {
+            "Name": "Azys Lla",
+            "X": "27.1",
+            "Y": "10.4"
+        },
+        "StartClass": null,
+        "Job": "",
+        "Company": "Keine Angabe",
+        "Requirement": "Keine Angabe",
+        "Rewards": {
+            "Gil": 705,
+            "Exp": 43200,
+            "ItemsMand": [
+                {
+                    "Icon": "https://img.finalfantasyxiv.com/lds/pc/global/images/itemicon/60/606b393d7113c4a3c6980dcac15d90d18ffc0222.png?n5.5",
+                    "Name": "Projektionsprisma",
+                    "Amount": 5,
+                    "Url": "/lodestone/playguide/db/item/58886c8cb88/"
+                }
+            ],
+            "ItemsOpt": []
+        },
+        "Infos": {
+            "PrevQuests": [
+                {
+                    "Name": "Kompetent geführt",
+                    "Url": "/lodestone/playguide/db/quest/c5a827ce4ec/",
+                    "Area": "Azys Lla",
+                    "Level": "59"
+                }
+            ]
+        },
+        "Seq": 4,
+        "oldID": 67519,
+        "Map": {
+            "ID": 216
+        }
+    }
+]

@@ -1,0 +1,1161 @@
+[
+    {
+        "ID": "019be3a7d9d",
+        "Name": "The Perfect Woman",
+        "Location": "Kugane",
+        "Level": 67,
+        "JournalSection": 3,
+        "JournalCategory": 49,
+        "JournalGenre": "Hingan Sidequests",
+        "Url": "/lodestone/playguide/db/quest/019be3a7d9d/",
+        "Image": null,
+        "Icon": "common_normal",
+        "Issuer": "Ijin Merchant",
+        "StartLocation": {
+            "Name": "Kugane",
+            "X": "11.2",
+            "Y": "12.5"
+        },
+        "StartClass": null,
+        "Job": "",
+        "Company": "Not specified",
+        "Requirement": "Not specified",
+        "Rewards": {
+            "Gil": 802,
+            "Exp": 112050,
+            "ItemsMand": [],
+            "ItemsOpt": []
+        },
+        "Infos": {
+            "PrevQuests": [
+                {
+                    "Name": "The World Turned Upside Down",
+                    "Url": "/lodestone/playguide/db/quest/0bbbbf89a8f/",
+                    "Area": "Yanxia",
+                    "Level": "67"
+                }
+            ],
+            "NextQuests": [
+                {
+                    "Name": "Agile Actor",
+                    "Url": "/lodestone/playguide/db/npc/npc/3624d01ce71/",
+                    "Area": "Kugane (X:13.7 Y:11.4)"
+                },
+                {
+                    "Name": "Athletic Actor",
+                    "Url": "/lodestone/playguide/db/npc/npc/d8710659f2c/",
+                    "Area": "Kugane (X:9.9 Y:10.0)"
+                },
+                {
+                    "Name": "Attractive Actor",
+                    "Url": "/lodestone/playguide/db/npc/npc/412d7af9496/",
+                    "Area": "Kugane (X:12.8 Y:12.3)"
+                },
+                {
+                    "Name": "Average Actor",
+                    "Url": "/lodestone/playguide/db/npc/npc/c733ef403f7/",
+                    "Area": "Kugane (X:13.2 Y:12.1)"
+                },
+                {
+                    "Name": "Ijin Merchant",
+                    "Url": "/lodestone/playguide/db/npc/npc/1d49c4e74c0/",
+                    "Area": "Kugane (X:10.9 Y:9.9)"
+                },
+                {
+                    "Name": "Ijin Merchant",
+                    "Url": "/lodestone/playguide/db/npc/npc/508ccdc551f/",
+                    "Area": "Kugane (X:13.7 Y:11.5)"
+                }
+            ]
+        },
+        "Seq": 11,
+        "oldID": 68348,
+        "Map": {
+            "ID": 370
+        }
+    },
+    {
+        "ID": "1fc0b9ac272",
+        "Name": "King of the Castle",
+        "Location": "Kugane",
+        "Level": 70,
+        "JournalSection": 3,
+        "JournalCategory": 49,
+        "JournalGenre": "Hingan Sidequests",
+        "Url": "/lodestone/playguide/db/quest/1fc0b9ac272/",
+        "Image": "https://img.finalfantasyxiv.com/lds/pc/global/images/itemicon/0b/0bd88cd0cf17865be47fffae007e49aef373f4ee.png?n5.5",
+        "Icon": "function_normal",
+        "Issuer": "East Aldenard Trading Company Associate",
+        "StartLocation": {
+            "Name": "Kugane",
+            "X": "13.9",
+            "Y": "13.3"
+        },
+        "StartClass": null,
+        "Job": "",
+        "Company": "Not specified",
+        "Requirement": "Not specified",
+        "Rewards": {
+            "Gil": 3997,
+            "Exp": 0,
+            "ItemsMand": [],
+            "ItemsOpt": []
+        },
+        "Infos": {
+            "PrevQuests": [
+                {
+                    "Name": "Stormblood",
+                    "Url": "/lodestone/playguide/db/quest/08908744553/",
+                    "Area": "The Lochs",
+                    "Level": "70"
+                }
+            ],
+            "NextQuests": [
+                {
+                    "Name": "Sekiseigumi Blade",
+                    "Url": "/lodestone/playguide/db/npc/npc/8f5acfc5943/",
+                    "Area": "Kugane (X:12.6 Y:6.2)"
+                }
+            ]
+        },
+        "Seq": 19,
+        "oldID": 68170,
+        "Map": {
+            "ID": 370
+        }
+    },
+    {
+        "ID": "4d158ccd272",
+        "Name": "Dedication to the Craft",
+        "Location": "Kugane",
+        "Level": 61,
+        "JournalSection": 3,
+        "JournalCategory": 49,
+        "JournalGenre": "Hingan Sidequests",
+        "Url": "/lodestone/playguide/db/quest/4d158ccd272/",
+        "Image": null,
+        "Icon": "common_normal",
+        "Issuer": "Near Eastern Merchant",
+        "StartLocation": {
+            "Name": "Kugane",
+            "X": "10.5",
+            "Y": "12.4"
+        },
+        "StartClass": null,
+        "Job": "",
+        "Company": "Not specified",
+        "Requirement": "Not specified",
+        "Rewards": {
+            "Gil": 622,
+            "Exp": 87750,
+            "ItemsMand": [],
+            "ItemsOpt": []
+        },
+        "Infos": {
+            "PrevQuests": [
+                {
+                    "Name": "By the Grace of Lord Lolorito",
+                    "Url": "/lodestone/playguide/db/quest/0f50e760a84/",
+                    "Area": "Kugane",
+                    "Level": "61"
+                }
+            ],
+            "NextQuests": [
+                {
+                    "Name": "Humble Servant",
+                    "Url": "/lodestone/playguide/db/npc/npc/cd02c5fdb52/",
+                    "Area": "Kugane (X:10.8 Y:8.2)"
+                },
+                {
+                    "Name": "Humble Servant",
+                    "Url": "/lodestone/playguide/db/npc/npc/4c0b257f33d/",
+                    "Area": "Kugane (X:10.5 Y:12.4)"
+                },
+                {
+                    "Name": "Veteran Lanternmaker",
+                    "Url": "/lodestone/playguide/db/npc/npc/b8c89ace6e6/",
+                    "Area": "Kugane (X:10.9 Y:7.3)"
+                }
+            ]
+        },
+        "Seq": 3,
+        "oldID": 68201,
+        "Map": {
+            "ID": 370
+        }
+    },
+    {
+        "ID": "5724f1b09dc",
+        "Name": "A Bleak Diagnosis",
+        "Location": "Kugane",
+        "Level": 61,
+        "JournalSection": 3,
+        "JournalCategory": 49,
+        "JournalGenre": "Hingan Sidequests",
+        "Url": "/lodestone/playguide/db/quest/5724f1b09dc/",
+        "Image": null,
+        "Icon": "common_normal",
+        "Issuer": "Yamabiko",
+        "StartLocation": {
+            "Name": "Kugane",
+            "X": "8.0",
+            "Y": "13.0"
+        },
+        "StartClass": null,
+        "Job": "",
+        "Company": "Not specified",
+        "Requirement": "Not specified",
+        "Rewards": {
+            "Gil": 556,
+            "Exp": 87750,
+            "ItemsMand": [],
+            "ItemsOpt": []
+        },
+        "Infos": {
+            "PrevQuests": [
+                {
+                    "Name": "Making the Catfish Sing",
+                    "Url": "/lodestone/playguide/db/quest/10725d545dd/",
+                    "Area": "Kugane",
+                    "Level": "61"
+                }
+            ],
+            "NextQuests": [
+                {
+                    "Name": "Karaku",
+                    "Url": "/lodestone/playguide/db/npc/npc/6ab90e93084/",
+                    "Area": "Kugane (X:9.5 Y:7.4)"
+                },
+                {
+                    "Name": "Kotokaze",
+                    "Url": "/lodestone/playguide/db/npc/npc/35da909f940/",
+                    "Area": "Kugane (X:10.2 Y:10.2)"
+                },
+                {
+                    "Name": "Miyamagi",
+                    "Url": "/lodestone/playguide/db/npc/npc/2366f60fb2f/",
+                    "Area": "Kugane (X:12.5 Y:7.8)"
+                },
+                {
+                    "Name": "Yamabuki",
+                    "Url": "/lodestone/playguide/db/npc/npc/6e76ed822c0/",
+                    "Area": "Kugane (X:12.8 Y:12.3)"
+                }
+            ]
+        },
+        "Seq": 9,
+        "oldID": 68207,
+        "Map": {
+            "ID": 370
+        }
+    },
+    {
+        "ID": "58119a76036",
+        "Name": "Child Labor",
+        "Location": "Kugane",
+        "Level": 67,
+        "JournalSection": 3,
+        "JournalCategory": 49,
+        "JournalGenre": "Hingan Sidequests",
+        "Url": "/lodestone/playguide/db/quest/58119a76036/",
+        "Image": null,
+        "Icon": "common_normal",
+        "Issuer": "Keisetsu",
+        "StartLocation": {
+            "Name": "Kugane",
+            "X": "11.1",
+            "Y": "8.9"
+        },
+        "StartClass": null,
+        "Job": "",
+        "Company": "Not specified",
+        "Requirement": "Not specified",
+        "Rewards": {
+            "Gil": 0,
+            "Exp": 112050,
+            "ItemsMand": [
+                {
+                    "Icon": "https://img.finalfantasyxiv.com/lds/pc/global/images/itemicon/5c/5cd24f7fc4686eb2ba37f9b2145ada87447de825.png?n5.5",
+                    "Name": "Baklava",
+                    "Amount": 1,
+                    "Url": "/lodestone/playguide/db/item/7c0e3842593/"
+                }
+            ],
+            "ItemsOpt": []
+        },
+        "Infos": {
+            "PrevQuests": [
+                {
+                    "Name": "The World Turned Upside Down",
+                    "Url": "/lodestone/playguide/db/quest/0bbbbf89a8f/",
+                    "Area": "Yanxia",
+                    "Level": "67"
+                }
+            ],
+            "NextQuests": [
+                {
+                    "Name": "Auri Merchant",
+                    "Url": "/lodestone/playguide/db/npc/npc/e8ab5c5d230/",
+                    "Area": "Kugane (X:12.8 Y:12.6)"
+                },
+                {
+                    "Name": "Duskwight Debutante",
+                    "Url": "/lodestone/playguide/db/npc/npc/5423e0ee0e2/",
+                    "Area": "Kugane (X:9.0 Y:8.9)"
+                },
+                {
+                    "Name": "Lalafellin Deckswab",
+                    "Url": "/lodestone/playguide/db/npc/npc/a4c85c6c185/",
+                    "Area": "Kugane (X:9.4 Y:9.9)"
+                },
+                {
+                    "Name": "Lalafellin Trader",
+                    "Url": "/lodestone/playguide/db/npc/npc/7a0d4f51d3e/",
+                    "Area": "Kugane (X:11.5 Y:14.7)"
+                },
+                {
+                    "Name": "Miqo'te Traveler",
+                    "Url": "/lodestone/playguide/db/npc/npc/389d9042931/",
+                    "Area": "Kugane (X:11.8 Y:10.2)"
+                },
+                {
+                    "Name": "Roegadyn Sailor",
+                    "Url": "/lodestone/playguide/db/npc/npc/469d4b0e18f/",
+                    "Area": "Kugane (X:10.5 Y:12.6)"
+                }
+            ]
+        },
+        "Seq": 12,
+        "oldID": 68349,
+        "Map": {
+            "ID": 370
+        }
+    },
+    {
+        "ID": "599921f1c53",
+        "Name": "Three-star Veteran Clan Hunt",
+        "Location": "Kugane",
+        "Level": 66,
+        "JournalSection": 3,
+        "JournalCategory": 49,
+        "JournalGenre": "Hingan Sidequests",
+        "Url": "/lodestone/playguide/db/quest/599921f1c53/",
+        "Image": null,
+        "Icon": "function_normal",
+        "Issuer": "Estrild",
+        "StartLocation": {
+            "Name": "Kugane",
+            "X": "10.3",
+            "Y": "10.2"
+        },
+        "StartClass": null,
+        "Job": "",
+        "Company": "Not specified",
+        "Requirement": "Not specified",
+        "Rewards": {
+            "Gil": 515,
+            "Exp": 108000,
+            "ItemsMand": [],
+            "ItemsOpt": []
+        },
+        "Infos": {
+            "PrevQuests": [
+                {
+                    "Name": "Two-star Veteran Clan Hunt",
+                    "Url": "/lodestone/playguide/db/quest/eba740d39bb/",
+                    "Area": "Kugane",
+                    "Level": "63"
+                }
+            ],
+            "NextQuests": [
+                {
+                    "Name": "Elite Veteran Clan Hunt",
+                    "Url": "/lodestone/playguide/db/quest/f704d1dfcc8/",
+                    "Area": "Kugane",
+                    "Level": "70"
+                }
+            ],
+            "NPCs": [
+                {
+                    "Name": "Wlveva",
+                    "Url": "/lodestone/playguide/db/npc/npc/70c42523340/",
+                    "Area": "Kugane (X:10.6 Y:10.3)"
+                }
+            ]
+        },
+        "Seq": 17,
+        "oldID": 68474,
+        "Map": {
+            "ID": 370
+        }
+    },
+    {
+        "ID": "5dc3579734f",
+        "Name": "The Weight of a Dream",
+        "Location": "Kugane",
+        "Level": 67,
+        "JournalSection": 3,
+        "JournalCategory": 49,
+        "JournalGenre": "Hingan Sidequests",
+        "Url": "/lodestone/playguide/db/quest/5dc3579734f/",
+        "Image": null,
+        "Icon": "common_normal",
+        "Issuer": "Puissant Porter",
+        "StartLocation": {
+            "Name": "Kugane",
+            "X": "9.9",
+            "Y": "14.3"
+        },
+        "StartClass": null,
+        "Job": "",
+        "Company": "Not specified",
+        "Requirement": "Not specified",
+        "Rewards": {
+            "Gil": 590,
+            "Exp": 112050,
+            "ItemsMand": [],
+            "ItemsOpt": []
+        },
+        "Infos": {
+            "PrevQuests": [
+                {
+                    "Name": "The World Turned Upside Down",
+                    "Url": "/lodestone/playguide/db/quest/0bbbbf89a8f/",
+                    "Area": "Yanxia",
+                    "Level": "67"
+                }
+            ],
+            "NextQuests": [
+                {
+                    "Name": "Accomplished Apothecary",
+                    "Url": "/lodestone/playguide/db/npc/npc/e116a8a8984/",
+                    "Area": "Kugane (X:12.0 Y:11.9)"
+                }
+            ]
+        },
+        "Seq": 14,
+        "oldID": 68351,
+        "Map": {
+            "ID": 370
+        }
+    },
+    {
+        "ID": "64efec031bc",
+        "Name": "Zero Tolerance Teahouse",
+        "Location": "Kugane",
+        "Level": 61,
+        "JournalSection": 3,
+        "JournalCategory": 49,
+        "JournalGenre": "Hingan Sidequests",
+        "Url": "/lodestone/playguide/db/quest/64efec031bc/",
+        "Image": null,
+        "Icon": "common_normal",
+        "Issuer": "Teahouse Serving Girl",
+        "StartLocation": {
+            "Name": "Kugane",
+            "X": "11.2",
+            "Y": "10.1"
+        },
+        "StartClass": null,
+        "Job": "",
+        "Company": "Not specified",
+        "Requirement": "Not specified",
+        "Rewards": {
+            "Gil": 622,
+            "Exp": 87750,
+            "ItemsMand": [],
+            "ItemsOpt": []
+        },
+        "Infos": {
+            "PrevQuests": [
+                {
+                    "Name": "By the Grace of Lord Lolorito",
+                    "Url": "/lodestone/playguide/db/quest/0f50e760a84/",
+                    "Area": "Kugane",
+                    "Level": "61"
+                }
+            ],
+            "NextQuests": [
+                {
+                    "Name": "Fabulously Foxed Fellow",
+                    "Url": "/lodestone/playguide/db/npc/npc/07c4c8ceb7e/",
+                    "Area": "Kugane (X:11.3 Y:10.1)"
+                },
+                {
+                    "Name": "Teahouse Hireling",
+                    "Url": "/lodestone/playguide/db/npc/npc/a37451f3954/",
+                    "Area": "Kugane (X:9.6 Y:10.2)"
+                }
+            ]
+        },
+        "Seq": 7,
+        "oldID": 68205,
+        "Map": {
+            "ID": 370
+        }
+    },
+    {
+        "ID": "69de8024608",
+        "Name": "In the Line of Duty",
+        "Location": "Kugane",
+        "Level": 67,
+        "JournalSection": 3,
+        "JournalCategory": 49,
+        "JournalGenre": "Hingan Sidequests",
+        "Url": "/lodestone/playguide/db/quest/69de8024608/",
+        "Image": null,
+        "Icon": "common_normal",
+        "Issuer": "Injured Sekiseigumi Blade",
+        "StartLocation": {
+            "Name": "Kugane",
+            "X": "12.9",
+            "Y": "11.7"
+        },
+        "StartClass": null,
+        "Job": "",
+        "Company": "Not specified",
+        "Requirement": "Not specified",
+        "Rewards": {
+            "Gil": 590,
+            "Exp": 112050,
+            "ItemsMand": [],
+            "ItemsOpt": []
+        },
+        "Infos": {
+            "PrevQuests": [
+                {
+                    "Name": "The World Turned Upside Down",
+                    "Url": "/lodestone/playguide/db/quest/0bbbbf89a8f/",
+                    "Area": "Yanxia",
+                    "Level": "67"
+                }
+            ],
+            "NextQuests": [
+                {
+                    "Name": "Sekiseigumi Blade",
+                    "Url": "/lodestone/playguide/db/npc/npc/5c3c24eb221/",
+                    "Area": "Kugane (X:12.5 Y:13.1)"
+                }
+            ]
+        },
+        "Seq": 13,
+        "oldID": 68350,
+        "Map": {
+            "ID": 370
+        }
+    },
+    {
+        "ID": "775c2a0d798",
+        "Name": "I'll Show You Angry",
+        "Location": "Kugane",
+        "Level": 61,
+        "JournalSection": 3,
+        "JournalCategory": 49,
+        "JournalGenre": "Hingan Sidequests",
+        "Url": "/lodestone/playguide/db/quest/775c2a0d798/",
+        "Image": null,
+        "Icon": "common_normal",
+        "Issuer": "Modest Maiden",
+        "StartLocation": {
+            "Name": "Kugane",
+            "X": "13.5",
+            "Y": "12.3"
+        },
+        "StartClass": null,
+        "Job": "",
+        "Company": "Not specified",
+        "Requirement": "Not specified",
+        "Rewards": {
+            "Gil": 622,
+            "Exp": 87750,
+            "ItemsMand": [],
+            "ItemsOpt": []
+        },
+        "Infos": {
+            "PrevQuests": [
+                {
+                    "Name": "By the Grace of Lord Lolorito",
+                    "Url": "/lodestone/playguide/db/quest/0f50e760a84/",
+                    "Area": "Kugane",
+                    "Level": "61"
+                }
+            ],
+            "NextQuests": [
+                {
+                    "Name": "Ibara",
+                    "Url": "/lodestone/playguide/db/npc/npc/4defe7e8c69/",
+                    "Area": "Kugane (X:12.4 Y:12.5)"
+                }
+            ]
+        },
+        "Seq": 5,
+        "oldID": 68203,
+        "Map": {
+            "ID": 370
+        }
+    },
+    {
+        "ID": "7f595ac7692",
+        "Name": "I Dream of Shirogane",
+        "Location": "Kugane",
+        "Level": 61,
+        "JournalSection": 3,
+        "JournalCategory": 49,
+        "JournalGenre": "Hingan Sidequests",
+        "Url": "/lodestone/playguide/db/quest/7f595ac7692/",
+        "Image": "https://img.finalfantasyxiv.com/lds/pc/global/images/itemicon/be/be0d90719e30a96ef97bb5d79d111b9b6b2c69e5.png?n5.5",
+        "Icon": "function_normal",
+        "Issuer": "Tsurubami",
+        "StartLocation": {
+            "Name": "Kugane",
+            "X": "12.0",
+            "Y": "9.9"
+        },
+        "StartClass": null,
+        "Job": "",
+        "Company": "Not specified",
+        "Requirement": "Not specified",
+        "Rewards": {
+            "Gil": 490,
+            "Exp": 87750,
+            "ItemsMand": [],
+            "ItemsOpt": []
+        },
+        "Infos": {
+            "PrevQuests": [
+                {
+                    "Name": "By the Grace of Lord Lolorito",
+                    "Url": "/lodestone/playguide/db/quest/0f50e760a84/",
+                    "Area": "Kugane",
+                    "Level": "61"
+                }
+            ],
+            "NextQuests": [
+                {
+                    "Name": "Bugyosho Official",
+                    "Url": "/lodestone/playguide/db/npc/npc/cf8e3fa2bc1/",
+                    "Area": "Kugane (X:8.9 Y:10.4)"
+                },
+                {
+                    "Name": "District Official",
+                    "Url": "/lodestone/playguide/db/npc/npc/a2564854de6/",
+                    "Area": "Shirogane (X:9.2 Y:13.5)"
+                }
+            ]
+        },
+        "Seq": 2,
+        "oldID": 68167,
+        "Map": {
+            "ID": 370
+        }
+    },
+    {
+        "ID": "88e5b16cfd9",
+        "Name": "A Picture Is Worth a Thousand Moms",
+        "Location": "Kugane",
+        "Level": 61,
+        "JournalSection": 3,
+        "JournalCategory": 49,
+        "JournalGenre": "Hingan Sidequests",
+        "Url": "/lodestone/playguide/db/quest/88e5b16cfd9/",
+        "Image": null,
+        "Icon": "common_normal",
+        "Issuer": "Foreignly Lass",
+        "StartLocation": {
+            "Name": "Kugane",
+            "X": "11.7",
+            "Y": "14.4"
+        },
+        "StartClass": null,
+        "Job": "",
+        "Company": "Not specified",
+        "Requirement": "Not specified",
+        "Rewards": {
+            "Gil": 556,
+            "Exp": 87750,
+            "ItemsMand": [],
+            "ItemsOpt": []
+        },
+        "Infos": {
+            "PrevQuests": [
+                {
+                    "Name": "By the Grace of Lord Lolorito",
+                    "Url": "/lodestone/playguide/db/quest/0f50e760a84/",
+                    "Area": "Kugane",
+                    "Level": "61"
+                }
+            ]
+        },
+        "Seq": 6,
+        "oldID": 68204,
+        "Map": {
+            "ID": 370
+        }
+    },
+    {
+        "ID": "8c5cc6fdbc6",
+        "Name": "A Drink in the Tub",
+        "Location": "Kugane",
+        "Level": 61,
+        "JournalSection": 3,
+        "JournalCategory": 49,
+        "JournalGenre": "Hingan Sidequests",
+        "Url": "/lodestone/playguide/db/quest/8c5cc6fdbc6/",
+        "Image": null,
+        "Icon": "common_normal",
+        "Issuer": "Amaji",
+        "StartLocation": {
+            "Name": "Kugane",
+            "X": "9.3",
+            "Y": "8.2"
+        },
+        "StartClass": null,
+        "Job": "",
+        "Company": "Not specified",
+        "Requirement": "Not specified",
+        "Rewards": {
+            "Gil": 688,
+            "Exp": 87750,
+            "ItemsMand": [],
+            "ItemsOpt": []
+        },
+        "Infos": {
+            "PrevQuests": [
+                {
+                    "Name": "By the Grace of Lord Lolorito",
+                    "Url": "/lodestone/playguide/db/quest/0f50e760a84/",
+                    "Area": "Kugane",
+                    "Level": "61"
+                }
+            ],
+            "NextQuests": [
+                {
+                    "Name": "Kotokaze",
+                    "Url": "/lodestone/playguide/db/npc/npc/35da909f940/",
+                    "Area": "Kugane (X:10.2 Y:10.2)"
+                }
+            ]
+        },
+        "Seq": 4,
+        "oldID": 68202,
+        "Map": {
+            "ID": 370
+        }
+    },
+    {
+        "ID": "963e4e09410",
+        "Name": "To Bathe a Garlean",
+        "Location": "Kugane",
+        "Level": 61,
+        "JournalSection": 3,
+        "JournalCategory": 49,
+        "JournalGenre": "Hingan Sidequests",
+        "Url": "/lodestone/playguide/db/quest/963e4e09410/",
+        "Image": null,
+        "Icon": "common_normal",
+        "Issuer": "Peddler Of Peculiars",
+        "StartLocation": {
+            "Name": "Kugane",
+            "X": "11.3",
+            "Y": "11.7"
+        },
+        "StartClass": null,
+        "Job": "",
+        "Company": "Not specified",
+        "Requirement": "Not specified",
+        "Rewards": {
+            "Gil": 622,
+            "Exp": 87750,
+            "ItemsMand": [],
+            "ItemsOpt": []
+        },
+        "Infos": {
+            "PrevQuests": [
+                {
+                    "Name": "Making the Catfish Sing",
+                    "Url": "/lodestone/playguide/db/quest/10725d545dd/",
+                    "Area": "Kugane",
+                    "Level": "61"
+                }
+            ],
+            "NextQuests": [
+                {
+                    "Name": "Consulate Guard",
+                    "Url": "/lodestone/playguide/db/npc/npc/6c45104e569/",
+                    "Area": "Kugane (X:12.9 Y:14.3)"
+                }
+            ]
+        },
+        "Seq": 10,
+        "oldID": 68208,
+        "Map": {
+            "ID": 370
+        }
+    },
+    {
+        "ID": "ab400332bfd",
+        "Name": "Where the Wild Pandas Are",
+        "Location": "Kugane",
+        "Level": 61,
+        "JournalSection": 3,
+        "JournalCategory": 49,
+        "JournalGenre": "Hingan Sidequests",
+        "Url": "/lodestone/playguide/db/quest/ab400332bfd/",
+        "Image": null,
+        "Icon": "common_normal",
+        "Issuer": "Graceful Geiko",
+        "StartLocation": {
+            "Name": "Kugane",
+            "X": "11.8",
+            "Y": "9.1"
+        },
+        "StartClass": null,
+        "Job": "",
+        "Company": "Not specified",
+        "Requirement": "Not specified",
+        "Rewards": {
+            "Gil": 556,
+            "Exp": 87750,
+            "ItemsMand": [],
+            "ItemsOpt": []
+        },
+        "Infos": {
+            "PrevQuests": [
+                {
+                    "Name": "Making the Catfish Sing",
+                    "Url": "/lodestone/playguide/db/quest/10725d545dd/",
+                    "Area": "Kugane",
+                    "Level": "61"
+                }
+            ],
+            "NextQuests": [
+                {
+                    "Name": "Red Panda Cub",
+                    "Url": "/lodestone/playguide/db/npc/npc/7375a07ecb5/",
+                    "Area": "Kugane (X:10.1 Y:8.8)"
+                },
+                {
+                    "Name": "Red Panda Cub",
+                    "Url": "/lodestone/playguide/db/npc/npc/06f5d580bfd/",
+                    "Area": "Kugane (X:10.1 Y:12.5)"
+                }
+            ]
+        },
+        "Seq": 8,
+        "oldID": 68206,
+        "Map": {
+            "ID": 370
+        }
+    },
+    {
+        "ID": "e5f438b25c1",
+        "Name": "The Seaweed Is Always Greener",
+        "Location": "Kugane",
+        "Level": 62,
+        "JournalSection": 3,
+        "JournalCategory": 49,
+        "JournalGenre": "Hingan Sidequests",
+        "Url": "/lodestone/playguide/db/quest/e5f438b25c1/",
+        "Image": null,
+        "Icon": "function_normal",
+        "Issuer": "Kojin Hireling",
+        "StartLocation": {
+            "Name": "Kugane",
+            "X": "10.1",
+            "Y": "9.9"
+        },
+        "StartClass": null,
+        "Job": "",
+        "Company": "Not specified",
+        "Requirement": "Not specified",
+        "Rewards": {
+            "Gil": 0,
+            "Exp": 91800,
+            "ItemsMand": [
+                {
+                    "Icon": "https://img.finalfantasyxiv.com/lds/pc/global/images/itemicon/80/807946239db549d533cf672d2c02bd4dd74478cd.png?n5.5",
+                    "Name": "Beet Soup",
+                    "Amount": 1,
+                    "Url": "/lodestone/playguide/db/item/c22fc7acb1d/"
+                },
+                {
+                    "Icon": "https://img.finalfantasyxiv.com/lds/pc/global/images/itemicon/a4/a4106733d7c4bf400522e27ba51bff1cedc29cf5.png?n5.5",
+                    "Name": "Dhalmel Gratin",
+                    "Amount": 1,
+                    "Url": "/lodestone/playguide/db/item/aef2d96dc79/"
+                }
+            ],
+            "ItemsOpt": []
+        },
+        "Infos": {
+            "PrevQuests": [
+                {
+                    "Name": "None Forgotten, None Forsaken",
+                    "Url": "/lodestone/playguide/db/quest/6457ffd5f62/",
+                    "Area": "Rhalgr's Reach",
+                    "Level": "60"
+                },
+                {
+                    "Name": "The Two Princesses of Sui-no-Sato",
+                    "Url": "/lodestone/playguide/db/quest/55bae26f56e/",
+                    "Area": "The Ruby Sea",
+                    "Level": "63"
+                }
+            ],
+            "NextQuests": [
+                {
+                    "Name": "Up Where They Trade All Day in the Sun",
+                    "Url": "/lodestone/playguide/db/quest/eee969895c2/",
+                    "Area": "The Ruby Sea",
+                    "Level": "62"
+                }
+            ],
+            "NPCs": [
+                {
+                    "Name": "Kurenai",
+                    "Url": "/lodestone/playguide/db/npc/npc/71364a33147/",
+                    "Area": "The Ruby Sea (X:28.3 Y:15.3)"
+                },
+                {
+                    "Name": "Sanana",
+                    "Url": "/lodestone/playguide/db/npc/npc/d336409d7ab/",
+                    "Area": "The Ruby Sea (X:28.3 Y:15.3)"
+                }
+            ]
+        },
+        "Seq": 1,
+        "oldID": 68675,
+        "Map": {
+            "ID": 370
+        }
+    },
+    {
+        "ID": "eba740d39bb",
+        "Name": "Two-star Veteran Clan Hunt",
+        "Location": "Kugane",
+        "Level": 63,
+        "JournalSection": 3,
+        "JournalCategory": 49,
+        "JournalGenre": "Hingan Sidequests",
+        "Url": "/lodestone/playguide/db/quest/eba740d39bb/",
+        "Image": null,
+        "Icon": "function_normal",
+        "Issuer": "Estrild",
+        "StartLocation": {
+            "Name": "Kugane",
+            "X": "10.3",
+            "Y": "10.2"
+        },
+        "StartClass": null,
+        "Job": "",
+        "Company": "Not specified",
+        "Requirement": "Not specified",
+        "Rewards": {
+            "Gil": 500,
+            "Exp": 95850,
+            "ItemsMand": [],
+            "ItemsOpt": []
+        },
+        "Infos": {
+            "PrevQuests": [
+                {
+                    "Name": "One-star Veteran Clan Hunt",
+                    "Url": "/lodestone/playguide/db/quest/f0a91b02e0b/",
+                    "Area": "Kugane",
+                    "Level": "61"
+                }
+            ],
+            "NextQuests": [
+                {
+                    "Name": "Three-star Veteran Clan Hunt",
+                    "Url": "/lodestone/playguide/db/quest/599921f1c53/",
+                    "Area": "Kugane",
+                    "Level": "66"
+                }
+            ],
+            "NPCs": [
+                {
+                    "Name": "Wlveva",
+                    "Url": "/lodestone/playguide/db/npc/npc/70c42523340/",
+                    "Area": "Kugane (X:10.6 Y:10.3)"
+                }
+            ]
+        },
+        "Seq": 16,
+        "oldID": 68473,
+        "Map": {
+            "ID": 370
+        }
+    },
+    {
+        "ID": "eea8e5230e6",
+        "Name": "A Lone Wolf No More",
+        "Location": "Kugane",
+        "Level": 1,
+        "JournalSection": 3,
+        "JournalCategory": 49,
+        "JournalGenre": "Hingan Sidequests",
+        "Url": "/lodestone/playguide/db/quest/eea8e5230e6/",
+        "Image": null,
+        "Icon": "common_normal",
+        "Issuer": "News Hawker",
+        "StartLocation": {
+            "Name": "Kugane",
+            "X": "11.6",
+            "Y": "9.9"
+        },
+        "StartClass": null,
+        "Job": "",
+        "Company": "Not specified",
+        "Requirement": "Not specified",
+        "Rewards": {
+            "Gil": 552,
+            "Exp": 0,
+            "ItemsMand": [
+                {
+                    "Icon": "https://img.finalfantasyxiv.com/lds/pc/global/images/itemicon/d3/d36597ea1c4fa075299be3ebc297ce99fdc624c0.png?n5.5",
+                    "Name": "Fabled Kamuy Fife",
+                    "Amount": 1,
+                    "Url": "/lodestone/playguide/db/item/5c4d748b418/"
+                }
+            ],
+            "ItemsOpt": []
+        },
+        "Infos": {
+            "PrevQuests": [
+                {
+                    "Name": "Wandering Minstrel",
+                    "Url": "/lodestone/playguide/db/npc/npc/0517719c175/",
+                    "Area": "Yanxia (X:30.6 Y:20.2)"
+                }
+            ],
+            "NextQuests": [
+                {
+                    "Name": "Flute of the Plume",
+                    "Url": "/lodestone/playguide/db/achievement/a276c20f7e1/",
+                    "Reward": "Title",
+                    "Points": "20"
+                }
+            ]
+        },
+        "Seq": 17,
+        "oldID": 68736,
+        "Map": {
+            "ID": 370
+        }
+    },
+    {
+        "ID": "f0a91b02e0b",
+        "Name": "One-star Veteran Clan Hunt",
+        "Location": "Kugane",
+        "Level": 61,
+        "JournalSection": 3,
+        "JournalCategory": 49,
+        "JournalGenre": "Hingan Sidequests",
+        "Url": "/lodestone/playguide/db/quest/f0a91b02e0b/",
+        "Image": null,
+        "Icon": "function_normal",
+        "Issuer": "Estrild",
+        "StartLocation": {
+            "Name": "Kugane",
+            "X": "10.3",
+            "Y": "10.2"
+        },
+        "StartClass": null,
+        "Job": "",
+        "Company": "Not specified",
+        "Requirement": "Not specified",
+        "Rewards": {
+            "Gil": 490,
+            "Exp": 87750,
+            "ItemsMand": [],
+            "ItemsOpt": []
+        },
+        "Infos": {
+            "PrevQuests": [
+                {
+                    "Name": "By the Grace of Lord Lolorito",
+                    "Url": "/lodestone/playguide/db/quest/0f50e760a84/",
+                    "Area": "Kugane",
+                    "Level": "61"
+                },
+                {
+                    "Name": "Elite and Dangerous",
+                    "Url": "/lodestone/playguide/db/quest/a5faad05086/",
+                    "Area": "Ishgard",
+                    "Level": "60"
+                }
+            ],
+            "NextQuests": [
+                {
+                    "Name": "Two-star Veteran Clan Hunt",
+                    "Url": "/lodestone/playguide/db/quest/eba740d39bb/",
+                    "Area": "Kugane",
+                    "Level": "63"
+                }
+            ],
+            "NPCs": [
+                {
+                    "Name": "Wlveva",
+                    "Url": "/lodestone/playguide/db/npc/npc/70c42523340/",
+                    "Area": "Kugane (X:10.6 Y:10.3)"
+                }
+            ]
+        },
+        "Seq": 15,
+        "oldID": 68472,
+        "Map": {
+            "ID": 370
+        }
+    },
+    {
+        "ID": "f704d1dfcc8",
+        "Name": "Elite Veteran Clan Hunt",
+        "Location": "Kugane",
+        "Level": 70,
+        "JournalSection": 3,
+        "JournalCategory": 49,
+        "JournalGenre": "Hingan Sidequests",
+        "Url": "/lodestone/playguide/db/quest/f704d1dfcc8/",
+        "Image": null,
+        "Icon": "function_normal",
+        "Issuer": "Estrild",
+        "StartLocation": {
+            "Name": "Kugane",
+            "X": "10.3",
+            "Y": "10.2"
+        },
+        "StartClass": null,
+        "Job": "",
+        "Company": "Not specified",
+        "Requirement": "Not specified",
+        "Rewards": {
+            "Gil": 533,
+            "Exp": 0,
+            "ItemsMand": [],
+            "ItemsOpt": []
+        },
+        "Infos": {
+            "PrevQuests": [
+                {
+                    "Name": "Three-star Veteran Clan Hunt",
+                    "Url": "/lodestone/playguide/db/quest/599921f1c53/",
+                    "Area": "Kugane",
+                    "Level": "66"
+                }
+            ],
+            "NextQuests": [
+                {
+                    "Name": "Wlveva",
+                    "Url": "/lodestone/playguide/db/npc/npc/70c42523340/",
+                    "Area": "Kugane (X:10.6 Y:10.3)"
+                }
+            ]
+        },
+        "Seq": 18,
+        "oldID": 68475,
+        "Map": {
+            "ID": 370
+        }
+    }
+]

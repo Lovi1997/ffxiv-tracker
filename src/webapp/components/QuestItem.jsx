@@ -1,6 +1,11 @@
 import React, { Component } from "react";
 import styles from "../css/QuestItem.module.css";
 import Text from "../i18n/QuestItem.json";
+import main from "../../backend/data/Icons/main.png";
+import function_normal from "../../backend/data/Icons/function_normal.png";
+import function_repeat from "../../backend/data/Icons/function_repeat.png";
+import common_repeat from "../../backend/data/Icons/common_repeat.png";
+import common_normal from "../../backend/data/Icons/common_normal.png";
 
 const { ipcRenderer } = window.require("electron");
 
@@ -8,6 +13,11 @@ class QuestItem extends Component {
   state = {
     QuestItem: {
       loading: false,
+      main: main,
+      function_normal: function_normal,
+      function_repeat: function_repeat,
+      common_repeat: common_repeat,
+      common_normal: common_normal,
     },
   };
   render() {
@@ -25,21 +35,7 @@ class QuestItem extends Component {
   }
 
   getIcon = function () {
-    if (window.IconIDs.indexOf(this.props.Quest.IconID) === -1) {
-      return (
-        <img
-          className={styles.questImage}
-          src={`https://xivapi.com${this.props.Quest.Icon}`}
-        />
-      );
-    } else {
-      return (
-        <img
-          className={styles.questImage}
-          src={`./icons/questIcons/${this.props.Quest.IconID}.png`}
-        />
-      );
-    }
+    return <img className={styles.questImage} src={this.state.QuestItem[this.props.Quest.Icon]} />;
   };
 
   getRowStyle = function () {

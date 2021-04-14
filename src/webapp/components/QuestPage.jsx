@@ -10,12 +10,6 @@ const { ipcRenderer } = window.require("electron");
 class QuestPage extends Component {
   constructor(props) {
     super(props);
-
-    var oSort =
-      this.props.JournalSectionID == 0 || this.props.JournalSectionID === 1
-        ? { Field: "Level", Order: "ASC" }
-        : { Field: "JournalCategory", Order: "ASC" };
-
     this.state = {
       QPage: {
         loading: true,
@@ -23,7 +17,7 @@ class QuestPage extends Component {
         Display: [],
         Quests: [],
         NumberOfDone: 0,
-        Sort: oSort,
+        Sort: { Field: "Seq", Order: "ASC" },
         Filter: { Field: "none", Value: "" },
       },
     };
@@ -70,9 +64,7 @@ class QuestPage extends Component {
           {this.getFilterUI()}
         </div>
         <div className={styles.sortWrapper}>
-          <span className={styles.dropdownText}>
-            {Text[window.lang]["Sort"]}:
-          </span>
+          <span className={styles.dropdownText}>{Text[window.lang]["Sort"]}:</span>
           {this.getSortUI()}
         </div>
       </div>
@@ -82,12 +74,7 @@ class QuestPage extends Component {
   getFilterUI = function () {
     var aOptions = QuestPageHelper.getFilterOptions(Text);
     return (
-      <Dropdown
-        disabled={this.state.QPage.loading}
-        onChange={this.onFilterChange}
-        Options={aOptions}
-        Handler={this}
-      />
+      <Dropdown disabled={this.state.QPage.loading} onChange={this.onFilterChange} Options={aOptions} Handler={this} />
     );
   };
 
@@ -111,15 +98,9 @@ class QuestPage extends Component {
       return (
         <div>
           <div className={styles.doneDisplay}>
-            {Text[window.lang]["Done"]} {this.state.QPage.NumberOfDone}/
-            {this.state.QPage.Quests.length}
+            {Text[window.lang]["Done"]} {this.state.QPage.NumberOfDone}/{this.state.QPage.Quests.length}
           </div>
-          <QuestTable
-            key="qu-table"
-            Quests={this.state.QPage.Display}
-            Page={this.props.Page}
-            QuestHandler={this}
-          />
+          <QuestTable key="qu-table" Quests={this.state.QPage.Display} Page={this.props.Page} QuestHandler={this} />
         </div>
       );
     }
@@ -152,9 +133,7 @@ class QuestPage extends Component {
   onCategoryChange = function (iCategoryID, oHandler) {
     if (iCategoryID != oHandler.state.QPage.activeCategory.iID) {
       var QPage = { ...oHandler.state.QPage };
-      QPage.activeCategory = oHandler.props.JournalCategories.find(
-        (oCategory) => oCategory.iID == iCategoryID
-      );
+      QPage.activeCategory = oHandler.props.JournalCategories.find((oCategory) => oCategory.iID == iCategoryID);
       QPage.loading = true;
       QPage.NumberOfDone = 0;
       oHandler.setState({ QPage });
@@ -163,8 +142,9 @@ class QuestPage extends Component {
   };
 
   loadQuests = function (iJournalCategoryID) {
+    var iSection = this.props.JournalSectionID;
     ipcRenderer
-      .invoke("loadQuests", iJournalCategoryID)
+      .invoke("loadQuests", iSection, iJournalCategoryID)
       .then((aResult) => this.onDataReceived(aResult, this));
   };
 
@@ -174,10 +154,7 @@ class QuestPage extends Component {
     QPage.Quests = aResult;
     QPage.NumberOfDone = oHandler.getNumberOfDone(QPage.Quests);
     QPage.Display = QuestPageHelper.filter(QPage.Quests, QPage.Filter);
-
-    if (QPage.Sort.Field !== "Level" || QPage.Sort.Order !== "ASC") {
-      QPage.Display = QuestPageHelper.sort(QPage.Display, QPage.Sort);
-    }
+    QPage.Display = QuestPageHelper.sort(QPage.Display, QPage.Sort);
     oHandler.setState({ QPage });
   };
 

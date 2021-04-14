@@ -1,0 +1,726 @@
+[
+    {
+        "ID": "766bb92612a",
+        "Name": "Freedom for Our Skies",
+        "Location": "The Parrock",
+        "Level": 60,
+        "JournalSection": 2,
+        "JournalCategory": 16,
+        "JournalGenre": "Chronicles of a New Era - The Shadow of Mhach",
+        "Url": "/lodestone/playguide/db/quest/766bb92612a/",
+        "Image": "https://img.finalfantasyxiv.com/lds/pc/global/images/itemicon/f2/f2505219bd37d9b488760692f01e85bfb1dab0d5.png?n5.5",
+        "Icon": "function_normal",
+        "Issuer": "Leofard",
+        "StartLocation": {
+            "Name": "The Parrock",
+            "X": "7.0",
+            "Y": "6.9"
+        },
+        "StartClass": null,
+        "Job": "",
+        "Company": "Not specified",
+        "Requirement": "Not specified",
+        "Rewards": {
+            "Gil": 615,
+            "Exp": 0,
+            "ItemsMand": [],
+            "ItemsOpt": []
+        },
+        "Infos": {
+            "PrevQuests": [
+                {
+                    "Name": "The Weeping City",
+                    "Url": "/lodestone/playguide/db/quest/cabdde01fbe/",
+                    "Area": "The Sea of Clouds",
+                    "Level": "60"
+                }
+            ],
+            "NextQuests": [
+                {
+                    "Name": "Where Shadows Reign",
+                    "Url": "/lodestone/playguide/db/quest/8db37428183/",
+                    "Area": "The Sea of Clouds",
+                    "Level": "60"
+                },
+                {
+                    "Name": "Unidentified Flying Object",
+                    "Url": "/lodestone/playguide/db/quest/e69707dd011/",
+                    "Area": "Idyllshire",
+                    "Level": "60"
+                }
+            ],
+            "NPCs": [
+                {
+                    "Name": "Leofard",
+                    "Url": "/lodestone/playguide/db/npc/npc/1d93e107950/",
+                    "Area": "Leofard's Chambers (X:3.4 Y:3.6)"
+                },
+                {
+                    "Name": "Cait Sith",
+                    "Url": "/lodestone/playguide/db/npc/npc/4f40e1d005c/",
+                    "Area": "The Parrock (X:7.0 Y:7.0)"
+                },
+                {
+                    "Name": "Stacia",
+                    "Url": "/lodestone/playguide/db/npc/npc/5bc4fcfb3e6/",
+                    "Area": "The Parrock (X:7.0 Y:6.8)"
+                }
+            ]
+        },
+        "Seq": 3,
+        "oldID": 67822,
+        "Map": {
+            "ID": 305
+        }
+    },
+    {
+        "ID": "8db37428183",
+        "Name": "Where Shadows Reign",
+        "Location": "The Sea of Clouds",
+        "Level": 60,
+        "JournalSection": 2,
+        "JournalCategory": 16,
+        "JournalGenre": "Chronicles of a New Era - The Shadow of Mhach",
+        "Url": "/lodestone/playguide/db/quest/8db37428183/",
+        "Image": "https://img.finalfantasyxiv.com/lds/pc/global/images/itemicon/e0/e004d33120a37c6ba9439795bf60fa17ed841061.png?n5.5",
+        "Icon": "function_normal",
+        "Issuer": "Stacia",
+        "StartLocation": {
+            "Name": "The Sea of Clouds",
+            "X": "6.2",
+            "Y": "5.8"
+        },
+        "StartClass": null,
+        "Job": "",
+        "Company": "Not specified",
+        "Requirement": "Not specified",
+        "Rewards": {
+            "Gil": 7500,
+            "Exp": 0,
+            "ItemsMand": [
+                {
+                    "Icon": "https://img.finalfantasyxiv.com/lds/pc/global/images/itemicon/7e/7eaa53e1fe9e2bd80f81d9ce69c98c24f6223b0b.png?n5.5",
+                    "Name": "Promises Orchestrion Roll",
+                    "Amount": 1,
+                    "Url": "/lodestone/playguide/db/item/4b9ea147558/"
+                },
+                {
+                    "Icon": "https://img.finalfantasyxiv.com/lds/pc/global/images/itemicon/7e/7eaa53e1fe9e2bd80f81d9ce69c98c24f6223b0b.png?n5.5",
+                    "Name": "Shadow of the Body Orchestrion Roll",
+                    "Amount": 1,
+                    "Url": "/lodestone/playguide/db/item/ceea0f179e3/"
+                }
+            ],
+            "ItemsOpt": []
+        },
+        "Infos": {
+            "PrevQuests": [
+                {
+                    "Name": "Freedom for Our Skies",
+                    "Url": "/lodestone/playguide/db/quest/766bb92612a/",
+                    "Area": "The Parrock",
+                    "Level": "60"
+                }
+            ],
+            "NextQuests": [
+                {
+                    "Name": "A Redbill Farewell",
+                    "Url": "/lodestone/playguide/db/quest/d1467b768c6/",
+                    "Area": "The Parrock",
+                    "Level": "60"
+                }
+            ],
+            "NPCs": [
+                {
+                    "Name": "Cait Sith",
+                    "Url": "/lodestone/playguide/db/npc/npc/0abc62a565f/",
+                    "Area": "Leofard's Chambers (X:3.5 Y:3.6)"
+                },
+                {
+                    "Name": "Leofard",
+                    "Url": "/lodestone/playguide/db/npc/npc/ea07ca03a68/",
+                    "Area": "Leofard's Chambers (X:3.5 Y:3.5)"
+                },
+                {
+                    "Name": "Stacia",
+                    "Url": "/lodestone/playguide/db/npc/npc/567348c10ff/",
+                    "Area": "Leofard's Chambers (X:3.5 Y:3.6)"
+                },
+                {
+                    "Name": "Utata",
+                    "Url": "/lodestone/playguide/db/npc/npc/7ae09c26c3a/",
+                    "Area": "Leofard's Chambers (X:3.6 Y:3.6)"
+                },
+                {
+                    "Name": "Cait Sith",
+                    "Url": "/lodestone/playguide/db/npc/npc/bfaec37868f/",
+                    "Area": "The Parrock (X:6.2 Y:6.2)"
+                },
+                {
+                    "Name": "Cait Sith",
+                    "Url": "/lodestone/playguide/db/npc/npc/82a1b7eed3c/",
+                    "Area": "The Parrock (X:7.0 Y:7.0)"
+                },
+                {
+                    "Name": "Cait Sith",
+                    "Url": "/lodestone/playguide/db/npc/npc/dda4453cb28/",
+                    "Area": "The Parrock (X:7.0 Y:6.9)"
+                },
+                {
+                    "Name": "Leofard",
+                    "Url": "/lodestone/playguide/db/npc/npc/22074eb3ecf/",
+                    "Area": "The Parrock (X:6.2 Y:6.2)"
+                },
+                {
+                    "Name": "Leofard",
+                    "Url": "/lodestone/playguide/db/npc/npc/dff285d087f/",
+                    "Area": "The Parrock (X:7.0 Y:6.9)"
+                },
+                {
+                    "Name": "Leofard",
+                    "Url": "/lodestone/playguide/db/npc/npc/3fbe77ee5ed/",
+                    "Area": "The Parrock (X:7.0 Y:6.9)"
+                },
+                {
+                    "Name": "Radlia",
+                    "Url": "/lodestone/playguide/db/npc/npc/c8a04983457/",
+                    "Area": "The Parrock (X:6.2 Y:6.3)"
+                },
+                {
+                    "Name": "Radlia",
+                    "Url": "/lodestone/playguide/db/npc/npc/b1f464c11b9/",
+                    "Area": "The Parrock (X:7.0 Y:7.0)"
+                },
+                {
+                    "Name": "Radlia",
+                    "Url": "/lodestone/playguide/db/npc/npc/95edcf3a003/",
+                    "Area": "The Parrock (X:7.0 Y:6.9)"
+                },
+                {
+                    "Name": "Stacia",
+                    "Url": "/lodestone/playguide/db/npc/npc/4b62c5983a8/",
+                    "Area": "The Parrock (X:6.2 Y:6.2)"
+                },
+                {
+                    "Name": "Stacia",
+                    "Url": "/lodestone/playguide/db/npc/npc/7dbba66e040/",
+                    "Area": "The Parrock (X:7.0 Y:7.1)"
+                },
+                {
+                    "Name": "Stacia",
+                    "Url": "/lodestone/playguide/db/npc/npc/628d5ef401b/",
+                    "Area": "The Parrock (X:7.0 Y:6.9)"
+                },
+                {
+                    "Name": "Talons Deckswab",
+                    "Url": "/lodestone/playguide/db/npc/npc/030d429a362/",
+                    "Area": "The Parrock (X:6.2 Y:6.3)"
+                },
+                {
+                    "Name": "Utata",
+                    "Url": "/lodestone/playguide/db/npc/npc/c5a1789a330/",
+                    "Area": "The Parrock (X:6.2 Y:6.2)"
+                },
+                {
+                    "Name": "Utata",
+                    "Url": "/lodestone/playguide/db/npc/npc/ea7d3f34f75/",
+                    "Area": "The Parrock (X:7.0 Y:6.9)"
+                }
+            ]
+        },
+        "Seq": 4,
+        "oldID": 67909,
+        "Map": {
+            "ID": 215
+        }
+    },
+    {
+        "ID": "c7a49946613",
+        "Name": "Sky Pirates",
+        "Location": "Ishgard",
+        "Level": 60,
+        "JournalSection": 2,
+        "JournalCategory": 16,
+        "JournalGenre": "Chronicles of a New Era - The Shadow of Mhach",
+        "Url": "/lodestone/playguide/db/quest/c7a49946613/",
+        "Image": "https://img.finalfantasyxiv.com/lds/pc/global/images/itemicon/b7/b72a597a5f76d4cb9ef936e4f0b5e1d0557a96ab.png?n5.5",
+        "Icon": "function_normal",
+        "Issuer": "Unquiet Trader",
+        "StartLocation": {
+            "Name": "The Pillars",
+            "X": "14.1",
+            "Y": "10.6"
+        },
+        "StartClass": null,
+        "Job": "",
+        "Company": "Not specified",
+        "Requirement": "Not specified",
+        "Rewards": {
+            "Gil": 778,
+            "Exp": 0,
+            "ItemsMand": [],
+            "ItemsOpt": []
+        },
+        "Infos": {
+            "PrevQuests": [
+                {
+                    "Name": "Heavensward",
+                    "Url": "/lodestone/playguide/db/quest/29fa56153f5/",
+                    "Area": "Azys Lla",
+                    "Level": "60"
+                }
+            ],
+            "NextQuests": [
+                {
+                    "Name": "To Rule the Skies",
+                    "Url": "/lodestone/playguide/db/quest/e1591301403/",
+                    "Area": "The Sea of Clouds",
+                    "Level": "60"
+                }
+            ],
+            "NPCs": [
+                {
+                    "Name": "Cargo Ship Helmsman",
+                    "Url": "/lodestone/playguide/db/npc/npc/8da587f4eb4/",
+                    "Area": "The Sea of Clouds (X:4.7 Y:22.7)"
+                },
+                {
+                    "Name": "Leofard",
+                    "Url": "/lodestone/playguide/db/npc/npc/97712ba8a7d/",
+                    "Area": "The Sea of Clouds (X:25.4 Y:5.2)"
+                },
+                {
+                    "Name": "Redbill Deckhand",
+                    "Url": "/lodestone/playguide/db/npc/npc/07c91ac9ac0/",
+                    "Area": "The Sea of Clouds (X:25.5 Y:5.2)"
+                },
+                {
+                    "Name": "Rontremont",
+                    "Url": "/lodestone/playguide/db/npc/npc/a2144218aa5/",
+                    "Area": "The Sea of Clouds (X:9.4 Y:32.4)"
+                },
+                {
+                    "Name": "Sky Pirate",
+                    "Url": "/lodestone/playguide/db/npc/npc/f6598d0df77/",
+                    "Area": "The Sea of Clouds (X:4.8 Y:22.8)"
+                },
+                {
+                    "Name": "Stacia",
+                    "Url": "/lodestone/playguide/db/npc/npc/8aa4fbebb85/",
+                    "Area": "The Sea of Clouds (X:25.5 Y:5.2)"
+                },
+                {
+                    "Name": "Stacia",
+                    "Url": "/lodestone/playguide/db/npc/npc/68a27680c92/",
+                    "Area": "The Sea of Clouds (X:6.2 Y:5.8)"
+                },
+                {
+                    "Name": "Utata",
+                    "Url": "/lodestone/playguide/db/npc/npc/c5b985c9132/",
+                    "Area": "The Sea of Clouds (X:25.5 Y:5.2)"
+                }
+            ]
+        },
+        "Seq": 2,
+        "oldID": 67740,
+        "Map": {
+            "ID": 219
+        }
+    },
+    {
+        "ID": "cabdde01fbe",
+        "Name": "The Weeping City",
+        "Location": "The Sea of Clouds",
+        "Level": 60,
+        "JournalSection": 2,
+        "JournalCategory": 16,
+        "JournalGenre": "Chronicles of a New Era - The Shadow of Mhach",
+        "Url": "/lodestone/playguide/db/quest/cabdde01fbe/",
+        "Image": "https://img.finalfantasyxiv.com/lds/pc/global/images/itemicon/ec/ec8f1b447a9ee8b1401e06f763997e153f11c638.png?n5.5",
+        "Icon": "function_normal",
+        "Issuer": "Stacia",
+        "StartLocation": {
+            "Name": "The Sea of Clouds",
+            "X": "6.2",
+            "Y": "5.8"
+        },
+        "StartClass": null,
+        "Job": "",
+        "Company": "Not specified",
+        "Requirement": "Not specified",
+        "Rewards": {
+            "Gil": 7500,
+            "Exp": 0,
+            "ItemsMand": [],
+            "ItemsOpt": []
+        },
+        "Infos": {
+            "PrevQuests": [
+                {
+                    "Name": "To Rule the Skies",
+                    "Url": "/lodestone/playguide/db/quest/e1591301403/",
+                    "Area": "The Sea of Clouds",
+                    "Level": "60"
+                }
+            ],
+            "NextQuests": [
+                {
+                    "Name": "Freedom for Our Skies",
+                    "Url": "/lodestone/playguide/db/quest/766bb92612a/",
+                    "Area": "The Parrock",
+                    "Level": "60"
+                }
+            ],
+            "NPCs": [
+                {
+                    "Name": "Cait Sith",
+                    "Url": "/lodestone/playguide/db/npc/npc/378889326b1/",
+                    "Area": "Leofard's Chambers (X:3.6 Y:3.5)"
+                },
+                {
+                    "Name": "Cait Sith",
+                    "Url": "/lodestone/playguide/db/npc/npc/9a2c9bd6aeb/",
+                    "Area": "Leofard's Chambers (X:3.5 Y:3.6)"
+                },
+                {
+                    "Name": "Leofard",
+                    "Url": "/lodestone/playguide/db/npc/npc/6cd53d8c0d0/",
+                    "Area": "Leofard's Chambers (X:3.5 Y:3.5)"
+                },
+                {
+                    "Name": "Leofard",
+                    "Url": "/lodestone/playguide/db/npc/npc/baf2fd0aece/",
+                    "Area": "Leofard's Chambers (X:3.5 Y:3.5)"
+                },
+                {
+                    "Name": "Stacia",
+                    "Url": "/lodestone/playguide/db/npc/npc/d8e444d8821/",
+                    "Area": "Leofard's Chambers (X:3.6 Y:3.5)"
+                },
+                {
+                    "Name": "Stacia",
+                    "Url": "/lodestone/playguide/db/npc/npc/f6217438ab5/",
+                    "Area": "Leofard's Chambers (X:3.5 Y:3.6)"
+                },
+                {
+                    "Name": "Cait Sith",
+                    "Url": "/lodestone/playguide/db/npc/npc/1c1b9aaa794/",
+                    "Area": "The Parrock (X:6.7 Y:6.6)"
+                },
+                {
+                    "Name": "Cait Sith",
+                    "Url": "/lodestone/playguide/db/npc/npc/d3e64df1718/",
+                    "Area": "The Parrock (X:7.0 Y:7.0)"
+                },
+                {
+                    "Name": "Leofard",
+                    "Url": "/lodestone/playguide/db/npc/npc/3cebd6ff497/",
+                    "Area": "The Parrock (X:6.8 Y:6.6)"
+                },
+                {
+                    "Name": "Leofard",
+                    "Url": "/lodestone/playguide/db/npc/npc/fa1b98beb7a/",
+                    "Area": "The Parrock (X:7.0 Y:6.9)"
+                },
+                {
+                    "Name": "Stacia",
+                    "Url": "/lodestone/playguide/db/npc/npc/72fe1a88b0f/",
+                    "Area": "The Parrock (X:6.5 Y:5.8)"
+                },
+                {
+                    "Name": "Stacia",
+                    "Url": "/lodestone/playguide/db/npc/npc/bba78bff381/",
+                    "Area": "The Parrock (X:6.8 Y:6.6)"
+                },
+                {
+                    "Name": "Stacia",
+                    "Url": "/lodestone/playguide/db/npc/npc/376cd2b1387/",
+                    "Area": "The Parrock (X:7.1 Y:6.9)"
+                },
+                {
+                    "Name": "Stacia",
+                    "Url": "/lodestone/playguide/db/npc/npc/5bc4fcfb3e6/",
+                    "Area": "The Parrock (X:7.0 Y:6.8)"
+                },
+                {
+                    "Name": "Talons Deckswab",
+                    "Url": "/lodestone/playguide/db/npc/npc/7ac4e34467a/",
+                    "Area": "The Parrock (X:6.8 Y:6.6)"
+                },
+                {
+                    "Name": "Utata",
+                    "Url": "/lodestone/playguide/db/npc/npc/f46bef986d1/",
+                    "Area": "The Parrock (X:6.7 Y:6.6)"
+                },
+                {
+                    "Name": "Cait Sith",
+                    "Url": "/lodestone/playguide/db/npc/npc/10ec59ecb88/",
+                    "Area": "The Sea of Clouds (X:25.3 Y:5.1)"
+                },
+                {
+                    "Name": "Utata",
+                    "Url": "/lodestone/playguide/db/npc/npc/6aec2377dfd/",
+                    "Area": "The Sea of Clouds (X:25.2 Y:5.1)"
+                }
+            ]
+        },
+        "Seq": 2,
+        "oldID": 67821,
+        "Map": {
+            "ID": 215
+        }
+    },
+    {
+        "ID": "d1467b768c6",
+        "Name": "A Redbill Farewell",
+        "Location": "The Parrock",
+        "Level": 60,
+        "JournalSection": 2,
+        "JournalCategory": 16,
+        "JournalGenre": "Chronicles of a New Era - The Shadow of Mhach",
+        "Url": "/lodestone/playguide/db/quest/d1467b768c6/",
+        "Image": "https://img.finalfantasyxiv.com/lds/pc/global/images/itemicon/32/325b5e34888497f7c1634be360359b540ac67add.png?n5.5",
+        "Icon": "function_normal",
+        "Issuer": "Leofard",
+        "StartLocation": {
+            "Name": "The Parrock",
+            "X": "7.0",
+            "Y": "6.9"
+        },
+        "StartClass": null,
+        "Job": "",
+        "Company": "Not specified",
+        "Requirement": "Not specified",
+        "Rewards": {
+            "Gil": 615,
+            "Exp": 0,
+            "ItemsMand": [
+                {
+                    "Icon": "https://img.finalfantasyxiv.com/lds/pc/global/images/itemicon/55/557f6743b74c2d01e023d0b6051856a91c098d39.png?n5.5",
+                    "Name": "Redbill Scarf",
+                    "Amount": 1,
+                    "Url": "/lodestone/playguide/db/item/9c50b129eb2/"
+                }
+            ],
+            "ItemsOpt": []
+        },
+        "Infos": {
+            "PrevQuests": [
+                {
+                    "Name": "Where Shadows Reign",
+                    "Url": "/lodestone/playguide/db/quest/8db37428183/",
+                    "Area": "The Sea of Clouds",
+                    "Level": "60"
+                }
+            ],
+            "NextQuests": [
+                {
+                    "Name": "Cait Sith",
+                    "Url": "/lodestone/playguide/db/npc/npc/34f8ebcc67b/",
+                    "Area": "Leofard's Chambers (X:3.5 Y:3.5)"
+                },
+                {
+                    "Name": "Stacia",
+                    "Url": "/lodestone/playguide/db/npc/npc/b608e9e60bb/",
+                    "Area": "Leofard's Chambers (X:3.5 Y:3.5)"
+                },
+                {
+                    "Name": "Cait Sith",
+                    "Url": "/lodestone/playguide/db/npc/npc/dda4453cb28/",
+                    "Area": "The Parrock (X:7.0 Y:6.9)"
+                },
+                {
+                    "Name": "Cait Sith",
+                    "Url": "/lodestone/playguide/db/npc/npc/7616460ec99/",
+                    "Area": "The Parrock (X:7.0 Y:6.6)"
+                },
+                {
+                    "Name": "Leofard",
+                    "Url": "/lodestone/playguide/db/npc/npc/4af546c3f69/",
+                    "Area": "The Parrock (X:7.0 Y:6.6)"
+                },
+                {
+                    "Name": "Radlia",
+                    "Url": "/lodestone/playguide/db/npc/npc/95edcf3a003/",
+                    "Area": "The Parrock (X:7.0 Y:6.9)"
+                },
+                {
+                    "Name": "Radlia",
+                    "Url": "/lodestone/playguide/db/npc/npc/7579bf5e330/",
+                    "Area": "The Parrock (X:7.0 Y:7.1)"
+                },
+                {
+                    "Name": "Stacia",
+                    "Url": "/lodestone/playguide/db/npc/npc/628d5ef401b/",
+                    "Area": "The Parrock (X:7.0 Y:6.9)"
+                },
+                {
+                    "Name": "Stacia",
+                    "Url": "/lodestone/playguide/db/npc/npc/703b58fb874/",
+                    "Area": "The Parrock (X:7.0 Y:6.6)"
+                },
+                {
+                    "Name": "Utata",
+                    "Url": "/lodestone/playguide/db/npc/npc/6e4d4f2cab8/",
+                    "Area": "The Parrock (X:6.6 Y:6.7)"
+                },
+                {
+                    "Name": "Utata",
+                    "Url": "/lodestone/playguide/db/npc/npc/7373bc379f1/",
+                    "Area": "The Parrock (X:7.0 Y:6.6)"
+                }
+            ]
+        },
+        "Seq": 5,
+        "oldID": 67910,
+        "Map": {
+            "ID": 305
+        }
+    },
+    {
+        "ID": "e1591301403",
+        "Name": "To Rule the Skies",
+        "Location": "The Sea of Clouds",
+        "Level": 60,
+        "JournalSection": 2,
+        "JournalCategory": 16,
+        "JournalGenre": "Chronicles of a New Era - The Shadow of Mhach",
+        "Url": "/lodestone/playguide/db/quest/e1591301403/",
+        "Image": "https://img.finalfantasyxiv.com/lds/pc/global/images/itemicon/1c/1c61b54626133a2ae8147e18975acb11ae08f4a4.png?n5.5",
+        "Icon": "function_normal",
+        "Issuer": "Utata",
+        "StartLocation": {
+            "Name": "The Sea of Clouds",
+            "X": "25.5",
+            "Y": "5.2"
+        },
+        "StartClass": null,
+        "Job": "",
+        "Company": "Not specified",
+        "Requirement": "Not specified",
+        "Rewards": {
+            "Gil": 7500,
+            "Exp": 0,
+            "ItemsMand": [],
+            "ItemsOpt": []
+        },
+        "Infos": {
+            "PrevQuests": [
+                {
+                    "Name": "Sky Pirates",
+                    "Url": "/lodestone/playguide/db/quest/c7a49946613/",
+                    "Area": "Ishgard",
+                    "Level": "60"
+                }
+            ],
+            "NextQuests": [
+                {
+                    "Name": "The Weeping City",
+                    "Url": "/lodestone/playguide/db/quest/cabdde01fbe/",
+                    "Area": "The Sea of Clouds",
+                    "Level": "60"
+                }
+            ],
+            "NPCs": [
+                {
+                    "Name": "Curious Cat",
+                    "Url": "/lodestone/playguide/db/npc/npc/8b9f736368e/",
+                    "Area": "The Sea of Clouds (X:25.4 Y:5.1)"
+                },
+                {
+                    "Name": "Leofard",
+                    "Url": "/lodestone/playguide/db/npc/npc/97712ba8a7d/",
+                    "Area": "The Sea of Clouds (X:25.4 Y:5.2)"
+                },
+                {
+                    "Name": "Leofard",
+                    "Url": "/lodestone/playguide/db/npc/npc/3a4bd92dc80/",
+                    "Area": "The Sea of Clouds (X:25.4 Y:5.1)"
+                },
+                {
+                    "Name": "Redbill Deckhand",
+                    "Url": "/lodestone/playguide/db/npc/npc/07c91ac9ac0/",
+                    "Area": "The Sea of Clouds (X:25.5 Y:5.2)"
+                },
+                {
+                    "Name": "Redbill Deckhand",
+                    "Url": "/lodestone/playguide/db/npc/npc/761a8d4607d/",
+                    "Area": "The Sea of Clouds (X:25.5 Y:5.2)"
+                },
+                {
+                    "Name": "Stacia",
+                    "Url": "/lodestone/playguide/db/npc/npc/8aa4fbebb85/",
+                    "Area": "The Sea of Clouds (X:25.5 Y:5.2)"
+                },
+                {
+                    "Name": "Stacia",
+                    "Url": "/lodestone/playguide/db/npc/npc/db3819d3475/",
+                    "Area": "The Sea of Clouds (X:25.4 Y:5.2)"
+                }
+            ],
+            "RelatedAchievements": [
+                {
+                    "Name": "Paying the Bills",
+                    "Url": "/lodestone/playguide/db/achievement/b117eee10f1/",
+                    "Reward": "Title",
+                    "Points": "10"
+                }
+            ]
+        },
+        "Seq": 1,
+        "oldID": 67741,
+        "Map": {
+            "ID": 215
+        }
+    },
+    {
+        "ID": "e69707dd011",
+        "Name": "Unidentified Flying Object",
+        "Location": "Idyllshire",
+        "Level": 60,
+        "JournalSection": 2,
+        "JournalCategory": 16,
+        "JournalGenre": "Chronicles of a New Era - The Shadow of Mhach",
+        "Url": "/lodestone/playguide/db/quest/e69707dd011/",
+        "Image": null,
+        "Icon": "function_repeat",
+        "Issuer": "Slipslix",
+        "StartLocation": {
+            "Name": "Idyllshire",
+            "X": "7.7",
+            "Y": "4.2"
+        },
+        "StartClass": null,
+        "Job": "",
+        "Company": "Not specified",
+        "Requirement": "Not specified",
+        "Rewards": {
+            "Gil": 0,
+            "Exp": 0,
+            "ItemsMand": [
+                {
+                    "Icon": "https://img.finalfantasyxiv.com/lds/pc/global/images/itemicon/19/19daebd4dce351e5215412ed1429039e9d9ca2bf.png?n5.5",
+                    "Name": "Proto Ultima Heat Shielding",
+                    "Amount": 1,
+                    "Url": "/lodestone/playguide/db/item/fbe0c6e5dc1/"
+                }
+            ],
+            "ItemsOpt": []
+        },
+        "Infos": {
+            "PrevQuests": [
+                {
+                    "Name": "Freedom for Our Skies",
+                    "Url": "/lodestone/playguide/db/quest/766bb92612a/",
+                    "Area": "The Parrock",
+                    "Level": "60"
+                }
+            ]
+        },
+        "Seq": 6,
+        "oldID": 67016,
+        "Map": {
+            "ID": 257
+        }
+    }
+]

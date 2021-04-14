@@ -1,0 +1,2736 @@
+[
+    {
+        "ID": "0044c023957",
+        "Name": " Hoppla, jetzt komm ich!",
+        "Location": "Seenland",
+        "Level": 70,
+        "JournalSection": 5,
+        "JournalCategory": 23,
+        "JournalGenre": "\n\t\t\t\t\t\t\tNebenaufträge\n\t\t\t\t\t\t",
+        "Url": "/lodestone/playguide/db/quest/0044c023957/",
+        "Image": null,
+        "Icon": "common_repeat",
+        "Issuer": "Regitt",
+        "StartLocation": {
+            "Name": "Seenland",
+            "X": "9.1",
+            "Y": "12.9"
+        },
+        "StartClass": null,
+        "Job": "",
+        "Company": "Keine Angabe",
+        "Requirement": "Keine Angabe",
+        "Rewards": {
+            "Gil": 606,
+            "Exp": null,
+            "ItemsMand": [
+                {
+                    "Icon": "https://img.finalfantasyxiv.com/lds/pc/global/images/itemicon/0d/0dd4af1f23b8f1d782bacfb905a67b491688414c.png?n5.5",
+                    "Name": "Windkristall",
+                    "Amount": 25,
+                    "Url": "/lodestone/playguide/db/item/5db117cd77b/"
+                },
+                {
+                    "Icon": "https://img.finalfantasyxiv.com/lds/pc/global/images/itemicon/d9/d9a4b77a07bb95bf2713ae233a0eececdf211e8b.png?n5.5",
+                    "Name": "Feuerkristall",
+                    "Amount": 25,
+                    "Url": "/lodestone/playguide/db/item/75403105d7f/"
+                },
+                {
+                    "Icon": "https://img.finalfantasyxiv.com/lds/pc/global/images/itemicon/a7/a71da2eb489188dbbfadd582938a0e761a9a0585.png?n5.5",
+                    "Name": "Eiskristall",
+                    "Amount": 25,
+                    "Url": "/lodestone/playguide/db/item/2d800a06851/"
+                },
+                {
+                    "Icon": "https://img.finalfantasyxiv.com/lds/pc/global/images/itemicon/0d/0dd4af1f23b8f1d782bacfb905a67b491688414c.png?n5.5",
+                    "Name": "Windkristall",
+                    "Amount": 25,
+                    "Url": "/lodestone/playguide/db/item/5db117cd77b/"
+                },
+                {
+                    "Icon": "https://img.finalfantasyxiv.com/lds/pc/global/images/itemicon/16/16cd107e2bd1c45cee59e6b96ef02f2f6f68eac5.png?n5.5",
+                    "Name": "Erdkristall",
+                    "Amount": 25,
+                    "Url": "/lodestone/playguide/db/item/ff6eae7bdcb/"
+                },
+                {
+                    "Icon": "https://img.finalfantasyxiv.com/lds/pc/global/images/itemicon/5d/5dd42eb2385a5e0d158b8fa81b63a09e4b25c821.png?n5.5",
+                    "Name": "Blitzkristall",
+                    "Amount": 25,
+                    "Url": "/lodestone/playguide/db/item/b21a951916e/"
+                },
+                {
+                    "Icon": "https://img.finalfantasyxiv.com/lds/pc/global/images/itemicon/b5/b5eb0d9131d8f735a91286bdf2f877f0495e8235.png?n5.5",
+                    "Name": "Wasserkristall",
+                    "Amount": 25,
+                    "Url": "/lodestone/playguide/db/item/44d3f4cb26b/"
+                },
+                {
+                    "Icon": "https://img.finalfantasyxiv.com/lds/pc/global/images/itemicon/d9/d9a4b77a07bb95bf2713ae233a0eececdf211e8b.png?n5.5",
+                    "Name": "Feuerkristall",
+                    "Amount": 25,
+                    "Url": "/lodestone/playguide/db/item/75403105d7f/"
+                }
+            ],
+            "ItemsOpt": []
+        },
+        "Infos": {
+            "PrevQuests": [
+                {
+                    "Name": "Designerzwerg",
+                    "Url": "/lodestone/playguide/db/npc/npc/262baa09f44/",
+                    "Area": "Seenland (X:18.0 Y:19.2)"
+                }
+            ]
+        },
+        "Seq": 29,
+        "oldID": 69461,
+        "Map": {
+            "ID": 491
+        }
+    },
+    {
+        "ID": "064056d79a6",
+        "Name": " Unkaputtbar",
+        "Location": "Seenland",
+        "Level": 70,
+        "JournalSection": 5,
+        "JournalCategory": 23,
+        "JournalGenre": "\n\t\t\t\t\t\t\tNebenaufträge\n\t\t\t\t\t\t",
+        "Url": "/lodestone/playguide/db/quest/064056d79a6/",
+        "Image": null,
+        "Icon": "common_repeat",
+        "Issuer": "Regitt",
+        "StartLocation": {
+            "Name": "Seenland",
+            "X": "9.1",
+            "Y": "12.9"
+        },
+        "StartClass": null,
+        "Job": "",
+        "Company": "Keine Angabe",
+        "Requirement": "Keine Angabe",
+        "Rewards": {
+            "Gil": 606,
+            "Exp": null,
+            "ItemsMand": [
+                {
+                    "Icon": "https://img.finalfantasyxiv.com/lds/pc/global/images/itemicon/0d/0dd4af1f23b8f1d782bacfb905a67b491688414c.png?n5.5",
+                    "Name": "Windkristall",
+                    "Amount": 25,
+                    "Url": "/lodestone/playguide/db/item/5db117cd77b/"
+                },
+                {
+                    "Icon": "https://img.finalfantasyxiv.com/lds/pc/global/images/itemicon/d9/d9a4b77a07bb95bf2713ae233a0eececdf211e8b.png?n5.5",
+                    "Name": "Feuerkristall",
+                    "Amount": 25,
+                    "Url": "/lodestone/playguide/db/item/75403105d7f/"
+                },
+                {
+                    "Icon": "https://img.finalfantasyxiv.com/lds/pc/global/images/itemicon/a7/a71da2eb489188dbbfadd582938a0e761a9a0585.png?n5.5",
+                    "Name": "Eiskristall",
+                    "Amount": 25,
+                    "Url": "/lodestone/playguide/db/item/2d800a06851/"
+                },
+                {
+                    "Icon": "https://img.finalfantasyxiv.com/lds/pc/global/images/itemicon/0d/0dd4af1f23b8f1d782bacfb905a67b491688414c.png?n5.5",
+                    "Name": "Windkristall",
+                    "Amount": 25,
+                    "Url": "/lodestone/playguide/db/item/5db117cd77b/"
+                },
+                {
+                    "Icon": "https://img.finalfantasyxiv.com/lds/pc/global/images/itemicon/16/16cd107e2bd1c45cee59e6b96ef02f2f6f68eac5.png?n5.5",
+                    "Name": "Erdkristall",
+                    "Amount": 25,
+                    "Url": "/lodestone/playguide/db/item/ff6eae7bdcb/"
+                },
+                {
+                    "Icon": "https://img.finalfantasyxiv.com/lds/pc/global/images/itemicon/5d/5dd42eb2385a5e0d158b8fa81b63a09e4b25c821.png?n5.5",
+                    "Name": "Blitzkristall",
+                    "Amount": 25,
+                    "Url": "/lodestone/playguide/db/item/b21a951916e/"
+                },
+                {
+                    "Icon": "https://img.finalfantasyxiv.com/lds/pc/global/images/itemicon/b5/b5eb0d9131d8f735a91286bdf2f877f0495e8235.png?n5.5",
+                    "Name": "Wasserkristall",
+                    "Amount": 25,
+                    "Url": "/lodestone/playguide/db/item/44d3f4cb26b/"
+                },
+                {
+                    "Icon": "https://img.finalfantasyxiv.com/lds/pc/global/images/itemicon/d9/d9a4b77a07bb95bf2713ae233a0eececdf211e8b.png?n5.5",
+                    "Name": "Feuerkristall",
+                    "Amount": 25,
+                    "Url": "/lodestone/playguide/db/item/75403105d7f/"
+                }
+            ],
+            "ItemsOpt": []
+        },
+        "Infos": {
+            "PrevQuests": [
+                {
+                    "Name": "Entwicklerzwerg",
+                    "Url": "/lodestone/playguide/db/npc/npc/78e6d78a732/",
+                    "Area": "Seenland (X:20.8 Y:17.5)"
+                }
+            ]
+        },
+        "Seq": 25,
+        "oldID": 69457,
+        "Map": {
+            "ID": 491
+        }
+    },
+    {
+        "ID": "13637922c29",
+        "Name": " Ein Eisenbart auf Achse",
+        "Location": "Seenland",
+        "Level": 70,
+        "JournalSection": 5,
+        "JournalCategory": 23,
+        "JournalGenre": "\n\t\t\t\t\t\t\tNebenaufträge\n\t\t\t\t\t\t",
+        "Url": "/lodestone/playguide/db/quest/13637922c29/",
+        "Image": null,
+        "Icon": "common_repeat",
+        "Issuer": "Regitt",
+        "StartLocation": {
+            "Name": "Seenland",
+            "X": "9.1",
+            "Y": "12.9"
+        },
+        "StartClass": null,
+        "Job": "",
+        "Company": "Keine Angabe",
+        "Requirement": "Keine Angabe",
+        "Rewards": {
+            "Gil": 679,
+            "Exp": null,
+            "ItemsMand": [
+                {
+                    "Icon": "https://img.finalfantasyxiv.com/lds/pc/global/images/itemicon/0d/0dd4af1f23b8f1d782bacfb905a67b491688414c.png?n5.5",
+                    "Name": "Windkristall",
+                    "Amount": 25,
+                    "Url": "/lodestone/playguide/db/item/5db117cd77b/"
+                },
+                {
+                    "Icon": "https://img.finalfantasyxiv.com/lds/pc/global/images/itemicon/d9/d9a4b77a07bb95bf2713ae233a0eececdf211e8b.png?n5.5",
+                    "Name": "Feuerkristall",
+                    "Amount": 25,
+                    "Url": "/lodestone/playguide/db/item/75403105d7f/"
+                },
+                {
+                    "Icon": "https://img.finalfantasyxiv.com/lds/pc/global/images/itemicon/a7/a71da2eb489188dbbfadd582938a0e761a9a0585.png?n5.5",
+                    "Name": "Eiskristall",
+                    "Amount": 25,
+                    "Url": "/lodestone/playguide/db/item/2d800a06851/"
+                },
+                {
+                    "Icon": "https://img.finalfantasyxiv.com/lds/pc/global/images/itemicon/0d/0dd4af1f23b8f1d782bacfb905a67b491688414c.png?n5.5",
+                    "Name": "Windkristall",
+                    "Amount": 25,
+                    "Url": "/lodestone/playguide/db/item/5db117cd77b/"
+                },
+                {
+                    "Icon": "https://img.finalfantasyxiv.com/lds/pc/global/images/itemicon/16/16cd107e2bd1c45cee59e6b96ef02f2f6f68eac5.png?n5.5",
+                    "Name": "Erdkristall",
+                    "Amount": 25,
+                    "Url": "/lodestone/playguide/db/item/ff6eae7bdcb/"
+                },
+                {
+                    "Icon": "https://img.finalfantasyxiv.com/lds/pc/global/images/itemicon/5d/5dd42eb2385a5e0d158b8fa81b63a09e4b25c821.png?n5.5",
+                    "Name": "Blitzkristall",
+                    "Amount": 25,
+                    "Url": "/lodestone/playguide/db/item/b21a951916e/"
+                },
+                {
+                    "Icon": "https://img.finalfantasyxiv.com/lds/pc/global/images/itemicon/b5/b5eb0d9131d8f735a91286bdf2f877f0495e8235.png?n5.5",
+                    "Name": "Wasserkristall",
+                    "Amount": 25,
+                    "Url": "/lodestone/playguide/db/item/44d3f4cb26b/"
+                },
+                {
+                    "Icon": "https://img.finalfantasyxiv.com/lds/pc/global/images/itemicon/d9/d9a4b77a07bb95bf2713ae233a0eececdf211e8b.png?n5.5",
+                    "Name": "Feuerkristall",
+                    "Amount": 25,
+                    "Url": "/lodestone/playguide/db/item/75403105d7f/"
+                }
+            ],
+            "ItemsOpt": []
+        },
+        "Infos": {
+            "PrevQuests": [
+                {
+                    "Name": "Materialbeschaffer-Eisenbart",
+                    "Url": "/lodestone/playguide/db/npc/npc/fd458cd7e9f/",
+                    "Area": "Seenland (X:8.9 Y:13.1)"
+                },
+                {
+                    "Name": "Mechanikerzwerg",
+                    "Url": "/lodestone/playguide/db/npc/npc/9d95a748c86/",
+                    "Area": "Seenland (X:23.8 Y:10.4)"
+                },
+                {
+                    "Name": "Shigitt",
+                    "Url": "/lodestone/playguide/db/npc/npc/ee3243e5640/",
+                    "Area": "Seenland (X:9.3 Y:12.8)"
+                }
+            ]
+        },
+        "Seq": 10,
+        "oldID": 69442,
+        "Map": {
+            "ID": 491
+        }
+    },
+    {
+        "ID": "184facc998f",
+        "Name": " Stück für Stück zum Zwergenpanzerglück",
+        "Location": "Seenland",
+        "Level": 70,
+        "JournalSection": 5,
+        "JournalCategory": 23,
+        "JournalGenre": "\n\t\t\t\t\t\t\tNebenaufträge\n\t\t\t\t\t\t",
+        "Url": "/lodestone/playguide/db/quest/184facc998f/",
+        "Image": null,
+        "Icon": "common_repeat",
+        "Issuer": "Regitt",
+        "StartLocation": {
+            "Name": "Seenland",
+            "X": "9.1",
+            "Y": "12.9"
+        },
+        "StartClass": null,
+        "Job": "",
+        "Company": "Keine Angabe",
+        "Requirement": "Keine Angabe",
+        "Rewards": {
+            "Gil": 606,
+            "Exp": null,
+            "ItemsMand": [
+                {
+                    "Icon": "https://img.finalfantasyxiv.com/lds/pc/global/images/itemicon/0d/0dd4af1f23b8f1d782bacfb905a67b491688414c.png?n5.5",
+                    "Name": "Windkristall",
+                    "Amount": 25,
+                    "Url": "/lodestone/playguide/db/item/5db117cd77b/"
+                },
+                {
+                    "Icon": "https://img.finalfantasyxiv.com/lds/pc/global/images/itemicon/d9/d9a4b77a07bb95bf2713ae233a0eececdf211e8b.png?n5.5",
+                    "Name": "Feuerkristall",
+                    "Amount": 25,
+                    "Url": "/lodestone/playguide/db/item/75403105d7f/"
+                },
+                {
+                    "Icon": "https://img.finalfantasyxiv.com/lds/pc/global/images/itemicon/a7/a71da2eb489188dbbfadd582938a0e761a9a0585.png?n5.5",
+                    "Name": "Eiskristall",
+                    "Amount": 25,
+                    "Url": "/lodestone/playguide/db/item/2d800a06851/"
+                },
+                {
+                    "Icon": "https://img.finalfantasyxiv.com/lds/pc/global/images/itemicon/0d/0dd4af1f23b8f1d782bacfb905a67b491688414c.png?n5.5",
+                    "Name": "Windkristall",
+                    "Amount": 25,
+                    "Url": "/lodestone/playguide/db/item/5db117cd77b/"
+                },
+                {
+                    "Icon": "https://img.finalfantasyxiv.com/lds/pc/global/images/itemicon/16/16cd107e2bd1c45cee59e6b96ef02f2f6f68eac5.png?n5.5",
+                    "Name": "Erdkristall",
+                    "Amount": 25,
+                    "Url": "/lodestone/playguide/db/item/ff6eae7bdcb/"
+                },
+                {
+                    "Icon": "https://img.finalfantasyxiv.com/lds/pc/global/images/itemicon/5d/5dd42eb2385a5e0d158b8fa81b63a09e4b25c821.png?n5.5",
+                    "Name": "Blitzkristall",
+                    "Amount": 25,
+                    "Url": "/lodestone/playguide/db/item/b21a951916e/"
+                },
+                {
+                    "Icon": "https://img.finalfantasyxiv.com/lds/pc/global/images/itemicon/b5/b5eb0d9131d8f735a91286bdf2f877f0495e8235.png?n5.5",
+                    "Name": "Wasserkristall",
+                    "Amount": 25,
+                    "Url": "/lodestone/playguide/db/item/44d3f4cb26b/"
+                },
+                {
+                    "Icon": "https://img.finalfantasyxiv.com/lds/pc/global/images/itemicon/d9/d9a4b77a07bb95bf2713ae233a0eececdf211e8b.png?n5.5",
+                    "Name": "Feuerkristall",
+                    "Amount": 25,
+                    "Url": "/lodestone/playguide/db/item/75403105d7f/"
+                }
+            ],
+            "ItemsOpt": []
+        },
+        "Infos": {
+            "PrevQuests": [
+                {
+                    "Name": "Shigitt",
+                    "Url": "/lodestone/playguide/db/npc/npc/ee3243e5640/",
+                    "Area": "Seenland (X:9.3 Y:12.8)"
+                }
+            ]
+        },
+        "Seq": 8,
+        "oldID": 69440,
+        "Map": {
+            "ID": 491
+        }
+    },
+    {
+        "ID": "1d95ce5ec00",
+        "Name": " Ein ansprechendes Wesen",
+        "Location": "Seenland",
+        "Level": 70,
+        "JournalSection": 5,
+        "JournalCategory": 23,
+        "JournalGenre": "\n\t\t\t\t\t\t\tNebenaufträge\n\t\t\t\t\t\t",
+        "Url": "/lodestone/playguide/db/quest/1d95ce5ec00/",
+        "Image": null,
+        "Icon": "common_repeat",
+        "Issuer": "Regitt",
+        "StartLocation": {
+            "Name": "Seenland",
+            "X": "9.1",
+            "Y": "12.9"
+        },
+        "StartClass": null,
+        "Job": "",
+        "Company": "Keine Angabe",
+        "Requirement": "Keine Angabe",
+        "Rewards": {
+            "Gil": 606,
+            "Exp": null,
+            "ItemsMand": [],
+            "ItemsOpt": []
+        },
+        "Infos": {
+            "PrevQuests": [
+                {
+                    "Name": "Nachtschattenelf",
+                    "Url": "/lodestone/playguide/db/npc/npc/c98c77aeb52/",
+                    "Area": "Seenland (X:13.2 Y:12.9)"
+                },
+                {
+                    "Name": "Verirrter Gremlin",
+                    "Url": "/lodestone/playguide/db/npc/npc/b245b360930/",
+                    "Area": "Seenland (X:13.4 Y:12.6)"
+                },
+                {
+                    "Name": "Wachsoldat",
+                    "Url": "/lodestone/playguide/db/npc/npc/4d3c9fa1fcf/",
+                    "Area": "Seenland (X:13.5 Y:13.0)"
+                }
+            ]
+        },
+        "Seq": 13,
+        "oldID": 69445,
+        "Map": {
+            "ID": 491
+        }
+    },
+    {
+        "ID": "25584811f89",
+        "Name": " Qualitätsschreibwaren für den Werkstattsbedarf",
+        "Location": "Seenland",
+        "Level": 70,
+        "JournalSection": 5,
+        "JournalCategory": 23,
+        "JournalGenre": "\n\t\t\t\t\t\t\tNebenaufträge\n\t\t\t\t\t\t",
+        "Url": "/lodestone/playguide/db/quest/25584811f89/",
+        "Image": null,
+        "Icon": "common_repeat",
+        "Issuer": "Regitt",
+        "StartLocation": {
+            "Name": "Seenland",
+            "X": "9.1",
+            "Y": "12.9"
+        },
+        "StartClass": null,
+        "Job": "",
+        "Company": "Keine Angabe",
+        "Requirement": "Keine Angabe",
+        "Rewards": {
+            "Gil": 606,
+            "Exp": null,
+            "ItemsMand": [
+                {
+                    "Icon": "https://img.finalfantasyxiv.com/lds/pc/global/images/itemicon/0d/0dd4af1f23b8f1d782bacfb905a67b491688414c.png?n5.5",
+                    "Name": "Windkristall",
+                    "Amount": 25,
+                    "Url": "/lodestone/playguide/db/item/5db117cd77b/"
+                },
+                {
+                    "Icon": "https://img.finalfantasyxiv.com/lds/pc/global/images/itemicon/d9/d9a4b77a07bb95bf2713ae233a0eececdf211e8b.png?n5.5",
+                    "Name": "Feuerkristall",
+                    "Amount": 25,
+                    "Url": "/lodestone/playguide/db/item/75403105d7f/"
+                },
+                {
+                    "Icon": "https://img.finalfantasyxiv.com/lds/pc/global/images/itemicon/a7/a71da2eb489188dbbfadd582938a0e761a9a0585.png?n5.5",
+                    "Name": "Eiskristall",
+                    "Amount": 25,
+                    "Url": "/lodestone/playguide/db/item/2d800a06851/"
+                },
+                {
+                    "Icon": "https://img.finalfantasyxiv.com/lds/pc/global/images/itemicon/0d/0dd4af1f23b8f1d782bacfb905a67b491688414c.png?n5.5",
+                    "Name": "Windkristall",
+                    "Amount": 25,
+                    "Url": "/lodestone/playguide/db/item/5db117cd77b/"
+                },
+                {
+                    "Icon": "https://img.finalfantasyxiv.com/lds/pc/global/images/itemicon/16/16cd107e2bd1c45cee59e6b96ef02f2f6f68eac5.png?n5.5",
+                    "Name": "Erdkristall",
+                    "Amount": 25,
+                    "Url": "/lodestone/playguide/db/item/ff6eae7bdcb/"
+                },
+                {
+                    "Icon": "https://img.finalfantasyxiv.com/lds/pc/global/images/itemicon/5d/5dd42eb2385a5e0d158b8fa81b63a09e4b25c821.png?n5.5",
+                    "Name": "Blitzkristall",
+                    "Amount": 25,
+                    "Url": "/lodestone/playguide/db/item/b21a951916e/"
+                },
+                {
+                    "Icon": "https://img.finalfantasyxiv.com/lds/pc/global/images/itemicon/b5/b5eb0d9131d8f735a91286bdf2f877f0495e8235.png?n5.5",
+                    "Name": "Wasserkristall",
+                    "Amount": 25,
+                    "Url": "/lodestone/playguide/db/item/44d3f4cb26b/"
+                },
+                {
+                    "Icon": "https://img.finalfantasyxiv.com/lds/pc/global/images/itemicon/d9/d9a4b77a07bb95bf2713ae233a0eececdf211e8b.png?n5.5",
+                    "Name": "Feuerkristall",
+                    "Amount": 25,
+                    "Url": "/lodestone/playguide/db/item/75403105d7f/"
+                }
+            ],
+            "ItemsOpt": []
+        },
+        "Infos": {
+            "PrevQuests": [
+                {
+                    "Name": "Gepäcktragender Eisenbart",
+                    "Url": "/lodestone/playguide/db/npc/npc/83b0af0aa27/",
+                    "Area": "Seenland (X:36.1 Y:19.8)"
+                },
+                {
+                    "Name": "Quartiermeisterzwerg",
+                    "Url": "/lodestone/playguide/db/npc/npc/57dc06712f2/",
+                    "Area": "Seenland (X:36.1 Y:19.9)"
+                }
+            ]
+        },
+        "Seq": 11,
+        "oldID": 69443,
+        "Map": {
+            "ID": 491
+        }
+    },
+    {
+        "ID": "459acb84019",
+        "Name": " Kein Trink-Wässerchen",
+        "Location": "Seenland",
+        "Level": 70,
+        "JournalSection": 5,
+        "JournalCategory": 23,
+        "JournalGenre": "\n\t\t\t\t\t\t\tNebenaufträge\n\t\t\t\t\t\t",
+        "Url": "/lodestone/playguide/db/quest/459acb84019/",
+        "Image": null,
+        "Icon": "common_repeat",
+        "Issuer": "Regitt",
+        "StartLocation": {
+            "Name": "Seenland",
+            "X": "9.1",
+            "Y": "12.9"
+        },
+        "StartClass": null,
+        "Job": "",
+        "Company": "Keine Angabe",
+        "Requirement": "Keine Angabe",
+        "Rewards": {
+            "Gil": 606,
+            "Exp": null,
+            "ItemsMand": [],
+            "ItemsOpt": []
+        },
+        "Infos": {
+            "PrevQuests": [
+                {
+                    "Name": "Hume-Händler",
+                    "Url": "/lodestone/playguide/db/npc/npc/9d59edbf3ae/",
+                    "Area": "Seenland (X:20.9 Y:34.7)"
+                }
+            ]
+        },
+        "Seq": 30,
+        "oldID": 69462,
+        "Map": {
+            "ID": 491
+        }
+    },
+    {
+        "ID": "476970ee639",
+        "Name": " Lass es krachen!",
+        "Location": "Seenland",
+        "Level": 70,
+        "JournalSection": 5,
+        "JournalCategory": 23,
+        "JournalGenre": "\n\t\t\t\t\t\t\tNebenaufträge\n\t\t\t\t\t\t",
+        "Url": "/lodestone/playguide/db/quest/476970ee639/",
+        "Image": null,
+        "Icon": "common_repeat",
+        "Issuer": "Regitt",
+        "StartLocation": {
+            "Name": "Seenland",
+            "X": "9.1",
+            "Y": "12.9"
+        },
+        "StartClass": null,
+        "Job": "",
+        "Company": "Keine Angabe",
+        "Requirement": "Keine Angabe",
+        "Rewards": {
+            "Gil": 679,
+            "Exp": null,
+            "ItemsMand": [],
+            "ItemsOpt": []
+        },
+        "Infos": {
+            "PrevQuests": [
+                {
+                    "Name": "Abbauzwerg",
+                    "Url": "/lodestone/playguide/db/npc/npc/0d3999bac6f/",
+                    "Area": "Seenland (X:6.9 Y:21.5)"
+                }
+            ]
+        },
+        "Seq": 16,
+        "oldID": 69448,
+        "Map": {
+            "ID": 491
+        }
+    },
+    {
+        "ID": "49c1b874658",
+        "Name": " Süße Gremlinscheuche",
+        "Location": "Seenland",
+        "Level": 70,
+        "JournalSection": 5,
+        "JournalCategory": 23,
+        "JournalGenre": "\n\t\t\t\t\t\t\tNebenaufträge\n\t\t\t\t\t\t",
+        "Url": "/lodestone/playguide/db/quest/49c1b874658/",
+        "Image": null,
+        "Icon": "common_repeat",
+        "Issuer": "Regitt",
+        "StartLocation": {
+            "Name": "Seenland",
+            "X": "9.1",
+            "Y": "12.9"
+        },
+        "StartClass": null,
+        "Job": "",
+        "Company": "Keine Angabe",
+        "Requirement": "Keine Angabe",
+        "Rewards": {
+            "Gil": 606,
+            "Exp": null,
+            "ItemsMand": [],
+            "ItemsOpt": []
+        },
+        "Infos": {},
+        "Seq": 9,
+        "oldID": 69441,
+        "Map": {
+            "ID": 491
+        }
+    },
+    {
+        "ID": "4a5e6488ce8",
+        "Name": " Spritziger Sprit",
+        "Location": "Seenland",
+        "Level": 70,
+        "JournalSection": 5,
+        "JournalCategory": 23,
+        "JournalGenre": "\n\t\t\t\t\t\t\tNebenaufträge\n\t\t\t\t\t\t",
+        "Url": "/lodestone/playguide/db/quest/4a5e6488ce8/",
+        "Image": null,
+        "Icon": "common_repeat",
+        "Issuer": "Regitt",
+        "StartLocation": {
+            "Name": "Seenland",
+            "X": "9.1",
+            "Y": "12.9"
+        },
+        "StartClass": null,
+        "Job": "",
+        "Company": "Keine Angabe",
+        "Requirement": "Keine Angabe",
+        "Rewards": {
+            "Gil": 679,
+            "Exp": null,
+            "ItemsMand": [
+                {
+                    "Icon": "https://img.finalfantasyxiv.com/lds/pc/global/images/itemicon/0d/0dd4af1f23b8f1d782bacfb905a67b491688414c.png?n5.5",
+                    "Name": "Windkristall",
+                    "Amount": 25,
+                    "Url": "/lodestone/playguide/db/item/5db117cd77b/"
+                },
+                {
+                    "Icon": "https://img.finalfantasyxiv.com/lds/pc/global/images/itemicon/d9/d9a4b77a07bb95bf2713ae233a0eececdf211e8b.png?n5.5",
+                    "Name": "Feuerkristall",
+                    "Amount": 25,
+                    "Url": "/lodestone/playguide/db/item/75403105d7f/"
+                },
+                {
+                    "Icon": "https://img.finalfantasyxiv.com/lds/pc/global/images/itemicon/a7/a71da2eb489188dbbfadd582938a0e761a9a0585.png?n5.5",
+                    "Name": "Eiskristall",
+                    "Amount": 25,
+                    "Url": "/lodestone/playguide/db/item/2d800a06851/"
+                },
+                {
+                    "Icon": "https://img.finalfantasyxiv.com/lds/pc/global/images/itemicon/0d/0dd4af1f23b8f1d782bacfb905a67b491688414c.png?n5.5",
+                    "Name": "Windkristall",
+                    "Amount": 25,
+                    "Url": "/lodestone/playguide/db/item/5db117cd77b/"
+                },
+                {
+                    "Icon": "https://img.finalfantasyxiv.com/lds/pc/global/images/itemicon/16/16cd107e2bd1c45cee59e6b96ef02f2f6f68eac5.png?n5.5",
+                    "Name": "Erdkristall",
+                    "Amount": 25,
+                    "Url": "/lodestone/playguide/db/item/ff6eae7bdcb/"
+                },
+                {
+                    "Icon": "https://img.finalfantasyxiv.com/lds/pc/global/images/itemicon/5d/5dd42eb2385a5e0d158b8fa81b63a09e4b25c821.png?n5.5",
+                    "Name": "Blitzkristall",
+                    "Amount": 25,
+                    "Url": "/lodestone/playguide/db/item/b21a951916e/"
+                },
+                {
+                    "Icon": "https://img.finalfantasyxiv.com/lds/pc/global/images/itemicon/b5/b5eb0d9131d8f735a91286bdf2f877f0495e8235.png?n5.5",
+                    "Name": "Wasserkristall",
+                    "Amount": 25,
+                    "Url": "/lodestone/playguide/db/item/44d3f4cb26b/"
+                },
+                {
+                    "Icon": "https://img.finalfantasyxiv.com/lds/pc/global/images/itemicon/d9/d9a4b77a07bb95bf2713ae233a0eececdf211e8b.png?n5.5",
+                    "Name": "Feuerkristall",
+                    "Amount": 25,
+                    "Url": "/lodestone/playguide/db/item/75403105d7f/"
+                }
+            ],
+            "ItemsOpt": []
+        },
+        "Infos": {
+            "PrevQuests": [
+                {
+                    "Name": "Destillateurzwerg",
+                    "Url": "/lodestone/playguide/db/npc/npc/2924269aaf0/",
+                    "Area": "Seenland (X:14.3 Y:8.7)"
+                },
+                {
+                    "Name": "Materialbeschaffer-Eisenbart",
+                    "Url": "/lodestone/playguide/db/npc/npc/fd458cd7e9f/",
+                    "Area": "Seenland (X:8.9 Y:13.1)"
+                },
+                {
+                    "Name": "Shigitt",
+                    "Url": "/lodestone/playguide/db/npc/npc/ee3243e5640/",
+                    "Area": "Seenland (X:9.3 Y:12.8)"
+                }
+            ]
+        },
+        "Seq": 17,
+        "oldID": 69449,
+        "Map": {
+            "ID": 491
+        }
+    },
+    {
+        "ID": "50cba0858d8",
+        "Name": " Kunterbunte Muntermacher",
+        "Location": "Seenland",
+        "Level": 70,
+        "JournalSection": 5,
+        "JournalCategory": 23,
+        "JournalGenre": "\n\t\t\t\t\t\t\tNebenaufträge\n\t\t\t\t\t\t",
+        "Url": "/lodestone/playguide/db/quest/50cba0858d8/",
+        "Image": null,
+        "Icon": "common_repeat",
+        "Issuer": "Regitt",
+        "StartLocation": {
+            "Name": "Seenland",
+            "X": "9.1",
+            "Y": "12.9"
+        },
+        "StartClass": null,
+        "Job": "",
+        "Company": "Keine Angabe",
+        "Requirement": "Keine Angabe",
+        "Rewards": {
+            "Gil": 679,
+            "Exp": null,
+            "ItemsMand": [
+                {
+                    "Icon": "https://img.finalfantasyxiv.com/lds/pc/global/images/itemicon/0d/0dd4af1f23b8f1d782bacfb905a67b491688414c.png?n5.5",
+                    "Name": "Windkristall",
+                    "Amount": 25,
+                    "Url": "/lodestone/playguide/db/item/5db117cd77b/"
+                },
+                {
+                    "Icon": "https://img.finalfantasyxiv.com/lds/pc/global/images/itemicon/d9/d9a4b77a07bb95bf2713ae233a0eececdf211e8b.png?n5.5",
+                    "Name": "Feuerkristall",
+                    "Amount": 25,
+                    "Url": "/lodestone/playguide/db/item/75403105d7f/"
+                },
+                {
+                    "Icon": "https://img.finalfantasyxiv.com/lds/pc/global/images/itemicon/a7/a71da2eb489188dbbfadd582938a0e761a9a0585.png?n5.5",
+                    "Name": "Eiskristall",
+                    "Amount": 25,
+                    "Url": "/lodestone/playguide/db/item/2d800a06851/"
+                },
+                {
+                    "Icon": "https://img.finalfantasyxiv.com/lds/pc/global/images/itemicon/0d/0dd4af1f23b8f1d782bacfb905a67b491688414c.png?n5.5",
+                    "Name": "Windkristall",
+                    "Amount": 25,
+                    "Url": "/lodestone/playguide/db/item/5db117cd77b/"
+                },
+                {
+                    "Icon": "https://img.finalfantasyxiv.com/lds/pc/global/images/itemicon/16/16cd107e2bd1c45cee59e6b96ef02f2f6f68eac5.png?n5.5",
+                    "Name": "Erdkristall",
+                    "Amount": 25,
+                    "Url": "/lodestone/playguide/db/item/ff6eae7bdcb/"
+                },
+                {
+                    "Icon": "https://img.finalfantasyxiv.com/lds/pc/global/images/itemicon/5d/5dd42eb2385a5e0d158b8fa81b63a09e4b25c821.png?n5.5",
+                    "Name": "Blitzkristall",
+                    "Amount": 25,
+                    "Url": "/lodestone/playguide/db/item/b21a951916e/"
+                },
+                {
+                    "Icon": "https://img.finalfantasyxiv.com/lds/pc/global/images/itemicon/b5/b5eb0d9131d8f735a91286bdf2f877f0495e8235.png?n5.5",
+                    "Name": "Wasserkristall",
+                    "Amount": 25,
+                    "Url": "/lodestone/playguide/db/item/44d3f4cb26b/"
+                },
+                {
+                    "Icon": "https://img.finalfantasyxiv.com/lds/pc/global/images/itemicon/d9/d9a4b77a07bb95bf2713ae233a0eececdf211e8b.png?n5.5",
+                    "Name": "Feuerkristall",
+                    "Amount": 25,
+                    "Url": "/lodestone/playguide/db/item/75403105d7f/"
+                }
+            ],
+            "ItemsOpt": []
+        },
+        "Infos": {
+            "PrevQuests": [
+                {
+                    "Name": "Materialbeschaffer-Eisenbart",
+                    "Url": "/lodestone/playguide/db/npc/npc/fd458cd7e9f/",
+                    "Area": "Seenland (X:8.9 Y:13.1)"
+                },
+                {
+                    "Name": "Schläfriger Zwerg",
+                    "Url": "/lodestone/playguide/db/npc/npc/47f6dfddfb6/",
+                    "Area": "Seenland (X:5.5 Y:23.8)"
+                },
+                {
+                    "Name": "Shigitt",
+                    "Url": "/lodestone/playguide/db/npc/npc/ee3243e5640/",
+                    "Area": "Seenland (X:9.3 Y:12.8)"
+                }
+            ]
+        },
+        "Seq": 28,
+        "oldID": 69460,
+        "Map": {
+            "ID": 491
+        }
+    },
+    {
+        "ID": "579270e78d9",
+        "Name": "Die Produktion rollt",
+        "Location": "Seenland",
+        "Level": 70,
+        "JournalSection": 5,
+        "JournalCategory": 23,
+        "JournalGenre": "\n\t\t\t\t\t\t\tHauptaufträge\n\t\t\t\t\t\t",
+        "Url": "/lodestone/playguide/db/quest/579270e78d9/",
+        "Image": "https://img.finalfantasyxiv.com/lds/pc/global/images/itemicon/ec/ec559607a04c9f62ee3e3388d790e5055b23f942.png?n5.5",
+        "Icon": "function_normal",
+        "Issuer": "Ronitt",
+        "StartLocation": {
+            "Name": "Seenland",
+            "X": "9.3",
+            "Y": "13.2"
+        },
+        "StartClass": null,
+        "Job": "",
+        "Company": "Keine Angabe",
+        "Requirement": "Keine Angabe",
+        "Rewards": {
+            "Gil": 1444,
+            "Exp": null,
+            "ItemsMand": [],
+            "ItemsOpt": []
+        },
+        "Infos": {
+            "PrevQuests": [
+                {
+                    "Name": "Watts' Weg",
+                    "Url": "/lodestone/playguide/db/quest/bca11a72d34/",
+                    "Area": "Seenland",
+                    "Level": "70"
+                }
+            ],
+            "NextQuests": [
+                {
+                    "Name": "Zwergenpanzer für Norvrandts Frieden",
+                    "Url": "/lodestone/playguide/db/quest/98dbf21c4a1/",
+                    "Area": "Seenland",
+                    "Level": "70"
+                }
+            ],
+            "NPCs": [
+                {
+                    "Name": "Eueliss",
+                    "Url": "/lodestone/playguide/db/npc/npc/0459c430d11/",
+                    "Area": "Seenland (X:9.5 Y:12.6)"
+                },
+                {
+                    "Name": "Lorathia",
+                    "Url": "/lodestone/playguide/db/npc/npc/8b8013fee5a/",
+                    "Area": "Seenland (X:9.3 Y:12.8)"
+                },
+                {
+                    "Name": "Materialbeschaffer-Eisenbart",
+                    "Url": "/lodestone/playguide/db/npc/npc/fd458cd7e9f/",
+                    "Area": "Seenland (X:8.9 Y:13.1)"
+                },
+                {
+                    "Name": "Ozogg",
+                    "Url": "/lodestone/playguide/db/npc/npc/3c3ebfe1352/",
+                    "Area": "Seenland (X:9.3 Y:12.9)"
+                },
+                {
+                    "Name": "Ozogg",
+                    "Url": "/lodestone/playguide/db/npc/npc/0aa967a346b/",
+                    "Area": "Seenland (X:14.0 Y:19.5)"
+                },
+                {
+                    "Name": "Ronitt",
+                    "Url": "/lodestone/playguide/db/npc/npc/dd124e6c0a9/",
+                    "Area": "Seenland (X:9.1 Y:27.5)"
+                },
+                {
+                    "Name": "Sai-Lewq",
+                    "Url": "/lodestone/playguide/db/npc/npc/1f6dc39c56a/",
+                    "Area": "Seenland (X:9.5 Y:12.6)"
+                }
+            ]
+        },
+        "Seq": 4,
+        "oldID": 69436,
+        "Map": {
+            "ID": 491
+        }
+    },
+    {
+        "ID": "579be96146c",
+        "Name": " Hilfe für die Nachbarschaftshilfe",
+        "Location": "Seenland",
+        "Level": 70,
+        "JournalSection": 5,
+        "JournalCategory": 23,
+        "JournalGenre": "\n\t\t\t\t\t\t\tNebenaufträge\n\t\t\t\t\t\t",
+        "Url": "/lodestone/playguide/db/quest/579be96146c/",
+        "Image": null,
+        "Icon": "common_repeat",
+        "Issuer": "Regitt",
+        "StartLocation": {
+            "Name": "Seenland",
+            "X": "9.1",
+            "Y": "12.9"
+        },
+        "StartClass": null,
+        "Job": "",
+        "Company": "Keine Angabe",
+        "Requirement": "Keine Angabe",
+        "Rewards": {
+            "Gil": 606,
+            "Exp": null,
+            "ItemsMand": [
+                {
+                    "Icon": "https://img.finalfantasyxiv.com/lds/pc/global/images/itemicon/0d/0dd4af1f23b8f1d782bacfb905a67b491688414c.png?n5.5",
+                    "Name": "Windkristall",
+                    "Amount": 25,
+                    "Url": "/lodestone/playguide/db/item/5db117cd77b/"
+                },
+                {
+                    "Icon": "https://img.finalfantasyxiv.com/lds/pc/global/images/itemicon/d9/d9a4b77a07bb95bf2713ae233a0eececdf211e8b.png?n5.5",
+                    "Name": "Feuerkristall",
+                    "Amount": 25,
+                    "Url": "/lodestone/playguide/db/item/75403105d7f/"
+                },
+                {
+                    "Icon": "https://img.finalfantasyxiv.com/lds/pc/global/images/itemicon/a7/a71da2eb489188dbbfadd582938a0e761a9a0585.png?n5.5",
+                    "Name": "Eiskristall",
+                    "Amount": 25,
+                    "Url": "/lodestone/playguide/db/item/2d800a06851/"
+                },
+                {
+                    "Icon": "https://img.finalfantasyxiv.com/lds/pc/global/images/itemicon/0d/0dd4af1f23b8f1d782bacfb905a67b491688414c.png?n5.5",
+                    "Name": "Windkristall",
+                    "Amount": 25,
+                    "Url": "/lodestone/playguide/db/item/5db117cd77b/"
+                },
+                {
+                    "Icon": "https://img.finalfantasyxiv.com/lds/pc/global/images/itemicon/16/16cd107e2bd1c45cee59e6b96ef02f2f6f68eac5.png?n5.5",
+                    "Name": "Erdkristall",
+                    "Amount": 25,
+                    "Url": "/lodestone/playguide/db/item/ff6eae7bdcb/"
+                },
+                {
+                    "Icon": "https://img.finalfantasyxiv.com/lds/pc/global/images/itemicon/5d/5dd42eb2385a5e0d158b8fa81b63a09e4b25c821.png?n5.5",
+                    "Name": "Blitzkristall",
+                    "Amount": 25,
+                    "Url": "/lodestone/playguide/db/item/b21a951916e/"
+                },
+                {
+                    "Icon": "https://img.finalfantasyxiv.com/lds/pc/global/images/itemicon/b5/b5eb0d9131d8f735a91286bdf2f877f0495e8235.png?n5.5",
+                    "Name": "Wasserkristall",
+                    "Amount": 25,
+                    "Url": "/lodestone/playguide/db/item/44d3f4cb26b/"
+                },
+                {
+                    "Icon": "https://img.finalfantasyxiv.com/lds/pc/global/images/itemicon/d9/d9a4b77a07bb95bf2713ae233a0eececdf211e8b.png?n5.5",
+                    "Name": "Feuerkristall",
+                    "Amount": 25,
+                    "Url": "/lodestone/playguide/db/item/75403105d7f/"
+                }
+            ],
+            "ItemsOpt": []
+        },
+        "Infos": {
+            "PrevQuests": [
+                {
+                    "Name": "Materialbeschaffer-Eisenbart",
+                    "Url": "/lodestone/playguide/db/npc/npc/1c013b30665/",
+                    "Area": "Seenland (X:7.9 Y:18.5)"
+                },
+                {
+                    "Name": "Reparatur-Zwerg",
+                    "Url": "/lodestone/playguide/db/npc/npc/c13bb47552b/",
+                    "Area": "Seenland (X:7.9 Y:18.5)"
+                }
+            ]
+        },
+        "Seq": 6,
+        "oldID": 69438,
+        "Map": {
+            "ID": 491
+        }
+    },
+    {
+        "ID": "5b1636ed3f9",
+        "Name": "Eine Gogg sorgt für frischen Wind",
+        "Location": "Seenland",
+        "Level": 70,
+        "JournalSection": 5,
+        "JournalCategory": 23,
+        "JournalGenre": "\n\t\t\t\t\t\t\tHauptaufträge\n\t\t\t\t\t\t",
+        "Url": "/lodestone/playguide/db/quest/5b1636ed3f9/",
+        "Image": "https://img.finalfantasyxiv.com/lds/pc/global/images/itemicon/e1/e14ee6466685141276f872217629c0c4421b1191.png?n5.5",
+        "Icon": "function_normal",
+        "Issuer": "Ronitt",
+        "StartLocation": {
+            "Name": "Seenland",
+            "X": "9.3",
+            "Y": "13.2"
+        },
+        "StartClass": null,
+        "Job": "",
+        "Company": "Keine Angabe",
+        "Requirement": "Keine Angabe",
+        "Rewards": {
+            "Gil": 934,
+            "Exp": null,
+            "ItemsMand": [],
+            "ItemsOpt": []
+        },
+        "Infos": {
+            "PrevQuests": [
+                {
+                    "Name": "Zwei Bärte können mehr als einer",
+                    "Url": "/lodestone/playguide/db/quest/dd23813c3e1/",
+                    "Area": "Kholusia",
+                    "Level": "70"
+                }
+            ],
+            "NextQuests": [
+                {
+                    "Name": "Tee, Zwillinge und Zwergenpanzer",
+                    "Url": "/lodestone/playguide/db/quest/98ed8bd9966/",
+                    "Area": "Seenland",
+                    "Level": "70"
+                }
+            ],
+            "NPCs": [
+                {
+                    "Name": "Karutt",
+                    "Url": "/lodestone/playguide/db/npc/npc/e6100054e4c/",
+                    "Area": "Seenland (X:9.5 Y:12.6)"
+                },
+                {
+                    "Name": "Materialbeschaffer-Eisenbart",
+                    "Url": "/lodestone/playguide/db/npc/npc/fd458cd7e9f/",
+                    "Area": "Seenland (X:8.9 Y:13.1)"
+                },
+                {
+                    "Name": "Ozogg",
+                    "Url": "/lodestone/playguide/db/npc/npc/24d231d94e1/",
+                    "Area": "Seenland (X:9.6 Y:12.5)"
+                }
+            ]
+        },
+        "Seq": 1,
+        "oldID": 69433,
+        "Map": {
+            "ID": 491
+        }
+    },
+    {
+        "ID": "6337429073b",
+        "Name": " Wer sein Bärtchen hegt, der pflegt",
+        "Location": "Seenland",
+        "Level": 70,
+        "JournalSection": 5,
+        "JournalCategory": 23,
+        "JournalGenre": "\n\t\t\t\t\t\t\tNebenaufträge\n\t\t\t\t\t\t",
+        "Url": "/lodestone/playguide/db/quest/6337429073b/",
+        "Image": null,
+        "Icon": "common_repeat",
+        "Issuer": "Regitt",
+        "StartLocation": {
+            "Name": "Seenland",
+            "X": "9.1",
+            "Y": "12.9"
+        },
+        "StartClass": null,
+        "Job": "",
+        "Company": "Keine Angabe",
+        "Requirement": "Keine Angabe",
+        "Rewards": {
+            "Gil": 606,
+            "Exp": null,
+            "ItemsMand": [
+                {
+                    "Icon": "https://img.finalfantasyxiv.com/lds/pc/global/images/itemicon/0d/0dd4af1f23b8f1d782bacfb905a67b491688414c.png?n5.5",
+                    "Name": "Windkristall",
+                    "Amount": 25,
+                    "Url": "/lodestone/playguide/db/item/5db117cd77b/"
+                },
+                {
+                    "Icon": "https://img.finalfantasyxiv.com/lds/pc/global/images/itemicon/d9/d9a4b77a07bb95bf2713ae233a0eececdf211e8b.png?n5.5",
+                    "Name": "Feuerkristall",
+                    "Amount": 25,
+                    "Url": "/lodestone/playguide/db/item/75403105d7f/"
+                },
+                {
+                    "Icon": "https://img.finalfantasyxiv.com/lds/pc/global/images/itemicon/a7/a71da2eb489188dbbfadd582938a0e761a9a0585.png?n5.5",
+                    "Name": "Eiskristall",
+                    "Amount": 25,
+                    "Url": "/lodestone/playguide/db/item/2d800a06851/"
+                },
+                {
+                    "Icon": "https://img.finalfantasyxiv.com/lds/pc/global/images/itemicon/0d/0dd4af1f23b8f1d782bacfb905a67b491688414c.png?n5.5",
+                    "Name": "Windkristall",
+                    "Amount": 25,
+                    "Url": "/lodestone/playguide/db/item/5db117cd77b/"
+                },
+                {
+                    "Icon": "https://img.finalfantasyxiv.com/lds/pc/global/images/itemicon/16/16cd107e2bd1c45cee59e6b96ef02f2f6f68eac5.png?n5.5",
+                    "Name": "Erdkristall",
+                    "Amount": 25,
+                    "Url": "/lodestone/playguide/db/item/ff6eae7bdcb/"
+                },
+                {
+                    "Icon": "https://img.finalfantasyxiv.com/lds/pc/global/images/itemicon/5d/5dd42eb2385a5e0d158b8fa81b63a09e4b25c821.png?n5.5",
+                    "Name": "Blitzkristall",
+                    "Amount": 25,
+                    "Url": "/lodestone/playguide/db/item/b21a951916e/"
+                },
+                {
+                    "Icon": "https://img.finalfantasyxiv.com/lds/pc/global/images/itemicon/b5/b5eb0d9131d8f735a91286bdf2f877f0495e8235.png?n5.5",
+                    "Name": "Wasserkristall",
+                    "Amount": 25,
+                    "Url": "/lodestone/playguide/db/item/44d3f4cb26b/"
+                },
+                {
+                    "Icon": "https://img.finalfantasyxiv.com/lds/pc/global/images/itemicon/d9/d9a4b77a07bb95bf2713ae233a0eececdf211e8b.png?n5.5",
+                    "Name": "Feuerkristall",
+                    "Amount": 25,
+                    "Url": "/lodestone/playguide/db/item/75403105d7f/"
+                }
+            ],
+            "ItemsOpt": []
+        },
+        "Infos": {
+            "PrevQuests": [
+                {
+                    "Name": "Materialbeschaffer-Eisenbart",
+                    "Url": "/lodestone/playguide/db/npc/npc/daa2019777e/",
+                    "Area": "Seenland (X:37.0 Y:21.9)"
+                },
+                {
+                    "Name": "Nachschub-Zwerg",
+                    "Url": "/lodestone/playguide/db/npc/npc/88b5167b02d/",
+                    "Area": "Seenland (X:36.9 Y:21.9)"
+                }
+            ]
+        },
+        "Seq": 7,
+        "oldID": 69439,
+        "Map": {
+            "ID": 491
+        }
+    },
+    {
+        "ID": "63ec8bff097",
+        "Name": " Die Fassproduktion kommt ins Rollen",
+        "Location": "Seenland",
+        "Level": 70,
+        "JournalSection": 5,
+        "JournalCategory": 23,
+        "JournalGenre": "\n\t\t\t\t\t\t\tNebenaufträge\n\t\t\t\t\t\t",
+        "Url": "/lodestone/playguide/db/quest/63ec8bff097/",
+        "Image": null,
+        "Icon": "common_repeat",
+        "Issuer": "Regitt",
+        "StartLocation": {
+            "Name": "Seenland",
+            "X": "9.1",
+            "Y": "12.9"
+        },
+        "StartClass": null,
+        "Job": "",
+        "Company": "Keine Angabe",
+        "Requirement": "Keine Angabe",
+        "Rewards": {
+            "Gil": 679,
+            "Exp": null,
+            "ItemsMand": [
+                {
+                    "Icon": "https://img.finalfantasyxiv.com/lds/pc/global/images/itemicon/0d/0dd4af1f23b8f1d782bacfb905a67b491688414c.png?n5.5",
+                    "Name": "Windkristall",
+                    "Amount": 25,
+                    "Url": "/lodestone/playguide/db/item/5db117cd77b/"
+                },
+                {
+                    "Icon": "https://img.finalfantasyxiv.com/lds/pc/global/images/itemicon/d9/d9a4b77a07bb95bf2713ae233a0eececdf211e8b.png?n5.5",
+                    "Name": "Feuerkristall",
+                    "Amount": 25,
+                    "Url": "/lodestone/playguide/db/item/75403105d7f/"
+                },
+                {
+                    "Icon": "https://img.finalfantasyxiv.com/lds/pc/global/images/itemicon/a7/a71da2eb489188dbbfadd582938a0e761a9a0585.png?n5.5",
+                    "Name": "Eiskristall",
+                    "Amount": 25,
+                    "Url": "/lodestone/playguide/db/item/2d800a06851/"
+                },
+                {
+                    "Icon": "https://img.finalfantasyxiv.com/lds/pc/global/images/itemicon/0d/0dd4af1f23b8f1d782bacfb905a67b491688414c.png?n5.5",
+                    "Name": "Windkristall",
+                    "Amount": 25,
+                    "Url": "/lodestone/playguide/db/item/5db117cd77b/"
+                },
+                {
+                    "Icon": "https://img.finalfantasyxiv.com/lds/pc/global/images/itemicon/16/16cd107e2bd1c45cee59e6b96ef02f2f6f68eac5.png?n5.5",
+                    "Name": "Erdkristall",
+                    "Amount": 25,
+                    "Url": "/lodestone/playguide/db/item/ff6eae7bdcb/"
+                },
+                {
+                    "Icon": "https://img.finalfantasyxiv.com/lds/pc/global/images/itemicon/5d/5dd42eb2385a5e0d158b8fa81b63a09e4b25c821.png?n5.5",
+                    "Name": "Blitzkristall",
+                    "Amount": 25,
+                    "Url": "/lodestone/playguide/db/item/b21a951916e/"
+                },
+                {
+                    "Icon": "https://img.finalfantasyxiv.com/lds/pc/global/images/itemicon/b5/b5eb0d9131d8f735a91286bdf2f877f0495e8235.png?n5.5",
+                    "Name": "Wasserkristall",
+                    "Amount": 25,
+                    "Url": "/lodestone/playguide/db/item/44d3f4cb26b/"
+                },
+                {
+                    "Icon": "https://img.finalfantasyxiv.com/lds/pc/global/images/itemicon/d9/d9a4b77a07bb95bf2713ae233a0eececdf211e8b.png?n5.5",
+                    "Name": "Feuerkristall",
+                    "Amount": 25,
+                    "Url": "/lodestone/playguide/db/item/75403105d7f/"
+                }
+            ],
+            "ItemsOpt": []
+        },
+        "Infos": {
+            "PrevQuests": [
+                {
+                    "Name": "Fassbauerzwerg",
+                    "Url": "/lodestone/playguide/db/npc/npc/1e49e4176c8/",
+                    "Area": "Seenland (X:8.8 Y:18.6)"
+                },
+                {
+                    "Name": "Materialbeschaffer-Eisenbart",
+                    "Url": "/lodestone/playguide/db/npc/npc/fd458cd7e9f/",
+                    "Area": "Seenland (X:8.9 Y:13.1)"
+                },
+                {
+                    "Name": "Shigitt",
+                    "Url": "/lodestone/playguide/db/npc/npc/ee3243e5640/",
+                    "Area": "Seenland (X:9.3 Y:12.8)"
+                }
+            ]
+        },
+        "Seq": 14,
+        "oldID": 69446,
+        "Map": {
+            "ID": 491
+        }
+    },
+    {
+        "ID": "663a3908e1a",
+        "Name": " Und er läuft und läuft und läuft",
+        "Location": "Seenland",
+        "Level": 70,
+        "JournalSection": 5,
+        "JournalCategory": 23,
+        "JournalGenre": "\n\t\t\t\t\t\t\tNebenaufträge\n\t\t\t\t\t\t",
+        "Url": "/lodestone/playguide/db/quest/663a3908e1a/",
+        "Image": null,
+        "Icon": "common_repeat",
+        "Issuer": "Regitt",
+        "StartLocation": {
+            "Name": "Seenland",
+            "X": "9.1",
+            "Y": "12.9"
+        },
+        "StartClass": null,
+        "Job": "",
+        "Company": "Keine Angabe",
+        "Requirement": "Keine Angabe",
+        "Rewards": {
+            "Gil": 606,
+            "Exp": null,
+            "ItemsMand": [
+                {
+                    "Icon": "https://img.finalfantasyxiv.com/lds/pc/global/images/itemicon/0d/0dd4af1f23b8f1d782bacfb905a67b491688414c.png?n5.5",
+                    "Name": "Windkristall",
+                    "Amount": 25,
+                    "Url": "/lodestone/playguide/db/item/5db117cd77b/"
+                },
+                {
+                    "Icon": "https://img.finalfantasyxiv.com/lds/pc/global/images/itemicon/d9/d9a4b77a07bb95bf2713ae233a0eececdf211e8b.png?n5.5",
+                    "Name": "Feuerkristall",
+                    "Amount": 25,
+                    "Url": "/lodestone/playguide/db/item/75403105d7f/"
+                },
+                {
+                    "Icon": "https://img.finalfantasyxiv.com/lds/pc/global/images/itemicon/a7/a71da2eb489188dbbfadd582938a0e761a9a0585.png?n5.5",
+                    "Name": "Eiskristall",
+                    "Amount": 25,
+                    "Url": "/lodestone/playguide/db/item/2d800a06851/"
+                },
+                {
+                    "Icon": "https://img.finalfantasyxiv.com/lds/pc/global/images/itemicon/0d/0dd4af1f23b8f1d782bacfb905a67b491688414c.png?n5.5",
+                    "Name": "Windkristall",
+                    "Amount": 25,
+                    "Url": "/lodestone/playguide/db/item/5db117cd77b/"
+                },
+                {
+                    "Icon": "https://img.finalfantasyxiv.com/lds/pc/global/images/itemicon/16/16cd107e2bd1c45cee59e6b96ef02f2f6f68eac5.png?n5.5",
+                    "Name": "Erdkristall",
+                    "Amount": 25,
+                    "Url": "/lodestone/playguide/db/item/ff6eae7bdcb/"
+                },
+                {
+                    "Icon": "https://img.finalfantasyxiv.com/lds/pc/global/images/itemicon/5d/5dd42eb2385a5e0d158b8fa81b63a09e4b25c821.png?n5.5",
+                    "Name": "Blitzkristall",
+                    "Amount": 25,
+                    "Url": "/lodestone/playguide/db/item/b21a951916e/"
+                },
+                {
+                    "Icon": "https://img.finalfantasyxiv.com/lds/pc/global/images/itemicon/b5/b5eb0d9131d8f735a91286bdf2f877f0495e8235.png?n5.5",
+                    "Name": "Wasserkristall",
+                    "Amount": 25,
+                    "Url": "/lodestone/playguide/db/item/44d3f4cb26b/"
+                },
+                {
+                    "Icon": "https://img.finalfantasyxiv.com/lds/pc/global/images/itemicon/d9/d9a4b77a07bb95bf2713ae233a0eececdf211e8b.png?n5.5",
+                    "Name": "Feuerkristall",
+                    "Amount": 25,
+                    "Url": "/lodestone/playguide/db/item/75403105d7f/"
+                }
+            ],
+            "ItemsOpt": []
+        },
+        "Infos": {
+            "PrevQuests": [
+                {
+                    "Name": "Materialbeschaffer-Eisenbart",
+                    "Url": "/lodestone/playguide/db/npc/npc/fd458cd7e9f/",
+                    "Area": "Seenland (X:8.9 Y:13.1)"
+                },
+                {
+                    "Name": "Shigitt",
+                    "Url": "/lodestone/playguide/db/npc/npc/ee3243e5640/",
+                    "Area": "Seenland (X:9.3 Y:12.8)"
+                }
+            ]
+        },
+        "Seq": 15,
+        "oldID": 69447,
+        "Map": {
+            "ID": 491
+        }
+    },
+    {
+        "ID": "680423aa1cf",
+        "Name": " Immer die gleiche Platte",
+        "Location": "Seenland",
+        "Level": 70,
+        "JournalSection": 5,
+        "JournalCategory": 23,
+        "JournalGenre": "\n\t\t\t\t\t\t\tNebenaufträge\n\t\t\t\t\t\t",
+        "Url": "/lodestone/playguide/db/quest/680423aa1cf/",
+        "Image": null,
+        "Icon": "common_repeat",
+        "Issuer": "Regitt",
+        "StartLocation": {
+            "Name": "Seenland",
+            "X": "9.1",
+            "Y": "12.9"
+        },
+        "StartClass": null,
+        "Job": "",
+        "Company": "Keine Angabe",
+        "Requirement": "Keine Angabe",
+        "Rewards": {
+            "Gil": 606,
+            "Exp": null,
+            "ItemsMand": [
+                {
+                    "Icon": "https://img.finalfantasyxiv.com/lds/pc/global/images/itemicon/0d/0dd4af1f23b8f1d782bacfb905a67b491688414c.png?n5.5",
+                    "Name": "Windkristall",
+                    "Amount": 25,
+                    "Url": "/lodestone/playguide/db/item/5db117cd77b/"
+                },
+                {
+                    "Icon": "https://img.finalfantasyxiv.com/lds/pc/global/images/itemicon/d9/d9a4b77a07bb95bf2713ae233a0eececdf211e8b.png?n5.5",
+                    "Name": "Feuerkristall",
+                    "Amount": 25,
+                    "Url": "/lodestone/playguide/db/item/75403105d7f/"
+                },
+                {
+                    "Icon": "https://img.finalfantasyxiv.com/lds/pc/global/images/itemicon/a7/a71da2eb489188dbbfadd582938a0e761a9a0585.png?n5.5",
+                    "Name": "Eiskristall",
+                    "Amount": 25,
+                    "Url": "/lodestone/playguide/db/item/2d800a06851/"
+                },
+                {
+                    "Icon": "https://img.finalfantasyxiv.com/lds/pc/global/images/itemicon/0d/0dd4af1f23b8f1d782bacfb905a67b491688414c.png?n5.5",
+                    "Name": "Windkristall",
+                    "Amount": 25,
+                    "Url": "/lodestone/playguide/db/item/5db117cd77b/"
+                },
+                {
+                    "Icon": "https://img.finalfantasyxiv.com/lds/pc/global/images/itemicon/16/16cd107e2bd1c45cee59e6b96ef02f2f6f68eac5.png?n5.5",
+                    "Name": "Erdkristall",
+                    "Amount": 25,
+                    "Url": "/lodestone/playguide/db/item/ff6eae7bdcb/"
+                },
+                {
+                    "Icon": "https://img.finalfantasyxiv.com/lds/pc/global/images/itemicon/5d/5dd42eb2385a5e0d158b8fa81b63a09e4b25c821.png?n5.5",
+                    "Name": "Blitzkristall",
+                    "Amount": 25,
+                    "Url": "/lodestone/playguide/db/item/b21a951916e/"
+                },
+                {
+                    "Icon": "https://img.finalfantasyxiv.com/lds/pc/global/images/itemicon/b5/b5eb0d9131d8f735a91286bdf2f877f0495e8235.png?n5.5",
+                    "Name": "Wasserkristall",
+                    "Amount": 25,
+                    "Url": "/lodestone/playguide/db/item/44d3f4cb26b/"
+                },
+                {
+                    "Icon": "https://img.finalfantasyxiv.com/lds/pc/global/images/itemicon/d9/d9a4b77a07bb95bf2713ae233a0eececdf211e8b.png?n5.5",
+                    "Name": "Feuerkristall",
+                    "Amount": 25,
+                    "Url": "/lodestone/playguide/db/item/75403105d7f/"
+                }
+            ],
+            "ItemsOpt": []
+        },
+        "Infos": {
+            "PrevQuests": [
+                {
+                    "Name": "Materialbeschaffer-Eisenbart",
+                    "Url": "/lodestone/playguide/db/npc/npc/e9fca16ee4a/",
+                    "Area": "Seenland (X:20.3 Y:9.0)"
+                },
+                {
+                    "Name": "Plattnerzwerg",
+                    "Url": "/lodestone/playguide/db/npc/npc/ba5ae951df2/",
+                    "Area": "Seenland (X:20.3 Y:8.9)"
+                }
+            ]
+        },
+        "Seq": 12,
+        "oldID": 69444,
+        "Map": {
+            "ID": 491
+        }
+    },
+    {
+        "ID": "7442f350aaf",
+        "Name": " Eisenbart entlaufen",
+        "Location": "Seenland",
+        "Level": 70,
+        "JournalSection": 5,
+        "JournalCategory": 23,
+        "JournalGenre": "\n\t\t\t\t\t\t\tNebenaufträge\n\t\t\t\t\t\t",
+        "Url": "/lodestone/playguide/db/quest/7442f350aaf/",
+        "Image": null,
+        "Icon": "common_repeat",
+        "Issuer": "Regitt",
+        "StartLocation": {
+            "Name": "Seenland",
+            "X": "9.1",
+            "Y": "12.9"
+        },
+        "StartClass": null,
+        "Job": "",
+        "Company": "Keine Angabe",
+        "Requirement": "Keine Angabe",
+        "Rewards": {
+            "Gil": 606,
+            "Exp": null,
+            "ItemsMand": [],
+            "ItemsOpt": []
+        },
+        "Infos": {
+            "PrevQuests": [
+                {
+                    "Name": "Hochgewachsener Eisenbartfuath?",
+                    "Url": "/lodestone/playguide/db/npc/npc/16725d32186/",
+                    "Area": "Seenland (X:20.1 Y:22.7)"
+                }
+            ]
+        },
+        "Seq": 20,
+        "oldID": 69452,
+        "Map": {
+            "ID": 491
+        }
+    },
+    {
+        "ID": "7cfd112df7d",
+        "Name": " Tanzt du noch oder verkaufst du schon?",
+        "Location": "Seenland",
+        "Level": 70,
+        "JournalSection": 5,
+        "JournalCategory": 23,
+        "JournalGenre": "\n\t\t\t\t\t\t\tNebenaufträge\n\t\t\t\t\t\t",
+        "Url": "/lodestone/playguide/db/quest/7cfd112df7d/",
+        "Image": null,
+        "Icon": "common_repeat",
+        "Issuer": "Regitt",
+        "StartLocation": {
+            "Name": "Seenland",
+            "X": "9.1",
+            "Y": "12.9"
+        },
+        "StartClass": null,
+        "Job": "",
+        "Company": "Keine Angabe",
+        "Requirement": "Keine Angabe",
+        "Rewards": {
+            "Gil": 679,
+            "Exp": null,
+            "ItemsMand": [],
+            "ItemsOpt": []
+        },
+        "Infos": {
+            "PrevQuests": [
+                {
+                    "Name": "Werbezwerg",
+                    "Url": "/lodestone/playguide/db/npc/npc/d7cc9007130/",
+                    "Area": "Seenland (X:35.5 Y:22.0)"
+                }
+            ]
+        },
+        "Seq": 23,
+        "oldID": 69455,
+        "Map": {
+            "ID": 491
+        }
+    },
+    {
+        "ID": "80ef1aeef92",
+        "Name": " Zielsicher zum Abschluss",
+        "Location": "Seenland",
+        "Level": 70,
+        "JournalSection": 5,
+        "JournalCategory": 23,
+        "JournalGenre": "\n\t\t\t\t\t\t\tNebenaufträge\n\t\t\t\t\t\t",
+        "Url": "/lodestone/playguide/db/quest/80ef1aeef92/",
+        "Image": null,
+        "Icon": "common_repeat",
+        "Issuer": "Regitt",
+        "StartLocation": {
+            "Name": "Seenland",
+            "X": "9.1",
+            "Y": "12.9"
+        },
+        "StartClass": null,
+        "Job": "",
+        "Company": "Keine Angabe",
+        "Requirement": "Keine Angabe",
+        "Rewards": {
+            "Gil": 752,
+            "Exp": null,
+            "ItemsMand": [],
+            "ItemsOpt": []
+        },
+        "Infos": {
+            "PrevQuests": [
+                {
+                    "Name": "Wamutt",
+                    "Url": "/lodestone/playguide/db/npc/npc/78fe6a588c8/",
+                    "Area": "Seenland (X:9.1 Y:13.3)"
+                },
+                {
+                    "Name": "Zielscheiben-Eisenbart",
+                    "Url": "/lodestone/playguide/db/npc/npc/b2eee0a64a6/",
+                    "Area": "Seenland (X:15.5 Y:6.9)"
+                }
+            ]
+        },
+        "Seq": 27,
+        "oldID": 69459,
+        "Map": {
+            "ID": 491
+        }
+    },
+    {
+        "ID": "8a264d77c6d",
+        "Name": " Ziele setzen",
+        "Location": "Seenland",
+        "Level": 70,
+        "JournalSection": 5,
+        "JournalCategory": 23,
+        "JournalGenre": "\n\t\t\t\t\t\t\tNebenaufträge\n\t\t\t\t\t\t",
+        "Url": "/lodestone/playguide/db/quest/8a264d77c6d/",
+        "Image": null,
+        "Icon": "common_repeat",
+        "Issuer": "Regitt",
+        "StartLocation": {
+            "Name": "Seenland",
+            "X": "9.1",
+            "Y": "12.9"
+        },
+        "StartClass": null,
+        "Job": "",
+        "Company": "Keine Angabe",
+        "Requirement": "Keine Angabe",
+        "Rewards": {
+            "Gil": 679,
+            "Exp": null,
+            "ItemsMand": [
+                {
+                    "Icon": "https://img.finalfantasyxiv.com/lds/pc/global/images/itemicon/0d/0dd4af1f23b8f1d782bacfb905a67b491688414c.png?n5.5",
+                    "Name": "Windkristall",
+                    "Amount": 25,
+                    "Url": "/lodestone/playguide/db/item/5db117cd77b/"
+                },
+                {
+                    "Icon": "https://img.finalfantasyxiv.com/lds/pc/global/images/itemicon/d9/d9a4b77a07bb95bf2713ae233a0eececdf211e8b.png?n5.5",
+                    "Name": "Feuerkristall",
+                    "Amount": 25,
+                    "Url": "/lodestone/playguide/db/item/75403105d7f/"
+                },
+                {
+                    "Icon": "https://img.finalfantasyxiv.com/lds/pc/global/images/itemicon/a7/a71da2eb489188dbbfadd582938a0e761a9a0585.png?n5.5",
+                    "Name": "Eiskristall",
+                    "Amount": 25,
+                    "Url": "/lodestone/playguide/db/item/2d800a06851/"
+                },
+                {
+                    "Icon": "https://img.finalfantasyxiv.com/lds/pc/global/images/itemicon/0d/0dd4af1f23b8f1d782bacfb905a67b491688414c.png?n5.5",
+                    "Name": "Windkristall",
+                    "Amount": 25,
+                    "Url": "/lodestone/playguide/db/item/5db117cd77b/"
+                },
+                {
+                    "Icon": "https://img.finalfantasyxiv.com/lds/pc/global/images/itemicon/16/16cd107e2bd1c45cee59e6b96ef02f2f6f68eac5.png?n5.5",
+                    "Name": "Erdkristall",
+                    "Amount": 25,
+                    "Url": "/lodestone/playguide/db/item/ff6eae7bdcb/"
+                },
+                {
+                    "Icon": "https://img.finalfantasyxiv.com/lds/pc/global/images/itemicon/5d/5dd42eb2385a5e0d158b8fa81b63a09e4b25c821.png?n5.5",
+                    "Name": "Blitzkristall",
+                    "Amount": 25,
+                    "Url": "/lodestone/playguide/db/item/b21a951916e/"
+                },
+                {
+                    "Icon": "https://img.finalfantasyxiv.com/lds/pc/global/images/itemicon/b5/b5eb0d9131d8f735a91286bdf2f877f0495e8235.png?n5.5",
+                    "Name": "Wasserkristall",
+                    "Amount": 25,
+                    "Url": "/lodestone/playguide/db/item/44d3f4cb26b/"
+                },
+                {
+                    "Icon": "https://img.finalfantasyxiv.com/lds/pc/global/images/itemicon/d9/d9a4b77a07bb95bf2713ae233a0eececdf211e8b.png?n5.5",
+                    "Name": "Feuerkristall",
+                    "Amount": 25,
+                    "Url": "/lodestone/playguide/db/item/75403105d7f/"
+                }
+            ],
+            "ItemsOpt": []
+        },
+        "Infos": {
+            "PrevQuests": [
+                {
+                    "Name": "Materialbeschaffer-Eisenbart",
+                    "Url": "/lodestone/playguide/db/npc/npc/fd458cd7e9f/",
+                    "Area": "Seenland (X:8.9 Y:13.1)"
+                },
+                {
+                    "Name": "Schießplatz-Zwerg",
+                    "Url": "/lodestone/playguide/db/npc/npc/7acf13e598c/",
+                    "Area": "Seenland (X:16.0 Y:11.8)"
+                },
+                {
+                    "Name": "Shigitt",
+                    "Url": "/lodestone/playguide/db/npc/npc/ee3243e5640/",
+                    "Area": "Seenland (X:9.3 Y:12.8)"
+                }
+            ]
+        },
+        "Seq": 24,
+        "oldID": 69456,
+        "Map": {
+            "ID": 491
+        }
+    },
+    {
+        "ID": "8a9c9455ca2",
+        "Name": " Hoppla, kommt da wer?",
+        "Location": "Seenland",
+        "Level": 70,
+        "JournalSection": 5,
+        "JournalCategory": 23,
+        "JournalGenre": "\n\t\t\t\t\t\t\tNebenaufträge\n\t\t\t\t\t\t",
+        "Url": "/lodestone/playguide/db/quest/8a9c9455ca2/",
+        "Image": null,
+        "Icon": "common_repeat",
+        "Issuer": "Regitt",
+        "StartLocation": {
+            "Name": "Seenland",
+            "X": "9.1",
+            "Y": "12.9"
+        },
+        "StartClass": null,
+        "Job": "",
+        "Company": "Keine Angabe",
+        "Requirement": "Keine Angabe",
+        "Rewards": {
+            "Gil": 606,
+            "Exp": null,
+            "ItemsMand": [
+                {
+                    "Icon": "https://img.finalfantasyxiv.com/lds/pc/global/images/itemicon/0d/0dd4af1f23b8f1d782bacfb905a67b491688414c.png?n5.5",
+                    "Name": "Windkristall",
+                    "Amount": 25,
+                    "Url": "/lodestone/playguide/db/item/5db117cd77b/"
+                },
+                {
+                    "Icon": "https://img.finalfantasyxiv.com/lds/pc/global/images/itemicon/d9/d9a4b77a07bb95bf2713ae233a0eececdf211e8b.png?n5.5",
+                    "Name": "Feuerkristall",
+                    "Amount": 25,
+                    "Url": "/lodestone/playguide/db/item/75403105d7f/"
+                },
+                {
+                    "Icon": "https://img.finalfantasyxiv.com/lds/pc/global/images/itemicon/a7/a71da2eb489188dbbfadd582938a0e761a9a0585.png?n5.5",
+                    "Name": "Eiskristall",
+                    "Amount": 25,
+                    "Url": "/lodestone/playguide/db/item/2d800a06851/"
+                },
+                {
+                    "Icon": "https://img.finalfantasyxiv.com/lds/pc/global/images/itemicon/0d/0dd4af1f23b8f1d782bacfb905a67b491688414c.png?n5.5",
+                    "Name": "Windkristall",
+                    "Amount": 25,
+                    "Url": "/lodestone/playguide/db/item/5db117cd77b/"
+                },
+                {
+                    "Icon": "https://img.finalfantasyxiv.com/lds/pc/global/images/itemicon/16/16cd107e2bd1c45cee59e6b96ef02f2f6f68eac5.png?n5.5",
+                    "Name": "Erdkristall",
+                    "Amount": 25,
+                    "Url": "/lodestone/playguide/db/item/ff6eae7bdcb/"
+                },
+                {
+                    "Icon": "https://img.finalfantasyxiv.com/lds/pc/global/images/itemicon/5d/5dd42eb2385a5e0d158b8fa81b63a09e4b25c821.png?n5.5",
+                    "Name": "Blitzkristall",
+                    "Amount": 25,
+                    "Url": "/lodestone/playguide/db/item/b21a951916e/"
+                },
+                {
+                    "Icon": "https://img.finalfantasyxiv.com/lds/pc/global/images/itemicon/b5/b5eb0d9131d8f735a91286bdf2f877f0495e8235.png?n5.5",
+                    "Name": "Wasserkristall",
+                    "Amount": 25,
+                    "Url": "/lodestone/playguide/db/item/44d3f4cb26b/"
+                },
+                {
+                    "Icon": "https://img.finalfantasyxiv.com/lds/pc/global/images/itemicon/d9/d9a4b77a07bb95bf2713ae233a0eececdf211e8b.png?n5.5",
+                    "Name": "Feuerkristall",
+                    "Amount": 25,
+                    "Url": "/lodestone/playguide/db/item/75403105d7f/"
+                }
+            ],
+            "ItemsOpt": []
+        },
+        "Infos": {
+            "PrevQuests": [
+                {
+                    "Name": "Designerzwerg",
+                    "Url": "/lodestone/playguide/db/npc/npc/b318a0792a0/",
+                    "Area": "Seenland (X:18.7 Y:18.9)"
+                }
+            ]
+        },
+        "Seq": 32,
+        "oldID": 69464,
+        "Map": {
+            "ID": 491
+        }
+    },
+    {
+        "ID": "98dbf21c4a1",
+        "Name": "Zwergenpanzer für Norvrandts Frieden",
+        "Location": "Seenland",
+        "Level": 70,
+        "JournalSection": 5,
+        "JournalCategory": 23,
+        "JournalGenre": "\n\t\t\t\t\t\t\tHauptaufträge\n\t\t\t\t\t\t",
+        "Url": "/lodestone/playguide/db/quest/98dbf21c4a1/",
+        "Image": "https://img.finalfantasyxiv.com/lds/pc/global/images/itemicon/cc/cc44f399b3c08cce69367630fa01809ac2497d44.png?n5.5",
+        "Icon": "function_normal",
+        "Issuer": "Ronitt",
+        "StartLocation": {
+            "Name": "Seenland",
+            "X": "9.3",
+            "Y": "13.2"
+        },
+        "StartClass": null,
+        "Job": "",
+        "Company": "Keine Angabe",
+        "Requirement": "Keine Angabe",
+        "Rewards": {
+            "Gil": 1007,
+            "Exp": null,
+            "ItemsMand": [],
+            "ItemsOpt": []
+        },
+        "Infos": {
+            "PrevQuests": [
+                {
+                    "Name": "Die Produktion rollt",
+                    "Url": "/lodestone/playguide/db/quest/579270e78d9/",
+                    "Area": "Seenland",
+                    "Level": "70"
+                }
+            ],
+            "NextQuests": [
+                {
+                    "Name": "Eueliss",
+                    "Url": "/lodestone/playguide/db/npc/npc/21b6309256a/",
+                    "Area": "Seenland (X:14.4 Y:9.4)"
+                },
+                {
+                    "Name": "Lorathia",
+                    "Url": "/lodestone/playguide/db/npc/npc/c8d3ab0db74/",
+                    "Area": "Seenland (X:14.3 Y:9.4)"
+                },
+                {
+                    "Name": "Ozogg",
+                    "Url": "/lodestone/playguide/db/npc/npc/a4694bf61cb/",
+                    "Area": "Seenland (X:14.3 Y:9.4)"
+                },
+                {
+                    "Name": "Ronitt",
+                    "Url": "/lodestone/playguide/db/npc/npc/031f53c4137/",
+                    "Area": "Seenland (X:14.3 Y:9.3)"
+                },
+                {
+                    "Name": "Sai-Lewq",
+                    "Url": "/lodestone/playguide/db/npc/npc/31510972616/",
+                    "Area": "Seenland (X:14.4 Y:9.4)"
+                }
+            ]
+        },
+        "Seq": 5,
+        "oldID": 69437,
+        "Map": {
+            "ID": 491
+        }
+    },
+    {
+        "ID": "98ed8bd9966",
+        "Name": "Tee, Zwillinge und Zwergenpanzer",
+        "Location": "Seenland",
+        "Level": 70,
+        "JournalSection": 5,
+        "JournalCategory": 23,
+        "JournalGenre": "\n\t\t\t\t\t\t\tHauptaufträge\n\t\t\t\t\t\t",
+        "Url": "/lodestone/playguide/db/quest/98ed8bd9966/",
+        "Image": "https://img.finalfantasyxiv.com/lds/pc/global/images/itemicon/b6/b6e6dd9211bd9118f199c2c54cf53a59324488ec.png?n5.5",
+        "Icon": "function_normal",
+        "Issuer": "Ronitt",
+        "StartLocation": {
+            "Name": "Seenland",
+            "X": "9.3",
+            "Y": "13.2"
+        },
+        "StartClass": null,
+        "Job": "",
+        "Company": "Keine Angabe",
+        "Requirement": "Keine Angabe",
+        "Rewards": {
+            "Gil": 1189,
+            "Exp": null,
+            "ItemsMand": [],
+            "ItemsOpt": []
+        },
+        "Infos": {
+            "PrevQuests": [
+                {
+                    "Name": "Eine Gogg sorgt für frischen Wind",
+                    "Url": "/lodestone/playguide/db/quest/5b1636ed3f9/",
+                    "Area": "Seenland",
+                    "Level": "70"
+                }
+            ],
+            "NextQuests": [
+                {
+                    "Name": "Watts' Weg",
+                    "Url": "/lodestone/playguide/db/quest/bca11a72d34/",
+                    "Area": "Seenland",
+                    "Level": "70"
+                }
+            ],
+            "NPCs": [
+                {
+                    "Name": "Ronitt",
+                    "Url": "/lodestone/playguide/db/npc/npc/2ba17616c2f/",
+                    "Area": "Crystarium (X:13.0 Y:8.3)"
+                },
+                {
+                    "Name": "Rosard",
+                    "Url": "/lodestone/playguide/db/npc/npc/7cc670c2c34/",
+                    "Area": "Crystarium (X:13.0 Y:8.3)"
+                },
+                {
+                    "Name": "Cobleva",
+                    "Url": "/lodestone/playguide/db/npc/npc/b0e4759401b/",
+                    "Area": "Seenland (X:14.3 Y:7.7)"
+                },
+                {
+                    "Name": "Iriolva",
+                    "Url": "/lodestone/playguide/db/npc/npc/15023433495/",
+                    "Area": "Seenland (X:14.3 Y:7.7)"
+                },
+                {
+                    "Name": "Lorathia",
+                    "Url": "/lodestone/playguide/db/npc/npc/8b768554275/",
+                    "Area": "Seenland (X:14.3 Y:7.8)"
+                },
+                {
+                    "Name": "Lorathia",
+                    "Url": "/lodestone/playguide/db/npc/npc/7b74d61eae6/",
+                    "Area": "Seenland (X:14.3 Y:7.8)"
+                },
+                {
+                    "Name": "Materialbeschaffer-Eisenbart",
+                    "Url": "/lodestone/playguide/db/npc/npc/fd458cd7e9f/",
+                    "Area": "Seenland (X:8.9 Y:13.1)"
+                },
+                {
+                    "Name": "Ronitt",
+                    "Url": "/lodestone/playguide/db/npc/npc/35e5f8f3ba7/",
+                    "Area": "Seenland (X:14.3 Y:7.8)"
+                }
+            ]
+        },
+        "Seq": 2,
+        "oldID": 69434,
+        "Map": {
+            "ID": 491
+        }
+    },
+    {
+        "ID": "ada6369e9ce",
+        "Name": " Heißgelaufen",
+        "Location": "Seenland",
+        "Level": 70,
+        "JournalSection": 5,
+        "JournalCategory": 23,
+        "JournalGenre": "\n\t\t\t\t\t\t\tNebenaufträge\n\t\t\t\t\t\t",
+        "Url": "/lodestone/playguide/db/quest/ada6369e9ce/",
+        "Image": null,
+        "Icon": "common_repeat",
+        "Issuer": "Regitt",
+        "StartLocation": {
+            "Name": "Seenland",
+            "X": "9.1",
+            "Y": "12.9"
+        },
+        "StartClass": null,
+        "Job": "",
+        "Company": "Keine Angabe",
+        "Requirement": "Keine Angabe",
+        "Rewards": {
+            "Gil": 606,
+            "Exp": null,
+            "ItemsMand": [
+                {
+                    "Icon": "https://img.finalfantasyxiv.com/lds/pc/global/images/itemicon/0d/0dd4af1f23b8f1d782bacfb905a67b491688414c.png?n5.5",
+                    "Name": "Windkristall",
+                    "Amount": 25,
+                    "Url": "/lodestone/playguide/db/item/5db117cd77b/"
+                },
+                {
+                    "Icon": "https://img.finalfantasyxiv.com/lds/pc/global/images/itemicon/d9/d9a4b77a07bb95bf2713ae233a0eececdf211e8b.png?n5.5",
+                    "Name": "Feuerkristall",
+                    "Amount": 25,
+                    "Url": "/lodestone/playguide/db/item/75403105d7f/"
+                },
+                {
+                    "Icon": "https://img.finalfantasyxiv.com/lds/pc/global/images/itemicon/a7/a71da2eb489188dbbfadd582938a0e761a9a0585.png?n5.5",
+                    "Name": "Eiskristall",
+                    "Amount": 25,
+                    "Url": "/lodestone/playguide/db/item/2d800a06851/"
+                },
+                {
+                    "Icon": "https://img.finalfantasyxiv.com/lds/pc/global/images/itemicon/0d/0dd4af1f23b8f1d782bacfb905a67b491688414c.png?n5.5",
+                    "Name": "Windkristall",
+                    "Amount": 25,
+                    "Url": "/lodestone/playguide/db/item/5db117cd77b/"
+                },
+                {
+                    "Icon": "https://img.finalfantasyxiv.com/lds/pc/global/images/itemicon/16/16cd107e2bd1c45cee59e6b96ef02f2f6f68eac5.png?n5.5",
+                    "Name": "Erdkristall",
+                    "Amount": 25,
+                    "Url": "/lodestone/playguide/db/item/ff6eae7bdcb/"
+                },
+                {
+                    "Icon": "https://img.finalfantasyxiv.com/lds/pc/global/images/itemicon/5d/5dd42eb2385a5e0d158b8fa81b63a09e4b25c821.png?n5.5",
+                    "Name": "Blitzkristall",
+                    "Amount": 25,
+                    "Url": "/lodestone/playguide/db/item/b21a951916e/"
+                },
+                {
+                    "Icon": "https://img.finalfantasyxiv.com/lds/pc/global/images/itemicon/b5/b5eb0d9131d8f735a91286bdf2f877f0495e8235.png?n5.5",
+                    "Name": "Wasserkristall",
+                    "Amount": 25,
+                    "Url": "/lodestone/playguide/db/item/44d3f4cb26b/"
+                },
+                {
+                    "Icon": "https://img.finalfantasyxiv.com/lds/pc/global/images/itemicon/d9/d9a4b77a07bb95bf2713ae233a0eececdf211e8b.png?n5.5",
+                    "Name": "Feuerkristall",
+                    "Amount": 25,
+                    "Url": "/lodestone/playguide/db/item/75403105d7f/"
+                }
+            ],
+            "ItemsOpt": []
+        },
+        "Infos": {
+            "PrevQuests": [
+                {
+                    "Name": "Entwicklerzwerg",
+                    "Url": "/lodestone/playguide/db/npc/npc/72e53c9dfe9/",
+                    "Area": "Seenland (X:25.7 Y:10.0)"
+                },
+                {
+                    "Name": "Materialbeschaffer-Eisenbart",
+                    "Url": "/lodestone/playguide/db/npc/npc/bbb98883e36/",
+                    "Area": "Seenland (X:25.7 Y:10.0)"
+                }
+            ]
+        },
+        "Seq": 18,
+        "oldID": 69450,
+        "Map": {
+            "ID": 491
+        }
+    },
+    {
+        "ID": "b24eb80e857",
+        "Name": " Die Drei von der Badestelle",
+        "Location": "Seenland",
+        "Level": 70,
+        "JournalSection": 5,
+        "JournalCategory": 23,
+        "JournalGenre": "\n\t\t\t\t\t\t\tNebenaufträge\n\t\t\t\t\t\t",
+        "Url": "/lodestone/playguide/db/quest/b24eb80e857/",
+        "Image": null,
+        "Icon": "common_repeat",
+        "Issuer": "Regitt",
+        "StartLocation": {
+            "Name": "Seenland",
+            "X": "9.1",
+            "Y": "12.9"
+        },
+        "StartClass": null,
+        "Job": "",
+        "Company": "Keine Angabe",
+        "Requirement": "Keine Angabe",
+        "Rewards": {
+            "Gil": 606,
+            "Exp": null,
+            "ItemsMand": [],
+            "ItemsOpt": []
+        },
+        "Infos": {
+            "PrevQuests": [
+                {
+                    "Name": "Planschender Zwerg",
+                    "Url": "/lodestone/playguide/db/npc/npc/274c7bda86c/",
+                    "Area": "Seenland (X:13.8 Y:8.0)"
+                },
+                {
+                    "Name": "Schlürfender Zwerg",
+                    "Url": "/lodestone/playguide/db/npc/npc/e4c5733d368/",
+                    "Area": "Seenland (X:13.7 Y:8.5)"
+                },
+                {
+                    "Name": "Schwitzender Zwerg",
+                    "Url": "/lodestone/playguide/db/npc/npc/e5b49e3e145/",
+                    "Area": "Seenland (X:14.2 Y:7.4)"
+                }
+            ]
+        },
+        "Seq": 26,
+        "oldID": 69458,
+        "Map": {
+            "ID": 491
+        }
+    },
+    {
+        "ID": "b5fe0d1f0dd",
+        "Name": " Getestet und für gut befunden",
+        "Location": "Seenland",
+        "Level": 70,
+        "JournalSection": 5,
+        "JournalCategory": 23,
+        "JournalGenre": "\n\t\t\t\t\t\t\tNebenaufträge\n\t\t\t\t\t\t",
+        "Url": "/lodestone/playguide/db/quest/b5fe0d1f0dd/",
+        "Image": null,
+        "Icon": "common_repeat",
+        "Issuer": "Regitt",
+        "StartLocation": {
+            "Name": "Seenland",
+            "X": "9.1",
+            "Y": "12.9"
+        },
+        "StartClass": null,
+        "Job": "",
+        "Company": "Keine Angabe",
+        "Requirement": "Keine Angabe",
+        "Rewards": {
+            "Gil": 679,
+            "Exp": null,
+            "ItemsMand": [],
+            "ItemsOpt": []
+        },
+        "Infos": {
+            "PrevQuests": [
+                {
+                    "Name": "Wamutt",
+                    "Url": "/lodestone/playguide/db/npc/npc/78fe6a588c8/",
+                    "Area": "Seenland (X:9.1 Y:13.3)"
+                }
+            ]
+        },
+        "Seq": 33,
+        "oldID": 69465,
+        "Map": {
+            "ID": 491
+        }
+    },
+    {
+        "ID": "bca11a72d34",
+        "Name": "Watts' Weg",
+        "Location": "Seenland",
+        "Level": 70,
+        "JournalSection": 5,
+        "JournalCategory": 23,
+        "JournalGenre": "\n\t\t\t\t\t\t\tHauptaufträge\n\t\t\t\t\t\t",
+        "Url": "/lodestone/playguide/db/quest/bca11a72d34/",
+        "Image": "https://img.finalfantasyxiv.com/lds/pc/global/images/itemicon/16/1692d071df7d6a235ddbae6aa0cbe5ae6d39e7d0.png?n5.5",
+        "Icon": "function_normal",
+        "Issuer": "Ronitt",
+        "StartLocation": {
+            "Name": "Seenland",
+            "X": "9.3",
+            "Y": "13.2"
+        },
+        "StartClass": null,
+        "Job": "",
+        "Company": "Keine Angabe",
+        "Requirement": "Keine Angabe",
+        "Rewards": {
+            "Gil": 1007,
+            "Exp": null,
+            "ItemsMand": [],
+            "ItemsOpt": []
+        },
+        "Infos": {
+            "PrevQuests": [
+                {
+                    "Name": "Tee, Zwillinge und Zwergenpanzer",
+                    "Url": "/lodestone/playguide/db/quest/98ed8bd9966/",
+                    "Area": "Seenland",
+                    "Level": "70"
+                }
+            ],
+            "NextQuests": [
+                {
+                    "Name": "Die Produktion rollt",
+                    "Url": "/lodestone/playguide/db/quest/579270e78d9/",
+                    "Area": "Seenland",
+                    "Level": "70"
+                }
+            ],
+            "NPCs": [
+                {
+                    "Name": "Materialbeschaffer-Eisenbart",
+                    "Url": "/lodestone/playguide/db/npc/npc/fd458cd7e9f/",
+                    "Area": "Seenland (X:8.9 Y:13.1)"
+                },
+                {
+                    "Name": "Ozogg",
+                    "Url": "/lodestone/playguide/db/npc/npc/e4bda56d7a0/",
+                    "Area": "Seenland (X:16.4 Y:18.2)"
+                }
+            ]
+        },
+        "Seq": 3,
+        "oldID": 69435,
+        "Map": {
+            "ID": 491
+        }
+    },
+    {
+        "ID": "c9d211ebdae",
+        "Name": " Fernreparaturen",
+        "Location": "Seenland",
+        "Level": 70,
+        "JournalSection": 5,
+        "JournalCategory": 23,
+        "JournalGenre": "\n\t\t\t\t\t\t\tNebenaufträge\n\t\t\t\t\t\t",
+        "Url": "/lodestone/playguide/db/quest/c9d211ebdae/",
+        "Image": null,
+        "Icon": "common_repeat",
+        "Issuer": "Regitt",
+        "StartLocation": {
+            "Name": "Seenland",
+            "X": "9.1",
+            "Y": "12.9"
+        },
+        "StartClass": null,
+        "Job": "",
+        "Company": "Keine Angabe",
+        "Requirement": "Keine Angabe",
+        "Rewards": {
+            "Gil": 679,
+            "Exp": null,
+            "ItemsMand": [
+                {
+                    "Icon": "https://img.finalfantasyxiv.com/lds/pc/global/images/itemicon/0d/0dd4af1f23b8f1d782bacfb905a67b491688414c.png?n5.5",
+                    "Name": "Windkristall",
+                    "Amount": 25,
+                    "Url": "/lodestone/playguide/db/item/5db117cd77b/"
+                },
+                {
+                    "Icon": "https://img.finalfantasyxiv.com/lds/pc/global/images/itemicon/d9/d9a4b77a07bb95bf2713ae233a0eececdf211e8b.png?n5.5",
+                    "Name": "Feuerkristall",
+                    "Amount": 25,
+                    "Url": "/lodestone/playguide/db/item/75403105d7f/"
+                },
+                {
+                    "Icon": "https://img.finalfantasyxiv.com/lds/pc/global/images/itemicon/a7/a71da2eb489188dbbfadd582938a0e761a9a0585.png?n5.5",
+                    "Name": "Eiskristall",
+                    "Amount": 25,
+                    "Url": "/lodestone/playguide/db/item/2d800a06851/"
+                },
+                {
+                    "Icon": "https://img.finalfantasyxiv.com/lds/pc/global/images/itemicon/0d/0dd4af1f23b8f1d782bacfb905a67b491688414c.png?n5.5",
+                    "Name": "Windkristall",
+                    "Amount": 25,
+                    "Url": "/lodestone/playguide/db/item/5db117cd77b/"
+                },
+                {
+                    "Icon": "https://img.finalfantasyxiv.com/lds/pc/global/images/itemicon/16/16cd107e2bd1c45cee59e6b96ef02f2f6f68eac5.png?n5.5",
+                    "Name": "Erdkristall",
+                    "Amount": 25,
+                    "Url": "/lodestone/playguide/db/item/ff6eae7bdcb/"
+                },
+                {
+                    "Icon": "https://img.finalfantasyxiv.com/lds/pc/global/images/itemicon/5d/5dd42eb2385a5e0d158b8fa81b63a09e4b25c821.png?n5.5",
+                    "Name": "Blitzkristall",
+                    "Amount": 25,
+                    "Url": "/lodestone/playguide/db/item/b21a951916e/"
+                },
+                {
+                    "Icon": "https://img.finalfantasyxiv.com/lds/pc/global/images/itemicon/b5/b5eb0d9131d8f735a91286bdf2f877f0495e8235.png?n5.5",
+                    "Name": "Wasserkristall",
+                    "Amount": 25,
+                    "Url": "/lodestone/playguide/db/item/44d3f4cb26b/"
+                },
+                {
+                    "Icon": "https://img.finalfantasyxiv.com/lds/pc/global/images/itemicon/d9/d9a4b77a07bb95bf2713ae233a0eececdf211e8b.png?n5.5",
+                    "Name": "Feuerkristall",
+                    "Amount": 25,
+                    "Url": "/lodestone/playguide/db/item/75403105d7f/"
+                }
+            ],
+            "ItemsOpt": []
+        },
+        "Infos": {
+            "PrevQuests": [
+                {
+                    "Name": "Materialbeschaffer-Eisenbart",
+                    "Url": "/lodestone/playguide/db/npc/npc/fd458cd7e9f/",
+                    "Area": "Seenland (X:8.9 Y:13.1)"
+                },
+                {
+                    "Name": "Reparatur-Zwerg",
+                    "Url": "/lodestone/playguide/db/npc/npc/2adeaa5ca7a/",
+                    "Area": "Seenland (X:11.3 Y:21.9)"
+                },
+                {
+                    "Name": "Shigitt",
+                    "Url": "/lodestone/playguide/db/npc/npc/ee3243e5640/",
+                    "Area": "Seenland (X:9.3 Y:12.8)"
+                }
+            ]
+        },
+        "Seq": 31,
+        "oldID": 69463,
+        "Map": {
+            "ID": 491
+        }
+    },
+    {
+        "ID": "cf915c05afa",
+        "Name": " Alles klar an der Bar?",
+        "Location": "Seenland",
+        "Level": 70,
+        "JournalSection": 5,
+        "JournalCategory": 23,
+        "JournalGenre": "\n\t\t\t\t\t\t\tNebenaufträge\n\t\t\t\t\t\t",
+        "Url": "/lodestone/playguide/db/quest/cf915c05afa/",
+        "Image": null,
+        "Icon": "common_repeat",
+        "Issuer": "Regitt",
+        "StartLocation": {
+            "Name": "Seenland",
+            "X": "9.1",
+            "Y": "12.9"
+        },
+        "StartClass": null,
+        "Job": "",
+        "Company": "Keine Angabe",
+        "Requirement": "Keine Angabe",
+        "Rewards": {
+            "Gil": 679,
+            "Exp": null,
+            "ItemsMand": [
+                {
+                    "Icon": "https://img.finalfantasyxiv.com/lds/pc/global/images/itemicon/0d/0dd4af1f23b8f1d782bacfb905a67b491688414c.png?n5.5",
+                    "Name": "Windkristall",
+                    "Amount": 25,
+                    "Url": "/lodestone/playguide/db/item/5db117cd77b/"
+                },
+                {
+                    "Icon": "https://img.finalfantasyxiv.com/lds/pc/global/images/itemicon/d9/d9a4b77a07bb95bf2713ae233a0eececdf211e8b.png?n5.5",
+                    "Name": "Feuerkristall",
+                    "Amount": 25,
+                    "Url": "/lodestone/playguide/db/item/75403105d7f/"
+                },
+                {
+                    "Icon": "https://img.finalfantasyxiv.com/lds/pc/global/images/itemicon/a7/a71da2eb489188dbbfadd582938a0e761a9a0585.png?n5.5",
+                    "Name": "Eiskristall",
+                    "Amount": 25,
+                    "Url": "/lodestone/playguide/db/item/2d800a06851/"
+                },
+                {
+                    "Icon": "https://img.finalfantasyxiv.com/lds/pc/global/images/itemicon/0d/0dd4af1f23b8f1d782bacfb905a67b491688414c.png?n5.5",
+                    "Name": "Windkristall",
+                    "Amount": 25,
+                    "Url": "/lodestone/playguide/db/item/5db117cd77b/"
+                },
+                {
+                    "Icon": "https://img.finalfantasyxiv.com/lds/pc/global/images/itemicon/16/16cd107e2bd1c45cee59e6b96ef02f2f6f68eac5.png?n5.5",
+                    "Name": "Erdkristall",
+                    "Amount": 25,
+                    "Url": "/lodestone/playguide/db/item/ff6eae7bdcb/"
+                },
+                {
+                    "Icon": "https://img.finalfantasyxiv.com/lds/pc/global/images/itemicon/5d/5dd42eb2385a5e0d158b8fa81b63a09e4b25c821.png?n5.5",
+                    "Name": "Blitzkristall",
+                    "Amount": 25,
+                    "Url": "/lodestone/playguide/db/item/b21a951916e/"
+                },
+                {
+                    "Icon": "https://img.finalfantasyxiv.com/lds/pc/global/images/itemicon/b5/b5eb0d9131d8f735a91286bdf2f877f0495e8235.png?n5.5",
+                    "Name": "Wasserkristall",
+                    "Amount": 25,
+                    "Url": "/lodestone/playguide/db/item/44d3f4cb26b/"
+                },
+                {
+                    "Icon": "https://img.finalfantasyxiv.com/lds/pc/global/images/itemicon/d9/d9a4b77a07bb95bf2713ae233a0eececdf211e8b.png?n5.5",
+                    "Name": "Feuerkristall",
+                    "Amount": 25,
+                    "Url": "/lodestone/playguide/db/item/75403105d7f/"
+                }
+            ],
+            "ItemsOpt": []
+        },
+        "Infos": {
+            "PrevQuests": [
+                {
+                    "Name": "Girutt",
+                    "Url": "/lodestone/playguide/db/npc/npc/029894c94a6/",
+                    "Area": "Seenland (X:9.6 Y:12.4)"
+                },
+                {
+                    "Name": "Materialbeschaffer-Eisenbart",
+                    "Url": "/lodestone/playguide/db/npc/npc/fd458cd7e9f/",
+                    "Area": "Seenland (X:8.9 Y:13.1)"
+                }
+            ]
+        },
+        "Seq": 19,
+        "oldID": 69451,
+        "Map": {
+            "ID": 491
+        }
+    },
+    {
+        "ID": "dd23813c3e1",
+        "Name": "Zwei Bärte können mehr als einer",
+        "Location": "Kholusia",
+        "Level": 70,
+        "JournalSection": 5,
+        "JournalCategory": 23,
+        "JournalGenre": "\n\t\t\t\t\t\t\tHauptaufträge\n\t\t\t\t\t\t",
+        "Url": "/lodestone/playguide/db/quest/dd23813c3e1/",
+        "Image": "https://img.finalfantasyxiv.com/lds/pc/global/images/itemicon/f5/f5104b65452551e2605e05cd898b73693d524f64.png?n5.5",
+        "Icon": "function_normal",
+        "Issuer": "Sorgloser Zwerg",
+        "StartLocation": {
+            "Name": "Kholusia",
+            "X": "15.7",
+            "Y": "30.3"
+        },
+        "StartClass": null,
+        "Job": "",
+        "Company": "Keine Angabe",
+        "Requirement": "Keine Angabe",
+        "Rewards": {
+            "Gil": 1694,
+            "Exp": null,
+            "ItemsMand": [],
+            "ItemsOpt": []
+        },
+        "Infos": {
+            "PrevQuests": [
+                {
+                    "Name": " Ronitts Meisterleistung",
+                    "Url": "/lodestone/playguide/db/quest/f5908a7bf48/",
+                    "Area": "Kholusia",
+                    "Level": "70"
+                }
+            ],
+            "NextQuests": [
+                {
+                    "Name": "Eine Gogg sorgt für frischen Wind",
+                    "Url": "/lodestone/playguide/db/quest/5b1636ed3f9/",
+                    "Area": "Seenland",
+                    "Level": "70"
+                }
+            ],
+            "NPCs": [
+                {
+                    "Name": "Katliss",
+                    "Url": "/lodestone/playguide/db/npc/npc/7f66ef22d7c/",
+                    "Area": "Crystarium (X:11.0 Y:8.5)"
+                },
+                {
+                    "Name": "Offenherziger Wachsoldat",
+                    "Url": "/lodestone/playguide/db/npc/npc/73a4d480b88/",
+                    "Area": "Crystarium (X:12.8 Y:8.2)"
+                },
+                {
+                    "Name": "Regitt",
+                    "Url": "/lodestone/playguide/db/npc/npc/e3b86ca043e/",
+                    "Area": "Crystarium (X:12.8 Y:8.2)"
+                },
+                {
+                    "Name": "Regitt",
+                    "Url": "/lodestone/playguide/db/npc/npc/1c21a5e5ffd/",
+                    "Area": "Crystarium (X:10.9 Y:8.1)"
+                },
+                {
+                    "Name": "Eueliss",
+                    "Url": "/lodestone/playguide/db/npc/npc/e75529d7451/",
+                    "Area": "Kholusia (X:15.7 Y:30.3)"
+                },
+                {
+                    "Name": "Sai-Lewq",
+                    "Url": "/lodestone/playguide/db/npc/npc/2d45ce5e449/",
+                    "Area": "Kholusia (X:15.7 Y:30.3)"
+                },
+                {
+                    "Name": "Eisenbart von Ronitt",
+                    "Url": "/lodestone/playguide/db/npc/npc/65c8fa96c94/",
+                    "Area": "Seenland (X:14.5 Y:9.3)"
+                },
+                {
+                    "Name": "Eisenbart von Ronitt",
+                    "Url": "/lodestone/playguide/db/npc/npc/f454bb6350a/",
+                    "Area": "Seenland (X:9.4 Y:13.0)"
+                },
+                {
+                    "Name": "Frau mit vom Baden aufgeheiztem Körper",
+                    "Url": "/lodestone/playguide/db/npc/npc/7e53e9f84c6/",
+                    "Area": "Seenland (X:14.4 Y:9.4)"
+                },
+                {
+                    "Name": "Lorathia",
+                    "Url": "/lodestone/playguide/db/npc/npc/fc863f7898f/",
+                    "Area": "Seenland (X:14.4 Y:9.4)"
+                },
+                {
+                    "Name": "Regitt",
+                    "Url": "/lodestone/playguide/db/npc/npc/0d0ed9dc668/",
+                    "Area": "Seenland (X:14.5 Y:9.3)"
+                },
+                {
+                    "Name": "Ronitt",
+                    "Url": "/lodestone/playguide/db/npc/npc/5dbd08c9600/",
+                    "Area": "Seenland (X:14.4 Y:9.3)"
+                },
+                {
+                    "Name": "Ronitt",
+                    "Url": "/lodestone/playguide/db/npc/npc/2990e9c0331/",
+                    "Area": "Seenland (X:9.4 Y:13.0)"
+                }
+            ]
+        },
+        "Seq": 31,
+        "oldID": 69432,
+        "Map": {
+            "ID": 492
+        }
+    },
+    {
+        "ID": "f13a005a3fa",
+        "Name": " Heiße Ware",
+        "Location": "Seenland",
+        "Level": 70,
+        "JournalSection": 5,
+        "JournalCategory": 23,
+        "JournalGenre": "\n\t\t\t\t\t\t\tNebenaufträge\n\t\t\t\t\t\t",
+        "Url": "/lodestone/playguide/db/quest/f13a005a3fa/",
+        "Image": null,
+        "Icon": "common_repeat",
+        "Issuer": "Regitt",
+        "StartLocation": {
+            "Name": "Seenland",
+            "X": "9.1",
+            "Y": "12.9"
+        },
+        "StartClass": null,
+        "Job": "",
+        "Company": "Keine Angabe",
+        "Requirement": "Keine Angabe",
+        "Rewards": {
+            "Gil": 679,
+            "Exp": null,
+            "ItemsMand": [
+                {
+                    "Icon": "https://img.finalfantasyxiv.com/lds/pc/global/images/itemicon/0d/0dd4af1f23b8f1d782bacfb905a67b491688414c.png?n5.5",
+                    "Name": "Windkristall",
+                    "Amount": 25,
+                    "Url": "/lodestone/playguide/db/item/5db117cd77b/"
+                },
+                {
+                    "Icon": "https://img.finalfantasyxiv.com/lds/pc/global/images/itemicon/d9/d9a4b77a07bb95bf2713ae233a0eececdf211e8b.png?n5.5",
+                    "Name": "Feuerkristall",
+                    "Amount": 25,
+                    "Url": "/lodestone/playguide/db/item/75403105d7f/"
+                },
+                {
+                    "Icon": "https://img.finalfantasyxiv.com/lds/pc/global/images/itemicon/a7/a71da2eb489188dbbfadd582938a0e761a9a0585.png?n5.5",
+                    "Name": "Eiskristall",
+                    "Amount": 25,
+                    "Url": "/lodestone/playguide/db/item/2d800a06851/"
+                },
+                {
+                    "Icon": "https://img.finalfantasyxiv.com/lds/pc/global/images/itemicon/0d/0dd4af1f23b8f1d782bacfb905a67b491688414c.png?n5.5",
+                    "Name": "Windkristall",
+                    "Amount": 25,
+                    "Url": "/lodestone/playguide/db/item/5db117cd77b/"
+                },
+                {
+                    "Icon": "https://img.finalfantasyxiv.com/lds/pc/global/images/itemicon/16/16cd107e2bd1c45cee59e6b96ef02f2f6f68eac5.png?n5.5",
+                    "Name": "Erdkristall",
+                    "Amount": 25,
+                    "Url": "/lodestone/playguide/db/item/ff6eae7bdcb/"
+                },
+                {
+                    "Icon": "https://img.finalfantasyxiv.com/lds/pc/global/images/itemicon/5d/5dd42eb2385a5e0d158b8fa81b63a09e4b25c821.png?n5.5",
+                    "Name": "Blitzkristall",
+                    "Amount": 25,
+                    "Url": "/lodestone/playguide/db/item/b21a951916e/"
+                },
+                {
+                    "Icon": "https://img.finalfantasyxiv.com/lds/pc/global/images/itemicon/b5/b5eb0d9131d8f735a91286bdf2f877f0495e8235.png?n5.5",
+                    "Name": "Wasserkristall",
+                    "Amount": 25,
+                    "Url": "/lodestone/playguide/db/item/44d3f4cb26b/"
+                },
+                {
+                    "Icon": "https://img.finalfantasyxiv.com/lds/pc/global/images/itemicon/d9/d9a4b77a07bb95bf2713ae233a0eececdf211e8b.png?n5.5",
+                    "Name": "Feuerkristall",
+                    "Amount": 25,
+                    "Url": "/lodestone/playguide/db/item/75403105d7f/"
+                }
+            ],
+            "ItemsOpt": []
+        },
+        "Infos": {
+            "PrevQuests": [
+                {
+                    "Name": "Hitzeprüfungszwerg",
+                    "Url": "/lodestone/playguide/db/npc/npc/8997122fa21/",
+                    "Area": "Seenland (X:33.3 Y:35.5)"
+                },
+                {
+                    "Name": "Materialbeschaffer-Eisenbart",
+                    "Url": "/lodestone/playguide/db/npc/npc/fd458cd7e9f/",
+                    "Area": "Seenland (X:8.9 Y:13.1)"
+                },
+                {
+                    "Name": "Shigitt",
+                    "Url": "/lodestone/playguide/db/npc/npc/ee3243e5640/",
+                    "Area": "Seenland (X:9.3 Y:12.8)"
+                }
+            ]
+        },
+        "Seq": 21,
+        "oldID": 69453,
+        "Map": {
+            "ID": 491
+        }
+    },
+    {
+        "ID": "f8f62c08642",
+        "Name": " Alles Verhandlungssache",
+        "Location": "Seenland",
+        "Level": 70,
+        "JournalSection": 5,
+        "JournalCategory": 23,
+        "JournalGenre": "\n\t\t\t\t\t\t\tNebenaufträge\n\t\t\t\t\t\t",
+        "Url": "/lodestone/playguide/db/quest/f8f62c08642/",
+        "Image": null,
+        "Icon": "common_repeat",
+        "Issuer": "Regitt",
+        "StartLocation": {
+            "Name": "Seenland",
+            "X": "9.1",
+            "Y": "12.9"
+        },
+        "StartClass": null,
+        "Job": "",
+        "Company": "Keine Angabe",
+        "Requirement": "Keine Angabe",
+        "Rewards": {
+            "Gil": 679,
+            "Exp": null,
+            "ItemsMand": [
+                {
+                    "Icon": "https://img.finalfantasyxiv.com/lds/pc/global/images/itemicon/0d/0dd4af1f23b8f1d782bacfb905a67b491688414c.png?n5.5",
+                    "Name": "Windkristall",
+                    "Amount": 25,
+                    "Url": "/lodestone/playguide/db/item/5db117cd77b/"
+                },
+                {
+                    "Icon": "https://img.finalfantasyxiv.com/lds/pc/global/images/itemicon/d9/d9a4b77a07bb95bf2713ae233a0eececdf211e8b.png?n5.5",
+                    "Name": "Feuerkristall",
+                    "Amount": 25,
+                    "Url": "/lodestone/playguide/db/item/75403105d7f/"
+                },
+                {
+                    "Icon": "https://img.finalfantasyxiv.com/lds/pc/global/images/itemicon/a7/a71da2eb489188dbbfadd582938a0e761a9a0585.png?n5.5",
+                    "Name": "Eiskristall",
+                    "Amount": 25,
+                    "Url": "/lodestone/playguide/db/item/2d800a06851/"
+                },
+                {
+                    "Icon": "https://img.finalfantasyxiv.com/lds/pc/global/images/itemicon/0d/0dd4af1f23b8f1d782bacfb905a67b491688414c.png?n5.5",
+                    "Name": "Windkristall",
+                    "Amount": 25,
+                    "Url": "/lodestone/playguide/db/item/5db117cd77b/"
+                },
+                {
+                    "Icon": "https://img.finalfantasyxiv.com/lds/pc/global/images/itemicon/16/16cd107e2bd1c45cee59e6b96ef02f2f6f68eac5.png?n5.5",
+                    "Name": "Erdkristall",
+                    "Amount": 25,
+                    "Url": "/lodestone/playguide/db/item/ff6eae7bdcb/"
+                },
+                {
+                    "Icon": "https://img.finalfantasyxiv.com/lds/pc/global/images/itemicon/5d/5dd42eb2385a5e0d158b8fa81b63a09e4b25c821.png?n5.5",
+                    "Name": "Blitzkristall",
+                    "Amount": 25,
+                    "Url": "/lodestone/playguide/db/item/b21a951916e/"
+                },
+                {
+                    "Icon": "https://img.finalfantasyxiv.com/lds/pc/global/images/itemicon/b5/b5eb0d9131d8f735a91286bdf2f877f0495e8235.png?n5.5",
+                    "Name": "Wasserkristall",
+                    "Amount": 25,
+                    "Url": "/lodestone/playguide/db/item/44d3f4cb26b/"
+                },
+                {
+                    "Icon": "https://img.finalfantasyxiv.com/lds/pc/global/images/itemicon/d9/d9a4b77a07bb95bf2713ae233a0eececdf211e8b.png?n5.5",
+                    "Name": "Feuerkristall",
+                    "Amount": 25,
+                    "Url": "/lodestone/playguide/db/item/75403105d7f/"
+                }
+            ],
+            "ItemsOpt": []
+        },
+        "Infos": {
+            "PrevQuests": [
+                {
+                    "Name": "Mordh-Händler",
+                    "Url": "/lodestone/playguide/db/npc/npc/5b94534dc4a/",
+                    "Area": "Seenland (X:23.8 Y:34.8)"
+                },
+                {
+                    "Name": "Wareneinkäuferzwerg",
+                    "Url": "/lodestone/playguide/db/npc/npc/3bee9006491/",
+                    "Area": "Seenland (X:23.8 Y:34.8)"
+                }
+            ]
+        },
+        "Seq": 22,
+        "oldID": 69454,
+        "Map": {
+            "ID": 491
+        }
+    }
+]

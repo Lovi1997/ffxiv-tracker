@@ -1,4 +1,4 @@
-const Quest = require("../../class/online/Quest");
+const Quest = require("../../class/local/Quest");
 
 const performSearch = async function (sSearchString) {
   var aResult = await getQuests(sSearchString);
@@ -8,7 +8,7 @@ const performSearch = async function (sSearchString) {
 const getQuests = async function (sSearchString) {
   var oQuest = new Quest();
   var aQuests = await oQuest.performSearch(sSearchString);
-  return oQuest.format(aQuests, true);
+  return aQuests;
 };
 
 module.exports = performSearch;

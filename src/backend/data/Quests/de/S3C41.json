@@ -1,0 +1,5007 @@
+[
+    {
+        "ID": "002393ec2ae",
+        "Name": "Fünf Jahre Ungewissheit",
+        "Location": "Zentrales Hochland von Coerthas",
+        "Level": 40,
+        "JournalSection": 3,
+        "JournalCategory": 41,
+        "JournalGenre": "Aufträge Coerthas",
+        "Url": "/lodestone/playguide/db/quest/002393ec2ae/",
+        "Image": null,
+        "Icon": "common_normal",
+        "Issuer": "Lancefer",
+        "StartLocation": {
+            "Name": "Zentrales Hochland von Coerthas",
+            "X": "6.1",
+            "Y": "22.5"
+        },
+        "StartClass": null,
+        "Job": "",
+        "Company": "Keine Angabe",
+        "Requirement": "Keine Angabe",
+        "Rewards": {
+            "Gil": 1549,
+            "Exp": 11270,
+            "ItemsMand": [],
+            "ItemsOpt": []
+        },
+        "Infos": {
+            "PrevQuests": [
+                {
+                    "Name": "Die Macht der Drachen",
+                    "Url": "/lodestone/playguide/db/quest/bcd612f8b59/",
+                    "Area": "Zentrales Hochland von Coerthas",
+                    "Level": "40"
+                }
+            ]
+        },
+        "Seq": 77,
+        "oldID": 66484,
+        "Map": {
+            "ID": 53
+        }
+    },
+    {
+        "ID": "08b4b960fc8",
+        "Name": "Mit Karakul fängt man Oger",
+        "Location": "Zentrales Hochland von Coerthas",
+        "Level": 38,
+        "JournalSection": 3,
+        "JournalCategory": 41,
+        "JournalGenre": "Aufträge Coerthas",
+        "Url": "/lodestone/playguide/db/quest/08b4b960fc8/",
+        "Image": null,
+        "Icon": "common_normal",
+        "Issuer": "Yaelle",
+        "StartLocation": {
+            "Name": "Zentrales Hochland von Coerthas",
+            "X": "26.6",
+            "Y": "17.3"
+        },
+        "StartClass": null,
+        "Job": "",
+        "Company": "Keine Angabe",
+        "Requirement": "Keine Angabe",
+        "Rewards": {
+            "Gil": 1478,
+            "Exp": 10105,
+            "ItemsMand": [],
+            "ItemsOpt": []
+        },
+        "Infos": {
+            "PrevQuests": [
+                {
+                    "Name": "Die Krux der Familie Haillenarte",
+                    "Url": "/lodestone/playguide/db/quest/8d4e96af5e9/",
+                    "Area": "Zentrales Hochland von Coerthas",
+                    "Level": "36"
+                }
+            ],
+            "NextQuests": [
+                {
+                    "Name": "Sebastian",
+                    "Url": "/lodestone/playguide/db/npc/npc/2b396b523fa/",
+                    "Area": "Zentrales Hochland von Coerthas (X:27.8 Y:16.3)"
+                }
+            ]
+        },
+        "Seq": 56,
+        "oldID": 66437,
+        "Map": {
+            "ID": 53
+        }
+    },
+    {
+        "ID": "096f182fd01",
+        "Name": "Stille Glocke",
+        "Location": "Zentrales Hochland von Coerthas",
+        "Level": 40,
+        "JournalSection": 3,
+        "JournalCategory": 41,
+        "JournalGenre": "Aufträge Coerthas",
+        "Url": "/lodestone/playguide/db/quest/096f182fd01/",
+        "Image": null,
+        "Icon": "common_normal",
+        "Issuer": "Liautroix",
+        "StartLocation": {
+            "Name": "Zentrales Hochland von Coerthas",
+            "X": "12.7",
+            "Y": "17.3"
+        },
+        "StartClass": null,
+        "Job": "",
+        "Company": "Keine Angabe",
+        "Requirement": "Keine Angabe",
+        "Rewards": {
+            "Gil": 1650,
+            "Exp": 11270,
+            "ItemsMand": [],
+            "ItemsOpt": []
+        },
+        "Infos": {
+            "PrevQuests": [
+                {
+                    "Name": "Die Macht der Drachen",
+                    "Url": "/lodestone/playguide/db/quest/bcd612f8b59/",
+                    "Area": "Zentrales Hochland von Coerthas",
+                    "Level": "40"
+                }
+            ],
+            "NextQuests": [
+                {
+                    "Name": "Benedict",
+                    "Url": "/lodestone/playguide/db/npc/npc/525ebdc5d24/",
+                    "Area": "Zentrales Hochland von Coerthas (X:12.6 Y:17.4)"
+                },
+                {
+                    "Name": "Ignemortel",
+                    "Url": "/lodestone/playguide/db/npc/npc/19297cd3d60/",
+                    "Area": "Zentrales Hochland von Coerthas (X:12.8 Y:17.5)"
+                },
+                {
+                    "Name": "Tuatkk",
+                    "Url": "/lodestone/playguide/db/npc/npc/26d2a8856bf/",
+                    "Area": "Zentrales Hochland von Coerthas (X:12.3 Y:15.3)"
+                }
+            ]
+        },
+        "Seq": 71,
+        "oldID": 66478,
+        "Map": {
+            "ID": 53
+        }
+    },
+    {
+        "ID": "0e6492d1393",
+        "Name": "Häretiker im Kerker",
+        "Location": "Zentrales Hochland von Coerthas",
+        "Level": 39,
+        "JournalSection": 3,
+        "JournalCategory": 41,
+        "JournalGenre": "Aufträge Coerthas",
+        "Url": "/lodestone/playguide/db/quest/0e6492d1393/",
+        "Image": null,
+        "Icon": "common_normal",
+        "Issuer": "Boyle",
+        "StartLocation": {
+            "Name": "Zentrales Hochland von Coerthas",
+            "X": "12.2",
+            "Y": "15.6"
+        },
+        "StartClass": null,
+        "Job": "",
+        "Company": "Keine Angabe",
+        "Requirement": "Keine Angabe",
+        "Rewards": {
+            "Gil": 1624,
+            "Exp": 10800,
+            "ItemsMand": [],
+            "ItemsOpt": []
+        },
+        "Infos": {
+            "PrevQuests": [
+                {
+                    "Name": "Welch freundlicher Empfang",
+                    "Url": "/lodestone/playguide/db/quest/268f3a86547/",
+                    "Area": "Zentrales Hochland von Coerthas",
+                    "Level": "39"
+                }
+            ],
+            "NextQuests": [
+                {
+                    "Name": "Ferdillaix",
+                    "Url": "/lodestone/playguide/db/npc/npc/870ce25c01c/",
+                    "Area": "Zentrales Hochland von Coerthas (X:12.3 Y:15.7)"
+                }
+            ]
+        },
+        "Seq": 67,
+        "oldID": 66470,
+        "Map": {
+            "ID": 53
+        }
+    },
+    {
+        "ID": "15906d83039",
+        "Name": "Taten statt Worte",
+        "Location": "Westliches Hochland von Coerthas",
+        "Level": 56,
+        "JournalSection": 3,
+        "JournalCategory": 41,
+        "JournalGenre": "Aufträge Coerthas",
+        "Url": "/lodestone/playguide/db/quest/15906d83039/",
+        "Image": null,
+        "Icon": "common_normal",
+        "Issuer": "Besorgter Elezen",
+        "StartLocation": {
+            "Name": "Westliches Hochland von Coerthas",
+            "X": "32.0",
+            "Y": "37.7"
+        },
+        "StartClass": null,
+        "Job": "",
+        "Company": "Keine Angabe",
+        "Requirement": "Keine Angabe",
+        "Rewards": {
+            "Gil": 720,
+            "Exp": 36000,
+            "ItemsMand": [],
+            "ItemsOpt": []
+        },
+        "Infos": {
+            "PrevQuests": [
+                {
+                    "Name": "Wild entschlossen",
+                    "Url": "/lodestone/playguide/db/quest/502fe826ab0/",
+                    "Area": "Ishgard",
+                    "Level": "56"
+                },
+                {
+                    "Name": "Sturköpfe sind dicker als Blut",
+                    "Url": "/lodestone/playguide/db/quest/3f8904a0a88/",
+                    "Area": "Ishgard",
+                    "Level": "56"
+                }
+            ],
+            "NextQuests": [
+                {
+                    "Name": "Emont",
+                    "Url": "/lodestone/playguide/db/npc/npc/2df21e7fe2e/",
+                    "Area": "Westliches Hochland von Coerthas (X:36.4 Y:9.9)"
+                }
+            ]
+        },
+        "Seq": 26,
+        "oldID": 67423,
+        "Map": {
+            "ID": 211
+        }
+    },
+    {
+        "ID": "160af09af39",
+        "Name": "Großvater erinnert sich",
+        "Location": "Westliches Hochland von Coerthas",
+        "Level": 50,
+        "JournalSection": 3,
+        "JournalCategory": 41,
+        "JournalGenre": "Aufträge Coerthas",
+        "Url": "/lodestone/playguide/db/quest/160af09af39/",
+        "Image": null,
+        "Icon": "common_normal",
+        "Issuer": "Ingaret",
+        "StartLocation": {
+            "Name": "Westliches Hochland von Coerthas",
+            "X": "32.4",
+            "Y": "35.8"
+        },
+        "StartClass": null,
+        "Job": "",
+        "Company": "Keine Angabe",
+        "Requirement": "Keine Angabe",
+        "Rewards": {
+            "Gil": 799,
+            "Exp": 24000,
+            "ItemsMand": [],
+            "ItemsOpt": []
+        },
+        "Infos": {
+            "PrevQuests": [
+                {
+                    "Name": "Verbotene Liebe",
+                    "Url": "/lodestone/playguide/db/quest/feb37b13c5f/",
+                    "Area": "Westliches Hochland von Coerthas",
+                    "Level": "50"
+                }
+            ]
+        },
+        "Seq": 2,
+        "oldID": 67272,
+        "Map": {
+            "ID": 211
+        }
+    },
+    {
+        "ID": "198b348b4a0",
+        "Name": "Drachenjagd für Anfänger",
+        "Location": "Westliches Hochland von Coerthas",
+        "Level": 51,
+        "JournalSection": 3,
+        "JournalCategory": 41,
+        "JournalGenre": "Aufträge Coerthas",
+        "Url": "/lodestone/playguide/db/quest/198b348b4a0/",
+        "Image": null,
+        "Icon": "function_normal",
+        "Issuer": "Jantellot",
+        "StartLocation": {
+            "Name": "Westliches Hochland von Coerthas",
+            "X": "16.7",
+            "Y": "22.8"
+        },
+        "StartClass": null,
+        "Job": "",
+        "Company": "Keine Angabe",
+        "Requirement": "Keine Angabe",
+        "Rewards": {
+            "Gil": 496,
+            "Exp": 25200,
+            "ItemsMand": [
+                {
+                    "Icon": "https://img.finalfantasyxiv.com/lds/pc/global/images/itemicon/af/af26e4b79fb1de83550f6ddbd3a170408fcfe702.png?n5.5",
+                    "Name": "",
+                    "Amount": null
+                }
+            ],
+            "ItemsOpt": []
+        },
+        "Infos": {
+            "PrevQuests": [
+                {
+                    "Name": "Der ewige Kreis",
+                    "Url": "/lodestone/playguide/db/quest/2c4df80a5f6/",
+                    "Area": "Westliches Hochland von Coerthas",
+                    "Level": "51"
+                }
+            ],
+            "NextQuests": [
+                {
+                    "Name": "Drachen jagen leicht gemacht",
+                    "Url": "/lodestone/playguide/db/quest/484607bae3c/",
+                    "Area": "Westliches Hochland von Coerthas",
+                    "Level": "51"
+                }
+            ]
+        },
+        "Seq": 13,
+        "oldID": 67296,
+        "Map": {
+            "ID": 211
+        }
+    },
+    {
+        "ID": "20e9e01f1a6",
+        "Name": "Drachen mit Drachen ködern",
+        "Location": "Westliches Hochland von Coerthas",
+        "Level": 51,
+        "JournalSection": 3,
+        "JournalCategory": 41,
+        "JournalGenre": "Aufträge Coerthas",
+        "Url": "/lodestone/playguide/db/quest/20e9e01f1a6/",
+        "Image": "https://img.finalfantasyxiv.com/lds/pc/global/images/itemicon/9c/9cf1bd0e81765709424765d87d071b54c72c38c3.png?n5.5",
+        "Icon": "common_normal",
+        "Issuer": "Dominiac",
+        "StartLocation": {
+            "Name": "Westliches Hochland von Coerthas",
+            "X": "16.6",
+            "Y": "22.6"
+        },
+        "StartClass": null,
+        "Job": "",
+        "Company": "Keine Angabe",
+        "Requirement": "Keine Angabe",
+        "Rewards": {
+            "Gil": 553,
+            "Exp": 25200,
+            "ItemsMand": [],
+            "ItemsOpt": []
+        },
+        "Infos": {
+            "PrevQuests": [
+                {
+                    "Name": "Der ewige Kreis",
+                    "Url": "/lodestone/playguide/db/quest/2c4df80a5f6/",
+                    "Area": "Westliches Hochland von Coerthas",
+                    "Level": "51"
+                },
+                {
+                    "Name": "Erkenntnisse in Sachen Drachenjagd",
+                    "Url": "/lodestone/playguide/db/quest/96f383feb9a/",
+                    "Area": "Westliches Hochland von Coerthas",
+                    "Level": "51"
+                }
+            ],
+            "NextQuests": [
+                {
+                    "Name": "Dominiacs Plan nimmt Fahrt auf",
+                    "Url": "/lodestone/playguide/db/quest/8e63d9d6fe7/",
+                    "Area": "Westliches Hochland von Coerthas",
+                    "Level": "51"
+                }
+            ],
+            "NPCs": [
+                {
+                    "Name": "Saintrelmaux",
+                    "Url": "/lodestone/playguide/db/npc/npc/047d1883e4b/",
+                    "Area": "Westliches Hochland von Coerthas (X:16.6 Y:22.6)"
+                },
+                {
+                    "Name": "Saintrelmaux",
+                    "Url": "/lodestone/playguide/db/npc/npc/dd6b76079d4/",
+                    "Area": "Westliches Hochland von Coerthas (X:28.4 Y:17.6)"
+                }
+            ]
+        },
+        "Seq": 20,
+        "oldID": 67300,
+        "Map": {
+            "ID": 211
+        }
+    },
+    {
+        "ID": "219d15bf41c",
+        "Name": "Am Abgrund",
+        "Location": "Zentrales Hochland von Coerthas",
+        "Level": 40,
+        "JournalSection": 3,
+        "JournalCategory": 41,
+        "JournalGenre": "Aufträge Coerthas",
+        "Url": "/lodestone/playguide/db/quest/219d15bf41c/",
+        "Image": null,
+        "Icon": "common_normal",
+        "Issuer": "Briannaix",
+        "StartLocation": {
+            "Name": "Zentrales Hochland von Coerthas",
+            "X": "12.7",
+            "Y": "17.0"
+        },
+        "StartClass": null,
+        "Job": "",
+        "Company": "Keine Angabe",
+        "Requirement": "Keine Angabe",
+        "Rewards": {
+            "Gil": 1448,
+            "Exp": 11270,
+            "ItemsMand": [],
+            "ItemsOpt": []
+        },
+        "Infos": {
+            "PrevQuests": [
+                {
+                    "Name": "Die Macht der Drachen",
+                    "Url": "/lodestone/playguide/db/quest/bcd612f8b59/",
+                    "Area": "Zentrales Hochland von Coerthas",
+                    "Level": "40"
+                }
+            ],
+            "NextQuests": [
+                {
+                    "Name": "Gestürzter Ritter",
+                    "Url": "/lodestone/playguide/db/npc/npc/5c4b78b1c27/",
+                    "Area": "Zentrales Hochland von Coerthas (X:10.6 Y:16.9)"
+                },
+                {
+                    "Name": "Hilfsbereiter Ritter",
+                    "Url": "/lodestone/playguide/db/npc/npc/b797f6a604d/",
+                    "Area": "Zentrales Hochland von Coerthas (X:10.6 Y:17.3)"
+                }
+            ]
+        },
+        "Seq": 80,
+        "oldID": 66487,
+        "Map": {
+            "ID": 53
+        }
+    },
+    {
+        "ID": "21d3e17b63e",
+        "Name": "Den Schneeball aufnehmen",
+        "Location": "Zentrales Hochland von Coerthas",
+        "Level": 36,
+        "JournalSection": 3,
+        "JournalCategory": 41,
+        "JournalGenre": "Aufträge Coerthas",
+        "Url": "/lodestone/playguide/db/quest/21d3e17b63e/",
+        "Image": null,
+        "Icon": "common_normal",
+        "Issuer": "Duvicauroix",
+        "StartLocation": {
+            "Name": "Zentrales Hochland von Coerthas",
+            "X": "26.3",
+            "Y": "27.9"
+        },
+        "StartClass": null,
+        "Job": "",
+        "Company": "Keine Angabe",
+        "Requirement": "Keine Angabe",
+        "Rewards": {
+            "Gil": 0,
+            "Exp": 7087,
+            "ItemsMand": [],
+            "ItemsOpt": []
+        },
+        "Infos": {
+            "PrevQuests": [
+                {
+                    "Name": "Der Weg des Schneeballwerfers",
+                    "Url": "/lodestone/playguide/db/quest/e9c20d61570/",
+                    "Area": "Zentrales Hochland von Coerthas",
+                    "Level": "36"
+                }
+            ]
+        },
+        "Seq": 47,
+        "oldID": 66847,
+        "Map": {
+            "ID": 53
+        }
+    },
+    {
+        "ID": "26b95cfea87",
+        "Name": "Vogeljagd im Schneegestöber",
+        "Location": "Zentrales Hochland von Coerthas",
+        "Level": 39,
+        "JournalSection": 3,
+        "JournalCategory": 41,
+        "JournalGenre": "Aufträge Coerthas",
+        "Url": "/lodestone/playguide/db/quest/26b95cfea87/",
+        "Image": null,
+        "Icon": "common_normal",
+        "Issuer": "Loanne",
+        "StartLocation": {
+            "Name": "Zentrales Hochland von Coerthas",
+            "X": "18.7",
+            "Y": "15.7"
+        },
+        "StartClass": null,
+        "Job": "",
+        "Company": "Keine Angabe",
+        "Requirement": "Keine Angabe",
+        "Rewards": {
+            "Gil": 1927,
+            "Exp": 10800,
+            "ItemsMand": [],
+            "ItemsOpt": [
+                {
+                    "Icon": "https://img.finalfantasyxiv.com/lds/pc/global/images/itemicon/6e/6e74f7138e6a8181c16b337af9780ea3e99caad2.png?n5.5",
+                    "Name": "Amethyst-Ring",
+                    "Amount": 1,
+                    "Url": "/lodestone/playguide/db/item/9cf1af1b8c6/"
+                },
+                {
+                    "Icon": "https://img.finalfantasyxiv.com/lds/pc/global/images/itemicon/8e/8e83670fe328c5fa2dccfc8fa239c7dbbe5faece.png?n5.5",
+                    "Name": "Peridot-Ring",
+                    "Amount": 1,
+                    "Url": "/lodestone/playguide/db/item/0d358c57a39/"
+                },
+                {
+                    "Icon": "https://img.finalfantasyxiv.com/lds/pc/global/images/itemicon/d9/d98de89e01b9ca1b90ea5d02072a96859741f267.png?n5.5",
+                    "Name": "Goshenit-Ring",
+                    "Amount": 1,
+                    "Url": "/lodestone/playguide/db/item/368867de7a6/"
+                },
+                {
+                    "Icon": "https://img.finalfantasyxiv.com/lds/pc/global/images/itemicon/ba/baa2341dd17414fae7fd62ae7bc62c64589b67be.png?n5.5",
+                    "Name": "Allagisches Goldstück",
+                    "Amount": 1,
+                    "Url": "/lodestone/playguide/db/item/5196db0fd91/"
+                }
+            ]
+        },
+        "Infos": {
+            "PrevQuests": [
+                {
+                    "Name": "Tote Häretiker reden nicht",
+                    "Url": "/lodestone/playguide/db/quest/8932b43a616/",
+                    "Area": "Zentrales Hochland von Coerthas",
+                    "Level": "39"
+                }
+            ]
+        },
+        "Seq": 63,
+        "oldID": 66466,
+        "Map": {
+            "ID": 53
+        }
+    },
+    {
+        "ID": "27cf619e319",
+        "Name": "Die Katze auf dem eisigen Dach",
+        "Location": "Westliches Hochland von Coerthas",
+        "Level": 51,
+        "JournalSection": 3,
+        "JournalCategory": 41,
+        "JournalGenre": "Aufträge Coerthas",
+        "Url": "/lodestone/playguide/db/quest/27cf619e319/",
+        "Image": null,
+        "Icon": "common_normal",
+        "Issuer": "Fassungslose Adlige",
+        "StartLocation": {
+            "Name": "Westliches Hochland von Coerthas",
+            "X": "33.4",
+            "Y": "37.2"
+        },
+        "StartClass": null,
+        "Job": "",
+        "Company": "Keine Angabe",
+        "Requirement": "Keine Angabe",
+        "Rewards": {
+            "Gil": 438,
+            "Exp": 25200,
+            "ItemsMand": [],
+            "ItemsOpt": []
+        },
+        "Infos": {
+            "PrevQuests": [
+                {
+                    "Name": "Freundschaftssignale",
+                    "Url": "/lodestone/playguide/db/quest/567d11de439/",
+                    "Area": "Westliches Hochland von Coerthas",
+                    "Level": "51"
+                }
+            ],
+            "NextQuests": [
+                {
+                    "Name": "Zitterndes Kätzchen",
+                    "Url": "/lodestone/playguide/db/npc/npc/4798580971c/",
+                    "Area": "Westliches Hochland von Coerthas (X:33.3 Y:37.3)"
+                }
+            ]
+        },
+        "Seq": 18,
+        "oldID": 67290,
+        "Map": {
+            "ID": 211
+        }
+    },
+    {
+        "ID": "2a8df87c34e",
+        "Name": "Das Häretikernest",
+        "Location": "Westliches Hochland von Coerthas",
+        "Level": 56,
+        "JournalSection": 3,
+        "JournalCategory": 41,
+        "JournalGenre": "Aufträge Coerthas",
+        "Url": "/lodestone/playguide/db/quest/2a8df87c34e/",
+        "Image": null,
+        "Icon": "common_normal",
+        "Issuer": "Redwald",
+        "StartLocation": {
+            "Name": "Westliches Hochland von Coerthas",
+            "X": "32.6",
+            "Y": "38.3"
+        },
+        "StartClass": null,
+        "Job": "",
+        "Company": "Keine Angabe",
+        "Requirement": "Keine Angabe",
+        "Rewards": {
+            "Gil": 750,
+            "Exp": 36000,
+            "ItemsMand": [],
+            "ItemsOpt": []
+        },
+        "Infos": {
+            "PrevQuests": [
+                {
+                    "Name": "Wild entschlossen",
+                    "Url": "/lodestone/playguide/db/quest/502fe826ab0/",
+                    "Area": "Ishgard",
+                    "Level": "56"
+                },
+                {
+                    "Name": "Sturköpfe sind dicker als Blut",
+                    "Url": "/lodestone/playguide/db/quest/3f8904a0a88/",
+                    "Area": "Ishgard",
+                    "Level": "56"
+                }
+            ],
+            "NextQuests": [
+                {
+                    "Name": "Durendaire-Ritter",
+                    "Url": "/lodestone/playguide/db/npc/npc/36d4fc0d85e/",
+                    "Area": "Westliches Hochland von Coerthas (X:35.9 Y:21.5)"
+                }
+            ]
+        },
+        "Seq": 25,
+        "oldID": 67422,
+        "Map": {
+            "ID": 211
+        }
+    },
+    {
+        "ID": "2c695ae8a6f",
+        "Name": "Freibriefe der Weißenfels-Front",
+        "Location": "Zentrales Hochland von Coerthas",
+        "Level": 40,
+        "JournalSection": 3,
+        "JournalCategory": 41,
+        "JournalGenre": "Aufträge Coerthas",
+        "Url": "/lodestone/playguide/db/quest/2c695ae8a6f/",
+        "Image": null,
+        "Icon": "function_normal",
+        "Issuer": "Voilinaut",
+        "StartLocation": {
+            "Name": "Zentrales Hochland von Coerthas",
+            "X": "12.6",
+            "Y": "16.7"
+        },
+        "StartClass": null,
+        "Job": "",
+        "Company": "Keine Angabe",
+        "Requirement": "Keine Angabe",
+        "Rewards": {
+            "Gil": 1958,
+            "Exp": 11270,
+            "ItemsMand": [],
+            "ItemsOpt": []
+        },
+        "Infos": {
+            "PrevQuests": [
+                {
+                    "Name": "Freibriefe der Tölpelturm-Siedlung",
+                    "Url": "/lodestone/playguide/db/quest/8b2de303b68/",
+                    "Area": "Limsa Lominsa",
+                    "Level": "10"
+                },
+                {
+                    "Name": "Freibriefe von Zwieselgrund",
+                    "Url": "/lodestone/playguide/db/quest/08e04b5f634/",
+                    "Area": "Gridania",
+                    "Level": "10"
+                },
+                {
+                    "Name": "Freibriefe von Ul'dah",
+                    "Url": "/lodestone/playguide/db/quest/c4ed1e8736c/",
+                    "Area": "Ul'dah",
+                    "Level": "10"
+                }
+            ]
+        },
+        "Seq": 70,
+        "oldID": 65553,
+        "Map": {
+            "ID": 53
+        }
+    },
+    {
+        "ID": "2caf6e7b13f",
+        "Name": "Der Fangzahn des Drachen",
+        "Location": "Westliches Hochland von Coerthas",
+        "Level": 56,
+        "JournalSection": 3,
+        "JournalCategory": 41,
+        "JournalGenre": "Aufträge Coerthas",
+        "Url": "/lodestone/playguide/db/quest/2caf6e7b13f/",
+        "Image": "https://img.finalfantasyxiv.com/lds/pc/global/images/itemicon/43/439a653c8e3afa2c7e253f04fe30f8d53e6d97e0.png?n5.5",
+        "Icon": "common_normal",
+        "Issuer": "Margyt",
+        "StartLocation": {
+            "Name": "Westliches Hochland von Coerthas",
+            "X": "17.3",
+            "Y": "22.8"
+        },
+        "StartClass": null,
+        "Job": "",
+        "Company": "Keine Angabe",
+        "Requirement": "Keine Angabe",
+        "Rewards": {
+            "Gil": 496,
+            "Exp": 36000,
+            "ItemsMand": [],
+            "ItemsOpt": []
+        },
+        "Infos": {
+            "PrevQuests": [
+                {
+                    "Name": "Wild entschlossen",
+                    "Url": "/lodestone/playguide/db/quest/502fe826ab0/",
+                    "Area": "Ishgard",
+                    "Level": "56"
+                },
+                {
+                    "Name": "Neuer Lebenswille",
+                    "Url": "/lodestone/playguide/db/quest/5e20c0655ae/",
+                    "Area": "Westliches Hochland von Coerthas",
+                    "Level": "51"
+                },
+                {
+                    "Name": "Sturköpfe sind dicker als Blut",
+                    "Url": "/lodestone/playguide/db/quest/3f8904a0a88/",
+                    "Area": "Ishgard",
+                    "Level": "56"
+                }
+            ],
+            "NextQuests": [
+                {
+                    "Name": "Frustration am Falkenhorst",
+                    "Url": "/lodestone/playguide/db/quest/6c1e9ad14d0/",
+                    "Area": "Westliches Hochland von Coerthas",
+                    "Level": "56"
+                }
+            ],
+            "NPCs": [
+                {
+                    "Name": "Ayleth",
+                    "Url": "/lodestone/playguide/db/npc/npc/8b9571ebe18/",
+                    "Area": "Westliches Hochland von Coerthas (X:17.4 Y:22.8)"
+                },
+                {
+                    "Name": "Ayleth",
+                    "Url": "/lodestone/playguide/db/npc/npc/288028355b7/",
+                    "Area": "Westliches Hochland von Coerthas (X:16.6 Y:33.4)"
+                }
+            ]
+        },
+        "Seq": 32,
+        "oldID": 67425,
+        "Map": {
+            "ID": 211
+        }
+    },
+    {
+        "ID": "2d3cf37ffd6",
+        "Name": "Die Ixal in Coerthas",
+        "Location": "Zentrales Hochland von Coerthas",
+        "Level": 37,
+        "JournalSection": 3,
+        "JournalCategory": 41,
+        "JournalGenre": "Aufträge Coerthas",
+        "Url": "/lodestone/playguide/db/quest/2d3cf37ffd6/",
+        "Image": null,
+        "Icon": "common_normal",
+        "Issuer": "Belmont",
+        "StartLocation": {
+            "Name": "Zentrales Hochland von Coerthas",
+            "X": "26.5",
+            "Y": "16.2"
+        },
+        "StartClass": null,
+        "Job": "",
+        "Company": "Keine Angabe",
+        "Requirement": "Keine Angabe",
+        "Rewards": {
+            "Gil": 1571,
+            "Exp": 9660,
+            "ItemsMand": [],
+            "ItemsOpt": []
+        },
+        "Infos": {
+            "PrevQuests": [
+                {
+                    "Name": "Nicht nur Drachen sind gefährlich",
+                    "Url": "/lodestone/playguide/db/quest/56c06c9a1c1/",
+                    "Area": "Zentrales Hochland von Coerthas",
+                    "Level": "37"
+                }
+            ],
+            "NextQuests": [
+                {
+                    "Name": "Warnung an die Weißen Widder",
+                    "Url": "/lodestone/playguide/db/quest/82523d93c3a/",
+                    "Area": "Zentrales Hochland von Coerthas",
+                    "Level": "37"
+                }
+            ]
+        },
+        "Seq": 53,
+        "oldID": 66440,
+        "Map": {
+            "ID": 53
+        }
+    },
+    {
+        "ID": "2d9858ca781",
+        "Name": "Begraben unter Schnee",
+        "Location": "Westliches Hochland von Coerthas",
+        "Level": 50,
+        "JournalSection": 3,
+        "JournalCategory": 41,
+        "JournalGenre": "Aufträge Coerthas",
+        "Url": "/lodestone/playguide/db/quest/2d9858ca781/",
+        "Image": "https://img.finalfantasyxiv.com/lds/pc/global/images/itemicon/3a/3a5db22b3119c5cb72ec667a711fed12e33d1471.png?n5.5",
+        "Icon": "common_normal",
+        "Issuer": "Sigan",
+        "StartLocation": {
+            "Name": "Westliches Hochland von Coerthas",
+            "X": "30.6",
+            "Y": "36.3"
+        },
+        "StartClass": null,
+        "Job": "",
+        "Company": "Keine Angabe",
+        "Requirement": "Keine Angabe",
+        "Rewards": {
+            "Gil": 489,
+            "Exp": 24000,
+            "ItemsMand": [],
+            "ItemsOpt": []
+        },
+        "Infos": {
+            "PrevQuests": [
+                {
+                    "Name": "Falkenhorst",
+                    "Url": "/lodestone/playguide/db/quest/7151b0eefcd/",
+                    "Area": "Anwesen der Fortemps",
+                    "Level": "50"
+                },
+                {
+                    "Name": "Frostige Zeiten",
+                    "Url": "/lodestone/playguide/db/quest/c3c70190620/",
+                    "Area": "Westliches Hochland von Coerthas",
+                    "Level": "50"
+                }
+            ],
+            "NextQuests": [
+                {
+                    "Name": "Ein Koch unter Verdacht",
+                    "Url": "/lodestone/playguide/db/quest/45426a1a490/",
+                    "Area": "Westliches Hochland von Coerthas",
+                    "Level": "50"
+                }
+            ]
+        },
+        "Seq": 6,
+        "oldID": 67270,
+        "Map": {
+            "ID": 211
+        }
+    },
+    {
+        "ID": "33a18ee797d",
+        "Name": "Die Feste Dzemael",
+        "Location": "Zentrales Hochland von Coerthas",
+        "Level": 44,
+        "JournalSection": 3,
+        "JournalCategory": 41,
+        "JournalGenre": "Aufträge Coerthas",
+        "Url": "/lodestone/playguide/db/quest/33a18ee797d/",
+        "Image": "https://img.finalfantasyxiv.com/lds/pc/global/images/itemicon/ce/cef908f71a407062fa936e449402467a781facf6.png?n5.5",
+        "Icon": "function_normal",
+        "Issuer": "Carrilaut",
+        "StartLocation": {
+            "Name": "Zentrales Hochland von Coerthas",
+            "X": "24.7",
+            "Y": "28.8"
+        },
+        "StartClass": null,
+        "Job": "",
+        "Company": "Keine Angabe",
+        "Requirement": "Keine Angabe",
+        "Rewards": {
+            "Gil": 1729,
+            "Exp": 12190,
+            "ItemsMand": [],
+            "ItemsOpt": []
+        },
+        "Infos": {
+            "PrevQuests": [
+                {
+                    "Name": "Ophelie",
+                    "Url": "/lodestone/playguide/db/npc/npc/30d183edf50/",
+                    "Area": "Zentrales Hochland von Coerthas (X:19.8 Y:27.8)"
+                }
+            ]
+        },
+        "Seq": 81,
+        "oldID": 66515,
+        "Map": {
+            "ID": 53
+        }
+    },
+    {
+        "ID": "343ff6eb6fc",
+        "Name": "Ein hanebüchener Plan",
+        "Location": "Westliches Hochland von Coerthas",
+        "Level": 56,
+        "JournalSection": 3,
+        "JournalCategory": 41,
+        "JournalGenre": "Aufträge Coerthas",
+        "Url": "/lodestone/playguide/db/quest/343ff6eb6fc/",
+        "Image": null,
+        "Icon": "common_normal",
+        "Issuer": "Jantellot",
+        "StartLocation": {
+            "Name": "Westliches Hochland von Coerthas",
+            "X": "16.7",
+            "Y": "22.8"
+        },
+        "StartClass": null,
+        "Job": "",
+        "Company": "Keine Angabe",
+        "Requirement": "Keine Angabe",
+        "Rewards": {
+            "Gil": 558,
+            "Exp": 36000,
+            "ItemsMand": [],
+            "ItemsOpt": [
+                {
+                    "Icon": "https://img.finalfantasyxiv.com/lds/pc/global/images/itemicon/5e/5eea544c86c6165d75deb46713b5b21e61be5351.png?n5.5",
+                    "Name": "Opal-Ohrringe der Verteidigung",
+                    "Amount": 1,
+                    "Url": "/lodestone/playguide/db/item/dd122c32ca1/?hq=1"
+                },
+                {
+                    "Icon": "https://img.finalfantasyxiv.com/lds/pc/global/images/itemicon/5e/5eea544c86c6165d75deb46713b5b21e61be5351.png?n5.5",
+                    "Name": "Opal-Ohrringe des Schlachtens",
+                    "Amount": 1,
+                    "Url": "/lodestone/playguide/db/item/487ab8ad75e/?hq=1"
+                },
+                {
+                    "Icon": "https://img.finalfantasyxiv.com/lds/pc/global/images/itemicon/5e/5eea544c86c6165d75deb46713b5b21e61be5351.png?n5.5",
+                    "Name": "Opal-Ohrringe des Zielens",
+                    "Amount": 1,
+                    "Url": "/lodestone/playguide/db/item/64772a62ec5/?hq=1"
+                },
+                {
+                    "Icon": "https://img.finalfantasyxiv.com/lds/pc/global/images/itemicon/5e/5eea544c86c6165d75deb46713b5b21e61be5351.png?n5.5",
+                    "Name": "Opal-Ohrringe der Heilung",
+                    "Amount": 1,
+                    "Url": "/lodestone/playguide/db/item/260ed3fd21a/?hq=1"
+                },
+                {
+                    "Icon": "https://img.finalfantasyxiv.com/lds/pc/global/images/itemicon/5e/5eea544c86c6165d75deb46713b5b21e61be5351.png?n5.5",
+                    "Name": "Opal-Ohrringe der Magie",
+                    "Amount": 1,
+                    "Url": "/lodestone/playguide/db/item/a40bfb6f8f8/?hq=1"
+                }
+            ]
+        },
+        "Infos": {
+            "PrevQuests": [
+                {
+                    "Name": "Wild entschlossen",
+                    "Url": "/lodestone/playguide/db/quest/502fe826ab0/",
+                    "Area": "Ishgard",
+                    "Level": "56"
+                },
+                {
+                    "Name": "Sturköpfe sind dicker als Blut",
+                    "Url": "/lodestone/playguide/db/quest/3f8904a0a88/",
+                    "Area": "Ishgard",
+                    "Level": "56"
+                }
+            ],
+            "NextQuests": [
+                {
+                    "Name": "Ein echter Kamerad",
+                    "Url": "/lodestone/playguide/db/quest/92dba83909d/",
+                    "Area": "Westliches Hochland von Coerthas",
+                    "Level": "56"
+                }
+            ]
+        },
+        "Seq": 28,
+        "oldID": 67431,
+        "Map": {
+            "ID": 211
+        }
+    },
+    {
+        "ID": "350d4007f96",
+        "Name": "Die Liebenden",
+        "Location": "Zentrales Hochland von Coerthas",
+        "Level": 39,
+        "JournalSection": 3,
+        "JournalCategory": 41,
+        "JournalGenre": "Aufträge Coerthas",
+        "Url": "/lodestone/playguide/db/quest/350d4007f96/",
+        "Image": null,
+        "Icon": "common_normal",
+        "Issuer": "Charmine",
+        "StartLocation": {
+            "Name": "Zentrales Hochland von Coerthas",
+            "X": "13.2",
+            "Y": "15.5"
+        },
+        "StartClass": null,
+        "Job": "",
+        "Company": "Keine Angabe",
+        "Requirement": "Keine Angabe",
+        "Rewards": {
+            "Gil": 0,
+            "Exp": 10800,
+            "ItemsMand": [],
+            "ItemsOpt": [
+                {
+                    "Icon": "https://img.finalfantasyxiv.com/lds/pc/global/images/itemicon/de/de478eac5995aeff260b0e6eaf52fef8ac0086d8.png?n5.5",
+                    "Name": "Megatrank",
+                    "Amount": 3,
+                    "Url": "/lodestone/playguide/db/item/1e8c49c8ac3/"
+                },
+                {
+                    "Icon": "https://img.finalfantasyxiv.com/lds/pc/global/images/itemicon/d9/d9beff495b00ab597dbd0b268530571d803e6a2d.png?n5.5",
+                    "Name": "Super-Äther",
+                    "Amount": 3,
+                    "Url": "/lodestone/playguide/db/item/88fad7976ae/"
+                }
+            ]
+        },
+        "Infos": {
+            "PrevQuests": [
+                {
+                    "Name": "Welch freundlicher Empfang",
+                    "Url": "/lodestone/playguide/db/quest/268f3a86547/",
+                    "Area": "Zentrales Hochland von Coerthas",
+                    "Level": "39"
+                }
+            ],
+            "NextQuests": [
+                {
+                    "Name": "Gefängnisausbruch",
+                    "Url": "/lodestone/playguide/db/quest/a972b7df11b/",
+                    "Area": "Zentrales Hochland von Coerthas",
+                    "Level": "40"
+                }
+            ],
+            "NPCs": [
+                {
+                    "Name": "Laurence",
+                    "Url": "/lodestone/playguide/db/npc/npc/f4d4254dc97/",
+                    "Area": "Zentrales Hochland von Coerthas (X:12.3 Y:15.6)"
+                }
+            ]
+        },
+        "Seq": 68,
+        "oldID": 66471,
+        "Map": {
+            "ID": 53
+        }
+    },
+    {
+        "ID": "36945488339",
+        "Name": "Ein Tröpfchen in Ehren",
+        "Location": "Zentrales Hochland von Coerthas",
+        "Level": 38,
+        "JournalSection": 3,
+        "JournalCategory": 41,
+        "JournalGenre": "Aufträge Coerthas",
+        "Url": "/lodestone/playguide/db/quest/36945488339/",
+        "Image": null,
+        "Icon": "common_normal",
+        "Issuer": "Aurelle",
+        "StartLocation": {
+            "Name": "Zentrales Hochland von Coerthas",
+            "X": "27.1",
+            "Y": "16.7"
+        },
+        "StartClass": null,
+        "Job": "",
+        "Company": "Keine Angabe",
+        "Requirement": "Keine Angabe",
+        "Rewards": {
+            "Gil": 1597,
+            "Exp": 10105,
+            "ItemsMand": [],
+            "ItemsOpt": []
+        },
+        "Infos": {
+            "PrevQuests": [
+                {
+                    "Name": "Gottesurteil",
+                    "Url": "/lodestone/playguide/db/quest/5c2cb41db76/",
+                    "Area": "Zentrales Hochland von Coerthas",
+                    "Level": "38"
+                }
+            ],
+            "NextQuests": [
+                {
+                    "Name": "Emanuel",
+                    "Url": "/lodestone/playguide/db/npc/npc/e8924c6c0bf/",
+                    "Area": "Zentrales Hochland von Coerthas (X:26.3 Y:16.4)"
+                },
+                {
+                    "Name": "Medguistl",
+                    "Url": "/lodestone/playguide/db/npc/npc/b6f74f41f9d/",
+                    "Area": "Zentrales Hochland von Coerthas (X:25.4 Y:15.7)"
+                }
+            ]
+        },
+        "Seq": 57,
+        "oldID": 66449,
+        "Map": {
+            "ID": 53
+        }
+    },
+    {
+        "ID": "3fc75f3098e",
+        "Name": "Ein unrühmliches Ende",
+        "Location": "Zentrales Hochland von Coerthas",
+        "Level": 36,
+        "JournalSection": 3,
+        "JournalCategory": 41,
+        "JournalGenre": "Aufträge Coerthas",
+        "Url": "/lodestone/playguide/db/quest/3fc75f3098e/",
+        "Image": null,
+        "Icon": "common_normal",
+        "Issuer": "Stephannot",
+        "StartLocation": {
+            "Name": "Zentrales Hochland von Coerthas",
+            "X": "24.2",
+            "Y": "25.0"
+        },
+        "StartClass": null,
+        "Job": "",
+        "Company": "Keine Angabe",
+        "Requirement": "Keine Angabe",
+        "Rewards": {
+            "Gil": 1826,
+            "Exp": 9450,
+            "ItemsMand": [],
+            "ItemsOpt": []
+        },
+        "Infos": {
+            "PrevQuests": [
+                {
+                    "Name": "Feuer ist Leben",
+                    "Url": "/lodestone/playguide/db/quest/53ccd2a25e6/",
+                    "Area": "Zentrales Hochland von Coerthas",
+                    "Level": "36"
+                }
+            ],
+            "NextQuests": [
+                {
+                    "Name": "Heldentod",
+                    "Url": "/lodestone/playguide/db/quest/9ed388f4510/",
+                    "Area": "Zentrales Hochland von Coerthas",
+                    "Level": "36"
+                }
+            ],
+            "NPCs": [
+                {
+                    "Name": "Sylvaintel",
+                    "Url": "/lodestone/playguide/db/npc/npc/d430c81911f/",
+                    "Area": "Zentrales Hochland von Coerthas (X:24.1 Y:25.0)"
+                }
+            ]
+        },
+        "Seq": 44,
+        "oldID": 66430,
+        "Map": {
+            "ID": 53
+        }
+    },
+    {
+        "ID": "4199be28dad",
+        "Name": "Leibwache gefällig?",
+        "Location": "Zentrales Hochland von Coerthas",
+        "Level": 40,
+        "JournalSection": 3,
+        "JournalCategory": 41,
+        "JournalGenre": "Aufträge Coerthas",
+        "Url": "/lodestone/playguide/db/quest/4199be28dad/",
+        "Image": null,
+        "Icon": "common_normal",
+        "Issuer": "Forsemart",
+        "StartLocation": {
+            "Name": "Zentrales Hochland von Coerthas",
+            "X": "12.3",
+            "Y": "15.5"
+        },
+        "StartClass": null,
+        "Job": "",
+        "Company": "Keine Angabe",
+        "Requirement": "Keine Angabe",
+        "Rewards": {
+            "Gil": 1549,
+            "Exp": 11270,
+            "ItemsMand": [],
+            "ItemsOpt": []
+        },
+        "Infos": {
+            "PrevQuests": [
+                {
+                    "Name": "Die Macht der Drachen",
+                    "Url": "/lodestone/playguide/db/quest/bcd612f8b59/",
+                    "Area": "Zentrales Hochland von Coerthas",
+                    "Level": "40"
+                }
+            ],
+            "NextQuests": [
+                {
+                    "Name": "Die drei Störenfriede",
+                    "Url": "/lodestone/playguide/db/quest/5f54f6f948a/",
+                    "Area": "Zentrales Hochland von Coerthas",
+                    "Level": "40"
+                }
+            ],
+            "NPCs": [
+                {
+                    "Name": "Ourdilic",
+                    "Url": "/lodestone/playguide/db/npc/npc/660b946afdd/",
+                    "Area": "Zentrales Hochland von Coerthas (X:6.2 Y:22.5)"
+                }
+            ]
+        },
+        "Seq": 75,
+        "oldID": 66482,
+        "Map": {
+            "ID": 53
+        }
+    },
+    {
+        "ID": "45426a1a490",
+        "Name": "Ein Koch unter Verdacht",
+        "Location": "Westliches Hochland von Coerthas",
+        "Level": 50,
+        "JournalSection": 3,
+        "JournalCategory": 41,
+        "JournalGenre": "Aufträge Coerthas",
+        "Url": "/lodestone/playguide/db/quest/45426a1a490/",
+        "Image": "https://img.finalfantasyxiv.com/lds/pc/global/images/itemicon/3a/3a5db22b3119c5cb72ec667a711fed12e33d1471.png?n5.5",
+        "Icon": "common_normal",
+        "Issuer": "Redwald",
+        "StartLocation": {
+            "Name": "Westliches Hochland von Coerthas",
+            "X": "32.6",
+            "Y": "38.3"
+        },
+        "StartClass": null,
+        "Job": "",
+        "Company": "Keine Angabe",
+        "Requirement": "Keine Angabe",
+        "Rewards": {
+            "Gil": 489,
+            "Exp": 24000,
+            "ItemsMand": [],
+            "ItemsOpt": []
+        },
+        "Infos": {
+            "PrevQuests": [
+                {
+                    "Name": "Die Audienz",
+                    "Url": "/lodestone/playguide/db/quest/c30cb94ef47/",
+                    "Area": "Ishgard",
+                    "Level": "50"
+                },
+                {
+                    "Name": "Begraben unter Schnee",
+                    "Url": "/lodestone/playguide/db/quest/2d9858ca781/",
+                    "Area": "Westliches Hochland von Coerthas",
+                    "Level": "50"
+                }
+            ],
+            "NextQuests": [
+                {
+                    "Name": "Der vergiftete Wein",
+                    "Url": "/lodestone/playguide/db/quest/509c639452d/",
+                    "Area": "Westliches Hochland von Coerthas",
+                    "Level": "50"
+                }
+            ],
+            "NPCs": [
+                {
+                    "Name": "Angeheiterter Marketender",
+                    "Url": "/lodestone/playguide/db/npc/npc/2a930cd46ed/",
+                    "Area": "Westliches Hochland von Coerthas (X:32.2 Y:39.5)"
+                },
+                {
+                    "Name": "Emerissel",
+                    "Url": "/lodestone/playguide/db/npc/npc/805dff1cb62/",
+                    "Area": "Westliches Hochland von Coerthas (X:32.9 Y:37.9)"
+                },
+                {
+                    "Name": "Noirterel",
+                    "Url": "/lodestone/playguide/db/npc/npc/725667c730f/",
+                    "Area": "Westliches Hochland von Coerthas (X:33.2 Y:38.1)"
+                },
+                {
+                    "Name": "Soubinie",
+                    "Url": "/lodestone/playguide/db/npc/npc/5185588fcf3/",
+                    "Area": "Westliches Hochland von Coerthas (X:33.4 Y:37.9)"
+                },
+                {
+                    "Name": "Tourcenet",
+                    "Url": "/lodestone/playguide/db/npc/npc/ccd348c62e2/",
+                    "Area": "Westliches Hochland von Coerthas (X:32.6 Y:38.4)"
+                }
+            ]
+        },
+        "Seq": 7,
+        "oldID": 67281,
+        "Map": {
+            "ID": 211
+        }
+    },
+    {
+        "ID": "4713644e97b",
+        "Name": "Ein eiskaltes Kleinod",
+        "Location": "Westliches Hochland von Coerthas",
+        "Level": 50,
+        "JournalSection": 3,
+        "JournalCategory": 41,
+        "JournalGenre": "Aufträge Coerthas",
+        "Url": "/lodestone/playguide/db/quest/4713644e97b/",
+        "Image": null,
+        "Icon": "common_normal",
+        "Issuer": "Wütender Ritter",
+        "StartLocation": {
+            "Name": "Westliches Hochland von Coerthas",
+            "X": "31.0",
+            "Y": "11.2"
+        },
+        "StartClass": null,
+        "Job": "",
+        "Company": "Keine Angabe",
+        "Requirement": "Keine Angabe",
+        "Rewards": {
+            "Gil": 433,
+            "Exp": 24000,
+            "ItemsMand": [
+                {
+                    "Icon": "https://img.finalfantasyxiv.com/lds/pc/global/images/itemicon/87/87f4ebd1c4df2909aba2c75b8e0e8bda5b8c890f.png?n5.5",
+                    "Name": "Eispolykristall",
+                    "Amount": 5,
+                    "Url": "/lodestone/playguide/db/item/4dbe0ec0a76/"
+                },
+                {
+                    "Icon": "https://img.finalfantasyxiv.com/lds/pc/global/images/itemicon/a7/a71da2eb489188dbbfadd582938a0e761a9a0585.png?n5.5",
+                    "Name": "Eiskristall",
+                    "Amount": 50,
+                    "Url": "/lodestone/playguide/db/item/2d800a06851/"
+                },
+                {
+                    "Icon": "https://img.finalfantasyxiv.com/lds/pc/global/images/itemicon/19/196a3df5b436323fab479cc87d09ce15d20a8560.png?n5.5",
+                    "Name": "Eisscherbe",
+                    "Amount": 100,
+                    "Url": "/lodestone/playguide/db/item/f2dfd367f1e/"
+                }
+            ],
+            "ItemsOpt": []
+        },
+        "Infos": {
+            "PrevQuests": [
+                {
+                    "Name": "Spuren im Schnee",
+                    "Url": "/lodestone/playguide/db/quest/84400518e28/",
+                    "Area": "Westliches Hochland von Coerthas",
+                    "Level": "50"
+                }
+            ]
+        },
+        "Seq": 3,
+        "oldID": 67273,
+        "Map": {
+            "ID": 211
+        }
+    },
+    {
+        "ID": "484607bae3c",
+        "Name": "Drachen jagen leicht gemacht",
+        "Location": "Westliches Hochland von Coerthas",
+        "Level": 51,
+        "JournalSection": 3,
+        "JournalCategory": 41,
+        "JournalGenre": "Aufträge Coerthas",
+        "Url": "/lodestone/playguide/db/quest/484607bae3c/",
+        "Image": null,
+        "Icon": "common_normal",
+        "Issuer": "Jantellot",
+        "StartLocation": {
+            "Name": "Westliches Hochland von Coerthas",
+            "X": "16.7",
+            "Y": "22.8"
+        },
+        "StartClass": null,
+        "Job": "",
+        "Company": "Keine Angabe",
+        "Requirement": "Keine Angabe",
+        "Rewards": {
+            "Gil": 581,
+            "Exp": 25200,
+            "ItemsMand": [],
+            "ItemsOpt": []
+        },
+        "Infos": {
+            "PrevQuests": [
+                {
+                    "Name": "Der ewige Kreis",
+                    "Url": "/lodestone/playguide/db/quest/2c4df80a5f6/",
+                    "Area": "Westliches Hochland von Coerthas",
+                    "Level": "51"
+                },
+                {
+                    "Name": "Drachenjagd für Anfänger",
+                    "Url": "/lodestone/playguide/db/quest/198b348b4a0/",
+                    "Area": "Westliches Hochland von Coerthas",
+                    "Level": "51"
+                }
+            ],
+            "NextQuests": [
+                {
+                    "Name": "Heilsames Quellwasser",
+                    "Url": "/lodestone/playguide/db/quest/4ac6763f653/",
+                    "Area": "Westliches Hochland von Coerthas",
+                    "Level": "51"
+                }
+            ]
+        },
+        "Seq": 15,
+        "oldID": 67297,
+        "Map": {
+            "ID": 211
+        }
+    },
+    {
+        "ID": "4a54351c04f",
+        "Name": "Gemeinsam sind wir stark",
+        "Location": "Westliches Hochland von Coerthas",
+        "Level": 56,
+        "JournalSection": 3,
+        "JournalCategory": 41,
+        "JournalGenre": "Aufträge Coerthas",
+        "Url": "/lodestone/playguide/db/quest/4a54351c04f/",
+        "Image": "https://img.finalfantasyxiv.com/lds/pc/global/images/itemicon/43/439a653c8e3afa2c7e253f04fe30f8d53e6d97e0.png?n5.5",
+        "Icon": "common_normal",
+        "Issuer": "Margyt",
+        "StartLocation": {
+            "Name": "Westliches Hochland von Coerthas",
+            "X": "17.3",
+            "Y": "22.8"
+        },
+        "StartClass": null,
+        "Job": "",
+        "Company": "Keine Angabe",
+        "Requirement": "Keine Angabe",
+        "Rewards": {
+            "Gil": 620,
+            "Exp": 36000,
+            "ItemsMand": [],
+            "ItemsOpt": []
+        },
+        "Infos": {
+            "PrevQuests": [
+                {
+                    "Name": "Wild entschlossen",
+                    "Url": "/lodestone/playguide/db/quest/502fe826ab0/",
+                    "Area": "Ishgard",
+                    "Level": "56"
+                },
+                {
+                    "Name": "Ayleth auf Abwegen",
+                    "Url": "/lodestone/playguide/db/quest/4af2b0f8b89/",
+                    "Area": "Westliches Hochland von Coerthas",
+                    "Level": "56"
+                },
+                {
+                    "Name": "Sturköpfe sind dicker als Blut",
+                    "Url": "/lodestone/playguide/db/quest/3f8904a0a88/",
+                    "Area": "Ishgard",
+                    "Level": "56"
+                }
+            ],
+            "NextQuests": [
+                {
+                    "Name": "Der Kampf hat erst begonnen",
+                    "Url": "/lodestone/playguide/db/quest/aaf11e472ab/",
+                    "Area": "Westliches Hochland von Coerthas",
+                    "Level": "56"
+                }
+            ],
+            "NPCs": [
+                {
+                    "Name": "Ayleth",
+                    "Url": "/lodestone/playguide/db/npc/npc/f2c1f789ace/",
+                    "Area": "Westliches Hochland von Coerthas (X:32.4 Y:5.3)"
+                },
+                {
+                    "Name": "Gewitzter Späher",
+                    "Url": "/lodestone/playguide/db/npc/npc/c6388218ed6/",
+                    "Area": "Westliches Hochland von Coerthas (X:17.3 Y:22.5)"
+                },
+                {
+                    "Name": "Jantellot",
+                    "Url": "/lodestone/playguide/db/npc/npc/c906fdfe1f2/",
+                    "Area": "Westliches Hochland von Coerthas (X:16.7 Y:22.8)"
+                },
+                {
+                    "Name": "Luciae",
+                    "Url": "/lodestone/playguide/db/npc/npc/8ab29f21ebe/",
+                    "Area": "Westliches Hochland von Coerthas (X:16.5 Y:22.5)"
+                },
+                {
+                    "Name": "Margyt",
+                    "Url": "/lodestone/playguide/db/npc/npc/0968421417c/",
+                    "Area": "Westliches Hochland von Coerthas (X:16.6 Y:22.6)"
+                }
+            ]
+        },
+        "Seq": 36,
+        "oldID": 67429,
+        "Map": {
+            "ID": 211
+        }
+    },
+    {
+        "ID": "4ac6763f653",
+        "Name": "Heilsames Quellwasser",
+        "Location": "Westliches Hochland von Coerthas",
+        "Level": 51,
+        "JournalSection": 3,
+        "JournalCategory": 41,
+        "JournalGenre": "Aufträge Coerthas",
+        "Url": "/lodestone/playguide/db/quest/4ac6763f653/",
+        "Image": null,
+        "Icon": "common_normal",
+        "Issuer": "Jantellot",
+        "StartLocation": {
+            "Name": "Westliches Hochland von Coerthas",
+            "X": "16.7",
+            "Y": "22.8"
+        },
+        "StartClass": null,
+        "Job": "",
+        "Company": "Keine Angabe",
+        "Requirement": "Keine Angabe",
+        "Rewards": {
+            "Gil": 553,
+            "Exp": 25200,
+            "ItemsMand": [],
+            "ItemsOpt": [
+                {
+                    "Icon": "https://img.finalfantasyxiv.com/lds/pc/global/images/itemicon/60/60ab5df609901e4ca4a73fd1922931e538cede62.png?n5.5",
+                    "Name": "Super-Elixier",
+                    "Amount": 1,
+                    "Url": "/lodestone/playguide/db/item/7d95edb06ef/"
+                },
+                {
+                    "Icon": "https://img.finalfantasyxiv.com/lds/pc/global/images/itemicon/de/de478eac5995aeff260b0e6eaf52fef8ac0086d8.png?n5.5",
+                    "Name": "Gigatrank",
+                    "Amount": 3,
+                    "Url": "/lodestone/playguide/db/item/11f603e31f2/"
+                },
+                {
+                    "Icon": "https://img.finalfantasyxiv.com/lds/pc/global/images/itemicon/59/5964f8ab3a877d7a58d391b912e8e67204dc9ba5.png?n5.5",
+                    "Name": "Giga-Äther",
+                    "Amount": 3,
+                    "Url": "/lodestone/playguide/db/item/054f77ecc81/"
+                }
+            ]
+        },
+        "Infos": {
+            "PrevQuests": [
+                {
+                    "Name": "Finneas Vollstrecker",
+                    "Url": "/lodestone/playguide/db/quest/98b3c2a23dc/",
+                    "Area": "Westliches Hochland von Coerthas",
+                    "Level": "51"
+                },
+                {
+                    "Name": "Drachen jagen leicht gemacht",
+                    "Url": "/lodestone/playguide/db/quest/484607bae3c/",
+                    "Area": "Westliches Hochland von Coerthas",
+                    "Level": "51"
+                }
+            ]
+        },
+        "Seq": 17,
+        "oldID": 67303,
+        "Map": {
+            "ID": 211
+        }
+    },
+    {
+        "ID": "4af2b0f8b89",
+        "Name": "Ayleth auf Abwegen",
+        "Location": "Westliches Hochland von Coerthas",
+        "Level": 56,
+        "JournalSection": 3,
+        "JournalCategory": 41,
+        "JournalGenre": "Aufträge Coerthas",
+        "Url": "/lodestone/playguide/db/quest/4af2b0f8b89/",
+        "Image": "https://img.finalfantasyxiv.com/lds/pc/global/images/itemicon/43/439a653c8e3afa2c7e253f04fe30f8d53e6d97e0.png?n5.5",
+        "Icon": "common_normal",
+        "Issuer": "Margyt",
+        "StartLocation": {
+            "Name": "Westliches Hochland von Coerthas",
+            "X": "17.3",
+            "Y": "22.8"
+        },
+        "StartClass": null,
+        "Job": "",
+        "Company": "Keine Angabe",
+        "Requirement": "Keine Angabe",
+        "Rewards": {
+            "Gil": 496,
+            "Exp": 36000,
+            "ItemsMand": [],
+            "ItemsOpt": []
+        },
+        "Infos": {
+            "PrevQuests": [
+                {
+                    "Name": "Wild entschlossen",
+                    "Url": "/lodestone/playguide/db/quest/502fe826ab0/",
+                    "Area": "Ishgard",
+                    "Level": "56"
+                },
+                {
+                    "Name": "Ayleths Ambitionen",
+                    "Url": "/lodestone/playguide/db/quest/e6e2a5e1155/",
+                    "Area": "Westliches Hochland von Coerthas",
+                    "Level": "56"
+                },
+                {
+                    "Name": "Sturköpfe sind dicker als Blut",
+                    "Url": "/lodestone/playguide/db/quest/3f8904a0a88/",
+                    "Area": "Ishgard",
+                    "Level": "56"
+                }
+            ],
+            "NextQuests": [
+                {
+                    "Name": "Gemeinsam sind wir stark",
+                    "Url": "/lodestone/playguide/db/quest/4a54351c04f/",
+                    "Area": "Westliches Hochland von Coerthas",
+                    "Level": "56"
+                }
+            ],
+            "NPCs": [
+                {
+                    "Name": "Gewitzter Späher",
+                    "Url": "/lodestone/playguide/db/npc/npc/c6388218ed6/",
+                    "Area": "Westliches Hochland von Coerthas (X:17.3 Y:22.5)"
+                }
+            ]
+        },
+        "Seq": 35,
+        "oldID": 67428,
+        "Map": {
+            "ID": 211
+        }
+    },
+    {
+        "ID": "509c639452d",
+        "Name": "Der vergiftete Wein",
+        "Location": "Westliches Hochland von Coerthas",
+        "Level": 50,
+        "JournalSection": 3,
+        "JournalCategory": 41,
+        "JournalGenre": "Aufträge Coerthas",
+        "Url": "/lodestone/playguide/db/quest/509c639452d/",
+        "Image": "https://img.finalfantasyxiv.com/lds/pc/global/images/itemicon/3a/3a5db22b3119c5cb72ec667a711fed12e33d1471.png?n5.5",
+        "Icon": "common_normal",
+        "Issuer": "Redwald",
+        "StartLocation": {
+            "Name": "Westliches Hochland von Coerthas",
+            "X": "32.6",
+            "Y": "38.3"
+        },
+        "StartClass": null,
+        "Job": "",
+        "Company": "Keine Angabe",
+        "Requirement": "Keine Angabe",
+        "Rewards": {
+            "Gil": 574,
+            "Exp": 24000,
+            "ItemsMand": [],
+            "ItemsOpt": []
+        },
+        "Infos": {
+            "PrevQuests": [
+                {
+                    "Name": "Die Audienz",
+                    "Url": "/lodestone/playguide/db/quest/c30cb94ef47/",
+                    "Area": "Ishgard",
+                    "Level": "50"
+                },
+                {
+                    "Name": "Ein Koch unter Verdacht",
+                    "Url": "/lodestone/playguide/db/quest/45426a1a490/",
+                    "Area": "Westliches Hochland von Coerthas",
+                    "Level": "50"
+                }
+            ],
+            "NextQuests": [
+                {
+                    "Name": "Ein Teller dünne Suppe",
+                    "Url": "/lodestone/playguide/db/quest/6a1dfd9c192/",
+                    "Area": "Westliches Hochland von Coerthas",
+                    "Level": "50"
+                }
+            ],
+            "NPCs": [
+                {
+                    "Name": "Auriaune",
+                    "Url": "/lodestone/playguide/db/npc/npc/df1b7f75272/",
+                    "Area": "Westliches Hochland von Coerthas (X:31.8 Y:38.5)"
+                },
+                {
+                    "Name": "Verdächtiger Mann",
+                    "Url": "/lodestone/playguide/db/npc/npc/71e614f6f92/",
+                    "Area": "Westliches Hochland von Coerthas (X:25.2 Y:24.3)"
+                }
+            ]
+        },
+        "Seq": 8,
+        "oldID": 67282,
+        "Map": {
+            "ID": 211
+        }
+    },
+    {
+        "ID": "5360e28d3ff",
+        "Name": "Tanz mit den Wölfen",
+        "Location": "Westliches Hochland von Coerthas",
+        "Level": 50,
+        "JournalSection": 3,
+        "JournalCategory": 41,
+        "JournalGenre": "Aufträge Coerthas",
+        "Url": "/lodestone/playguide/db/quest/5360e28d3ff/",
+        "Image": null,
+        "Icon": "common_normal",
+        "Issuer": "Ysaudore",
+        "StartLocation": {
+            "Name": "Westliches Hochland von Coerthas",
+            "X": "26.5",
+            "Y": "27.9"
+        },
+        "StartClass": null,
+        "Job": "",
+        "Company": "Keine Angabe",
+        "Requirement": "Keine Angabe",
+        "Rewards": {
+            "Gil": 574,
+            "Exp": 24000,
+            "ItemsMand": [],
+            "ItemsOpt": []
+        },
+        "Infos": {
+            "PrevQuests": [
+                {
+                    "Name": "Verbotene Liebe",
+                    "Url": "/lodestone/playguide/db/quest/feb37b13c5f/",
+                    "Area": "Westliches Hochland von Coerthas",
+                    "Level": "50"
+                }
+            ]
+        },
+        "Seq": 1,
+        "oldID": 67271,
+        "Map": {
+            "ID": 211
+        }
+    },
+    {
+        "ID": "53ccd2a25e6",
+        "Name": "Feuer ist Leben",
+        "Location": "Zentrales Hochland von Coerthas",
+        "Level": 36,
+        "JournalSection": 3,
+        "JournalCategory": 41,
+        "JournalGenre": "Aufträge Coerthas",
+        "Url": "/lodestone/playguide/db/quest/53ccd2a25e6/",
+        "Image": null,
+        "Icon": "common_normal",
+        "Issuer": "Prairillot",
+        "StartLocation": {
+            "Name": "Zentrales Hochland von Coerthas",
+            "X": "25.6",
+            "Y": "25.3"
+        },
+        "StartClass": null,
+        "Job": "",
+        "Company": "Keine Angabe",
+        "Requirement": "Keine Angabe",
+        "Rewards": {
+            "Gil": 1544,
+            "Exp": 9450,
+            "ItemsMand": [],
+            "ItemsOpt": []
+        },
+        "Infos": {
+            "PrevQuests": [
+                {
+                    "Name": "Ein unrühmliches Ende",
+                    "Url": "/lodestone/playguide/db/quest/3fc75f3098e/",
+                    "Area": "Zentrales Hochland von Coerthas",
+                    "Level": "36"
+                }
+            ],
+            "NextQuests": [
+                {
+                    "Name": "Stephannot",
+                    "Url": "/lodestone/playguide/db/npc/npc/ddb3160c7e7/",
+                    "Area": "Zentrales Hochland von Coerthas (X:24.2 Y:25.0)"
+                }
+            ]
+        },
+        "Seq": 42,
+        "oldID": 66428,
+        "Map": {
+            "ID": 53
+        }
+    },
+    {
+        "ID": "54e930d96f3",
+        "Name": "Wenn das Eis geschmolzen ist",
+        "Location": "Westliches Hochland von Coerthas",
+        "Level": 56,
+        "JournalSection": 3,
+        "JournalCategory": 41,
+        "JournalGenre": "Aufträge Coerthas",
+        "Url": "/lodestone/playguide/db/quest/54e930d96f3/",
+        "Image": null,
+        "Icon": "common_normal",
+        "Issuer": "Emont",
+        "StartLocation": {
+            "Name": "Westliches Hochland von Coerthas",
+            "X": "36.4",
+            "Y": "9.9"
+        },
+        "StartClass": null,
+        "Job": "",
+        "Company": "Keine Angabe",
+        "Requirement": "Keine Angabe",
+        "Rewards": {
+            "Gil": 496,
+            "Exp": 36000,
+            "ItemsMand": [],
+            "ItemsOpt": []
+        },
+        "Infos": {
+            "PrevQuests": [
+                {
+                    "Name": "Wild entschlossen",
+                    "Url": "/lodestone/playguide/db/quest/502fe826ab0/",
+                    "Area": "Ishgard",
+                    "Level": "56"
+                },
+                {
+                    "Name": "Sturköpfe sind dicker als Blut",
+                    "Url": "/lodestone/playguide/db/quest/3f8904a0a88/",
+                    "Area": "Ishgard",
+                    "Level": "56"
+                }
+            ]
+        },
+        "Seq": 27,
+        "oldID": 67424,
+        "Map": {
+            "ID": 211
+        }
+    },
+    {
+        "ID": "56c06c9a1c1",
+        "Name": "Nicht nur Drachen sind gefährlich",
+        "Location": "Zentrales Hochland von Coerthas",
+        "Level": 37,
+        "JournalSection": 3,
+        "JournalCategory": 41,
+        "JournalGenre": "Aufträge Coerthas",
+        "Url": "/lodestone/playguide/db/quest/56c06c9a1c1/",
+        "Image": null,
+        "Icon": "common_normal",
+        "Issuer": "Belmont",
+        "StartLocation": {
+            "Name": "Zentrales Hochland von Coerthas",
+            "X": "26.5",
+            "Y": "16.2"
+        },
+        "StartClass": null,
+        "Job": "",
+        "Company": "Keine Angabe",
+        "Requirement": "Keine Angabe",
+        "Rewards": {
+            "Gil": 0,
+            "Exp": 9660,
+            "ItemsMand": [],
+            "ItemsOpt": [
+                {
+                    "Icon": "https://img.finalfantasyxiv.com/lds/pc/global/images/itemicon/20/20d81af65938c2d5e1cac35d554f0e4ae1499100.png?n5.5",
+                    "Name": "Goldberyll-Halsberge",
+                    "Amount": 1,
+                    "Url": "/lodestone/playguide/db/item/d1ab8f43f71/"
+                },
+                {
+                    "Icon": "https://img.finalfantasyxiv.com/lds/pc/global/images/itemicon/71/719e17083351725bd59385f38f795d7d3ff9c89c.png?n5.5",
+                    "Name": "Granat-Halsberge",
+                    "Amount": 1,
+                    "Url": "/lodestone/playguide/db/item/09951ed7f85/"
+                },
+                {
+                    "Icon": "https://img.finalfantasyxiv.com/lds/pc/global/images/itemicon/01/01bfab0b69316c4476e0da9cb3941582e506d8af.png?n5.5",
+                    "Name": "Aquamarin-Halsberge",
+                    "Amount": 1,
+                    "Url": "/lodestone/playguide/db/item/777ff8e36c1/"
+                },
+                {
+                    "Icon": "https://img.finalfantasyxiv.com/lds/pc/global/images/itemicon/ba/baa2341dd17414fae7fd62ae7bc62c64589b67be.png?n5.5",
+                    "Name": "Allagisches Goldstück",
+                    "Amount": 1,
+                    "Url": "/lodestone/playguide/db/item/5196db0fd91/"
+                }
+            ]
+        },
+        "Infos": {
+            "PrevQuests": [
+                {
+                    "Name": "Die Krux der Familie Haillenarte",
+                    "Url": "/lodestone/playguide/db/quest/8d4e96af5e9/",
+                    "Area": "Zentrales Hochland von Coerthas",
+                    "Level": "36"
+                }
+            ],
+            "NextQuests": [
+                {
+                    "Name": "Die Ixal in Coerthas",
+                    "Url": "/lodestone/playguide/db/quest/2d3cf37ffd6/",
+                    "Area": "Zentrales Hochland von Coerthas",
+                    "Level": "37"
+                }
+            ]
+        },
+        "Seq": 52,
+        "oldID": 66439,
+        "Map": {
+            "ID": 53
+        }
+    },
+    {
+        "ID": "5c559d408e5",
+        "Name": "Drachentatar",
+        "Location": "Westliches Hochland von Coerthas",
+        "Level": 56,
+        "JournalSection": 3,
+        "JournalCategory": 41,
+        "JournalGenre": "Aufträge Coerthas",
+        "Url": "/lodestone/playguide/db/quest/5c559d408e5/",
+        "Image": null,
+        "Icon": "common_normal",
+        "Issuer": "Ingaret",
+        "StartLocation": {
+            "Name": "Westliches Hochland von Coerthas",
+            "X": "32.4",
+            "Y": "35.8"
+        },
+        "StartClass": null,
+        "Job": "",
+        "Company": "Keine Angabe",
+        "Requirement": "Keine Angabe",
+        "Rewards": {
+            "Gil": 658,
+            "Exp": 36000,
+            "ItemsMand": [],
+            "ItemsOpt": []
+        },
+        "Infos": {
+            "PrevQuests": [
+                {
+                    "Name": "Wild entschlossen",
+                    "Url": "/lodestone/playguide/db/quest/502fe826ab0/",
+                    "Area": "Ishgard",
+                    "Level": "56"
+                },
+                {
+                    "Name": "Sturköpfe sind dicker als Blut",
+                    "Url": "/lodestone/playguide/db/quest/3f8904a0a88/",
+                    "Area": "Ishgard",
+                    "Level": "56"
+                }
+            ],
+            "NextQuests": [
+                {
+                    "Name": "Tourcenet",
+                    "Url": "/lodestone/playguide/db/npc/npc/ccd348c62e2/",
+                    "Area": "Westliches Hochland von Coerthas (X:32.6 Y:38.4)"
+                }
+            ]
+        },
+        "Seq": 24,
+        "oldID": 67421,
+        "Map": {
+            "ID": 211
+        }
+    },
+    {
+        "ID": "5e20c0655ae",
+        "Name": "Neuer Lebenswille",
+        "Location": "Westliches Hochland von Coerthas",
+        "Level": 51,
+        "JournalSection": 3,
+        "JournalCategory": 41,
+        "JournalGenre": "Aufträge Coerthas",
+        "Url": "/lodestone/playguide/db/quest/5e20c0655ae/",
+        "Image": "https://img.finalfantasyxiv.com/lds/pc/global/images/itemicon/9c/9cf1bd0e81765709424765d87d071b54c72c38c3.png?n5.5",
+        "Icon": "common_normal",
+        "Issuer": "Dominiac",
+        "StartLocation": {
+            "Name": "Westliches Hochland von Coerthas",
+            "X": "16.6",
+            "Y": "22.6"
+        },
+        "StartClass": null,
+        "Job": "",
+        "Company": "Keine Angabe",
+        "Requirement": "Keine Angabe",
+        "Rewards": {
+            "Gil": 610,
+            "Exp": 25200,
+            "ItemsMand": [],
+            "ItemsOpt": []
+        },
+        "Infos": {
+            "PrevQuests": [
+                {
+                    "Name": "Der ewige Kreis",
+                    "Url": "/lodestone/playguide/db/quest/2c4df80a5f6/",
+                    "Area": "Westliches Hochland von Coerthas",
+                    "Level": "51"
+                },
+                {
+                    "Name": "Drachenhafte Ungetüme",
+                    "Url": "/lodestone/playguide/db/quest/8d94302a1a2/",
+                    "Area": "Westliches Hochland von Coerthas",
+                    "Level": "51"
+                }
+            ],
+            "NextQuests": [
+                {
+                    "Name": "Der Fangzahn des Drachen",
+                    "Url": "/lodestone/playguide/db/quest/2caf6e7b13f/",
+                    "Area": "Westliches Hochland von Coerthas",
+                    "Level": "56"
+                }
+            ],
+            "NPCs": [
+                {
+                    "Name": "Saintrelmaux",
+                    "Url": "/lodestone/playguide/db/npc/npc/f2556e46666/",
+                    "Area": "Westliches Hochland von Coerthas (X:16.7 Y:17.3)"
+                },
+                {
+                    "Name": "Saintrelmaux",
+                    "Url": "/lodestone/playguide/db/npc/npc/0449e06f034/",
+                    "Area": "Westliches Hochland von Coerthas (X:17.3 Y:22.8)"
+                }
+            ]
+        },
+        "Seq": 23,
+        "oldID": 67305,
+        "Map": {
+            "ID": 211
+        }
+    },
+    {
+        "ID": "5f39f017fdc",
+        "Name": "Tor in Trümmern",
+        "Location": "Zentrales Hochland von Coerthas",
+        "Level": 39,
+        "JournalSection": 3,
+        "JournalCategory": 41,
+        "JournalGenre": "Aufträge Coerthas",
+        "Url": "/lodestone/playguide/db/quest/5f39f017fdc/",
+        "Image": null,
+        "Icon": "common_normal",
+        "Issuer": "Chaunollet",
+        "StartLocation": {
+            "Name": "Zentrales Hochland von Coerthas",
+            "X": "18.9",
+            "Y": "15.5"
+        },
+        "StartClass": null,
+        "Job": "",
+        "Company": "Keine Angabe",
+        "Requirement": "Keine Angabe",
+        "Rewards": {
+            "Gil": 0,
+            "Exp": 10800,
+            "ItemsMand": [],
+            "ItemsOpt": [
+                {
+                    "Icon": "https://img.finalfantasyxiv.com/lds/pc/global/images/itemicon/3b/3b150947787fa69c3f858f16cb5fd851f7a9b51b.png?n5.5",
+                    "Name": "Goldberyll-Ring",
+                    "Amount": 1,
+                    "Url": "/lodestone/playguide/db/item/52d954694ec/"
+                },
+                {
+                    "Icon": "https://img.finalfantasyxiv.com/lds/pc/global/images/itemicon/91/91389f6afcff645eb89ffe57ab6216a64e1bd33d.png?n5.5",
+                    "Name": "Granat-Ring",
+                    "Amount": 1,
+                    "Url": "/lodestone/playguide/db/item/cef1033cd3c/"
+                },
+                {
+                    "Icon": "https://img.finalfantasyxiv.com/lds/pc/global/images/itemicon/6f/6fdb5db608a05e1bff8a7cc5df82ef0cd40c237a.png?n5.5",
+                    "Name": "Weißperlen-Ring",
+                    "Amount": 1,
+                    "Url": "/lodestone/playguide/db/item/8debbace578/"
+                },
+                {
+                    "Icon": "https://img.finalfantasyxiv.com/lds/pc/global/images/itemicon/59/59d0c17e590ecb31a943dd74ac0b78763afa2c9d.png?n5.5",
+                    "Name": "Aquamarin-Ring",
+                    "Amount": 1,
+                    "Url": "/lodestone/playguide/db/item/028a5ef3e64/"
+                },
+                {
+                    "Icon": "https://img.finalfantasyxiv.com/lds/pc/global/images/itemicon/ba/baa2341dd17414fae7fd62ae7bc62c64589b67be.png?n5.5",
+                    "Name": "Allagisches Goldstück",
+                    "Amount": 1,
+                    "Url": "/lodestone/playguide/db/item/5196db0fd91/"
+                }
+            ]
+        },
+        "Infos": {
+            "PrevQuests": [
+                {
+                    "Name": "Tote Häretiker reden nicht",
+                    "Url": "/lodestone/playguide/db/quest/8932b43a616/",
+                    "Area": "Zentrales Hochland von Coerthas",
+                    "Level": "39"
+                }
+            ],
+            "NextQuests": [
+                {
+                    "Name": "Für den Heiligen Krieg",
+                    "Url": "/lodestone/playguide/db/quest/61642a8ce78/",
+                    "Area": "Zentrales Hochland von Coerthas",
+                    "Level": "39"
+                }
+            ]
+        },
+        "Seq": 64,
+        "oldID": 66467,
+        "Map": {
+            "ID": 53
+        }
+    },
+    {
+        "ID": "5f54f6f948a",
+        "Name": "Die drei Störenfriede",
+        "Location": "Zentrales Hochland von Coerthas",
+        "Level": 40,
+        "JournalSection": 3,
+        "JournalCategory": 41,
+        "JournalGenre": "Aufträge Coerthas",
+        "Url": "/lodestone/playguide/db/quest/5f54f6f948a/",
+        "Image": null,
+        "Icon": "common_normal",
+        "Issuer": "Ourdilic",
+        "StartLocation": {
+            "Name": "Zentrales Hochland von Coerthas",
+            "X": "6.2",
+            "Y": "22.5"
+        },
+        "StartClass": null,
+        "Job": "",
+        "Company": "Keine Angabe",
+        "Requirement": "Keine Angabe",
+        "Rewards": {
+            "Gil": 1549,
+            "Exp": 11270,
+            "ItemsMand": [],
+            "ItemsOpt": []
+        },
+        "Infos": {
+            "PrevQuests": [
+                {
+                    "Name": "Leibwache gefällig?",
+                    "Url": "/lodestone/playguide/db/quest/4199be28dad/",
+                    "Area": "Zentrales Hochland von Coerthas",
+                    "Level": "40"
+                }
+            ],
+            "NextQuests": [
+                {
+                    "Name": "Eisiger Störenfried",
+                    "Url": "/lodestone/playguide/db/quest/f32a3842b36/",
+                    "Area": "Zentrales Hochland von Coerthas",
+                    "Level": "40"
+                }
+            ]
+        },
+        "Seq": 76,
+        "oldID": 66483,
+        "Map": {
+            "ID": 53
+        }
+    },
+    {
+        "ID": "61642a8ce78",
+        "Name": "Für den Heiligen Krieg",
+        "Location": "Zentrales Hochland von Coerthas",
+        "Level": 39,
+        "JournalSection": 3,
+        "JournalCategory": 41,
+        "JournalGenre": "Aufträge Coerthas",
+        "Url": "/lodestone/playguide/db/quest/61642a8ce78/",
+        "Image": null,
+        "Icon": "common_normal",
+        "Issuer": "Chaunollet",
+        "StartLocation": {
+            "Name": "Zentrales Hochland von Coerthas",
+            "X": "18.9",
+            "Y": "15.5"
+        },
+        "StartClass": null,
+        "Job": "",
+        "Company": "Keine Angabe",
+        "Requirement": "Keine Angabe",
+        "Rewards": {
+            "Gil": 0,
+            "Exp": 10800,
+            "ItemsMand": [],
+            "ItemsOpt": [
+                {
+                    "Icon": "https://img.finalfantasyxiv.com/lds/pc/global/images/itemicon/d2/d2d8422f1a21c2773833332c1cd84960a9af2511.png?n5.5",
+                    "Name": "Amethyst-Ohrringe",
+                    "Amount": 1,
+                    "Url": "/lodestone/playguide/db/item/04d7aedbe88/"
+                },
+                {
+                    "Icon": "https://img.finalfantasyxiv.com/lds/pc/global/images/itemicon/64/64bafb480ff9cd3f816f5a849e2c0acf4faed49b.png?n5.5",
+                    "Name": "Goshenit-Ohrringe",
+                    "Amount": 1,
+                    "Url": "/lodestone/playguide/db/item/35d26777702/"
+                },
+                {
+                    "Icon": "https://img.finalfantasyxiv.com/lds/pc/global/images/itemicon/24/241573c12d9ac84feb0160d2f81d5b0aff6f9b0c.png?n5.5",
+                    "Name": "Peridot-Ohrringe",
+                    "Amount": 1,
+                    "Url": "/lodestone/playguide/db/item/b0aaecf54e3/"
+                },
+                {
+                    "Icon": "https://img.finalfantasyxiv.com/lds/pc/global/images/itemicon/ba/baa2341dd17414fae7fd62ae7bc62c64589b67be.png?n5.5",
+                    "Name": "Allagisches Goldstück",
+                    "Amount": 1,
+                    "Url": "/lodestone/playguide/db/item/5196db0fd91/"
+                }
+            ]
+        },
+        "Infos": {
+            "PrevQuests": [
+                {
+                    "Name": "Tor in Trümmern",
+                    "Url": "/lodestone/playguide/db/quest/5f39f017fdc/",
+                    "Area": "Zentrales Hochland von Coerthas",
+                    "Level": "39"
+                }
+            ]
+        },
+        "Seq": 65,
+        "oldID": 66468,
+        "Map": {
+            "ID": 53
+        }
+    },
+    {
+        "ID": "61fa7cac3fd",
+        "Name": "Hilfegesuch eines Ritters",
+        "Location": "Zentrales Hochland von Coerthas",
+        "Level": 39,
+        "JournalSection": 3,
+        "JournalCategory": 41,
+        "JournalGenre": "Aufträge Coerthas",
+        "Url": "/lodestone/playguide/db/quest/61fa7cac3fd/",
+        "Image": null,
+        "Icon": "common_normal",
+        "Issuer": "Jeantremont",
+        "StartLocation": {
+            "Name": "Zentrales Hochland von Coerthas",
+            "X": "12.5",
+            "Y": "15.9"
+        },
+        "StartClass": null,
+        "Job": "",
+        "Company": "Keine Angabe",
+        "Requirement": "Keine Angabe",
+        "Rewards": {
+            "Gil": 0,
+            "Exp": 10800,
+            "ItemsMand": [],
+            "ItemsOpt": [
+                {
+                    "Icon": "https://img.finalfantasyxiv.com/lds/pc/global/images/itemicon/ff/ffe4acf7050a1658570657e429287bf436deaf37.png?n5.5",
+                    "Name": "Goldberyll-Ohrringe",
+                    "Amount": 1,
+                    "Url": "/lodestone/playguide/db/item/258cfa523e3/"
+                },
+                {
+                    "Icon": "https://img.finalfantasyxiv.com/lds/pc/global/images/itemicon/bd/bd1c41b2e36421a6545de24e1d96598cd8dfa1a9.png?n5.5",
+                    "Name": "Granat-Ohrringe",
+                    "Amount": 1,
+                    "Url": "/lodestone/playguide/db/item/361ec328624/"
+                },
+                {
+                    "Icon": "https://img.finalfantasyxiv.com/lds/pc/global/images/itemicon/9c/9c3e2929164b1d06c910bf01195ba40949b2a945.png?n5.5",
+                    "Name": "Aquamarin-Ohrringe",
+                    "Amount": 1,
+                    "Url": "/lodestone/playguide/db/item/4a0acb4ae38/"
+                },
+                {
+                    "Icon": "https://img.finalfantasyxiv.com/lds/pc/global/images/itemicon/ba/baa2341dd17414fae7fd62ae7bc62c64589b67be.png?n5.5",
+                    "Name": "Allagisches Goldstück",
+                    "Amount": 1,
+                    "Url": "/lodestone/playguide/db/item/5196db0fd91/"
+                }
+            ]
+        },
+        "Infos": {
+            "PrevQuests": [
+                {
+                    "Name": "Welch freundlicher Empfang",
+                    "Url": "/lodestone/playguide/db/quest/268f3a86547/",
+                    "Area": "Zentrales Hochland von Coerthas",
+                    "Level": "39"
+                }
+            ],
+            "NextQuests": [
+                {
+                    "Name": "Marcelain",
+                    "Url": "/lodestone/playguide/db/npc/npc/142b6d5191f/",
+                    "Area": "Zentrales Hochland von Coerthas (X:18.1 Y:14.9)"
+                }
+            ]
+        },
+        "Seq": 62,
+        "oldID": 66465,
+        "Map": {
+            "ID": 53
+        }
+    },
+    {
+        "ID": "64901c5d523",
+        "Name": "Kleine und große Nager",
+        "Location": "Zentrales Hochland von Coerthas",
+        "Level": 39,
+        "JournalSection": 3,
+        "JournalCategory": 41,
+        "JournalGenre": "Aufträge Coerthas",
+        "Url": "/lodestone/playguide/db/quest/64901c5d523/",
+        "Image": null,
+        "Icon": "common_normal",
+        "Issuer": "Fousquenet",
+        "StartLocation": {
+            "Name": "Zentrales Hochland von Coerthas",
+            "X": "12.8",
+            "Y": "17.5"
+        },
+        "StartClass": null,
+        "Job": "",
+        "Company": "Keine Angabe",
+        "Requirement": "Keine Angabe",
+        "Rewards": {
+            "Gil": 1624,
+            "Exp": 10800,
+            "ItemsMand": [],
+            "ItemsOpt": []
+        },
+        "Infos": {
+            "PrevQuests": [
+                {
+                    "Name": "Welch freundlicher Empfang",
+                    "Url": "/lodestone/playguide/db/quest/268f3a86547/",
+                    "Area": "Zentrales Hochland von Coerthas",
+                    "Level": "39"
+                }
+            ]
+        },
+        "Seq": 69,
+        "oldID": 66472,
+        "Map": {
+            "ID": 53
+        }
+    },
+    {
+        "ID": "68bb018e29d",
+        "Name": "Decken braucht das Camp",
+        "Location": "Westliches Hochland von Coerthas",
+        "Level": 51,
+        "JournalSection": 3,
+        "JournalCategory": 41,
+        "JournalGenre": "Aufträge Coerthas",
+        "Url": "/lodestone/playguide/db/quest/68bb018e29d/",
+        "Image": null,
+        "Icon": "common_normal",
+        "Issuer": "Luciae",
+        "StartLocation": {
+            "Name": "Westliches Hochland von Coerthas",
+            "X": "16.5",
+            "Y": "22.5"
+        },
+        "StartClass": null,
+        "Job": "",
+        "Company": "Keine Angabe",
+        "Requirement": "Keine Angabe",
+        "Rewards": {
+            "Gil": 524,
+            "Exp": 25200,
+            "ItemsMand": [],
+            "ItemsOpt": []
+        },
+        "Infos": {
+            "PrevQuests": [
+                {
+                    "Name": "Finneas Vollstrecker",
+                    "Url": "/lodestone/playguide/db/quest/98b3c2a23dc/",
+                    "Area": "Westliches Hochland von Coerthas",
+                    "Level": "51"
+                },
+                {
+                    "Name": "Camp-Vorräte in Gefahr",
+                    "Url": "/lodestone/playguide/db/quest/d5191b96c6d/",
+                    "Area": "Westliches Hochland von Coerthas",
+                    "Level": "51"
+                }
+            ],
+            "NextQuests": [
+                {
+                    "Name": "Ein treuer Gefährte",
+                    "Url": "/lodestone/playguide/db/quest/850eca0cd94/",
+                    "Area": "Westliches Hochland von Coerthas",
+                    "Level": "51"
+                }
+            ]
+        },
+        "Seq": 14,
+        "oldID": 67299,
+        "Map": {
+            "ID": 211
+        }
+    },
+    {
+        "ID": "69a505a3ab8",
+        "Name": "Fleisch für alle Fälle",
+        "Location": "Westliches Hochland von Coerthas",
+        "Level": 50,
+        "JournalSection": 3,
+        "JournalCategory": 41,
+        "JournalGenre": "Aufträge Coerthas",
+        "Url": "/lodestone/playguide/db/quest/69a505a3ab8/",
+        "Image": null,
+        "Icon": "common_normal",
+        "Issuer": "Noirterel",
+        "StartLocation": {
+            "Name": "Westliches Hochland von Coerthas",
+            "X": "33.2",
+            "Y": "38.1"
+        },
+        "StartClass": null,
+        "Job": "",
+        "Company": "Keine Angabe",
+        "Requirement": "Keine Angabe",
+        "Rewards": {
+            "Gil": 602,
+            "Exp": 24000,
+            "ItemsMand": [],
+            "ItemsOpt": [
+                {
+                    "Icon": "https://img.finalfantasyxiv.com/lds/pc/global/images/itemicon/e8/e840f93b6aa9384eced77979f18f65d0b12f6503.png?n5.5",
+                    "Name": "Ritterbrot",
+                    "Amount": 3,
+                    "Url": "/lodestone/playguide/db/item/c2af82c545e/"
+                },
+                {
+                    "Icon": "https://img.finalfantasyxiv.com/lds/pc/global/images/itemicon/57/5724619b941357bf06ecb9de8595e71bfddff1e1.png?n5.5",
+                    "Name": "Getrocknete Pflaumen",
+                    "Amount": 3,
+                    "Url": "/lodestone/playguide/db/item/c1d3aee290b/"
+                },
+                {
+                    "Icon": "https://img.finalfantasyxiv.com/lds/pc/global/images/itemicon/19/19409d74608c70d8c8197a5b10ccaf8b7ab59200.png?n5.5",
+                    "Name": "Kamillentee",
+                    "Amount": 3,
+                    "Url": "/lodestone/playguide/db/item/1d635632909/"
+                }
+            ]
+        },
+        "Infos": {
+            "PrevQuests": [
+                {
+                    "Name": "Falkenhorst",
+                    "Url": "/lodestone/playguide/db/quest/7151b0eefcd/",
+                    "Area": "Anwesen der Fortemps",
+                    "Level": "50"
+                }
+            ]
+        },
+        "Seq": 42,
+        "oldID": 67268,
+        "Map": {
+            "ID": 211
+        }
+    },
+    {
+        "ID": "6a1dfd9c192",
+        "Name": "Ein Teller dünne Suppe",
+        "Location": "Westliches Hochland von Coerthas",
+        "Level": 50,
+        "JournalSection": 3,
+        "JournalCategory": 41,
+        "JournalGenre": "Aufträge Coerthas",
+        "Url": "/lodestone/playguide/db/quest/6a1dfd9c192/",
+        "Image": "https://img.finalfantasyxiv.com/lds/pc/global/images/itemicon/3a/3a5db22b3119c5cb72ec667a711fed12e33d1471.png?n5.5",
+        "Icon": "common_normal",
+        "Issuer": "Redwald",
+        "StartLocation": {
+            "Name": "Westliches Hochland von Coerthas",
+            "X": "32.6",
+            "Y": "38.3"
+        },
+        "StartClass": null,
+        "Job": "",
+        "Company": "Keine Angabe",
+        "Requirement": "Keine Angabe",
+        "Rewards": {
+            "Gil": 858,
+            "Exp": 24000,
+            "ItemsMand": [],
+            "ItemsOpt": []
+        },
+        "Infos": {
+            "PrevQuests": [
+                {
+                    "Name": "Die Audienz",
+                    "Url": "/lodestone/playguide/db/quest/c30cb94ef47/",
+                    "Area": "Ishgard",
+                    "Level": "50"
+                },
+                {
+                    "Name": "Der vergiftete Wein",
+                    "Url": "/lodestone/playguide/db/quest/509c639452d/",
+                    "Area": "Westliches Hochland von Coerthas",
+                    "Level": "50"
+                }
+            ],
+            "NextQuests": [
+                {
+                    "Name": "Noirterel",
+                    "Url": "/lodestone/playguide/db/npc/npc/725667c730f/",
+                    "Area": "Westliches Hochland von Coerthas (X:33.2 Y:38.1)"
+                },
+                {
+                    "Name": "Sigan",
+                    "Url": "/lodestone/playguide/db/npc/npc/ffea2a4883a/",
+                    "Area": "Westliches Hochland von Coerthas (X:30.6 Y:36.3)"
+                }
+            ]
+        },
+        "Seq": 9,
+        "oldID": 67283,
+        "Map": {
+            "ID": 211
+        }
+    },
+    {
+        "ID": "6c1e9ad14d0",
+        "Name": "Frustration am Falkenhorst",
+        "Location": "Westliches Hochland von Coerthas",
+        "Level": 56,
+        "JournalSection": 3,
+        "JournalCategory": 41,
+        "JournalGenre": "Aufträge Coerthas",
+        "Url": "/lodestone/playguide/db/quest/6c1e9ad14d0/",
+        "Image": "https://img.finalfantasyxiv.com/lds/pc/global/images/itemicon/43/439a653c8e3afa2c7e253f04fe30f8d53e6d97e0.png?n5.5",
+        "Icon": "common_normal",
+        "Issuer": "Margyt",
+        "StartLocation": {
+            "Name": "Westliches Hochland von Coerthas",
+            "X": "17.3",
+            "Y": "22.8"
+        },
+        "StartClass": null,
+        "Job": "",
+        "Company": "Keine Angabe",
+        "Requirement": "Keine Angabe",
+        "Rewards": {
+            "Gil": 990,
+            "Exp": 36000,
+            "ItemsMand": [],
+            "ItemsOpt": [
+                {
+                    "Icon": "https://img.finalfantasyxiv.com/lds/pc/global/images/itemicon/01/0133b1c51707a72e9958c1a1f3b53a25f5245d5e.png?n5.5",
+                    "Name": "Titan-Bärlatschen der Verteidigung",
+                    "Amount": 1,
+                    "Url": "/lodestone/playguide/db/item/04e0e0a74cb/?hq=1"
+                },
+                {
+                    "Icon": "https://img.finalfantasyxiv.com/lds/pc/global/images/itemicon/aa/aa0d3ef73dbc65d22944aaebde389fb859fe12c9.png?n5.5",
+                    "Name": "Titan-Sollerets des Verstümmelns",
+                    "Amount": 1,
+                    "Url": "/lodestone/playguide/db/item/144c25915e2/?hq=1"
+                },
+                {
+                    "Icon": "https://img.finalfantasyxiv.com/lds/pc/global/images/itemicon/f8/f8e05976e1ea9702797e1be4c3e3bac69d69f363.png?n5.5",
+                    "Name": "Titan-Bärlatschen des Schlagens",
+                    "Amount": 1,
+                    "Url": "/lodestone/playguide/db/item/d302014d790/?hq=1"
+                },
+                {
+                    "Icon": "https://img.finalfantasyxiv.com/lds/pc/global/images/itemicon/79/79f0804af953a70d14b5aeab7ceb125ec3859a4b.png?n5.5",
+                    "Name": "Titan-Bärlatschen des Spähens",
+                    "Amount": 1,
+                    "Url": "/lodestone/playguide/db/item/ce3fffcf2fb/?hq=1"
+                },
+                {
+                    "Icon": "https://img.finalfantasyxiv.com/lds/pc/global/images/itemicon/ba/baa2341dd17414fae7fd62ae7bc62c64589b67be.png?n5.5",
+                    "Name": "Allagisches Silberstück",
+                    "Amount": 5,
+                    "Url": "/lodestone/playguide/db/item/a3ac3ba4b00/"
+                }
+            ]
+        },
+        "Infos": {
+            "PrevQuests": [
+                {
+                    "Name": "Wild entschlossen",
+                    "Url": "/lodestone/playguide/db/quest/502fe826ab0/",
+                    "Area": "Ishgard",
+                    "Level": "56"
+                },
+                {
+                    "Name": "Der Fangzahn des Drachen",
+                    "Url": "/lodestone/playguide/db/quest/2caf6e7b13f/",
+                    "Area": "Westliches Hochland von Coerthas",
+                    "Level": "56"
+                },
+                {
+                    "Name": "Sturköpfe sind dicker als Blut",
+                    "Url": "/lodestone/playguide/db/quest/3f8904a0a88/",
+                    "Area": "Ishgard",
+                    "Level": "56"
+                }
+            ],
+            "NextQuests": [
+                {
+                    "Name": "Ayleths Ambitionen",
+                    "Url": "/lodestone/playguide/db/quest/e6e2a5e1155/",
+                    "Area": "Westliches Hochland von Coerthas",
+                    "Level": "56"
+                }
+            ],
+            "NPCs": [
+                {
+                    "Name": "Ayleth",
+                    "Url": "/lodestone/playguide/db/npc/npc/962130442ac/",
+                    "Area": "Westliches Hochland von Coerthas (X:32.7 Y:38.3)"
+                }
+            ]
+        },
+        "Seq": 33,
+        "oldID": 67426,
+        "Map": {
+            "ID": 211
+        }
+    },
+    {
+        "ID": "707810db081",
+        "Name": "Im Schatten des Mals",
+        "Location": "Zentrales Hochland von Coerthas",
+        "Level": 44,
+        "JournalSection": 3,
+        "JournalCategory": 41,
+        "JournalGenre": "Aufträge Coerthas",
+        "Url": "/lodestone/playguide/db/quest/707810db081/",
+        "Image": null,
+        "Icon": "common_normal",
+        "Issuer": "Cailean",
+        "StartLocation": {
+            "Name": "Zentrales Hochland von Coerthas",
+            "X": "7.6",
+            "Y": "28.9"
+        },
+        "StartClass": null,
+        "Job": "",
+        "Company": "Keine Angabe",
+        "Requirement": "Keine Angabe",
+        "Rewards": {
+            "Gil": 2090,
+            "Exp": 12190,
+            "ItemsMand": [],
+            "ItemsOpt": []
+        },
+        "Infos": {
+            "PrevQuests": [
+                {
+                    "Name": "Rauchende Schlote, stampfende Kolben!",
+                    "Url": "/lodestone/playguide/db/quest/5b3fbacf5c2/",
+                    "Area": "Zentrales Hochland von Coerthas",
+                    "Level": "44"
+                }
+            ],
+            "NextQuests": [
+                {
+                    "Name": "Cid",
+                    "Url": "/lodestone/playguide/db/npc/npc/0710f22de30/",
+                    "Area": "Zentrales Hochland von Coerthas (X:7.5 Y:28.9)"
+                },
+                {
+                    "Name": "Garleisch aussehender Soldat",
+                    "Url": "/lodestone/playguide/db/npc/npc/84b4f6fab5f/",
+                    "Area": "Zentrales Hochland von Coerthas (X:11.3 Y:30.4)"
+                },
+                {
+                    "Name": "Pierremons",
+                    "Url": "/lodestone/playguide/db/npc/npc/42fce764b4a/",
+                    "Area": "Zentrales Hochland von Coerthas (X:14.3 Y:35.2)"
+                }
+            ]
+        },
+        "Seq": 82,
+        "oldID": 66521,
+        "Map": {
+            "ID": 53
+        }
+    },
+    {
+        "ID": "728e0becffd",
+        "Name": "Vorräte für harte Zeiten",
+        "Location": "Zentrales Hochland von Coerthas",
+        "Level": 36,
+        "JournalSection": 3,
+        "JournalCategory": 41,
+        "JournalGenre": "Aufträge Coerthas",
+        "Url": "/lodestone/playguide/db/quest/728e0becffd/",
+        "Image": null,
+        "Icon": "common_normal",
+        "Issuer": "Sylvaintel",
+        "StartLocation": {
+            "Name": "Zentrales Hochland von Coerthas",
+            "X": "24.1",
+            "Y": "25.0"
+        },
+        "StartClass": null,
+        "Job": "",
+        "Company": "Keine Angabe",
+        "Requirement": "Keine Angabe",
+        "Rewards": {
+            "Gil": 0,
+            "Exp": 9450,
+            "ItemsMand": [],
+            "ItemsOpt": [
+                {
+                    "Icon": "https://img.finalfantasyxiv.com/lds/pc/global/images/itemicon/86/86d4ea1adde181a98cb07a5d0d78ca40c59f2469.png?n5.5",
+                    "Name": "Mithril-Kehlstück",
+                    "Amount": 1,
+                    "Url": "/lodestone/playguide/db/item/c01a8ba94e9/"
+                },
+                {
+                    "Icon": "https://img.finalfantasyxiv.com/lds/pc/global/images/itemicon/25/259c12d0e7c35b6c82626aec46d739ff43c5df0f.png?n5.5",
+                    "Name": "Mithril-Armbänder",
+                    "Amount": 1,
+                    "Url": "/lodestone/playguide/db/item/d8e746f303c/"
+                },
+                {
+                    "Icon": "https://img.finalfantasyxiv.com/lds/pc/global/images/itemicon/ba/baa2341dd17414fae7fd62ae7bc62c64589b67be.png?n5.5",
+                    "Name": "Allagisches Silberstück",
+                    "Amount": 5,
+                    "Url": "/lodestone/playguide/db/item/a3ac3ba4b00/"
+                }
+            ]
+        },
+        "Infos": {
+            "PrevQuests": [
+                {
+                    "Name": "Martiallais",
+                    "Url": "/lodestone/playguide/db/npc/npc/3c8d06779e2/",
+                    "Area": "Zentrales Hochland von Coerthas (X:25.2 Y:22.8)"
+                },
+                {
+                    "Name": "Prairillot",
+                    "Url": "/lodestone/playguide/db/npc/npc/6716c47bd25/",
+                    "Area": "Zentrales Hochland von Coerthas (X:25.6 Y:25.3)"
+                },
+                {
+                    "Name": "Saistenioux",
+                    "Url": "/lodestone/playguide/db/npc/npc/7cdceec38a7/",
+                    "Area": "Zentrales Hochland von Coerthas (X:28.0 Y:25.7)"
+                },
+                {
+                    "Name": "Tirauland",
+                    "Url": "/lodestone/playguide/db/npc/npc/cd9a49e9090/",
+                    "Area": "Zentrales Hochland von Coerthas (X:27.1 Y:23.3)"
+                }
+            ]
+        },
+        "Seq": 43,
+        "oldID": 66429,
+        "Map": {
+            "ID": 53
+        }
+    },
+    {
+        "ID": "82523d93c3a",
+        "Name": "Warnung an die Weißen Widder",
+        "Location": "Zentrales Hochland von Coerthas",
+        "Level": 37,
+        "JournalSection": 3,
+        "JournalCategory": 41,
+        "JournalGenre": "Aufträge Coerthas",
+        "Url": "/lodestone/playguide/db/quest/82523d93c3a/",
+        "Image": null,
+        "Icon": "common_normal",
+        "Issuer": "Belmont",
+        "StartLocation": {
+            "Name": "Zentrales Hochland von Coerthas",
+            "X": "26.5",
+            "Y": "16.2"
+        },
+        "StartClass": null,
+        "Job": "",
+        "Company": "Keine Angabe",
+        "Requirement": "Keine Angabe",
+        "Rewards": {
+            "Gil": 1478,
+            "Exp": 9660,
+            "ItemsMand": [],
+            "ItemsOpt": []
+        },
+        "Infos": {
+            "PrevQuests": [
+                {
+                    "Name": "Die Ixal in Coerthas",
+                    "Url": "/lodestone/playguide/db/quest/2d3cf37ffd6/",
+                    "Area": "Zentrales Hochland von Coerthas",
+                    "Level": "37"
+                }
+            ],
+            "NextQuests": [
+                {
+                    "Name": "Rache für Isaudorel",
+                    "Url": "/lodestone/playguide/db/quest/baaa195da84/",
+                    "Area": "Nordwald",
+                    "Level": "37"
+                }
+            ],
+            "NPCs": [
+                {
+                    "Name": "Isaudorel",
+                    "Url": "/lodestone/playguide/db/npc/npc/fef5ce48b61/",
+                    "Area": "Nordwald (X:20.8 Y:25.0)"
+                }
+            ]
+        },
+        "Seq": 54,
+        "oldID": 66441,
+        "Map": {
+            "ID": 53
+        }
+    },
+    {
+        "ID": "850eca0cd94",
+        "Name": "Ein treuer Gefährte",
+        "Location": "Westliches Hochland von Coerthas",
+        "Level": 51,
+        "JournalSection": 3,
+        "JournalCategory": 41,
+        "JournalGenre": "Aufträge Coerthas",
+        "Url": "/lodestone/playguide/db/quest/850eca0cd94/",
+        "Image": null,
+        "Icon": "common_normal",
+        "Issuer": "Luciae",
+        "StartLocation": {
+            "Name": "Westliches Hochland von Coerthas",
+            "X": "16.5",
+            "Y": "22.5"
+        },
+        "StartClass": null,
+        "Job": "",
+        "Company": "Keine Angabe",
+        "Requirement": "Keine Angabe",
+        "Rewards": {
+            "Gil": 610,
+            "Exp": 25200,
+            "ItemsMand": [
+                {
+                    "Icon": "https://img.finalfantasyxiv.com/lds/pc/global/images/itemicon/54/540e245d0f3614680f5cf59f316ff3d2e01859a8.png?n5.5",
+                    "Name": "Phönixfeder",
+                    "Amount": 1,
+                    "Url": "/lodestone/playguide/db/item/ca3036e0780/"
+                }
+            ],
+            "ItemsOpt": []
+        },
+        "Infos": {
+            "PrevQuests": [
+                {
+                    "Name": "Finneas Vollstrecker",
+                    "Url": "/lodestone/playguide/db/quest/98b3c2a23dc/",
+                    "Area": "Westliches Hochland von Coerthas",
+                    "Level": "51"
+                },
+                {
+                    "Name": "Decken braucht das Camp",
+                    "Url": "/lodestone/playguide/db/quest/68bb018e29d/",
+                    "Area": "Westliches Hochland von Coerthas",
+                    "Level": "51"
+                }
+            ],
+            "NextQuests": [
+                {
+                    "Name": "Kurier",
+                    "Url": "/lodestone/playguide/db/npc/npc/1269bf8d00c/",
+                    "Area": "Westliches Hochland von Coerthas (X:21.4 Y:24.3)"
+                },
+                {
+                    "Name": "Kurier",
+                    "Url": "/lodestone/playguide/db/npc/npc/40f20bf728a/",
+                    "Area": "Westliches Hochland von Coerthas (X:16.5 Y:22.5)"
+                }
+            ]
+        },
+        "Seq": 16,
+        "oldID": 67304,
+        "Map": {
+            "ID": 211
+        }
+    },
+    {
+        "ID": "8932b43a616",
+        "Name": "Tote Häretiker reden nicht",
+        "Location": "Zentrales Hochland von Coerthas",
+        "Level": 39,
+        "JournalSection": 3,
+        "JournalCategory": 41,
+        "JournalGenre": "Aufträge Coerthas",
+        "Url": "/lodestone/playguide/db/quest/8932b43a616/",
+        "Image": null,
+        "Icon": "common_normal",
+        "Issuer": "Oncenedl",
+        "StartLocation": {
+            "Name": "Zentrales Hochland von Coerthas",
+            "X": "12.4",
+            "Y": "15.5"
+        },
+        "StartClass": null,
+        "Job": "",
+        "Company": "Keine Angabe",
+        "Requirement": "Keine Angabe",
+        "Rewards": {
+            "Gil": 0,
+            "Exp": 10800,
+            "ItemsMand": [],
+            "ItemsOpt": [
+                {
+                    "Icon": "https://img.finalfantasyxiv.com/lds/pc/global/images/itemicon/09/09fc6e679148f33e66895120bcfbe667034be0fc.png?n5.5",
+                    "Name": "Hornschuppen-Beinschienen",
+                    "Amount": 1,
+                    "Url": "/lodestone/playguide/db/item/c41815c5dc0/"
+                },
+                {
+                    "Icon": "https://img.finalfantasyxiv.com/lds/pc/global/images/itemicon/c7/c7c34ad19cfd4f6e4673f8491f36d88f8371760d.png?n5.5",
+                    "Name": "Leinen-Gaskin",
+                    "Amount": 1,
+                    "Url": "/lodestone/playguide/db/item/04cf9257b08/"
+                },
+                {
+                    "Icon": "https://img.finalfantasyxiv.com/lds/pc/global/images/itemicon/ba/baa2341dd17414fae7fd62ae7bc62c64589b67be.png?n5.5",
+                    "Name": "Allagisches Silberstück",
+                    "Amount": 8,
+                    "Url": "/lodestone/playguide/db/item/a3ac3ba4b00/"
+                }
+            ]
+        },
+        "Infos": {
+            "PrevQuests": [
+                {
+                    "Name": "Welch freundlicher Empfang",
+                    "Url": "/lodestone/playguide/db/quest/268f3a86547/",
+                    "Area": "Zentrales Hochland von Coerthas",
+                    "Level": "39"
+                }
+            ],
+            "NextQuests": [
+                {
+                    "Name": "Vogeljagd im Schneegestöber",
+                    "Url": "/lodestone/playguide/db/quest/26b95cfea87/",
+                    "Area": "Zentrales Hochland von Coerthas",
+                    "Level": "39"
+                },
+                {
+                    "Name": "Tor in Trümmern",
+                    "Url": "/lodestone/playguide/db/quest/5f39f017fdc/",
+                    "Area": "Zentrales Hochland von Coerthas",
+                    "Level": "39"
+                }
+            ],
+            "NPCs": [
+                {
+                    "Name": "Chaunollet",
+                    "Url": "/lodestone/playguide/db/npc/npc/475affca137/",
+                    "Area": "Zentrales Hochland von Coerthas (X:18.9 Y:15.5)"
+                }
+            ]
+        },
+        "Seq": 61,
+        "oldID": 66464,
+        "Map": {
+            "ID": 53
+        }
+    },
+    {
+        "ID": "8d94302a1a2",
+        "Name": "Drachenhafte Ungetüme",
+        "Location": "Westliches Hochland von Coerthas",
+        "Level": 51,
+        "JournalSection": 3,
+        "JournalCategory": 41,
+        "JournalGenre": "Aufträge Coerthas",
+        "Url": "/lodestone/playguide/db/quest/8d94302a1a2/",
+        "Image": "https://img.finalfantasyxiv.com/lds/pc/global/images/itemicon/9c/9cf1bd0e81765709424765d87d071b54c72c38c3.png?n5.5",
+        "Icon": "common_normal",
+        "Issuer": "Dominiac",
+        "StartLocation": {
+            "Name": "Westliches Hochland von Coerthas",
+            "X": "16.6",
+            "Y": "22.6"
+        },
+        "StartClass": null,
+        "Job": "",
+        "Company": "Keine Angabe",
+        "Requirement": "Keine Angabe",
+        "Rewards": {
+            "Gil": 610,
+            "Exp": 25200,
+            "ItemsMand": [],
+            "ItemsOpt": []
+        },
+        "Infos": {
+            "PrevQuests": [
+                {
+                    "Name": "Der ewige Kreis",
+                    "Url": "/lodestone/playguide/db/quest/2c4df80a5f6/",
+                    "Area": "Westliches Hochland von Coerthas",
+                    "Level": "51"
+                },
+                {
+                    "Name": "Dominiacs Plan nimmt Fahrt auf",
+                    "Url": "/lodestone/playguide/db/quest/8e63d9d6fe7/",
+                    "Area": "Westliches Hochland von Coerthas",
+                    "Level": "51"
+                }
+            ],
+            "NextQuests": [
+                {
+                    "Name": "Neuer Lebenswille",
+                    "Url": "/lodestone/playguide/db/quest/5e20c0655ae/",
+                    "Area": "Westliches Hochland von Coerthas",
+                    "Level": "51"
+                }
+            ],
+            "NPCs": [
+                {
+                    "Name": "Saintrelmaux",
+                    "Url": "/lodestone/playguide/db/npc/npc/e6e3d6bfa78/",
+                    "Area": "Westliches Hochland von Coerthas (X:18.1 Y:17.6)"
+                },
+                {
+                    "Name": "Saintrelmaux",
+                    "Url": "/lodestone/playguide/db/npc/npc/475466f43ad/",
+                    "Area": "Westliches Hochland von Coerthas (X:13.1 Y:12.4)"
+                }
+            ]
+        },
+        "Seq": 22,
+        "oldID": 67302,
+        "Map": {
+            "ID": 211
+        }
+    },
+    {
+        "ID": "8e63d9d6fe7",
+        "Name": "Dominiacs Plan nimmt Fahrt auf",
+        "Location": "Westliches Hochland von Coerthas",
+        "Level": 51,
+        "JournalSection": 3,
+        "JournalCategory": 41,
+        "JournalGenre": "Aufträge Coerthas",
+        "Url": "/lodestone/playguide/db/quest/8e63d9d6fe7/",
+        "Image": "https://img.finalfantasyxiv.com/lds/pc/global/images/itemicon/9c/9cf1bd0e81765709424765d87d071b54c72c38c3.png?n5.5",
+        "Icon": "common_normal",
+        "Issuer": "Dominiac",
+        "StartLocation": {
+            "Name": "Westliches Hochland von Coerthas",
+            "X": "16.6",
+            "Y": "22.6"
+        },
+        "StartClass": null,
+        "Job": "",
+        "Company": "Keine Angabe",
+        "Requirement": "Keine Angabe",
+        "Rewards": {
+            "Gil": 667,
+            "Exp": 25200,
+            "ItemsMand": [],
+            "ItemsOpt": []
+        },
+        "Infos": {
+            "PrevQuests": [
+                {
+                    "Name": "Der ewige Kreis",
+                    "Url": "/lodestone/playguide/db/quest/2c4df80a5f6/",
+                    "Area": "Westliches Hochland von Coerthas",
+                    "Level": "51"
+                },
+                {
+                    "Name": "Drachen mit Drachen ködern",
+                    "Url": "/lodestone/playguide/db/quest/20e9e01f1a6/",
+                    "Area": "Westliches Hochland von Coerthas",
+                    "Level": "51"
+                }
+            ],
+            "NextQuests": [
+                {
+                    "Name": "Drachenhafte Ungetüme",
+                    "Url": "/lodestone/playguide/db/quest/8d94302a1a2/",
+                    "Area": "Westliches Hochland von Coerthas",
+                    "Level": "51"
+                }
+            ],
+            "NPCs": [
+                {
+                    "Name": "Saintrelmaux",
+                    "Url": "/lodestone/playguide/db/npc/npc/e6e3d6bfa78/",
+                    "Area": "Westliches Hochland von Coerthas (X:18.1 Y:17.6)"
+                }
+            ]
+        },
+        "Seq": 21,
+        "oldID": 67301,
+        "Map": {
+            "ID": 211
+        }
+    },
+    {
+        "ID": "9094c749aa3",
+        "Name": "Drachenabwehrgeschosse",
+        "Location": "Zentrales Hochland von Coerthas",
+        "Level": 38,
+        "JournalSection": 3,
+        "JournalCategory": 41,
+        "JournalGenre": "Aufträge Coerthas",
+        "Url": "/lodestone/playguide/db/quest/9094c749aa3/",
+        "Image": null,
+        "Icon": "common_normal",
+        "Issuer": "Edwyn",
+        "StartLocation": {
+            "Name": "Zentrales Hochland von Coerthas",
+            "X": "26.7",
+            "Y": "16.4"
+        },
+        "StartClass": null,
+        "Job": "",
+        "Company": "Keine Angabe",
+        "Requirement": "Keine Angabe",
+        "Rewards": {
+            "Gil": 0,
+            "Exp": 10105,
+            "ItemsMand": [],
+            "ItemsOpt": [
+                {
+                    "Icon": "https://img.finalfantasyxiv.com/lds/pc/global/images/itemicon/6e/6e2cfe4bf16e1827182f11d11cc2f82877ba774f.png?n5.5",
+                    "Name": "Keilerleder-Reiterhose",
+                    "Amount": 1,
+                    "Url": "/lodestone/playguide/db/item/053694f2eea/"
+                },
+                {
+                    "Icon": "https://img.finalfantasyxiv.com/lds/pc/global/images/itemicon/94/94864be8a7221b5a55f58183aa8791f1562ff2b6.png?n5.5",
+                    "Name": "Keilerleder-Lendenschurz",
+                    "Amount": 1,
+                    "Url": "/lodestone/playguide/db/item/96c42a7849a/"
+                },
+                {
+                    "Icon": "https://img.finalfantasyxiv.com/lds/pc/global/images/itemicon/ba/baa2341dd17414fae7fd62ae7bc62c64589b67be.png?n5.5",
+                    "Name": "Allagisches Silberstück",
+                    "Amount": 6,
+                    "Url": "/lodestone/playguide/db/item/a3ac3ba4b00/"
+                }
+            ]
+        },
+        "Infos": {
+            "PrevQuests": [
+                {
+                    "Name": "Immer Ärger mit dem Erdseim",
+                    "Url": "/lodestone/playguide/db/quest/639dbb0591f/",
+                    "Area": "Ul'dah",
+                    "Level": "38"
+                }
+            ],
+            "NextQuests": [
+                {
+                    "Name": "Syntgoht",
+                    "Url": "/lodestone/playguide/db/npc/npc/3913d57020f/",
+                    "Area": "Thal-Kreuzgang (X:14.0 Y:10.0)"
+                }
+            ]
+        },
+        "Seq": 60,
+        "oldID": 66454,
+        "Map": {
+            "ID": 53
+        }
+    },
+    {
+        "ID": "92dba83909d",
+        "Name": "Ein echter Kamerad",
+        "Location": "Westliches Hochland von Coerthas",
+        "Level": 56,
+        "JournalSection": 3,
+        "JournalCategory": 41,
+        "JournalGenre": "Aufträge Coerthas",
+        "Url": "/lodestone/playguide/db/quest/92dba83909d/",
+        "Image": null,
+        "Icon": "common_normal",
+        "Issuer": "Bonifoix",
+        "StartLocation": {
+            "Name": "Westliches Hochland von Coerthas",
+            "X": "16.8",
+            "Y": "22.8"
+        },
+        "StartClass": null,
+        "Job": "",
+        "Company": "Keine Angabe",
+        "Requirement": "Keine Angabe",
+        "Rewards": {
+            "Gil": 465,
+            "Exp": 36000,
+            "ItemsMand": [],
+            "ItemsOpt": [
+                {
+                    "Icon": "https://img.finalfantasyxiv.com/lds/pc/global/images/itemicon/cf/cf7c194b885229ef763f4adc31d8b8706d3aae9d.png?n5.5",
+                    "Name": "Opal-Halsberge der Verteidigung",
+                    "Amount": 1,
+                    "Url": "/lodestone/playguide/db/item/4abda4e8f43/?hq=1"
+                },
+                {
+                    "Icon": "https://img.finalfantasyxiv.com/lds/pc/global/images/itemicon/cf/cf7c194b885229ef763f4adc31d8b8706d3aae9d.png?n5.5",
+                    "Name": "Opal-Halsberge des Schlachtens",
+                    "Amount": 1,
+                    "Url": "/lodestone/playguide/db/item/9af6e48f60c/?hq=1"
+                },
+                {
+                    "Icon": "https://img.finalfantasyxiv.com/lds/pc/global/images/itemicon/cf/cf7c194b885229ef763f4adc31d8b8706d3aae9d.png?n5.5",
+                    "Name": "Opal-Halsberge des Zielens",
+                    "Amount": 1,
+                    "Url": "/lodestone/playguide/db/item/658956b4a0f/?hq=1"
+                },
+                {
+                    "Icon": "https://img.finalfantasyxiv.com/lds/pc/global/images/itemicon/cf/cf7c194b885229ef763f4adc31d8b8706d3aae9d.png?n5.5",
+                    "Name": "Opal-Halsberge der Heilung",
+                    "Amount": 1,
+                    "Url": "/lodestone/playguide/db/item/93991d24b57/?hq=1"
+                },
+                {
+                    "Icon": "https://img.finalfantasyxiv.com/lds/pc/global/images/itemicon/cf/cf7c194b885229ef763f4adc31d8b8706d3aae9d.png?n5.5",
+                    "Name": "Opal-Halsberge der Magie",
+                    "Amount": 1,
+                    "Url": "/lodestone/playguide/db/item/4530b21416b/?hq=1"
+                }
+            ]
+        },
+        "Infos": {
+            "PrevQuests": [
+                {
+                    "Name": "Wild entschlossen",
+                    "Url": "/lodestone/playguide/db/quest/502fe826ab0/",
+                    "Area": "Ishgard",
+                    "Level": "56"
+                },
+                {
+                    "Name": "Ein hanebüchener Plan",
+                    "Url": "/lodestone/playguide/db/quest/343ff6eb6fc/",
+                    "Area": "Westliches Hochland von Coerthas",
+                    "Level": "56"
+                },
+                {
+                    "Name": "Sturköpfe sind dicker als Blut",
+                    "Url": "/lodestone/playguide/db/quest/3f8904a0a88/",
+                    "Area": "Ishgard",
+                    "Level": "56"
+                }
+            ]
+        },
+        "Seq": 29,
+        "oldID": 67430,
+        "Map": {
+            "ID": 211
+        }
+    },
+    {
+        "ID": "96f383feb9a",
+        "Name": "Erkenntnisse in Sachen Drachenjagd",
+        "Location": "Westliches Hochland von Coerthas",
+        "Level": 51,
+        "JournalSection": 3,
+        "JournalCategory": 41,
+        "JournalGenre": "Aufträge Coerthas",
+        "Url": "/lodestone/playguide/db/quest/96f383feb9a/",
+        "Image": "https://img.finalfantasyxiv.com/lds/pc/global/images/itemicon/9c/9cf1bd0e81765709424765d87d071b54c72c38c3.png?n5.5",
+        "Icon": "common_normal",
+        "Issuer": "Dominiac",
+        "StartLocation": {
+            "Name": "Westliches Hochland von Coerthas",
+            "X": "16.6",
+            "Y": "22.6"
+        },
+        "StartClass": null,
+        "Job": "",
+        "Company": "Keine Angabe",
+        "Requirement": "Keine Angabe",
+        "Rewards": {
+            "Gil": 524,
+            "Exp": 25200,
+            "ItemsMand": [],
+            "ItemsOpt": []
+        },
+        "Infos": {
+            "PrevQuests": [
+                {
+                    "Name": "Der ewige Kreis",
+                    "Url": "/lodestone/playguide/db/quest/2c4df80a5f6/",
+                    "Area": "Westliches Hochland von Coerthas",
+                    "Level": "51"
+                }
+            ],
+            "NextQuests": [
+                {
+                    "Name": "Drachen mit Drachen ködern",
+                    "Url": "/lodestone/playguide/db/quest/20e9e01f1a6/",
+                    "Area": "Westliches Hochland von Coerthas",
+                    "Level": "51"
+                }
+            ],
+            "NPCs": [
+                {
+                    "Name": "Bonifoix",
+                    "Url": "/lodestone/playguide/db/npc/npc/8b7eace6750/",
+                    "Area": "Westliches Hochland von Coerthas (X:16.8 Y:22.8)"
+                },
+                {
+                    "Name": "Gewitzter Späher",
+                    "Url": "/lodestone/playguide/db/npc/npc/c6388218ed6/",
+                    "Area": "Westliches Hochland von Coerthas (X:17.3 Y:22.5)"
+                },
+                {
+                    "Name": "Jantellot",
+                    "Url": "/lodestone/playguide/db/npc/npc/c906fdfe1f2/",
+                    "Area": "Westliches Hochland von Coerthas (X:16.7 Y:22.8)"
+                },
+                {
+                    "Name": "Saintrelmaux",
+                    "Url": "/lodestone/playguide/db/npc/npc/047d1883e4b/",
+                    "Area": "Westliches Hochland von Coerthas (X:16.6 Y:22.6)"
+                }
+            ]
+        },
+        "Seq": 19,
+        "oldID": 67298,
+        "Map": {
+            "ID": 211
+        }
+    },
+    {
+        "ID": "9894d398700",
+        "Name": "In die Irre geleitet",
+        "Location": "Zentrales Hochland von Coerthas",
+        "Level": 37,
+        "JournalSection": 3,
+        "JournalCategory": 41,
+        "JournalGenre": "Aufträge Coerthas",
+        "Url": "/lodestone/playguide/db/quest/9894d398700/",
+        "Image": null,
+        "Icon": "common_normal",
+        "Issuer": "Corentiaux",
+        "StartLocation": {
+            "Name": "Zentrales Hochland von Coerthas",
+            "X": "26.7",
+            "Y": "17.5"
+        },
+        "StartClass": null,
+        "Job": "",
+        "Company": "Keine Angabe",
+        "Requirement": "Keine Angabe",
+        "Rewards": {
+            "Gil": 1861,
+            "Exp": 9660,
+            "ItemsMand": [],
+            "ItemsOpt": []
+        },
+        "Infos": {
+            "PrevQuests": [
+                {
+                    "Name": "Kopfgeldjagd auf Schneewölfe",
+                    "Url": "/lodestone/playguide/db/quest/e3dd8b98bad/",
+                    "Area": "Zentrales Hochland von Coerthas",
+                    "Level": "37"
+                }
+            ]
+        },
+        "Seq": 50,
+        "oldID": 66436,
+        "Map": {
+            "ID": 53
+        }
+    },
+    {
+        "ID": "9ed388f4510",
+        "Name": "Heldentod",
+        "Location": "Zentrales Hochland von Coerthas",
+        "Level": 36,
+        "JournalSection": 3,
+        "JournalCategory": 41,
+        "JournalGenre": "Aufträge Coerthas",
+        "Url": "/lodestone/playguide/db/quest/9ed388f4510/",
+        "Image": null,
+        "Icon": "common_normal",
+        "Issuer": "Stephannot",
+        "StartLocation": {
+            "Name": "Zentrales Hochland von Coerthas",
+            "X": "24.2",
+            "Y": "25.0"
+        },
+        "StartClass": null,
+        "Job": "",
+        "Company": "Keine Angabe",
+        "Requirement": "Keine Angabe",
+        "Rewards": {
+            "Gil": 1544,
+            "Exp": 9450,
+            "ItemsMand": [],
+            "ItemsOpt": []
+        },
+        "Infos": {
+            "PrevQuests": [
+                {
+                    "Name": "Ein unrühmliches Ende",
+                    "Url": "/lodestone/playguide/db/quest/3fc75f3098e/",
+                    "Area": "Zentrales Hochland von Coerthas",
+                    "Level": "36"
+                }
+            ],
+            "NextQuests": [
+                {
+                    "Name": "Theobalin",
+                    "Url": "/lodestone/playguide/db/npc/npc/bfb8631b685/",
+                    "Area": "Zentrales Hochland von Coerthas (X:25.1 Y:16.7)"
+                }
+            ]
+        },
+        "Seq": 45,
+        "oldID": 66431,
+        "Map": {
+            "ID": 53
+        }
+    },
+    {
+        "ID": "a972b7df11b",
+        "Name": "Gefängnisausbruch",
+        "Location": "Zentrales Hochland von Coerthas",
+        "Level": 40,
+        "JournalSection": 3,
+        "JournalCategory": 41,
+        "JournalGenre": "Aufträge Coerthas",
+        "Url": "/lodestone/playguide/db/quest/a972b7df11b/",
+        "Image": null,
+        "Icon": "common_normal",
+        "Issuer": "Daimbert",
+        "StartLocation": {
+            "Name": "Zentrales Hochland von Coerthas",
+            "X": "13.3",
+            "Y": "16.9"
+        },
+        "StartClass": null,
+        "Job": "",
+        "Company": "Keine Angabe",
+        "Requirement": "Keine Angabe",
+        "Rewards": {
+            "Gil": 1958,
+            "Exp": 11270,
+            "ItemsMand": [],
+            "ItemsOpt": []
+        },
+        "Infos": {
+            "PrevQuests": [
+                {
+                    "Name": "Die Macht der Drachen",
+                    "Url": "/lodestone/playguide/db/quest/bcd612f8b59/",
+                    "Area": "Zentrales Hochland von Coerthas",
+                    "Level": "40"
+                },
+                {
+                    "Name": "Die Liebenden",
+                    "Url": "/lodestone/playguide/db/quest/350d4007f96/",
+                    "Area": "Zentrales Hochland von Coerthas",
+                    "Level": "39"
+                }
+            ],
+            "NextQuests": [
+                {
+                    "Name": "Ferdillaix",
+                    "Url": "/lodestone/playguide/db/npc/npc/870ce25c01c/",
+                    "Area": "Zentrales Hochland von Coerthas (X:12.3 Y:15.7)"
+                },
+                {
+                    "Name": "Laurence",
+                    "Url": "/lodestone/playguide/db/npc/npc/f4d4254dc97/",
+                    "Area": "Zentrales Hochland von Coerthas (X:12.3 Y:15.6)"
+                }
+            ]
+        },
+        "Seq": 73,
+        "oldID": 66480,
+        "Map": {
+            "ID": 53
+        }
+    },
+    {
+        "ID": "aa77bfdd439",
+        "Name": "Verirrt",
+        "Location": "Zentrales Hochland von Coerthas",
+        "Level": 40,
+        "JournalSection": 3,
+        "JournalCategory": 41,
+        "JournalGenre": "Aufträge Coerthas",
+        "Url": "/lodestone/playguide/db/quest/aa77bfdd439/",
+        "Image": null,
+        "Icon": "common_normal",
+        "Issuer": "Meurise",
+        "StartLocation": {
+            "Name": "Zentrales Hochland von Coerthas",
+            "X": "13.3",
+            "Y": "17.0"
+        },
+        "StartClass": null,
+        "Job": "",
+        "Company": "Keine Angabe",
+        "Requirement": "Keine Angabe",
+        "Rewards": {
+            "Gil": 1448,
+            "Exp": 11270,
+            "ItemsMand": [],
+            "ItemsOpt": []
+        },
+        "Infos": {
+            "PrevQuests": [
+                {
+                    "Name": "Die Macht der Drachen",
+                    "Url": "/lodestone/playguide/db/quest/bcd612f8b59/",
+                    "Area": "Zentrales Hochland von Coerthas",
+                    "Level": "40"
+                }
+            ],
+            "NextQuests": [
+                {
+                    "Name": "Verirrter Ritter",
+                    "Url": "/lodestone/playguide/db/npc/npc/84137f39b20/",
+                    "Area": "Zentrales Hochland von Coerthas (X:5.4 Y:16.9)"
+                }
+            ]
+        },
+        "Seq": 79,
+        "oldID": 66486,
+        "Map": {
+            "ID": 53
+        }
+    },
+    {
+        "ID": "aaf11e472ab",
+        "Name": "Der Kampf hat erst begonnen",
+        "Location": "Westliches Hochland von Coerthas",
+        "Level": 56,
+        "JournalSection": 3,
+        "JournalCategory": 41,
+        "JournalGenre": "Aufträge Coerthas",
+        "Url": "/lodestone/playguide/db/quest/aaf11e472ab/",
+        "Image": "https://img.finalfantasyxiv.com/lds/pc/global/images/itemicon/e3/e3e672280e6524464869a710a0f633f41ffb15ce.png?n5.5",
+        "Icon": "common_normal",
+        "Issuer": "Dominiac",
+        "StartLocation": {
+            "Name": "Westliches Hochland von Coerthas",
+            "X": "16.6",
+            "Y": "22.6"
+        },
+        "StartClass": null,
+        "Job": "",
+        "Company": "Keine Angabe",
+        "Requirement": "Keine Angabe",
+        "Rewards": {
+            "Gil": 681,
+            "Exp": 36000,
+            "ItemsMand": [],
+            "ItemsOpt": [
+                {
+                    "Icon": "https://img.finalfantasyxiv.com/lds/pc/global/images/itemicon/06/06bd35b3df19cbc5d80eed3ed99c67a366c835aa.png?n5.5",
+                    "Name": "Assassinen-Materia IV",
+                    "Amount": 1,
+                    "Url": "/lodestone/playguide/db/item/1bc25f58180/"
+                },
+                {
+                    "Icon": "https://img.finalfantasyxiv.com/lds/pc/global/images/itemicon/06/06bd35b3df19cbc5d80eed3ed99c67a366c835aa.png?n5.5",
+                    "Name": "Strategen-Materia IV",
+                    "Amount": 1,
+                    "Url": "/lodestone/playguide/db/item/dce3a5f3467/"
+                },
+                {
+                    "Icon": "https://img.finalfantasyxiv.com/lds/pc/global/images/itemicon/06/06bd35b3df19cbc5d80eed3ed99c67a366c835aa.png?n5.5",
+                    "Name": "Hellseher-Materia IV",
+                    "Amount": 1,
+                    "Url": "/lodestone/playguide/db/item/93fe1786b70/"
+                }
+            ]
+        },
+        "Infos": {
+            "PrevQuests": [
+                {
+                    "Name": "Wild entschlossen",
+                    "Url": "/lodestone/playguide/db/quest/502fe826ab0/",
+                    "Area": "Ishgard",
+                    "Level": "56"
+                },
+                {
+                    "Name": "Gemeinsam sind wir stark",
+                    "Url": "/lodestone/playguide/db/quest/4a54351c04f/",
+                    "Area": "Westliches Hochland von Coerthas",
+                    "Level": "56"
+                },
+                {
+                    "Name": "Sturköpfe sind dicker als Blut",
+                    "Url": "/lodestone/playguide/db/quest/3f8904a0a88/",
+                    "Area": "Ishgard",
+                    "Level": "56"
+                }
+            ],
+            "NextQuests": [
+                {
+                    "Name": "Ayleth",
+                    "Url": "/lodestone/playguide/db/npc/npc/8b9571ebe18/",
+                    "Area": "Westliches Hochland von Coerthas (X:17.4 Y:22.8)"
+                },
+                {
+                    "Name": "Ayleth",
+                    "Url": "/lodestone/playguide/db/npc/npc/b8f4ee34f39/",
+                    "Area": "Westliches Hochland von Coerthas (X:12.0 Y:19.2)"
+                },
+                {
+                    "Name": "Margyt",
+                    "Url": "/lodestone/playguide/db/npc/npc/0968421417c/",
+                    "Area": "Westliches Hochland von Coerthas (X:16.6 Y:22.6)"
+                },
+                {
+                    "Name": "Saintrelmaux",
+                    "Url": "/lodestone/playguide/db/npc/npc/0449e06f034/",
+                    "Area": "Westliches Hochland von Coerthas (X:17.3 Y:22.8)"
+                },
+                {
+                    "Name": "Saintrelmaux",
+                    "Url": "/lodestone/playguide/db/npc/npc/fe8f1bc9d72/",
+                    "Area": "Westliches Hochland von Coerthas (X:12.1 Y:19.3)"
+                }
+            ]
+        },
+        "Seq": 37,
+        "oldID": 67434,
+        "Map": {
+            "ID": 211
+        }
+    },
+    {
+        "ID": "acee0b2031b",
+        "Name": "Gefallene Waffenbrüder",
+        "Location": "Westliches Hochland von Coerthas",
+        "Level": 51,
+        "JournalSection": 3,
+        "JournalCategory": 41,
+        "JournalGenre": "Aufträge Coerthas",
+        "Url": "/lodestone/playguide/db/quest/acee0b2031b/",
+        "Image": null,
+        "Icon": "common_normal",
+        "Issuer": "Gehässiger Ritter",
+        "StartLocation": {
+            "Name": "Westliches Hochland von Coerthas",
+            "X": "21.6",
+            "Y": "10.4"
+        },
+        "StartClass": null,
+        "Job": "",
+        "Company": "Keine Angabe",
+        "Requirement": "Keine Angabe",
+        "Rewards": {
+            "Gil": 610,
+            "Exp": 25200,
+            "ItemsMand": [],
+            "ItemsOpt": []
+        },
+        "Infos": {
+            "PrevQuests": [
+                {
+                    "Name": "Der ewige Kreis",
+                    "Url": "/lodestone/playguide/db/quest/2c4df80a5f6/",
+                    "Area": "Westliches Hochland von Coerthas",
+                    "Level": "51"
+                }
+            ]
+        },
+        "Seq": 11,
+        "oldID": 67289,
+        "Map": {
+            "ID": 211
+        }
+    },
+    {
+        "ID": "ad9abb82d2e",
+        "Name": "Gevatter Schnee",
+        "Location": "Zentrales Hochland von Coerthas",
+        "Level": 36,
+        "JournalSection": 3,
+        "JournalCategory": 41,
+        "JournalGenre": "Aufträge Coerthas",
+        "Url": "/lodestone/playguide/db/quest/ad9abb82d2e/",
+        "Image": null,
+        "Icon": "common_normal",
+        "Issuer": "Maucolyn",
+        "StartLocation": {
+            "Name": "Zentrales Hochland von Coerthas",
+            "X": "24.9",
+            "Y": "27.7"
+        },
+        "StartClass": null,
+        "Job": "",
+        "Company": "Keine Angabe",
+        "Requirement": "Keine Angabe",
+        "Rewards": {
+            "Gil": 3000,
+            "Exp": 9450,
+            "ItemsMand": [
+                {
+                    "Icon": "https://img.finalfantasyxiv.com/lds/pc/global/images/itemicon/87/87f4ebd1c4df2909aba2c75b8e0e8bda5b8c890f.png?n5.5",
+                    "Name": "Eispolykristall",
+                    "Amount": 1,
+                    "Url": "/lodestone/playguide/db/item/4dbe0ec0a76/"
+                }
+            ],
+            "ItemsOpt": []
+        },
+        "Infos": {},
+        "Seq": 40,
+        "oldID": 66424,
+        "Map": {
+            "ID": 53
+        }
+    },
+    {
+        "ID": "b0af5820a17",
+        "Name": "Not macht erfinderisch",
+        "Location": "Westliches Hochland von Coerthas",
+        "Level": 56,
+        "JournalSection": 3,
+        "JournalCategory": 41,
+        "JournalGenre": "Aufträge Coerthas",
+        "Url": "/lodestone/playguide/db/quest/b0af5820a17/",
+        "Image": null,
+        "Icon": "common_normal",
+        "Issuer": "Pierriquet",
+        "StartLocation": {
+            "Name": "Westliches Hochland von Coerthas",
+            "X": "16.3",
+            "Y": "22.4"
+        },
+        "StartClass": null,
+        "Job": "",
+        "Company": "Keine Angabe",
+        "Requirement": "Keine Angabe",
+        "Rewards": {
+            "Gil": 496,
+            "Exp": 36000,
+            "ItemsMand": [],
+            "ItemsOpt": []
+        },
+        "Infos": {
+            "PrevQuests": [
+                {
+                    "Name": "Wild entschlossen",
+                    "Url": "/lodestone/playguide/db/quest/502fe826ab0/",
+                    "Area": "Ishgard",
+                    "Level": "56"
+                },
+                {
+                    "Name": "Sturköpfe sind dicker als Blut",
+                    "Url": "/lodestone/playguide/db/quest/3f8904a0a88/",
+                    "Area": "Ishgard",
+                    "Level": "56"
+                }
+            ]
+        },
+        "Seq": 31,
+        "oldID": 67433,
+        "Map": {
+            "ID": 211
+        }
+    },
+    {
+        "ID": "b805caf2c39",
+        "Name": "Sucher suchen",
+        "Location": "Zentrales Hochland von Coerthas",
+        "Level": 39,
+        "JournalSection": 3,
+        "JournalCategory": 41,
+        "JournalGenre": "Aufträge Coerthas",
+        "Url": "/lodestone/playguide/db/quest/b805caf2c39/",
+        "Image": null,
+        "Icon": "common_normal",
+        "Issuer": "Faucillien",
+        "StartLocation": {
+            "Name": "Zentrales Hochland von Coerthas",
+            "X": "12.8",
+            "Y": "17.4"
+        },
+        "StartClass": null,
+        "Job": "",
+        "Company": "Keine Angabe",
+        "Requirement": "Keine Angabe",
+        "Rewards": {
+            "Gil": 1624,
+            "Exp": 10800,
+            "ItemsMand": [],
+            "ItemsOpt": []
+        },
+        "Infos": {
+            "PrevQuests": [
+                {
+                    "Name": "Welch freundlicher Empfang",
+                    "Url": "/lodestone/playguide/db/quest/268f3a86547/",
+                    "Area": "Zentrales Hochland von Coerthas",
+                    "Level": "39"
+                }
+            ]
+        },
+        "Seq": 66,
+        "oldID": 66469,
+        "Map": {
+            "ID": 53
+        }
+    },
+    {
+        "ID": "b887de5ad88",
+        "Name": "Bitte keine Frostbeulen!",
+        "Location": "Zentrales Hochland von Coerthas",
+        "Level": 40,
+        "JournalSection": 3,
+        "JournalCategory": 41,
+        "JournalGenre": "Aufträge Coerthas",
+        "Url": "/lodestone/playguide/db/quest/b887de5ad88/",
+        "Image": null,
+        "Icon": "common_normal",
+        "Issuer": "Astidien",
+        "StartLocation": {
+            "Name": "Zentrales Hochland von Coerthas",
+            "X": "13.1",
+            "Y": "15.4"
+        },
+        "StartClass": null,
+        "Job": "",
+        "Company": "Keine Angabe",
+        "Requirement": "Keine Angabe",
+        "Rewards": {
+            "Gil": 1650,
+            "Exp": 11270,
+            "ItemsMand": [],
+            "ItemsOpt": [
+                {
+                    "Icon": "https://img.finalfantasyxiv.com/lds/pc/global/images/itemicon/de/de478eac5995aeff260b0e6eaf52fef8ac0086d8.png?n5.5",
+                    "Name": "Megatrank",
+                    "Amount": 3,
+                    "Url": "/lodestone/playguide/db/item/1e8c49c8ac3/"
+                },
+                {
+                    "Icon": "https://img.finalfantasyxiv.com/lds/pc/global/images/itemicon/d9/d9beff495b00ab597dbd0b268530571d803e6a2d.png?n5.5",
+                    "Name": "Super-Äther",
+                    "Amount": 3,
+                    "Url": "/lodestone/playguide/db/item/88fad7976ae/"
+                }
+            ]
+        },
+        "Infos": {
+            "PrevQuests": [
+                {
+                    "Name": "Die Macht der Drachen",
+                    "Url": "/lodestone/playguide/db/quest/bcd612f8b59/",
+                    "Area": "Zentrales Hochland von Coerthas",
+                    "Level": "40"
+                }
+            ],
+            "NextQuests": [
+                {
+                    "Name": "Braitognieux",
+                    "Url": "/lodestone/playguide/db/npc/npc/5dac1e2735c/",
+                    "Area": "Zentrales Hochland von Coerthas (X:25.4 Y:15.7)"
+                },
+                {
+                    "Name": "Orientierungsloser Chirurg",
+                    "Url": "/lodestone/playguide/db/npc/npc/6c5e838b1b5/",
+                    "Area": "Zentrales Hochland von Coerthas (X:17.0 Y:19.8)"
+                },
+                {
+                    "Name": "Orientierungsloser Chirurg",
+                    "Url": "/lodestone/playguide/db/npc/npc/30fdcfafdd5/",
+                    "Area": "Zentrales Hochland von Coerthas (X:15.5 Y:19.1)"
+                }
+            ]
+        },
+        "Seq": 72,
+        "oldID": 66479,
+        "Map": {
+            "ID": 53
+        }
+    },
+    {
+        "ID": "b8957e0b765",
+        "Name": "Junge Dame, gib Acht!",
+        "Location": "Zentrales Hochland von Coerthas",
+        "Level": 37,
+        "JournalSection": 3,
+        "JournalCategory": 41,
+        "JournalGenre": "Aufträge Coerthas",
+        "Url": "/lodestone/playguide/db/quest/b8957e0b765/",
+        "Image": null,
+        "Icon": "common_normal",
+        "Issuer": "Duchesnelt",
+        "StartLocation": {
+            "Name": "Zentrales Hochland von Coerthas",
+            "X": "25.5",
+            "Y": "15.5"
+        },
+        "StartClass": null,
+        "Job": "",
+        "Company": "Keine Angabe",
+        "Requirement": "Keine Angabe",
+        "Rewards": {
+            "Gil": 1478,
+            "Exp": 9660,
+            "ItemsMand": [],
+            "ItemsOpt": []
+        },
+        "Infos": {
+            "PrevQuests": [
+                {
+                    "Name": "Die Krux der Familie Haillenarte",
+                    "Url": "/lodestone/playguide/db/quest/8d4e96af5e9/",
+                    "Area": "Zentrales Hochland von Coerthas",
+                    "Level": "36"
+                }
+            ],
+            "NextQuests": [
+                {
+                    "Name": "Duchesnelts Tochter",
+                    "Url": "/lodestone/playguide/db/npc/npc/95c92508efd/",
+                    "Area": "Zentrales Hochland von Coerthas (X:32.7 Y:6.3)"
+                },
+                {
+                    "Name": "Zwielichtiger Mann",
+                    "Url": "/lodestone/playguide/db/npc/npc/5ce71ba33c6/",
+                    "Area": "Zentrales Hochland von Coerthas (X:32.0 Y:7.5)"
+                }
+            ]
+        },
+        "Seq": 48,
+        "oldID": 66434,
+        "Map": {
+            "ID": 53
+        }
+    },
+    {
+        "ID": "bc3b36fbb61",
+        "Name": "Liebe am Abgrund",
+        "Location": "Zentrales Hochland von Coerthas",
+        "Level": 38,
+        "JournalSection": 3,
+        "JournalCategory": 41,
+        "JournalGenre": "Aufträge Coerthas",
+        "Url": "/lodestone/playguide/db/quest/bc3b36fbb61/",
+        "Image": null,
+        "Icon": "common_normal",
+        "Issuer": "Juline",
+        "StartLocation": {
+            "Name": "Zentrales Hochland von Coerthas",
+            "X": "25.6",
+            "Y": "15.5"
+        },
+        "StartClass": null,
+        "Job": "",
+        "Company": "Keine Angabe",
+        "Requirement": "Keine Angabe",
+        "Rewards": {
+            "Gil": 0,
+            "Exp": 10105,
+            "ItemsMand": [],
+            "ItemsOpt": [
+                {
+                    "Icon": "https://img.finalfantasyxiv.com/lds/pc/global/images/itemicon/8f/8f1bc21ae504b2d9fd6736a8b775796ee8986724.png?n5.5",
+                    "Name": "Knochen-Schuppenpanzer",
+                    "Amount": 1,
+                    "Url": "/lodestone/playguide/db/item/32656b374c8/"
+                },
+                {
+                    "Icon": "https://img.finalfantasyxiv.com/lds/pc/global/images/itemicon/7a/7a5da8d11892a13ed342692c8da676ee2dccbd94.png?n5.5",
+                    "Name": "Keilerleder-Gurtzeug",
+                    "Amount": 1,
+                    "Url": "/lodestone/playguide/db/item/95dd9c7e580/"
+                },
+                {
+                    "Icon": "https://img.finalfantasyxiv.com/lds/pc/global/images/itemicon/a3/a30ca16d0edfaee63b2a0e5ca8662603f6269b2c.png?n5.5",
+                    "Name": "Bearbeitete Leinenkukulle",
+                    "Amount": 1,
+                    "Url": "/lodestone/playguide/db/item/4ee99cd38a2/"
+                },
+                {
+                    "Icon": "https://img.finalfantasyxiv.com/lds/pc/global/images/itemicon/ba/baa2341dd17414fae7fd62ae7bc62c64589b67be.png?n5.5",
+                    "Name": "Allagisches Silberstück",
+                    "Amount": 8,
+                    "Url": "/lodestone/playguide/db/item/a3ac3ba4b00/"
+                }
+            ]
+        },
+        "Infos": {
+            "PrevQuests": [
+                {
+                    "Name": "Matigniant",
+                    "Url": "/lodestone/playguide/db/npc/npc/ca42b51c536/",
+                    "Area": "Zentrales Hochland von Coerthas (X:30.2 Y:15.3)"
+                }
+            ]
+        },
+        "Seq": 58,
+        "oldID": 66450,
+        "Map": {
+            "ID": 53
+        }
+    },
+    {
+        "ID": "bd22013cb0f",
+        "Name": "Ausufernder Ehrgeiz",
+        "Location": "Zentrales Hochland von Coerthas",
+        "Level": 40,
+        "JournalSection": 3,
+        "JournalCategory": 41,
+        "JournalGenre": "Aufträge Coerthas",
+        "Url": "/lodestone/playguide/db/quest/bd22013cb0f/",
+        "Image": null,
+        "Icon": "common_normal",
+        "Issuer": "Berengeoit",
+        "StartLocation": {
+            "Name": "Zentrales Hochland von Coerthas",
+            "X": "12.6",
+            "Y": "15.7"
+        },
+        "StartClass": null,
+        "Job": "",
+        "Company": "Keine Angabe",
+        "Requirement": "Keine Angabe",
+        "Rewards": {
+            "Gil": 0,
+            "Exp": 11270,
+            "ItemsMand": [],
+            "ItemsOpt": [
+                {
+                    "Icon": "https://img.finalfantasyxiv.com/lds/pc/global/images/itemicon/b5/b5e980beac9d878372b1f248da836c3fa48838be.png?n5.5",
+                    "Name": "Mithrilkreolen",
+                    "Amount": 1,
+                    "Url": "/lodestone/playguide/db/item/3a38b8a3dd2/"
+                },
+                {
+                    "Icon": "https://img.finalfantasyxiv.com/lds/pc/global/images/itemicon/7d/7dc10c45eefa3d5c3a3631b67bc19d421415d0c5.png?n5.5",
+                    "Name": "Weißperlen-Ohrringe",
+                    "Amount": 1,
+                    "Url": "/lodestone/playguide/db/item/bb2c2f37536/"
+                },
+                {
+                    "Icon": "https://img.finalfantasyxiv.com/lds/pc/global/images/itemicon/ba/baa2341dd17414fae7fd62ae7bc62c64589b67be.png?n5.5",
+                    "Name": "Allagisches Goldstück",
+                    "Amount": 1,
+                    "Url": "/lodestone/playguide/db/item/5196db0fd91/"
+                }
+            ]
+        },
+        "Infos": {
+            "PrevQuests": [
+                {
+                    "Name": "Die Macht der Drachen",
+                    "Url": "/lodestone/playguide/db/quest/bcd612f8b59/",
+                    "Area": "Zentrales Hochland von Coerthas",
+                    "Level": "40"
+                }
+            ]
+        },
+        "Seq": 74,
+        "oldID": 66481,
+        "Map": {
+            "ID": 53
+        }
+    },
+    {
+        "ID": "c3c70190620",
+        "Name": "Frostige Zeiten",
+        "Location": "Westliches Hochland von Coerthas",
+        "Level": 50,
+        "JournalSection": 3,
+        "JournalCategory": 41,
+        "JournalGenre": "Aufträge Coerthas",
+        "Url": "/lodestone/playguide/db/quest/c3c70190620/",
+        "Image": "https://img.finalfantasyxiv.com/lds/pc/global/images/itemicon/3a/3a5db22b3119c5cb72ec667a711fed12e33d1471.png?n5.5",
+        "Icon": "common_normal",
+        "Issuer": "Auriaune",
+        "StartLocation": {
+            "Name": "Westliches Hochland von Coerthas",
+            "X": "31.8",
+            "Y": "38.5"
+        },
+        "StartClass": null,
+        "Job": "",
+        "Company": "Keine Angabe",
+        "Requirement": "Keine Angabe",
+        "Rewards": {
+            "Gil": 714,
+            "Exp": 24000,
+            "ItemsMand": [],
+            "ItemsOpt": []
+        },
+        "Infos": {
+            "PrevQuests": [
+                {
+                    "Name": "Falkenhorst",
+                    "Url": "/lodestone/playguide/db/quest/7151b0eefcd/",
+                    "Area": "Anwesen der Fortemps",
+                    "Level": "50"
+                }
+            ],
+            "NextQuests": [
+                {
+                    "Name": "Begraben unter Schnee",
+                    "Url": "/lodestone/playguide/db/quest/2d9858ca781/",
+                    "Area": "Westliches Hochland von Coerthas",
+                    "Level": "50"
+                }
+            ],
+            "NPCs": [
+                {
+                    "Name": "Sigan",
+                    "Url": "/lodestone/playguide/db/npc/npc/ffea2a4883a/",
+                    "Area": "Westliches Hochland von Coerthas (X:30.6 Y:36.3)"
+                }
+            ]
+        },
+        "Seq": 5,
+        "oldID": 67269,
+        "Map": {
+            "ID": 211
+        }
+    },
+    {
+        "ID": "c5646872554",
+        "Name": "Die kaputte Brücke",
+        "Location": "Westliches Hochland von Coerthas",
+        "Level": 50,
+        "JournalSection": 3,
+        "JournalCategory": 41,
+        "JournalGenre": "Aufträge Coerthas",
+        "Url": "/lodestone/playguide/db/quest/c5646872554/",
+        "Image": null,
+        "Icon": "function_normal",
+        "Issuer": "Ingaret",
+        "StartLocation": {
+            "Name": "Westliches Hochland von Coerthas",
+            "X": "32.4",
+            "Y": "35.8"
+        },
+        "StartClass": null,
+        "Job": "",
+        "Company": "Keine Angabe",
+        "Requirement": "Keine Angabe",
+        "Rewards": {
+            "Gil": 730,
+            "Exp": 24000,
+            "ItemsMand": [
+                {
+                    "Icon": "https://img.finalfantasyxiv.com/lds/pc/global/images/itemicon/af/af26e4b79fb1de83550f6ddbd3a170408fcfe702.png?n5.5",
+                    "Name": "",
+                    "Amount": null
+                }
+            ],
+            "ItemsOpt": []
+        },
+        "Infos": {
+            "PrevQuests": [
+                {
+                    "Name": "Die Audienz",
+                    "Url": "/lodestone/playguide/db/quest/c30cb94ef47/",
+                    "Area": "Ishgard",
+                    "Level": "50"
+                }
+            ]
+        },
+        "Seq": 4,
+        "oldID": 67280,
+        "Map": {
+            "ID": 211
+        }
+    },
+    {
+        "ID": "cf4a1dc54ce",
+        "Name": "Freibriefe des Observatoriums",
+        "Location": "Zentrales Hochland von Coerthas",
+        "Level": 35,
+        "JournalSection": 3,
+        "JournalCategory": 41,
+        "JournalGenre": "Aufträge Coerthas",
+        "Url": "/lodestone/playguide/db/quest/cf4a1dc54ce/",
+        "Image": null,
+        "Icon": "function_normal",
+        "Issuer": "Cimeaurant",
+        "StartLocation": {
+            "Name": "Zentrales Hochland von Coerthas",
+            "X": "26.0",
+            "Y": "28.3"
+        },
+        "StartClass": null,
+        "Job": "",
+        "Company": "Keine Angabe",
+        "Requirement": "Keine Angabe",
+        "Rewards": {
+            "Gil": 1791,
+            "Exp": 9020,
+            "ItemsMand": [],
+            "ItemsOpt": []
+        },
+        "Infos": {
+            "PrevQuests": [
+                {
+                    "Name": "Freibriefe der Tölpelturm-Siedlung",
+                    "Url": "/lodestone/playguide/db/quest/8b2de303b68/",
+                    "Area": "Limsa Lominsa",
+                    "Level": "10"
+                },
+                {
+                    "Name": "Freibriefe von Zwieselgrund",
+                    "Url": "/lodestone/playguide/db/quest/08e04b5f634/",
+                    "Area": "Gridania",
+                    "Level": "10"
+                },
+                {
+                    "Name": "Freibriefe von Ul'dah",
+                    "Url": "/lodestone/playguide/db/quest/c4ed1e8736c/",
+                    "Area": "Ul'dah",
+                    "Level": "10"
+                }
+            ]
+        },
+        "Seq": 39,
+        "oldID": 65552,
+        "Map": {
+            "ID": 53
+        }
+    },
+    {
+        "ID": "d5191b96c6d",
+        "Name": "Camp-Vorräte in Gefahr",
+        "Location": "Westliches Hochland von Coerthas",
+        "Level": 51,
+        "JournalSection": 3,
+        "JournalCategory": 41,
+        "JournalGenre": "Aufträge Coerthas",
+        "Url": "/lodestone/playguide/db/quest/d5191b96c6d/",
+        "Image": null,
+        "Icon": "function_normal",
+        "Issuer": "Luciae",
+        "StartLocation": {
+            "Name": "Westliches Hochland von Coerthas",
+            "X": "16.5",
+            "Y": "22.5"
+        },
+        "StartClass": null,
+        "Job": "",
+        "Company": "Keine Angabe",
+        "Requirement": "Keine Angabe",
+        "Rewards": {
+            "Gil": 496,
+            "Exp": 25200,
+            "ItemsMand": [
+                {
+                    "Icon": "https://img.finalfantasyxiv.com/lds/pc/global/images/itemicon/af/af26e4b79fb1de83550f6ddbd3a170408fcfe702.png?n5.5",
+                    "Name": "",
+                    "Amount": null
+                }
+            ],
+            "ItemsOpt": [
+                {
+                    "Icon": "https://img.finalfantasyxiv.com/lds/pc/global/images/itemicon/f7/f75219f0e06d37a5c527cf24dbb20b8ebb0eae48.png?n5.5",
+                    "Name": "Speckzopf",
+                    "Amount": 3,
+                    "Url": "/lodestone/playguide/db/item/35081b8384b/"
+                },
+                {
+                    "Icon": "https://img.finalfantasyxiv.com/lds/pc/global/images/itemicon/21/21c6b808f0e4b460ec8b4f88908441f48c1eab51.png?n5.5",
+                    "Name": "Taramosalata",
+                    "Amount": 3,
+                    "Url": "/lodestone/playguide/db/item/38df087fd67/"
+                },
+                {
+                    "Icon": "https://img.finalfantasyxiv.com/lds/pc/global/images/itemicon/8a/8a7b7e68ab6fdb5284cf36875daf25e66850aae7.png?n5.5",
+                    "Name": "Einspänner",
+                    "Amount": 3,
+                    "Url": "/lodestone/playguide/db/item/4aa4865d977/"
+                }
+            ]
+        },
+        "Infos": {
+            "PrevQuests": [
+                {
+                    "Name": "Finneas Vollstrecker",
+                    "Url": "/lodestone/playguide/db/quest/98b3c2a23dc/",
+                    "Area": "Westliches Hochland von Coerthas",
+                    "Level": "51"
+                }
+            ],
+            "NextQuests": [
+                {
+                    "Name": "Decken braucht das Camp",
+                    "Url": "/lodestone/playguide/db/quest/68bb018e29d/",
+                    "Area": "Westliches Hochland von Coerthas",
+                    "Level": "51"
+                }
+            ]
+        },
+        "Seq": 12,
+        "oldID": 67295,
+        "Map": {
+            "ID": 211
+        }
+    },
+    {
+        "ID": "dc45bb34b07",
+        "Name": "Groll im Ogerbauch",
+        "Location": "Zentrales Hochland von Coerthas",
+        "Level": 37,
+        "JournalSection": 3,
+        "JournalCategory": 41,
+        "JournalGenre": "Aufträge Coerthas",
+        "Url": "/lodestone/playguide/db/quest/dc45bb34b07/",
+        "Image": null,
+        "Icon": "common_normal",
+        "Issuer": "Meduil",
+        "StartLocation": {
+            "Name": "Zentrales Hochland von Coerthas",
+            "X": "25.3",
+            "Y": "15.6"
+        },
+        "StartClass": null,
+        "Job": "",
+        "Company": "Keine Angabe",
+        "Requirement": "Keine Angabe",
+        "Rewards": {
+            "Gil": 1571,
+            "Exp": 9660,
+            "ItemsMand": [],
+            "ItemsOpt": []
+        },
+        "Infos": {},
+        "Seq": 55,
+        "oldID": 66451,
+        "Map": {
+            "ID": 53
+        }
+    },
+    {
+        "ID": "defb4eada5b",
+        "Name": "Im Blutrot des Abends",
+        "Location": "Westliches Hochland von Coerthas",
+        "Level": 51,
+        "JournalSection": 3,
+        "JournalCategory": 41,
+        "JournalGenre": "Aufträge Coerthas",
+        "Url": "/lodestone/playguide/db/quest/defb4eada5b/",
+        "Image": "https://img.finalfantasyxiv.com/lds/pc/global/images/itemicon/22/225aa84498f1f5e701f53b96523cd3bb6ea46f0c.png?n5.5",
+        "Icon": "function_normal",
+        "Issuer": "Wealdtheow",
+        "StartLocation": {
+            "Name": "Westliches Hochland von Coerthas",
+            "X": "16.9",
+            "Y": "22.8"
+        },
+        "StartClass": null,
+        "Job": "",
+        "Company": "Keine Angabe",
+        "Requirement": "Keine Angabe",
+        "Rewards": {
+            "Gil": 5000,
+            "Exp": 25200,
+            "ItemsMand": [
+                {
+                    "Icon": "https://img.finalfantasyxiv.com/lds/pc/global/images/itemicon/af/af26e4b79fb1de83550f6ddbd3a170408fcfe702.png?n5.5",
+                    "Name": "",
+                    "Amount": null
+                }
+            ],
+            "ItemsOpt": []
+        },
+        "Infos": {
+            "PrevQuests": [
+                {
+                    "Name": "Der ewige Kreis",
+                    "Url": "/lodestone/playguide/db/quest/2c4df80a5f6/",
+                    "Area": "Westliches Hochland von Coerthas",
+                    "Level": "51"
+                }
+            ],
+            "NextQuests": [
+                {
+                    "Name": "Nadinie",
+                    "Url": "/lodestone/playguide/db/npc/npc/f7c94d671e1/",
+                    "Area": "Westliches Hochland von Coerthas (X:20.8 Y:7.8)"
+                }
+            ]
+        },
+        "Seq": 38,
+        "oldID": 67647,
+        "Map": {
+            "ID": 211
+        }
+    },
+    {
+        "ID": "e3dd8b98bad",
+        "Name": "Kopfgeldjagd auf Schneewölfe",
+        "Location": "Zentrales Hochland von Coerthas",
+        "Level": 37,
+        "JournalSection": 3,
+        "JournalCategory": 41,
+        "JournalGenre": "Aufträge Coerthas",
+        "Url": "/lodestone/playguide/db/quest/e3dd8b98bad/",
+        "Image": null,
+        "Icon": "common_normal",
+        "Issuer": "Corentiaux",
+        "StartLocation": {
+            "Name": "Zentrales Hochland von Coerthas",
+            "X": "26.7",
+            "Y": "17.5"
+        },
+        "StartClass": null,
+        "Job": "",
+        "Company": "Keine Angabe",
+        "Requirement": "Keine Angabe",
+        "Rewards": {
+            "Gil": 1861,
+            "Exp": 9660,
+            "ItemsMand": [],
+            "ItemsOpt": []
+        },
+        "Infos": {
+            "PrevQuests": [
+                {
+                    "Name": "Die Krux der Familie Haillenarte",
+                    "Url": "/lodestone/playguide/db/quest/8d4e96af5e9/",
+                    "Area": "Zentrales Hochland von Coerthas",
+                    "Level": "36"
+                }
+            ],
+            "NextQuests": [
+                {
+                    "Name": "In die Irre geleitet",
+                    "Url": "/lodestone/playguide/db/quest/9894d398700/",
+                    "Area": "Zentrales Hochland von Coerthas",
+                    "Level": "37"
+                }
+            ]
+        },
+        "Seq": 49,
+        "oldID": 66435,
+        "Map": {
+            "ID": 53
+        }
+    },
+    {
+        "ID": "e6e2a5e1155",
+        "Name": "Ayleths Ambitionen",
+        "Location": "Westliches Hochland von Coerthas",
+        "Level": 56,
+        "JournalSection": 3,
+        "JournalCategory": 41,
+        "JournalGenre": "Aufträge Coerthas",
+        "Url": "/lodestone/playguide/db/quest/e6e2a5e1155/",
+        "Image": "https://img.finalfantasyxiv.com/lds/pc/global/images/itemicon/43/439a653c8e3afa2c7e253f04fe30f8d53e6d97e0.png?n5.5",
+        "Icon": "common_normal",
+        "Issuer": "Margyt",
+        "StartLocation": {
+            "Name": "Westliches Hochland von Coerthas",
+            "X": "17.3",
+            "Y": "22.8"
+        },
+        "StartClass": null,
+        "Job": "",
+        "Company": "Keine Angabe",
+        "Requirement": "Keine Angabe",
+        "Rewards": {
+            "Gil": 558,
+            "Exp": 36000,
+            "ItemsMand": [],
+            "ItemsOpt": [
+                {
+                    "Icon": "https://img.finalfantasyxiv.com/lds/pc/global/images/itemicon/d6/d601eddf5d48e24e850bf8abd155e25a22663741.png?n5.5",
+                    "Name": "Drachenleder-Stiefel des Zielens",
+                    "Amount": 1,
+                    "Url": "/lodestone/playguide/db/item/dbc13501ba6/?hq=1"
+                },
+                {
+                    "Icon": "https://img.finalfantasyxiv.com/lds/pc/global/images/itemicon/17/172fdce2d94b9a52964698552490a912e14cf15d.png?n5.5",
+                    "Name": "Drachenleder-Stiefel der Heilung",
+                    "Amount": 1,
+                    "Url": "/lodestone/playguide/db/item/f8c1d4c0759/?hq=1"
+                },
+                {
+                    "Icon": "https://img.finalfantasyxiv.com/lds/pc/global/images/itemicon/f4/f490f85efb1c5a3c2057fc4fe81465e94c01491d.png?n5.5",
+                    "Name": "Drachenleder-Stiefel der Magie",
+                    "Amount": 1,
+                    "Url": "/lodestone/playguide/db/item/f531cd396ed/?hq=1"
+                },
+                {
+                    "Icon": "https://img.finalfantasyxiv.com/lds/pc/global/images/itemicon/ba/baa2341dd17414fae7fd62ae7bc62c64589b67be.png?n5.5",
+                    "Name": "Allagisches Silberstück",
+                    "Amount": 5,
+                    "Url": "/lodestone/playguide/db/item/a3ac3ba4b00/"
+                }
+            ]
+        },
+        "Infos": {
+            "PrevQuests": [
+                {
+                    "Name": "Wild entschlossen",
+                    "Url": "/lodestone/playguide/db/quest/502fe826ab0/",
+                    "Area": "Ishgard",
+                    "Level": "56"
+                },
+                {
+                    "Name": "Frustration am Falkenhorst",
+                    "Url": "/lodestone/playguide/db/quest/6c1e9ad14d0/",
+                    "Area": "Westliches Hochland von Coerthas",
+                    "Level": "56"
+                },
+                {
+                    "Name": "Sturköpfe sind dicker als Blut",
+                    "Url": "/lodestone/playguide/db/quest/3f8904a0a88/",
+                    "Area": "Ishgard",
+                    "Level": "56"
+                }
+            ],
+            "NextQuests": [
+                {
+                    "Name": "Ayleth auf Abwegen",
+                    "Url": "/lodestone/playguide/db/quest/4af2b0f8b89/",
+                    "Area": "Westliches Hochland von Coerthas",
+                    "Level": "56"
+                }
+            ],
+            "NPCs": [
+                {
+                    "Name": "Ayleth",
+                    "Url": "/lodestone/playguide/db/npc/npc/7d500a79b09/",
+                    "Area": "Westliches Hochland von Coerthas (X:19.4 Y:35.9)"
+                }
+            ]
+        },
+        "Seq": 34,
+        "oldID": 67427,
+        "Map": {
+            "ID": 211
+        }
+    },
+    {
+        "ID": "e8c27b044ec",
+        "Name": "Alte Geschichten",
+        "Location": "Westliches Hochland von Coerthas",
+        "Level": 51,
+        "JournalSection": 3,
+        "JournalCategory": 41,
+        "JournalGenre": "Aufträge Coerthas",
+        "Url": "/lodestone/playguide/db/quest/e8c27b044ec/",
+        "Image": null,
+        "Icon": "common_normal",
+        "Issuer": "Vornehme Greisin",
+        "StartLocation": {
+            "Name": "Westliches Hochland von Coerthas",
+            "X": "33.3",
+            "Y": "38.0"
+        },
+        "StartClass": null,
+        "Job": "",
+        "Company": "Keine Angabe",
+        "Requirement": "Keine Angabe",
+        "Rewards": {
+            "Gil": 596,
+            "Exp": 25200,
+            "ItemsMand": [],
+            "ItemsOpt": []
+        },
+        "Infos": {
+            "PrevQuests": [
+                {
+                    "Name": "Ein Plan nimmt Gestalt an",
+                    "Url": "/lodestone/playguide/db/quest/77cb6c15d41/",
+                    "Area": "Anwesen der Fortemps",
+                    "Level": "51"
+                }
+            ]
+        },
+        "Seq": 10,
+        "oldID": 67288,
+        "Map": {
+            "ID": 211
+        }
+    },
+    {
+        "ID": "e9c20d61570",
+        "Name": "Der Weg des Schneeballwerfers",
+        "Location": "Zentrales Hochland von Coerthas",
+        "Level": 36,
+        "JournalSection": 3,
+        "JournalCategory": 41,
+        "JournalGenre": "Aufträge Coerthas",
+        "Url": "/lodestone/playguide/db/quest/e9c20d61570/",
+        "Image": null,
+        "Icon": "common_normal",
+        "Issuer": "Maucolyn",
+        "StartLocation": {
+            "Name": "Zentrales Hochland von Coerthas",
+            "X": "24.9",
+            "Y": "27.7"
+        },
+        "StartClass": null,
+        "Job": "",
+        "Company": "Keine Angabe",
+        "Requirement": "Keine Angabe",
+        "Rewards": {
+            "Gil": 0,
+            "Exp": 7087,
+            "ItemsMand": [
+                {
+                    "Icon": "https://img.finalfantasyxiv.com/lds/pc/global/images/itemicon/2c/2c24d232cfaf542f759c13729683b86a01e53cfc.png?n5.5",
+                    "Name": "",
+                    "Amount": null
+                }
+            ],
+            "ItemsOpt": []
+        },
+        "Infos": {
+            "PrevQuests": [
+                {
+                    "Name": "Den Schneeball aufnehmen",
+                    "Url": "/lodestone/playguide/db/quest/21d3e17b63e/",
+                    "Area": "Zentrales Hochland von Coerthas",
+                    "Level": "36"
+                }
+            ],
+            "NextQuests": [
+                {
+                    "Name": "Duvicauroix",
+                    "Url": "/lodestone/playguide/db/npc/npc/2d4c2de06c8/",
+                    "Area": "Zentrales Hochland von Coerthas (X:26.3 Y:27.9)"
+                }
+            ]
+        },
+        "Seq": 46,
+        "oldID": 66846,
+        "Map": {
+            "ID": 53
+        }
+    },
+    {
+        "ID": "eeeb0aa4765",
+        "Name": "Feuerwache",
+        "Location": "Zentrales Hochland von Coerthas",
+        "Level": 37,
+        "JournalSection": 3,
+        "JournalCategory": 41,
+        "JournalGenre": "Aufträge Coerthas",
+        "Url": "/lodestone/playguide/db/quest/eeeb0aa4765/",
+        "Image": null,
+        "Icon": "common_normal",
+        "Issuer": "Arthurioux",
+        "StartLocation": {
+            "Name": "Zentrales Hochland von Coerthas",
+            "X": "26.3",
+            "Y": "18.4"
+        },
+        "StartClass": null,
+        "Job": "",
+        "Company": "Keine Angabe",
+        "Requirement": "Keine Angabe",
+        "Rewards": {
+            "Gil": 1478,
+            "Exp": 9660,
+            "ItemsMand": [],
+            "ItemsOpt": []
+        },
+        "Infos": {
+            "PrevQuests": [
+                {
+                    "Name": "Die Krux der Familie Haillenarte",
+                    "Url": "/lodestone/playguide/db/quest/8d4e96af5e9/",
+                    "Area": "Zentrales Hochland von Coerthas",
+                    "Level": "36"
+                }
+            ]
+        },
+        "Seq": 51,
+        "oldID": 66438,
+        "Map": {
+            "ID": 53
+        }
+    },
+    {
+        "ID": "f215ff0b998",
+        "Name": "Die Killerbestie",
+        "Location": "Zentrales Hochland von Coerthas",
+        "Level": 36,
+        "JournalSection": 3,
+        "JournalCategory": 41,
+        "JournalGenre": "Aufträge Coerthas",
+        "Url": "/lodestone/playguide/db/quest/f215ff0b998/",
+        "Image": null,
+        "Icon": "common_normal",
+        "Issuer": "Duvicauroix",
+        "StartLocation": {
+            "Name": "Zentrales Hochland von Coerthas",
+            "X": "26.3",
+            "Y": "27.9"
+        },
+        "StartClass": null,
+        "Job": "",
+        "Company": "Keine Angabe",
+        "Requirement": "Keine Angabe",
+        "Rewards": {
+            "Gil": 1544,
+            "Exp": 9450,
+            "ItemsMand": [],
+            "ItemsOpt": []
+        },
+        "Infos": {},
+        "Seq": 41,
+        "oldID": 66427,
+        "Map": {
+            "ID": 53
+        }
+    },
+    {
+        "ID": "f32a3842b36",
+        "Name": "Eisiger Störenfried",
+        "Location": "Zentrales Hochland von Coerthas",
+        "Level": 40,
+        "JournalSection": 3,
+        "JournalCategory": 41,
+        "JournalGenre": "Aufträge Coerthas",
+        "Url": "/lodestone/playguide/db/quest/f32a3842b36/",
+        "Image": null,
+        "Icon": "common_normal",
+        "Issuer": "Ourdilic",
+        "StartLocation": {
+            "Name": "Zentrales Hochland von Coerthas",
+            "X": "6.2",
+            "Y": "22.5"
+        },
+        "StartClass": null,
+        "Job": "",
+        "Company": "Keine Angabe",
+        "Requirement": "Keine Angabe",
+        "Rewards": {
+            "Gil": 1958,
+            "Exp": 11270,
+            "ItemsMand": [],
+            "ItemsOpt": []
+        },
+        "Infos": {
+            "PrevQuests": [
+                {
+                    "Name": "Die drei Störenfriede",
+                    "Url": "/lodestone/playguide/db/quest/5f54f6f948a/",
+                    "Area": "Zentrales Hochland von Coerthas",
+                    "Level": "40"
+                }
+            ],
+            "NextQuests": [
+                {
+                    "Name": "Bleicher Forscher",
+                    "Url": "/lodestone/playguide/db/npc/npc/ef63d22d5de/",
+                    "Area": "Zentrales Hochland von Coerthas (X:2.6 Y:21.0)"
+                }
+            ]
+        },
+        "Seq": 78,
+        "oldID": 66485,
+        "Map": {
+            "ID": 53
+        }
+    },
+    {
+        "ID": "f35e768fe2a",
+        "Name": "Die Ketzerschrift",
+        "Location": "Zentrales Hochland von Coerthas",
+        "Level": 38,
+        "JournalSection": 3,
+        "JournalCategory": 41,
+        "JournalGenre": "Aufträge Coerthas",
+        "Url": "/lodestone/playguide/db/quest/f35e768fe2a/",
+        "Image": null,
+        "Icon": "common_normal",
+        "Issuer": "Eugennoix",
+        "StartLocation": {
+            "Name": "Zentrales Hochland von Coerthas",
+            "X": "25.5",
+            "Y": "17.0"
+        },
+        "StartClass": null,
+        "Job": "",
+        "Company": "Keine Angabe",
+        "Requirement": "Keine Angabe",
+        "Rewards": {
+            "Gil": 0,
+            "Exp": 10105,
+            "ItemsMand": [],
+            "ItemsOpt": [
+                {
+                    "Icon": "https://img.finalfantasyxiv.com/lds/pc/global/images/itemicon/b0/b0e94e6a4b59dc1fc4cd4ba18c72f833c7c945e1.png?n5.5",
+                    "Name": "Goldberyll-Armreif",
+                    "Amount": 1,
+                    "Url": "/lodestone/playguide/db/item/9a69932d966/"
+                },
+                {
+                    "Icon": "https://img.finalfantasyxiv.com/lds/pc/global/images/itemicon/31/31cd65a18306cfa372edfb0e4ed926f249bb6f4f.png?n5.5",
+                    "Name": "Granat-Armreif",
+                    "Amount": 1,
+                    "Url": "/lodestone/playguide/db/item/b1919b69474/"
+                },
+                {
+                    "Icon": "https://img.finalfantasyxiv.com/lds/pc/global/images/itemicon/8a/8a60b6acfc1a5e9e2cb890a3eb2f0d601336c054.png?n5.5",
+                    "Name": "Aquamarin-Armreif",
+                    "Amount": 1,
+                    "Url": "/lodestone/playguide/db/item/a78f5483342/"
+                },
+                {
+                    "Icon": "https://img.finalfantasyxiv.com/lds/pc/global/images/itemicon/ba/baa2341dd17414fae7fd62ae7bc62c64589b67be.png?n5.5",
+                    "Name": "Allagisches Goldstück",
+                    "Amount": 1,
+                    "Url": "/lodestone/playguide/db/item/5196db0fd91/"
+                }
+            ]
+        },
+        "Infos": {},
+        "Seq": 59,
+        "oldID": 66452,
+        "Map": {
+            "ID": 53
+        }
+    },
+    {
+        "ID": "ff50e79b99b",
+        "Name": "Nachschublinien",
+        "Location": "Westliches Hochland von Coerthas",
+        "Level": 56,
+        "JournalSection": 3,
+        "JournalCategory": 41,
+        "JournalGenre": "Aufträge Coerthas",
+        "Url": "/lodestone/playguide/db/quest/ff50e79b99b/",
+        "Image": null,
+        "Icon": "common_normal",
+        "Issuer": "Luciae",
+        "StartLocation": {
+            "Name": "Westliches Hochland von Coerthas",
+            "X": "16.5",
+            "Y": "22.5"
+        },
+        "StartClass": null,
+        "Job": "",
+        "Company": "Keine Angabe",
+        "Requirement": "Keine Angabe",
+        "Rewards": {
+            "Gil": 558,
+            "Exp": 36000,
+            "ItemsMand": [],
+            "ItemsOpt": []
+        },
+        "Infos": {
+            "PrevQuests": [
+                {
+                    "Name": "Wild entschlossen",
+                    "Url": "/lodestone/playguide/db/quest/502fe826ab0/",
+                    "Area": "Ishgard",
+                    "Level": "56"
+                },
+                {
+                    "Name": "Sturköpfe sind dicker als Blut",
+                    "Url": "/lodestone/playguide/db/quest/3f8904a0a88/",
+                    "Area": "Ishgard",
+                    "Level": "56"
+                }
+            ]
+        },
+        "Seq": 30,
+        "oldID": 67432,
+        "Map": {
+            "ID": 211
+        }
+    }
+]

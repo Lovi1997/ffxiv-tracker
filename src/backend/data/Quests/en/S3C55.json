@@ -1,0 +1,1162 @@
+[
+    {
+        "ID": "07f5c4892e9",
+        "Name": " Secrets and Spears",
+        "Location": "The Tempest",
+        "Level": 70,
+        "JournalSection": 3,
+        "JournalCategory": 55,
+        "JournalGenre": "Tempest Sidequests",
+        "Url": "/lodestone/playguide/db/quest/07f5c4892e9/",
+        "Image": null,
+        "Icon": "common_normal",
+        "Issuer": "Pegshs Ooan",
+        "StartLocation": {
+            "Name": "The Tempest",
+            "X": "32.4",
+            "Y": "18.0"
+        },
+        "StartClass": null,
+        "Job": "",
+        "Company": "Not specified",
+        "Requirement": "Not specified",
+        "Rewards": {
+            "Gil": 779,
+            "Exp": null,
+            "ItemsMand": [],
+            "ItemsOpt": []
+        },
+        "Infos": {
+            "PrevQuests": [
+                {
+                    "Name": "Waiting in the Depths",
+                    "Url": "/lodestone/playguide/db/quest/7034c050956/",
+                    "Area": "The Tempest",
+                    "Level": "79"
+                }
+            ],
+            "NextQuests": [
+                {
+                    "Name": "Ondo Elder",
+                    "Url": "/lodestone/playguide/db/npc/npc/6cdfbf8ddbf/",
+                    "Area": "The Tempest (X:32.0 Y:16.1)"
+                },
+                {
+                    "Name": "Shifty-eyed Ondo",
+                    "Url": "/lodestone/playguide/db/npc/npc/a170eb13f6b/",
+                    "Area": "The Tempest (X:29.0 Y:14.5)"
+                },
+                {
+                    "Name": "Veteran Gateguard",
+                    "Url": "/lodestone/playguide/db/npc/npc/eea5adf4ec6/",
+                    "Area": "The Tempest (X:32.8 Y:19.6)"
+                },
+                {
+                    "Name": "Youthful Gateguard",
+                    "Url": "/lodestone/playguide/db/npc/npc/906f76820e2/",
+                    "Area": "The Tempest (X:28.7 Y:15.6)"
+                }
+            ]
+        },
+        "Seq": 7,
+        "oldID": 69119,
+        "Map": {
+            "ID": 496
+        }
+    },
+    {
+        "ID": "13d9311ecd2",
+        "Name": " Responsible Creation",
+        "Location": "The Tempest",
+        "Level": 70,
+        "JournalSection": 3,
+        "JournalCategory": 55,
+        "JournalGenre": "Tempest Sidequests",
+        "Url": "/lodestone/playguide/db/quest/13d9311ecd2/",
+        "Image": "https://img.finalfantasyxiv.com/lds/pc/global/images/itemicon/88/883a109379fce03b2d5b162b2c5974dc5b998d29.png?n5.5",
+        "Icon": "function_normal",
+        "Issuer": "Bureau Attendant",
+        "StartLocation": {
+            "Name": "The Tempest",
+            "X": "13.6",
+            "Y": "27.6"
+        },
+        "StartClass": null,
+        "Job": "",
+        "Company": "Not specified",
+        "Requirement": "Not specified",
+        "Rewards": {
+            "Gil": 861,
+            "Exp": null,
+            "ItemsMand": [
+                {
+                    "Icon": "https://img.finalfantasyxiv.com/lds/pc/global/images/itemicon/af/af26e4b79fb1de83550f6ddbd3a170408fcfe702.png?n5.5",
+                    "Name": "",
+                    "Amount": null
+                }
+            ],
+            "ItemsOpt": []
+        },
+        "Infos": {
+            "PrevQuests": [
+                {
+                    "Name": "The End of a World",
+                    "Url": "/lodestone/playguide/db/quest/33b52b395d3/",
+                    "Area": "The Tempest",
+                    "Level": "80"
+                }
+            ],
+            "NextQuests": [
+                {
+                    "Name": "Addled Amaurotine",
+                    "Url": "/lodestone/playguide/db/npc/npc/90bddcddeee/",
+                    "Area": "The Tempest (X:13.6 Y:27.1)"
+                },
+                {
+                    "Name": "Kindly Amaurotine",
+                    "Url": "/lodestone/playguide/db/npc/npc/ee96a6c828c/",
+                    "Area": "The Tempest (X:13.2 Y:26.6)"
+                },
+                {
+                    "Name": "Passionate Amaurotine",
+                    "Url": "/lodestone/playguide/db/npc/npc/852aac5f2dc/",
+                    "Area": "The Tempest (X:14.1 Y:27.0)"
+                }
+            ]
+        },
+        "Seq": 16,
+        "oldID": 69128,
+        "Map": {
+            "ID": 496
+        }
+    },
+    {
+        "ID": "1726dcf7f15",
+        "Name": " Beyond the Reach of Koal",
+        "Location": "The Tempest",
+        "Level": 70,
+        "JournalSection": 3,
+        "JournalCategory": 55,
+        "JournalGenre": "Tempest Sidequests",
+        "Url": "/lodestone/playguide/db/quest/1726dcf7f15/",
+        "Image": null,
+        "Icon": "common_normal",
+        "Issuer": "Sorashs Koal",
+        "StartLocation": {
+            "Name": "The Tempest",
+            "X": "34.7",
+            "Y": "17.9"
+        },
+        "StartClass": null,
+        "Job": "",
+        "Company": "Not specified",
+        "Requirement": "Not specified",
+        "Rewards": {
+            "Gil": 706,
+            "Exp": null,
+            "ItemsMand": [],
+            "ItemsOpt": []
+        },
+        "Infos": {
+            "PrevQuests": [
+                {
+                    "Name": "Waiting in the Depths",
+                    "Url": "/lodestone/playguide/db/quest/7034c050956/",
+                    "Area": "The Tempest",
+                    "Level": "79"
+                }
+            ]
+        },
+        "Seq": 3,
+        "oldID": 69115,
+        "Map": {
+            "ID": 496
+        }
+    },
+    {
+        "ID": "29a391969d7",
+        "Name": " Create the Birthing Rope",
+        "Location": "The Tempest",
+        "Level": 70,
+        "JournalSection": 3,
+        "JournalCategory": 55,
+        "JournalGenre": "Tempest Sidequests",
+        "Url": "/lodestone/playguide/db/quest/29a391969d7/",
+        "Image": "https://img.finalfantasyxiv.com/lds/pc/global/images/itemicon/33/33a403edc8765abbe118116fc19839cacf938ece.png?n5.5",
+        "Icon": "common_normal",
+        "Issuer": "Naroshs Koal",
+        "StartLocation": {
+            "Name": "The Tempest",
+            "X": "31.5",
+            "Y": "14.6"
+        },
+        "StartClass": null,
+        "Job": "",
+        "Company": "Not specified",
+        "Requirement": "Not specified",
+        "Rewards": {
+            "Gil": 1290,
+            "Exp": null,
+            "ItemsMand": [],
+            "ItemsOpt": []
+        },
+        "Infos": {
+            "PrevQuests": [
+                {
+                    "Name": " Mother's Mnyiri",
+                    "Url": "/lodestone/playguide/db/quest/6deb8dc1419/",
+                    "Area": "The Tempest",
+                    "Level": "70"
+                }
+            ],
+            "NextQuests": [
+                {
+                    "Name": " Tomorrow Is in Your Fins",
+                    "Url": "/lodestone/playguide/db/quest/58c5a977964/",
+                    "Area": "The Tempest",
+                    "Level": "70"
+                }
+            ],
+            "NPCs": [
+                {
+                    "Name": "Naroshs Koal",
+                    "Url": "/lodestone/playguide/db/npc/npc/3671d65fb67/",
+                    "Area": "Kholusia (X:35.0 Y:28.6)"
+                },
+                {
+                    "Name": "Naroshs Koal",
+                    "Url": "/lodestone/playguide/db/npc/npc/fcee8340c14/",
+                    "Area": "The Tempest (X:33.4 Y:18.1)"
+                },
+                {
+                    "Name": "Xeroshs Ooan",
+                    "Url": "/lodestone/playguide/db/npc/npc/28c505a3b65/",
+                    "Area": "The Tempest (X:33.5 Y:18.1)"
+                }
+            ]
+        },
+        "Seq": 14,
+        "oldID": 69126,
+        "Map": {
+            "ID": 496
+        }
+    },
+    {
+        "ID": "2de3acadf58",
+        "Name": " Scavenger Deep",
+        "Location": "The Tempest",
+        "Level": 70,
+        "JournalSection": 3,
+        "JournalCategory": 55,
+        "JournalGenre": "Tempest Sidequests",
+        "Url": "/lodestone/playguide/db/quest/2de3acadf58/",
+        "Image": null,
+        "Icon": "common_normal",
+        "Issuer": "Nakshs Koal",
+        "StartLocation": {
+            "Name": "The Tempest",
+            "X": "34.1",
+            "Y": "18.0"
+        },
+        "StartClass": null,
+        "Job": "",
+        "Company": "Not specified",
+        "Requirement": "Not specified",
+        "Rewards": {
+            "Gil": 825,
+            "Exp": null,
+            "ItemsMand": [
+                {
+                    "Icon": "https://img.finalfantasyxiv.com/lds/pc/global/images/itemicon/66/66e40643e0b44d9f56e8628395cdf870c5820fe6.png?n5.5",
+                    "Name": "High Mythril Necklace Coffer",
+                    "Amount": 1,
+                    "Url": "/lodestone/playguide/db/item/9e50e91b51b/"
+                }
+            ],
+            "ItemsOpt": []
+        },
+        "Infos": {
+            "PrevQuests": [
+                {
+                    "Name": "Waiting in the Depths",
+                    "Url": "/lodestone/playguide/db/quest/7034c050956/",
+                    "Area": "The Tempest",
+                    "Level": "79"
+                }
+            ],
+            "NextQuests": [
+                {
+                    "Name": " More than One Way to Skin a Stingray",
+                    "Url": "/lodestone/playguide/db/quest/66fa699bc40/",
+                    "Area": "The Tempest",
+                    "Level": "70"
+                }
+            ]
+        },
+        "Seq": 8,
+        "oldID": 69120,
+        "Map": {
+            "ID": 496
+        }
+    },
+    {
+        "ID": "3236408e9df",
+        "Name": " Do the Chuckle",
+        "Location": "The Tempest",
+        "Level": 70,
+        "JournalSection": 3,
+        "JournalCategory": 55,
+        "JournalGenre": "Tempest Sidequests",
+        "Url": "/lodestone/playguide/db/quest/3236408e9df/",
+        "Image": null,
+        "Icon": "common_normal",
+        "Issuer": "Deushs Aath",
+        "StartLocation": {
+            "Name": "The Tempest",
+            "X": "31.8",
+            "Y": "17.9"
+        },
+        "StartClass": null,
+        "Job": "",
+        "Company": "Not specified",
+        "Requirement": "Not specified",
+        "Rewards": {
+            "Gil": 606,
+            "Exp": null,
+            "ItemsMand": [],
+            "ItemsOpt": [
+                {
+                    "Icon": "https://img.finalfantasyxiv.com/lds/pc/global/images/itemicon/4a/4a2939cfd6283bed13ab6104f3baed9a8104d360.png?n5.5",
+                    "Name": "Tincture of Vitality",
+                    "Amount": 2,
+                    "Url": "/lodestone/playguide/db/item/d1a8625b9bf/"
+                },
+                {
+                    "Icon": "https://img.finalfantasyxiv.com/lds/pc/global/images/itemicon/ba/baa2341dd17414fae7fd62ae7bc62c64589b67be.png?n5.5",
+                    "Name": "Nightworld Silver Piece",
+                    "Amount": 2,
+                    "Url": "/lodestone/playguide/db/item/50ed823230e/"
+                }
+            ]
+        },
+        "Infos": {
+            "PrevQuests": [
+                {
+                    "Name": "Waiting in the Depths",
+                    "Url": "/lodestone/playguide/db/quest/7034c050956/",
+                    "Area": "The Tempest",
+                    "Level": "79"
+                }
+            ],
+            "NextQuests": [
+                {
+                    "Name": "Insatiably Curious Ondo",
+                    "Url": "/lodestone/playguide/db/npc/npc/8f4323d1868/",
+                    "Area": "The Tempest (X:34.2 Y:17.2)"
+                },
+                {
+                    "Name": "Ondo Youth",
+                    "Url": "/lodestone/playguide/db/npc/npc/552d95abbe2/",
+                    "Area": "The Tempest (X:32.0 Y:19.0)"
+                }
+            ]
+        },
+        "Seq": 4,
+        "oldID": 69116,
+        "Map": {
+            "ID": 496
+        }
+    },
+    {
+        "ID": "479f53932a7",
+        "Name": " Strange Stew",
+        "Location": "The Tempest",
+        "Level": 70,
+        "JournalSection": 3,
+        "JournalCategory": 55,
+        "JournalGenre": "Tempest Sidequests",
+        "Url": "/lodestone/playguide/db/quest/479f53932a7/",
+        "Image": null,
+        "Icon": "common_normal",
+        "Issuer": "Pulshs Ooan",
+        "StartLocation": {
+            "Name": "The Tempest",
+            "X": "31.6",
+            "Y": "16.3"
+        },
+        "StartClass": null,
+        "Job": "",
+        "Company": "Not specified",
+        "Requirement": "Not specified",
+        "Rewards": {
+            "Gil": 925,
+            "Exp": null,
+            "ItemsMand": [],
+            "ItemsOpt": []
+        },
+        "Infos": {
+            "PrevQuests": [
+                {
+                    "Name": "Waiting in the Depths",
+                    "Url": "/lodestone/playguide/db/quest/7034c050956/",
+                    "Area": "The Tempest",
+                    "Level": "79"
+                }
+            ],
+            "NextQuests": [
+                {
+                    "Name": "Ondo Culinarian",
+                    "Url": "/lodestone/playguide/db/npc/npc/9072ea85f7d/",
+                    "Area": "The Tempest (X:34.2 Y:17.6)"
+                }
+            ]
+        },
+        "Seq": 5,
+        "oldID": 69117,
+        "Map": {
+            "ID": 496
+        }
+    },
+    {
+        "ID": "58c5a977964",
+        "Name": " Tomorrow Is in Your Fins",
+        "Location": "The Tempest",
+        "Level": 70,
+        "JournalSection": 3,
+        "JournalCategory": 55,
+        "JournalGenre": "Tempest Sidequests",
+        "Url": "/lodestone/playguide/db/quest/58c5a977964/",
+        "Image": "https://img.finalfantasyxiv.com/lds/pc/global/images/itemicon/33/33a403edc8765abbe118116fc19839cacf938ece.png?n5.5",
+        "Icon": "common_normal",
+        "Issuer": "Naroshs Koal",
+        "StartLocation": {
+            "Name": "The Tempest",
+            "X": "31.5",
+            "Y": "14.6"
+        },
+        "StartClass": null,
+        "Job": "",
+        "Company": "Not specified",
+        "Requirement": "Not specified",
+        "Rewards": {
+            "Gil": 888,
+            "Exp": null,
+            "ItemsMand": [],
+            "ItemsOpt": [
+                {
+                    "Icon": "https://img.finalfantasyxiv.com/lds/pc/global/images/itemicon/71/71860f9db7c2800909350796c376b286964a25c9.png?n5.5",
+                    "Name": "Paella",
+                    "Amount": 2,
+                    "Url": "/lodestone/playguide/db/item/af1118e0f5f/"
+                },
+                {
+                    "Icon": "https://img.finalfantasyxiv.com/lds/pc/global/images/itemicon/9b/9bcbc49a589a34378dcea2d9d2a4e6e8f28564f4.png?n5.5",
+                    "Name": "Ovim Cordon Bleu",
+                    "Amount": 2,
+                    "Url": "/lodestone/playguide/db/item/7e79001bf0c/"
+                },
+                {
+                    "Icon": "https://img.finalfantasyxiv.com/lds/pc/global/images/itemicon/1a/1a667017e3e2bb679c546fdc0a40273b4b0d4281.png?n5.5",
+                    "Name": "Lemonade",
+                    "Amount": 2,
+                    "Url": "/lodestone/playguide/db/item/8055bb19c73/"
+                },
+                {
+                    "Icon": "https://img.finalfantasyxiv.com/lds/pc/global/images/itemicon/66/66eb4cd1ad7c73e0c008f0b39e2fc79fe0fe415b.png?n5.5",
+                    "Name": "Jellied Harcot",
+                    "Amount": 2,
+                    "Url": "/lodestone/playguide/db/item/404134085d3/"
+                },
+                {
+                    "Icon": "https://img.finalfantasyxiv.com/lds/pc/global/images/itemicon/ba/baa2341dd17414fae7fd62ae7bc62c64589b67be.png?n5.5",
+                    "Name": "Nightworld Silver Piece",
+                    "Amount": 3,
+                    "Url": "/lodestone/playguide/db/item/50ed823230e/"
+                }
+            ]
+        },
+        "Infos": {
+            "PrevQuests": [
+                {
+                    "Name": " Create the Birthing Rope",
+                    "Url": "/lodestone/playguide/db/quest/29a391969d7/",
+                    "Area": "The Tempest",
+                    "Level": "70"
+                }
+            ],
+            "NextQuests": [
+                {
+                    "Name": "Naroshs Ooan",
+                    "Url": "/lodestone/playguide/db/npc/npc/1810cffec88/",
+                    "Area": "The Tempest (X:33.4 Y:18.1)"
+                },
+                {
+                    "Name": "Xeroshs Ooan",
+                    "Url": "/lodestone/playguide/db/npc/npc/28c505a3b65/",
+                    "Area": "The Tempest (X:33.5 Y:18.1)"
+                }
+            ]
+        },
+        "Seq": 15,
+        "oldID": 69127,
+        "Map": {
+            "ID": 496
+        }
+    },
+    {
+        "ID": "66fa699bc40",
+        "Name": " More than One Way to Skin a Stingray",
+        "Location": "The Tempest",
+        "Level": 70,
+        "JournalSection": 3,
+        "JournalCategory": 55,
+        "JournalGenre": "Tempest Sidequests",
+        "Url": "/lodestone/playguide/db/quest/66fa699bc40/",
+        "Image": null,
+        "Icon": "common_normal",
+        "Issuer": "Nakshs Koal",
+        "StartLocation": {
+            "Name": "The Tempest",
+            "X": "34.1",
+            "Y": "18.0"
+        },
+        "StartClass": null,
+        "Job": "",
+        "Company": "Not specified",
+        "Requirement": "Not specified",
+        "Rewards": {
+            "Gil": 779,
+            "Exp": null,
+            "ItemsMand": [],
+            "ItemsOpt": [
+                {
+                    "Icon": "https://img.finalfantasyxiv.com/lds/pc/global/images/itemicon/9b/9b8be30f149d138326b973fa183f7ba7ea02195b.png?n5.5",
+                    "Name": "Tincture of Mind",
+                    "Amount": 2,
+                    "Url": "/lodestone/playguide/db/item/301d487f9fa/"
+                },
+                {
+                    "Icon": "https://img.finalfantasyxiv.com/lds/pc/global/images/itemicon/ba/baa2341dd17414fae7fd62ae7bc62c64589b67be.png?n5.5",
+                    "Name": "Nightworld Silver Piece",
+                    "Amount": 2,
+                    "Url": "/lodestone/playguide/db/item/50ed823230e/"
+                }
+            ]
+        },
+        "Infos": {
+            "PrevQuests": [
+                {
+                    "Name": " Scavenger Deep",
+                    "Url": "/lodestone/playguide/db/quest/2de3acadf58/",
+                    "Area": "The Tempest",
+                    "Level": "70"
+                }
+            ],
+            "NextQuests": [
+                {
+                    "Name": "Ondo Leatherworker",
+                    "Url": "/lodestone/playguide/db/npc/npc/7278f28103e/",
+                    "Area": "The Tempest (X:32.6 Y:16.5)"
+                }
+            ]
+        },
+        "Seq": 10,
+        "oldID": 69122,
+        "Map": {
+            "ID": 496
+        }
+    },
+    {
+        "ID": "6deb8dc1419",
+        "Name": " Mother's Mnyiri",
+        "Location": "The Tempest",
+        "Level": 70,
+        "JournalSection": 3,
+        "JournalCategory": 55,
+        "JournalGenre": "Tempest Sidequests",
+        "Url": "/lodestone/playguide/db/quest/6deb8dc1419/",
+        "Image": "https://img.finalfantasyxiv.com/lds/pc/global/images/itemicon/33/33a403edc8765abbe118116fc19839cacf938ece.png?n5.5",
+        "Icon": "common_normal",
+        "Issuer": "Naroshs Koal",
+        "StartLocation": {
+            "Name": "The Tempest",
+            "X": "31.5",
+            "Y": "14.6"
+        },
+        "StartClass": null,
+        "Job": "",
+        "Company": "Not specified",
+        "Requirement": "Not specified",
+        "Rewards": {
+            "Gil": 852,
+            "Exp": null,
+            "ItemsMand": [],
+            "ItemsOpt": []
+        },
+        "Infos": {
+            "PrevQuests": [
+                {
+                    "Name": " Koal of the Cups",
+                    "Url": "/lodestone/playguide/db/quest/ce9fd05a9ad/",
+                    "Area": "The Tempest",
+                    "Level": "70"
+                }
+            ],
+            "NextQuests": [
+                {
+                    "Name": " Create the Birthing Rope",
+                    "Url": "/lodestone/playguide/db/quest/29a391969d7/",
+                    "Area": "The Tempest",
+                    "Level": "70"
+                }
+            ],
+            "NPCs": [
+                {
+                    "Name": "Xeroshs Ooan",
+                    "Url": "/lodestone/playguide/db/npc/npc/28c505a3b65/",
+                    "Area": "The Tempest (X:33.5 Y:18.1)"
+                }
+            ]
+        },
+        "Seq": 13,
+        "oldID": 69125,
+        "Map": {
+            "ID": 496
+        }
+    },
+    {
+        "ID": "734d4c28730",
+        "Name": " Doggone Dagons",
+        "Location": "The Tempest",
+        "Level": 70,
+        "JournalSection": 3,
+        "JournalCategory": 55,
+        "JournalGenre": "Tempest Sidequests",
+        "Url": "/lodestone/playguide/db/quest/734d4c28730/",
+        "Image": null,
+        "Icon": "common_normal",
+        "Issuer": "Nemshs Ooan",
+        "StartLocation": {
+            "Name": "The Tempest",
+            "X": "34.4",
+            "Y": "16.8"
+        },
+        "StartClass": null,
+        "Job": "",
+        "Company": "Not specified",
+        "Requirement": "Not specified",
+        "Rewards": {
+            "Gil": 706,
+            "Exp": null,
+            "ItemsMand": [],
+            "ItemsOpt": []
+        },
+        "Infos": {
+            "PrevQuests": [
+                {
+                    "Name": "Waiting in the Depths",
+                    "Url": "/lodestone/playguide/db/quest/7034c050956/",
+                    "Area": "The Tempest",
+                    "Level": "79"
+                }
+            ]
+        },
+        "Seq": 11,
+        "oldID": 69123,
+        "Map": {
+            "ID": 496
+        }
+    },
+    {
+        "ID": "8297e97c6e5",
+        "Name": " Pearls of the Deep",
+        "Location": "The Tempest",
+        "Level": 70,
+        "JournalSection": 3,
+        "JournalCategory": 55,
+        "JournalGenre": "Tempest Sidequests",
+        "Url": "/lodestone/playguide/db/quest/8297e97c6e5/",
+        "Image": null,
+        "Icon": "common_normal",
+        "Issuer": "Saushs Koal",
+        "StartLocation": {
+            "Name": "The Tempest",
+            "X": "31.5",
+            "Y": "17.3"
+        },
+        "StartClass": null,
+        "Job": "",
+        "Company": "Not specified",
+        "Requirement": "Not specified",
+        "Rewards": {
+            "Gil": 706,
+            "Exp": null,
+            "ItemsMand": [],
+            "ItemsOpt": []
+        },
+        "Infos": {
+            "PrevQuests": [
+                {
+                    "Name": "Waiting in the Depths",
+                    "Url": "/lodestone/playguide/db/quest/7034c050956/",
+                    "Area": "The Tempest",
+                    "Level": "79"
+                }
+            ]
+        },
+        "Seq": 1,
+        "oldID": 69113,
+        "Map": {
+            "ID": 496
+        }
+    },
+    {
+        "ID": "8c390847437",
+        "Name": " Beware the Benthos",
+        "Location": "The Tempest",
+        "Level": 70,
+        "JournalSection": 3,
+        "JournalCategory": 55,
+        "JournalGenre": "Tempest Sidequests",
+        "Url": "/lodestone/playguide/db/quest/8c390847437/",
+        "Image": null,
+        "Icon": "common_normal",
+        "Issuer": "Kewshs Ooan",
+        "StartLocation": {
+            "Name": "The Tempest",
+            "X": "34.6",
+            "Y": "17.3"
+        },
+        "StartClass": null,
+        "Job": "",
+        "Company": "Not specified",
+        "Requirement": "Not specified",
+        "Rewards": {
+            "Gil": 706,
+            "Exp": null,
+            "ItemsMand": [],
+            "ItemsOpt": [
+                {
+                    "Icon": "https://img.finalfantasyxiv.com/lds/pc/global/images/itemicon/73/735d5f81236a16b13f7ae0f9a02f9100cf7826af.png?n5.5",
+                    "Name": "Tincture of Dexterity",
+                    "Amount": 2,
+                    "Url": "/lodestone/playguide/db/item/e20aa2bd572/"
+                },
+                {
+                    "Icon": "https://img.finalfantasyxiv.com/lds/pc/global/images/itemicon/ba/baa2341dd17414fae7fd62ae7bc62c64589b67be.png?n5.5",
+                    "Name": "Nightworld Silver Piece",
+                    "Amount": 2,
+                    "Url": "/lodestone/playguide/db/item/50ed823230e/"
+                }
+            ]
+        },
+        "Infos": {
+            "PrevQuests": [
+                {
+                    "Name": "Waiting in the Depths",
+                    "Url": "/lodestone/playguide/db/quest/7034c050956/",
+                    "Area": "The Tempest",
+                    "Level": "79"
+                }
+            ],
+            "NextQuests": [
+                {
+                    "Name": "Ondo Spearfisher",
+                    "Url": "/lodestone/playguide/db/npc/npc/77c32ceda93/",
+                    "Area": "The Tempest (X:33.6 Y:4.1)"
+                }
+            ]
+        },
+        "Seq": 2,
+        "oldID": 69114,
+        "Map": {
+            "ID": 496
+        }
+    },
+    {
+        "ID": "92930ac3461",
+        "Name": " Debate and Discourse",
+        "Location": "The Tempest",
+        "Level": 70,
+        "JournalSection": 3,
+        "JournalCategory": 55,
+        "JournalGenre": "Tempest Sidequests",
+        "Url": "/lodestone/playguide/db/quest/92930ac3461/",
+        "Image": "https://img.finalfantasyxiv.com/lds/pc/global/images/itemicon/88/883a109379fce03b2d5b162b2c5974dc5b998d29.png?n5.5",
+        "Icon": "function_normal",
+        "Issuer": "Loquacious Amaurotine",
+        "StartLocation": {
+            "Name": "The Tempest",
+            "X": "7.2",
+            "Y": "31.4"
+        },
+        "StartClass": null,
+        "Job": "",
+        "Company": "Not specified",
+        "Requirement": "Not specified",
+        "Rewards": {
+            "Gil": 861,
+            "Exp": null,
+            "ItemsMand": [
+                {
+                    "Icon": "https://img.finalfantasyxiv.com/lds/pc/global/images/itemicon/af/af26e4b79fb1de83550f6ddbd3a170408fcfe702.png?n5.5",
+                    "Name": "",
+                    "Amount": null
+                }
+            ],
+            "ItemsOpt": []
+        },
+        "Infos": {
+            "PrevQuests": [
+                {
+                    "Name": "The End of a World",
+                    "Url": "/lodestone/playguide/db/quest/33b52b395d3/",
+                    "Area": "The Tempest",
+                    "Level": "80"
+                }
+            ],
+            "NextQuests": [
+                {
+                    "Name": "Amaurotine Firebrand",
+                    "Url": "/lodestone/playguide/db/npc/npc/eba88be2f66/",
+                    "Area": "The Tempest (X:8.9 Y:32.4)"
+                },
+                {
+                    "Name": "Amaurotine Firebrand",
+                    "Url": "/lodestone/playguide/db/npc/npc/82f81400622/",
+                    "Area": "The Tempest (X:7.2 Y:31.3)"
+                }
+            ]
+        },
+        "Seq": 17,
+        "oldID": 69129,
+        "Map": {
+            "ID": 496
+        }
+    },
+    {
+        "ID": "95997b8d0b3",
+        "Name": " Mistake or Machination",
+        "Location": "The Tempest",
+        "Level": 70,
+        "JournalSection": 3,
+        "JournalCategory": 55,
+        "JournalGenre": "Tempest Sidequests",
+        "Url": "/lodestone/playguide/db/quest/95997b8d0b3/",
+        "Image": null,
+        "Icon": "common_normal",
+        "Issuer": "Distressed Ondo",
+        "StartLocation": {
+            "Name": "The Tempest",
+            "X": "31.8",
+            "Y": "16.0"
+        },
+        "StartClass": null,
+        "Job": "",
+        "Company": "Not specified",
+        "Requirement": "Not specified",
+        "Rewards": {
+            "Gil": 1132,
+            "Exp": null,
+            "ItemsMand": [],
+            "ItemsOpt": []
+        },
+        "Infos": {
+            "PrevQuests": [
+                {
+                    "Name": "Waiting in the Depths",
+                    "Url": "/lodestone/playguide/db/quest/7034c050956/",
+                    "Area": "The Tempest",
+                    "Level": "79"
+                }
+            ],
+            "NextQuests": [
+                {
+                    "Name": "Mosha-Moa",
+                    "Url": "/lodestone/playguide/db/npc/npc/6490ecb6ee0/",
+                    "Area": "Kholusia (X:16.1 Y:29.0)"
+                }
+            ]
+        },
+        "Seq": 9,
+        "oldID": 69121,
+        "Map": {
+            "ID": 496
+        }
+    },
+    {
+        "ID": "af10ee9e769",
+        "Name": " Ondo Dream of Oranges",
+        "Location": "The Tempest",
+        "Level": 70,
+        "JournalSection": 3,
+        "JournalCategory": 55,
+        "JournalGenre": "Tempest Sidequests",
+        "Url": "/lodestone/playguide/db/quest/af10ee9e769/",
+        "Image": null,
+        "Icon": "common_normal",
+        "Issuer": "Ondo Visionary",
+        "StartLocation": {
+            "Name": "The Tempest",
+            "X": "32.8",
+            "Y": "18.8"
+        },
+        "StartClass": null,
+        "Job": "",
+        "Company": "Not specified",
+        "Requirement": "Not specified",
+        "Rewards": {
+            "Gil": 952,
+            "Exp": null,
+            "ItemsMand": [],
+            "ItemsOpt": [
+                {
+                    "Icon": "https://img.finalfantasyxiv.com/lds/pc/global/images/itemicon/35/3509ece07f54245b5bfc0bec7d5b7181c1dcbfa3.png?n5.5",
+                    "Name": "Tincture of Strength",
+                    "Amount": 2,
+                    "Url": "/lodestone/playguide/db/item/e9e3c382bf6/"
+                },
+                {
+                    "Icon": "https://img.finalfantasyxiv.com/lds/pc/global/images/itemicon/ba/baa2341dd17414fae7fd62ae7bc62c64589b67be.png?n5.5",
+                    "Name": "Nightworld Silver Piece",
+                    "Amount": 2,
+                    "Url": "/lodestone/playguide/db/item/50ed823230e/"
+                }
+            ]
+        },
+        "Infos": {
+            "PrevQuests": [
+                {
+                    "Name": "Waiting in the Depths",
+                    "Url": "/lodestone/playguide/db/quest/7034c050956/",
+                    "Area": "The Tempest",
+                    "Level": "79"
+                }
+            ],
+            "NextQuests": [
+                {
+                    "Name": "Ondo Visionary",
+                    "Url": "/lodestone/playguide/db/npc/npc/b356d1a4a5a/",
+                    "Area": "The Tempest (X:30.8 Y:10.0)"
+                },
+                {
+                    "Name": "Ondo Visionary",
+                    "Url": "/lodestone/playguide/db/npc/npc/2b794ab8485/",
+                    "Area": "The Tempest (X:36.6 Y:15.7)"
+                },
+                {
+                    "Name": "Ondo Visionary",
+                    "Url": "/lodestone/playguide/db/npc/npc/5dcf643ad20/",
+                    "Area": "The Tempest (X:27.0 Y:15.1)"
+                },
+                {
+                    "Name": "Ondo Visionary",
+                    "Url": "/lodestone/playguide/db/npc/npc/fbebc50d270/",
+                    "Area": "The Tempest (X:31.7 Y:16.2)"
+                }
+            ]
+        },
+        "Seq": 15,
+        "oldID": 69112,
+        "Map": {
+            "ID": 496
+        }
+    },
+    {
+        "ID": "ce9fd05a9ad",
+        "Name": " Koal of the Cups",
+        "Location": "The Tempest",
+        "Level": 70,
+        "JournalSection": 3,
+        "JournalCategory": 55,
+        "JournalGenre": "Tempest Sidequests",
+        "Url": "/lodestone/playguide/db/quest/ce9fd05a9ad/",
+        "Image": "https://img.finalfantasyxiv.com/lds/pc/global/images/itemicon/33/33a403edc8765abbe118116fc19839cacf938ece.png?n5.5",
+        "Icon": "function_normal",
+        "Issuer": "Naroshs Koal",
+        "StartLocation": {
+            "Name": "The Tempest",
+            "X": "32.0",
+            "Y": "16.6"
+        },
+        "StartClass": null,
+        "Job": "",
+        "Company": "Not specified",
+        "Requirement": "Not specified",
+        "Rewards": {
+            "Gil": 925,
+            "Exp": null,
+            "ItemsMand": [
+                {
+                    "Icon": "https://img.finalfantasyxiv.com/lds/pc/global/images/itemicon/af/af26e4b79fb1de83550f6ddbd3a170408fcfe702.png?n5.5",
+                    "Name": "",
+                    "Amount": null
+                }
+            ],
+            "ItemsOpt": []
+        },
+        "Infos": {
+            "PrevQuests": [
+                {
+                    "Name": "Waiting in the Depths",
+                    "Url": "/lodestone/playguide/db/quest/7034c050956/",
+                    "Area": "The Tempest",
+                    "Level": "79"
+                }
+            ],
+            "NextQuests": [
+                {
+                    "Name": " Mother's Mnyiri",
+                    "Url": "/lodestone/playguide/db/quest/6deb8dc1419/",
+                    "Area": "The Tempest",
+                    "Level": "70"
+                }
+            ],
+            "NPCs": [
+                {
+                    "Name": "Naroshs Koal",
+                    "Url": "/lodestone/playguide/db/npc/npc/b81ea43c556/",
+                    "Area": "The Tempest (X:28.3 Y:15.2)"
+                },
+                {
+                    "Name": "Naroshs Koal",
+                    "Url": "/lodestone/playguide/db/npc/npc/fcee8340c14/",
+                    "Area": "The Tempest (X:33.4 Y:18.1)"
+                },
+                {
+                    "Name": "Naroshs Koal",
+                    "Url": "/lodestone/playguide/db/npc/npc/20f595745b7/",
+                    "Area": "The Tempest (X:31.5 Y:14.6)"
+                },
+                {
+                    "Name": "Xeroshs Ooan",
+                    "Url": "/lodestone/playguide/db/npc/npc/28c505a3b65/",
+                    "Area": "The Tempest (X:33.5 Y:18.1)"
+                }
+            ]
+        },
+        "Seq": 12,
+        "oldID": 69124,
+        "Map": {
+            "ID": 496
+        }
+    },
+    {
+        "ID": "ee5bfe11dce",
+        "Name": " Community Cohesion",
+        "Location": "The Tempest",
+        "Level": 70,
+        "JournalSection": 3,
+        "JournalCategory": 55,
+        "JournalGenre": "Tempest Sidequests",
+        "Url": "/lodestone/playguide/db/quest/ee5bfe11dce/",
+        "Image": "https://img.finalfantasyxiv.com/lds/pc/global/images/itemicon/88/883a109379fce03b2d5b162b2c5974dc5b998d29.png?n5.5",
+        "Icon": "function_normal",
+        "Issuer": "Patronizing Amaurotine",
+        "StartLocation": {
+            "Name": "The Tempest",
+            "X": "9.5",
+            "Y": "28.2"
+        },
+        "StartClass": null,
+        "Job": "",
+        "Company": "Not specified",
+        "Requirement": "Not specified",
+        "Rewards": {
+            "Gil": 752,
+            "Exp": null,
+            "ItemsMand": [
+                {
+                    "Icon": "https://img.finalfantasyxiv.com/lds/pc/global/images/itemicon/1c/1c3044929c10562eb7dc8c36dd133747790401f2.png?n5.5",
+                    "Name": "Lightning Cluster",
+                    "Amount": 1,
+                    "Url": "/lodestone/playguide/db/item/06061fd121b/"
+                }
+            ],
+            "ItemsOpt": []
+        },
+        "Infos": {
+            "PrevQuests": [
+                {
+                    "Name": "The End of a World",
+                    "Url": "/lodestone/playguide/db/quest/33b52b395d3/",
+                    "Area": "The Tempest",
+                    "Level": "80"
+                }
+            ],
+            "NextQuests": [
+                {
+                    "Name": "Concept Clerk",
+                    "Url": "/lodestone/playguide/db/npc/npc/0cb073ab539/",
+                    "Area": "The Tempest (X:14.3 Y:27.0)"
+                },
+                {
+                    "Name": "Gentle Amaurotine",
+                    "Url": "/lodestone/playguide/db/npc/npc/977f5c9f799/",
+                    "Area": "The Tempest (X:8.3 Y:30.9)"
+                }
+            ]
+        },
+        "Seq": 18,
+        "oldID": 69130,
+        "Map": {
+            "ID": 496
+        }
+    },
+    {
+        "ID": "f7474f766e3",
+        "Name": " Scales for the Scaled Ones",
+        "Location": "The Tempest",
+        "Level": 70,
+        "JournalSection": 3,
+        "JournalCategory": 55,
+        "JournalGenre": "Tempest Sidequests",
+        "Url": "/lodestone/playguide/db/quest/f7474f766e3/",
+        "Image": null,
+        "Icon": "common_normal",
+        "Issuer": "Amshs Aath",
+        "StartLocation": {
+            "Name": "The Tempest",
+            "X": "32.3",
+            "Y": "17.1"
+        },
+        "StartClass": null,
+        "Job": "",
+        "Company": "Not specified",
+        "Requirement": "Not specified",
+        "Rewards": {
+            "Gil": 998,
+            "Exp": null,
+            "ItemsMand": [],
+            "ItemsOpt": [
+                {
+                    "Icon": "https://img.finalfantasyxiv.com/lds/pc/global/images/itemicon/f7/f70e5b5e66a835a5901c6018b210c355a71f3c16.png?n5.5",
+                    "Name": "Tincture of Intelligence",
+                    "Amount": 2,
+                    "Url": "/lodestone/playguide/db/item/757f770f8be/"
+                },
+                {
+                    "Icon": "https://img.finalfantasyxiv.com/lds/pc/global/images/itemicon/ba/baa2341dd17414fae7fd62ae7bc62c64589b67be.png?n5.5",
+                    "Name": "Nightworld Silver Piece",
+                    "Amount": 2,
+                    "Url": "/lodestone/playguide/db/item/50ed823230e/"
+                }
+            ]
+        },
+        "Infos": {
+            "PrevQuests": [
+                {
+                    "Name": "Waiting in the Depths",
+                    "Url": "/lodestone/playguide/db/quest/7034c050956/",
+                    "Area": "The Tempest",
+                    "Level": "79"
+                }
+            ]
+        },
+        "Seq": 6,
+        "oldID": 69118,
+        "Map": {
+            "ID": 496
+        }
+    }
+]

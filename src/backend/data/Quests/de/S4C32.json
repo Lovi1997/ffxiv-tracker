@@ -1,0 +1,1362 @@
+[
+    {
+        "ID": "01da161e6f0",
+        "Name": " Der Unverbundenheitsbeweis",
+        "Location": "Dravanisches Vorland",
+        "Level": 50,
+        "JournalSection": 4,
+        "JournalCategory": 32,
+        "JournalGenre": "\n\t\t\t\t\t\t\tHauptaufträge\n\t\t\t\t\t\t",
+        "Url": "/lodestone/playguide/db/quest/01da161e6f0/",
+        "Image": "https://img.finalfantasyxiv.com/lds/pc/global/images/itemicon/c8/c895a69047d79bd6db235d60e0174533c5b5bc23.png?n5.5",
+        "Icon": "function_normal",
+        "Issuer": "Macher",
+        "StartLocation": {
+            "Name": "Dravanisches Vorland",
+            "X": "23.6",
+            "Y": "19.1"
+        },
+        "StartClass": null,
+        "Job": "",
+        "Company": "Keine Angabe",
+        "Requirement": "Keine Angabe",
+        "Rewards": {
+            "Gil": 924,
+            "Exp": null,
+            "ItemsMand": [],
+            "ItemsOpt": []
+        },
+        "Infos": {
+            "PrevQuests": [
+                {
+                    "Name": " Komische Begegnung",
+                    "Url": "/lodestone/playguide/db/quest/0f6fd8c9925/",
+                    "Area": "Dravanisches Vorland",
+                    "Level": "50"
+                }
+            ],
+            "NextQuests": [
+                {
+                    "Name": " Die Angst des Bindenden",
+                    "Url": "/lodestone/playguide/db/quest/ff787aa9c77/",
+                    "Area": "Dravanisches Vorland",
+                    "Level": "50"
+                }
+            ],
+            "NPCs": [
+                {
+                    "Name": "Erzähler",
+                    "Url": "/lodestone/playguide/db/npc/npc/41a0c5ab8cb/",
+                    "Area": "Dravanisches Vorland (X:24.0 Y:19.7)"
+                },
+                {
+                    "Name": "Macher",
+                    "Url": "/lodestone/playguide/db/npc/npc/feac9e9b41f/",
+                    "Area": "Dravanisches Vorland (X:18.3 Y:27.0)"
+                },
+                {
+                    "Name": "Macher",
+                    "Url": "/lodestone/playguide/db/npc/npc/e19f6d7c22c/",
+                    "Area": "Dravanisches Vorland (X:18.8 Y:21.1)"
+                },
+                {
+                    "Name": "Vidofnir",
+                    "Url": "/lodestone/playguide/db/npc/npc/40cd529c034/",
+                    "Area": "Dravanisches Vorland (X:16.8 Y:23.6)"
+                }
+            ]
+        },
+        "Seq": 3,
+        "oldID": 67794,
+        "Map": {
+            "ID": 212
+        }
+    },
+    {
+        "ID": "075351207e5",
+        "Name": " Starker Tobak",
+        "Location": "Dravanisches Vorland",
+        "Level": 50,
+        "JournalSection": 4,
+        "JournalCategory": 32,
+        "JournalGenre": "\n\t\t\t\t\t\t\tNebenaufträge\n\t\t\t\t\t\t",
+        "Url": "/lodestone/playguide/db/quest/075351207e5/",
+        "Image": null,
+        "Icon": "common_repeat",
+        "Issuer": "Sucher",
+        "StartLocation": {
+            "Name": "Dravanisches Vorland",
+            "X": "23.7",
+            "Y": "19.0"
+        },
+        "StartClass": null,
+        "Job": "",
+        "Company": "Keine Angabe",
+        "Requirement": "Keine Angabe",
+        "Rewards": {
+            "Gil": 489,
+            "Exp": null,
+            "ItemsMand": [],
+            "ItemsOpt": []
+        },
+        "Infos": {
+            "PrevQuests": [
+                {
+                    "Name": "Grimold",
+                    "Url": "/lodestone/playguide/db/npc/npc/5062bdbf8eb/",
+                    "Area": "Dravanisches Vorland (X:31.5 Y:24.7)"
+                },
+                {
+                    "Name": "Loupard",
+                    "Url": "/lodestone/playguide/db/npc/npc/50c12c642a8/",
+                    "Area": "Dravanisches Vorland (X:33.2 Y:23.8)"
+                }
+            ]
+        },
+        "Seq": 7,
+        "oldID": 67798,
+        "Map": {
+            "ID": 212
+        }
+    },
+    {
+        "ID": "07922a011b0",
+        "Name": " Der Warentest",
+        "Location": "Dravanisches Vorland",
+        "Level": 50,
+        "JournalSection": 4,
+        "JournalCategory": 32,
+        "JournalGenre": "\n\t\t\t\t\t\t\tNebenaufträge\n\t\t\t\t\t\t",
+        "Url": "/lodestone/playguide/db/quest/07922a011b0/",
+        "Image": null,
+        "Icon": "common_repeat",
+        "Issuer": "Sucher",
+        "StartLocation": {
+            "Name": "Dravanisches Vorland",
+            "X": "23.7",
+            "Y": "19.0"
+        },
+        "StartClass": null,
+        "Job": "",
+        "Company": "Keine Angabe",
+        "Requirement": "Keine Angabe",
+        "Rewards": {
+            "Gil": 489,
+            "Exp": null,
+            "ItemsMand": [],
+            "ItemsOpt": []
+        },
+        "Infos": {
+            "PrevQuests": [
+                {
+                    "Name": "Flohflüsterer",
+                    "Url": "/lodestone/playguide/db/npc/npc/4c7d235d7c8/",
+                    "Area": "Dravanisches Vorland (X:24.0 Y:19.1)"
+                },
+                {
+                    "Name": "Wilder Drache",
+                    "Url": "/lodestone/playguide/db/npc/npc/8887b74e1b2/",
+                    "Area": "Dravanisches Vorland (X:24.4 Y:34.8)"
+                },
+                {
+                    "Name": "Wilder Drache",
+                    "Url": "/lodestone/playguide/db/npc/npc/3b118662ce5/",
+                    "Area": "Dravanisches Vorland (X:19.5 Y:33.3)"
+                },
+                {
+                    "Name": "Wilder Drache",
+                    "Url": "/lodestone/playguide/db/npc/npc/10662c8a9a1/",
+                    "Area": "Dravanisches Vorland (X:10.0 Y:32.3)"
+                }
+            ]
+        },
+        "Seq": 14,
+        "oldID": 67805,
+        "Map": {
+            "ID": 212
+        }
+    },
+    {
+        "ID": "0f6fd8c9925",
+        "Name": " Komische Begegnung",
+        "Location": "Dravanisches Vorland",
+        "Level": 50,
+        "JournalSection": 4,
+        "JournalCategory": 32,
+        "JournalGenre": "\n\t\t\t\t\t\t\tHauptaufträge\n\t\t\t\t\t\t",
+        "Url": "/lodestone/playguide/db/quest/0f6fd8c9925/",
+        "Image": "https://img.finalfantasyxiv.com/lds/pc/global/images/itemicon/2c/2c2e9611b782132b2352259e797cddba8fcea36a.png?n5.5",
+        "Icon": "function_normal",
+        "Issuer": "Macher",
+        "StartLocation": {
+            "Name": "Dravanisches Vorland",
+            "X": "23.6",
+            "Y": "19.1"
+        },
+        "StartClass": null,
+        "Job": "",
+        "Company": "Keine Angabe",
+        "Requirement": "Keine Angabe",
+        "Rewards": {
+            "Gil": 1022,
+            "Exp": null,
+            "ItemsMand": [],
+            "ItemsOpt": []
+        },
+        "Infos": {
+            "PrevQuests": [
+                {
+                    "Name": " Der Macher macht's",
+                    "Url": "/lodestone/playguide/db/quest/b51e087b571/",
+                    "Area": "Dravanisches Vorland",
+                    "Level": "50"
+                }
+            ],
+            "NextQuests": [
+                {
+                    "Name": " Der Unverbundenheitsbeweis",
+                    "Url": "/lodestone/playguide/db/quest/01da161e6f0/",
+                    "Area": "Dravanisches Vorland",
+                    "Level": "50"
+                }
+            ],
+            "NPCs": [
+                {
+                    "Name": "Macher",
+                    "Url": "/lodestone/playguide/db/npc/npc/a9af7430274/",
+                    "Area": "Dravanisches Hinterland (X:32.7 Y:24.9)"
+                },
+                {
+                    "Name": "Macher",
+                    "Url": "/lodestone/playguide/db/npc/npc/0d8bfbfbea9/",
+                    "Area": "Dravanisches Hinterland (X:20.8 Y:16.0)"
+                },
+                {
+                    "Name": "Erzähler",
+                    "Url": "/lodestone/playguide/db/npc/npc/41a0c5ab8cb/",
+                    "Area": "Dravanisches Vorland (X:24.0 Y:19.7)"
+                },
+                {
+                    "Name": "Macher",
+                    "Url": "/lodestone/playguide/db/npc/npc/b68d9387484/",
+                    "Area": "Dravanisches Vorland (X:7.6 Y:34.0)"
+                },
+                {
+                    "Name": "Macher",
+                    "Url": "/lodestone/playguide/db/npc/npc/53e348c64d3/",
+                    "Area": "Dravanisches Vorland (X:28.2 Y:31.0)"
+                },
+                {
+                    "Name": "Macher",
+                    "Url": "/lodestone/playguide/db/npc/npc/ee9dbb64c2d/",
+                    "Area": "Frohehalde (X:7.5 Y:6.5)"
+                },
+                {
+                    "Name": "Schlafix",
+                    "Url": "/lodestone/playguide/db/npc/npc/08e18ef5e1e/",
+                    "Area": "Frohehalde (X:7.5 Y:6.5)"
+                },
+                {
+                    "Name": "Trockdox",
+                    "Url": "/lodestone/playguide/db/npc/npc/a68d403d980/",
+                    "Area": "Frohehalde (X:6.9 Y:7.2)"
+                }
+            ]
+        },
+        "Seq": 2,
+        "oldID": 67793,
+        "Map": {
+            "ID": 212
+        }
+    },
+    {
+        "ID": "11e7c4bd628",
+        "Name": " Tauziehen um Silbertaukraut",
+        "Location": "Dravanisches Vorland",
+        "Level": 50,
+        "JournalSection": 4,
+        "JournalCategory": 32,
+        "JournalGenre": "\n\t\t\t\t\t\t\tNebenaufträge\n\t\t\t\t\t\t",
+        "Url": "/lodestone/playguide/db/quest/11e7c4bd628/",
+        "Image": null,
+        "Icon": "common_repeat",
+        "Issuer": "Sucher",
+        "StartLocation": {
+            "Name": "Dravanisches Vorland",
+            "X": "23.7",
+            "Y": "19.0"
+        },
+        "StartClass": null,
+        "Job": "",
+        "Company": "Keine Angabe",
+        "Requirement": "Keine Angabe",
+        "Rewards": {
+            "Gil": 545,
+            "Exp": null,
+            "ItemsMand": [],
+            "ItemsOpt": []
+        },
+        "Infos": {},
+        "Seq": 12,
+        "oldID": 67803,
+        "Map": {
+            "ID": 212
+        }
+    },
+    {
+        "ID": "22aa6e4d37a",
+        "Name": " Ein riskanter Auftrag",
+        "Location": "Dravanisches Vorland",
+        "Level": 50,
+        "JournalSection": 4,
+        "JournalCategory": 32,
+        "JournalGenre": "\n\t\t\t\t\t\t\tNebenaufträge\n\t\t\t\t\t\t",
+        "Url": "/lodestone/playguide/db/quest/22aa6e4d37a/",
+        "Image": null,
+        "Icon": "common_repeat",
+        "Issuer": "Sucher",
+        "StartLocation": {
+            "Name": "Dravanisches Vorland",
+            "X": "23.7",
+            "Y": "19.0"
+        },
+        "StartClass": null,
+        "Job": "",
+        "Company": "Keine Angabe",
+        "Requirement": "Keine Angabe",
+        "Rewards": {
+            "Gil": 489,
+            "Exp": null,
+            "ItemsMand": [],
+            "ItemsOpt": []
+        },
+        "Infos": {},
+        "Seq": 10,
+        "oldID": 67801,
+        "Map": {
+            "ID": 212
+        }
+    },
+    {
+        "ID": "3f64f73a078",
+        "Name": " Der Haldrath-Floh",
+        "Location": "Dravanisches Vorland",
+        "Level": 50,
+        "JournalSection": 4,
+        "JournalCategory": 32,
+        "JournalGenre": "\n\t\t\t\t\t\t\tNebenaufträge\n\t\t\t\t\t\t",
+        "Url": "/lodestone/playguide/db/quest/3f64f73a078/",
+        "Image": null,
+        "Icon": "common_repeat",
+        "Issuer": "Sucher",
+        "StartLocation": {
+            "Name": "Dravanisches Vorland",
+            "X": "23.7",
+            "Y": "19.0"
+        },
+        "StartClass": null,
+        "Job": "",
+        "Company": "Keine Angabe",
+        "Requirement": "Keine Angabe",
+        "Rewards": {
+            "Gil": 461,
+            "Exp": null,
+            "ItemsMand": [],
+            "ItemsOpt": []
+        },
+        "Infos": {
+            "PrevQuests": [
+                {
+                    "Name": "Flohflüsterer",
+                    "Url": "/lodestone/playguide/db/npc/npc/4c7d235d7c8/",
+                    "Area": "Dravanisches Vorland (X:24.0 Y:19.1)"
+                },
+                {
+                    "Name": "Leidender Drache",
+                    "Url": "/lodestone/playguide/db/npc/npc/760c25d8f26/",
+                    "Area": "Dravanisches Vorland (X:18.9 Y:22.6)"
+                },
+                {
+                    "Name": "Leidender Drache",
+                    "Url": "/lodestone/playguide/db/npc/npc/ceefd940dd7/",
+                    "Area": "Dravanisches Vorland (X:16.2 Y:24.6)"
+                },
+                {
+                    "Name": "Leidender Drache",
+                    "Url": "/lodestone/playguide/db/npc/npc/89fd8057fe2/",
+                    "Area": "Dravanisches Vorland (X:16.3 Y:25.4)"
+                }
+            ]
+        },
+        "Seq": 21,
+        "oldID": 67812,
+        "Map": {
+            "ID": 212
+        }
+    },
+    {
+        "ID": "55769feee22",
+        "Name": " Ein gefährlicher Auftrag",
+        "Location": "Dravanisches Vorland",
+        "Level": 50,
+        "JournalSection": 4,
+        "JournalCategory": 32,
+        "JournalGenre": "\n\t\t\t\t\t\t\tNebenaufträge\n\t\t\t\t\t\t",
+        "Url": "/lodestone/playguide/db/quest/55769feee22/",
+        "Image": null,
+        "Icon": "common_repeat",
+        "Issuer": "Sucher",
+        "StartLocation": {
+            "Name": "Dravanisches Vorland",
+            "X": "23.7",
+            "Y": "19.0"
+        },
+        "StartClass": null,
+        "Job": "",
+        "Company": "Keine Angabe",
+        "Requirement": "Keine Angabe",
+        "Rewards": {
+            "Gil": 489,
+            "Exp": null,
+            "ItemsMand": [],
+            "ItemsOpt": []
+        },
+        "Infos": {},
+        "Seq": 9,
+        "oldID": 67800,
+        "Map": {
+            "ID": 212
+        }
+    },
+    {
+        "ID": "5b10abf1a8c",
+        "Name": " Die Kraft der zehn Kräuter",
+        "Location": "Dravanisches Vorland",
+        "Level": 50,
+        "JournalSection": 4,
+        "JournalCategory": 32,
+        "JournalGenre": "\n\t\t\t\t\t\t\tNebenaufträge\n\t\t\t\t\t\t",
+        "Url": "/lodestone/playguide/db/quest/5b10abf1a8c/",
+        "Image": null,
+        "Icon": "common_repeat",
+        "Issuer": "Sucher",
+        "StartLocation": {
+            "Name": "Dravanisches Vorland",
+            "X": "23.7",
+            "Y": "19.0"
+        },
+        "StartClass": null,
+        "Job": "",
+        "Company": "Keine Angabe",
+        "Requirement": "Keine Angabe",
+        "Rewards": {
+            "Gil": 489,
+            "Exp": null,
+            "ItemsMand": [],
+            "ItemsOpt": []
+        },
+        "Infos": {
+            "PrevQuests": [
+                {
+                    "Name": "Goblin-Kräutermischer",
+                    "Url": "/lodestone/playguide/db/npc/npc/fc098e046b3/",
+                    "Area": "Dravanisches Vorland (X:23.9 Y:19.1)"
+                }
+            ]
+        },
+        "Seq": 19,
+        "oldID": 67810,
+        "Map": {
+            "ID": 212
+        }
+    },
+    {
+        "ID": "68f1a2fdfc9",
+        "Name": " Urnen für Frohehalde",
+        "Location": "Dravanisches Vorland",
+        "Level": 50,
+        "JournalSection": 4,
+        "JournalCategory": 32,
+        "JournalGenre": "\n\t\t\t\t\t\t\tNebenaufträge\n\t\t\t\t\t\t",
+        "Url": "/lodestone/playguide/db/quest/68f1a2fdfc9/",
+        "Image": null,
+        "Icon": "common_repeat",
+        "Issuer": "Sucher",
+        "StartLocation": {
+            "Name": "Dravanisches Vorland",
+            "X": "23.7",
+            "Y": "19.0"
+        },
+        "StartClass": null,
+        "Job": "",
+        "Company": "Keine Angabe",
+        "Requirement": "Keine Angabe",
+        "Rewards": {
+            "Gil": 517,
+            "Exp": null,
+            "ItemsMand": [],
+            "ItemsOpt": []
+        },
+        "Infos": {
+            "PrevQuests": [
+                {
+                    "Name": "Schlepper",
+                    "Url": "/lodestone/playguide/db/npc/npc/45ec887f970/",
+                    "Area": "Dravanisches Vorland (X:11.2 Y:32.1)"
+                }
+            ]
+        },
+        "Seq": 16,
+        "oldID": 67807,
+        "Map": {
+            "ID": 212
+        }
+    },
+    {
+        "ID": "708cb8cd579",
+        "Name": "Band der Freundschaft",
+        "Location": "Dravanisches Vorland",
+        "Level": 50,
+        "JournalSection": 4,
+        "JournalCategory": 32,
+        "JournalGenre": "\n\t\t\t\t\t\t\tHauptaufträge\n\t\t\t\t\t\t",
+        "Url": "/lodestone/playguide/db/quest/708cb8cd579/",
+        "Image": null,
+        "Icon": "function_normal",
+        "Issuer": "Macher",
+        "StartLocation": {
+            "Name": "Dravanisches Vorland",
+            "X": "23.6",
+            "Y": "19.1"
+        },
+        "StartClass": null,
+        "Job": "",
+        "Company": "Keine Angabe",
+        "Requirement": "Keine Angabe",
+        "Rewards": {
+            "Gil": 405,
+            "Exp": 0,
+            "ItemsMand": [],
+            "ItemsOpt": []
+        },
+        "Infos": {
+            "PrevQuests": [
+                {
+                    "Name": " Die Angst des Bindenden",
+                    "Url": "/lodestone/playguide/db/quest/ff787aa9c77/",
+                    "Area": "Dravanisches Vorland",
+                    "Level": "50"
+                }
+            ],
+            "NextQuests": [
+                {
+                    "Name": "Erzähler",
+                    "Url": "/lodestone/playguide/db/npc/npc/41a0c5ab8cb/",
+                    "Area": "Dravanisches Vorland (X:24.0 Y:19.7)"
+                }
+            ]
+        },
+        "Seq": 5,
+        "oldID": 67796,
+        "Map": {
+            "ID": 212
+        }
+    },
+    {
+        "ID": "8957ae9fb7d",
+        "Name": " Schatzsuche am Trinär-Annex",
+        "Location": "Dravanisches Vorland",
+        "Level": 50,
+        "JournalSection": 4,
+        "JournalCategory": 32,
+        "JournalGenre": "\n\t\t\t\t\t\t\tNebenaufträge\n\t\t\t\t\t\t",
+        "Url": "/lodestone/playguide/db/quest/8957ae9fb7d/",
+        "Image": null,
+        "Icon": "common_repeat",
+        "Issuer": "Sucher",
+        "StartLocation": {
+            "Name": "Dravanisches Vorland",
+            "X": "23.7",
+            "Y": "19.0"
+        },
+        "StartClass": null,
+        "Job": "",
+        "Company": "Keine Angabe",
+        "Requirement": "Keine Angabe",
+        "Rewards": {
+            "Gil": 489,
+            "Exp": null,
+            "ItemsMand": [],
+            "ItemsOpt": []
+        },
+        "Infos": {
+            "PrevQuests": [
+                {
+                    "Name": "Erfolgreiche Schatzsucherin",
+                    "Url": "/lodestone/playguide/db/npc/npc/24301ddf887/",
+                    "Area": "Dravanisches Vorland (X:17.1 Y:26.9)"
+                },
+                {
+                    "Name": "Glückloser Schatzsucher",
+                    "Url": "/lodestone/playguide/db/npc/npc/2901b63191f/",
+                    "Area": "Dravanisches Vorland (X:13.5 Y:26.0)"
+                },
+                {
+                    "Name": "Ängstlicher Schatzsucher",
+                    "Url": "/lodestone/playguide/db/npc/npc/e7031314695/",
+                    "Area": "Dravanisches Vorland (X:14.6 Y:27.4)"
+                }
+            ]
+        },
+        "Seq": 20,
+        "oldID": 67811,
+        "Map": {
+            "ID": 212
+        }
+    },
+    {
+        "ID": "8a029799685",
+        "Name": " Vor Angst gelähmt",
+        "Location": "Dravanisches Vorland",
+        "Level": 50,
+        "JournalSection": 4,
+        "JournalCategory": 32,
+        "JournalGenre": "\n\t\t\t\t\t\t\tNebenaufträge\n\t\t\t\t\t\t",
+        "Url": "/lodestone/playguide/db/quest/8a029799685/",
+        "Image": null,
+        "Icon": "common_repeat",
+        "Issuer": "Sucher",
+        "StartLocation": {
+            "Name": "Dravanisches Vorland",
+            "X": "23.7",
+            "Y": "19.0"
+        },
+        "StartClass": null,
+        "Job": "",
+        "Company": "Keine Angabe",
+        "Requirement": "Keine Angabe",
+        "Rewards": {
+            "Gil": 545,
+            "Exp": null,
+            "ItemsMand": [],
+            "ItemsOpt": []
+        },
+        "Infos": {
+            "PrevQuests": [
+                {
+                    "Name": "Furchtloser",
+                    "Url": "/lodestone/playguide/db/npc/npc/dc8cc4eecd0/",
+                    "Area": "Dravanisches Vorland (X:14.3 Y:19.6)"
+                }
+            ]
+        },
+        "Seq": 25,
+        "oldID": 67816,
+        "Map": {
+            "ID": 212
+        }
+    },
+    {
+        "ID": "b51e087b571",
+        "Name": " Der Macher macht's",
+        "Location": "Dravanisches Vorland",
+        "Level": 50,
+        "JournalSection": 4,
+        "JournalCategory": 32,
+        "JournalGenre": "\n\t\t\t\t\t\t\tHauptaufträge\n\t\t\t\t\t\t",
+        "Url": "/lodestone/playguide/db/quest/b51e087b571/",
+        "Image": "https://img.finalfantasyxiv.com/lds/pc/global/images/itemicon/15/15a1a14d3fed9aa30f9785994bdd0311655c1b33.png?n5.5",
+        "Icon": "function_normal",
+        "Issuer": "Macher",
+        "StartLocation": {
+            "Name": "Dravanisches Vorland",
+            "X": "23.6",
+            "Y": "19.1"
+        },
+        "StartClass": null,
+        "Job": "",
+        "Company": "Keine Angabe",
+        "Requirement": "Keine Angabe",
+        "Rewards": {
+            "Gil": 1064,
+            "Exp": null,
+            "ItemsMand": [],
+            "ItemsOpt": []
+        },
+        "Infos": {
+            "PrevQuests": [
+                {
+                    "Name": " Ein namenloser Vath",
+                    "Url": "/lodestone/playguide/db/quest/e06ff99cc03/",
+                    "Area": "Dravanisches Vorland",
+                    "Level": "50"
+                }
+            ],
+            "NextQuests": [
+                {
+                    "Name": "Die Bande alter Freundschaft",
+                    "Url": "/lodestone/playguide/db/quest/0366ac0fb9c/",
+                    "Area": "Himmelsstadt",
+                    "Level": "60"
+                },
+                {
+                    "Name": " Komische Begegnung",
+                    "Url": "/lodestone/playguide/db/quest/0f6fd8c9925/",
+                    "Area": "Dravanisches Vorland",
+                    "Level": "50"
+                }
+            ],
+            "NPCs": [
+                {
+                    "Name": "Jantellot",
+                    "Url": "/lodestone/playguide/db/npc/npc/c906fdfe1f2/",
+                    "Area": "Westliches Hochland von Coerthas (X:16.7 Y:22.8)"
+                },
+                {
+                    "Name": "Macher",
+                    "Url": "/lodestone/playguide/db/npc/npc/32e4b87c140/",
+                    "Area": "Westliches Hochland von Coerthas (X:6.7 Y:10.0)"
+                },
+                {
+                    "Name": "Macher",
+                    "Url": "/lodestone/playguide/db/npc/npc/44f0df29fa9/",
+                    "Area": "Westliches Hochland von Coerthas (X:17.0 Y:21.6)"
+                },
+                {
+                    "Name": "Erzähler",
+                    "Url": "/lodestone/playguide/db/npc/npc/41a0c5ab8cb/",
+                    "Area": "Dravanisches Vorland (X:24.0 Y:19.7)"
+                },
+                {
+                    "Name": "Macher",
+                    "Url": "/lodestone/playguide/db/npc/npc/e163a8bb3ec/",
+                    "Area": "Dravanisches Vorland (X:39.4 Y:29.3)"
+                },
+                {
+                    "Name": "Macher",
+                    "Url": "/lodestone/playguide/db/npc/npc/3a0fa10d7bd/",
+                    "Area": "Dravanisches Vorland (X:24.6 Y:18.8)"
+                }
+            ]
+        },
+        "Seq": 1,
+        "oldID": 67792,
+        "Map": {
+            "ID": 212
+        }
+    },
+    {
+        "ID": "b9d0ab7fc43",
+        "Name": " Unterschätze niemals einen Vath",
+        "Location": "Dravanisches Vorland",
+        "Level": 50,
+        "JournalSection": 4,
+        "JournalCategory": 32,
+        "JournalGenre": "\n\t\t\t\t\t\t\tNebenaufträge\n\t\t\t\t\t\t",
+        "Url": "/lodestone/playguide/db/quest/b9d0ab7fc43/",
+        "Image": null,
+        "Icon": "common_repeat",
+        "Issuer": "Sucher",
+        "StartLocation": {
+            "Name": "Dravanisches Vorland",
+            "X": "23.7",
+            "Y": "19.0"
+        },
+        "StartClass": null,
+        "Job": "",
+        "Company": "Keine Angabe",
+        "Requirement": "Keine Angabe",
+        "Rewards": {
+            "Gil": 489,
+            "Exp": null,
+            "ItemsMand": [],
+            "ItemsOpt": []
+        },
+        "Infos": {},
+        "Seq": 11,
+        "oldID": 67802,
+        "Map": {
+            "ID": 212
+        }
+    },
+    {
+        "ID": "c766556122d",
+        "Name": " Ausgebüxt",
+        "Location": "Dravanisches Vorland",
+        "Level": 50,
+        "JournalSection": 4,
+        "JournalCategory": 32,
+        "JournalGenre": "\n\t\t\t\t\t\t\tNebenaufträge\n\t\t\t\t\t\t",
+        "Url": "/lodestone/playguide/db/quest/c766556122d/",
+        "Image": null,
+        "Icon": "common_repeat",
+        "Issuer": "Sucher",
+        "StartLocation": {
+            "Name": "Dravanisches Vorland",
+            "X": "23.7",
+            "Y": "19.0"
+        },
+        "StartClass": null,
+        "Job": "",
+        "Company": "Keine Angabe",
+        "Requirement": "Keine Angabe",
+        "Rewards": {
+            "Gil": 642,
+            "Exp": null,
+            "ItemsMand": [],
+            "ItemsOpt": []
+        },
+        "Infos": {
+            "PrevQuests": [
+                {
+                    "Name": "Drachenmutter",
+                    "Url": "/lodestone/playguide/db/npc/npc/b4692ca198e/",
+                    "Area": "Dravanisches Vorland (X:17.0 Y:23.0)"
+                },
+                {
+                    "Name": "Drachensprössling",
+                    "Url": "/lodestone/playguide/db/npc/npc/e7d9982637c/",
+                    "Area": "Dravanisches Vorland (X:25.5 Y:9.6)"
+                },
+                {
+                    "Name": "Drachensprössling",
+                    "Url": "/lodestone/playguide/db/npc/npc/1bc7190cd56/",
+                    "Area": "Dravanisches Vorland (X:26.8 Y:7.0)"
+                },
+                {
+                    "Name": "Drachensprössling",
+                    "Url": "/lodestone/playguide/db/npc/npc/fc5512c2aca/",
+                    "Area": "Dravanisches Vorland (X:26.7 Y:4.1)"
+                }
+            ]
+        },
+        "Seq": 23,
+        "oldID": 67814,
+        "Map": {
+            "ID": 212
+        }
+    },
+    {
+        "ID": "cbc999a8f49",
+        "Name": " Rauchende Schlote",
+        "Location": "Dravanisches Vorland",
+        "Level": 50,
+        "JournalSection": 4,
+        "JournalCategory": 32,
+        "JournalGenre": "\n\t\t\t\t\t\t\tNebenaufträge\n\t\t\t\t\t\t",
+        "Url": "/lodestone/playguide/db/quest/cbc999a8f49/",
+        "Image": null,
+        "Icon": "common_repeat",
+        "Issuer": "Sucher",
+        "StartLocation": {
+            "Name": "Dravanisches Vorland",
+            "X": "23.7",
+            "Y": "19.0"
+        },
+        "StartClass": null,
+        "Job": "",
+        "Company": "Keine Angabe",
+        "Requirement": "Keine Angabe",
+        "Rewards": {
+            "Gil": 517,
+            "Exp": null,
+            "ItemsMand": [],
+            "ItemsOpt": []
+        },
+        "Infos": {},
+        "Seq": 24,
+        "oldID": 67815,
+        "Map": {
+            "ID": 212
+        }
+    },
+    {
+        "ID": "e0166ca1a13",
+        "Name": " Seltsames Jägervolk",
+        "Location": "Dravanisches Vorland",
+        "Level": 50,
+        "JournalSection": 4,
+        "JournalCategory": 32,
+        "JournalGenre": "\n\t\t\t\t\t\t\tNebenaufträge\n\t\t\t\t\t\t",
+        "Url": "/lodestone/playguide/db/quest/e0166ca1a13/",
+        "Image": null,
+        "Icon": "common_repeat",
+        "Issuer": "Sucher",
+        "StartLocation": {
+            "Name": "Dravanisches Vorland",
+            "X": "23.7",
+            "Y": "19.0"
+        },
+        "StartClass": null,
+        "Job": "",
+        "Company": "Keine Angabe",
+        "Requirement": "Keine Angabe",
+        "Rewards": {
+            "Gil": 489,
+            "Exp": null,
+            "ItemsMand": [],
+            "ItemsOpt": []
+        },
+        "Infos": {},
+        "Seq": 6,
+        "oldID": 67797,
+        "Map": {
+            "ID": 212
+        }
+    },
+    {
+        "ID": "e06ff99cc03",
+        "Name": " Ein namenloser Vath",
+        "Location": "Dravanisches Vorland",
+        "Level": 50,
+        "JournalSection": 4,
+        "JournalCategory": 32,
+        "JournalGenre": "\n\t\t\t\t\t\t\tHauptaufträge\n\t\t\t\t\t\t",
+        "Url": "/lodestone/playguide/db/quest/e06ff99cc03/",
+        "Image": "https://img.finalfantasyxiv.com/lds/pc/global/images/itemicon/e8/e88bc661bce9669a08cdd6e9fbb5d78d7194ee5e.png?n5.5",
+        "Icon": "function_normal",
+        "Issuer": "Erzähler",
+        "StartLocation": {
+            "Name": "Dravanisches Vorland",
+            "X": "24.0",
+            "Y": "19.7"
+        },
+        "StartClass": null,
+        "Job": "",
+        "Company": "Keine Angabe",
+        "Requirement": "Keine Angabe",
+        "Rewards": {
+            "Gil": 1027,
+            "Exp": null,
+            "ItemsMand": [],
+            "ItemsOpt": []
+        },
+        "Infos": {
+            "PrevQuests": [
+                {
+                    "Name": "Der Herr des Krieges",
+                    "Url": "/lodestone/playguide/db/quest/cd62fea9f11/",
+                    "Area": "Dravanisches Vorland",
+                    "Level": "53"
+                }
+            ],
+            "NextQuests": [
+                {
+                    "Name": " Der Macher macht's",
+                    "Url": "/lodestone/playguide/db/quest/b51e087b571/",
+                    "Area": "Dravanisches Vorland",
+                    "Level": "50"
+                }
+            ],
+            "NPCs": [
+                {
+                    "Name": "Grimold",
+                    "Url": "/lodestone/playguide/db/npc/npc/5062bdbf8eb/",
+                    "Area": "Dravanisches Vorland (X:31.5 Y:24.7)"
+                },
+                {
+                    "Name": "Idaten",
+                    "Url": "/lodestone/playguide/db/npc/npc/94a00b21757/",
+                    "Area": "Dravanisches Vorland (X:23.9 Y:19.7)"
+                },
+                {
+                    "Name": "Krämer",
+                    "Url": "/lodestone/playguide/db/npc/npc/a1e6c7c04a7/",
+                    "Area": "Dravanisches Vorland (X:23.7 Y:19.1)"
+                },
+                {
+                    "Name": "Marcechamp",
+                    "Url": "/lodestone/playguide/db/npc/npc/7a3fbf03e28/",
+                    "Area": "Dravanisches Vorland (X:31.9 Y:22.9)"
+                },
+                {
+                    "Name": "Namenloser",
+                    "Url": "/lodestone/playguide/db/npc/npc/6b5b11755fb/",
+                    "Area": "Dravanisches Vorland (X:31.5 Y:24.7)"
+                },
+                {
+                    "Name": "Namenloser",
+                    "Url": "/lodestone/playguide/db/npc/npc/bf29872cb7d/",
+                    "Area": "Dravanisches Vorland (X:26.8 Y:17.9)"
+                },
+                {
+                    "Name": "Namenloser",
+                    "Url": "/lodestone/playguide/db/npc/npc/2cda1e9ce82/",
+                    "Area": "Dravanisches Vorland (X:23.7 Y:19.1)"
+                },
+                {
+                    "Name": "Sucher",
+                    "Url": "/lodestone/playguide/db/npc/npc/9f81e2de80a/",
+                    "Area": "Dravanisches Vorland (X:23.6 Y:19.1)"
+                },
+                {
+                    "Name": "Wilder Drache",
+                    "Url": "/lodestone/playguide/db/npc/npc/05263cba510/",
+                    "Area": "Dravanisches Vorland (X:26.8 Y:26.9)"
+                },
+                {
+                    "Name": "Wilder Drache",
+                    "Url": "/lodestone/playguide/db/npc/npc/97184f48425/",
+                    "Area": "Dravanisches Vorland (X:26.8 Y:26.8)"
+                }
+            ]
+        },
+        "Seq": 18,
+        "oldID": 67791,
+        "Map": {
+            "ID": 212
+        }
+    },
+    {
+        "ID": "e616d702bd9",
+        "Name": " Köstlicher Gammelwein",
+        "Location": "Dravanisches Vorland",
+        "Level": 50,
+        "JournalSection": 4,
+        "JournalCategory": 32,
+        "JournalGenre": "\n\t\t\t\t\t\t\tNebenaufträge\n\t\t\t\t\t\t",
+        "Url": "/lodestone/playguide/db/quest/e616d702bd9/",
+        "Image": null,
+        "Icon": "common_repeat",
+        "Issuer": "Sucher",
+        "StartLocation": {
+            "Name": "Dravanisches Vorland",
+            "X": "23.7",
+            "Y": "19.0"
+        },
+        "StartClass": null,
+        "Job": "",
+        "Company": "Keine Angabe",
+        "Requirement": "Keine Angabe",
+        "Rewards": {
+            "Gil": 461,
+            "Exp": null,
+            "ItemsMand": [],
+            "ItemsOpt": []
+        },
+        "Infos": {
+            "PrevQuests": [
+                {
+                    "Name": "Finneas Vollstrecker",
+                    "Url": "/lodestone/playguide/db/npc/npc/26a57ff57b4/",
+                    "Area": "Dravanisches Vorland (X:24.0 Y:19.0)"
+                }
+            ]
+        },
+        "Seq": 13,
+        "oldID": 67804,
+        "Map": {
+            "ID": 212
+        }
+    },
+    {
+        "ID": "eb582e25936",
+        "Name": " Glibber-Genuss vom Fluss",
+        "Location": "Dravanisches Vorland",
+        "Level": 50,
+        "JournalSection": 4,
+        "JournalCategory": 32,
+        "JournalGenre": "\n\t\t\t\t\t\t\tNebenaufträge\n\t\t\t\t\t\t",
+        "Url": "/lodestone/playguide/db/quest/eb582e25936/",
+        "Image": null,
+        "Icon": "common_repeat",
+        "Issuer": "Sucher",
+        "StartLocation": {
+            "Name": "Dravanisches Vorland",
+            "X": "23.7",
+            "Y": "19.0"
+        },
+        "StartClass": null,
+        "Job": "",
+        "Company": "Keine Angabe",
+        "Requirement": "Keine Angabe",
+        "Rewards": {
+            "Gil": 489,
+            "Exp": null,
+            "ItemsMand": [],
+            "ItemsOpt": []
+        },
+        "Infos": {},
+        "Seq": 18,
+        "oldID": 67809,
+        "Map": {
+            "ID": 212
+        }
+    },
+    {
+        "ID": "ec419e7b0e9",
+        "Name": " Hoch hinaus",
+        "Location": "Dravanisches Vorland",
+        "Level": 50,
+        "JournalSection": 4,
+        "JournalCategory": 32,
+        "JournalGenre": "\n\t\t\t\t\t\t\tNebenaufträge\n\t\t\t\t\t\t",
+        "Url": "/lodestone/playguide/db/quest/ec419e7b0e9/",
+        "Image": null,
+        "Icon": "common_repeat",
+        "Issuer": "Sucher",
+        "StartLocation": {
+            "Name": "Dravanisches Vorland",
+            "X": "23.7",
+            "Y": "19.0"
+        },
+        "StartClass": null,
+        "Job": "",
+        "Company": "Keine Angabe",
+        "Requirement": "Keine Angabe",
+        "Rewards": {
+            "Gil": 461,
+            "Exp": null,
+            "ItemsMand": [],
+            "ItemsOpt": []
+        },
+        "Infos": {
+            "PrevQuests": [
+                {
+                    "Name": "Gelbgeschuppter Drache",
+                    "Url": "/lodestone/playguide/db/npc/npc/27f008f5390/",
+                    "Area": "Dravanisches Vorland (X:20.2 Y:18.4)"
+                },
+                {
+                    "Name": "Gelbgeschuppter Drache",
+                    "Url": "/lodestone/playguide/db/npc/npc/acdf53d1287/",
+                    "Area": "Dravanisches Vorland (X:21.6 Y:22.0)"
+                },
+                {
+                    "Name": "Gelbgeschuppter Drache",
+                    "Url": "/lodestone/playguide/db/npc/npc/e86732965c9/",
+                    "Area": "Dravanisches Vorland (X:18.9 Y:20.9)"
+                },
+                {
+                    "Name": "Gelbgeschuppter Drache",
+                    "Url": "/lodestone/playguide/db/npc/npc/3535f873879/",
+                    "Area": "Dravanisches Vorland (X:14.5 Y:21.6)"
+                }
+            ]
+        },
+        "Seq": 22,
+        "oldID": 67813,
+        "Map": {
+            "ID": 212
+        }
+    },
+    {
+        "ID": "eeeee2d41af",
+        "Name": " Die richtige Entscheidung",
+        "Location": "Dravanisches Vorland",
+        "Level": 50,
+        "JournalSection": 4,
+        "JournalCategory": 32,
+        "JournalGenre": "\n\t\t\t\t\t\t\tNebenaufträge\n\t\t\t\t\t\t",
+        "Url": "/lodestone/playguide/db/quest/eeeee2d41af/",
+        "Image": null,
+        "Icon": "common_repeat",
+        "Issuer": "Sucher",
+        "StartLocation": {
+            "Name": "Dravanisches Vorland",
+            "X": "23.7",
+            "Y": "19.0"
+        },
+        "StartClass": null,
+        "Job": "",
+        "Company": "Keine Angabe",
+        "Requirement": "Keine Angabe",
+        "Rewards": {
+            "Gil": 545,
+            "Exp": null,
+            "ItemsMand": [],
+            "ItemsOpt": []
+        },
+        "Infos": {
+            "PrevQuests": [
+                {
+                    "Name": "Grimold",
+                    "Url": "/lodestone/playguide/db/npc/npc/5062bdbf8eb/",
+                    "Area": "Dravanisches Vorland (X:31.5 Y:24.7)"
+                }
+            ]
+        },
+        "Seq": 15,
+        "oldID": 67806,
+        "Map": {
+            "ID": 212
+        }
+    },
+    {
+        "ID": "f390d657b36",
+        "Name": " Insektenplage",
+        "Location": "Dravanisches Vorland",
+        "Level": 50,
+        "JournalSection": 4,
+        "JournalCategory": 32,
+        "JournalGenre": "\n\t\t\t\t\t\t\tNebenaufträge\n\t\t\t\t\t\t",
+        "Url": "/lodestone/playguide/db/quest/f390d657b36/",
+        "Image": null,
+        "Icon": "common_repeat",
+        "Issuer": "Sucher",
+        "StartLocation": {
+            "Name": "Dravanisches Vorland",
+            "X": "23.7",
+            "Y": "19.0"
+        },
+        "StartClass": null,
+        "Job": "",
+        "Company": "Keine Angabe",
+        "Requirement": "Keine Angabe",
+        "Rewards": {
+            "Gil": 461,
+            "Exp": null,
+            "ItemsMand": [],
+            "ItemsOpt": []
+        },
+        "Infos": {
+            "PrevQuests": [
+                {
+                    "Name": "Flohflüsterer",
+                    "Url": "/lodestone/playguide/db/npc/npc/4c7d235d7c8/",
+                    "Area": "Dravanisches Vorland (X:24.0 Y:19.1)"
+                },
+                {
+                    "Name": "Louisonet",
+                    "Url": "/lodestone/playguide/db/npc/npc/e575c6c6804/",
+                    "Area": "Dravanisches Vorland (X:32.9 Y:24.3)"
+                }
+            ]
+        },
+        "Seq": 8,
+        "oldID": 67799,
+        "Map": {
+            "ID": 212
+        }
+    },
+    {
+        "ID": "fc21801f33d",
+        "Name": " Rauchsprüh gegen Juckenhaut",
+        "Location": "Dravanisches Vorland",
+        "Level": 50,
+        "JournalSection": 4,
+        "JournalCategory": 32,
+        "JournalGenre": "\n\t\t\t\t\t\t\tNebenaufträge\n\t\t\t\t\t\t",
+        "Url": "/lodestone/playguide/db/quest/fc21801f33d/",
+        "Image": null,
+        "Icon": "common_repeat",
+        "Issuer": "Sucher",
+        "StartLocation": {
+            "Name": "Dravanisches Vorland",
+            "X": "23.7",
+            "Y": "19.0"
+        },
+        "StartClass": null,
+        "Job": "",
+        "Company": "Keine Angabe",
+        "Requirement": "Keine Angabe",
+        "Rewards": {
+            "Gil": 461,
+            "Exp": null,
+            "ItemsMand": [],
+            "ItemsOpt": []
+        },
+        "Infos": {
+            "PrevQuests": [
+                {
+                    "Name": "Flohflüsterer",
+                    "Url": "/lodestone/playguide/db/npc/npc/4c7d235d7c8/",
+                    "Area": "Dravanisches Vorland (X:24.0 Y:19.1)"
+                },
+                {
+                    "Name": "Goblin-Jäger",
+                    "Url": "/lodestone/playguide/db/npc/npc/5b626be3663/",
+                    "Area": "Dravanisches Vorland (X:18.7 Y:32.8)"
+                },
+                {
+                    "Name": "Goblin-Jäger",
+                    "Url": "/lodestone/playguide/db/npc/npc/47a44fd9339/",
+                    "Area": "Dravanisches Vorland (X:22.2 Y:36.8)"
+                },
+                {
+                    "Name": "Goblin-Jäger",
+                    "Url": "/lodestone/playguide/db/npc/npc/4bc2ad96a7f/",
+                    "Area": "Dravanisches Vorland (X:23.4 Y:36.2)"
+                }
+            ]
+        },
+        "Seq": 17,
+        "oldID": 67808,
+        "Map": {
+            "ID": 212
+        }
+    },
+    {
+        "ID": "ff787aa9c77",
+        "Name": " Die Angst des Bindenden",
+        "Location": "Dravanisches Vorland",
+        "Level": 50,
+        "JournalSection": 4,
+        "JournalCategory": 32,
+        "JournalGenre": "\n\t\t\t\t\t\t\tHauptaufträge\n\t\t\t\t\t\t",
+        "Url": "/lodestone/playguide/db/quest/ff787aa9c77/",
+        "Image": "https://img.finalfantasyxiv.com/lds/pc/global/images/itemicon/0d/0d17ddac8b1f8924ba7c3ee1140fc801de8034b7.png?n5.5",
+        "Icon": "function_normal",
+        "Issuer": "Macher",
+        "StartLocation": {
+            "Name": "Dravanisches Vorland",
+            "X": "23.6",
+            "Y": "19.1"
+        },
+        "StartClass": null,
+        "Job": "",
+        "Company": "Keine Angabe",
+        "Requirement": "Keine Angabe",
+        "Rewards": {
+            "Gil": 742,
+            "Exp": null,
+            "ItemsMand": [],
+            "ItemsOpt": []
+        },
+        "Infos": {
+            "PrevQuests": [
+                {
+                    "Name": " Der Unverbundenheitsbeweis",
+                    "Url": "/lodestone/playguide/db/quest/01da161e6f0/",
+                    "Area": "Dravanisches Vorland",
+                    "Level": "50"
+                }
+            ],
+            "NextQuests": [
+                {
+                    "Name": "Band der Freundschaft",
+                    "Url": "/lodestone/playguide/db/quest/708cb8cd579/",
+                    "Area": "Dravanisches Vorland",
+                    "Level": "50"
+                }
+            ],
+            "NPCs": [
+                {
+                    "Name": "Erzähler",
+                    "Url": "/lodestone/playguide/db/npc/npc/41a0c5ab8cb/",
+                    "Area": "Dravanisches Vorland (X:24.0 Y:19.7)"
+                },
+                {
+                    "Name": "Idaten",
+                    "Url": "/lodestone/playguide/db/npc/npc/94a00b21757/",
+                    "Area": "Dravanisches Vorland (X:23.9 Y:19.7)"
+                },
+                {
+                    "Name": "Macher",
+                    "Url": "/lodestone/playguide/db/npc/npc/d643a4a427b/",
+                    "Area": "Dravanisches Vorland (X:27.1 Y:34.3)"
+                },
+                {
+                    "Name": "Macher",
+                    "Url": "/lodestone/playguide/db/npc/npc/2eaca5a08a3/",
+                    "Area": "Dravanisches Vorland (X:28.5 Y:36.1)"
+                }
+            ]
+        },
+        "Seq": 4,
+        "oldID": 67795,
+        "Map": {
+            "ID": 212
+        }
+    }
+]

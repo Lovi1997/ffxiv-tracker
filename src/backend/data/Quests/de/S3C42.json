@@ -1,0 +1,2007 @@
+[
+    {
+        "ID": "02577140302",
+        "Name": "Prismatische Illusionen",
+        "Location": "Mor Dhona",
+        "Level": 15,
+        "JournalSection": 3,
+        "JournalCategory": 42,
+        "JournalGenre": "Aufträge Mor Dhona",
+        "Url": "/lodestone/playguide/db/quest/02577140302/",
+        "Image": null,
+        "Icon": "function_normal",
+        "Issuer": "Wiscard",
+        "StartLocation": {
+            "Name": "Mor Dhona",
+            "X": "22.1",
+            "Y": "6.7"
+        },
+        "StartClass": null,
+        "Job": "",
+        "Company": "Keine Angabe",
+        "Requirement": "Keine Angabe",
+        "Rewards": {
+            "Gil": 0,
+            "Exp": 0,
+            "ItemsMand": [
+                {
+                    "Icon": "https://img.finalfantasyxiv.com/lds/pc/global/images/itemicon/60/606b393d7113c4a3c6980dcac15d90d18ffc0222.png?n5.5",
+                    "Name": "Projektionsprisma",
+                    "Amount": 12,
+                    "Url": "/lodestone/playguide/db/item/58886c8cb88/"
+                },
+                {
+                    "Icon": "https://img.finalfantasyxiv.com/lds/pc/global/images/itemicon/db/dbcf4c6b20b119ac3f2ba1ba269a64587a6a53f1.png?n5.5",
+                    "Name": "Grünes Barett",
+                    "Amount": 1,
+                    "Url": "/lodestone/playguide/db/item/7b101c7e945/"
+                },
+                {
+                    "Icon": "https://img.finalfantasyxiv.com/lds/pc/global/images/itemicon/c8/c8d2e16c9a95b158dd7fd8887b3aaea60788e552.png?n5.5",
+                    "Name": "",
+                    "Amount": null
+                },
+                {
+                    "Icon": "https://img.finalfantasyxiv.com/lds/pc/global/images/itemicon/ca/ca560799b23de5d5f688dde5258649c1e7a538b9.png?n5.5",
+                    "Name": "",
+                    "Amount": null
+                }
+            ],
+            "ItemsOpt": []
+        },
+        "Infos": {
+            "PrevQuests": [
+                {
+                    "Name": "Prismatische Meisterrezepte",
+                    "Url": "/lodestone/playguide/db/quest/262d26cb079/",
+                    "Area": "Mor Dhona",
+                    "Level": "15"
+                }
+            ],
+            "NextQuests": [
+                {
+                    "Name": "Rowena",
+                    "Url": "/lodestone/playguide/db/npc/npc/5f16dc7f440/",
+                    "Area": "Mor Dhona (X:21.9 Y:4.9)"
+                }
+            ]
+        },
+        "Seq": 2,
+        "oldID": 66957,
+        "Map": {
+            "ID": 25
+        }
+    },
+    {
+        "ID": "0379f909f32",
+        "Name": "Es ist nicht leicht, grün zu sein",
+        "Location": "Mor Dhona",
+        "Level": 50,
+        "JournalSection": 3,
+        "JournalCategory": 42,
+        "JournalGenre": "Aufträge Mor Dhona",
+        "Url": "/lodestone/playguide/db/quest/0379f909f32/",
+        "Image": "https://img.finalfantasyxiv.com/lds/pc/global/images/itemicon/d2/d20909938d07e83d4af169cbbe27dc0cae62d601.png?n5.5",
+        "Icon": "function_normal",
+        "Issuer": "Bloezoeng",
+        "StartLocation": {
+            "Name": "Mor Dhona",
+            "X": "22.1",
+            "Y": "8.7"
+        },
+        "StartClass": null,
+        "Job": "",
+        "Company": "Keine Angabe",
+        "Requirement": "Palast des Wanderers",
+        "Rewards": {
+            "Gil": 2064,
+            "Exp": 0,
+            "ItemsMand": [],
+            "ItemsOpt": []
+        },
+        "Infos": {
+            "PrevQuests": [
+                {
+                    "Name": "Die ultimative Waffe",
+                    "Url": "/lodestone/playguide/db/quest/3ab32cfebf8/",
+                    "Area": "Nördliches Thanalan",
+                    "Level": "50"
+                }
+            ],
+            "NextQuests": [
+                {
+                    "Name": "Abazi Charazi",
+                    "Url": "/lodestone/playguide/db/npc/npc/350ac263073/",
+                    "Area": "Oberes La Noscea (X:25.6 Y:23.0)"
+                },
+                {
+                    "Name": "Glückloser Schatzsucher",
+                    "Url": "/lodestone/playguide/db/npc/npc/07270ec3b7b/",
+                    "Area": "Oberes La Noscea (X:30.0 Y:22.9)"
+                },
+                {
+                    "Name": "Treuer Gefährte",
+                    "Url": "/lodestone/playguide/db/npc/npc/b6e82e15eff/",
+                    "Area": "Oberes La Noscea (X:30.0 Y:22.9)"
+                }
+            ]
+        },
+        "Seq": 31,
+        "oldID": 65967,
+        "Map": {
+            "ID": 25
+        }
+    },
+    {
+        "ID": "09b7eca3a28",
+        "Name": "Steinerne Wacht ist unser",
+        "Location": "Mor Dhona",
+        "Level": 50,
+        "JournalSection": 3,
+        "JournalCategory": 42,
+        "JournalGenre": "Aufträge Mor Dhona",
+        "Url": "/lodestone/playguide/db/quest/09b7eca3a28/",
+        "Image": "https://img.finalfantasyxiv.com/lds/pc/global/images/itemicon/89/89ab173dbe1ee1af6f7adeede644f8797e9c2abc.png?n5.5",
+        "Icon": "function_normal",
+        "Issuer": "Faillicie",
+        "StartLocation": {
+            "Name": "Mor Dhona",
+            "X": "21.9",
+            "Y": "8.4"
+        },
+        "StartClass": null,
+        "Job": "",
+        "Company": "Keine Angabe",
+        "Requirement": "Keine Angabe",
+        "Rewards": {
+            "Gil": 2064,
+            "Exp": 0,
+            "ItemsMand": [],
+            "ItemsOpt": []
+        },
+        "Infos": {
+            "PrevQuests": [
+                {
+                    "Name": "Die ultimative Waffe",
+                    "Url": "/lodestone/playguide/db/quest/3ab32cfebf8/",
+                    "Area": "Nördliches Thanalan",
+                    "Level": "50"
+                }
+            ],
+            "NextQuests": [
+                {
+                    "Name": "Drillemont",
+                    "Url": "/lodestone/playguide/db/npc/npc/f40f1163d93/",
+                    "Area": "Zentrales Hochland von Coerthas (X:12.8 Y:17.4)"
+                },
+                {
+                    "Name": "Nathelain",
+                    "Url": "/lodestone/playguide/db/npc/npc/bd5446717ff/",
+                    "Area": "Zentrales Hochland von Coerthas (X:8.0 Y:11.1)"
+                }
+            ]
+        },
+        "Seq": 26,
+        "oldID": 67061,
+        "Map": {
+            "ID": 25
+        }
+    },
+    {
+        "ID": "13c6b27d9bb",
+        "Name": "Grüße aus der Heimat",
+        "Location": "Mor Dhona",
+        "Level": 45,
+        "JournalSection": 3,
+        "JournalCategory": 42,
+        "JournalGenre": "Aufträge Mor Dhona",
+        "Url": "/lodestone/playguide/db/quest/13c6b27d9bb/",
+        "Image": null,
+        "Icon": "common_normal",
+        "Issuer": "Nazyl Duzyl",
+        "StartLocation": {
+            "Name": "Mor Dhona",
+            "X": "30.4",
+            "Y": "12.1"
+        },
+        "StartClass": null,
+        "Job": "",
+        "Company": "Keine Angabe",
+        "Requirement": "Keine Angabe",
+        "Rewards": {
+            "Gil": 1782,
+            "Exp": 12420,
+            "ItemsMand": [],
+            "ItemsOpt": []
+        },
+        "Infos": {
+            "PrevQuests": [
+                {
+                    "Name": "Fallen will gelernt sein",
+                    "Url": "/lodestone/playguide/db/quest/f454b4c72fe/",
+                    "Area": "Mor Dhona",
+                    "Level": "45"
+                }
+            ],
+            "NextQuests": [
+                {
+                    "Name": "Beflissener Forscher",
+                    "Url": "/lodestone/playguide/db/npc/npc/2cf46d2aaf2/",
+                    "Area": "Mor Dhona (X:32.8 Y:6.8)"
+                },
+                {
+                    "Name": "Forsche Forscherin",
+                    "Url": "/lodestone/playguide/db/npc/npc/c2b4bf67dcc/",
+                    "Area": "Mor Dhona (X:32.3 Y:12.0)"
+                },
+                {
+                    "Name": "Freundlicher Forscher",
+                    "Url": "/lodestone/playguide/db/npc/npc/bf7142858a2/",
+                    "Area": "Mor Dhona (X:32.4 Y:8.7)"
+                }
+            ]
+        },
+        "Seq": 10,
+        "oldID": 66527,
+        "Map": {
+            "ID": 25
+        }
+    },
+    {
+        "ID": "14e3b64a4a6",
+        "Name": "Ich steh nicht auf Schläge",
+        "Location": "Mor Dhona",
+        "Level": 45,
+        "JournalSection": 3,
+        "JournalCategory": 42,
+        "JournalGenre": "Aufträge Mor Dhona",
+        "Url": "/lodestone/playguide/db/quest/14e3b64a4a6/",
+        "Image": null,
+        "Icon": "common_normal",
+        "Issuer": "Aganbold",
+        "StartLocation": {
+            "Name": "Mor Dhona",
+            "X": "22.0",
+            "Y": "8.6"
+        },
+        "StartClass": null,
+        "Job": "",
+        "Company": "Keine Angabe",
+        "Requirement": "Keine Angabe",
+        "Rewards": {
+            "Gil": 1782,
+            "Exp": 12420,
+            "ItemsMand": [],
+            "ItemsOpt": []
+        },
+        "Infos": {
+            "PrevQuests": [
+                {
+                    "Name": "Die Mär vom Wurz",
+                    "Url": "/lodestone/playguide/db/quest/73143b0fec9/",
+                    "Area": "Mor Dhona",
+                    "Level": "45"
+                }
+            ]
+        },
+        "Seq": 7,
+        "oldID": 66523,
+        "Map": {
+            "ID": 25
+        }
+    },
+    {
+        "ID": "1a5c1d4bb6a",
+        "Name": "Glibberiges Scheusal",
+        "Location": "Mor Dhona",
+        "Level": 50,
+        "JournalSection": 3,
+        "JournalCategory": 42,
+        "JournalGenre": "Aufträge Mor Dhona",
+        "Url": "/lodestone/playguide/db/quest/1a5c1d4bb6a/",
+        "Image": "https://img.finalfantasyxiv.com/lds/pc/global/images/itemicon/b5/b5f18d043f6f331f310c9420dabdc108d054d843.png?n5.5",
+        "Icon": "function_normal",
+        "Issuer": "Bloezoeng",
+        "StartLocation": {
+            "Name": "Mor Dhona",
+            "X": "22.1",
+            "Y": "8.7"
+        },
+        "StartClass": null,
+        "Job": "",
+        "Company": "Keine Angabe",
+        "Requirement": "Keine Angabe",
+        "Rewards": {
+            "Gil": 2064,
+            "Exp": 0,
+            "ItemsMand": [],
+            "ItemsOpt": []
+        },
+        "Infos": {
+            "PrevQuests": [
+                {
+                    "Name": "Die ultimative Waffe",
+                    "Url": "/lodestone/playguide/db/quest/3ab32cfebf8/",
+                    "Area": "Nördliches Thanalan",
+                    "Level": "50"
+                }
+            ],
+            "NextQuests": [
+                {
+                    "Name": "Reyner",
+                    "Url": "/lodestone/playguide/db/npc/npc/0fac1708feb/",
+                    "Area": "Obere Decks (X:11.1 Y:6.0)"
+                },
+                {
+                    "Name": "Besonnener Thaumaturg",
+                    "Url": "/lodestone/playguide/db/npc/npc/e2e04bf3ff0/",
+                    "Area": "Westliches La Noscea (X:28.4 Y:21.9)"
+                },
+                {
+                    "Name": "Bleicher Gladiator",
+                    "Url": "/lodestone/playguide/db/npc/npc/1bd6dc5289a/",
+                    "Area": "Westliches La Noscea (X:28.3 Y:21.9)"
+                },
+                {
+                    "Name": "D'perjha",
+                    "Url": "/lodestone/playguide/db/npc/npc/fb93cddc222/",
+                    "Area": "Westliches La Noscea (X:28.1 Y:21.5)"
+                },
+                {
+                    "Name": "Erschöpfte Druidin",
+                    "Url": "/lodestone/playguide/db/npc/npc/59aa4dddb17/",
+                    "Area": "Westliches La Noscea (X:28.3 Y:21.9)"
+                },
+                {
+                    "Name": "Reyner",
+                    "Url": "/lodestone/playguide/db/npc/npc/8ca9a3581e8/",
+                    "Area": "Westliches La Noscea (X:25.6 Y:26.3)"
+                },
+                {
+                    "Name": "Sorglose Waldläuferin",
+                    "Url": "/lodestone/playguide/db/npc/npc/b5520395fe7/",
+                    "Area": "Westliches La Noscea (X:28.4 Y:21.9)"
+                }
+            ]
+        },
+        "Seq": 28,
+        "oldID": 65630,
+        "Map": {
+            "ID": 25
+        }
+    },
+    {
+        "ID": "262d26cb079",
+        "Name": "Prismatische Meisterrezepte",
+        "Location": "Mor Dhona",
+        "Level": 15,
+        "JournalSection": 3,
+        "JournalCategory": 42,
+        "JournalGenre": "Aufträge Mor Dhona",
+        "Url": "/lodestone/playguide/db/quest/262d26cb079/",
+        "Image": null,
+        "Icon": "function_normal",
+        "Issuer": "Wiscard",
+        "StartLocation": {
+            "Name": "Mor Dhona",
+            "X": "22.1",
+            "Y": "6.7"
+        },
+        "StartClass": null,
+        "Job": "",
+        "Company": "Keine Angabe",
+        "Requirement": "Keine Angabe",
+        "Rewards": {
+            "Gil": 0,
+            "Exp": 0,
+            "ItemsMand": [
+                {
+                    "Icon": "https://img.finalfantasyxiv.com/lds/pc/global/images/itemicon/84/840dbf9f6e99c61f1be49512a64cf617335d1c2a.png?n5.5",
+                    "Name": "Naturreines Prisma",
+                    "Amount": 1,
+                    "Url": "/lodestone/playguide/db/item/7c36dfd57e5/"
+                }
+            ],
+            "ItemsOpt": []
+        },
+        "Infos": {
+            "PrevQuests": [
+                {
+                    "Name": "Prismatische Illusionen",
+                    "Url": "/lodestone/playguide/db/quest/02577140302/",
+                    "Area": "Mor Dhona",
+                    "Level": "15"
+                }
+            ],
+            "NextQuests": [
+                {
+                    "Name": "Rowena",
+                    "Url": "/lodestone/playguide/db/npc/npc/5f16dc7f440/",
+                    "Area": "Mor Dhona (X:21.9 Y:4.9)"
+                }
+            ]
+        },
+        "Seq": 3,
+        "oldID": 66958,
+        "Map": {
+            "ID": 25
+        }
+    },
+    {
+        "ID": "32d657b59c7",
+        "Name": "Nichtsgesandte aus dem Nichts?",
+        "Location": "Mor Dhona",
+        "Level": 50,
+        "JournalSection": 3,
+        "JournalCategory": 42,
+        "JournalGenre": "Aufträge Mor Dhona",
+        "Url": "/lodestone/playguide/db/quest/32d657b59c7/",
+        "Image": "https://img.finalfantasyxiv.com/lds/pc/global/images/itemicon/f6/f6f26a0009c2e5620ed8b5fb609f0d88614adb1d.png?n5.5",
+        "Icon": "function_normal",
+        "Issuer": "Lauriane",
+        "StartLocation": {
+            "Name": "Mor Dhona",
+            "X": "22.1",
+            "Y": "8.6"
+        },
+        "StartClass": null,
+        "Job": "",
+        "Company": "Keine Angabe",
+        "Requirement": "Die Ruinen von Amdapor",
+        "Rewards": {
+            "Gil": 2064,
+            "Exp": 0,
+            "ItemsMand": [],
+            "ItemsOpt": []
+        },
+        "Infos": {
+            "PrevQuests": [
+                {
+                    "Name": "Die ultimative Waffe",
+                    "Url": "/lodestone/playguide/db/quest/3ab32cfebf8/",
+                    "Area": "Nördliches Thanalan",
+                    "Level": "50"
+                }
+            ],
+            "NextQuests": [
+                {
+                    "Name": "Adestan",
+                    "Url": "/lodestone/playguide/db/npc/npc/c9de9d52e88/",
+                    "Area": "Südwald (X:17.1 Y:28.2)"
+                },
+                {
+                    "Name": "Maxinne",
+                    "Url": "/lodestone/playguide/db/npc/npc/53f4e639833/",
+                    "Area": "Südwald (X:24.7 Y:24.9)"
+                }
+            ]
+        },
+        "Seq": 30,
+        "oldID": 65966,
+        "Map": {
+            "ID": 25
+        }
+    },
+    {
+        "ID": "480dab9e291",
+        "Name": "Farbe ins Spiel",
+        "Location": "Mor Dhona",
+        "Level": 1,
+        "JournalSection": 3,
+        "JournalCategory": 42,
+        "JournalGenre": "Aufträge Mor Dhona",
+        "Url": "/lodestone/playguide/db/quest/480dab9e291/",
+        "Image": null,
+        "Icon": "function_normal",
+        "Issuer": "Alys",
+        "StartLocation": {
+            "Name": "Mor Dhona",
+            "X": "21.7",
+            "Y": "8.6"
+        },
+        "StartClass": null,
+        "Job": "",
+        "Company": "Keine Angabe",
+        "Requirement": "Keine Angabe",
+        "Rewards": {
+            "Gil": 433,
+            "Exp": 0,
+            "ItemsMand": [],
+            "ItemsOpt": [
+                {
+                    "Icon": "https://img.finalfantasyxiv.com/lds/pc/global/images/itemicon/01/01b25fdbfd80233262131662c4d73e836a284b71.png?n5.5",
+                    "Name": "Korallenrosa Farbstoff",
+                    "Amount": 3,
+                    "Url": "/lodestone/playguide/db/item/0b103790e30/"
+                },
+                {
+                    "Icon": "https://img.finalfantasyxiv.com/lds/pc/global/images/itemicon/87/8766a615ce1f564836948df8c194a9c33b733b45.png?n5.5",
+                    "Name": "Adaman-taimaigrüner Farbstoff",
+                    "Amount": 3,
+                    "Url": "/lodestone/playguide/db/item/5f48906cb92/"
+                },
+                {
+                    "Icon": "https://img.finalfantasyxiv.com/lds/pc/global/images/itemicon/d1/d100cb7a56b821be8d14db69a302122195edc056.png?n5.5",
+                    "Name": "Rhotanoblauer Farbstoff",
+                    "Amount": 3,
+                    "Url": "/lodestone/playguide/db/item/b2a2dc9a50a/"
+                }
+            ]
+        },
+        "Infos": {
+            "PrevQuests": [
+                {
+                    "Name": "Farbenlehre",
+                    "Url": "/lodestone/playguide/db/quest/9a0657857bd/",
+                    "Area": "Westliches Thanalan",
+                    "Level": "15"
+                }
+            ],
+            "NextQuests": [
+                {
+                    "Name": "Eginolf",
+                    "Url": "/lodestone/playguide/db/npc/npc/e81df11993c/",
+                    "Area": "Mor Dhona (X:22.3 Y:5.5)"
+                }
+            ]
+        },
+        "Seq": 1,
+        "oldID": 67094,
+        "Map": {
+            "ID": 25
+        }
+    },
+    {
+        "ID": "519a1b68a33",
+        "Name": "Ene, mene, Nöck!",
+        "Location": "Mor Dhona",
+        "Level": 44,
+        "JournalSection": 3,
+        "JournalCategory": 42,
+        "JournalGenre": "Aufträge Mor Dhona",
+        "Url": "/lodestone/playguide/db/quest/519a1b68a33/",
+        "Image": null,
+        "Icon": "common_normal",
+        "Issuer": "Npah Tayuun",
+        "StartLocation": {
+            "Name": "Mor Dhona",
+            "X": "22.0",
+            "Y": "7.4"
+        },
+        "StartClass": null,
+        "Job": "",
+        "Company": "Keine Angabe",
+        "Requirement": "Keine Angabe",
+        "Rewards": {
+            "Gil": 0,
+            "Exp": 12190,
+            "ItemsMand": [],
+            "ItemsOpt": [
+                {
+                    "Icon": "https://img.finalfantasyxiv.com/lds/pc/global/images/itemicon/6e/6e74adbf6fd38ee7e509ef2d815c60bc709008bf.png?n5.5",
+                    "Name": "Fechtkunst-Materia III",
+                    "Amount": 1,
+                    "Url": "/lodestone/playguide/db/item/82b80f823c3/"
+                },
+                {
+                    "Icon": "https://img.finalfantasyxiv.com/lds/pc/global/images/itemicon/6e/6e74adbf6fd38ee7e509ef2d815c60bc709008bf.png?n5.5",
+                    "Name": "Frömmigkeits-Materia III",
+                    "Amount": 1,
+                    "Url": "/lodestone/playguide/db/item/8810a774ee4/"
+                },
+                {
+                    "Icon": "https://img.finalfantasyxiv.com/lds/pc/global/images/itemicon/de/de478eac5995aeff260b0e6eaf52fef8ac0086d8.png?n5.5",
+                    "Name": "Megatrank",
+                    "Amount": 3,
+                    "Url": "/lodestone/playguide/db/item/1e8c49c8ac3/"
+                },
+                {
+                    "Icon": "https://img.finalfantasyxiv.com/lds/pc/global/images/itemicon/d9/d9beff495b00ab597dbd0b268530571d803e6a2d.png?n5.5",
+                    "Name": "Super-Äther",
+                    "Amount": 3,
+                    "Url": "/lodestone/playguide/db/item/88fad7976ae/"
+                }
+            ]
+        },
+        "Infos": {},
+        "Seq": 4,
+        "oldID": 66524,
+        "Map": {
+            "ID": 25
+        }
+    },
+    {
+        "ID": "598aebd82b3",
+        "Name": "Verschollen im Haukke-Herrenhaus",
+        "Location": "Mor Dhona",
+        "Level": 50,
+        "JournalSection": 3,
+        "JournalCategory": 42,
+        "JournalGenre": "Aufträge Mor Dhona",
+        "Url": "/lodestone/playguide/db/quest/598aebd82b3/",
+        "Image": null,
+        "Icon": "function_normal",
+        "Issuer": "Lauriane",
+        "StartLocation": {
+            "Name": "Mor Dhona",
+            "X": "22.1",
+            "Y": "8.6"
+        },
+        "StartClass": null,
+        "Job": "",
+        "Company": "Keine Angabe",
+        "Requirement": "Keine Angabe",
+        "Rewards": {
+            "Gil": 939,
+            "Exp": 0,
+            "ItemsMand": [],
+            "ItemsOpt": []
+        },
+        "Infos": {
+            "PrevQuests": [
+                {
+                    "Name": "Die ultimative Waffe",
+                    "Url": "/lodestone/playguide/db/quest/3ab32cfebf8/",
+                    "Area": "Nördliches Thanalan",
+                    "Level": "50"
+                }
+            ],
+            "NextQuests": [
+                {
+                    "Name": "Ursandel",
+                    "Url": "/lodestone/playguide/db/npc/npc/a6d157b4f1b/",
+                    "Area": "Alt-Gridania (X:11.9 Y:4.5)"
+                }
+            ]
+        },
+        "Seq": 21,
+        "oldID": 66751,
+        "Map": {
+            "ID": 25
+        }
+    },
+    {
+        "ID": "5cc52395ca0",
+        "Name": "Das Salz in der Suppe",
+        "Location": "Mor Dhona",
+        "Level": 70,
+        "JournalSection": 3,
+        "JournalCategory": 42,
+        "JournalGenre": "Aufträge Mor Dhona",
+        "Url": "/lodestone/playguide/db/quest/5cc52395ca0/",
+        "Image": "https://img.finalfantasyxiv.com/lds/pc/global/images/itemicon/62/629c1b3237c74c4471e7f151ac30c42b3bee9293.png?n5.5",
+        "Icon": "common_normal",
+        "Issuer": "Bloezoeng",
+        "StartLocation": {
+            "Name": "Mor Dhona",
+            "X": "22.1",
+            "Y": "8.7"
+        },
+        "StartClass": null,
+        "Job": "Krieger oder Magier (außer beschränkte Jobs)",
+        "Company": "Keine Angabe",
+        "Requirement": "Keine Angabe",
+        "Rewards": {
+            "Gil": 463,
+            "Exp": 0,
+            "ItemsMand": [
+                {
+                    "Icon": "https://img.finalfantasyxiv.com/lds/pc/global/images/itemicon/e1/e1dd23830cba46801e8ca744f0689f983028947f.png?n5.5",
+                    "Name": "Zerbrochener Kristall",
+                    "Amount": 1,
+                    "Url": "/lodestone/playguide/db/item/d9ec534741a/"
+                }
+            ],
+            "ItemsOpt": []
+        },
+        "Infos": {
+            "PrevQuests": [
+                {
+                    "Name": "Begegnung an der Seiryu-Barriere",
+                    "Url": "/lodestone/playguide/db/quest/efbc396aba9/",
+                    "Area": "Kienkan",
+                    "Level": "70"
+                }
+            ],
+            "NextQuests": [
+                {
+                    "Name": "Breitschultriger Händler",
+                    "Url": "/lodestone/playguide/db/npc/npc/c9e4e260230/",
+                    "Area": "Thal-Kreuzgang (X:13.3 Y:10.6)"
+                },
+                {
+                    "Name": "Grobschlächtiger Bedürftiger",
+                    "Url": "/lodestone/playguide/db/npc/npc/8c4fda7240e/",
+                    "Area": "Thal-Kreuzgang (X:13.8 Y:10.4)"
+                },
+                {
+                    "Name": "Landebert",
+                    "Url": "/lodestone/playguide/db/npc/npc/a2a247757d7/",
+                    "Area": "Thal-Kreuzgang (X:13.1 Y:10.5)"
+                },
+                {
+                    "Name": "Messingklingen-Gardist",
+                    "Url": "/lodestone/playguide/db/npc/npc/09a08f89a0e/",
+                    "Area": "Thal-Kreuzgang (X:13.8 Y:10.4)"
+                },
+                {
+                    "Name": "Stämmige Gassenbewohnerin",
+                    "Url": "/lodestone/playguide/db/npc/npc/47e903022c7/",
+                    "Area": "Thal-Kreuzgang (X:13.6 Y:9.9)"
+                },
+                {
+                    "Name": "Verarmter Händler",
+                    "Url": "/lodestone/playguide/db/npc/npc/d265b398862/",
+                    "Area": "Thal-Kreuzgang (X:13.3 Y:10.7)"
+                },
+                {
+                    "Name": "Acot",
+                    "Url": "/lodestone/playguide/db/npc/npc/4a227087a2b/",
+                    "Area": "Zentrales Thanalan (X:18.8 Y:27.5)"
+                }
+            ]
+        },
+        "Seq": 35,
+        "oldID": 68722,
+        "Map": {
+            "ID": 25
+        }
+    },
+    {
+        "ID": "616f0bcad59",
+        "Name": "Das heilige Land der Gigas",
+        "Location": "Mor Dhona",
+        "Level": 45,
+        "JournalSection": 3,
+        "JournalCategory": 42,
+        "JournalGenre": "Aufträge Mor Dhona",
+        "Url": "/lodestone/playguide/db/quest/616f0bcad59/",
+        "Image": null,
+        "Icon": "common_normal",
+        "Issuer": "Frische Brise",
+        "StartLocation": {
+            "Name": "Mor Dhona",
+            "X": "30.4",
+            "Y": "12.6"
+        },
+        "StartClass": null,
+        "Job": "",
+        "Company": "Keine Angabe",
+        "Requirement": "Keine Angabe",
+        "Rewards": {
+            "Gil": 1782,
+            "Exp": 12420,
+            "ItemsMand": [],
+            "ItemsOpt": []
+        },
+        "Infos": {
+            "PrevQuests": [
+                {
+                    "Name": "Ziemlich große Schwierigkeiten",
+                    "Url": "/lodestone/playguide/db/quest/abe08984f5a/",
+                    "Area": "Mor Dhona",
+                    "Level": "45"
+                }
+            ]
+        },
+        "Seq": 14,
+        "oldID": 66531,
+        "Map": {
+            "ID": 25
+        }
+    },
+    {
+        "ID": "67c527d0faa",
+        "Name": "Freibriefe des Sankt Coinach-Forschungslagers",
+        "Location": "Mor Dhona",
+        "Level": 45,
+        "JournalSection": 3,
+        "JournalCategory": 42,
+        "JournalGenre": "Aufträge Mor Dhona",
+        "Url": "/lodestone/playguide/db/quest/67c527d0faa/",
+        "Image": null,
+        "Icon": "function_normal",
+        "Issuer": "K'leytai",
+        "StartLocation": {
+            "Name": "Mor Dhona",
+            "X": "29.8",
+            "Y": "12.5"
+        },
+        "StartClass": null,
+        "Job": "",
+        "Company": "Keine Angabe",
+        "Requirement": "Keine Angabe",
+        "Rewards": {
+            "Gil": 1958,
+            "Exp": 12420,
+            "ItemsMand": [],
+            "ItemsOpt": []
+        },
+        "Infos": {
+            "PrevQuests": [
+                {
+                    "Name": "Freibriefe der Tölpelturm-Siedlung",
+                    "Url": "/lodestone/playguide/db/quest/8b2de303b68/",
+                    "Area": "Limsa Lominsa",
+                    "Level": "10"
+                },
+                {
+                    "Name": "Freibriefe von Zwieselgrund",
+                    "Url": "/lodestone/playguide/db/quest/08e04b5f634/",
+                    "Area": "Gridania",
+                    "Level": "10"
+                },
+                {
+                    "Name": "Freibriefe von Ul'dah",
+                    "Url": "/lodestone/playguide/db/quest/c4ed1e8736c/",
+                    "Area": "Ul'dah",
+                    "Level": "10"
+                }
+            ]
+        },
+        "Seq": 6,
+        "oldID": 65554,
+        "Map": {
+            "ID": 25
+        }
+    },
+    {
+        "ID": "73143b0fec9",
+        "Name": "Die Mär vom Wurz",
+        "Location": "Mor Dhona",
+        "Level": 45,
+        "JournalSection": 3,
+        "JournalCategory": 42,
+        "JournalGenre": "Aufträge Mor Dhona",
+        "Url": "/lodestone/playguide/db/quest/73143b0fec9/",
+        "Image": null,
+        "Icon": "common_normal",
+        "Issuer": "Aganbold",
+        "StartLocation": {
+            "Name": "Mor Dhona",
+            "X": "22.0",
+            "Y": "8.6"
+        },
+        "StartClass": null,
+        "Job": "",
+        "Company": "Keine Angabe",
+        "Requirement": "Keine Angabe",
+        "Rewards": {
+            "Gil": 1782,
+            "Exp": 12420,
+            "ItemsMand": [],
+            "ItemsOpt": []
+        },
+        "Infos": {
+            "PrevQuests": [
+                {
+                    "Name": "Ein ausgefallenes Haustier",
+                    "Url": "/lodestone/playguide/db/quest/99fbe210154/",
+                    "Area": "Mor Dhona",
+                    "Level": "44"
+                }
+            ],
+            "NextQuests": [
+                {
+                    "Name": "Ich steh nicht auf Schläge",
+                    "Url": "/lodestone/playguide/db/quest/14e3b64a4a6/",
+                    "Area": "Mor Dhona",
+                    "Level": "45"
+                }
+            ]
+        },
+        "Seq": 17,
+        "oldID": 66535,
+        "Map": {
+            "ID": 25
+        }
+    },
+    {
+        "ID": "7a4cd9a9c24",
+        "Name": "Tod und Chaos in der Kupferglocken-Mine",
+        "Location": "Mor Dhona",
+        "Level": 50,
+        "JournalSection": 3,
+        "JournalCategory": 42,
+        "JournalGenre": "Aufträge Mor Dhona",
+        "Url": "/lodestone/playguide/db/quest/7a4cd9a9c24/",
+        "Image": null,
+        "Icon": "function_normal",
+        "Issuer": "Hugubert",
+        "StartLocation": {
+            "Name": "Mor Dhona",
+            "X": "22.0",
+            "Y": "8.7"
+        },
+        "StartClass": null,
+        "Job": "",
+        "Company": "Keine Angabe",
+        "Requirement": "Keine Angabe",
+        "Rewards": {
+            "Gil": 939,
+            "Exp": 0,
+            "ItemsMand": [],
+            "ItemsOpt": []
+        },
+        "Infos": {
+            "PrevQuests": [
+                {
+                    "Name": "Die ultimative Waffe",
+                    "Url": "/lodestone/playguide/db/quest/3ab32cfebf8/",
+                    "Area": "Nördliches Thanalan",
+                    "Level": "50"
+                }
+            ],
+            "NextQuests": [
+                {
+                    "Name": "Eisenschein-Soldat",
+                    "Url": "/lodestone/playguide/db/npc/npc/426a6afc027/",
+                    "Area": "Westliches Thanalan (X:28.0 Y:16.8)"
+                }
+            ]
+        },
+        "Seq": 22,
+        "oldID": 66752,
+        "Map": {
+            "ID": 25
+        }
+    },
+    {
+        "ID": "81d414249d7",
+        "Name": "Dem Käse die Freiheit",
+        "Location": "Mor Dhona",
+        "Level": 50,
+        "JournalSection": 3,
+        "JournalCategory": 42,
+        "JournalGenre": "Aufträge Mor Dhona",
+        "Url": "/lodestone/playguide/db/quest/81d414249d7/",
+        "Image": null,
+        "Icon": "function_normal",
+        "Issuer": "Bloezoeng",
+        "StartLocation": {
+            "Name": "Mor Dhona",
+            "X": "22.1",
+            "Y": "8.7"
+        },
+        "StartClass": null,
+        "Job": "",
+        "Company": "Keine Angabe",
+        "Requirement": "Keine Angabe",
+        "Rewards": {
+            "Gil": 939,
+            "Exp": 0,
+            "ItemsMand": [],
+            "ItemsOpt": []
+        },
+        "Infos": {
+            "PrevQuests": [
+                {
+                    "Name": "Die ultimative Waffe",
+                    "Url": "/lodestone/playguide/db/quest/3ab32cfebf8/",
+                    "Area": "Nördliches Thanalan",
+                    "Level": "50"
+                }
+            ],
+            "NextQuests": [
+                {
+                    "Name": "Brüllvolx",
+                    "Url": "/lodestone/playguide/db/npc/npc/2029a1e4de6/",
+                    "Area": "Östliches La Noscea (X:14.7 Y:24.5)"
+                },
+                {
+                    "Name": "Wheiskaet",
+                    "Url": "/lodestone/playguide/db/npc/npc/29deab0a044/",
+                    "Area": "Östliches La Noscea (X:32.6 Y:30.5)"
+                }
+            ]
+        },
+        "Seq": 24,
+        "oldID": 66947,
+        "Map": {
+            "ID": 25
+        }
+    },
+    {
+        "ID": "82b57cd1a22",
+        "Name": "Happy Hippogryphen",
+        "Location": "Mor Dhona",
+        "Level": 45,
+        "JournalSection": 3,
+        "JournalCategory": 42,
+        "JournalGenre": "Aufträge Mor Dhona",
+        "Url": "/lodestone/playguide/db/quest/82b57cd1a22/",
+        "Image": null,
+        "Icon": "common_normal",
+        "Issuer": "Rammbroes",
+        "StartLocation": {
+            "Name": "Mor Dhona",
+            "X": "30.4",
+            "Y": "12.1"
+        },
+        "StartClass": null,
+        "Job": "",
+        "Company": "Keine Angabe",
+        "Requirement": "Keine Angabe",
+        "Rewards": {
+            "Gil": 2121,
+            "Exp": 12420,
+            "ItemsMand": [],
+            "ItemsOpt": []
+        },
+        "Infos": {},
+        "Seq": 11,
+        "oldID": 66528,
+        "Map": {
+            "ID": 25
+        }
+    },
+    {
+        "ID": "8639390e5c0",
+        "Name": "Nomen est Omen",
+        "Location": "Mor Dhona",
+        "Level": 45,
+        "JournalSection": 3,
+        "JournalCategory": 42,
+        "JournalGenre": "Aufträge Mor Dhona",
+        "Url": "/lodestone/playguide/db/quest/8639390e5c0/",
+        "Image": null,
+        "Icon": "common_normal",
+        "Issuer": "Guolgeim",
+        "StartLocation": {
+            "Name": "Mor Dhona",
+            "X": "21.9",
+            "Y": "6.4"
+        },
+        "StartClass": null,
+        "Job": "",
+        "Company": "Keine Angabe",
+        "Requirement": "Keine Angabe",
+        "Rewards": {
+            "Gil": 1782,
+            "Exp": 12420,
+            "ItemsMand": [],
+            "ItemsOpt": []
+        },
+        "Infos": {
+            "PrevQuests": [
+                {
+                    "Name": "Im Auftrag der Männlichkeit",
+                    "Url": "/lodestone/playguide/db/quest/fad3c671124/",
+                    "Area": "Mor Dhona",
+                    "Level": "45"
+                }
+            ]
+        },
+        "Seq": 8,
+        "oldID": 66525,
+        "Map": {
+            "ID": 25
+        }
+    },
+    {
+        "ID": "8f10b78af15",
+        "Name": "Raffiniert kristallisiert",
+        "Location": "Mor Dhona",
+        "Level": 56,
+        "JournalSection": 3,
+        "JournalCategory": 42,
+        "JournalGenre": "Aufträge Mor Dhona",
+        "Url": "/lodestone/playguide/db/quest/8f10b78af15/",
+        "Image": null,
+        "Icon": "function_normal",
+        "Issuer": "Lydirlona",
+        "StartLocation": {
+            "Name": "Mor Dhona",
+            "X": "22.3",
+            "Y": "6.8"
+        },
+        "StartClass": null,
+        "Job": "",
+        "Company": "Keine Angabe",
+        "Requirement": "Keine Angabe",
+        "Rewards": {
+            "Gil": 558,
+            "Exp": 36000,
+            "ItemsMand": [
+                {
+                    "Icon": "https://img.finalfantasyxiv.com/lds/pc/global/images/itemicon/b6/b62f19d7192f7bc5f133575f709553cafe179cfa.png?n5.5",
+                    "Name": "",
+                    "Amount": null
+                }
+            ],
+            "ItemsOpt": []
+        },
+        "Infos": {
+            "PrevQuests": [
+                {
+                    "Name": "Einladung in die Schwaden",
+                    "Url": "/lodestone/playguide/db/quest/8ef1c45e2a4/",
+                    "Area": "Ishgard",
+                    "Level": "50"
+                }
+            ],
+            "NextQuests": [
+                {
+                    "Name": "Kokosamu",
+                    "Url": "/lodestone/playguide/db/npc/npc/62b5535bd1d/",
+                    "Area": "Zentrales Thanalan (X:23.8 Y:14.2)"
+                }
+            ]
+        },
+        "Seq": 33,
+        "oldID": 67633,
+        "Map": {
+            "ID": 25
+        }
+    },
+    {
+        "ID": "9242292b341",
+        "Name": "Die Sankt Coinach-Stiftung",
+        "Location": "Mor Dhona",
+        "Level": 45,
+        "JournalSection": 3,
+        "JournalCategory": 42,
+        "JournalGenre": "Aufträge Mor Dhona",
+        "Url": "/lodestone/playguide/db/quest/9242292b341/",
+        "Image": null,
+        "Icon": "common_normal",
+        "Issuer": "Kakamehi",
+        "StartLocation": {
+            "Name": "Mor Dhona",
+            "X": "22.0",
+            "Y": "8.5"
+        },
+        "StartClass": null,
+        "Job": "",
+        "Company": "Keine Angabe",
+        "Requirement": "Keine Angabe",
+        "Rewards": {
+            "Gil": 1668,
+            "Exp": 12420,
+            "ItemsMand": [],
+            "ItemsOpt": []
+        },
+        "Infos": {
+            "PrevQuests": [
+                {
+                    "Name": "Nazyl Duzyl",
+                    "Url": "/lodestone/playguide/db/npc/npc/70f4fb5f4be/",
+                    "Area": "Mor Dhona (X:30.4 Y:12.1)"
+                }
+            ]
+        },
+        "Seq": 9,
+        "oldID": 66526,
+        "Map": {
+            "ID": 25
+        }
+    },
+    {
+        "ID": "99fbe210154",
+        "Name": "Ein ausgefallenes Haustier",
+        "Location": "Mor Dhona",
+        "Level": 44,
+        "JournalSection": 3,
+        "JournalCategory": 42,
+        "JournalGenre": "Aufträge Mor Dhona",
+        "Url": "/lodestone/playguide/db/quest/99fbe210154/",
+        "Image": null,
+        "Icon": "common_normal",
+        "Issuer": "Aganbold",
+        "StartLocation": {
+            "Name": "Mor Dhona",
+            "X": "22.0",
+            "Y": "8.6"
+        },
+        "StartClass": null,
+        "Job": "",
+        "Company": "Keine Angabe",
+        "Requirement": "Keine Angabe",
+        "Rewards": {
+            "Gil": 0,
+            "Exp": 12190,
+            "ItemsMand": [],
+            "ItemsOpt": [
+                {
+                    "Icon": "https://img.finalfantasyxiv.com/lds/pc/global/images/itemicon/8b/8b384dddee2b1099c500f2238f25470ec44e1799.png?n5.5",
+                    "Name": "Strategen-Materia III",
+                    "Amount": 1,
+                    "Url": "/lodestone/playguide/db/item/82c6eb433f2/"
+                },
+                {
+                    "Icon": "https://img.finalfantasyxiv.com/lds/pc/global/images/itemicon/8b/8b384dddee2b1099c500f2238f25470ec44e1799.png?n5.5",
+                    "Name": "Hellseher-Materia III",
+                    "Amount": 1,
+                    "Url": "/lodestone/playguide/db/item/20c2c8929f0/"
+                },
+                {
+                    "Icon": "https://img.finalfantasyxiv.com/lds/pc/global/images/itemicon/8b/8b384dddee2b1099c500f2238f25470ec44e1799.png?n5.5",
+                    "Name": "Assassinen-Materia III",
+                    "Amount": 1,
+                    "Url": "/lodestone/playguide/db/item/6d65a73f718/"
+                }
+            ]
+        },
+        "Infos": {
+            "PrevQuests": [
+                {
+                    "Name": "Die Mär vom Wurz",
+                    "Url": "/lodestone/playguide/db/quest/73143b0fec9/",
+                    "Area": "Mor Dhona",
+                    "Level": "45"
+                }
+            ]
+        },
+        "Seq": 5,
+        "oldID": 66533,
+        "Map": {
+            "ID": 25
+        }
+    },
+    {
+        "ID": "abe08984f5a",
+        "Name": "Ziemlich große Schwierigkeiten",
+        "Location": "Mor Dhona",
+        "Level": 45,
+        "JournalSection": 3,
+        "JournalCategory": 42,
+        "JournalGenre": "Aufträge Mor Dhona",
+        "Url": "/lodestone/playguide/db/quest/abe08984f5a/",
+        "Image": null,
+        "Icon": "common_normal",
+        "Issuer": "Frische Brise",
+        "StartLocation": {
+            "Name": "Mor Dhona",
+            "X": "30.4",
+            "Y": "12.6"
+        },
+        "StartClass": null,
+        "Job": "",
+        "Company": "Keine Angabe",
+        "Requirement": "Keine Angabe",
+        "Rewards": {
+            "Gil": 1782,
+            "Exp": 12420,
+            "ItemsMand": [],
+            "ItemsOpt": []
+        },
+        "Infos": {
+            "PrevQuests": [
+                {
+                    "Name": "Das heilige Land der Gigas",
+                    "Url": "/lodestone/playguide/db/quest/616f0bcad59/",
+                    "Area": "Mor Dhona",
+                    "Level": "45"
+                }
+            ],
+            "NextQuests": [
+                {
+                    "Name": "Forscher mit großen Problemen",
+                    "Url": "/lodestone/playguide/db/npc/npc/0e4bf12cbf2/",
+                    "Area": "Mor Dhona (X:32.8 Y:16.1)"
+                }
+            ]
+        },
+        "Seq": 12,
+        "oldID": 66529,
+        "Map": {
+            "ID": 25
+        }
+    },
+    {
+        "ID": "ac600f4e951",
+        "Name": "Kampfmaschine in altem Glanz",
+        "Location": "Mor Dhona",
+        "Level": 50,
+        "JournalSection": 3,
+        "JournalCategory": 42,
+        "JournalGenre": "Aufträge Mor Dhona",
+        "Url": "/lodestone/playguide/db/quest/ac600f4e951/",
+        "Image": null,
+        "Icon": "common_normal",
+        "Issuer": "Slafborn",
+        "StartLocation": {
+            "Name": "Mor Dhona",
+            "X": "21.9",
+            "Y": "7.8"
+        },
+        "StartClass": null,
+        "Job": "",
+        "Company": "Keine Angabe",
+        "Requirement": "Keine Angabe",
+        "Rewards": {
+            "Gil": 686,
+            "Exp": 0,
+            "ItemsMand": [],
+            "ItemsOpt": []
+        },
+        "Infos": {
+            "PrevQuests": [
+                {
+                    "Name": "Die ultimative Waffe",
+                    "Url": "/lodestone/playguide/db/quest/3ab32cfebf8/",
+                    "Area": "Nördliches Thanalan",
+                    "Level": "50"
+                }
+            ],
+            "NextQuests": [
+                {
+                    "Name": "Jessie",
+                    "Url": "/lodestone/playguide/db/npc/npc/ba709f471f7/",
+                    "Area": "Mor Dhona (X:5.9 Y:6.0)"
+                }
+            ]
+        },
+        "Seq": 19,
+        "oldID": 65700,
+        "Map": {
+            "ID": 25
+        }
+    },
+    {
+        "ID": "b1a689f6489",
+        "Name": "Eine Legende für eine Legende",
+        "Location": "Mor Dhona",
+        "Level": 1,
+        "JournalSection": 3,
+        "JournalCategory": 42,
+        "JournalGenre": "Aufträge Mor Dhona",
+        "Url": "/lodestone/playguide/db/quest/b1a689f6489/",
+        "Image": null,
+        "Icon": "common_normal",
+        "Issuer": "Fahrender Sänger",
+        "StartLocation": {
+            "Name": "Mor Dhona",
+            "X": "21.7",
+            "Y": "8.7"
+        },
+        "StartClass": null,
+        "Job": "",
+        "Company": "Keine Angabe",
+        "Requirement": "Keine Angabe",
+        "Rewards": {
+            "Gil": 0,
+            "Exp": 0,
+            "ItemsMand": [
+                {
+                    "Icon": "https://img.finalfantasyxiv.com/lds/pc/global/images/itemicon/d3/d36597ea1c4fa075299be3ebc297ce99fdc624c0.png?n5.5",
+                    "Name": "Kirin-Pfeife",
+                    "Amount": 1,
+                    "Url": "/lodestone/playguide/db/item/ac5fba7c8d9/"
+                }
+            ],
+            "ItemsOpt": []
+        },
+        "Infos": {
+            "PrevQuests": [
+                {
+                    "Name": "Mein kleines Kirin",
+                    "Url": "/lodestone/playguide/db/achievement/4347850428a/",
+                    "Reward": "Titel",
+                    "Points": "20"
+                }
+            ]
+        },
+        "Seq": 24,
+        "oldID": 65968,
+        "Map": {
+            "ID": 25
+        }
+    },
+    {
+        "ID": "b5077febc57",
+        "Name": "Rauschebarts Geheimnis",
+        "Location": "Mor Dhona",
+        "Level": 50,
+        "JournalSection": 3,
+        "JournalCategory": 42,
+        "JournalGenre": "Aufträge Mor Dhona",
+        "Url": "/lodestone/playguide/db/quest/b5077febc57/",
+        "Image": "https://img.finalfantasyxiv.com/lds/pc/global/images/itemicon/dc/dc0694a4d133620f9e2b9790812be36d27c145f9.png?n5.5",
+        "Icon": "function_normal",
+        "Issuer": "Bloezoeng",
+        "StartLocation": {
+            "Name": "Mor Dhona",
+            "X": "22.1",
+            "Y": "8.7"
+        },
+        "StartClass": null,
+        "Job": "",
+        "Company": "Keine Angabe",
+        "Requirement": "Keine Angabe",
+        "Rewards": {
+            "Gil": 2064,
+            "Exp": 0,
+            "ItemsMand": [],
+            "ItemsOpt": []
+        },
+        "Infos": {
+            "PrevQuests": [
+                {
+                    "Name": "Die ultimative Waffe",
+                    "Url": "/lodestone/playguide/db/quest/3ab32cfebf8/",
+                    "Area": "Nördliches Thanalan",
+                    "Level": "50"
+                }
+            ],
+            "NextQuests": [
+                {
+                    "Name": "Sturm auf die Insel",
+                    "Url": "/lodestone/playguide/db/quest/b3635183584/",
+                    "Area": "Limsa Lominsa",
+                    "Level": "60"
+                }
+            ],
+            "NPCs": [
+                {
+                    "Name": "Denston",
+                    "Url": "/lodestone/playguide/db/npc/npc/f8c1381c4d8/",
+                    "Area": "Obere Decks (X:11.0 Y:10.4)"
+                },
+                {
+                    "Name": "Denston",
+                    "Url": "/lodestone/playguide/db/npc/npc/49507a5c4b3/",
+                    "Area": "Unteres La Noscea (X:26.9 Y:36.0)"
+                }
+            ]
+        },
+        "Seq": 27,
+        "oldID": 67062,
+        "Map": {
+            "ID": 25
+        }
+    },
+    {
+        "ID": "c8b5b41a22b",
+        "Name": "Dalamud und die Hatschi-Liten",
+        "Location": "Mor Dhona",
+        "Level": 45,
+        "JournalSection": 3,
+        "JournalCategory": 42,
+        "JournalGenre": "Aufträge Mor Dhona",
+        "Url": "/lodestone/playguide/db/quest/c8b5b41a22b/",
+        "Image": null,
+        "Icon": "common_normal",
+        "Issuer": "Klynthota",
+        "StartLocation": {
+            "Name": "Mor Dhona",
+            "X": "30.4",
+            "Y": "13.7"
+        },
+        "StartClass": null,
+        "Job": "",
+        "Company": "Keine Angabe",
+        "Requirement": "Keine Angabe",
+        "Rewards": {
+            "Gil": 1782,
+            "Exp": 12420,
+            "ItemsMand": [],
+            "ItemsOpt": []
+        },
+        "Infos": {},
+        "Seq": 13,
+        "oldID": 66530,
+        "Map": {
+            "ID": 25
+        }
+    },
+    {
+        "ID": "cd187120f92",
+        "Name": "Zufällig wohltätig",
+        "Location": "Mor Dhona",
+        "Level": 45,
+        "JournalSection": 3,
+        "JournalCategory": 42,
+        "JournalGenre": "Aufträge Mor Dhona",
+        "Url": "/lodestone/playguide/db/quest/cd187120f92/",
+        "Image": null,
+        "Icon": "common_normal",
+        "Issuer": "Guolgeim",
+        "StartLocation": {
+            "Name": "Mor Dhona",
+            "X": "21.9",
+            "Y": "6.4"
+        },
+        "StartClass": null,
+        "Job": "",
+        "Company": "Keine Angabe",
+        "Requirement": "Keine Angabe",
+        "Rewards": {
+            "Gil": 1782,
+            "Exp": 12420,
+            "ItemsMand": [],
+            "ItemsOpt": []
+        },
+        "Infos": {
+            "PrevQuests": [
+                {
+                    "Name": "Im Auftrag der Männlichkeit",
+                    "Url": "/lodestone/playguide/db/quest/fad3c671124/",
+                    "Area": "Mor Dhona",
+                    "Level": "45"
+                }
+            ],
+            "NextQuests": [
+                {
+                    "Name": "Frische Brise",
+                    "Url": "/lodestone/playguide/db/npc/npc/04322fca34d/",
+                    "Area": "Mor Dhona (X:30.4 Y:12.6)"
+                }
+            ]
+        },
+        "Seq": 18,
+        "oldID": 66536,
+        "Map": {
+            "ID": 25
+        }
+    },
+    {
+        "ID": "dc1b5d359e7",
+        "Name": "Spezialist statt Durchschnittsmist",
+        "Location": "Mor Dhona",
+        "Level": 55,
+        "JournalSection": 3,
+        "JournalCategory": 42,
+        "JournalGenre": "Aufträge Mor Dhona",
+        "Url": "/lodestone/playguide/db/quest/dc1b5d359e7/",
+        "Image": null,
+        "Icon": "function_normal",
+        "Issuer": "Lydirlona",
+        "StartLocation": {
+            "Name": "Mor Dhona",
+            "X": "22.3",
+            "Y": "6.8"
+        },
+        "StartClass": null,
+        "Job": "",
+        "Company": "Keine Angabe",
+        "Requirement": "Keine Angabe",
+        "Rewards": {
+            "Gil": 490,
+            "Exp": 33600,
+            "ItemsMand": [
+                {
+                    "Icon": "https://img.finalfantasyxiv.com/lds/pc/global/images/itemicon/53/531a5cd0d298ca7c83e4662901eb7a1cbe2fae61.png?n5.5",
+                    "Name": "Spezialistenkristall",
+                    "Amount": 3,
+                    "Url": "/lodestone/playguide/db/item/1d6a2afa640/"
+                },
+                {
+                    "Icon": "https://img.finalfantasyxiv.com/lds/pc/global/images/itemicon/8a/8ac6ce83bf208dfa6a7e5dfeb0ade59882323ec5.png?n5.5",
+                    "Name": "",
+                    "Amount": null
+                }
+            ],
+            "ItemsOpt": []
+        },
+        "Infos": {
+            "PrevQuests": [
+                {
+                    "Name": "Einladung in die Schwaden",
+                    "Url": "/lodestone/playguide/db/quest/8ef1c45e2a4/",
+                    "Area": "Ishgard",
+                    "Level": "50"
+                }
+            ],
+            "NextQuests": [
+                {
+                    "Name": "Alderan",
+                    "Url": "/lodestone/playguide/db/npc/npc/acc43c4413e/",
+                    "Area": "Strebewerk (X:14.7 Y:10.7)"
+                }
+            ]
+        },
+        "Seq": 32,
+        "oldID": 67632,
+        "Map": {
+            "ID": 25
+        }
+    },
+    {
+        "ID": "e98ac728f85",
+        "Name": "Morituri te salutant",
+        "Location": "Mor Dhona",
+        "Level": 50,
+        "JournalSection": 3,
+        "JournalCategory": 42,
+        "JournalGenre": "Aufträge Mor Dhona",
+        "Url": "/lodestone/playguide/db/quest/e98ac728f85/",
+        "Image": null,
+        "Icon": "function_normal",
+        "Issuer": "Hugubert",
+        "StartLocation": {
+            "Name": "Mor Dhona",
+            "X": "22.0",
+            "Y": "8.7"
+        },
+        "StartClass": null,
+        "Job": "",
+        "Company": "Keine Angabe",
+        "Requirement": "Halatali",
+        "Rewards": {
+            "Gil": 939,
+            "Exp": 0,
+            "ItemsMand": [],
+            "ItemsOpt": []
+        },
+        "Infos": {
+            "PrevQuests": [
+                {
+                    "Name": "Die ultimative Waffe",
+                    "Url": "/lodestone/playguide/db/quest/3ab32cfebf8/",
+                    "Area": "Nördliches Thanalan",
+                    "Level": "50"
+                }
+            ],
+            "NextQuests": [
+                {
+                    "Name": "Arlh",
+                    "Url": "/lodestone/playguide/db/npc/npc/0eb0ae65735/",
+                    "Area": "Östliches Thanalan (X:14.6 Y:30.1)"
+                }
+            ]
+        },
+        "Seq": 23,
+        "oldID": 66946,
+        "Map": {
+            "ID": 25
+        }
+    },
+    {
+        "ID": "f454b4c72fe",
+        "Name": "Fallen will gelernt sein",
+        "Location": "Mor Dhona",
+        "Level": 45,
+        "JournalSection": 3,
+        "JournalCategory": 42,
+        "JournalGenre": "Aufträge Mor Dhona",
+        "Url": "/lodestone/playguide/db/quest/f454b4c72fe/",
+        "Image": null,
+        "Icon": "common_normal",
+        "Issuer": "Nazyl Duzyl",
+        "StartLocation": {
+            "Name": "Mor Dhona",
+            "X": "30.4",
+            "Y": "12.1"
+        },
+        "StartClass": null,
+        "Job": "",
+        "Company": "Keine Angabe",
+        "Requirement": "Keine Angabe",
+        "Rewards": {
+            "Gil": 1782,
+            "Exp": 12420,
+            "ItemsMand": [],
+            "ItemsOpt": []
+        },
+        "Infos": {
+            "PrevQuests": [
+                {
+                    "Name": "Grüße aus der Heimat",
+                    "Url": "/lodestone/playguide/db/quest/13c6b27d9bb/",
+                    "Area": "Mor Dhona",
+                    "Level": "45"
+                }
+            ],
+            "NextQuests": [
+                {
+                    "Name": "Besorgter Forscher",
+                    "Url": "/lodestone/playguide/db/npc/npc/1454f2e87bf/",
+                    "Area": "Mor Dhona (X:26.9 Y:13.7)"
+                },
+                {
+                    "Name": "Kakamehi",
+                    "Url": "/lodestone/playguide/db/npc/npc/56a55f47667/",
+                    "Area": "Mor Dhona (X:22.0 Y:8.5)"
+                }
+            ]
+        },
+        "Seq": 15,
+        "oldID": 66532,
+        "Map": {
+            "ID": 25
+        }
+    },
+    {
+        "ID": "f4be7048089",
+        "Name": "Frohes Sammlerstückesammeln",
+        "Location": "Mor Dhona",
+        "Level": 60,
+        "JournalSection": 3,
+        "JournalCategory": 42,
+        "JournalGenre": "Aufträge Mor Dhona",
+        "Url": "/lodestone/playguide/db/quest/f4be7048089/",
+        "Image": null,
+        "Icon": "function_normal",
+        "Issuer": "Lydirlona",
+        "StartLocation": {
+            "Name": "Mor Dhona",
+            "X": "22.3",
+            "Y": "6.8"
+        },
+        "StartClass": null,
+        "Job": "",
+        "Company": "Keine Angabe",
+        "Requirement": "Keine Angabe",
+        "Rewards": {
+            "Gil": 550,
+            "Exp": 0,
+            "ItemsMand": [],
+            "ItemsOpt": []
+        },
+        "Infos": {
+            "PrevQuests": [
+                {
+                    "Name": "Einladung in die Schwaden",
+                    "Url": "/lodestone/playguide/db/quest/8ef1c45e2a4/",
+                    "Area": "Ishgard",
+                    "Level": "50"
+                },
+                {
+                    "Name": "Mit Sammlerwert heißt heiß begehrt",
+                    "Url": "/lodestone/playguide/db/quest/a94b1abd066/",
+                    "Area": "Ishgard",
+                    "Level": "50"
+                }
+            ],
+            "NextQuests": [
+                {
+                    "Name": "Ehll Tous Traum",
+                    "Url": "/lodestone/playguide/db/quest/432aca38d17/",
+                    "Area": "Himmelsstadt",
+                    "Level": "70"
+                },
+                {
+                    "Name": "Ein verlässliches Duo",
+                    "Url": "/lodestone/playguide/db/quest/62f583d1653/",
+                    "Area": "Himmelsstadt",
+                    "Level": "70"
+                },
+                {
+                    "Name": "Menphinas Zuflucht",
+                    "Url": "/lodestone/playguide/db/quest/765dd599ef4/",
+                    "Area": "Frohehalde",
+                    "Level": "60"
+                }
+            ],
+            "NPCs": [
+                {
+                    "Name": "Geimlona",
+                    "Url": "/lodestone/playguide/db/npc/npc/4bc33e70c4f/",
+                    "Area": "Frohehalde (X:5.7 Y:6.9)"
+                }
+            ]
+        },
+        "Seq": 34,
+        "oldID": 67634,
+        "Map": {
+            "ID": 25
+        }
+    },
+    {
+        "ID": "f65b42bf25a",
+        "Name": "Besorgte Brüder",
+        "Location": "Mor Dhona",
+        "Level": 50,
+        "JournalSection": 3,
+        "JournalCategory": 42,
+        "JournalGenre": "Aufträge Mor Dhona",
+        "Url": "/lodestone/playguide/db/quest/f65b42bf25a/",
+        "Image": "https://img.finalfantasyxiv.com/lds/pc/global/images/itemicon/e0/e057bf8bfc786b9668fc5e4abb7ad66cc4abd04a.png?n5.5",
+        "Icon": "function_normal",
+        "Issuer": "Hugubert",
+        "StartLocation": {
+            "Name": "Mor Dhona",
+            "X": "22.0",
+            "Y": "8.7"
+        },
+        "StartClass": null,
+        "Job": "",
+        "Company": "Keine Angabe",
+        "Requirement": "Versunkener Tempel von Qarn",
+        "Rewards": {
+            "Gil": 2064,
+            "Exp": 0,
+            "ItemsMand": [],
+            "ItemsOpt": []
+        },
+        "Infos": {
+            "PrevQuests": [
+                {
+                    "Name": "Die ultimative Waffe",
+                    "Url": "/lodestone/playguide/db/quest/3ab32cfebf8/",
+                    "Area": "Nördliches Thanalan",
+                    "Level": "50"
+                }
+            ],
+            "NextQuests": [
+                {
+                    "Name": "Bibimu",
+                    "Url": "/lodestone/playguide/db/npc/npc/373842fad56/",
+                    "Area": "Südliches Thanalan (X:25.1 Y:12.6)"
+                },
+                {
+                    "Name": "Popokkuli",
+                    "Url": "/lodestone/playguide/db/npc/npc/e866070745f/",
+                    "Area": "Thal-Kreuzgang (X:11.0 Y:14.1)"
+                },
+                {
+                    "Name": "Seserukka",
+                    "Url": "/lodestone/playguide/db/npc/npc/95b8e307446/",
+                    "Area": "Thal-Kreuzgang (X:11.0 Y:14.1)"
+                }
+            ]
+        },
+        "Seq": 29,
+        "oldID": 65632,
+        "Map": {
+            "ID": 25
+        }
+    },
+    {
+        "ID": "fad3c671124",
+        "Name": "Im Auftrag der Männlichkeit",
+        "Location": "Mor Dhona",
+        "Level": 45,
+        "JournalSection": 3,
+        "JournalCategory": 42,
+        "JournalGenre": "Aufträge Mor Dhona",
+        "Url": "/lodestone/playguide/db/quest/fad3c671124/",
+        "Image": null,
+        "Icon": "common_normal",
+        "Issuer": "Guolgeim",
+        "StartLocation": {
+            "Name": "Mor Dhona",
+            "X": "21.9",
+            "Y": "6.4"
+        },
+        "StartClass": null,
+        "Job": "",
+        "Company": "Keine Angabe",
+        "Requirement": "Keine Angabe",
+        "Rewards": {
+            "Gil": 1782,
+            "Exp": 12420,
+            "ItemsMand": [],
+            "ItemsOpt": []
+        },
+        "Infos": {
+            "PrevQuests": [
+                {
+                    "Name": "Nomen est Omen",
+                    "Url": "/lodestone/playguide/db/quest/8639390e5c0/",
+                    "Area": "Mor Dhona",
+                    "Level": "45"
+                }
+            ],
+            "NextQuests": [
+                {
+                    "Name": "Zufällig wohltätig",
+                    "Url": "/lodestone/playguide/db/quest/cd187120f92/",
+                    "Area": "Mor Dhona",
+                    "Level": "45"
+                }
+            ]
+        },
+        "Seq": 16,
+        "oldID": 66534,
+        "Map": {
+            "ID": 25
+        }
+    },
+    {
+        "ID": "feb5215a556",
+        "Name": "Das Beste vom Besten",
+        "Location": "Mor Dhona",
+        "Level": 50,
+        "JournalSection": 3,
+        "JournalCategory": 42,
+        "JournalGenre": "Aufträge Mor Dhona",
+        "Url": "/lodestone/playguide/db/quest/feb5215a556/",
+        "Image": null,
+        "Icon": "function_normal",
+        "Issuer": "Leitender Stern",
+        "StartLocation": {
+            "Name": "Mor Dhona",
+            "X": "21.9",
+            "Y": "6.9"
+        },
+        "StartClass": null,
+        "Job": "",
+        "Company": "Keine Angabe",
+        "Requirement": "Keine Angabe",
+        "Rewards": {
+            "Gil": 0,
+            "Exp": 0,
+            "ItemsMand": [],
+            "ItemsOpt": [
+                {
+                    "Icon": "https://img.finalfantasyxiv.com/lds/pc/global/images/itemicon/7b/7b33210b9912e4aec9614ad2d1411640d4ea2600.png?n5.5",
+                    "Name": "Gebratener Mahi-Mahi",
+                    "Amount": 3,
+                    "Url": "/lodestone/playguide/db/item/3a02d54d0ad/"
+                },
+                {
+                    "Icon": "https://img.finalfantasyxiv.com/lds/pc/global/images/itemicon/a4/a4106733d7c4bf400522e27ba51bff1cedc29cf5.png?n5.5",
+                    "Name": "Dzemael-Gratin",
+                    "Amount": 3,
+                    "Url": "/lodestone/playguide/db/item/287458aa2af/"
+                },
+                {
+                    "Icon": "https://img.finalfantasyxiv.com/lds/pc/global/images/itemicon/61/61fb5cb5e9afbfb52b690aa68a8064f6b90de6f9.png?n5.5",
+                    "Name": "Karnivorenblattsalat",
+                    "Amount": 3,
+                    "Url": "/lodestone/playguide/db/item/5f86f184a06/"
+                },
+                {
+                    "Icon": "https://img.finalfantasyxiv.com/lds/pc/global/images/itemicon/46/4696b2f027b0b33da98c53098783aef7b1e3cb58.png?n5.5",
+                    "Name": "Bouillabaisse",
+                    "Amount": 3,
+                    "Url": "/lodestone/playguide/db/item/4eb57fadd27/"
+                },
+                {
+                    "Icon": "https://img.finalfantasyxiv.com/lds/pc/global/images/itemicon/a3/a3129556d3c2943a99b80ddf0ce330211d07a23e.png?n5.5",
+                    "Name": "Rolanbeeren-Käsekuchen",
+                    "Amount": 3,
+                    "Url": "/lodestone/playguide/db/item/2d9f0fd48d9/"
+                }
+            ]
+        },
+        "Infos": {},
+        "Seq": 25,
+        "oldID": 66959,
+        "Map": {
+            "ID": 25
+        }
+    },
+    {
+        "ID": "ff0d9aa6841",
+        "Name": "Geheimnisvolle Karten",
+        "Location": "Mor Dhona",
+        "Level": 50,
+        "JournalSection": 3,
+        "JournalCategory": 42,
+        "JournalGenre": "Aufträge Mor Dhona",
+        "Url": "/lodestone/playguide/db/quest/ff0d9aa6841/",
+        "Image": null,
+        "Icon": "function_repeat",
+        "Issuer": "Brangwine",
+        "StartLocation": {
+            "Name": "Mor Dhona",
+            "X": "21.9",
+            "Y": "6.7"
+        },
+        "StartClass": null,
+        "Job": "",
+        "Company": "Keine Angabe",
+        "Requirement": "Keine Angabe",
+        "Rewards": {
+            "Gil": 0,
+            "Exp": 0,
+            "ItemsMand": [
+                {
+                    "Icon": "https://img.finalfantasyxiv.com/lds/pc/global/images/itemicon/12/122ce9f6d4bfbaaca5618cd0c2301a1018188b44.png?n5.5",
+                    "Name": "Geheimnisvolle Karte",
+                    "Amount": 1,
+                    "Url": "/lodestone/playguide/db/item/c93aca6ba89/"
+                }
+            ],
+            "ItemsOpt": []
+        },
+        "Infos": {
+            "PrevQuests": [
+                {
+                    "Name": "Die Leiden des jungen Ealdwine",
+                    "Url": "/lodestone/playguide/db/quest/e07310dc045/",
+                    "Area": "Nordwald",
+                    "Level": "50"
+                }
+            ]
+        },
+        "Seq": 20,
+        "oldID": 66677,
+        "Map": {
+            "ID": 25
+        }
+    }
+]

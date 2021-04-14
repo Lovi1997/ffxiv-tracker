@@ -1,0 +1,1849 @@
+[
+    {
+        "ID": "0fd7287e27d",
+        "Name": "Schmackofatz",
+        "Location": "Äußeres La Noscea",
+        "Level": 48,
+        "JournalSection": 4,
+        "JournalCategory": 28,
+        "JournalGenre": "\n\t\t\t\t\t\t\tNebenaufträge\n\t\t\t\t\t\t",
+        "Url": "/lodestone/playguide/db/quest/0fd7287e27d/",
+        "Image": null,
+        "Icon": "common_repeat",
+        "Issuer": "Bo Bu",
+        "StartLocation": {
+            "Name": "Äußeres La Noscea",
+            "X": "21.7",
+            "Y": "17.9"
+        },
+        "StartClass": null,
+        "Job": "",
+        "Company": "Keine Angabe",
+        "Requirement": "Keine Angabe",
+        "Rewards": {
+            "Gil": 780,
+            "Exp": 10473,
+            "ItemsMand": [],
+            "ItemsOpt": [
+                {
+                    "Icon": "https://img.finalfantasyxiv.com/lds/pc/global/images/itemicon/59/591709d485ebd155ba018c8cd773fe3c662caed3.png?n5.5",
+                    "Name": "Frömmigkeits-Materia IV",
+                    "Amount": 1,
+                    "Url": "/lodestone/playguide/db/item/905d47601dd/"
+                },
+                {
+                    "Icon": "https://img.finalfantasyxiv.com/lds/pc/global/images/itemicon/59/591709d485ebd155ba018c8cd773fe3c662caed3.png?n5.5",
+                    "Name": "Fechtkunst-Materia IV",
+                    "Amount": 1,
+                    "Url": "/lodestone/playguide/db/item/37f25043bf3/"
+                },
+                {
+                    "Icon": "https://img.finalfantasyxiv.com/lds/pc/global/images/itemicon/60/6072436b0c90d22b6a9d7da93f356256a04be53d.png?n5.5",
+                    "Name": "Kampf-Materia IV",
+                    "Amount": 1,
+                    "Url": "/lodestone/playguide/db/item/1162b3fcc58/"
+                }
+            ]
+        },
+        "Infos": {
+            "PrevQuests": [
+                {
+                    "Name": "Ga Zi",
+                    "Url": "/lodestone/playguide/db/npc/npc/e204ce46750/",
+                    "Area": "Äußeres La Noscea (X:23.4 Y:11.4)"
+                }
+            ]
+        },
+        "Seq": 30,
+        "oldID": 66905,
+        "Map": {
+            "ID": 30
+        }
+    },
+    {
+        "ID": "12108677431",
+        "Name": "Ein goldener Zinken",
+        "Location": "Äußeres La Noscea",
+        "Level": 44,
+        "JournalSection": 4,
+        "JournalCategory": 28,
+        "JournalGenre": "\n\t\t\t\t\t\t\tNebenaufträge\n\t\t\t\t\t\t",
+        "Url": "/lodestone/playguide/db/quest/12108677431/",
+        "Image": null,
+        "Icon": "common_repeat",
+        "Issuer": "Bo Gu",
+        "StartLocation": {
+            "Name": "Äußeres La Noscea",
+            "X": "21.9",
+            "Y": "17.8"
+        },
+        "StartClass": null,
+        "Job": "",
+        "Company": "Keine Angabe",
+        "Requirement": "Keine Angabe",
+        "Rewards": {
+            "Gil": 540,
+            "Exp": 9142,
+            "ItemsMand": [],
+            "ItemsOpt": []
+        },
+        "Infos": {},
+        "Seq": 22,
+        "oldID": 66872,
+        "Map": {
+            "ID": 30
+        }
+    },
+    {
+        "ID": "13f919b28c9",
+        "Name": "Aufmotzen für den Obermotz",
+        "Location": "Äußeres La Noscea",
+        "Level": 44,
+        "JournalSection": 4,
+        "JournalCategory": 28,
+        "JournalGenre": "\n\t\t\t\t\t\t\tNebenaufträge\n\t\t\t\t\t\t",
+        "Url": "/lodestone/playguide/db/quest/13f919b28c9/",
+        "Image": null,
+        "Icon": "common_repeat",
+        "Issuer": "Bo Gu",
+        "StartLocation": {
+            "Name": "Äußeres La Noscea",
+            "X": "21.9",
+            "Y": "17.8"
+        },
+        "StartClass": null,
+        "Job": "",
+        "Company": "Keine Angabe",
+        "Requirement": "Keine Angabe",
+        "Rewards": {
+            "Gil": 540,
+            "Exp": 9142,
+            "ItemsMand": [],
+            "ItemsOpt": []
+        },
+        "Infos": {
+            "PrevQuests": [
+                {
+                    "Name": "Alchemist des 13. Ordens",
+                    "Url": "/lodestone/playguide/db/npc/npc/f098d26565a/",
+                    "Area": "Äußeres La Noscea (X:26.0 Y:9.1)"
+                },
+                {
+                    "Name": "Alchemist des 13. Ordens",
+                    "Url": "/lodestone/playguide/db/npc/npc/e9de31421d6/",
+                    "Area": "Äußeres La Noscea (X:26.2 Y:9.5)"
+                },
+                {
+                    "Name": "Alchemist des 13. Ordens",
+                    "Url": "/lodestone/playguide/db/npc/npc/dbca70301be/",
+                    "Area": "Äußeres La Noscea (X:26.2 Y:9.1)"
+                },
+                {
+                    "Name": "Ga Zi",
+                    "Url": "/lodestone/playguide/db/npc/npc/e204ce46750/",
+                    "Area": "Äußeres La Noscea (X:23.4 Y:11.4)"
+                },
+                {
+                    "Name": "Gelehrter des 13. Ordens",
+                    "Url": "/lodestone/playguide/db/npc/npc/7b79b7397a3/",
+                    "Area": "Äußeres La Noscea (X:25.7 Y:9.2)"
+                },
+                {
+                    "Name": "Gelehrter des 13. Ordens",
+                    "Url": "/lodestone/playguide/db/npc/npc/328ef565e60/",
+                    "Area": "Äußeres La Noscea (X:26.1 Y:9.3)"
+                },
+                {
+                    "Name": "Gelehrter des 13. Ordens",
+                    "Url": "/lodestone/playguide/db/npc/npc/4fabe305324/",
+                    "Area": "Äußeres La Noscea (X:26.0 Y:9.6)"
+                }
+            ]
+        },
+        "Seq": 21,
+        "oldID": 66879,
+        "Map": {
+            "ID": 30
+        }
+    },
+    {
+        "ID": "15d5ecaafcf",
+        "Name": "Schatzsuche im Labor",
+        "Location": "Äußeres La Noscea",
+        "Level": 44,
+        "JournalSection": 4,
+        "JournalCategory": 28,
+        "JournalGenre": "\n\t\t\t\t\t\t\tNebenaufträge\n\t\t\t\t\t\t",
+        "Url": "/lodestone/playguide/db/quest/15d5ecaafcf/",
+        "Image": null,
+        "Icon": "common_repeat",
+        "Issuer": "Bo Gu",
+        "StartLocation": {
+            "Name": "Äußeres La Noscea",
+            "X": "21.9",
+            "Y": "17.8"
+        },
+        "StartClass": null,
+        "Job": "",
+        "Company": "Keine Angabe",
+        "Requirement": "Keine Angabe",
+        "Rewards": {
+            "Gil": 540,
+            "Exp": 9142,
+            "ItemsMand": [],
+            "ItemsOpt": []
+        },
+        "Infos": {
+            "PrevQuests": [
+                {
+                    "Name": "Ga Zi",
+                    "Url": "/lodestone/playguide/db/npc/npc/e204ce46750/",
+                    "Area": "Äußeres La Noscea (X:23.4 Y:11.4)"
+                }
+            ]
+        },
+        "Seq": 20,
+        "oldID": 66878,
+        "Map": {
+            "ID": 30
+        }
+    },
+    {
+        "ID": "1c14d75c5c1",
+        "Name": "Das Dobalos-Experiment",
+        "Location": "Äußeres La Noscea",
+        "Level": 48,
+        "JournalSection": 4,
+        "JournalCategory": 28,
+        "JournalGenre": "\n\t\t\t\t\t\t\tNebenaufträge\n\t\t\t\t\t\t",
+        "Url": "/lodestone/playguide/db/quest/1c14d75c5c1/",
+        "Image": null,
+        "Icon": "common_repeat",
+        "Issuer": "Bo Bu",
+        "StartLocation": {
+            "Name": "Äußeres La Noscea",
+            "X": "21.7",
+            "Y": "17.9"
+        },
+        "StartClass": null,
+        "Job": "",
+        "Company": "Keine Angabe",
+        "Requirement": "Keine Angabe",
+        "Rewards": {
+            "Gil": 780,
+            "Exp": 10473,
+            "ItemsMand": [],
+            "ItemsOpt": [
+                {
+                    "Icon": "https://img.finalfantasyxiv.com/lds/pc/global/images/itemicon/06/06bd35b3df19cbc5d80eed3ed99c67a366c835aa.png?n5.5",
+                    "Name": "Hellseher-Materia IV",
+                    "Amount": 1,
+                    "Url": "/lodestone/playguide/db/item/93fe1786b70/"
+                },
+                {
+                    "Icon": "https://img.finalfantasyxiv.com/lds/pc/global/images/itemicon/06/06bd35b3df19cbc5d80eed3ed99c67a366c835aa.png?n5.5",
+                    "Name": "Assassinen-Materia IV",
+                    "Amount": 1,
+                    "Url": "/lodestone/playguide/db/item/1bc25f58180/"
+                },
+                {
+                    "Icon": "https://img.finalfantasyxiv.com/lds/pc/global/images/itemicon/60/6072436b0c90d22b6a9d7da93f356256a04be53d.png?n5.5",
+                    "Name": "Zauber-Materia IV",
+                    "Amount": 1,
+                    "Url": "/lodestone/playguide/db/item/5bbb25ff7dd/"
+                }
+            ]
+        },
+        "Infos": {},
+        "Seq": 32,
+        "oldID": 66900,
+        "Map": {
+            "ID": 30
+        }
+    },
+    {
+        "ID": "21e1cd0274f",
+        "Name": "Ein Herz für Kobolde",
+        "Location": "Äußeres La Noscea",
+        "Level": 41,
+        "JournalSection": 4,
+        "JournalCategory": 28,
+        "JournalGenre": "\n\t\t\t\t\t\t\tHauptaufträge\n\t\t\t\t\t\t",
+        "Url": "/lodestone/playguide/db/quest/21e1cd0274f/",
+        "Image": "https://img.finalfantasyxiv.com/lds/pc/global/images/itemicon/74/7408d797c3f1425b36b07edae367a0ad30759e58.png?n5.5",
+        "Icon": "function_normal",
+        "Issuer": "Gi Gu",
+        "StartLocation": {
+            "Name": "Äußeres La Noscea",
+            "X": "21.4",
+            "Y": "18.0"
+        },
+        "StartClass": null,
+        "Job": "",
+        "Company": "Keine Angabe",
+        "Requirement": "Keine Angabe",
+        "Rewards": {
+            "Gil": 691,
+            "Exp": 11500,
+            "ItemsMand": [],
+            "ItemsOpt": []
+        },
+        "Infos": {
+            "PrevQuests": [
+                {
+                    "Name": "Der mysteriöse Salpeterraub",
+                    "Url": "/lodestone/playguide/db/quest/bca74d2c86b/",
+                    "Area": "Limsa Lominsa",
+                    "Level": "41"
+                }
+            ],
+            "NextQuests": [
+                {
+                    "Name": "Die Kobolde rüsten auf",
+                    "Url": "/lodestone/playguide/db/quest/e2b8045bbba/",
+                    "Area": "Äußeres La Noscea",
+                    "Level": "44"
+                }
+            ],
+            "NPCs": [
+                {
+                    "Name": "Skaetswys",
+                    "Url": "/lodestone/playguide/db/npc/npc/accf3a073bd/",
+                    "Area": "Äußeres La Noscea (X:21.4 Y:18.0)"
+                }
+            ]
+        },
+        "Seq": 1,
+        "oldID": 66857,
+        "Map": {
+            "ID": 30
+        }
+    },
+    {
+        "ID": "22b5d0b57d5",
+        "Name": "Ohne Teller keinen Brei",
+        "Location": "Äußeres La Noscea",
+        "Level": 48,
+        "JournalSection": 4,
+        "JournalCategory": 28,
+        "JournalGenre": "\n\t\t\t\t\t\t\tNebenaufträge\n\t\t\t\t\t\t",
+        "Url": "/lodestone/playguide/db/quest/22b5d0b57d5/",
+        "Image": null,
+        "Icon": "common_repeat",
+        "Issuer": "Bo Bu",
+        "StartLocation": {
+            "Name": "Äußeres La Noscea",
+            "X": "21.7",
+            "Y": "17.9"
+        },
+        "StartClass": null,
+        "Job": "",
+        "Company": "Keine Angabe",
+        "Requirement": "Keine Angabe",
+        "Rewards": {
+            "Gil": 780,
+            "Exp": 10473,
+            "ItemsMand": [],
+            "ItemsOpt": [
+                {
+                    "Icon": "https://img.finalfantasyxiv.com/lds/pc/global/images/itemicon/06/06bd35b3df19cbc5d80eed3ed99c67a366c835aa.png?n5.5",
+                    "Name": "Hellseher-Materia IV",
+                    "Amount": 1,
+                    "Url": "/lodestone/playguide/db/item/93fe1786b70/"
+                },
+                {
+                    "Icon": "https://img.finalfantasyxiv.com/lds/pc/global/images/itemicon/06/06bd35b3df19cbc5d80eed3ed99c67a366c835aa.png?n5.5",
+                    "Name": "Assassinen-Materia IV",
+                    "Amount": 1,
+                    "Url": "/lodestone/playguide/db/item/1bc25f58180/"
+                },
+                {
+                    "Icon": "https://img.finalfantasyxiv.com/lds/pc/global/images/itemicon/60/6072436b0c90d22b6a9d7da93f356256a04be53d.png?n5.5",
+                    "Name": "Kampf-Materia IV",
+                    "Amount": 1,
+                    "Url": "/lodestone/playguide/db/item/1162b3fcc58/"
+                }
+            ]
+        },
+        "Infos": {},
+        "Seq": 28,
+        "oldID": 66902,
+        "Map": {
+            "ID": 30
+        }
+    },
+    {
+        "ID": "35579748dbb",
+        "Name": "Dreiste Gebietserweiterung",
+        "Location": "Äußeres La Noscea",
+        "Level": 41,
+        "JournalSection": 4,
+        "JournalCategory": 28,
+        "JournalGenre": "\n\t\t\t\t\t\t\tNebenaufträge\n\t\t\t\t\t\t",
+        "Url": "/lodestone/playguide/db/quest/35579748dbb/",
+        "Image": null,
+        "Icon": "common_repeat",
+        "Issuer": "Bo Zu",
+        "StartLocation": {
+            "Name": "Äußeres La Noscea",
+            "X": "21.6",
+            "Y": "17.7"
+        },
+        "StartClass": null,
+        "Job": "",
+        "Company": "Keine Angabe",
+        "Requirement": "Keine Angabe",
+        "Rewards": {
+            "Gil": 360,
+            "Exp": 8625,
+            "ItemsMand": [],
+            "ItemsOpt": []
+        },
+        "Infos": {
+            "PrevQuests": [
+                {
+                    "Name": "Ba Go",
+                    "Url": "/lodestone/playguide/db/npc/npc/f0e3d01eb34/",
+                    "Area": "Äußeres La Noscea (X:21.4 Y:16.5)"
+                }
+            ]
+        },
+        "Seq": 12,
+        "oldID": 66866,
+        "Map": {
+            "ID": 30
+        }
+    },
+    {
+        "ID": "3594a3dbbd4",
+        "Name": "Material für Bomber",
+        "Location": "Äußeres La Noscea",
+        "Level": 48,
+        "JournalSection": 4,
+        "JournalCategory": 28,
+        "JournalGenre": "\n\t\t\t\t\t\t\tNebenaufträge\n\t\t\t\t\t\t",
+        "Url": "/lodestone/playguide/db/quest/3594a3dbbd4/",
+        "Image": null,
+        "Icon": "common_repeat",
+        "Issuer": "Bo Bu",
+        "StartLocation": {
+            "Name": "Äußeres La Noscea",
+            "X": "21.7",
+            "Y": "17.9"
+        },
+        "StartClass": null,
+        "Job": "",
+        "Company": "Keine Angabe",
+        "Requirement": "Keine Angabe",
+        "Rewards": {
+            "Gil": 780,
+            "Exp": 10473,
+            "ItemsMand": [],
+            "ItemsOpt": [
+                {
+                    "Icon": "https://img.finalfantasyxiv.com/lds/pc/global/images/itemicon/59/591709d485ebd155ba018c8cd773fe3c662caed3.png?n5.5",
+                    "Name": "Frömmigkeits-Materia IV",
+                    "Amount": 1,
+                    "Url": "/lodestone/playguide/db/item/905d47601dd/"
+                },
+                {
+                    "Icon": "https://img.finalfantasyxiv.com/lds/pc/global/images/itemicon/06/06bd35b3df19cbc5d80eed3ed99c67a366c835aa.png?n5.5",
+                    "Name": "Strategen-Materia IV",
+                    "Amount": 1,
+                    "Url": "/lodestone/playguide/db/item/dce3a5f3467/"
+                },
+                {
+                    "Icon": "https://img.finalfantasyxiv.com/lds/pc/global/images/itemicon/60/6072436b0c90d22b6a9d7da93f356256a04be53d.png?n5.5",
+                    "Name": "Zauber-Materia IV",
+                    "Amount": 1,
+                    "Url": "/lodestone/playguide/db/item/5bbb25ff7dd/"
+                }
+            ]
+        },
+        "Infos": {
+            "PrevQuests": [
+                {
+                    "Name": "Ba Go",
+                    "Url": "/lodestone/playguide/db/npc/npc/f0e3d01eb34/",
+                    "Area": "Äußeres La Noscea (X:21.4 Y:16.5)"
+                }
+            ]
+        },
+        "Seq": 27,
+        "oldID": 66907,
+        "Map": {
+            "ID": 30
+        }
+    },
+    {
+        "ID": "3880e42b7ab",
+        "Name": "Bomber-Produktionsstätte",
+        "Location": "Äußeres La Noscea",
+        "Level": 48,
+        "JournalSection": 4,
+        "JournalCategory": 28,
+        "JournalGenre": "\n\t\t\t\t\t\t\tNebenaufträge\n\t\t\t\t\t\t",
+        "Url": "/lodestone/playguide/db/quest/3880e42b7ab/",
+        "Image": null,
+        "Icon": "common_repeat",
+        "Issuer": "Bo Bu",
+        "StartLocation": {
+            "Name": "Äußeres La Noscea",
+            "X": "21.7",
+            "Y": "17.9"
+        },
+        "StartClass": null,
+        "Job": "",
+        "Company": "Keine Angabe",
+        "Requirement": "Keine Angabe",
+        "Rewards": {
+            "Gil": 780,
+            "Exp": 10473,
+            "ItemsMand": [],
+            "ItemsOpt": [
+                {
+                    "Icon": "https://img.finalfantasyxiv.com/lds/pc/global/images/itemicon/06/06bd35b3df19cbc5d80eed3ed99c67a366c835aa.png?n5.5",
+                    "Name": "Strategen-Materia IV",
+                    "Amount": 1,
+                    "Url": "/lodestone/playguide/db/item/dce3a5f3467/"
+                },
+                {
+                    "Icon": "https://img.finalfantasyxiv.com/lds/pc/global/images/itemicon/59/591709d485ebd155ba018c8cd773fe3c662caed3.png?n5.5",
+                    "Name": "Fechtkunst-Materia IV",
+                    "Amount": 1,
+                    "Url": "/lodestone/playguide/db/item/37f25043bf3/"
+                },
+                {
+                    "Icon": "https://img.finalfantasyxiv.com/lds/pc/global/images/itemicon/60/6072436b0c90d22b6a9d7da93f356256a04be53d.png?n5.5",
+                    "Name": "Kampf-Materia IV",
+                    "Amount": 1,
+                    "Url": "/lodestone/playguide/db/item/1162b3fcc58/"
+                }
+            ]
+        },
+        "Infos": {
+            "PrevQuests": [
+                {
+                    "Name": "Ba Go",
+                    "Url": "/lodestone/playguide/db/npc/npc/f0e3d01eb34/",
+                    "Area": "Äußeres La Noscea (X:21.4 Y:16.5)"
+                }
+            ]
+        },
+        "Seq": 29,
+        "oldID": 66904,
+        "Map": {
+            "ID": 30
+        }
+    },
+    {
+        "ID": "3b8001dd37f",
+        "Name": "Eisen gegen Essen",
+        "Location": "Äußeres La Noscea",
+        "Level": 41,
+        "JournalSection": 4,
+        "JournalCategory": 28,
+        "JournalGenre": "\n\t\t\t\t\t\t\tNebenaufträge\n\t\t\t\t\t\t",
+        "Url": "/lodestone/playguide/db/quest/3b8001dd37f/",
+        "Image": null,
+        "Icon": "common_repeat",
+        "Issuer": "Bo Zu",
+        "StartLocation": {
+            "Name": "Äußeres La Noscea",
+            "X": "21.6",
+            "Y": "17.7"
+        },
+        "StartClass": null,
+        "Job": "",
+        "Company": "Keine Angabe",
+        "Requirement": "Keine Angabe",
+        "Rewards": {
+            "Gil": 360,
+            "Exp": 8625,
+            "ItemsMand": [],
+            "ItemsOpt": []
+        },
+        "Infos": {
+            "PrevQuests": [
+                {
+                    "Name": "Versorgungssoldatin",
+                    "Url": "/lodestone/playguide/db/npc/npc/1e1c76ca1d6/",
+                    "Area": "Äußeres La Noscea (X:19.4 Y:16.9)"
+                }
+            ]
+        },
+        "Seq": 5,
+        "oldID": 66861,
+        "Map": {
+            "ID": 30
+        }
+    },
+    {
+        "ID": "447a8ced339",
+        "Name": "Sternstunde des 789. Ordens",
+        "Location": "Äußeres La Noscea",
+        "Level": 48,
+        "JournalSection": 4,
+        "JournalCategory": 28,
+        "JournalGenre": "\n\t\t\t\t\t\t\tHauptaufträge\n\t\t\t\t\t\t",
+        "Url": "/lodestone/playguide/db/quest/447a8ced339/",
+        "Image": "https://img.finalfantasyxiv.com/lds/pc/global/images/itemicon/1f/1f8628b54f6624709d3459725a4d10985fa81143.png?n5.5",
+        "Icon": "function_normal",
+        "Issuer": "Gi Gu",
+        "StartLocation": {
+            "Name": "Äußeres La Noscea",
+            "X": "21.4",
+            "Y": "18.0"
+        },
+        "StartClass": null,
+        "Job": "",
+        "Company": "Keine Angabe",
+        "Requirement": "Keine Angabe",
+        "Rewards": {
+            "Gil": 1184,
+            "Exp": 13965,
+            "ItemsMand": [],
+            "ItemsOpt": []
+        },
+        "Infos": {
+            "PrevQuests": [
+                {
+                    "Name": "Die Schöne und der Kobold",
+                    "Url": "/lodestone/playguide/db/quest/89575c266d9/",
+                    "Area": "Äußeres La Noscea",
+                    "Level": "48"
+                }
+            ],
+            "NextQuests": [
+                {
+                    "Name": "Trachraet",
+                    "Url": "/lodestone/playguide/db/npc/npc/f20c58e0588/",
+                    "Area": "Obere Decks (X:12.7 Y:12.8)"
+                },
+                {
+                    "Name": "Ba Go",
+                    "Url": "/lodestone/playguide/db/npc/npc/f0e3d01eb34/",
+                    "Area": "Äußeres La Noscea (X:21.4 Y:16.5)"
+                },
+                {
+                    "Name": "Bi Bi",
+                    "Url": "/lodestone/playguide/db/npc/npc/211b66d30d5/",
+                    "Area": "Äußeres La Noscea (X:21.7 Y:17.7)"
+                },
+                {
+                    "Name": "Gi Gu",
+                    "Url": "/lodestone/playguide/db/npc/npc/9d2561ccb92/",
+                    "Area": "Äußeres La Noscea (X:25.8 Y:9.6)"
+                },
+                {
+                    "Name": "Skaetswys",
+                    "Url": "/lodestone/playguide/db/npc/npc/accf3a073bd/",
+                    "Area": "Äußeres La Noscea (X:21.4 Y:18.0)"
+                },
+                {
+                    "Name": "Skaetswys",
+                    "Url": "/lodestone/playguide/db/npc/npc/b0fc9e226e6/",
+                    "Area": "Äußeres La Noscea (X:22.9 Y:8.1)"
+                },
+                {
+                    "Name": "Skaetswys",
+                    "Url": "/lodestone/playguide/db/npc/npc/2c0d42d785f/",
+                    "Area": "Äußeres La Noscea (X:25.0 Y:7.7)"
+                },
+                {
+                    "Name": "Skaetswys",
+                    "Url": "/lodestone/playguide/db/npc/npc/a7b59b0ccdb/",
+                    "Area": "Äußeres La Noscea (X:25.0 Y:8.6)"
+                },
+                {
+                    "Name": "Skaetswys",
+                    "Url": "/lodestone/playguide/db/npc/npc/1ad099fdbdb/",
+                    "Area": "Äußeres La Noscea (X:24.4 Y:10.4)"
+                }
+            ]
+        },
+        "Seq": 4,
+        "oldID": 66860,
+        "Map": {
+            "ID": 30
+        }
+    },
+    {
+        "ID": "45ef93b9241",
+        "Name": "Tunnelbohrer ade!",
+        "Location": "Äußeres La Noscea",
+        "Level": 48,
+        "JournalSection": 4,
+        "JournalCategory": 28,
+        "JournalGenre": "\n\t\t\t\t\t\t\tNebenaufträge\n\t\t\t\t\t\t",
+        "Url": "/lodestone/playguide/db/quest/45ef93b9241/",
+        "Image": null,
+        "Icon": "common_repeat",
+        "Issuer": "Bo Bu",
+        "StartLocation": {
+            "Name": "Äußeres La Noscea",
+            "X": "21.7",
+            "Y": "17.9"
+        },
+        "StartClass": null,
+        "Job": "",
+        "Company": "Keine Angabe",
+        "Requirement": "Keine Angabe",
+        "Rewards": {
+            "Gil": 780,
+            "Exp": 10473,
+            "ItemsMand": [],
+            "ItemsOpt": [
+                {
+                    "Icon": "https://img.finalfantasyxiv.com/lds/pc/global/images/itemicon/06/06bd35b3df19cbc5d80eed3ed99c67a366c835aa.png?n5.5",
+                    "Name": "Strategen-Materia IV",
+                    "Amount": 1,
+                    "Url": "/lodestone/playguide/db/item/dce3a5f3467/"
+                },
+                {
+                    "Icon": "https://img.finalfantasyxiv.com/lds/pc/global/images/itemicon/06/06bd35b3df19cbc5d80eed3ed99c67a366c835aa.png?n5.5",
+                    "Name": "Assassinen-Materia IV",
+                    "Amount": 1,
+                    "Url": "/lodestone/playguide/db/item/1bc25f58180/"
+                },
+                {
+                    "Icon": "https://img.finalfantasyxiv.com/lds/pc/global/images/itemicon/60/6072436b0c90d22b6a9d7da93f356256a04be53d.png?n5.5",
+                    "Name": "Zauber-Materia IV",
+                    "Amount": 1,
+                    "Url": "/lodestone/playguide/db/item/5bbb25ff7dd/"
+                }
+            ]
+        },
+        "Infos": {
+            "PrevQuests": [
+                {
+                    "Name": "Ba Go",
+                    "Url": "/lodestone/playguide/db/npc/npc/f0e3d01eb34/",
+                    "Area": "Äußeres La Noscea (X:21.4 Y:16.5)"
+                }
+            ]
+        },
+        "Seq": 31,
+        "oldID": 66906,
+        "Map": {
+            "ID": 30
+        }
+    },
+    {
+        "ID": "4d0888d359b",
+        "Name": "Auf der faulen Kobold-Haut",
+        "Location": "Äußeres La Noscea",
+        "Level": 44,
+        "JournalSection": 4,
+        "JournalCategory": 28,
+        "JournalGenre": "\n\t\t\t\t\t\t\tNebenaufträge\n\t\t\t\t\t\t",
+        "Url": "/lodestone/playguide/db/quest/4d0888d359b/",
+        "Image": null,
+        "Icon": "common_repeat",
+        "Issuer": "Bo Gu",
+        "StartLocation": {
+            "Name": "Äußeres La Noscea",
+            "X": "21.9",
+            "Y": "17.8"
+        },
+        "StartClass": null,
+        "Job": "",
+        "Company": "Keine Angabe",
+        "Requirement": "Keine Angabe",
+        "Rewards": {
+            "Gil": 540,
+            "Exp": 9142,
+            "ItemsMand": [],
+            "ItemsOpt": []
+        },
+        "Infos": {
+            "PrevQuests": [
+                {
+                    "Name": "Ba Go",
+                    "Url": "/lodestone/playguide/db/npc/npc/f0e3d01eb34/",
+                    "Area": "Äußeres La Noscea (X:21.4 Y:16.5)"
+                }
+            ]
+        },
+        "Seq": 16,
+        "oldID": 66873,
+        "Map": {
+            "ID": 30
+        }
+    },
+    {
+        "ID": "4f5f1ba984e",
+        "Name": "Sprengen aus Leidenschaft",
+        "Location": "Äußeres La Noscea",
+        "Level": 44,
+        "JournalSection": 4,
+        "JournalCategory": 28,
+        "JournalGenre": "\n\t\t\t\t\t\t\tNebenaufträge\n\t\t\t\t\t\t",
+        "Url": "/lodestone/playguide/db/quest/4f5f1ba984e/",
+        "Image": null,
+        "Icon": "common_repeat",
+        "Issuer": "Bo Gu",
+        "StartLocation": {
+            "Name": "Äußeres La Noscea",
+            "X": "21.9",
+            "Y": "17.8"
+        },
+        "StartClass": null,
+        "Job": "",
+        "Company": "Keine Angabe",
+        "Requirement": "Keine Angabe",
+        "Rewards": {
+            "Gil": 540,
+            "Exp": 9142,
+            "ItemsMand": [],
+            "ItemsOpt": []
+        },
+        "Infos": {
+            "PrevQuests": [
+                {
+                    "Name": "Ba Go",
+                    "Url": "/lodestone/playguide/db/npc/npc/f0e3d01eb34/",
+                    "Area": "Äußeres La Noscea (X:21.4 Y:16.5)"
+                },
+                {
+                    "Name": "Ga Zi",
+                    "Url": "/lodestone/playguide/db/npc/npc/e204ce46750/",
+                    "Area": "Äußeres La Noscea (X:23.4 Y:11.4)"
+                }
+            ]
+        },
+        "Seq": 19,
+        "oldID": 66877,
+        "Map": {
+            "ID": 30
+        }
+    },
+    {
+        "ID": "549494b70de",
+        "Name": "Express-Bomber",
+        "Location": "Äußeres La Noscea",
+        "Level": 44,
+        "JournalSection": 4,
+        "JournalCategory": 28,
+        "JournalGenre": "\n\t\t\t\t\t\t\tNebenaufträge\n\t\t\t\t\t\t",
+        "Url": "/lodestone/playguide/db/quest/549494b70de/",
+        "Image": null,
+        "Icon": "common_repeat",
+        "Issuer": "Bo Gu",
+        "StartLocation": {
+            "Name": "Äußeres La Noscea",
+            "X": "21.9",
+            "Y": "17.8"
+        },
+        "StartClass": null,
+        "Job": "",
+        "Company": "Keine Angabe",
+        "Requirement": "Keine Angabe",
+        "Rewards": {
+            "Gil": 540,
+            "Exp": 9142,
+            "ItemsMand": [],
+            "ItemsOpt": []
+        },
+        "Infos": {
+            "PrevQuests": [
+                {
+                    "Name": "Ba Go",
+                    "Url": "/lodestone/playguide/db/npc/npc/f0e3d01eb34/",
+                    "Area": "Äußeres La Noscea (X:21.4 Y:16.5)"
+                }
+            ]
+        },
+        "Seq": 24,
+        "oldID": 66880,
+        "Map": {
+            "ID": 30
+        }
+    },
+    {
+        "ID": "6c447525093",
+        "Name": "Aufgedrehte Bomber",
+        "Location": "Äußeres La Noscea",
+        "Level": 41,
+        "JournalSection": 4,
+        "JournalCategory": 28,
+        "JournalGenre": "\n\t\t\t\t\t\t\tNebenaufträge\n\t\t\t\t\t\t",
+        "Url": "/lodestone/playguide/db/quest/6c447525093/",
+        "Image": null,
+        "Icon": "common_repeat",
+        "Issuer": "Bo Zu",
+        "StartLocation": {
+            "Name": "Äußeres La Noscea",
+            "X": "21.6",
+            "Y": "17.7"
+        },
+        "StartClass": null,
+        "Job": "",
+        "Company": "Keine Angabe",
+        "Requirement": "Keine Angabe",
+        "Rewards": {
+            "Gil": 360,
+            "Exp": 8625,
+            "ItemsMand": [],
+            "ItemsOpt": []
+        },
+        "Infos": {
+            "PrevQuests": [
+                {
+                    "Name": "Ba Go",
+                    "Url": "/lodestone/playguide/db/npc/npc/f0e3d01eb34/",
+                    "Area": "Äußeres La Noscea (X:21.4 Y:16.5)"
+                },
+                {
+                    "Name": "Mini-Bomber",
+                    "Url": "/lodestone/playguide/db/npc/npc/9656a2c3910/",
+                    "Area": "Äußeres La Noscea (X:21.1 Y:14.4)"
+                },
+                {
+                    "Name": "Mini-Bomber",
+                    "Url": "/lodestone/playguide/db/npc/npc/1bfb5def6ec/",
+                    "Area": "Äußeres La Noscea (X:22.4 Y:14.9)"
+                },
+                {
+                    "Name": "Mini-Bomber",
+                    "Url": "/lodestone/playguide/db/npc/npc/d0df44fd616/",
+                    "Area": "Äußeres La Noscea (X:21.7 Y:15.0)"
+                },
+                {
+                    "Name": "Mini-Bomber",
+                    "Url": "/lodestone/playguide/db/npc/npc/83744f3459c/",
+                    "Area": "Äußeres La Noscea (X:21.2 Y:15.6)"
+                },
+                {
+                    "Name": "Mini-Bomber",
+                    "Url": "/lodestone/playguide/db/npc/npc/9e2f18e04ee/",
+                    "Area": "Äußeres La Noscea (X:20.9 Y:14.8)"
+                }
+            ]
+        },
+        "Seq": 11,
+        "oldID": 66869,
+        "Map": {
+            "ID": 30
+        }
+    },
+    {
+        "ID": "75d86de91e6",
+        "Name": "Bombiger Betrug",
+        "Location": "Äußeres La Noscea",
+        "Level": 41,
+        "JournalSection": 4,
+        "JournalCategory": 28,
+        "JournalGenre": "\n\t\t\t\t\t\t\tNebenaufträge\n\t\t\t\t\t\t",
+        "Url": "/lodestone/playguide/db/quest/75d86de91e6/",
+        "Image": null,
+        "Icon": "common_repeat",
+        "Issuer": "Bo Zu",
+        "StartLocation": {
+            "Name": "Äußeres La Noscea",
+            "X": "21.6",
+            "Y": "17.7"
+        },
+        "StartClass": null,
+        "Job": "",
+        "Company": "Keine Angabe",
+        "Requirement": "Keine Angabe",
+        "Rewards": {
+            "Gil": 360,
+            "Exp": 8625,
+            "ItemsMand": [],
+            "ItemsOpt": []
+        },
+        "Infos": {
+            "PrevQuests": [
+                {
+                    "Name": "Ba Go",
+                    "Url": "/lodestone/playguide/db/npc/npc/f0e3d01eb34/",
+                    "Area": "Äußeres La Noscea (X:21.4 Y:16.5)"
+                },
+                {
+                    "Name": "Gi Gu",
+                    "Url": "/lodestone/playguide/db/npc/npc/13496a3d66a/",
+                    "Area": "Äußeres La Noscea (X:21.4 Y:18.0)"
+                }
+            ]
+        },
+        "Seq": 14,
+        "oldID": 66870,
+        "Map": {
+            "ID": 30
+        }
+    },
+    {
+        "ID": "76ecf38fe24",
+        "Name": "Immer auf die Schwachen",
+        "Location": "Äußeres La Noscea",
+        "Level": 41,
+        "JournalSection": 4,
+        "JournalCategory": 28,
+        "JournalGenre": "\n\t\t\t\t\t\t\tNebenaufträge\n\t\t\t\t\t\t",
+        "Url": "/lodestone/playguide/db/quest/76ecf38fe24/",
+        "Image": null,
+        "Icon": "common_repeat",
+        "Issuer": "Bo Zu",
+        "StartLocation": {
+            "Name": "Äußeres La Noscea",
+            "X": "21.6",
+            "Y": "17.7"
+        },
+        "StartClass": null,
+        "Job": "",
+        "Company": "Keine Angabe",
+        "Requirement": "Keine Angabe",
+        "Rewards": {
+            "Gil": 360,
+            "Exp": 8625,
+            "ItemsMand": [],
+            "ItemsOpt": []
+        },
+        "Infos": {},
+        "Seq": 8,
+        "oldID": 66864,
+        "Map": {
+            "ID": 30
+        }
+    },
+    {
+        "ID": "82c6d9eb64d",
+        "Name": "Bomber grün wie Grünspan",
+        "Location": "Äußeres La Noscea",
+        "Level": 44,
+        "JournalSection": 4,
+        "JournalCategory": 28,
+        "JournalGenre": "\n\t\t\t\t\t\t\tNebenaufträge\n\t\t\t\t\t\t",
+        "Url": "/lodestone/playguide/db/quest/82c6d9eb64d/",
+        "Image": null,
+        "Icon": "common_repeat",
+        "Issuer": "Bo Gu",
+        "StartLocation": {
+            "Name": "Äußeres La Noscea",
+            "X": "21.9",
+            "Y": "17.8"
+        },
+        "StartClass": null,
+        "Job": "",
+        "Company": "Keine Angabe",
+        "Requirement": "Keine Angabe",
+        "Rewards": {
+            "Gil": 540,
+            "Exp": 9142,
+            "ItemsMand": [],
+            "ItemsOpt": []
+        },
+        "Infos": {
+            "PrevQuests": [
+                {
+                    "Name": "Ba Go",
+                    "Url": "/lodestone/playguide/db/npc/npc/f0e3d01eb34/",
+                    "Area": "Äußeres La Noscea (X:21.4 Y:16.5)"
+                },
+                {
+                    "Name": "Ga Zi",
+                    "Url": "/lodestone/playguide/db/npc/npc/e204ce46750/",
+                    "Area": "Äußeres La Noscea (X:23.4 Y:11.4)"
+                }
+            ]
+        },
+        "Seq": 23,
+        "oldID": 66875,
+        "Map": {
+            "ID": 30
+        }
+    },
+    {
+        "ID": "873d0e48fde",
+        "Name": "Demütigung des 59. Ordens",
+        "Location": "Äußeres La Noscea",
+        "Level": 48,
+        "JournalSection": 4,
+        "JournalCategory": 28,
+        "JournalGenre": "\n\t\t\t\t\t\t\tNebenaufträge\n\t\t\t\t\t\t",
+        "Url": "/lodestone/playguide/db/quest/873d0e48fde/",
+        "Image": null,
+        "Icon": "common_repeat",
+        "Issuer": "Bo Bu",
+        "StartLocation": {
+            "Name": "Äußeres La Noscea",
+            "X": "21.7",
+            "Y": "17.9"
+        },
+        "StartClass": null,
+        "Job": "",
+        "Company": "Keine Angabe",
+        "Requirement": "Keine Angabe",
+        "Rewards": {
+            "Gil": 780,
+            "Exp": 10473,
+            "ItemsMand": [],
+            "ItemsOpt": [
+                {
+                    "Icon": "https://img.finalfantasyxiv.com/lds/pc/global/images/itemicon/06/06bd35b3df19cbc5d80eed3ed99c67a366c835aa.png?n5.5",
+                    "Name": "Hellseher-Materia IV",
+                    "Amount": 1,
+                    "Url": "/lodestone/playguide/db/item/93fe1786b70/"
+                },
+                {
+                    "Icon": "https://img.finalfantasyxiv.com/lds/pc/global/images/itemicon/06/06bd35b3df19cbc5d80eed3ed99c67a366c835aa.png?n5.5",
+                    "Name": "Strategen-Materia IV",
+                    "Amount": 1,
+                    "Url": "/lodestone/playguide/db/item/dce3a5f3467/"
+                },
+                {
+                    "Icon": "https://img.finalfantasyxiv.com/lds/pc/global/images/itemicon/60/6072436b0c90d22b6a9d7da93f356256a04be53d.png?n5.5",
+                    "Name": "Zauber-Materia IV",
+                    "Amount": 1,
+                    "Url": "/lodestone/playguide/db/item/5bbb25ff7dd/"
+                }
+            ]
+        },
+        "Infos": {},
+        "Seq": 33,
+        "oldID": 66908,
+        "Map": {
+            "ID": 30
+        }
+    },
+    {
+        "ID": "882e74fd830",
+        "Name": "Golem-Sprengkommando",
+        "Location": "Äußeres La Noscea",
+        "Level": 44,
+        "JournalSection": 4,
+        "JournalCategory": 28,
+        "JournalGenre": "\n\t\t\t\t\t\t\tNebenaufträge\n\t\t\t\t\t\t",
+        "Url": "/lodestone/playguide/db/quest/882e74fd830/",
+        "Image": null,
+        "Icon": "common_repeat",
+        "Issuer": "Bo Gu",
+        "StartLocation": {
+            "Name": "Äußeres La Noscea",
+            "X": "21.9",
+            "Y": "17.8"
+        },
+        "StartClass": null,
+        "Job": "",
+        "Company": "Keine Angabe",
+        "Requirement": "Keine Angabe",
+        "Rewards": {
+            "Gil": 540,
+            "Exp": 9142,
+            "ItemsMand": [],
+            "ItemsOpt": []
+        },
+        "Infos": {
+            "PrevQuests": [
+                {
+                    "Name": "Ga Zi",
+                    "Url": "/lodestone/playguide/db/npc/npc/e204ce46750/",
+                    "Area": "Äußeres La Noscea (X:23.4 Y:11.4)"
+                }
+            ]
+        },
+        "Seq": 18,
+        "oldID": 66876,
+        "Map": {
+            "ID": 30
+        }
+    },
+    {
+        "ID": "89575c266d9",
+        "Name": "Die Schöne und der Kobold",
+        "Location": "Äußeres La Noscea",
+        "Level": 48,
+        "JournalSection": 4,
+        "JournalCategory": 28,
+        "JournalGenre": "\n\t\t\t\t\t\t\tHauptaufträge\n\t\t\t\t\t\t",
+        "Url": "/lodestone/playguide/db/quest/89575c266d9/",
+        "Image": "https://img.finalfantasyxiv.com/lds/pc/global/images/itemicon/e6/e635d4bffe2a34e657f276613e3cd89012cac6cc.png?n5.5",
+        "Icon": "function_normal",
+        "Issuer": "Skaetswys",
+        "StartLocation": {
+            "Name": "Äußeres La Noscea",
+            "X": "21.4",
+            "Y": "18.0"
+        },
+        "StartClass": null,
+        "Job": "",
+        "Company": "Keine Angabe",
+        "Requirement": "Keine Angabe",
+        "Rewards": {
+            "Gil": 776,
+            "Exp": 13965,
+            "ItemsMand": [],
+            "ItemsOpt": []
+        },
+        "Infos": {
+            "PrevQuests": [
+                {
+                    "Name": "Die Kobolde rüsten auf",
+                    "Url": "/lodestone/playguide/db/quest/e2b8045bbba/",
+                    "Area": "Äußeres La Noscea",
+                    "Level": "44"
+                }
+            ],
+            "NextQuests": [
+                {
+                    "Name": "Sternstunde des 789. Ordens",
+                    "Url": "/lodestone/playguide/db/quest/447a8ced339/",
+                    "Area": "Äußeres La Noscea",
+                    "Level": "48"
+                }
+            ],
+            "NPCs": [
+                {
+                    "Name": "Bi Bi",
+                    "Url": "/lodestone/playguide/db/npc/npc/fe4a1576b63/",
+                    "Area": "Äußeres La Noscea (X:25.8 Y:16.8)"
+                },
+                {
+                    "Name": "Bi Bi",
+                    "Url": "/lodestone/playguide/db/npc/npc/dd6247f1a4f/",
+                    "Area": "Äußeres La Noscea (X:25.8 Y:16.8)"
+                },
+                {
+                    "Name": "Bloeidin",
+                    "Url": "/lodestone/playguide/db/npc/npc/485ce80f0e6/",
+                    "Area": "Äußeres La Noscea (X:18.6 Y:17.2)"
+                },
+                {
+                    "Name": "Gi Gu",
+                    "Url": "/lodestone/playguide/db/npc/npc/13496a3d66a/",
+                    "Area": "Äußeres La Noscea (X:21.4 Y:18.0)"
+                }
+            ]
+        },
+        "Seq": 3,
+        "oldID": 66859,
+        "Map": {
+            "ID": 30
+        }
+    },
+    {
+        "ID": "89980d20e14",
+        "Name": "Unlauterer Wettbewerb",
+        "Location": "Äußeres La Noscea",
+        "Level": 41,
+        "JournalSection": 4,
+        "JournalCategory": 28,
+        "JournalGenre": "\n\t\t\t\t\t\t\tNebenaufträge\n\t\t\t\t\t\t",
+        "Url": "/lodestone/playguide/db/quest/89980d20e14/",
+        "Image": null,
+        "Icon": "common_repeat",
+        "Issuer": "Bo Zu",
+        "StartLocation": {
+            "Name": "Äußeres La Noscea",
+            "X": "21.6",
+            "Y": "17.7"
+        },
+        "StartClass": null,
+        "Job": "",
+        "Company": "Keine Angabe",
+        "Requirement": "Keine Angabe",
+        "Rewards": {
+            "Gil": 360,
+            "Exp": 8625,
+            "ItemsMand": [],
+            "ItemsOpt": []
+        },
+        "Infos": {},
+        "Seq": 10,
+        "oldID": 66868,
+        "Map": {
+            "ID": 30
+        }
+    },
+    {
+        "ID": "8ad3a6fb670",
+        "Name": "Aus dem Rennen gesprengt",
+        "Location": "Äußeres La Noscea",
+        "Level": 41,
+        "JournalSection": 4,
+        "JournalCategory": 28,
+        "JournalGenre": "\n\t\t\t\t\t\t\tNebenaufträge\n\t\t\t\t\t\t",
+        "Url": "/lodestone/playguide/db/quest/8ad3a6fb670/",
+        "Image": null,
+        "Icon": "common_repeat",
+        "Issuer": "Bo Zu",
+        "StartLocation": {
+            "Name": "Äußeres La Noscea",
+            "X": "21.6",
+            "Y": "17.7"
+        },
+        "StartClass": null,
+        "Job": "",
+        "Company": "Keine Angabe",
+        "Requirement": "Keine Angabe",
+        "Rewards": {
+            "Gil": 360,
+            "Exp": 8625,
+            "ItemsMand": [],
+            "ItemsOpt": []
+        },
+        "Infos": {
+            "PrevQuests": [
+                {
+                    "Name": "Ba Go",
+                    "Url": "/lodestone/playguide/db/npc/npc/f0e3d01eb34/",
+                    "Area": "Äußeres La Noscea (X:21.4 Y:16.5)"
+                }
+            ]
+        },
+        "Seq": 13,
+        "oldID": 66867,
+        "Map": {
+            "ID": 30
+        }
+    },
+    {
+        "ID": "ae3aa31fed9",
+        "Name": "Auf die Finger geschaut",
+        "Location": "Äußeres La Noscea",
+        "Level": 44,
+        "JournalSection": 4,
+        "JournalCategory": 28,
+        "JournalGenre": "\n\t\t\t\t\t\t\tNebenaufträge\n\t\t\t\t\t\t",
+        "Url": "/lodestone/playguide/db/quest/ae3aa31fed9/",
+        "Image": null,
+        "Icon": "common_repeat",
+        "Issuer": "Bo Gu",
+        "StartLocation": {
+            "Name": "Äußeres La Noscea",
+            "X": "21.9",
+            "Y": "17.8"
+        },
+        "StartClass": null,
+        "Job": "",
+        "Company": "Keine Angabe",
+        "Requirement": "Keine Angabe",
+        "Rewards": {
+            "Gil": 540,
+            "Exp": 9142,
+            "ItemsMand": [],
+            "ItemsOpt": []
+        },
+        "Infos": {},
+        "Seq": 15,
+        "oldID": 66871,
+        "Map": {
+            "ID": 30
+        }
+    },
+    {
+        "ID": "bca74d2c86b",
+        "Name": "Der mysteriöse Salpeterraub",
+        "Location": "Limsa Lominsa",
+        "Level": 41,
+        "JournalSection": 4,
+        "JournalCategory": 28,
+        "JournalGenre": "\n\t\t\t\t\t\t\tHauptaufträge\n\t\t\t\t\t\t",
+        "Url": "/lodestone/playguide/db/quest/bca74d2c86b/",
+        "Image": "https://img.finalfantasyxiv.com/lds/pc/global/images/itemicon/2f/2f2daf28d6c9096b9e82399eebc47756deb7e9bb.png?n5.5",
+        "Icon": "function_normal",
+        "Issuer": "Trachraet",
+        "StartLocation": {
+            "Name": "Obere Decks",
+            "X": "12.7",
+            "Y": "12.8"
+        },
+        "StartClass": null,
+        "Job": "",
+        "Company": "Keine Angabe",
+        "Requirement": "Keine Angabe",
+        "Rewards": {
+            "Gil": 691,
+            "Exp": 11500,
+            "ItemsMand": [],
+            "ItemsOpt": []
+        },
+        "Infos": {
+            "PrevQuests": [
+                {
+                    "Name": "Der Drache der Steinernen Wacht",
+                    "Url": "/lodestone/playguide/db/quest/4bb6ef83f13/",
+                    "Area": "Zentrales Hochland von Coerthas",
+                    "Level": "41"
+                }
+            ],
+            "NextQuests": [
+                {
+                    "Name": "Ein Herz für Kobolde",
+                    "Url": "/lodestone/playguide/db/quest/21e1cd0274f/",
+                    "Area": "Äußeres La Noscea",
+                    "Level": "41"
+                }
+            ],
+            "NPCs": [
+                {
+                    "Name": "Bedrückter Soldat",
+                    "Url": "/lodestone/playguide/db/npc/npc/3c3a0f1572d/",
+                    "Area": "Westliches La Noscea (X:34.5 Y:31.1)"
+                },
+                {
+                    "Name": "Fassungsloser Soldat",
+                    "Url": "/lodestone/playguide/db/npc/npc/05839da8ee8/",
+                    "Area": "Westliches La Noscea (X:34.4 Y:31.1)"
+                },
+                {
+                    "Name": "Skaetswys",
+                    "Url": "/lodestone/playguide/db/npc/npc/cdcc731ea2d/",
+                    "Area": "Westliches La Noscea (X:34.5 Y:31.1)"
+                },
+                {
+                    "Name": "Bloeidin",
+                    "Url": "/lodestone/playguide/db/npc/npc/485ce80f0e6/",
+                    "Area": "Äußeres La Noscea (X:18.6 Y:17.2)"
+                },
+                {
+                    "Name": "Gefesselter Kobold",
+                    "Url": "/lodestone/playguide/db/npc/npc/fbc5ee3d5bb/",
+                    "Area": "Äußeres La Noscea (X:18.6 Y:17.2)"
+                },
+                {
+                    "Name": "Gi Gu",
+                    "Url": "/lodestone/playguide/db/npc/npc/13496a3d66a/",
+                    "Area": "Äußeres La Noscea (X:21.4 Y:18.0)"
+                },
+                {
+                    "Name": "Skaetswys",
+                    "Url": "/lodestone/playguide/db/npc/npc/94ea55f15be/",
+                    "Area": "Äußeres La Noscea (X:21.8 Y:17.5)"
+                }
+            ]
+        },
+        "Seq": 26,
+        "oldID": 66856,
+        "Map": {
+            "ID": 11
+        }
+    },
+    {
+        "ID": "c441aded3ce",
+        "Name": "Delikate Würmer",
+        "Location": "Äußeres La Noscea",
+        "Level": 41,
+        "JournalSection": 4,
+        "JournalCategory": 28,
+        "JournalGenre": "\n\t\t\t\t\t\t\tNebenaufträge\n\t\t\t\t\t\t",
+        "Url": "/lodestone/playguide/db/quest/c441aded3ce/",
+        "Image": null,
+        "Icon": "common_repeat",
+        "Issuer": "Bo Zu",
+        "StartLocation": {
+            "Name": "Äußeres La Noscea",
+            "X": "21.6",
+            "Y": "17.7"
+        },
+        "StartClass": null,
+        "Job": "",
+        "Company": "Keine Angabe",
+        "Requirement": "Keine Angabe",
+        "Rewards": {
+            "Gil": 360,
+            "Exp": 8625,
+            "ItemsMand": [],
+            "ItemsOpt": []
+        },
+        "Infos": {},
+        "Seq": 6,
+        "oldID": 66862,
+        "Map": {
+            "ID": 30
+        }
+    },
+    {
+        "ID": "c86da1b2c86",
+        "Name": "Haftung ausgeschlossen",
+        "Location": "Äußeres La Noscea",
+        "Level": 48,
+        "JournalSection": 4,
+        "JournalCategory": 28,
+        "JournalGenre": "\n\t\t\t\t\t\t\tNebenaufträge\n\t\t\t\t\t\t",
+        "Url": "/lodestone/playguide/db/quest/c86da1b2c86/",
+        "Image": null,
+        "Icon": "common_repeat",
+        "Issuer": "Bo Bu",
+        "StartLocation": {
+            "Name": "Äußeres La Noscea",
+            "X": "21.7",
+            "Y": "17.9"
+        },
+        "StartClass": null,
+        "Job": "",
+        "Company": "Keine Angabe",
+        "Requirement": "Keine Angabe",
+        "Rewards": {
+            "Gil": 780,
+            "Exp": 10473,
+            "ItemsMand": [],
+            "ItemsOpt": [
+                {
+                    "Icon": "https://img.finalfantasyxiv.com/lds/pc/global/images/itemicon/59/591709d485ebd155ba018c8cd773fe3c662caed3.png?n5.5",
+                    "Name": "Frömmigkeits-Materia IV",
+                    "Amount": 1,
+                    "Url": "/lodestone/playguide/db/item/905d47601dd/"
+                },
+                {
+                    "Icon": "https://img.finalfantasyxiv.com/lds/pc/global/images/itemicon/59/591709d485ebd155ba018c8cd773fe3c662caed3.png?n5.5",
+                    "Name": "Fechtkunst-Materia IV",
+                    "Amount": 1,
+                    "Url": "/lodestone/playguide/db/item/37f25043bf3/"
+                },
+                {
+                    "Icon": "https://img.finalfantasyxiv.com/lds/pc/global/images/itemicon/60/6072436b0c90d22b6a9d7da93f356256a04be53d.png?n5.5",
+                    "Name": "Zauber-Materia IV",
+                    "Amount": 1,
+                    "Url": "/lodestone/playguide/db/item/5bbb25ff7dd/"
+                }
+            ]
+        },
+        "Infos": {
+            "PrevQuests": [
+                {
+                    "Name": "Ba Go",
+                    "Url": "/lodestone/playguide/db/npc/npc/f0e3d01eb34/",
+                    "Area": "Äußeres La Noscea (X:21.4 Y:16.5)"
+                },
+                {
+                    "Name": "Bomber-Inkubatorprototyp",
+                    "Url": "/lodestone/playguide/db/npc/npc/fca27fda286/",
+                    "Area": "Äußeres La Noscea (X:21.8 Y:10.2)"
+                }
+            ]
+        },
+        "Seq": 34,
+        "oldID": 66909,
+        "Map": {
+            "ID": 30
+        }
+    },
+    {
+        "ID": "d2792b389dd",
+        "Name": "Elitäre Stinker",
+        "Location": "Äußeres La Noscea",
+        "Level": 48,
+        "JournalSection": 4,
+        "JournalCategory": 28,
+        "JournalGenre": "\n\t\t\t\t\t\t\tNebenaufträge\n\t\t\t\t\t\t",
+        "Url": "/lodestone/playguide/db/quest/d2792b389dd/",
+        "Image": null,
+        "Icon": "common_repeat",
+        "Issuer": "Bo Bu",
+        "StartLocation": {
+            "Name": "Äußeres La Noscea",
+            "X": "21.7",
+            "Y": "17.9"
+        },
+        "StartClass": null,
+        "Job": "",
+        "Company": "Keine Angabe",
+        "Requirement": "Keine Angabe",
+        "Rewards": {
+            "Gil": 780,
+            "Exp": 10473,
+            "ItemsMand": [],
+            "ItemsOpt": [
+                {
+                    "Icon": "https://img.finalfantasyxiv.com/lds/pc/global/images/itemicon/06/06bd35b3df19cbc5d80eed3ed99c67a366c835aa.png?n5.5",
+                    "Name": "Assassinen-Materia IV",
+                    "Amount": 1,
+                    "Url": "/lodestone/playguide/db/item/1bc25f58180/"
+                },
+                {
+                    "Icon": "https://img.finalfantasyxiv.com/lds/pc/global/images/itemicon/59/591709d485ebd155ba018c8cd773fe3c662caed3.png?n5.5",
+                    "Name": "Fechtkunst-Materia IV",
+                    "Amount": 1,
+                    "Url": "/lodestone/playguide/db/item/37f25043bf3/"
+                },
+                {
+                    "Icon": "https://img.finalfantasyxiv.com/lds/pc/global/images/itemicon/60/6072436b0c90d22b6a9d7da93f356256a04be53d.png?n5.5",
+                    "Name": "Kampf-Materia IV",
+                    "Amount": 1,
+                    "Url": "/lodestone/playguide/db/item/1162b3fcc58/"
+                }
+            ]
+        },
+        "Infos": {},
+        "Seq": 25,
+        "oldID": 66901,
+        "Map": {
+            "ID": 30
+        }
+    },
+    {
+        "ID": "da42369c04e",
+        "Name": "Missratene Bomber",
+        "Location": "Äußeres La Noscea",
+        "Level": 41,
+        "JournalSection": 4,
+        "JournalCategory": 28,
+        "JournalGenre": "\n\t\t\t\t\t\t\tNebenaufträge\n\t\t\t\t\t\t",
+        "Url": "/lodestone/playguide/db/quest/da42369c04e/",
+        "Image": null,
+        "Icon": "common_repeat",
+        "Issuer": "Bo Zu",
+        "StartLocation": {
+            "Name": "Äußeres La Noscea",
+            "X": "21.6",
+            "Y": "17.7"
+        },
+        "StartClass": null,
+        "Job": "",
+        "Company": "Keine Angabe",
+        "Requirement": "Keine Angabe",
+        "Rewards": {
+            "Gil": 360,
+            "Exp": 8625,
+            "ItemsMand": [],
+            "ItemsOpt": []
+        },
+        "Infos": {},
+        "Seq": 9,
+        "oldID": 66865,
+        "Map": {
+            "ID": 30
+        }
+    },
+    {
+        "ID": "e2b8045bbba",
+        "Name": "Die Kobolde rüsten auf",
+        "Location": "Äußeres La Noscea",
+        "Level": 44,
+        "JournalSection": 4,
+        "JournalCategory": 28,
+        "JournalGenre": "\n\t\t\t\t\t\t\tHauptaufträge\n\t\t\t\t\t\t",
+        "Url": "/lodestone/playguide/db/quest/e2b8045bbba/",
+        "Image": "https://img.finalfantasyxiv.com/lds/pc/global/images/itemicon/19/19d2ecbf1d07b338996b1f86979704136f1dbd3d.png?n5.5",
+        "Icon": "function_normal",
+        "Issuer": "Gi Gu",
+        "StartLocation": {
+            "Name": "Äußeres La Noscea",
+            "X": "21.4",
+            "Y": "18.0"
+        },
+        "StartClass": null,
+        "Job": "",
+        "Company": "Keine Angabe",
+        "Requirement": "Keine Angabe",
+        "Rewards": {
+            "Gil": 729,
+            "Exp": 12190,
+            "ItemsMand": [],
+            "ItemsOpt": []
+        },
+        "Infos": {
+            "PrevQuests": [
+                {
+                    "Name": "Ein Herz für Kobolde",
+                    "Url": "/lodestone/playguide/db/quest/21e1cd0274f/",
+                    "Area": "Äußeres La Noscea",
+                    "Level": "41"
+                }
+            ],
+            "NextQuests": [
+                {
+                    "Name": "Die Schöne und der Kobold",
+                    "Url": "/lodestone/playguide/db/quest/89575c266d9/",
+                    "Area": "Äußeres La Noscea",
+                    "Level": "48"
+                }
+            ],
+            "NPCs": [
+                {
+                    "Name": "Ba Go",
+                    "Url": "/lodestone/playguide/db/npc/npc/f0e3d01eb34/",
+                    "Area": "Äußeres La Noscea (X:21.4 Y:16.5)"
+                },
+                {
+                    "Name": "Ba Go",
+                    "Url": "/lodestone/playguide/db/npc/npc/fe7f555e7d8/",
+                    "Area": "Äußeres La Noscea (X:25.9 Y:9.8)"
+                },
+                {
+                    "Name": "Ba Go",
+                    "Url": "/lodestone/playguide/db/npc/npc/f3f2d03cf0c/",
+                    "Area": "Äußeres La Noscea (X:24.4 Y:10.3)"
+                },
+                {
+                    "Name": "Ga Zi",
+                    "Url": "/lodestone/playguide/db/npc/npc/e204ce46750/",
+                    "Area": "Äußeres La Noscea (X:23.4 Y:11.4)"
+                },
+                {
+                    "Name": "Skaetswys",
+                    "Url": "/lodestone/playguide/db/npc/npc/e9803fc2b08/",
+                    "Area": "Äußeres La Noscea (X:19.6 Y:16.5)"
+                },
+                {
+                    "Name": "Verletzter Sturmmaat",
+                    "Url": "/lodestone/playguide/db/npc/npc/f10efcb0177/",
+                    "Area": "Äußeres La Noscea (X:19.6 Y:16.5)"
+                },
+                {
+                    "Name": "Verwundeter Sturmmariner",
+                    "Url": "/lodestone/playguide/db/npc/npc/2cc03ee4475/",
+                    "Area": "Äußeres La Noscea (X:19.6 Y:16.5)"
+                },
+                {
+                    "Name": "Zugerichteter Sturmmariner",
+                    "Url": "/lodestone/playguide/db/npc/npc/1cae2270186/",
+                    "Area": "Äußeres La Noscea (X:19.7 Y:16.4)"
+                }
+            ]
+        },
+        "Seq": 2,
+        "oldID": 66397,
+        "Map": {
+            "ID": 30
+        }
+    },
+    {
+        "ID": "e7cb15cd11b",
+        "Name": "Ebenso faul wie zornig",
+        "Location": "Äußeres La Noscea",
+        "Level": 44,
+        "JournalSection": 4,
+        "JournalCategory": 28,
+        "JournalGenre": "\n\t\t\t\t\t\t\tNebenaufträge\n\t\t\t\t\t\t",
+        "Url": "/lodestone/playguide/db/quest/e7cb15cd11b/",
+        "Image": null,
+        "Icon": "common_repeat",
+        "Issuer": "Bo Gu",
+        "StartLocation": {
+            "Name": "Äußeres La Noscea",
+            "X": "21.9",
+            "Y": "17.8"
+        },
+        "StartClass": null,
+        "Job": "",
+        "Company": "Keine Angabe",
+        "Requirement": "Keine Angabe",
+        "Rewards": {
+            "Gil": 540,
+            "Exp": 9142,
+            "ItemsMand": [],
+            "ItemsOpt": []
+        },
+        "Infos": {
+            "PrevQuests": [
+                {
+                    "Name": "Gi Gu",
+                    "Url": "/lodestone/playguide/db/npc/npc/13496a3d66a/",
+                    "Area": "Äußeres La Noscea (X:21.4 Y:18.0)"
+                }
+            ]
+        },
+        "Seq": 17,
+        "oldID": 66874,
+        "Map": {
+            "ID": 30
+        }
+    },
+    {
+        "ID": "ea47cd03b4e",
+        "Name": "Verwöhnte Bomber",
+        "Location": "Äußeres La Noscea",
+        "Level": 48,
+        "JournalSection": 4,
+        "JournalCategory": 28,
+        "JournalGenre": "\n\t\t\t\t\t\t\tNebenaufträge\n\t\t\t\t\t\t",
+        "Url": "/lodestone/playguide/db/quest/ea47cd03b4e/",
+        "Image": null,
+        "Icon": "common_repeat",
+        "Issuer": "Bo Bu",
+        "StartLocation": {
+            "Name": "Äußeres La Noscea",
+            "X": "21.7",
+            "Y": "17.9"
+        },
+        "StartClass": null,
+        "Job": "",
+        "Company": "Keine Angabe",
+        "Requirement": "Keine Angabe",
+        "Rewards": {
+            "Gil": 780,
+            "Exp": 10473,
+            "ItemsMand": [],
+            "ItemsOpt": [
+                {
+                    "Icon": "https://img.finalfantasyxiv.com/lds/pc/global/images/itemicon/59/591709d485ebd155ba018c8cd773fe3c662caed3.png?n5.5",
+                    "Name": "Frömmigkeits-Materia IV",
+                    "Amount": 1,
+                    "Url": "/lodestone/playguide/db/item/905d47601dd/"
+                },
+                {
+                    "Icon": "https://img.finalfantasyxiv.com/lds/pc/global/images/itemicon/06/06bd35b3df19cbc5d80eed3ed99c67a366c835aa.png?n5.5",
+                    "Name": "Hellseher-Materia IV",
+                    "Amount": 1,
+                    "Url": "/lodestone/playguide/db/item/93fe1786b70/"
+                },
+                {
+                    "Icon": "https://img.finalfantasyxiv.com/lds/pc/global/images/itemicon/60/6072436b0c90d22b6a9d7da93f356256a04be53d.png?n5.5",
+                    "Name": "Kampf-Materia IV",
+                    "Amount": 1,
+                    "Url": "/lodestone/playguide/db/item/1162b3fcc58/"
+                }
+            ]
+        },
+        "Infos": {
+            "PrevQuests": [
+                {
+                    "Name": "Ba Go",
+                    "Url": "/lodestone/playguide/db/npc/npc/f0e3d01eb34/",
+                    "Area": "Äußeres La Noscea (X:21.4 Y:16.5)"
+                }
+            ]
+        },
+        "Seq": 26,
+        "oldID": 66903,
+        "Map": {
+            "ID": 30
+        }
+    },
+    {
+        "ID": "fd75f4df07d",
+        "Name": "Explosive Vorräte",
+        "Location": "Äußeres La Noscea",
+        "Level": 41,
+        "JournalSection": 4,
+        "JournalCategory": 28,
+        "JournalGenre": "\n\t\t\t\t\t\t\tNebenaufträge\n\t\t\t\t\t\t",
+        "Url": "/lodestone/playguide/db/quest/fd75f4df07d/",
+        "Image": null,
+        "Icon": "common_repeat",
+        "Issuer": "Bo Zu",
+        "StartLocation": {
+            "Name": "Äußeres La Noscea",
+            "X": "21.6",
+            "Y": "17.7"
+        },
+        "StartClass": null,
+        "Job": "",
+        "Company": "Keine Angabe",
+        "Requirement": "Keine Angabe",
+        "Rewards": {
+            "Gil": 360,
+            "Exp": 8625,
+            "ItemsMand": [],
+            "ItemsOpt": []
+        },
+        "Infos": {
+            "PrevQuests": [
+                {
+                    "Name": "Ba Go",
+                    "Url": "/lodestone/playguide/db/npc/npc/f0e3d01eb34/",
+                    "Area": "Äußeres La Noscea (X:21.4 Y:16.5)"
+                }
+            ]
+        },
+        "Seq": 7,
+        "oldID": 66863,
+        "Map": {
+            "ID": 30
+        }
+    }
+]

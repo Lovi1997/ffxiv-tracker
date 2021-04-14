@@ -1,0 +1,419 @@
+[
+    {
+        "ID": "0c47c665c78",
+        "Name": "Fragments of Truth",
+        "Location": "The Waking Sands",
+        "Level": 50,
+        "JournalSection": 2,
+        "JournalCategory": 12,
+        "JournalGenre": "Chronicles of a New Era - Bahamut",
+        "Url": "/lodestone/playguide/db/quest/0c47c665c78/",
+        "Image": "https://img.finalfantasyxiv.com/lds/pc/global/images/itemicon/ef/eff536e86ddf0f383546f4ca474065a9423aa81e.png?n5.5",
+        "Icon": "function_normal",
+        "Issuer": "Urianger",
+        "StartLocation": {
+            "Name": "The Waking Sands",
+            "X": "6.0",
+            "Y": "4.9"
+        },
+        "StartClass": null,
+        "Job": "",
+        "Company": "Not specified",
+        "Requirement": "Not specified",
+        "Rewards": {
+            "Gil": 1018,
+            "Exp": 0,
+            "ItemsMand": [],
+            "ItemsOpt": []
+        },
+        "Infos": {
+            "PrevQuests": [
+                {
+                    "Name": "Alisaie's Resolve",
+                    "Url": "/lodestone/playguide/db/quest/8c0f312af46/",
+                    "Area": "Northern Thanalan",
+                    "Level": "50"
+                }
+            ],
+            "NextQuests": [
+                {
+                    "Name": "Alisaie's Path",
+                    "Url": "/lodestone/playguide/db/quest/540aa672655/",
+                    "Area": "Northern Thanalan",
+                    "Level": "50"
+                }
+            ],
+            "NPCs": [
+                {
+                    "Name": "Alisaie's Assistant",
+                    "Url": "/lodestone/playguide/db/npc/npc/64d655e9773/",
+                    "Area": "Eastern Thanalan (X:30.0 Y:24.9)"
+                },
+                {
+                    "Name": "Alisaie",
+                    "Url": "/lodestone/playguide/db/npc/npc/1136d776df0/",
+                    "Area": "Northern Thanalan (X:20.1 Y:17.6)"
+                },
+                {
+                    "Name": "Erkenrad",
+                    "Url": "/lodestone/playguide/db/npc/npc/fa31252b61b/",
+                    "Area": "Northern Thanalan (X:19.4 Y:20.3)"
+                },
+                {
+                    "Name": "Urianger",
+                    "Url": "/lodestone/playguide/db/npc/npc/c5335f3519d/",
+                    "Area": "Northern Thanalan (X:20.0 Y:20.4)"
+                },
+                {
+                    "Name": "Urianger",
+                    "Url": "/lodestone/playguide/db/npc/npc/7b433d764d5/",
+                    "Area": "Northern Thanalan (X:20.1 Y:17.6)"
+                },
+                {
+                    "Name": "Alisaie's Assistant",
+                    "Url": "/lodestone/playguide/db/npc/npc/076246cbbab/",
+                    "Area": "Mor Dhona (X:30.8 Y:5.8)"
+                },
+                {
+                    "Name": "Alisaie's Assistant",
+                    "Url": "/lodestone/playguide/db/npc/npc/f2031c985e8/",
+                    "Area": "Mor Dhona (X:30.8 Y:5.8)"
+                }
+            ]
+        },
+        "Seq": 4,
+        "oldID": 65579,
+        "Map": {
+            "ID": 107
+        }
+    },
+    {
+        "ID": "33b59cfa29e",
+        "Name": "Alisaie's Pledge",
+        "Location": "The Waking Sands",
+        "Level": 50,
+        "JournalSection": 2,
+        "JournalCategory": 12,
+        "JournalGenre": "Chronicles of a New Era - Bahamut",
+        "Url": "/lodestone/playguide/db/quest/33b59cfa29e/",
+        "Image": "https://img.finalfantasyxiv.com/lds/pc/global/images/itemicon/80/80a221c4e8026601e6fa4750dc52967b85b8044f.png?n5.5",
+        "Icon": "function_normal",
+        "Issuer": "Urianger",
+        "StartLocation": {
+            "Name": "The Waking Sands",
+            "X": "6.0",
+            "Y": "4.9"
+        },
+        "StartClass": null,
+        "Job": "",
+        "Company": "Not specified",
+        "Requirement": "The Binding Coil of Bahamut - Turn 5",
+        "Rewards": {
+            "Gil": 3752,
+            "Exp": 0,
+            "ItemsMand": [],
+            "ItemsOpt": []
+        },
+        "Infos": {
+            "PrevQuests": [
+                {
+                    "Name": "Primal Awakening",
+                    "Url": "/lodestone/playguide/db/quest/37c727ddab3/",
+                    "Area": "The Waking Sands",
+                    "Level": "50"
+                }
+            ],
+            "NextQuests": [
+                {
+                    "Name": "Another Turn in the Coil",
+                    "Url": "/lodestone/playguide/db/quest/d04a0280ec0/",
+                    "Area": "The Waking Sands",
+                    "Level": "50"
+                }
+            ],
+            "NPCs": [
+                {
+                    "Name": "Alisaie",
+                    "Url": "/lodestone/playguide/db/npc/npc/4d810451d0f/",
+                    "Area": "The Waking Sands (X:6.0 Y:5.0)"
+                }
+            ],
+            "RelatedAchievements": [
+                {
+                    "Name": "The Truth Is Down There",
+                    "Url": "/lodestone/playguide/db/achievement/c601ed315e6/",
+                    "Reward": "-",
+                    "Points": "10"
+                }
+            ]
+        },
+        "Seq": 1,
+        "oldID": 66696,
+        "Map": {
+            "ID": 107
+        }
+    },
+    {
+        "ID": "37c727ddab3",
+        "Name": "Primal Awakening",
+        "Location": "The Waking Sands",
+        "Level": 50,
+        "JournalSection": 2,
+        "JournalCategory": 12,
+        "JournalGenre": "Chronicles of a New Era - Bahamut",
+        "Url": "/lodestone/playguide/db/quest/37c727ddab3/",
+        "Image": "https://img.finalfantasyxiv.com/lds/pc/global/images/itemicon/f4/f4b6c4b9bf3c8aca25cfae88ade8e167702ac781.png?n5.5",
+        "Icon": "function_normal",
+        "Issuer": "Urianger",
+        "StartLocation": {
+            "Name": "The Waking Sands",
+            "X": "6.0",
+            "Y": "4.9"
+        },
+        "StartClass": null,
+        "Job": "",
+        "Company": "Not specified",
+        "Requirement": "The Navel (Hard)",
+        "Rewards": {
+            "Gil": 1659,
+            "Exp": 0,
+            "ItemsMand": [],
+            "ItemsOpt": []
+        },
+        "Infos": {
+            "PrevQuests": [
+                {
+                    "Name": "In a Titan Spot",
+                    "Url": "/lodestone/playguide/db/quest/3fe58aa572c/",
+                    "Area": "The Waking Sands",
+                    "Level": "50"
+                }
+            ],
+            "NextQuests": [
+                {
+                    "Name": "Alisaie's Pledge",
+                    "Url": "/lodestone/playguide/db/quest/33b59cfa29e/",
+                    "Area": "The Waking Sands",
+                    "Level": "50"
+                }
+            ],
+            "NPCs": [
+                {
+                    "Name": "Alisaie",
+                    "Url": "/lodestone/playguide/db/npc/npc/54af48b91ec/",
+                    "Area": "Eastern La Noscea (X:21.1 Y:21.8)"
+                },
+                {
+                    "Name": "J'brohka",
+                    "Url": "/lodestone/playguide/db/npc/npc/cbfcb7f0342/",
+                    "Area": "Eastern La Noscea (X:21.7 Y:22.3)"
+                }
+            ]
+        },
+        "Seq": 2,
+        "oldID": 66695,
+        "Map": {
+            "ID": 107
+        }
+    },
+    {
+        "ID": "540aa672655",
+        "Name": "Alisaie's Path",
+        "Location": "Northern Thanalan",
+        "Level": 50,
+        "JournalSection": 2,
+        "JournalCategory": 12,
+        "JournalGenre": "Chronicles of a New Era - Bahamut",
+        "Url": "/lodestone/playguide/db/quest/540aa672655/",
+        "Image": "https://img.finalfantasyxiv.com/lds/pc/global/images/itemicon/12/12687e9268fed8070f01937e970bf13a0d6a8429.png?n5.5",
+        "Icon": "function_normal",
+        "Issuer": "Alisaie",
+        "StartLocation": {
+            "Name": "Northern Thanalan",
+            "X": "20.2",
+            "Y": "17.3"
+        },
+        "StartClass": null,
+        "Job": "",
+        "Company": "Not specified",
+        "Requirement": "The Final Coil of Bahamut - Turn 4",
+        "Rewards": {
+            "Gil": 5000,
+            "Exp": 0,
+            "ItemsMand": [],
+            "ItemsOpt": []
+        },
+        "Infos": {
+            "PrevQuests": [
+                {
+                    "Name": "Fragments of Truth",
+                    "Url": "/lodestone/playguide/db/quest/0c47c665c78/",
+                    "Area": "The Waking Sands",
+                    "Level": "50"
+                }
+            ],
+            "NextQuests": [
+                {
+                    "Name": "Alphinaud",
+                    "Url": "/lodestone/playguide/db/npc/npc/dcf5dfcf696/",
+                    "Area": "Northern Thanalan (X:20.3 Y:17.3)"
+                },
+                {
+                    "Name": "Urianger",
+                    "Url": "/lodestone/playguide/db/npc/npc/c5335f3519d/",
+                    "Area": "Northern Thanalan (X:20.0 Y:20.4)"
+                }
+            ],
+            "NPCs": [
+                {
+                    "Name": "Uncoiled",
+                    "Url": "/lodestone/playguide/db/achievement/8d9467a18ac/",
+                    "Reward": "Title",
+                    "Points": "20"
+                }
+            ]
+        },
+        "Seq": 5,
+        "oldID": 65580,
+        "Map": {
+            "ID": 24
+        }
+    },
+    {
+        "ID": "8c0f312af46",
+        "Name": "Alisaie's Resolve",
+        "Location": "Northern Thanalan",
+        "Level": 50,
+        "JournalSection": 2,
+        "JournalCategory": 12,
+        "JournalGenre": "Chronicles of a New Era - Bahamut",
+        "Url": "/lodestone/playguide/db/quest/8c0f312af46/",
+        "Image": "https://img.finalfantasyxiv.com/lds/pc/global/images/itemicon/a7/a79cb63ce2f232357f9e1d6ffcff38e6cf4701ec.png?n5.5",
+        "Icon": "function_normal",
+        "Issuer": "Alisaie",
+        "StartLocation": {
+            "Name": "Northern Thanalan",
+            "X": "20.2",
+            "Y": "17.4"
+        },
+        "StartClass": null,
+        "Job": "",
+        "Company": "Not specified",
+        "Requirement": "The Second Coil of Bahamut - Turn 4",
+        "Rewards": {
+            "Gil": 3752,
+            "Exp": 0,
+            "ItemsMand": [],
+            "ItemsOpt": []
+        },
+        "Infos": {
+            "PrevQuests": [
+                {
+                    "Name": "Another Turn in the Coil",
+                    "Url": "/lodestone/playguide/db/quest/d04a0280ec0/",
+                    "Area": "The Waking Sands",
+                    "Level": "50"
+                }
+            ],
+            "NextQuests": [
+                {
+                    "Name": "Fragments of Truth",
+                    "Url": "/lodestone/playguide/db/quest/0c47c665c78/",
+                    "Area": "The Waking Sands",
+                    "Level": "50"
+                }
+            ],
+            "NPCs": [
+                {
+                    "Name": "Urianger",
+                    "Url": "/lodestone/playguide/db/npc/npc/f64497fe8b0/",
+                    "Area": "The Waking Sands (X:6.0 Y:4.9)"
+                }
+            ],
+            "RelatedAchievements": [
+                {
+                    "Name": "You Can Handle the Truth",
+                    "Url": "/lodestone/playguide/db/achievement/11f7fa6533a/",
+                    "Reward": "-",
+                    "Points": "20"
+                }
+            ]
+        },
+        "Seq": 3,
+        "oldID": 66850,
+        "Map": {
+            "ID": 24
+        }
+    },
+    {
+        "ID": "d04a0280ec0",
+        "Name": "Another Turn in the Coil",
+        "Location": "The Waking Sands",
+        "Level": 50,
+        "JournalSection": 2,
+        "JournalCategory": 12,
+        "JournalGenre": "Chronicles of a New Era - Bahamut",
+        "Url": "/lodestone/playguide/db/quest/d04a0280ec0/",
+        "Image": "https://img.finalfantasyxiv.com/lds/pc/global/images/itemicon/b8/b86eb70ed320e7f1b41201570bbd43b7cb5de53e.png?n5.5",
+        "Icon": "function_normal",
+        "Issuer": "Urianger",
+        "StartLocation": {
+            "Name": "The Waking Sands",
+            "X": "6.0",
+            "Y": "4.9"
+        },
+        "StartClass": null,
+        "Job": "",
+        "Company": "Not specified",
+        "Requirement": "Not specified",
+        "Rewards": {
+            "Gil": 2064,
+            "Exp": 0,
+            "ItemsMand": [],
+            "ItemsOpt": []
+        },
+        "Infos": {
+            "PrevQuests": [
+                {
+                    "Name": "Alisaie's Pledge",
+                    "Url": "/lodestone/playguide/db/quest/33b59cfa29e/",
+                    "Area": "The Waking Sands",
+                    "Level": "50"
+                }
+            ],
+            "NextQuests": [
+                {
+                    "Name": "Alisaie's Resolve",
+                    "Url": "/lodestone/playguide/db/quest/8c0f312af46/",
+                    "Area": "Northern Thanalan",
+                    "Level": "50"
+                }
+            ],
+            "NPCs": [
+                {
+                    "Name": "Anaelle",
+                    "Url": "/lodestone/playguide/db/npc/npc/3da910313ba/",
+                    "Area": "North Shroud (X:20.7 Y:27.3)"
+                },
+                {
+                    "Name": "Sharp-eyed Serpent Private",
+                    "Url": "/lodestone/playguide/db/npc/npc/07d09f2cabb/",
+                    "Area": "North Shroud (X:16.7 Y:29.9)"
+                }
+            ],
+            "RelatedAchievements": [
+                {
+                    "Name": "The Truth Is Down There",
+                    "Url": "/lodestone/playguide/db/achievement/c601ed315e6/",
+                    "Reward": "-",
+                    "Points": "10"
+                }
+            ]
+        },
+        "Seq": 2,
+        "oldID": 66849,
+        "Map": {
+            "ID": 107
+        }
+    }
+]

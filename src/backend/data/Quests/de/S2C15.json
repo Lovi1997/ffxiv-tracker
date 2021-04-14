@@ -1,0 +1,688 @@
+[
+    {
+        "ID": "40020a8a0b5",
+        "Name": "Kampfsimulation: Sephirot",
+        "Location": "Sonnenstein",
+        "Level": 60,
+        "JournalSection": 2,
+        "JournalCategory": 15,
+        "JournalGenre": "Primae (Heavensward)",
+        "Url": "/lodestone/playguide/db/quest/40020a8a0b5/",
+        "Image": "https://img.finalfantasyxiv.com/lds/pc/global/images/itemicon/f3/f3fdd0d726b2103598e8db0fad33b229f2242943.png?n5.5",
+        "Icon": "function_normal",
+        "Issuer": "Unukalhai",
+        "StartLocation": {
+            "Name": "Sonnenstein",
+            "X": "6.1",
+            "Y": "5.2"
+        },
+        "StartClass": null,
+        "Job": "",
+        "Company": "Keine Angabe",
+        "Requirement": "Keine Angabe",
+        "Rewards": {
+            "Gil": 934,
+            "Exp": 0,
+            "ItemsMand": [],
+            "ItemsOpt": []
+        },
+        "Infos": {
+            "PrevQuests": [
+                {
+                    "Name": "Eine Ikone erwacht",
+                    "Url": "/lodestone/playguide/db/quest/71fe495b79d/",
+                    "Area": "Sonnenstein",
+                    "Level": "60"
+                }
+            ],
+            "NextQuests": [
+                {
+                    "Name": "Wiedersehen auf dem ersten Splitter",
+                    "Url": "/lodestone/playguide/db/quest/f3f792f1b91/",
+                    "Area": "Crystarium",
+                    "Level": "80"
+                }
+            ],
+            "NPCs": [
+                {
+                    "Name": "Authentifizierungssystem",
+                    "Url": "/lodestone/playguide/db/npc/npc/758d22a0954/",
+                    "Area": "Azys Lla (X:25.6 Y:22.4)"
+                }
+            ]
+        },
+        "Seq": 7,
+        "oldID": 67817,
+        "Map": {
+            "ID": 136
+        }
+    },
+    {
+        "ID": "4188c7ded61",
+        "Name": "Uralte Götter",
+        "Location": "Ishgard",
+        "Level": 60,
+        "JournalSection": 2,
+        "JournalCategory": 15,
+        "JournalGenre": "Primae (Heavensward)",
+        "Url": "/lodestone/playguide/db/quest/4188c7ded61/",
+        "Image": "https://img.finalfantasyxiv.com/lds/pc/global/images/itemicon/cd/cd7151b7a638fe8a3e5c7e1a5bb1b698723335c9.png?n5.5",
+        "Icon": "function_normal",
+        "Issuer": "Torsefers",
+        "StartLocation": {
+            "Name": "Strebewerk",
+            "X": "11.7",
+            "Y": "11.6"
+        },
+        "StartClass": null,
+        "Job": "",
+        "Company": "Keine Angabe",
+        "Requirement": "Keine Angabe",
+        "Rewards": {
+            "Gil": 5000,
+            "Exp": 0,
+            "ItemsMand": [],
+            "ItemsOpt": []
+        },
+        "Infos": {
+            "PrevQuests": [
+                {
+                    "Name": "Himmelwärts",
+                    "Url": "/lodestone/playguide/db/quest/29fa56153f5/",
+                    "Area": "Azys Lla",
+                    "Level": "60"
+                }
+            ],
+            "NextQuests": [
+                {
+                    "Name": "Eine Ikone erwacht",
+                    "Url": "/lodestone/playguide/db/quest/71fe495b79d/",
+                    "Area": "Sonnenstein",
+                    "Level": "60"
+                },
+                {
+                    "Name": "Eine neue Bedrohung: Bismarck",
+                    "Url": "/lodestone/playguide/db/quest/5d671001b22/",
+                    "Area": "Sonnenstein",
+                    "Level": "60"
+                },
+                {
+                    "Name": "Eine neue Bedrohung: Ravana",
+                    "Url": "/lodestone/playguide/db/quest/fe1cf47259a/",
+                    "Area": "Sonnenstein",
+                    "Level": "60"
+                }
+            ]
+        },
+        "Seq": 1,
+        "oldID": 67650,
+        "Map": {
+            "ID": 219
+        }
+    },
+    {
+        "ID": "4ef025cf458",
+        "Name": "Irrwege der Entwicklung",
+        "Location": "Sonnenstein",
+        "Level": 60,
+        "JournalSection": 2,
+        "JournalCategory": 15,
+        "JournalGenre": "Primae (Heavensward)",
+        "Url": "/lodestone/playguide/db/quest/4ef025cf458/",
+        "Image": "https://img.finalfantasyxiv.com/lds/pc/global/images/itemicon/39/39dc5230f42f21c2419bba43879db4bd9d163bbb.png?n5.5",
+        "Icon": "function_normal",
+        "Issuer": "Unukalhai",
+        "StartLocation": {
+            "Name": "Sonnenstein",
+            "X": "6.1",
+            "Y": "5.2"
+        },
+        "StartClass": null,
+        "Job": "",
+        "Company": "Keine Angabe",
+        "Requirement": "Keine Angabe",
+        "Rewards": {
+            "Gil": 5000,
+            "Exp": 0,
+            "ItemsMand": [],
+            "ItemsOpt": []
+        },
+        "Infos": {
+            "PrevQuests": [
+                {
+                    "Name": "Ein verzweifelter Plan",
+                    "Url": "/lodestone/playguide/db/quest/599e73dcbc2/",
+                    "Area": "Sonnenstein",
+                    "Level": "60"
+                }
+            ],
+            "NextQuests": [
+                {
+                    "Name": "Kampfsimulation: Zurvan",
+                    "Url": "/lodestone/playguide/db/quest/7be61701434/",
+                    "Area": "Sonnenstein",
+                    "Level": "60"
+                }
+            ],
+            "NPCs": [
+                {
+                    "Name": "Authentifizierungssystem",
+                    "Url": "/lodestone/playguide/db/npc/npc/758d22a0954/",
+                    "Area": "Azys Lla (X:25.6 Y:22.4)"
+                },
+                {
+                    "Name": "Unukalhai",
+                    "Url": "/lodestone/playguide/db/npc/npc/d8ae16b75d6/",
+                    "Area": "Azys Lla (X:25.5 Y:22.4)"
+                },
+                {
+                    "Name": "Decurio der VI. Legion",
+                    "Url": "/lodestone/playguide/db/npc/npc/108ea48eb1e/",
+                    "Area": "Zentral-Azys Lla (X:6.3 Y:6.1)"
+                },
+                {
+                    "Name": "Krile",
+                    "Url": "/lodestone/playguide/db/npc/npc/2276bea72b0/",
+                    "Area": "Zentral-Azys Lla (X:6.2 Y:6.2)"
+                },
+                {
+                    "Name": "Krile",
+                    "Url": "/lodestone/playguide/db/npc/npc/31b28d7b525/",
+                    "Area": "Zentral-Azys Lla (X:6.1 Y:6.2)"
+                },
+                {
+                    "Name": "Soldat der VI. Legion",
+                    "Url": "/lodestone/playguide/db/npc/npc/3d891cc1743/",
+                    "Area": "Zentral-Azys Lla (X:6.3 Y:6.1)"
+                },
+                {
+                    "Name": "Unukalhai",
+                    "Url": "/lodestone/playguide/db/npc/npc/1b2605af4e3/",
+                    "Area": "Zentral-Azys Lla (X:6.0 Y:6.2)"
+                },
+                {
+                    "Name": "Urianger",
+                    "Url": "/lodestone/playguide/db/npc/npc/a0d7dd20f03/",
+                    "Area": "Zentral-Azys Lla (X:6.1 Y:6.3)"
+                },
+                {
+                    "Name": "Y'shtola",
+                    "Url": "/lodestone/playguide/db/npc/npc/0a1adefd596/",
+                    "Area": "Zentral-Azys Lla (X:6.1 Y:6.3)"
+                }
+            ]
+        },
+        "Seq": 4,
+        "oldID": 67930,
+        "Map": {
+            "ID": 136
+        }
+    },
+    {
+        "ID": "599e73dcbc2",
+        "Name": "Ein verzweifelter Plan",
+        "Location": "Sonnenstein",
+        "Level": 60,
+        "JournalSection": 2,
+        "JournalCategory": 15,
+        "JournalGenre": "Primae (Heavensward)",
+        "Url": "/lodestone/playguide/db/quest/599e73dcbc2/",
+        "Image": "https://img.finalfantasyxiv.com/lds/pc/global/images/itemicon/1f/1f77e7b1196d08743b1806f91cf7d89f324f430a.png?n5.5",
+        "Icon": "function_normal",
+        "Issuer": "Unukalhai",
+        "StartLocation": {
+            "Name": "Sonnenstein",
+            "X": "6.1",
+            "Y": "5.2"
+        },
+        "StartClass": null,
+        "Job": "",
+        "Company": "Keine Angabe",
+        "Requirement": "Keine Angabe",
+        "Rewards": {
+            "Gil": 5000,
+            "Exp": 0,
+            "ItemsMand": [],
+            "ItemsOpt": []
+        },
+        "Infos": {
+            "PrevQuests": [
+                {
+                    "Name": "Siegelbrecher",
+                    "Url": "/lodestone/playguide/db/quest/7271488252e/",
+                    "Area": "Sonnenstein",
+                    "Level": "60"
+                }
+            ],
+            "NextQuests": [
+                {
+                    "Name": "Irrwege der Entwicklung",
+                    "Url": "/lodestone/playguide/db/quest/4ef025cf458/",
+                    "Area": "Sonnenstein",
+                    "Level": "60"
+                },
+                {
+                    "Name": "Kampfsimulation: Sophia",
+                    "Url": "/lodestone/playguide/db/quest/fb6d1706a94/",
+                    "Area": "Sonnenstein",
+                    "Level": "60"
+                }
+            ],
+            "NPCs": [
+                {
+                    "Name": "Unukalhai",
+                    "Url": "/lodestone/playguide/db/npc/npc/5e736a08c7b/",
+                    "Area": "Azys Lla (X:26.7 Y:22.6)"
+                }
+            ]
+        },
+        "Seq": 3,
+        "oldID": 67868,
+        "Map": {
+            "ID": 136
+        }
+    },
+    {
+        "ID": "5d671001b22",
+        "Name": "Eine neue Bedrohung: Bismarck",
+        "Location": "Sonnenstein",
+        "Level": 60,
+        "JournalSection": 2,
+        "JournalCategory": 15,
+        "JournalGenre": "Primae (Heavensward)",
+        "Url": "/lodestone/playguide/db/quest/5d671001b22/",
+        "Image": "https://img.finalfantasyxiv.com/lds/pc/global/images/itemicon/d4/d4e1086911e97cd7fd9255fb9c500d69f103bec9.png?n5.5",
+        "Icon": "function_normal",
+        "Issuer": "Unukalhai",
+        "StartLocation": {
+            "Name": "Sonnenstein",
+            "X": "6.1",
+            "Y": "5.2"
+        },
+        "StartClass": null,
+        "Job": "",
+        "Company": "Keine Angabe",
+        "Requirement": "Keine Angabe",
+        "Rewards": {
+            "Gil": 5000,
+            "Exp": 0,
+            "ItemsMand": [],
+            "ItemsOpt": []
+        },
+        "Infos": {
+            "PrevQuests": [
+                {
+                    "Name": "Himmelwärts",
+                    "Url": "/lodestone/playguide/db/quest/29fa56153f5/",
+                    "Area": "Azys Lla",
+                    "Level": "60"
+                },
+                {
+                    "Name": "Uralte Götter",
+                    "Url": "/lodestone/playguide/db/quest/4188c7ded61/",
+                    "Area": "Ishgard",
+                    "Level": "60"
+                }
+            ],
+            "NextQuests": [
+                {
+                    "Name": "Wiedersehen auf dem ersten Splitter",
+                    "Url": "/lodestone/playguide/db/quest/f3f792f1b91/",
+                    "Area": "Crystarium",
+                    "Level": "80"
+                }
+            ],
+            "NPCs": [
+                {
+                    "Name": "Cid",
+                    "Url": "/lodestone/playguide/db/npc/npc/6378e03118e/",
+                    "Area": "Abalathisches Wolkenmeer (X:6.3 Y:25.7)"
+                },
+                {
+                    "Name": "Sonu Vanu",
+                    "Url": "/lodestone/playguide/db/npc/npc/86fa51a3d8e/",
+                    "Area": "Abalathisches Wolkenmeer (X:11.7 Y:14.8)"
+                }
+            ],
+            "RelatedAchievements": [
+                {
+                    "Name": "Kriegstriade, ich hör dir trapsen",
+                    "Url": "/lodestone/playguide/db/achievement/4fa0131f0f6/",
+                    "Reward": "Titel",
+                    "Points": "10"
+                }
+            ]
+        },
+        "Seq": 5,
+        "oldID": 67651,
+        "Map": {
+            "ID": 136
+        }
+    },
+    {
+        "ID": "71fe495b79d",
+        "Name": "Eine Ikone erwacht",
+        "Location": "Sonnenstein",
+        "Level": 60,
+        "JournalSection": 2,
+        "JournalCategory": 15,
+        "JournalGenre": "Primae (Heavensward)",
+        "Url": "/lodestone/playguide/db/quest/71fe495b79d/",
+        "Image": "https://img.finalfantasyxiv.com/lds/pc/global/images/itemicon/3a/3aa4f907910565763bf64dc8aabcbc249c2378f2.png?n5.5",
+        "Icon": "function_normal",
+        "Issuer": "Unukalhai",
+        "StartLocation": {
+            "Name": "Sonnenstein",
+            "X": "6.1",
+            "Y": "5.2"
+        },
+        "StartClass": null,
+        "Job": "",
+        "Company": "Keine Angabe",
+        "Requirement": "Keine Angabe",
+        "Rewards": {
+            "Gil": 3722,
+            "Exp": 0,
+            "ItemsMand": [],
+            "ItemsOpt": []
+        },
+        "Infos": {
+            "PrevQuests": [
+                {
+                    "Name": "Licht und Dunkel",
+                    "Url": "/lodestone/playguide/db/quest/02f039d7119/",
+                    "Area": "Ishgard",
+                    "Level": "60"
+                },
+                {
+                    "Name": "Uralte Götter",
+                    "Url": "/lodestone/playguide/db/quest/4188c7ded61/",
+                    "Area": "Ishgard",
+                    "Level": "60"
+                }
+            ],
+            "NextQuests": [
+                {
+                    "Name": "Siegelbrecher",
+                    "Url": "/lodestone/playguide/db/quest/7271488252e/",
+                    "Area": "Sonnenstein",
+                    "Level": "60"
+                },
+                {
+                    "Name": "Kampfsimulation: Sephirot",
+                    "Url": "/lodestone/playguide/db/quest/40020a8a0b5/",
+                    "Area": "Sonnenstein",
+                    "Level": "60"
+                }
+            ],
+            "NPCs": [
+                {
+                    "Name": "Authentifizierungssystem",
+                    "Url": "/lodestone/playguide/db/npc/npc/758d22a0954/",
+                    "Area": "Azys Lla (X:25.6 Y:22.4)"
+                },
+                {
+                    "Name": "Unukalhai",
+                    "Url": "/lodestone/playguide/db/npc/npc/091f01f305d/",
+                    "Area": "Azys Lla (X:26.7 Y:22.4)"
+                }
+            ]
+        },
+        "Seq": 1,
+        "oldID": 67766,
+        "Map": {
+            "ID": 136
+        }
+    },
+    {
+        "ID": "7271488252e",
+        "Name": "Siegelbrecher",
+        "Location": "Sonnenstein",
+        "Level": 60,
+        "JournalSection": 2,
+        "JournalCategory": 15,
+        "JournalGenre": "Primae (Heavensward)",
+        "Url": "/lodestone/playguide/db/quest/7271488252e/",
+        "Image": "https://img.finalfantasyxiv.com/lds/pc/global/images/itemicon/90/90acbafdf95a6be15d9ed5d2f6326136bc5e67aa.png?n5.5",
+        "Icon": "function_normal",
+        "Issuer": "Unukalhai",
+        "StartLocation": {
+            "Name": "Sonnenstein",
+            "X": "6.1",
+            "Y": "5.2"
+        },
+        "StartClass": null,
+        "Job": "",
+        "Company": "Keine Angabe",
+        "Requirement": "Keine Angabe",
+        "Rewards": {
+            "Gil": 1935,
+            "Exp": 0,
+            "ItemsMand": [],
+            "ItemsOpt": []
+        },
+        "Infos": {
+            "PrevQuests": [
+                {
+                    "Name": "Eine Ikone erwacht",
+                    "Url": "/lodestone/playguide/db/quest/71fe495b79d/",
+                    "Area": "Sonnenstein",
+                    "Level": "60"
+                }
+            ],
+            "NextQuests": [
+                {
+                    "Name": "Ein verzweifelter Plan",
+                    "Url": "/lodestone/playguide/db/quest/599e73dcbc2/",
+                    "Area": "Sonnenstein",
+                    "Level": "60"
+                }
+            ],
+            "NPCs": [
+                {
+                    "Name": "Unukalhai",
+                    "Url": "/lodestone/playguide/db/npc/npc/d30486a8c26/",
+                    "Area": "Azys Lla (X:21.3 Y:22.6)"
+                },
+                {
+                    "Name": "Unukalhai",
+                    "Url": "/lodestone/playguide/db/npc/npc/c842800e8ae/",
+                    "Area": "Azys Lla (X:21.2 Y:22.6)"
+                }
+            ]
+        },
+        "Seq": 2,
+        "oldID": 67824,
+        "Map": {
+            "ID": 136
+        }
+    },
+    {
+        "ID": "7be61701434",
+        "Name": "Kampfsimulation: Zurvan",
+        "Location": "Sonnenstein",
+        "Level": 60,
+        "JournalSection": 2,
+        "JournalCategory": 15,
+        "JournalGenre": "Primae (Heavensward)",
+        "Url": "/lodestone/playguide/db/quest/7be61701434/",
+        "Image": "https://img.finalfantasyxiv.com/lds/pc/global/images/itemicon/86/86457584b68e8c8354ca75b8c6ef22d6249e7035.png?n5.5",
+        "Icon": "function_normal",
+        "Issuer": "Unukalhai",
+        "StartLocation": {
+            "Name": "Sonnenstein",
+            "X": "6.1",
+            "Y": "5.2"
+        },
+        "StartClass": null,
+        "Job": "",
+        "Company": "Keine Angabe",
+        "Requirement": "Keine Angabe",
+        "Rewards": {
+            "Gil": 934,
+            "Exp": 0,
+            "ItemsMand": [],
+            "ItemsOpt": []
+        },
+        "Infos": {
+            "PrevQuests": [
+                {
+                    "Name": "Irrwege der Entwicklung",
+                    "Url": "/lodestone/playguide/db/quest/4ef025cf458/",
+                    "Area": "Sonnenstein",
+                    "Level": "60"
+                }
+            ],
+            "NextQuests": [
+                {
+                    "Name": "Wiedersehen auf dem ersten Splitter",
+                    "Url": "/lodestone/playguide/db/quest/f3f792f1b91/",
+                    "Area": "Crystarium",
+                    "Level": "80"
+                }
+            ],
+            "NPCs": [
+                {
+                    "Name": "Authentifizierungssystem",
+                    "Url": "/lodestone/playguide/db/npc/npc/758d22a0954/",
+                    "Area": "Azys Lla (X:25.6 Y:22.4)"
+                }
+            ]
+        },
+        "Seq": 9,
+        "oldID": 67931,
+        "Map": {
+            "ID": 136
+        }
+    },
+    {
+        "ID": "fb6d1706a94",
+        "Name": "Kampfsimulation: Sophia",
+        "Location": "Sonnenstein",
+        "Level": 60,
+        "JournalSection": 2,
+        "JournalCategory": 15,
+        "JournalGenre": "Primae (Heavensward)",
+        "Url": "/lodestone/playguide/db/quest/fb6d1706a94/",
+        "Image": "https://img.finalfantasyxiv.com/lds/pc/global/images/itemicon/c2/c292c93da52d530f99438b782c7f2f3f6762975a.png?n5.5",
+        "Icon": "function_normal",
+        "Issuer": "Unukalhai",
+        "StartLocation": {
+            "Name": "Sonnenstein",
+            "X": "6.1",
+            "Y": "5.2"
+        },
+        "StartClass": null,
+        "Job": "",
+        "Company": "Keine Angabe",
+        "Requirement": "Keine Angabe",
+        "Rewards": {
+            "Gil": 934,
+            "Exp": 0,
+            "ItemsMand": [],
+            "ItemsOpt": []
+        },
+        "Infos": {
+            "PrevQuests": [
+                {
+                    "Name": "Ein verzweifelter Plan",
+                    "Url": "/lodestone/playguide/db/quest/599e73dcbc2/",
+                    "Area": "Sonnenstein",
+                    "Level": "60"
+                }
+            ],
+            "NextQuests": [
+                {
+                    "Name": "Wiedersehen auf dem ersten Splitter",
+                    "Url": "/lodestone/playguide/db/quest/f3f792f1b91/",
+                    "Area": "Crystarium",
+                    "Level": "80"
+                }
+            ],
+            "NPCs": [
+                {
+                    "Name": "Authentifizierungssystem",
+                    "Url": "/lodestone/playguide/db/npc/npc/758d22a0954/",
+                    "Area": "Azys Lla (X:25.6 Y:22.4)"
+                }
+            ]
+        },
+        "Seq": 8,
+        "oldID": 67869,
+        "Map": {
+            "ID": 136
+        }
+    },
+    {
+        "ID": "fe1cf47259a",
+        "Name": "Eine neue Bedrohung: Ravana",
+        "Location": "Sonnenstein",
+        "Level": 60,
+        "JournalSection": 2,
+        "JournalCategory": 15,
+        "JournalGenre": "Primae (Heavensward)",
+        "Url": "/lodestone/playguide/db/quest/fe1cf47259a/",
+        "Image": "https://img.finalfantasyxiv.com/lds/pc/global/images/itemicon/7c/7cb11f04a84be46de4fab2bd8fe91e2bd507065e.png?n5.5",
+        "Icon": "function_normal",
+        "Issuer": "Unukalhai",
+        "StartLocation": {
+            "Name": "Sonnenstein",
+            "X": "6.1",
+            "Y": "5.2"
+        },
+        "StartClass": null,
+        "Job": "",
+        "Company": "Keine Angabe",
+        "Requirement": "Keine Angabe",
+        "Rewards": {
+            "Gil": 5000,
+            "Exp": 0,
+            "ItemsMand": [],
+            "ItemsOpt": []
+        },
+        "Infos": {
+            "PrevQuests": [
+                {
+                    "Name": "Himmelwärts",
+                    "Url": "/lodestone/playguide/db/quest/29fa56153f5/",
+                    "Area": "Azys Lla",
+                    "Level": "60"
+                },
+                {
+                    "Name": "Uralte Götter",
+                    "Url": "/lodestone/playguide/db/quest/4188c7ded61/",
+                    "Area": "Ishgard",
+                    "Level": "60"
+                }
+            ],
+            "NextQuests": [
+                {
+                    "Name": "Wiedersehen auf dem ersten Splitter",
+                    "Url": "/lodestone/playguide/db/quest/f3f792f1b91/",
+                    "Area": "Crystarium",
+                    "Level": "80"
+                }
+            ],
+            "NPCs": [
+                {
+                    "Name": "Erzähler",
+                    "Url": "/lodestone/playguide/db/npc/npc/41a0c5ab8cb/",
+                    "Area": "Dravanisches Vorland (X:24.0 Y:19.7)"
+                }
+            ],
+            "RelatedAchievements": [
+                {
+                    "Name": "Kriegstriade, ich hör dir trapsen",
+                    "Url": "/lodestone/playguide/db/achievement/4fa0131f0f6/",
+                    "Reward": "Titel",
+                    "Points": "10"
+                }
+            ]
+        },
+        "Seq": 6,
+        "oldID": 67652,
+        "Map": {
+            "ID": 136
+        }
+    }
+]

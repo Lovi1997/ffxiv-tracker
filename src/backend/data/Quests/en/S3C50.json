@@ -1,0 +1,3108 @@
+[
+    {
+        "ID": "08e324039cc",
+        "Name": " Imperative Repairs",
+        "Location": "Lakeland",
+        "Level": 70,
+        "JournalSection": 3,
+        "JournalCategory": 50,
+        "JournalGenre": "Lakeland Sidequests",
+        "Url": "/lodestone/playguide/db/quest/08e324039cc/",
+        "Image": null,
+        "Icon": "function_normal",
+        "Issuer": "Seanard",
+        "StartLocation": {
+            "Name": "Lakeland",
+            "X": "6.1",
+            "Y": "15.3"
+        },
+        "StartClass": null,
+        "Job": "",
+        "Company": "Not specified",
+        "Requirement": "Not specified",
+        "Rewards": {
+            "Gil": 606,
+            "Exp": null,
+            "ItemsMand": [
+                {
+                    "Icon": "https://img.finalfantasyxiv.com/lds/pc/global/images/itemicon/af/af26e4b79fb1de83550f6ddbd3a170408fcfe702.png?n5.5",
+                    "Name": "",
+                    "Amount": null
+                }
+            ],
+            "ItemsOpt": []
+        },
+        "Infos": {
+            "PrevQuests": [
+                {
+                    "Name": "Logistics of War",
+                    "Url": "/lodestone/playguide/db/quest/6d27cdc6eaf/",
+                    "Area": "The Crystarium",
+                    "Level": "72"
+                }
+            ]
+        },
+        "Seq": 3,
+        "oldID": 68920,
+        "Map": {
+            "ID": 491
+        }
+    },
+    {
+        "ID": "09bfe165eab",
+        "Name": " You Had One Jobb",
+        "Location": "Lakeland",
+        "Level": 70,
+        "JournalSection": 3,
+        "JournalCategory": 50,
+        "JournalGenre": "Lakeland Sidequests",
+        "Url": "/lodestone/playguide/db/quest/09bfe165eab/",
+        "Image": null,
+        "Icon": "common_normal",
+        "Issuer": "Ungainly Guardsman",
+        "StartLocation": {
+            "Name": "Lakeland",
+            "X": "36.1",
+            "Y": "19.7"
+        },
+        "StartClass": null,
+        "Job": "",
+        "Company": "Not specified",
+        "Requirement": "Not specified",
+        "Rewards": {
+            "Gil": 706,
+            "Exp": null,
+            "ItemsMand": [],
+            "ItemsOpt": []
+        },
+        "Infos": {
+            "PrevQuests": [
+                {
+                    "Name": "A Party Soon Divided",
+                    "Url": "/lodestone/playguide/db/quest/38280c82578/",
+                    "Area": "The Crystarium",
+                    "Level": "74"
+                }
+            ]
+        },
+        "Seq": 12,
+        "oldID": 68972,
+        "Map": {
+            "ID": 491
+        }
+    },
+    {
+        "ID": "09f9ddcbbb9",
+        "Name": " The Astute Amaro",
+        "Location": "Lakeland",
+        "Level": 70,
+        "JournalSection": 3,
+        "JournalCategory": 50,
+        "JournalGenre": "Lakeland Sidequests",
+        "Url": "/lodestone/playguide/db/quest/09f9ddcbbb9/",
+        "Image": null,
+        "Icon": "function_normal",
+        "Issuer": "Sentry Captain",
+        "StartLocation": {
+            "Name": "Lakeland",
+            "X": "8.0",
+            "Y": "17.0"
+        },
+        "StartClass": null,
+        "Job": "",
+        "Company": "Not specified",
+        "Requirement": "Not specified",
+        "Rewards": {
+            "Gil": 956,
+            "Exp": null,
+            "ItemsMand": [
+                {
+                    "Icon": "https://img.finalfantasyxiv.com/lds/pc/global/images/itemicon/af/af26e4b79fb1de83550f6ddbd3a170408fcfe702.png?n5.5",
+                    "Name": "",
+                    "Amount": null
+                }
+            ],
+            "ItemsOpt": []
+        },
+        "Infos": {
+            "PrevQuests": [
+                {
+                    "Name": "Logistics of War",
+                    "Url": "/lodestone/playguide/db/quest/6d27cdc6eaf/",
+                    "Area": "The Crystarium",
+                    "Level": "72"
+                }
+            ],
+            "NextQuests": [
+                {
+                    "Name": "Sentry",
+                    "Url": "/lodestone/playguide/db/npc/npc/3d454b9fdbb/",
+                    "Area": "Lakeland (X:12.1 Y:23.0)"
+                },
+                {
+                    "Name": "Sentry Amaro",
+                    "Url": "/lodestone/playguide/db/npc/npc/113b6475be1/",
+                    "Area": "Lakeland (X:12.9 Y:19.0)"
+                },
+                {
+                    "Name": "Sentry Amaro",
+                    "Url": "/lodestone/playguide/db/npc/npc/b1bf8b93137/",
+                    "Area": "Lakeland (X:12.2 Y:23.0)"
+                }
+            ]
+        },
+        "Seq": 4,
+        "oldID": 68921,
+        "Map": {
+            "ID": 491
+        }
+    },
+    {
+        "ID": "0ddc30443f1",
+        "Name": " Welcome to the Future",
+        "Location": "The Crystarium",
+        "Level": 70,
+        "JournalSection": 3,
+        "JournalCategory": 50,
+        "JournalGenre": "Lakeland Sidequests",
+        "Url": "/lodestone/playguide/db/quest/0ddc30443f1/",
+        "Image": null,
+        "Icon": "common_normal",
+        "Issuer": "Flustered Father-to-be",
+        "StartLocation": {
+            "Name": "The Crystarium",
+            "X": "11.9",
+            "Y": "14.2"
+        },
+        "StartClass": null,
+        "Job": "",
+        "Company": "Not specified",
+        "Requirement": "Not specified",
+        "Rewards": {
+            "Gil": 679,
+            "Exp": null,
+            "ItemsMand": [],
+            "ItemsOpt": []
+        },
+        "Infos": {
+            "PrevQuests": [
+                {
+                    "Name": "The Unbroken Thread",
+                    "Url": "/lodestone/playguide/db/quest/1e755cf4af3/",
+                    "Area": "Lakeland",
+                    "Level": "79"
+                }
+            ],
+            "NextQuests": [
+                {
+                    "Name": "Flustered Father",
+                    "Url": "/lodestone/playguide/db/npc/npc/2361fff9e24/",
+                    "Area": "The Crystarium (X:12.5 Y:14.2)"
+                },
+                {
+                    "Name": "Flustered Father",
+                    "Url": "/lodestone/playguide/db/npc/npc/2010b1b72de/",
+                    "Area": "The Crystarium (X:12.6 Y:14.0)"
+                },
+                {
+                    "Name": "Matronly Midwife",
+                    "Url": "/lodestone/playguide/db/npc/npc/67205f83295/",
+                    "Area": "The Crystarium (X:12.5 Y:14.2)"
+                },
+                {
+                    "Name": "Mellow Mother",
+                    "Url": "/lodestone/playguide/db/npc/npc/8a86488b628/",
+                    "Area": "The Crystarium (X:12.5 Y:14.2)"
+                }
+            ]
+        },
+        "Seq": 40,
+        "oldID": 69102,
+        "Map": {
+            "ID": 497
+        }
+    },
+    {
+        "ID": "130bf16028a",
+        "Name": " Inglourious Bath Stewards",
+        "Location": "Lakeland",
+        "Level": 70,
+        "JournalSection": 3,
+        "JournalCategory": 50,
+        "JournalGenre": "Lakeland Sidequests",
+        "Url": "/lodestone/playguide/db/quest/130bf16028a/",
+        "Image": null,
+        "Icon": "common_normal",
+        "Issuer": "Sue-Lewq",
+        "StartLocation": {
+            "Name": "Lakeland",
+            "X": "8.3",
+            "Y": "18.6"
+        },
+        "StartClass": null,
+        "Job": "",
+        "Company": "Not specified",
+        "Requirement": "Not specified",
+        "Rewards": {
+            "Gil": 956,
+            "Exp": null,
+            "ItemsMand": [
+                {
+                    "Icon": "https://img.finalfantasyxiv.com/lds/pc/global/images/itemicon/30/30b5f35d0481a6e2c068d1c0488a0aa9de0d5d13.png?n5.5",
+                    "Name": "Deepgold Bracelet Coffer",
+                    "Amount": 1,
+                    "Url": "/lodestone/playguide/db/item/c3607d4b4d6/"
+                }
+            ],
+            "ItemsOpt": []
+        },
+        "Infos": {
+            "PrevQuests": [
+                {
+                    "Name": "Logistics of War",
+                    "Url": "/lodestone/playguide/db/quest/6d27cdc6eaf/",
+                    "Area": "The Crystarium",
+                    "Level": "72"
+                }
+            ],
+            "NextQuests": [
+                {
+                    "Name": "Boisterous Bather",
+                    "Url": "/lodestone/playguide/db/npc/npc/5ac1864327e/",
+                    "Area": "Lakeland (X:14.0 Y:7.3)"
+                },
+                {
+                    "Name": "Bosta-Bea",
+                    "Url": "/lodestone/playguide/db/npc/npc/c3a2a25fda7/",
+                    "Area": "Lakeland (X:14.9 Y:7.8)"
+                },
+                {
+                    "Name": "Imposing Bather",
+                    "Url": "/lodestone/playguide/db/npc/npc/ac0bbd936e1/",
+                    "Area": "Lakeland (X:13.7 Y:8.2)"
+                }
+            ]
+        },
+        "Seq": 10,
+        "oldID": 68927,
+        "Map": {
+            "ID": 491
+        }
+    },
+    {
+        "ID": "1b95adabe01",
+        "Name": "How Do You Like Three Nuts",
+        "Location": "The Crystarium",
+        "Level": 76,
+        "JournalSection": 3,
+        "JournalCategory": 50,
+        "JournalGenre": "Lakeland Sidequests",
+        "Url": "/lodestone/playguide/db/quest/1b95adabe01/",
+        "Image": null,
+        "Icon": "function_normal",
+        "Issuer": "Halldor",
+        "StartLocation": {
+            "Name": "The Crystarium",
+            "X": "9.5",
+            "Y": "9.3"
+        },
+        "StartClass": null,
+        "Job": "",
+        "Company": "Not specified",
+        "Requirement": "Not specified",
+        "Rewards": {
+            "Gil": 559,
+            "Exp": 350000,
+            "ItemsMand": [],
+            "ItemsOpt": []
+        },
+        "Infos": {
+            "PrevQuests": [
+                {
+                    "Name": "Two Nuts Too Nutty",
+                    "Url": "/lodestone/playguide/db/quest/293910d3727/",
+                    "Area": "The Crystarium",
+                    "Level": "73"
+                }
+            ],
+            "NextQuests": [
+                {
+                    "Name": "Too Many Nutters",
+                    "Url": "/lodestone/playguide/db/quest/cede22e065d/",
+                    "Area": "The Crystarium",
+                    "Level": "80"
+                }
+            ],
+            "NPCs": [
+                {
+                    "Name": "Xylle",
+                    "Url": "/lodestone/playguide/db/shop/4126551651a/",
+                    "Area": "The Crystarium (X:9.4 Y:9.5)"
+                }
+            ]
+        },
+        "Seq": 45,
+        "oldID": 69135,
+        "Map": {
+            "ID": 497
+        }
+    },
+    {
+        "ID": "20945fcda62",
+        "Name": " Simple Gifts",
+        "Location": "The Crystarium",
+        "Level": 70,
+        "JournalSection": 3,
+        "JournalCategory": 50,
+        "JournalGenre": "Lakeland Sidequests",
+        "Url": "/lodestone/playguide/db/quest/20945fcda62/",
+        "Image": null,
+        "Icon": "common_normal",
+        "Issuer": "Irill",
+        "StartLocation": {
+            "Name": "The Crystarium",
+            "X": "12.8",
+            "Y": "8.1"
+        },
+        "StartClass": null,
+        "Job": "",
+        "Company": "Not specified",
+        "Requirement": "Not specified",
+        "Rewards": {
+            "Gil": 606,
+            "Exp": null,
+            "ItemsMand": [
+                {
+                    "Icon": "https://img.finalfantasyxiv.com/lds/pc/global/images/itemicon/30/30b5f35d0481a6e2c068d1c0488a0aa9de0d5d13.png?n5.5",
+                    "Name": "High Mythril Bracelet Coffer",
+                    "Amount": 1,
+                    "Url": "/lodestone/playguide/db/item/c89a129ebb8/"
+                },
+                {
+                    "Icon": "https://img.finalfantasyxiv.com/lds/pc/global/images/itemicon/a3/a3338de4d76f7bc287266918f682238d2d698d3d.png?n5.5",
+                    "Name": "Mist Spinach Saute",
+                    "Amount": 2,
+                    "Url": "/lodestone/playguide/db/item/ff887b25579/"
+                },
+                {
+                    "Icon": "https://img.finalfantasyxiv.com/lds/pc/global/images/itemicon/1a/1a667017e3e2bb679c546fdc0a40273b4b0d4281.png?n5.5",
+                    "Name": "Lemonade",
+                    "Amount": 2,
+                    "Url": "/lodestone/playguide/db/item/8055bb19c73/"
+                }
+            ],
+            "ItemsOpt": []
+        },
+        "Infos": {
+            "PrevQuests": [
+                {
+                    "Name": "The Unbroken Thread",
+                    "Url": "/lodestone/playguide/db/quest/1e755cf4af3/",
+                    "Area": "Lakeland",
+                    "Level": "79"
+                }
+            ],
+            "NextQuests": [
+                {
+                    "Name": "Botany Instructor",
+                    "Url": "/lodestone/playguide/db/npc/npc/a54cdd7b11c/",
+                    "Area": "The Crystarium (X:12.8 Y:15.0)"
+                },
+                {
+                    "Name": "Julstan",
+                    "Url": "/lodestone/playguide/db/npc/npc/7de82853237/",
+                    "Area": "The Crystarium (X:9.7 Y:14.6)"
+                },
+                {
+                    "Name": "Tobyl",
+                    "Url": "/lodestone/playguide/db/npc/npc/c5120fd304d/",
+                    "Area": "The Crystarium (X:7.8 Y:13.1)"
+                }
+            ]
+        },
+        "Seq": 38,
+        "oldID": 69100,
+        "Map": {
+            "ID": 497
+        }
+    },
+    {
+        "ID": "263c21fd6b4",
+        "Name": " A Cry for Help",
+        "Location": "The Crystarium",
+        "Level": 70,
+        "JournalSection": 3,
+        "JournalCategory": 50,
+        "JournalGenre": "Lakeland Sidequests",
+        "Url": "/lodestone/playguide/db/quest/263c21fd6b4/",
+        "Image": null,
+        "Icon": "common_normal",
+        "Issuer": "Billfort",
+        "StartLocation": {
+            "Name": "The Crystarium",
+            "X": "13.3",
+            "Y": "8.3"
+        },
+        "StartClass": null,
+        "Job": "",
+        "Company": "Not specified",
+        "Requirement": "Not specified",
+        "Rewards": {
+            "Gil": 752,
+            "Exp": null,
+            "ItemsMand": [],
+            "ItemsOpt": []
+        },
+        "Infos": {
+            "PrevQuests": [
+                {
+                    "Name": "Travelers of Norvrandt",
+                    "Url": "/lodestone/playguide/db/quest/50180402087/",
+                    "Area": "The Crystarium",
+                    "Level": "70"
+                }
+            ],
+            "NextQuests": [
+                {
+                    "Name": "Fae-Hann",
+                    "Url": "/lodestone/playguide/db/npc/npc/b1f050aa46c/",
+                    "Area": "The Crystarium (X:10.4 Y:10.0)"
+                },
+                {
+                    "Name": "Leinneil",
+                    "Url": "/lodestone/playguide/db/npc/npc/e421663ffb6/",
+                    "Area": "The Crystarium (X:8.8 Y:7.6)"
+                },
+                {
+                    "Name": "Rapt Researcher",
+                    "Url": "/lodestone/playguide/db/npc/npc/beb7f97fe32/",
+                    "Area": "The Crystarium (X:7.8 Y:7.0)"
+                }
+            ]
+        },
+        "Seq": 29,
+        "oldID": 68879,
+        "Map": {
+            "ID": 497
+        }
+    },
+    {
+        "ID": "27114731c82",
+        "Name": " A Fitting Challenge",
+        "Location": "The Crystarium",
+        "Level": 70,
+        "JournalSection": 3,
+        "JournalCategory": 50,
+        "JournalGenre": "Lakeland Sidequests",
+        "Url": "/lodestone/playguide/db/quest/27114731c82/",
+        "Image": null,
+        "Icon": "common_normal",
+        "Issuer": "Astute Artisan",
+        "StartLocation": {
+            "Name": "The Crystarium",
+            "X": "12.2",
+            "Y": "9.0"
+        },
+        "StartClass": null,
+        "Job": "",
+        "Company": "Not specified",
+        "Requirement": "Not specified",
+        "Rewards": {
+            "Gil": 679,
+            "Exp": null,
+            "ItemsMand": [
+                {
+                    "Icon": "https://img.finalfantasyxiv.com/lds/pc/global/images/itemicon/30/30b5f35d0481a6e2c068d1c0488a0aa9de0d5d13.png?n5.5",
+                    "Name": "White Oak Bracelet Coffer",
+                    "Amount": 1,
+                    "Url": "/lodestone/playguide/db/item/e74e0e67e09/"
+                }
+            ],
+            "ItemsOpt": []
+        },
+        "Infos": {
+            "PrevQuests": [
+                {
+                    "Name": "Travelers of Norvrandt",
+                    "Url": "/lodestone/playguide/db/quest/50180402087/",
+                    "Area": "The Crystarium",
+                    "Level": "70"
+                }
+            ]
+        },
+        "Seq": 34,
+        "oldID": 68884,
+        "Map": {
+            "ID": 497
+        }
+    },
+    {
+        "ID": "274fdf6fab6",
+        "Name": " The Poet Doesn't Know It",
+        "Location": "The Crystarium",
+        "Level": 70,
+        "JournalSection": 3,
+        "JournalCategory": 50,
+        "JournalGenre": "Lakeland Sidequests",
+        "Url": "/lodestone/playguide/db/quest/274fdf6fab6/",
+        "Image": null,
+        "Icon": "common_normal",
+        "Issuer": "Prospective Poet",
+        "StartLocation": {
+            "Name": "The Crystarium",
+            "X": "12.4",
+            "Y": "8.9"
+        },
+        "StartClass": null,
+        "Job": "",
+        "Company": "Not specified",
+        "Requirement": "Not specified",
+        "Rewards": {
+            "Gil": 679,
+            "Exp": null,
+            "ItemsMand": [],
+            "ItemsOpt": []
+        },
+        "Infos": {
+            "PrevQuests": [
+                {
+                    "Name": "The Unbroken Thread",
+                    "Url": "/lodestone/playguide/db/quest/1e755cf4af3/",
+                    "Area": "Lakeland",
+                    "Level": "79"
+                }
+            ],
+            "NextQuests": [
+                {
+                    "Name": "Leweralth",
+                    "Url": "/lodestone/playguide/db/npc/npc/2c84694e66e/",
+                    "Area": "The Crystarium (X:8.8 Y:15.9)"
+                },
+                {
+                    "Name": "Observant Octogenarian",
+                    "Url": "/lodestone/playguide/db/npc/npc/eaa74e6c4d3/",
+                    "Area": "The Crystarium (X:13.2 Y:13.2)"
+                },
+                {
+                    "Name": "Prospective Poet",
+                    "Url": "/lodestone/playguide/db/npc/npc/282e8c56f95/",
+                    "Area": "The Crystarium (X:13.2 Y:13.2)"
+                },
+                {
+                    "Name": "Rae-Qesh",
+                    "Url": "/lodestone/playguide/db/npc/npc/8ff2043d21d/",
+                    "Area": "The Crystarium (X:10.2 Y:5.8)"
+                },
+                {
+                    "Name": "Valthewyl",
+                    "Url": "/lodestone/playguide/db/npc/npc/54b9a12ab2c/",
+                    "Area": "The Crystarium (X:11.4 Y:10.1)"
+                }
+            ]
+        },
+        "Seq": 42,
+        "oldID": 69104,
+        "Map": {
+            "ID": 497
+        }
+    },
+    {
+        "ID": "291c28447a3",
+        "Name": " Resolve Regained",
+        "Location": "Lakeland",
+        "Level": 70,
+        "JournalSection": 3,
+        "JournalCategory": 50,
+        "JournalGenre": "Lakeland Sidequests",
+        "Url": "/lodestone/playguide/db/quest/291c28447a3/",
+        "Image": "https://img.finalfantasyxiv.com/lds/pc/global/images/itemicon/0a/0acf0b50924484ba4c41d9c433f6881c4fc058c9.png?n5.5",
+        "Icon": "common_normal",
+        "Issuer": "Tolas",
+        "StartLocation": {
+            "Name": "Lakeland",
+            "X": "14.4",
+            "Y": "8.9"
+        },
+        "StartClass": null,
+        "Job": "",
+        "Company": "Not specified",
+        "Requirement": "Not specified",
+        "Rewards": {
+            "Gil": 1065,
+            "Exp": null,
+            "ItemsMand": [],
+            "ItemsOpt": [
+                {
+                    "Icon": "https://img.finalfantasyxiv.com/lds/pc/global/images/itemicon/e8/e88d404bd56effa8df06cb3cd5b9dad699693de2.png?n5.5",
+                    "Name": "Masala Chai",
+                    "Amount": 2,
+                    "Url": "/lodestone/playguide/db/item/2d4fb73f2dd/"
+                },
+                {
+                    "Icon": "https://img.finalfantasyxiv.com/lds/pc/global/images/itemicon/77/77ee72d6d84cf5dcd91052f60ff70cbb93314d8e.png?n5.5",
+                    "Name": "Risotto al Nero",
+                    "Amount": 2,
+                    "Url": "/lodestone/playguide/db/item/6eca851ed67/"
+                },
+                {
+                    "Icon": "https://img.finalfantasyxiv.com/lds/pc/global/images/itemicon/8a/8a7b7e68ab6fdb5284cf36875daf25e66850aae7.png?n5.5",
+                    "Name": "Espresso con Panna",
+                    "Amount": 2,
+                    "Url": "/lodestone/playguide/db/item/229a4ccc590/"
+                },
+                {
+                    "Icon": "https://img.finalfantasyxiv.com/lds/pc/global/images/itemicon/a3/a3338de4d76f7bc287266918f682238d2d698d3d.png?n5.5",
+                    "Name": "Mist Spinach Saute",
+                    "Amount": 2,
+                    "Url": "/lodestone/playguide/db/item/ff887b25579/"
+                },
+                {
+                    "Icon": "https://img.finalfantasyxiv.com/lds/pc/global/images/itemicon/ba/baa2341dd17414fae7fd62ae7bc62c64589b67be.png?n5.5",
+                    "Name": "Nightworld Silver Piece",
+                    "Amount": 3,
+                    "Url": "/lodestone/playguide/db/item/50ed823230e/"
+                }
+            ]
+        },
+        "Infos": {
+            "PrevQuests": [
+                {
+                    "Name": " A Much-needed Respite",
+                    "Url": "/lodestone/playguide/db/quest/3383976ab8e/",
+                    "Area": "Lakeland",
+                    "Level": "70"
+                }
+            ],
+            "NextQuests": [
+                {
+                    "Name": " Flowering Friendships",
+                    "Url": "/lodestone/playguide/db/quest/b7091487809/",
+                    "Area": "Lakeland",
+                    "Level": "70"
+                }
+            ],
+            "NPCs": [
+                {
+                    "Name": "Mauwyl",
+                    "Url": "/lodestone/playguide/db/npc/npc/833343c1097/",
+                    "Area": "Lakeland (X:8.3 Y:17.1)"
+                },
+                {
+                    "Name": "Tolas",
+                    "Url": "/lodestone/playguide/db/npc/npc/c859f3e4cf4/",
+                    "Area": "Lakeland (X:12.6 Y:18.4)"
+                },
+                {
+                    "Name": "Tolas",
+                    "Url": "/lodestone/playguide/db/npc/npc/c5b6bfe5054/",
+                    "Area": "Lakeland (X:8.2 Y:17.1)"
+                }
+            ]
+        },
+        "Seq": 20,
+        "oldID": 69072,
+        "Map": {
+            "ID": 491
+        }
+    },
+    {
+        "ID": "293910d3727",
+        "Name": "Two Nuts Too Nutty",
+        "Location": "The Crystarium",
+        "Level": 73,
+        "JournalSection": 3,
+        "JournalCategory": 50,
+        "JournalGenre": "Lakeland Sidequests",
+        "Url": "/lodestone/playguide/db/quest/293910d3727/",
+        "Image": null,
+        "Icon": "function_normal",
+        "Issuer": "Halldor",
+        "StartLocation": {
+            "Name": "The Crystarium",
+            "X": "9.5",
+            "Y": "9.3"
+        },
+        "StartClass": null,
+        "Job": "",
+        "Company": "Not specified",
+        "Requirement": "Not specified",
+        "Rewards": {
+            "Gil": 546,
+            "Exp": 290000,
+            "ItemsMand": [],
+            "ItemsOpt": []
+        },
+        "Infos": {
+            "PrevQuests": [
+                {
+                    "Name": "Nuts to You",
+                    "Url": "/lodestone/playguide/db/quest/f2816833d78/",
+                    "Area": "The Crystarium",
+                    "Level": "70"
+                }
+            ],
+            "NextQuests": [
+                {
+                    "Name": "How Do You Like Three Nuts",
+                    "Url": "/lodestone/playguide/db/quest/1b95adabe01/",
+                    "Area": "The Crystarium",
+                    "Level": "76"
+                }
+            ],
+            "NPCs": [
+                {
+                    "Name": "Xylle",
+                    "Url": "/lodestone/playguide/db/shop/4126551651a/",
+                    "Area": "The Crystarium (X:9.4 Y:9.5)"
+                }
+            ]
+        },
+        "Seq": 44,
+        "oldID": 69134,
+        "Map": {
+            "ID": 497
+        }
+    },
+    {
+        "ID": "2e7c9afc7fc",
+        "Name": " All That Heavenly Glory",
+        "Location": "Lakeland",
+        "Level": 70,
+        "JournalSection": 3,
+        "JournalCategory": 50,
+        "JournalGenre": "Lakeland Sidequests",
+        "Url": "/lodestone/playguide/db/quest/2e7c9afc7fc/",
+        "Image": null,
+        "Icon": "common_normal",
+        "Issuer": "Aiscar",
+        "StartLocation": {
+            "Name": "Lakeland",
+            "X": "5.8",
+            "Y": "14.9"
+        },
+        "StartClass": null,
+        "Job": "",
+        "Company": "Not specified",
+        "Requirement": "Not specified",
+        "Rewards": {
+            "Gil": 810,
+            "Exp": null,
+            "ItemsMand": [],
+            "ItemsOpt": []
+        },
+        "Infos": {
+            "PrevQuests": [
+                {
+                    "Name": "Logistics of War",
+                    "Url": "/lodestone/playguide/db/quest/6d27cdc6eaf/",
+                    "Area": "The Crystarium",
+                    "Level": "72"
+                }
+            ]
+        },
+        "Seq": 7,
+        "oldID": 68924,
+        "Map": {
+            "ID": 491
+        }
+    },
+    {
+        "ID": "2ef5417cb67",
+        "Name": " A Dirty Trick",
+        "Location": "The Crystarium",
+        "Level": 70,
+        "JournalSection": 3,
+        "JournalCategory": 50,
+        "JournalGenre": "Lakeland Sidequests",
+        "Url": "/lodestone/playguide/db/quest/2ef5417cb67/",
+        "Image": null,
+        "Icon": "common_normal",
+        "Issuer": "Szel Guanleu",
+        "StartLocation": {
+            "Name": "The Crystarium",
+            "X": "8.6",
+            "Y": "9.0"
+        },
+        "StartClass": null,
+        "Job": "",
+        "Company": "Not specified",
+        "Requirement": "Not specified",
+        "Rewards": {
+            "Gil": 752,
+            "Exp": null,
+            "ItemsMand": [],
+            "ItemsOpt": []
+        },
+        "Infos": {
+            "PrevQuests": [
+                {
+                    "Name": "Travelers of Norvrandt",
+                    "Url": "/lodestone/playguide/db/quest/50180402087/",
+                    "Area": "The Crystarium",
+                    "Level": "70"
+                }
+            ],
+            "NextQuests": [
+                {
+                    "Name": "Astrille",
+                    "Url": "/lodestone/playguide/db/npc/npc/09fab0b03c7/",
+                    "Area": "The Crystarium (X:8.5 Y:12.4)"
+                }
+            ]
+        },
+        "Seq": 32,
+        "oldID": 68882,
+        "Map": {
+            "ID": 497
+        }
+    },
+    {
+        "ID": "31f2a3bcbf1",
+        "Name": " Stock and Barrel",
+        "Location": "Lakeland",
+        "Level": 70,
+        "JournalSection": 3,
+        "JournalCategory": 50,
+        "JournalGenre": "Lakeland Sidequests",
+        "Url": "/lodestone/playguide/db/quest/31f2a3bcbf1/",
+        "Image": null,
+        "Icon": "common_normal",
+        "Issuer": "Guard Quartermaster",
+        "StartLocation": {
+            "Name": "Lakeland",
+            "X": "36.9",
+            "Y": "20.4"
+        },
+        "StartClass": null,
+        "Job": "",
+        "Company": "Not specified",
+        "Requirement": "Not specified",
+        "Rewards": {
+            "Gil": 706,
+            "Exp": null,
+            "ItemsMand": [],
+            "ItemsOpt": []
+        },
+        "Infos": {
+            "PrevQuests": [
+                {
+                    "Name": " A Jobb Well Done",
+                    "Url": "/lodestone/playguide/db/quest/ec566bf9c81/",
+                    "Area": "The Crystarium",
+                    "Level": "70"
+                }
+            ],
+            "NextQuests": [
+                {
+                    "Name": " Desperate Measures",
+                    "Url": "/lodestone/playguide/db/quest/887b068f4d7/",
+                    "Area": "Lakeland",
+                    "Level": "70"
+                }
+            ],
+            "NPCs": [
+                {
+                    "Name": "Guard Quartermaster",
+                    "Url": "/lodestone/playguide/db/npc/npc/b6cd7e044c8/",
+                    "Area": "Lakeland (X:34.0 Y:9.9)"
+                }
+            ]
+        },
+        "Seq": 14,
+        "oldID": 68917,
+        "Map": {
+            "ID": 491
+        }
+    },
+    {
+        "ID": "3383976ab8e",
+        "Name": " A Much-needed Respite",
+        "Location": "Lakeland",
+        "Level": 70,
+        "JournalSection": 3,
+        "JournalCategory": 50,
+        "JournalGenre": "Lakeland Sidequests",
+        "Url": "/lodestone/playguide/db/quest/3383976ab8e/",
+        "Image": "https://img.finalfantasyxiv.com/lds/pc/global/images/itemicon/0a/0acf0b50924484ba4c41d9c433f6881c4fc058c9.png?n5.5",
+        "Icon": "common_normal",
+        "Issuer": "Mauwyl",
+        "StartLocation": {
+            "Name": "Lakeland",
+            "X": "8.6",
+            "Y": "18.6"
+        },
+        "StartClass": null,
+        "Job": "",
+        "Company": "Not specified",
+        "Requirement": "Not specified",
+        "Rewards": {
+            "Gil": 788,
+            "Exp": null,
+            "ItemsMand": [],
+            "ItemsOpt": []
+        },
+        "Infos": {
+            "PrevQuests": [
+                {
+                    "Name": " His Secret Shame",
+                    "Url": "/lodestone/playguide/db/quest/fc7272dfbf5/",
+                    "Area": "Lakeland",
+                    "Level": "70"
+                }
+            ],
+            "NextQuests": [
+                {
+                    "Name": " Resolve Regained",
+                    "Url": "/lodestone/playguide/db/quest/291c28447a3/",
+                    "Area": "Lakeland",
+                    "Level": "70"
+                }
+            ],
+            "NPCs": [
+                {
+                    "Name": "Atli",
+                    "Url": "/lodestone/playguide/db/npc/npc/8b16e79a762/",
+                    "Area": "Lakeland (X:7.7 Y:18.1)"
+                },
+                {
+                    "Name": "Tolas",
+                    "Url": "/lodestone/playguide/db/npc/npc/b0774504710/",
+                    "Area": "Lakeland (X:8.6 Y:18.6)"
+                },
+                {
+                    "Name": "Tolas",
+                    "Url": "/lodestone/playguide/db/npc/npc/25ae92c4a01/",
+                    "Area": "Lakeland (X:7.6 Y:18.1)"
+                },
+                {
+                    "Name": "Tolas",
+                    "Url": "/lodestone/playguide/db/npc/npc/776dbfbb55b/",
+                    "Area": "Lakeland (X:14.4 Y:8.9)"
+                },
+                {
+                    "Name": "Tolas",
+                    "Url": "/lodestone/playguide/db/npc/npc/7ad0e297072/",
+                    "Area": "Lakeland (X:13.9 Y:9.1)"
+                }
+            ]
+        },
+        "Seq": 19,
+        "oldID": 69071,
+        "Map": {
+            "ID": 491
+        }
+    },
+    {
+        "ID": "34a900add77",
+        "Name": " You've Got the Tatch",
+        "Location": "Lakeland",
+        "Level": 70,
+        "JournalSection": 3,
+        "JournalCategory": 50,
+        "JournalGenre": "Lakeland Sidequests",
+        "Url": "/lodestone/playguide/db/quest/34a900add77/",
+        "Image": null,
+        "Icon": "common_normal",
+        "Issuer": "Mynes",
+        "StartLocation": {
+            "Name": "Lakeland",
+            "X": "18.5",
+            "Y": "18.9"
+        },
+        "StartClass": null,
+        "Job": "",
+        "Company": "Not specified",
+        "Requirement": "Not specified",
+        "Rewards": {
+            "Gil": 810,
+            "Exp": null,
+            "ItemsMand": [
+                {
+                    "Icon": "https://img.finalfantasyxiv.com/lds/pc/global/images/itemicon/e3/e37fdec0415b0585949d8355ae92379da2a0c37d.png?n5.5",
+                    "Name": "Deepgold Ring Coffer",
+                    "Amount": 1,
+                    "Url": "/lodestone/playguide/db/item/9cf06eebcc7/"
+                }
+            ],
+            "ItemsOpt": []
+        },
+        "Infos": {
+            "PrevQuests": [
+                {
+                    "Name": " An Unreasonable Request",
+                    "Url": "/lodestone/playguide/db/quest/cb8c8f79d62/",
+                    "Area": "Lakeland",
+                    "Level": "70"
+                }
+            ],
+            "NextQuests": [
+                {
+                    "Name": "Roi-Tatch",
+                    "Url": "/lodestone/playguide/db/npc/npc/6fb2786e6b8/",
+                    "Area": "Lakeland (X:18.4 Y:19.3)"
+                },
+                {
+                    "Name": "Teanna",
+                    "Url": "/lodestone/playguide/db/npc/npc/b475aa31de8/",
+                    "Area": "Lakeland (X:7.4 Y:14.4)"
+                }
+            ]
+        },
+        "Seq": 6,
+        "oldID": 68923,
+        "Map": {
+            "ID": 491
+        }
+    },
+    {
+        "ID": "37a4e64abdf",
+        "Name": " Pour One Out",
+        "Location": "The Crystarium",
+        "Level": 70,
+        "JournalSection": 3,
+        "JournalCategory": 50,
+        "JournalGenre": "Lakeland Sidequests",
+        "Url": "/lodestone/playguide/db/quest/37a4e64abdf/",
+        "Image": null,
+        "Icon": "common_normal",
+        "Issuer": "Darlfort",
+        "StartLocation": {
+            "Name": "The Crystarium",
+            "X": "10.3",
+            "Y": "16.0"
+        },
+        "StartClass": null,
+        "Job": "",
+        "Company": "Not specified",
+        "Requirement": "Not specified",
+        "Rewards": {
+            "Gil": 679,
+            "Exp": null,
+            "ItemsMand": [
+                {
+                    "Icon": "https://img.finalfantasyxiv.com/lds/pc/global/images/itemicon/b2/b2a6274417cab57616f207bbaa55ea18d6a164fb.png?n5.5",
+                    "Name": "Purple Carrot Juice",
+                    "Amount": 2,
+                    "Url": "/lodestone/playguide/db/item/cf2ba60550f/"
+                }
+            ],
+            "ItemsOpt": []
+        },
+        "Infos": {
+            "PrevQuests": [
+                {
+                    "Name": "Travelers of Norvrandt",
+                    "Url": "/lodestone/playguide/db/quest/50180402087/",
+                    "Area": "The Crystarium",
+                    "Level": "70"
+                }
+            ],
+            "NextQuests": [
+                {
+                    "Name": "Catenaries Manager",
+                    "Url": "/lodestone/playguide/db/npc/npc/a49c2b6160f/",
+                    "Area": "The Crystarium (X:12.9 Y:14.1)"
+                },
+                {
+                    "Name": "Eidith",
+                    "Url": "/lodestone/playguide/db/npc/npc/f7c90e6cc33/",
+                    "Area": "The Crystarium (X:10.8 Y:13.4)"
+                }
+            ]
+        },
+        "Seq": 31,
+        "oldID": 68881,
+        "Map": {
+            "ID": 497
+        }
+    },
+    {
+        "ID": "38e5fe7b883",
+        "Name": " Do You Believe in Magic",
+        "Location": "The Crystarium",
+        "Level": 70,
+        "JournalSection": 3,
+        "JournalCategory": 50,
+        "JournalGenre": "Lakeland Sidequests",
+        "Url": "/lodestone/playguide/db/quest/38e5fe7b883/",
+        "Image": null,
+        "Icon": "common_normal",
+        "Issuer": "Distraught Damsel",
+        "StartLocation": {
+            "Name": "The Crystarium",
+            "X": "12.0",
+            "Y": "16.6"
+        },
+        "StartClass": null,
+        "Job": "",
+        "Company": "Not specified",
+        "Requirement": "Not specified",
+        "Rewards": {
+            "Gil": 906,
+            "Exp": null,
+            "ItemsMand": [],
+            "ItemsOpt": []
+        },
+        "Infos": {
+            "PrevQuests": [
+                {
+                    "Name": "Warrior of Darkness",
+                    "Url": "/lodestone/playguide/db/quest/0b1c0f7a203/",
+                    "Area": "Lakeland",
+                    "Level": "71"
+                }
+            ]
+        },
+        "Seq": 35,
+        "oldID": 68915,
+        "Map": {
+            "ID": 497
+        }
+    },
+    {
+        "ID": "409a42232e9",
+        "Name": " Lofty Goals",
+        "Location": "Lakeland",
+        "Level": 70,
+        "JournalSection": 3,
+        "JournalCategory": 50,
+        "JournalGenre": "Lakeland Sidequests",
+        "Url": "/lodestone/playguide/db/quest/409a42232e9/",
+        "Image": null,
+        "Icon": "common_normal",
+        "Issuer": "High-strung Historian",
+        "StartLocation": {
+            "Name": "Lakeland",
+            "X": "35.3",
+            "Y": "19.1"
+        },
+        "StartClass": null,
+        "Job": "",
+        "Company": "Not specified",
+        "Requirement": "Not specified",
+        "Rewards": {
+            "Gil": 852,
+            "Exp": null,
+            "ItemsMand": [
+                {
+                    "Icon": "https://img.finalfantasyxiv.com/lds/pc/global/images/itemicon/c6/c6a1ad1c105a6a97b398f83d4f163b41ba31a9fc.png?n5.5",
+                    "Name": "Grilled Platinum Bream",
+                    "Amount": 2,
+                    "Url": "/lodestone/playguide/db/item/6559b360aff/"
+                }
+            ],
+            "ItemsOpt": []
+        },
+        "Infos": {
+            "PrevQuests": [
+                {
+                    "Name": "A Party Soon Divided",
+                    "Url": "/lodestone/playguide/db/quest/38280c82578/",
+                    "Area": "The Crystarium",
+                    "Level": "74"
+                }
+            ],
+            "NextQuests": [
+                {
+                    "Name": "High-strung Historian",
+                    "Url": "/lodestone/playguide/db/npc/npc/8266befd40d/",
+                    "Area": "Lakeland (X:26.1 Y:17.3)"
+                },
+                {
+                    "Name": "High-strung Historian",
+                    "Url": "/lodestone/playguide/db/npc/npc/c522eb8f0b0/",
+                    "Area": "Lakeland (X:24.9 Y:13.8)"
+                }
+            ]
+        },
+        "Seq": 11,
+        "oldID": 68971,
+        "Map": {
+            "ID": 491
+        }
+    },
+    {
+        "ID": "549714eec93",
+        "Name": " Rate and Review",
+        "Location": "The Crystarium",
+        "Level": 70,
+        "JournalSection": 3,
+        "JournalCategory": 50,
+        "JournalGenre": "Lakeland Sidequests",
+        "Url": "/lodestone/playguide/db/quest/549714eec93/",
+        "Image": null,
+        "Icon": "common_normal",
+        "Issuer": "Pitrig",
+        "StartLocation": {
+            "Name": "The Crystarium",
+            "X": "12.7",
+            "Y": "10.3"
+        },
+        "StartClass": null,
+        "Job": "",
+        "Company": "Not specified",
+        "Requirement": "Not specified",
+        "Rewards": {
+            "Gil": 606,
+            "Exp": null,
+            "ItemsMand": [],
+            "ItemsOpt": []
+        },
+        "Infos": {
+            "PrevQuests": [
+                {
+                    "Name": "Travelers of Norvrandt",
+                    "Url": "/lodestone/playguide/db/quest/50180402087/",
+                    "Area": "The Crystarium",
+                    "Level": "70"
+                }
+            ],
+            "NextQuests": [
+                {
+                    "Name": "Chantilde",
+                    "Url": "/lodestone/playguide/db/npc/npc/8029d8dad9a/",
+                    "Area": "The Crystarium (X:9.9 Y:5.7)"
+                },
+                {
+                    "Name": "Encumbered Amaro Tamer",
+                    "Url": "/lodestone/playguide/db/npc/npc/8655c92512c/",
+                    "Area": "The Crystarium (X:12.5 Y:8.2)"
+                },
+                {
+                    "Name": "Rosard",
+                    "Url": "/lodestone/playguide/db/npc/npc/7cc670c2c34/",
+                    "Area": "The Crystarium (X:13.0 Y:8.3)"
+                },
+                {
+                    "Name": "Szel Guanleu",
+                    "Url": "/lodestone/playguide/db/npc/npc/9980416014d/",
+                    "Area": "The Crystarium (X:8.6 Y:9.0)"
+                }
+            ]
+        },
+        "Seq": 30,
+        "oldID": 68880,
+        "Map": {
+            "ID": 497
+        }
+    },
+    {
+        "ID": "599449225e5",
+        "Name": " Classical Condition",
+        "Location": "Lakeland",
+        "Level": 70,
+        "JournalSection": 3,
+        "JournalCategory": 50,
+        "JournalGenre": "Lakeland Sidequests",
+        "Url": "/lodestone/playguide/db/quest/599449225e5/",
+        "Image": null,
+        "Icon": "common_normal",
+        "Issuer": "Riqi-Mao",
+        "StartLocation": {
+            "Name": "Lakeland",
+            "X": "37.1",
+            "Y": "21.4"
+        },
+        "StartClass": null,
+        "Job": "",
+        "Company": "Not specified",
+        "Requirement": "Not specified",
+        "Rewards": {
+            "Gil": 852,
+            "Exp": null,
+            "ItemsMand": [],
+            "ItemsOpt": []
+        },
+        "Infos": {
+            "PrevQuests": [
+                {
+                    "Name": " A Jobb Well Done",
+                    "Url": "/lodestone/playguide/db/quest/ec566bf9c81/",
+                    "Area": "The Crystarium",
+                    "Level": "70"
+                }
+            ],
+            "NextQuests": [
+                {
+                    "Name": " Desperate Measures",
+                    "Url": "/lodestone/playguide/db/quest/887b068f4d7/",
+                    "Area": "Lakeland",
+                    "Level": "70"
+                }
+            ],
+            "NPCs": [
+                {
+                    "Name": "Amaro Handler",
+                    "Url": "/lodestone/playguide/db/npc/npc/f92e273a9de/",
+                    "Area": "Lakeland (X:29.6 Y:23.8)"
+                },
+                {
+                    "Name": "Amaro Handler",
+                    "Url": "/lodestone/playguide/db/npc/npc/79df2d1968e/",
+                    "Area": "Lakeland (X:23.4 Y:19.8)"
+                },
+                {
+                    "Name": "Immobile Amaro",
+                    "Url": "/lodestone/playguide/db/npc/npc/fa39d0f0d17/",
+                    "Area": "Lakeland (X:23.4 Y:19.7)"
+                }
+            ]
+        },
+        "Seq": 1,
+        "oldID": 68918,
+        "Map": {
+            "ID": 491
+        }
+    },
+    {
+        "ID": "627662a8e95",
+        "Name": " In Father's Footsteps",
+        "Location": "Lakeland",
+        "Level": 70,
+        "JournalSection": 3,
+        "JournalCategory": 50,
+        "JournalGenre": "Lakeland Sidequests",
+        "Url": "/lodestone/playguide/db/quest/627662a8e95/",
+        "Image": "https://img.finalfantasyxiv.com/lds/pc/global/images/itemicon/30/3069dfcd4737dd8bc736ca55887f8759e7015320.png?n5.5",
+        "Icon": "common_normal",
+        "Issuer": "Callea",
+        "StartLocation": {
+            "Name": "Lakeland",
+            "X": "37.0",
+            "Y": "20.1"
+        },
+        "StartClass": null,
+        "Job": "",
+        "Company": "Not specified",
+        "Requirement": "Not specified",
+        "Rewards": {
+            "Gil": 715,
+            "Exp": null,
+            "ItemsMand": [],
+            "ItemsOpt": []
+        },
+        "Infos": {
+            "PrevQuests": [
+                {
+                    "Name": " Carrying On",
+                    "Url": "/lodestone/playguide/db/quest/a91ade1a1b4/",
+                    "Area": "Lakeland",
+                    "Level": "70"
+                }
+            ],
+            "NextQuests": [
+                {
+                    "Name": " Her True Calling",
+                    "Url": "/lodestone/playguide/db/quest/62b46c5d048/",
+                    "Area": "Lakeland",
+                    "Level": "70"
+                }
+            ],
+            "NPCs": [
+                {
+                    "Name": "Callea",
+                    "Url": "/lodestone/playguide/db/npc/npc/3998eccb62f/",
+                    "Area": "Lakeland (X:27.9 Y:20.5)"
+                },
+                {
+                    "Name": "Nielden",
+                    "Url": "/lodestone/playguide/db/npc/npc/3abf2b08bdc/",
+                    "Area": "Lakeland (X:37.0 Y:20.1)"
+                }
+            ]
+        },
+        "Seq": 16,
+        "oldID": 68994,
+        "Map": {
+            "ID": 491
+        }
+    },
+    {
+        "ID": "62b46c5d048",
+        "Name": " Her True Calling",
+        "Location": "Lakeland",
+        "Level": 70,
+        "JournalSection": 3,
+        "JournalCategory": 50,
+        "JournalGenre": "Lakeland Sidequests",
+        "Url": "/lodestone/playguide/db/quest/62b46c5d048/",
+        "Image": "https://img.finalfantasyxiv.com/lds/pc/global/images/itemicon/30/3069dfcd4737dd8bc736ca55887f8759e7015320.png?n5.5",
+        "Icon": "common_normal",
+        "Issuer": "Callea",
+        "StartLocation": {
+            "Name": "Lakeland",
+            "X": "27.9",
+            "Y": "20.5"
+        },
+        "StartClass": null,
+        "Job": "",
+        "Company": "Not specified",
+        "Requirement": "Not specified",
+        "Rewards": {
+            "Gil": 715,
+            "Exp": null,
+            "ItemsMand": [],
+            "ItemsOpt": [
+                {
+                    "Icon": "https://img.finalfantasyxiv.com/lds/pc/global/images/itemicon/9c/9cba640af29374ace0cca6dd2fd34dcd92387e0e.png?n5.5",
+                    "Name": "Spaghetti al Nero",
+                    "Amount": 2,
+                    "Url": "/lodestone/playguide/db/item/ba1787c499b/"
+                },
+                {
+                    "Icon": "https://img.finalfantasyxiv.com/lds/pc/global/images/itemicon/c9/c9531bb5da87b693f15d446e227a7362971cb3bb.png?n5.5",
+                    "Name": "Broad Bean Salad",
+                    "Amount": 2,
+                    "Url": "/lodestone/playguide/db/item/4133a25dafe/"
+                },
+                {
+                    "Icon": "https://img.finalfantasyxiv.com/lds/pc/global/images/itemicon/c6/c6a1ad1c105a6a97b398f83d4f163b41ba31a9fc.png?n5.5",
+                    "Name": "Grilled Platinum Bream",
+                    "Amount": 2,
+                    "Url": "/lodestone/playguide/db/item/6559b360aff/"
+                },
+                {
+                    "Icon": "https://img.finalfantasyxiv.com/lds/pc/global/images/itemicon/4c/4c26ef4cea19c186d704cf6928b1f20359f7f74a.png?n5.5",
+                    "Name": "Baguette",
+                    "Amount": 2,
+                    "Url": "/lodestone/playguide/db/item/5aae6fde0d4/"
+                },
+                {
+                    "Icon": "https://img.finalfantasyxiv.com/lds/pc/global/images/itemicon/ba/baa2341dd17414fae7fd62ae7bc62c64589b67be.png?n5.5",
+                    "Name": "Nightworld Silver Piece",
+                    "Amount": 3,
+                    "Url": "/lodestone/playguide/db/item/50ed823230e/"
+                }
+            ]
+        },
+        "Infos": {
+            "PrevQuests": [
+                {
+                    "Name": " In Father's Footsteps",
+                    "Url": "/lodestone/playguide/db/quest/627662a8e95/",
+                    "Area": "Lakeland",
+                    "Level": "70"
+                }
+            ],
+            "NextQuests": [
+                {
+                    "Name": " Flowering Friendships",
+                    "Url": "/lodestone/playguide/db/quest/b7091487809/",
+                    "Area": "Lakeland",
+                    "Level": "70"
+                }
+            ],
+            "NPCs": [
+                {
+                    "Name": "Callea",
+                    "Url": "/lodestone/playguide/db/npc/npc/ad698a66e42/",
+                    "Area": "Lakeland (X:32.0 Y:20.3)"
+                },
+                {
+                    "Name": "Nielden",
+                    "Url": "/lodestone/playguide/db/npc/npc/3abf2b08bdc/",
+                    "Area": "Lakeland (X:37.0 Y:20.1)"
+                }
+            ]
+        },
+        "Seq": 17,
+        "oldID": 68995,
+        "Map": {
+            "ID": 491
+        }
+    },
+    {
+        "ID": "6f3846c0444",
+        "Name": " His Own Medicine",
+        "Location": "The Crystarium",
+        "Level": 70,
+        "JournalSection": 3,
+        "JournalCategory": 50,
+        "JournalGenre": "Lakeland Sidequests",
+        "Url": "/lodestone/playguide/db/quest/6f3846c0444/",
+        "Image": null,
+        "Icon": "common_normal",
+        "Issuer": "Bethden",
+        "StartLocation": {
+            "Name": "The Crystarium",
+            "X": "9.8",
+            "Y": "5.5"
+        },
+        "StartClass": null,
+        "Job": "",
+        "Company": "Not specified",
+        "Requirement": "Not specified",
+        "Rewards": {
+            "Gil": 679,
+            "Exp": null,
+            "ItemsMand": [
+                {
+                    "Icon": "https://img.finalfantasyxiv.com/lds/pc/global/images/itemicon/66/66eb4cd1ad7c73e0c008f0b39e2fc79fe0fe415b.png?n5.5",
+                    "Name": "Jellied Harcot",
+                    "Amount": 2,
+                    "Url": "/lodestone/playguide/db/item/404134085d3/"
+                }
+            ],
+            "ItemsOpt": []
+        },
+        "Infos": {
+            "PrevQuests": [
+                {
+                    "Name": "The Unbroken Thread",
+                    "Url": "/lodestone/playguide/db/quest/1e755cf4af3/",
+                    "Area": "Lakeland",
+                    "Level": "79"
+                }
+            ],
+            "NextQuests": [
+                {
+                    "Name": "Amiable Apothecary",
+                    "Url": "/lodestone/playguide/db/npc/npc/a9be1c0572b/",
+                    "Area": "The Crystarium (X:10.4 Y:10.0)"
+                },
+                {
+                    "Name": "Fae-Hann",
+                    "Url": "/lodestone/playguide/db/npc/npc/b1f050aa46c/",
+                    "Area": "The Crystarium (X:10.4 Y:10.0)"
+                }
+            ]
+        },
+        "Seq": 39,
+        "oldID": 69101,
+        "Map": {
+            "ID": 497
+        }
+    },
+    {
+        "ID": "745f7606512",
+        "Name": " Loot Justice Mode",
+        "Location": "Lakeland",
+        "Level": 70,
+        "JournalSection": 3,
+        "JournalCategory": 50,
+        "JournalGenre": "Lakeland Sidequests",
+        "Url": "/lodestone/playguide/db/quest/745f7606512/",
+        "Image": null,
+        "Icon": "common_normal",
+        "Issuer": "Lethenmaer",
+        "StartLocation": {
+            "Name": "Lakeland",
+            "X": "7.1",
+            "Y": "18.1"
+        },
+        "StartClass": null,
+        "Job": "",
+        "Company": "Not specified",
+        "Requirement": "Not specified",
+        "Rewards": {
+            "Gil": 883,
+            "Exp": null,
+            "ItemsMand": [],
+            "ItemsOpt": []
+        },
+        "Infos": {
+            "PrevQuests": [
+                {
+                    "Name": "Logistics of War",
+                    "Url": "/lodestone/playguide/db/quest/6d27cdc6eaf/",
+                    "Area": "The Crystarium",
+                    "Level": "72"
+                }
+            ],
+            "NextQuests": [
+                {
+                    "Name": "Well-armed Larcener",
+                    "Url": "/lodestone/playguide/db/npc/npc/09489435c13/",
+                    "Area": "Lakeland (X:7.9 Y:25.8)"
+                }
+            ]
+        },
+        "Seq": 9,
+        "oldID": 68926,
+        "Map": {
+            "ID": 491
+        }
+    },
+    {
+        "ID": "74b73df6e59",
+        "Name": " Beers for Fears",
+        "Location": "Lakeland",
+        "Level": 70,
+        "JournalSection": 3,
+        "JournalCategory": 50,
+        "JournalGenre": "Lakeland Sidequests",
+        "Url": "/lodestone/playguide/db/quest/74b73df6e59/",
+        "Image": null,
+        "Icon": "common_normal",
+        "Issuer": "Sai-Qesh",
+        "StartLocation": {
+            "Name": "Lakeland",
+            "X": "6.2",
+            "Y": "14.9"
+        },
+        "StartClass": null,
+        "Job": "",
+        "Company": "Not specified",
+        "Requirement": "Not specified",
+        "Rewards": {
+            "Gil": 606,
+            "Exp": null,
+            "ItemsMand": [],
+            "ItemsOpt": []
+        },
+        "Infos": {
+            "PrevQuests": [
+                {
+                    "Name": "Logistics of War",
+                    "Url": "/lodestone/playguide/db/quest/6d27cdc6eaf/",
+                    "Area": "The Crystarium",
+                    "Level": "72"
+                }
+            ],
+            "NextQuests": [
+                {
+                    "Name": "Merlath",
+                    "Url": "/lodestone/playguide/db/npc/npc/de32c0dc8ff/",
+                    "Area": "Lakeland (X:5.9 Y:15.0)"
+                },
+                {
+                    "Name": "Seanric",
+                    "Url": "/lodestone/playguide/db/npc/npc/b244e5b105a/",
+                    "Area": "Lakeland (X:8.1 Y:18.8)"
+                },
+                {
+                    "Name": "Sue-Lewq",
+                    "Url": "/lodestone/playguide/db/npc/npc/c10acb1afc4/",
+                    "Area": "Lakeland (X:8.3 Y:18.6)"
+                },
+                {
+                    "Name": "Szeli Vantheu",
+                    "Url": "/lodestone/playguide/db/npc/npc/888ff89f389/",
+                    "Area": "Lakeland (X:9.1 Y:18.5)"
+                }
+            ]
+        },
+        "Seq": 8,
+        "oldID": 68925,
+        "Map": {
+            "ID": 491
+        }
+    },
+    {
+        "ID": "83085b2ab8e",
+        "Name": " Of Graveyards and Gremlins",
+        "Location": "Lakeland",
+        "Level": 70,
+        "JournalSection": 3,
+        "JournalCategory": 50,
+        "JournalGenre": "Lakeland Sidequests",
+        "Url": "/lodestone/playguide/db/quest/83085b2ab8e/",
+        "Image": null,
+        "Icon": "common_normal",
+        "Issuer": "Joanric",
+        "StartLocation": {
+            "Name": "Lakeland",
+            "X": "35.5",
+            "Y": "19.8"
+        },
+        "StartClass": null,
+        "Job": "",
+        "Company": "Not specified",
+        "Requirement": "Not specified",
+        "Rewards": {
+            "Gil": 606,
+            "Exp": null,
+            "ItemsMand": [],
+            "ItemsOpt": []
+        },
+        "Infos": {
+            "PrevQuests": [
+                {
+                    "Name": "A Party Soon Divided",
+                    "Url": "/lodestone/playguide/db/quest/38280c82578/",
+                    "Area": "The Crystarium",
+                    "Level": "74"
+                }
+            ]
+        },
+        "Seq": 13,
+        "oldID": 68973,
+        "Map": {
+            "ID": 491
+        }
+    },
+    {
+        "ID": "887b068f4d7",
+        "Name": " Desperate Measures",
+        "Location": "Lakeland",
+        "Level": 70,
+        "JournalSection": 3,
+        "JournalCategory": 50,
+        "JournalGenre": "Lakeland Sidequests",
+        "Url": "/lodestone/playguide/db/quest/887b068f4d7/",
+        "Image": null,
+        "Icon": "common_normal",
+        "Issuer": "Bjorn",
+        "StartLocation": {
+            "Name": "Lakeland",
+            "X": "35.7",
+            "Y": "20.9"
+        },
+        "StartClass": null,
+        "Job": "",
+        "Company": "Not specified",
+        "Requirement": "Not specified",
+        "Rewards": {
+            "Gil": 606,
+            "Exp": null,
+            "ItemsMand": [
+                {
+                    "Icon": "https://img.finalfantasyxiv.com/lds/pc/global/images/itemicon/da/da6527324aacc543133f5fa88c59efe11cc0e767.png?n5.5",
+                    "Name": "Broad Bean Soup",
+                    "Amount": 2,
+                    "Url": "/lodestone/playguide/db/item/47b9501c21a/"
+                }
+            ],
+            "ItemsOpt": []
+        },
+        "Infos": {
+            "PrevQuests": [
+                {
+                    "Name": " Stock and Barrel",
+                    "Url": "/lodestone/playguide/db/quest/31f2a3bcbf1/",
+                    "Area": "Lakeland",
+                    "Level": "70"
+                },
+                {
+                    "Name": " Classical Condition",
+                    "Url": "/lodestone/playguide/db/quest/599449225e5/",
+                    "Area": "Lakeland",
+                    "Level": "70"
+                }
+            ],
+            "NextQuests": [
+                {
+                    "Name": "Dawkes",
+                    "Url": "/lodestone/playguide/db/npc/npc/099e27aa5e3/",
+                    "Area": "The Crystarium (X:12.6 Y:14.8)"
+                }
+            ]
+        },
+        "Seq": 2,
+        "oldID": 68919,
+        "Map": {
+            "ID": 491
+        }
+    },
+    {
+        "ID": "a0a53359b36",
+        "Name": "By the Time You Hear This",
+        "Location": "The Crystarium",
+        "Level": 80,
+        "JournalSection": 3,
+        "JournalCategory": 50,
+        "JournalGenre": "Lakeland Sidequests",
+        "Url": "/lodestone/playguide/db/quest/a0a53359b36/",
+        "Image": "https://img.finalfantasyxiv.com/lds/pc/global/images/itemicon/12/12a91180c62a0ef354275e3f4b0c114db0e8a6c4.png?n5.5",
+        "Icon": "function_normal",
+        "Issuer": "Bethana",
+        "StartLocation": {
+            "Name": "The Crystarium",
+            "X": "8.5",
+            "Y": "10.9"
+        },
+        "StartClass": null,
+        "Job": "",
+        "Company": "Not specified",
+        "Requirement": "Not specified",
+        "Rewards": {
+            "Gil": 4455,
+            "Exp": 0,
+            "ItemsMand": [
+                {
+                    "Icon": "https://img.finalfantasyxiv.com/lds/pc/global/images/itemicon/a3/a37a4b7e006f3be47e7425d5912a9b772f70ad7d.png?n5.5",
+                    "Name": "Quicktongue Materia VII",
+                    "Amount": 1,
+                    "Url": "/lodestone/playguide/db/item/117f1387915/"
+                },
+                {
+                    "Icon": "https://img.finalfantasyxiv.com/lds/pc/global/images/itemicon/eb/eb584f7fe108c91fe738789576754bcfce3e48cb.png?n5.5",
+                    "Name": "Piety Materia VII",
+                    "Amount": 1,
+                    "Url": "/lodestone/playguide/db/item/c2be6ee80a9/"
+                }
+            ],
+            "ItemsOpt": []
+        },
+        "Infos": {
+            "PrevQuests": [
+                {
+                    "Name": "Shadowbringers",
+                    "Url": "/lodestone/playguide/db/quest/4ed1668d377/",
+                    "Area": "The Tempest",
+                    "Level": "80"
+                }
+            ],
+            "NextQuests": [
+                {
+                    "Name": "Bethana",
+                    "Url": "/lodestone/playguide/db/npc/npc/7ea2a161ae1/",
+                    "Area": "The Crystarium (X:12.7 Y:10.6)"
+                }
+            ]
+        },
+        "Seq": 47,
+        "oldID": 69131,
+        "Map": {
+            "ID": 497
+        }
+    },
+    {
+        "ID": "a66cc5c2065",
+        "Name": " With Furious Anger",
+        "Location": "Lakeland",
+        "Level": 70,
+        "JournalSection": 3,
+        "JournalCategory": 50,
+        "JournalGenre": "Lakeland Sidequests",
+        "Url": "/lodestone/playguide/db/quest/a66cc5c2065/",
+        "Image": null,
+        "Icon": "common_normal",
+        "Issuer": "Chora-Kai",
+        "StartLocation": {
+            "Name": "Lakeland",
+            "X": "22.5",
+            "Y": "34.4"
+        },
+        "StartClass": null,
+        "Job": "",
+        "Company": "Not specified",
+        "Requirement": "Not specified",
+        "Rewards": {
+            "Gil": 606,
+            "Exp": null,
+            "ItemsMand": [],
+            "ItemsOpt": []
+        },
+        "Infos": {
+            "PrevQuests": [
+                {
+                    "Name": "To Storm-tossed Seas",
+                    "Url": "/lodestone/playguide/db/quest/d4151297369/",
+                    "Area": "The Crystarium",
+                    "Level": "79"
+                }
+            ],
+            "NextQuests": [
+                {
+                    "Name": "Mopish Man",
+                    "Url": "/lodestone/playguide/db/npc/npc/18440ce99be/",
+                    "Area": "Lakeland (X:16.3 Y:36.5)"
+                }
+            ]
+        },
+        "Seq": 26,
+        "oldID": 69109,
+        "Map": {
+            "ID": 491
+        }
+    },
+    {
+        "ID": "a91ade1a1b4",
+        "Name": " Carrying On",
+        "Location": "Lakeland",
+        "Level": 70,
+        "JournalSection": 3,
+        "JournalCategory": 50,
+        "JournalGenre": "Lakeland Sidequests",
+        "Url": "/lodestone/playguide/db/quest/a91ade1a1b4/",
+        "Image": "https://img.finalfantasyxiv.com/lds/pc/global/images/itemicon/30/3069dfcd4737dd8bc736ca55887f8759e7015320.png?n5.5",
+        "Icon": "common_normal",
+        "Issuer": "Nielden",
+        "StartLocation": {
+            "Name": "Lakeland",
+            "X": "18.7",
+            "Y": "19.8"
+        },
+        "StartClass": null,
+        "Job": "",
+        "Company": "Not specified",
+        "Requirement": "Not specified",
+        "Rewards": {
+            "Gil": 1115,
+            "Exp": null,
+            "ItemsMand": [],
+            "ItemsOpt": []
+        },
+        "Infos": {
+            "PrevQuests": [
+                {
+                    "Name": " On Her Own",
+                    "Url": "/lodestone/playguide/db/quest/d17c5a65951/",
+                    "Area": "Lakeland",
+                    "Level": "70"
+                }
+            ],
+            "NextQuests": [
+                {
+                    "Name": " In Father's Footsteps",
+                    "Url": "/lodestone/playguide/db/quest/627662a8e95/",
+                    "Area": "Lakeland",
+                    "Level": "70"
+                }
+            ],
+            "NPCs": [
+                {
+                    "Name": "Callea",
+                    "Url": "/lodestone/playguide/db/npc/npc/904302db9b5/",
+                    "Area": "Lakeland (X:37.3 Y:20.8)"
+                },
+                {
+                    "Name": "Callea",
+                    "Url": "/lodestone/playguide/db/npc/npc/bd79a84f9e7/",
+                    "Area": "Lakeland (X:37.0 Y:20.1)"
+                },
+                {
+                    "Name": "Nielden",
+                    "Url": "/lodestone/playguide/db/npc/npc/3abf2b08bdc/",
+                    "Area": "Lakeland (X:37.0 Y:20.1)"
+                },
+                {
+                    "Name": "Sylgham",
+                    "Url": "/lodestone/playguide/db/npc/npc/2f0da397a8e/",
+                    "Area": "The Crystarium (X:12.9 Y:14.1)"
+                }
+            ]
+        },
+        "Seq": 15,
+        "oldID": 68993,
+        "Map": {
+            "ID": 491
+        }
+    },
+    {
+        "ID": "af2030e86ce",
+        "Name": " Made, Not Born",
+        "Location": "The Crystarium",
+        "Level": 70,
+        "JournalSection": 3,
+        "JournalCategory": 50,
+        "JournalGenre": "Lakeland Sidequests",
+        "Url": "/lodestone/playguide/db/quest/af2030e86ce/",
+        "Image": null,
+        "Icon": "common_normal",
+        "Issuer": "Drill Instructor",
+        "StartLocation": {
+            "Name": "The Crystarium",
+            "X": "13.4",
+            "Y": "9.1"
+        },
+        "StartClass": null,
+        "Job": "",
+        "Company": "Not specified",
+        "Requirement": "Not specified",
+        "Rewards": {
+            "Gil": 606,
+            "Exp": null,
+            "ItemsMand": [],
+            "ItemsOpt": []
+        },
+        "Infos": {
+            "PrevQuests": [
+                {
+                    "Name": "The Unbroken Thread",
+                    "Url": "/lodestone/playguide/db/quest/1e755cf4af3/",
+                    "Area": "Lakeland",
+                    "Level": "79"
+                }
+            ],
+            "NextQuests": [
+                {
+                    "Name": "Novice Guard",
+                    "Url": "/lodestone/playguide/db/npc/npc/d518d228db8/",
+                    "Area": "The Crystarium (X:8.2 Y:15.2)"
+                },
+                {
+                    "Name": "Novice Guard",
+                    "Url": "/lodestone/playguide/db/npc/npc/bf10a07010b/",
+                    "Area": "The Crystarium (X:13.3 Y:9.1)"
+                }
+            ]
+        },
+        "Seq": 41,
+        "oldID": 69103,
+        "Map": {
+            "ID": 497
+        }
+    },
+    {
+        "ID": "b7091487809",
+        "Name": " Flowering Friendships",
+        "Location": "Lakeland",
+        "Level": 70,
+        "JournalSection": 3,
+        "JournalCategory": 50,
+        "JournalGenre": "Lakeland Sidequests",
+        "Url": "/lodestone/playguide/db/quest/b7091487809/",
+        "Image": "https://img.finalfantasyxiv.com/lds/pc/global/images/itemicon/62/62bbd51d39b649630c2526b0e61fd78d5ba5389f.png?n5.5",
+        "Icon": "common_normal",
+        "Issuer": "Tolas",
+        "StartLocation": {
+            "Name": "Lakeland",
+            "X": "8.6",
+            "Y": "18.6"
+        },
+        "StartClass": null,
+        "Job": "",
+        "Company": "Not specified",
+        "Requirement": "Not specified",
+        "Rewards": {
+            "Gil": 1266,
+            "Exp": null,
+            "ItemsMand": [],
+            "ItemsOpt": [
+                {
+                    "Icon": "https://img.finalfantasyxiv.com/lds/pc/global/images/itemicon/e8/e88d404bd56effa8df06cb3cd5b9dad699693de2.png?n5.5",
+                    "Name": "Masala Chai",
+                    "Amount": 2,
+                    "Url": "/lodestone/playguide/db/item/2d4fb73f2dd/"
+                },
+                {
+                    "Icon": "https://img.finalfantasyxiv.com/lds/pc/global/images/itemicon/77/77ee72d6d84cf5dcd91052f60ff70cbb93314d8e.png?n5.5",
+                    "Name": "Risotto al Nero",
+                    "Amount": 2,
+                    "Url": "/lodestone/playguide/db/item/6eca851ed67/"
+                },
+                {
+                    "Icon": "https://img.finalfantasyxiv.com/lds/pc/global/images/itemicon/8a/8a7b7e68ab6fdb5284cf36875daf25e66850aae7.png?n5.5",
+                    "Name": "Espresso con Panna",
+                    "Amount": 2,
+                    "Url": "/lodestone/playguide/db/item/229a4ccc590/"
+                },
+                {
+                    "Icon": "https://img.finalfantasyxiv.com/lds/pc/global/images/itemicon/a3/a3338de4d76f7bc287266918f682238d2d698d3d.png?n5.5",
+                    "Name": "Mist Spinach Saute",
+                    "Amount": 2,
+                    "Url": "/lodestone/playguide/db/item/ff887b25579/"
+                },
+                {
+                    "Icon": "https://img.finalfantasyxiv.com/lds/pc/global/images/itemicon/ba/baa2341dd17414fae7fd62ae7bc62c64589b67be.png?n5.5",
+                    "Name": "Nightworld Silver Piece",
+                    "Amount": 3,
+                    "Url": "/lodestone/playguide/db/item/50ed823230e/"
+                }
+            ]
+        },
+        "Infos": {
+            "PrevQuests": [
+                {
+                    "Name": " Her True Calling",
+                    "Url": "/lodestone/playguide/db/quest/62b46c5d048/",
+                    "Area": "Lakeland",
+                    "Level": "70"
+                },
+                {
+                    "Name": " Resolve Regained",
+                    "Url": "/lodestone/playguide/db/quest/291c28447a3/",
+                    "Area": "Lakeland",
+                    "Level": "70"
+                }
+            ],
+            "NextQuests": [
+                {
+                    "Name": "Angry Anemone",
+                    "Url": "/lodestone/playguide/db/npc/npc/4d1259578a2/",
+                    "Area": "Lakeland (X:16.8 Y:21.3)"
+                },
+                {
+                    "Name": "Angry Anemone",
+                    "Url": "/lodestone/playguide/db/npc/npc/5042e7a972b/",
+                    "Area": "Lakeland (X:16.6 Y:21.4)"
+                },
+                {
+                    "Name": "Angry Anemone",
+                    "Url": "/lodestone/playguide/db/npc/npc/cd94fa2ddcf/",
+                    "Area": "Lakeland (X:16.3 Y:21.5)"
+                },
+                {
+                    "Name": "Callea",
+                    "Url": "/lodestone/playguide/db/npc/npc/8d5a1b5f4f8/",
+                    "Area": "Lakeland (X:37.0 Y:20.2)"
+                },
+                {
+                    "Name": "Nielden",
+                    "Url": "/lodestone/playguide/db/npc/npc/278096418de/",
+                    "Area": "Lakeland (X:27.7 Y:23.7)"
+                },
+                {
+                    "Name": "Nielden",
+                    "Url": "/lodestone/playguide/db/npc/npc/081cbe58bab/",
+                    "Area": "Lakeland (X:36.9 Y:20.2)"
+                },
+                {
+                    "Name": "Tolas",
+                    "Url": "/lodestone/playguide/db/npc/npc/01d2dc75cab/",
+                    "Area": "Lakeland (X:11.1 Y:19.7)"
+                },
+                {
+                    "Name": "Tolas",
+                    "Url": "/lodestone/playguide/db/npc/npc/1b2be4cffb3/",
+                    "Area": "Lakeland (X:16.5 Y:21.1)"
+                },
+                {
+                    "Name": "Tolas",
+                    "Url": "/lodestone/playguide/db/npc/npc/5fd49b9d1e3/",
+                    "Area": "Lakeland (X:21.1 Y:21.8)"
+                },
+                {
+                    "Name": "Tolas",
+                    "Url": "/lodestone/playguide/db/npc/npc/49c7635772a/",
+                    "Area": "Lakeland (X:27.7 Y:23.7)"
+                },
+                {
+                    "Name": "Tolas",
+                    "Url": "/lodestone/playguide/db/npc/npc/f0e100cc60e/",
+                    "Area": "Lakeland (X:36.9 Y:20.2)"
+                },
+                {
+                    "Name": "Callea",
+                    "Url": "/lodestone/playguide/db/npc/npc/7e9255ee22f/",
+                    "Area": "The Crystarium (X:10.1 Y:13.0)"
+                },
+                {
+                    "Name": "Mauwyl",
+                    "Url": "/lodestone/playguide/db/npc/npc/438f69495b9/",
+                    "Area": "The Crystarium (X:10.1 Y:13.0)"
+                },
+                {
+                    "Name": "Tolas",
+                    "Url": "/lodestone/playguide/db/npc/npc/a40300bcb95/",
+                    "Area": "The Crystarium (X:10.1 Y:12.9)"
+                }
+            ]
+        },
+        "Seq": 21,
+        "oldID": 69051,
+        "Map": {
+            "ID": 491
+        }
+    },
+    {
+        "ID": "c0f4139af9f",
+        "Name": " From a Distance",
+        "Location": "The Crystarium",
+        "Level": 70,
+        "JournalSection": 3,
+        "JournalCategory": 50,
+        "JournalGenre": "Lakeland Sidequests",
+        "Url": "/lodestone/playguide/db/quest/c0f4139af9f/",
+        "Image": null,
+        "Icon": "common_normal",
+        "Issuer": "Anthibert",
+        "StartLocation": {
+            "Name": "The Crystarium",
+            "X": "9.8",
+            "Y": "5.9"
+        },
+        "StartClass": null,
+        "Job": "",
+        "Company": "Not specified",
+        "Requirement": "Not specified",
+        "Rewards": {
+            "Gil": 606,
+            "Exp": null,
+            "ItemsMand": [],
+            "ItemsOpt": []
+        },
+        "Infos": {
+            "PrevQuests": [
+                {
+                    "Name": "Travelers of Norvrandt",
+                    "Url": "/lodestone/playguide/db/quest/50180402087/",
+                    "Area": "The Crystarium",
+                    "Level": "70"
+                }
+            ],
+            "NextQuests": [
+                {
+                    "Name": "Curious Child",
+                    "Url": "/lodestone/playguide/db/npc/npc/3f9b78e54f2/",
+                    "Area": "The Crystarium (X:9.8 Y:5.8)"
+                }
+            ]
+        },
+        "Seq": 33,
+        "oldID": 68883,
+        "Map": {
+            "ID": 497
+        }
+    },
+    {
+        "ID": "c34654d9ae9",
+        "Name": " Rite of Passage",
+        "Location": "Lakeland",
+        "Level": 70,
+        "JournalSection": 3,
+        "JournalCategory": 50,
+        "JournalGenre": "Lakeland Sidequests",
+        "Url": "/lodestone/playguide/db/quest/c34654d9ae9/",
+        "Image": null,
+        "Icon": "common_normal",
+        "Issuer": "Thafe",
+        "StartLocation": {
+            "Name": "Lakeland",
+            "X": "23.4",
+            "Y": "33.8"
+        },
+        "StartClass": null,
+        "Job": "",
+        "Company": "Not specified",
+        "Requirement": "Not specified",
+        "Rewards": {
+            "Gil": 752,
+            "Exp": null,
+            "ItemsMand": [],
+            "ItemsOpt": []
+        },
+        "Infos": {
+            "PrevQuests": [
+                {
+                    "Name": "To Storm-tossed Seas",
+                    "Url": "/lodestone/playguide/db/quest/d4151297369/",
+                    "Area": "The Crystarium",
+                    "Level": "79"
+                }
+            ],
+            "NextQuests": [
+                {
+                    "Name": "Thafe's Brother",
+                    "Url": "/lodestone/playguide/db/npc/npc/4cc039d5488/",
+                    "Area": "Lakeland (X:8.6 Y:23.0)"
+                }
+            ]
+        },
+        "Seq": 23,
+        "oldID": 69106,
+        "Map": {
+            "ID": 491
+        }
+    },
+    {
+        "ID": "c4fe15d1bdd",
+        "Name": " Simple Treasures",
+        "Location": "Lakeland",
+        "Level": 70,
+        "JournalSection": 3,
+        "JournalCategory": 50,
+        "JournalGenre": "Lakeland Sidequests",
+        "Url": "/lodestone/playguide/db/quest/c4fe15d1bdd/",
+        "Image": null,
+        "Icon": "common_normal",
+        "Issuer": "Ortwil",
+        "StartLocation": {
+            "Name": "Lakeland",
+            "X": "21.3",
+            "Y": "34.9"
+        },
+        "StartClass": null,
+        "Job": "",
+        "Company": "Not specified",
+        "Requirement": "Not specified",
+        "Rewards": {
+            "Gil": 752,
+            "Exp": null,
+            "ItemsMand": [],
+            "ItemsOpt": []
+        },
+        "Infos": {
+            "PrevQuests": [
+                {
+                    "Name": "To Storm-tossed Seas",
+                    "Url": "/lodestone/playguide/db/quest/d4151297369/",
+                    "Area": "The Crystarium",
+                    "Level": "79"
+                }
+            ],
+            "NextQuests": [
+                {
+                    "Name": "Short-haired Boy",
+                    "Url": "/lodestone/playguide/db/npc/npc/d80cc40251f/",
+                    "Area": "Lakeland (X:18.4 Y:39.0)"
+                }
+            ]
+        },
+        "Seq": 28,
+        "oldID": 69111,
+        "Map": {
+            "ID": 491
+        }
+    },
+    {
+        "ID": "c74f8bcb58d",
+        "Name": " Scrumptious Squirmers",
+        "Location": "Lakeland",
+        "Level": 70,
+        "JournalSection": 3,
+        "JournalCategory": 50,
+        "JournalGenre": "Lakeland Sidequests",
+        "Url": "/lodestone/playguide/db/quest/c74f8bcb58d/",
+        "Image": null,
+        "Icon": "common_normal",
+        "Issuer": "Ambarth",
+        "StartLocation": {
+            "Name": "Lakeland",
+            "X": "19.1",
+            "Y": "36.4"
+        },
+        "StartClass": null,
+        "Job": "",
+        "Company": "Not specified",
+        "Requirement": "Not specified",
+        "Rewards": {
+            "Gil": 606,
+            "Exp": null,
+            "ItemsMand": [],
+            "ItemsOpt": []
+        },
+        "Infos": {
+            "PrevQuests": [
+                {
+                    "Name": "To Storm-tossed Seas",
+                    "Url": "/lodestone/playguide/db/quest/d4151297369/",
+                    "Area": "The Crystarium",
+                    "Level": "79"
+                }
+            ],
+            "NextQuests": [
+                {
+                    "Name": "Mord Merchant",
+                    "Url": "/lodestone/playguide/db/npc/npc/e837604108a/",
+                    "Area": "Lakeland (X:33.3 Y:33.3)"
+                }
+            ]
+        },
+        "Seq": 27,
+        "oldID": 69110,
+        "Map": {
+            "ID": 491
+        }
+    },
+    {
+        "ID": "cb8c8f79d62",
+        "Name": " An Unreasonable Request",
+        "Location": "Lakeland",
+        "Level": 70,
+        "JournalSection": 3,
+        "JournalCategory": 50,
+        "JournalGenre": "Lakeland Sidequests",
+        "Url": "/lodestone/playguide/db/quest/cb8c8f79d62/",
+        "Image": null,
+        "Icon": "function_normal",
+        "Issuer": "Teanna",
+        "StartLocation": {
+            "Name": "Lakeland",
+            "X": "7.4",
+            "Y": "14.4"
+        },
+        "StartClass": null,
+        "Job": "",
+        "Company": "Not specified",
+        "Requirement": "Not specified",
+        "Rewards": {
+            "Gil": 679,
+            "Exp": null,
+            "ItemsMand": [
+                {
+                    "Icon": "https://img.finalfantasyxiv.com/lds/pc/global/images/itemicon/af/af26e4b79fb1de83550f6ddbd3a170408fcfe702.png?n5.5",
+                    "Name": "",
+                    "Amount": null
+                }
+            ],
+            "ItemsOpt": []
+        },
+        "Infos": {
+            "PrevQuests": [
+                {
+                    "Name": "Logistics of War",
+                    "Url": "/lodestone/playguide/db/quest/6d27cdc6eaf/",
+                    "Area": "The Crystarium",
+                    "Level": "72"
+                }
+            ],
+            "NextQuests": [
+                {
+                    "Name": " You've Got the Tatch",
+                    "Url": "/lodestone/playguide/db/quest/34a900add77/",
+                    "Area": "Lakeland",
+                    "Level": "70"
+                }
+            ],
+            "NPCs": [
+                {
+                    "Name": "Joanard",
+                    "Url": "/lodestone/playguide/db/npc/npc/94318814fc8/",
+                    "Area": "Lakeland (X:18.3 Y:18.7)"
+                },
+                {
+                    "Name": "Lewto-Sai",
+                    "Url": "/lodestone/playguide/db/npc/npc/608ae9df201/",
+                    "Area": "Lakeland (X:19.0 Y:18.2)"
+                },
+                {
+                    "Name": "Mynes",
+                    "Url": "/lodestone/playguide/db/npc/npc/ba512230a61/",
+                    "Area": "Lakeland (X:18.5 Y:18.9)"
+                },
+                {
+                    "Name": "Varlier",
+                    "Url": "/lodestone/playguide/db/npc/npc/d9b2a1f9f39/",
+                    "Area": "Lakeland (X:17.5 Y:18.4)"
+                }
+            ]
+        },
+        "Seq": 5,
+        "oldID": 68922,
+        "Map": {
+            "ID": 491
+        }
+    },
+    {
+        "ID": "cede22e065d",
+        "Name": "Too Many Nutters",
+        "Location": "The Crystarium",
+        "Level": 80,
+        "JournalSection": 3,
+        "JournalCategory": 50,
+        "JournalGenre": "Lakeland Sidequests",
+        "Url": "/lodestone/playguide/db/quest/cede22e065d/",
+        "Image": null,
+        "Icon": "function_normal",
+        "Issuer": "Halldor",
+        "StartLocation": {
+            "Name": "The Crystarium",
+            "X": "9.5",
+            "Y": "9.3"
+        },
+        "StartClass": null,
+        "Job": "",
+        "Company": "Not specified",
+        "Requirement": "Not specified",
+        "Rewards": {
+            "Gil": 615,
+            "Exp": 0,
+            "ItemsMand": [],
+            "ItemsOpt": []
+        },
+        "Infos": {
+            "PrevQuests": [
+                {
+                    "Name": "How Do You Like Three Nuts",
+                    "Url": "/lodestone/playguide/db/quest/1b95adabe01/",
+                    "Area": "The Crystarium",
+                    "Level": "76"
+                }
+            ],
+            "NextQuests": [
+                {
+                    "Name": "Xylle",
+                    "Url": "/lodestone/playguide/db/shop/4126551651a/",
+                    "Area": "The Crystarium (X:9.4 Y:9.5)"
+                }
+            ]
+        },
+        "Seq": 46,
+        "oldID": 69136,
+        "Map": {
+            "ID": 497
+        }
+    },
+    {
+        "ID": "d0dd56bde42",
+        "Name": " Bigger Fish to Dry",
+        "Location": "Lakeland",
+        "Level": 70,
+        "JournalSection": 3,
+        "JournalCategory": 50,
+        "JournalGenre": "Lakeland Sidequests",
+        "Url": "/lodestone/playguide/db/quest/d0dd56bde42/",
+        "Image": null,
+        "Icon": "common_normal",
+        "Issuer": "Casswren",
+        "StartLocation": {
+            "Name": "Lakeland",
+            "X": "20.6",
+            "Y": "35.0"
+        },
+        "StartClass": null,
+        "Job": "",
+        "Company": "Not specified",
+        "Requirement": "Not specified",
+        "Rewards": {
+            "Gil": 606,
+            "Exp": null,
+            "ItemsMand": [],
+            "ItemsOpt": []
+        },
+        "Infos": {
+            "PrevQuests": [
+                {
+                    "Name": "To Storm-tossed Seas",
+                    "Url": "/lodestone/playguide/db/quest/d4151297369/",
+                    "Area": "The Crystarium",
+                    "Level": "79"
+                }
+            ],
+            "NextQuests": [
+                {
+                    "Name": "Incen",
+                    "Url": "/lodestone/playguide/db/npc/npc/ac2b8e51119/",
+                    "Area": "Lakeland (X:22.8 Y:34.1)"
+                },
+                {
+                    "Name": "Ortwil",
+                    "Url": "/lodestone/playguide/db/npc/npc/cc9b5fef41c/",
+                    "Area": "Lakeland (X:21.3 Y:34.9)"
+                },
+                {
+                    "Name": "Yalmet",
+                    "Url": "/lodestone/playguide/db/npc/npc/5c8a1fbc918/",
+                    "Area": "Lakeland (X:18.9 Y:35.2)"
+                }
+            ]
+        },
+        "Seq": 24,
+        "oldID": 69107,
+        "Map": {
+            "ID": 491
+        }
+    },
+    {
+        "ID": "d17c5a65951",
+        "Name": " On Her Own",
+        "Location": "Lakeland",
+        "Level": 70,
+        "JournalSection": 3,
+        "JournalCategory": 50,
+        "JournalGenre": "Lakeland Sidequests",
+        "Url": "/lodestone/playguide/db/quest/d17c5a65951/",
+        "Image": "https://img.finalfantasyxiv.com/lds/pc/global/images/itemicon/30/3069dfcd4737dd8bc736ca55887f8759e7015320.png?n5.5",
+        "Icon": "common_normal",
+        "Issuer": "Callea",
+        "StartLocation": {
+            "Name": "Lakeland",
+            "X": "37.3",
+            "Y": "20.1"
+        },
+        "StartClass": null,
+        "Job": "",
+        "Company": "Not specified",
+        "Requirement": "Not specified",
+        "Rewards": {
+            "Gil": 679,
+            "Exp": null,
+            "ItemsMand": [
+                {
+                    "Icon": "https://img.finalfantasyxiv.com/lds/pc/global/images/itemicon/e3/e37fdec0415b0585949d8355ae92379da2a0c37d.png?n5.5",
+                    "Name": "Bluespirit Ring Coffer",
+                    "Amount": 1,
+                    "Url": "/lodestone/playguide/db/item/1f4e9b66bd0/"
+                }
+            ],
+            "ItemsOpt": []
+        },
+        "Infos": {
+            "PrevQuests": [
+                {
+                    "Name": "A Party Soon Divided",
+                    "Url": "/lodestone/playguide/db/quest/38280c82578/",
+                    "Area": "The Crystarium",
+                    "Level": "74"
+                }
+            ],
+            "NextQuests": [
+                {
+                    "Name": " Carrying On",
+                    "Url": "/lodestone/playguide/db/quest/a91ade1a1b4/",
+                    "Area": "Lakeland",
+                    "Level": "70"
+                }
+            ],
+            "NPCs": [
+                {
+                    "Name": "Mynes",
+                    "Url": "/lodestone/playguide/db/npc/npc/ba512230a61/",
+                    "Area": "Lakeland (X:18.5 Y:18.9)"
+                },
+                {
+                    "Name": "Nielden",
+                    "Url": "/lodestone/playguide/db/npc/npc/4a28d67f49c/",
+                    "Area": "Lakeland (X:18.8 Y:19.5)"
+                },
+                {
+                    "Name": "Nielden",
+                    "Url": "/lodestone/playguide/db/npc/npc/a264769ca78/",
+                    "Area": "Lakeland (X:18.7 Y:19.8)"
+                }
+            ]
+        },
+        "Seq": 14,
+        "oldID": 68992,
+        "Map": {
+            "ID": 491
+        }
+    },
+    {
+        "ID": "d4938757638",
+        "Name": " Scars of War",
+        "Location": "The Crystarium",
+        "Level": 70,
+        "JournalSection": 3,
+        "JournalCategory": 50,
+        "JournalGenre": "Lakeland Sidequests",
+        "Url": "/lodestone/playguide/db/quest/d4938757638/",
+        "Image": "https://img.finalfantasyxiv.com/lds/pc/global/images/itemicon/0a/0acf0b50924484ba4c41d9c433f6881c4fc058c9.png?n5.5",
+        "Icon": "common_normal",
+        "Issuer": "Mauwyl",
+        "StartLocation": {
+            "Name": "The Crystarium",
+            "X": "12.5",
+            "Y": "15.8"
+        },
+        "StartClass": null,
+        "Job": "",
+        "Company": "Not specified",
+        "Requirement": "Not specified",
+        "Rewards": {
+            "Gil": 961,
+            "Exp": null,
+            "ItemsMand": [
+                {
+                    "Icon": "https://img.finalfantasyxiv.com/lds/pc/global/images/itemicon/77/77ee72d6d84cf5dcd91052f60ff70cbb93314d8e.png?n5.5",
+                    "Name": "Risotto al Nero",
+                    "Amount": 2,
+                    "Url": "/lodestone/playguide/db/item/6eca851ed67/"
+                }
+            ],
+            "ItemsOpt": []
+        },
+        "Infos": {
+            "PrevQuests": [
+                {
+                    "Name": "More than a Hunch",
+                    "Url": "/lodestone/playguide/db/quest/5c8aebeff0e/",
+                    "Area": "Amh Araeng",
+                    "Level": "77"
+                }
+            ],
+            "NextQuests": [
+                {
+                    "Name": " His Secret Shame",
+                    "Url": "/lodestone/playguide/db/quest/fc7272dfbf5/",
+                    "Area": "Lakeland",
+                    "Level": "70"
+                }
+            ],
+            "NPCs": [
+                {
+                    "Name": "Mauwyl",
+                    "Url": "/lodestone/playguide/db/npc/npc/833343c1097/",
+                    "Area": "Lakeland (X:8.3 Y:17.1)"
+                },
+                {
+                    "Name": "Mauwyl",
+                    "Url": "/lodestone/playguide/db/npc/npc/33c2df02804/",
+                    "Area": "Lakeland (X:8.1 Y:18.4)"
+                },
+                {
+                    "Name": "Seanard",
+                    "Url": "/lodestone/playguide/db/npc/npc/718b9c50904/",
+                    "Area": "Lakeland (X:6.1 Y:15.3)"
+                },
+                {
+                    "Name": "Tao-Tistt",
+                    "Url": "/lodestone/playguide/db/npc/npc/0b3ad67a0f4/",
+                    "Area": "Lakeland (X:6.0 Y:17.2)"
+                }
+            ]
+        },
+        "Seq": 37,
+        "oldID": 69069,
+        "Map": {
+            "ID": 497
+        }
+    },
+    {
+        "ID": "ea9b64504a7",
+        "Name": " The Sullen Man",
+        "Location": "Lakeland",
+        "Level": 70,
+        "JournalSection": 3,
+        "JournalCategory": 50,
+        "JournalGenre": "Lakeland Sidequests",
+        "Url": "/lodestone/playguide/db/quest/ea9b64504a7/",
+        "Image": null,
+        "Icon": "common_normal",
+        "Issuer": "Dadfort",
+        "StartLocation": {
+            "Name": "Lakeland",
+            "X": "18.9",
+            "Y": "35.5"
+        },
+        "StartClass": null,
+        "Job": "",
+        "Company": "Not specified",
+        "Requirement": "Not specified",
+        "Rewards": {
+            "Gil": 606,
+            "Exp": null,
+            "ItemsMand": [],
+            "ItemsOpt": [
+                {
+                    "Icon": "https://img.finalfantasyxiv.com/lds/pc/global/images/itemicon/80/80c4291f208dea1eb03752cd416541d0be52bfbe.png?n5.5",
+                    "Name": "Lotus Pink Dye",
+                    "Amount": 3,
+                    "Url": "/lodestone/playguide/db/item/e9eb414a2cb/"
+                },
+                {
+                    "Icon": "https://img.finalfantasyxiv.com/lds/pc/global/images/itemicon/80/80c4291f208dea1eb03752cd416541d0be52bfbe.png?n5.5",
+                    "Name": "Plum Purple Dye",
+                    "Amount": 3,
+                    "Url": "/lodestone/playguide/db/item/f840860d5e3/"
+                },
+                {
+                    "Icon": "https://img.finalfantasyxiv.com/lds/pc/global/images/itemicon/80/80c4291f208dea1eb03752cd416541d0be52bfbe.png?n5.5",
+                    "Name": "Regal Purple Dye",
+                    "Amount": 3,
+                    "Url": "/lodestone/playguide/db/item/356c9896f78/"
+                },
+                {
+                    "Icon": "https://img.finalfantasyxiv.com/lds/pc/global/images/itemicon/ba/baa2341dd17414fae7fd62ae7bc62c64589b67be.png?n5.5",
+                    "Name": "Nightworld Silver Piece",
+                    "Amount": 2,
+                    "Url": "/lodestone/playguide/db/item/50ed823230e/"
+                }
+            ]
+        },
+        "Infos": {
+            "PrevQuests": [
+                {
+                    "Name": "To Storm-tossed Seas",
+                    "Url": "/lodestone/playguide/db/quest/d4151297369/",
+                    "Area": "The Crystarium",
+                    "Level": "79"
+                }
+            ],
+            "NextQuests": [
+                {
+                    "Name": "Facet Investigator",
+                    "Url": "/lodestone/playguide/db/npc/npc/ff3600b21ab/",
+                    "Area": "Lakeland (X:18.2 Y:25.4)"
+                },
+                {
+                    "Name": "Facet Investigator",
+                    "Url": "/lodestone/playguide/db/npc/npc/a077b672245/",
+                    "Area": "Lakeland (X:18.5 Y:35.4)"
+                }
+            ]
+        },
+        "Seq": 22,
+        "oldID": 69105,
+        "Map": {
+            "ID": 491
+        }
+    },
+    {
+        "ID": "ec566bf9c81",
+        "Name": " A Jobb Well Done",
+        "Location": "The Crystarium",
+        "Level": 70,
+        "JournalSection": 3,
+        "JournalCategory": 50,
+        "JournalGenre": "Lakeland Sidequests",
+        "Url": "/lodestone/playguide/db/quest/ec566bf9c81/",
+        "Image": null,
+        "Icon": "function_normal",
+        "Issuer": "Heggie",
+        "StartLocation": {
+            "Name": "The Crystarium",
+            "X": "12.0",
+            "Y": "16.4"
+        },
+        "StartClass": null,
+        "Job": "",
+        "Company": "Not specified",
+        "Requirement": "Not specified",
+        "Rewards": {
+            "Gil": 829,
+            "Exp": null,
+            "ItemsMand": [
+                {
+                    "Icon": "https://img.finalfantasyxiv.com/lds/pc/global/images/itemicon/09/09570b3c3c46b1e8a52e8475c5b16cbcca432d97.png?n5.5",
+                    "Name": "Grilled Rail",
+                    "Amount": 2,
+                    "Url": "/lodestone/playguide/db/item/aedd374afad/"
+                },
+                {
+                    "Icon": "https://img.finalfantasyxiv.com/lds/pc/global/images/itemicon/af/af26e4b79fb1de83550f6ddbd3a170408fcfe702.png?n5.5",
+                    "Name": "",
+                    "Amount": null
+                }
+            ],
+            "ItemsOpt": []
+        },
+        "Infos": {
+            "PrevQuests": [
+                {
+                    "Name": "Warrior of Darkness",
+                    "Url": "/lodestone/playguide/db/quest/0b1c0f7a203/",
+                    "Area": "Lakeland",
+                    "Level": "71"
+                }
+            ],
+            "NextQuests": [
+                {
+                    "Name": " Stock and Barrel",
+                    "Url": "/lodestone/playguide/db/quest/31f2a3bcbf1/",
+                    "Area": "Lakeland",
+                    "Level": "70"
+                },
+                {
+                    "Name": " Classical Condition",
+                    "Url": "/lodestone/playguide/db/quest/599449225e5/",
+                    "Area": "Lakeland",
+                    "Level": "70"
+                }
+            ],
+            "NPCs": [
+                {
+                    "Name": "Bjorn",
+                    "Url": "/lodestone/playguide/db/npc/npc/916834aad99/",
+                    "Area": "Lakeland (X:35.7 Y:20.9)"
+                },
+                {
+                    "Name": "Chathwick",
+                    "Url": "/lodestone/playguide/db/npc/npc/7bc97ede8c6/",
+                    "Area": "Lakeland (X:37.1 Y:21.2)"
+                },
+                {
+                    "Name": "Grimcogg",
+                    "Url": "/lodestone/playguide/db/npc/npc/9969fa4d74e/",
+                    "Area": "Lakeland (X:35.6 Y:21.5)"
+                },
+                {
+                    "Name": "Joanric",
+                    "Url": "/lodestone/playguide/db/npc/npc/16f6d4cd228/",
+                    "Area": "Lakeland (X:35.5 Y:19.8)"
+                },
+                {
+                    "Name": "Roaldard",
+                    "Url": "/lodestone/playguide/db/npc/npc/39d8ec2f03c/",
+                    "Area": "Lakeland (X:37.5 Y:21.6)"
+                }
+            ]
+        },
+        "Seq": 36,
+        "oldID": 68916,
+        "Map": {
+            "ID": 497
+        }
+    },
+    {
+        "ID": "f2816833d78",
+        "Name": "Nuts to You",
+        "Location": "The Crystarium",
+        "Level": 70,
+        "JournalSection": 3,
+        "JournalCategory": 50,
+        "JournalGenre": "Lakeland Sidequests",
+        "Url": "/lodestone/playguide/db/quest/f2816833d78/",
+        "Image": null,
+        "Icon": "function_normal",
+        "Issuer": "Hume Lout",
+        "StartLocation": {
+            "Name": "The Crystarium",
+            "X": "12.1",
+            "Y": "15.0"
+        },
+        "StartClass": null,
+        "Job": "",
+        "Company": "Not specified",
+        "Requirement": "Not specified",
+        "Rewards": {
+            "Gil": 606,
+            "Exp": 230000,
+            "ItemsMand": [],
+            "ItemsOpt": []
+        },
+        "Infos": {
+            "PrevQuests": [
+                {
+                    "Name": "Travelers of Norvrandt",
+                    "Url": "/lodestone/playguide/db/quest/50180402087/",
+                    "Area": "The Crystarium",
+                    "Level": "70"
+                },
+                {
+                    "Name": "Elite and Dangerous",
+                    "Url": "/lodestone/playguide/db/quest/a5faad05086/",
+                    "Area": "Ishgard",
+                    "Level": "60"
+                }
+            ],
+            "NextQuests": [
+                {
+                    "Name": "Two Nuts Too Nutty",
+                    "Url": "/lodestone/playguide/db/quest/293910d3727/",
+                    "Area": "The Crystarium",
+                    "Level": "73"
+                }
+            ],
+            "NPCs": [
+                {
+                    "Name": "Halldor",
+                    "Url": "/lodestone/playguide/db/npc/npc/191ecf7f71e/",
+                    "Area": "The Crystarium (X:9.5 Y:9.3)"
+                },
+                {
+                    "Name": "Xylle",
+                    "Url": "/lodestone/playguide/db/shop/4126551651a/",
+                    "Area": "The Crystarium (X:9.4 Y:9.5)"
+                }
+            ]
+        },
+        "Seq": 43,
+        "oldID": 69133,
+        "Map": {
+            "ID": 497
+        }
+    },
+    {
+        "ID": "fb580dc02d3",
+        "Name": " Treasure-hunting Tykes",
+        "Location": "Lakeland",
+        "Level": 70,
+        "JournalSection": 3,
+        "JournalCategory": 50,
+        "JournalGenre": "Lakeland Sidequests",
+        "Url": "/lodestone/playguide/db/quest/fb580dc02d3/",
+        "Image": null,
+        "Icon": "common_normal",
+        "Issuer": "Yalric",
+        "StartLocation": {
+            "Name": "Lakeland",
+            "X": "16.7",
+            "Y": "36.4"
+        },
+        "StartClass": null,
+        "Job": "",
+        "Company": "Not specified",
+        "Requirement": "Not specified",
+        "Rewards": {
+            "Gil": 606,
+            "Exp": null,
+            "ItemsMand": [
+                {
+                    "Icon": "https://img.finalfantasyxiv.com/lds/pc/global/images/itemicon/fb/fb000afa3b641a86f1f443904fff67f28e2c5b11.png?n5.5",
+                    "Name": "",
+                    "Amount": null
+                }
+            ],
+            "ItemsOpt": []
+        },
+        "Infos": {
+            "PrevQuests": [
+                {
+                    "Name": "To Storm-tossed Seas",
+                    "Url": "/lodestone/playguide/db/quest/d4151297369/",
+                    "Area": "The Crystarium",
+                    "Level": "79"
+                }
+            ],
+            "NextQuests": [
+                {
+                    "Name": "Vayne",
+                    "Url": "/lodestone/playguide/db/npc/npc/ec61584afd8/",
+                    "Area": "Lakeland (X:16.7 Y:36.4)"
+                },
+                {
+                    "Name": "Vonnden",
+                    "Url": "/lodestone/playguide/db/npc/npc/a4ed4ed50f3/",
+                    "Area": "Lakeland (X:16.7 Y:36.4)"
+                }
+            ]
+        },
+        "Seq": 25,
+        "oldID": 69108,
+        "Map": {
+            "ID": 491
+        }
+    },
+    {
+        "ID": "fc7272dfbf5",
+        "Name": " His Secret Shame",
+        "Location": "Lakeland",
+        "Level": 70,
+        "JournalSection": 3,
+        "JournalCategory": 50,
+        "JournalGenre": "Lakeland Sidequests",
+        "Url": "/lodestone/playguide/db/quest/fc7272dfbf5/",
+        "Image": "https://img.finalfantasyxiv.com/lds/pc/global/images/itemicon/0a/0acf0b50924484ba4c41d9c433f6881c4fc058c9.png?n5.5",
+        "Icon": "common_normal",
+        "Issuer": "Mauwyl",
+        "StartLocation": {
+            "Name": "Lakeland",
+            "X": "8.3",
+            "Y": "17.1"
+        },
+        "StartClass": null,
+        "Job": "",
+        "Company": "Not specified",
+        "Requirement": "Not specified",
+        "Rewards": {
+            "Gil": 715,
+            "Exp": null,
+            "ItemsMand": [],
+            "ItemsOpt": []
+        },
+        "Infos": {
+            "PrevQuests": [
+                {
+                    "Name": " Scars of War",
+                    "Url": "/lodestone/playguide/db/quest/d4938757638/",
+                    "Area": "The Crystarium",
+                    "Level": "70"
+                }
+            ],
+            "NextQuests": [
+                {
+                    "Name": " A Much-needed Respite",
+                    "Url": "/lodestone/playguide/db/quest/3383976ab8e/",
+                    "Area": "Lakeland",
+                    "Level": "70"
+                }
+            ],
+            "NPCs": [
+                {
+                    "Name": "Mauwyl",
+                    "Url": "/lodestone/playguide/db/npc/npc/f99b6371252/",
+                    "Area": "Lakeland (X:8.6 Y:18.6)"
+                },
+                {
+                    "Name": "Tolas",
+                    "Url": "/lodestone/playguide/db/npc/npc/b0774504710/",
+                    "Area": "Lakeland (X:8.6 Y:18.6)"
+                },
+                {
+                    "Name": "Tolas",
+                    "Url": "/lodestone/playguide/db/npc/npc/97d838b5e00/",
+                    "Area": "Lakeland (X:11.3 Y:21.0)"
+                }
+            ]
+        },
+        "Seq": 18,
+        "oldID": 69070,
+        "Map": {
+            "ID": 491
+        }
+    }
+]

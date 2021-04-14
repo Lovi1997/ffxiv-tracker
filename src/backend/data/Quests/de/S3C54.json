@@ -1,0 +1,2888 @@
+[
+    {
+        "ID": "01a4c3cfde4",
+        "Name": " Ehrliche Finderin",
+        "Location": "Der Große Wald Rak'tika",
+        "Level": 70,
+        "JournalSection": 3,
+        "JournalCategory": 54,
+        "JournalGenre": "Aufträge Rak'tika",
+        "Url": "/lodestone/playguide/db/quest/01a4c3cfde4/",
+        "Image": null,
+        "Icon": "common_normal",
+        "Issuer": "Nymet",
+        "StartLocation": {
+            "Name": "Der Große Wald Rak'tika",
+            "X": "30.0",
+            "Y": "19.1"
+        },
+        "StartClass": null,
+        "Job": "",
+        "Company": "Keine Angabe",
+        "Requirement": "Keine Angabe",
+        "Rewards": {
+            "Gil": 1100,
+            "Exp": null,
+            "ItemsMand": [],
+            "ItemsOpt": [
+                {
+                    "Icon": "https://img.finalfantasyxiv.com/lds/pc/global/images/itemicon/7b/7bf85ff916a27cc2b17a3cbe2c9509757a2ed3fd.png?n5.5",
+                    "Name": "Abendroter Farbstoff",
+                    "Amount": 3,
+                    "Url": "/lodestone/playguide/db/item/90e6dc94361/"
+                },
+                {
+                    "Icon": "https://img.finalfantasyxiv.com/lds/pc/global/images/itemicon/7b/7bf85ff916a27cc2b17a3cbe2c9509757a2ed3fd.png?n5.5",
+                    "Name": "Kürbisoranger Farbstoff",
+                    "Amount": 3,
+                    "Url": "/lodestone/playguide/db/item/840a8a38cdb/"
+                },
+                {
+                    "Icon": "https://img.finalfantasyxiv.com/lds/pc/global/images/itemicon/7b/7bf85ff916a27cc2b17a3cbe2c9509757a2ed3fd.png?n5.5",
+                    "Name": "Lehmbrauner Farbstoff",
+                    "Amount": 3,
+                    "Url": "/lodestone/playguide/db/item/d7876384acd/"
+                },
+                {
+                    "Icon": "https://img.finalfantasyxiv.com/lds/pc/global/images/itemicon/ba/baa2341dd17414fae7fd62ae7bc62c64589b67be.png?n5.5",
+                    "Name": "Antikes Silberstück",
+                    "Amount": 2,
+                    "Url": "/lodestone/playguide/db/item/50ed823230e/"
+                }
+            ]
+        },
+        "Infos": {
+            "PrevQuests": [
+                {
+                    "Name": "Offene Ohren in Fanow",
+                    "Url": "/lodestone/playguide/db/quest/5ed4185ccbb/",
+                    "Area": "Der Große Wald Rak'tika",
+                    "Level": "75"
+                }
+            ],
+            "NextQuests": [
+                {
+                    "Name": "Mädchen mit Pferdeschwanz",
+                    "Url": "/lodestone/playguide/db/npc/npc/7c755c101e8/",
+                    "Area": "Der Große Wald Rak'tika (X:18.8 Y:26.1)"
+                },
+                {
+                    "Name": "Mädchen mit Pferdeschwänzen",
+                    "Url": "/lodestone/playguide/db/npc/npc/1389208c48e/",
+                    "Area": "Der Große Wald Rak'tika (X:21.1 Y:27.8)"
+                },
+                {
+                    "Name": "Mädchen ohne Pferdeschwanz",
+                    "Url": "/lodestone/playguide/db/npc/npc/50c89dcd80d/",
+                    "Area": "Der Große Wald Rak'tika (X:20.4 Y:27.1)"
+                }
+            ]
+        },
+        "Seq": 25,
+        "oldID": 69001,
+        "Map": {
+            "ID": 495
+        }
+    },
+    {
+        "ID": "03d0abed4f4",
+        "Name": " Seltener Besuch",
+        "Location": "Der Große Wald Rak'tika",
+        "Level": 70,
+        "JournalSection": 3,
+        "JournalCategory": 54,
+        "JournalGenre": "Aufträge Rak'tika",
+        "Url": "/lodestone/playguide/db/quest/03d0abed4f4/",
+        "Image": null,
+        "Icon": "common_normal",
+        "Issuer": "Lebhafte Viis",
+        "StartLocation": {
+            "Name": "Der Große Wald Rak'tika",
+            "X": "31.6",
+            "Y": "17.0"
+        },
+        "StartClass": null,
+        "Job": "",
+        "Company": "Keine Angabe",
+        "Requirement": "Keine Angabe",
+        "Rewards": {
+            "Gil": 1118,
+            "Exp": null,
+            "ItemsMand": [],
+            "ItemsOpt": []
+        },
+        "Infos": {
+            "PrevQuests": [
+                {
+                    "Name": "Offene Ohren in Fanow",
+                    "Url": "/lodestone/playguide/db/quest/5ed4185ccbb/",
+                    "Area": "Der Große Wald Rak'tika",
+                    "Level": "75"
+                }
+            ],
+            "NextQuests": [
+                {
+                    "Name": "Lebhafte Viis",
+                    "Url": "/lodestone/playguide/db/npc/npc/76ac82dba9a/",
+                    "Area": "Der Große Wald Rak'tika (X:32.3 Y:20.7)"
+                },
+                {
+                    "Name": "Lebhafte Viis",
+                    "Url": "/lodestone/playguide/db/npc/npc/bfee03cb909/",
+                    "Area": "Der Große Wald Rak'tika (X:23.0 Y:22.2)"
+                }
+            ]
+        },
+        "Seq": 24,
+        "oldID": 69000,
+        "Map": {
+            "ID": 495
+        }
+    },
+    {
+        "ID": "16f7a655874",
+        "Name": " Synchronbeten in Perfektion",
+        "Location": "Der Große Wald Rak'tika",
+        "Level": 70,
+        "JournalSection": 3,
+        "JournalCategory": 54,
+        "JournalGenre": "Aufträge Rak'tika",
+        "Url": "/lodestone/playguide/db/quest/16f7a655874/",
+        "Image": "https://img.finalfantasyxiv.com/lds/pc/global/images/itemicon/f1/f1f5d4c46cdee604c3b2ab1ae6174fce007e2c3b.png?n5.5",
+        "Icon": "function_normal",
+        "Issuer": "Ciuna",
+        "StartLocation": {
+            "Name": "Der Große Wald Rak'tika",
+            "X": "31.3",
+            "Y": "16.9"
+        },
+        "StartClass": null,
+        "Job": "",
+        "Company": "Keine Angabe",
+        "Requirement": "Keine Angabe",
+        "Rewards": {
+            "Gil": 973,
+            "Exp": null,
+            "ItemsMand": [],
+            "ItemsOpt": [
+                {
+                    "Icon": "https://img.finalfantasyxiv.com/lds/pc/global/images/itemicon/4c/4c26ef4cea19c186d704cf6928b1f20359f7f74a.png?n5.5",
+                    "Name": "Baguette",
+                    "Amount": 2,
+                    "Url": "/lodestone/playguide/db/item/5aae6fde0d4/"
+                },
+                {
+                    "Icon": "https://img.finalfantasyxiv.com/lds/pc/global/images/itemicon/da/da7216f73b0cc772e8f68f3feaf7d20bffa3f095.png?n5.5",
+                    "Name": "Bluttomatensaft",
+                    "Amount": 2,
+                    "Url": "/lodestone/playguide/db/item/8292d2bf0ab/"
+                },
+                {
+                    "Icon": "https://img.finalfantasyxiv.com/lds/pc/global/images/itemicon/7b/7b58432ba9cf9eaef79ffcc7b201e8b808739b6e.png?n5.5",
+                    "Name": "Pixie-Apfeltasche",
+                    "Amount": 2,
+                    "Url": "/lodestone/playguide/db/item/4f2a4e25b2c/"
+                },
+                {
+                    "Icon": "https://img.finalfantasyxiv.com/lds/pc/global/images/itemicon/5c/5cd24f7fc4686eb2ba37f9b2145ada87447de825.png?n5.5",
+                    "Name": "Nusstörtchen",
+                    "Amount": 2,
+                    "Url": "/lodestone/playguide/db/item/072b14fe919/"
+                },
+                {
+                    "Icon": "https://img.finalfantasyxiv.com/lds/pc/global/images/itemicon/ba/baa2341dd17414fae7fd62ae7bc62c64589b67be.png?n5.5",
+                    "Name": "Antikes Silberstück",
+                    "Amount": 3,
+                    "Url": "/lodestone/playguide/db/item/50ed823230e/"
+                }
+            ]
+        },
+        "Infos": {
+            "PrevQuests": [
+                {
+                    "Name": " Der schwere Weg zur Harmonie",
+                    "Url": "/lodestone/playguide/db/quest/7cfb3e8ecd8/",
+                    "Area": "Der Große Wald Rak'tika",
+                    "Level": "70"
+                }
+            ],
+            "NextQuests": [
+                {
+                    "Name": " Unter dem Schutz zweier Sippen",
+                    "Url": "/lodestone/playguide/db/quest/a136d650871/",
+                    "Area": "Der Große Wald Rak'tika",
+                    "Level": "70"
+                }
+            ],
+            "NPCs": [
+                {
+                    "Name": "Ciuna",
+                    "Url": "/lodestone/playguide/db/npc/npc/b8540cebfb2/",
+                    "Area": "Der Große Wald Rak'tika (X:24.8 Y:12.0)"
+                },
+                {
+                    "Name": "Lanille",
+                    "Url": "/lodestone/playguide/db/npc/npc/74182318976/",
+                    "Area": "Der Große Wald Rak'tika (X:31.3 Y:16.9)"
+                },
+                {
+                    "Name": "Phyna",
+                    "Url": "/lodestone/playguide/db/npc/npc/de48f8ce4f2/",
+                    "Area": "Der Große Wald Rak'tika (X:24.8 Y:12.0)"
+                },
+                {
+                    "Name": "Phyna",
+                    "Url": "/lodestone/playguide/db/npc/npc/a00004fc0a7/",
+                    "Area": "Der Große Wald Rak'tika (X:31.3 Y:16.9)"
+                }
+            ]
+        },
+        "Seq": 44,
+        "oldID": 69017,
+        "Map": {
+            "ID": 495
+        }
+    },
+    {
+        "ID": "1fa6c8a8c0f",
+        "Name": " Frevelhafte Pläne",
+        "Location": "Der Große Wald Rak'tika",
+        "Level": 70,
+        "JournalSection": 3,
+        "JournalCategory": 54,
+        "JournalGenre": "Aufträge Rak'tika",
+        "Url": "/lodestone/playguide/db/quest/1fa6c8a8c0f/",
+        "Image": "https://img.finalfantasyxiv.com/lds/pc/global/images/itemicon/e6/e6c078e1a10dc44792286f3fc5cb94e4787c55c0.png?n5.5",
+        "Icon": "function_normal",
+        "Issuer": "Quinfort",
+        "StartLocation": {
+            "Name": "Der Große Wald Rak'tika",
+            "X": "20.9",
+            "Y": "27.8"
+        },
+        "StartClass": null,
+        "Job": "",
+        "Company": "Keine Angabe",
+        "Requirement": "Keine Angabe",
+        "Rewards": {
+            "Gil": 861,
+            "Exp": null,
+            "ItemsMand": [],
+            "ItemsOpt": [
+                {
+                    "Icon": "https://img.finalfantasyxiv.com/lds/pc/global/images/itemicon/4c/4c26ef4cea19c186d704cf6928b1f20359f7f74a.png?n5.5",
+                    "Name": "Baguette",
+                    "Amount": 2,
+                    "Url": "/lodestone/playguide/db/item/5aae6fde0d4/"
+                },
+                {
+                    "Icon": "https://img.finalfantasyxiv.com/lds/pc/global/images/itemicon/da/da7216f73b0cc772e8f68f3feaf7d20bffa3f095.png?n5.5",
+                    "Name": "Bluttomatensaft",
+                    "Amount": 2,
+                    "Url": "/lodestone/playguide/db/item/8292d2bf0ab/"
+                },
+                {
+                    "Icon": "https://img.finalfantasyxiv.com/lds/pc/global/images/itemicon/7b/7b58432ba9cf9eaef79ffcc7b201e8b808739b6e.png?n5.5",
+                    "Name": "Pixie-Apfeltasche",
+                    "Amount": 2,
+                    "Url": "/lodestone/playguide/db/item/4f2a4e25b2c/"
+                },
+                {
+                    "Icon": "https://img.finalfantasyxiv.com/lds/pc/global/images/itemicon/5c/5cd24f7fc4686eb2ba37f9b2145ada87447de825.png?n5.5",
+                    "Name": "Nusstörtchen",
+                    "Amount": 2,
+                    "Url": "/lodestone/playguide/db/item/072b14fe919/"
+                },
+                {
+                    "Icon": "https://img.finalfantasyxiv.com/lds/pc/global/images/itemicon/ba/baa2341dd17414fae7fd62ae7bc62c64589b67be.png?n5.5",
+                    "Name": "Antikes Silberstück",
+                    "Amount": 3,
+                    "Url": "/lodestone/playguide/db/item/50ed823230e/"
+                }
+            ]
+        },
+        "Infos": {
+            "PrevQuests": [
+                {
+                    "Name": " Streifen der Wahrheit",
+                    "Url": "/lodestone/playguide/db/quest/32f26e1410e/",
+                    "Area": "Der Große Wald Rak'tika",
+                    "Level": "70"
+                }
+            ],
+            "NextQuests": [
+                {
+                    "Name": " Unter dem Schutz zweier Sippen",
+                    "Url": "/lodestone/playguide/db/quest/a136d650871/",
+                    "Area": "Der Große Wald Rak'tika",
+                    "Level": "70"
+                }
+            ],
+            "NPCs": [
+                {
+                    "Name": "Feindseliges Kind der Ewigen Dunkelheit",
+                    "Url": "/lodestone/playguide/db/npc/npc/2611731fdb7/",
+                    "Area": "Der Große Wald Rak'tika (X:12.7 Y:35.9)"
+                },
+                {
+                    "Name": "Feindseliges Kind der Ewigen Dunkelheit",
+                    "Url": "/lodestone/playguide/db/npc/npc/782121de497/",
+                    "Area": "Der Große Wald Rak'tika (X:11.4 Y:23.4)"
+                },
+                {
+                    "Name": "Scharf blickendes Kind der Ewigen Dunkelheit",
+                    "Url": "/lodestone/playguide/db/npc/npc/09a0a902d1d/",
+                    "Area": "Der Große Wald Rak'tika (X:12.7 Y:36.0)"
+                },
+                {
+                    "Name": "Scharf blickendes Kind der Ewigen Dunkelheit",
+                    "Url": "/lodestone/playguide/db/npc/npc/93428bf038a/",
+                    "Area": "Der Große Wald Rak'tika (X:11.4 Y:23.4)"
+                },
+                {
+                    "Name": "Valan",
+                    "Url": "/lodestone/playguide/db/npc/npc/54b4d8d8d61/",
+                    "Area": "Der Große Wald Rak'tika (X:20.9 Y:27.8)"
+                },
+                {
+                    "Name": "Wasserschlange von Ronka",
+                    "Url": "/lodestone/playguide/db/npc/npc/654e5cccb41/",
+                    "Area": "Der Große Wald Rak'tika (X:20.9 Y:27.8)"
+                }
+            ]
+        },
+        "Seq": 19,
+        "oldID": 69195,
+        "Map": {
+            "ID": 495
+        }
+    },
+    {
+        "ID": "242bb22f63f",
+        "Name": " Festung der Nostalgie",
+        "Location": "Der Große Wald Rak'tika",
+        "Level": 70,
+        "JournalSection": 3,
+        "JournalCategory": 54,
+        "JournalGenre": "Aufträge Rak'tika",
+        "Url": "/lodestone/playguide/db/quest/242bb22f63f/",
+        "Image": null,
+        "Icon": "common_normal",
+        "Issuer": "Karnes",
+        "StartLocation": {
+            "Name": "Der Große Wald Rak'tika",
+            "X": "15.4",
+            "Y": "35.7"
+        },
+        "StartClass": null,
+        "Job": "",
+        "Company": "Keine Angabe",
+        "Requirement": "Keine Angabe",
+        "Rewards": {
+            "Gil": 752,
+            "Exp": null,
+            "ItemsMand": [],
+            "ItemsOpt": []
+        },
+        "Infos": {
+            "PrevQuests": [
+                {
+                    "Name": " Gefährliches Heimweh",
+                    "Url": "/lodestone/playguide/db/quest/67c76ff34ce/",
+                    "Area": "Der Große Wald Rak'tika",
+                    "Level": "70"
+                }
+            ],
+            "NextQuests": [
+                {
+                    "Name": " Festung der Hoffnung",
+                    "Url": "/lodestone/playguide/db/quest/b4cf7d02f53/",
+                    "Area": "Der Große Wald Rak'tika",
+                    "Level": "70"
+                }
+            ],
+            "NPCs": [
+                {
+                    "Name": "Varthon",
+                    "Url": "/lodestone/playguide/db/npc/npc/229df6b38ce/",
+                    "Area": "Der Große Wald Rak'tika (X:15.4 Y:35.6)"
+                },
+                {
+                    "Name": "Varthon",
+                    "Url": "/lodestone/playguide/db/npc/npc/c56a3089d18/",
+                    "Area": "Der Große Wald Rak'tika (X:15.5 Y:33.3)"
+                },
+                {
+                    "Name": "Varthon",
+                    "Url": "/lodestone/playguide/db/npc/npc/0d2ff03a9bf/",
+                    "Area": "Der Große Wald Rak'tika (X:12.5 Y:32.1)"
+                }
+            ]
+        },
+        "Seq": 5,
+        "oldID": 68981,
+        "Map": {
+            "ID": 495
+        }
+    },
+    {
+        "ID": "2951aaf914d",
+        "Name": " Unterschiedliche Absichten",
+        "Location": "Der Große Wald Rak'tika",
+        "Level": 70,
+        "JournalSection": 3,
+        "JournalCategory": 54,
+        "JournalGenre": "Aufträge Rak'tika",
+        "Url": "/lodestone/playguide/db/quest/2951aaf914d/",
+        "Image": "https://img.finalfantasyxiv.com/lds/pc/global/images/itemicon/f1/f1f5d4c46cdee604c3b2ab1ae6174fce007e2c3b.png?n5.5",
+        "Icon": "function_normal",
+        "Issuer": "Lanille",
+        "StartLocation": {
+            "Name": "Der Große Wald Rak'tika",
+            "X": "31.3",
+            "Y": "16.9"
+        },
+        "StartClass": null,
+        "Job": "",
+        "Company": "Keine Angabe",
+        "Requirement": "Keine Angabe",
+        "Rewards": {
+            "Gil": 642,
+            "Exp": null,
+            "ItemsMand": [],
+            "ItemsOpt": []
+        },
+        "Infos": {
+            "PrevQuests": [
+                {
+                    "Name": " Alles doppelt",
+                    "Url": "/lodestone/playguide/db/quest/71f852f4b12/",
+                    "Area": "Der Große Wald Rak'tika",
+                    "Level": "70"
+                }
+            ],
+            "NextQuests": [
+                {
+                    "Name": " Der schwere Weg zur Harmonie",
+                    "Url": "/lodestone/playguide/db/quest/7cfb3e8ecd8/",
+                    "Area": "Der Große Wald Rak'tika",
+                    "Level": "70"
+                }
+            ],
+            "NPCs": [
+                {
+                    "Name": "Gescheite Viis",
+                    "Url": "/lodestone/playguide/db/npc/npc/fd55b717375/",
+                    "Area": "Der Große Wald Rak'tika (X:29.5 Y:19.3)"
+                },
+                {
+                    "Name": "In die Ferne blickende Viis",
+                    "Url": "/lodestone/playguide/db/npc/npc/6cc59415844/",
+                    "Area": "Der Große Wald Rak'tika (X:30.1 Y:18.5)"
+                },
+                {
+                    "Name": "Redselige Viis",
+                    "Url": "/lodestone/playguide/db/npc/npc/f0fd101f2ea/",
+                    "Area": "Der Große Wald Rak'tika (X:29.3 Y:17.2)"
+                },
+                {
+                    "Name": "Tratschtante der Viis",
+                    "Url": "/lodestone/playguide/db/npc/npc/b5af0baf473/",
+                    "Area": "Der Große Wald Rak'tika (X:29.3 Y:17.2)"
+                }
+            ]
+        },
+        "Seq": 42,
+        "oldID": 69015,
+        "Map": {
+            "ID": 495
+        }
+    },
+    {
+        "ID": "2c6b873bc7b",
+        "Name": " Allein im Wald",
+        "Location": "Der Große Wald Rak'tika",
+        "Level": 70,
+        "JournalSection": 3,
+        "JournalCategory": 54,
+        "JournalGenre": "Aufträge Rak'tika",
+        "Url": "/lodestone/playguide/db/quest/2c6b873bc7b/",
+        "Image": null,
+        "Icon": "common_normal",
+        "Issuer": "Würdevolle Viis",
+        "StartLocation": {
+            "Name": "Der Große Wald Rak'tika",
+            "X": "28.7",
+            "Y": "19.2"
+        },
+        "StartClass": null,
+        "Job": "",
+        "Company": "Keine Angabe",
+        "Requirement": "Keine Angabe",
+        "Rewards": {
+            "Gil": 827,
+            "Exp": null,
+            "ItemsMand": [],
+            "ItemsOpt": []
+        },
+        "Infos": {
+            "PrevQuests": [
+                {
+                    "Name": "Offene Ohren in Fanow",
+                    "Url": "/lodestone/playguide/db/quest/5ed4185ccbb/",
+                    "Area": "Der Große Wald Rak'tika",
+                    "Level": "75"
+                }
+            ],
+            "NextQuests": [
+                {
+                    "Name": "Ängstliche Viis",
+                    "Url": "/lodestone/playguide/db/npc/npc/092db73894c/",
+                    "Area": "Der Große Wald Rak'tika (X:29.5 Y:23.8)"
+                },
+                {
+                    "Name": "Ängstliche Viis",
+                    "Url": "/lodestone/playguide/db/npc/npc/49838988267/",
+                    "Area": "Der Große Wald Rak'tika (X:34.9 Y:22.9)"
+                },
+                {
+                    "Name": "Ängstliche Viis",
+                    "Url": "/lodestone/playguide/db/npc/npc/808a9079f44/",
+                    "Area": "Der Große Wald Rak'tika (X:28.7 Y:19.2)"
+                }
+            ]
+        },
+        "Seq": 29,
+        "oldID": 69005,
+        "Map": {
+            "ID": 495
+        }
+    },
+    {
+        "ID": "329b1f172d9",
+        "Name": " Oase der Ruhe",
+        "Location": "Der Große Wald Rak'tika",
+        "Level": 70,
+        "JournalSection": 3,
+        "JournalCategory": 54,
+        "JournalGenre": "Aufträge Rak'tika",
+        "Url": "/lodestone/playguide/db/quest/329b1f172d9/",
+        "Image": null,
+        "Icon": "common_normal",
+        "Issuer": "Samtohrige Viis",
+        "StartLocation": {
+            "Name": "Der Große Wald Rak'tika",
+            "X": "30.6",
+            "Y": "20.0"
+        },
+        "StartClass": null,
+        "Job": "",
+        "Company": "Keine Angabe",
+        "Requirement": "Keine Angabe",
+        "Rewards": {
+            "Gil": 754,
+            "Exp": null,
+            "ItemsMand": [
+                {
+                    "Icon": "https://img.finalfantasyxiv.com/lds/pc/global/images/itemicon/da/da7216f73b0cc772e8f68f3feaf7d20bffa3f095.png?n5.5",
+                    "Name": "Bluttomatensaft",
+                    "Amount": 2,
+                    "Url": "/lodestone/playguide/db/item/8292d2bf0ab/"
+                }
+            ],
+            "ItemsOpt": []
+        },
+        "Infos": {
+            "PrevQuests": [
+                {
+                    "Name": "Dem Dämon sei Dank",
+                    "Url": "/lodestone/playguide/db/quest/412cc5334d2/",
+                    "Area": "Der Große Wald Rak'tika",
+                    "Level": "75"
+                }
+            ],
+            "NextQuests": [
+                {
+                    "Name": "Samtohrige Viis",
+                    "Url": "/lodestone/playguide/db/npc/npc/afba7b9dec6/",
+                    "Area": "Der Große Wald Rak'tika (X:22.2 Y:28.7)"
+                }
+            ]
+        },
+        "Seq": 40,
+        "oldID": 69021,
+        "Map": {
+            "ID": 495
+        }
+    },
+    {
+        "ID": "32f26e1410e",
+        "Name": " Streifen der Wahrheit",
+        "Location": "Der Große Wald Rak'tika",
+        "Level": 70,
+        "JournalSection": 3,
+        "JournalCategory": 54,
+        "JournalGenre": "Aufträge Rak'tika",
+        "Url": "/lodestone/playguide/db/quest/32f26e1410e/",
+        "Image": "https://img.finalfantasyxiv.com/lds/pc/global/images/itemicon/e6/e6c078e1a10dc44792286f3fc5cb94e4787c55c0.png?n5.5",
+        "Icon": "function_normal",
+        "Issuer": "Valan",
+        "StartLocation": {
+            "Name": "Der Große Wald Rak'tika",
+            "X": "20.9",
+            "Y": "27.8"
+        },
+        "StartClass": null,
+        "Job": "",
+        "Company": "Keine Angabe",
+        "Requirement": "Keine Angabe",
+        "Rewards": {
+            "Gil": 706,
+            "Exp": null,
+            "ItemsMand": [],
+            "ItemsOpt": []
+        },
+        "Infos": {
+            "PrevQuests": [
+                {
+                    "Name": " Die Herabkunft der Schlange",
+                    "Url": "/lodestone/playguide/db/quest/59c60bc7d39/",
+                    "Area": "Der Große Wald Rak'tika",
+                    "Level": "70"
+                }
+            ],
+            "NextQuests": [
+                {
+                    "Name": " Frevelhafte Pläne",
+                    "Url": "/lodestone/playguide/db/quest/1fa6c8a8c0f/",
+                    "Area": "Der Große Wald Rak'tika",
+                    "Level": "70"
+                }
+            ],
+            "NPCs": [
+                {
+                    "Name": "Quinfort",
+                    "Url": "/lodestone/playguide/db/npc/npc/5fca9ebf5dd/",
+                    "Area": "Der Große Wald Rak'tika (X:20.9 Y:27.8)"
+                },
+                {
+                    "Name": "Wasserschlange von Ronka",
+                    "Url": "/lodestone/playguide/db/npc/npc/654e5cccb41/",
+                    "Area": "Der Große Wald Rak'tika (X:20.9 Y:27.8)"
+                }
+            ]
+        },
+        "Seq": 18,
+        "oldID": 69194,
+        "Map": {
+            "ID": 495
+        }
+    },
+    {
+        "ID": "34952705937",
+        "Name": " Sterne der Nacht",
+        "Location": "Der Große Wald Rak'tika",
+        "Level": 70,
+        "JournalSection": 3,
+        "JournalCategory": 54,
+        "JournalGenre": "Aufträge Rak'tika",
+        "Url": "/lodestone/playguide/db/quest/34952705937/",
+        "Image": null,
+        "Icon": "common_normal",
+        "Issuer": "Alsa",
+        "StartLocation": {
+            "Name": "Der Große Wald Rak'tika",
+            "X": "19.1",
+            "Y": "27.7"
+        },
+        "StartClass": null,
+        "Job": "",
+        "Company": "Keine Angabe",
+        "Requirement": "Keine Angabe",
+        "Rewards": {
+            "Gil": 606,
+            "Exp": null,
+            "ItemsMand": [],
+            "ItemsOpt": []
+        },
+        "Infos": {
+            "PrevQuests": [
+                {
+                    "Name": "Toddias Rückkehr ins Himmelsmeer",
+                    "Url": "/lodestone/playguide/db/quest/f49ec86c807/",
+                    "Area": "Der Große Wald Rak'tika",
+                    "Level": "74"
+                }
+            ],
+            "NextQuests": [
+                {
+                    "Name": "Freundliche Dame",
+                    "Url": "/lodestone/playguide/db/npc/npc/7622dfb3fd0/",
+                    "Area": "Der Große Wald Rak'tika (X:19.3 Y:29.2)"
+                },
+                {
+                    "Name": "Hilfsbereites Mädchen",
+                    "Url": "/lodestone/playguide/db/npc/npc/7bdd92fe5d1/",
+                    "Area": "Der Große Wald Rak'tika (X:19.0 Y:28.9)"
+                },
+                {
+                    "Name": "Rastender Jüngling",
+                    "Url": "/lodestone/playguide/db/npc/npc/9d18027ed78/",
+                    "Area": "Der Große Wald Rak'tika (X:21.2 Y:27.3)"
+                }
+            ]
+        },
+        "Seq": 7,
+        "oldID": 68983,
+        "Map": {
+            "ID": 495
+        }
+    },
+    {
+        "ID": "3a0ced2ca1c",
+        "Name": " Bin nicht satt, mag ein Blatt",
+        "Location": "Der Große Wald Rak'tika",
+        "Level": 70,
+        "JournalSection": 3,
+        "JournalCategory": 54,
+        "JournalGenre": "Aufträge Rak'tika",
+        "Url": "/lodestone/playguide/db/quest/3a0ced2ca1c/",
+        "Image": null,
+        "Icon": "common_normal",
+        "Issuer": "Ersabel",
+        "StartLocation": {
+            "Name": "Der Große Wald Rak'tika",
+            "X": "19.8",
+            "Y": "27.4"
+        },
+        "StartClass": null,
+        "Job": "",
+        "Company": "Keine Angabe",
+        "Requirement": "Keine Angabe",
+        "Rewards": {
+            "Gil": 706,
+            "Exp": null,
+            "ItemsMand": [],
+            "ItemsOpt": [
+                {
+                    "Icon": "https://img.finalfantasyxiv.com/lds/pc/global/images/itemicon/9c/9cba640af29374ace0cca6dd2fd34dcd92387e0e.png?n5.5",
+                    "Name": "Tintenschwarze Spaghetti",
+                    "Amount": 2,
+                    "Url": "/lodestone/playguide/db/item/ba1787c499b/"
+                },
+                {
+                    "Icon": "https://img.finalfantasyxiv.com/lds/pc/global/images/itemicon/c9/c9531bb5da87b693f15d446e227a7362971cb3bb.png?n5.5",
+                    "Name": "Favabohnensalat",
+                    "Amount": 2,
+                    "Url": "/lodestone/playguide/db/item/4133a25dafe/"
+                },
+                {
+                    "Icon": "https://img.finalfantasyxiv.com/lds/pc/global/images/itemicon/c6/c6a1ad1c105a6a97b398f83d4f163b41ba31a9fc.png?n5.5",
+                    "Name": "Gegrillte Platinbrasse",
+                    "Amount": 2,
+                    "Url": "/lodestone/playguide/db/item/6559b360aff/"
+                },
+                {
+                    "Icon": "https://img.finalfantasyxiv.com/lds/pc/global/images/itemicon/4c/4c26ef4cea19c186d704cf6928b1f20359f7f74a.png?n5.5",
+                    "Name": "Baguette",
+                    "Amount": 2,
+                    "Url": "/lodestone/playguide/db/item/5aae6fde0d4/"
+                },
+                {
+                    "Icon": "https://img.finalfantasyxiv.com/lds/pc/global/images/itemicon/ba/baa2341dd17414fae7fd62ae7bc62c64589b67be.png?n5.5",
+                    "Name": "Antikes Silberstück",
+                    "Amount": 3,
+                    "Url": "/lodestone/playguide/db/item/50ed823230e/"
+                }
+            ]
+        },
+        "Infos": {
+            "PrevQuests": [
+                {
+                    "Name": "Toddias Rückkehr ins Himmelsmeer",
+                    "Url": "/lodestone/playguide/db/quest/f49ec86c807/",
+                    "Area": "Der Große Wald Rak'tika",
+                    "Level": "74"
+                }
+            ]
+        },
+        "Seq": 9,
+        "oldID": 68986,
+        "Map": {
+            "ID": 495
+        }
+    },
+    {
+        "ID": "3c4053afa64",
+        "Name": " Schmerzensschrei aus dem Wald",
+        "Location": "Der Große Wald Rak'tika",
+        "Level": 70,
+        "JournalSection": 3,
+        "JournalCategory": 54,
+        "JournalGenre": "Aufträge Rak'tika",
+        "Url": "/lodestone/playguide/db/quest/3c4053afa64/",
+        "Image": null,
+        "Icon": "common_normal",
+        "Issuer": "Viis-Jägerin",
+        "StartLocation": {
+            "Name": "Der Große Wald Rak'tika",
+            "X": "28.3",
+            "Y": "18.9"
+        },
+        "StartClass": null,
+        "Job": "",
+        "Company": "Keine Angabe",
+        "Requirement": "Keine Angabe",
+        "Rewards": {
+            "Gil": 827,
+            "Exp": null,
+            "ItemsMand": [],
+            "ItemsOpt": []
+        },
+        "Infos": {
+            "PrevQuests": [
+                {
+                    "Name": "Dem Dämon sei Dank",
+                    "Url": "/lodestone/playguide/db/quest/412cc5334d2/",
+                    "Area": "Der Große Wald Rak'tika",
+                    "Level": "75"
+                }
+            ],
+            "NextQuests": [
+                {
+                    "Name": "Tierbändigerin",
+                    "Url": "/lodestone/playguide/db/npc/npc/b4271a92be4/",
+                    "Area": "Der Große Wald Rak'tika (X:24.4 Y:28.6)"
+                },
+                {
+                    "Name": "Verletzter Jaculus",
+                    "Url": "/lodestone/playguide/db/npc/npc/d86f809d747/",
+                    "Area": "Der Große Wald Rak'tika (X:24.4 Y:28.6)"
+                }
+            ]
+        },
+        "Seq": 33,
+        "oldID": 69009,
+        "Map": {
+            "ID": 495
+        }
+    },
+    {
+        "ID": "41f3c115143",
+        "Name": " Spinnengift gegen Spinnen",
+        "Location": "Der Große Wald Rak'tika",
+        "Level": 70,
+        "JournalSection": 3,
+        "JournalCategory": 54,
+        "JournalGenre": "Aufträge Rak'tika",
+        "Url": "/lodestone/playguide/db/quest/41f3c115143/",
+        "Image": null,
+        "Icon": "common_normal",
+        "Issuer": "Loymet",
+        "StartLocation": {
+            "Name": "Der Große Wald Rak'tika",
+            "X": "30.5",
+            "Y": "17.6"
+        },
+        "StartClass": null,
+        "Job": "",
+        "Company": "Keine Angabe",
+        "Requirement": "Keine Angabe",
+        "Rewards": {
+            "Gil": 754,
+            "Exp": null,
+            "ItemsMand": [],
+            "ItemsOpt": []
+        },
+        "Infos": {
+            "PrevQuests": [
+                {
+                    "Name": "Dem Dämon sei Dank",
+                    "Url": "/lodestone/playguide/db/quest/412cc5334d2/",
+                    "Area": "Der Große Wald Rak'tika",
+                    "Level": "75"
+                }
+            ]
+        },
+        "Seq": 32,
+        "oldID": 69008,
+        "Map": {
+            "ID": 495
+        }
+    },
+    {
+        "ID": "4b315782d79",
+        "Name": " Was Wichtiges vergessen",
+        "Location": "Der Große Wald Rak'tika",
+        "Level": 70,
+        "JournalSection": 3,
+        "JournalCategory": 54,
+        "JournalGenre": "Aufträge Rak'tika",
+        "Url": "/lodestone/playguide/db/quest/4b315782d79/",
+        "Image": null,
+        "Icon": "common_normal",
+        "Issuer": "Hargra",
+        "StartLocation": {
+            "Name": "Der Große Wald Rak'tika",
+            "X": "18.5",
+            "Y": "26.0"
+        },
+        "StartClass": null,
+        "Job": "",
+        "Company": "Keine Angabe",
+        "Requirement": "Keine Angabe",
+        "Rewards": {
+            "Gil": 706,
+            "Exp": null,
+            "ItemsMand": [],
+            "ItemsOpt": []
+        },
+        "Infos": {
+            "PrevQuests": [
+                {
+                    "Name": "Toddias Rückkehr ins Himmelsmeer",
+                    "Url": "/lodestone/playguide/db/quest/f49ec86c807/",
+                    "Area": "Der Große Wald Rak'tika",
+                    "Level": "74"
+                }
+            ],
+            "NextQuests": [
+                {
+                    "Name": "Rothaariger Hume",
+                    "Url": "/lodestone/playguide/db/npc/npc/6f4ace1321d/",
+                    "Area": "Der Große Wald Rak'tika (X:13.2 Y:31.4)"
+                }
+            ]
+        },
+        "Seq": 15,
+        "oldID": 68991,
+        "Map": {
+            "ID": 495
+        }
+    },
+    {
+        "ID": "5041670fccd",
+        "Name": " Gebet an die alten Götter",
+        "Location": "Der Große Wald Rak'tika",
+        "Level": 70,
+        "JournalSection": 3,
+        "JournalCategory": 54,
+        "JournalGenre": "Aufträge Rak'tika",
+        "Url": "/lodestone/playguide/db/quest/5041670fccd/",
+        "Image": null,
+        "Icon": "common_normal",
+        "Issuer": "Fanow-Magierin",
+        "StartLocation": {
+            "Name": "Der Große Wald Rak'tika",
+            "X": "28.9",
+            "Y": "19.0"
+        },
+        "StartClass": null,
+        "Job": "",
+        "Company": "Keine Angabe",
+        "Requirement": "Keine Angabe",
+        "Rewards": {
+            "Gil": 1000,
+            "Exp": null,
+            "ItemsMand": [
+                {
+                    "Icon": "https://img.finalfantasyxiv.com/lds/pc/global/images/itemicon/e3/e37fdec0415b0585949d8355ae92379da2a0c37d.png?n5.5",
+                    "Name": "Seelenazurit-Kiste mit Ausrüstung für die Finger (G.-St. 403)",
+                    "Amount": 1,
+                    "Url": "/lodestone/playguide/db/item/1f4e9b66bd0/"
+                }
+            ],
+            "ItemsOpt": []
+        },
+        "Infos": {
+            "PrevQuests": [
+                {
+                    "Name": "Dem Dämon sei Dank",
+                    "Url": "/lodestone/playguide/db/quest/412cc5334d2/",
+                    "Area": "Der Große Wald Rak'tika",
+                    "Level": "75"
+                }
+            ]
+        },
+        "Seq": 35,
+        "oldID": 69011,
+        "Map": {
+            "ID": 495
+        }
+    },
+    {
+        "ID": "59c60bc7d39",
+        "Name": " Die Herabkunft der Schlange",
+        "Location": "Der Große Wald Rak'tika",
+        "Level": 70,
+        "JournalSection": 3,
+        "JournalCategory": 54,
+        "JournalGenre": "Aufträge Rak'tika",
+        "Url": "/lodestone/playguide/db/quest/59c60bc7d39/",
+        "Image": "https://img.finalfantasyxiv.com/lds/pc/global/images/itemicon/e6/e6c078e1a10dc44792286f3fc5cb94e4787c55c0.png?n5.5",
+        "Icon": "function_normal",
+        "Issuer": "Quinfort",
+        "StartLocation": {
+            "Name": "Der Große Wald Rak'tika",
+            "X": "10.9",
+            "Y": "26.0"
+        },
+        "StartClass": null,
+        "Job": "",
+        "Company": "Keine Angabe",
+        "Requirement": "Keine Angabe",
+        "Rewards": {
+            "Gil": 715,
+            "Exp": null,
+            "ItemsMand": [],
+            "ItemsOpt": []
+        },
+        "Infos": {
+            "PrevQuests": [
+                {
+                    "Name": " Die Beschützerin des Waldes",
+                    "Url": "/lodestone/playguide/db/quest/bb48c41fbbb/",
+                    "Area": "Der Große Wald Rak'tika",
+                    "Level": "70"
+                }
+            ],
+            "NextQuests": [
+                {
+                    "Name": " Streifen der Wahrheit",
+                    "Url": "/lodestone/playguide/db/quest/32f26e1410e/",
+                    "Area": "Der Große Wald Rak'tika",
+                    "Level": "70"
+                }
+            ],
+            "NPCs": [
+                {
+                    "Name": "Valan",
+                    "Url": "/lodestone/playguide/db/npc/npc/54b4d8d8d61/",
+                    "Area": "Der Große Wald Rak'tika (X:20.9 Y:27.8)"
+                },
+                {
+                    "Name": "Valan",
+                    "Url": "/lodestone/playguide/db/npc/npc/e323c7ff7fa/",
+                    "Area": "Der Große Wald Rak'tika (X:11.0 Y:26.0)"
+                },
+                {
+                    "Name": "Wasserschlange von Ronka",
+                    "Url": "/lodestone/playguide/db/npc/npc/fd77ed281c6/",
+                    "Area": "Der Große Wald Rak'tika (X:10.9 Y:26.0)"
+                },
+                {
+                    "Name": "Wasserschlange von Ronka",
+                    "Url": "/lodestone/playguide/db/npc/npc/654e5cccb41/",
+                    "Area": "Der Große Wald Rak'tika (X:20.9 Y:27.8)"
+                }
+            ]
+        },
+        "Seq": 17,
+        "oldID": 69193,
+        "Map": {
+            "ID": 495
+        }
+    },
+    {
+        "ID": "65f8dd983fe",
+        "Name": " In guter Erinnerung",
+        "Location": "Der Große Wald Rak'tika",
+        "Level": 70,
+        "JournalSection": 3,
+        "JournalCategory": 54,
+        "JournalGenre": "Aufträge Rak'tika",
+        "Url": "/lodestone/playguide/db/quest/65f8dd983fe/",
+        "Image": null,
+        "Icon": "common_normal",
+        "Issuer": "Sanftmütige Viis",
+        "StartLocation": {
+            "Name": "Der Große Wald Rak'tika",
+            "X": "29.2",
+            "Y": "18.9"
+        },
+        "StartClass": null,
+        "Job": "",
+        "Company": "Keine Angabe",
+        "Requirement": "Keine Angabe",
+        "Rewards": {
+            "Gil": 606,
+            "Exp": null,
+            "ItemsMand": [],
+            "ItemsOpt": []
+        },
+        "Infos": {
+            "PrevQuests": [
+                {
+                    "Name": "Offene Ohren in Fanow",
+                    "Url": "/lodestone/playguide/db/quest/5ed4185ccbb/",
+                    "Area": "Der Große Wald Rak'tika",
+                    "Level": "75"
+                }
+            ],
+            "NextQuests": [
+                {
+                    "Name": "Sanftmütige Viis",
+                    "Url": "/lodestone/playguide/db/npc/npc/3d78444f444/",
+                    "Area": "Der Große Wald Rak'tika (X:27.3 Y:18.0)"
+                }
+            ]
+        },
+        "Seq": 26,
+        "oldID": 69002,
+        "Map": {
+            "ID": 495
+        }
+    },
+    {
+        "ID": "67c76ff34ce",
+        "Name": " Gefährliches Heimweh",
+        "Location": "Der Große Wald Rak'tika",
+        "Level": 70,
+        "JournalSection": 3,
+        "JournalCategory": 54,
+        "JournalGenre": "Aufträge Rak'tika",
+        "Url": "/lodestone/playguide/db/quest/67c76ff34ce/",
+        "Image": null,
+        "Icon": "function_normal",
+        "Issuer": "Varthon",
+        "StartLocation": {
+            "Name": "Der Große Wald Rak'tika",
+            "X": "18.8",
+            "Y": "27.8"
+        },
+        "StartClass": null,
+        "Job": "",
+        "Company": "Keine Angabe",
+        "Requirement": "Keine Angabe",
+        "Rewards": {
+            "Gil": 679,
+            "Exp": null,
+            "ItemsMand": [
+                {
+                    "Icon": "https://img.finalfantasyxiv.com/lds/pc/global/images/itemicon/af/af26e4b79fb1de83550f6ddbd3a170408fcfe702.png?n5.5",
+                    "Name": "",
+                    "Amount": null
+                }
+            ],
+            "ItemsOpt": []
+        },
+        "Infos": {
+            "PrevQuests": [
+                {
+                    "Name": "Erste Bekanntschaften",
+                    "Url": "/lodestone/playguide/db/quest/9ceedc9fe33/",
+                    "Area": "Der Große Wald Rak'tika",
+                    "Level": "74"
+                }
+            ],
+            "NextQuests": [
+                {
+                    "Name": " Festung der Nostalgie",
+                    "Url": "/lodestone/playguide/db/quest/242bb22f63f/",
+                    "Area": "Der Große Wald Rak'tika",
+                    "Level": "70"
+                }
+            ],
+            "NPCs": [
+                {
+                    "Name": "Karnes",
+                    "Url": "/lodestone/playguide/db/npc/npc/04fddae119e/",
+                    "Area": "Der Große Wald Rak'tika (X:15.4 Y:35.7)"
+                },
+                {
+                    "Name": "Varthon",
+                    "Url": "/lodestone/playguide/db/npc/npc/229df6b38ce/",
+                    "Area": "Der Große Wald Rak'tika (X:15.4 Y:35.6)"
+                }
+            ]
+        },
+        "Seq": 4,
+        "oldID": 68980,
+        "Map": {
+            "ID": 495
+        }
+    },
+    {
+        "ID": "6d00b084a67",
+        "Name": " Wettstreit unter Freunden",
+        "Location": "Der Große Wald Rak'tika",
+        "Level": 70,
+        "JournalSection": 3,
+        "JournalCategory": 54,
+        "JournalGenre": "Aufträge Rak'tika",
+        "Url": "/lodestone/playguide/db/quest/6d00b084a67/",
+        "Image": null,
+        "Icon": "common_normal",
+        "Issuer": "Taina",
+        "StartLocation": {
+            "Name": "Der Große Wald Rak'tika",
+            "X": "28.4",
+            "Y": "18.9"
+        },
+        "StartClass": null,
+        "Job": "",
+        "Company": "Keine Angabe",
+        "Requirement": "Keine Angabe",
+        "Rewards": {
+            "Gil": 827,
+            "Exp": null,
+            "ItemsMand": [],
+            "ItemsOpt": []
+        },
+        "Infos": {
+            "PrevQuests": [
+                {
+                    "Name": "Dem Dämon sei Dank",
+                    "Url": "/lodestone/playguide/db/quest/412cc5334d2/",
+                    "Area": "Der Große Wald Rak'tika",
+                    "Level": "75"
+                }
+            ],
+            "NextQuests": [
+                {
+                    "Name": "Scharfsichtige Viis",
+                    "Url": "/lodestone/playguide/db/npc/npc/93bb0bdfdbf/",
+                    "Area": "Der Große Wald Rak'tika (X:32.6 Y:24.2)"
+                }
+            ]
+        },
+        "Seq": 39,
+        "oldID": 69020,
+        "Map": {
+            "ID": 495
+        }
+    },
+    {
+        "ID": "704f48b12d6",
+        "Name": " Inspirierender Glaube",
+        "Location": "Der Große Wald Rak'tika",
+        "Level": 70,
+        "JournalSection": 3,
+        "JournalCategory": 54,
+        "JournalGenre": "Aufträge Rak'tika",
+        "Url": "/lodestone/playguide/db/quest/704f48b12d6/",
+        "Image": null,
+        "Icon": "common_normal",
+        "Issuer": "Lanille",
+        "StartLocation": {
+            "Name": "Der Große Wald Rak'tika",
+            "X": "31.3",
+            "Y": "16.9"
+        },
+        "StartClass": null,
+        "Job": "",
+        "Company": "Keine Angabe",
+        "Requirement": "Keine Angabe",
+        "Rewards": {
+            "Gil": 827,
+            "Exp": null,
+            "ItemsMand": [],
+            "ItemsOpt": []
+        },
+        "Infos": {
+            "PrevQuests": [
+                {
+                    "Name": "Offene Ohren in Fanow",
+                    "Url": "/lodestone/playguide/db/quest/5ed4185ccbb/",
+                    "Area": "Der Große Wald Rak'tika",
+                    "Level": "75"
+                }
+            ],
+            "NextQuests": [
+                {
+                    "Name": "Lanilles Nichte",
+                    "Url": "/lodestone/playguide/db/npc/npc/08035164120/",
+                    "Area": "Der Große Wald Rak'tika (X:28.2 Y:24.7)"
+                }
+            ]
+        },
+        "Seq": 22,
+        "oldID": 68998,
+        "Map": {
+            "ID": 495
+        }
+    },
+    {
+        "ID": "71f852f4b12",
+        "Name": " Alles doppelt",
+        "Location": "Der Große Wald Rak'tika",
+        "Level": 70,
+        "JournalSection": 3,
+        "JournalCategory": 54,
+        "JournalGenre": "Aufträge Rak'tika",
+        "Url": "/lodestone/playguide/db/quest/71f852f4b12/",
+        "Image": "https://img.finalfantasyxiv.com/lds/pc/global/images/itemicon/f1/f1f5d4c46cdee604c3b2ab1ae6174fce007e2c3b.png?n5.5",
+        "Icon": "function_normal",
+        "Issuer": "Lanille",
+        "StartLocation": {
+            "Name": "Der Große Wald Rak'tika",
+            "X": "31.3",
+            "Y": "16.9"
+        },
+        "StartClass": null,
+        "Job": "",
+        "Company": "Keine Angabe",
+        "Requirement": "Keine Angabe",
+        "Rewards": {
+            "Gil": 936,
+            "Exp": null,
+            "ItemsMand": [
+                {
+                    "Icon": "https://img.finalfantasyxiv.com/lds/pc/global/images/itemicon/af/af26e4b79fb1de83550f6ddbd3a170408fcfe702.png?n5.5",
+                    "Name": "",
+                    "Amount": null
+                }
+            ],
+            "ItemsOpt": []
+        },
+        "Infos": {
+            "PrevQuests": [
+                {
+                    "Name": "Dem Dämon sei Dank",
+                    "Url": "/lodestone/playguide/db/quest/412cc5334d2/",
+                    "Area": "Der Große Wald Rak'tika",
+                    "Level": "75"
+                }
+            ],
+            "NextQuests": [
+                {
+                    "Name": " Unterschiedliche Absichten",
+                    "Url": "/lodestone/playguide/db/quest/2951aaf914d/",
+                    "Area": "Der Große Wald Rak'tika",
+                    "Level": "70"
+                }
+            ],
+            "NPCs": [
+                {
+                    "Name": "Ciuna",
+                    "Url": "/lodestone/playguide/db/npc/npc/b8540cebfb2/",
+                    "Area": "Der Große Wald Rak'tika (X:24.8 Y:12.0)"
+                },
+                {
+                    "Name": "Phyna",
+                    "Url": "/lodestone/playguide/db/npc/npc/de48f8ce4f2/",
+                    "Area": "Der Große Wald Rak'tika (X:24.8 Y:12.0)"
+                }
+            ]
+        },
+        "Seq": 41,
+        "oldID": 69014,
+        "Map": {
+            "ID": 495
+        }
+    },
+    {
+        "ID": "77f91a21fb5",
+        "Name": " Wutprobe für die Wache ",
+        "Location": "Der Große Wald Rak'tika",
+        "Level": 70,
+        "JournalSection": 3,
+        "JournalCategory": 54,
+        "JournalGenre": "Aufträge Rak'tika",
+        "Url": "/lodestone/playguide/db/quest/77f91a21fb5/",
+        "Image": null,
+        "Icon": "common_normal",
+        "Issuer": "Maril",
+        "StartLocation": {
+            "Name": "Der Große Wald Rak'tika",
+            "X": "19.5",
+            "Y": "28.1"
+        },
+        "StartClass": null,
+        "Job": "",
+        "Company": "Keine Angabe",
+        "Requirement": "Keine Angabe",
+        "Rewards": {
+            "Gil": 779,
+            "Exp": null,
+            "ItemsMand": [],
+            "ItemsOpt": []
+        },
+        "Infos": {
+            "PrevQuests": [
+                {
+                    "Name": "Erste Bekanntschaften",
+                    "Url": "/lodestone/playguide/db/quest/9ceedc9fe33/",
+                    "Area": "Der Große Wald Rak'tika",
+                    "Level": "74"
+                }
+            ],
+            "NextQuests": [
+                {
+                    "Name": "Neuling der Wache",
+                    "Url": "/lodestone/playguide/db/npc/npc/548b7ff7656/",
+                    "Area": "Der Große Wald Rak'tika (X:12.0 Y:26.6)"
+                },
+                {
+                    "Name": "Veteran der Wache",
+                    "Url": "/lodestone/playguide/db/npc/npc/94129e2a5c5/",
+                    "Area": "Der Große Wald Rak'tika (X:15.0 Y:25.3)"
+                }
+            ]
+        },
+        "Seq": 1,
+        "oldID": 68977,
+        "Map": {
+            "ID": 495
+        }
+    },
+    {
+        "ID": "7b7a5d35577",
+        "Name": " Das X markiert die Stelle",
+        "Location": "Der Große Wald Rak'tika",
+        "Level": 70,
+        "JournalSection": 3,
+        "JournalCategory": 54,
+        "JournalGenre": "Aufträge Rak'tika",
+        "Url": "/lodestone/playguide/db/quest/7b7a5d35577/",
+        "Image": null,
+        "Icon": "common_normal",
+        "Issuer": "Asgeir",
+        "StartLocation": {
+            "Name": "Der Große Wald Rak'tika",
+            "X": "20.9",
+            "Y": "27.5"
+        },
+        "StartClass": null,
+        "Job": "",
+        "Company": "Keine Angabe",
+        "Requirement": "Keine Angabe",
+        "Rewards": {
+            "Gil": 706,
+            "Exp": null,
+            "ItemsMand": [],
+            "ItemsOpt": []
+        },
+        "Infos": {
+            "PrevQuests": [
+                {
+                    "Name": "Toddias Rückkehr ins Himmelsmeer",
+                    "Url": "/lodestone/playguide/db/quest/f49ec86c807/",
+                    "Area": "Der Große Wald Rak'tika",
+                    "Level": "74"
+                }
+            ]
+        },
+        "Seq": 14,
+        "oldID": 68990,
+        "Map": {
+            "ID": 495
+        }
+    },
+    {
+        "ID": "7cfb3e8ecd8",
+        "Name": " Der schwere Weg zur Harmonie",
+        "Location": "Der Große Wald Rak'tika",
+        "Level": 70,
+        "JournalSection": 3,
+        "JournalCategory": 54,
+        "JournalGenre": "Aufträge Rak'tika",
+        "Url": "/lodestone/playguide/db/quest/7cfb3e8ecd8/",
+        "Image": "https://img.finalfantasyxiv.com/lds/pc/global/images/itemicon/f1/f1f5d4c46cdee604c3b2ab1ae6174fce007e2c3b.png?n5.5",
+        "Icon": "function_normal",
+        "Issuer": "Lanille",
+        "StartLocation": {
+            "Name": "Der Große Wald Rak'tika",
+            "X": "31.3",
+            "Y": "16.9"
+        },
+        "StartClass": null,
+        "Job": "",
+        "Company": "Keine Angabe",
+        "Requirement": "Keine Angabe",
+        "Rewards": {
+            "Gil": 1301,
+            "Exp": null,
+            "ItemsMand": [],
+            "ItemsOpt": []
+        },
+        "Infos": {
+            "PrevQuests": [
+                {
+                    "Name": " Unterschiedliche Absichten",
+                    "Url": "/lodestone/playguide/db/quest/2951aaf914d/",
+                    "Area": "Der Große Wald Rak'tika",
+                    "Level": "70"
+                }
+            ],
+            "NextQuests": [
+                {
+                    "Name": " Synchronbeten in Perfektion",
+                    "Url": "/lodestone/playguide/db/quest/16f7a655874/",
+                    "Area": "Der Große Wald Rak'tika",
+                    "Level": "70"
+                }
+            ],
+            "NPCs": [
+                {
+                    "Name": "Ciuna",
+                    "Url": "/lodestone/playguide/db/npc/npc/fc39ca30a20/",
+                    "Area": "Der Große Wald Rak'tika (X:31.3 Y:16.9)"
+                },
+                {
+                    "Name": "Ciuna",
+                    "Url": "/lodestone/playguide/db/npc/npc/6f29e4987c2/",
+                    "Area": "Der Große Wald Rak'tika (X:32.8 Y:24.1)"
+                },
+                {
+                    "Name": "Ciuna",
+                    "Url": "/lodestone/playguide/db/npc/npc/030812bf57c/",
+                    "Area": "Der Große Wald Rak'tika (X:30.3 Y:24.9)"
+                },
+                {
+                    "Name": "Phyna",
+                    "Url": "/lodestone/playguide/db/npc/npc/a00004fc0a7/",
+                    "Area": "Der Große Wald Rak'tika (X:31.3 Y:16.9)"
+                },
+                {
+                    "Name": "Phyna",
+                    "Url": "/lodestone/playguide/db/npc/npc/69504d25ff4/",
+                    "Area": "Der Große Wald Rak'tika (X:26.8 Y:24.1)"
+                },
+                {
+                    "Name": "Phyna",
+                    "Url": "/lodestone/playguide/db/npc/npc/2467304ff48/",
+                    "Area": "Der Große Wald Rak'tika (X:30.2 Y:24.9)"
+                }
+            ]
+        },
+        "Seq": 43,
+        "oldID": 69016,
+        "Map": {
+            "ID": 495
+        }
+    },
+    {
+        "ID": "88022a81d39",
+        "Name": " Forschungsdrang",
+        "Location": "Der Große Wald Rak'tika",
+        "Level": 70,
+        "JournalSection": 3,
+        "JournalCategory": 54,
+        "JournalGenre": "Aufträge Rak'tika",
+        "Url": "/lodestone/playguide/db/quest/88022a81d39/",
+        "Image": null,
+        "Icon": "common_normal",
+        "Issuer": "Korille",
+        "StartLocation": {
+            "Name": "Der Große Wald Rak'tika",
+            "X": "28.1",
+            "Y": "18.6"
+        },
+        "StartClass": null,
+        "Job": "",
+        "Company": "Keine Angabe",
+        "Requirement": "Keine Angabe",
+        "Rewards": {
+            "Gil": 927,
+            "Exp": null,
+            "ItemsMand": [],
+            "ItemsOpt": []
+        },
+        "Infos": {
+            "PrevQuests": [
+                {
+                    "Name": "Dem Dämon sei Dank",
+                    "Url": "/lodestone/playguide/db/quest/412cc5334d2/",
+                    "Area": "Der Große Wald Rak'tika",
+                    "Level": "75"
+                }
+            ],
+            "NextQuests": [
+                {
+                    "Name": "Flachsblonde Viis",
+                    "Url": "/lodestone/playguide/db/npc/npc/8c5be61092a/",
+                    "Area": "Der Große Wald Rak'tika (X:9.3 Y:18.0)"
+                },
+                {
+                    "Name": "Flachsblonde Viis",
+                    "Url": "/lodestone/playguide/db/npc/npc/4465d0c9cfa/",
+                    "Area": "Der Große Wald Rak'tika (X:30.2 Y:19.3)"
+                }
+            ]
+        },
+        "Seq": 38,
+        "oldID": 69019,
+        "Map": {
+            "ID": 495
+        }
+    },
+    {
+        "ID": "8bf08667c62",
+        "Name": " Ein besonderes Rezept",
+        "Location": "Der Große Wald Rak'tika",
+        "Level": 70,
+        "JournalSection": 3,
+        "JournalCategory": 54,
+        "JournalGenre": "Aufträge Rak'tika",
+        "Url": "/lodestone/playguide/db/quest/8bf08667c62/",
+        "Image": null,
+        "Icon": "common_normal",
+        "Issuer": "Ciuille",
+        "StartLocation": {
+            "Name": "Der Große Wald Rak'tika",
+            "X": "28.2",
+            "Y": "18.3"
+        },
+        "StartClass": null,
+        "Job": "",
+        "Company": "Keine Angabe",
+        "Requirement": "Keine Angabe",
+        "Rewards": {
+            "Gil": 900,
+            "Exp": null,
+            "ItemsMand": [
+                {
+                    "Icon": "https://img.finalfantasyxiv.com/lds/pc/global/images/itemicon/ef/ef0702346009dbf9d96987361b7b43ef96c902eb.png?n5.5",
+                    "Name": "Champignons am Spieß",
+                    "Amount": 2,
+                    "Url": "/lodestone/playguide/db/item/928aab4790b/"
+                }
+            ],
+            "ItemsOpt": []
+        },
+        "Infos": {
+            "PrevQuests": [
+                {
+                    "Name": "Offene Ohren in Fanow",
+                    "Url": "/lodestone/playguide/db/quest/5ed4185ccbb/",
+                    "Area": "Der Große Wald Rak'tika",
+                    "Level": "75"
+                }
+            ]
+        },
+        "Seq": 21,
+        "oldID": 68997,
+        "Map": {
+            "ID": 495
+        }
+    },
+    {
+        "ID": "8c88ccf9824",
+        "Name": " Nachhaltige Wildschweinjagd",
+        "Location": "Der Große Wald Rak'tika",
+        "Level": 70,
+        "JournalSection": 3,
+        "JournalCategory": 54,
+        "JournalGenre": "Aufträge Rak'tika",
+        "Url": "/lodestone/playguide/db/quest/8c88ccf9824/",
+        "Image": null,
+        "Icon": "common_normal",
+        "Issuer": "Sanftmütige Waffenschmiedin",
+        "StartLocation": {
+            "Name": "Der Große Wald Rak'tika",
+            "X": "20.8",
+            "Y": "27.2"
+        },
+        "StartClass": null,
+        "Job": "",
+        "Company": "Keine Angabe",
+        "Requirement": "Keine Angabe",
+        "Rewards": {
+            "Gil": 779,
+            "Exp": null,
+            "ItemsMand": [],
+            "ItemsOpt": []
+        },
+        "Infos": {
+            "PrevQuests": [
+                {
+                    "Name": "Erste Bekanntschaften",
+                    "Url": "/lodestone/playguide/db/quest/9ceedc9fe33/",
+                    "Area": "Der Große Wald Rak'tika",
+                    "Level": "74"
+                }
+            ],
+            "NextQuests": [
+                {
+                    "Name": "Sanftmütige Waffenschmiedin",
+                    "Url": "/lodestone/playguide/db/npc/npc/0f155583445/",
+                    "Area": "Der Große Wald Rak'tika (X:11.2 Y:26.7)"
+                }
+            ]
+        },
+        "Seq": 2,
+        "oldID": 68978,
+        "Map": {
+            "ID": 495
+        }
+    },
+    {
+        "ID": "8e7823e1e87",
+        "Name": " Giftige Gefahr",
+        "Location": "Der Große Wald Rak'tika",
+        "Level": 70,
+        "JournalSection": 3,
+        "JournalCategory": 54,
+        "JournalGenre": "Aufträge Rak'tika",
+        "Url": "/lodestone/playguide/db/quest/8e7823e1e87/",
+        "Image": null,
+        "Icon": "common_normal",
+        "Issuer": "Junger Priester",
+        "StartLocation": {
+            "Name": "Der Große Wald Rak'tika",
+            "X": "18.9",
+            "Y": "27.1"
+        },
+        "StartClass": null,
+        "Job": "",
+        "Company": "Keine Angabe",
+        "Requirement": "Keine Angabe",
+        "Rewards": {
+            "Gil": 706,
+            "Exp": null,
+            "ItemsMand": [],
+            "ItemsOpt": []
+        },
+        "Infos": {
+            "PrevQuests": [
+                {
+                    "Name": " Giftige Geschäfte",
+                    "Url": "/lodestone/playguide/db/quest/99f912741fb/",
+                    "Area": "Der Große Wald Rak'tika",
+                    "Level": "70"
+                }
+            ]
+        },
+        "Seq": 12,
+        "oldID": 68988,
+        "Map": {
+            "ID": 495
+        }
+    },
+    {
+        "ID": "927e25e5c27",
+        "Name": " Bürgernähe",
+        "Location": "Der Große Wald Rak'tika",
+        "Level": 70,
+        "JournalSection": 3,
+        "JournalCategory": 54,
+        "JournalGenre": "Aufträge Rak'tika",
+        "Url": "/lodestone/playguide/db/quest/927e25e5c27/",
+        "Image": null,
+        "Icon": "common_normal",
+        "Issuer": "Taina",
+        "StartLocation": {
+            "Name": "Der Große Wald Rak'tika",
+            "X": "28.4",
+            "Y": "18.9"
+        },
+        "StartClass": null,
+        "Job": "",
+        "Company": "Keine Angabe",
+        "Requirement": "Keine Angabe",
+        "Rewards": {
+            "Gil": 606,
+            "Exp": null,
+            "ItemsMand": [],
+            "ItemsOpt": []
+        },
+        "Infos": {
+            "PrevQuests": [
+                {
+                    "Name": "Offene Ohren in Fanow",
+                    "Url": "/lodestone/playguide/db/quest/5ed4185ccbb/",
+                    "Area": "Der Große Wald Rak'tika",
+                    "Level": "75"
+                }
+            ],
+            "NextQuests": [
+                {
+                    "Name": "Aufgeregte Viis",
+                    "Url": "/lodestone/playguide/db/npc/npc/c45223799b0/",
+                    "Area": "Der Große Wald Rak'tika (X:27.8 Y:17.0)"
+                },
+                {
+                    "Name": "Resolute Viis",
+                    "Url": "/lodestone/playguide/db/npc/npc/ed76de69672/",
+                    "Area": "Der Große Wald Rak'tika (X:30.4 Y:20.4)"
+                },
+                {
+                    "Name": "Sanfte Viis",
+                    "Url": "/lodestone/playguide/db/npc/npc/3bd11cd40aa/",
+                    "Area": "Der Große Wald Rak'tika (X:27.3 Y:18.4)"
+                },
+                {
+                    "Name": "Verlegene Viis",
+                    "Url": "/lodestone/playguide/db/npc/npc/e3df829305f/",
+                    "Area": "Der Große Wald Rak'tika (X:29.8 Y:19.3)"
+                }
+            ]
+        },
+        "Seq": 23,
+        "oldID": 68999,
+        "Map": {
+            "ID": 495
+        }
+    },
+    {
+        "ID": "99f912741fb",
+        "Name": " Giftige Geschäfte",
+        "Location": "Der Große Wald Rak'tika",
+        "Level": 70,
+        "JournalSection": 3,
+        "JournalCategory": 54,
+        "JournalGenre": "Aufträge Rak'tika",
+        "Url": "/lodestone/playguide/db/quest/99f912741fb/",
+        "Image": null,
+        "Icon": "common_normal",
+        "Issuer": "Wache der Untertanen",
+        "StartLocation": {
+            "Name": "Der Große Wald Rak'tika",
+            "X": "19.3",
+            "Y": "29.0"
+        },
+        "StartClass": null,
+        "Job": "",
+        "Company": "Keine Angabe",
+        "Requirement": "Keine Angabe",
+        "Rewards": {
+            "Gil": 779,
+            "Exp": null,
+            "ItemsMand": [
+                {
+                    "Icon": "https://img.finalfantasyxiv.com/lds/pc/global/images/itemicon/30/30b5f35d0481a6e2c068d1c0488a0aa9de0d5d13.png?n5.5",
+                    "Name": "Seelenazurit-Kiste mit Ausrüstung für die Handgelenke (G.-St. 403)",
+                    "Amount": 1,
+                    "Url": "/lodestone/playguide/db/item/110ceef98ef/"
+                }
+            ],
+            "ItemsOpt": []
+        },
+        "Infos": {
+            "PrevQuests": [
+                {
+                    "Name": "Toddias Rückkehr ins Himmelsmeer",
+                    "Url": "/lodestone/playguide/db/quest/f49ec86c807/",
+                    "Area": "Der Große Wald Rak'tika",
+                    "Level": "74"
+                }
+            ],
+            "NextQuests": [
+                {
+                    "Name": " Giftige Gefahr",
+                    "Url": "/lodestone/playguide/db/quest/8e7823e1e87/",
+                    "Area": "Der Große Wald Rak'tika",
+                    "Level": "70"
+                }
+            ],
+            "NPCs": [
+                {
+                    "Name": "Aufgebrachter Rüpel",
+                    "Url": "/lodestone/playguide/db/npc/npc/70fb767bc0d/",
+                    "Area": "Der Große Wald Rak'tika (X:16.7 Y:20.7)"
+                },
+                {
+                    "Name": "Junger Priester",
+                    "Url": "/lodestone/playguide/db/npc/npc/aed69802909/",
+                    "Area": "Der Große Wald Rak'tika (X:16.7 Y:20.7)"
+                },
+                {
+                    "Name": "Junger Priester",
+                    "Url": "/lodestone/playguide/db/npc/npc/91f16a69b59/",
+                    "Area": "Der Große Wald Rak'tika (X:18.9 Y:27.1)"
+                }
+            ]
+        },
+        "Seq": 11,
+        "oldID": 68984,
+        "Map": {
+            "ID": 495
+        }
+    },
+    {
+        "ID": "a136d650871",
+        "Name": " Unter dem Schutz zweier Sippen",
+        "Location": "Der Große Wald Rak'tika",
+        "Level": 70,
+        "JournalSection": 3,
+        "JournalCategory": 54,
+        "JournalGenre": "Aufträge Rak'tika",
+        "Url": "/lodestone/playguide/db/quest/a136d650871/",
+        "Image": "https://img.finalfantasyxiv.com/lds/pc/global/images/itemicon/92/92ffeba1d41bea12c03bef8a7fadf8766041f656.png?n5.5",
+        "Icon": "function_normal",
+        "Issuer": "Phyna",
+        "StartLocation": {
+            "Name": "Der Große Wald Rak'tika",
+            "X": "30.7",
+            "Y": "20.2"
+        },
+        "StartClass": null,
+        "Job": "",
+        "Company": "Keine Angabe",
+        "Requirement": "Keine Angabe",
+        "Rewards": {
+            "Gil": 1439,
+            "Exp": null,
+            "ItemsMand": [
+                {
+                    "Icon": "https://img.finalfantasyxiv.com/lds/pc/global/images/itemicon/ca/ca7647f051f3e770d5a85329121e4d9507f722d5.png?n5.5",
+                    "Name": "Kleine Schlange von Ronka",
+                    "Amount": 1,
+                    "Url": "/lodestone/playguide/db/item/ba43024ca2b/"
+                }
+            ],
+            "ItemsOpt": []
+        },
+        "Infos": {
+            "PrevQuests": [
+                {
+                    "Name": " Frevelhafte Pläne",
+                    "Url": "/lodestone/playguide/db/quest/1fa6c8a8c0f/",
+                    "Area": "Der Große Wald Rak'tika",
+                    "Level": "70"
+                },
+                {
+                    "Name": " Synchronbeten in Perfektion",
+                    "Url": "/lodestone/playguide/db/quest/16f7a655874/",
+                    "Area": "Der Große Wald Rak'tika",
+                    "Level": "70"
+                }
+            ],
+            "NextQuests": [
+                {
+                    "Name": " Ein Tapsen im Walde",
+                    "Url": "/lodestone/playguide/db/quest/871df900bd6/",
+                    "Area": "Der Große Wald Rak'tika",
+                    "Level": "70"
+                }
+            ],
+            "NPCs": [
+                {
+                    "Name": "Ciuna",
+                    "Url": "/lodestone/playguide/db/npc/npc/3b399d9e4f7/",
+                    "Area": "Der Große Wald Rak'tika (X:30.7 Y:20.2)"
+                },
+                {
+                    "Name": "Ciuna",
+                    "Url": "/lodestone/playguide/db/npc/npc/39e323c2515/",
+                    "Area": "Der Große Wald Rak'tika (X:24.6 Y:27.4)"
+                },
+                {
+                    "Name": "Ciuna",
+                    "Url": "/lodestone/playguide/db/npc/npc/fab36903bda/",
+                    "Area": "Der Große Wald Rak'tika (X:25.1 Y:37.1)"
+                },
+                {
+                    "Name": "Ciuna",
+                    "Url": "/lodestone/playguide/db/npc/npc/b4d82cf2424/",
+                    "Area": "Der Große Wald Rak'tika (X:24.9 Y:10.9)"
+                },
+                {
+                    "Name": "Lanille",
+                    "Url": "/lodestone/playguide/db/npc/npc/74182318976/",
+                    "Area": "Der Große Wald Rak'tika (X:31.3 Y:16.9)"
+                },
+                {
+                    "Name": "Phyna",
+                    "Url": "/lodestone/playguide/db/npc/npc/46f97a83608/",
+                    "Area": "Der Große Wald Rak'tika (X:24.6 Y:27.4)"
+                },
+                {
+                    "Name": "Phyna",
+                    "Url": "/lodestone/playguide/db/npc/npc/3c9c06eeb27/",
+                    "Area": "Der Große Wald Rak'tika (X:24.8 Y:10.8)"
+                },
+                {
+                    "Name": "Quinfort",
+                    "Url": "/lodestone/playguide/db/npc/npc/2ebcb98b852/",
+                    "Area": "Der Große Wald Rak'tika (X:24.6 Y:27.4)"
+                },
+                {
+                    "Name": "Quinfort",
+                    "Url": "/lodestone/playguide/db/npc/npc/d11bd56262e/",
+                    "Area": "Der Große Wald Rak'tika (X:25.0 Y:37.1)"
+                },
+                {
+                    "Name": "Quinfort",
+                    "Url": "/lodestone/playguide/db/npc/npc/46b34e40f2f/",
+                    "Area": "Der Große Wald Rak'tika (X:24.8 Y:10.8)"
+                },
+                {
+                    "Name": "Valan",
+                    "Url": "/lodestone/playguide/db/npc/npc/790e8aa4595/",
+                    "Area": "Der Große Wald Rak'tika (X:24.6 Y:27.3)"
+                },
+                {
+                    "Name": "Valan",
+                    "Url": "/lodestone/playguide/db/npc/npc/9680cd300c4/",
+                    "Area": "Der Große Wald Rak'tika (X:24.8 Y:10.9)"
+                },
+                {
+                    "Name": "Wasserschlange von Ronka",
+                    "Url": "/lodestone/playguide/db/npc/npc/74d96f1b997/",
+                    "Area": "Der Große Wald Rak'tika (X:25.0 Y:37.1)"
+                },
+                {
+                    "Name": "Wasserschlange von Ronka",
+                    "Url": "/lodestone/playguide/db/npc/npc/b04714e5d36/",
+                    "Area": "Der Große Wald Rak'tika (X:31.4 Y:16.9)"
+                }
+            ]
+        },
+        "Seq": 45,
+        "oldID": 69018,
+        "Map": {
+            "ID": 495
+        }
+    },
+    {
+        "ID": "a61a1cf7f1e",
+        "Name": " Das romantischste Fleckchen",
+        "Location": "Der Große Wald Rak'tika",
+        "Level": 70,
+        "JournalSection": 3,
+        "JournalCategory": 54,
+        "JournalGenre": "Aufträge Rak'tika",
+        "Url": "/lodestone/playguide/db/quest/a61a1cf7f1e/",
+        "Image": null,
+        "Icon": "common_normal",
+        "Issuer": "Geplagter Jäger",
+        "StartLocation": {
+            "Name": "Der Große Wald Rak'tika",
+            "X": "18.8",
+            "Y": "26.5"
+        },
+        "StartClass": null,
+        "Job": "",
+        "Company": "Keine Angabe",
+        "Requirement": "Keine Angabe",
+        "Rewards": {
+            "Gil": 852,
+            "Exp": null,
+            "ItemsMand": [
+                {
+                    "Icon": "https://img.finalfantasyxiv.com/lds/pc/global/images/itemicon/f3/f357ea7ae8d550e78704823b64f7e5d104e16e2f.png?n5.5",
+                    "Name": "Seelenazurit-Kiste mit Ausrüstung für die Ohren (G.-St. 403)",
+                    "Amount": 1,
+                    "Url": "/lodestone/playguide/db/item/f34f0b22ea9/"
+                }
+            ],
+            "ItemsOpt": []
+        },
+        "Infos": {
+            "PrevQuests": [
+                {
+                    "Name": "Toddias Rückkehr ins Himmelsmeer",
+                    "Url": "/lodestone/playguide/db/quest/f49ec86c807/",
+                    "Area": "Der Große Wald Rak'tika",
+                    "Level": "74"
+                }
+            ],
+            "NextQuests": [
+                {
+                    "Name": "Geplagter Jäger",
+                    "Url": "/lodestone/playguide/db/npc/npc/81cb35ccea5/",
+                    "Area": "Der Große Wald Rak'tika (X:20.4 Y:20.2)"
+                },
+                {
+                    "Name": "Geplagter Jäger",
+                    "Url": "/lodestone/playguide/db/npc/npc/85fa74cf0dd/",
+                    "Area": "Der Große Wald Rak'tika (X:7.5 Y:23.7)"
+                },
+                {
+                    "Name": "Geplagter Jäger",
+                    "Url": "/lodestone/playguide/db/npc/npc/086511259da/",
+                    "Area": "Der Große Wald Rak'tika (X:7.3 Y:27.3)"
+                }
+            ]
+        },
+        "Seq": 13,
+        "oldID": 68989,
+        "Map": {
+            "ID": 495
+        }
+    },
+    {
+        "ID": "a9e4d30a645",
+        "Name": " Stein des Lebens",
+        "Location": "Der Große Wald Rak'tika",
+        "Level": 70,
+        "JournalSection": 3,
+        "JournalCategory": 54,
+        "JournalGenre": "Aufträge Rak'tika",
+        "Url": "/lodestone/playguide/db/quest/a9e4d30a645/",
+        "Image": null,
+        "Icon": "common_normal",
+        "Issuer": "Fanow-Jägerin",
+        "StartLocation": {
+            "Name": "Der Große Wald Rak'tika",
+            "X": "28.1",
+            "Y": "17.2"
+        },
+        "StartClass": null,
+        "Job": "",
+        "Company": "Keine Angabe",
+        "Requirement": "Keine Angabe",
+        "Rewards": {
+            "Gil": 606,
+            "Exp": null,
+            "ItemsMand": [],
+            "ItemsOpt": []
+        },
+        "Infos": {
+            "PrevQuests": [
+                {
+                    "Name": " Zeichen des Zerfalls",
+                    "Url": "/lodestone/playguide/db/quest/b3f7321bdbd/",
+                    "Area": "Der Große Wald Rak'tika",
+                    "Level": "70"
+                }
+            ]
+        },
+        "Seq": 37,
+        "oldID": 69013,
+        "Map": {
+            "ID": 495
+        }
+    },
+    {
+        "ID": "ab529f14f69",
+        "Name": " Der Schatz im Schlangensee",
+        "Location": "Der Große Wald Rak'tika",
+        "Level": 70,
+        "JournalSection": 3,
+        "JournalCategory": 54,
+        "JournalGenre": "Aufträge Rak'tika",
+        "Url": "/lodestone/playguide/db/quest/ab529f14f69/",
+        "Image": null,
+        "Icon": "common_normal",
+        "Issuer": "Davith",
+        "StartLocation": {
+            "Name": "Der Große Wald Rak'tika",
+            "X": "19.3",
+            "Y": "29.0"
+        },
+        "StartClass": null,
+        "Job": "",
+        "Company": "Keine Angabe",
+        "Requirement": "Keine Angabe",
+        "Rewards": {
+            "Gil": 852,
+            "Exp": null,
+            "ItemsMand": [],
+            "ItemsOpt": []
+        },
+        "Infos": {
+            "PrevQuests": [
+                {
+                    "Name": "Toddias Rückkehr ins Himmelsmeer",
+                    "Url": "/lodestone/playguide/db/quest/f49ec86c807/",
+                    "Area": "Der Große Wald Rak'tika",
+                    "Level": "74"
+                }
+            ],
+            "NextQuests": [
+                {
+                    "Name": "Ratloser Händler",
+                    "Url": "/lodestone/playguide/db/npc/npc/9cc12660776/",
+                    "Area": "Der Große Wald Rak'tika (X:9.3 Y:32.8)"
+                }
+            ]
+        },
+        "Seq": 8,
+        "oldID": 68985,
+        "Map": {
+            "ID": 495
+        }
+    },
+    {
+        "ID": "af2ed2196f3",
+        "Name": " Unterwassereulen",
+        "Location": "Der Große Wald Rak'tika",
+        "Level": 70,
+        "JournalSection": 3,
+        "JournalCategory": 54,
+        "JournalGenre": "Aufträge Rak'tika",
+        "Url": "/lodestone/playguide/db/quest/af2ed2196f3/",
+        "Image": null,
+        "Icon": "common_normal",
+        "Issuer": "Olmet",
+        "StartLocation": {
+            "Name": "Der Große Wald Rak'tika",
+            "X": "30.4",
+            "Y": "19.1"
+        },
+        "StartClass": null,
+        "Job": "",
+        "Company": "Keine Angabe",
+        "Requirement": "Keine Angabe",
+        "Rewards": {
+            "Gil": 854,
+            "Exp": null,
+            "ItemsMand": [],
+            "ItemsOpt": []
+        },
+        "Infos": {
+            "PrevQuests": [
+                {
+                    "Name": "Dem Dämon sei Dank",
+                    "Url": "/lodestone/playguide/db/quest/412cc5334d2/",
+                    "Area": "Der Große Wald Rak'tika",
+                    "Level": "75"
+                }
+            ]
+        },
+        "Seq": 34,
+        "oldID": 69010,
+        "Map": {
+            "ID": 495
+        }
+    },
+    {
+        "ID": "b3f7321bdbd",
+        "Name": " Zeichen des Zerfalls",
+        "Location": "Der Große Wald Rak'tika",
+        "Level": 70,
+        "JournalSection": 3,
+        "JournalCategory": 54,
+        "JournalGenre": "Aufträge Rak'tika",
+        "Url": "/lodestone/playguide/db/quest/b3f7321bdbd/",
+        "Image": null,
+        "Icon": "common_normal",
+        "Issuer": "Fanow-Jägerin",
+        "StartLocation": {
+            "Name": "Der Große Wald Rak'tika",
+            "X": "28.1",
+            "Y": "17.2"
+        },
+        "StartClass": null,
+        "Job": "",
+        "Company": "Keine Angabe",
+        "Requirement": "Keine Angabe",
+        "Rewards": {
+            "Gil": 900,
+            "Exp": null,
+            "ItemsMand": [
+                {
+                    "Icon": "https://img.finalfantasyxiv.com/lds/pc/global/images/itemicon/26/264d0e5862be8b2d176bad80e4821427a07b40ea.png?n5.5",
+                    "Name": "Gerösteter Ovim",
+                    "Amount": 2,
+                    "Url": "/lodestone/playguide/db/item/25e13d314ce/"
+                }
+            ],
+            "ItemsOpt": []
+        },
+        "Infos": {
+            "PrevQuests": [
+                {
+                    "Name": "Dem Dämon sei Dank",
+                    "Url": "/lodestone/playguide/db/quest/412cc5334d2/",
+                    "Area": "Der Große Wald Rak'tika",
+                    "Level": "75"
+                }
+            ],
+            "NextQuests": [
+                {
+                    "Name": " Stein des Lebens",
+                    "Url": "/lodestone/playguide/db/quest/a9e4d30a645/",
+                    "Area": "Der Große Wald Rak'tika",
+                    "Level": "70"
+                }
+            ],
+            "NPCs": [
+                {
+                    "Name": "Fanow-Jägerin",
+                    "Url": "/lodestone/playguide/db/npc/npc/2f3d1a45164/",
+                    "Area": "Der Große Wald Rak'tika (X:23.8 Y:13.9)"
+                },
+                {
+                    "Name": "Vermisste Viis",
+                    "Url": "/lodestone/playguide/db/npc/npc/57fd33b7d6a/",
+                    "Area": "Der Große Wald Rak'tika (X:22.9 Y:10.1)"
+                }
+            ]
+        },
+        "Seq": 36,
+        "oldID": 69012,
+        "Map": {
+            "ID": 495
+        }
+    },
+    {
+        "ID": "b4cf7d02f53",
+        "Name": " Festung der Hoffnung",
+        "Location": "Der Große Wald Rak'tika",
+        "Level": 70,
+        "JournalSection": 3,
+        "JournalCategory": 54,
+        "JournalGenre": "Aufträge Rak'tika",
+        "Url": "/lodestone/playguide/db/quest/b4cf7d02f53/",
+        "Image": null,
+        "Icon": "common_normal",
+        "Issuer": "Karnes",
+        "StartLocation": {
+            "Name": "Der Große Wald Rak'tika",
+            "X": "15.4",
+            "Y": "35.7"
+        },
+        "StartClass": null,
+        "Job": "",
+        "Company": "Keine Angabe",
+        "Requirement": "Keine Angabe",
+        "Rewards": {
+            "Gil": 779,
+            "Exp": null,
+            "ItemsMand": [
+                {
+                    "Icon": "https://img.finalfantasyxiv.com/lds/pc/global/images/itemicon/66/66e40643e0b44d9f56e8628395cdf870c5820fe6.png?n5.5",
+                    "Name": "Seelenazurit-Kiste mit Ausrüstung für den Hals (G.-St. 403)",
+                    "Amount": 1,
+                    "Url": "/lodestone/playguide/db/item/5113321b517/"
+                }
+            ],
+            "ItemsOpt": []
+        },
+        "Infos": {
+            "PrevQuests": [
+                {
+                    "Name": " Festung der Nostalgie",
+                    "Url": "/lodestone/playguide/db/quest/242bb22f63f/",
+                    "Area": "Der Große Wald Rak'tika",
+                    "Level": "70"
+                }
+            ],
+            "NextQuests": [
+                {
+                    "Name": "Karnes",
+                    "Url": "/lodestone/playguide/db/npc/npc/10e47bc3cab/",
+                    "Area": "Der Große Wald Rak'tika (X:12.8 Y:34.0)"
+                },
+                {
+                    "Name": "Karnes",
+                    "Url": "/lodestone/playguide/db/npc/npc/54f3670f171/",
+                    "Area": "Der Große Wald Rak'tika (X:18.8 Y:27.8)"
+                },
+                {
+                    "Name": "Varthon",
+                    "Url": "/lodestone/playguide/db/npc/npc/ec8dc869353/",
+                    "Area": "Der Große Wald Rak'tika (X:18.8 Y:27.8)"
+                },
+                {
+                    "Name": "Varthon",
+                    "Url": "/lodestone/playguide/db/npc/npc/229df6b38ce/",
+                    "Area": "Der Große Wald Rak'tika (X:15.4 Y:35.6)"
+                },
+                {
+                    "Name": "Varthon",
+                    "Url": "/lodestone/playguide/db/npc/npc/88bcd7d4346/",
+                    "Area": "Der Große Wald Rak'tika (X:12.8 Y:34.0)"
+                }
+            ]
+        },
+        "Seq": 6,
+        "oldID": 68982,
+        "Map": {
+            "ID": 495
+        }
+    },
+    {
+        "ID": "bb48c41fbbb",
+        "Name": " Die Beschützerin des Waldes",
+        "Location": "Der Große Wald Rak'tika",
+        "Level": 70,
+        "JournalSection": 3,
+        "JournalCategory": 54,
+        "JournalGenre": "Aufträge Rak'tika",
+        "Url": "/lodestone/playguide/db/quest/bb48c41fbbb/",
+        "Image": "https://img.finalfantasyxiv.com/lds/pc/global/images/itemicon/e6/e6c078e1a10dc44792286f3fc5cb94e4787c55c0.png?n5.5",
+        "Icon": "function_normal",
+        "Issuer": "Valan",
+        "StartLocation": {
+            "Name": "Der Große Wald Rak'tika",
+            "X": "19.8",
+            "Y": "27.6"
+        },
+        "StartClass": null,
+        "Job": "",
+        "Company": "Keine Angabe",
+        "Requirement": "Keine Angabe",
+        "Rewards": {
+            "Gil": 752,
+            "Exp": null,
+            "ItemsMand": [
+                {
+                    "Icon": "https://img.finalfantasyxiv.com/lds/pc/global/images/itemicon/af/af26e4b79fb1de83550f6ddbd3a170408fcfe702.png?n5.5",
+                    "Name": "",
+                    "Amount": null
+                }
+            ],
+            "ItemsOpt": []
+        },
+        "Infos": {
+            "PrevQuests": [
+                {
+                    "Name": "Das Ultimatum",
+                    "Url": "/lodestone/playguide/db/quest/2273a86d927/",
+                    "Area": "Der Große Wald Rak'tika",
+                    "Level": "74"
+                }
+            ],
+            "NextQuests": [
+                {
+                    "Name": " Die Herabkunft der Schlange",
+                    "Url": "/lodestone/playguide/db/quest/59c60bc7d39/",
+                    "Area": "Der Große Wald Rak'tika",
+                    "Level": "70"
+                }
+            ],
+            "NPCs": [
+                {
+                    "Name": "Quinfort",
+                    "Url": "/lodestone/playguide/db/npc/npc/5fca9ebf5dd/",
+                    "Area": "Der Große Wald Rak'tika (X:20.9 Y:27.8)"
+                },
+                {
+                    "Name": "Quinfort",
+                    "Url": "/lodestone/playguide/db/npc/npc/05ac14ff4c1/",
+                    "Area": "Der Große Wald Rak'tika (X:10.9 Y:26.0)"
+                },
+                {
+                    "Name": "Valan",
+                    "Url": "/lodestone/playguide/db/npc/npc/11acc944205/",
+                    "Area": "Der Große Wald Rak'tika (X:14.3 Y:26.8)"
+                },
+                {
+                    "Name": "Valan",
+                    "Url": "/lodestone/playguide/db/npc/npc/e323c7ff7fa/",
+                    "Area": "Der Große Wald Rak'tika (X:11.0 Y:26.0)"
+                }
+            ]
+        },
+        "Seq": 16,
+        "oldID": 69192,
+        "Map": {
+            "ID": 495
+        }
+    },
+    {
+        "ID": "c2664ad0df7",
+        "Name": " Vergiss mein nicht",
+        "Location": "Der Große Wald Rak'tika",
+        "Level": 70,
+        "JournalSection": 3,
+        "JournalCategory": 54,
+        "JournalGenre": "Aufträge Rak'tika",
+        "Url": "/lodestone/playguide/db/quest/c2664ad0df7/",
+        "Image": null,
+        "Icon": "common_normal",
+        "Issuer": "Tilmet",
+        "StartLocation": {
+            "Name": "Der Große Wald Rak'tika",
+            "X": "29.7",
+            "Y": "18.9"
+        },
+        "StartClass": null,
+        "Job": "",
+        "Company": "Keine Angabe",
+        "Requirement": "Keine Angabe",
+        "Rewards": {
+            "Gil": 754,
+            "Exp": null,
+            "ItemsMand": [],
+            "ItemsOpt": []
+        },
+        "Infos": {
+            "PrevQuests": [
+                {
+                    "Name": "Offene Ohren in Fanow",
+                    "Url": "/lodestone/playguide/db/quest/5ed4185ccbb/",
+                    "Area": "Der Große Wald Rak'tika",
+                    "Level": "75"
+                }
+            ],
+            "NextQuests": [
+                {
+                    "Name": "Traditionskundige Viis",
+                    "Url": "/lodestone/playguide/db/npc/npc/792dc44eeb1/",
+                    "Area": "Der Große Wald Rak'tika (X:24.5 Y:27.9)"
+                }
+            ]
+        },
+        "Seq": 20,
+        "oldID": 68996,
+        "Map": {
+            "ID": 495
+        }
+    },
+    {
+        "ID": "c33fa7b1810",
+        "Name": " Mjrls Sehnsucht",
+        "Location": "Der Große Wald Rak'tika",
+        "Level": 70,
+        "JournalSection": 3,
+        "JournalCategory": 54,
+        "JournalGenre": "Aufträge Rak'tika",
+        "Url": "/lodestone/playguide/db/quest/c33fa7b1810/",
+        "Image": null,
+        "Icon": "common_normal",
+        "Issuer": "Stille Viis",
+        "StartLocation": {
+            "Name": "Der Große Wald Rak'tika",
+            "X": "29.9",
+            "Y": "18.6"
+        },
+        "StartClass": null,
+        "Job": "",
+        "Company": "Keine Angabe",
+        "Requirement": "Keine Angabe",
+        "Rewards": {
+            "Gil": 827,
+            "Exp": null,
+            "ItemsMand": [],
+            "ItemsOpt": []
+        },
+        "Infos": {
+            "PrevQuests": [
+                {
+                    "Name": "Offene Ohren in Fanow",
+                    "Url": "/lodestone/playguide/db/quest/5ed4185ccbb/",
+                    "Area": "Der Große Wald Rak'tika",
+                    "Level": "75"
+                }
+            ],
+            "NextQuests": [
+                {
+                    "Name": "Honigblonde Viis",
+                    "Url": "/lodestone/playguide/db/npc/npc/02eb79fb151/",
+                    "Area": "Der Große Wald Rak'tika (X:27.8 Y:18.2)"
+                },
+                {
+                    "Name": "Stille Viis",
+                    "Url": "/lodestone/playguide/db/npc/npc/8dd56df873e/",
+                    "Area": "Der Große Wald Rak'tika (X:26.8 Y:34.8)"
+                }
+            ]
+        },
+        "Seq": 30,
+        "oldID": 69006,
+        "Map": {
+            "ID": 495
+        }
+    },
+    {
+        "ID": "df47ea33e55",
+        "Name": " Gemeinsam auf Waldrallen-Jagd",
+        "Location": "Der Große Wald Rak'tika",
+        "Level": 70,
+        "JournalSection": 3,
+        "JournalCategory": 54,
+        "JournalGenre": "Aufträge Rak'tika",
+        "Url": "/lodestone/playguide/db/quest/df47ea33e55/",
+        "Image": null,
+        "Icon": "common_normal",
+        "Issuer": "Heitere Viis",
+        "StartLocation": {
+            "Name": "Der Große Wald Rak'tika",
+            "X": "29.7",
+            "Y": "19.6"
+        },
+        "StartClass": null,
+        "Job": "",
+        "Company": "Keine Angabe",
+        "Requirement": "Keine Angabe",
+        "Rewards": {
+            "Gil": 900,
+            "Exp": null,
+            "ItemsMand": [],
+            "ItemsOpt": []
+        },
+        "Infos": {
+            "PrevQuests": [
+                {
+                    "Name": "Dem Dämon sei Dank",
+                    "Url": "/lodestone/playguide/db/quest/412cc5334d2/",
+                    "Area": "Der Große Wald Rak'tika",
+                    "Level": "75"
+                }
+            ],
+            "NextQuests": [
+                {
+                    "Name": "Heitere Viis",
+                    "Url": "/lodestone/playguide/db/npc/npc/624092b32da/",
+                    "Area": "Der Große Wald Rak'tika (X:24.7 Y:9.8)"
+                }
+            ]
+        },
+        "Seq": 31,
+        "oldID": 69007,
+        "Map": {
+            "ID": 495
+        }
+    },
+    {
+        "ID": "e4c71bb873b",
+        "Name": " Besuch in Bogenruh",
+        "Location": "Der Große Wald Rak'tika",
+        "Level": 70,
+        "JournalSection": 3,
+        "JournalCategory": 54,
+        "JournalGenre": "Aufträge Rak'tika",
+        "Url": "/lodestone/playguide/db/quest/e4c71bb873b/",
+        "Image": null,
+        "Icon": "function_normal",
+        "Issuer": "Haimet",
+        "StartLocation": {
+            "Name": "Der Große Wald Rak'tika",
+            "X": "29.4",
+            "Y": "17.8"
+        },
+        "StartClass": null,
+        "Job": "",
+        "Company": "Keine Angabe",
+        "Requirement": "Keine Angabe",
+        "Rewards": {
+            "Gil": 606,
+            "Exp": null,
+            "ItemsMand": [
+                {
+                    "Icon": "https://img.finalfantasyxiv.com/lds/pc/global/images/itemicon/af/af26e4b79fb1de83550f6ddbd3a170408fcfe702.png?n5.5",
+                    "Name": "",
+                    "Amount": null
+                }
+            ],
+            "ItemsOpt": []
+        },
+        "Infos": {
+            "PrevQuests": [
+                {
+                    "Name": "Offene Ohren in Fanow",
+                    "Url": "/lodestone/playguide/db/quest/5ed4185ccbb/",
+                    "Area": "Der Große Wald Rak'tika",
+                    "Level": "75"
+                }
+            ],
+            "NextQuests": [
+                {
+                    "Name": "Anmutige Bogenschützin",
+                    "Url": "/lodestone/playguide/db/npc/npc/1b13a152d57/",
+                    "Area": "Der Große Wald Rak'tika (X:32.9 Y:24.7)"
+                },
+                {
+                    "Name": "Junge Bogenschützin",
+                    "Url": "/lodestone/playguide/db/npc/npc/68f904e13b2/",
+                    "Area": "Der Große Wald Rak'tika (X:32.8 Y:24.3)"
+                },
+                {
+                    "Name": "Kühne Bogenschützin",
+                    "Url": "/lodestone/playguide/db/npc/npc/fae8269c198/",
+                    "Area": "Der Große Wald Rak'tika (X:32.6 Y:24.5)"
+                }
+            ]
+        },
+        "Seq": 27,
+        "oldID": 69003,
+        "Map": {
+            "ID": 495
+        }
+    },
+    {
+        "ID": "e7164edc732",
+        "Name": " Das Rauschen im Walde",
+        "Location": "Der Große Wald Rak'tika",
+        "Level": 70,
+        "JournalSection": 3,
+        "JournalCategory": 54,
+        "JournalGenre": "Aufträge Rak'tika",
+        "Url": "/lodestone/playguide/db/quest/e7164edc732/",
+        "Image": null,
+        "Icon": "common_normal",
+        "Issuer": "Ovelin",
+        "StartLocation": {
+            "Name": "Der Große Wald Rak'tika",
+            "X": "18.8",
+            "Y": "26.0"
+        },
+        "StartClass": null,
+        "Job": "",
+        "Company": "Keine Angabe",
+        "Requirement": "Keine Angabe",
+        "Rewards": {
+            "Gil": 606,
+            "Exp": null,
+            "ItemsMand": [],
+            "ItemsOpt": []
+        },
+        "Infos": {
+            "PrevQuests": [
+                {
+                    "Name": "Toddias Rückkehr ins Himmelsmeer",
+                    "Url": "/lodestone/playguide/db/quest/f49ec86c807/",
+                    "Area": "Der Große Wald Rak'tika",
+                    "Level": "74"
+                }
+            ]
+        },
+        "Seq": 10,
+        "oldID": 68987,
+        "Map": {
+            "ID": 495
+        }
+    },
+    {
+        "ID": "f5ce8f96523",
+        "Name": " Die schützende Farbe",
+        "Location": "Der Große Wald Rak'tika",
+        "Level": 70,
+        "JournalSection": 3,
+        "JournalCategory": 54,
+        "JournalGenre": "Aufträge Rak'tika",
+        "Url": "/lodestone/playguide/db/quest/f5ce8f96523/",
+        "Image": null,
+        "Icon": "common_normal",
+        "Issuer": "Harvene",
+        "StartLocation": {
+            "Name": "Der Große Wald Rak'tika",
+            "X": "21.1",
+            "Y": "27.7"
+        },
+        "StartClass": null,
+        "Job": "",
+        "Company": "Keine Angabe",
+        "Requirement": "Keine Angabe",
+        "Rewards": {
+            "Gil": 706,
+            "Exp": null,
+            "ItemsMand": [],
+            "ItemsOpt": [
+                {
+                    "Icon": "https://img.finalfantasyxiv.com/lds/pc/global/images/itemicon/c1/c14184c6be6330462a5d4d44f4b911b45af2b9b5.png?n5.5",
+                    "Name": "Honiggelber Farbstoff",
+                    "Amount": 3,
+                    "Url": "/lodestone/playguide/db/item/9f278eaf6ff/"
+                },
+                {
+                    "Icon": "https://img.finalfantasyxiv.com/lds/pc/global/images/itemicon/c1/c14184c6be6330462a5d4d44f4b911b45af2b9b5.png?n5.5",
+                    "Name": "Maisgelber Farbstoff",
+                    "Amount": 3,
+                    "Url": "/lodestone/playguide/db/item/d4a95c48789/"
+                },
+                {
+                    "Icon": "https://img.finalfantasyxiv.com/lds/pc/global/images/itemicon/c1/c14184c6be6330462a5d4d44f4b911b45af2b9b5.png?n5.5",
+                    "Name": "Rosinenbrauner Farbstoff",
+                    "Amount": 3,
+                    "Url": "/lodestone/playguide/db/item/b1d80258b90/"
+                },
+                {
+                    "Icon": "https://img.finalfantasyxiv.com/lds/pc/global/images/itemicon/ba/baa2341dd17414fae7fd62ae7bc62c64589b67be.png?n5.5",
+                    "Name": "Antikes Silberstück",
+                    "Amount": 2,
+                    "Url": "/lodestone/playguide/db/item/50ed823230e/"
+                }
+            ]
+        },
+        "Infos": {
+            "PrevQuests": [
+                {
+                    "Name": "Erste Bekanntschaften",
+                    "Url": "/lodestone/playguide/db/quest/9ceedc9fe33/",
+                    "Area": "Der Große Wald Rak'tika",
+                    "Level": "74"
+                }
+            ]
+        },
+        "Seq": 43,
+        "oldID": 68976,
+        "Map": {
+            "ID": 495
+        }
+    },
+    {
+        "ID": "f8ae0d46224",
+        "Name": " Eine neue Waldbewohnerin",
+        "Location": "Der Große Wald Rak'tika",
+        "Level": 70,
+        "JournalSection": 3,
+        "JournalCategory": 54,
+        "JournalGenre": "Aufträge Rak'tika",
+        "Url": "/lodestone/playguide/db/quest/f8ae0d46224/",
+        "Image": null,
+        "Icon": "common_normal",
+        "Issuer": "Freundliche Viis",
+        "StartLocation": {
+            "Name": "Der Große Wald Rak'tika",
+            "X": "28.0",
+            "Y": "17.0"
+        },
+        "StartClass": null,
+        "Job": "",
+        "Company": "Keine Angabe",
+        "Requirement": "Keine Angabe",
+        "Rewards": {
+            "Gil": 606,
+            "Exp": null,
+            "ItemsMand": [],
+            "ItemsOpt": []
+        },
+        "Infos": {
+            "PrevQuests": [
+                {
+                    "Name": "Offene Ohren in Fanow",
+                    "Url": "/lodestone/playguide/db/quest/5ed4185ccbb/",
+                    "Area": "Der Große Wald Rak'tika",
+                    "Level": "75"
+                }
+            ],
+            "NextQuests": [
+                {
+                    "Name": "Ciuille",
+                    "Url": "/lodestone/playguide/db/npc/npc/eb602300737/",
+                    "Area": "Der Große Wald Rak'tika (X:28.2 Y:18.3)"
+                },
+                {
+                    "Name": "Olmet",
+                    "Url": "/lodestone/playguide/db/npc/npc/1dfc36e8e02/",
+                    "Area": "Der Große Wald Rak'tika (X:30.4 Y:19.1)"
+                }
+            ]
+        },
+        "Seq": 28,
+        "oldID": 69004,
+        "Map": {
+            "ID": 495
+        }
+    },
+    {
+        "ID": "ffa1c497daf",
+        "Name": " Pilze im Tee",
+        "Location": "Der Große Wald Rak'tika",
+        "Level": 70,
+        "JournalSection": 3,
+        "JournalCategory": 54,
+        "JournalGenre": "Aufträge Rak'tika",
+        "Url": "/lodestone/playguide/db/quest/ffa1c497daf/",
+        "Image": null,
+        "Icon": "common_normal",
+        "Issuer": "Vondia",
+        "StartLocation": {
+            "Name": "Der Große Wald Rak'tika",
+            "X": "18.8",
+            "Y": "26.4"
+        },
+        "StartClass": null,
+        "Job": "",
+        "Company": "Keine Angabe",
+        "Requirement": "Keine Angabe",
+        "Rewards": {
+            "Gil": 779,
+            "Exp": null,
+            "ItemsMand": [],
+            "ItemsOpt": []
+        },
+        "Infos": {
+            "PrevQuests": [
+                {
+                    "Name": "Erste Bekanntschaften",
+                    "Url": "/lodestone/playguide/db/quest/9ceedc9fe33/",
+                    "Area": "Der Große Wald Rak'tika",
+                    "Level": "74"
+                }
+            ]
+        },
+        "Seq": 3,
+        "oldID": 68979,
+        "Map": {
+            "ID": 495
+        }
+    }
+]

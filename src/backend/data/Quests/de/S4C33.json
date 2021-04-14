@@ -1,0 +1,2629 @@
+[
+    {
+        "ID": "0434aa4bf6a",
+        "Name": " Mogeks Fehleinschätzung",
+        "Location": "Wallende Nebel",
+        "Level": 50,
+        "JournalSection": 4,
+        "JournalCategory": 33,
+        "JournalGenre": "\n\t\t\t\t\t\t\tNebenaufträge\n\t\t\t\t\t\t",
+        "Url": "/lodestone/playguide/db/quest/0434aa4bf6a/",
+        "Image": null,
+        "Icon": "common_repeat",
+        "Issuer": "Mogek Schlaubommel",
+        "StartLocation": {
+            "Name": "Wallende Nebel",
+            "X": "15.8",
+            "Y": "28.8"
+        },
+        "StartClass": null,
+        "Job": "",
+        "Company": "Keine Angabe",
+        "Requirement": "Keine Angabe",
+        "Rewards": {
+            "Gil": 600,
+            "Exp": null,
+            "ItemsMand": [
+                {
+                    "Icon": "https://img.finalfantasyxiv.com/lds/pc/global/images/itemicon/16/16cd107e2bd1c45cee59e6b96ef02f2f6f68eac5.png?n5.5",
+                    "Name": "Erdkristall",
+                    "Amount": 20,
+                    "Url": "/lodestone/playguide/db/item/ff6eae7bdcb/"
+                }
+            ],
+            "ItemsOpt": []
+        },
+        "Infos": {
+            "PrevQuests": [
+                {
+                    "Name": "Lumpensammler-Mogry",
+                    "Url": "/lodestone/playguide/db/npc/npc/d5bbfc1a867/",
+                    "Area": "Wallende Nebel (X:36.0 Y:22.7)"
+                }
+            ]
+        },
+        "Seq": 9,
+        "oldID": 67827,
+        "Map": {
+            "ID": 214
+        }
+    },
+    {
+        "ID": "0adb72515ae",
+        "Name": " Quadratur der Kugel",
+        "Location": "Wallende Nebel",
+        "Level": 50,
+        "JournalSection": 4,
+        "JournalCategory": 33,
+        "JournalGenre": "\n\t\t\t\t\t\t\tNebenaufträge\n\t\t\t\t\t\t",
+        "Url": "/lodestone/playguide/db/quest/0adb72515ae/",
+        "Image": null,
+        "Icon": "common_repeat",
+        "Issuer": "Mogek Schlaubommel",
+        "StartLocation": {
+            "Name": "Wallende Nebel",
+            "X": "15.8",
+            "Y": "28.8"
+        },
+        "StartClass": null,
+        "Job": "",
+        "Company": "Keine Angabe",
+        "Requirement": "Keine Angabe",
+        "Rewards": {
+            "Gil": 517,
+            "Exp": null,
+            "ItemsMand": [
+                {
+                    "Icon": "https://img.finalfantasyxiv.com/lds/pc/global/images/itemicon/5d/5dd42eb2385a5e0d158b8fa81b63a09e4b25c821.png?n5.5",
+                    "Name": "Blitzkristall",
+                    "Amount": 20,
+                    "Url": "/lodestone/playguide/db/item/b21a951916e/"
+                }
+            ],
+            "ItemsOpt": []
+        },
+        "Infos": {
+            "PrevQuests": [
+                {
+                    "Name": "Felsbrecher-Mogry",
+                    "Url": "/lodestone/playguide/db/npc/npc/a80fbebc392/",
+                    "Area": "Wallende Nebel (X:9.4 Y:26.9)"
+                },
+                {
+                    "Name": "Felsbrecherhelfer-Mogry",
+                    "Url": "/lodestone/playguide/db/npc/npc/e894a2a96c1/",
+                    "Area": "Wallende Nebel (X:9.5 Y:26.9)"
+                },
+                {
+                    "Name": "Felsbrecherhelfer-Mogry",
+                    "Url": "/lodestone/playguide/db/npc/npc/223b30da236/",
+                    "Area": "Wallende Nebel (X:21.3 Y:26.2)"
+                }
+            ]
+        },
+        "Seq": 18,
+        "oldID": 67836,
+        "Map": {
+            "ID": 214
+        }
+    },
+    {
+        "ID": "13b5c5187a4",
+        "Name": " Kein Brunnen ohne Wasser",
+        "Location": "Wallende Nebel",
+        "Level": 50,
+        "JournalSection": 4,
+        "JournalCategory": 33,
+        "JournalGenre": "\n\t\t\t\t\t\t\tHauptaufträge\n\t\t\t\t\t\t",
+        "Url": "/lodestone/playguide/db/quest/13b5c5187a4/",
+        "Image": "https://img.finalfantasyxiv.com/lds/pc/global/images/itemicon/85/850aef037a8ab797843987a7fab10c699dc917d1.png?n5.5",
+        "Icon": "function_normal",
+        "Issuer": "Vorarbeiter Mogzin",
+        "StartLocation": {
+            "Name": "Wallende Nebel",
+            "X": "15.7",
+            "Y": "28.8"
+        },
+        "StartClass": null,
+        "Job": "",
+        "Company": "Keine Angabe",
+        "Requirement": "Keine Angabe",
+        "Rewards": {
+            "Gil": 936,
+            "Exp": null,
+            "ItemsMand": [],
+            "ItemsOpt": [
+                {
+                    "Icon": "https://img.finalfantasyxiv.com/lds/pc/global/images/itemicon/05/050fda3f7c55f511b31bda3f9fa0731dcd5a54cb.png?n5.5",
+                    "Name": "Sammlersold-Materia V",
+                    "Amount": 1,
+                    "Url": "/lodestone/playguide/db/item/b3fa9f1136c/"
+                },
+                {
+                    "Icon": "https://img.finalfantasyxiv.com/lds/pc/global/images/itemicon/05/050fda3f7c55f511b31bda3f9fa0731dcd5a54cb.png?n5.5",
+                    "Name": "Sammlersinn-Materia V",
+                    "Amount": 1,
+                    "Url": "/lodestone/playguide/db/item/aaf024009df/"
+                },
+                {
+                    "Icon": "https://img.finalfantasyxiv.com/lds/pc/global/images/itemicon/6c/6c28ac35293bc5cd065ca1da849891b2ff436b18.png?n5.5",
+                    "Name": "Facharbeiter-Materia V",
+                    "Amount": 1,
+                    "Url": "/lodestone/playguide/db/item/341799aa68e/"
+                }
+            ]
+        },
+        "Infos": {
+            "PrevQuests": [
+                {
+                    "Name": " Starke Freunde",
+                    "Url": "/lodestone/playguide/db/quest/57b94bc91d5/",
+                    "Area": "Wallende Nebel",
+                    "Level": "50"
+                }
+            ],
+            "NextQuests": [
+                {
+                    "Name": " Voll der Hammer, kupo!",
+                    "Url": "/lodestone/playguide/db/quest/5e2ecf15a4b/",
+                    "Area": "Wallende Nebel",
+                    "Level": "50"
+                }
+            ],
+            "NPCs": [
+                {
+                    "Name": "Gullinbursti",
+                    "Url": "/lodestone/playguide/db/npc/npc/48037077888/",
+                    "Area": "Wallende Nebel (X:9.9 Y:25.2)"
+                },
+                {
+                    "Name": "Ohl Deeh",
+                    "Url": "/lodestone/playguide/db/npc/npc/07f2542ec37/",
+                    "Area": "Wallende Nebel (X:15.2 Y:28.6)"
+                },
+                {
+                    "Name": "Ohl Deeh",
+                    "Url": "/lodestone/playguide/db/npc/npc/19b94951204/",
+                    "Area": "Wallende Nebel (X:7.7 Y:30.0)"
+                },
+                {
+                    "Name": "Ohl Deeh",
+                    "Url": "/lodestone/playguide/db/npc/npc/fb0cb682bbe/",
+                    "Area": "Wallende Nebel (X:9.8 Y:25.3)"
+                },
+                {
+                    "Name": "Ohl Deeh",
+                    "Url": "/lodestone/playguide/db/npc/npc/014e2656a55/",
+                    "Area": "Wallende Nebel (X:15.6 Y:28.9)"
+                },
+                {
+                    "Name": "Ohl Deeh",
+                    "Url": "/lodestone/playguide/db/npc/npc/811e45ca0bd/",
+                    "Area": "Wallende Nebel (X:9.5 Y:7.2)"
+                },
+                {
+                    "Name": "Tarresson",
+                    "Url": "/lodestone/playguide/db/npc/npc/95de84e369a/",
+                    "Area": "Wallende Nebel (X:15.6 Y:28.9)"
+                },
+                {
+                    "Name": "Tarresson",
+                    "Url": "/lodestone/playguide/db/npc/npc/6348d987fb7/",
+                    "Area": "Wallende Nebel (X:9.8 Y:25.4)"
+                },
+                {
+                    "Name": "Vorarbeiter Mogzin",
+                    "Url": "/lodestone/playguide/db/npc/npc/22df41c9404/",
+                    "Area": "Wallende Nebel (X:9.8 Y:25.3)"
+                },
+                {
+                    "Name": "Vorarbeiter Mogzin",
+                    "Url": "/lodestone/playguide/db/npc/npc/d9f91ccc5b5/",
+                    "Area": "Wallende Nebel (X:9.5 Y:7.1)"
+                },
+                {
+                    "Name": "Vorarbeiter Mogzin",
+                    "Url": "/lodestone/playguide/db/npc/npc/424686e9b0d/",
+                    "Area": "Wallende Nebel (X:9.5 Y:7.2)"
+                },
+                {
+                    "Name": "Whei Ahf",
+                    "Url": "/lodestone/playguide/db/npc/npc/ee34a054adf/",
+                    "Area": "Wallende Nebel (X:7.6 Y:30.0)"
+                }
+            ]
+        },
+        "Seq": 3,
+        "oldID": 67859,
+        "Map": {
+            "ID": 214
+        }
+    },
+    {
+        "ID": "19be9c78ce0",
+        "Name": " Freundschaft geht durch den Magen",
+        "Location": "Wallende Nebel",
+        "Level": 50,
+        "JournalSection": 4,
+        "JournalCategory": 33,
+        "JournalGenre": "\n\t\t\t\t\t\t\tNebenaufträge\n\t\t\t\t\t\t",
+        "Url": "/lodestone/playguide/db/quest/19be9c78ce0/",
+        "Image": null,
+        "Icon": "common_repeat",
+        "Issuer": "Mogek Schlaubommel",
+        "StartLocation": {
+            "Name": "Wallende Nebel",
+            "X": "15.8",
+            "Y": "28.8"
+        },
+        "StartClass": null,
+        "Job": "",
+        "Company": "Keine Angabe",
+        "Requirement": "Keine Angabe",
+        "Rewards": {
+            "Gil": 700,
+            "Exp": null,
+            "ItemsMand": [
+                {
+                    "Icon": "https://img.finalfantasyxiv.com/lds/pc/global/images/itemicon/a7/a71da2eb489188dbbfadd582938a0e761a9a0585.png?n5.5",
+                    "Name": "Eiskristall",
+                    "Amount": 20,
+                    "Url": "/lodestone/playguide/db/item/2d800a06851/"
+                }
+            ],
+            "ItemsOpt": []
+        },
+        "Infos": {
+            "PrevQuests": [
+                {
+                    "Name": "Feinschmecker-Mogry",
+                    "Url": "/lodestone/playguide/db/npc/npc/18b0604c284/",
+                    "Area": "Wallende Nebel (X:30.6 Y:35.2)"
+                },
+                {
+                    "Name": "Hildeth",
+                    "Url": "/lodestone/playguide/db/npc/npc/a623f746909/",
+                    "Area": "Wallende Nebel (X:15.0 Y:28.9)"
+                },
+                {
+                    "Name": "Küchenlehrling-Mogry",
+                    "Url": "/lodestone/playguide/db/npc/npc/47fd96bacf8/",
+                    "Area": "Wallende Nebel (X:30.5 Y:35.6)"
+                }
+            ]
+        },
+        "Seq": 25,
+        "oldID": 67843,
+        "Map": {
+            "ID": 214
+        }
+    },
+    {
+        "ID": "1a85dd5d011",
+        "Name": " Glatt verputzt",
+        "Location": "Wallende Nebel",
+        "Level": 50,
+        "JournalSection": 4,
+        "JournalCategory": 33,
+        "JournalGenre": "\n\t\t\t\t\t\t\tNebenaufträge\n\t\t\t\t\t\t",
+        "Url": "/lodestone/playguide/db/quest/1a85dd5d011/",
+        "Image": null,
+        "Icon": "common_repeat",
+        "Issuer": "Mogek Schlaubommel",
+        "StartLocation": {
+            "Name": "Wallende Nebel",
+            "X": "15.8",
+            "Y": "28.8"
+        },
+        "StartClass": null,
+        "Job": "",
+        "Company": "Keine Angabe",
+        "Requirement": "Keine Angabe",
+        "Rewards": {
+            "Gil": 600,
+            "Exp": null,
+            "ItemsMand": [
+                {
+                    "Icon": "https://img.finalfantasyxiv.com/lds/pc/global/images/itemicon/5d/5dd42eb2385a5e0d158b8fa81b63a09e4b25c821.png?n5.5",
+                    "Name": "Blitzkristall",
+                    "Amount": 20,
+                    "Url": "/lodestone/playguide/db/item/b21a951916e/"
+                }
+            ],
+            "ItemsOpt": []
+        },
+        "Infos": {
+            "PrevQuests": [
+                {
+                    "Name": "Verputzer-Mogry",
+                    "Url": "/lodestone/playguide/db/npc/npc/3e77623743f/",
+                    "Area": "Wallende Nebel (X:32.9 Y:24.2)"
+                }
+            ]
+        },
+        "Seq": 12,
+        "oldID": 67830,
+        "Map": {
+            "ID": 214
+        }
+    },
+    {
+        "ID": "1db56d464b7",
+        "Name": " Auf die Schnelle noch ne Fischfrikadelle",
+        "Location": "Wallende Nebel",
+        "Level": 50,
+        "JournalSection": 4,
+        "JournalCategory": 33,
+        "JournalGenre": "\n\t\t\t\t\t\t\tNebenaufträge\n\t\t\t\t\t\t",
+        "Url": "/lodestone/playguide/db/quest/1db56d464b7/",
+        "Image": null,
+        "Icon": "common_repeat",
+        "Issuer": "Mogek Schlaubommel",
+        "StartLocation": {
+            "Name": "Wallende Nebel",
+            "X": "15.8",
+            "Y": "28.8"
+        },
+        "StartClass": null,
+        "Job": "",
+        "Company": "Keine Angabe",
+        "Requirement": "Keine Angabe",
+        "Rewards": {
+            "Gil": 628,
+            "Exp": null,
+            "ItemsMand": [
+                {
+                    "Icon": "https://img.finalfantasyxiv.com/lds/pc/global/images/itemicon/d9/d9a4b77a07bb95bf2713ae233a0eececdf211e8b.png?n5.5",
+                    "Name": "Feuerkristall",
+                    "Amount": 20,
+                    "Url": "/lodestone/playguide/db/item/75403105d7f/"
+                }
+            ],
+            "ItemsOpt": []
+        },
+        "Infos": {
+            "PrevQuests": [
+                {
+                    "Name": "Angler-Mogry",
+                    "Url": "/lodestone/playguide/db/npc/npc/6c380a22dfd/",
+                    "Area": "Wallende Nebel (X:22.5 Y:25.4)"
+                },
+                {
+                    "Name": "Angler-Mogry",
+                    "Url": "/lodestone/playguide/db/npc/npc/3af6cca63e2/",
+                    "Area": "Wallende Nebel (X:19.5 Y:7.1)"
+                },
+                {
+                    "Name": "Blaugeschupptes Wyvern-Jungtier",
+                    "Url": "/lodestone/playguide/db/npc/npc/dda8dc04341/",
+                    "Area": "Wallende Nebel (X:15.4 Y:28.5)"
+                },
+                {
+                    "Name": "Magaziner Mogwon",
+                    "Url": "/lodestone/playguide/db/npc/npc/934aa14e47d/",
+                    "Area": "Wallende Nebel (X:21.0 Y:25.7)"
+                }
+            ]
+        },
+        "Seq": 32,
+        "oldID": 67850,
+        "Map": {
+            "ID": 214
+        }
+    },
+    {
+        "ID": "1f7a7a0ae51",
+        "Name": " Ein Brunnen für die Ewigkeit",
+        "Location": "Wallende Nebel",
+        "Level": 50,
+        "JournalSection": 4,
+        "JournalCategory": 33,
+        "JournalGenre": "\n\t\t\t\t\t\t\tNebenaufträge\n\t\t\t\t\t\t",
+        "Url": "/lodestone/playguide/db/quest/1f7a7a0ae51/",
+        "Image": null,
+        "Icon": "common_repeat",
+        "Issuer": "Mogek Schlaubommel",
+        "StartLocation": {
+            "Name": "Wallende Nebel",
+            "X": "15.8",
+            "Y": "28.8"
+        },
+        "StartClass": null,
+        "Job": "",
+        "Company": "Keine Angabe",
+        "Requirement": "Keine Angabe",
+        "Rewards": {
+            "Gil": 545,
+            "Exp": null,
+            "ItemsMand": [
+                {
+                    "Icon": "https://img.finalfantasyxiv.com/lds/pc/global/images/itemicon/b5/b5eb0d9131d8f735a91286bdf2f877f0495e8235.png?n5.5",
+                    "Name": "Wasserkristall",
+                    "Amount": 20,
+                    "Url": "/lodestone/playguide/db/item/44d3f4cb26b/"
+                }
+            ],
+            "ItemsOpt": []
+        },
+        "Infos": {
+            "PrevQuests": [
+                {
+                    "Name": "Fundamentierer-Mogry",
+                    "Url": "/lodestone/playguide/db/npc/npc/58f884de052/",
+                    "Area": "Wallende Nebel (X:14.7 Y:28.6)"
+                },
+                {
+                    "Name": "Mogry-Hilfskonstrukteur",
+                    "Url": "/lodestone/playguide/db/npc/npc/b639aef0a41/",
+                    "Area": "Wallende Nebel (X:17.6 Y:37.7)"
+                },
+                {
+                    "Name": "Mogry-Konstrukteur",
+                    "Url": "/lodestone/playguide/db/npc/npc/50f6ef81f25/",
+                    "Area": "Wallende Nebel (X:17.4 Y:37.3)"
+                }
+            ]
+        },
+        "Seq": 23,
+        "oldID": 67841,
+        "Map": {
+            "ID": 214
+        }
+    },
+    {
+        "ID": "2004e9cbf20",
+        "Name": " Die falsche Nuss",
+        "Location": "Wallende Nebel",
+        "Level": 50,
+        "JournalSection": 4,
+        "JournalCategory": 33,
+        "JournalGenre": "\n\t\t\t\t\t\t\tHauptaufträge\n\t\t\t\t\t\t",
+        "Url": "/lodestone/playguide/db/quest/2004e9cbf20/",
+        "Image": "https://img.finalfantasyxiv.com/lds/pc/global/images/itemicon/c4/c45a4ecd40bb0316dd98f49638857c2f460a1946.png?n5.5",
+        "Icon": "function_normal",
+        "Issuer": "Wütender Steinmetz",
+        "StartLocation": {
+            "Name": "Wallende Nebel",
+            "X": "27.2",
+            "Y": "34.5"
+        },
+        "StartClass": null,
+        "Job": "",
+        "Company": "Keine Angabe",
+        "Requirement": "Keine Angabe",
+        "Rewards": {
+            "Gil": 1483,
+            "Exp": null,
+            "ItemsMand": [],
+            "ItemsOpt": []
+        },
+        "Infos": {
+            "PrevQuests": [
+                {
+                    "Name": "Mit den Augen eines Drachen",
+                    "Url": "/lodestone/playguide/db/quest/afdf4608d31/",
+                    "Area": "Ishgard",
+                    "Level": "55"
+                },
+                {
+                    "Name": "Eine historische Zusammenarbeit",
+                    "Url": "/lodestone/playguide/db/quest/bc3fe3ff9e1/",
+                    "Area": "Wallende Nebel",
+                    "Level": "56"
+                }
+            ],
+            "NextQuests": [
+                {
+                    "Name": " Stetes Hämmern höhlt den Stein",
+                    "Url": "/lodestone/playguide/db/quest/6d2e9b7587e/",
+                    "Area": "Wallende Nebel",
+                    "Level": "50"
+                }
+            ],
+            "NPCs": [
+                {
+                    "Name": "Handeloup",
+                    "Url": "/lodestone/playguide/db/npc/npc/ec3496b94e2/",
+                    "Area": "Fundamente (X:13.8 Y:11.2)"
+                },
+                {
+                    "Name": "Mathye",
+                    "Url": "/lodestone/playguide/db/npc/npc/fc8d4b38c34/",
+                    "Area": "Strebewerk (X:6.2 Y:9.4)"
+                },
+                {
+                    "Name": "Tarresson",
+                    "Url": "/lodestone/playguide/db/npc/npc/a976042005c/",
+                    "Area": "Strebewerk (X:6.3 Y:9.4)"
+                },
+                {
+                    "Name": "Mogek Schlaubommel",
+                    "Url": "/lodestone/playguide/db/npc/npc/c633bc04ad6/",
+                    "Area": "Wallende Nebel (X:15.0 Y:28.7)"
+                },
+                {
+                    "Name": "Mogkul",
+                    "Url": "/lodestone/playguide/db/npc/npc/45e951de345/",
+                    "Area": "Wallende Nebel (X:29.5 Y:35.1)"
+                },
+                {
+                    "Name": "Mogkul",
+                    "Url": "/lodestone/playguide/db/npc/npc/f8cd846d97d/",
+                    "Area": "Wallende Nebel (X:15.1 Y:28.8)"
+                },
+                {
+                    "Name": "Mogmul Mogbauch",
+                    "Url": "/lodestone/playguide/db/npc/npc/7c830ea1571/",
+                    "Area": "Wallende Nebel (X:15.1 Y:28.6)"
+                },
+                {
+                    "Name": "Tarresson",
+                    "Url": "/lodestone/playguide/db/npc/npc/20f286d1ca2/",
+                    "Area": "Wallende Nebel (X:15.2 Y:28.8)"
+                },
+                {
+                    "Name": "Tarresson",
+                    "Url": "/lodestone/playguide/db/npc/npc/2679bb2bb1e/",
+                    "Area": "Wallende Nebel (X:10.3 Y:29.0)"
+                },
+                {
+                    "Name": "Vorarbeiter Mogzin",
+                    "Url": "/lodestone/playguide/db/npc/npc/e2d56bfe807/",
+                    "Area": "Wallende Nebel (X:10.2 Y:29.0)"
+                },
+                {
+                    "Name": "Vorarbeiter Mogzin",
+                    "Url": "/lodestone/playguide/db/npc/npc/3eaf8be8265/",
+                    "Area": "Wallende Nebel (X:15.1 Y:28.7)"
+                }
+            ]
+        },
+        "Seq": 7,
+        "oldID": 67856,
+        "Map": {
+            "ID": 214
+        }
+    },
+    {
+        "ID": "2a6e35174b1",
+        "Name": " Hochgradige Sammlerexpertise",
+        "Location": "Wallende Nebel",
+        "Level": 50,
+        "JournalSection": 4,
+        "JournalCategory": 33,
+        "JournalGenre": "\n\t\t\t\t\t\t\tNebenaufträge\n\t\t\t\t\t\t",
+        "Url": "/lodestone/playguide/db/quest/2a6e35174b1/",
+        "Image": null,
+        "Icon": "common_repeat",
+        "Issuer": "Mogek Schlaubommel",
+        "StartLocation": {
+            "Name": "Wallende Nebel",
+            "X": "15.8",
+            "Y": "28.8"
+        },
+        "StartClass": null,
+        "Job": "",
+        "Company": "Keine Angabe",
+        "Requirement": "Keine Angabe",
+        "Rewards": {
+            "Gil": 828,
+            "Exp": null,
+            "ItemsMand": [
+                {
+                    "Icon": "https://img.finalfantasyxiv.com/lds/pc/global/images/itemicon/d9/d9a4b77a07bb95bf2713ae233a0eececdf211e8b.png?n5.5",
+                    "Name": "Feuerkristall",
+                    "Amount": 20,
+                    "Url": "/lodestone/playguide/db/item/75403105d7f/"
+                }
+            ],
+            "ItemsOpt": []
+        },
+        "Infos": {
+            "PrevQuests": [
+                {
+                    "Name": "Kristallsammler-Mogry",
+                    "Url": "/lodestone/playguide/db/npc/npc/6a8837d5920/",
+                    "Area": "Wallende Nebel (X:30.9 Y:36.6)"
+                }
+            ]
+        },
+        "Seq": 26,
+        "oldID": 67844,
+        "Map": {
+            "ID": 214
+        }
+    },
+    {
+        "ID": "2b92f260c7d",
+        "Name": " Bleibende Werte",
+        "Location": "Wallende Nebel",
+        "Level": 50,
+        "JournalSection": 4,
+        "JournalCategory": 33,
+        "JournalGenre": "\n\t\t\t\t\t\t\tNebenaufträge\n\t\t\t\t\t\t",
+        "Url": "/lodestone/playguide/db/quest/2b92f260c7d/",
+        "Image": null,
+        "Icon": "common_repeat",
+        "Issuer": "Mogek Schlaubommel",
+        "StartLocation": {
+            "Name": "Wallende Nebel",
+            "X": "15.8",
+            "Y": "28.8"
+        },
+        "StartClass": null,
+        "Job": "",
+        "Company": "Keine Angabe",
+        "Requirement": "Keine Angabe",
+        "Rewards": {
+            "Gil": 628,
+            "Exp": null,
+            "ItemsMand": [
+                {
+                    "Icon": "https://img.finalfantasyxiv.com/lds/pc/global/images/itemicon/16/16cd107e2bd1c45cee59e6b96ef02f2f6f68eac5.png?n5.5",
+                    "Name": "Erdkristall",
+                    "Amount": 20,
+                    "Url": "/lodestone/playguide/db/item/ff6eae7bdcb/"
+                }
+            ],
+            "ItemsOpt": []
+        },
+        "Infos": {
+            "PrevQuests": [
+                {
+                    "Name": "Blaugeschupptes Wyvern-Jungtier",
+                    "Url": "/lodestone/playguide/db/npc/npc/dda8dc04341/",
+                    "Area": "Wallende Nebel (X:15.4 Y:28.5)"
+                },
+                {
+                    "Name": "Wächter-Mogry",
+                    "Url": "/lodestone/playguide/db/npc/npc/52061109ff8/",
+                    "Area": "Wallende Nebel (X:21.9 Y:17.8)"
+                }
+            ]
+        },
+        "Seq": 27,
+        "oldID": 67845,
+        "Map": {
+            "ID": 214
+        }
+    },
+    {
+        "ID": "2c4e95ecf46",
+        "Name": " Sensible Sammler",
+        "Location": "Wallende Nebel",
+        "Level": 50,
+        "JournalSection": 4,
+        "JournalCategory": 33,
+        "JournalGenre": "\n\t\t\t\t\t\t\tNebenaufträge\n\t\t\t\t\t\t",
+        "Url": "/lodestone/playguide/db/quest/2c4e95ecf46/",
+        "Image": null,
+        "Icon": "common_repeat",
+        "Issuer": "Mogek Schlaubommel",
+        "StartLocation": {
+            "Name": "Wallende Nebel",
+            "X": "15.8",
+            "Y": "28.8"
+        },
+        "StartClass": null,
+        "Job": "",
+        "Company": "Keine Angabe",
+        "Requirement": "Keine Angabe",
+        "Rewards": {
+            "Gil": 572,
+            "Exp": null,
+            "ItemsMand": [
+                {
+                    "Icon": "https://img.finalfantasyxiv.com/lds/pc/global/images/itemicon/b5/b5eb0d9131d8f735a91286bdf2f877f0495e8235.png?n5.5",
+                    "Name": "Wasserkristall",
+                    "Amount": 20,
+                    "Url": "/lodestone/playguide/db/item/44d3f4cb26b/"
+                }
+            ],
+            "ItemsOpt": []
+        },
+        "Infos": {
+            "PrevQuests": [
+                {
+                    "Name": "Kristallgräber-Mogry",
+                    "Url": "/lodestone/playguide/db/npc/npc/5303500af1a/",
+                    "Area": "Wallende Nebel (X:18.8 Y:7.3)"
+                },
+                {
+                    "Name": "Kristallsammler-Mogry",
+                    "Url": "/lodestone/playguide/db/npc/npc/8ff8610319f/",
+                    "Area": "Wallende Nebel (X:19.1 Y:7.0)"
+                }
+            ]
+        },
+        "Seq": 17,
+        "oldID": 67835,
+        "Map": {
+            "ID": 214
+        }
+    },
+    {
+        "ID": "34adcdb0ac9",
+        "Name": " Mit Zuckerbrot und Peitsche",
+        "Location": "Wallende Nebel",
+        "Level": 50,
+        "JournalSection": 4,
+        "JournalCategory": 33,
+        "JournalGenre": "\n\t\t\t\t\t\t\tNebenaufträge\n\t\t\t\t\t\t",
+        "Url": "/lodestone/playguide/db/quest/34adcdb0ac9/",
+        "Image": null,
+        "Icon": "common_repeat",
+        "Issuer": "Mogek Schlaubommel",
+        "StartLocation": {
+            "Name": "Wallende Nebel",
+            "X": "15.8",
+            "Y": "28.8"
+        },
+        "StartClass": null,
+        "Job": "",
+        "Company": "Keine Angabe",
+        "Requirement": "Keine Angabe",
+        "Rewards": {
+            "Gil": 517,
+            "Exp": null,
+            "ItemsMand": [
+                {
+                    "Icon": "https://img.finalfantasyxiv.com/lds/pc/global/images/itemicon/5d/5dd42eb2385a5e0d158b8fa81b63a09e4b25c821.png?n5.5",
+                    "Name": "Blitzkristall",
+                    "Amount": 20,
+                    "Url": "/lodestone/playguide/db/item/b21a951916e/"
+                }
+            ],
+            "ItemsOpt": []
+        },
+        "Infos": {
+            "PrevQuests": [
+                {
+                    "Name": "Lustloser Arbeiter-Mogry",
+                    "Url": "/lodestone/playguide/db/npc/npc/f79807d0adc/",
+                    "Area": "Wallende Nebel (X:21.7 Y:26.6)"
+                },
+                {
+                    "Name": "Lustloser Arbeiter-Mogry",
+                    "Url": "/lodestone/playguide/db/npc/npc/4132daf8fd3/",
+                    "Area": "Wallende Nebel (X:21.0 Y:26.8)"
+                },
+                {
+                    "Name": "Lustloser Arbeiter-Mogry",
+                    "Url": "/lodestone/playguide/db/npc/npc/3309316add7/",
+                    "Area": "Wallende Nebel (X:21.6 Y:27.4)"
+                },
+                {
+                    "Name": "Magaziner Mogwon",
+                    "Url": "/lodestone/playguide/db/npc/npc/934aa14e47d/",
+                    "Area": "Wallende Nebel (X:21.0 Y:25.7)"
+                }
+            ]
+        },
+        "Seq": 36,
+        "oldID": 67854,
+        "Map": {
+            "ID": 214
+        }
+    },
+    {
+        "ID": "57b94bc91d5",
+        "Name": " Starke Freunde",
+        "Location": "Wallende Nebel",
+        "Level": 50,
+        "JournalSection": 4,
+        "JournalCategory": 33,
+        "JournalGenre": "\n\t\t\t\t\t\t\tHauptaufträge\n\t\t\t\t\t\t",
+        "Url": "/lodestone/playguide/db/quest/57b94bc91d5/",
+        "Image": "https://img.finalfantasyxiv.com/lds/pc/global/images/itemicon/0f/0f67db21601edf3e1e96243f40cff909a92c028c.png?n5.5",
+        "Icon": "function_normal",
+        "Issuer": "Vorarbeiter Mogzin",
+        "StartLocation": {
+            "Name": "Wallende Nebel",
+            "X": "15.7",
+            "Y": "28.8"
+        },
+        "StartClass": null,
+        "Job": "",
+        "Company": "Keine Angabe",
+        "Requirement": "Keine Angabe",
+        "Rewards": {
+            "Gil": 658,
+            "Exp": null,
+            "ItemsMand": [],
+            "ItemsOpt": [
+                {
+                    "Icon": "https://img.finalfantasyxiv.com/lds/pc/global/images/itemicon/db/dbdfccf07fabcc6220a8b0cb3f839ec877699b3c.png?n5.5",
+                    "Name": "Fachkenntnis-Materia IV",
+                    "Amount": 3,
+                    "Url": "/lodestone/playguide/db/item/d41572dcfd9/"
+                },
+                {
+                    "Icon": "https://img.finalfantasyxiv.com/lds/pc/global/images/itemicon/db/dbdfccf07fabcc6220a8b0cb3f839ec877699b3c.png?n5.5",
+                    "Name": "Fachwissen-Materia IV",
+                    "Amount": 3,
+                    "Url": "/lodestone/playguide/db/item/caa6eaeeb0e/"
+                },
+                {
+                    "Icon": "https://img.finalfantasyxiv.com/lds/pc/global/images/itemicon/63/633fd862144850ca113c67712245acdc6cd80454.png?n5.5",
+                    "Name": "Sammlerschlich-Materia IV",
+                    "Amount": 3,
+                    "Url": "/lodestone/playguide/db/item/23a75b80dac/"
+                }
+            ]
+        },
+        "Infos": {
+            "PrevQuests": [
+                {
+                    "Name": " Stetes Hämmern höhlt den Stein",
+                    "Url": "/lodestone/playguide/db/quest/6d2e9b7587e/",
+                    "Area": "Wallende Nebel",
+                    "Level": "50"
+                }
+            ],
+            "NextQuests": [
+                {
+                    "Name": " Kein Brunnen ohne Wasser",
+                    "Url": "/lodestone/playguide/db/quest/13b5c5187a4/",
+                    "Area": "Wallende Nebel",
+                    "Level": "50"
+                }
+            ],
+            "NPCs": [
+                {
+                    "Name": "Mogmul Mogbauch",
+                    "Url": "/lodestone/playguide/db/shop/d1029996df5/",
+                    "Area": "Wallende Nebel (X:15.9 Y:28.5)"
+                },
+                {
+                    "Name": "Ohl Deeh",
+                    "Url": "/lodestone/playguide/db/npc/npc/19b94951204/",
+                    "Area": "Wallende Nebel (X:7.7 Y:30.0)"
+                },
+                {
+                    "Name": "Ohl Deeh",
+                    "Url": "/lodestone/playguide/db/npc/npc/22fd1aca4f6/",
+                    "Area": "Wallende Nebel (X:15.7 Y:28.8)"
+                },
+                {
+                    "Name": "Tarresson",
+                    "Url": "/lodestone/playguide/db/npc/npc/95de84e369a/",
+                    "Area": "Wallende Nebel (X:15.6 Y:28.9)"
+                },
+                {
+                    "Name": "Vorarbeiter Mogzin",
+                    "Url": "/lodestone/playguide/db/npc/npc/11ed2251751/",
+                    "Area": "Wallende Nebel (X:7.7 Y:29.8)"
+                },
+                {
+                    "Name": "Whei Ahf",
+                    "Url": "/lodestone/playguide/db/npc/npc/ee34a054adf/",
+                    "Area": "Wallende Nebel (X:7.6 Y:30.0)"
+                },
+                {
+                    "Name": "Whei Ahf",
+                    "Url": "/lodestone/playguide/db/npc/npc/07a45b54411/",
+                    "Area": "Wallende Nebel (X:15.7 Y:29.0)"
+                }
+            ]
+        },
+        "Seq": 2,
+        "oldID": 67858,
+        "Map": {
+            "ID": 214
+        }
+    },
+    {
+        "ID": "585fa118bfa",
+        "Name": " Ende gut, Sammelwut",
+        "Location": "Wallende Nebel",
+        "Level": 50,
+        "JournalSection": 4,
+        "JournalCategory": 33,
+        "JournalGenre": "\n\t\t\t\t\t\t\tNebenaufträge\n\t\t\t\t\t\t",
+        "Url": "/lodestone/playguide/db/quest/585fa118bfa/",
+        "Image": null,
+        "Icon": "common_repeat",
+        "Issuer": "Mogek Schlaubommel",
+        "StartLocation": {
+            "Name": "Wallende Nebel",
+            "X": "15.8",
+            "Y": "28.8"
+        },
+        "StartClass": null,
+        "Job": "",
+        "Company": "Keine Angabe",
+        "Requirement": "Keine Angabe",
+        "Rewards": {
+            "Gil": 728,
+            "Exp": null,
+            "ItemsMand": [
+                {
+                    "Icon": "https://img.finalfantasyxiv.com/lds/pc/global/images/itemicon/16/16cd107e2bd1c45cee59e6b96ef02f2f6f68eac5.png?n5.5",
+                    "Name": "Erdkristall",
+                    "Amount": 20,
+                    "Url": "/lodestone/playguide/db/item/ff6eae7bdcb/"
+                }
+            ],
+            "ItemsOpt": []
+        },
+        "Infos": {
+            "PrevQuests": [
+                {
+                    "Name": "Hochmotivierter Sammler-Mogry",
+                    "Url": "/lodestone/playguide/db/npc/npc/1f2a2607be9/",
+                    "Area": "Wallende Nebel (X:8.7 Y:27.8)"
+                },
+                {
+                    "Name": "Hochmotivierter Sammler-Mogry",
+                    "Url": "/lodestone/playguide/db/npc/npc/67f889179e0/",
+                    "Area": "Wallende Nebel (X:24.1 Y:20.0)"
+                },
+                {
+                    "Name": "Hochmotivierter Sammler-Mogry",
+                    "Url": "/lodestone/playguide/db/npc/npc/69926b3010c/",
+                    "Area": "Wallende Nebel (X:12.9 Y:20.3)"
+                },
+                {
+                    "Name": "Unmotivierter Sammler-Mogry",
+                    "Url": "/lodestone/playguide/db/npc/npc/a206d0fca63/",
+                    "Area": "Wallende Nebel (X:10.1 Y:26.8)"
+                },
+                {
+                    "Name": "Unmotivierter Sammler-Mogry",
+                    "Url": "/lodestone/playguide/db/npc/npc/be366f1c231/",
+                    "Area": "Wallende Nebel (X:10.1 Y:26.7)"
+                },
+                {
+                    "Name": "Unmotivierter Sammler-Mogry",
+                    "Url": "/lodestone/playguide/db/npc/npc/2a95da98528/",
+                    "Area": "Wallende Nebel (X:10.3 Y:26.7)"
+                },
+                {
+                    "Name": "Warenverwalter Moguppo",
+                    "Url": "/lodestone/playguide/db/npc/npc/621fccb892e/",
+                    "Area": "Wallende Nebel (X:21.4 Y:25.7)"
+                }
+            ]
+        },
+        "Seq": 33,
+        "oldID": 67851,
+        "Map": {
+            "ID": 214
+        }
+    },
+    {
+        "ID": "5e2ecf15a4b",
+        "Name": " Voll der Hammer, kupo!",
+        "Location": "Wallende Nebel",
+        "Level": 50,
+        "JournalSection": 4,
+        "JournalCategory": 33,
+        "JournalGenre": "\n\t\t\t\t\t\t\tHauptaufträge\n\t\t\t\t\t\t",
+        "Url": "/lodestone/playguide/db/quest/5e2ecf15a4b/",
+        "Image": "https://img.finalfantasyxiv.com/lds/pc/global/images/itemicon/35/35baf2096e4d543ac6154302dda4918fabaf0dee.png?n5.5",
+        "Icon": "function_normal",
+        "Issuer": "Vorarbeiter Mogzin",
+        "StartLocation": {
+            "Name": "Wallende Nebel",
+            "X": "15.7",
+            "Y": "28.8"
+        },
+        "StartClass": null,
+        "Job": "",
+        "Company": "Keine Angabe",
+        "Requirement": "Keine Angabe",
+        "Rewards": {
+            "Gil": 574,
+            "Exp": null,
+            "ItemsMand": [],
+            "ItemsOpt": [
+                {
+                    "Icon": "https://img.finalfantasyxiv.com/lds/pc/global/images/itemicon/6c/6c28ac35293bc5cd065ca1da849891b2ff436b18.png?n5.5",
+                    "Name": "Fachkenntnis-Materia V",
+                    "Amount": 1,
+                    "Url": "/lodestone/playguide/db/item/5275c679fe1/"
+                },
+                {
+                    "Icon": "https://img.finalfantasyxiv.com/lds/pc/global/images/itemicon/6c/6c28ac35293bc5cd065ca1da849891b2ff436b18.png?n5.5",
+                    "Name": "Fachwissen-Materia V",
+                    "Amount": 1,
+                    "Url": "/lodestone/playguide/db/item/1c7d17024e6/"
+                },
+                {
+                    "Icon": "https://img.finalfantasyxiv.com/lds/pc/global/images/itemicon/05/050fda3f7c55f511b31bda3f9fa0731dcd5a54cb.png?n5.5",
+                    "Name": "Sammlerschlich-Materia V",
+                    "Amount": 1,
+                    "Url": "/lodestone/playguide/db/item/495ec449b8e/"
+                }
+            ]
+        },
+        "Infos": {
+            "PrevQuests": [
+                {
+                    "Name": " Kein Brunnen ohne Wasser",
+                    "Url": "/lodestone/playguide/db/quest/13b5c5187a4/",
+                    "Area": "Wallende Nebel",
+                    "Level": "50"
+                }
+            ],
+            "NextQuests": [
+                {
+                    "Name": " Häretische Freundschaft",
+                    "Url": "/lodestone/playguide/db/quest/6a1d267aaf3/",
+                    "Area": "Wallende Nebel",
+                    "Level": "50"
+                }
+            ],
+            "NPCs": [
+                {
+                    "Name": "Mogmul Mogbauch",
+                    "Url": "/lodestone/playguide/db/shop/d1029996df5/",
+                    "Area": "Wallende Nebel (X:15.9 Y:28.5)"
+                },
+                {
+                    "Name": "Mogry-Bote",
+                    "Url": "/lodestone/playguide/db/npc/npc/df8241b6851/",
+                    "Area": "Wallende Nebel (X:20.5 Y:26.8)"
+                },
+                {
+                    "Name": "Tarresson",
+                    "Url": "/lodestone/playguide/db/npc/npc/95de84e369a/",
+                    "Area": "Wallende Nebel (X:15.6 Y:28.9)"
+                },
+                {
+                    "Name": "Vorarbeiter Mogzin",
+                    "Url": "/lodestone/playguide/db/npc/npc/ac92455b8bd/",
+                    "Area": "Wallende Nebel (X:20.4 Y:26.8)"
+                }
+            ]
+        },
+        "Seq": 4,
+        "oldID": 67860,
+        "Map": {
+            "ID": 214
+        }
+    },
+    {
+        "ID": "6907260884d",
+        "Name": " Löchrige Planung",
+        "Location": "Wallende Nebel",
+        "Level": 50,
+        "JournalSection": 4,
+        "JournalCategory": 33,
+        "JournalGenre": "\n\t\t\t\t\t\t\tNebenaufträge\n\t\t\t\t\t\t",
+        "Url": "/lodestone/playguide/db/quest/6907260884d/",
+        "Image": null,
+        "Icon": "common_repeat",
+        "Issuer": "Mogek Schlaubommel",
+        "StartLocation": {
+            "Name": "Wallende Nebel",
+            "X": "15.8",
+            "Y": "28.8"
+        },
+        "StartClass": null,
+        "Job": "",
+        "Company": "Keine Angabe",
+        "Requirement": "Keine Angabe",
+        "Rewards": {
+            "Gil": 600,
+            "Exp": null,
+            "ItemsMand": [
+                {
+                    "Icon": "https://img.finalfantasyxiv.com/lds/pc/global/images/itemicon/b5/b5eb0d9131d8f735a91286bdf2f877f0495e8235.png?n5.5",
+                    "Name": "Wasserkristall",
+                    "Amount": 20,
+                    "Url": "/lodestone/playguide/db/item/44d3f4cb26b/"
+                }
+            ],
+            "ItemsOpt": []
+        },
+        "Infos": {
+            "PrevQuests": [
+                {
+                    "Name": "Junger Minen-Mogry",
+                    "Url": "/lodestone/playguide/db/npc/npc/bdbd1ee6246/",
+                    "Area": "Wallende Nebel (X:26.0 Y:11.1)"
+                },
+                {
+                    "Name": "Minen-Mogry",
+                    "Url": "/lodestone/playguide/db/npc/npc/4c3116993a2/",
+                    "Area": "Wallende Nebel (X:26.6 Y:11.0)"
+                }
+            ]
+        },
+        "Seq": 35,
+        "oldID": 67853,
+        "Map": {
+            "ID": 214
+        }
+    },
+    {
+        "ID": "6a1d267aaf3",
+        "Name": " Häretische Freundschaft",
+        "Location": "Wallende Nebel",
+        "Level": 50,
+        "JournalSection": 4,
+        "JournalCategory": 33,
+        "JournalGenre": "\n\t\t\t\t\t\t\tHauptaufträge\n\t\t\t\t\t\t",
+        "Url": "/lodestone/playguide/db/quest/6a1d267aaf3/",
+        "Image": "https://img.finalfantasyxiv.com/lds/pc/global/images/itemicon/e4/e49bbaa6594f76302abf9cc074c5294e557787bb.png?n5.5",
+        "Icon": "function_normal",
+        "Issuer": "Vorarbeiter Mogzin",
+        "StartLocation": {
+            "Name": "Wallende Nebel",
+            "X": "15.7",
+            "Y": "28.8"
+        },
+        "StartClass": null,
+        "Job": "",
+        "Company": "Keine Angabe",
+        "Requirement": "Keine Angabe",
+        "Rewards": {
+            "Gil": 1455,
+            "Exp": null,
+            "ItemsMand": [],
+            "ItemsOpt": [
+                {
+                    "Icon": "https://img.finalfantasyxiv.com/lds/pc/global/images/itemicon/05/050fda3f7c55f511b31bda3f9fa0731dcd5a54cb.png?n5.5",
+                    "Name": "Sammlersold-Materia V",
+                    "Amount": 2,
+                    "Url": "/lodestone/playguide/db/item/b3fa9f1136c/"
+                },
+                {
+                    "Icon": "https://img.finalfantasyxiv.com/lds/pc/global/images/itemicon/05/050fda3f7c55f511b31bda3f9fa0731dcd5a54cb.png?n5.5",
+                    "Name": "Sammlersinn-Materia V",
+                    "Amount": 2,
+                    "Url": "/lodestone/playguide/db/item/aaf024009df/"
+                },
+                {
+                    "Icon": "https://img.finalfantasyxiv.com/lds/pc/global/images/itemicon/6c/6c28ac35293bc5cd065ca1da849891b2ff436b18.png?n5.5",
+                    "Name": "Facharbeiter-Materia V",
+                    "Amount": 2,
+                    "Url": "/lodestone/playguide/db/item/341799aa68e/"
+                }
+            ]
+        },
+        "Infos": {
+            "PrevQuests": [
+                {
+                    "Name": " Voll der Hammer, kupo!",
+                    "Url": "/lodestone/playguide/db/quest/5e2ecf15a4b/",
+                    "Area": "Wallende Nebel",
+                    "Level": "50"
+                }
+            ],
+            "NextQuests": [
+                {
+                    "Name": " In Gedenken an wahre Freundschaft",
+                    "Url": "/lodestone/playguide/db/quest/c20fa5bfa9c/",
+                    "Area": "Wallende Nebel",
+                    "Level": "50"
+                }
+            ],
+            "NPCs": [
+                {
+                    "Name": "Handeloup",
+                    "Url": "/lodestone/playguide/db/npc/npc/ec3496b94e2/",
+                    "Area": "Fundamente (X:13.8 Y:11.2)"
+                },
+                {
+                    "Name": "Vaincannet",
+                    "Url": "/lodestone/playguide/db/npc/npc/5f9a8a545e7/",
+                    "Area": "Fundamente (X:13.9 Y:11.4)"
+                },
+                {
+                    "Name": "Mogmul Mogbauch",
+                    "Url": "/lodestone/playguide/db/shop/d1029996df5/",
+                    "Area": "Wallende Nebel (X:15.9 Y:28.5)"
+                },
+                {
+                    "Name": "Ohl Deeh",
+                    "Url": "/lodestone/playguide/db/npc/npc/07f2542ec37/",
+                    "Area": "Wallende Nebel (X:15.2 Y:28.6)"
+                },
+                {
+                    "Name": "Tarresson",
+                    "Url": "/lodestone/playguide/db/npc/npc/95de84e369a/",
+                    "Area": "Wallende Nebel (X:15.6 Y:28.9)"
+                }
+            ]
+        },
+        "Seq": 5,
+        "oldID": 67861,
+        "Map": {
+            "ID": 214
+        }
+    },
+    {
+        "ID": "6d2e9b7587e",
+        "Name": " Stetes Hämmern höhlt den Stein",
+        "Location": "Wallende Nebel",
+        "Level": 50,
+        "JournalSection": 4,
+        "JournalCategory": 33,
+        "JournalGenre": "\n\t\t\t\t\t\t\tHauptaufträge\n\t\t\t\t\t\t",
+        "Url": "/lodestone/playguide/db/quest/6d2e9b7587e/",
+        "Image": "https://img.finalfantasyxiv.com/lds/pc/global/images/itemicon/41/410ec5fb442c5156ed0815363d3119cf1affff10.png?n5.5",
+        "Icon": "function_normal",
+        "Issuer": "Vorarbeiter Mogzin",
+        "StartLocation": {
+            "Name": "Wallende Nebel",
+            "X": "15.7",
+            "Y": "28.8"
+        },
+        "StartClass": null,
+        "Job": "",
+        "Company": "Keine Angabe",
+        "Requirement": "Keine Angabe",
+        "Rewards": {
+            "Gil": 814,
+            "Exp": null,
+            "ItemsMand": [],
+            "ItemsOpt": [
+                {
+                    "Icon": "https://img.finalfantasyxiv.com/lds/pc/global/images/itemicon/63/633fd862144850ca113c67712245acdc6cd80454.png?n5.5",
+                    "Name": "Sammlersold-Materia IV",
+                    "Amount": 3,
+                    "Url": "/lodestone/playguide/db/item/8b1d678f751/"
+                },
+                {
+                    "Icon": "https://img.finalfantasyxiv.com/lds/pc/global/images/itemicon/63/633fd862144850ca113c67712245acdc6cd80454.png?n5.5",
+                    "Name": "Sammlersinn-Materia IV",
+                    "Amount": 3,
+                    "Url": "/lodestone/playguide/db/item/143c7ec25ce/"
+                },
+                {
+                    "Icon": "https://img.finalfantasyxiv.com/lds/pc/global/images/itemicon/db/dbdfccf07fabcc6220a8b0cb3f839ec877699b3c.png?n5.5",
+                    "Name": "Facharbeiter-Materia IV",
+                    "Amount": 3,
+                    "Url": "/lodestone/playguide/db/item/1ec7fa0ef9d/"
+                }
+            ]
+        },
+        "Infos": {
+            "PrevQuests": [
+                {
+                    "Name": " Die falsche Nuss",
+                    "Url": "/lodestone/playguide/db/quest/2004e9cbf20/",
+                    "Area": "Wallende Nebel",
+                    "Level": "50"
+                }
+            ],
+            "NextQuests": [
+                {
+                    "Name": " Starke Freunde",
+                    "Url": "/lodestone/playguide/db/quest/57b94bc91d5/",
+                    "Area": "Wallende Nebel",
+                    "Level": "50"
+                }
+            ],
+            "NPCs": [
+                {
+                    "Name": "Flausch-Mogry",
+                    "Url": "/lodestone/playguide/db/npc/npc/b80c71816db/",
+                    "Area": "Wallende Nebel (X:15.9 Y:29.0)"
+                },
+                {
+                    "Name": "Moghan",
+                    "Url": "/lodestone/playguide/db/npc/npc/8576e801691/",
+                    "Area": "Wallende Nebel (X:30.0 Y:36.4)"
+                },
+                {
+                    "Name": "Mogupp",
+                    "Url": "/lodestone/playguide/db/npc/npc/856faad5cfe/",
+                    "Area": "Wallende Nebel (X:20.4 Y:25.9)"
+                },
+                {
+                    "Name": "Mogupp",
+                    "Url": "/lodestone/playguide/db/npc/npc/f99768402b5/",
+                    "Area": "Wallende Nebel (X:14.9 Y:28.6)"
+                },
+                {
+                    "Name": "Mogupp",
+                    "Url": "/lodestone/playguide/db/npc/npc/64161ae1a9f/",
+                    "Area": "Wallende Nebel (X:15.1 Y:28.5)"
+                },
+                {
+                    "Name": "Tarresson",
+                    "Url": "/lodestone/playguide/db/npc/npc/95de84e369a/",
+                    "Area": "Wallende Nebel (X:15.6 Y:28.9)"
+                },
+                {
+                    "Name": "Vorarbeiter Mogzin",
+                    "Url": "/lodestone/playguide/db/npc/npc/d56f25eedf1/",
+                    "Area": "Wallende Nebel (X:20.4 Y:25.9)"
+                },
+                {
+                    "Name": "Vorarbeiter Mogzin",
+                    "Url": "/lodestone/playguide/db/npc/npc/c7f023f13f8/",
+                    "Area": "Wallende Nebel (X:20.7 Y:26.0)"
+                },
+                {
+                    "Name": "Vorarbeiter Mogzin",
+                    "Url": "/lodestone/playguide/db/npc/npc/9f11b13470f/",
+                    "Area": "Wallende Nebel (X:27.1 Y:23.4)"
+                },
+                {
+                    "Name": "Vorarbeiter Mogzin",
+                    "Url": "/lodestone/playguide/db/npc/npc/b8c0b4566ac/",
+                    "Area": "Wallende Nebel (X:15.0 Y:28.7)"
+                }
+            ]
+        },
+        "Seq": 1,
+        "oldID": 67857,
+        "Map": {
+            "ID": 214
+        }
+    },
+    {
+        "ID": "7ccb134f532",
+        "Name": " Mogrys für Eorzea",
+        "Location": "Wallende Nebel",
+        "Level": 50,
+        "JournalSection": 4,
+        "JournalCategory": 33,
+        "JournalGenre": "\n\t\t\t\t\t\t\tNebenaufträge\n\t\t\t\t\t\t",
+        "Url": "/lodestone/playguide/db/quest/7ccb134f532/",
+        "Image": null,
+        "Icon": "common_repeat",
+        "Issuer": "Mogek Schlaubommel",
+        "StartLocation": {
+            "Name": "Wallende Nebel",
+            "X": "15.8",
+            "Y": "28.8"
+        },
+        "StartClass": null,
+        "Job": "",
+        "Company": "Keine Angabe",
+        "Requirement": "Keine Angabe",
+        "Rewards": {
+            "Gil": 839,
+            "Exp": null,
+            "ItemsMand": [
+                {
+                    "Icon": "https://img.finalfantasyxiv.com/lds/pc/global/images/itemicon/0d/0dd4af1f23b8f1d782bacfb905a67b491688414c.png?n5.5",
+                    "Name": "Windkristall",
+                    "Amount": 20,
+                    "Url": "/lodestone/playguide/db/item/5db117cd77b/"
+                }
+            ],
+            "ItemsOpt": []
+        },
+        "Infos": {
+            "PrevQuests": [
+                {
+                    "Name": "Bildhauer-Mogry",
+                    "Url": "/lodestone/playguide/db/npc/npc/efe721e5c4c/",
+                    "Area": "Wallende Nebel (X:8.6 Y:36.7)"
+                },
+                {
+                    "Name": "Händler-Mogry",
+                    "Url": "/lodestone/playguide/db/npc/npc/6fa704680e2/",
+                    "Area": "Wallende Nebel (X:26.9 Y:36.9)"
+                }
+            ]
+        },
+        "Seq": 28,
+        "oldID": 67846,
+        "Map": {
+            "ID": 214
+        }
+    },
+    {
+        "ID": "81b5c4e4b59",
+        "Name": " Fleißauffrischung",
+        "Location": "Wallende Nebel",
+        "Level": 50,
+        "JournalSection": 4,
+        "JournalCategory": 33,
+        "JournalGenre": "\n\t\t\t\t\t\t\tNebenaufträge\n\t\t\t\t\t\t",
+        "Url": "/lodestone/playguide/db/quest/81b5c4e4b59/",
+        "Image": null,
+        "Icon": "common_repeat",
+        "Issuer": "Mogek Schlaubommel",
+        "StartLocation": {
+            "Name": "Wallende Nebel",
+            "X": "15.8",
+            "Y": "28.8"
+        },
+        "StartClass": null,
+        "Job": "",
+        "Company": "Keine Angabe",
+        "Requirement": "Keine Angabe",
+        "Rewards": {
+            "Gil": 572,
+            "Exp": null,
+            "ItemsMand": [
+                {
+                    "Icon": "https://img.finalfantasyxiv.com/lds/pc/global/images/itemicon/16/16cd107e2bd1c45cee59e6b96ef02f2f6f68eac5.png?n5.5",
+                    "Name": "Erdkristall",
+                    "Amount": 20,
+                    "Url": "/lodestone/playguide/db/item/ff6eae7bdcb/"
+                }
+            ],
+            "ItemsOpt": []
+        },
+        "Infos": {
+            "PrevQuests": [
+                {
+                    "Name": "Abracker-Mogry",
+                    "Url": "/lodestone/playguide/db/npc/npc/0bee9e40911/",
+                    "Area": "Wallende Nebel (X:7.7 Y:31.1)"
+                },
+                {
+                    "Name": "Arbeitswut-Mogry",
+                    "Url": "/lodestone/playguide/db/npc/npc/0b02dfe825e/",
+                    "Area": "Wallende Nebel (X:21.6 Y:17.2)"
+                },
+                {
+                    "Name": "Flausch-Mogry",
+                    "Url": "/lodestone/playguide/db/npc/npc/b80c71816db/",
+                    "Area": "Wallende Nebel (X:15.9 Y:29.0)"
+                }
+            ]
+        },
+        "Seq": 15,
+        "oldID": 67833,
+        "Map": {
+            "ID": 214
+        }
+    },
+    {
+        "ID": "8da8a05d3a6",
+        "Name": " Mogeks Fehlkalkulation",
+        "Location": "Wallende Nebel",
+        "Level": 50,
+        "JournalSection": 4,
+        "JournalCategory": 33,
+        "JournalGenre": "\n\t\t\t\t\t\t\tNebenaufträge\n\t\t\t\t\t\t",
+        "Url": "/lodestone/playguide/db/quest/8da8a05d3a6/",
+        "Image": null,
+        "Icon": "common_repeat",
+        "Issuer": "Mogek Schlaubommel",
+        "StartLocation": {
+            "Name": "Wallende Nebel",
+            "X": "15.8",
+            "Y": "28.8"
+        },
+        "StartClass": null,
+        "Job": "",
+        "Company": "Keine Angabe",
+        "Requirement": "Keine Angabe",
+        "Rewards": {
+            "Gil": 700,
+            "Exp": null,
+            "ItemsMand": [
+                {
+                    "Icon": "https://img.finalfantasyxiv.com/lds/pc/global/images/itemicon/b5/b5eb0d9131d8f735a91286bdf2f877f0495e8235.png?n5.5",
+                    "Name": "Wasserkristall",
+                    "Amount": 20,
+                    "Url": "/lodestone/playguide/db/item/44d3f4cb26b/"
+                }
+            ],
+            "ItemsOpt": []
+        },
+        "Infos": {
+            "PrevQuests": [
+                {
+                    "Name": "Junger Sankchinni",
+                    "Url": "/lodestone/playguide/db/npc/npc/c91954edcfa/",
+                    "Area": "Wallende Nebel (X:26.1 Y:32.2)"
+                },
+                {
+                    "Name": "Junger Sankchinni",
+                    "Url": "/lodestone/playguide/db/npc/npc/651e79e08fd/",
+                    "Area": "Wallende Nebel (X:28.1 Y:32.3)"
+                },
+                {
+                    "Name": "Junger Sankchinni",
+                    "Url": "/lodestone/playguide/db/npc/npc/034d44d8dfd/",
+                    "Area": "Wallende Nebel (X:28.9 Y:31.3)"
+                },
+                {
+                    "Name": "Mogry-Korbflechterneuling",
+                    "Url": "/lodestone/playguide/db/npc/npc/8c581a272bf/",
+                    "Area": "Wallende Nebel (X:30.5 Y:34.1)"
+                },
+                {
+                    "Name": "Mogry-Korbflechterprofi",
+                    "Url": "/lodestone/playguide/db/npc/npc/f1dbc8028cd/",
+                    "Area": "Wallende Nebel (X:30.4 Y:34.3)"
+                }
+            ]
+        },
+        "Seq": 11,
+        "oldID": 67829,
+        "Map": {
+            "ID": 214
+        }
+    },
+    {
+        "ID": "928f5be3d43",
+        "Name": " Spielkinder",
+        "Location": "Wallende Nebel",
+        "Level": 50,
+        "JournalSection": 4,
+        "JournalCategory": 33,
+        "JournalGenre": "\n\t\t\t\t\t\t\tNebenaufträge\n\t\t\t\t\t\t",
+        "Url": "/lodestone/playguide/db/quest/928f5be3d43/",
+        "Image": null,
+        "Icon": "common_repeat",
+        "Issuer": "Mogek Schlaubommel",
+        "StartLocation": {
+            "Name": "Wallende Nebel",
+            "X": "15.8",
+            "Y": "28.8"
+        },
+        "StartClass": null,
+        "Job": "",
+        "Company": "Keine Angabe",
+        "Requirement": "Keine Angabe",
+        "Rewards": {
+            "Gil": 572,
+            "Exp": null,
+            "ItemsMand": [
+                {
+                    "Icon": "https://img.finalfantasyxiv.com/lds/pc/global/images/itemicon/b5/b5eb0d9131d8f735a91286bdf2f877f0495e8235.png?n5.5",
+                    "Name": "Wasserkristall",
+                    "Amount": 20,
+                    "Url": "/lodestone/playguide/db/item/44d3f4cb26b/"
+                }
+            ],
+            "ItemsOpt": []
+        },
+        "Infos": {
+            "PrevQuests": [
+                {
+                    "Name": "Kind des heiligen Drachen",
+                    "Url": "/lodestone/playguide/db/npc/npc/07dd9fd35ef/",
+                    "Area": "Wallende Nebel (X:22.7 Y:16.1)"
+                },
+                {
+                    "Name": "Tempelritter",
+                    "Url": "/lodestone/playguide/db/npc/npc/eed0a6a1b75/",
+                    "Area": "Wallende Nebel (X:22.3 Y:16.3)"
+                }
+            ]
+        },
+        "Seq": 29,
+        "oldID": 67847,
+        "Map": {
+            "ID": 214
+        }
+    },
+    {
+        "ID": "993bcbc0a6a",
+        "Name": " Eine fundamental wichtige Aufgabe",
+        "Location": "Wallende Nebel",
+        "Level": 50,
+        "JournalSection": 4,
+        "JournalCategory": 33,
+        "JournalGenre": "\n\t\t\t\t\t\t\tNebenaufträge\n\t\t\t\t\t\t",
+        "Url": "/lodestone/playguide/db/quest/993bcbc0a6a/",
+        "Image": null,
+        "Icon": "common_repeat",
+        "Issuer": "Mogek Schlaubommel",
+        "StartLocation": {
+            "Name": "Wallende Nebel",
+            "X": "15.8",
+            "Y": "28.8"
+        },
+        "StartClass": null,
+        "Job": "",
+        "Company": "Keine Angabe",
+        "Requirement": "Keine Angabe",
+        "Rewards": {
+            "Gil": 600,
+            "Exp": null,
+            "ItemsMand": [
+                {
+                    "Icon": "https://img.finalfantasyxiv.com/lds/pc/global/images/itemicon/0d/0dd4af1f23b8f1d782bacfb905a67b491688414c.png?n5.5",
+                    "Name": "Windkristall",
+                    "Amount": 20,
+                    "Url": "/lodestone/playguide/db/item/5db117cd77b/"
+                }
+            ],
+            "ItemsOpt": []
+        },
+        "Infos": {
+            "PrevQuests": [
+                {
+                    "Name": "Fundamentierer-Mogry",
+                    "Url": "/lodestone/playguide/db/npc/npc/58f884de052/",
+                    "Area": "Wallende Nebel (X:14.7 Y:28.6)"
+                },
+                {
+                    "Name": "Kollektor-Mogry",
+                    "Url": "/lodestone/playguide/db/npc/npc/0c06720312e/",
+                    "Area": "Wallende Nebel (X:39.3 Y:26.7)"
+                },
+                {
+                    "Name": "Trümmerpicker-Mogry",
+                    "Url": "/lodestone/playguide/db/npc/npc/cf55ebaaad6/",
+                    "Area": "Wallende Nebel (X:28.8 Y:24.3)"
+                }
+            ]
+        },
+        "Seq": 10,
+        "oldID": 67828,
+        "Map": {
+            "ID": 214
+        }
+    },
+    {
+        "ID": "a103a3040d7",
+        "Name": " Dankeschön Ishgarder Art",
+        "Location": "Wallende Nebel",
+        "Level": 50,
+        "JournalSection": 4,
+        "JournalCategory": 33,
+        "JournalGenre": "\n\t\t\t\t\t\t\tNebenaufträge\n\t\t\t\t\t\t",
+        "Url": "/lodestone/playguide/db/quest/a103a3040d7/",
+        "Image": null,
+        "Icon": "common_repeat",
+        "Issuer": "Mogek Schlaubommel",
+        "StartLocation": {
+            "Name": "Wallende Nebel",
+            "X": "15.8",
+            "Y": "28.8"
+        },
+        "StartClass": null,
+        "Job": "",
+        "Company": "Keine Angabe",
+        "Requirement": "Keine Angabe",
+        "Rewards": {
+            "Gil": 617,
+            "Exp": null,
+            "ItemsMand": [
+                {
+                    "Icon": "https://img.finalfantasyxiv.com/lds/pc/global/images/itemicon/0d/0dd4af1f23b8f1d782bacfb905a67b491688414c.png?n5.5",
+                    "Name": "Windkristall",
+                    "Amount": 20,
+                    "Url": "/lodestone/playguide/db/item/5db117cd77b/"
+                }
+            ],
+            "ItemsOpt": []
+        },
+        "Infos": {
+            "PrevQuests": [
+                {
+                    "Name": "Fleißiger Arbeiter-Mogry",
+                    "Url": "/lodestone/playguide/db/npc/npc/7cacee65ab6/",
+                    "Area": "Wallende Nebel (X:14.9 Y:28.1)"
+                },
+                {
+                    "Name": "Hildeth",
+                    "Url": "/lodestone/playguide/db/npc/npc/a623f746909/",
+                    "Area": "Wallende Nebel (X:15.0 Y:28.9)"
+                },
+                {
+                    "Name": "Magaziner Mogwon",
+                    "Url": "/lodestone/playguide/db/npc/npc/934aa14e47d/",
+                    "Area": "Wallende Nebel (X:21.0 Y:25.7)"
+                },
+                {
+                    "Name": "Tüchtiger Arbeiter-Mogry",
+                    "Url": "/lodestone/playguide/db/npc/npc/1da4d3ffc9d/",
+                    "Area": "Wallende Nebel (X:20.1 Y:25.8)"
+                }
+            ]
+        },
+        "Seq": 34,
+        "oldID": 67852,
+        "Map": {
+            "ID": 214
+        }
+    },
+    {
+        "ID": "b3918f68618",
+        "Name": " Angstmachern Angst machen",
+        "Location": "Wallende Nebel",
+        "Level": 50,
+        "JournalSection": 4,
+        "JournalCategory": 33,
+        "JournalGenre": "\n\t\t\t\t\t\t\tNebenaufträge\n\t\t\t\t\t\t",
+        "Url": "/lodestone/playguide/db/quest/b3918f68618/",
+        "Image": null,
+        "Icon": "common_repeat",
+        "Issuer": "Mogek Schlaubommel",
+        "StartLocation": {
+            "Name": "Wallende Nebel",
+            "X": "15.8",
+            "Y": "28.8"
+        },
+        "StartClass": null,
+        "Job": "",
+        "Company": "Keine Angabe",
+        "Requirement": "Keine Angabe",
+        "Rewards": {
+            "Gil": 472,
+            "Exp": null,
+            "ItemsMand": [
+                {
+                    "Icon": "https://img.finalfantasyxiv.com/lds/pc/global/images/itemicon/d9/d9a4b77a07bb95bf2713ae233a0eececdf211e8b.png?n5.5",
+                    "Name": "Feuerkristall",
+                    "Amount": 20,
+                    "Url": "/lodestone/playguide/db/item/75403105d7f/"
+                }
+            ],
+            "ItemsOpt": []
+        },
+        "Infos": {
+            "PrevQuests": [
+                {
+                    "Name": "Blaugeschupptes Wyvern-Jungtier",
+                    "Url": "/lodestone/playguide/db/npc/npc/dda8dc04341/",
+                    "Area": "Wallende Nebel (X:15.4 Y:28.5)"
+                },
+                {
+                    "Name": "Ängstlicher Mogry",
+                    "Url": "/lodestone/playguide/db/npc/npc/5ed95946ab7/",
+                    "Area": "Wallende Nebel (X:28.6 Y:24.7)"
+                },
+                {
+                    "Name": "Ängstlicher Mogry",
+                    "Url": "/lodestone/playguide/db/npc/npc/53fca0403bd/",
+                    "Area": "Wallende Nebel (X:31.1 Y:24.8)"
+                },
+                {
+                    "Name": "Ängstlicher Mogry",
+                    "Url": "/lodestone/playguide/db/npc/npc/f504cd233d2/",
+                    "Area": "Wallende Nebel (X:30.3 Y:27.6)"
+                }
+            ]
+        },
+        "Seq": 20,
+        "oldID": 67838,
+        "Map": {
+            "ID": 214
+        }
+    },
+    {
+        "ID": "b67d286be2f",
+        "Name": " Bommel-Diplomatie",
+        "Location": "Wallende Nebel",
+        "Level": 50,
+        "JournalSection": 4,
+        "JournalCategory": 33,
+        "JournalGenre": "\n\t\t\t\t\t\t\tNebenaufträge\n\t\t\t\t\t\t",
+        "Url": "/lodestone/playguide/db/quest/b67d286be2f/",
+        "Image": null,
+        "Icon": "common_repeat",
+        "Issuer": "Mogek Schlaubommel",
+        "StartLocation": {
+            "Name": "Wallende Nebel",
+            "X": "15.8",
+            "Y": "28.8"
+        },
+        "StartClass": null,
+        "Job": "",
+        "Company": "Keine Angabe",
+        "Requirement": "Keine Angabe",
+        "Rewards": {
+            "Gil": 517,
+            "Exp": null,
+            "ItemsMand": [
+                {
+                    "Icon": "https://img.finalfantasyxiv.com/lds/pc/global/images/itemicon/16/16cd107e2bd1c45cee59e6b96ef02f2f6f68eac5.png?n5.5",
+                    "Name": "Erdkristall",
+                    "Amount": 20,
+                    "Url": "/lodestone/playguide/db/item/ff6eae7bdcb/"
+                }
+            ],
+            "ItemsOpt": []
+        },
+        "Infos": {
+            "PrevQuests": [
+                {
+                    "Name": "Mogry-Diplomat",
+                    "Url": "/lodestone/playguide/db/npc/npc/1428f9788c0/",
+                    "Area": "Wallende Nebel (X:8.8 Y:25.8)"
+                },
+                {
+                    "Name": "Mogry-Diplomatenneuling",
+                    "Url": "/lodestone/playguide/db/npc/npc/a7b25693e48/",
+                    "Area": "Wallende Nebel (X:9.3 Y:25.7)"
+                },
+                {
+                    "Name": "Unnachgiebiger Drache",
+                    "Url": "/lodestone/playguide/db/npc/npc/ab8bca10183/",
+                    "Area": "Wallende Nebel (X:9.3 Y:25.5)"
+                },
+                {
+                    "Name": "Übelgelaunter Drache",
+                    "Url": "/lodestone/playguide/db/npc/npc/b714788f842/",
+                    "Area": "Wallende Nebel (X:9.1 Y:25.7)"
+                }
+            ]
+        },
+        "Seq": 21,
+        "oldID": 67839,
+        "Map": {
+            "ID": 214
+        }
+    },
+    {
+        "ID": "bd38c40c560",
+        "Name": " Ätherweckruf",
+        "Location": "Wallende Nebel",
+        "Level": 50,
+        "JournalSection": 4,
+        "JournalCategory": 33,
+        "JournalGenre": "\n\t\t\t\t\t\t\tNebenaufträge\n\t\t\t\t\t\t",
+        "Url": "/lodestone/playguide/db/quest/bd38c40c560/",
+        "Image": null,
+        "Icon": "common_repeat",
+        "Issuer": "Mogek Schlaubommel",
+        "StartLocation": {
+            "Name": "Wallende Nebel",
+            "X": "15.8",
+            "Y": "28.8"
+        },
+        "StartClass": null,
+        "Job": "",
+        "Company": "Keine Angabe",
+        "Requirement": "Keine Angabe",
+        "Rewards": {
+            "Gil": 572,
+            "Exp": null,
+            "ItemsMand": [
+                {
+                    "Icon": "https://img.finalfantasyxiv.com/lds/pc/global/images/itemicon/5d/5dd42eb2385a5e0d158b8fa81b63a09e4b25c821.png?n5.5",
+                    "Name": "Blitzkristall",
+                    "Amount": 20,
+                    "Url": "/lodestone/playguide/db/item/b21a951916e/"
+                }
+            ],
+            "ItemsOpt": []
+        },
+        "Infos": {
+            "PrevQuests": [
+                {
+                    "Name": "Blaugeschupptes Wyvern-Jungtier",
+                    "Url": "/lodestone/playguide/db/npc/npc/dda8dc04341/",
+                    "Area": "Wallende Nebel (X:15.4 Y:28.5)"
+                },
+                {
+                    "Name": "Wächter-Mogry",
+                    "Url": "/lodestone/playguide/db/npc/npc/86cff9afa42/",
+                    "Area": "Wallende Nebel (X:33.5 Y:14.7)"
+                }
+            ]
+        },
+        "Seq": 24,
+        "oldID": 67842,
+        "Map": {
+            "ID": 214
+        }
+    },
+    {
+        "ID": "bd7300250a4",
+        "Name": " Prächtig wie ein Klosterboden",
+        "Location": "Wallende Nebel",
+        "Level": 50,
+        "JournalSection": 4,
+        "JournalCategory": 33,
+        "JournalGenre": "\n\t\t\t\t\t\t\tNebenaufträge\n\t\t\t\t\t\t",
+        "Url": "/lodestone/playguide/db/quest/bd7300250a4/",
+        "Image": null,
+        "Icon": "common_repeat",
+        "Issuer": "Mogek Schlaubommel",
+        "StartLocation": {
+            "Name": "Wallende Nebel",
+            "X": "15.8",
+            "Y": "28.8"
+        },
+        "StartClass": null,
+        "Job": "",
+        "Company": "Keine Angabe",
+        "Requirement": "Keine Angabe",
+        "Rewards": {
+            "Gil": 600,
+            "Exp": null,
+            "ItemsMand": [
+                {
+                    "Icon": "https://img.finalfantasyxiv.com/lds/pc/global/images/itemicon/0d/0dd4af1f23b8f1d782bacfb905a67b491688414c.png?n5.5",
+                    "Name": "Windkristall",
+                    "Amount": 20,
+                    "Url": "/lodestone/playguide/db/item/5db117cd77b/"
+                }
+            ],
+            "ItemsOpt": []
+        },
+        "Infos": {
+            "PrevQuests": [
+                {
+                    "Name": "Mogry-Steinmetzlehrling",
+                    "Url": "/lodestone/playguide/db/npc/npc/4fc6b11eee3/",
+                    "Area": "Wallende Nebel (X:33.6 Y:14.8)"
+                },
+                {
+                    "Name": "Steinmetz-Mogry",
+                    "Url": "/lodestone/playguide/db/npc/npc/1aaf2d020dd/",
+                    "Area": "Wallende Nebel (X:33.7 Y:15.1)"
+                }
+            ]
+        },
+        "Seq": 16,
+        "oldID": 67834,
+        "Map": {
+            "ID": 214
+        }
+    },
+    {
+        "ID": "bd951163e63",
+        "Name": " Übung macht den Mogry-Meister",
+        "Location": "Wallende Nebel",
+        "Level": 50,
+        "JournalSection": 4,
+        "JournalCategory": 33,
+        "JournalGenre": "\n\t\t\t\t\t\t\tNebenaufträge\n\t\t\t\t\t\t",
+        "Url": "/lodestone/playguide/db/quest/bd951163e63/",
+        "Image": null,
+        "Icon": "common_repeat",
+        "Issuer": "Mogek Schlaubommel",
+        "StartLocation": {
+            "Name": "Wallende Nebel",
+            "X": "15.8",
+            "Y": "28.8"
+        },
+        "StartClass": null,
+        "Job": "",
+        "Company": "Keine Angabe",
+        "Requirement": "Keine Angabe",
+        "Rewards": {
+            "Gil": 517,
+            "Exp": null,
+            "ItemsMand": [
+                {
+                    "Icon": "https://img.finalfantasyxiv.com/lds/pc/global/images/itemicon/d9/d9a4b77a07bb95bf2713ae233a0eececdf211e8b.png?n5.5",
+                    "Name": "Feuerkristall",
+                    "Amount": 20,
+                    "Url": "/lodestone/playguide/db/item/75403105d7f/"
+                }
+            ],
+            "ItemsOpt": []
+        },
+        "Infos": {
+            "PrevQuests": [
+                {
+                    "Name": "Magaziner Mogwon",
+                    "Url": "/lodestone/playguide/db/npc/npc/934aa14e47d/",
+                    "Area": "Wallende Nebel (X:21.0 Y:25.7)"
+                },
+                {
+                    "Name": "Mogry-Handwerkerneuling",
+                    "Url": "/lodestone/playguide/db/npc/npc/85f790e86c3/",
+                    "Area": "Wallende Nebel (X:21.8 Y:25.8)"
+                },
+                {
+                    "Name": "Mogry-Handwerkerneuling",
+                    "Url": "/lodestone/playguide/db/npc/npc/d3b1b3906a3/",
+                    "Area": "Wallende Nebel (X:20.4 Y:26.4)"
+                },
+                {
+                    "Name": "Mogry-Handwerkerneuling",
+                    "Url": "/lodestone/playguide/db/npc/npc/ced73ad297b/",
+                    "Area": "Wallende Nebel (X:20.3 Y:27.5)"
+                },
+                {
+                    "Name": "Warenverwalter Moguppo",
+                    "Url": "/lodestone/playguide/db/npc/npc/621fccb892e/",
+                    "Area": "Wallende Nebel (X:21.4 Y:25.7)"
+                }
+            ]
+        },
+        "Seq": 8,
+        "oldID": 67826,
+        "Map": {
+            "ID": 214
+        }
+    },
+    {
+        "ID": "c20fa5bfa9c",
+        "Name": " In Gedenken an wahre Freundschaft",
+        "Location": "Wallende Nebel",
+        "Level": 50,
+        "JournalSection": 4,
+        "JournalCategory": 33,
+        "JournalGenre": "\n\t\t\t\t\t\t\tHauptaufträge\n\t\t\t\t\t\t",
+        "Url": "/lodestone/playguide/db/quest/c20fa5bfa9c/",
+        "Image": "https://img.finalfantasyxiv.com/lds/pc/global/images/itemicon/55/55d44c059218aadbfc7c2a26b5fa9812c2c24ef5.png?n5.5",
+        "Icon": "function_normal",
+        "Issuer": "Vorarbeiter Mogzin",
+        "StartLocation": {
+            "Name": "Wallende Nebel",
+            "X": "15.7",
+            "Y": "28.8"
+        },
+        "StartClass": null,
+        "Job": "",
+        "Company": "Keine Angabe",
+        "Requirement": "Keine Angabe",
+        "Rewards": {
+            "Gil": 1044,
+            "Exp": null,
+            "ItemsMand": [
+                {
+                    "Icon": "https://img.finalfantasyxiv.com/lds/pc/global/images/itemicon/a7/a7da0de44dacf6ee851cd882b095f8a0a335e189.png?n5.5",
+                    "Name": "",
+                    "Amount": null
+                }
+            ],
+            "ItemsOpt": [
+                {
+                    "Icon": "https://img.finalfantasyxiv.com/lds/pc/global/images/itemicon/6c/6c28ac35293bc5cd065ca1da849891b2ff436b18.png?n5.5",
+                    "Name": "Fachkenntnis-Materia V",
+                    "Amount": 2,
+                    "Url": "/lodestone/playguide/db/item/5275c679fe1/"
+                },
+                {
+                    "Icon": "https://img.finalfantasyxiv.com/lds/pc/global/images/itemicon/6c/6c28ac35293bc5cd065ca1da849891b2ff436b18.png?n5.5",
+                    "Name": "Fachwissen-Materia V",
+                    "Amount": 2,
+                    "Url": "/lodestone/playguide/db/item/1c7d17024e6/"
+                },
+                {
+                    "Icon": "https://img.finalfantasyxiv.com/lds/pc/global/images/itemicon/05/050fda3f7c55f511b31bda3f9fa0731dcd5a54cb.png?n5.5",
+                    "Name": "Sammlerschlich-Materia V",
+                    "Amount": 2,
+                    "Url": "/lodestone/playguide/db/item/495ec449b8e/"
+                }
+            ]
+        },
+        "Infos": {
+            "PrevQuests": [
+                {
+                    "Name": " Häretische Freundschaft",
+                    "Url": "/lodestone/playguide/db/quest/6a1d267aaf3/",
+                    "Area": "Wallende Nebel",
+                    "Level": "50"
+                }
+            ],
+            "NextQuests": [
+                {
+                    "Name": "Mach's gut, kupo! ",
+                    "Url": "/lodestone/playguide/db/quest/cf15b759857/",
+                    "Area": "Wallende Nebel",
+                    "Level": "50"
+                }
+            ],
+            "NPCs": [
+                {
+                    "Name": "Vidofnir",
+                    "Url": "/lodestone/playguide/db/npc/npc/40cd529c034/",
+                    "Area": "Dravanisches Vorland (X:16.8 Y:23.6)"
+                },
+                {
+                    "Name": "Mogmul Mogbauch",
+                    "Url": "/lodestone/playguide/db/shop/d1029996df5/",
+                    "Area": "Wallende Nebel (X:15.9 Y:28.5)"
+                },
+                {
+                    "Name": "Ohl Deeh",
+                    "Url": "/lodestone/playguide/db/npc/npc/07f2542ec37/",
+                    "Area": "Wallende Nebel (X:15.2 Y:28.6)"
+                },
+                {
+                    "Name": "Ohl Deeh",
+                    "Url": "/lodestone/playguide/db/npc/npc/6323e1f350e/",
+                    "Area": "Wallende Nebel (X:15.1 Y:29.3)"
+                },
+                {
+                    "Name": "Tarresson",
+                    "Url": "/lodestone/playguide/db/npc/npc/95de84e369a/",
+                    "Area": "Wallende Nebel (X:15.6 Y:28.9)"
+                },
+                {
+                    "Name": "Tarresson",
+                    "Url": "/lodestone/playguide/db/npc/npc/460fa6f4ce1/",
+                    "Area": "Wallende Nebel (X:15.1 Y:29.3)"
+                },
+                {
+                    "Name": "Vorarbeiter Mogzin",
+                    "Url": "/lodestone/playguide/db/npc/npc/5512c521b48/",
+                    "Area": "Wallende Nebel (X:15.0 Y:29.3)"
+                },
+                {
+                    "Name": "Vorarbeiter Mogzin",
+                    "Url": "/lodestone/playguide/db/npc/npc/11d2ace5fa5/",
+                    "Area": "Wallende Nebel (X:14.8 Y:28.5)"
+                }
+            ]
+        },
+        "Seq": 6,
+        "oldID": 67862,
+        "Map": {
+            "ID": 214
+        }
+    },
+    {
+        "ID": "c4f1211947b",
+        "Name": " Die Kneif-Kur",
+        "Location": "Wallende Nebel",
+        "Level": 50,
+        "JournalSection": 4,
+        "JournalCategory": 33,
+        "JournalGenre": "\n\t\t\t\t\t\t\tNebenaufträge\n\t\t\t\t\t\t",
+        "Url": "/lodestone/playguide/db/quest/c4f1211947b/",
+        "Image": null,
+        "Icon": "common_repeat",
+        "Issuer": "Mogek Schlaubommel",
+        "StartLocation": {
+            "Name": "Wallende Nebel",
+            "X": "15.8",
+            "Y": "28.8"
+        },
+        "StartClass": null,
+        "Job": "",
+        "Company": "Keine Angabe",
+        "Requirement": "Keine Angabe",
+        "Rewards": {
+            "Gil": 572,
+            "Exp": null,
+            "ItemsMand": [
+                {
+                    "Icon": "https://img.finalfantasyxiv.com/lds/pc/global/images/itemicon/a7/a71da2eb489188dbbfadd582938a0e761a9a0585.png?n5.5",
+                    "Name": "Eiskristall",
+                    "Amount": 20,
+                    "Url": "/lodestone/playguide/db/item/2d800a06851/"
+                }
+            ],
+            "ItemsOpt": []
+        },
+        "Infos": {
+            "PrevQuests": [
+                {
+                    "Name": "Schleifer-Mogry",
+                    "Url": "/lodestone/playguide/db/npc/npc/5d482433767/",
+                    "Area": "Wallende Nebel (X:5.8 Y:31.7)"
+                },
+                {
+                    "Name": "Tobender Wyvern",
+                    "Url": "/lodestone/playguide/db/npc/npc/6cc13c4c845/",
+                    "Area": "Wallende Nebel (X:5.6 Y:32.1)"
+                },
+                {
+                    "Name": "Werkzeugmacher-Mogry",
+                    "Url": "/lodestone/playguide/db/npc/npc/aaebd5340bb/",
+                    "Area": "Wallende Nebel (X:5.7 Y:32.1)"
+                }
+            ]
+        },
+        "Seq": 31,
+        "oldID": 67849,
+        "Map": {
+            "ID": 214
+        }
+    },
+    {
+        "ID": "ce3e02fc330",
+        "Name": " Erst die Arbeit, dann die Kupo-Nüsse",
+        "Location": "Wallende Nebel",
+        "Level": 50,
+        "JournalSection": 4,
+        "JournalCategory": 33,
+        "JournalGenre": "\n\t\t\t\t\t\t\tNebenaufträge\n\t\t\t\t\t\t",
+        "Url": "/lodestone/playguide/db/quest/ce3e02fc330/",
+        "Image": null,
+        "Icon": "common_repeat",
+        "Issuer": "Mogek Schlaubommel",
+        "StartLocation": {
+            "Name": "Wallende Nebel",
+            "X": "15.8",
+            "Y": "28.8"
+        },
+        "StartClass": null,
+        "Job": "",
+        "Company": "Keine Angabe",
+        "Requirement": "Keine Angabe",
+        "Rewards": {
+            "Gil": 628,
+            "Exp": null,
+            "ItemsMand": [
+                {
+                    "Icon": "https://img.finalfantasyxiv.com/lds/pc/global/images/itemicon/0d/0dd4af1f23b8f1d782bacfb905a67b491688414c.png?n5.5",
+                    "Name": "Windkristall",
+                    "Amount": 20,
+                    "Url": "/lodestone/playguide/db/item/5db117cd77b/"
+                }
+            ],
+            "ItemsOpt": []
+        },
+        "Infos": {
+            "PrevQuests": [
+                {
+                    "Name": "Chefingenieur-Mogry",
+                    "Url": "/lodestone/playguide/db/npc/npc/875fd4eb14c/",
+                    "Area": "Wallende Nebel (X:20.6 Y:16.5)"
+                },
+                {
+                    "Name": "Hilfsingenieur-Mogry",
+                    "Url": "/lodestone/playguide/db/npc/npc/2d420f655b0/",
+                    "Area": "Wallende Nebel (X:19.9 Y:16.2)"
+                },
+                {
+                    "Name": "Mogry-Ingenieursneuling",
+                    "Url": "/lodestone/playguide/db/npc/npc/18c7d5a1e6b/",
+                    "Area": "Wallende Nebel (X:20.3 Y:16.1)"
+                }
+            ]
+        },
+        "Seq": 22,
+        "oldID": 67840,
+        "Map": {
+            "ID": 214
+        }
+    },
+    {
+        "ID": "cf15b759857",
+        "Name": "Mach's gut, kupo! ",
+        "Location": "Wallende Nebel",
+        "Level": 50,
+        "JournalSection": 4,
+        "JournalCategory": 33,
+        "JournalGenre": "\n\t\t\t\t\t\t\tHauptaufträge\n\t\t\t\t\t\t",
+        "Url": "/lodestone/playguide/db/quest/cf15b759857/",
+        "Image": null,
+        "Icon": "function_normal",
+        "Issuer": "Vorarbeiter Mogzin",
+        "StartLocation": {
+            "Name": "Wallende Nebel",
+            "X": "15.7",
+            "Y": "28.8"
+        },
+        "StartClass": null,
+        "Job": "",
+        "Company": "Keine Angabe",
+        "Requirement": "Keine Angabe",
+        "Rewards": {
+            "Gil": 0,
+            "Exp": 0,
+            "ItemsMand": [],
+            "ItemsOpt": []
+        },
+        "Infos": {
+            "PrevQuests": [
+                {
+                    "Name": " In Gedenken an wahre Freundschaft",
+                    "Url": "/lodestone/playguide/db/quest/c20fa5bfa9c/",
+                    "Area": "Wallende Nebel",
+                    "Level": "50"
+                }
+            ],
+            "NextQuests": [
+                {
+                    "Name": "Ohl Deeh",
+                    "Url": "/lodestone/playguide/db/npc/npc/07f2542ec37/",
+                    "Area": "Wallende Nebel (X:15.2 Y:28.6)"
+                },
+                {
+                    "Name": "Tarresson",
+                    "Url": "/lodestone/playguide/db/npc/npc/95de84e369a/",
+                    "Area": "Wallende Nebel (X:15.6 Y:28.9)"
+                }
+            ]
+        },
+        "Seq": 7,
+        "oldID": 67863,
+        "Map": {
+            "ID": 214
+        }
+    },
+    {
+        "ID": "cfc20dcca2d",
+        "Name": " Rabiate Methoden",
+        "Location": "Wallende Nebel",
+        "Level": 50,
+        "JournalSection": 4,
+        "JournalCategory": 33,
+        "JournalGenre": "\n\t\t\t\t\t\t\tNebenaufträge\n\t\t\t\t\t\t",
+        "Url": "/lodestone/playguide/db/quest/cfc20dcca2d/",
+        "Image": null,
+        "Icon": "common_repeat",
+        "Issuer": "Mogek Schlaubommel",
+        "StartLocation": {
+            "Name": "Wallende Nebel",
+            "X": "15.8",
+            "Y": "28.8"
+        },
+        "StartClass": null,
+        "Job": "",
+        "Company": "Keine Angabe",
+        "Requirement": "Keine Angabe",
+        "Rewards": {
+            "Gil": 461,
+            "Exp": null,
+            "ItemsMand": [
+                {
+                    "Icon": "https://img.finalfantasyxiv.com/lds/pc/global/images/itemicon/5d/5dd42eb2385a5e0d158b8fa81b63a09e4b25c821.png?n5.5",
+                    "Name": "Blitzkristall",
+                    "Amount": 20,
+                    "Url": "/lodestone/playguide/db/item/b21a951916e/"
+                }
+            ],
+            "ItemsOpt": []
+        },
+        "Infos": {
+            "PrevQuests": [
+                {
+                    "Name": "Diener des heiligen Drachen",
+                    "Url": "/lodestone/playguide/db/npc/npc/fd2a8d17c13/",
+                    "Area": "Wallende Nebel (X:12.8 Y:25.7)"
+                },
+                {
+                    "Name": "Diener des heiligen Drachen",
+                    "Url": "/lodestone/playguide/db/npc/npc/967450d0053/",
+                    "Area": "Wallende Nebel (X:15.0 Y:22.0)"
+                },
+                {
+                    "Name": "Diener des heiligen Drachen",
+                    "Url": "/lodestone/playguide/db/npc/npc/55c94bccfd9/",
+                    "Area": "Wallende Nebel (X:21.4 Y:20.1)"
+                },
+                {
+                    "Name": "Flausch-Mogry",
+                    "Url": "/lodestone/playguide/db/npc/npc/b80c71816db/",
+                    "Area": "Wallende Nebel (X:15.9 Y:29.0)"
+                },
+                {
+                    "Name": "Wegweiser-Mogry",
+                    "Url": "/lodestone/playguide/db/npc/npc/41043699786/",
+                    "Area": "Wallende Nebel (X:12.7 Y:25.8)"
+                },
+                {
+                    "Name": "Wegweiser-Mogry",
+                    "Url": "/lodestone/playguide/db/npc/npc/419363cd55c/",
+                    "Area": "Wallende Nebel (X:14.9 Y:22.1)"
+                },
+                {
+                    "Name": "Wegweiser-Mogry",
+                    "Url": "/lodestone/playguide/db/npc/npc/fa97f123ca7/",
+                    "Area": "Wallende Nebel (X:21.5 Y:20.2)"
+                }
+            ]
+        },
+        "Seq": 30,
+        "oldID": 67848,
+        "Map": {
+            "ID": 214
+        }
+    },
+    {
+        "ID": "de320996ece",
+        "Name": " Fremde Gebräuche",
+        "Location": "Wallende Nebel",
+        "Level": 50,
+        "JournalSection": 4,
+        "JournalCategory": 33,
+        "JournalGenre": "\n\t\t\t\t\t\t\tNebenaufträge\n\t\t\t\t\t\t",
+        "Url": "/lodestone/playguide/db/quest/de320996ece/",
+        "Image": null,
+        "Icon": "common_repeat",
+        "Issuer": "Mogek Schlaubommel",
+        "StartLocation": {
+            "Name": "Wallende Nebel",
+            "X": "15.8",
+            "Y": "28.8"
+        },
+        "StartClass": null,
+        "Job": "",
+        "Company": "Keine Angabe",
+        "Requirement": "Keine Angabe",
+        "Rewards": {
+            "Gil": 600,
+            "Exp": null,
+            "ItemsMand": [
+                {
+                    "Icon": "https://img.finalfantasyxiv.com/lds/pc/global/images/itemicon/a7/a71da2eb489188dbbfadd582938a0e761a9a0585.png?n5.5",
+                    "Name": "Eiskristall",
+                    "Amount": 20,
+                    "Url": "/lodestone/playguide/db/item/2d800a06851/"
+                }
+            ],
+            "ItemsOpt": []
+        },
+        "Infos": {
+            "PrevQuests": [
+                {
+                    "Name": "Hildeth",
+                    "Url": "/lodestone/playguide/db/npc/npc/a623f746909/",
+                    "Area": "Wallende Nebel (X:15.0 Y:28.9)"
+                },
+                {
+                    "Name": "Tempelritter-Pionier",
+                    "Url": "/lodestone/playguide/db/npc/npc/250a4734075/",
+                    "Area": "Wallende Nebel (X:15.0 Y:28.9)"
+                },
+                {
+                    "Name": "Tempelritter-Pionier",
+                    "Url": "/lodestone/playguide/db/npc/npc/6723c7b630f/",
+                    "Area": "Wallende Nebel (X:24.8 Y:25.9)"
+                }
+            ]
+        },
+        "Seq": 19,
+        "oldID": 67837,
+        "Map": {
+            "ID": 214
+        }
+    },
+    {
+        "ID": "e2863fc72d6",
+        "Name": " Helle Ernte",
+        "Location": "Wallende Nebel",
+        "Level": 50,
+        "JournalSection": 4,
+        "JournalCategory": 33,
+        "JournalGenre": "\n\t\t\t\t\t\t\tNebenaufträge\n\t\t\t\t\t\t",
+        "Url": "/lodestone/playguide/db/quest/e2863fc72d6/",
+        "Image": null,
+        "Icon": "common_repeat",
+        "Issuer": "Mogek Schlaubommel",
+        "StartLocation": {
+            "Name": "Wallende Nebel",
+            "X": "15.8",
+            "Y": "28.8"
+        },
+        "StartClass": null,
+        "Job": "",
+        "Company": "Keine Angabe",
+        "Requirement": "Keine Angabe",
+        "Rewards": {
+            "Gil": 700,
+            "Exp": null,
+            "ItemsMand": [
+                {
+                    "Icon": "https://img.finalfantasyxiv.com/lds/pc/global/images/itemicon/d9/d9a4b77a07bb95bf2713ae233a0eececdf211e8b.png?n5.5",
+                    "Name": "Feuerkristall",
+                    "Amount": 20,
+                    "Url": "/lodestone/playguide/db/item/75403105d7f/"
+                }
+            ],
+            "ItemsOpt": []
+        },
+        "Infos": {
+            "PrevQuests": [
+                {
+                    "Name": "Bastler-Mogry",
+                    "Url": "/lodestone/playguide/db/npc/npc/75f6e693fba/",
+                    "Area": "Wallende Nebel (X:31.6 Y:36.0)"
+                },
+                {
+                    "Name": "Blumenpflücker-Mogry",
+                    "Url": "/lodestone/playguide/db/npc/npc/3428f22e7e9/",
+                    "Area": "Wallende Nebel (X:31.4 Y:35.6)"
+                }
+            ]
+        },
+        "Seq": 14,
+        "oldID": 67832,
+        "Map": {
+            "ID": 214
+        }
+    },
+    {
+        "ID": "f5d4ccef522",
+        "Name": " Nussige Belohnung",
+        "Location": "Wallende Nebel",
+        "Level": 50,
+        "JournalSection": 4,
+        "JournalCategory": 33,
+        "JournalGenre": "\n\t\t\t\t\t\t\tNebenaufträge\n\t\t\t\t\t\t",
+        "Url": "/lodestone/playguide/db/quest/f5d4ccef522/",
+        "Image": null,
+        "Icon": "common_repeat",
+        "Issuer": "Mogek Schlaubommel",
+        "StartLocation": {
+            "Name": "Wallende Nebel",
+            "X": "15.8",
+            "Y": "28.8"
+        },
+        "StartClass": null,
+        "Job": "",
+        "Company": "Keine Angabe",
+        "Requirement": "Keine Angabe",
+        "Rewards": {
+            "Gil": 700,
+            "Exp": null,
+            "ItemsMand": [
+                {
+                    "Icon": "https://img.finalfantasyxiv.com/lds/pc/global/images/itemicon/a7/a71da2eb489188dbbfadd582938a0e761a9a0585.png?n5.5",
+                    "Name": "Eiskristall",
+                    "Amount": 20,
+                    "Url": "/lodestone/playguide/db/item/2d800a06851/"
+                }
+            ],
+            "ItemsOpt": []
+        },
+        "Infos": {
+            "PrevQuests": [
+                {
+                    "Name": "Denker-Mogry",
+                    "Url": "/lodestone/playguide/db/npc/npc/ee49a23e72f/",
+                    "Area": "Wallende Nebel (X:31.5 Y:35.5)"
+                },
+                {
+                    "Name": "Dämmerbommel-Mogry",
+                    "Url": "/lodestone/playguide/db/npc/npc/8114023b5b9/",
+                    "Area": "Wallende Nebel (X:27.6 Y:35.3)"
+                },
+                {
+                    "Name": "Miesemogry",
+                    "Url": "/lodestone/playguide/db/npc/npc/5ec40778ed9/",
+                    "Area": "Wallende Nebel (X:28.4 Y:36.0)"
+                },
+                {
+                    "Name": "Wankelmogry",
+                    "Url": "/lodestone/playguide/db/npc/npc/524754bff0a/",
+                    "Area": "Wallende Nebel (X:32.2 Y:36.8)"
+                }
+            ]
+        },
+        "Seq": 13,
+        "oldID": 67831,
+        "Map": {
+            "ID": 214
+        }
+    },
+    {
+        "ID": "fb9fdc2c42d",
+        "Name": " Weckruf des Drachen",
+        "Location": "Wallende Nebel",
+        "Level": 50,
+        "JournalSection": 4,
+        "JournalCategory": 33,
+        "JournalGenre": "\n\t\t\t\t\t\t\tNebenaufträge\n\t\t\t\t\t\t",
+        "Url": "/lodestone/playguide/db/quest/fb9fdc2c42d/",
+        "Image": null,
+        "Icon": "common_repeat",
+        "Issuer": "Mogek Schlaubommel",
+        "StartLocation": {
+            "Name": "Wallende Nebel",
+            "X": "15.8",
+            "Y": "28.8"
+        },
+        "StartClass": null,
+        "Job": "",
+        "Company": "Keine Angabe",
+        "Requirement": "Keine Angabe",
+        "Rewards": {
+            "Gil": 600,
+            "Exp": null,
+            "ItemsMand": [
+                {
+                    "Icon": "https://img.finalfantasyxiv.com/lds/pc/global/images/itemicon/a7/a71da2eb489188dbbfadd582938a0e761a9a0585.png?n5.5",
+                    "Name": "Eiskristall",
+                    "Amount": 20,
+                    "Url": "/lodestone/playguide/db/item/2d800a06851/"
+                }
+            ],
+            "ItemsOpt": []
+        },
+        "Infos": {
+            "PrevQuests": [
+                {
+                    "Name": "Blaugeschupptes Wyvern-Jungtier",
+                    "Url": "/lodestone/playguide/db/npc/npc/dda8dc04341/",
+                    "Area": "Wallende Nebel (X:15.4 Y:28.5)"
+                },
+                {
+                    "Name": "Gieriger Sammler-Mogry",
+                    "Url": "/lodestone/playguide/db/npc/npc/efb00e3dc59/",
+                    "Area": "Wallende Nebel (X:19.0 Y:23.6)"
+                },
+                {
+                    "Name": "Ungeduldiger Sammler-Mogry",
+                    "Url": "/lodestone/playguide/db/npc/npc/64266c3eba8/",
+                    "Area": "Wallende Nebel (X:16.1 Y:8.4)"
+                }
+            ]
+        },
+        "Seq": 37,
+        "oldID": 67855,
+        "Map": {
+            "ID": 214
+        }
+    }
+]

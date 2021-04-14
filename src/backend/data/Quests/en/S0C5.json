@@ -1,0 +1,2408 @@
+[
+    {
+        "ID": "0f0b541bbbf",
+        "Name": "An Allied Decision",
+        "Location": "Gridania",
+        "Level": 60,
+        "JournalSection": 0,
+        "JournalCategory": 5,
+        "JournalGenre": "Post-Dragonsong Main Scenario Quests",
+        "Url": "/lodestone/playguide/db/quest/0f0b541bbbf/",
+        "Image": "https://img.finalfantasyxiv.com/lds/pc/global/images/itemicon/6d/6ded15d4571cb76c7ff8d81c77d68da07a467610.png?n5.5",
+        "Icon": "main",
+        "Issuer": "Aymeric",
+        "StartLocation": {
+            "Name": "New Gridania",
+            "X": "11.4",
+            "Y": "11.5"
+        },
+        "StartClass": null,
+        "Job": "Any Disciple of War or Magic (excluding limited jobs)",
+        "Company": "Not specified",
+        "Requirement": "Not specified",
+        "Rewards": {
+            "Gil": 857,
+            "Exp": 16740,
+            "ItemsMand": [],
+            "ItemsOpt": [
+                {
+                    "Icon": "https://img.finalfantasyxiv.com/lds/pc/global/images/itemicon/8a/8a7b7e68ab6fdb5284cf36875daf25e66850aae7.png?n5.5",
+                    "Name": "Heavenly Eggnog",
+                    "Amount": 1,
+                    "Url": "/lodestone/playguide/db/item/6d30e644d30/"
+                },
+                {
+                    "Icon": "https://img.finalfantasyxiv.com/lds/pc/global/images/itemicon/67/67b594e4dab3bb058b7133b3e5289e06c2c919d4.png?n5.5",
+                    "Name": "Wildwood Scrambled Eggs",
+                    "Amount": 1,
+                    "Url": "/lodestone/playguide/db/item/77e6c372950/"
+                },
+                {
+                    "Icon": "https://img.finalfantasyxiv.com/lds/pc/global/images/itemicon/63/630a111acd1b45e1759aa176032adbc22c411a62.png?n5.5",
+                    "Name": "Spaghetti Carbonara",
+                    "Amount": 1,
+                    "Url": "/lodestone/playguide/db/item/46c2de62a50/"
+                },
+                {
+                    "Icon": "https://img.finalfantasyxiv.com/lds/pc/global/images/itemicon/ba/baa2341dd17414fae7fd62ae7bc62c64589b67be.png?n5.5",
+                    "Name": "Allagan Silver Piece",
+                    "Amount": 1,
+                    "Url": "/lodestone/playguide/db/item/a3ac3ba4b00/"
+                }
+            ]
+        },
+        "Infos": {
+            "PrevQuests": [
+                {
+                    "Name": "An Envoy for Ishgard",
+                    "Url": "/lodestone/playguide/db/quest/34fafd7a179/",
+                    "Area": "Ishgard",
+                    "Level": "60"
+                }
+            ],
+            "NextQuests": [
+                {
+                    "Name": "Griffin, Griffin on the Wall",
+                    "Url": "/lodestone/playguide/db/quest/f024c2b6931/",
+                    "Area": "Mor Dhona",
+                    "Level": "60"
+                }
+            ],
+            "NPCs": [
+                {
+                    "Name": "Lucia",
+                    "Url": "/lodestone/playguide/db/npc/npc/12b383f6c72/",
+                    "Area": "New Gridania (X:11.3 Y:11.4)"
+                },
+                {
+                    "Name": "Serpent Honor Guard",
+                    "Url": "/lodestone/playguide/db/npc/npc/bf6c5b08b4e/",
+                    "Area": "New Gridania (X:11.3 Y:11.5)"
+                },
+                {
+                    "Name": "Alphinaud",
+                    "Url": "/lodestone/playguide/db/npc/npc/edb05fb8c1e/",
+                    "Area": "Old Gridania (X:8.1 Y:10.9)"
+                },
+                {
+                    "Name": "Silent Conjurer",
+                    "Url": "/lodestone/playguide/db/npc/npc/e6c3e7ebc51/",
+                    "Area": "Old Gridania (X:8.0 Y:11.1)"
+                },
+                {
+                    "Name": "Alisaie",
+                    "Url": "/lodestone/playguide/db/npc/npc/7a01b23c952/",
+                    "Area": "Mor Dhona (X:22.1 Y:8.3)"
+                },
+                {
+                    "Name": "Yugiri",
+                    "Url": "/lodestone/playguide/db/npc/npc/da966c4d4a8/",
+                    "Area": "Mor Dhona (X:22.1 Y:8.3)"
+                }
+            ]
+        },
+        "Seq": 12,
+        "oldID": 67889,
+        "Map": {
+            "ID": 2
+        }
+    },
+    {
+        "ID": "1b940b874d8",
+        "Name": "Louisoix's Finest Student",
+        "Location": "East Shroud",
+        "Level": 60,
+        "JournalSection": 0,
+        "JournalCategory": 5,
+        "JournalGenre": "Post-Dragonsong Main Scenario Quests",
+        "Url": "/lodestone/playguide/db/quest/1b940b874d8/",
+        "Image": "https://img.finalfantasyxiv.com/lds/pc/global/images/itemicon/b5/b5ec5ca0573c6bf211b22fcada21ddc5bf7ab8e0.png?n5.5",
+        "Icon": "main",
+        "Issuer": "Alphinaud",
+        "StartLocation": {
+            "Name": "East Shroud",
+            "X": "22.2",
+            "Y": "31.1"
+        },
+        "StartClass": null,
+        "Job": "Any Disciple of War or Magic (excluding limited jobs)",
+        "Company": "Not specified",
+        "Requirement": "Not specified",
+        "Rewards": {
+            "Gil": 848,
+            "Exp": 16740,
+            "ItemsMand": [
+                {
+                    "Icon": "https://img.finalfantasyxiv.com/lds/pc/global/images/itemicon/7e/7eaa53e1fe9e2bd80f81d9ce69c98c24f6223b0b.png?n5.5",
+                    "Name": "Forever Lost Orchestrion Roll",
+                    "Amount": 1,
+                    "Url": "/lodestone/playguide/db/item/c9a2ce28760/"
+                }
+            ],
+            "ItemsOpt": []
+        },
+        "Infos": {
+            "PrevQuests": [
+                {
+                    "Name": "Griffin, Griffin on the Wall",
+                    "Url": "/lodestone/playguide/db/quest/f024c2b6931/",
+                    "Area": "Mor Dhona",
+                    "Level": "60"
+                }
+            ],
+            "NextQuests": [
+                {
+                    "Name": "The Obvious Solution",
+                    "Url": "/lodestone/playguide/db/quest/4f3a9aa2c9e/",
+                    "Area": "The Rising Stones",
+                    "Level": "60"
+                }
+            ],
+            "NPCs": [
+                {
+                    "Name": "Hilda",
+                    "Url": "/lodestone/playguide/db/npc/npc/eb0c071a61c/",
+                    "Area": "East Shroud (X:22.2 Y:31.1)"
+                },
+                {
+                    "Name": "Pipin",
+                    "Url": "/lodestone/playguide/db/npc/npc/4840ee0410c/",
+                    "Area": "East Shroud (X:22.2 Y:31.1)"
+                },
+                {
+                    "Name": "Thancred",
+                    "Url": "/lodestone/playguide/db/npc/npc/13d4ea639a3/",
+                    "Area": "East Shroud (X:22.2 Y:31.1)"
+                },
+                {
+                    "Name": "Yda",
+                    "Url": "/lodestone/playguide/db/npc/npc/3e2bb41a956/",
+                    "Area": "East Shroud (X:22.2 Y:31.2)"
+                },
+                {
+                    "Name": "Yugiri",
+                    "Url": "/lodestone/playguide/db/npc/npc/127d5a5c045/",
+                    "Area": "East Shroud (X:22.2 Y:31.1)"
+                },
+                {
+                    "Name": "Alisaie",
+                    "Url": "/lodestone/playguide/db/npc/npc/b6ec75ccef0/",
+                    "Area": "The Rising Stones (X:6.0 Y:5.9)"
+                },
+                {
+                    "Name": "Tataru",
+                    "Url": "/lodestone/playguide/db/npc/npc/9970140e34a/",
+                    "Area": "The Rising Stones (X:6.0 Y:5.9)"
+                }
+            ],
+            "RelatedAchievements": [
+                {
+                    "Name": "School's Out Forever",
+                    "Url": "/lodestone/playguide/db/achievement/d157e0c8143/",
+                    "Reward": "Title",
+                    "Points": "10"
+                }
+            ]
+        },
+        "Seq": 14,
+        "oldID": 67891,
+        "Map": {
+            "ID": 5
+        }
+    },
+    {
+        "ID": "28764d6d708",
+        "Name": "The Greater Obeisance",
+        "Location": "Gridania",
+        "Level": 60,
+        "JournalSection": 0,
+        "JournalCategory": 5,
+        "JournalGenre": "Post-Dragonsong Main Scenario Quests",
+        "Url": "/lodestone/playguide/db/quest/28764d6d708/",
+        "Image": "https://img.finalfantasyxiv.com/lds/pc/global/images/itemicon/c1/c19f5c745942c178351805c25d44c1c1f468d6a4.png?n5.5",
+        "Icon": "main",
+        "Issuer": "Alphinaud",
+        "StartLocation": {
+            "Name": "Old Gridania",
+            "X": "8.1",
+            "Y": "10.9"
+        },
+        "StartClass": null,
+        "Job": "Any Disciple of War or Magic (excluding limited jobs)",
+        "Company": "Not specified",
+        "Requirement": "Not specified",
+        "Rewards": {
+            "Gil": 0,
+            "Exp": 16740,
+            "ItemsMand": [
+                {
+                    "Icon": "https://img.finalfantasyxiv.com/lds/pc/global/images/itemicon/fb/fb000afa3b641a86f1f443904fff67f28e2c5b11.png?n5.5",
+                    "Name": "",
+                    "Amount": null
+                }
+            ],
+            "ItemsOpt": []
+        },
+        "Infos": {
+            "PrevQuests": [
+                {
+                    "Name": "The Obvious Solution",
+                    "Url": "/lodestone/playguide/db/quest/4f3a9aa2c9e/",
+                    "Area": "The Rising Stones",
+                    "Level": "60"
+                }
+            ],
+            "NextQuests": [
+                {
+                    "Name": "Fly Free, My Pretty",
+                    "Url": "/lodestone/playguide/db/quest/d566a6822bf/",
+                    "Area": "The Rising Stones",
+                    "Level": "60"
+                }
+            ],
+            "NPCs": [
+                {
+                    "Name": "Alphinaud",
+                    "Url": "/lodestone/playguide/db/npc/npc/299954caf3a/",
+                    "Area": "New Gridania (X:12.0 Y:13.1)"
+                },
+                {
+                    "Name": "Cid",
+                    "Url": "/lodestone/playguide/db/npc/npc/82092d88fab/",
+                    "Area": "New Gridania (X:12.0 Y:13.0)"
+                },
+                {
+                    "Name": "Hida",
+                    "Url": "/lodestone/playguide/db/npc/npc/689162957d0/",
+                    "Area": "New Gridania (X:11.7 Y:13.3)"
+                },
+                {
+                    "Name": "Alisaie",
+                    "Url": "/lodestone/playguide/db/npc/npc/f5fa25bb085/",
+                    "Area": "Mor Dhona (X:23.9 Y:12.8)"
+                },
+                {
+                    "Name": "Cid",
+                    "Url": "/lodestone/playguide/db/npc/npc/e9ce7913369/",
+                    "Area": "Mor Dhona (X:23.9 Y:12.8)"
+                },
+                {
+                    "Name": "Nero Tol Scaeva",
+                    "Url": "/lodestone/playguide/db/npc/npc/391d54d37fd/",
+                    "Area": "Mor Dhona (X:23.8 Y:12.8)"
+                },
+                {
+                    "Name": "Yugiri",
+                    "Url": "/lodestone/playguide/db/npc/npc/394b84c8e91/",
+                    "Area": "Mor Dhona (X:23.9 Y:12.8)"
+                },
+                {
+                    "Name": "Alisaie",
+                    "Url": "/lodestone/playguide/db/npc/npc/d288f75c5c4/",
+                    "Area": "The Rising Stones (X:6.0 Y:5.9)"
+                },
+                {
+                    "Name": "Cid",
+                    "Url": "/lodestone/playguide/db/npc/npc/ad7c033bb0e/",
+                    "Area": "The Rising Stones (X:6.0 Y:6.0)"
+                },
+                {
+                    "Name": "Nero Tol Scaeva",
+                    "Url": "/lodestone/playguide/db/npc/npc/f6b6ca356d4/",
+                    "Area": "The Rising Stones (X:6.3 Y:5.9)"
+                },
+                {
+                    "Name": "Tataru",
+                    "Url": "/lodestone/playguide/db/npc/npc/1d7a6f6de6c/",
+                    "Area": "The Rising Stones (X:6.0 Y:5.9)"
+                },
+                {
+                    "Name": "Tataru",
+                    "Url": "/lodestone/playguide/db/npc/npc/994880ddb5a/",
+                    "Area": "The Rising Stones (X:6.0 Y:5.9)"
+                },
+                {
+                    "Name": "Yugiri",
+                    "Url": "/lodestone/playguide/db/npc/npc/627a292695b/",
+                    "Area": "The Rising Stones (X:6.0 Y:5.9)"
+                }
+            ]
+        },
+        "Seq": 16,
+        "oldID": 67893,
+        "Map": {
+            "ID": 3
+        }
+    },
+    {
+        "ID": "34fafd7a179",
+        "Name": "An Envoy for Ishgard",
+        "Location": "Ishgard",
+        "Level": 60,
+        "JournalSection": 0,
+        "JournalCategory": 5,
+        "JournalGenre": "Post-Dragonsong Main Scenario Quests",
+        "Url": "/lodestone/playguide/db/quest/34fafd7a179/",
+        "Image": null,
+        "Icon": "main",
+        "Issuer": "Lucia",
+        "StartLocation": {
+            "Name": "Foundation",
+            "X": "13.7",
+            "Y": "11.1"
+        },
+        "StartClass": null,
+        "Job": "Any Disciple of War or Magic (excluding limited jobs)",
+        "Company": "Not specified",
+        "Requirement": "Not specified",
+        "Rewards": {
+            "Gil": 885,
+            "Exp": 16740,
+            "ItemsMand": [],
+            "ItemsOpt": []
+        },
+        "Infos": {
+            "PrevQuests": [
+                {
+                    "Name": "Tidings from Gyr Abania",
+                    "Url": "/lodestone/playguide/db/quest/75e76e55276/",
+                    "Area": "The Rising Stones",
+                    "Level": "60"
+                }
+            ],
+            "NextQuests": [
+                {
+                    "Name": "An Allied Decision",
+                    "Url": "/lodestone/playguide/db/quest/0f0b541bbbf/",
+                    "Area": "Gridania",
+                    "Level": "60"
+                }
+            ],
+            "NPCs": [
+                {
+                    "Name": "Aymeric",
+                    "Url": "/lodestone/playguide/db/npc/npc/77279542873/",
+                    "Area": "New Gridania (X:11.4 Y:11.5)"
+                },
+                {
+                    "Name": "Lucia",
+                    "Url": "/lodestone/playguide/db/npc/npc/12b383f6c72/",
+                    "Area": "New Gridania (X:11.3 Y:11.4)"
+                },
+                {
+                    "Name": "Serpent Honor Guard",
+                    "Url": "/lodestone/playguide/db/npc/npc/bf6c5b08b4e/",
+                    "Area": "New Gridania (X:11.3 Y:11.5)"
+                },
+                {
+                    "Name": "Aymeric",
+                    "Url": "/lodestone/playguide/db/npc/npc/1986b1e6691/",
+                    "Area": "Coerthas Central Highlands (X:26.1 Y:17.7)"
+                },
+                {
+                    "Name": "Emmanellain",
+                    "Url": "/lodestone/playguide/db/npc/npc/49fe290e102/",
+                    "Area": "Coerthas Central Highlands (X:26.5 Y:17.4)"
+                },
+                {
+                    "Name": "Honoroit",
+                    "Url": "/lodestone/playguide/db/npc/npc/fe69d2eaf7d/",
+                    "Area": "Coerthas Central Highlands (X:26.5 Y:17.3)"
+                },
+                {
+                    "Name": "Lucia",
+                    "Url": "/lodestone/playguide/db/npc/npc/ee1162e8f13/",
+                    "Area": "Coerthas Central Highlands (X:18.6 Y:15.3)"
+                },
+                {
+                    "Name": "Lucia",
+                    "Url": "/lodestone/playguide/db/npc/npc/e45f95ca32e/",
+                    "Area": "Coerthas Central Highlands (X:26.1 Y:17.7)"
+                },
+                {
+                    "Name": "Aymeric",
+                    "Url": "/lodestone/playguide/db/npc/npc/7c211fa7022/",
+                    "Area": "Foundation (X:13.7 Y:11.1)"
+                },
+                {
+                    "Name": "Handeloup",
+                    "Url": "/lodestone/playguide/db/npc/npc/ec3496b94e2/",
+                    "Area": "Foundation (X:13.8 Y:11.2)"
+                },
+                {
+                    "Name": "Lucia",
+                    "Url": "/lodestone/playguide/db/npc/npc/2fb397135ab/",
+                    "Area": "Foundation (X:13.7 Y:11.2)"
+                }
+            ]
+        },
+        "Seq": 11,
+        "oldID": 67888,
+        "Map": {
+            "ID": 218
+        }
+    },
+    {
+        "ID": "4f3a9aa2c9e",
+        "Name": "The Obvious Solution",
+        "Location": "The Rising Stones",
+        "Level": 60,
+        "JournalSection": 0,
+        "JournalCategory": 5,
+        "JournalGenre": "Post-Dragonsong Main Scenario Quests",
+        "Url": "/lodestone/playguide/db/quest/4f3a9aa2c9e/",
+        "Image": "https://img.finalfantasyxiv.com/lds/pc/global/images/itemicon/37/37c15b9c363608baed5502df963ab27afc65ad31.png?n5.5",
+        "Icon": "main",
+        "Issuer": "Alisaie",
+        "StartLocation": {
+            "Name": "The Rising Stones",
+            "X": "6.0",
+            "Y": "5.9"
+        },
+        "StartClass": null,
+        "Job": "Any Disciple of War or Magic (excluding limited jobs)",
+        "Company": "Not specified",
+        "Requirement": "Not specified",
+        "Rewards": {
+            "Gil": 1182,
+            "Exp": 16740,
+            "ItemsMand": [
+                {
+                    "Icon": "https://img.finalfantasyxiv.com/lds/pc/global/images/itemicon/7e/7eaa53e1fe9e2bd80f81d9ce69c98c24f6223b0b.png?n5.5",
+                    "Name": "Steel Reason Orchestrion Roll",
+                    "Amount": 1,
+                    "Url": "/lodestone/playguide/db/item/ed368db3984/"
+                }
+            ],
+            "ItemsOpt": []
+        },
+        "Infos": {
+            "PrevQuests": [
+                {
+                    "Name": "Louisoix's Finest Student",
+                    "Url": "/lodestone/playguide/db/quest/1b940b874d8/",
+                    "Area": "East Shroud",
+                    "Level": "60"
+                }
+            ],
+            "NextQuests": [
+                {
+                    "Name": "The Greater Obeisance",
+                    "Url": "/lodestone/playguide/db/quest/28764d6d708/",
+                    "Area": "Gridania",
+                    "Level": "60"
+                }
+            ],
+            "NPCs": [
+                {
+                    "Name": "Alphinaud",
+                    "Url": "/lodestone/playguide/db/npc/npc/edb05fb8c1e/",
+                    "Area": "Old Gridania (X:8.1 Y:10.9)"
+                },
+                {
+                    "Name": "Silent Conjurer",
+                    "Url": "/lodestone/playguide/db/npc/npc/e6c3e7ebc51/",
+                    "Area": "Old Gridania (X:8.0 Y:11.1)"
+                },
+                {
+                    "Name": "Alphinaud",
+                    "Url": "/lodestone/playguide/db/npc/npc/cd69a827a55/",
+                    "Area": "The Rising Stones (X:6.0 Y:6.0)"
+                },
+                {
+                    "Name": "Tataru",
+                    "Url": "/lodestone/playguide/db/npc/npc/1d7a6f6de6c/",
+                    "Area": "The Rising Stones (X:6.0 Y:5.9)"
+                }
+            ]
+        },
+        "Seq": 15,
+        "oldID": 67892,
+        "Map": {
+            "ID": 136
+        }
+    },
+    {
+        "ID": "52f21ed313a",
+        "Name": "Beneath a Star-filled Sky",
+        "Location": "Outer La Noscea",
+        "Level": 60,
+        "JournalSection": 0,
+        "JournalCategory": 5,
+        "JournalGenre": "Post-Dragonsong Main Scenario Quests",
+        "Url": "/lodestone/playguide/db/quest/52f21ed313a/",
+        "Image": null,
+        "Icon": "main",
+        "Issuer": "Alphinaud",
+        "StartLocation": {
+            "Name": "Outer La Noscea",
+            "X": "20.5",
+            "Y": "16.7"
+        },
+        "StartClass": null,
+        "Job": "Any Disciple of War or Magic (excluding limited jobs)",
+        "Company": "Not specified",
+        "Requirement": "Not specified",
+        "Rewards": {
+            "Gil": 1670,
+            "Exp": 16740,
+            "ItemsMand": [],
+            "ItemsOpt": []
+        },
+        "Infos": {
+            "PrevQuests": [
+                {
+                    "Name": "The Beast That Mourned at the Heart of the Mountain",
+                    "Url": "/lodestone/playguide/db/quest/ec11e570956/",
+                    "Area": "Outer La Noscea",
+                    "Level": "60"
+                }
+            ],
+            "NextQuests": [
+                {
+                    "Name": "When We Were Free",
+                    "Url": "/lodestone/playguide/db/quest/991aca46bdb/",
+                    "Area": "Southern Thanalan",
+                    "Level": "60"
+                }
+            ],
+            "NPCs": [
+                {
+                    "Name": "Alisaie",
+                    "Url": "/lodestone/playguide/db/npc/npc/11721774f14/",
+                    "Area": "Outer La Noscea (X:20.5 Y:16.7)"
+                },
+                {
+                    "Name": "Alisaie",
+                    "Url": "/lodestone/playguide/db/npc/npc/50b16489bb1/",
+                    "Area": "Outer La Noscea (X:19.5 Y:18.2)"
+                },
+                {
+                    "Name": "Alphinaud",
+                    "Url": "/lodestone/playguide/db/npc/npc/b889dd577f1/",
+                    "Area": "Outer La Noscea (X:18.9 Y:17.2)"
+                },
+                {
+                    "Name": "Bloeidin",
+                    "Url": "/lodestone/playguide/db/npc/npc/485ce80f0e6/",
+                    "Area": "Outer La Noscea (X:18.6 Y:17.2)"
+                },
+                {
+                    "Name": "Ga Bu",
+                    "Url": "/lodestone/playguide/db/npc/npc/a8ceb8eb0d1/",
+                    "Area": "Outer La Noscea (X:20.5 Y:16.7)"
+                },
+                {
+                    "Name": "Ga Bu",
+                    "Url": "/lodestone/playguide/db/npc/npc/f69f0709e8f/",
+                    "Area": "Outer La Noscea (X:19.5 Y:18.3)"
+                },
+                {
+                    "Name": "Alisaie",
+                    "Url": "/lodestone/playguide/db/npc/npc/56e8afae486/",
+                    "Area": "Southern Thanalan (X:18.0 Y:13.5)"
+                },
+                {
+                    "Name": "Alphinaud",
+                    "Url": "/lodestone/playguide/db/npc/npc/d4ed0d3dba1/",
+                    "Area": "Southern Thanalan (X:18.0 Y:13.5)"
+                },
+                {
+                    "Name": "Alphinaud",
+                    "Url": "/lodestone/playguide/db/npc/npc/896ac568c63/",
+                    "Area": "The Waking Sands (X:5.9 Y:6.0)"
+                },
+                {
+                    "Name": "Urianger",
+                    "Url": "/lodestone/playguide/db/npc/npc/f64497fe8b0/",
+                    "Area": "The Waking Sands (X:6.0 Y:4.9)"
+                }
+            ]
+        },
+        "Seq": 5,
+        "oldID": 67882,
+        "Map": {
+            "ID": 30
+        }
+    },
+    {
+        "ID": "5b58b50a401",
+        "Name": "Unlikely Allies",
+        "Location": "Outer La Noscea",
+        "Level": 60,
+        "JournalSection": 0,
+        "JournalCategory": 5,
+        "JournalGenre": "Post-Dragonsong Main Scenario Quests",
+        "Url": "/lodestone/playguide/db/quest/5b58b50a401/",
+        "Image": null,
+        "Icon": "main",
+        "Issuer": "Bloeidin",
+        "StartLocation": {
+            "Name": "Outer La Noscea",
+            "X": "18.6",
+            "Y": "17.2"
+        },
+        "StartClass": null,
+        "Job": "Any Disciple of War or Magic (excluding limited jobs)",
+        "Company": "Not specified",
+        "Requirement": "Not specified",
+        "Rewards": {
+            "Gil": 583,
+            "Exp": 16740,
+            "ItemsMand": [],
+            "ItemsOpt": []
+        },
+        "Infos": {
+            "PrevQuests": [
+                {
+                    "Name": "Two Sides of a Coin",
+                    "Url": "/lodestone/playguide/db/quest/b317ba51af5/",
+                    "Area": "Coerthas Central Highlands",
+                    "Level": "60"
+                }
+            ],
+            "NextQuests": [
+                {
+                    "Name": "The Beast That Mourned at the Heart of the Mountain",
+                    "Url": "/lodestone/playguide/db/quest/ec11e570956/",
+                    "Area": "Outer La Noscea",
+                    "Level": "60"
+                }
+            ],
+            "NPCs": [
+                {
+                    "Name": "Alisaie",
+                    "Url": "/lodestone/playguide/db/npc/npc/87e4a039503/",
+                    "Area": "Outer La Noscea (X:18.9 Y:17.2)"
+                },
+                {
+                    "Name": "Alisaie",
+                    "Url": "/lodestone/playguide/db/npc/npc/9371ff7e430/",
+                    "Area": "Outer La Noscea (X:19.6 Y:17.4)"
+                },
+                {
+                    "Name": "Alisaie",
+                    "Url": "/lodestone/playguide/db/npc/npc/2226843da3f/",
+                    "Area": "Outer La Noscea (X:20.6 Y:16.9)"
+                },
+                {
+                    "Name": "Alphinaud",
+                    "Url": "/lodestone/playguide/db/npc/npc/b889dd577f1/",
+                    "Area": "Outer La Noscea (X:18.9 Y:17.2)"
+                },
+                {
+                    "Name": "Alphinaud",
+                    "Url": "/lodestone/playguide/db/npc/npc/fea37b02107/",
+                    "Area": "Outer La Noscea (X:19.2 Y:16.5)"
+                },
+                {
+                    "Name": "Alphinaud",
+                    "Url": "/lodestone/playguide/db/npc/npc/dfe7a396443/",
+                    "Area": "Outer La Noscea (X:20.6 Y:16.9)"
+                },
+                {
+                    "Name": "Ga Bu",
+                    "Url": "/lodestone/playguide/db/npc/npc/7f2b3916dcc/",
+                    "Area": "Outer La Noscea (X:20.6 Y:16.9)"
+                },
+                {
+                    "Name": "Koboldling",
+                    "Url": "/lodestone/playguide/db/npc/npc/c5cf6fc523b/",
+                    "Area": "Outer La Noscea (X:19.9 Y:15.6)"
+                },
+                {
+                    "Name": "Koboldling",
+                    "Url": "/lodestone/playguide/db/npc/npc/39c57b36b1f/",
+                    "Area": "Outer La Noscea (X:20.8 Y:16.7)"
+                },
+                {
+                    "Name": "Koboldling",
+                    "Url": "/lodestone/playguide/db/npc/npc/7c24f99ecb8/",
+                    "Area": "Outer La Noscea (X:19.3 Y:15.9)"
+                },
+                {
+                    "Name": "Koboldling",
+                    "Url": "/lodestone/playguide/db/npc/npc/2f4618bc4de/",
+                    "Area": "Outer La Noscea (X:20.6 Y:16.9)"
+                }
+            ]
+        },
+        "Seq": 3,
+        "oldID": 67880,
+        "Map": {
+            "ID": 30
+        }
+    },
+    {
+        "ID": "6038dbc7167",
+        "Name": "Honorable Heroes",
+        "Location": "Southern Thanalan",
+        "Level": 60,
+        "JournalSection": 0,
+        "JournalCategory": 5,
+        "JournalGenre": "Post-Dragonsong Main Scenario Quests",
+        "Url": "/lodestone/playguide/db/quest/6038dbc7167/",
+        "Image": null,
+        "Icon": "main",
+        "Issuer": "Papalymo",
+        "StartLocation": {
+            "Name": "Southern Thanalan",
+            "X": "25.0",
+            "Y": "12.6"
+        },
+        "StartClass": null,
+        "Job": "Any Disciple of War or Magic (excluding limited jobs)",
+        "Company": "Not specified",
+        "Requirement": "Not specified",
+        "Rewards": {
+            "Gil": 813,
+            "Exp": 16740,
+            "ItemsMand": [],
+            "ItemsOpt": [
+                {
+                    "Icon": "https://img.finalfantasyxiv.com/lds/pc/global/images/itemicon/29/2900fcb60d60e08965319cacc3f4ca726cfa3dc0.png?n5.5",
+                    "Name": "Flaugnarde",
+                    "Amount": 1,
+                    "Url": "/lodestone/playguide/db/item/e74d13688f9/"
+                },
+                {
+                    "Icon": "https://img.finalfantasyxiv.com/lds/pc/global/images/itemicon/9b/9bcbc49a589a34378dcea2d9d2a4e6e8f28564f4.png?n5.5",
+                    "Name": "Loaghtan Cordon Bleu",
+                    "Amount": 1,
+                    "Url": "/lodestone/playguide/db/item/bedb8ebb774/"
+                },
+                {
+                    "Icon": "https://img.finalfantasyxiv.com/lds/pc/global/images/itemicon/a4/a43b6c3e1a13bc98bde0be37487e6133f7cbbb6c.png?n5.5",
+                    "Name": "Spaghetti Pescatore",
+                    "Amount": 1,
+                    "Url": "/lodestone/playguide/db/item/ed815eefc04/"
+                },
+                {
+                    "Icon": "https://img.finalfantasyxiv.com/lds/pc/global/images/itemicon/ba/baa2341dd17414fae7fd62ae7bc62c64589b67be.png?n5.5",
+                    "Name": "Allagan Silver Piece",
+                    "Amount": 1,
+                    "Url": "/lodestone/playguide/db/item/a3ac3ba4b00/"
+                }
+            ]
+        },
+        "Infos": {
+            "PrevQuests": [
+                {
+                    "Name": "When We Were Free",
+                    "Url": "/lodestone/playguide/db/quest/991aca46bdb/",
+                    "Area": "Southern Thanalan",
+                    "Level": "60"
+                }
+            ],
+            "NextQuests": [
+                {
+                    "Name": "One Life for One World",
+                    "Url": "/lodestone/playguide/db/quest/b65e034c097/",
+                    "Area": "Southern Thanalan",
+                    "Level": "60"
+                }
+            ],
+            "NPCs": [
+                {
+                    "Name": "Alisaie",
+                    "Url": "/lodestone/playguide/db/npc/npc/fce986cfd21/",
+                    "Area": "Southern Thanalan (X:16.9 Y:14.4)"
+                },
+                {
+                    "Name": "Alphinaud",
+                    "Url": "/lodestone/playguide/db/npc/npc/7059d870983/",
+                    "Area": "Southern Thanalan (X:25.0 Y:12.6)"
+                },
+                {
+                    "Name": "Alphinaud",
+                    "Url": "/lodestone/playguide/db/npc/npc/769d4afcf6a/",
+                    "Area": "Southern Thanalan (X:19.8 Y:14.9)"
+                },
+                {
+                    "Name": "Alphinaud",
+                    "Url": "/lodestone/playguide/db/npc/npc/282652909b5/",
+                    "Area": "Southern Thanalan (X:19.3 Y:11.9)"
+                },
+                {
+                    "Name": "Alphinaud",
+                    "Url": "/lodestone/playguide/db/npc/npc/c252f4b6dac/",
+                    "Area": "Southern Thanalan (X:19.3 Y:11.9)"
+                },
+                {
+                    "Name": "Talebot",
+                    "Url": "/lodestone/playguide/db/npc/npc/103976fc77c/",
+                    "Area": "Southern Thanalan (X:19.9 Y:14.9)"
+                },
+                {
+                    "Name": "Yda",
+                    "Url": "/lodestone/playguide/db/npc/npc/86c9452ec3f/",
+                    "Area": "Southern Thanalan (X:25.1 Y:12.6)"
+                }
+            ]
+        },
+        "Seq": 7,
+        "oldID": 67884,
+        "Map": {
+            "ID": 23
+        }
+    },
+    {
+        "ID": "723efddb90c",
+        "Name": "Shadows of the First",
+        "Location": "Fortemps Manor",
+        "Level": 60,
+        "JournalSection": 0,
+        "JournalCategory": 5,
+        "JournalGenre": "Post-Dragonsong Main Scenario Quests",
+        "Url": "/lodestone/playguide/db/quest/723efddb90c/",
+        "Image": "https://img.finalfantasyxiv.com/lds/pc/global/images/itemicon/0d/0df1f5626c8640b0e3a423bf8fbb1f0b30bdea14.png?n5.5",
+        "Icon": "main",
+        "Issuer": "Alphinaud",
+        "StartLocation": {
+            "Name": "Fortemps Manor",
+            "X": "6.1",
+            "Y": "6.0"
+        },
+        "StartClass": null,
+        "Job": "Any Disciple of War or Magic (excluding limited jobs)",
+        "Company": "Not specified",
+        "Requirement": "Not specified",
+        "Rewards": {
+            "Gil": 5000,
+            "Exp": 16740,
+            "ItemsMand": [
+                {
+                    "Icon": "https://img.finalfantasyxiv.com/lds/pc/global/images/itemicon/7e/7eaa53e1fe9e2bd80f81d9ce69c98c24f6223b0b.png?n5.5",
+                    "Name": "Grounded Orchestrion Roll",
+                    "Amount": 1,
+                    "Url": "/lodestone/playguide/db/item/846feeb03a7/"
+                }
+            ],
+            "ItemsOpt": []
+        },
+        "Infos": {
+            "PrevQuests": [
+                {
+                    "Name": "Promises Kept",
+                    "Url": "/lodestone/playguide/db/quest/c54202b45bb/",
+                    "Area": "Ishgard",
+                    "Level": "60"
+                }
+            ],
+            "NextQuests": [
+                {
+                    "Name": "Two Sides of a Coin",
+                    "Url": "/lodestone/playguide/db/quest/b317ba51af5/",
+                    "Area": "Coerthas Central Highlands",
+                    "Level": "60"
+                }
+            ],
+            "NPCs": [
+                {
+                    "Name": "Alphinaud",
+                    "Url": "/lodestone/playguide/db/npc/npc/dfca0fe083d/",
+                    "Area": "Coerthas Central Highlands (X:26.4 Y:16.2)"
+                },
+                {
+                    "Name": "Alphinaud",
+                    "Url": "/lodestone/playguide/db/npc/npc/648a24dec9a/",
+                    "Area": "Coerthas Central Highlands (X:33.5 Y:15.3)"
+                },
+                {
+                    "Name": "Earnest House Fortemps Knight",
+                    "Url": "/lodestone/playguide/db/npc/npc/3ba64c9711f/",
+                    "Area": "Coerthas Central Highlands (X:33.4 Y:15.2)"
+                },
+                {
+                    "Name": "Steadfast House Fortemps Knight",
+                    "Url": "/lodestone/playguide/db/npc/npc/6959f78dd2b/",
+                    "Area": "Coerthas Central Highlands (X:33.5 Y:15.3)"
+                },
+                {
+                    "Name": "Aymeric",
+                    "Url": "/lodestone/playguide/db/npc/npc/1d1e5d900f3/",
+                    "Area": "Fortemps Manor (X:6.1 Y:6.1)"
+                },
+                {
+                    "Name": "Count Edmont De Fortemps",
+                    "Url": "/lodestone/playguide/db/npc/npc/f656c76f1ad/",
+                    "Area": "Fortemps Manor (X:6.1 Y:6.1)"
+                }
+            ]
+        },
+        "Seq": 1,
+        "oldID": 67878,
+        "Map": {
+            "ID": 222
+        }
+    },
+    {
+        "ID": "75e76e55276",
+        "Name": "Tidings from Gyr Abania",
+        "Location": "The Rising Stones",
+        "Level": 60,
+        "JournalSection": 0,
+        "JournalCategory": 5,
+        "JournalGenre": "Post-Dragonsong Main Scenario Quests",
+        "Url": "/lodestone/playguide/db/quest/75e76e55276/",
+        "Image": "https://img.finalfantasyxiv.com/lds/pc/global/images/itemicon/80/8081833a9b80a5eb74c7c1e89ab72bd063f0e137.png?n5.5",
+        "Icon": "main",
+        "Issuer": "Tataru",
+        "StartLocation": {
+            "Name": "The Rising Stones",
+            "X": "6.6",
+            "Y": "6.1"
+        },
+        "StartClass": null,
+        "Job": "Any Disciple of War or Magic (excluding limited jobs)",
+        "Company": "Not specified",
+        "Requirement": "Not specified",
+        "Rewards": {
+            "Gil": 1119,
+            "Exp": 16740,
+            "ItemsMand": [],
+            "ItemsOpt": []
+        },
+        "Infos": {
+            "PrevQuests": [
+                {
+                    "Name": "An Ending to Mark a New Beginning",
+                    "Url": "/lodestone/playguide/db/quest/d18e5a608f4/",
+                    "Area": "Southern Thanalan",
+                    "Level": "60"
+                }
+            ],
+            "NextQuests": [
+                {
+                    "Name": "An Envoy for Ishgard",
+                    "Url": "/lodestone/playguide/db/quest/34fafd7a179/",
+                    "Area": "Ishgard",
+                    "Level": "60"
+                }
+            ],
+            "NPCs": [
+                {
+                    "Name": "Serpent Scout",
+                    "Url": "/lodestone/playguide/db/npc/npc/a5fed909ae9/",
+                    "Area": "East Shroud (X:22.3 Y:31.2)"
+                },
+                {
+                    "Name": "Lucia",
+                    "Url": "/lodestone/playguide/db/npc/npc/2fb397135ab/",
+                    "Area": "Foundation (X:13.7 Y:11.2)"
+                },
+                {
+                    "Name": "Eginolf",
+                    "Url": "/lodestone/playguide/db/npc/npc/e81df11993c/",
+                    "Area": "Mor Dhona (X:22.3 Y:5.5)"
+                },
+                {
+                    "Name": "Fyrbryda",
+                    "Url": "/lodestone/playguide/db/npc/npc/ec41caa41d5/",
+                    "Area": "Mor Dhona (X:22.2 Y:5.5)"
+                },
+                {
+                    "Name": "Papalymo",
+                    "Url": "/lodestone/playguide/db/npc/npc/0e9ff34bf87/",
+                    "Area": "The Rising Stones (X:6.0 Y:6.2)"
+                },
+                {
+                    "Name": "Yda",
+                    "Url": "/lodestone/playguide/db/npc/npc/8887cbaa433/",
+                    "Area": "The Rising Stones (X:6.0 Y:6.1)"
+                },
+                {
+                    "Name": "Yda",
+                    "Url": "/lodestone/playguide/db/npc/npc/8a374cc436a/",
+                    "Area": "The Rising Stones (X:6.0 Y:6.3)"
+                }
+            ]
+        },
+        "Seq": 10,
+        "oldID": 67887,
+        "Map": {
+            "ID": 136
+        }
+    },
+    {
+        "ID": "991aca46bdb",
+        "Name": "When We Were Free",
+        "Location": "Southern Thanalan",
+        "Level": 60,
+        "JournalSection": 0,
+        "JournalCategory": 5,
+        "JournalGenre": "Post-Dragonsong Main Scenario Quests",
+        "Url": "/lodestone/playguide/db/quest/991aca46bdb/",
+        "Image": "https://img.finalfantasyxiv.com/lds/pc/global/images/itemicon/da/da7f98febc87543fffa2e3150fe6ca7ff125653e.png?n5.5",
+        "Icon": "main",
+        "Issuer": "Alphinaud",
+        "StartLocation": {
+            "Name": "Southern Thanalan",
+            "X": "18.0",
+            "Y": "13.5"
+        },
+        "StartClass": null,
+        "Job": "Any Disciple of War or Magic (excluding limited jobs)",
+        "Company": "Not specified",
+        "Requirement": "Not specified",
+        "Rewards": {
+            "Gil": 745,
+            "Exp": 16740,
+            "ItemsMand": [],
+            "ItemsOpt": []
+        },
+        "Infos": {
+            "PrevQuests": [
+                {
+                    "Name": "Beneath a Star-filled Sky",
+                    "Url": "/lodestone/playguide/db/quest/52f21ed313a/",
+                    "Area": "Outer La Noscea",
+                    "Level": "60"
+                }
+            ],
+            "NextQuests": [
+                {
+                    "Name": "Honorable Heroes",
+                    "Url": "/lodestone/playguide/db/quest/6038dbc7167/",
+                    "Area": "Southern Thanalan",
+                    "Level": "60"
+                }
+            ],
+            "NPCs": [
+                {
+                    "Name": "Alisaie",
+                    "Url": "/lodestone/playguide/db/npc/npc/56e8afae486/",
+                    "Area": "Southern Thanalan (X:18.0 Y:13.5)"
+                },
+                {
+                    "Name": "Alisaie",
+                    "Url": "/lodestone/playguide/db/npc/npc/5a6a2f28669/",
+                    "Area": "Southern Thanalan (X:17.1 Y:14.4)"
+                },
+                {
+                    "Name": "Alisaie",
+                    "Url": "/lodestone/playguide/db/npc/npc/fce986cfd21/",
+                    "Area": "Southern Thanalan (X:16.9 Y:14.4)"
+                },
+                {
+                    "Name": "Alphinaud",
+                    "Url": "/lodestone/playguide/db/npc/npc/e7278c9f92d/",
+                    "Area": "Southern Thanalan (X:17.3 Y:14.8)"
+                },
+                {
+                    "Name": "Alphinaud",
+                    "Url": "/lodestone/playguide/db/npc/npc/97102dbbf18/",
+                    "Area": "Southern Thanalan (X:16.9 Y:14.4)"
+                },
+                {
+                    "Name": "Alphinaud",
+                    "Url": "/lodestone/playguide/db/npc/npc/98e65b50dd8/",
+                    "Area": "Southern Thanalan (X:25.1 Y:12.5)"
+                },
+                {
+                    "Name": "Alphinaud",
+                    "Url": "/lodestone/playguide/db/npc/npc/7059d870983/",
+                    "Area": "Southern Thanalan (X:25.0 Y:12.6)"
+                },
+                {
+                    "Name": "Gundobald",
+                    "Url": "/lodestone/playguide/db/npc/npc/04c59e248fd/",
+                    "Area": "Southern Thanalan (X:16.9 Y:14.4)"
+                },
+                {
+                    "Name": "Otelin",
+                    "Url": "/lodestone/playguide/db/npc/npc/e2ddc8fa7df/",
+                    "Area": "Southern Thanalan (X:19.4 Y:14.3)"
+                },
+                {
+                    "Name": "Papalymo",
+                    "Url": "/lodestone/playguide/db/npc/npc/4c191dc8d71/",
+                    "Area": "Southern Thanalan (X:25.0 Y:12.6)"
+                },
+                {
+                    "Name": "Sifrid",
+                    "Url": "/lodestone/playguide/db/npc/npc/f75e794562e/",
+                    "Area": "Southern Thanalan (X:19.7 Y:14.5)"
+                },
+                {
+                    "Name": "Talebot",
+                    "Url": "/lodestone/playguide/db/npc/npc/103976fc77c/",
+                    "Area": "Southern Thanalan (X:19.9 Y:14.9)"
+                },
+                {
+                    "Name": "Yda",
+                    "Url": "/lodestone/playguide/db/npc/npc/86c9452ec3f/",
+                    "Area": "Southern Thanalan (X:25.1 Y:12.6)"
+                }
+            ]
+        },
+        "Seq": 6,
+        "oldID": 67883,
+        "Map": {
+            "ID": 23
+        }
+    },
+    {
+        "ID": "9d9aa73b207",
+        "Name": "The Far Edge of Fate",
+        "Location": "Gridania",
+        "Level": 60,
+        "JournalSection": 0,
+        "JournalCategory": 5,
+        "JournalGenre": "Post-Dragonsong Main Scenario Quests",
+        "Url": "/lodestone/playguide/db/quest/9d9aa73b207/",
+        "Image": "https://img.finalfantasyxiv.com/lds/pc/global/images/itemicon/b4/b4d221cd0b6aee417e45c0609a04ea560211ffbf.png?n5.5",
+        "Icon": "main",
+        "Issuer": "Alphinaud",
+        "StartLocation": {
+            "Name": "New Gridania",
+            "X": "12.0",
+            "Y": "13.1"
+        },
+        "StartClass": null,
+        "Job": "Any Disciple of War or Magic (excluding limited jobs)",
+        "Company": "Not specified",
+        "Requirement": "Not specified",
+        "Rewards": {
+            "Gil": 10000,
+            "Exp": 16740,
+            "ItemsMand": [],
+            "ItemsOpt": []
+        },
+        "Infos": {
+            "PrevQuests": [
+                {
+                    "Name": "Fly Free, My Pretty",
+                    "Url": "/lodestone/playguide/db/quest/d566a6822bf/",
+                    "Area": "The Rising Stones",
+                    "Level": "60"
+                }
+            ],
+            "NextQuests": [
+                {
+                    "Name": "Beyond the Great Wall",
+                    "Url": "/lodestone/playguide/db/quest/3663196caec/",
+                    "Area": "The Rising Stones",
+                    "Level": "60"
+                },
+                {
+                    "Name": "Uncharted Territory",
+                    "Url": "/lodestone/playguide/db/quest/b849958005f/",
+                    "Area": "Gridania",
+                    "Level": "60"
+                },
+                {
+                    "Name": "A Missive from the Far East",
+                    "Url": "/lodestone/playguide/db/quest/a0374270f9a/",
+                    "Area": "Limsa Lominsa",
+                    "Level": "60"
+                },
+                {
+                    "Name": "Original Blanstyr",
+                    "Url": "/lodestone/playguide/db/quest/5d1a90f8a1f/",
+                    "Area": "Limsa Lominsa",
+                    "Level": "60"
+                },
+                {
+                    "Name": "A Royal Request",
+                    "Url": "/lodestone/playguide/db/quest/7d9b08065eb/",
+                    "Area": "Ul'dah",
+                    "Level": "60"
+                },
+                {
+                    "Name": "A Taxing Request",
+                    "Url": "/lodestone/playguide/db/quest/226cbe3fb24/",
+                    "Area": "Gridania",
+                    "Level": "60"
+                },
+                {
+                    "Name": "When East Meets West",
+                    "Url": "/lodestone/playguide/db/quest/827b41df3ff/",
+                    "Area": "Ul'dah",
+                    "Level": "60"
+                },
+                {
+                    "Name": "Not Quite Dead Yet",
+                    "Url": "/lodestone/playguide/db/quest/1499ce39d7f/",
+                    "Area": "Ul'dah",
+                    "Level": "60"
+                },
+                {
+                    "Name": "Flavors of the Far East",
+                    "Url": "/lodestone/playguide/db/quest/417006f6527/",
+                    "Area": "Limsa Lominsa",
+                    "Level": "60"
+                },
+                {
+                    "Name": "Gift of the Gob",
+                    "Url": "/lodestone/playguide/db/quest/ada47c69b0c/",
+                    "Area": "Ul'dah",
+                    "Level": "60"
+                },
+                {
+                    "Name": "Never Meet Your Heroes",
+                    "Url": "/lodestone/playguide/db/quest/a868601b8da/",
+                    "Area": "Gridania",
+                    "Level": "60"
+                },
+                {
+                    "Name": "Whither Wawalago Wanders",
+                    "Url": "/lodestone/playguide/db/quest/f39dcaf25f9/",
+                    "Area": "Limsa Lominsa",
+                    "Level": "60"
+                },
+                {
+                    "Name": "Tournament of the Century",
+                    "Url": "/lodestone/playguide/db/quest/86cb778a09a/",
+                    "Area": "Ul'dah",
+                    "Level": "60"
+                },
+                {
+                    "Name": "A Fistful of Resolve",
+                    "Url": "/lodestone/playguide/db/quest/ee870fd7b16/",
+                    "Area": "Ul'dah",
+                    "Level": "60"
+                },
+                {
+                    "Name": "Curious Gorge Meets His Match",
+                    "Url": "/lodestone/playguide/db/quest/104fdff32e1/",
+                    "Area": "Eastern La Noscea",
+                    "Level": "60"
+                },
+                {
+                    "Name": "Friends through Eternity",
+                    "Url": "/lodestone/playguide/db/quest/845e30d5681/",
+                    "Area": "Coerthas Central Highlands",
+                    "Level": "60"
+                },
+                {
+                    "Name": "Three's a Company",
+                    "Url": "/lodestone/playguide/db/quest/249391dde4f/",
+                    "Area": "South Shroud",
+                    "Level": "60"
+                },
+                {
+                    "Name": "Search for the Stolen Scroll",
+                    "Url": "/lodestone/playguide/db/quest/7d5ca3ce5dc/",
+                    "Area": "Eastern La Noscea",
+                    "Level": "60"
+                },
+                {
+                    "Name": "In Memories We Walked",
+                    "Url": "/lodestone/playguide/db/quest/66c0b98da1e/",
+                    "Area": "Ishgard",
+                    "Level": "60"
+                },
+                {
+                    "Name": "The Machinists' Choice",
+                    "Url": "/lodestone/playguide/db/quest/97367d054eb/",
+                    "Area": "Ishgard",
+                    "Level": "60"
+                },
+                {
+                    "Name": "A Dignified Visitor",
+                    "Url": "/lodestone/playguide/db/quest/c5002804711/",
+                    "Area": "Ul'dah",
+                    "Level": "60"
+                },
+                {
+                    "Name": "Unease in East End",
+                    "Url": "/lodestone/playguide/db/quest/f85e129c313/",
+                    "Area": "South Shroud",
+                    "Level": "60"
+                },
+                {
+                    "Name": "Shades of Shatotto",
+                    "Url": "/lodestone/playguide/db/quest/db4909e2fd8/",
+                    "Area": "Ul'dah",
+                    "Level": "60"
+                },
+                {
+                    "Name": "A Book with Bite",
+                    "Url": "/lodestone/playguide/db/quest/b62edef8173/",
+                    "Area": "Gridania",
+                    "Level": "60"
+                },
+                {
+                    "Name": "The Vanishing Act",
+                    "Url": "/lodestone/playguide/db/quest/918ec10b713/",
+                    "Area": "Limsa Lominsa",
+                    "Level": "60"
+                },
+                {
+                    "Name": "East Meets West",
+                    "Url": "/lodestone/playguide/db/quest/353bbdaa097/",
+                    "Area": "Ishgard",
+                    "Level": "60"
+                },
+                {
+                    "Name": "The Color of Her Hair",
+                    "Url": "/lodestone/playguide/db/quest/0fb7eb800c5/",
+                    "Area": "Mor Dhona",
+                    "Level": "60"
+                }
+            ],
+            "NPCs": [
+                {
+                    "Name": "Alphinaud",
+                    "Url": "/lodestone/playguide/db/npc/npc/3df59e9a1ad/",
+                    "Area": "East Shroud (X:21.7 Y:29.3)"
+                },
+                {
+                    "Name": "Gosetsu",
+                    "Url": "/lodestone/playguide/db/npc/npc/a5ed1417648/",
+                    "Area": "East Shroud (X:21.4 Y:29.1)"
+                },
+                {
+                    "Name": "Krile",
+                    "Url": "/lodestone/playguide/db/npc/npc/2c9f2aab94a/",
+                    "Area": "East Shroud (X:21.7 Y:29.3)"
+                },
+                {
+                    "Name": "Lyse",
+                    "Url": "/lodestone/playguide/db/npc/npc/f64e1c9d662/",
+                    "Area": "East Shroud (X:21.9 Y:29.4)"
+                },
+                {
+                    "Name": "Y'shtola",
+                    "Url": "/lodestone/playguide/db/npc/npc/050bc37df13/",
+                    "Area": "East Shroud (X:21.8 Y:29.3)"
+                },
+                {
+                    "Name": "Yda",
+                    "Url": "/lodestone/playguide/db/npc/npc/09dfaa6b90a/",
+                    "Area": "East Shroud (X:21.9 Y:29.4)"
+                },
+                {
+                    "Name": "Yugiri",
+                    "Url": "/lodestone/playguide/db/npc/npc/75007ba5522/",
+                    "Area": "East Shroud (X:21.4 Y:29.1)"
+                },
+                {
+                    "Name": "Alphinaud",
+                    "Url": "/lodestone/playguide/db/npc/npc/c054bfeeef4/",
+                    "Area": "Lotus Stand (X:6.1 Y:6.2)"
+                },
+                {
+                    "Name": "Aymeric",
+                    "Url": "/lodestone/playguide/db/npc/npc/c3e2aca26ef/",
+                    "Area": "Lotus Stand (X:6.2 Y:6.1)"
+                },
+                {
+                    "Name": "Cid",
+                    "Url": "/lodestone/playguide/db/npc/npc/4087340c114/",
+                    "Area": "Lotus Stand (X:6.2 Y:6.1)"
+                },
+                {
+                    "Name": "Kan-E-Senna",
+                    "Url": "/lodestone/playguide/db/npc/npc/c66819d3e14/",
+                    "Area": "Lotus Stand (X:6.2 Y:6.1)"
+                },
+                {
+                    "Name": "Merlwyb",
+                    "Url": "/lodestone/playguide/db/npc/npc/dd32b1b34de/",
+                    "Area": "Lotus Stand (X:6.1 Y:6.1)"
+                },
+                {
+                    "Name": "Nero Tol Scaeva",
+                    "Url": "/lodestone/playguide/db/npc/npc/02a1e2b8859/",
+                    "Area": "Lotus Stand (X:6.2 Y:6.1)"
+                },
+                {
+                    "Name": "Raubahn",
+                    "Url": "/lodestone/playguide/db/npc/npc/e21f30009bb/",
+                    "Area": "Lotus Stand (X:6.1 Y:6.1)"
+                },
+                {
+                    "Name": "Cid",
+                    "Url": "/lodestone/playguide/db/npc/npc/82092d88fab/",
+                    "Area": "New Gridania (X:12.0 Y:13.0)"
+                },
+                {
+                    "Name": "Silent Conjurer",
+                    "Url": "/lodestone/playguide/db/npc/npc/e6c3e7ebc51/",
+                    "Area": "Old Gridania (X:8.0 Y:11.1)"
+                },
+                {
+                    "Name": "Alisaie",
+                    "Url": "/lodestone/playguide/db/npc/npc/1e8fd4f9fca/",
+                    "Area": "The Rising Stones (X:5.9 Y:5.9)"
+                },
+                {
+                    "Name": "Alisaie",
+                    "Url": "/lodestone/playguide/db/npc/npc/6031f162bb5/",
+                    "Area": "The Rising Stones (X:6.0 Y:5.9)"
+                },
+                {
+                    "Name": "Alphinaud",
+                    "Url": "/lodestone/playguide/db/npc/npc/a287ceae977/",
+                    "Area": "The Rising Stones (X:6.0 Y:5.9)"
+                },
+                {
+                    "Name": "Tataru",
+                    "Url": "/lodestone/playguide/db/npc/npc/62808124662/",
+                    "Area": "The Rising Stones (X:6.0 Y:5.9)"
+                },
+                {
+                    "Name": "Tataru",
+                    "Url": "/lodestone/playguide/db/npc/npc/1660a752bcb/",
+                    "Area": "The Rising Stones (X:6.2 Y:6.2)"
+                }
+            ],
+            "RelatedAchievements": [
+                {
+                    "Name": "Five Minutes of Fate",
+                    "Url": "/lodestone/playguide/db/achievement/7c069e8f7c7/",
+                    "Reward": "Title",
+                    "Points": "10"
+                }
+            ]
+        },
+        "Seq": 18,
+        "oldID": 67895,
+        "Map": {
+            "ID": 2
+        }
+    },
+    {
+        "ID": "b317ba51af5",
+        "Name": "Two Sides of a Coin",
+        "Location": "Coerthas Central Highlands",
+        "Level": 60,
+        "JournalSection": 0,
+        "JournalCategory": 5,
+        "JournalGenre": "Post-Dragonsong Main Scenario Quests",
+        "Url": "/lodestone/playguide/db/quest/b317ba51af5/",
+        "Image": null,
+        "Icon": "main",
+        "Issuer": "Alphinaud",
+        "StartLocation": {
+            "Name": "Coerthas Central Highlands",
+            "X": "33.5",
+            "Y": "15.3"
+        },
+        "StartClass": null,
+        "Job": "Any Disciple of War or Magic (excluding limited jobs)",
+        "Company": "Not specified",
+        "Requirement": "Not specified",
+        "Rewards": {
+            "Gil": 1912,
+            "Exp": 16740,
+            "ItemsMand": [],
+            "ItemsOpt": []
+        },
+        "Infos": {
+            "PrevQuests": [
+                {
+                    "Name": "Shadows of the First",
+                    "Url": "/lodestone/playguide/db/quest/723efddb90c/",
+                    "Area": "Fortemps Manor",
+                    "Level": "60"
+                }
+            ],
+            "NextQuests": [
+                {
+                    "Name": "Unlikely Allies",
+                    "Url": "/lodestone/playguide/db/quest/5b58b50a401/",
+                    "Area": "Outer La Noscea",
+                    "Level": "60"
+                }
+            ],
+            "NPCs": [
+                {
+                    "Name": "Alisaie",
+                    "Url": "/lodestone/playguide/db/npc/npc/87e4a039503/",
+                    "Area": "Outer La Noscea (X:18.9 Y:17.2)"
+                },
+                {
+                    "Name": "Alphinaud",
+                    "Url": "/lodestone/playguide/db/npc/npc/b889dd577f1/",
+                    "Area": "Outer La Noscea (X:18.9 Y:17.2)"
+                },
+                {
+                    "Name": "Bloeidin",
+                    "Url": "/lodestone/playguide/db/npc/npc/485ce80f0e6/",
+                    "Area": "Outer La Noscea (X:18.6 Y:17.2)"
+                },
+                {
+                    "Name": "Urianger",
+                    "Url": "/lodestone/playguide/db/npc/npc/f64497fe8b0/",
+                    "Area": "The Waking Sands (X:6.0 Y:4.9)"
+                },
+                {
+                    "Name": "Earnest House Fortemps Knight",
+                    "Url": "/lodestone/playguide/db/npc/npc/3ba64c9711f/",
+                    "Area": "Coerthas Central Highlands (X:33.4 Y:15.2)"
+                },
+                {
+                    "Name": "Steadfast House Fortemps Knight",
+                    "Url": "/lodestone/playguide/db/npc/npc/6959f78dd2b/",
+                    "Area": "Coerthas Central Highlands (X:33.5 Y:15.3)"
+                },
+                {
+                    "Name": "Alphinaud",
+                    "Url": "/lodestone/playguide/db/npc/npc/495a644e799/",
+                    "Area": "Foundation (X:13.1 Y:11.0)"
+                },
+                {
+                    "Name": "Alphinaud",
+                    "Url": "/lodestone/playguide/db/npc/npc/98bf1f0cfa1/",
+                    "Area": "Foundation (X:13.4 Y:11.1)"
+                },
+                {
+                    "Name": "Aymeric",
+                    "Url": "/lodestone/playguide/db/npc/npc/7ff1c9d1a02/",
+                    "Area": "Foundation (X:13.7 Y:11.2)"
+                }
+            ]
+        },
+        "Seq": 2,
+        "oldID": 67879,
+        "Map": {
+            "ID": 53
+        }
+    },
+    {
+        "ID": "b65e034c097",
+        "Name": "One Life for One World",
+        "Location": "Southern Thanalan",
+        "Level": 60,
+        "JournalSection": 0,
+        "JournalCategory": 5,
+        "JournalGenre": "Post-Dragonsong Main Scenario Quests",
+        "Url": "/lodestone/playguide/db/quest/b65e034c097/",
+        "Image": "https://img.finalfantasyxiv.com/lds/pc/global/images/itemicon/e2/e283fbeb691563c8566f1b51af93b1b75d12e2e4.png?n5.5",
+        "Icon": "main",
+        "Issuer": "Alphinaud",
+        "StartLocation": {
+            "Name": "Southern Thanalan",
+            "X": "19.3",
+            "Y": "11.9"
+        },
+        "StartClass": null,
+        "Job": "Any Disciple of War or Magic (excluding limited jobs)",
+        "Company": "Not specified",
+        "Requirement": "Not specified",
+        "Rewards": {
+            "Gil": 2500,
+            "Exp": 16740,
+            "ItemsMand": [],
+            "ItemsOpt": []
+        },
+        "Infos": {
+            "PrevQuests": [
+                {
+                    "Name": "Honorable Heroes",
+                    "Url": "/lodestone/playguide/db/quest/6038dbc7167/",
+                    "Area": "Southern Thanalan",
+                    "Level": "60"
+                }
+            ],
+            "NextQuests": [
+                {
+                    "Name": "An Ending to Mark a New Beginning",
+                    "Url": "/lodestone/playguide/db/quest/d18e5a608f4/",
+                    "Area": "Southern Thanalan",
+                    "Level": "60"
+                }
+            ],
+            "NPCs": [
+                {
+                    "Name": "Alisaie",
+                    "Url": "/lodestone/playguide/db/npc/npc/56e8afae486/",
+                    "Area": "Southern Thanalan (X:18.0 Y:13.5)"
+                },
+                {
+                    "Name": "Alisaie",
+                    "Url": "/lodestone/playguide/db/npc/npc/e5c50240d6b/",
+                    "Area": "Southern Thanalan (X:21.5 Y:21.2)"
+                },
+                {
+                    "Name": "Alisaie",
+                    "Url": "/lodestone/playguide/db/npc/npc/89a4d014b4b/",
+                    "Area": "Southern Thanalan (X:21.4 Y:21.3)"
+                },
+                {
+                    "Name": "Alphinaud",
+                    "Url": "/lodestone/playguide/db/npc/npc/d4ed0d3dba1/",
+                    "Area": "Southern Thanalan (X:18.0 Y:13.5)"
+                },
+                {
+                    "Name": "Alphinaud",
+                    "Url": "/lodestone/playguide/db/npc/npc/8a72c3558f0/",
+                    "Area": "Southern Thanalan (X:21.5 Y:21.2)"
+                },
+                {
+                    "Name": "Alphinaud",
+                    "Url": "/lodestone/playguide/db/npc/npc/1d3f6282c0f/",
+                    "Area": "Southern Thanalan (X:21.5 Y:21.4)"
+                },
+                {
+                    "Name": "Thancred",
+                    "Url": "/lodestone/playguide/db/npc/npc/def6be96afa/",
+                    "Area": "Southern Thanalan (X:18.1 Y:13.5)"
+                },
+                {
+                    "Name": "Thancred",
+                    "Url": "/lodestone/playguide/db/npc/npc/deedcd850e2/",
+                    "Area": "Southern Thanalan (X:21.5 Y:21.3)"
+                },
+                {
+                    "Name": "Thancred",
+                    "Url": "/lodestone/playguide/db/npc/npc/dbd4bdd77b2/",
+                    "Area": "Southern Thanalan (X:21.5 Y:21.3)"
+                },
+                {
+                    "Name": "Urianger",
+                    "Url": "/lodestone/playguide/db/npc/npc/2e6b457b380/",
+                    "Area": "Southern Thanalan (X:21.4 Y:21.3)"
+                }
+            ]
+        },
+        "Seq": 8,
+        "oldID": 67885,
+        "Map": {
+            "ID": 23
+        }
+    },
+    {
+        "ID": "c54202b45bb",
+        "Name": "Promises Kept",
+        "Location": "Ishgard",
+        "Level": 60,
+        "JournalSection": 0,
+        "JournalCategory": 5,
+        "JournalGenre": "Post-Dragonsong Main Scenario Quests",
+        "Url": "/lodestone/playguide/db/quest/c54202b45bb/",
+        "Image": "https://img.finalfantasyxiv.com/lds/pc/global/images/itemicon/16/16d850b6ead37fc4089c90e0511d9158c9e81204.png?n5.5",
+        "Icon": "main",
+        "Issuer": "House Fortemps Knight",
+        "StartLocation": {
+            "Name": "The Pillars",
+            "X": "11.5",
+            "Y": "11.2"
+        },
+        "StartClass": null,
+        "Job": "Any Disciple of War or Magic (excluding limited jobs)",
+        "Company": "Not specified",
+        "Requirement": "Not specified",
+        "Rewards": {
+            "Gil": 908,
+            "Exp": 16740,
+            "ItemsMand": [],
+            "ItemsOpt": [
+                {
+                    "Icon": "https://img.finalfantasyxiv.com/lds/pc/global/images/itemicon/8a/8a7b7e68ab6fdb5284cf36875daf25e66850aae7.png?n5.5",
+                    "Name": "Heavenly Eggnog",
+                    "Amount": 1,
+                    "Url": "/lodestone/playguide/db/item/6d30e644d30/"
+                },
+                {
+                    "Icon": "https://img.finalfantasyxiv.com/lds/pc/global/images/itemicon/67/67b594e4dab3bb058b7133b3e5289e06c2c919d4.png?n5.5",
+                    "Name": "Wildwood Scrambled Eggs",
+                    "Amount": 1,
+                    "Url": "/lodestone/playguide/db/item/77e6c372950/"
+                },
+                {
+                    "Icon": "https://img.finalfantasyxiv.com/lds/pc/global/images/itemicon/63/630a111acd1b45e1759aa176032adbc22c411a62.png?n5.5",
+                    "Name": "Spaghetti Carbonara",
+                    "Amount": 1,
+                    "Url": "/lodestone/playguide/db/item/46c2de62a50/"
+                },
+                {
+                    "Icon": "https://img.finalfantasyxiv.com/lds/pc/global/images/itemicon/ba/baa2341dd17414fae7fd62ae7bc62c64589b67be.png?n5.5",
+                    "Name": "Allagan Silver Piece",
+                    "Amount": 1,
+                    "Url": "/lodestone/playguide/db/item/a3ac3ba4b00/"
+                }
+            ]
+        },
+        "Infos": {
+            "PrevQuests": [
+                {
+                    "Name": "Litany of Peace",
+                    "Url": "/lodestone/playguide/db/quest/15530701908/",
+                    "Area": "Ishgard",
+                    "Level": "60"
+                }
+            ],
+            "NextQuests": [
+                {
+                    "Name": "Shadows of the First",
+                    "Url": "/lodestone/playguide/db/quest/723efddb90c/",
+                    "Area": "Fortemps Manor",
+                    "Level": "60"
+                }
+            ],
+            "NPCs": [
+                {
+                    "Name": "Alphinaud",
+                    "Url": "/lodestone/playguide/db/npc/npc/821bb488a51/",
+                    "Area": "Fortemps Manor (X:6.1 Y:6.0)"
+                },
+                {
+                    "Name": "Aymeric",
+                    "Url": "/lodestone/playguide/db/npc/npc/1d1e5d900f3/",
+                    "Area": "Fortemps Manor (X:6.1 Y:6.1)"
+                },
+                {
+                    "Name": "Count Edmont De Fortemps",
+                    "Url": "/lodestone/playguide/db/npc/npc/f656c76f1ad/",
+                    "Area": "Fortemps Manor (X:6.1 Y:6.1)"
+                },
+                {
+                    "Name": "House Borel Steward",
+                    "Url": "/lodestone/playguide/db/npc/npc/78dceca2727/",
+                    "Area": "The Pillars (X:16.0 Y:9.4)"
+                }
+            ]
+        },
+        "Seq": 14,
+        "oldID": 67877,
+        "Map": {
+            "ID": 219
+        }
+    },
+    {
+        "ID": "d18e5a608f4",
+        "Name": "An Ending to Mark a New Beginning",
+        "Location": "Southern Thanalan",
+        "Level": 60,
+        "JournalSection": 0,
+        "JournalCategory": 5,
+        "JournalGenre": "Post-Dragonsong Main Scenario Quests",
+        "Url": "/lodestone/playguide/db/quest/d18e5a608f4/",
+        "Image": "https://img.finalfantasyxiv.com/lds/pc/global/images/itemicon/d4/d4490f9e9bbb18b4d61111bd792f28813df7ea08.png?n5.5",
+        "Icon": "main",
+        "Issuer": "Alphinaud",
+        "StartLocation": {
+            "Name": "Southern Thanalan",
+            "X": "21.5",
+            "Y": "21.4"
+        },
+        "StartClass": null,
+        "Job": "Any Disciple of War or Magic (excluding limited jobs)",
+        "Company": "Not specified",
+        "Requirement": "Not specified",
+        "Rewards": {
+            "Gil": 1420,
+            "Exp": 16740,
+            "ItemsMand": [
+                {
+                    "Icon": "https://img.finalfantasyxiv.com/lds/pc/global/images/itemicon/b1/b1e02f55ebc6d68dec42833641169736152b10ef.png?n5.5",
+                    "Name": "Wind-up Moenbryda",
+                    "Amount": 1,
+                    "Url": "/lodestone/playguide/db/item/092f73e8993/"
+                }
+            ],
+            "ItemsOpt": []
+        },
+        "Infos": {
+            "PrevQuests": [
+                {
+                    "Name": "One Life for One World",
+                    "Url": "/lodestone/playguide/db/quest/b65e034c097/",
+                    "Area": "Southern Thanalan",
+                    "Level": "60"
+                }
+            ],
+            "NextQuests": [
+                {
+                    "Name": "Tidings from Gyr Abania",
+                    "Url": "/lodestone/playguide/db/quest/75e76e55276/",
+                    "Area": "The Rising Stones",
+                    "Level": "60"
+                }
+            ],
+            "NPCs": [
+                {
+                    "Name": "Alisaie",
+                    "Url": "/lodestone/playguide/db/npc/npc/89a4d014b4b/",
+                    "Area": "Southern Thanalan (X:21.4 Y:21.3)"
+                },
+                {
+                    "Name": "Alphinaud",
+                    "Url": "/lodestone/playguide/db/npc/npc/7b96f707dea/",
+                    "Area": "Southern Thanalan (X:20.1 Y:13.5)"
+                },
+                {
+                    "Name": "Gundobald",
+                    "Url": "/lodestone/playguide/db/npc/npc/04c59e248fd/",
+                    "Area": "Southern Thanalan (X:16.9 Y:14.4)"
+                },
+                {
+                    "Name": "Papalymo",
+                    "Url": "/lodestone/playguide/db/npc/npc/216ce1d23c1/",
+                    "Area": "Southern Thanalan (X:20.1 Y:13.6)"
+                },
+                {
+                    "Name": "Thancred",
+                    "Url": "/lodestone/playguide/db/npc/npc/dbd4bdd77b2/",
+                    "Area": "Southern Thanalan (X:21.5 Y:21.3)"
+                },
+                {
+                    "Name": "Urianger",
+                    "Url": "/lodestone/playguide/db/npc/npc/2e6b457b380/",
+                    "Area": "Southern Thanalan (X:21.4 Y:21.3)"
+                },
+                {
+                    "Name": "Yda",
+                    "Url": "/lodestone/playguide/db/npc/npc/a6fd20176cb/",
+                    "Area": "Southern Thanalan (X:20.1 Y:13.6)"
+                },
+                {
+                    "Name": "Aenor",
+                    "Url": "/lodestone/playguide/db/npc/npc/1f0bc9bb53c/",
+                    "Area": "The Rising Stones (X:6.7 Y:6.1)"
+                },
+                {
+                    "Name": "Alisaie",
+                    "Url": "/lodestone/playguide/db/npc/npc/c6f1f865ba6/",
+                    "Area": "The Rising Stones (X:6.1 Y:5.9)"
+                },
+                {
+                    "Name": "Alphinaud",
+                    "Url": "/lodestone/playguide/db/npc/npc/a5499fabe98/",
+                    "Area": "The Rising Stones (X:6.0 Y:5.6)"
+                },
+                {
+                    "Name": "Alphinaud",
+                    "Url": "/lodestone/playguide/db/npc/npc/ba22b3ed019/",
+                    "Area": "The Rising Stones (X:6.0 Y:5.9)"
+                },
+                {
+                    "Name": "Clemence",
+                    "Url": "/lodestone/playguide/db/npc/npc/8e0c7e4b4c4/",
+                    "Area": "The Rising Stones (X:6.7 Y:6.1)"
+                },
+                {
+                    "Name": "Coultenet",
+                    "Url": "/lodestone/playguide/db/npc/npc/398fd1b599d/",
+                    "Area": "The Rising Stones (X:6.2 Y:6.2)"
+                },
+                {
+                    "Name": "F'lhaminn",
+                    "Url": "/lodestone/playguide/db/npc/npc/227ba2abe7f/",
+                    "Area": "The Rising Stones (X:6.2 Y:5.9)"
+                },
+                {
+                    "Name": "Hoary Boulder",
+                    "Url": "/lodestone/playguide/db/npc/npc/b718d21be8a/",
+                    "Area": "The Rising Stones (X:6.2 Y:6.2)"
+                },
+                {
+                    "Name": "Krile",
+                    "Url": "/lodestone/playguide/db/npc/npc/973528f883d/",
+                    "Area": "The Rising Stones (X:6.0 Y:6.2)"
+                },
+                {
+                    "Name": "Ocher Boulder",
+                    "Url": "/lodestone/playguide/db/npc/npc/0c6063f4f9a/",
+                    "Area": "The Rising Stones (X:6.7 Y:6.1)"
+                },
+                {
+                    "Name": "Papalymo",
+                    "Url": "/lodestone/playguide/db/npc/npc/bdda7d0b870/",
+                    "Area": "The Rising Stones (X:6.2 Y:6.0)"
+                },
+                {
+                    "Name": "Tataru",
+                    "Url": "/lodestone/playguide/db/npc/npc/e8d6150ad85/",
+                    "Area": "The Rising Stones (X:6.0 Y:6.0)"
+                },
+                {
+                    "Name": "Thancred",
+                    "Url": "/lodestone/playguide/db/npc/npc/41bcbdc1e08/",
+                    "Area": "The Rising Stones (X:6.3 Y:6.0)"
+                },
+                {
+                    "Name": "Urianger",
+                    "Url": "/lodestone/playguide/db/npc/npc/c189c78e764/",
+                    "Area": "The Rising Stones (X:6.2 Y:6.0)"
+                },
+                {
+                    "Name": "Y'shtola",
+                    "Url": "/lodestone/playguide/db/npc/npc/2b1a2d81b5c/",
+                    "Area": "The Rising Stones (X:6.0 Y:6.2)"
+                },
+                {
+                    "Name": "Yda",
+                    "Url": "/lodestone/playguide/db/npc/npc/8e979fdf281/",
+                    "Area": "The Rising Stones (X:6.0 Y:6.1)"
+                }
+            ],
+            "RelatedAchievements": [
+                {
+                    "Name": "No Retreat, No Surrender",
+                    "Url": "/lodestone/playguide/db/achievement/6924b0a0606/",
+                    "Reward": "Title",
+                    "Points": "10"
+                }
+            ]
+        },
+        "Seq": 9,
+        "oldID": 67886,
+        "Map": {
+            "ID": 23
+        }
+    },
+    {
+        "ID": "d566a6822bf",
+        "Name": "Fly Free, My Pretty",
+        "Location": "The Rising Stones",
+        "Level": 60,
+        "JournalSection": 0,
+        "JournalCategory": 5,
+        "JournalGenre": "Post-Dragonsong Main Scenario Quests",
+        "Url": "/lodestone/playguide/db/quest/d566a6822bf/",
+        "Image": "https://img.finalfantasyxiv.com/lds/pc/global/images/itemicon/1b/1b2664efbe8ffd4ce4df4673ce5aa46696a70a69.png?n5.5",
+        "Icon": "main",
+        "Issuer": "Yda",
+        "StartLocation": {
+            "Name": "The Rising Stones",
+            "X": "6.0",
+            "Y": "6.0"
+        },
+        "StartClass": null,
+        "Job": "Any Disciple of War or Magic (excluding limited jobs)",
+        "Company": "Not specified",
+        "Requirement": "Not specified",
+        "Rewards": {
+            "Gil": 615,
+            "Exp": 16740,
+            "ItemsMand": [
+                {
+                    "Icon": "https://img.finalfantasyxiv.com/lds/pc/global/images/itemicon/7e/7eaa53e1fe9e2bd80f81d9ce69c98c24f6223b0b.png?n5.5",
+                    "Name": "He Who Continues the Attack Orchestrion Roll",
+                    "Amount": 1,
+                    "Url": "/lodestone/playguide/db/item/3ee7fc50fea/"
+                },
+                {
+                    "Icon": "https://img.finalfantasyxiv.com/lds/pc/global/images/itemicon/7e/7eaa53e1fe9e2bd80f81d9ce69c98c24f6223b0b.png?n5.5",
+                    "Name": "Imperial Will Orchestrion Roll",
+                    "Amount": 1,
+                    "Url": "/lodestone/playguide/db/item/ae948652b90/"
+                }
+            ],
+            "ItemsOpt": []
+        },
+        "Infos": {
+            "PrevQuests": [
+                {
+                    "Name": "The Greater Obeisance",
+                    "Url": "/lodestone/playguide/db/quest/28764d6d708/",
+                    "Area": "Gridania",
+                    "Level": "60"
+                }
+            ],
+            "NextQuests": [
+                {
+                    "Name": "The Far Edge of Fate",
+                    "Url": "/lodestone/playguide/db/quest/9d9aa73b207/",
+                    "Area": "Gridania",
+                    "Level": "60"
+                }
+            ],
+            "NPCs": [
+                {
+                    "Name": "Alphinaud",
+                    "Url": "/lodestone/playguide/db/npc/npc/299954caf3a/",
+                    "Area": "New Gridania (X:12.0 Y:13.1)"
+                },
+                {
+                    "Name": "Cid",
+                    "Url": "/lodestone/playguide/db/npc/npc/82092d88fab/",
+                    "Area": "New Gridania (X:12.0 Y:13.0)"
+                },
+                {
+                    "Name": "Cid",
+                    "Url": "/lodestone/playguide/db/npc/npc/4f9e85afadf/",
+                    "Area": "Mor Dhona (X:24.0 Y:13.0)"
+                },
+                {
+                    "Name": "Gosetsu",
+                    "Url": "/lodestone/playguide/db/npc/npc/84ca4fd0711/",
+                    "Area": "Mor Dhona (X:23.9 Y:12.9)"
+                },
+                {
+                    "Name": "Nero Tol Scaeva",
+                    "Url": "/lodestone/playguide/db/npc/npc/ea717da32e4/",
+                    "Area": "Mor Dhona (X:23.9 Y:12.9)"
+                },
+                {
+                    "Name": "Yda",
+                    "Url": "/lodestone/playguide/db/npc/npc/7b9ecb49277/",
+                    "Area": "Mor Dhona (X:23.9 Y:13.0)"
+                },
+                {
+                    "Name": "Yugiri",
+                    "Url": "/lodestone/playguide/db/npc/npc/1513826d8d1/",
+                    "Area": "Mor Dhona (X:23.9 Y:12.8)"
+                },
+                {
+                    "Name": "Cid",
+                    "Url": "/lodestone/playguide/db/npc/npc/e1dbe155016/",
+                    "Area": "Omega Control (X:6.1 Y:6.3)"
+                },
+                {
+                    "Name": "Alisaie",
+                    "Url": "/lodestone/playguide/db/npc/npc/1e8fd4f9fca/",
+                    "Area": "The Rising Stones (X:5.9 Y:5.9)"
+                },
+                {
+                    "Name": "Alisaie",
+                    "Url": "/lodestone/playguide/db/npc/npc/142df3f428d/",
+                    "Area": "The Rising Stones (X:6.0 Y:5.9)"
+                },
+                {
+                    "Name": "Alphinaud",
+                    "Url": "/lodestone/playguide/db/npc/npc/33ba3cebd54/",
+                    "Area": "The Rising Stones (X:6.1 Y:6.0)"
+                },
+                {
+                    "Name": "Cid",
+                    "Url": "/lodestone/playguide/db/npc/npc/ad7c033bb0e/",
+                    "Area": "The Rising Stones (X:6.0 Y:6.0)"
+                },
+                {
+                    "Name": "Gosetsu",
+                    "Url": "/lodestone/playguide/db/npc/npc/59cdc22477c/",
+                    "Area": "The Rising Stones (X:6.1 Y:5.9)"
+                },
+                {
+                    "Name": "Nero Tol Scaeva",
+                    "Url": "/lodestone/playguide/db/npc/npc/e2c3f6b6f18/",
+                    "Area": "The Rising Stones (X:6.0 Y:6.0)"
+                },
+                {
+                    "Name": "Tataru",
+                    "Url": "/lodestone/playguide/db/npc/npc/1f080c0b478/",
+                    "Area": "The Rising Stones (X:6.1 Y:5.9)"
+                },
+                {
+                    "Name": "Tataru",
+                    "Url": "/lodestone/playguide/db/npc/npc/62808124662/",
+                    "Area": "The Rising Stones (X:6.0 Y:5.9)"
+                },
+                {
+                    "Name": "Yugiri",
+                    "Url": "/lodestone/playguide/db/npc/npc/c775d5b28a5/",
+                    "Area": "The Rising Stones (X:6.0 Y:5.9)"
+                }
+            ]
+        },
+        "Seq": 17,
+        "oldID": 67894,
+        "Map": {
+            "ID": 136
+        }
+    },
+    {
+        "ID": "ec11e570956",
+        "Name": "The Beast That Mourned at the Heart of the Mountain",
+        "Location": "Outer La Noscea",
+        "Level": 60,
+        "JournalSection": 0,
+        "JournalCategory": 5,
+        "JournalGenre": "Post-Dragonsong Main Scenario Quests",
+        "Url": "/lodestone/playguide/db/quest/ec11e570956/",
+        "Image": "https://img.finalfantasyxiv.com/lds/pc/global/images/itemicon/f6/f623ad90f6894731d7f795ceb02bc08486b002fb.png?n5.5",
+        "Icon": "main",
+        "Issuer": "Ga Bu",
+        "StartLocation": {
+            "Name": "Outer La Noscea",
+            "X": "20.6",
+            "Y": "16.9"
+        },
+        "StartClass": null,
+        "Job": "Any Disciple of War or Magic (excluding limited jobs)",
+        "Company": "Not specified",
+        "Requirement": "Not specified",
+        "Rewards": {
+            "Gil": 1500,
+            "Exp": 16740,
+            "ItemsMand": [],
+            "ItemsOpt": []
+        },
+        "Infos": {
+            "PrevQuests": [
+                {
+                    "Name": "Unlikely Allies",
+                    "Url": "/lodestone/playguide/db/quest/5b58b50a401/",
+                    "Area": "Outer La Noscea",
+                    "Level": "60"
+                }
+            ],
+            "NextQuests": [
+                {
+                    "Name": "Beneath a Star-filled Sky",
+                    "Url": "/lodestone/playguide/db/quest/52f21ed313a/",
+                    "Area": "Outer La Noscea",
+                    "Level": "60"
+                }
+            ],
+            "NPCs": [
+                {
+                    "Name": "Alisaie",
+                    "Url": "/lodestone/playguide/db/npc/npc/2226843da3f/",
+                    "Area": "Outer La Noscea (X:20.6 Y:16.9)"
+                },
+                {
+                    "Name": "Alisaie",
+                    "Url": "/lodestone/playguide/db/npc/npc/c4660bd4e64/",
+                    "Area": "Outer La Noscea (X:24.4 Y:8.7)"
+                },
+                {
+                    "Name": "Alisaie",
+                    "Url": "/lodestone/playguide/db/npc/npc/fcb983c545b/",
+                    "Area": "Outer La Noscea (X:24.4 Y:8.7)"
+                },
+                {
+                    "Name": "Alisaie",
+                    "Url": "/lodestone/playguide/db/npc/npc/11721774f14/",
+                    "Area": "Outer La Noscea (X:20.5 Y:16.7)"
+                },
+                {
+                    "Name": "Alisaie",
+                    "Url": "/lodestone/playguide/db/npc/npc/b2793a999bc/",
+                    "Area": "Outer La Noscea (X:22.9 Y:16.5)"
+                },
+                {
+                    "Name": "Alisaie",
+                    "Url": "/lodestone/playguide/db/npc/npc/2d40b1ff187/",
+                    "Area": "Outer La Noscea (X:23.2 Y:12.2)"
+                },
+                {
+                    "Name": "Alisaie",
+                    "Url": "/lodestone/playguide/db/npc/npc/3f555546e19/",
+                    "Area": "Outer La Noscea (X:23.1 Y:13.4)"
+                },
+                {
+                    "Name": "Alisaie",
+                    "Url": "/lodestone/playguide/db/npc/npc/743bfd9a528/",
+                    "Area": "Outer La Noscea (X:23.2 Y:12.3)"
+                },
+                {
+                    "Name": "Alphinaud",
+                    "Url": "/lodestone/playguide/db/npc/npc/dfe7a396443/",
+                    "Area": "Outer La Noscea (X:20.6 Y:16.9)"
+                },
+                {
+                    "Name": "Alphinaud",
+                    "Url": "/lodestone/playguide/db/npc/npc/3e9d9d6e920/",
+                    "Area": "Outer La Noscea (X:24.4 Y:8.8)"
+                },
+                {
+                    "Name": "Alphinaud",
+                    "Url": "/lodestone/playguide/db/npc/npc/2450507f4ad/",
+                    "Area": "Outer La Noscea (X:20.5 Y:16.7)"
+                },
+                {
+                    "Name": "Alphinaud",
+                    "Url": "/lodestone/playguide/db/npc/npc/08e5a418848/",
+                    "Area": "Outer La Noscea (X:22.9 Y:16.5)"
+                },
+                {
+                    "Name": "Alphinaud",
+                    "Url": "/lodestone/playguide/db/npc/npc/66b0dbb8440/",
+                    "Area": "Outer La Noscea (X:23.2 Y:12.3)"
+                },
+                {
+                    "Name": "Alphinaud",
+                    "Url": "/lodestone/playguide/db/npc/npc/a35333d49d2/",
+                    "Area": "Outer La Noscea (X:23.2 Y:13.5)"
+                },
+                {
+                    "Name": "Alphinaud",
+                    "Url": "/lodestone/playguide/db/npc/npc/75dd16038cc/",
+                    "Area": "Outer La Noscea (X:23.2 Y:12.3)"
+                },
+                {
+                    "Name": "Ga Bu",
+                    "Url": "/lodestone/playguide/db/npc/npc/10514cc4cc7/",
+                    "Area": "Outer La Noscea (X:24.4 Y:8.7)"
+                },
+                {
+                    "Name": "Ga Bu",
+                    "Url": "/lodestone/playguide/db/npc/npc/1d8518a9ea4/",
+                    "Area": "Outer La Noscea (X:24.4 Y:8.7)"
+                },
+                {
+                    "Name": "Ga Bu",
+                    "Url": "/lodestone/playguide/db/npc/npc/a8ceb8eb0d1/",
+                    "Area": "Outer La Noscea (X:20.5 Y:16.7)"
+                },
+                {
+                    "Name": "Ga Bu",
+                    "Url": "/lodestone/playguide/db/npc/npc/504770449f5/",
+                    "Area": "Outer La Noscea (X:22.9 Y:16.6)"
+                },
+                {
+                    "Name": "Ga Bu",
+                    "Url": "/lodestone/playguide/db/npc/npc/b855eb1500f/",
+                    "Area": "Outer La Noscea (X:23.2 Y:12.3)"
+                },
+                {
+                    "Name": "Ga Bu",
+                    "Url": "/lodestone/playguide/db/npc/npc/3772178faf1/",
+                    "Area": "Outer La Noscea (X:23.2 Y:13.4)"
+                },
+                {
+                    "Name": "Ga Bu",
+                    "Url": "/lodestone/playguide/db/npc/npc/05a9a77de61/",
+                    "Area": "Outer La Noscea (X:23.2 Y:12.3)"
+                }
+            ]
+        },
+        "Seq": 4,
+        "oldID": 67881,
+        "Map": {
+            "ID": 30
+        }
+    },
+    {
+        "ID": "f024c2b6931",
+        "Name": "Griffin, Griffin on the Wall",
+        "Location": "Mor Dhona",
+        "Level": 60,
+        "JournalSection": 0,
+        "JournalCategory": 5,
+        "JournalGenre": "Post-Dragonsong Main Scenario Quests",
+        "Url": "/lodestone/playguide/db/quest/f024c2b6931/",
+        "Image": "https://img.finalfantasyxiv.com/lds/pc/global/images/itemicon/63/632814d24f0f5820ea3c7af34510b4cbb00da967.png?n5.5",
+        "Icon": "main",
+        "Issuer": "Alisaie",
+        "StartLocation": {
+            "Name": "Mor Dhona",
+            "X": "22.1",
+            "Y": "8.3"
+        },
+        "StartClass": null,
+        "Job": "Any Disciple of War or Magic (excluding limited jobs)",
+        "Company": "Not specified",
+        "Requirement": "Not specified",
+        "Rewards": {
+            "Gil": 5000,
+            "Exp": 16740,
+            "ItemsMand": [
+                {
+                    "Icon": "https://img.finalfantasyxiv.com/lds/pc/global/images/itemicon/7e/7eaa53e1fe9e2bd80f81d9ce69c98c24f6223b0b.png?n5.5",
+                    "Name": "Another Brick Orchestrion Roll",
+                    "Amount": 1,
+                    "Url": "/lodestone/playguide/db/item/d1644e5f421/"
+                }
+            ],
+            "ItemsOpt": []
+        },
+        "Infos": {
+            "PrevQuests": [
+                {
+                    "Name": "An Allied Decision",
+                    "Url": "/lodestone/playguide/db/quest/0f0b541bbbf/",
+                    "Area": "Gridania",
+                    "Level": "60"
+                }
+            ],
+            "NextQuests": [
+                {
+                    "Name": "Louisoix's Finest Student",
+                    "Url": "/lodestone/playguide/db/quest/1b940b874d8/",
+                    "Area": "East Shroud",
+                    "Level": "60"
+                }
+            ],
+            "NPCs": [
+                {
+                    "Name": "Alphinaud",
+                    "Url": "/lodestone/playguide/db/npc/npc/9e8b75b31de/",
+                    "Area": "East Shroud (X:17.4 Y:27.1)"
+                },
+                {
+                    "Name": "Alphinaud",
+                    "Url": "/lodestone/playguide/db/npc/npc/63dac29e039/",
+                    "Area": "East Shroud (X:22.3 Y:31.2)"
+                },
+                {
+                    "Name": "Alphinaud",
+                    "Url": "/lodestone/playguide/db/npc/npc/c91a632ad43/",
+                    "Area": "East Shroud (X:22.2 Y:31.1)"
+                },
+                {
+                    "Name": "Hilda",
+                    "Url": "/lodestone/playguide/db/npc/npc/eb0c071a61c/",
+                    "Area": "East Shroud (X:22.2 Y:31.1)"
+                },
+                {
+                    "Name": "Pipin",
+                    "Url": "/lodestone/playguide/db/npc/npc/4840ee0410c/",
+                    "Area": "East Shroud (X:22.2 Y:31.1)"
+                },
+                {
+                    "Name": "Serpent Scout",
+                    "Url": "/lodestone/playguide/db/npc/npc/a5fed909ae9/",
+                    "Area": "East Shroud (X:22.3 Y:31.2)"
+                },
+                {
+                    "Name": "Serpent Scout",
+                    "Url": "/lodestone/playguide/db/npc/npc/46d3cbd9a98/",
+                    "Area": "East Shroud (X:21.8 Y:29.4)"
+                },
+                {
+                    "Name": "Thancred",
+                    "Url": "/lodestone/playguide/db/npc/npc/13d4ea639a3/",
+                    "Area": "East Shroud (X:22.2 Y:31.1)"
+                },
+                {
+                    "Name": "Yda",
+                    "Url": "/lodestone/playguide/db/npc/npc/3e2bb41a956/",
+                    "Area": "East Shroud (X:22.2 Y:31.2)"
+                },
+                {
+                    "Name": "Yugiri",
+                    "Url": "/lodestone/playguide/db/npc/npc/127d5a5c045/",
+                    "Area": "East Shroud (X:22.2 Y:31.1)"
+                },
+                {
+                    "Name": "Yugiri",
+                    "Url": "/lodestone/playguide/db/npc/npc/da966c4d4a8/",
+                    "Area": "Mor Dhona (X:22.1 Y:8.3)"
+                },
+                {
+                    "Name": "Alisaie",
+                    "Url": "/lodestone/playguide/db/npc/npc/bf904085cf2/",
+                    "Area": "The Rising Stones (X:6.1 Y:5.9)"
+                },
+                {
+                    "Name": "Alphinaud",
+                    "Url": "/lodestone/playguide/db/npc/npc/268ef7784b0/",
+                    "Area": "The Rising Stones (X:6.0 Y:6.0)"
+                },
+                {
+                    "Name": "Papalymo",
+                    "Url": "/lodestone/playguide/db/npc/npc/445a4e4718e/",
+                    "Area": "The Rising Stones (X:6.1 Y:6.2)"
+                },
+                {
+                    "Name": "Thancred",
+                    "Url": "/lodestone/playguide/db/npc/npc/4ec736ed287/",
+                    "Area": "The Rising Stones (X:6.1 Y:6.3)"
+                },
+                {
+                    "Name": "Yda",
+                    "Url": "/lodestone/playguide/db/npc/npc/82382a2e6c3/",
+                    "Area": "The Rising Stones (X:6.1 Y:6.3)"
+                },
+                {
+                    "Name": "Yugiri",
+                    "Url": "/lodestone/playguide/db/npc/npc/675c0098627/",
+                    "Area": "The Rising Stones (X:6.1 Y:6.3)"
+                }
+            ]
+        },
+        "Seq": 13,
+        "oldID": 67890,
+        "Map": {
+            "ID": 25
+        }
+    }
+]

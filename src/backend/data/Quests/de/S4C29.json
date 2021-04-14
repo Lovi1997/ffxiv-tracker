@@ -1,0 +1,1844 @@
+[
+    {
+        "ID": "0107dd8f66c",
+        "Name": "Flammen an Bord",
+        "Location": "Westliches La Noscea",
+        "Level": 48,
+        "JournalSection": 4,
+        "JournalCategory": 29,
+        "JournalGenre": "\n\t\t\t\t\t\t\tNebenaufträge\n\t\t\t\t\t\t",
+        "Url": "/lodestone/playguide/db/quest/0107dd8f66c/",
+        "Image": null,
+        "Icon": "common_repeat",
+        "Issuer": "Seww",
+        "StartLocation": {
+            "Name": "Westliches La Noscea",
+            "X": "16.9",
+            "Y": "22.6"
+        },
+        "StartClass": null,
+        "Job": "",
+        "Company": "Keine Angabe",
+        "Requirement": "Keine Angabe",
+        "Rewards": {
+            "Gil": 780,
+            "Exp": 10473,
+            "ItemsMand": [],
+            "ItemsOpt": [
+                {
+                    "Icon": "https://img.finalfantasyxiv.com/lds/pc/global/images/itemicon/59/591709d485ebd155ba018c8cd773fe3c662caed3.png?n5.5",
+                    "Name": "Frömmigkeits-Materia IV",
+                    "Amount": 1,
+                    "Url": "/lodestone/playguide/db/item/905d47601dd/"
+                },
+                {
+                    "Icon": "https://img.finalfantasyxiv.com/lds/pc/global/images/itemicon/06/06bd35b3df19cbc5d80eed3ed99c67a366c835aa.png?n5.5",
+                    "Name": "Hellseher-Materia IV",
+                    "Amount": 1,
+                    "Url": "/lodestone/playguide/db/item/93fe1786b70/"
+                },
+                {
+                    "Icon": "https://img.finalfantasyxiv.com/lds/pc/global/images/itemicon/60/6072436b0c90d22b6a9d7da93f356256a04be53d.png?n5.5",
+                    "Name": "Kampf-Materia IV",
+                    "Amount": 1,
+                    "Url": "/lodestone/playguide/db/item/1162b3fcc58/"
+                }
+            ]
+        },
+        "Infos": {
+            "PrevQuests": [
+                {
+                    "Name": "Pahh",
+                    "Url": "/lodestone/playguide/db/npc/npc/e1731c57a26/",
+                    "Area": "Westliches La Noscea (X:16.6 Y:21.7)"
+                }
+            ]
+        },
+        "Seq": 33,
+        "oldID": 66944,
+        "Map": {
+            "ID": 18
+        }
+    },
+    {
+        "ID": "01c86d656d9",
+        "Name": "Besessen wider Willen",
+        "Location": "Westliches La Noscea",
+        "Level": 48,
+        "JournalSection": 4,
+        "JournalCategory": 29,
+        "JournalGenre": "\n\t\t\t\t\t\t\tNebenaufträge\n\t\t\t\t\t\t",
+        "Url": "/lodestone/playguide/db/quest/01c86d656d9/",
+        "Image": null,
+        "Icon": "common_repeat",
+        "Issuer": "Seww",
+        "StartLocation": {
+            "Name": "Westliches La Noscea",
+            "X": "16.9",
+            "Y": "22.6"
+        },
+        "StartClass": null,
+        "Job": "",
+        "Company": "Keine Angabe",
+        "Requirement": "Keine Angabe",
+        "Rewards": {
+            "Gil": 780,
+            "Exp": 10473,
+            "ItemsMand": [],
+            "ItemsOpt": [
+                {
+                    "Icon": "https://img.finalfantasyxiv.com/lds/pc/global/images/itemicon/59/591709d485ebd155ba018c8cd773fe3c662caed3.png?n5.5",
+                    "Name": "Frömmigkeits-Materia IV",
+                    "Amount": 1,
+                    "Url": "/lodestone/playguide/db/item/905d47601dd/"
+                },
+                {
+                    "Icon": "https://img.finalfantasyxiv.com/lds/pc/global/images/itemicon/06/06bd35b3df19cbc5d80eed3ed99c67a366c835aa.png?n5.5",
+                    "Name": "Strategen-Materia IV",
+                    "Amount": 1,
+                    "Url": "/lodestone/playguide/db/item/dce3a5f3467/"
+                },
+                {
+                    "Icon": "https://img.finalfantasyxiv.com/lds/pc/global/images/itemicon/60/6072436b0c90d22b6a9d7da93f356256a04be53d.png?n5.5",
+                    "Name": "Zauber-Materia IV",
+                    "Amount": 1,
+                    "Url": "/lodestone/playguide/db/item/5bbb25ff7dd/"
+                }
+            ]
+        },
+        "Infos": {
+            "PrevQuests": [
+                {
+                    "Name": "Gefangener Soldat",
+                    "Url": "/lodestone/playguide/db/npc/npc/9352609ff79/",
+                    "Area": "Westliches La Noscea (X:14.2 Y:14.0)"
+                },
+                {
+                    "Name": "Gefangener Soldat",
+                    "Url": "/lodestone/playguide/db/npc/npc/365b267d97d/",
+                    "Area": "Westliches La Noscea (X:14.1 Y:14.3)"
+                },
+                {
+                    "Name": "Gefangener Soldat",
+                    "Url": "/lodestone/playguide/db/npc/npc/5d559c8889a/",
+                    "Area": "Westliches La Noscea (X:13.9 Y:14.4)"
+                },
+                {
+                    "Name": "Gefangener Soldat",
+                    "Url": "/lodestone/playguide/db/npc/npc/25b8b7d4bfe/",
+                    "Area": "Westliches La Noscea (X:14.3 Y:13.9)"
+                },
+                {
+                    "Name": "Gefangener Soldat",
+                    "Url": "/lodestone/playguide/db/npc/npc/ef08ad37a51/",
+                    "Area": "Westliches La Noscea (X:14.2 Y:14.2)"
+                },
+                {
+                    "Name": "Gefangener Soldat",
+                    "Url": "/lodestone/playguide/db/npc/npc/a97497539a1/",
+                    "Area": "Westliches La Noscea (X:14.2 Y:14.0)"
+                },
+                {
+                    "Name": "Gefangener Soldat",
+                    "Url": "/lodestone/playguide/db/npc/npc/5ec1a7dc3f9/",
+                    "Area": "Westliches La Noscea (X:14.1 Y:14.3)"
+                }
+            ]
+        },
+        "Seq": 26,
+        "oldID": 66938,
+        "Map": {
+            "ID": 18
+        }
+    },
+    {
+        "ID": "0584a8da1d0",
+        "Name": "Hungrige Mäuler",
+        "Location": "Westliches La Noscea",
+        "Level": 44,
+        "JournalSection": 4,
+        "JournalCategory": 29,
+        "JournalGenre": "\n\t\t\t\t\t\t\tNebenaufträge\n\t\t\t\t\t\t",
+        "Url": "/lodestone/playguide/db/quest/0584a8da1d0/",
+        "Image": null,
+        "Icon": "common_repeat",
+        "Issuer": "Fyuu",
+        "StartLocation": {
+            "Name": "Westliches La Noscea",
+            "X": "17.0",
+            "Y": "22.2"
+        },
+        "StartClass": null,
+        "Job": "",
+        "Company": "Keine Angabe",
+        "Requirement": "Keine Angabe",
+        "Rewards": {
+            "Gil": 540,
+            "Exp": 9142,
+            "ItemsMand": [],
+            "ItemsOpt": []
+        },
+        "Infos": {
+            "PrevQuests": [
+                {
+                    "Name": "Pahh",
+                    "Url": "/lodestone/playguide/db/npc/npc/e1731c57a26/",
+                    "Area": "Westliches La Noscea (X:16.6 Y:21.7)"
+                }
+            ]
+        },
+        "Seq": 7,
+        "oldID": 66921,
+        "Map": {
+            "ID": 18
+        }
+    },
+    {
+        "ID": "19fb403a1d6",
+        "Name": "Harte Schale, weicher Kern",
+        "Location": "Westliches La Noscea",
+        "Level": 44,
+        "JournalSection": 4,
+        "JournalCategory": 29,
+        "JournalGenre": "\n\t\t\t\t\t\t\tNebenaufträge\n\t\t\t\t\t\t",
+        "Url": "/lodestone/playguide/db/quest/19fb403a1d6/",
+        "Image": null,
+        "Icon": "common_repeat",
+        "Issuer": "Fyuu",
+        "StartLocation": {
+            "Name": "Westliches La Noscea",
+            "X": "17.0",
+            "Y": "22.2"
+        },
+        "StartClass": null,
+        "Job": "",
+        "Company": "Keine Angabe",
+        "Requirement": "Keine Angabe",
+        "Rewards": {
+            "Gil": 540,
+            "Exp": 9142,
+            "ItemsMand": [],
+            "ItemsOpt": []
+        },
+        "Infos": {
+            "PrevQuests": [
+                {
+                    "Name": "Pahh",
+                    "Url": "/lodestone/playguide/db/npc/npc/e1731c57a26/",
+                    "Area": "Westliches La Noscea (X:16.6 Y:21.7)"
+                }
+            ]
+        },
+        "Seq": 9,
+        "oldID": 66920,
+        "Map": {
+            "ID": 18
+        }
+    },
+    {
+        "ID": "1bf827a03ab",
+        "Name": "Dominanz zeigen",
+        "Location": "Westliches La Noscea",
+        "Level": 44,
+        "JournalSection": 4,
+        "JournalCategory": 29,
+        "JournalGenre": "\n\t\t\t\t\t\t\tNebenaufträge\n\t\t\t\t\t\t",
+        "Url": "/lodestone/playguide/db/quest/1bf827a03ab/",
+        "Image": null,
+        "Icon": "common_repeat",
+        "Issuer": "Fyuu",
+        "StartLocation": {
+            "Name": "Westliches La Noscea",
+            "X": "17.0",
+            "Y": "22.2"
+        },
+        "StartClass": null,
+        "Job": "",
+        "Company": "Keine Angabe",
+        "Requirement": "Keine Angabe",
+        "Rewards": {
+            "Gil": 540,
+            "Exp": 9142,
+            "ItemsMand": [],
+            "ItemsOpt": []
+        },
+        "Infos": {
+            "PrevQuests": [
+                {
+                    "Name": "Pahh",
+                    "Url": "/lodestone/playguide/db/npc/npc/e1731c57a26/",
+                    "Area": "Westliches La Noscea (X:16.6 Y:21.7)"
+                }
+            ]
+        },
+        "Seq": 14,
+        "oldID": 66922,
+        "Map": {
+            "ID": 18
+        }
+    },
+    {
+        "ID": "20327a16283",
+        "Name": "Falsch navigiert",
+        "Location": "Westliches La Noscea",
+        "Level": 46,
+        "JournalSection": 4,
+        "JournalCategory": 29,
+        "JournalGenre": "\n\t\t\t\t\t\t\tNebenaufträge\n\t\t\t\t\t\t",
+        "Url": "/lodestone/playguide/db/quest/20327a16283/",
+        "Image": null,
+        "Icon": "common_repeat",
+        "Issuer": "Houu",
+        "StartLocation": {
+            "Name": "Westliches La Noscea",
+            "X": "16.5",
+            "Y": "22.5"
+        },
+        "StartClass": null,
+        "Job": "",
+        "Company": "Keine Angabe",
+        "Requirement": "Keine Angabe",
+        "Rewards": {
+            "Gil": 660,
+            "Exp": 9693,
+            "ItemsMand": [],
+            "ItemsOpt": []
+        },
+        "Infos": {},
+        "Seq": 18,
+        "oldID": 66928,
+        "Map": {
+            "ID": 18
+        }
+    },
+    {
+        "ID": "3e8aa2e4ad7",
+        "Name": "Gehirnwäsche? Ohne mich!",
+        "Location": "Westliches La Noscea",
+        "Level": 44,
+        "JournalSection": 4,
+        "JournalCategory": 29,
+        "JournalGenre": "\n\t\t\t\t\t\t\tNebenaufträge\n\t\t\t\t\t\t",
+        "Url": "/lodestone/playguide/db/quest/3e8aa2e4ad7/",
+        "Image": null,
+        "Icon": "common_repeat",
+        "Issuer": "Fyuu",
+        "StartLocation": {
+            "Name": "Westliches La Noscea",
+            "X": "17.0",
+            "Y": "22.2"
+        },
+        "StartClass": null,
+        "Job": "",
+        "Company": "Keine Angabe",
+        "Requirement": "Keine Angabe",
+        "Rewards": {
+            "Gil": 540,
+            "Exp": 9142,
+            "ItemsMand": [],
+            "ItemsOpt": []
+        },
+        "Infos": {
+            "PrevQuests": [
+                {
+                    "Name": "Gefangener Mahlstrom-Soldat",
+                    "Url": "/lodestone/playguide/db/npc/npc/9e66768e3ea/",
+                    "Area": "Westliches La Noscea (X:17.2 Y:19.4)"
+                },
+                {
+                    "Name": "Gefangener Mahlstrom-Soldat",
+                    "Url": "/lodestone/playguide/db/npc/npc/1cff6c7baac/",
+                    "Area": "Westliches La Noscea (X:17.2 Y:19.3)"
+                },
+                {
+                    "Name": "Gefangener Mahlstrom-Soldat",
+                    "Url": "/lodestone/playguide/db/npc/npc/1f6eff4630a/",
+                    "Area": "Westliches La Noscea (X:17.2 Y:19.4)"
+                },
+                {
+                    "Name": "Sahagin-Wachposten",
+                    "Url": "/lodestone/playguide/db/npc/npc/c01e495e262/",
+                    "Area": "Westliches La Noscea (X:17.0 Y:19.2)"
+                },
+                {
+                    "Name": "Sahagin-Wachposten",
+                    "Url": "/lodestone/playguide/db/npc/npc/cd477dcab44/",
+                    "Area": "Westliches La Noscea (X:17.5 Y:19.0)"
+                },
+                {
+                    "Name": "Sahagin-Wachposten",
+                    "Url": "/lodestone/playguide/db/npc/npc/4fce5552846/",
+                    "Area": "Westliches La Noscea (X:17.7 Y:20.6)"
+                },
+                {
+                    "Name": "Sahagin-Wachposten",
+                    "Url": "/lodestone/playguide/db/npc/npc/09df174688b/",
+                    "Area": "Westliches La Noscea (X:18.3 Y:20.4)"
+                },
+                {
+                    "Name": "Sahagin-Wachposten",
+                    "Url": "/lodestone/playguide/db/npc/npc/e48873d5e94/",
+                    "Area": "Westliches La Noscea (X:18.4 Y:20.0)"
+                },
+                {
+                    "Name": "Sahagin-Wachposten",
+                    "Url": "/lodestone/playguide/db/npc/npc/df547c0f982/",
+                    "Area": "Westliches La Noscea (X:18.0 Y:19.5)"
+                },
+                {
+                    "Name": "Sahagin-Wachposten",
+                    "Url": "/lodestone/playguide/db/npc/npc/99df0b6e7a3/",
+                    "Area": "Westliches La Noscea (X:18.6 Y:19.3)"
+                }
+            ]
+        },
+        "Seq": 13,
+        "oldID": 66919,
+        "Map": {
+            "ID": 18
+        }
+    },
+    {
+        "ID": "4677a08c329",
+        "Name": "Der Scharlachrote Teufel",
+        "Location": "Westliches La Noscea",
+        "Level": 46,
+        "JournalSection": 4,
+        "JournalCategory": 29,
+        "JournalGenre": "\n\t\t\t\t\t\t\tHauptaufträge\n\t\t\t\t\t\t",
+        "Url": "/lodestone/playguide/db/quest/4677a08c329/",
+        "Image": "https://img.finalfantasyxiv.com/lds/pc/global/images/itemicon/5e/5ed0a40fe5594ed2926dcc08a0cc5a3cd14dbf7b.png?n5.5",
+        "Icon": "function_normal",
+        "Issuer": "Novv",
+        "StartLocation": {
+            "Name": "Westliches La Noscea",
+            "X": "16.7",
+            "Y": "22.8"
+        },
+        "StartClass": null,
+        "Job": "",
+        "Company": "Keine Angabe",
+        "Requirement": "Keine Angabe",
+        "Rewards": {
+            "Gil": 753,
+            "Exp": 12925,
+            "ItemsMand": [],
+            "ItemsOpt": []
+        },
+        "Infos": {
+            "PrevQuests": [
+                {
+                    "Name": "Klein, aber oho!",
+                    "Url": "/lodestone/playguide/db/quest/5f36f9fc938/",
+                    "Area": "Westliches La Noscea",
+                    "Level": "44"
+                }
+            ],
+            "NextQuests": [
+                {
+                    "Name": "Geleitet von Zorn",
+                    "Url": "/lodestone/playguide/db/quest/7138516f230/",
+                    "Area": "Westliches La Noscea",
+                    "Level": "48"
+                }
+            ],
+            "NPCs": [
+                {
+                    "Name": "Kapitän der Swallow",
+                    "Url": "/lodestone/playguide/db/npc/npc/6aecb6ab217/",
+                    "Area": "Westliches La Noscea (X:3.6 Y:40.0)"
+                },
+                {
+                    "Name": "Kapitän der Swallow",
+                    "Url": "/lodestone/playguide/db/npc/npc/7d52da9967f/",
+                    "Area": "Westliches La Noscea (X:27.8 Y:26.9)"
+                },
+                {
+                    "Name": "Pahh",
+                    "Url": "/lodestone/playguide/db/npc/npc/e1731c57a26/",
+                    "Area": "Westliches La Noscea (X:16.6 Y:21.7)"
+                }
+            ]
+        },
+        "Seq": 2,
+        "oldID": 66912,
+        "Map": {
+            "ID": 18
+        }
+    },
+    {
+        "ID": "5f36f9fc938",
+        "Name": "Klein, aber oho!",
+        "Location": "Westliches La Noscea",
+        "Level": 44,
+        "JournalSection": 4,
+        "JournalCategory": 29,
+        "JournalGenre": "\n\t\t\t\t\t\t\tHauptaufträge\n\t\t\t\t\t\t",
+        "Url": "/lodestone/playguide/db/quest/5f36f9fc938/",
+        "Image": "https://img.finalfantasyxiv.com/lds/pc/global/images/itemicon/7f/7f89a4c7327b3177642f66bf29ef8ce8b67fc502.png?n5.5",
+        "Icon": "function_normal",
+        "Issuer": "Novv",
+        "StartLocation": {
+            "Name": "Westliches La Noscea",
+            "X": "16.7",
+            "Y": "22.8"
+        },
+        "StartClass": null,
+        "Job": "",
+        "Company": "Keine Angabe",
+        "Requirement": "Keine Angabe",
+        "Rewards": {
+            "Gil": 729,
+            "Exp": 12190,
+            "ItemsMand": [],
+            "ItemsOpt": []
+        },
+        "Infos": {
+            "PrevQuests": [
+                {
+                    "Name": "Sie kamen aus der Tiefe",
+                    "Url": "/lodestone/playguide/db/quest/f6cfe116e17/",
+                    "Area": "Limsa Lominsa",
+                    "Level": "44"
+                }
+            ],
+            "NextQuests": [
+                {
+                    "Name": "Der Scharlachrote Teufel",
+                    "Url": "/lodestone/playguide/db/quest/4677a08c329/",
+                    "Area": "Westliches La Noscea",
+                    "Level": "46"
+                }
+            ],
+            "NPCs": [
+                {
+                    "Name": "Pyuu",
+                    "Url": "/lodestone/playguide/db/npc/npc/72ee839fcc7/",
+                    "Area": "Westliches La Noscea (X:20.7 Y:19.7)"
+                },
+                {
+                    "Name": "Seww",
+                    "Url": "/lodestone/playguide/db/npc/npc/c083c166190/",
+                    "Area": "Westliches La Noscea (X:16.9 Y:22.6)"
+                }
+            ]
+        },
+        "Seq": 1,
+        "oldID": 66911,
+        "Map": {
+            "ID": 18
+        }
+    },
+    {
+        "ID": "644e43bcf56",
+        "Name": "Der letzte Ausweg",
+        "Location": "Westliches La Noscea",
+        "Level": 48,
+        "JournalSection": 4,
+        "JournalCategory": 29,
+        "JournalGenre": "\n\t\t\t\t\t\t\tHauptaufträge\n\t\t\t\t\t\t",
+        "Url": "/lodestone/playguide/db/quest/644e43bcf56/",
+        "Image": "https://img.finalfantasyxiv.com/lds/pc/global/images/itemicon/38/383e91479ecd1caaf2201fa152e4ed69accabba4.png?n5.5",
+        "Icon": "function_normal",
+        "Issuer": "Novv",
+        "StartLocation": {
+            "Name": "Westliches La Noscea",
+            "X": "16.7",
+            "Y": "22.8"
+        },
+        "StartClass": null,
+        "Job": "",
+        "Company": "Keine Angabe",
+        "Requirement": "Keine Angabe",
+        "Rewards": {
+            "Gil": 1184,
+            "Exp": 13965,
+            "ItemsMand": [],
+            "ItemsOpt": []
+        },
+        "Infos": {
+            "PrevQuests": [
+                {
+                    "Name": "Geleitet von Zorn",
+                    "Url": "/lodestone/playguide/db/quest/7138516f230/",
+                    "Area": "Westliches La Noscea",
+                    "Level": "48"
+                }
+            ],
+            "NextQuests": [
+                {
+                    "Name": "R'ashaht Rhiki",
+                    "Url": "/lodestone/playguide/db/npc/npc/18feb495b80/",
+                    "Area": "Obere Decks (X:13.1 Y:12.8)"
+                },
+                {
+                    "Name": "Falkbryda",
+                    "Url": "/lodestone/playguide/db/npc/npc/732bca1d47a/",
+                    "Area": "Westliches La Noscea (X:22.7 Y:22.7)"
+                },
+                {
+                    "Name": "Finanzminister Turstin",
+                    "Url": "/lodestone/playguide/db/npc/npc/5b98b895a6c/",
+                    "Area": "Westliches La Noscea (X:3.1 Y:37.7)"
+                },
+                {
+                    "Name": "Finanzminister Turstin",
+                    "Url": "/lodestone/playguide/db/npc/npc/8cbd88ed7b0/",
+                    "Area": "Westliches La Noscea (X:27.9 Y:28.4)"
+                },
+                {
+                    "Name": "Novv",
+                    "Url": "/lodestone/playguide/db/npc/npc/dd20fc604a7/",
+                    "Area": "Westliches La Noscea (X:3.1 Y:37.7)"
+                },
+                {
+                    "Name": "Pahh",
+                    "Url": "/lodestone/playguide/db/npc/npc/e1731c57a26/",
+                    "Area": "Westliches La Noscea (X:16.6 Y:21.7)"
+                }
+            ]
+        },
+        "Seq": 4,
+        "oldID": 66914,
+        "Map": {
+            "ID": 18
+        }
+    },
+    {
+        "ID": "6e60286092d",
+        "Name": "Vernebelt und entführt",
+        "Location": "Westliches La Noscea",
+        "Level": 46,
+        "JournalSection": 4,
+        "JournalCategory": 29,
+        "JournalGenre": "\n\t\t\t\t\t\t\tNebenaufträge\n\t\t\t\t\t\t",
+        "Url": "/lodestone/playguide/db/quest/6e60286092d/",
+        "Image": null,
+        "Icon": "common_repeat",
+        "Issuer": "Houu",
+        "StartLocation": {
+            "Name": "Westliches La Noscea",
+            "X": "16.5",
+            "Y": "22.5"
+        },
+        "StartClass": null,
+        "Job": "",
+        "Company": "Keine Angabe",
+        "Requirement": "Keine Angabe",
+        "Rewards": {
+            "Gil": 660,
+            "Exp": 9693,
+            "ItemsMand": [],
+            "ItemsOpt": []
+        },
+        "Infos": {
+            "PrevQuests": [
+                {
+                    "Name": "Gefangener Mahlstrom-Soldat",
+                    "Url": "/lodestone/playguide/db/npc/npc/5c2984fabad/",
+                    "Area": "Westliches La Noscea (X:18.2 Y:16.0)"
+                },
+                {
+                    "Name": "Gefangener Mahlstrom-Soldat",
+                    "Url": "/lodestone/playguide/db/npc/npc/dbc6a0f7b58/",
+                    "Area": "Westliches La Noscea (X:17.1 Y:14.8)"
+                },
+                {
+                    "Name": "Gefangener Mahlstrom-Soldat",
+                    "Url": "/lodestone/playguide/db/npc/npc/04b5e5ac8d1/",
+                    "Area": "Westliches La Noscea (X:16.0 Y:16.2)"
+                },
+                {
+                    "Name": "Gefangener Mahlstrom-Soldat",
+                    "Url": "/lodestone/playguide/db/npc/npc/ed958667fe2/",
+                    "Area": "Westliches La Noscea (X:17.6 Y:17.2)"
+                }
+            ]
+        },
+        "Seq": 23,
+        "oldID": 66933,
+        "Map": {
+            "ID": 18
+        }
+    },
+    {
+        "ID": "7138516f230",
+        "Name": "Geleitet von Zorn",
+        "Location": "Westliches La Noscea",
+        "Level": 48,
+        "JournalSection": 4,
+        "JournalCategory": 29,
+        "JournalGenre": "\n\t\t\t\t\t\t\tHauptaufträge\n\t\t\t\t\t\t",
+        "Url": "/lodestone/playguide/db/quest/7138516f230/",
+        "Image": "https://img.finalfantasyxiv.com/lds/pc/global/images/itemicon/29/2974b74ed085e1a61852450b8016b3826990b736.png?n5.5",
+        "Icon": "function_normal",
+        "Issuer": "Novv",
+        "StartLocation": {
+            "Name": "Westliches La Noscea",
+            "X": "16.7",
+            "Y": "22.8"
+        },
+        "StartClass": null,
+        "Job": "",
+        "Company": "Keine Angabe",
+        "Requirement": "Keine Angabe",
+        "Rewards": {
+            "Gil": 776,
+            "Exp": 13965,
+            "ItemsMand": [],
+            "ItemsOpt": []
+        },
+        "Infos": {
+            "PrevQuests": [
+                {
+                    "Name": "Der Scharlachrote Teufel",
+                    "Url": "/lodestone/playguide/db/quest/4677a08c329/",
+                    "Area": "Westliches La Noscea",
+                    "Level": "46"
+                }
+            ],
+            "NextQuests": [
+                {
+                    "Name": "Der letzte Ausweg",
+                    "Url": "/lodestone/playguide/db/quest/644e43bcf56/",
+                    "Area": "Westliches La Noscea",
+                    "Level": "48"
+                }
+            ],
+            "NPCs": [
+                {
+                    "Name": "Altgedienter Sahagin",
+                    "Url": "/lodestone/playguide/db/npc/npc/56f4bf27ddf/",
+                    "Area": "Westliches La Noscea (X:18.4 Y:15.5)"
+                },
+                {
+                    "Name": "Altgedienter Sahagin",
+                    "Url": "/lodestone/playguide/db/npc/npc/a2037807a6f/",
+                    "Area": "Westliches La Noscea (X:14.3 Y:12.9)"
+                },
+                {
+                    "Name": "Altgedienter Sahagin",
+                    "Url": "/lodestone/playguide/db/npc/npc/bc8366e4a49/",
+                    "Area": "Westliches La Noscea (X:5.6 Y:35.8)"
+                },
+                {
+                    "Name": "Pahh",
+                    "Url": "/lodestone/playguide/db/npc/npc/e1731c57a26/",
+                    "Area": "Westliches La Noscea (X:16.6 Y:21.7)"
+                },
+                {
+                    "Name": "Seww",
+                    "Url": "/lodestone/playguide/db/npc/npc/c083c166190/",
+                    "Area": "Westliches La Noscea (X:16.9 Y:22.6)"
+                }
+            ]
+        },
+        "Seq": 3,
+        "oldID": 66913,
+        "Map": {
+            "ID": 18
+        }
+    },
+    {
+        "ID": "7151f260deb",
+        "Name": "Nahrung für die Brut",
+        "Location": "Westliches La Noscea",
+        "Level": 48,
+        "JournalSection": 4,
+        "JournalCategory": 29,
+        "JournalGenre": "\n\t\t\t\t\t\t\tNebenaufträge\n\t\t\t\t\t\t",
+        "Url": "/lodestone/playguide/db/quest/7151f260deb/",
+        "Image": null,
+        "Icon": "common_repeat",
+        "Issuer": "Seww",
+        "StartLocation": {
+            "Name": "Westliches La Noscea",
+            "X": "16.9",
+            "Y": "22.6"
+        },
+        "StartClass": null,
+        "Job": "",
+        "Company": "Keine Angabe",
+        "Requirement": "Keine Angabe",
+        "Rewards": {
+            "Gil": 780,
+            "Exp": 10473,
+            "ItemsMand": [],
+            "ItemsOpt": [
+                {
+                    "Icon": "https://img.finalfantasyxiv.com/lds/pc/global/images/itemicon/06/06bd35b3df19cbc5d80eed3ed99c67a366c835aa.png?n5.5",
+                    "Name": "Hellseher-Materia IV",
+                    "Amount": 1,
+                    "Url": "/lodestone/playguide/db/item/93fe1786b70/"
+                },
+                {
+                    "Icon": "https://img.finalfantasyxiv.com/lds/pc/global/images/itemicon/06/06bd35b3df19cbc5d80eed3ed99c67a366c835aa.png?n5.5",
+                    "Name": "Assassinen-Materia IV",
+                    "Amount": 1,
+                    "Url": "/lodestone/playguide/db/item/1bc25f58180/"
+                },
+                {
+                    "Icon": "https://img.finalfantasyxiv.com/lds/pc/global/images/itemicon/60/6072436b0c90d22b6a9d7da93f356256a04be53d.png?n5.5",
+                    "Name": "Zauber-Materia IV",
+                    "Amount": 1,
+                    "Url": "/lodestone/playguide/db/item/5bbb25ff7dd/"
+                }
+            ]
+        },
+        "Infos": {},
+        "Seq": 30,
+        "oldID": 66941,
+        "Map": {
+            "ID": 18
+        }
+    },
+    {
+        "ID": "77a5e4d9039",
+        "Name": "Zaubert euch nach Hause!",
+        "Location": "Westliches La Noscea",
+        "Level": 46,
+        "JournalSection": 4,
+        "JournalCategory": 29,
+        "JournalGenre": "\n\t\t\t\t\t\t\tNebenaufträge\n\t\t\t\t\t\t",
+        "Url": "/lodestone/playguide/db/quest/77a5e4d9039/",
+        "Image": null,
+        "Icon": "common_repeat",
+        "Issuer": "Houu",
+        "StartLocation": {
+            "Name": "Westliches La Noscea",
+            "X": "16.5",
+            "Y": "22.5"
+        },
+        "StartClass": null,
+        "Job": "",
+        "Company": "Keine Angabe",
+        "Requirement": "Keine Angabe",
+        "Rewards": {
+            "Gil": 660,
+            "Exp": 9693,
+            "ItemsMand": [],
+            "ItemsOpt": []
+        },
+        "Infos": {},
+        "Seq": 15,
+        "oldID": 66926,
+        "Map": {
+            "ID": 18
+        }
+    },
+    {
+        "ID": "7c0814d1f67",
+        "Name": "Voll der Stratege",
+        "Location": "Westliches La Noscea",
+        "Level": 44,
+        "JournalSection": 4,
+        "JournalCategory": 29,
+        "JournalGenre": "\n\t\t\t\t\t\t\tNebenaufträge\n\t\t\t\t\t\t",
+        "Url": "/lodestone/playguide/db/quest/7c0814d1f67/",
+        "Image": null,
+        "Icon": "common_repeat",
+        "Issuer": "Fyuu",
+        "StartLocation": {
+            "Name": "Westliches La Noscea",
+            "X": "17.0",
+            "Y": "22.2"
+        },
+        "StartClass": null,
+        "Job": "",
+        "Company": "Keine Angabe",
+        "Requirement": "Keine Angabe",
+        "Rewards": {
+            "Gil": 540,
+            "Exp": 9142,
+            "ItemsMand": [],
+            "ItemsOpt": []
+        },
+        "Infos": {},
+        "Seq": 12,
+        "oldID": 66915,
+        "Map": {
+            "ID": 18
+        }
+    },
+    {
+        "ID": "84703bb20e8",
+        "Name": "Muschelwettrüsten",
+        "Location": "Westliches La Noscea",
+        "Level": 48,
+        "JournalSection": 4,
+        "JournalCategory": 29,
+        "JournalGenre": "\n\t\t\t\t\t\t\tNebenaufträge\n\t\t\t\t\t\t",
+        "Url": "/lodestone/playguide/db/quest/84703bb20e8/",
+        "Image": null,
+        "Icon": "common_repeat",
+        "Issuer": "Seww",
+        "StartLocation": {
+            "Name": "Westliches La Noscea",
+            "X": "16.9",
+            "Y": "22.6"
+        },
+        "StartClass": null,
+        "Job": "",
+        "Company": "Keine Angabe",
+        "Requirement": "Keine Angabe",
+        "Rewards": {
+            "Gil": 780,
+            "Exp": 10473,
+            "ItemsMand": [],
+            "ItemsOpt": [
+                {
+                    "Icon": "https://img.finalfantasyxiv.com/lds/pc/global/images/itemicon/06/06bd35b3df19cbc5d80eed3ed99c67a366c835aa.png?n5.5",
+                    "Name": "Strategen-Materia IV",
+                    "Amount": 1,
+                    "Url": "/lodestone/playguide/db/item/dce3a5f3467/"
+                },
+                {
+                    "Icon": "https://img.finalfantasyxiv.com/lds/pc/global/images/itemicon/06/06bd35b3df19cbc5d80eed3ed99c67a366c835aa.png?n5.5",
+                    "Name": "Assassinen-Materia IV",
+                    "Amount": 1,
+                    "Url": "/lodestone/playguide/db/item/1bc25f58180/"
+                },
+                {
+                    "Icon": "https://img.finalfantasyxiv.com/lds/pc/global/images/itemicon/60/6072436b0c90d22b6a9d7da93f356256a04be53d.png?n5.5",
+                    "Name": "Zauber-Materia IV",
+                    "Amount": 1,
+                    "Url": "/lodestone/playguide/db/item/5bbb25ff7dd/"
+                }
+            ]
+        },
+        "Infos": {},
+        "Seq": 28,
+        "oldID": 66937,
+        "Map": {
+            "ID": 18
+        }
+    },
+    {
+        "ID": "85dce8264eb",
+        "Name": "Verwaltungsjagd",
+        "Location": "Westliches La Noscea",
+        "Level": 46,
+        "JournalSection": 4,
+        "JournalCategory": 29,
+        "JournalGenre": "\n\t\t\t\t\t\t\tNebenaufträge\n\t\t\t\t\t\t",
+        "Url": "/lodestone/playguide/db/quest/85dce8264eb/",
+        "Image": null,
+        "Icon": "common_repeat",
+        "Issuer": "Houu",
+        "StartLocation": {
+            "Name": "Westliches La Noscea",
+            "X": "16.5",
+            "Y": "22.5"
+        },
+        "StartClass": null,
+        "Job": "",
+        "Company": "Keine Angabe",
+        "Requirement": "Keine Angabe",
+        "Rewards": {
+            "Gil": 660,
+            "Exp": 9693,
+            "ItemsMand": [],
+            "ItemsOpt": []
+        },
+        "Infos": {},
+        "Seq": 16,
+        "oldID": 66927,
+        "Map": {
+            "ID": 18
+        }
+    },
+    {
+        "ID": "86901de1ee5",
+        "Name": "Begriffsstutzige Schlangen",
+        "Location": "Westliches La Noscea",
+        "Level": 48,
+        "JournalSection": 4,
+        "JournalCategory": 29,
+        "JournalGenre": "\n\t\t\t\t\t\t\tNebenaufträge\n\t\t\t\t\t\t",
+        "Url": "/lodestone/playguide/db/quest/86901de1ee5/",
+        "Image": null,
+        "Icon": "common_repeat",
+        "Issuer": "Seww",
+        "StartLocation": {
+            "Name": "Westliches La Noscea",
+            "X": "16.9",
+            "Y": "22.6"
+        },
+        "StartClass": null,
+        "Job": "",
+        "Company": "Keine Angabe",
+        "Requirement": "Keine Angabe",
+        "Rewards": {
+            "Gil": 780,
+            "Exp": 10473,
+            "ItemsMand": [],
+            "ItemsOpt": [
+                {
+                    "Icon": "https://img.finalfantasyxiv.com/lds/pc/global/images/itemicon/59/591709d485ebd155ba018c8cd773fe3c662caed3.png?n5.5",
+                    "Name": "Frömmigkeits-Materia IV",
+                    "Amount": 1,
+                    "Url": "/lodestone/playguide/db/item/905d47601dd/"
+                },
+                {
+                    "Icon": "https://img.finalfantasyxiv.com/lds/pc/global/images/itemicon/59/591709d485ebd155ba018c8cd773fe3c662caed3.png?n5.5",
+                    "Name": "Fechtkunst-Materia IV",
+                    "Amount": 1,
+                    "Url": "/lodestone/playguide/db/item/37f25043bf3/"
+                },
+                {
+                    "Icon": "https://img.finalfantasyxiv.com/lds/pc/global/images/itemicon/60/6072436b0c90d22b6a9d7da93f356256a04be53d.png?n5.5",
+                    "Name": "Zauber-Materia IV",
+                    "Amount": 1,
+                    "Url": "/lodestone/playguide/db/item/5bbb25ff7dd/"
+                }
+            ]
+        },
+        "Infos": {},
+        "Seq": 27,
+        "oldID": 66940,
+        "Map": {
+            "ID": 18
+        }
+    },
+    {
+        "ID": "8c42fe21873",
+        "Name": "Der General des Krieges",
+        "Location": "Westliches La Noscea",
+        "Level": 46,
+        "JournalSection": 4,
+        "JournalCategory": 29,
+        "JournalGenre": "\n\t\t\t\t\t\t\tNebenaufträge\n\t\t\t\t\t\t",
+        "Url": "/lodestone/playguide/db/quest/8c42fe21873/",
+        "Image": null,
+        "Icon": "common_repeat",
+        "Issuer": "Houu",
+        "StartLocation": {
+            "Name": "Westliches La Noscea",
+            "X": "16.5",
+            "Y": "22.5"
+        },
+        "StartClass": null,
+        "Job": "",
+        "Company": "Keine Angabe",
+        "Requirement": "Keine Angabe",
+        "Rewards": {
+            "Gil": 660,
+            "Exp": 9693,
+            "ItemsMand": [],
+            "ItemsOpt": []
+        },
+        "Infos": {
+            "PrevQuests": [
+                {
+                    "Name": "Fyuu",
+                    "Url": "/lodestone/playguide/db/npc/npc/85021401d63/",
+                    "Area": "Westliches La Noscea (X:17.0 Y:22.2)"
+                }
+            ]
+        },
+        "Seq": 22,
+        "oldID": 66932,
+        "Map": {
+            "ID": 18
+        }
+    },
+    {
+        "ID": "8c5b9d8f475",
+        "Name": "Von Pocken und Quallen",
+        "Location": "Westliches La Noscea",
+        "Level": 46,
+        "JournalSection": 4,
+        "JournalCategory": 29,
+        "JournalGenre": "\n\t\t\t\t\t\t\tNebenaufträge\n\t\t\t\t\t\t",
+        "Url": "/lodestone/playguide/db/quest/8c5b9d8f475/",
+        "Image": null,
+        "Icon": "common_repeat",
+        "Issuer": "Houu",
+        "StartLocation": {
+            "Name": "Westliches La Noscea",
+            "X": "16.5",
+            "Y": "22.5"
+        },
+        "StartClass": null,
+        "Job": "",
+        "Company": "Keine Angabe",
+        "Requirement": "Keine Angabe",
+        "Rewards": {
+            "Gil": 660,
+            "Exp": 9693,
+            "ItemsMand": [],
+            "ItemsOpt": []
+        },
+        "Infos": {},
+        "Seq": 17,
+        "oldID": 66931,
+        "Map": {
+            "ID": 18
+        }
+    },
+    {
+        "ID": "8eeacebd265",
+        "Name": "Unreif für die Insel",
+        "Location": "Westliches La Noscea",
+        "Level": 46,
+        "JournalSection": 4,
+        "JournalCategory": 29,
+        "JournalGenre": "\n\t\t\t\t\t\t\tNebenaufträge\n\t\t\t\t\t\t",
+        "Url": "/lodestone/playguide/db/quest/8eeacebd265/",
+        "Image": null,
+        "Icon": "common_repeat",
+        "Issuer": "Houu",
+        "StartLocation": {
+            "Name": "Westliches La Noscea",
+            "X": "16.5",
+            "Y": "22.5"
+        },
+        "StartClass": null,
+        "Job": "",
+        "Company": "Keine Angabe",
+        "Requirement": "Keine Angabe",
+        "Rewards": {
+            "Gil": 660,
+            "Exp": 9693,
+            "ItemsMand": [],
+            "ItemsOpt": []
+        },
+        "Infos": {
+            "PrevQuests": [
+                {
+                    "Name": "Pahh",
+                    "Url": "/lodestone/playguide/db/npc/npc/e1731c57a26/",
+                    "Area": "Westliches La Noscea (X:16.6 Y:21.7)"
+                }
+            ]
+        },
+        "Seq": 21,
+        "oldID": 66934,
+        "Map": {
+            "ID": 18
+        }
+    },
+    {
+        "ID": "a846d86b215",
+        "Name": "Lehrstunde im Verdreschen",
+        "Location": "Westliches La Noscea",
+        "Level": 46,
+        "JournalSection": 4,
+        "JournalCategory": 29,
+        "JournalGenre": "\n\t\t\t\t\t\t\tNebenaufträge\n\t\t\t\t\t\t",
+        "Url": "/lodestone/playguide/db/quest/a846d86b215/",
+        "Image": null,
+        "Icon": "common_repeat",
+        "Issuer": "Houu",
+        "StartLocation": {
+            "Name": "Westliches La Noscea",
+            "X": "16.5",
+            "Y": "22.5"
+        },
+        "StartClass": null,
+        "Job": "",
+        "Company": "Keine Angabe",
+        "Requirement": "Keine Angabe",
+        "Rewards": {
+            "Gil": 660,
+            "Exp": 9693,
+            "ItemsMand": [],
+            "ItemsOpt": []
+        },
+        "Infos": {
+            "PrevQuests": [
+                {
+                    "Name": "Pahh",
+                    "Url": "/lodestone/playguide/db/npc/npc/e1731c57a26/",
+                    "Area": "Westliches La Noscea (X:16.6 Y:21.7)"
+                }
+            ]
+        },
+        "Seq": 24,
+        "oldID": 66935,
+        "Map": {
+            "ID": 18
+        }
+    },
+    {
+        "ID": "aa484852896",
+        "Name": "Und bist du nicht willig",
+        "Location": "Westliches La Noscea",
+        "Level": 44,
+        "JournalSection": 4,
+        "JournalCategory": 29,
+        "JournalGenre": "\n\t\t\t\t\t\t\tNebenaufträge\n\t\t\t\t\t\t",
+        "Url": "/lodestone/playguide/db/quest/aa484852896/",
+        "Image": null,
+        "Icon": "common_repeat",
+        "Issuer": "Fyuu",
+        "StartLocation": {
+            "Name": "Westliches La Noscea",
+            "X": "17.0",
+            "Y": "22.2"
+        },
+        "StartClass": null,
+        "Job": "",
+        "Company": "Keine Angabe",
+        "Requirement": "Keine Angabe",
+        "Rewards": {
+            "Gil": 540,
+            "Exp": 9142,
+            "ItemsMand": [],
+            "ItemsOpt": []
+        },
+        "Infos": {
+            "PrevQuests": [
+                {
+                    "Name": "Sahagin-Spitzel",
+                    "Url": "/lodestone/playguide/db/npc/npc/6cfd9d643bf/",
+                    "Area": "Westliches La Noscea (X:20.3 Y:22.2)"
+                },
+                {
+                    "Name": "Sahagin-Spitzel",
+                    "Url": "/lodestone/playguide/db/npc/npc/93f5c938334/",
+                    "Area": "Westliches La Noscea (X:19.2 Y:23.1)"
+                },
+                {
+                    "Name": "Sahagin-Spitzel",
+                    "Url": "/lodestone/playguide/db/npc/npc/c1ce763f2e7/",
+                    "Area": "Westliches La Noscea (X:23.3 Y:22.1)"
+                },
+                {
+                    "Name": "Sahagin-Spitzel",
+                    "Url": "/lodestone/playguide/db/npc/npc/90df05034b3/",
+                    "Area": "Westliches La Noscea (X:22.4 Y:22.5)"
+                }
+            ]
+        },
+        "Seq": 11,
+        "oldID": 66924,
+        "Map": {
+            "ID": 18
+        }
+    },
+    {
+        "ID": "afe48630a77",
+        "Name": "Flammen der Rache",
+        "Location": "Westliches La Noscea",
+        "Level": 48,
+        "JournalSection": 4,
+        "JournalCategory": 29,
+        "JournalGenre": "\n\t\t\t\t\t\t\tNebenaufträge\n\t\t\t\t\t\t",
+        "Url": "/lodestone/playguide/db/quest/afe48630a77/",
+        "Image": null,
+        "Icon": "common_repeat",
+        "Issuer": "Seww",
+        "StartLocation": {
+            "Name": "Westliches La Noscea",
+            "X": "16.9",
+            "Y": "22.6"
+        },
+        "StartClass": null,
+        "Job": "",
+        "Company": "Keine Angabe",
+        "Requirement": "Keine Angabe",
+        "Rewards": {
+            "Gil": 780,
+            "Exp": 10473,
+            "ItemsMand": [],
+            "ItemsOpt": [
+                {
+                    "Icon": "https://img.finalfantasyxiv.com/lds/pc/global/images/itemicon/06/06bd35b3df19cbc5d80eed3ed99c67a366c835aa.png?n5.5",
+                    "Name": "Hellseher-Materia IV",
+                    "Amount": 1,
+                    "Url": "/lodestone/playguide/db/item/93fe1786b70/"
+                },
+                {
+                    "Icon": "https://img.finalfantasyxiv.com/lds/pc/global/images/itemicon/06/06bd35b3df19cbc5d80eed3ed99c67a366c835aa.png?n5.5",
+                    "Name": "Strategen-Materia IV",
+                    "Amount": 1,
+                    "Url": "/lodestone/playguide/db/item/dce3a5f3467/"
+                },
+                {
+                    "Icon": "https://img.finalfantasyxiv.com/lds/pc/global/images/itemicon/60/6072436b0c90d22b6a9d7da93f356256a04be53d.png?n5.5",
+                    "Name": "Zauber-Materia IV",
+                    "Amount": 1,
+                    "Url": "/lodestone/playguide/db/item/5bbb25ff7dd/"
+                }
+            ]
+        },
+        "Infos": {},
+        "Seq": 29,
+        "oldID": 66939,
+        "Map": {
+            "ID": 18
+        }
+    },
+    {
+        "ID": "b38fa4477e8",
+        "Name": "Flossen von den Schiffen!",
+        "Location": "Westliches La Noscea",
+        "Level": 48,
+        "JournalSection": 4,
+        "JournalCategory": 29,
+        "JournalGenre": "\n\t\t\t\t\t\t\tNebenaufträge\n\t\t\t\t\t\t",
+        "Url": "/lodestone/playguide/db/quest/b38fa4477e8/",
+        "Image": null,
+        "Icon": "common_repeat",
+        "Issuer": "Seww",
+        "StartLocation": {
+            "Name": "Westliches La Noscea",
+            "X": "16.9",
+            "Y": "22.6"
+        },
+        "StartClass": null,
+        "Job": "",
+        "Company": "Keine Angabe",
+        "Requirement": "Keine Angabe",
+        "Rewards": {
+            "Gil": 780,
+            "Exp": 10473,
+            "ItemsMand": [],
+            "ItemsOpt": [
+                {
+                    "Icon": "https://img.finalfantasyxiv.com/lds/pc/global/images/itemicon/06/06bd35b3df19cbc5d80eed3ed99c67a366c835aa.png?n5.5",
+                    "Name": "Assassinen-Materia IV",
+                    "Amount": 1,
+                    "Url": "/lodestone/playguide/db/item/1bc25f58180/"
+                },
+                {
+                    "Icon": "https://img.finalfantasyxiv.com/lds/pc/global/images/itemicon/59/591709d485ebd155ba018c8cd773fe3c662caed3.png?n5.5",
+                    "Name": "Fechtkunst-Materia IV",
+                    "Amount": 1,
+                    "Url": "/lodestone/playguide/db/item/37f25043bf3/"
+                },
+                {
+                    "Icon": "https://img.finalfantasyxiv.com/lds/pc/global/images/itemicon/60/6072436b0c90d22b6a9d7da93f356256a04be53d.png?n5.5",
+                    "Name": "Kampf-Materia IV",
+                    "Amount": 1,
+                    "Url": "/lodestone/playguide/db/item/1162b3fcc58/"
+                }
+            ]
+        },
+        "Infos": {
+            "PrevQuests": [
+                {
+                    "Name": "Pahh",
+                    "Url": "/lodestone/playguide/db/npc/npc/e1731c57a26/",
+                    "Area": "Westliches La Noscea (X:16.6 Y:21.7)"
+                }
+            ]
+        },
+        "Seq": 31,
+        "oldID": 66942,
+        "Map": {
+            "ID": 18
+        }
+    },
+    {
+        "ID": "b8d4cc0234d",
+        "Name": "Dämme einreißen verboten",
+        "Location": "Westliches La Noscea",
+        "Level": 44,
+        "JournalSection": 4,
+        "JournalCategory": 29,
+        "JournalGenre": "\n\t\t\t\t\t\t\tNebenaufträge\n\t\t\t\t\t\t",
+        "Url": "/lodestone/playguide/db/quest/b8d4cc0234d/",
+        "Image": null,
+        "Icon": "common_repeat",
+        "Issuer": "Fyuu",
+        "StartLocation": {
+            "Name": "Westliches La Noscea",
+            "X": "17.0",
+            "Y": "22.2"
+        },
+        "StartClass": null,
+        "Job": "",
+        "Company": "Keine Angabe",
+        "Requirement": "Keine Angabe",
+        "Rewards": {
+            "Gil": 540,
+            "Exp": 9142,
+            "ItemsMand": [],
+            "ItemsOpt": []
+        },
+        "Infos": {
+            "PrevQuests": [
+                {
+                    "Name": "Novv",
+                    "Url": "/lodestone/playguide/db/npc/npc/b381ff33ab9/",
+                    "Area": "Westliches La Noscea (X:16.7 Y:22.8)"
+                }
+            ]
+        },
+        "Seq": 8,
+        "oldID": 66917,
+        "Map": {
+            "ID": 18
+        }
+    },
+    {
+        "ID": "bb50f7a4475",
+        "Name": "Waffen müssen brennen",
+        "Location": "Westliches La Noscea",
+        "Level": 46,
+        "JournalSection": 4,
+        "JournalCategory": 29,
+        "JournalGenre": "\n\t\t\t\t\t\t\tNebenaufträge\n\t\t\t\t\t\t",
+        "Url": "/lodestone/playguide/db/quest/bb50f7a4475/",
+        "Image": null,
+        "Icon": "common_repeat",
+        "Issuer": "Houu",
+        "StartLocation": {
+            "Name": "Westliches La Noscea",
+            "X": "16.5",
+            "Y": "22.5"
+        },
+        "StartClass": null,
+        "Job": "",
+        "Company": "Keine Angabe",
+        "Requirement": "Keine Angabe",
+        "Rewards": {
+            "Gil": 660,
+            "Exp": 9693,
+            "ItemsMand": [],
+            "ItemsOpt": []
+        },
+        "Infos": {},
+        "Seq": 20,
+        "oldID": 66930,
+        "Map": {
+            "ID": 18
+        }
+    },
+    {
+        "ID": "c70927cd63a",
+        "Name": "Teuflischer Grieß",
+        "Location": "Westliches La Noscea",
+        "Level": 44,
+        "JournalSection": 4,
+        "JournalCategory": 29,
+        "JournalGenre": "\n\t\t\t\t\t\t\tNebenaufträge\n\t\t\t\t\t\t",
+        "Url": "/lodestone/playguide/db/quest/c70927cd63a/",
+        "Image": null,
+        "Icon": "common_repeat",
+        "Issuer": "Fyuu",
+        "StartLocation": {
+            "Name": "Westliches La Noscea",
+            "X": "17.0",
+            "Y": "22.2"
+        },
+        "StartClass": null,
+        "Job": "",
+        "Company": "Keine Angabe",
+        "Requirement": "Keine Angabe",
+        "Rewards": {
+            "Gil": 540,
+            "Exp": 9142,
+            "ItemsMand": [],
+            "ItemsOpt": []
+        },
+        "Infos": {},
+        "Seq": 6,
+        "oldID": 66918,
+        "Map": {
+            "ID": 18
+        }
+    },
+    {
+        "ID": "d699a126ba5",
+        "Name": "Wiederbeschaffungsdienst",
+        "Location": "Westliches La Noscea",
+        "Level": 44,
+        "JournalSection": 4,
+        "JournalCategory": 29,
+        "JournalGenre": "\n\t\t\t\t\t\t\tNebenaufträge\n\t\t\t\t\t\t",
+        "Url": "/lodestone/playguide/db/quest/d699a126ba5/",
+        "Image": null,
+        "Icon": "common_repeat",
+        "Issuer": "Fyuu",
+        "StartLocation": {
+            "Name": "Westliches La Noscea",
+            "X": "17.0",
+            "Y": "22.2"
+        },
+        "StartClass": null,
+        "Job": "",
+        "Company": "Keine Angabe",
+        "Requirement": "Keine Angabe",
+        "Rewards": {
+            "Gil": 540,
+            "Exp": 9142,
+            "ItemsMand": [],
+            "ItemsOpt": []
+        },
+        "Infos": {
+            "PrevQuests": [
+                {
+                    "Name": "Pahh",
+                    "Url": "/lodestone/playguide/db/npc/npc/e1731c57a26/",
+                    "Area": "Westliches La Noscea (X:16.6 Y:21.7)"
+                }
+            ]
+        },
+        "Seq": 10,
+        "oldID": 66923,
+        "Map": {
+            "ID": 18
+        }
+    },
+    {
+        "ID": "db63cc7f527",
+        "Name": "Flaggen müssen brennen",
+        "Location": "Westliches La Noscea",
+        "Level": 44,
+        "JournalSection": 4,
+        "JournalCategory": 29,
+        "JournalGenre": "\n\t\t\t\t\t\t\tNebenaufträge\n\t\t\t\t\t\t",
+        "Url": "/lodestone/playguide/db/quest/db63cc7f527/",
+        "Image": null,
+        "Icon": "common_repeat",
+        "Issuer": "Fyuu",
+        "StartLocation": {
+            "Name": "Westliches La Noscea",
+            "X": "17.0",
+            "Y": "22.2"
+        },
+        "StartClass": null,
+        "Job": "",
+        "Company": "Keine Angabe",
+        "Requirement": "Keine Angabe",
+        "Rewards": {
+            "Gil": 540,
+            "Exp": 9142,
+            "ItemsMand": [],
+            "ItemsOpt": []
+        },
+        "Infos": {},
+        "Seq": 5,
+        "oldID": 66916,
+        "Map": {
+            "ID": 18
+        }
+    },
+    {
+        "ID": "dba9f4fbec1",
+        "Name": "Gekaperte Soldaten",
+        "Location": "Westliches La Noscea",
+        "Level": 48,
+        "JournalSection": 4,
+        "JournalCategory": 29,
+        "JournalGenre": "\n\t\t\t\t\t\t\tNebenaufträge\n\t\t\t\t\t\t",
+        "Url": "/lodestone/playguide/db/quest/dba9f4fbec1/",
+        "Image": null,
+        "Icon": "common_repeat",
+        "Issuer": "Seww",
+        "StartLocation": {
+            "Name": "Westliches La Noscea",
+            "X": "16.9",
+            "Y": "22.6"
+        },
+        "StartClass": null,
+        "Job": "",
+        "Company": "Keine Angabe",
+        "Requirement": "Keine Angabe",
+        "Rewards": {
+            "Gil": 780,
+            "Exp": 10473,
+            "ItemsMand": [],
+            "ItemsOpt": [
+                {
+                    "Icon": "https://img.finalfantasyxiv.com/lds/pc/global/images/itemicon/06/06bd35b3df19cbc5d80eed3ed99c67a366c835aa.png?n5.5",
+                    "Name": "Hellseher-Materia IV",
+                    "Amount": 1,
+                    "Url": "/lodestone/playguide/db/item/93fe1786b70/"
+                },
+                {
+                    "Icon": "https://img.finalfantasyxiv.com/lds/pc/global/images/itemicon/06/06bd35b3df19cbc5d80eed3ed99c67a366c835aa.png?n5.5",
+                    "Name": "Assassinen-Materia IV",
+                    "Amount": 1,
+                    "Url": "/lodestone/playguide/db/item/1bc25f58180/"
+                },
+                {
+                    "Icon": "https://img.finalfantasyxiv.com/lds/pc/global/images/itemicon/60/6072436b0c90d22b6a9d7da93f356256a04be53d.png?n5.5",
+                    "Name": "Kampf-Materia IV",
+                    "Amount": 1,
+                    "Url": "/lodestone/playguide/db/item/1162b3fcc58/"
+                }
+            ]
+        },
+        "Infos": {
+            "PrevQuests": [
+                {
+                    "Name": "Gekaperter Soldat",
+                    "Url": "/lodestone/playguide/db/npc/npc/18b0de1849e/",
+                    "Area": "Westliches La Noscea (X:5.0 Y:40.9)"
+                },
+                {
+                    "Name": "Gekaperter Soldat",
+                    "Url": "/lodestone/playguide/db/npc/npc/32156506014/",
+                    "Area": "Westliches La Noscea (X:5.5 Y:40.9)"
+                },
+                {
+                    "Name": "Gekaperter Soldat",
+                    "Url": "/lodestone/playguide/db/npc/npc/3ef9843b3ec/",
+                    "Area": "Westliches La Noscea (X:4.5 Y:40.7)"
+                },
+                {
+                    "Name": "Gekaperter Soldat",
+                    "Url": "/lodestone/playguide/db/npc/npc/e5870c86f6f/",
+                    "Area": "Westliches La Noscea (X:4.2 Y:40.8)"
+                },
+                {
+                    "Name": "Pahh",
+                    "Url": "/lodestone/playguide/db/npc/npc/e1731c57a26/",
+                    "Area": "Westliches La Noscea (X:16.6 Y:21.7)"
+                }
+            ]
+        },
+        "Seq": 32,
+        "oldID": 66943,
+        "Map": {
+            "ID": 18
+        }
+    },
+    {
+        "ID": "e37a5e4c8ca",
+        "Name": "Schwer gezeichnet",
+        "Location": "Westliches La Noscea",
+        "Level": 48,
+        "JournalSection": 4,
+        "JournalCategory": 29,
+        "JournalGenre": "\n\t\t\t\t\t\t\tNebenaufträge\n\t\t\t\t\t\t",
+        "Url": "/lodestone/playguide/db/quest/e37a5e4c8ca/",
+        "Image": null,
+        "Icon": "common_repeat",
+        "Issuer": "Seww",
+        "StartLocation": {
+            "Name": "Westliches La Noscea",
+            "X": "16.9",
+            "Y": "22.6"
+        },
+        "StartClass": null,
+        "Job": "",
+        "Company": "Keine Angabe",
+        "Requirement": "Keine Angabe",
+        "Rewards": {
+            "Gil": 780,
+            "Exp": 10473,
+            "ItemsMand": [],
+            "ItemsOpt": [
+                {
+                    "Icon": "https://img.finalfantasyxiv.com/lds/pc/global/images/itemicon/06/06bd35b3df19cbc5d80eed3ed99c67a366c835aa.png?n5.5",
+                    "Name": "Strategen-Materia IV",
+                    "Amount": 1,
+                    "Url": "/lodestone/playguide/db/item/dce3a5f3467/"
+                },
+                {
+                    "Icon": "https://img.finalfantasyxiv.com/lds/pc/global/images/itemicon/59/591709d485ebd155ba018c8cd773fe3c662caed3.png?n5.5",
+                    "Name": "Fechtkunst-Materia IV",
+                    "Amount": 1,
+                    "Url": "/lodestone/playguide/db/item/37f25043bf3/"
+                },
+                {
+                    "Icon": "https://img.finalfantasyxiv.com/lds/pc/global/images/itemicon/60/6072436b0c90d22b6a9d7da93f356256a04be53d.png?n5.5",
+                    "Name": "Kampf-Materia IV",
+                    "Amount": 1,
+                    "Url": "/lodestone/playguide/db/item/1162b3fcc58/"
+                }
+            ]
+        },
+        "Infos": {},
+        "Seq": 34,
+        "oldID": 66945,
+        "Map": {
+            "ID": 18
+        }
+    },
+    {
+        "ID": "e5a9990b5b6",
+        "Name": "Anführer der Wasserflöhe",
+        "Location": "Westliches La Noscea",
+        "Level": 48,
+        "JournalSection": 4,
+        "JournalCategory": 29,
+        "JournalGenre": "\n\t\t\t\t\t\t\tNebenaufträge\n\t\t\t\t\t\t",
+        "Url": "/lodestone/playguide/db/quest/e5a9990b5b6/",
+        "Image": null,
+        "Icon": "common_repeat",
+        "Issuer": "Seww",
+        "StartLocation": {
+            "Name": "Westliches La Noscea",
+            "X": "16.9",
+            "Y": "22.6"
+        },
+        "StartClass": null,
+        "Job": "",
+        "Company": "Keine Angabe",
+        "Requirement": "Keine Angabe",
+        "Rewards": {
+            "Gil": 780,
+            "Exp": 10473,
+            "ItemsMand": [],
+            "ItemsOpt": [
+                {
+                    "Icon": "https://img.finalfantasyxiv.com/lds/pc/global/images/itemicon/59/591709d485ebd155ba018c8cd773fe3c662caed3.png?n5.5",
+                    "Name": "Frömmigkeits-Materia IV",
+                    "Amount": 1,
+                    "Url": "/lodestone/playguide/db/item/905d47601dd/"
+                },
+                {
+                    "Icon": "https://img.finalfantasyxiv.com/lds/pc/global/images/itemicon/59/591709d485ebd155ba018c8cd773fe3c662caed3.png?n5.5",
+                    "Name": "Fechtkunst-Materia IV",
+                    "Amount": 1,
+                    "Url": "/lodestone/playguide/db/item/37f25043bf3/"
+                },
+                {
+                    "Icon": "https://img.finalfantasyxiv.com/lds/pc/global/images/itemicon/60/6072436b0c90d22b6a9d7da93f356256a04be53d.png?n5.5",
+                    "Name": "Kampf-Materia IV",
+                    "Amount": 1,
+                    "Url": "/lodestone/playguide/db/item/1162b3fcc58/"
+                }
+            ]
+        },
+        "Infos": {},
+        "Seq": 25,
+        "oldID": 66936,
+        "Map": {
+            "ID": 18
+        }
+    },
+    {
+        "ID": "f6cfe116e17",
+        "Name": "Sie kamen aus der Tiefe",
+        "Location": "Limsa Lominsa",
+        "Level": 44,
+        "JournalSection": 4,
+        "JournalCategory": 29,
+        "JournalGenre": "\n\t\t\t\t\t\t\tHauptaufträge\n\t\t\t\t\t\t",
+        "Url": "/lodestone/playguide/db/quest/f6cfe116e17/",
+        "Image": "https://img.finalfantasyxiv.com/lds/pc/global/images/itemicon/fb/fb1a481c27de5b350b4e441076478481313136fd.png?n5.5",
+        "Icon": "function_normal",
+        "Issuer": "R'ashaht Rhiki",
+        "StartLocation": {
+            "Name": "Obere Decks",
+            "X": "13.1",
+            "Y": "12.8"
+        },
+        "StartClass": null,
+        "Job": "",
+        "Company": "Keine Angabe",
+        "Requirement": "Keine Angabe",
+        "Rewards": {
+            "Gil": 729,
+            "Exp": 12190,
+            "ItemsMand": [],
+            "ItemsOpt": []
+        },
+        "Infos": {
+            "PrevQuests": [
+                {
+                    "Name": "Der Drache der Steinernen Wacht",
+                    "Url": "/lodestone/playguide/db/quest/4bb6ef83f13/",
+                    "Area": "Zentrales Hochland von Coerthas",
+                    "Level": "41"
+                }
+            ],
+            "NextQuests": [
+                {
+                    "Name": "Klein, aber oho!",
+                    "Url": "/lodestone/playguide/db/quest/5f36f9fc938/",
+                    "Area": "Westliches La Noscea",
+                    "Level": "44"
+                }
+            ],
+            "NPCs": [
+                {
+                    "Name": "Junger Sahagin",
+                    "Url": "/lodestone/playguide/db/npc/npc/f3b8da9fc0e/",
+                    "Area": "Westliches La Noscea (X:17.3 Y:21.9)"
+                },
+                {
+                    "Name": "Novv",
+                    "Url": "/lodestone/playguide/db/npc/npc/b381ff33ab9/",
+                    "Area": "Westliches La Noscea (X:16.7 Y:22.8)"
+                },
+                {
+                    "Name": "Erschöpfte Schiffbrüchige",
+                    "Url": "/lodestone/playguide/db/npc/npc/a867e85839e/",
+                    "Area": "Östliches La Noscea (X:31.6 Y:26.6)"
+                },
+                {
+                    "Name": "Erschöpfter Schiffbrüchiger",
+                    "Url": "/lodestone/playguide/db/npc/npc/abfc98cc1a6/",
+                    "Area": "Östliches La Noscea (X:31.7 Y:26.5)"
+                },
+                {
+                    "Name": "Robyn",
+                    "Url": "/lodestone/playguide/db/npc/npc/912ca202485/",
+                    "Area": "Östliches La Noscea (X:31.6 Y:26.4)"
+                },
+                {
+                    "Name": "Verletzter Schiffbrüchiger",
+                    "Url": "/lodestone/playguide/db/npc/npc/b8f8193917d/",
+                    "Area": "Östliches La Noscea (X:31.4 Y:26.3)"
+                },
+                {
+                    "Name": "Verletzter Schiffbrüchiger",
+                    "Url": "/lodestone/playguide/db/npc/npc/1a54756b906/",
+                    "Area": "Östliches La Noscea (X:31.8 Y:26.3)"
+                },
+                {
+                    "Name": "Verunglückte Frau",
+                    "Url": "/lodestone/playguide/db/npc/npc/24bb3ebcad7/",
+                    "Area": "Östliches La Noscea (X:31.6 Y:26.4)"
+                },
+                {
+                    "Name": "Verunglückte Frau",
+                    "Url": "/lodestone/playguide/db/npc/npc/2925cd3ccba/",
+                    "Area": "Östliches La Noscea (X:31.6 Y:26.4)"
+                },
+                {
+                    "Name": "Wiltfalk",
+                    "Url": "/lodestone/playguide/db/npc/npc/b73cf2d4186/",
+                    "Area": "Östliches La Noscea (X:31.6 Y:26.5)"
+                }
+            ]
+        },
+        "Seq": 33,
+        "oldID": 66910,
+        "Map": {
+            "ID": 11
+        }
+    },
+    {
+        "ID": "fcd897d8044",
+        "Name": "Waffen aus der Tiefe",
+        "Location": "Westliches La Noscea",
+        "Level": 46,
+        "JournalSection": 4,
+        "JournalCategory": 29,
+        "JournalGenre": "\n\t\t\t\t\t\t\tNebenaufträge\n\t\t\t\t\t\t",
+        "Url": "/lodestone/playguide/db/quest/fcd897d8044/",
+        "Image": null,
+        "Icon": "common_repeat",
+        "Issuer": "Houu",
+        "StartLocation": {
+            "Name": "Westliches La Noscea",
+            "X": "16.5",
+            "Y": "22.5"
+        },
+        "StartClass": null,
+        "Job": "",
+        "Company": "Keine Angabe",
+        "Requirement": "Keine Angabe",
+        "Rewards": {
+            "Gil": 660,
+            "Exp": 9693,
+            "ItemsMand": [],
+            "ItemsOpt": []
+        },
+        "Infos": {},
+        "Seq": 19,
+        "oldID": 66929,
+        "Map": {
+            "ID": 18
+        }
+    }
+]

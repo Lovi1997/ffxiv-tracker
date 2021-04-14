@@ -1,0 +1,824 @@
+[
+    {
+        "ID": "0262fe02207",
+        "Name": "Die Hohe Jagd (Legion)",
+        "Location": "Ul'dah",
+        "Level": 50,
+        "JournalSection": 7,
+        "JournalCategory": 64,
+        "JournalGenre": "\n\t\t\t\t\t\t\tAufträge der Legion der Unsterblichen\n\t\t\t\t\t\t",
+        "Url": "/lodestone/playguide/db/quest/0262fe02207/",
+        "Image": null,
+        "Icon": "function_normal",
+        "Issuer": "Mimio",
+        "StartLocation": {
+            "Name": "Nald-Kreuzgang",
+            "X": "8.6",
+            "Y": "9.4"
+        },
+        "StartClass": null,
+        "Job": "",
+        "Company": "Legion der Unsterblichen / Ab Zweiter Legionsfähnrich",
+        "Requirement": "Keine Angabe",
+        "Rewards": {
+            "Gil": 433,
+            "Exp": 0,
+            "ItemsMand": [],
+            "ItemsOpt": []
+        },
+        "Infos": {
+            "PrevQuests": [
+                {
+                    "Name": "Hohe Jagd im Hohen Land 1",
+                    "Url": "/lodestone/playguide/db/quest/78b452d40d8/",
+                    "Area": "Ishgard",
+                    "Level": "53"
+                }
+            ],
+            "NextQuests": [
+                {
+                    "Name": "Jagdmeister",
+                    "Url": "/lodestone/playguide/db/shop/6d49026aada/",
+                    "Area": "Nald-Kreuzgang (X:8.1 Y:9.3)"
+                }
+            ]
+        },
+        "Seq": 14,
+        "oldID": 67101,
+        "Map": {
+            "ID": 13
+        }
+    },
+    {
+        "ID": "060f297c073",
+        "Name": "Lange Schatten (Legion der Unsterblichen)",
+        "Location": "Ul'dah",
+        "Level": 44,
+        "JournalSection": 7,
+        "JournalCategory": 64,
+        "JournalGenre": "\n\t\t\t\t\t\t\tAufträge der Legion der Unsterblichen\n\t\t\t\t\t\t",
+        "Url": "/lodestone/playguide/db/quest/060f297c073/",
+        "Image": null,
+        "Icon": "function_normal",
+        "Issuer": "Swift",
+        "StartLocation": {
+            "Name": "Nald-Kreuzgang",
+            "X": "8.4",
+            "Y": "8.9"
+        },
+        "StartClass": null,
+        "Job": "",
+        "Company": "Legion der Unsterblichen / Ab Legionsgefreiter 1. Klasse",
+        "Requirement": "Keine Angabe",
+        "Rewards": {
+            "Gil": 0,
+            "Exp": 12190,
+            "ItemsMand": [],
+            "ItemsOpt": []
+        },
+        "Infos": {
+            "PrevQuests": [
+                {
+                    "Name": "Doppelmoral (Legion der Unsterblichen)",
+                    "Url": "/lodestone/playguide/db/quest/f664c7268d9/",
+                    "Area": "Ul'dah",
+                    "Level": "47"
+                }
+            ],
+            "NextQuests": [
+                {
+                    "Name": "Ophelie",
+                    "Url": "/lodestone/playguide/db/npc/npc/30d183edf50/",
+                    "Area": "Zentrales Hochland von Coerthas (X:19.8 Y:27.8)"
+                }
+            ]
+        },
+        "Seq": 12,
+        "oldID": 66666,
+        "Map": {
+            "ID": 13
+        }
+    },
+    {
+        "ID": "200309855fa",
+        "Name": "Doppelmoral (Mahlstrom)",
+        "Location": "Limsa Lominsa",
+        "Level": 47,
+        "JournalSection": 7,
+        "JournalCategory": 64,
+        "JournalGenre": "\n\t\t\t\t\t\t\tAufträge des Mahlstroms\n\t\t\t\t\t\t",
+        "Url": "/lodestone/playguide/db/quest/200309855fa/",
+        "Image": null,
+        "Icon": "function_normal",
+        "Issuer": "R'ashaht Rhiki",
+        "StartLocation": {
+            "Name": "Obere Decks",
+            "X": "13.1",
+            "Y": "12.8"
+        },
+        "StartClass": null,
+        "Job": "",
+        "Company": "Mahlstrom / Ab Großsturmmaat",
+        "Requirement": "Keine Angabe",
+        "Rewards": {
+            "Gil": 0,
+            "Exp": 0,
+            "ItemsMand": [],
+            "ItemsOpt": []
+        },
+        "Infos": {
+            "PrevQuests": [
+                {
+                    "Name": "Lange Schatten (Mahlstrom)",
+                    "Url": "/lodestone/playguide/db/quest/b08d7bf6a75/",
+                    "Area": "Limsa Lominsa",
+                    "Level": "44"
+                }
+            ],
+            "NextQuests": [
+                {
+                    "Name": "Willielmus",
+                    "Url": "/lodestone/playguide/db/npc/npc/33cebbdc2f4/",
+                    "Area": "Zentrales Hochland von Coerthas (X:14.3 Y:35.3)"
+                }
+            ]
+        },
+        "Seq": 3,
+        "oldID": 66667,
+        "Map": {
+            "ID": 11
+        }
+    },
+    {
+        "ID": "2d4ab5f47e9",
+        "Name": "Fronteinsatz (Mahlstrom)",
+        "Location": "Limsa Lominsa",
+        "Level": 30,
+        "JournalSection": 7,
+        "JournalCategory": 64,
+        "JournalGenre": "\n\t\t\t\t\t\t\tAufträge des Mahlstroms\n\t\t\t\t\t\t",
+        "Url": "/lodestone/playguide/db/quest/2d4ab5f47e9/",
+        "Image": "https://img.finalfantasyxiv.com/lds/pc/global/images/itemicon/f1/f1d02380c19b2ce4e01253692d947e4a7eaa6b53.png?n5.5",
+        "Icon": "function_normal",
+        "Issuer": "Trachraet",
+        "StartLocation": {
+            "Name": "Obere Decks",
+            "X": "12.7",
+            "Y": "12.8"
+        },
+        "StartClass": null,
+        "Job": "",
+        "Company": "Mahlstrom",
+        "Requirement": "Keine Angabe",
+        "Rewards": {
+            "Gil": 367,
+            "Exp": 0,
+            "ItemsMand": [],
+            "ItemsOpt": []
+        },
+        "Infos": {
+            "PrevQuests": [
+                {
+                    "Name": "Weg des Leidens (Mahlstrom)",
+                    "Url": "/lodestone/playguide/db/quest/f77f912eeff/",
+                    "Area": "Limsa Lominsa",
+                    "Level": "30"
+                },
+                {
+                    "Name": "Weg des Leidens (Bruderschaft der Morgenviper)",
+                    "Url": "/lodestone/playguide/db/quest/d8fe24a2b5d/",
+                    "Area": "Gridania",
+                    "Level": "30"
+                },
+                {
+                    "Name": "Weg des Leidens (Legion der Unsterblichen)",
+                    "Url": "/lodestone/playguide/db/quest/d2c5aac1de8/",
+                    "Area": "Ul'dah",
+                    "Level": "30"
+                }
+            ],
+            "NextQuests": [
+                {
+                    "Name": "Luftschiffoffizier",
+                    "Url": "/lodestone/playguide/db/npc/npc/3bff95c99de/",
+                    "Area": "Obere Decks (X:10.8 Y:11.2)"
+                }
+            ]
+        },
+        "Seq": 1,
+        "oldID": 67064,
+        "Map": {
+            "ID": 11
+        }
+    },
+    {
+        "ID": "32c7488b0f1",
+        "Name": "Die Hohe Jagd (Bruderschaft)",
+        "Location": "Gridania",
+        "Level": 50,
+        "JournalSection": 7,
+        "JournalCategory": 64,
+        "JournalGenre": "\n\t\t\t\t\t\t\tAufträge der Bruderschaft der Morgenviper\n\t\t\t\t\t\t",
+        "Url": "/lodestone/playguide/db/quest/32c7488b0f1/",
+        "Image": null,
+        "Icon": "function_normal",
+        "Issuer": "Scarlet",
+        "StartLocation": {
+            "Name": "Neu-Gridania",
+            "X": "9.9",
+            "Y": "11.4"
+        },
+        "StartClass": null,
+        "Job": "",
+        "Company": "Bruderschaft der Morgenviper / Ab Zweiter Schlangenpriester",
+        "Requirement": "Keine Angabe",
+        "Rewards": {
+            "Gil": 433,
+            "Exp": 0,
+            "ItemsMand": [],
+            "ItemsOpt": []
+        },
+        "Infos": {
+            "PrevQuests": [
+                {
+                    "Name": "Hohe Jagd im Hohen Land 1",
+                    "Url": "/lodestone/playguide/db/quest/78b452d40d8/",
+                    "Area": "Ishgard",
+                    "Level": "53"
+                }
+            ],
+            "NextQuests": [
+                {
+                    "Name": "Jagdmeister",
+                    "Url": "/lodestone/playguide/db/shop/3a4229b9b91/",
+                    "Area": "Neu-Gridania (X:9.7 Y:11.3)"
+                }
+            ]
+        },
+        "Seq": 9,
+        "oldID": 67099,
+        "Map": {
+            "ID": 2
+        }
+    },
+    {
+        "ID": "363811b27b4",
+        "Name": "Die Hohe Jagd (Mahlstrom)",
+        "Location": "Limsa Lominsa",
+        "Level": 50,
+        "JournalSection": 7,
+        "JournalCategory": 64,
+        "JournalGenre": "\n\t\t\t\t\t\t\tAufträge des Mahlstroms\n\t\t\t\t\t\t",
+        "Url": "/lodestone/playguide/db/quest/363811b27b4/",
+        "Image": null,
+        "Icon": "function_normal",
+        "Issuer": "Trachraet",
+        "StartLocation": {
+            "Name": "Obere Decks",
+            "X": "12.7",
+            "Y": "12.8"
+        },
+        "StartClass": null,
+        "Job": "",
+        "Company": "Mahlstrom / Ab Zweiter Sturmbootsmann",
+        "Requirement": "Keine Angabe",
+        "Rewards": {
+            "Gil": 433,
+            "Exp": 0,
+            "ItemsMand": [],
+            "ItemsOpt": []
+        },
+        "Infos": {
+            "PrevQuests": [
+                {
+                    "Name": "Hohe Jagd im Hohen Land 1",
+                    "Url": "/lodestone/playguide/db/quest/78b452d40d8/",
+                    "Area": "Ishgard",
+                    "Level": "53"
+                }
+            ],
+            "NextQuests": [
+                {
+                    "Name": "Jagdmeister",
+                    "Url": "/lodestone/playguide/db/shop/ed586fa817a/",
+                    "Area": "Obere Decks (X:13.1 Y:12.4)"
+                }
+            ]
+        },
+        "Seq": 4,
+        "oldID": 67100,
+        "Map": {
+            "ID": 11
+        }
+    },
+    {
+        "ID": "57a8adf321a",
+        "Name": "Lange Schatten (Bruderschaft der Morgenviper)",
+        "Location": "Gridania",
+        "Level": 44,
+        "JournalSection": 7,
+        "JournalCategory": 64,
+        "JournalGenre": "\n\t\t\t\t\t\t\tAufträge der Bruderschaft der Morgenviper\n\t\t\t\t\t\t",
+        "Url": "/lodestone/playguide/db/quest/57a8adf321a/",
+        "Image": null,
+        "Icon": "function_normal",
+        "Issuer": "Vorsaile Heuloix",
+        "StartLocation": {
+            "Name": "Neu-Gridania",
+            "X": "9.7",
+            "Y": "11.1"
+        },
+        "StartClass": null,
+        "Job": "",
+        "Company": "Bruderschaft der Morgenviper / Ab Erster Schlangenjünger",
+        "Requirement": "Keine Angabe",
+        "Rewards": {
+            "Gil": 0,
+            "Exp": 12190,
+            "ItemsMand": [],
+            "ItemsOpt": []
+        },
+        "Infos": {
+            "PrevQuests": [
+                {
+                    "Name": "Doppelmoral (Bruderschaft der Morgenviper)",
+                    "Url": "/lodestone/playguide/db/quest/f90014ba7be/",
+                    "Area": "Gridania",
+                    "Level": "47"
+                }
+            ],
+            "NextQuests": [
+                {
+                    "Name": "Ophelie",
+                    "Url": "/lodestone/playguide/db/npc/npc/30d183edf50/",
+                    "Area": "Zentrales Hochland von Coerthas (X:19.8 Y:27.8)"
+                }
+            ]
+        },
+        "Seq": 7,
+        "oldID": 66665,
+        "Map": {
+            "ID": 2
+        }
+    },
+    {
+        "ID": "60d4d077629",
+        "Name": "Fronteinsatz (Legion)",
+        "Location": "Ul'dah",
+        "Level": 30,
+        "JournalSection": 7,
+        "JournalCategory": 64,
+        "JournalGenre": "\n\t\t\t\t\t\t\tAufträge der Legion der Unsterblichen\n\t\t\t\t\t\t",
+        "Url": "/lodestone/playguide/db/quest/60d4d077629/",
+        "Image": "https://img.finalfantasyxiv.com/lds/pc/global/images/itemicon/f1/f1d02380c19b2ce4e01253692d947e4a7eaa6b53.png?n5.5",
+        "Icon": "function_normal",
+        "Issuer": "Mimio",
+        "StartLocation": {
+            "Name": "Nald-Kreuzgang",
+            "X": "8.6",
+            "Y": "9.4"
+        },
+        "StartClass": null,
+        "Job": "",
+        "Company": "Legion der Unsterblichen",
+        "Requirement": "Keine Angabe",
+        "Rewards": {
+            "Gil": 367,
+            "Exp": 0,
+            "ItemsMand": [],
+            "ItemsOpt": []
+        },
+        "Infos": {
+            "PrevQuests": [
+                {
+                    "Name": "Weg des Leidens (Mahlstrom)",
+                    "Url": "/lodestone/playguide/db/quest/f77f912eeff/",
+                    "Area": "Limsa Lominsa",
+                    "Level": "30"
+                },
+                {
+                    "Name": "Weg des Leidens (Bruderschaft der Morgenviper)",
+                    "Url": "/lodestone/playguide/db/quest/d8fe24a2b5d/",
+                    "Area": "Gridania",
+                    "Level": "30"
+                },
+                {
+                    "Name": "Weg des Leidens (Legion der Unsterblichen)",
+                    "Url": "/lodestone/playguide/db/quest/d2c5aac1de8/",
+                    "Area": "Ul'dah",
+                    "Level": "30"
+                }
+            ],
+            "NextQuests": [
+                {
+                    "Name": "Luftschiffoffizier",
+                    "Url": "/lodestone/playguide/db/npc/npc/d6e0ac63eca/",
+                    "Area": "Nald-Kreuzgang (X:10.5 Y:11.0)"
+                }
+            ]
+        },
+        "Seq": 11,
+        "oldID": 67065,
+        "Map": {
+            "ID": 13
+        }
+    },
+    {
+        "ID": "b08d7bf6a75",
+        "Name": "Lange Schatten (Mahlstrom)",
+        "Location": "Limsa Lominsa",
+        "Level": 44,
+        "JournalSection": 7,
+        "JournalCategory": 64,
+        "JournalGenre": "\n\t\t\t\t\t\t\tAufträge des Mahlstroms\n\t\t\t\t\t\t",
+        "Url": "/lodestone/playguide/db/quest/b08d7bf6a75/",
+        "Image": null,
+        "Icon": "function_normal",
+        "Issuer": "R'ashaht Rhiki",
+        "StartLocation": {
+            "Name": "Obere Decks",
+            "X": "13.1",
+            "Y": "12.8"
+        },
+        "StartClass": null,
+        "Job": "",
+        "Company": "Mahlstrom / Ab Sturmmaat 1. Klasse",
+        "Requirement": "Keine Angabe",
+        "Rewards": {
+            "Gil": 0,
+            "Exp": 12190,
+            "ItemsMand": [],
+            "ItemsOpt": []
+        },
+        "Infos": {
+            "PrevQuests": [
+                {
+                    "Name": "Doppelmoral (Mahlstrom)",
+                    "Url": "/lodestone/playguide/db/quest/200309855fa/",
+                    "Area": "Limsa Lominsa",
+                    "Level": "47"
+                }
+            ],
+            "NextQuests": [
+                {
+                    "Name": "Ophelie",
+                    "Url": "/lodestone/playguide/db/npc/npc/30d183edf50/",
+                    "Area": "Zentrales Hochland von Coerthas (X:19.8 Y:27.8)"
+                }
+            ]
+        },
+        "Seq": 2,
+        "oldID": 66664,
+        "Map": {
+            "ID": 11
+        }
+    },
+    {
+        "ID": "d2c5aac1de8",
+        "Name": "Weg des Leidens (Legion der Unsterblichen)",
+        "Location": "Ul'dah",
+        "Level": 30,
+        "JournalSection": 7,
+        "JournalCategory": 64,
+        "JournalGenre": "\n\t\t\t\t\t\t\tAufträge der Legion der Unsterblichen\n\t\t\t\t\t\t",
+        "Url": "/lodestone/playguide/db/quest/d2c5aac1de8/",
+        "Image": "https://img.finalfantasyxiv.com/lds/pc/global/images/itemicon/e6/e67450ebd0b3cfc2d181d2e5c19451379ef5f9cd.png?n5.5",
+        "Icon": "function_normal",
+        "Issuer": "Swift",
+        "StartLocation": {
+            "Name": "Nald-Kreuzgang",
+            "X": "8.4",
+            "Y": "8.9"
+        },
+        "StartClass": null,
+        "Job": "",
+        "Company": "Legion der Unsterblichen",
+        "Requirement": "Keine Angabe",
+        "Rewards": {
+            "Gil": 0,
+            "Exp": 0,
+            "ItemsMand": [],
+            "ItemsOpt": []
+        },
+        "Infos": {
+            "PrevQuests": [
+                {
+                    "Name": "Fronteinsatz (Mahlstrom)",
+                    "Url": "/lodestone/playguide/db/quest/2d4ab5f47e9/",
+                    "Area": "Limsa Lominsa",
+                    "Level": "30"
+                },
+                {
+                    "Name": "Fronteinsatz (Bruderschaft)",
+                    "Url": "/lodestone/playguide/db/quest/f7e72afa88e/",
+                    "Area": "Gridania",
+                    "Level": "30"
+                },
+                {
+                    "Name": "Fronteinsatz (Legion)",
+                    "Url": "/lodestone/playguide/db/quest/60d4d077629/",
+                    "Area": "Ul'dah",
+                    "Level": "30"
+                }
+            ],
+            "NextQuests": [
+                {
+                    "Name": "Berkoeya",
+                    "Url": "/lodestone/playguide/db/npc/npc/37b35647257/",
+                    "Area": "Wolfshöhlen-Pier (X:4.5 Y:5.5)"
+                }
+            ]
+        },
+        "Seq": 10,
+        "oldID": 66642,
+        "Map": {
+            "ID": 13
+        }
+    },
+    {
+        "ID": "d8fe24a2b5d",
+        "Name": "Weg des Leidens (Bruderschaft der Morgenviper)",
+        "Location": "Gridania",
+        "Level": 30,
+        "JournalSection": 7,
+        "JournalCategory": 64,
+        "JournalGenre": "\n\t\t\t\t\t\t\tAufträge der Bruderschaft der Morgenviper\n\t\t\t\t\t\t",
+        "Url": "/lodestone/playguide/db/quest/d8fe24a2b5d/",
+        "Image": "https://img.finalfantasyxiv.com/lds/pc/global/images/itemicon/e6/e67450ebd0b3cfc2d181d2e5c19451379ef5f9cd.png?n5.5",
+        "Icon": "function_normal",
+        "Issuer": "Vorsaile Heuloix",
+        "StartLocation": {
+            "Name": "Neu-Gridania",
+            "X": "9.7",
+            "Y": "11.1"
+        },
+        "StartClass": null,
+        "Job": "",
+        "Company": "Bruderschaft der Morgenviper",
+        "Requirement": "Keine Angabe",
+        "Rewards": {
+            "Gil": 0,
+            "Exp": 0,
+            "ItemsMand": [],
+            "ItemsOpt": []
+        },
+        "Infos": {
+            "PrevQuests": [
+                {
+                    "Name": "Fronteinsatz (Mahlstrom)",
+                    "Url": "/lodestone/playguide/db/quest/2d4ab5f47e9/",
+                    "Area": "Limsa Lominsa",
+                    "Level": "30"
+                },
+                {
+                    "Name": "Fronteinsatz (Bruderschaft)",
+                    "Url": "/lodestone/playguide/db/quest/f7e72afa88e/",
+                    "Area": "Gridania",
+                    "Level": "30"
+                },
+                {
+                    "Name": "Fronteinsatz (Legion)",
+                    "Url": "/lodestone/playguide/db/quest/60d4d077629/",
+                    "Area": "Ul'dah",
+                    "Level": "30"
+                }
+            ],
+            "NextQuests": [
+                {
+                    "Name": "Berkoeya",
+                    "Url": "/lodestone/playguide/db/npc/npc/37b35647257/",
+                    "Area": "Wolfshöhlen-Pier (X:4.5 Y:5.5)"
+                }
+            ]
+        },
+        "Seq": 5,
+        "oldID": 66641,
+        "Map": {
+            "ID": 2
+        }
+    },
+    {
+        "ID": "f664c7268d9",
+        "Name": "Doppelmoral (Legion der Unsterblichen)",
+        "Location": "Ul'dah",
+        "Level": 47,
+        "JournalSection": 7,
+        "JournalCategory": 64,
+        "JournalGenre": "\n\t\t\t\t\t\t\tAufträge der Legion der Unsterblichen\n\t\t\t\t\t\t",
+        "Url": "/lodestone/playguide/db/quest/f664c7268d9/",
+        "Image": null,
+        "Icon": "function_normal",
+        "Issuer": "Swift",
+        "StartLocation": {
+            "Name": "Nald-Kreuzgang",
+            "X": "8.4",
+            "Y": "8.9"
+        },
+        "StartClass": null,
+        "Job": "",
+        "Company": "Legion der Unsterblichen / Ab Phönixgefreiter",
+        "Requirement": "Keine Angabe",
+        "Rewards": {
+            "Gil": 0,
+            "Exp": 0,
+            "ItemsMand": [],
+            "ItemsOpt": []
+        },
+        "Infos": {
+            "PrevQuests": [
+                {
+                    "Name": "Lange Schatten (Legion der Unsterblichen)",
+                    "Url": "/lodestone/playguide/db/quest/060f297c073/",
+                    "Area": "Ul'dah",
+                    "Level": "44"
+                }
+            ],
+            "NextQuests": [
+                {
+                    "Name": "Willielmus",
+                    "Url": "/lodestone/playguide/db/npc/npc/33cebbdc2f4/",
+                    "Area": "Zentrales Hochland von Coerthas (X:14.3 Y:35.3)"
+                }
+            ]
+        },
+        "Seq": 13,
+        "oldID": 66669,
+        "Map": {
+            "ID": 13
+        }
+    },
+    {
+        "ID": "f77f912eeff",
+        "Name": "Weg des Leidens (Mahlstrom)",
+        "Location": "Limsa Lominsa",
+        "Level": 30,
+        "JournalSection": 7,
+        "JournalCategory": 64,
+        "JournalGenre": "\n\t\t\t\t\t\t\tAufträge des Mahlstroms\n\t\t\t\t\t\t",
+        "Url": "/lodestone/playguide/db/quest/f77f912eeff/",
+        "Image": "https://img.finalfantasyxiv.com/lds/pc/global/images/itemicon/e6/e67450ebd0b3cfc2d181d2e5c19451379ef5f9cd.png?n5.5",
+        "Icon": "function_normal",
+        "Issuer": "R'ashaht Rhiki",
+        "StartLocation": {
+            "Name": "Obere Decks",
+            "X": "13.1",
+            "Y": "12.8"
+        },
+        "StartClass": null,
+        "Job": "",
+        "Company": "Mahlstrom",
+        "Requirement": "Keine Angabe",
+        "Rewards": {
+            "Gil": 0,
+            "Exp": 0,
+            "ItemsMand": [],
+            "ItemsOpt": []
+        },
+        "Infos": {
+            "PrevQuests": [
+                {
+                    "Name": "Fronteinsatz (Mahlstrom)",
+                    "Url": "/lodestone/playguide/db/quest/2d4ab5f47e9/",
+                    "Area": "Limsa Lominsa",
+                    "Level": "30"
+                },
+                {
+                    "Name": "Fronteinsatz (Bruderschaft)",
+                    "Url": "/lodestone/playguide/db/quest/f7e72afa88e/",
+                    "Area": "Gridania",
+                    "Level": "30"
+                },
+                {
+                    "Name": "Fronteinsatz (Legion)",
+                    "Url": "/lodestone/playguide/db/quest/60d4d077629/",
+                    "Area": "Ul'dah",
+                    "Level": "30"
+                }
+            ],
+            "NextQuests": [
+                {
+                    "Name": "Berkoeya",
+                    "Url": "/lodestone/playguide/db/npc/npc/37b35647257/",
+                    "Area": "Wolfshöhlen-Pier (X:4.5 Y:5.5)"
+                }
+            ]
+        },
+        "Seq": 12,
+        "oldID": 66640,
+        "Map": {
+            "ID": 11
+        }
+    },
+    {
+        "ID": "f7e72afa88e",
+        "Name": "Fronteinsatz (Bruderschaft)",
+        "Location": "Gridania",
+        "Level": 30,
+        "JournalSection": 7,
+        "JournalCategory": 64,
+        "JournalGenre": "\n\t\t\t\t\t\t\tAufträge der Bruderschaft der Morgenviper\n\t\t\t\t\t\t",
+        "Url": "/lodestone/playguide/db/quest/f7e72afa88e/",
+        "Image": "https://img.finalfantasyxiv.com/lds/pc/global/images/itemicon/f1/f1d02380c19b2ce4e01253692d947e4a7eaa6b53.png?n5.5",
+        "Icon": "function_normal",
+        "Issuer": "Scarlet",
+        "StartLocation": {
+            "Name": "Neu-Gridania",
+            "X": "9.9",
+            "Y": "11.4"
+        },
+        "StartClass": null,
+        "Job": "",
+        "Company": "Bruderschaft der Morgenviper",
+        "Requirement": "Keine Angabe",
+        "Rewards": {
+            "Gil": 367,
+            "Exp": 0,
+            "ItemsMand": [],
+            "ItemsOpt": []
+        },
+        "Infos": {
+            "PrevQuests": [
+                {
+                    "Name": "Weg des Leidens (Mahlstrom)",
+                    "Url": "/lodestone/playguide/db/quest/f77f912eeff/",
+                    "Area": "Limsa Lominsa",
+                    "Level": "30"
+                },
+                {
+                    "Name": "Weg des Leidens (Bruderschaft der Morgenviper)",
+                    "Url": "/lodestone/playguide/db/quest/d8fe24a2b5d/",
+                    "Area": "Gridania",
+                    "Level": "30"
+                },
+                {
+                    "Name": "Weg des Leidens (Legion der Unsterblichen)",
+                    "Url": "/lodestone/playguide/db/quest/d2c5aac1de8/",
+                    "Area": "Ul'dah",
+                    "Level": "30"
+                }
+            ],
+            "NextQuests": [
+                {
+                    "Name": "Luftschiffoffizier",
+                    "Url": "/lodestone/playguide/db/npc/npc/9994e77be07/",
+                    "Area": "Neu-Gridania (X:11.6 Y:13.4)"
+                }
+            ]
+        },
+        "Seq": 6,
+        "oldID": 67063,
+        "Map": {
+            "ID": 2
+        }
+    },
+    {
+        "ID": "f90014ba7be",
+        "Name": "Doppelmoral (Bruderschaft der Morgenviper)",
+        "Location": "Gridania",
+        "Level": 47,
+        "JournalSection": 7,
+        "JournalCategory": 64,
+        "JournalGenre": "\n\t\t\t\t\t\t\tAufträge der Bruderschaft der Morgenviper\n\t\t\t\t\t\t",
+        "Url": "/lodestone/playguide/db/quest/f90014ba7be/",
+        "Image": null,
+        "Icon": "function_normal",
+        "Issuer": "Vorsaile Heuloix",
+        "StartLocation": {
+            "Name": "Neu-Gridania",
+            "X": "9.7",
+            "Y": "11.1"
+        },
+        "StartClass": null,
+        "Job": "",
+        "Company": "Bruderschaft der Morgenviper / Ab Erleuchteter Schlangenjünger",
+        "Requirement": "Keine Angabe",
+        "Rewards": {
+            "Gil": 0,
+            "Exp": 0,
+            "ItemsMand": [],
+            "ItemsOpt": []
+        },
+        "Infos": {
+            "PrevQuests": [
+                {
+                    "Name": "Lange Schatten (Bruderschaft der Morgenviper)",
+                    "Url": "/lodestone/playguide/db/quest/57a8adf321a/",
+                    "Area": "Gridania",
+                    "Level": "44"
+                }
+            ],
+            "NextQuests": [
+                {
+                    "Name": "Willielmus",
+                    "Url": "/lodestone/playguide/db/npc/npc/33cebbdc2f4/",
+                    "Area": "Zentrales Hochland von Coerthas (X:14.3 Y:35.3)"
+                }
+            ]
+        },
+        "Seq": 8,
+        "oldID": 66668,
+        "Map": {
+            "ID": 2
+        }
+    }
+]

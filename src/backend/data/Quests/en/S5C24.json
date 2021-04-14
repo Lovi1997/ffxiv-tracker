@@ -1,0 +1,2097 @@
+[
+    {
+        "ID": "0bd03921159",
+        "Name": " By the Power Invested in Scree",
+        "Location": "The Rak'tika Greatwood",
+        "Level": 70,
+        "JournalSection": 5,
+        "JournalCategory": 24,
+        "JournalGenre": "\n\t\t\t\t\t\t\tDaily Quests\n\t\t\t\t\t\t",
+        "Url": "/lodestone/playguide/db/quest/0bd03921159/",
+        "Image": null,
+        "Icon": "common_repeat",
+        "Issuer": "Qhoterl Pasol",
+        "StartLocation": {
+            "Name": "The Rak'tika Greatwood",
+            "X": "37.2",
+            "Y": "17.1"
+        },
+        "StartClass": null,
+        "Job": "",
+        "Company": "Not specified",
+        "Requirement": "Not specified",
+        "Rewards": {
+            "Gil": 679,
+            "Exp": null,
+            "ItemsMand": [],
+            "ItemsOpt": []
+        },
+        "Infos": {
+            "PrevQuests": [
+                {
+                    "Name": "Deflated Steward",
+                    "Url": "/lodestone/playguide/db/npc/npc/7f279d01b3a/",
+                    "Area": "The Rak'tika Greatwood (X:28.5 Y:27.5)"
+                },
+                {
+                    "Name": "Lackadaisical Steward",
+                    "Url": "/lodestone/playguide/db/npc/npc/3e7f89046ef/",
+                    "Area": "The Rak'tika Greatwood (X:31.2 Y:26.1)"
+                },
+                {
+                    "Name": "Uterl Matl",
+                    "Url": "/lodestone/playguide/db/npc/npc/3d7b79d21ec/",
+                    "Area": "The Rak'tika Greatwood (X:37.3 Y:17.7)"
+                }
+            ]
+        },
+        "Seq": 29,
+        "oldID": 69359,
+        "Map": {
+            "ID": 495
+        }
+    },
+    {
+        "ID": "0c2d7868e38",
+        "Name": " La-hee",
+        "Location": "The Rak'tika Greatwood",
+        "Level": 70,
+        "JournalSection": 5,
+        "JournalCategory": 24,
+        "JournalGenre": "\n\t\t\t\t\t\t\tDaily Quests\n\t\t\t\t\t\t",
+        "Url": "/lodestone/playguide/db/quest/0c2d7868e38/",
+        "Image": null,
+        "Icon": "common_repeat",
+        "Issuer": "Qhoterl Pasol",
+        "StartLocation": {
+            "Name": "The Rak'tika Greatwood",
+            "X": "37.2",
+            "Y": "17.1"
+        },
+        "StartClass": null,
+        "Job": "",
+        "Company": "Not specified",
+        "Requirement": "Not specified",
+        "Rewards": {
+            "Gil": 606,
+            "Exp": null,
+            "ItemsMand": [],
+            "ItemsOpt": []
+        },
+        "Infos": {
+            "PrevQuests": [
+                {
+                    "Name": "Dormant Ronkan Doll",
+                    "Url": "/lodestone/playguide/db/npc/npc/801959dfbf4/",
+                    "Area": "The Rak'tika Greatwood (X:24.3 Y:12.2)"
+                }
+            ]
+        },
+        "Seq": 25,
+        "oldID": 69355,
+        "Map": {
+            "ID": 495
+        }
+    },
+    {
+        "ID": "15bf52ae177",
+        "Name": " You Dirty Rats",
+        "Location": "The Rak'tika Greatwood",
+        "Level": 70,
+        "JournalSection": 5,
+        "JournalCategory": 24,
+        "JournalGenre": "\n\t\t\t\t\t\t\tDaily Quests\n\t\t\t\t\t\t",
+        "Url": "/lodestone/playguide/db/quest/15bf52ae177/",
+        "Image": null,
+        "Icon": "common_repeat",
+        "Issuer": "Qhoterl Pasol",
+        "StartLocation": {
+            "Name": "The Rak'tika Greatwood",
+            "X": "37.2",
+            "Y": "17.1"
+        },
+        "StartClass": null,
+        "Job": "",
+        "Company": "Not specified",
+        "Requirement": "Not specified",
+        "Rewards": {
+            "Gil": 533,
+            "Exp": null,
+            "ItemsMand": [
+                {
+                    "Icon": "https://img.finalfantasyxiv.com/lds/pc/global/images/itemicon/d9/d9beff495b00ab597dbd0b268530571d803e6a2d.png?n5.5",
+                    "Name": "Cordial",
+                    "Amount": 1,
+                    "Url": "/lodestone/playguide/db/item/2ff3e7e028c/"
+                }
+            ],
+            "ItemsOpt": []
+        },
+        "Infos": {},
+        "Seq": 23,
+        "oldID": 69353,
+        "Map": {
+            "ID": 495
+        }
+    },
+    {
+        "ID": "1e5185a9b14",
+        "Name": " The Second Stela: The Hunters and the Hunted",
+        "Location": "The Rak'tika Greatwood",
+        "Level": 70,
+        "JournalSection": 5,
+        "JournalCategory": 24,
+        "JournalGenre": "\n\t\t\t\t\t\t\tMain Quests\n\t\t\t\t\t\t",
+        "Url": "/lodestone/playguide/db/quest/1e5185a9b14/",
+        "Image": "https://img.finalfantasyxiv.com/lds/pc/global/images/itemicon/c0/c067ca54cc9e9f9ba9cf5cedb6095d5014301274.png?n5.5",
+        "Icon": "function_normal",
+        "Issuer": "Qitarl Natl",
+        "StartLocation": {
+            "Name": "The Rak'tika Greatwood",
+            "X": "37.5",
+            "Y": "17.1"
+        },
+        "StartClass": null,
+        "Job": "",
+        "Company": "Not specified",
+        "Requirement": "Not specified",
+        "Rewards": {
+            "Gil": 642,
+            "Exp": null,
+            "ItemsMand": [],
+            "ItemsOpt": []
+        },
+        "Infos": {
+            "PrevQuests": [
+                {
+                    "Name": " Delving Deeper",
+                    "Url": "/lodestone/playguide/db/quest/b2bcd3236af/",
+                    "Area": "The Rak'tika Greatwood",
+                    "Level": "70"
+                }
+            ],
+            "NextQuests": [
+                {
+                    "Name": " A Chilling Fate",
+                    "Url": "/lodestone/playguide/db/quest/f61b41184dd/",
+                    "Area": "The Rak'tika Greatwood",
+                    "Level": "70"
+                }
+            ]
+        },
+        "Seq": 5,
+        "oldID": 69338,
+        "Map": {
+            "ID": 495
+        }
+    },
+    {
+        "ID": "1fffaaedb85",
+        "Name": " Rings of Pattern",
+        "Location": "The Rak'tika Greatwood",
+        "Level": 70,
+        "JournalSection": 5,
+        "JournalCategory": 24,
+        "JournalGenre": "\n\t\t\t\t\t\t\tDaily Quests\n\t\t\t\t\t\t",
+        "Url": "/lodestone/playguide/db/quest/1fffaaedb85/",
+        "Image": null,
+        "Icon": "common_repeat",
+        "Issuer": "Qhoterl Pasol",
+        "StartLocation": {
+            "Name": "The Rak'tika Greatwood",
+            "X": "37.2",
+            "Y": "17.1"
+        },
+        "StartClass": null,
+        "Job": "",
+        "Company": "Not specified",
+        "Requirement": "Not specified",
+        "Rewards": {
+            "Gil": 533,
+            "Exp": null,
+            "ItemsMand": [
+                {
+                    "Icon": "https://img.finalfantasyxiv.com/lds/pc/global/images/itemicon/d9/d9beff495b00ab597dbd0b268530571d803e6a2d.png?n5.5",
+                    "Name": "Cordial",
+                    "Amount": 1,
+                    "Url": "/lodestone/playguide/db/item/2ff3e7e028c/"
+                }
+            ],
+            "ItemsOpt": []
+        },
+        "Infos": {},
+        "Seq": 22,
+        "oldID": 69352,
+        "Map": {
+            "ID": 495
+        }
+    },
+    {
+        "ID": "2b3d6c52b72",
+        "Name": " Safety Is No Accident",
+        "Location": "The Rak'tika Greatwood",
+        "Level": 70,
+        "JournalSection": 5,
+        "JournalCategory": 24,
+        "JournalGenre": "\n\t\t\t\t\t\t\tDaily Quests\n\t\t\t\t\t\t",
+        "Url": "/lodestone/playguide/db/quest/2b3d6c52b72/",
+        "Image": null,
+        "Icon": "common_repeat",
+        "Issuer": "Qhoterl Pasol",
+        "StartLocation": {
+            "Name": "The Rak'tika Greatwood",
+            "X": "37.2",
+            "Y": "17.1"
+        },
+        "StartClass": null,
+        "Job": "",
+        "Company": "Not specified",
+        "Requirement": "Not specified",
+        "Rewards": {
+            "Gil": 533,
+            "Exp": null,
+            "ItemsMand": [
+                {
+                    "Icon": "https://img.finalfantasyxiv.com/lds/pc/global/images/itemicon/d9/d9beff495b00ab597dbd0b268530571d803e6a2d.png?n5.5",
+                    "Name": "Cordial",
+                    "Amount": 1,
+                    "Url": "/lodestone/playguide/db/item/2ff3e7e028c/"
+                }
+            ],
+            "ItemsOpt": []
+        },
+        "Infos": {},
+        "Seq": 36,
+        "oldID": 69366,
+        "Map": {
+            "ID": 495
+        }
+    },
+    {
+        "ID": "37ae2adb4d1",
+        "Name": " Marks of Friendship",
+        "Location": "The Rak'tika Greatwood",
+        "Level": 70,
+        "JournalSection": 5,
+        "JournalCategory": 24,
+        "JournalGenre": "\n\t\t\t\t\t\t\tDaily Quests\n\t\t\t\t\t\t",
+        "Url": "/lodestone/playguide/db/quest/37ae2adb4d1/",
+        "Image": null,
+        "Icon": "common_repeat",
+        "Issuer": "Qhoterl Pasol",
+        "StartLocation": {
+            "Name": "The Rak'tika Greatwood",
+            "X": "37.2",
+            "Y": "17.1"
+        },
+        "StartClass": null,
+        "Job": "",
+        "Company": "Not specified",
+        "Requirement": "Not specified",
+        "Rewards": {
+            "Gil": 606,
+            "Exp": null,
+            "ItemsMand": [],
+            "ItemsOpt": []
+        },
+        "Infos": {
+            "PrevQuests": [
+                {
+                    "Name": "Olmet",
+                    "Url": "/lodestone/playguide/db/npc/npc/1dfc36e8e02/",
+                    "Area": "The Rak'tika Greatwood (X:30.4 Y:19.1)"
+                },
+                {
+                    "Name": "Shoina",
+                    "Url": "/lodestone/playguide/db/npc/npc/d8df4cc8b9d/",
+                    "Area": "The Rak'tika Greatwood (X:27.5 Y:18.5)"
+                },
+                {
+                    "Name": "Tilmet",
+                    "Url": "/lodestone/playguide/db/npc/npc/4f92feeb721/",
+                    "Area": "The Rak'tika Greatwood (X:29.7 Y:18.9)"
+                }
+            ]
+        },
+        "Seq": 19,
+        "oldID": 69349,
+        "Map": {
+            "ID": 495
+        }
+    },
+    {
+        "ID": "427fb7f7799",
+        "Name": " If It's Broke, Fix It",
+        "Location": "The Rak'tika Greatwood",
+        "Level": 70,
+        "JournalSection": 5,
+        "JournalCategory": 24,
+        "JournalGenre": "\n\t\t\t\t\t\t\tDaily Quests\n\t\t\t\t\t\t",
+        "Url": "/lodestone/playguide/db/quest/427fb7f7799/",
+        "Image": null,
+        "Icon": "common_repeat",
+        "Issuer": "Qhoterl Pasol",
+        "StartLocation": {
+            "Name": "The Rak'tika Greatwood",
+            "X": "37.2",
+            "Y": "17.1"
+        },
+        "StartClass": null,
+        "Job": "",
+        "Company": "Not specified",
+        "Requirement": "Not specified",
+        "Rewards": {
+            "Gil": 533,
+            "Exp": null,
+            "ItemsMand": [
+                {
+                    "Icon": "https://img.finalfantasyxiv.com/lds/pc/global/images/itemicon/d9/d9beff495b00ab597dbd0b268530571d803e6a2d.png?n5.5",
+                    "Name": "Cordial",
+                    "Amount": 1,
+                    "Url": "/lodestone/playguide/db/item/2ff3e7e028c/"
+                }
+            ],
+            "ItemsOpt": []
+        },
+        "Infos": {},
+        "Seq": 24,
+        "oldID": 69354,
+        "Map": {
+            "ID": 495
+        }
+    },
+    {
+        "ID": "42c3bc44b19",
+        "Name": " Power to the Vegetables",
+        "Location": "The Rak'tika Greatwood",
+        "Level": 70,
+        "JournalSection": 5,
+        "JournalCategory": 24,
+        "JournalGenre": "\n\t\t\t\t\t\t\tDaily Quests\n\t\t\t\t\t\t",
+        "Url": "/lodestone/playguide/db/quest/42c3bc44b19/",
+        "Image": null,
+        "Icon": "common_repeat",
+        "Issuer": "Qhoterl Pasol",
+        "StartLocation": {
+            "Name": "The Rak'tika Greatwood",
+            "X": "37.2",
+            "Y": "17.1"
+        },
+        "StartClass": null,
+        "Job": "",
+        "Company": "Not specified",
+        "Requirement": "Not specified",
+        "Rewards": {
+            "Gil": 679,
+            "Exp": null,
+            "ItemsMand": [],
+            "ItemsOpt": []
+        },
+        "Infos": {
+            "PrevQuests": [
+                {
+                    "Name": "Ersabel",
+                    "Url": "/lodestone/playguide/db/npc/npc/1391c25e72d/",
+                    "Area": "The Rak'tika Greatwood (X:19.8 Y:27.4)"
+                }
+            ]
+        },
+        "Seq": 16,
+        "oldID": 69346,
+        "Map": {
+            "ID": 495
+        }
+    },
+    {
+        "ID": "5cf99c769db",
+        "Name": " Qhoterl's Chronicles",
+        "Location": "The Rak'tika Greatwood",
+        "Level": 70,
+        "JournalSection": 5,
+        "JournalCategory": 24,
+        "JournalGenre": "\n\t\t\t\t\t\t\tDaily Quests\n\t\t\t\t\t\t",
+        "Url": "/lodestone/playguide/db/quest/5cf99c769db/",
+        "Image": null,
+        "Icon": "common_repeat",
+        "Issuer": "Qhoterl Pasol",
+        "StartLocation": {
+            "Name": "The Rak'tika Greatwood",
+            "X": "37.2",
+            "Y": "17.1"
+        },
+        "StartClass": null,
+        "Job": "",
+        "Company": "Not specified",
+        "Requirement": "Not specified",
+        "Rewards": {
+            "Gil": 533,
+            "Exp": null,
+            "ItemsMand": [
+                {
+                    "Icon": "https://img.finalfantasyxiv.com/lds/pc/global/images/itemicon/d9/d9beff495b00ab597dbd0b268530571d803e6a2d.png?n5.5",
+                    "Name": "Cordial",
+                    "Amount": 1,
+                    "Url": "/lodestone/playguide/db/item/2ff3e7e028c/"
+                }
+            ],
+            "ItemsOpt": []
+        },
+        "Infos": {},
+        "Seq": 39,
+        "oldID": 69369,
+        "Map": {
+            "ID": 495
+        }
+    },
+    {
+        "ID": "60c1836c978",
+        "Name": " The Second Stela: Fast Friends",
+        "Location": "The Rak'tika Greatwood",
+        "Level": 70,
+        "JournalSection": 5,
+        "JournalCategory": 24,
+        "JournalGenre": "\n\t\t\t\t\t\t\tMain Quests\n\t\t\t\t\t\t",
+        "Url": "/lodestone/playguide/db/quest/60c1836c978/",
+        "Image": "https://img.finalfantasyxiv.com/lds/pc/global/images/itemicon/f5/f53805259a8986d065d7febcf10c9392ca187049.png?n5.5",
+        "Icon": "function_normal",
+        "Issuer": "Chaqurl Qhotl",
+        "StartLocation": {
+            "Name": "The Rak'tika Greatwood",
+            "X": "37.5",
+            "Y": "17.1"
+        },
+        "StartClass": null,
+        "Job": "",
+        "Company": "Not specified",
+        "Requirement": "Not specified",
+        "Rewards": {
+            "Gil": 642,
+            "Exp": null,
+            "ItemsMand": [],
+            "ItemsOpt": []
+        },
+        "Infos": {
+            "PrevQuests": [
+                {
+                    "Name": " Delving Deeper",
+                    "Url": "/lodestone/playguide/db/quest/b2bcd3236af/",
+                    "Area": "The Rak'tika Greatwood",
+                    "Level": "70"
+                }
+            ],
+            "NextQuests": [
+                {
+                    "Name": " A Chilling Fate",
+                    "Url": "/lodestone/playguide/db/quest/f61b41184dd/",
+                    "Area": "The Rak'tika Greatwood",
+                    "Level": "70"
+                }
+            ]
+        },
+        "Seq": 6,
+        "oldID": 69339,
+        "Map": {
+            "ID": 495
+        }
+    },
+    {
+        "ID": "651f4ceab0f",
+        "Name": " I Have Never Exploded",
+        "Location": "The Rak'tika Greatwood",
+        "Level": 70,
+        "JournalSection": 5,
+        "JournalCategory": 24,
+        "JournalGenre": "\n\t\t\t\t\t\t\tDaily Quests\n\t\t\t\t\t\t",
+        "Url": "/lodestone/playguide/db/quest/651f4ceab0f/",
+        "Image": null,
+        "Icon": "common_repeat",
+        "Issuer": "Qhoterl Pasol",
+        "StartLocation": {
+            "Name": "The Rak'tika Greatwood",
+            "X": "37.2",
+            "Y": "17.1"
+        },
+        "StartClass": null,
+        "Job": "",
+        "Company": "Not specified",
+        "Requirement": "Not specified",
+        "Rewards": {
+            "Gil": 533,
+            "Exp": null,
+            "ItemsMand": [
+                {
+                    "Icon": "https://img.finalfantasyxiv.com/lds/pc/global/images/itemicon/d9/d9beff495b00ab597dbd0b268530571d803e6a2d.png?n5.5",
+                    "Name": "Cordial",
+                    "Amount": 1,
+                    "Url": "/lodestone/playguide/db/item/2ff3e7e028c/"
+                }
+            ],
+            "ItemsOpt": []
+        },
+        "Infos": {},
+        "Seq": 28,
+        "oldID": 69358,
+        "Map": {
+            "ID": 495
+        }
+    },
+    {
+        "ID": "67571d5d475",
+        "Name": " Wisdom of the Night",
+        "Location": "The Rak'tika Greatwood",
+        "Level": 70,
+        "JournalSection": 5,
+        "JournalCategory": 24,
+        "JournalGenre": "\n\t\t\t\t\t\t\tMain Quests\n\t\t\t\t\t\t",
+        "Url": "/lodestone/playguide/db/quest/67571d5d475/",
+        "Image": "https://img.finalfantasyxiv.com/lds/pc/global/images/itemicon/d8/d89639d2fbe6a4d9fe8f39b26ba477144e12e23f.png?n5.5",
+        "Icon": "function_normal",
+        "Issuer": "Chaqurl Qhotl",
+        "StartLocation": {
+            "Name": "The Rak'tika Greatwood",
+            "X": "37.5",
+            "Y": "17.1"
+        },
+        "StartClass": null,
+        "Job": "",
+        "Company": "Not specified",
+        "Requirement": "Not specified",
+        "Rewards": {
+            "Gil": 898,
+            "Exp": null,
+            "ItemsMand": [],
+            "ItemsOpt": []
+        },
+        "Infos": {
+            "PrevQuests": [
+                {
+                    "Name": " The Stewards of Note",
+                    "Url": "/lodestone/playguide/db/quest/871df900bd6/",
+                    "Area": "The Rak'tika Greatwood",
+                    "Level": "70"
+                }
+            ],
+            "NextQuests": [
+                {
+                    "Name": " The First Stela: Of Ronkan Might",
+                    "Url": "/lodestone/playguide/db/quest/a04f4ad3e53/",
+                    "Area": "The Rak'tika Greatwood",
+                    "Level": "70"
+                },
+                {
+                    "Name": " The First Stela: Of Ronkan Benevolence",
+                    "Url": "/lodestone/playguide/db/quest/7cf3c064c0b/",
+                    "Area": "The Rak'tika Greatwood",
+                    "Level": "70"
+                }
+            ],
+            "NPCs": [
+                {
+                    "Name": "Chaqurl Qhotl",
+                    "Url": "/lodestone/playguide/db/npc/npc/d36de3a5d1b/",
+                    "Area": "The Rak'tika Greatwood (X:20.9 Y:27.8)"
+                },
+                {
+                    "Name": "Qitari Serpent",
+                    "Url": "/lodestone/playguide/db/npc/npc/89f420da70e/",
+                    "Area": "The Rak'tika Greatwood (X:20.9 Y:27.8)"
+                },
+                {
+                    "Name": "Quinfort",
+                    "Url": "/lodestone/playguide/db/npc/npc/6f127f27bfe/",
+                    "Area": "The Rak'tika Greatwood (X:20.9 Y:27.8)"
+                },
+                {
+                    "Name": "Quinfort",
+                    "Url": "/lodestone/playguide/db/npc/npc/7d67b514a7a/",
+                    "Area": "The Rak'tika Greatwood (X:37.5 Y:17.1)"
+                },
+                {
+                    "Name": "Stopple Serpent",
+                    "Url": "/lodestone/playguide/db/npc/npc/4ef51a33c4e/",
+                    "Area": "The Rak'tika Greatwood (X:37.5 Y:17.1)"
+                },
+                {
+                    "Name": "Valan",
+                    "Url": "/lodestone/playguide/db/npc/npc/d41511855ca/",
+                    "Area": "The Rak'tika Greatwood (X:20.9 Y:27.8)"
+                },
+                {
+                    "Name": "Valan",
+                    "Url": "/lodestone/playguide/db/npc/npc/1066b231acd/",
+                    "Area": "The Rak'tika Greatwood (X:37.5 Y:17.1)"
+                }
+            ]
+        },
+        "Seq": 1,
+        "oldID": 69331,
+        "Map": {
+            "ID": 495
+        }
+    },
+    {
+        "ID": "6fc2f02d35f",
+        "Name": " There's No Clean Like Qhoterl Clean",
+        "Location": "The Rak'tika Greatwood",
+        "Level": 70,
+        "JournalSection": 5,
+        "JournalCategory": 24,
+        "JournalGenre": "\n\t\t\t\t\t\t\tDaily Quests\n\t\t\t\t\t\t",
+        "Url": "/lodestone/playguide/db/quest/6fc2f02d35f/",
+        "Image": null,
+        "Icon": "common_repeat",
+        "Issuer": "Qhoterl Pasol",
+        "StartLocation": {
+            "Name": "The Rak'tika Greatwood",
+            "X": "37.2",
+            "Y": "17.1"
+        },
+        "StartClass": null,
+        "Job": "",
+        "Company": "Not specified",
+        "Requirement": "Not specified",
+        "Rewards": {
+            "Gil": 533,
+            "Exp": null,
+            "ItemsMand": [
+                {
+                    "Icon": "https://img.finalfantasyxiv.com/lds/pc/global/images/itemicon/d9/d9beff495b00ab597dbd0b268530571d803e6a2d.png?n5.5",
+                    "Name": "Cordial",
+                    "Amount": 1,
+                    "Url": "/lodestone/playguide/db/item/2ff3e7e028c/"
+                }
+            ],
+            "ItemsOpt": []
+        },
+        "Infos": {},
+        "Seq": 31,
+        "oldID": 69361,
+        "Map": {
+            "ID": 495
+        }
+    },
+    {
+        "ID": "71e81cea711",
+        "Name": " The Third Stela: A Feast for Fishmen",
+        "Location": "The Rak'tika Greatwood",
+        "Level": 70,
+        "JournalSection": 5,
+        "JournalCategory": 24,
+        "JournalGenre": "\n\t\t\t\t\t\t\tMain Quests\n\t\t\t\t\t\t",
+        "Url": "/lodestone/playguide/db/quest/71e81cea711/",
+        "Image": "https://img.finalfantasyxiv.com/lds/pc/global/images/itemicon/f5/f53805259a8986d065d7febcf10c9392ca187049.png?n5.5",
+        "Icon": "function_normal",
+        "Issuer": "Chaqurl Qhotl",
+        "StartLocation": {
+            "Name": "The Rak'tika Greatwood",
+            "X": "37.5",
+            "Y": "17.1"
+        },
+        "StartClass": null,
+        "Job": "",
+        "Company": "Not specified",
+        "Requirement": "Not specified",
+        "Rewards": {
+            "Gil": 642,
+            "Exp": null,
+            "ItemsMand": [],
+            "ItemsOpt": []
+        },
+        "Infos": {
+            "PrevQuests": [
+                {
+                    "Name": " A Chilling Fate",
+                    "Url": "/lodestone/playguide/db/quest/f61b41184dd/",
+                    "Area": "The Rak'tika Greatwood",
+                    "Level": "70"
+                }
+            ],
+            "NextQuests": [
+                {
+                    "Name": " What Ails the Forest",
+                    "Url": "/lodestone/playguide/db/quest/dc5d0fcb5f9/",
+                    "Area": "The Rak'tika Greatwood",
+                    "Level": "70"
+                }
+            ]
+        },
+        "Seq": 9,
+        "oldID": 69341,
+        "Map": {
+            "ID": 495
+        }
+    },
+    {
+        "ID": "7370109c1d9",
+        "Name": " The Qitari Book of Records",
+        "Location": "The Rak'tika Greatwood",
+        "Level": 70,
+        "JournalSection": 5,
+        "JournalCategory": 24,
+        "JournalGenre": "\n\t\t\t\t\t\t\tDaily Quests\n\t\t\t\t\t\t",
+        "Url": "/lodestone/playguide/db/quest/7370109c1d9/",
+        "Image": null,
+        "Icon": "common_repeat",
+        "Issuer": "Qhoterl Pasol",
+        "StartLocation": {
+            "Name": "The Rak'tika Greatwood",
+            "X": "37.2",
+            "Y": "17.1"
+        },
+        "StartClass": null,
+        "Job": "",
+        "Company": "Not specified",
+        "Requirement": "Not specified",
+        "Rewards": {
+            "Gil": 533,
+            "Exp": null,
+            "ItemsMand": [
+                {
+                    "Icon": "https://img.finalfantasyxiv.com/lds/pc/global/images/itemicon/d9/d9beff495b00ab597dbd0b268530571d803e6a2d.png?n5.5",
+                    "Name": "Cordial",
+                    "Amount": 1,
+                    "Url": "/lodestone/playguide/db/item/2ff3e7e028c/"
+                }
+            ],
+            "ItemsOpt": []
+        },
+        "Infos": {},
+        "Seq": 26,
+        "oldID": 69356,
+        "Map": {
+            "ID": 495
+        }
+    },
+    {
+        "ID": "747da0c851a",
+        "Name": " Making Scents",
+        "Location": "The Rak'tika Greatwood",
+        "Level": 70,
+        "JournalSection": 5,
+        "JournalCategory": 24,
+        "JournalGenre": "\n\t\t\t\t\t\t\tDaily Quests\n\t\t\t\t\t\t",
+        "Url": "/lodestone/playguide/db/quest/747da0c851a/",
+        "Image": null,
+        "Icon": "common_repeat",
+        "Issuer": "Qhoterl Pasol",
+        "StartLocation": {
+            "Name": "The Rak'tika Greatwood",
+            "X": "37.2",
+            "Y": "17.1"
+        },
+        "StartClass": null,
+        "Job": "",
+        "Company": "Not specified",
+        "Requirement": "Not specified",
+        "Rewards": {
+            "Gil": 533,
+            "Exp": null,
+            "ItemsMand": [
+                {
+                    "Icon": "https://img.finalfantasyxiv.com/lds/pc/global/images/itemicon/d9/d9beff495b00ab597dbd0b268530571d803e6a2d.png?n5.5",
+                    "Name": "Cordial",
+                    "Amount": 1,
+                    "Url": "/lodestone/playguide/db/item/2ff3e7e028c/"
+                }
+            ],
+            "ItemsOpt": []
+        },
+        "Infos": {},
+        "Seq": 18,
+        "oldID": 69348,
+        "Map": {
+            "ID": 495
+        }
+    },
+    {
+        "ID": "7cf3c064c0b",
+        "Name": " The First Stela: Of Ronkan Benevolence",
+        "Location": "The Rak'tika Greatwood",
+        "Level": 70,
+        "JournalSection": 5,
+        "JournalCategory": 24,
+        "JournalGenre": "\n\t\t\t\t\t\t\tMain Quests\n\t\t\t\t\t\t",
+        "Url": "/lodestone/playguide/db/quest/7cf3c064c0b/",
+        "Image": "https://img.finalfantasyxiv.com/lds/pc/global/images/itemicon/f5/f53805259a8986d065d7febcf10c9392ca187049.png?n5.5",
+        "Icon": "function_normal",
+        "Issuer": "Chaqurl Qhotl",
+        "StartLocation": {
+            "Name": "The Rak'tika Greatwood",
+            "X": "37.5",
+            "Y": "17.1"
+        },
+        "StartClass": null,
+        "Job": "",
+        "Company": "Not specified",
+        "Requirement": "Not specified",
+        "Rewards": {
+            "Gil": 642,
+            "Exp": null,
+            "ItemsMand": [],
+            "ItemsOpt": []
+        },
+        "Infos": {
+            "PrevQuests": [
+                {
+                    "Name": " Wisdom of the Night",
+                    "Url": "/lodestone/playguide/db/quest/67571d5d475/",
+                    "Area": "The Rak'tika Greatwood",
+                    "Level": "70"
+                }
+            ],
+            "NextQuests": [
+                {
+                    "Name": " Delving Deeper",
+                    "Url": "/lodestone/playguide/db/quest/b2bcd3236af/",
+                    "Area": "The Rak'tika Greatwood",
+                    "Level": "70"
+                }
+            ]
+        },
+        "Seq": 3,
+        "oldID": 69337,
+        "Map": {
+            "ID": 495
+        }
+    },
+    {
+        "ID": "7e98e06facf",
+        "Name": " Mother's Recipe",
+        "Location": "The Rak'tika Greatwood",
+        "Level": 70,
+        "JournalSection": 5,
+        "JournalCategory": 24,
+        "JournalGenre": "\n\t\t\t\t\t\t\tDaily Quests\n\t\t\t\t\t\t",
+        "Url": "/lodestone/playguide/db/quest/7e98e06facf/",
+        "Image": null,
+        "Icon": "common_repeat",
+        "Issuer": "Qhoterl Pasol",
+        "StartLocation": {
+            "Name": "The Rak'tika Greatwood",
+            "X": "37.2",
+            "Y": "17.1"
+        },
+        "StartClass": null,
+        "Job": "",
+        "Company": "Not specified",
+        "Requirement": "Not specified",
+        "Rewards": {
+            "Gil": 533,
+            "Exp": null,
+            "ItemsMand": [
+                {
+                    "Icon": "https://img.finalfantasyxiv.com/lds/pc/global/images/itemicon/d9/d9beff495b00ab597dbd0b268530571d803e6a2d.png?n5.5",
+                    "Name": "Cordial",
+                    "Amount": 1,
+                    "Url": "/lodestone/playguide/db/item/2ff3e7e028c/"
+                }
+            ],
+            "ItemsOpt": []
+        },
+        "Infos": {},
+        "Seq": 15,
+        "oldID": 69345,
+        "Map": {
+            "ID": 495
+        }
+    },
+    {
+        "ID": "871df900bd6",
+        "Name": " The Stewards of Note",
+        "Location": "The Rak'tika Greatwood",
+        "Level": 70,
+        "JournalSection": 5,
+        "JournalCategory": 24,
+        "JournalGenre": "\n\t\t\t\t\t\t\tMain Quests\n\t\t\t\t\t\t",
+        "Url": "/lodestone/playguide/db/quest/871df900bd6/",
+        "Image": "https://img.finalfantasyxiv.com/lds/pc/global/images/itemicon/d4/d40bf1a4a9b2b0b0dedfc06fe510d0ca6b01577f.png?n5.5",
+        "Icon": "function_normal",
+        "Issuer": "Concerned Mother",
+        "StartLocation": {
+            "Name": "The Rak'tika Greatwood",
+            "X": "21.0",
+            "Y": "27.6"
+        },
+        "StartClass": null,
+        "Job": "",
+        "Company": "Not specified",
+        "Requirement": "Not specified",
+        "Rewards": {
+            "Gil": 1153,
+            "Exp": null,
+            "ItemsMand": [],
+            "ItemsOpt": []
+        },
+        "Infos": {
+            "PrevQuests": [
+                {
+                    "Name": "Bearing with It",
+                    "Url": "/lodestone/playguide/db/quest/f3e164474ba/",
+                    "Area": "The Rak'tika Greatwood",
+                    "Level": "75"
+                },
+                {
+                    "Name": " Protectors of the Wood",
+                    "Url": "/lodestone/playguide/db/quest/a136d650871/",
+                    "Area": "The Rak'tika Greatwood",
+                    "Level": "70"
+                }
+            ],
+            "NextQuests": [
+                {
+                    "Name": " Wisdom of the Night",
+                    "Url": "/lodestone/playguide/db/quest/67571d5d475/",
+                    "Area": "The Rak'tika Greatwood",
+                    "Level": "70"
+                }
+            ],
+            "NPCs": [
+                {
+                    "Name": "Chaqurl Qhotl",
+                    "Url": "/lodestone/playguide/db/npc/npc/95efc1c194c/",
+                    "Area": "The Rak'tika Greatwood (X:37.4 Y:17.5)"
+                },
+                {
+                    "Name": "Qitari Serpent",
+                    "Url": "/lodestone/playguide/db/npc/npc/a16ea4839c5/",
+                    "Area": "The Rak'tika Greatwood (X:37.4 Y:17.5)"
+                },
+                {
+                    "Name": "Qitarl Natl",
+                    "Url": "/lodestone/playguide/db/npc/npc/9c5b28fad0e/",
+                    "Area": "The Rak'tika Greatwood (X:37.3 Y:17.6)"
+                },
+                {
+                    "Name": "Quinfort",
+                    "Url": "/lodestone/playguide/db/npc/npc/145a34aa1a0/",
+                    "Area": "The Rak'tika Greatwood (X:30.7 Y:17.4)"
+                },
+                {
+                    "Name": "Quinfort",
+                    "Url": "/lodestone/playguide/db/npc/npc/4a35a5f34fc/",
+                    "Area": "The Rak'tika Greatwood (X:37.3 Y:17.5)"
+                },
+                {
+                    "Name": "Valan",
+                    "Url": "/lodestone/playguide/db/npc/npc/be92d3427e4/",
+                    "Area": "The Rak'tika Greatwood (X:30.7 Y:17.5)"
+                },
+                {
+                    "Name": "Valan",
+                    "Url": "/lodestone/playguide/db/npc/npc/91bf8984ae2/",
+                    "Area": "The Rak'tika Greatwood (X:33.6 Y:15.8)"
+                },
+                {
+                    "Name": "Valan",
+                    "Url": "/lodestone/playguide/db/npc/npc/a513f5396c7/",
+                    "Area": "The Rak'tika Greatwood (X:37.3 Y:17.5)"
+                }
+            ]
+        },
+        "Seq": 19,
+        "oldID": 69330,
+        "Map": {
+            "ID": 495
+        }
+    },
+    {
+        "ID": "9abc68f605a",
+        "Name": " Eggspotting",
+        "Location": "The Rak'tika Greatwood",
+        "Level": 70,
+        "JournalSection": 5,
+        "JournalCategory": 24,
+        "JournalGenre": "\n\t\t\t\t\t\t\tDaily Quests\n\t\t\t\t\t\t",
+        "Url": "/lodestone/playguide/db/quest/9abc68f605a/",
+        "Image": null,
+        "Icon": "common_repeat",
+        "Issuer": "Qhoterl Pasol",
+        "StartLocation": {
+            "Name": "The Rak'tika Greatwood",
+            "X": "37.2",
+            "Y": "17.1"
+        },
+        "StartClass": null,
+        "Job": "",
+        "Company": "Not specified",
+        "Requirement": "Not specified",
+        "Rewards": {
+            "Gil": 752,
+            "Exp": null,
+            "ItemsMand": [],
+            "ItemsOpt": []
+        },
+        "Infos": {
+            "PrevQuests": [
+                {
+                    "Name": "Clucking Chicken",
+                    "Url": "/lodestone/playguide/db/npc/npc/357f700a3ef/",
+                    "Area": "The Rak'tika Greatwood (X:20.3 Y:25.8)"
+                },
+                {
+                    "Name": "Poultryman",
+                    "Url": "/lodestone/playguide/db/npc/npc/a44dfd8d999/",
+                    "Area": "The Rak'tika Greatwood (X:18.8 Y:27.5)"
+                }
+            ]
+        },
+        "Seq": 35,
+        "oldID": 69365,
+        "Map": {
+            "ID": 495
+        }
+    },
+    {
+        "ID": "9f53896e9d2",
+        "Name": " Glory Be to the Scree",
+        "Location": "The Rak'tika Greatwood",
+        "Level": 70,
+        "JournalSection": 5,
+        "JournalCategory": 24,
+        "JournalGenre": "\n\t\t\t\t\t\t\tMain Quests\n\t\t\t\t\t\t",
+        "Url": "/lodestone/playguide/db/quest/9f53896e9d2/",
+        "Image": "https://img.finalfantasyxiv.com/lds/pc/global/images/itemicon/00/00a76aed82ba4b57d30e277e32c01460dd0915cb.png?n5.5",
+        "Icon": "function_normal",
+        "Issuer": "Chaqurl Qhotl",
+        "StartLocation": {
+            "Name": "The Rak'tika Greatwood",
+            "X": "37.5",
+            "Y": "17.1"
+        },
+        "StartClass": null,
+        "Job": "",
+        "Company": "Not specified",
+        "Requirement": "Not specified",
+        "Rewards": {
+            "Gil": 1007,
+            "Exp": null,
+            "ItemsMand": [],
+            "ItemsOpt": []
+        },
+        "Infos": {
+            "PrevQuests": [
+                {
+                    "Name": " What Ails the Forest",
+                    "Url": "/lodestone/playguide/db/quest/dc5d0fcb5f9/",
+                    "Area": "The Rak'tika Greatwood",
+                    "Level": "70"
+                }
+            ],
+            "NextQuests": [
+                {
+                    "Name": "Chaqurl Qhotl",
+                    "Url": "/lodestone/playguide/db/npc/npc/3815562dd23/",
+                    "Area": "The Rak'tika Greatwood (X:31.3 Y:16.9)"
+                },
+                {
+                    "Name": "Chaqurl Qhotl",
+                    "Url": "/lodestone/playguide/db/npc/npc/800209759b0/",
+                    "Area": "The Rak'tika Greatwood (X:11.0 Y:26.0)"
+                },
+                {
+                    "Name": "Ciuna",
+                    "Url": "/lodestone/playguide/db/npc/npc/ea320d1dff7/",
+                    "Area": "The Rak'tika Greatwood (X:31.3 Y:16.9)"
+                },
+                {
+                    "Name": "Lanille",
+                    "Url": "/lodestone/playguide/db/npc/npc/74182318976/",
+                    "Area": "The Rak'tika Greatwood (X:31.3 Y:16.9)"
+                },
+                {
+                    "Name": "Phyna",
+                    "Url": "/lodestone/playguide/db/npc/npc/bfc2f62a313/",
+                    "Area": "The Rak'tika Greatwood (X:31.3 Y:16.9)"
+                },
+                {
+                    "Name": "Qitarl Natl",
+                    "Url": "/lodestone/playguide/db/npc/npc/ef794788f12/",
+                    "Area": "The Rak'tika Greatwood (X:37.5 Y:17.1)"
+                },
+                {
+                    "Name": "Quinfort",
+                    "Url": "/lodestone/playguide/db/npc/npc/6f127f27bfe/",
+                    "Area": "The Rak'tika Greatwood (X:20.9 Y:27.8)"
+                },
+                {
+                    "Name": "Valan",
+                    "Url": "/lodestone/playguide/db/npc/npc/d41511855ca/",
+                    "Area": "The Rak'tika Greatwood (X:20.9 Y:27.8)"
+                }
+            ]
+        },
+        "Seq": 11,
+        "oldID": 69335,
+        "Map": {
+            "ID": 495
+        }
+    },
+    {
+        "ID": "a04f4ad3e53",
+        "Name": " The First Stela: Of Ronkan Might",
+        "Location": "The Rak'tika Greatwood",
+        "Level": 70,
+        "JournalSection": 5,
+        "JournalCategory": 24,
+        "JournalGenre": "\n\t\t\t\t\t\t\tMain Quests\n\t\t\t\t\t\t",
+        "Url": "/lodestone/playguide/db/quest/a04f4ad3e53/",
+        "Image": "https://img.finalfantasyxiv.com/lds/pc/global/images/itemicon/c0/c067ca54cc9e9f9ba9cf5cedb6095d5014301274.png?n5.5",
+        "Icon": "function_normal",
+        "Issuer": "Qitarl Natl",
+        "StartLocation": {
+            "Name": "The Rak'tika Greatwood",
+            "X": "37.5",
+            "Y": "17.1"
+        },
+        "StartClass": null,
+        "Job": "",
+        "Company": "Not specified",
+        "Requirement": "Not specified",
+        "Rewards": {
+            "Gil": 642,
+            "Exp": null,
+            "ItemsMand": [],
+            "ItemsOpt": []
+        },
+        "Infos": {
+            "PrevQuests": [
+                {
+                    "Name": " Wisdom of the Night",
+                    "Url": "/lodestone/playguide/db/quest/67571d5d475/",
+                    "Area": "The Rak'tika Greatwood",
+                    "Level": "70"
+                }
+            ],
+            "NextQuests": [
+                {
+                    "Name": " Delving Deeper",
+                    "Url": "/lodestone/playguide/db/quest/b2bcd3236af/",
+                    "Area": "The Rak'tika Greatwood",
+                    "Level": "70"
+                }
+            ]
+        },
+        "Seq": 2,
+        "oldID": 69336,
+        "Map": {
+            "ID": 495
+        }
+    },
+    {
+        "ID": "a2b024ba38e",
+        "Name": " Prayers and Poison",
+        "Location": "The Rak'tika Greatwood",
+        "Level": 70,
+        "JournalSection": 5,
+        "JournalCategory": 24,
+        "JournalGenre": "\n\t\t\t\t\t\t\tDaily Quests\n\t\t\t\t\t\t",
+        "Url": "/lodestone/playguide/db/quest/a2b024ba38e/",
+        "Image": null,
+        "Icon": "common_repeat",
+        "Issuer": "Qhoterl Pasol",
+        "StartLocation": {
+            "Name": "The Rak'tika Greatwood",
+            "X": "37.2",
+            "Y": "17.1"
+        },
+        "StartClass": null,
+        "Job": "",
+        "Company": "Not specified",
+        "Requirement": "Not specified",
+        "Rewards": {
+            "Gil": 533,
+            "Exp": null,
+            "ItemsMand": [
+                {
+                    "Icon": "https://img.finalfantasyxiv.com/lds/pc/global/images/itemicon/d9/d9beff495b00ab597dbd0b268530571d803e6a2d.png?n5.5",
+                    "Name": "Cordial",
+                    "Amount": 1,
+                    "Url": "/lodestone/playguide/db/item/2ff3e7e028c/"
+                }
+            ],
+            "ItemsOpt": []
+        },
+        "Infos": {},
+        "Seq": 20,
+        "oldID": 69350,
+        "Map": {
+            "ID": 495
+        }
+    },
+    {
+        "ID": "a91b66d6ef1",
+        "Name": " A Touch of Home",
+        "Location": "The Rak'tika Greatwood",
+        "Level": 70,
+        "JournalSection": 5,
+        "JournalCategory": 24,
+        "JournalGenre": "\n\t\t\t\t\t\t\tDaily Quests\n\t\t\t\t\t\t",
+        "Url": "/lodestone/playguide/db/quest/a91b66d6ef1/",
+        "Image": null,
+        "Icon": "common_repeat",
+        "Issuer": "Qhoterl Pasol",
+        "StartLocation": {
+            "Name": "The Rak'tika Greatwood",
+            "X": "37.2",
+            "Y": "17.1"
+        },
+        "StartClass": null,
+        "Job": "",
+        "Company": "Not specified",
+        "Requirement": "Not specified",
+        "Rewards": {
+            "Gil": 533,
+            "Exp": null,
+            "ItemsMand": [
+                {
+                    "Icon": "https://img.finalfantasyxiv.com/lds/pc/global/images/itemicon/d9/d9beff495b00ab597dbd0b268530571d803e6a2d.png?n5.5",
+                    "Name": "Cordial",
+                    "Amount": 1,
+                    "Url": "/lodestone/playguide/db/item/2ff3e7e028c/"
+                }
+            ],
+            "ItemsOpt": []
+        },
+        "Infos": {},
+        "Seq": 14,
+        "oldID": 69344,
+        "Map": {
+            "ID": 495
+        }
+    },
+    {
+        "ID": "b2bcd3236af",
+        "Name": " Delving Deeper",
+        "Location": "The Rak'tika Greatwood",
+        "Level": 70,
+        "JournalSection": 5,
+        "JournalCategory": 24,
+        "JournalGenre": "\n\t\t\t\t\t\t\tMain Quests\n\t\t\t\t\t\t",
+        "Url": "/lodestone/playguide/db/quest/b2bcd3236af/",
+        "Image": "https://img.finalfantasyxiv.com/lds/pc/global/images/itemicon/82/82a7a4a04a4273caed0b2d5ff50761221da13f90.png?n5.5",
+        "Icon": "function_normal",
+        "Issuer": "Qitari Serpent",
+        "StartLocation": {
+            "Name": "The Rak'tika Greatwood",
+            "X": "37.5",
+            "Y": "17.1"
+        },
+        "StartClass": null,
+        "Job": "",
+        "Company": "Not specified",
+        "Requirement": "Not specified",
+        "Rewards": {
+            "Gil": 1007,
+            "Exp": null,
+            "ItemsMand": [],
+            "ItemsOpt": []
+        },
+        "Infos": {
+            "PrevQuests": [
+                {
+                    "Name": " The First Stela: Of Ronkan Might",
+                    "Url": "/lodestone/playguide/db/quest/a04f4ad3e53/",
+                    "Area": "The Rak'tika Greatwood",
+                    "Level": "70"
+                },
+                {
+                    "Name": " The First Stela: Of Ronkan Benevolence",
+                    "Url": "/lodestone/playguide/db/quest/7cf3c064c0b/",
+                    "Area": "The Rak'tika Greatwood",
+                    "Level": "70"
+                }
+            ],
+            "NextQuests": [
+                {
+                    "Name": " The Second Stela: The Hunters and the Hunted",
+                    "Url": "/lodestone/playguide/db/quest/1e5185a9b14/",
+                    "Area": "The Rak'tika Greatwood",
+                    "Level": "70"
+                },
+                {
+                    "Name": " The Second Stela: Fast Friends",
+                    "Url": "/lodestone/playguide/db/quest/60c1836c978/",
+                    "Area": "The Rak'tika Greatwood",
+                    "Level": "70"
+                }
+            ],
+            "NPCs": [
+                {
+                    "Name": "Chaqurl Qhotl",
+                    "Url": "/lodestone/playguide/db/npc/npc/2abfd5ab610/",
+                    "Area": "The Rak'tika Greatwood (X:37.5 Y:17.1)"
+                },
+                {
+                    "Name": "Chaqurl Qhotl",
+                    "Url": "/lodestone/playguide/db/npc/npc/3815562dd23/",
+                    "Area": "The Rak'tika Greatwood (X:31.3 Y:16.9)"
+                },
+                {
+                    "Name": "Ciuna",
+                    "Url": "/lodestone/playguide/db/npc/npc/ea320d1dff7/",
+                    "Area": "The Rak'tika Greatwood (X:31.3 Y:16.9)"
+                },
+                {
+                    "Name": "Ciuna",
+                    "Url": "/lodestone/playguide/db/npc/npc/e376185f4fe/",
+                    "Area": "The Rak'tika Greatwood (X:37.4 Y:17.0)"
+                },
+                {
+                    "Name": "Lanille",
+                    "Url": "/lodestone/playguide/db/npc/npc/74182318976/",
+                    "Area": "The Rak'tika Greatwood (X:31.3 Y:16.9)"
+                },
+                {
+                    "Name": "Phyna",
+                    "Url": "/lodestone/playguide/db/npc/npc/bfc2f62a313/",
+                    "Area": "The Rak'tika Greatwood (X:31.3 Y:16.9)"
+                },
+                {
+                    "Name": "Phyna",
+                    "Url": "/lodestone/playguide/db/npc/npc/d7f19bf4e14/",
+                    "Area": "The Rak'tika Greatwood (X:37.5 Y:17.0)"
+                },
+                {
+                    "Name": "Qitari Serpent",
+                    "Url": "/lodestone/playguide/db/npc/npc/53d52a09e65/",
+                    "Area": "The Rak'tika Greatwood (X:31.4 Y:16.9)"
+                },
+                {
+                    "Name": "Qitarl Natl",
+                    "Url": "/lodestone/playguide/db/npc/npc/ef794788f12/",
+                    "Area": "The Rak'tika Greatwood (X:37.5 Y:17.1)"
+                },
+                {
+                    "Name": "Stopple Serpent",
+                    "Url": "/lodestone/playguide/db/npc/npc/4ef51a33c4e/",
+                    "Area": "The Rak'tika Greatwood (X:37.5 Y:17.1)"
+                }
+            ]
+        },
+        "Seq": 4,
+        "oldID": 69332,
+        "Map": {
+            "ID": 495
+        }
+    },
+    {
+        "ID": "b4439970af7",
+        "Name": " Salve Our Souls",
+        "Location": "The Rak'tika Greatwood",
+        "Level": 70,
+        "JournalSection": 5,
+        "JournalCategory": 24,
+        "JournalGenre": "\n\t\t\t\t\t\t\tDaily Quests\n\t\t\t\t\t\t",
+        "Url": "/lodestone/playguide/db/quest/b4439970af7/",
+        "Image": null,
+        "Icon": "common_repeat",
+        "Issuer": "Qhoterl Pasol",
+        "StartLocation": {
+            "Name": "The Rak'tika Greatwood",
+            "X": "37.2",
+            "Y": "17.1"
+        },
+        "StartClass": null,
+        "Job": "",
+        "Company": "Not specified",
+        "Requirement": "Not specified",
+        "Rewards": {
+            "Gil": 533,
+            "Exp": null,
+            "ItemsMand": [
+                {
+                    "Icon": "https://img.finalfantasyxiv.com/lds/pc/global/images/itemicon/d9/d9beff495b00ab597dbd0b268530571d803e6a2d.png?n5.5",
+                    "Name": "Cordial",
+                    "Amount": 1,
+                    "Url": "/lodestone/playguide/db/item/2ff3e7e028c/"
+                }
+            ],
+            "ItemsOpt": []
+        },
+        "Infos": {},
+        "Seq": 21,
+        "oldID": 69351,
+        "Map": {
+            "ID": 495
+        }
+    },
+    {
+        "ID": "b7ecfd91c76",
+        "Name": " Rational Thinking",
+        "Location": "The Rak'tika Greatwood",
+        "Level": 70,
+        "JournalSection": 5,
+        "JournalCategory": 24,
+        "JournalGenre": "\n\t\t\t\t\t\t\tDaily Quests\n\t\t\t\t\t\t",
+        "Url": "/lodestone/playguide/db/quest/b7ecfd91c76/",
+        "Image": null,
+        "Icon": "common_repeat",
+        "Issuer": "Qhoterl Pasol",
+        "StartLocation": {
+            "Name": "The Rak'tika Greatwood",
+            "X": "37.2",
+            "Y": "17.1"
+        },
+        "StartClass": null,
+        "Job": "",
+        "Company": "Not specified",
+        "Requirement": "Not specified",
+        "Rewards": {
+            "Gil": 533,
+            "Exp": null,
+            "ItemsMand": [
+                {
+                    "Icon": "https://img.finalfantasyxiv.com/lds/pc/global/images/itemicon/d9/d9beff495b00ab597dbd0b268530571d803e6a2d.png?n5.5",
+                    "Name": "Cordial",
+                    "Amount": 1,
+                    "Url": "/lodestone/playguide/db/item/2ff3e7e028c/"
+                }
+            ],
+            "ItemsOpt": []
+        },
+        "Infos": {},
+        "Seq": 17,
+        "oldID": 69347,
+        "Map": {
+            "ID": 495
+        }
+    },
+    {
+        "ID": "c1d94c81f48",
+        "Name": " Meat and Greet",
+        "Location": "The Rak'tika Greatwood",
+        "Level": 70,
+        "JournalSection": 5,
+        "JournalCategory": 24,
+        "JournalGenre": "\n\t\t\t\t\t\t\tDaily Quests\n\t\t\t\t\t\t",
+        "Url": "/lodestone/playguide/db/quest/c1d94c81f48/",
+        "Image": null,
+        "Icon": "common_repeat",
+        "Issuer": "Qhoterl Pasol",
+        "StartLocation": {
+            "Name": "The Rak'tika Greatwood",
+            "X": "37.2",
+            "Y": "17.1"
+        },
+        "StartClass": null,
+        "Job": "",
+        "Company": "Not specified",
+        "Requirement": "Not specified",
+        "Rewards": {
+            "Gil": 533,
+            "Exp": null,
+            "ItemsMand": [
+                {
+                    "Icon": "https://img.finalfantasyxiv.com/lds/pc/global/images/itemicon/d9/d9beff495b00ab597dbd0b268530571d803e6a2d.png?n5.5",
+                    "Name": "Cordial",
+                    "Amount": 1,
+                    "Url": "/lodestone/playguide/db/item/2ff3e7e028c/"
+                }
+            ],
+            "ItemsOpt": []
+        },
+        "Infos": {},
+        "Seq": 27,
+        "oldID": 69357,
+        "Map": {
+            "ID": 495
+        }
+    },
+    {
+        "ID": "c6f5ecde40e",
+        "Name": " Splendid Eats",
+        "Location": "The Rak'tika Greatwood",
+        "Level": 70,
+        "JournalSection": 5,
+        "JournalCategory": 24,
+        "JournalGenre": "\n\t\t\t\t\t\t\tDaily Quests\n\t\t\t\t\t\t",
+        "Url": "/lodestone/playguide/db/quest/c6f5ecde40e/",
+        "Image": null,
+        "Icon": "common_repeat",
+        "Issuer": "Qhoterl Pasol",
+        "StartLocation": {
+            "Name": "The Rak'tika Greatwood",
+            "X": "37.2",
+            "Y": "17.1"
+        },
+        "StartClass": null,
+        "Job": "",
+        "Company": "Not specified",
+        "Requirement": "Not specified",
+        "Rewards": {
+            "Gil": 533,
+            "Exp": null,
+            "ItemsMand": [
+                {
+                    "Icon": "https://img.finalfantasyxiv.com/lds/pc/global/images/itemicon/d9/d9beff495b00ab597dbd0b268530571d803e6a2d.png?n5.5",
+                    "Name": "Cordial",
+                    "Amount": 1,
+                    "Url": "/lodestone/playguide/db/item/2ff3e7e028c/"
+                }
+            ],
+            "ItemsOpt": []
+        },
+        "Infos": {},
+        "Seq": 34,
+        "oldID": 69364,
+        "Map": {
+            "ID": 495
+        }
+    },
+    {
+        "ID": "ccb4746ccd3",
+        "Name": " One Fish, Two Fish, Bread Fish, Stew Fish",
+        "Location": "The Rak'tika Greatwood",
+        "Level": 70,
+        "JournalSection": 5,
+        "JournalCategory": 24,
+        "JournalGenre": "\n\t\t\t\t\t\t\tDaily Quests\n\t\t\t\t\t\t",
+        "Url": "/lodestone/playguide/db/quest/ccb4746ccd3/",
+        "Image": null,
+        "Icon": "common_repeat",
+        "Issuer": "Qhoterl Pasol",
+        "StartLocation": {
+            "Name": "The Rak'tika Greatwood",
+            "X": "37.2",
+            "Y": "17.1"
+        },
+        "StartClass": null,
+        "Job": "",
+        "Company": "Not specified",
+        "Requirement": "Not specified",
+        "Rewards": {
+            "Gil": 533,
+            "Exp": null,
+            "ItemsMand": [
+                {
+                    "Icon": "https://img.finalfantasyxiv.com/lds/pc/global/images/itemicon/d9/d9beff495b00ab597dbd0b268530571d803e6a2d.png?n5.5",
+                    "Name": "Cordial",
+                    "Amount": 1,
+                    "Url": "/lodestone/playguide/db/item/2ff3e7e028c/"
+                }
+            ],
+            "ItemsOpt": []
+        },
+        "Infos": {},
+        "Seq": 37,
+        "oldID": 69367,
+        "Map": {
+            "ID": 495
+        }
+    },
+    {
+        "ID": "d6118839c2f",
+        "Name": " The Third Stela: A Famine for Fishmen",
+        "Location": "The Rak'tika Greatwood",
+        "Level": 70,
+        "JournalSection": 5,
+        "JournalCategory": 24,
+        "JournalGenre": "\n\t\t\t\t\t\t\tMain Quests\n\t\t\t\t\t\t",
+        "Url": "/lodestone/playguide/db/quest/d6118839c2f/",
+        "Image": "https://img.finalfantasyxiv.com/lds/pc/global/images/itemicon/c0/c067ca54cc9e9f9ba9cf5cedb6095d5014301274.png?n5.5",
+        "Icon": "function_normal",
+        "Issuer": "Qitarl Natl",
+        "StartLocation": {
+            "Name": "The Rak'tika Greatwood",
+            "X": "37.5",
+            "Y": "17.1"
+        },
+        "StartClass": null,
+        "Job": "",
+        "Company": "Not specified",
+        "Requirement": "Not specified",
+        "Rewards": {
+            "Gil": 642,
+            "Exp": null,
+            "ItemsMand": [],
+            "ItemsOpt": []
+        },
+        "Infos": {
+            "PrevQuests": [
+                {
+                    "Name": " A Chilling Fate",
+                    "Url": "/lodestone/playguide/db/quest/f61b41184dd/",
+                    "Area": "The Rak'tika Greatwood",
+                    "Level": "70"
+                }
+            ],
+            "NextQuests": [
+                {
+                    "Name": " What Ails the Forest",
+                    "Url": "/lodestone/playguide/db/quest/dc5d0fcb5f9/",
+                    "Area": "The Rak'tika Greatwood",
+                    "Level": "70"
+                }
+            ]
+        },
+        "Seq": 8,
+        "oldID": 69340,
+        "Map": {
+            "ID": 495
+        }
+    },
+    {
+        "ID": "dc5d0fcb5f9",
+        "Name": " What Ails the Forest",
+        "Location": "The Rak'tika Greatwood",
+        "Level": 70,
+        "JournalSection": 5,
+        "JournalCategory": 24,
+        "JournalGenre": "\n\t\t\t\t\t\t\tMain Quests\n\t\t\t\t\t\t",
+        "Url": "/lodestone/playguide/db/quest/dc5d0fcb5f9/",
+        "Image": "https://img.finalfantasyxiv.com/lds/pc/global/images/itemicon/f3/f3b150a02bad712523930b0b1a4348a93bbc498f.png?n5.5",
+        "Icon": "function_normal",
+        "Issuer": "Qitari Serpent",
+        "StartLocation": {
+            "Name": "The Rak'tika Greatwood",
+            "X": "37.5",
+            "Y": "17.1"
+        },
+        "StartClass": null,
+        "Job": "",
+        "Company": "Not specified",
+        "Requirement": "Not specified",
+        "Rewards": {
+            "Gil": 1262,
+            "Exp": null,
+            "ItemsMand": [],
+            "ItemsOpt": []
+        },
+        "Infos": {
+            "PrevQuests": [
+                {
+                    "Name": " The Third Stela: A Famine for Fishmen",
+                    "Url": "/lodestone/playguide/db/quest/d6118839c2f/",
+                    "Area": "The Rak'tika Greatwood",
+                    "Level": "70"
+                },
+                {
+                    "Name": " The Third Stela: A Feast for Fishmen",
+                    "Url": "/lodestone/playguide/db/quest/71e81cea711/",
+                    "Area": "The Rak'tika Greatwood",
+                    "Level": "70"
+                }
+            ],
+            "NextQuests": [
+                {
+                    "Name": " Glory Be to the Scree",
+                    "Url": "/lodestone/playguide/db/quest/9f53896e9d2/",
+                    "Area": "The Rak'tika Greatwood",
+                    "Level": "70"
+                }
+            ],
+            "NPCs": [
+                {
+                    "Name": "Chaqurl Qhotl",
+                    "Url": "/lodestone/playguide/db/npc/npc/2abfd5ab610/",
+                    "Area": "The Rak'tika Greatwood (X:37.5 Y:17.1)"
+                },
+                {
+                    "Name": "Chaqurl Qhotl",
+                    "Url": "/lodestone/playguide/db/npc/npc/8284c692a63/",
+                    "Area": "The Rak'tika Greatwood (X:36.9 Y:17.3)"
+                },
+                {
+                    "Name": "Ciuna",
+                    "Url": "/lodestone/playguide/db/npc/npc/ea320d1dff7/",
+                    "Area": "The Rak'tika Greatwood (X:31.3 Y:16.9)"
+                },
+                {
+                    "Name": "Lanille",
+                    "Url": "/lodestone/playguide/db/npc/npc/74182318976/",
+                    "Area": "The Rak'tika Greatwood (X:31.3 Y:16.9)"
+                },
+                {
+                    "Name": "Phyna",
+                    "Url": "/lodestone/playguide/db/npc/npc/bfc2f62a313/",
+                    "Area": "The Rak'tika Greatwood (X:31.3 Y:16.9)"
+                },
+                {
+                    "Name": "Qitari Serpent",
+                    "Url": "/lodestone/playguide/db/npc/npc/636fb14e00d/",
+                    "Area": "The Rak'tika Greatwood (X:37.0 Y:17.3)"
+                },
+                {
+                    "Name": "Qitarl Natl",
+                    "Url": "/lodestone/playguide/db/npc/npc/ef794788f12/",
+                    "Area": "The Rak'tika Greatwood (X:37.5 Y:17.1)"
+                },
+                {
+                    "Name": "Qitarl Natl",
+                    "Url": "/lodestone/playguide/db/npc/npc/562649280f9/",
+                    "Area": "The Rak'tika Greatwood (X:37.0 Y:17.3)"
+                },
+                {
+                    "Name": "Quinfort",
+                    "Url": "/lodestone/playguide/db/npc/npc/32945cfe8e9/",
+                    "Area": "The Rak'tika Greatwood (X:31.3 Y:16.9)"
+                },
+                {
+                    "Name": "Quinfort",
+                    "Url": "/lodestone/playguide/db/npc/npc/cb2826472fd/",
+                    "Area": "The Rak'tika Greatwood (X:37.0 Y:17.3)"
+                }
+            ]
+        },
+        "Seq": 10,
+        "oldID": 69334,
+        "Map": {
+            "ID": 495
+        }
+    },
+    {
+        "ID": "de2ebf08986",
+        "Name": " Where the Sun Don't Shine",
+        "Location": "The Rak'tika Greatwood",
+        "Level": 70,
+        "JournalSection": 5,
+        "JournalCategory": 24,
+        "JournalGenre": "\n\t\t\t\t\t\t\tDaily Quests\n\t\t\t\t\t\t",
+        "Url": "/lodestone/playguide/db/quest/de2ebf08986/",
+        "Image": null,
+        "Icon": "common_repeat",
+        "Issuer": "Qhoterl Pasol",
+        "StartLocation": {
+            "Name": "The Rak'tika Greatwood",
+            "X": "37.2",
+            "Y": "17.1"
+        },
+        "StartClass": null,
+        "Job": "",
+        "Company": "Not specified",
+        "Requirement": "Not specified",
+        "Rewards": {
+            "Gil": 533,
+            "Exp": null,
+            "ItemsMand": [
+                {
+                    "Icon": "https://img.finalfantasyxiv.com/lds/pc/global/images/itemicon/d9/d9beff495b00ab597dbd0b268530571d803e6a2d.png?n5.5",
+                    "Name": "Cordial",
+                    "Amount": 1,
+                    "Url": "/lodestone/playguide/db/item/2ff3e7e028c/"
+                }
+            ],
+            "ItemsOpt": []
+        },
+        "Infos": {},
+        "Seq": 13,
+        "oldID": 69343,
+        "Map": {
+            "ID": 495
+        }
+    },
+    {
+        "ID": "e9b57872dab",
+        "Name": " Her Splendid Materials",
+        "Location": "The Rak'tika Greatwood",
+        "Level": 70,
+        "JournalSection": 5,
+        "JournalCategory": 24,
+        "JournalGenre": "\n\t\t\t\t\t\t\tDaily Quests\n\t\t\t\t\t\t",
+        "Url": "/lodestone/playguide/db/quest/e9b57872dab/",
+        "Image": null,
+        "Icon": "common_repeat",
+        "Issuer": "Qhoterl Pasol",
+        "StartLocation": {
+            "Name": "The Rak'tika Greatwood",
+            "X": "37.2",
+            "Y": "17.1"
+        },
+        "StartClass": null,
+        "Job": "",
+        "Company": "Not specified",
+        "Requirement": "Not specified",
+        "Rewards": {
+            "Gil": 533,
+            "Exp": null,
+            "ItemsMand": [
+                {
+                    "Icon": "https://img.finalfantasyxiv.com/lds/pc/global/images/itemicon/d9/d9beff495b00ab597dbd0b268530571d803e6a2d.png?n5.5",
+                    "Name": "Cordial",
+                    "Amount": 1,
+                    "Url": "/lodestone/playguide/db/item/2ff3e7e028c/"
+                }
+            ],
+            "ItemsOpt": []
+        },
+        "Infos": {},
+        "Seq": 33,
+        "oldID": 69363,
+        "Map": {
+            "ID": 495
+        }
+    },
+    {
+        "ID": "ea4dbaf61b7",
+        "Name": " Legends of the Ronkan Temple",
+        "Location": "The Rak'tika Greatwood",
+        "Level": 70,
+        "JournalSection": 5,
+        "JournalCategory": 24,
+        "JournalGenre": "\n\t\t\t\t\t\t\tDaily Quests\n\t\t\t\t\t\t",
+        "Url": "/lodestone/playguide/db/quest/ea4dbaf61b7/",
+        "Image": null,
+        "Icon": "common_repeat",
+        "Issuer": "Qhoterl Pasol",
+        "StartLocation": {
+            "Name": "The Rak'tika Greatwood",
+            "X": "37.2",
+            "Y": "17.1"
+        },
+        "StartClass": null,
+        "Job": "",
+        "Company": "Not specified",
+        "Requirement": "Not specified",
+        "Rewards": {
+            "Gil": 606,
+            "Exp": null,
+            "ItemsMand": [],
+            "ItemsOpt": []
+        },
+        "Infos": {},
+        "Seq": 32,
+        "oldID": 69362,
+        "Map": {
+            "ID": 495
+        }
+    },
+    {
+        "ID": "f2ff2bf2884",
+        "Name": " Serpent's Will Be Done",
+        "Location": "The Rak'tika Greatwood",
+        "Level": 70,
+        "JournalSection": 5,
+        "JournalCategory": 24,
+        "JournalGenre": "\n\t\t\t\t\t\t\tDaily Quests\n\t\t\t\t\t\t",
+        "Url": "/lodestone/playguide/db/quest/f2ff2bf2884/",
+        "Image": null,
+        "Icon": "common_repeat",
+        "Issuer": "Qhoterl Pasol",
+        "StartLocation": {
+            "Name": "The Rak'tika Greatwood",
+            "X": "37.2",
+            "Y": "17.1"
+        },
+        "StartClass": null,
+        "Job": "",
+        "Company": "Not specified",
+        "Requirement": "Not specified",
+        "Rewards": {
+            "Gil": 679,
+            "Exp": null,
+            "ItemsMand": [],
+            "ItemsOpt": []
+        },
+        "Infos": {
+            "PrevQuests": [
+                {
+                    "Name": "Uterl Matl",
+                    "Url": "/lodestone/playguide/db/npc/npc/3d7b79d21ec/",
+                    "Area": "The Rak'tika Greatwood (X:37.3 Y:17.7)"
+                }
+            ]
+        },
+        "Seq": 38,
+        "oldID": 69368,
+        "Map": {
+            "ID": 495
+        }
+    },
+    {
+        "ID": "f61b41184dd",
+        "Name": " A Chilling Fate",
+        "Location": "The Rak'tika Greatwood",
+        "Level": 70,
+        "JournalSection": 5,
+        "JournalCategory": 24,
+        "JournalGenre": "\n\t\t\t\t\t\t\tMain Quests\n\t\t\t\t\t\t",
+        "Url": "/lodestone/playguide/db/quest/f61b41184dd/",
+        "Image": "https://img.finalfantasyxiv.com/lds/pc/global/images/itemicon/b9/b9f18148f11ae8b319e1d77db28e454c3408da23.png?n5.5",
+        "Icon": "function_normal",
+        "Issuer": "Qitari Serpent",
+        "StartLocation": {
+            "Name": "The Rak'tika Greatwood",
+            "X": "37.5",
+            "Y": "17.1"
+        },
+        "StartClass": null,
+        "Job": "",
+        "Company": "Not specified",
+        "Requirement": "Not specified",
+        "Rewards": {
+            "Gil": 898,
+            "Exp": null,
+            "ItemsMand": [],
+            "ItemsOpt": []
+        },
+        "Infos": {
+            "PrevQuests": [
+                {
+                    "Name": " The Second Stela: The Hunters and the Hunted",
+                    "Url": "/lodestone/playguide/db/quest/1e5185a9b14/",
+                    "Area": "The Rak'tika Greatwood",
+                    "Level": "70"
+                },
+                {
+                    "Name": " The Second Stela: Fast Friends",
+                    "Url": "/lodestone/playguide/db/quest/60c1836c978/",
+                    "Area": "The Rak'tika Greatwood",
+                    "Level": "70"
+                }
+            ],
+            "NextQuests": [
+                {
+                    "Name": " The Third Stela: A Famine for Fishmen",
+                    "Url": "/lodestone/playguide/db/quest/d6118839c2f/",
+                    "Area": "The Rak'tika Greatwood",
+                    "Level": "70"
+                },
+                {
+                    "Name": " The Third Stela: A Feast for Fishmen",
+                    "Url": "/lodestone/playguide/db/quest/71e81cea711/",
+                    "Area": "The Rak'tika Greatwood",
+                    "Level": "70"
+                }
+            ],
+            "NPCs": [
+                {
+                    "Name": "Chaqurl Qhotl",
+                    "Url": "/lodestone/playguide/db/npc/npc/2abfd5ab610/",
+                    "Area": "The Rak'tika Greatwood (X:37.5 Y:17.1)"
+                },
+                {
+                    "Name": "Chaqurl Qhotl",
+                    "Url": "/lodestone/playguide/db/npc/npc/4e48556420f/",
+                    "Area": "The Rak'tika Greatwood (X:37.0 Y:17.3)"
+                },
+                {
+                    "Name": "Lanille",
+                    "Url": "/lodestone/playguide/db/npc/npc/74182318976/",
+                    "Area": "The Rak'tika Greatwood (X:31.3 Y:16.9)"
+                },
+                {
+                    "Name": "Qitari Serpent",
+                    "Url": "/lodestone/playguide/db/npc/npc/636fb14e00d/",
+                    "Area": "The Rak'tika Greatwood (X:37.0 Y:17.3)"
+                },
+                {
+                    "Name": "Qitarl Natl",
+                    "Url": "/lodestone/playguide/db/npc/npc/222ab5f5f60/",
+                    "Area": "The Rak'tika Greatwood (X:37.0 Y:17.2)"
+                },
+                {
+                    "Name": "Quinfort",
+                    "Url": "/lodestone/playguide/db/npc/npc/32945cfe8e9/",
+                    "Area": "The Rak'tika Greatwood (X:31.3 Y:16.9)"
+                },
+                {
+                    "Name": "Quinfort",
+                    "Url": "/lodestone/playguide/db/npc/npc/7a00ef5b155/",
+                    "Area": "The Rak'tika Greatwood (X:37.4 Y:17.0)"
+                },
+                {
+                    "Name": "Stopple Serpent",
+                    "Url": "/lodestone/playguide/db/npc/npc/4ef51a33c4e/",
+                    "Area": "The Rak'tika Greatwood (X:37.5 Y:17.1)"
+                },
+                {
+                    "Name": "Valan",
+                    "Url": "/lodestone/playguide/db/npc/npc/9cc3e7ab95c/",
+                    "Area": "The Rak'tika Greatwood (X:36.9 Y:17.3)"
+                },
+                {
+                    "Name": "Valan",
+                    "Url": "/lodestone/playguide/db/npc/npc/2f812629daa/",
+                    "Area": "The Rak'tika Greatwood (X:37.5 Y:17.0)"
+                }
+            ]
+        },
+        "Seq": 7,
+        "oldID": 69333,
+        "Map": {
+            "ID": 495
+        }
+    },
+    {
+        "ID": "f831fe4c9b1",
+        "Name": " A Tool's Errand",
+        "Location": "The Rak'tika Greatwood",
+        "Level": 70,
+        "JournalSection": 5,
+        "JournalCategory": 24,
+        "JournalGenre": "\n\t\t\t\t\t\t\tDaily Quests\n\t\t\t\t\t\t",
+        "Url": "/lodestone/playguide/db/quest/f831fe4c9b1/",
+        "Image": null,
+        "Icon": "common_repeat",
+        "Issuer": "Qhoterl Pasol",
+        "StartLocation": {
+            "Name": "The Rak'tika Greatwood",
+            "X": "37.2",
+            "Y": "17.1"
+        },
+        "StartClass": null,
+        "Job": "",
+        "Company": "Not specified",
+        "Requirement": "Not specified",
+        "Rewards": {
+            "Gil": 533,
+            "Exp": null,
+            "ItemsMand": [
+                {
+                    "Icon": "https://img.finalfantasyxiv.com/lds/pc/global/images/itemicon/d9/d9beff495b00ab597dbd0b268530571d803e6a2d.png?n5.5",
+                    "Name": "Cordial",
+                    "Amount": 1,
+                    "Url": "/lodestone/playguide/db/item/2ff3e7e028c/"
+                }
+            ],
+            "ItemsOpt": []
+        },
+        "Infos": {},
+        "Seq": 12,
+        "oldID": 69342,
+        "Map": {
+            "ID": 495
+        }
+    },
+    {
+        "ID": "fe5a1c2a44c",
+        "Name": " Rock 'n Ronka",
+        "Location": "The Rak'tika Greatwood",
+        "Level": 70,
+        "JournalSection": 5,
+        "JournalCategory": 24,
+        "JournalGenre": "\n\t\t\t\t\t\t\tDaily Quests\n\t\t\t\t\t\t",
+        "Url": "/lodestone/playguide/db/quest/fe5a1c2a44c/",
+        "Image": null,
+        "Icon": "common_repeat",
+        "Issuer": "Qhoterl Pasol",
+        "StartLocation": {
+            "Name": "The Rak'tika Greatwood",
+            "X": "37.2",
+            "Y": "17.1"
+        },
+        "StartClass": null,
+        "Job": "",
+        "Company": "Not specified",
+        "Requirement": "Not specified",
+        "Rewards": {
+            "Gil": 533,
+            "Exp": null,
+            "ItemsMand": [
+                {
+                    "Icon": "https://img.finalfantasyxiv.com/lds/pc/global/images/itemicon/d9/d9beff495b00ab597dbd0b268530571d803e6a2d.png?n5.5",
+                    "Name": "Cordial",
+                    "Amount": 1,
+                    "Url": "/lodestone/playguide/db/item/2ff3e7e028c/"
+                }
+            ],
+            "ItemsOpt": []
+        },
+        "Infos": {},
+        "Seq": 30,
+        "oldID": 69360,
+        "Map": {
+            "ID": 495
+        }
+    }
+]

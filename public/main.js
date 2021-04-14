@@ -8,7 +8,6 @@ const { fs } = require("file-system");
 const isOnline = require("is-online");
 const { autoUpdater } = require("electron-updater");
 const isDev = require("electron-is-dev");
-const { globalAgent } = require("http");
 
 // Events
 const {
@@ -26,17 +25,14 @@ var oLogger = {};
 
 // Create main window when ready
 app.whenReady().then(function () {
-  var sPathLog = isDev
-    ? "../extraResources/log/log.log"
-    : "../../extraResources/log/log.log";
+  var sPathLog = isDev ? "../extraResources/log/log.log" : "../../extraResources/log/log.log";
   fs.unlink(`${path.join(__dirname, sPathLog)}`, function () {});
 
+  // Create Data file if necessary
   var sPathDir = isDev
     ? `${path.join(__dirname, "../extraResources/data")}`
     : `${path.join(process.env.APPDATA, "./ffxiv-tracker")}`;
-
   var sPathFile = `${path.join(sPathDir, "./quest.json")}`;
-
   try {
     if (!fs.existsSync(sPathFile)) {
       fs.writeFileSync(sPathFile, '{"quests":[]}');
@@ -46,6 +42,7 @@ app.whenReady().then(function () {
     fs.writeFileSync(sPathFile, '{"quests":[]}');
   }
 
+  // Bind Logger and create Window
   oLogger = new Logger();
   autoUpdater.logger = oLogger._oWinston;
   mainWindow = appHandler.createWindow(BrowserWindow);
@@ -81,6 +78,7 @@ ipcMain.on("restart_app", () => {
   autoUpdater.quitAndInstall();
 });
 
+// Check for Update
 ipcMain.on("check_update", () => {
   autoUpdater.checkForUpdatesAndNotify();
 });
@@ -98,8 +96,8 @@ ipcMain.handle("init-JournalCategories", async (event, iJournalSection) => {
 });
 
 // Initialze Journal Sections
-ipcMain.handle("loadQuests", async (event, iJournalCategory) => {
-  let aResult = await loadQuests(iJournalCategory);
+ipcMain.handle("loadQuests", async (event, iJournalSection, iJournalCategory) => {
+  let aResult = await loadQuests(iJournalSection, iJournalCategory);
   return aResult;
 });
 
@@ -125,21 +123,15 @@ ipcMain.handle("search", async (event, sSearchString) => {
 
 // Read Config
 ipcMain.on("get_config", (event) => {
-  const sPathConfig = isDev
-    ? "../extraResources/config/config.json"
-    : "../../extraResources/config/config.json";
+  const sPathConfig = isDev ? "../extraResources/config/config.json" : "../../extraResources/config/config.json";
   const oConfig = require(sPathConfig);
-
-  const aIcons = require("../src/preload.json");
-  event.returnValue = { language: oConfig.language, IconIDs: aIcons };
+  event.returnValue = { language: oConfig.language };
 });
 
 // Change Language
 ipcMain.handle("changeLangu", async (event, sLangu) => {
   var oFileSystem = new FileSystem();
-  const sPathRead = isDev
-    ? "../extraResources/config/config.json"
-    : "../../extraResources/config/config.json";
+  const sPathRead = isDev ? "../extraResources/config/config.json" : "../../extraResources/config/config.json";
   const sPathWrite = isDev
     ? "../../../../extraResources/config/config.json"
     : "../../../../../extraResources/config/config.json";
@@ -147,9 +139,7 @@ ipcMain.handle("changeLangu", async (event, sLangu) => {
   var config = require(sPathRead);
   config.language = sLangu.toLowerCase();
 
-  var bResult = await oFileSystem
-    .write(sPathWrite, config, false)
-    .then((result) => result);
+  var bResult = await oFileSystem.write(sPathWrite, config, false).then((result) => result);
 
   return bResult;
 });

@@ -1,0 +1,657 @@
+[
+    {
+        "ID": "1d5841d5d85",
+        "Name": "Ein tapferes Opfer",
+        "Location": "Rubinsee",
+        "Level": 70,
+        "JournalSection": 2,
+        "JournalCategory": 19,
+        "JournalGenre": "Der Mythos der vier Tierheiligen",
+        "Url": "/lodestone/playguide/db/quest/1d5841d5d85/",
+        "Image": "https://img.finalfantasyxiv.com/lds/pc/global/images/itemicon/f0/f05e8e05f51eb7acac7d4a8f8443c733b36d69b6.png?n5.5",
+        "Icon": "common_normal",
+        "Issuer": "Seiryu",
+        "StartLocation": {
+            "Name": "Rubinsee",
+            "X": "37.4",
+            "Y": "15.4"
+        },
+        "StartClass": null,
+        "Job": "",
+        "Company": "Keine Angabe",
+        "Requirement": "Keine Angabe",
+        "Rewards": {
+            "Gil": 1277,
+            "Exp": 0,
+            "ItemsMand": [
+                {
+                    "Icon": "https://img.finalfantasyxiv.com/lds/pc/global/images/itemicon/85/852ca2537bf90cc2838c1a81193ee70009a6c425.png?n5.5",
+                    "Name": "Bild der Tierheiligen",
+                    "Amount": 1,
+                    "Url": "/lodestone/playguide/db/item/b479a96b180/"
+                }
+            ],
+            "ItemsOpt": []
+        },
+        "Infos": {
+            "PrevQuests": [
+                {
+                    "Name": "Dem Schwur treu ergeben",
+                    "Url": "/lodestone/playguide/db/quest/52b4a3217d3/",
+                    "Area": "Rubinsee",
+                    "Level": "70"
+                }
+            ],
+            "NextQuests": [
+                {
+                    "Name": "Byakko",
+                    "Url": "/lodestone/playguide/db/npc/npc/9ea260743d9/",
+                    "Area": "Reisen-Schrein (X:6.0 Y:6.0)"
+                },
+                {
+                    "Name": "Byakko",
+                    "Url": "/lodestone/playguide/db/npc/npc/080f141a12e/",
+                    "Area": "Reisen-Schrein (X:5.0 Y:6.2)"
+                },
+                {
+                    "Name": "Genbu",
+                    "Url": "/lodestone/playguide/db/npc/npc/081fd435184/",
+                    "Area": "Reisen-Schrein (X:6.1 Y:6.0)"
+                },
+                {
+                    "Name": "Komainu des Abendläutens",
+                    "Url": "/lodestone/playguide/db/npc/npc/cd2837664c3/",
+                    "Area": "Reisen-Schrein (X:6.1 Y:5.5)"
+                },
+                {
+                    "Name": "Kudagitsune",
+                    "Url": "/lodestone/playguide/db/npc/npc/209f6fac8b1/",
+                    "Area": "Reisen-Schrein (X:5.9 Y:5.7)"
+                },
+                {
+                    "Name": "Nue",
+                    "Url": "/lodestone/playguide/db/npc/npc/d74367cc929/",
+                    "Area": "Reisen-Schrein (X:6.4 Y:6.2)"
+                },
+                {
+                    "Name": "Qitian Dasheng",
+                    "Url": "/lodestone/playguide/db/npc/npc/fb68ebab3a0/",
+                    "Area": "Reisen-Schrein (X:6.2 Y:5.7)"
+                },
+                {
+                    "Name": "Seiryu",
+                    "Url": "/lodestone/playguide/db/npc/npc/26e43230095/",
+                    "Area": "Reisen-Schrein (X:6.0 Y:6.1)"
+                },
+                {
+                    "Name": "Seiryu",
+                    "Url": "/lodestone/playguide/db/npc/npc/88bee24732c/",
+                    "Area": "Reisen-Schrein (X:6.1 Y:6.0)"
+                },
+                {
+                    "Name": "Seiryu",
+                    "Url": "/lodestone/playguide/db/npc/npc/87d59447e80/",
+                    "Area": "Reisen-Schrein (X:7.1 Y:6.2)"
+                },
+                {
+                    "Name": "Soroban",
+                    "Url": "/lodestone/playguide/db/npc/npc/73c4a524df7/",
+                    "Area": "Reisen-Schrein (X:6.1 Y:6.0)"
+                },
+                {
+                    "Name": "Suzaku",
+                    "Url": "/lodestone/playguide/db/npc/npc/f9f1bda9692/",
+                    "Area": "Reisen-Schrein (X:6.0 Y:6.1)"
+                },
+                {
+                    "Name": "Suzaku",
+                    "Url": "/lodestone/playguide/db/npc/npc/cda0dbceabc/",
+                    "Area": "Reisen-Schrein (X:6.3 Y:6.4)"
+                },
+                {
+                    "Name": "Tataru",
+                    "Url": "/lodestone/playguide/db/npc/npc/ffe56eb5f43/",
+                    "Area": "Reisen-Schrein (X:6.1 Y:6.1)"
+                },
+                {
+                    "Name": "Tataru",
+                    "Url": "/lodestone/playguide/db/npc/npc/0650ab1ffcd/",
+                    "Area": "Reisen-Schrein (X:6.1 Y:5.3)"
+                },
+                {
+                    "Name": "Zorn-Inugami",
+                    "Url": "/lodestone/playguide/db/npc/npc/e81a0c6fecb/",
+                    "Area": "Reisen-Schrein (X:5.5 Y:5.9)"
+                },
+                {
+                    "Name": "Bunchin",
+                    "Url": "/lodestone/playguide/db/npc/npc/8d3f9089f39/",
+                    "Area": "Rubinsee (X:27.8 Y:16.4)"
+                }
+            ]
+        },
+        "Seq": 4,
+        "oldID": 68702,
+        "Map": {
+            "ID": 371
+        }
+    },
+    {
+        "ID": "52b4a3217d3",
+        "Name": "Dem Schwur treu ergeben",
+        "Location": "Rubinsee",
+        "Level": 70,
+        "JournalSection": 2,
+        "JournalCategory": 19,
+        "JournalGenre": "Der Mythos der vier Tierheiligen",
+        "Url": "/lodestone/playguide/db/quest/52b4a3217d3/",
+        "Image": "https://img.finalfantasyxiv.com/lds/pc/global/images/itemicon/8a/8a147da2807750ce1f55ba9db5d292516eb67c4e.png?n5.5",
+        "Icon": "function_normal",
+        "Issuer": "Bunchin",
+        "StartLocation": {
+            "Name": "Rubinsee",
+            "X": "27.8",
+            "Y": "16.4"
+        },
+        "StartClass": null,
+        "Job": "",
+        "Company": "Keine Angabe",
+        "Requirement": "Keine Angabe",
+        "Rewards": {
+            "Gil": 3318,
+            "Exp": 0,
+            "ItemsMand": [],
+            "ItemsOpt": []
+        },
+        "Infos": {
+            "PrevQuests": [
+                {
+                    "Name": "Eine Liebe über den Tod hinaus",
+                    "Url": "/lodestone/playguide/db/quest/e5023340098/",
+                    "Area": "Rubinsee",
+                    "Level": "70"
+                }
+            ],
+            "NextQuests": [
+                {
+                    "Name": "Ein tapferes Opfer",
+                    "Url": "/lodestone/playguide/db/quest/1d5841d5d85/",
+                    "Area": "Rubinsee",
+                    "Level": "70"
+                }
+            ],
+            "NPCs": [
+                {
+                    "Name": "Genbu",
+                    "Url": "/lodestone/playguide/db/npc/npc/081fd435184/",
+                    "Area": "Reisen-Schrein (X:6.1 Y:6.0)"
+                },
+                {
+                    "Name": "Komainu des Abendläutens",
+                    "Url": "/lodestone/playguide/db/npc/npc/cd2837664c3/",
+                    "Area": "Reisen-Schrein (X:6.1 Y:5.5)"
+                },
+                {
+                    "Name": "Kudagitsune",
+                    "Url": "/lodestone/playguide/db/npc/npc/209f6fac8b1/",
+                    "Area": "Reisen-Schrein (X:5.9 Y:5.7)"
+                },
+                {
+                    "Name": "Nue",
+                    "Url": "/lodestone/playguide/db/npc/npc/d74367cc929/",
+                    "Area": "Reisen-Schrein (X:6.4 Y:6.2)"
+                },
+                {
+                    "Name": "Qitian Dasheng",
+                    "Url": "/lodestone/playguide/db/npc/npc/fb68ebab3a0/",
+                    "Area": "Reisen-Schrein (X:6.2 Y:5.7)"
+                },
+                {
+                    "Name": "Tataru",
+                    "Url": "/lodestone/playguide/db/npc/npc/0650ab1ffcd/",
+                    "Area": "Reisen-Schrein (X:6.1 Y:5.3)"
+                },
+                {
+                    "Name": "Zorn-Inugami",
+                    "Url": "/lodestone/playguide/db/npc/npc/e81a0c6fecb/",
+                    "Area": "Reisen-Schrein (X:5.5 Y:5.9)"
+                },
+                {
+                    "Name": "Genbu",
+                    "Url": "/lodestone/playguide/db/npc/npc/7b64ea1f79e/",
+                    "Area": "Rubinsee (X:37.3 Y:15.4)"
+                },
+                {
+                    "Name": "Seiryu",
+                    "Url": "/lodestone/playguide/db/npc/npc/4406faa5a1d/",
+                    "Area": "Rubinsee (X:37.4 Y:15.4)"
+                }
+            ]
+        },
+        "Seq": 3,
+        "oldID": 68701,
+        "Map": {
+            "ID": 371
+        }
+    },
+    {
+        "ID": "82d86206c11",
+        "Name": "Der innere Dämon",
+        "Location": "Rubinsee",
+        "Level": 70,
+        "JournalSection": 2,
+        "JournalCategory": 19,
+        "JournalGenre": "Der Mythos der vier Tierheiligen",
+        "Url": "/lodestone/playguide/db/quest/82d86206c11/",
+        "Image": "https://img.finalfantasyxiv.com/lds/pc/global/images/itemicon/b6/b62e8284ad3a135c3f3a2f12db6b9713947bff33.png?n5.5",
+        "Icon": "function_normal",
+        "Issuer": "Soroban",
+        "StartLocation": {
+            "Name": "Rubinsee",
+            "X": "5.7",
+            "Y": "15.8"
+        },
+        "StartClass": null,
+        "Job": "",
+        "Company": "Keine Angabe",
+        "Requirement": "Keine Angabe",
+        "Rewards": {
+            "Gil": 4500,
+            "Exp": 0,
+            "ItemsMand": [
+                {
+                    "Icon": "https://img.finalfantasyxiv.com/lds/pc/global/images/itemicon/7e/7eaa53e1fe9e2bd80f81d9ce69c98c24f6223b0b.png?n5.5",
+                    "Name": "Notenrolle von „Iroha“",
+                    "Amount": 1,
+                    "Url": "/lodestone/playguide/db/item/bebe5d9c4ce/"
+                }
+            ],
+            "ItemsOpt": []
+        },
+        "Infos": {
+            "PrevQuests": [
+                {
+                    "Name": "Hoffnungsschimmer auf der Rubinsee",
+                    "Url": "/lodestone/playguide/db/quest/084fa28f651/",
+                    "Area": "Kugane",
+                    "Level": "70"
+                }
+            ],
+            "NextQuests": [
+                {
+                    "Name": "Alter schützt vor Torheit nicht",
+                    "Url": "/lodestone/playguide/db/quest/c2f001b93da/",
+                    "Area": "Rubinsee",
+                    "Level": "70"
+                }
+            ],
+            "NPCs": [
+                {
+                    "Name": "Byakko",
+                    "Url": "/lodestone/playguide/db/npc/npc/f0f2f29fbc4/",
+                    "Area": "Reisen-Schrein (X:5.0 Y:6.2)"
+                },
+                {
+                    "Name": "Byakko",
+                    "Url": "/lodestone/playguide/db/npc/npc/c732deb4ce7/",
+                    "Area": "Reisen-Schrein (X:6.3 Y:5.5)"
+                },
+                {
+                    "Name": "Genbu",
+                    "Url": "/lodestone/playguide/db/npc/npc/6fcef8bfb62/",
+                    "Area": "Reisen-Schrein (X:6.1 Y:6.0)"
+                },
+                {
+                    "Name": "Genbu",
+                    "Url": "/lodestone/playguide/db/npc/npc/621efb3106d/",
+                    "Area": "Reisen-Schrein (X:5.1 Y:6.1)"
+                },
+                {
+                    "Name": "Genbu",
+                    "Url": "/lodestone/playguide/db/npc/npc/d304e6338e1/",
+                    "Area": "Reisen-Schrein (X:6.3 Y:5.5)"
+                },
+                {
+                    "Name": "Genbu",
+                    "Url": "/lodestone/playguide/db/npc/npc/2aac0eb68ca/",
+                    "Area": "Reisen-Schrein (X:6.3 Y:5.5)"
+                },
+                {
+                    "Name": "Kamaitachi",
+                    "Url": "/lodestone/playguide/db/npc/npc/27f5fe8b7d6/",
+                    "Area": "Reisen-Schrein (X:6.8 Y:6.0)"
+                },
+                {
+                    "Name": "Kudagitsune",
+                    "Url": "/lodestone/playguide/db/npc/npc/209f6fac8b1/",
+                    "Area": "Reisen-Schrein (X:5.9 Y:5.7)"
+                },
+                {
+                    "Name": "Senri",
+                    "Url": "/lodestone/playguide/db/npc/npc/a325bbdd03e/",
+                    "Area": "Reisen-Schrein (X:5.9 Y:6.4)"
+                },
+                {
+                    "Name": "Soroban",
+                    "Url": "/lodestone/playguide/db/npc/npc/84adc995fef/",
+                    "Area": "Reisen-Schrein (X:5.5 Y:5.9)"
+                },
+                {
+                    "Name": "Soroban",
+                    "Url": "/lodestone/playguide/db/npc/npc/4c74b65fb8a/",
+                    "Area": "Reisen-Schrein (X:5.1 Y:6.1)"
+                },
+                {
+                    "Name": "Soroban",
+                    "Url": "/lodestone/playguide/db/npc/npc/01189aa15d4/",
+                    "Area": "Reisen-Schrein (X:6.5 Y:5.4)"
+                },
+                {
+                    "Name": "Soroban",
+                    "Url": "/lodestone/playguide/db/npc/npc/9fd9c2b6a5c/",
+                    "Area": "Reisen-Schrein (X:6.4 Y:5.5)"
+                },
+                {
+                    "Name": "Soroban",
+                    "Url": "/lodestone/playguide/db/npc/npc/8bc6e92c6b6/",
+                    "Area": "Reisen-Schrein (X:6.1 Y:6.8)"
+                },
+                {
+                    "Name": "Soroban",
+                    "Url": "/lodestone/playguide/db/npc/npc/98fe1d657d6/",
+                    "Area": "Reisen-Schrein (X:6.0 Y:6.0)"
+                },
+                {
+                    "Name": "Tataru",
+                    "Url": "/lodestone/playguide/db/npc/npc/33c721b2f2e/",
+                    "Area": "Reisen-Schrein (X:6.4 Y:6.2)"
+                },
+                {
+                    "Name": "Tataru",
+                    "Url": "/lodestone/playguide/db/npc/npc/717d78579f9/",
+                    "Area": "Reisen-Schrein (X:5.0 Y:6.1)"
+                },
+                {
+                    "Name": "Tataru",
+                    "Url": "/lodestone/playguide/db/npc/npc/95d0b78d60e/",
+                    "Area": "Reisen-Schrein (X:6.5 Y:5.5)"
+                },
+                {
+                    "Name": "Tataru",
+                    "Url": "/lodestone/playguide/db/npc/npc/f548b8f7dd4/",
+                    "Area": "Reisen-Schrein (X:6.1 Y:6.1)"
+                },
+                {
+                    "Name": "Bunchin",
+                    "Url": "/lodestone/playguide/db/npc/npc/8d3f9089f39/",
+                    "Area": "Rubinsee (X:27.8 Y:16.4)"
+                },
+                {
+                    "Name": "Furi",
+                    "Url": "/lodestone/playguide/db/npc/npc/53cd8787562/",
+                    "Area": "Rubinsee (X:27.1 Y:38.4)"
+                },
+                {
+                    "Name": "Soroban",
+                    "Url": "/lodestone/playguide/db/npc/npc/bc7c2d09d56/",
+                    "Area": "Rubinsee (X:27.1 Y:38.4)"
+                },
+                {
+                    "Name": "Byakko",
+                    "Url": "/lodestone/playguide/db/npc/npc/c125de29d7e/",
+                    "Area": "Yanxia (X:31.6 Y:6.1)"
+                },
+                {
+                    "Name": "Byakko",
+                    "Url": "/lodestone/playguide/db/npc/npc/cf1c5aef4c6/",
+                    "Area": "Yanxia (X:31.5 Y:6.1)"
+                }
+            ]
+        },
+        "Seq": 2,
+        "oldID": 68551,
+        "Map": {
+            "ID": 371
+        }
+    },
+    {
+        "ID": "c2f001b93da",
+        "Name": "Alter schützt vor Torheit nicht",
+        "Location": "Rubinsee",
+        "Level": 70,
+        "JournalSection": 2,
+        "JournalCategory": 19,
+        "JournalGenre": "Der Mythos der vier Tierheiligen",
+        "Url": "/lodestone/playguide/db/quest/c2f001b93da/",
+        "Image": "https://img.finalfantasyxiv.com/lds/pc/global/images/itemicon/e1/e1723a444e864589d33a52b203778817454c4e11.png?n5.5",
+        "Icon": "function_normal",
+        "Issuer": "Bunchin",
+        "StartLocation": {
+            "Name": "Rubinsee",
+            "X": "27.8",
+            "Y": "16.4"
+        },
+        "StartClass": null,
+        "Job": "",
+        "Company": "Keine Angabe",
+        "Requirement": "Keine Angabe",
+        "Rewards": {
+            "Gil": 4500,
+            "Exp": 0,
+            "ItemsMand": [],
+            "ItemsOpt": [
+                {
+                    "Icon": "https://img.finalfantasyxiv.com/lds/pc/global/images/itemicon/84/843d81d8026359df022ed32846f94e082f828d0b.png?n5.5",
+                    "Name": "Übertrank",
+                    "Amount": 3,
+                    "Url": "/lodestone/playguide/db/item/eff2c99e50d/"
+                },
+                {
+                    "Icon": "https://img.finalfantasyxiv.com/lds/pc/global/images/itemicon/a9/a98fab68d93ca2bd6d372d999806ed6dbb6987eb.png?n5.5",
+                    "Name": "Über-Äther",
+                    "Amount": 3,
+                    "Url": "/lodestone/playguide/db/item/dc613bb9435/"
+                }
+            ]
+        },
+        "Infos": {
+            "PrevQuests": [
+                {
+                    "Name": "Der innere Dämon",
+                    "Url": "/lodestone/playguide/db/quest/82d86206c11/",
+                    "Area": "Rubinsee",
+                    "Level": "70"
+                }
+            ],
+            "NextQuests": [
+                {
+                    "Name": "Eine Liebe über den Tod hinaus",
+                    "Url": "/lodestone/playguide/db/quest/e5023340098/",
+                    "Area": "Rubinsee",
+                    "Level": "70"
+                }
+            ],
+            "NPCs": [
+                {
+                    "Name": "Byakko",
+                    "Url": "/lodestone/playguide/db/npc/npc/f0f2f29fbc4/",
+                    "Area": "Reisen-Schrein (X:5.0 Y:6.2)"
+                },
+                {
+                    "Name": "Furi",
+                    "Url": "/lodestone/playguide/db/npc/npc/01125c5ab06/",
+                    "Area": "Reisen-Schrein (X:6.1 Y:6.8)"
+                },
+                {
+                    "Name": "Genbu",
+                    "Url": "/lodestone/playguide/db/npc/npc/6fcef8bfb62/",
+                    "Area": "Reisen-Schrein (X:6.1 Y:6.0)"
+                },
+                {
+                    "Name": "Genbu",
+                    "Url": "/lodestone/playguide/db/npc/npc/23d267139d9/",
+                    "Area": "Reisen-Schrein (X:6.1 Y:6.0)"
+                },
+                {
+                    "Name": "Kamaitachi",
+                    "Url": "/lodestone/playguide/db/npc/npc/27f5fe8b7d6/",
+                    "Area": "Reisen-Schrein (X:6.8 Y:6.0)"
+                },
+                {
+                    "Name": "Qitian Dasheng",
+                    "Url": "/lodestone/playguide/db/npc/npc/fb68ebab3a0/",
+                    "Area": "Reisen-Schrein (X:6.2 Y:5.7)"
+                },
+                {
+                    "Name": "Soroban",
+                    "Url": "/lodestone/playguide/db/npc/npc/a39a2e92bc3/",
+                    "Area": "Reisen-Schrein (X:6.1 Y:6.0)"
+                },
+                {
+                    "Name": "Soroban",
+                    "Url": "/lodestone/playguide/db/npc/npc/f5bb9d87f69/",
+                    "Area": "Reisen-Schrein (X:6.1 Y:6.0)"
+                },
+                {
+                    "Name": "Soroban",
+                    "Url": "/lodestone/playguide/db/npc/npc/155a9e39189/",
+                    "Area": "Reisen-Schrein (X:6.1 Y:6.0)"
+                },
+                {
+                    "Name": "Tataru",
+                    "Url": "/lodestone/playguide/db/npc/npc/c42e7b8ec8b/",
+                    "Area": "Reisen-Schrein (X:6.1 Y:6.0)"
+                },
+                {
+                    "Name": "Tataru",
+                    "Url": "/lodestone/playguide/db/npc/npc/ad26ef5038a/",
+                    "Area": "Reisen-Schrein (X:6.1 Y:6.0)"
+                },
+                {
+                    "Name": "Furi",
+                    "Url": "/lodestone/playguide/db/npc/npc/2b876596780/",
+                    "Area": "Rubinsee (X:27.1 Y:38.4)"
+                },
+                {
+                    "Name": "Kamaitachi",
+                    "Url": "/lodestone/playguide/db/npc/npc/ec50adbfc9d/",
+                    "Area": "Yanxia (X:11.7 Y:26.9)"
+                }
+            ]
+        },
+        "Seq": 1,
+        "oldID": 68552,
+        "Map": {
+            "ID": 371
+        }
+    },
+    {
+        "ID": "e5023340098",
+        "Name": "Eine Liebe über den Tod hinaus",
+        "Location": "Rubinsee",
+        "Level": 70,
+        "JournalSection": 2,
+        "JournalCategory": 19,
+        "JournalGenre": "Der Mythos der vier Tierheiligen",
+        "Url": "/lodestone/playguide/db/quest/e5023340098/",
+        "Image": "https://img.finalfantasyxiv.com/lds/pc/global/images/itemicon/24/24d0ab14644bf8ab25843f60fe188cbba5b585f5.png?n5.5",
+        "Icon": "function_normal",
+        "Issuer": "Bunchin",
+        "StartLocation": {
+            "Name": "Rubinsee",
+            "X": "27.8",
+            "Y": "16.4"
+        },
+        "StartClass": null,
+        "Job": "",
+        "Company": "Keine Angabe",
+        "Requirement": "Keine Angabe",
+        "Rewards": {
+            "Gil": 3537,
+            "Exp": 0,
+            "ItemsMand": [
+                {
+                    "Icon": "https://img.finalfantasyxiv.com/lds/pc/global/images/itemicon/e4/e4b706e7565fbe0ff0950a81c6900c1b24fcf2f2.png?n5.5",
+                    "Name": "",
+                    "Amount": null
+                }
+            ],
+            "ItemsOpt": []
+        },
+        "Infos": {
+            "PrevQuests": [
+                {
+                    "Name": "Alter schützt vor Torheit nicht",
+                    "Url": "/lodestone/playguide/db/quest/c2f001b93da/",
+                    "Area": "Rubinsee",
+                    "Level": "70"
+                }
+            ],
+            "NextQuests": [
+                {
+                    "Name": "Dem Schwur treu ergeben",
+                    "Url": "/lodestone/playguide/db/quest/52b4a3217d3/",
+                    "Area": "Rubinsee",
+                    "Level": "70"
+                }
+            ],
+            "NPCs": [
+                {
+                    "Name": "Byakko",
+                    "Url": "/lodestone/playguide/db/npc/npc/f0f2f29fbc4/",
+                    "Area": "Reisen-Schrein (X:5.0 Y:6.2)"
+                },
+                {
+                    "Name": "Byakko",
+                    "Url": "/lodestone/playguide/db/npc/npc/9ea260743d9/",
+                    "Area": "Reisen-Schrein (X:6.0 Y:6.0)"
+                },
+                {
+                    "Name": "Furi",
+                    "Url": "/lodestone/playguide/db/npc/npc/01125c5ab06/",
+                    "Area": "Reisen-Schrein (X:6.1 Y:6.8)"
+                },
+                {
+                    "Name": "Genbu",
+                    "Url": "/lodestone/playguide/db/npc/npc/081fd435184/",
+                    "Area": "Reisen-Schrein (X:6.1 Y:6.0)"
+                },
+                {
+                    "Name": "Genbu",
+                    "Url": "/lodestone/playguide/db/npc/npc/4ee71eda0a7/",
+                    "Area": "Reisen-Schrein (X:6.1 Y:6.0)"
+                },
+                {
+                    "Name": "Soroban",
+                    "Url": "/lodestone/playguide/db/npc/npc/693c25d4c96/",
+                    "Area": "Reisen-Schrein (X:6.2 Y:6.0)"
+                },
+                {
+                    "Name": "Suzaku",
+                    "Url": "/lodestone/playguide/db/npc/npc/4a7ba2a0d38/",
+                    "Area": "Reisen-Schrein (X:6.3 Y:6.4)"
+                },
+                {
+                    "Name": "Suzaku",
+                    "Url": "/lodestone/playguide/db/npc/npc/f9f1bda9692/",
+                    "Area": "Reisen-Schrein (X:6.0 Y:6.1)"
+                },
+                {
+                    "Name": "Tataru",
+                    "Url": "/lodestone/playguide/db/npc/npc/ffe56eb5f43/",
+                    "Area": "Reisen-Schrein (X:6.1 Y:6.1)"
+                },
+                {
+                    "Name": "Furi",
+                    "Url": "/lodestone/playguide/db/npc/npc/2b876596780/",
+                    "Area": "Rubinsee (X:27.1 Y:38.4)"
+                }
+            ]
+        },
+        "Seq": 2,
+        "oldID": 68688,
+        "Map": {
+            "ID": 371
+        }
+    }
+]

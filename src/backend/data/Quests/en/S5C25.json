@@ -1,0 +1,1742 @@
+[
+    {
+        "ID": "09df1d01213",
+        "Name": " Sustenance for the Soul",
+        "Location": "Il Mheg",
+        "Level": 70,
+        "JournalSection": 5,
+        "JournalCategory": 25,
+        "JournalGenre": "\n\t\t\t\t\t\t\tMain Quests\n\t\t\t\t\t\t",
+        "Url": "/lodestone/playguide/db/quest/09df1d01213/",
+        "Image": "https://img.finalfantasyxiv.com/lds/pc/global/images/itemicon/78/78b915bd34cc26917e306cc4df5359893e5ab1ea.png?n5.5",
+        "Icon": "function_normal",
+        "Issuer": "Tyr Beq",
+        "StartLocation": {
+            "Name": "Il Mheg",
+            "X": "12.1",
+            "Y": "32.9"
+        },
+        "StartClass": null,
+        "Job": "",
+        "Company": "Not specified",
+        "Requirement": "Not specified",
+        "Rewards": {
+            "Gil": 2549,
+            "Exp": null,
+            "ItemsMand": [],
+            "ItemsOpt": []
+        },
+        "Infos": {
+            "PrevQuests": [
+                {
+                    "Name": " Manic Pixie Dream Realm",
+                    "Url": "/lodestone/playguide/db/quest/6924badb959/",
+                    "Area": "The Crystarium",
+                    "Level": "70"
+                }
+            ],
+            "NextQuests": [
+                {
+                    "Name": " The Heart's Oasis",
+                    "Url": "/lodestone/playguide/db/quest/d0e2ff5a89a/",
+                    "Area": "Il Mheg",
+                    "Level": "70"
+                }
+            ],
+            "NPCs": [
+                {
+                    "Name": "Ezel II",
+                    "Url": "/lodestone/playguide/db/npc/npc/6d69cb6601c/",
+                    "Area": "Il Mheg (X:22.9 Y:5.0)"
+                },
+                {
+                    "Name": "Lugg Aenc",
+                    "Url": "/lodestone/playguide/db/npc/npc/62eaf1f0400/",
+                    "Area": "Il Mheg (X:22.9 Y:4.9)"
+                },
+                {
+                    "Name": "Tyr Beq",
+                    "Url": "/lodestone/playguide/db/npc/npc/356f496db81/",
+                    "Area": "Il Mheg (X:23.0 Y:5.0)"
+                },
+                {
+                    "Name": "Ezel II",
+                    "Url": "/lodestone/playguide/db/npc/npc/a74b4d89d17/",
+                    "Area": "Kholusia (X:17.2 Y:30.0)"
+                },
+                {
+                    "Name": "Ezel II",
+                    "Url": "/lodestone/playguide/db/npc/npc/6843425bfdc/",
+                    "Area": "Kholusia (X:18.5 Y:28.3)"
+                },
+                {
+                    "Name": "Tyr Beq",
+                    "Url": "/lodestone/playguide/db/npc/npc/b31b867d5b3/",
+                    "Area": "Kholusia (X:17.2 Y:29.9)"
+                },
+                {
+                    "Name": "Tyr Beq",
+                    "Url": "/lodestone/playguide/db/npc/npc/ef7d713e210/",
+                    "Area": "Kholusia (X:18.4 Y:28.3)"
+                },
+                {
+                    "Name": "Wright Boy",
+                    "Url": "/lodestone/playguide/db/npc/npc/a28969ff3b8/",
+                    "Area": "Kholusia (X:17.1 Y:28.6)"
+                },
+                {
+                    "Name": "Wright Woman",
+                    "Url": "/lodestone/playguide/db/npc/npc/c77ea4c947c/",
+                    "Area": "Kholusia (X:17.2 Y:30.0)"
+                },
+                {
+                    "Name": "Ezel II",
+                    "Url": "/lodestone/playguide/db/npc/npc/d6ea46935d7/",
+                    "Area": "Lyhe Mheg (X:7.0 Y:8.2)"
+                },
+                {
+                    "Name": "Ezel II",
+                    "Url": "/lodestone/playguide/db/npc/npc/7a063829b47/",
+                    "Area": "Lyhe Mheg (X:7.1 Y:4.9)"
+                },
+                {
+                    "Name": "Ezel II",
+                    "Url": "/lodestone/playguide/db/npc/npc/a13944a7696/",
+                    "Area": "Lyhe Mheg (X:7.2 Y:5.0)"
+                },
+                {
+                    "Name": "Sullen Girl",
+                    "Url": "/lodestone/playguide/db/npc/npc/27b310c05e5/",
+                    "Area": "Lyhe Mheg (X:7.0 Y:8.1)"
+                },
+                {
+                    "Name": "Tyr Beq",
+                    "Url": "/lodestone/playguide/db/npc/npc/092b288f7e5/",
+                    "Area": "Lyhe Mheg (X:7.0 Y:8.2)"
+                },
+                {
+                    "Name": "Tyr Beq",
+                    "Url": "/lodestone/playguide/db/npc/npc/e46872c01d9/",
+                    "Area": "Lyhe Mheg (X:7.0 Y:4.9)"
+                },
+                {
+                    "Name": "Tyr Beq",
+                    "Url": "/lodestone/playguide/db/npc/npc/ad65d984358/",
+                    "Area": "Lyhe Mheg (X:7.1 Y:5.0)"
+                }
+            ]
+        },
+        "Seq": 1,
+        "oldID": 69220,
+        "Map": {
+            "ID": 494
+        }
+    },
+    {
+        "ID": "16d0aec7015",
+        "Name": " No Grown-ups Allowed",
+        "Location": "Il Mheg",
+        "Level": 70,
+        "JournalSection": 5,
+        "JournalCategory": 25,
+        "JournalGenre": "\n\t\t\t\t\t\t\tDaily Quests\n\t\t\t\t\t\t",
+        "Url": "/lodestone/playguide/db/quest/16d0aec7015/",
+        "Image": null,
+        "Icon": "common_repeat",
+        "Issuer": "Uin Nee",
+        "StartLocation": {
+            "Name": "Il Mheg",
+            "X": "12.3",
+            "Y": "32.9"
+        },
+        "StartClass": null,
+        "Job": "",
+        "Company": "Not specified",
+        "Requirement": "Not specified",
+        "Rewards": {
+            "Gil": 606,
+            "Exp": null,
+            "ItemsMand": [],
+            "ItemsOpt": []
+        },
+        "Infos": {},
+        "Seq": 28,
+        "oldID": 69247,
+        "Map": {
+            "ID": 494
+        }
+    },
+    {
+        "ID": "27acaa33245",
+        "Name": " Pride-and-Seek",
+        "Location": "Il Mheg",
+        "Level": 70,
+        "JournalSection": 5,
+        "JournalCategory": 25,
+        "JournalGenre": "\n\t\t\t\t\t\t\tDaily Quests\n\t\t\t\t\t\t",
+        "Url": "/lodestone/playguide/db/quest/27acaa33245/",
+        "Image": null,
+        "Icon": "common_repeat",
+        "Issuer": "Uin Nee",
+        "StartLocation": {
+            "Name": "Il Mheg",
+            "X": "12.3",
+            "Y": "32.9"
+        },
+        "StartClass": null,
+        "Job": "",
+        "Company": "Not specified",
+        "Requirement": "Not specified",
+        "Rewards": {
+            "Gil": 606,
+            "Exp": null,
+            "ItemsMand": [],
+            "ItemsOpt": []
+        },
+        "Infos": {
+            "PrevQuests": [
+                {
+                    "Name": "Concealed Pixie",
+                    "Url": "/lodestone/playguide/db/npc/npc/626dc67da2c/",
+                    "Area": "Il Mheg (X:22.8 Y:5.5)"
+                }
+            ]
+        },
+        "Seq": 29,
+        "oldID": 69248,
+        "Map": {
+            "ID": 494
+        }
+    },
+    {
+        "ID": "2a8ece8c7a2",
+        "Name": " The Chaser",
+        "Location": "Il Mheg",
+        "Level": 70,
+        "JournalSection": 5,
+        "JournalCategory": 25,
+        "JournalGenre": "\n\t\t\t\t\t\t\tDaily Quests\n\t\t\t\t\t\t",
+        "Url": "/lodestone/playguide/db/quest/2a8ece8c7a2/",
+        "Image": null,
+        "Icon": "common_repeat",
+        "Issuer": "Uin Nee",
+        "StartLocation": {
+            "Name": "Il Mheg",
+            "X": "12.3",
+            "Y": "32.9"
+        },
+        "StartClass": null,
+        "Job": "",
+        "Company": "Not specified",
+        "Requirement": "Not specified",
+        "Rewards": {
+            "Gil": 606,
+            "Exp": null,
+            "ItemsMand": [],
+            "ItemsOpt": []
+        },
+        "Infos": {
+            "PrevQuests": [
+                {
+                    "Name": "Dozing Nu Mou",
+                    "Url": "/lodestone/playguide/db/npc/npc/a3254797525/",
+                    "Area": "Il Mheg (X:21.6 Y:3.7)"
+                },
+                {
+                    "Name": "Dozing Nu Mou",
+                    "Url": "/lodestone/playguide/db/npc/npc/59824bc33bd/",
+                    "Area": "Il Mheg (X:21.6 Y:3.7)"
+                }
+            ]
+        },
+        "Seq": 33,
+        "oldID": 69252,
+        "Map": {
+            "ID": 494
+        }
+    },
+    {
+        "ID": "371c242bceb",
+        "Name": " A Flowery Frolic",
+        "Location": "Il Mheg",
+        "Level": 70,
+        "JournalSection": 5,
+        "JournalCategory": 25,
+        "JournalGenre": "\n\t\t\t\t\t\t\tDaily Quests\n\t\t\t\t\t\t",
+        "Url": "/lodestone/playguide/db/quest/371c242bceb/",
+        "Image": null,
+        "Icon": "common_repeat",
+        "Issuer": "Uin Nee",
+        "StartLocation": {
+            "Name": "Il Mheg",
+            "X": "12.3",
+            "Y": "32.9"
+        },
+        "StartClass": null,
+        "Job": "",
+        "Company": "Not specified",
+        "Requirement": "Not specified",
+        "Rewards": {
+            "Gil": 606,
+            "Exp": null,
+            "ItemsMand": [],
+            "ItemsOpt": []
+        },
+        "Infos": {},
+        "Seq": 7,
+        "oldID": 69226,
+        "Map": {
+            "ID": 494
+        }
+    },
+    {
+        "ID": "3c7aa63d784",
+        "Name": " Sharing Is Caring",
+        "Location": "Il Mheg",
+        "Level": 70,
+        "JournalSection": 5,
+        "JournalCategory": 25,
+        "JournalGenre": "\n\t\t\t\t\t\t\tDaily Quests\n\t\t\t\t\t\t",
+        "Url": "/lodestone/playguide/db/quest/3c7aa63d784/",
+        "Image": null,
+        "Icon": "common_repeat",
+        "Issuer": "Uin Nee",
+        "StartLocation": {
+            "Name": "Il Mheg",
+            "X": "12.3",
+            "Y": "32.9"
+        },
+        "StartClass": null,
+        "Job": "",
+        "Company": "Not specified",
+        "Requirement": "Not specified",
+        "Rewards": {
+            "Gil": 606,
+            "Exp": null,
+            "ItemsMand": [],
+            "ItemsOpt": []
+        },
+        "Infos": {
+            "PrevQuests": [
+                {
+                    "Name": "Covetous Pixie",
+                    "Url": "/lodestone/playguide/db/npc/npc/9479ae227b8/",
+                    "Area": "Il Mheg (X:12.2 Y:15.3)"
+                },
+                {
+                    "Name": "Covetous Pixie",
+                    "Url": "/lodestone/playguide/db/npc/npc/48a83f4ba69/",
+                    "Area": "Il Mheg (X:12.0 Y:15.2)"
+                },
+                {
+                    "Name": "Covetous Pixie",
+                    "Url": "/lodestone/playguide/db/npc/npc/b84490e8a93/",
+                    "Area": "Il Mheg (X:12.0 Y:14.9)"
+                }
+            ]
+        },
+        "Seq": 8,
+        "oldID": 69227,
+        "Map": {
+            "ID": 494
+        }
+    },
+    {
+        "ID": "3d4c87e2333",
+        "Name": " Aim High",
+        "Location": "Il Mheg",
+        "Level": 70,
+        "JournalSection": 5,
+        "JournalCategory": 25,
+        "JournalGenre": "\n\t\t\t\t\t\t\tDaily Quests\n\t\t\t\t\t\t",
+        "Url": "/lodestone/playguide/db/quest/3d4c87e2333/",
+        "Image": null,
+        "Icon": "common_repeat",
+        "Issuer": "Uin Nee",
+        "StartLocation": {
+            "Name": "Il Mheg",
+            "X": "12.3",
+            "Y": "32.9"
+        },
+        "StartClass": null,
+        "Job": "",
+        "Company": "Not specified",
+        "Requirement": "Not specified",
+        "Rewards": {
+            "Gil": 606,
+            "Exp": null,
+            "ItemsMand": [],
+            "ItemsOpt": []
+        },
+        "Infos": {},
+        "Seq": 32,
+        "oldID": 69251,
+        "Map": {
+            "ID": 494
+        }
+    },
+    {
+        "ID": "47ef64616ed",
+        "Name": " As the Heart Bids",
+        "Location": "Il Mheg",
+        "Level": 70,
+        "JournalSection": 5,
+        "JournalCategory": 25,
+        "JournalGenre": "\n\t\t\t\t\t\t\tMain Quests\n\t\t\t\t\t\t",
+        "Url": "/lodestone/playguide/db/quest/47ef64616ed/",
+        "Image": "https://img.finalfantasyxiv.com/lds/pc/global/images/itemicon/aa/aa0ba8ce1ce3c265839244f0e00381ea55d9c5c4.png?n5.5",
+        "Icon": "function_normal",
+        "Issuer": "Tyr Beq",
+        "StartLocation": {
+            "Name": "Il Mheg",
+            "X": "12.1",
+            "Y": "32.9"
+        },
+        "StartClass": null,
+        "Job": "",
+        "Company": "Not specified",
+        "Requirement": "Not specified",
+        "Rewards": {
+            "Gil": 3215,
+            "Exp": null,
+            "ItemsMand": [],
+            "ItemsOpt": []
+        },
+        "Infos": {
+            "PrevQuests": [
+                {
+                    "Name": " A Cry from the Ashes",
+                    "Url": "/lodestone/playguide/db/quest/898e06690d7/",
+                    "Area": "Il Mheg",
+                    "Level": "70"
+                }
+            ],
+            "NextQuests": [
+                {
+                    "Name": " Forever and a Dream",
+                    "Url": "/lodestone/playguide/db/quest/f7f8504a865/",
+                    "Area": "Il Mheg",
+                    "Level": "70"
+                }
+            ],
+            "NPCs": [
+                {
+                    "Name": "Ezel II",
+                    "Url": "/lodestone/playguide/db/npc/npc/44c3b9e75f2/",
+                    "Area": "Il Mheg (X:12.1 Y:32.9)"
+                },
+                {
+                    "Name": "Ezel II",
+                    "Url": "/lodestone/playguide/db/npc/npc/a090201c7e0/",
+                    "Area": "Il Mheg (X:12.2 Y:33.1)"
+                },
+                {
+                    "Name": "Iala Jul",
+                    "Url": "/lodestone/playguide/db/npc/npc/c0e423bcf8e/",
+                    "Area": "Il Mheg (X:31.1 Y:8.3)"
+                },
+                {
+                    "Name": "Ose Sigun",
+                    "Url": "/lodestone/playguide/db/npc/npc/fe16aa9ed22/",
+                    "Area": "Il Mheg (X:19.3 Y:4.6)"
+                },
+                {
+                    "Name": "Oul Sigun",
+                    "Url": "/lodestone/playguide/db/npc/npc/ae68c704c46/",
+                    "Area": "Il Mheg (X:15.6 Y:30.6)"
+                },
+                {
+                    "Name": "Thon Sul",
+                    "Url": "/lodestone/playguide/db/npc/npc/94b24c1330c/",
+                    "Area": "Il Mheg (X:12.2 Y:33.2)"
+                },
+                {
+                    "Name": "Tyr Beq",
+                    "Url": "/lodestone/playguide/db/npc/npc/9c971622989/",
+                    "Area": "Il Mheg (X:12.2 Y:33.1)"
+                },
+                {
+                    "Name": "An Lad",
+                    "Url": "/lodestone/playguide/db/npc/npc/9ed42d37839/",
+                    "Area": "Lyhe Mheg (X:6.6 Y:7.5)"
+                },
+                {
+                    "Name": "Ezel II",
+                    "Url": "/lodestone/playguide/db/npc/npc/a9199027a18/",
+                    "Area": "Lyhe Mheg (X:3.6 Y:6.3)"
+                },
+                {
+                    "Name": "Ezel II",
+                    "Url": "/lodestone/playguide/db/npc/npc/b825df757eb/",
+                    "Area": "Lyhe Mheg (X:6.6 Y:7.6)"
+                },
+                {
+                    "Name": "Slitherbough Girl",
+                    "Url": "/lodestone/playguide/db/npc/npc/57e9985361e/",
+                    "Area": "Lyhe Mheg (X:3.5 Y:6.2)"
+                },
+                {
+                    "Name": "Tyr Beq",
+                    "Url": "/lodestone/playguide/db/npc/npc/dbe7dafa75b/",
+                    "Area": "Lyhe Mheg (X:3.5 Y:6.3)"
+                },
+                {
+                    "Name": "Tyr Beq",
+                    "Url": "/lodestone/playguide/db/npc/npc/b5200ff2fe7/",
+                    "Area": "Lyhe Mheg (X:6.6 Y:7.6)"
+                },
+                {
+                    "Name": "Tyr Beq",
+                    "Url": "/lodestone/playguide/db/npc/npc/04194013bd8/",
+                    "Area": "Lyhe Mheg (X:3.5 Y:6.3)"
+                }
+            ]
+        },
+        "Seq": 4,
+        "oldID": 69223,
+        "Map": {
+            "ID": 494
+        }
+    },
+    {
+        "ID": "4c28a31749b",
+        "Name": " What the Phooka",
+        "Location": "Il Mheg",
+        "Level": 70,
+        "JournalSection": 5,
+        "JournalCategory": 25,
+        "JournalGenre": "\n\t\t\t\t\t\t\tDaily Quests\n\t\t\t\t\t\t",
+        "Url": "/lodestone/playguide/db/quest/4c28a31749b/",
+        "Image": null,
+        "Icon": "common_repeat",
+        "Issuer": "Uin Nee",
+        "StartLocation": {
+            "Name": "Il Mheg",
+            "X": "12.3",
+            "Y": "32.9"
+        },
+        "StartClass": null,
+        "Job": "",
+        "Company": "Not specified",
+        "Requirement": "Not specified",
+        "Rewards": {
+            "Gil": 606,
+            "Exp": null,
+            "ItemsMand": [],
+            "ItemsOpt": []
+        },
+        "Infos": {
+            "PrevQuests": [
+                {
+                    "Name": "Ensnared Phooka",
+                    "Url": "/lodestone/playguide/db/npc/npc/7aaa9863267/",
+                    "Area": "Il Mheg (X:19.8 Y:17.9)"
+                },
+                {
+                    "Name": "Overeager Phooka",
+                    "Url": "/lodestone/playguide/db/npc/npc/38c14c7d493/",
+                    "Area": "Il Mheg (X:19.1 Y:14.4)"
+                }
+            ]
+        },
+        "Seq": 27,
+        "oldID": 69246,
+        "Map": {
+            "ID": 494
+        }
+    },
+    {
+        "ID": "4d02382dd72",
+        "Name": " Bring Your Water to the Slaughter",
+        "Location": "Il Mheg",
+        "Level": 70,
+        "JournalSection": 5,
+        "JournalCategory": 25,
+        "JournalGenre": "\n\t\t\t\t\t\t\tDaily Quests\n\t\t\t\t\t\t",
+        "Url": "/lodestone/playguide/db/quest/4d02382dd72/",
+        "Image": null,
+        "Icon": "common_repeat",
+        "Issuer": "Uin Nee",
+        "StartLocation": {
+            "Name": "Il Mheg",
+            "X": "12.3",
+            "Y": "32.9"
+        },
+        "StartClass": null,
+        "Job": "",
+        "Company": "Not specified",
+        "Requirement": "Not specified",
+        "Rewards": {
+            "Gil": 606,
+            "Exp": null,
+            "ItemsMand": [],
+            "ItemsOpt": []
+        },
+        "Infos": {},
+        "Seq": 23,
+        "oldID": 69242,
+        "Map": {
+            "ID": 494
+        }
+    },
+    {
+        "ID": "4e87a1b6641",
+        "Name": " I Dream of Shinies",
+        "Location": "Il Mheg",
+        "Level": 70,
+        "JournalSection": 5,
+        "JournalCategory": 25,
+        "JournalGenre": "\n\t\t\t\t\t\t\tDaily Quests\n\t\t\t\t\t\t",
+        "Url": "/lodestone/playguide/db/quest/4e87a1b6641/",
+        "Image": null,
+        "Icon": "common_repeat",
+        "Issuer": "Uin Nee",
+        "StartLocation": {
+            "Name": "Il Mheg",
+            "X": "12.3",
+            "Y": "32.9"
+        },
+        "StartClass": null,
+        "Job": "",
+        "Company": "Not specified",
+        "Requirement": "Not specified",
+        "Rewards": {
+            "Gil": 606,
+            "Exp": null,
+            "ItemsMand": [],
+            "ItemsOpt": []
+        },
+        "Infos": {},
+        "Seq": 11,
+        "oldID": 69230,
+        "Map": {
+            "ID": 494
+        }
+    },
+    {
+        "ID": "6012fac9e21",
+        "Name": " There's Always a Stupider Fish",
+        "Location": "Il Mheg",
+        "Level": 70,
+        "JournalSection": 5,
+        "JournalCategory": 25,
+        "JournalGenre": "\n\t\t\t\t\t\t\tDaily Quests\n\t\t\t\t\t\t",
+        "Url": "/lodestone/playguide/db/quest/6012fac9e21/",
+        "Image": null,
+        "Icon": "common_repeat",
+        "Issuer": "Uin Nee",
+        "StartLocation": {
+            "Name": "Il Mheg",
+            "X": "12.3",
+            "Y": "32.9"
+        },
+        "StartClass": null,
+        "Job": "",
+        "Company": "Not specified",
+        "Requirement": "Not specified",
+        "Rewards": {
+            "Gil": 606,
+            "Exp": null,
+            "ItemsMand": [],
+            "ItemsOpt": []
+        },
+        "Infos": {},
+        "Seq": 22,
+        "oldID": 69241,
+        "Map": {
+            "ID": 494
+        }
+    },
+    {
+        "ID": "6924badb959",
+        "Name": " Manic Pixie Dream Realm",
+        "Location": "The Crystarium",
+        "Level": 70,
+        "JournalSection": 5,
+        "JournalCategory": 25,
+        "JournalGenre": "\n\t\t\t\t\t\t\tMain Quests\n\t\t\t\t\t\t",
+        "Url": "/lodestone/playguide/db/quest/6924badb959/",
+        "Image": "https://img.finalfantasyxiv.com/lds/pc/global/images/itemicon/c7/c77fb8d7441ba925831b00f0b33a7c86363e2716.png?n5.5",
+        "Icon": "function_normal",
+        "Issuer": "Pink Pixie",
+        "StartLocation": {
+            "Name": "The Crystarium",
+            "X": "13.1",
+            "Y": "15.3"
+        },
+        "StartClass": null,
+        "Job": "",
+        "Company": "Not specified",
+        "Requirement": "Not specified",
+        "Rewards": {
+            "Gil": 1798,
+            "Exp": null,
+            "ItemsMand": [],
+            "ItemsOpt": []
+        },
+        "Infos": {
+            "PrevQuests": [
+                {
+                    "Name": "The Wheel Turns",
+                    "Url": "/lodestone/playguide/db/quest/9c351aa13bb/",
+                    "Area": "Il Mheg",
+                    "Level": "73"
+                }
+            ],
+            "NextQuests": [
+                {
+                    "Name": " Sustenance for the Soul",
+                    "Url": "/lodestone/playguide/db/quest/09df1d01213/",
+                    "Area": "Il Mheg",
+                    "Level": "70"
+                }
+            ],
+            "NPCs": [
+                {
+                    "Name": "Thon Sul",
+                    "Url": "/lodestone/playguide/db/npc/npc/94b24c1330c/",
+                    "Area": "Il Mheg (X:12.2 Y:33.2)"
+                },
+                {
+                    "Name": "Tyr Beq",
+                    "Url": "/lodestone/playguide/db/npc/npc/1a7e657c15e/",
+                    "Area": "Il Mheg (X:12.1 Y:32.9)"
+                },
+                {
+                    "Name": "Ezel II",
+                    "Url": "/lodestone/playguide/db/npc/npc/c443bbc1100/",
+                    "Area": "Lakeland (X:17.4 Y:36.2)"
+                },
+                {
+                    "Name": "Ezel II",
+                    "Url": "/lodestone/playguide/db/npc/npc/ea01bd8ae23/",
+                    "Area": "Lakeland (X:26.2 Y:36.0)"
+                },
+                {
+                    "Name": "Ezel II",
+                    "Url": "/lodestone/playguide/db/npc/npc/8f5cfc6c3cb/",
+                    "Area": "Lakeland (X:17.4 Y:36.3)"
+                },
+                {
+                    "Name": "Sullen Girl",
+                    "Url": "/lodestone/playguide/db/npc/npc/e209e9e8848/",
+                    "Area": "Lakeland (X:17.3 Y:36.2)"
+                },
+                {
+                    "Name": "Tyr Beq",
+                    "Url": "/lodestone/playguide/db/npc/npc/661aebe84af/",
+                    "Area": "Lakeland (X:24.5 Y:34.5)"
+                },
+                {
+                    "Name": "Tyr Beq",
+                    "Url": "/lodestone/playguide/db/npc/npc/888d50cc886/",
+                    "Area": "Lakeland (X:17.4 Y:36.2)"
+                },
+                {
+                    "Name": "Tyr Beq",
+                    "Url": "/lodestone/playguide/db/npc/npc/4edceb7db63/",
+                    "Area": "Lakeland (X:26.1 Y:36.0)"
+                },
+                {
+                    "Name": "Tyr Beq",
+                    "Url": "/lodestone/playguide/db/npc/npc/e88bfb4d4b0/",
+                    "Area": "Lakeland (X:17.4 Y:36.3)"
+                },
+                {
+                    "Name": "Ezel II",
+                    "Url": "/lodestone/playguide/db/npc/npc/6df99ea8455/",
+                    "Area": "Lyhe Mheg (X:5.5 Y:5.7)"
+                },
+                {
+                    "Name": "Tyr Beq",
+                    "Url": "/lodestone/playguide/db/npc/npc/02ea3a9400a/",
+                    "Area": "Lyhe Mheg (X:6.9 Y:8.0)"
+                },
+                {
+                    "Name": "Tyr Beq",
+                    "Url": "/lodestone/playguide/db/npc/npc/39c081f5b98/",
+                    "Area": "Lyhe Mheg (X:5.5 Y:5.7)"
+                }
+            ]
+        },
+        "Seq": 12,
+        "oldID": 69219,
+        "Map": {
+            "ID": 497
+        }
+    },
+    {
+        "ID": "70cc4b39753",
+        "Name": " Pure Imagination",
+        "Location": "Il Mheg",
+        "Level": 70,
+        "JournalSection": 5,
+        "JournalCategory": 25,
+        "JournalGenre": "\n\t\t\t\t\t\t\tDaily Quests\n\t\t\t\t\t\t",
+        "Url": "/lodestone/playguide/db/quest/70cc4b39753/",
+        "Image": null,
+        "Icon": "common_repeat",
+        "Issuer": "Uin Nee",
+        "StartLocation": {
+            "Name": "Il Mheg",
+            "X": "12.3",
+            "Y": "32.9"
+        },
+        "StartClass": null,
+        "Job": "",
+        "Company": "Not specified",
+        "Requirement": "Not specified",
+        "Rewards": {
+            "Gil": 606,
+            "Exp": null,
+            "ItemsMand": [],
+            "ItemsOpt": []
+        },
+        "Infos": {},
+        "Seq": 19,
+        "oldID": 69238,
+        "Map": {
+            "ID": 494
+        }
+    },
+    {
+        "ID": "88192651015",
+        "Name": " Raiders of the Lost Pork",
+        "Location": "Il Mheg",
+        "Level": 70,
+        "JournalSection": 5,
+        "JournalCategory": 25,
+        "JournalGenre": "\n\t\t\t\t\t\t\tDaily Quests\n\t\t\t\t\t\t",
+        "Url": "/lodestone/playguide/db/quest/88192651015/",
+        "Image": null,
+        "Icon": "common_repeat",
+        "Issuer": "Uin Nee",
+        "StartLocation": {
+            "Name": "Il Mheg",
+            "X": "12.3",
+            "Y": "32.9"
+        },
+        "StartClass": null,
+        "Job": "",
+        "Company": "Not specified",
+        "Requirement": "Not specified",
+        "Rewards": {
+            "Gil": 606,
+            "Exp": null,
+            "ItemsMand": [],
+            "ItemsOpt": []
+        },
+        "Infos": {
+            "PrevQuests": [
+                {
+                    "Name": "Elegant Eulmoran",
+                    "Url": "/lodestone/playguide/db/npc/npc/401504382cf/",
+                    "Area": "Il Mheg (X:13.0 Y:26.7)"
+                },
+                {
+                    "Name": "Tall Fuath",
+                    "Url": "/lodestone/playguide/db/npc/npc/e9f4fcc2c54/",
+                    "Area": "Il Mheg (X:13.1 Y:25.9)"
+                },
+                {
+                    "Name": "Trembling Scavenger",
+                    "Url": "/lodestone/playguide/db/npc/npc/f0b036f0c5a/",
+                    "Area": "Il Mheg (X:12.8 Y:26.5)"
+                }
+            ]
+        },
+        "Seq": 20,
+        "oldID": 69239,
+        "Map": {
+            "ID": 494
+        }
+    },
+    {
+        "ID": "898e06690d7",
+        "Name": " A Cry from the Ashes",
+        "Location": "Il Mheg",
+        "Level": 70,
+        "JournalSection": 5,
+        "JournalCategory": 25,
+        "JournalGenre": "\n\t\t\t\t\t\t\tMain Quests\n\t\t\t\t\t\t",
+        "Url": "/lodestone/playguide/db/quest/898e06690d7/",
+        "Image": "https://img.finalfantasyxiv.com/lds/pc/global/images/itemicon/d0/d078d5c95837b1b5bf5414fcf2e9012975a77711.png?n5.5",
+        "Icon": "function_normal",
+        "Issuer": "Tyr Beq",
+        "StartLocation": {
+            "Name": "Il Mheg",
+            "X": "12.1",
+            "Y": "32.9"
+        },
+        "StartClass": null,
+        "Job": "",
+        "Company": "Not specified",
+        "Requirement": "Not specified",
+        "Rewards": {
+            "Gil": 1878,
+            "Exp": null,
+            "ItemsMand": [],
+            "ItemsOpt": []
+        },
+        "Infos": {
+            "PrevQuests": [
+                {
+                    "Name": " The Heart's Oasis",
+                    "Url": "/lodestone/playguide/db/quest/d0e2ff5a89a/",
+                    "Area": "Il Mheg",
+                    "Level": "70"
+                }
+            ],
+            "NextQuests": [
+                {
+                    "Name": " As the Heart Bids",
+                    "Url": "/lodestone/playguide/db/quest/47ef64616ed/",
+                    "Area": "Il Mheg",
+                    "Level": "70"
+                }
+            ],
+            "NPCs": [
+                {
+                    "Name": "Ezel II",
+                    "Url": "/lodestone/playguide/db/npc/npc/85cda486367/",
+                    "Area": "Lyhe Mheg (X:7.1 Y:7.0)"
+                },
+                {
+                    "Name": "Ezel II",
+                    "Url": "/lodestone/playguide/db/npc/npc/ac6d194428d/",
+                    "Area": "Lyhe Mheg (X:5.8 Y:4.9)"
+                },
+                {
+                    "Name": "Mord Souq Boy",
+                    "Url": "/lodestone/playguide/db/npc/npc/3d8fae0b1e0/",
+                    "Area": "Lyhe Mheg (X:7.1 Y:7.0)"
+                },
+                {
+                    "Name": "Tyr Beq",
+                    "Url": "/lodestone/playguide/db/npc/npc/45a568f9cca/",
+                    "Area": "Lyhe Mheg (X:7.1 Y:7.0)"
+                },
+                {
+                    "Name": "Tyr Beq",
+                    "Url": "/lodestone/playguide/db/npc/npc/3daa86563cc/",
+                    "Area": "Lyhe Mheg (X:5.8 Y:4.9)"
+                },
+                {
+                    "Name": "Ezel II",
+                    "Url": "/lodestone/playguide/db/npc/npc/9b524e509d4/",
+                    "Area": "The Rak'tika Greatwood (X:18.6 Y:27.5)"
+                },
+                {
+                    "Name": "Ezel II",
+                    "Url": "/lodestone/playguide/db/npc/npc/de4e2dcd152/",
+                    "Area": "The Rak'tika Greatwood (X:16.0 Y:26.7)"
+                },
+                {
+                    "Name": "Slitherbough Girl",
+                    "Url": "/lodestone/playguide/db/npc/npc/d6c51336658/",
+                    "Area": "The Rak'tika Greatwood (X:20.6 Y:26.8)"
+                },
+                {
+                    "Name": "Slitherbough Girl",
+                    "Url": "/lodestone/playguide/db/npc/npc/860497c063f/",
+                    "Area": "The Rak'tika Greatwood (X:20.6 Y:26.8)"
+                },
+                {
+                    "Name": "Tyr Beq",
+                    "Url": "/lodestone/playguide/db/npc/npc/781c2ac0137/",
+                    "Area": "The Rak'tika Greatwood (X:18.6 Y:27.4)"
+                },
+                {
+                    "Name": "Tyr Beq",
+                    "Url": "/lodestone/playguide/db/npc/npc/0e8b5b91d8c/",
+                    "Area": "The Rak'tika Greatwood (X:15.9 Y:26.7)"
+                }
+            ]
+        },
+        "Seq": 3,
+        "oldID": 69222,
+        "Map": {
+            "ID": 494
+        }
+    },
+    {
+        "ID": "8b6d568d2d6",
+        "Name": " Pebble without a Cause",
+        "Location": "Il Mheg",
+        "Level": 70,
+        "JournalSection": 5,
+        "JournalCategory": 25,
+        "JournalGenre": "\n\t\t\t\t\t\t\tDaily Quests\n\t\t\t\t\t\t",
+        "Url": "/lodestone/playguide/db/quest/8b6d568d2d6/",
+        "Image": null,
+        "Icon": "common_repeat",
+        "Issuer": "Uin Nee",
+        "StartLocation": {
+            "Name": "Il Mheg",
+            "X": "12.3",
+            "Y": "32.9"
+        },
+        "StartClass": null,
+        "Job": "",
+        "Company": "Not specified",
+        "Requirement": "Not specified",
+        "Rewards": {
+            "Gil": 606,
+            "Exp": null,
+            "ItemsMand": [],
+            "ItemsOpt": []
+        },
+        "Infos": {},
+        "Seq": 21,
+        "oldID": 69240,
+        "Map": {
+            "ID": 494
+        }
+    },
+    {
+        "ID": "8c7d9cbd4b6",
+        "Name": " Amazing Graze",
+        "Location": "Il Mheg",
+        "Level": 70,
+        "JournalSection": 5,
+        "JournalCategory": 25,
+        "JournalGenre": "\n\t\t\t\t\t\t\tDaily Quests\n\t\t\t\t\t\t",
+        "Url": "/lodestone/playguide/db/quest/8c7d9cbd4b6/",
+        "Image": null,
+        "Icon": "common_repeat",
+        "Issuer": "Uin Nee",
+        "StartLocation": {
+            "Name": "Il Mheg",
+            "X": "12.3",
+            "Y": "32.9"
+        },
+        "StartClass": null,
+        "Job": "",
+        "Company": "Not specified",
+        "Requirement": "Not specified",
+        "Rewards": {
+            "Gil": 606,
+            "Exp": null,
+            "ItemsMand": [],
+            "ItemsOpt": []
+        },
+        "Infos": {
+            "PrevQuests": [
+                {
+                    "Name": "Sheep-obsessed Pixie",
+                    "Url": "/lodestone/playguide/db/npc/npc/696294f5b11/",
+                    "Area": "Il Mheg (X:16.3 Y:33.5)"
+                }
+            ]
+        },
+        "Seq": 18,
+        "oldID": 69237,
+        "Map": {
+            "ID": 494
+        }
+    },
+    {
+        "ID": "9de48a158ff",
+        "Name": " Not the Beavers",
+        "Location": "Il Mheg",
+        "Level": 70,
+        "JournalSection": 5,
+        "JournalCategory": 25,
+        "JournalGenre": "\n\t\t\t\t\t\t\tDaily Quests\n\t\t\t\t\t\t",
+        "Url": "/lodestone/playguide/db/quest/9de48a158ff/",
+        "Image": null,
+        "Icon": "common_repeat",
+        "Issuer": "Uin Nee",
+        "StartLocation": {
+            "Name": "Il Mheg",
+            "X": "12.3",
+            "Y": "32.9"
+        },
+        "StartClass": null,
+        "Job": "",
+        "Company": "Not specified",
+        "Requirement": "Not specified",
+        "Rewards": {
+            "Gil": 606,
+            "Exp": null,
+            "ItemsMand": [],
+            "ItemsOpt": []
+        },
+        "Infos": {
+            "PrevQuests": [
+                {
+                    "Name": "Flower-picking Pixie",
+                    "Url": "/lodestone/playguide/db/npc/npc/642a9b3eb86/",
+                    "Area": "Il Mheg (X:21.9 Y:36.5)"
+                }
+            ]
+        },
+        "Seq": 24,
+        "oldID": 69243,
+        "Map": {
+            "ID": 494
+        }
+    },
+    {
+        "ID": "b23ef88feda",
+        "Name": " Where There's Wool, There's a Way",
+        "Location": "Il Mheg",
+        "Level": 70,
+        "JournalSection": 5,
+        "JournalCategory": 25,
+        "JournalGenre": "\n\t\t\t\t\t\t\tDaily Quests\n\t\t\t\t\t\t",
+        "Url": "/lodestone/playguide/db/quest/b23ef88feda/",
+        "Image": null,
+        "Icon": "common_repeat",
+        "Issuer": "Uin Nee",
+        "StartLocation": {
+            "Name": "Il Mheg",
+            "X": "12.3",
+            "Y": "32.9"
+        },
+        "StartClass": null,
+        "Job": "",
+        "Company": "Not specified",
+        "Requirement": "Not specified",
+        "Rewards": {
+            "Gil": 606,
+            "Exp": null,
+            "ItemsMand": [],
+            "ItemsOpt": []
+        },
+        "Infos": {},
+        "Seq": 6,
+        "oldID": 69225,
+        "Map": {
+            "ID": 494
+        }
+    },
+    {
+        "ID": "b585912a3d1",
+        "Name": " Of Marvelous Mallow",
+        "Location": "Il Mheg",
+        "Level": 70,
+        "JournalSection": 5,
+        "JournalCategory": 25,
+        "JournalGenre": "\n\t\t\t\t\t\t\tDaily Quests\n\t\t\t\t\t\t",
+        "Url": "/lodestone/playguide/db/quest/b585912a3d1/",
+        "Image": null,
+        "Icon": "common_repeat",
+        "Issuer": "Uin Nee",
+        "StartLocation": {
+            "Name": "Il Mheg",
+            "X": "12.3",
+            "Y": "32.9"
+        },
+        "StartClass": null,
+        "Job": "",
+        "Company": "Not specified",
+        "Requirement": "Not specified",
+        "Rewards": {
+            "Gil": 606,
+            "Exp": null,
+            "ItemsMand": [],
+            "ItemsOpt": []
+        },
+        "Infos": {},
+        "Seq": 13,
+        "oldID": 69232,
+        "Map": {
+            "ID": 494
+        }
+    },
+    {
+        "ID": "bb550b542b0",
+        "Name": " The Once and Future Marchioness",
+        "Location": "Il Mheg",
+        "Level": 70,
+        "JournalSection": 5,
+        "JournalCategory": 25,
+        "JournalGenre": "\n\t\t\t\t\t\t\tDaily Quests\n\t\t\t\t\t\t",
+        "Url": "/lodestone/playguide/db/quest/bb550b542b0/",
+        "Image": null,
+        "Icon": "common_repeat",
+        "Issuer": "Uin Nee",
+        "StartLocation": {
+            "Name": "Il Mheg",
+            "X": "12.3",
+            "Y": "32.9"
+        },
+        "StartClass": null,
+        "Job": "",
+        "Company": "Not specified",
+        "Requirement": "Not specified",
+        "Rewards": {
+            "Gil": 606,
+            "Exp": null,
+            "ItemsMand": [],
+            "ItemsOpt": []
+        },
+        "Infos": {},
+        "Seq": 25,
+        "oldID": 69244,
+        "Map": {
+            "ID": 494
+        }
+    },
+    {
+        "ID": "be033c8e927",
+        "Name": " The Aesthetician of Il Mheg",
+        "Location": "Il Mheg",
+        "Level": 70,
+        "JournalSection": 5,
+        "JournalCategory": 25,
+        "JournalGenre": "\n\t\t\t\t\t\t\tDaily Quests\n\t\t\t\t\t\t",
+        "Url": "/lodestone/playguide/db/quest/be033c8e927/",
+        "Image": null,
+        "Icon": "common_repeat",
+        "Issuer": "Uin Nee",
+        "StartLocation": {
+            "Name": "Il Mheg",
+            "X": "12.3",
+            "Y": "32.9"
+        },
+        "StartClass": null,
+        "Job": "",
+        "Company": "Not specified",
+        "Requirement": "Not specified",
+        "Rewards": {
+            "Gil": 606,
+            "Exp": null,
+            "ItemsMand": [],
+            "ItemsOpt": []
+        },
+        "Infos": {},
+        "Seq": 9,
+        "oldID": 69228,
+        "Map": {
+            "ID": 494
+        }
+    },
+    {
+        "ID": "c1fafcd7bc5",
+        "Name": " The Wonder of Witchweed",
+        "Location": "Il Mheg",
+        "Level": 70,
+        "JournalSection": 5,
+        "JournalCategory": 25,
+        "JournalGenre": "\n\t\t\t\t\t\t\tDaily Quests\n\t\t\t\t\t\t",
+        "Url": "/lodestone/playguide/db/quest/c1fafcd7bc5/",
+        "Image": null,
+        "Icon": "common_repeat",
+        "Issuer": "Uin Nee",
+        "StartLocation": {
+            "Name": "Il Mheg",
+            "X": "12.3",
+            "Y": "32.9"
+        },
+        "StartClass": null,
+        "Job": "",
+        "Company": "Not specified",
+        "Requirement": "Not specified",
+        "Rewards": {
+            "Gil": 606,
+            "Exp": null,
+            "ItemsMand": [],
+            "ItemsOpt": []
+        },
+        "Infos": {},
+        "Seq": 12,
+        "oldID": 69231,
+        "Map": {
+            "ID": 494
+        }
+    },
+    {
+        "ID": "c3eccb36a22",
+        "Name": " The Big Sleep",
+        "Location": "Il Mheg",
+        "Level": 70,
+        "JournalSection": 5,
+        "JournalCategory": 25,
+        "JournalGenre": "\n\t\t\t\t\t\t\tDaily Quests\n\t\t\t\t\t\t",
+        "Url": "/lodestone/playguide/db/quest/c3eccb36a22/",
+        "Image": null,
+        "Icon": "common_repeat",
+        "Issuer": "Uin Nee",
+        "StartLocation": {
+            "Name": "Il Mheg",
+            "X": "12.3",
+            "Y": "32.9"
+        },
+        "StartClass": null,
+        "Job": "",
+        "Company": "Not specified",
+        "Requirement": "Not specified",
+        "Rewards": {
+            "Gil": 606,
+            "Exp": null,
+            "ItemsMand": [],
+            "ItemsOpt": []
+        },
+        "Infos": {
+            "PrevQuests": [
+                {
+                    "Name": "Sleepy Pixie",
+                    "Url": "/lodestone/playguide/db/npc/npc/a4b599dd545/",
+                    "Area": "Il Mheg (X:19.3 Y:17.5)"
+                },
+                {
+                    "Name": "Sleepy Pixie",
+                    "Url": "/lodestone/playguide/db/npc/npc/8da99b76b0a/",
+                    "Area": "Il Mheg (X:16.9 Y:15.3)"
+                },
+                {
+                    "Name": "Sleepy Pixie",
+                    "Url": "/lodestone/playguide/db/npc/npc/b52c94eac5a/",
+                    "Area": "Il Mheg (X:17.7 Y:16.2)"
+                }
+            ]
+        },
+        "Seq": 16,
+        "oldID": 69235,
+        "Map": {
+            "ID": 494
+        }
+    },
+    {
+        "ID": "cc2c0419ee4",
+        "Name": " The Moss Fungus Menace",
+        "Location": "Il Mheg",
+        "Level": 70,
+        "JournalSection": 5,
+        "JournalCategory": 25,
+        "JournalGenre": "\n\t\t\t\t\t\t\tDaily Quests\n\t\t\t\t\t\t",
+        "Url": "/lodestone/playguide/db/quest/cc2c0419ee4/",
+        "Image": null,
+        "Icon": "common_repeat",
+        "Issuer": "Uin Nee",
+        "StartLocation": {
+            "Name": "Il Mheg",
+            "X": "12.3",
+            "Y": "32.9"
+        },
+        "StartClass": null,
+        "Job": "",
+        "Company": "Not specified",
+        "Requirement": "Not specified",
+        "Rewards": {
+            "Gil": 606,
+            "Exp": null,
+            "ItemsMand": [],
+            "ItemsOpt": []
+        },
+        "Infos": {},
+        "Seq": 14,
+        "oldID": 69233,
+        "Map": {
+            "ID": 494
+        }
+    },
+    {
+        "ID": "d0e2ff5a89a",
+        "Name": " The Heart's Oasis",
+        "Location": "Il Mheg",
+        "Level": 70,
+        "JournalSection": 5,
+        "JournalCategory": 25,
+        "JournalGenre": "\n\t\t\t\t\t\t\tMain Quests\n\t\t\t\t\t\t",
+        "Url": "/lodestone/playguide/db/quest/d0e2ff5a89a/",
+        "Image": "https://img.finalfantasyxiv.com/lds/pc/global/images/itemicon/72/72419222f77c87089cffed569c920714515dc5c7.png?n5.5",
+        "Icon": "function_normal",
+        "Issuer": "Tyr Beq",
+        "StartLocation": {
+            "Name": "Il Mheg",
+            "X": "12.1",
+            "Y": "32.9"
+        },
+        "StartClass": null,
+        "Job": "",
+        "Company": "Not specified",
+        "Requirement": "Not specified",
+        "Rewards": {
+            "Gil": 1964,
+            "Exp": null,
+            "ItemsMand": [],
+            "ItemsOpt": []
+        },
+        "Infos": {
+            "PrevQuests": [
+                {
+                    "Name": " Sustenance for the Soul",
+                    "Url": "/lodestone/playguide/db/quest/09df1d01213/",
+                    "Area": "Il Mheg",
+                    "Level": "70"
+                }
+            ],
+            "NextQuests": [
+                {
+                    "Name": " A Cry from the Ashes",
+                    "Url": "/lodestone/playguide/db/quest/898e06690d7/",
+                    "Area": "Il Mheg",
+                    "Level": "70"
+                }
+            ],
+            "NPCs": [
+                {
+                    "Name": "Ezel II",
+                    "Url": "/lodestone/playguide/db/npc/npc/188b28d8b30/",
+                    "Area": "Amh Araeng (X:27.5 Y:15.2)"
+                },
+                {
+                    "Name": "Ezel II",
+                    "Url": "/lodestone/playguide/db/npc/npc/b89cc8375ed/",
+                    "Area": "Amh Araeng (X:28.4 Y:21.2)"
+                },
+                {
+                    "Name": "Ezel II",
+                    "Url": "/lodestone/playguide/db/npc/npc/becc2bd5e3c/",
+                    "Area": "Amh Araeng (X:25.6 Y:18.6)"
+                },
+                {
+                    "Name": "Flower Vendor",
+                    "Url": "/lodestone/playguide/db/npc/npc/6fc88b40ff5/",
+                    "Area": "Amh Araeng (X:25.4 Y:18.7)"
+                },
+                {
+                    "Name": "Mord Souq Boy",
+                    "Url": "/lodestone/playguide/db/npc/npc/eef97d0ed67/",
+                    "Area": "Amh Araeng (X:25.5 Y:18.7)"
+                },
+                {
+                    "Name": "Tyr Beq",
+                    "Url": "/lodestone/playguide/db/npc/npc/e090aac894d/",
+                    "Area": "Amh Araeng (X:27.5 Y:15.2)"
+                },
+                {
+                    "Name": "Tyr Beq",
+                    "Url": "/lodestone/playguide/db/npc/npc/70f2854ffb5/",
+                    "Area": "Amh Araeng (X:28.4 Y:21.1)"
+                },
+                {
+                    "Name": "Tyr Beq",
+                    "Url": "/lodestone/playguide/db/npc/npc/c8b80e95a37/",
+                    "Area": "Amh Araeng (X:25.5 Y:18.6)"
+                },
+                {
+                    "Name": "Ezel II",
+                    "Url": "/lodestone/playguide/db/npc/npc/3d677d51ada/",
+                    "Area": "Lyhe Mheg (X:7.4 Y:8.1)"
+                },
+                {
+                    "Name": "Ezel II",
+                    "Url": "/lodestone/playguide/db/npc/npc/fa593ecac53/",
+                    "Area": "Lyhe Mheg (X:7.7 Y:5.0)"
+                },
+                {
+                    "Name": "Ezel II",
+                    "Url": "/lodestone/playguide/db/npc/npc/9d5ce7b0f90/",
+                    "Area": "Lyhe Mheg (X:7.8 Y:5.3)"
+                },
+                {
+                    "Name": "Tyr Beq",
+                    "Url": "/lodestone/playguide/db/npc/npc/3b3beb49e0c/",
+                    "Area": "Lyhe Mheg (X:7.4 Y:8.1)"
+                },
+                {
+                    "Name": "Tyr Beq",
+                    "Url": "/lodestone/playguide/db/npc/npc/a467fbae1f9/",
+                    "Area": "Lyhe Mheg (X:7.6 Y:5.0)"
+                },
+                {
+                    "Name": "Tyr Beq",
+                    "Url": "/lodestone/playguide/db/npc/npc/f291fab18e8/",
+                    "Area": "Lyhe Mheg (X:7.8 Y:5.3)"
+                },
+                {
+                    "Name": "Wright Boy",
+                    "Url": "/lodestone/playguide/db/npc/npc/8022f58f0c1/",
+                    "Area": "Lyhe Mheg (X:7.4 Y:8.1)"
+                }
+            ]
+        },
+        "Seq": 2,
+        "oldID": 69221,
+        "Map": {
+            "ID": 494
+        }
+    },
+    {
+        "ID": "da58810f8a8",
+        "Name": " A Porxie Before Swine",
+        "Location": "Il Mheg",
+        "Level": 70,
+        "JournalSection": 5,
+        "JournalCategory": 25,
+        "JournalGenre": "\n\t\t\t\t\t\t\tDaily Quests\n\t\t\t\t\t\t",
+        "Url": "/lodestone/playguide/db/quest/da58810f8a8/",
+        "Image": null,
+        "Icon": "common_repeat",
+        "Issuer": "Uin Nee",
+        "StartLocation": {
+            "Name": "Il Mheg",
+            "X": "12.3",
+            "Y": "32.9"
+        },
+        "StartClass": null,
+        "Job": "",
+        "Company": "Not specified",
+        "Requirement": "Not specified",
+        "Rewards": {
+            "Gil": 606,
+            "Exp": null,
+            "ItemsMand": [],
+            "ItemsOpt": []
+        },
+        "Infos": {
+            "PrevQuests": [
+                {
+                    "Name": "Trembling Porxie",
+                    "Url": "/lodestone/playguide/db/npc/npc/6ee627d2dcb/",
+                    "Area": "Il Mheg (X:25.8 Y:11.6)"
+                }
+            ]
+        },
+        "Seq": 30,
+        "oldID": 69249,
+        "Map": {
+            "ID": 494
+        }
+    },
+    {
+        "ID": "e10c02d6dcc",
+        "Name": " No Accounting for Taste",
+        "Location": "Il Mheg",
+        "Level": 70,
+        "JournalSection": 5,
+        "JournalCategory": 25,
+        "JournalGenre": "\n\t\t\t\t\t\t\tDaily Quests\n\t\t\t\t\t\t",
+        "Url": "/lodestone/playguide/db/quest/e10c02d6dcc/",
+        "Image": null,
+        "Icon": "common_repeat",
+        "Issuer": "Uin Nee",
+        "StartLocation": {
+            "Name": "Il Mheg",
+            "X": "12.3",
+            "Y": "32.9"
+        },
+        "StartClass": null,
+        "Job": "",
+        "Company": "Not specified",
+        "Requirement": "Not specified",
+        "Rewards": {
+            "Gil": 606,
+            "Exp": null,
+            "ItemsMand": [],
+            "ItemsOpt": []
+        },
+        "Infos": {},
+        "Seq": 26,
+        "oldID": 69245,
+        "Map": {
+            "ID": 494
+        }
+    },
+    {
+        "ID": "e3bc6fc71f5",
+        "Name": " Best of Boat Worlds",
+        "Location": "Il Mheg",
+        "Level": 70,
+        "JournalSection": 5,
+        "JournalCategory": 25,
+        "JournalGenre": "\n\t\t\t\t\t\t\tDaily Quests\n\t\t\t\t\t\t",
+        "Url": "/lodestone/playguide/db/quest/e3bc6fc71f5/",
+        "Image": null,
+        "Icon": "common_repeat",
+        "Issuer": "Uin Nee",
+        "StartLocation": {
+            "Name": "Il Mheg",
+            "X": "12.3",
+            "Y": "32.9"
+        },
+        "StartClass": null,
+        "Job": "",
+        "Company": "Not specified",
+        "Requirement": "Not specified",
+        "Rewards": {
+            "Gil": 606,
+            "Exp": null,
+            "ItemsMand": [],
+            "ItemsOpt": []
+        },
+        "Infos": {},
+        "Seq": 17,
+        "oldID": 69236,
+        "Map": {
+            "ID": 494
+        }
+    },
+    {
+        "ID": "e8eeff215a4",
+        "Name": " Sweet as Honey",
+        "Location": "Il Mheg",
+        "Level": 70,
+        "JournalSection": 5,
+        "JournalCategory": 25,
+        "JournalGenre": "\n\t\t\t\t\t\t\tDaily Quests\n\t\t\t\t\t\t",
+        "Url": "/lodestone/playguide/db/quest/e8eeff215a4/",
+        "Image": null,
+        "Icon": "common_repeat",
+        "Issuer": "Uin Nee",
+        "StartLocation": {
+            "Name": "Il Mheg",
+            "X": "12.3",
+            "Y": "32.9"
+        },
+        "StartClass": null,
+        "Job": "",
+        "Company": "Not specified",
+        "Requirement": "Not specified",
+        "Rewards": {
+            "Gil": 606,
+            "Exp": null,
+            "ItemsMand": [],
+            "ItemsOpt": []
+        },
+        "Infos": {},
+        "Seq": 10,
+        "oldID": 69229,
+        "Map": {
+            "ID": 494
+        }
+    },
+    {
+        "ID": "eea912cc9ec",
+        "Name": " Porxine Perfection",
+        "Location": "Il Mheg",
+        "Level": 70,
+        "JournalSection": 5,
+        "JournalCategory": 25,
+        "JournalGenre": "\n\t\t\t\t\t\t\tDaily Quests\n\t\t\t\t\t\t",
+        "Url": "/lodestone/playguide/db/quest/eea912cc9ec/",
+        "Image": null,
+        "Icon": "common_repeat",
+        "Issuer": "Uin Nee",
+        "StartLocation": {
+            "Name": "Il Mheg",
+            "X": "12.3",
+            "Y": "32.9"
+        },
+        "StartClass": null,
+        "Job": "",
+        "Company": "Not specified",
+        "Requirement": "Not specified",
+        "Rewards": {
+            "Gil": 606,
+            "Exp": null,
+            "ItemsMand": [],
+            "ItemsOpt": []
+        },
+        "Infos": {
+            "PrevQuests": [
+                {
+                    "Name": "Lugg Aenc",
+                    "Url": "/lodestone/playguide/db/npc/npc/487617abe18/",
+                    "Area": "Il Mheg (X:12.6 Y:32.9)"
+                }
+            ]
+        },
+        "Seq": 15,
+        "oldID": 69234,
+        "Map": {
+            "ID": 494
+        }
+    },
+    {
+        "ID": "f7f8504a865",
+        "Name": " Forever and a Dream",
+        "Location": "Il Mheg",
+        "Level": 70,
+        "JournalSection": 5,
+        "JournalCategory": 25,
+        "JournalGenre": "\n\t\t\t\t\t\t\tMain Quests\n\t\t\t\t\t\t",
+        "Url": "/lodestone/playguide/db/quest/f7f8504a865/",
+        "Image": "https://img.finalfantasyxiv.com/lds/pc/global/images/itemicon/1f/1fe2858d9ee8f48e295ffae9a88fca5f5c625e3b.png?n5.5",
+        "Icon": "function_normal",
+        "Issuer": "Tyr Beq",
+        "StartLocation": {
+            "Name": "Il Mheg",
+            "X": "12.1",
+            "Y": "32.9"
+        },
+        "StartClass": null,
+        "Job": "",
+        "Company": "Not specified",
+        "Requirement": "Not specified",
+        "Rewards": {
+            "Gil": 642,
+            "Exp": null,
+            "ItemsMand": [],
+            "ItemsOpt": []
+        },
+        "Infos": {
+            "PrevQuests": [
+                {
+                    "Name": " As the Heart Bids",
+                    "Url": "/lodestone/playguide/db/quest/47ef64616ed/",
+                    "Area": "Il Mheg",
+                    "Level": "70"
+                }
+            ],
+            "NextQuests": [
+                {
+                    "Name": "An Lad",
+                    "Url": "/lodestone/playguide/db/npc/npc/481280a27e8/",
+                    "Area": "Lyhe Mheg (X:6.9 Y:7.2)"
+                }
+            ]
+        },
+        "Seq": 5,
+        "oldID": 69224,
+        "Map": {
+            "ID": 494
+        }
+    },
+    {
+        "ID": "fd5913c779f",
+        "Name": " Snot My Problem",
+        "Location": "Il Mheg",
+        "Level": 70,
+        "JournalSection": 5,
+        "JournalCategory": 25,
+        "JournalGenre": "\n\t\t\t\t\t\t\tDaily Quests\n\t\t\t\t\t\t",
+        "Url": "/lodestone/playguide/db/quest/fd5913c779f/",
+        "Image": null,
+        "Icon": "common_repeat",
+        "Issuer": "Uin Nee",
+        "StartLocation": {
+            "Name": "Il Mheg",
+            "X": "12.3",
+            "Y": "32.9"
+        },
+        "StartClass": null,
+        "Job": "",
+        "Company": "Not specified",
+        "Requirement": "Not specified",
+        "Rewards": {
+            "Gil": 606,
+            "Exp": null,
+            "ItemsMand": [],
+            "ItemsOpt": []
+        },
+        "Infos": {
+            "PrevQuests": [
+                {
+                    "Name": "Lugg Aenc",
+                    "Url": "/lodestone/playguide/db/npc/npc/487617abe18/",
+                    "Area": "Il Mheg (X:12.6 Y:32.9)"
+                }
+            ]
+        },
+        "Seq": 31,
+        "oldID": 69250,
+        "Map": {
+            "ID": 494
+        }
+    }
+]
