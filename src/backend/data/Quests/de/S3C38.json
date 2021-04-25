@@ -27,7 +27,7 @@
             "ItemsOpt": []
         },
         "Infos": {
-            "PrevQuests": [
+            "PrerequisiteQuest": [
                 {
                     "Name": "Freibriefe der Tölpelturm-Siedlung",
                     "Url": "/lodestone/playguide/db/quest/8b2de303b68/",
@@ -101,7 +101,7 @@
             ]
         },
         "Infos": {
-            "PrevQuests": [
+            "PrerequisiteQuest": [
                 {
                     "Name": "Der reumütige Sturmmariner",
                     "Url": "/lodestone/playguide/db/quest/a397f4fc4de/",
@@ -144,7 +144,7 @@
             "ItemsOpt": []
         },
         "Infos": {
-            "PrevQuests": [
+            "PrerequisiteQuest": [
                 {
                     "Name": "Präventivschlag",
                     "Url": "/lodestone/playguide/db/quest/5b722cbcaf1/",
@@ -152,7 +152,7 @@
                     "Level": "47"
                 }
             ],
-            "NextQuests": [
+            "FollowupQuest": [
                 {
                     "Name": "Ablenkungsmanöver",
                     "Url": "/lodestone/playguide/db/quest/1a357d8e5ec/",
@@ -160,7 +160,7 @@
                     "Level": "47"
                 }
             ],
-            "NPCs": [
+            "RelatedNPC": [
                 {
                     "Name": "Rotschwalben-Großsturmmariner",
                     "Url": "/lodestone/playguide/db/npc/npc/fbf152ceb8f/",
@@ -242,7 +242,7 @@
             ]
         },
         "Infos": {
-            "PrevQuests": [
+            "PrerequisiteQuest": [
                 {
                     "Name": "Der Ruf des Meeres",
                     "Url": "/lodestone/playguide/db/quest/b906b9dcc8f/",
@@ -256,7 +256,7 @@
                     "Level": "15"
                 }
             ],
-            "NextQuests": [
+            "FollowupQuest": [
                 {
                     "Name": "Vergissmeinnicht",
                     "Url": "/lodestone/playguide/db/quest/9292d1a900e/",
@@ -318,7 +318,7 @@
             ]
         },
         "Infos": {
-            "PrevQuests": [
+            "PrerequisiteQuest": [
                 {
                     "Name": "Lieferung auf Umwegen",
                     "Url": "/lodestone/playguide/db/quest/67c93d0a3c2/",
@@ -326,7 +326,7 @@
                     "Level": "8"
                 }
             ],
-            "NextQuests": [
+            "RelatedNPC": [
                 {
                     "Name": "Staelwyrn",
                     "Url": "/lodestone/playguide/db/npc/npc/dcba6d99434/",
@@ -373,7 +373,7 @@
             "ItemsOpt": []
         },
         "Infos": {
-            "PrevQuests": [
+            "PrerequisiteQuest": [
                 {
                     "Name": "Titan, Herr der Felsen",
                     "Url": "/lodestone/playguide/db/quest/d8fc9ef2788/",
@@ -381,7 +381,7 @@
                     "Level": "34"
                 }
             ],
-            "NextQuests": [
+            "FollowupQuest": [
                 {
                     "Name": "Zu heiß gebadet",
                     "Url": "/lodestone/playguide/db/quest/aa566df59b0/",
@@ -389,7 +389,7 @@
                     "Level": "34"
                 }
             ],
-            "NPCs": [
+            "RelatedNPC": [
                 {
                     "Name": "Godbert",
                     "Url": "/lodestone/playguide/db/npc/npc/dace6c02347/",
@@ -431,7 +431,7 @@
             "ItemsOpt": []
         },
         "Infos": {
-            "PrevQuests": [
+            "RelatedNPC": [
                 {
                     "Name": "Quentenain",
                     "Url": "/lodestone/playguide/db/npc/npc/3d6e76227a7/",
@@ -504,7 +504,7 @@
             ]
         },
         "Infos": {
-            "PrevQuests": [
+            "PrerequisiteQuest": [
                 {
                     "Name": "Fast wie zu Hause",
                     "Url": "/lodestone/playguide/db/quest/de24c28bb95/",
@@ -518,7 +518,7 @@
                     "Level": "1"
                 }
             ],
-            "NextQuests": [
+            "RelatedNPC": [
                 {
                     "Name": "Baderon",
                     "Url": "/lodestone/playguide/db/npc/npc/fc75cfa7e04/",
@@ -575,7 +575,7 @@
             "ItemsOpt": []
         },
         "Infos": {
-            "PrevQuests": [
+            "FollowupQuest": [
                 {
                     "Name": "Fast wie zu Hause",
                     "Url": "/lodestone/playguide/db/quest/de24c28bb95/",
@@ -595,7 +595,7 @@
                     "Level": "1"
                 }
             ],
-            "NextQuests": [
+            "RelatedNPC": [
                 {
                     "Name": "Baderon",
                     "Url": "/lodestone/playguide/db/npc/npc/f7fe946e3d2/",
@@ -654,7 +654,7 @@
             "ItemsOpt": []
         },
         "Infos": {
-            "PrevQuests": [
+            "PrerequisiteQuest": [
                 {
                     "Name": "Spannkraft fürs Haar",
                     "Url": "/lodestone/playguide/db/quest/d6963fd8102/",
@@ -662,7 +662,7 @@
                     "Level": "5"
                 }
             ],
-            "NextQuests": [
+            "RelatedNPC": [
                 {
                     "Name": "Durchgegangener Dodo",
                     "Url": "/lodestone/playguide/db/npc/npc/d295f91301e/",
@@ -778,7 +778,7 @@
             ]
         },
         "Infos": {
-            "PrevQuests": [
+            "PrerequisiteQuest": [
                 {
                     "Name": "Frische Brise",
                     "Url": "/lodestone/playguide/db/quest/228eab259d7/",
@@ -786,7 +786,7 @@
                     "Level": "33"
                 }
             ],
-            "NextQuests": [
+            "RelatedNPC": [
                 {
                     "Name": "Anführer der Wilderer",
                     "Url": "/lodestone/playguide/db/npc/npc/7de8b34ab49/",
@@ -847,7 +847,7 @@
             ]
         },
         "Infos": {
-            "PrevQuests": [
+            "PrerequisiteQuest": [
                 {
                     "Name": "Gil regiert die Welt",
                     "Url": "/lodestone/playguide/db/quest/071960f03da/",
@@ -855,7 +855,7 @@
                     "Level": "47"
                 }
             ],
-            "NextQuests": [
+            "FollowupQuest": [
                 {
                     "Name": "Alte Bekannte",
                     "Url": "/lodestone/playguide/db/quest/d1090ccee5f/",
@@ -930,7 +930,7 @@
             ]
         },
         "Infos": {
-            "PrevQuests": [
+            "PrerequisiteQuest": [
                 {
                     "Name": "Seeschlangenalarm",
                     "Url": "/lodestone/playguide/db/quest/aa88dc128b5/",
@@ -938,7 +938,7 @@
                     "Level": "50"
                 }
             ],
-            "NextQuests": [
+            "FollowupQuest": [
                 {
                     "Name": "Ohne Fische geht es nicht",
                     "Url": "/lodestone/playguide/db/quest/ef8d5dffbf9/",
@@ -946,7 +946,7 @@
                     "Level": "50"
                 }
             ],
-            "NPCs": [
+            "RelatedNPC": [
                 {
                     "Name": "Ascelyn",
                     "Url": "/lodestone/playguide/db/npc/npc/d645dfb3ecf/",
@@ -1001,7 +1001,7 @@
             "ItemsOpt": []
         },
         "Infos": {
-            "PrevQuests": [
+            "PrerequisiteQuest": [
                 {
                     "Name": "Nach Camp Schädeltal",
                     "Url": "/lodestone/playguide/db/quest/e6447382b1b/",
@@ -1009,7 +1009,7 @@
                     "Level": "48"
                 }
             ],
-            "NextQuests": [
+            "FollowupQuest": [
                 {
                     "Name": "Die falsche Schlange",
                     "Url": "/lodestone/playguide/db/quest/d186c04fbf9/",
@@ -1017,7 +1017,7 @@
                     "Level": "48"
                 }
             ],
-            "NPCs": [
+            "RelatedNPC": [
                 {
                     "Name": "Dawson",
                     "Url": "/lodestone/playguide/db/npc/npc/ca560a318ee/",
@@ -1077,7 +1077,7 @@
             ]
         },
         "Infos": {
-            "PrevQuests": [
+            "RelatedNPC": [
                 {
                     "Name": "H'naanza",
                     "Url": "/lodestone/playguide/db/npc/npc/adb90ee8144/",
@@ -1119,7 +1119,7 @@
             "ItemsOpt": []
         },
         "Infos": {
-            "PrevQuests": [
+            "PrerequisiteQuest": [
                 {
                     "Name": "Landpomeranzen",
                     "Url": "/lodestone/playguide/db/quest/25411d2f534/",
@@ -1127,7 +1127,7 @@
                     "Level": "30"
                 }
             ],
-            "NextQuests": [
+            "FollowupQuest": [
                 {
                     "Name": "Undank ist der Welten Lohn",
                     "Url": "/lodestone/playguide/db/quest/19f21b2af13/",
@@ -1218,7 +1218,7 @@
             "ItemsOpt": []
         },
         "Infos": {
-            "PrevQuests": [
+            "PrerequisiteQuest": [
                 {
                     "Name": "Vermisste Personen",
                     "Url": "/lodestone/playguide/db/quest/5b938667e59/",
@@ -1226,7 +1226,7 @@
                     "Level": "2"
                 }
             ],
-            "NextQuests": [
+            "RelatedNPC": [
                 {
                     "Name": "Sisipu",
                     "Url": "/lodestone/playguide/db/npc/npc/f942d1cf9a6/",
@@ -1268,7 +1268,7 @@
             "ItemsOpt": []
         },
         "Infos": {
-            "PrevQuests": [
+            "FollowupQuest": [
                 {
                     "Name": "Frische Brise",
                     "Url": "/lodestone/playguide/db/quest/228eab259d7/",
@@ -1276,7 +1276,7 @@
                     "Level": "33"
                 }
             ],
-            "NextQuests": [
+            "RelatedNPC": [
                 {
                     "Name": "Kutscher",
                     "Url": "/lodestone/playguide/db/npc/npc/74918e083c0/",
@@ -1338,7 +1338,7 @@
             "ItemsOpt": []
         },
         "Infos": {
-            "PrevQuests": [
+            "RelatedNPC": [
                 {
                     "Name": "Carvallain",
                     "Url": "/lodestone/playguide/db/npc/npc/983f5a61be3/",
@@ -1395,7 +1395,7 @@
             "ItemsOpt": []
         },
         "Infos": {
-            "PrevQuests": [
+            "RelatedNPC": [
                 {
                     "Name": "Rhoswen",
                     "Url": "/lodestone/playguide/db/npc/npc/a526c376ab2/",
@@ -1469,7 +1469,7 @@
             ]
         },
         "Infos": {
-            "PrevQuests": [
+            "PrerequisiteQuest": [
                 {
                     "Name": "Leerer Bauch studiert nicht gern",
                     "Url": "/lodestone/playguide/db/quest/bbcf1644bec/",
@@ -1525,7 +1525,7 @@
             ]
         },
         "Infos": {
-            "PrevQuests": [
+            "PrerequisiteQuest": [
                 {
                     "Name": "Eitler Winzer",
                     "Url": "/lodestone/playguide/db/quest/9a1a1e8ad46/",
@@ -1568,7 +1568,7 @@
             "ItemsOpt": []
         },
         "Infos": {
-            "PrevQuests": [
+            "PrerequisiteQuest": [
                 {
                     "Name": "Freibriefe der Tölpelturm-Siedlung",
                     "Url": "/lodestone/playguide/db/quest/8b2de303b68/",
@@ -1630,7 +1630,7 @@
             "ItemsOpt": []
         },
         "Infos": {
-            "PrevQuests": [
+            "FollowupQuest": [
                 {
                     "Name": "Mein kleiner Chocobo",
                     "Url": "/lodestone/playguide/db/quest/d0c8145f2d1/",
@@ -1638,7 +1638,7 @@
                     "Level": "30"
                 }
             ],
-            "NextQuests": [
+            "RelatedNPC": [
                 {
                     "Name": "Chocobo",
                     "Url": "/lodestone/playguide/db/npc/npc/7622a8999a3/",
@@ -1650,7 +1650,7 @@
                     "Area": "Untere Decks (X:12.1 Y:11.0)"
                 }
             ],
-            "NPCs": [
+            "RelatedAchievements": [
                 {
                     "Name": "Mein kleiner Chocobo",
                     "Url": "/lodestone/playguide/db/achievement/0d544d2e49c/",
@@ -1718,7 +1718,7 @@
             ]
         },
         "Infos": {
-            "PrevQuests": [
+            "PrerequisiteQuest": [
                 {
                     "Name": "Gefahr erkannt? Gefahr verkannt!",
                     "Url": "/lodestone/playguide/db/quest/a57786a3f5c/",
@@ -1726,7 +1726,7 @@
                     "Level": "32"
                 }
             ],
-            "NextQuests": [
+            "FollowupQuest": [
                 {
                     "Name": "Schuppige Aasfresser",
                     "Url": "/lodestone/playguide/db/quest/3137e86b41f/",
@@ -1769,7 +1769,7 @@
             "ItemsOpt": []
         },
         "Infos": {
-            "PrevQuests": [
+            "RelatedNPC": [
                 {
                     "Name": "Rostnzeh",
                     "Url": "/lodestone/playguide/db/npc/npc/2af10ae6380/",
@@ -1811,7 +1811,7 @@
             "ItemsOpt": []
         },
         "Infos": {
-            "PrevQuests": [
+            "PrerequisiteQuest": [
                 {
                     "Name": "Halbstein ist unser",
                     "Url": "/lodestone/playguide/db/quest/cb174f62566/",
@@ -1819,7 +1819,7 @@
                     "Level": "16"
                 }
             ],
-            "NextQuests": [
+            "RelatedNPC": [
                 {
                     "Name": "Nortmoen",
                     "Url": "/lodestone/playguide/db/npc/npc/ba4f233ccd1/",
@@ -1866,7 +1866,7 @@
             "ItemsOpt": []
         },
         "Infos": {
-            "PrevQuests": [
+            "PrerequisiteQuest": [
                 {
                     "Name": "Säulenpest",
                     "Url": "/lodestone/playguide/db/quest/2b3dc45dc96/",
@@ -1874,7 +1874,7 @@
                     "Level": "32"
                 }
             ],
-            "NextQuests": [
+            "RelatedNPC": [
                 {
                     "Name": "Schnippler-Kadaver",
                     "Url": "/lodestone/playguide/db/npc/npc/203d7003a8f/",
@@ -1916,7 +1916,7 @@
             "ItemsOpt": []
         },
         "Infos": {
-            "PrevQuests": [
+            "RelatedNPC": [
                 {
                     "Name": "Frydwyb",
                     "Url": "/lodestone/playguide/db/npc/npc/d3a350ce0c5/",
@@ -1970,7 +1970,7 @@
             "ItemsOpt": []
         },
         "Infos": {
-            "PrevQuests": [
+            "PrerequisiteQuest": [
                 {
                     "Name": "Der Ruf des Meeres",
                     "Url": "/lodestone/playguide/db/quest/b906b9dcc8f/",
@@ -1984,7 +1984,7 @@
                     "Level": "15"
                 }
             ],
-            "NextQuests": [
+            "FollowupQuest": [
                 {
                     "Name": "Des Kosmetikers Meisterstück",
                     "Url": "/lodestone/playguide/db/quest/6344809a432/",
@@ -1992,7 +1992,7 @@
                     "Level": "50"
                 }
             ],
-            "NPCs": [
+            "RelatedNPC": [
                 {
                     "Name": "H'naanza",
                     "Url": "/lodestone/playguide/db/npc/npc/adb90ee8144/",
@@ -2114,7 +2114,7 @@
             "ItemsOpt": []
         },
         "Infos": {
-            "PrevQuests": [
+            "FollowupQuest": [
                 {
                     "Name": "Vorsicht vor dem Kobold!",
                     "Url": "/lodestone/playguide/db/quest/430ed3322dc/",
@@ -2122,7 +2122,7 @@
                     "Level": "8"
                 }
             ],
-            "NextQuests": [
+            "RelatedNPC": [
                 {
                     "Name": "Eshushu",
                     "Url": "/lodestone/playguide/db/npc/npc/c94b10d44c3/",
@@ -2186,7 +2186,7 @@
             "ItemsOpt": []
         },
         "Infos": {
-            "PrevQuests": [
+            "RelatedNPC": [
                 {
                     "Name": "Baensyng",
                     "Url": "/lodestone/playguide/db/npc/npc/fa923474e6b/",
@@ -2262,7 +2262,7 @@
             ]
         },
         "Infos": {
-            "PrevQuests": [
+            "PrerequisiteQuest": [
                 {
                     "Name": "Der Ruf des Meeres",
                     "Url": "/lodestone/playguide/db/quest/b906b9dcc8f/",
@@ -2276,7 +2276,7 @@
                     "Level": "15"
                 }
             ],
-            "NextQuests": [
+            "FollowupQuest": [
                 {
                     "Name": "Der übereifrige Sturmmariner",
                     "Url": "/lodestone/playguide/db/quest/f46d887cef1/",
@@ -2338,7 +2338,7 @@
             ]
         },
         "Infos": {
-            "PrevQuests": [
+            "PrerequisiteQuest": [
                 {
                     "Name": "Wolle für die Mühlen",
                     "Url": "/lodestone/playguide/db/quest/d828e62b911/",
@@ -2352,7 +2352,7 @@
                     "Level": "7"
                 }
             ],
-            "NextQuests": [
+            "RelatedNPC": [
                 {
                     "Name": "Broenruht",
                     "Url": "/lodestone/playguide/db/npc/npc/341e28e9853/",
@@ -2421,7 +2421,7 @@
             "ItemsOpt": []
         },
         "Infos": {
-            "PrevQuests": [
+            "PrerequisiteQuest": [
                 {
                     "Name": "Ackerpiraten",
                     "Url": "/lodestone/playguide/db/quest/ec121f46d86/",
@@ -2429,7 +2429,7 @@
                     "Level": "4"
                 }
             ],
-            "NextQuests": [
+            "FollowupQuest": [
                 {
                     "Name": "Schädliche Puks",
                     "Url": "/lodestone/playguide/db/quest/4bcf49903e6/",
@@ -2472,7 +2472,7 @@
             "ItemsOpt": []
         },
         "Infos": {
-            "PrevQuests": [
+            "RelatedNPC": [
                 {
                     "Name": "Lonwoerd",
                     "Url": "/lodestone/playguide/db/npc/npc/1d8868370bc/",
@@ -2527,7 +2527,7 @@
             "ItemsOpt": []
         },
         "Infos": {
-            "PrevQuests": [
+            "PrerequisiteQuest": [
                 {
                     "Name": "Reife Früchte",
                     "Url": "/lodestone/playguide/db/quest/46ef6503fa3/",
@@ -2595,7 +2595,7 @@
             ]
         },
         "Infos": {
-            "PrevQuests": [
+            "PrerequisiteQuest": [
                 {
                     "Name": "Bruderliebe",
                     "Url": "/lodestone/playguide/db/quest/ffce27e082f/",
@@ -2603,7 +2603,7 @@
                     "Level": "48"
                 }
             ],
-            "NextQuests": [
+            "RelatedNPC": [
                 {
                     "Name": "Nortmoen",
                     "Url": "/lodestone/playguide/db/npc/npc/ba4f233ccd1/",
@@ -2664,7 +2664,7 @@
             ]
         },
         "Infos": {
-            "PrevQuests": [
+            "PrerequisiteQuest": [
                 {
                     "Name": "Der Ruf des Meeres",
                     "Url": "/lodestone/playguide/db/quest/b906b9dcc8f/",
@@ -2678,7 +2678,7 @@
                     "Level": "15"
                 }
             ],
-            "NextQuests": [
+            "RelatedNPC": [
                 {
                     "Name": "Quentenain",
                     "Url": "/lodestone/playguide/db/npc/npc/3d6e76227a7/",
@@ -2730,7 +2730,7 @@
             "ItemsOpt": []
         },
         "Infos": {
-            "PrevQuests": [
+            "PrerequisiteQuest": [
                 {
                     "Name": "Niniya kann es nicht lassen",
                     "Url": "/lodestone/playguide/db/quest/ece3c51117f/",
@@ -2738,7 +2738,7 @@
                     "Level": "4"
                 }
             ],
-            "NextQuests": [
+            "FollowupQuest": [
                 {
                     "Name": "Wolle für die Mühlen",
                     "Url": "/lodestone/playguide/db/quest/d828e62b911/",
@@ -2746,7 +2746,7 @@
                     "Level": "6"
                 }
             ],
-            "NPCs": [
+            "RelatedNPC": [
                 {
                     "Name": "Anaoc",
                     "Url": "/lodestone/playguide/db/npc/npc/de917e44f70/",
@@ -2788,7 +2788,7 @@
             "ItemsOpt": []
         },
         "Infos": {
-            "PrevQuests": [
+            "PrerequisiteQuest": [
                 {
                     "Name": "Titan, Herr der Felsen",
                     "Url": "/lodestone/playguide/db/quest/d8fc9ef2788/",
@@ -2796,7 +2796,7 @@
                     "Level": "34"
                 }
             ],
-            "NextQuests": [
+            "RelatedNPC": [
                 {
                     "Name": "H'bhowaka",
                     "Url": "/lodestone/playguide/db/npc/npc/8a953947adb/",
@@ -2853,7 +2853,7 @@
             "ItemsOpt": []
         },
         "Infos": {
-            "PrevQuests": [
+            "PrerequisiteQuest": [
                 {
                     "Name": "Köstlicher Gestank",
                     "Url": "/lodestone/playguide/db/quest/5e8ee19906d/",
@@ -2861,7 +2861,7 @@
                     "Level": "32"
                 }
             ],
-            "NextQuests": [
+            "FollowupQuest": [
                 {
                     "Name": "Erdbeben mit Folgen",
                     "Url": "/lodestone/playguide/db/quest/811024c6caa/",
@@ -2904,7 +2904,7 @@
             "ItemsOpt": []
         },
         "Infos": {
-            "PrevQuests": [
+            "RelatedNPC": [
                 {
                     "Name": "Godebert",
                     "Url": "/lodestone/playguide/db/npc/npc/f9a1c6d567a/",
@@ -2958,7 +2958,7 @@
             "ItemsOpt": []
         },
         "Infos": {
-            "PrevQuests": [
+            "PrerequisiteQuest": [
                 {
                     "Name": "Ist doch kein Beinbruch",
                     "Url": "/lodestone/playguide/db/quest/c4391f067e3/",
@@ -2966,7 +2966,7 @@
                     "Level": "34"
                 }
             ],
-            "NextQuests": [
+            "FollowupQuest": [
                 {
                     "Name": "Die Kobolde rüsten auf",
                     "Url": "/lodestone/playguide/db/quest/8a8fe0393ac/",
@@ -2974,7 +2974,7 @@
                     "Level": "34"
                 }
             ],
-            "NPCs": [
+            "RelatedNPC": [
                 {
                     "Name": "Hungrige Rotschwalbe",
                     "Url": "/lodestone/playguide/db/npc/npc/b0000006249/",
@@ -3026,7 +3026,7 @@
             "ItemsOpt": []
         },
         "Infos": {
-            "PrevQuests": [
+            "FollowupQuest": [
                 {
                     "Name": "Es werde Licht",
                     "Url": "/lodestone/playguide/db/quest/24916830a8f/",
@@ -3034,7 +3034,7 @@
                     "Level": "2"
                 }
             ],
-            "NextQuests": [
+            "RelatedNPC": [
                 {
                     "Name": "Niniya",
                     "Url": "/lodestone/playguide/db/npc/npc/a4e4a8b9d3d/",
@@ -3115,7 +3115,7 @@
             "ItemsOpt": []
         },
         "Infos": {
-            "PrevQuests": [
+            "PrerequisiteQuest": [
                 {
                     "Name": "Die ultimative Waffe",
                     "Url": "/lodestone/playguide/db/quest/3ab32cfebf8/",
@@ -3123,7 +3123,7 @@
                     "Level": "50"
                 }
             ],
-            "NextQuests": [
+            "FollowupQuest": [
                 {
                     "Name": "Erschreckende Erkenntnis",
                     "Url": "/lodestone/playguide/db/quest/67878ff93d2/",
@@ -3131,7 +3131,7 @@
                     "Level": "50"
                 }
             ],
-            "NPCs": [
+            "RelatedNPC": [
                 {
                     "Name": "Davyd",
                     "Url": "/lodestone/playguide/db/npc/npc/5a9d8f4877a/",
@@ -3189,7 +3189,7 @@
             "ItemsOpt": []
         },
         "Infos": {
-            "PrevQuests": [
+            "RelatedNPC": [
                 {
                     "Name": "Ealdwine",
                     "Url": "/lodestone/playguide/db/npc/npc/fcd0bf989b5/",
@@ -3236,7 +3236,7 @@
             "ItemsOpt": []
         },
         "Infos": {
-            "PrevQuests": [
+            "PrerequisiteQuest": [
                 {
                     "Name": "Betörende Gesänge",
                     "Url": "/lodestone/playguide/db/quest/6654498eef4/",
@@ -3244,7 +3244,7 @@
                     "Level": "50"
                 }
             ],
-            "NextQuests": [
+            "FollowupQuest": [
                 {
                     "Name": "Sanieren oder demolieren",
                     "Url": "/lodestone/playguide/db/quest/c12b11f086d/",
@@ -3252,7 +3252,7 @@
                     "Level": "60"
                 }
             ],
-            "NPCs": [
+            "RelatedNPC": [
                 {
                     "Name": "Mimidoa",
                     "Url": "/lodestone/playguide/db/npc/npc/2d9ddafc0f0/",
@@ -3307,7 +3307,7 @@
             "ItemsOpt": []
         },
         "Infos": {
-            "PrevQuests": [
+            "PrerequisiteQuest": [
                 {
                     "Name": "Kein Metall den Kobolden",
                     "Url": "/lodestone/playguide/db/quest/bc4d56c9e82/",
@@ -3350,7 +3350,7 @@
             "ItemsOpt": []
         },
         "Infos": {
-            "PrevQuests": [
+            "FollowupQuest": [
                 {
                     "Name": "Schädlingsbekämpfung",
                     "Url": "/lodestone/playguide/db/quest/85f824b0bcf/",
@@ -3440,7 +3440,7 @@
             ]
         },
         "Infos": {
-            "PrevQuests": [
+            "PrerequisiteQuest": [
                 {
                     "Name": "Köstlicher Gestank",
                     "Url": "/lodestone/playguide/db/quest/5e8ee19906d/",
@@ -3448,7 +3448,7 @@
                     "Level": "32"
                 }
             ],
-            "NextQuests": [
+            "FollowupQuest": [
                 {
                     "Name": "Eitler Winzer",
                     "Url": "/lodestone/playguide/db/quest/9a1a1e8ad46/",
@@ -3491,7 +3491,7 @@
             "ItemsOpt": []
         },
         "Infos": {
-            "PrevQuests": [
+            "PrerequisiteQuest": [
                 {
                     "Name": "Auf zum Himmelszug",
                     "Url": "/lodestone/playguide/db/quest/5ec223975db/",
@@ -3499,7 +3499,7 @@
                     "Level": "10"
                 }
             ],
-            "NextQuests": [
+            "FollowupQuest": [
                 {
                     "Name": "Den Bussarden an die Gurgel",
                     "Url": "/lodestone/playguide/db/quest/f07f0e1bb29/",
@@ -3542,7 +3542,7 @@
             "ItemsOpt": []
         },
         "Infos": {
-            "PrevQuests": [
+            "PrerequisiteQuest": [
                 {
                     "Name": "Wider dem Vergessen",
                     "Url": "/lodestone/playguide/db/quest/ec86453b390/",
@@ -3550,7 +3550,7 @@
                     "Level": "16"
                 }
             ],
-            "NextQuests": [
+            "FollowupQuest": [
                 {
                     "Name": "Heiß erwartete Ablösung",
                     "Url": "/lodestone/playguide/db/quest/e2d0514bce0/",
@@ -3558,7 +3558,7 @@
                     "Level": "16"
                 }
             ],
-            "NPCs": [
+            "RelatedNPC": [
                 {
                     "Name": "Falkbryda",
                     "Url": "/lodestone/playguide/db/npc/npc/732bca1d47a/",
@@ -3631,7 +3631,7 @@
             ]
         },
         "Infos": {
-            "PrevQuests": [
+            "PrerequisiteQuest": [
                 {
                     "Name": "Titan, Herr der Felsen",
                     "Url": "/lodestone/playguide/db/quest/d8fc9ef2788/",
@@ -3693,7 +3693,7 @@
             ]
         },
         "Infos": {
-            "PrevQuests": [
+            "RelatedNPC": [
                 {
                     "Name": "Abylfarr",
                     "Url": "/lodestone/playguide/db/npc/npc/0187fb6b821/",
@@ -3754,7 +3754,7 @@
             ]
         },
         "Infos": {
-            "PrevQuests": [
+            "RelatedNPC": [
                 {
                     "Name": "Baderon",
                     "Url": "/lodestone/playguide/db/npc/npc/fc75cfa7e04/",
@@ -3796,7 +3796,7 @@
             "ItemsOpt": []
         },
         "Infos": {
-            "PrevQuests": [
+            "PrerequisiteQuest": [
                 {
                     "Name": "Lange Finger, lange Ohren",
                     "Url": "/lodestone/playguide/db/quest/56939afce13/",
@@ -3858,7 +3858,7 @@
             ]
         },
         "Infos": {
-            "PrevQuests": [
+            "PrerequisiteQuest": [
                 {
                     "Name": "Die Ogerkürbisfeldmaulwurfplage",
                     "Url": "/lodestone/playguide/db/quest/6ba79968474/",
@@ -3901,7 +3901,7 @@
             "ItemsOpt": []
         },
         "Infos": {
-            "PrevQuests": [
+            "PrerequisiteQuest": [
                 {
                     "Name": "Mit leerem Bauch",
                     "Url": "/lodestone/playguide/db/quest/5ad5124003c/",
@@ -3909,7 +3909,7 @@
                     "Level": "34"
                 }
             ],
-            "NextQuests": [
+            "FollowupQuest": [
                 {
                     "Name": "Aussichtsreiche Infiltration",
                     "Url": "/lodestone/playguide/db/quest/9c9bc1cd73a/",
@@ -3952,7 +3952,7 @@
             "ItemsOpt": []
         },
         "Infos": {
-            "PrevQuests": [
+            "FollowupQuest": [
                 {
                     "Name": "Wolfshundbändiger",
                     "Url": "/lodestone/playguide/db/quest/ea1445c53c5/",
@@ -3966,7 +3966,7 @@
                     "Level": "15"
                 }
             ],
-            "NextQuests": [
+            "RelatedNPC": [
                 {
                     "Name": "R'kontai",
                     "Url": "/lodestone/playguide/db/npc/npc/d46ee5733d1/",
@@ -4013,7 +4013,7 @@
             "ItemsOpt": []
         },
         "Infos": {
-            "PrevQuests": [
+            "PrerequisiteQuest": [
                 {
                     "Name": "Der Preis des Verrats",
                     "Url": "/lodestone/playguide/db/quest/5d66d230112/",
@@ -4021,7 +4021,7 @@
                     "Level": "9"
                 }
             ],
-            "NextQuests": [
+            "FollowupQuest": [
                 {
                     "Name": "Freibriefe der Moraby-Trockendocks",
                     "Url": "/lodestone/playguide/db/quest/297d37645ec/",
@@ -4107,7 +4107,7 @@
                     "Level": "45"
                 }
             ],
-            "NPCs": [
+            "RelatedNPC": [
                 {
                     "Name": "Swygskyf",
                     "Url": "/lodestone/playguide/db/npc/npc/1b003985d2d/",
@@ -4168,7 +4168,7 @@
             ]
         },
         "Infos": {
-            "PrevQuests": [
+            "RelatedNPC": [
                 {
                     "Name": "Ghimthota",
                     "Url": "/lodestone/playguide/db/npc/npc/7dc9c8d594b/",
@@ -4235,7 +4235,7 @@
             ]
         },
         "Infos": {
-            "PrevQuests": [
+            "PrerequisiteQuest": [
                 {
                     "Name": "Meister der Anpassung",
                     "Url": "/lodestone/playguide/db/quest/0973cb7c2ae/",
@@ -4243,7 +4243,7 @@
                     "Level": "15"
                 }
             ],
-            "NextQuests": [
+            "FollowupQuest": [
                 {
                     "Name": "Halbstein ist unser",
                     "Url": "/lodestone/playguide/db/quest/cb174f62566/",
@@ -4251,7 +4251,7 @@
                     "Level": "16"
                 }
             ],
-            "NPCs": [
+            "RelatedNPC": [
                 {
                     "Name": "Wiltswys",
                     "Url": "/lodestone/playguide/db/npc/npc/bae6e96277f/",
@@ -4319,7 +4319,7 @@
             ]
         },
         "Infos": {
-            "PrevQuests": [
+            "PrerequisiteQuest": [
                 {
                     "Name": "Wolle für die Mühlen",
                     "Url": "/lodestone/playguide/db/quest/d828e62b911/",
@@ -4327,7 +4327,7 @@
                     "Level": "6"
                 }
             ],
-            "NextQuests": [
+            "FollowupQuest": [
                 {
                     "Name": "Ein dreister Überfall",
                     "Url": "/lodestone/playguide/db/quest/d84c0be46fa/",
@@ -4335,7 +4335,7 @@
                     "Level": "9"
                 }
             ],
-            "NPCs": [
+            "RelatedNPC": [
                 {
                     "Name": "Skarnmhar",
                     "Url": "/lodestone/playguide/db/npc/npc/d9a599b0a9a/",
@@ -4377,7 +4377,7 @@
             "ItemsOpt": []
         },
         "Infos": {
-            "PrevQuests": [
+            "PrerequisiteQuest": [
                 {
                     "Name": "Freibriefe der Tölpelturm-Siedlung",
                     "Url": "/lodestone/playguide/db/quest/8b2de303b68/",
@@ -4451,7 +4451,7 @@
             ]
         },
         "Infos": {
-            "PrevQuests": [
+            "RelatedNPC": [
                 {
                     "Name": "Panische Gelbjacke",
                     "Url": "/lodestone/playguide/db/npc/npc/89e8dc30c44/",
@@ -4552,7 +4552,7 @@
             "ItemsOpt": []
         },
         "Infos": {
-            "PrevQuests": [
+            "PrerequisiteQuest": [
                 {
                     "Name": "Raptorenplage",
                     "Url": "/lodestone/playguide/db/quest/6e4f1722fed/",
@@ -4560,7 +4560,7 @@
                     "Level": "32"
                 }
             ],
-            "NextQuests": [
+            "FollowupQuest": [
                 {
                     "Name": "Die Schattenseite des Weins",
                     "Url": "/lodestone/playguide/db/quest/283c5eb5b84/",
@@ -4568,7 +4568,7 @@
                     "Level": "33"
                 }
             ],
-            "NPCs": [
+            "RelatedNPC": [
                 {
                     "Name": "Porträtzeichner",
                     "Url": "/lodestone/playguide/db/npc/npc/534080d0416/",
@@ -4610,7 +4610,7 @@
             "ItemsOpt": []
         },
         "Infos": {
-            "PrevQuests": [
+            "PrerequisiteQuest": [
                 {
                     "Name": "Die Kobolde rüsten auf",
                     "Url": "/lodestone/playguide/db/quest/8a8fe0393ac/",
@@ -4618,7 +4618,7 @@
                     "Level": "34"
                 }
             ],
-            "NextQuests": [
+            "FollowupQuest": [
                 {
                     "Name": "Rache für Blaugybal",
                     "Url": "/lodestone/playguide/db/quest/a9d6949a6eb/",
@@ -4668,7 +4668,7 @@
             "ItemsOpt": []
         },
         "Infos": {
-            "PrevQuests": [
+            "PrerequisiteQuest": [
                 {
                     "Name": "Die Angelrute aufnehmen",
                     "Url": "/lodestone/playguide/db/quest/ddf6f8d8969/",
@@ -4676,7 +4676,7 @@
                     "Level": "1"
                 }
             ],
-            "NextQuests": [
+            "RelatedNPC": [
                 {
                     "Name": "Dryskthota",
                     "Url": "/lodestone/playguide/db/npc/npc/8ef1d723a46/",
@@ -4723,7 +4723,7 @@
             "ItemsOpt": []
         },
         "Infos": {
-            "PrevQuests": [
+            "PrerequisiteQuest": [
                 {
                     "Name": "Präventivschlag",
                     "Url": "/lodestone/playguide/db/quest/5b722cbcaf1/",
@@ -4800,7 +4800,7 @@
             "ItemsOpt": []
         },
         "Infos": {
-            "PrevQuests": [
+            "PrerequisiteQuest": [
                 {
                     "Name": "Der übereifrige Sturmmariner",
                     "Url": "/lodestone/playguide/db/quest/f46d887cef1/",
@@ -4808,7 +4808,7 @@
                     "Level": "15"
                 }
             ],
-            "NextQuests": [
+            "FollowupQuest": [
                 {
                     "Name": "Camp Dodo-Dung",
                     "Url": "/lodestone/playguide/db/quest/0491d1ebf2d/",
@@ -4816,7 +4816,7 @@
                     "Level": "16"
                 }
             ],
-            "NPCs": [
+            "RelatedNPC": [
                 {
                     "Name": "Falkbryda",
                     "Url": "/lodestone/playguide/db/npc/npc/732bca1d47a/",
@@ -4871,7 +4871,7 @@
             ]
         },
         "Infos": {
-            "PrevQuests": [
+            "PrerequisiteQuest": [
                 {
                     "Name": "Köstlicher Gestank",
                     "Url": "/lodestone/playguide/db/quest/5e8ee19906d/",
@@ -4879,7 +4879,7 @@
                     "Level": "32"
                 }
             ],
-            "NextQuests": [
+            "FollowupQuest": [
                 {
                     "Name": "Säulenpest",
                     "Url": "/lodestone/playguide/db/quest/2b3dc45dc96/",
@@ -5007,7 +5007,7 @@
             ]
         },
         "Infos": {
-            "PrevQuests": [
+            "PrerequisiteQuest": [
                 {
                     "Name": "Ein dreister Überfall",
                     "Url": "/lodestone/playguide/db/quest/d84c0be46fa/",
@@ -5015,7 +5015,7 @@
                     "Level": "9"
                 }
             ],
-            "NextQuests": [
+            "RelatedNPC": [
                 {
                     "Name": "Baderon",
                     "Url": "/lodestone/playguide/db/npc/npc/fc75cfa7e04/",
@@ -5072,7 +5072,7 @@
             "ItemsOpt": []
         },
         "Infos": {
-            "PrevQuests": [
+            "PrerequisiteQuest": [
                 {
                     "Name": "Freibriefe der Tölpelturm-Siedlung",
                     "Url": "/lodestone/playguide/db/quest/8b2de303b68/",
@@ -5134,7 +5134,7 @@
             "ItemsOpt": []
         },
         "Infos": {
-            "PrevQuests": [
+            "PrerequisiteQuest": [
                 {
                     "Name": "Krieg der Raubtiere",
                     "Url": "/lodestone/playguide/db/quest/8aa33ea6fc8/",
@@ -5142,7 +5142,7 @@
                     "Level": "15"
                 }
             ],
-            "NextQuests": [
+            "RelatedNPC": [
                 {
                     "Name": "Coeurl-Baby",
                     "Url": "/lodestone/playguide/db/npc/npc/a8f6f0b24e8/",
@@ -5184,7 +5184,7 @@
             "ItemsOpt": []
         },
         "Infos": {
-            "PrevQuests": [
+            "PrerequisiteQuest": [
                 {
                     "Name": "Aussichtsreiche Infiltration",
                     "Url": "/lodestone/playguide/db/quest/9c9bc1cd73a/",
@@ -5192,7 +5192,7 @@
                     "Level": "34"
                 }
             ],
-            "NextQuests": [
+            "RelatedNPC": [
                 {
                     "Name": "Blaugybal",
                     "Url": "/lodestone/playguide/db/npc/npc/2e761b68b11/",
@@ -5241,7 +5241,7 @@
             "ItemsOpt": []
         },
         "Infos": {
-            "PrevQuests": [
+            "PrerequisiteQuest": [
                 {
                     "Name": "Der ul'dhische Patient",
                     "Url": "/lodestone/playguide/db/quest/136b28edf66/",
@@ -5249,7 +5249,7 @@
                     "Level": "34"
                 }
             ],
-            "NextQuests": [
+            "RelatedNPC": [
                 {
                     "Name": "Godbert",
                     "Url": "/lodestone/playguide/db/npc/npc/e46f9cf0bce/",
@@ -5344,7 +5344,7 @@
             ]
         },
         "Infos": {
-            "PrevQuests": [
+            "FollowupQuest": [
                 {
                     "Name": "Inventur",
                     "Url": "/lodestone/playguide/db/quest/fee9ec0f793/",
@@ -5358,7 +5358,7 @@
                     "Level": "13"
                 }
             ],
-            "NextQuests": [
+            "RelatedNPC": [
                 {
                     "Name": "Lyngstyrm",
                     "Url": "/lodestone/playguide/db/npc/npc/8bc3a47d6e3/",
@@ -5424,7 +5424,7 @@
             ]
         },
         "Infos": {
-            "PrevQuests": [
+            "PrerequisiteQuest": [
                 {
                     "Name": "Köstlicher Gestank",
                     "Url": "/lodestone/playguide/db/quest/5e8ee19906d/",
@@ -5467,7 +5467,7 @@
             "ItemsOpt": []
         },
         "Infos": {
-            "PrevQuests": [
+            "PrerequisiteQuest": [
                 {
                     "Name": "Himmelwärts",
                     "Url": "/lodestone/playguide/db/quest/29fa56153f5/",
@@ -5481,7 +5481,7 @@
                     "Level": "50"
                 }
             ],
-            "NextQuests": [
+            "RelatedNPC": [
                 {
                     "Name": "Denston",
                     "Url": "/lodestone/playguide/db/npc/npc/49507a5c4b3/",
@@ -5555,7 +5555,7 @@
             ]
         },
         "Infos": {
-            "PrevQuests": [
+            "FollowupQuest": [
                 {
                     "Name": "Die Riesenseeschlange Thalaos",
                     "Url": "/lodestone/playguide/db/quest/2700cce25c2/",
@@ -5563,7 +5563,7 @@
                     "Level": "23"
                 }
             ],
-            "NextQuests": [
+            "RelatedNPC": [
                 {
                     "Name": "Gemischtwarenhändler",
                     "Url": "/lodestone/playguide/db/shop/db6a7c44696/",
@@ -5623,7 +5623,7 @@
             "ItemsOpt": []
         },
         "Infos": {
-            "PrevQuests": [
+            "RelatedNPC": [
                 {
                     "Name": "Latisha",
                     "Url": "/lodestone/playguide/db/npc/npc/51dbe90b322/",
@@ -5670,7 +5670,7 @@
             "ItemsOpt": []
         },
         "Infos": {
-            "PrevQuests": [
+            "PrerequisiteQuest": [
                 {
                     "Name": "Titan, Herr der Felsen",
                     "Url": "/lodestone/playguide/db/quest/d8fc9ef2788/",
@@ -5678,7 +5678,7 @@
                     "Level": "34"
                 }
             ],
-            "NextQuests": [
+            "FollowupQuest": [
                 {
                     "Name": "Ein Kindheitstraum wird wahr",
                     "Url": "/lodestone/playguide/db/quest/6af71c00f9f/",
@@ -5721,7 +5721,7 @@
             "ItemsOpt": []
         },
         "Infos": {
-            "PrevQuests": [
+            "PrerequisiteQuest": [
                 {
                     "Name": "Himmelwärts",
                     "Url": "/lodestone/playguide/db/quest/29fa56153f5/",
@@ -5735,7 +5735,7 @@
                     "Level": "50"
                 }
             ],
-            "NextQuests": [
+            "RelatedNPC": [
                 {
                     "Name": "Mahlstrom-Offizierin",
                     "Url": "/lodestone/playguide/db/npc/npc/e810bac061f/",
@@ -5787,7 +5787,7 @@
             "ItemsOpt": []
         },
         "Infos": {
-            "PrevQuests": [
+            "PrerequisiteQuest": [
                 {
                     "Name": "Titan, Herr der Felsen",
                     "Url": "/lodestone/playguide/db/quest/d8fc9ef2788/",
@@ -5795,7 +5795,7 @@
                     "Level": "34"
                 }
             ],
-            "NextQuests": [
+            "FollowupQuest": [
                 {
                     "Name": "Mit leerem Bauch",
                     "Url": "/lodestone/playguide/db/quest/5ad5124003c/",
@@ -5803,7 +5803,7 @@
                     "Level": "34"
                 }
             ],
-            "NPCs": [
+            "RelatedNPC": [
                 {
                     "Name": "Bloeidin",
                     "Url": "/lodestone/playguide/db/npc/npc/485ce80f0e6/",
@@ -5870,7 +5870,7 @@
             ]
         },
         "Infos": {
-            "PrevQuests": [
+            "PrerequisiteQuest": [
                 {
                     "Name": "Vergissmeinnicht",
                     "Url": "/lodestone/playguide/db/quest/9292d1a900e/",
@@ -5878,7 +5878,7 @@
                     "Level": "15"
                 }
             ],
-            "NextQuests": [
+            "FollowupQuest": [
                 {
                     "Name": "Brüderliche Liebe",
                     "Url": "/lodestone/playguide/db/quest/2f81acd4450/",
@@ -5927,7 +5927,7 @@
             "ItemsOpt": []
         },
         "Infos": {
-            "PrevQuests": [
+            "PrerequisiteQuest": [
                 {
                     "Name": "Ablenkungsmanöver",
                     "Url": "/lodestone/playguide/db/quest/1a357d8e5ec/",
@@ -5935,7 +5935,7 @@
                     "Level": "47"
                 }
             ],
-            "NextQuests": [
+            "RelatedNPC": [
                 {
                     "Name": "R'ashaht Rhiki",
                     "Url": "/lodestone/playguide/db/npc/npc/18feb495b80/",
@@ -5982,7 +5982,7 @@
             "ItemsOpt": []
         },
         "Infos": {
-            "PrevQuests": [
+            "PrerequisiteQuest": [
                 {
                     "Name": "Wertvolle Fracht",
                     "Url": "/lodestone/playguide/db/quest/1f2982d416a/",
@@ -5990,7 +5990,7 @@
                     "Level": "48"
                 }
             ],
-            "NextQuests": [
+            "FollowupQuest": [
                 {
                     "Name": "Ins Schlangennest",
                     "Url": "/lodestone/playguide/db/quest/fab261c654a/",
@@ -6016,7 +6016,7 @@
                     "Level": "48"
                 }
             ],
-            "NPCs": [
+            "RelatedNPC": [
                 {
                     "Name": "Dawson",
                     "Url": "/lodestone/playguide/db/npc/npc/d1b0854d634/",
@@ -6083,7 +6083,7 @@
             "ItemsOpt": []
         },
         "Infos": {
-            "PrevQuests": [
+            "FollowupQuest": [
                 {
                     "Name": "Dodos auf der Flucht",
                     "Url": "/lodestone/playguide/db/quest/1841ddb72db/",
@@ -6091,7 +6091,7 @@
                     "Level": "6"
                 }
             ],
-            "NextQuests": [
+            "RelatedNPC": [
                 {
                     "Name": "Chartain",
                     "Url": "/lodestone/playguide/db/npc/npc/66694c06c55/",
@@ -6155,7 +6155,7 @@
             "ItemsOpt": []
         },
         "Infos": {
-            "PrevQuests": [
+            "PrerequisiteQuest": [
                 {
                     "Name": "Her mit den Kröten",
                     "Url": "/lodestone/playguide/db/quest/4e7e511b7c8/",
@@ -6163,7 +6163,7 @@
                     "Level": "5"
                 }
             ],
-            "NextQuests": [
+            "FollowupQuest": [
                 {
                     "Name": "Haltet den Mehldieb!",
                     "Url": "/lodestone/playguide/db/quest/946b27915fe/",
@@ -6177,7 +6177,7 @@
                     "Level": "8"
                 }
             ],
-            "NPCs": [
+            "RelatedNPC": [
                 {
                     "Name": "Weitzaren",
                     "Url": "/lodestone/playguide/db/npc/npc/44fa4464c7e/",
@@ -6245,7 +6245,7 @@
             ]
         },
         "Infos": {
-            "PrevQuests": [
+            "PrerequisiteQuest": [
                 {
                     "Name": "Haltet den Mehldieb!",
                     "Url": "/lodestone/playguide/db/quest/946b27915fe/",
@@ -6253,7 +6253,7 @@
                     "Level": "8"
                 }
             ],
-            "NextQuests": [
+            "FollowupQuest": [
                 {
                     "Name": "Kampf den Kobolden",
                     "Url": "/lodestone/playguide/db/quest/a7b39223e12/",
@@ -6261,7 +6261,7 @@
                     "Level": "9"
                 }
             ],
-            "NPCs": [
+            "RelatedNPC": [
                 {
                     "Name": "Anaoc",
                     "Url": "/lodestone/playguide/db/npc/npc/de917e44f70/",
@@ -6314,7 +6314,7 @@
             "ItemsOpt": []
         },
         "Infos": {
-            "PrevQuests": [
+            "PrerequisiteQuest": [
                 {
                     "Name": "Erneuerung des Bunds",
                     "Url": "/lodestone/playguide/db/quest/c221a2c2932/",
@@ -6334,7 +6334,7 @@
                     "Level": "14"
                 }
             ],
-            "NextQuests": [
+            "RelatedNPC": [
                 {
                     "Name": "Beschäftigter Händler",
                     "Url": "/lodestone/playguide/db/npc/npc/e2f24e29f08/",
@@ -6398,7 +6398,7 @@
             "ItemsOpt": []
         },
         "Infos": {
-            "PrevQuests": [
+            "PrerequisiteQuest": [
                 {
                     "Name": "Willkommen in Limsa Lominsa",
                     "Url": "/lodestone/playguide/db/quest/149e9b93ac6/",
@@ -6406,7 +6406,7 @@
                     "Level": "1"
                 }
             ],
-            "NextQuests": [
+            "FollowupQuest": [
                 {
                     "Name": "Der suspekte Seemann",
                     "Url": "/lodestone/playguide/db/quest/e90686d86f2/",
@@ -6414,7 +6414,7 @@
                     "Level": "1"
                 }
             ],
-            "NPCs": [
+            "RelatedNPC": [
                 {
                     "Name": "Skaenrael",
                     "Url": "/lodestone/playguide/db/npc/npc/0a1bb50d491/",
@@ -6505,7 +6505,7 @@
             "ItemsOpt": []
         },
         "Infos": {
-            "PrevQuests": [
+            "PrerequisiteQuest": [
                 {
                     "Name": "Erst töten, dann beten",
                     "Url": "/lodestone/playguide/db/quest/77eadc89562/",
@@ -6513,7 +6513,7 @@
                     "Level": "16"
                 }
             ],
-            "NextQuests": [
+            "RelatedNPC": [
                 {
                     "Name": "Catguistl",
                     "Url": "/lodestone/playguide/db/npc/npc/7304fe2527d/",
@@ -6562,7 +6562,7 @@
             "ItemsOpt": []
         },
         "Infos": {
-            "PrevQuests": [
+            "PrerequisiteQuest": [
                 {
                     "Name": "Kräuterkunde",
                     "Url": "/lodestone/playguide/db/quest/da9c74c03ee/",
@@ -6570,7 +6570,7 @@
                     "Level": "1"
                 }
             ],
-            "NextQuests": [
+            "RelatedNPC": [
                 {
                     "Name": "Ginnade",
                     "Url": "/lodestone/playguide/db/npc/npc/05f52f5c89d/",
@@ -6634,7 +6634,7 @@
             "ItemsOpt": []
         },
         "Infos": {
-            "PrevQuests": [
+            "PrerequisiteQuest": [
                 {
                     "Name": "Krieg der Raubtiere",
                     "Url": "/lodestone/playguide/db/quest/8aa33ea6fc8/",
@@ -6642,7 +6642,7 @@
                     "Level": "15"
                 }
             ],
-            "NextQuests": [
+            "RelatedNPC": [
                 {
                     "Name": "Hungriger Welpe",
                     "Url": "/lodestone/playguide/db/npc/npc/3169c21b40b/",
@@ -6689,7 +6689,7 @@
             "ItemsOpt": []
         },
         "Infos": {
-            "PrevQuests": [
+            "RelatedNPC": [
                 {
                     "Name": "Mahlstrom-Rekrutin",
                     "Url": "/lodestone/playguide/db/npc/npc/9af48dc510e/",
@@ -6795,7 +6795,7 @@
             "ItemsOpt": []
         },
         "Infos": {
-            "PrevQuests": [
+            "RelatedNPC": [
                 {
                     "Name": "Ausbilderin des Mahlstroms",
                     "Url": "/lodestone/playguide/db/npc/npc/30ce256d462/",
@@ -6862,7 +6862,7 @@
             ]
         },
         "Infos": {
-            "PrevQuests": [
+            "PrerequisiteQuest": [
                 {
                     "Name": "Die falsche Schlange",
                     "Url": "/lodestone/playguide/db/quest/d186c04fbf9/",
@@ -6870,7 +6870,7 @@
                     "Level": "48"
                 }
             ],
-            "NextQuests": [
+            "FollowupQuest": [
                 {
                     "Name": "Bruderliebe",
                     "Url": "/lodestone/playguide/db/quest/ffce27e082f/",
@@ -6913,7 +6913,7 @@
             "ItemsOpt": []
         },
         "Infos": {
-            "PrevQuests": [
+            "PrerequisiteQuest": [
                 {
                     "Name": "Halbstein ist unser",
                     "Url": "/lodestone/playguide/db/quest/cb174f62566/",
@@ -6921,7 +6921,7 @@
                     "Level": "16"
                 }
             ],
-            "NextQuests": [
+            "FollowupQuest": [
                 {
                     "Name": "Erst töten, dann beten",
                     "Url": "/lodestone/playguide/db/quest/77eadc89562/",
@@ -6929,7 +6929,7 @@
                     "Level": "16"
                 }
             ],
-            "NPCs": [
+            "RelatedNPC": [
                 {
                     "Name": "Roehanth",
                     "Url": "/lodestone/playguide/db/npc/npc/01ee1d293d6/",
@@ -6990,7 +6990,7 @@
             ]
         },
         "Infos": {
-            "PrevQuests": [
+            "PrerequisiteQuest": [
                 {
                     "Name": "Hungrige Hafenarbeiter",
                     "Url": "/lodestone/playguide/db/quest/aadfc135a5e/",
@@ -7052,7 +7052,7 @@
             ]
         },
         "Infos": {
-            "PrevQuests": [
+            "PrerequisiteQuest": [
                 {
                     "Name": "Fast wie zu Hause",
                     "Url": "/lodestone/playguide/db/quest/de24c28bb95/",
@@ -7066,7 +7066,7 @@
                     "Level": "1"
                 }
             ],
-            "NextQuests": [
+            "FollowupQuest": [
                 {
                     "Name": "Her mit den Kröten",
                     "Url": "/lodestone/playguide/db/quest/4e7e511b7c8/",
@@ -7074,7 +7074,7 @@
                     "Level": "5"
                 }
             ],
-            "NPCs": [
+            "RelatedNPC": [
                 {
                     "Name": "Ancreta",
                     "Url": "/lodestone/playguide/db/npc/npc/2e65adb7dbe/",
@@ -7116,7 +7116,7 @@
             "ItemsOpt": []
         },
         "Infos": {
-            "PrevQuests": [
+            "PrerequisiteQuest": [
                 {
                     "Name": "Vergiftetes Herz",
                     "Url": "/lodestone/playguide/db/quest/7fcd8e13916/",
@@ -7172,7 +7172,7 @@
             ]
         },
         "Infos": {
-            "PrevQuests": [
+            "PrerequisiteQuest": [
                 {
                     "Name": "Köstlicher Gestank",
                     "Url": "/lodestone/playguide/db/quest/5e8ee19906d/",
@@ -7180,7 +7180,7 @@
                     "Level": "32"
                 }
             ],
-            "NextQuests": [
+            "FollowupQuest": [
                 {
                     "Name": "Verloren, gefunden",
                     "Url": "/lodestone/playguide/db/quest/f2b853521df/",
@@ -7243,7 +7243,7 @@
             ]
         },
         "Infos": {
-            "PrevQuests": [
+            "PrerequisiteQuest": [
                 {
                     "Name": "Ein kapitaler Fang",
                     "Url": "/lodestone/playguide/db/quest/1b1dcc356a7/",
@@ -7251,7 +7251,7 @@
                     "Level": "50"
                 }
             ],
-            "NextQuests": [
+            "RelatedNPC": [
                 {
                     "Name": "Ascelyn",
                     "Url": "/lodestone/playguide/db/npc/npc/d645dfb3ecf/",
@@ -7273,7 +7273,7 @@
                     "Area": "Östliches La Noscea (X:39.2 Y:24.1)"
                 }
             ],
-            "NPCs": [
+            "RelatedAchievements": [
                 {
                     "Name": "Seedrachenfilet",
                     "Url": "/lodestone/playguide/db/achievement/4cb62e1d42c/",
@@ -7316,7 +7316,7 @@
             "ItemsOpt": []
         },
         "Infos": {
-            "PrevQuests": [
+            "PrerequisiteQuest": [
                 {
                     "Name": "Frischer Fisch",
                     "Url": "/lodestone/playguide/db/quest/77bb953f09c/",
@@ -7359,7 +7359,7 @@
             "ItemsOpt": []
         },
         "Infos": {
-            "PrevQuests": [
+            "PrerequisiteQuest": [
                 {
                     "Name": "Höllenmaschinen",
                     "Url": "/lodestone/playguide/db/quest/ef466e6fa06/",
@@ -7367,7 +7367,7 @@
                     "Level": "32"
                 }
             ],
-            "NextQuests": [
+            "RelatedNPC": [
                 {
                     "Name": "Wheiskaet",
                     "Url": "/lodestone/playguide/db/npc/npc/29deab0a044/",
@@ -7434,7 +7434,7 @@
             ]
         },
         "Infos": {
-            "PrevQuests": [
+            "PrerequisiteQuest": [
                 {
                     "Name": "Der eifrige Sturmmariner",
                     "Url": "/lodestone/playguide/db/quest/3e151f2d20e/",
@@ -7442,7 +7442,7 @@
                     "Level": "15"
                 }
             ],
-            "NextQuests": [
+            "FollowupQuest": [
                 {
                     "Name": "Der reumütige Sturmmariner",
                     "Url": "/lodestone/playguide/db/quest/a397f4fc4de/",
@@ -7498,7 +7498,7 @@
             ]
         },
         "Infos": {
-            "PrevQuests": [
+            "PrerequisiteQuest": [
                 {
                     "Name": "Freibriefe der Tölpelturm-Siedlung",
                     "Url": "/lodestone/playguide/db/quest/8b2de303b68/",
@@ -7506,7 +7506,7 @@
                     "Level": "10"
                 }
             ],
-            "NextQuests": [
+            "RelatedNPC": [
                 {
                     "Name": "Kommandeurin Tiroro",
                     "Url": "/lodestone/playguide/db/npc/npc/9766ac5eec3/",
@@ -7573,7 +7573,7 @@
             ]
         },
         "Infos": {
-            "PrevQuests": [
+            "PrerequisiteQuest": [
                 {
                     "Name": "Die falsche Schlange",
                     "Url": "/lodestone/playguide/db/quest/d186c04fbf9/",
@@ -7641,7 +7641,7 @@
             ]
         },
         "Infos": {
-            "PrevQuests": [
+            "PrerequisiteQuest": [
                 {
                     "Name": "Die falsche Schlange",
                     "Url": "/lodestone/playguide/db/quest/d186c04fbf9/",
@@ -7649,7 +7649,7 @@
                     "Level": "48"
                 }
             ],
-            "NextQuests": [
+            "RelatedNPC": [
                 {
                     "Name": "Radolf",
                     "Url": "/lodestone/playguide/db/npc/npc/ab8f8b22e97/",
@@ -7716,7 +7716,7 @@
             ]
         },
         "Infos": {
-            "PrevQuests": [
+            "PrerequisiteQuest": [
                 {
                     "Name": "Die falsche Schlange",
                     "Url": "/lodestone/playguide/db/quest/d186c04fbf9/",
@@ -7778,7 +7778,7 @@
             ]
         },
         "Infos": {
-            "PrevQuests": [
+            "PrerequisiteQuest": [
                 {
                     "Name": "Hungrige Hafenarbeiter",
                     "Url": "/lodestone/playguide/db/quest/aadfc135a5e/",
@@ -7786,7 +7786,7 @@
                     "Level": "12"
                 }
             ],
-            "NextQuests": [
+            "RelatedNPC": [
                 {
                     "Name": "Razyn Mylzyn",
                     "Url": "/lodestone/playguide/db/npc/npc/0f9156f07b1/",
@@ -7833,7 +7833,7 @@
             "ItemsOpt": []
         },
         "Infos": {
-            "PrevQuests": [
+            "PrerequisiteQuest": [
                 {
                     "Name": "Schlangenjagd",
                     "Url": "/lodestone/playguide/db/quest/ebfffef110e/",
@@ -7841,7 +7841,7 @@
                     "Level": "48"
                 }
             ],
-            "NextQuests": [
+            "FollowupQuest": [
                 {
                     "Name": "Das Ablenkungsmanöver",
                     "Url": "/lodestone/playguide/db/quest/4bd99afc612/",
@@ -7849,7 +7849,7 @@
                     "Level": "48"
                 }
             ],
-            "NPCs": [
+            "RelatedNPC": [
                 {
                     "Name": "Nortmoen",
                     "Url": "/lodestone/playguide/db/npc/npc/ba4f233ccd1/",

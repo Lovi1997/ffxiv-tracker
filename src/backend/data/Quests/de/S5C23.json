@@ -76,7 +76,7 @@
             "ItemsOpt": []
         },
         "Infos": {
-            "PrevQuests": [
+            "RelatedNPC": [
                 {
                     "Name": "Designerzwerg",
                     "Url": "/lodestone/playguide/db/npc/npc/262baa09f44/",
@@ -167,7 +167,7 @@
             "ItemsOpt": []
         },
         "Infos": {
-            "PrevQuests": [
+            "RelatedNPC": [
                 {
                     "Name": "Entwicklerzwerg",
                     "Url": "/lodestone/playguide/db/npc/npc/78e6d78a732/",
@@ -258,7 +258,7 @@
             "ItemsOpt": []
         },
         "Infos": {
-            "PrevQuests": [
+            "RelatedNPC": [
                 {
                     "Name": "Materialbeschaffer-Eisenbart",
                     "Url": "/lodestone/playguide/db/npc/npc/fd458cd7e9f/",
@@ -359,7 +359,7 @@
             "ItemsOpt": []
         },
         "Infos": {
-            "PrevQuests": [
+            "RelatedNPC": [
                 {
                     "Name": "Shigitt",
                     "Url": "/lodestone/playguide/db/npc/npc/ee3243e5640/",
@@ -401,7 +401,7 @@
             "ItemsOpt": []
         },
         "Infos": {
-            "PrevQuests": [
+            "RelatedNPC": [
                 {
                     "Name": "Nachtschattenelf",
                     "Url": "/lodestone/playguide/db/npc/npc/c98c77aeb52/",
@@ -502,7 +502,7 @@
             "ItemsOpt": []
         },
         "Infos": {
-            "PrevQuests": [
+            "RelatedNPC": [
                 {
                     "Name": "Gepäcktragender Eisenbart",
                     "Url": "/lodestone/playguide/db/npc/npc/83b0af0aa27/",
@@ -549,7 +549,7 @@
             "ItemsOpt": []
         },
         "Infos": {
-            "PrevQuests": [
+            "RelatedNPC": [
                 {
                     "Name": "Hume-Händler",
                     "Url": "/lodestone/playguide/db/npc/npc/9d59edbf3ae/",
@@ -591,7 +591,7 @@
             "ItemsOpt": []
         },
         "Infos": {
-            "PrevQuests": [
+            "RelatedNPC": [
                 {
                     "Name": "Abbauzwerg",
                     "Url": "/lodestone/playguide/db/npc/npc/0d3999bac6f/",
@@ -716,7 +716,7 @@
             "ItemsOpt": []
         },
         "Infos": {
-            "PrevQuests": [
+            "RelatedNPC": [
                 {
                     "Name": "Destillateurzwerg",
                     "Url": "/lodestone/playguide/db/npc/npc/2924269aaf0/",
@@ -817,7 +817,7 @@
             "ItemsOpt": []
         },
         "Infos": {
-            "PrevQuests": [
+            "RelatedNPC": [
                 {
                     "Name": "Materialbeschaffer-Eisenbart",
                     "Url": "/lodestone/playguide/db/npc/npc/fd458cd7e9f/",
@@ -869,7 +869,7 @@
             "ItemsOpt": []
         },
         "Infos": {
-            "PrevQuests": [
+            "PrerequisiteQuest": [
                 {
                     "Name": "Watts' Weg",
                     "Url": "/lodestone/playguide/db/quest/bca11a72d34/",
@@ -877,7 +877,7 @@
                     "Level": "70"
                 }
             ],
-            "NextQuests": [
+            "FollowupQuest": [
                 {
                     "Name": "Zwergenpanzer für Norvrandts Frieden",
                     "Url": "/lodestone/playguide/db/quest/98dbf21c4a1/",
@@ -885,7 +885,7 @@
                     "Level": "70"
                 }
             ],
-            "NPCs": [
+            "RelatedNPC": [
                 {
                     "Name": "Eueliss",
                     "Url": "/lodestone/playguide/db/npc/npc/0459c430d11/",
@@ -1006,7 +1006,7 @@
             "ItemsOpt": []
         },
         "Infos": {
-            "PrevQuests": [
+            "RelatedNPC": [
                 {
                     "Name": "Materialbeschaffer-Eisenbart",
                     "Url": "/lodestone/playguide/db/npc/npc/1c013b30665/",
@@ -1053,7 +1053,7 @@
             "ItemsOpt": []
         },
         "Infos": {
-            "PrevQuests": [
+            "PrerequisiteQuest": [
                 {
                     "Name": "Zwei Bärte können mehr als einer",
                     "Url": "/lodestone/playguide/db/quest/dd23813c3e1/",
@@ -1061,7 +1061,7 @@
                     "Level": "70"
                 }
             ],
-            "NextQuests": [
+            "FollowupQuest": [
                 {
                     "Name": "Tee, Zwillinge und Zwergenpanzer",
                     "Url": "/lodestone/playguide/db/quest/98ed8bd9966/",
@@ -1069,7 +1069,7 @@
                     "Level": "70"
                 }
             ],
-            "NPCs": [
+            "RelatedNPC": [
                 {
                     "Name": "Karutt",
                     "Url": "/lodestone/playguide/db/npc/npc/e6100054e4c/",
@@ -1170,7 +1170,7 @@
             "ItemsOpt": []
         },
         "Infos": {
-            "PrevQuests": [
+            "RelatedNPC": [
                 {
                     "Name": "Materialbeschaffer-Eisenbart",
                     "Url": "/lodestone/playguide/db/npc/npc/daa2019777e/",
@@ -1266,7 +1266,7 @@
             "ItemsOpt": []
         },
         "Infos": {
-            "PrevQuests": [
+            "RelatedNPC": [
                 {
                     "Name": "Fassbauerzwerg",
                     "Url": "/lodestone/playguide/db/npc/npc/1e49e4176c8/",
@@ -1367,7 +1367,7 @@
             "ItemsOpt": []
         },
         "Infos": {
-            "PrevQuests": [
+            "RelatedNPC": [
                 {
                     "Name": "Materialbeschaffer-Eisenbart",
                     "Url": "/lodestone/playguide/db/npc/npc/fd458cd7e9f/",
@@ -1463,7 +1463,7 @@
             "ItemsOpt": []
         },
         "Infos": {
-            "PrevQuests": [
+            "RelatedNPC": [
                 {
                     "Name": "Materialbeschaffer-Eisenbart",
                     "Url": "/lodestone/playguide/db/npc/npc/e9fca16ee4a/",
@@ -1510,7 +1510,7 @@
             "ItemsOpt": []
         },
         "Infos": {
-            "PrevQuests": [
+            "RelatedNPC": [
                 {
                     "Name": "Hochgewachsener Eisenbartfuath?",
                     "Url": "/lodestone/playguide/db/npc/npc/16725d32186/",
@@ -1552,7 +1552,7 @@
             "ItemsOpt": []
         },
         "Infos": {
-            "PrevQuests": [
+            "RelatedNPC": [
                 {
                     "Name": "Werbezwerg",
                     "Url": "/lodestone/playguide/db/npc/npc/d7cc9007130/",
@@ -1594,7 +1594,7 @@
             "ItemsOpt": []
         },
         "Infos": {
-            "PrevQuests": [
+            "RelatedNPC": [
                 {
                     "Name": "Wamutt",
                     "Url": "/lodestone/playguide/db/npc/npc/78fe6a588c8/",
@@ -1690,7 +1690,7 @@
             "ItemsOpt": []
         },
         "Infos": {
-            "PrevQuests": [
+            "RelatedNPC": [
                 {
                     "Name": "Materialbeschaffer-Eisenbart",
                     "Url": "/lodestone/playguide/db/npc/npc/fd458cd7e9f/",
@@ -1791,7 +1791,7 @@
             "ItemsOpt": []
         },
         "Infos": {
-            "PrevQuests": [
+            "RelatedNPC": [
                 {
                     "Name": "Designerzwerg",
                     "Url": "/lodestone/playguide/db/npc/npc/b318a0792a0/",
@@ -1833,7 +1833,7 @@
             "ItemsOpt": []
         },
         "Infos": {
-            "PrevQuests": [
+            "PrerequisiteQuest": [
                 {
                     "Name": "Die Produktion rollt",
                     "Url": "/lodestone/playguide/db/quest/579270e78d9/",
@@ -1841,7 +1841,7 @@
                     "Level": "70"
                 }
             ],
-            "NextQuests": [
+            "RelatedNPC": [
                 {
                     "Name": "Eueliss",
                     "Url": "/lodestone/playguide/db/npc/npc/21b6309256a/",
@@ -1903,7 +1903,7 @@
             "ItemsOpt": []
         },
         "Infos": {
-            "PrevQuests": [
+            "PrerequisiteQuest": [
                 {
                     "Name": "Eine Gogg sorgt für frischen Wind",
                     "Url": "/lodestone/playguide/db/quest/5b1636ed3f9/",
@@ -1911,7 +1911,7 @@
                     "Level": "70"
                 }
             ],
-            "NextQuests": [
+            "FollowupQuest": [
                 {
                     "Name": "Watts' Weg",
                     "Url": "/lodestone/playguide/db/quest/bca11a72d34/",
@@ -1919,7 +1919,7 @@
                     "Level": "70"
                 }
             ],
-            "NPCs": [
+            "RelatedNPC": [
                 {
                     "Name": "Ronitt",
                     "Url": "/lodestone/playguide/db/npc/npc/2ba17616c2f/",
@@ -2045,7 +2045,7 @@
             "ItemsOpt": []
         },
         "Infos": {
-            "PrevQuests": [
+            "RelatedNPC": [
                 {
                     "Name": "Entwicklerzwerg",
                     "Url": "/lodestone/playguide/db/npc/npc/72e53c9dfe9/",
@@ -2092,7 +2092,7 @@
             "ItemsOpt": []
         },
         "Infos": {
-            "PrevQuests": [
+            "RelatedNPC": [
                 {
                     "Name": "Planschender Zwerg",
                     "Url": "/lodestone/playguide/db/npc/npc/274c7bda86c/",
@@ -2144,7 +2144,7 @@
             "ItemsOpt": []
         },
         "Infos": {
-            "PrevQuests": [
+            "RelatedNPC": [
                 {
                     "Name": "Wamutt",
                     "Url": "/lodestone/playguide/db/npc/npc/78fe6a588c8/",
@@ -2186,7 +2186,7 @@
             "ItemsOpt": []
         },
         "Infos": {
-            "PrevQuests": [
+            "PrerequisiteQuest": [
                 {
                     "Name": "Tee, Zwillinge und Zwergenpanzer",
                     "Url": "/lodestone/playguide/db/quest/98ed8bd9966/",
@@ -2194,7 +2194,7 @@
                     "Level": "70"
                 }
             ],
-            "NextQuests": [
+            "FollowupQuest": [
                 {
                     "Name": "Die Produktion rollt",
                     "Url": "/lodestone/playguide/db/quest/579270e78d9/",
@@ -2202,7 +2202,7 @@
                     "Level": "70"
                 }
             ],
-            "NPCs": [
+            "RelatedNPC": [
                 {
                     "Name": "Materialbeschaffer-Eisenbart",
                     "Url": "/lodestone/playguide/db/npc/npc/fd458cd7e9f/",
@@ -2298,7 +2298,7 @@
             "ItemsOpt": []
         },
         "Infos": {
-            "PrevQuests": [
+            "RelatedNPC": [
                 {
                     "Name": "Materialbeschaffer-Eisenbart",
                     "Url": "/lodestone/playguide/db/npc/npc/fd458cd7e9f/",
@@ -2399,7 +2399,7 @@
             "ItemsOpt": []
         },
         "Infos": {
-            "PrevQuests": [
+            "RelatedNPC": [
                 {
                     "Name": "Girutt",
                     "Url": "/lodestone/playguide/db/npc/npc/029894c94a6/",
@@ -2446,7 +2446,7 @@
             "ItemsOpt": []
         },
         "Infos": {
-            "PrevQuests": [
+            "PrerequisiteQuest": [
                 {
                     "Name": " Ronitts Meisterleistung",
                     "Url": "/lodestone/playguide/db/quest/f5908a7bf48/",
@@ -2454,7 +2454,7 @@
                     "Level": "70"
                 }
             ],
-            "NextQuests": [
+            "FollowupQuest": [
                 {
                     "Name": "Eine Gogg sorgt für frischen Wind",
                     "Url": "/lodestone/playguide/db/quest/5b1636ed3f9/",
@@ -2462,7 +2462,7 @@
                     "Level": "70"
                 }
             ],
-            "NPCs": [
+            "RelatedNPC": [
                 {
                     "Name": "Katliss",
                     "Url": "/lodestone/playguide/db/npc/npc/7f66ef22d7c/",
@@ -2613,7 +2613,7 @@
             "ItemsOpt": []
         },
         "Infos": {
-            "PrevQuests": [
+            "RelatedNPC": [
                 {
                     "Name": "Hitzeprüfungszwerg",
                     "Url": "/lodestone/playguide/db/npc/npc/8997122fa21/",
@@ -2714,7 +2714,7 @@
             "ItemsOpt": []
         },
         "Infos": {
-            "PrevQuests": [
+            "RelatedNPC": [
                 {
                     "Name": "Mordh-Händler",
                     "Url": "/lodestone/playguide/db/npc/npc/5b94534dc4a/",

@@ -33,7 +33,7 @@
             "ItemsOpt": []
         },
         "Infos": {
-            "PrevQuests": [
+            "PrerequisiteQuest": [
                 {
                     "Name": "Ruby Doomsday",
                     "Url": "/lodestone/playguide/db/quest/bf05ca6707e/",
@@ -41,7 +41,7 @@
                     "Level": "80"
                 }
             ],
-            "NextQuests": [
+            "FollowupQuest": [
                 {
                     "Name": "Blood of Emerald",
                     "Url": "/lodestone/playguide/db/quest/931c52aabb5/",
@@ -49,7 +49,7 @@
                     "Level": "80"
                 }
             ],
-            "NPCs": [
+            "RelatedNPC": [
                 {
                     "Name": "Cid",
                     "Url": "/lodestone/playguide/db/npc/npc/9e1ce1bc825/",
@@ -161,7 +161,7 @@
             "ItemsOpt": []
         },
         "Infos": {
-            "PrevQuests": [
+            "PrerequisiteQuest": [
                 {
                     "Name": "Sleep Now in Sapphire",
                     "Url": "/lodestone/playguide/db/quest/2204cf37dca/",
@@ -169,7 +169,7 @@
                     "Level": "80"
                 }
             ],
-            "NextQuests": [
+            "FollowupQuest": [
                 {
                     "Name": "In Memory",
                     "Url": "/lodestone/playguide/db/quest/c351fc217ef/",
@@ -177,7 +177,7 @@
                     "Level": "80"
                 }
             ],
-            "NPCs": [
+            "RelatedNPC": [
                 {
                     "Name": "Gaius",
                     "Url": "/lodestone/playguide/db/npc/npc/12079f645d9/",
@@ -286,7 +286,7 @@
             "ItemsOpt": []
         },
         "Infos": {
-            "PrevQuests": [
+            "PrerequisiteQuest": [
                 {
                     "Name": "Duty in the Sky with Diamond",
                     "Url": "/lodestone/playguide/db/quest/e633761020c/",
@@ -294,7 +294,7 @@
                     "Level": "80"
                 }
             ],
-            "NextQuests": [
+            "RelatedNPC": [
                 {
                     "Name": "Resistance Escort",
                     "Url": "/lodestone/playguide/db/npc/npc/a4526351191/",
@@ -331,7 +331,7 @@
                     "Area": "Terncliff (X:5.8 Y:5.6)"
                 }
             ],
-            "NPCs": [
+            "RelatedAchievements": [
                 {
                     "Name": "Mass Destruction of Weapons",
                     "Url": "/lodestone/playguide/db/achievement/5d578415f61/",
@@ -374,7 +374,7 @@
             "ItemsOpt": []
         },
         "Infos": {
-            "PrevQuests": [
+            "PrerequisiteQuest": [
                 {
                     "Name": "Old Enemies, New Threats",
                     "Url": "/lodestone/playguide/db/quest/ef125190f21/",
@@ -382,7 +382,7 @@
                     "Level": "80"
                 }
             ],
-            "NextQuests": [
+            "FollowupQuest": [
                 {
                     "Name": "Sleep Now in Sapphire",
                     "Url": "/lodestone/playguide/db/quest/2204cf37dca/",
@@ -390,7 +390,7 @@
                     "Level": "80"
                 }
             ],
-            "NPCs": [
+            "RelatedNPC": [
                 {
                     "Name": "Gaius",
                     "Url": "/lodestone/playguide/db/npc/npc/838118015e4/",
@@ -482,7 +482,7 @@
             "ItemsOpt": []
         },
         "Infos": {
-            "PrevQuests": [
+            "PrerequisiteQuest": [
                 {
                     "Name": "Blood of Emerald",
                     "Url": "/lodestone/playguide/db/quest/931c52aabb5/",
@@ -490,7 +490,7 @@
                     "Level": "80"
                 }
             ],
-            "NextQuests": [
+            "FollowupQuest": [
                 {
                     "Name": "Duty in the Sky with Diamond",
                     "Url": "/lodestone/playguide/db/quest/e633761020c/",
@@ -498,7 +498,7 @@
                     "Level": "80"
                 }
             ],
-            "NPCs": [
+            "RelatedNPC": [
                 {
                     "Name": "Resistance Escort",
                     "Url": "/lodestone/playguide/db/npc/npc/a4526351191/",
@@ -562,7 +562,7 @@
             "ItemsOpt": []
         },
         "Infos": {
-            "PrevQuests": [
+            "PrerequisiteQuest": [
                 {
                     "Name": "In Memory",
                     "Url": "/lodestone/playguide/db/quest/c351fc217ef/",
@@ -570,7 +570,7 @@
                     "Level": "80"
                 }
             ],
-            "NextQuests": [
+            "FollowupQuest": [
                 {
                     "Name": "Forever at Your Side",
                     "Url": "/lodestone/playguide/db/quest/ac1352f077f/",
@@ -578,7 +578,7 @@
                     "Level": "80"
                 }
             ],
-            "NPCs": [
+            "RelatedNPC": [
                 {
                     "Name": "M'naago",
                     "Url": "/lodestone/playguide/db/npc/npc/599ba2bae3c/",

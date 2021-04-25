@@ -27,7 +27,7 @@
             "ItemsOpt": []
         },
         "Infos": {
-            "PrevQuests": [
+            "PrerequisiteQuest": [
                 {
                     "Name": "Der Drache der Steinernen Wacht",
                     "Url": "/lodestone/playguide/db/quest/4bb6ef83f13/",
@@ -35,7 +35,7 @@
                     "Level": "41"
                 }
             ],
-            "NextQuests": [
+            "FollowupQuest": [
                 {
                     "Name": " Griff nach den Sternen",
                     "Url": "/lodestone/playguide/db/quest/4116644c3ae/",
@@ -43,7 +43,7 @@
                     "Level": "1"
                 }
             ],
-            "NPCs": [
+            "RelatedNPC": [
                 {
                     "Name": "Guithrit",
                     "Url": "/lodestone/playguide/db/npc/npc/c8768ef895c/",
@@ -97,7 +97,7 @@
             "ItemsOpt": []
         },
         "Infos": {
-            "PrevQuests": [
+            "PrerequisiteQuest": [
                 {
                     "Name": " Griff nach den Sternen",
                     "Url": "/lodestone/playguide/db/quest/4116644c3ae/",
@@ -105,7 +105,7 @@
                     "Level": "1"
                 }
             ],
-            "NextQuests": [
+            "RelatedNPC": [
                 {
                     "Name": "Wolkengleiter-Vorarbeiter",
                     "Url": "/lodestone/playguide/db/npc/npc/ddd07a4feff/",
@@ -166,7 +166,7 @@
             ]
         },
         "Infos": {
-            "PrevQuests": [
+            "RelatedNPC": [
                 {
                     "Name": "Melancholischer Schankwirt",
                     "Url": "/lodestone/playguide/db/npc/npc/06249579b49/",
@@ -220,7 +220,7 @@
             "ItemsOpt": []
         },
         "Infos": {
-            "PrevQuests": [
+            "RelatedNPC": [
                 {
                     "Name": "Hildeyerd",
                     "Url": "/lodestone/playguide/db/npc/npc/0377ff8fd12/",
@@ -269,7 +269,7 @@
             "ItemsOpt": []
         },
         "Infos": {
-            "PrevQuests": [
+            "RelatedNPC": [
                 {
                     "Name": "Hildeyerd",
                     "Url": "/lodestone/playguide/db/npc/npc/0377ff8fd12/",
@@ -318,7 +318,7 @@
             "ItemsOpt": []
         },
         "Infos": {
-            "PrevQuests": [
+            "RelatedNPC": [
                 {
                     "Name": "Hildeyerd",
                     "Url": "/lodestone/playguide/db/npc/npc/0377ff8fd12/",
@@ -384,7 +384,7 @@
             ]
         },
         "Infos": {
-            "PrevQuests": [
+            "RelatedNPC": [
                 {
                     "Name": "Ehcatl-Schleicher",
                     "Url": "/lodestone/playguide/db/npc/npc/056b56187fa/",
@@ -431,7 +431,7 @@
             "ItemsOpt": []
         },
         "Infos": {
-            "PrevQuests": [
+            "PrerequisiteQuest": [
                 {
                     "Name": " Der Traum vom Fliegen",
                     "Url": "/lodestone/playguide/db/quest/46c1fa6046e/",
@@ -439,7 +439,7 @@
                     "Level": "6"
                 }
             ],
-            "NextQuests": [
+            "FollowupQuest": [
                 {
                     "Name": " Im Schatten des Vaters",
                     "Url": "/lodestone/playguide/db/quest/2520e41e2b7/",
@@ -447,7 +447,7 @@
                     "Level": "15"
                 }
             ],
-            "NPCs": [
+            "RelatedNPC": [
                 {
                     "Name": "Colson",
                     "Url": "/lodestone/playguide/db/npc/npc/504c2e3cb17/",
@@ -506,7 +506,7 @@
             "ItemsOpt": []
         },
         "Infos": {
-            "PrevQuests": [
+            "RelatedNPC": [
                 {
                     "Name": "Ehcatl-Schleicher",
                     "Url": "/lodestone/playguide/db/npc/npc/8333d33c209/",
@@ -553,7 +553,7 @@
             "ItemsOpt": []
         },
         "Infos": {
-            "PrevQuests": [
+            "PrerequisiteQuest": [
                 {
                     "Name": " Gutes Rad ist teuer",
                     "Url": "/lodestone/playguide/db/quest/1b77e5c8c9a/",
@@ -561,7 +561,7 @@
                     "Level": "10"
                 }
             ],
-            "NextQuests": [
+            "FollowupQuest": [
                 {
                     "Name": " Hinter schimmernden Gipfeln",
                     "Url": "/lodestone/playguide/db/quest/50135f35f69/",
@@ -569,7 +569,7 @@
                     "Level": "16"
                 }
             ],
-            "NPCs": [
+            "RelatedNPC": [
                 {
                     "Name": "Drake",
                     "Url": "/lodestone/playguide/db/shop/f2cb98f29d2/",
@@ -640,7 +640,7 @@
             ]
         },
         "Infos": {
-            "PrevQuests": [
+            "RelatedNPC": [
                 {
                     "Name": "Norbettaux",
                     "Url": "/lodestone/playguide/db/npc/npc/12e0479f66b/",
@@ -682,7 +682,7 @@
             "ItemsOpt": []
         },
         "Infos": {
-            "PrevQuests": [
+            "PrerequisiteQuest": [
                 {
                     "Name": " Hinter schimmernden Gipfeln",
                     "Url": "/lodestone/playguide/db/quest/50135f35f69/",
@@ -690,7 +690,7 @@
                     "Level": "16"
                 }
             ],
-            "NextQuests": [
+            "RelatedNPC": [
                 {
                     "Name": "Scarlet",
                     "Url": "/lodestone/playguide/db/npc/npc/dbaf4b4266d/",
@@ -774,7 +774,7 @@
             "ItemsOpt": []
         },
         "Infos": {
-            "PrevQuests": [
+            "RelatedNPC": [
                 {
                     "Name": "Nellemond",
                     "Url": "/lodestone/playguide/db/npc/npc/4415f3d85f4/",
@@ -823,7 +823,7 @@
             "ItemsOpt": []
         },
         "Infos": {
-            "PrevQuests": [
+            "RelatedNPC": [
                 {
                     "Name": "Hildeyerd",
                     "Url": "/lodestone/playguide/db/npc/npc/0377ff8fd12/",
@@ -870,7 +870,7 @@
             "ItemsOpt": []
         },
         "Infos": {
-            "PrevQuests": [
+            "PrerequisiteQuest": [
                 {
                     "Name": "Frei wie der Wind",
                     "Url": "/lodestone/playguide/db/quest/01301d14ffd/",
@@ -878,7 +878,7 @@
                     "Level": "1"
                 }
             ],
-            "NextQuests": [
+            "FollowupQuest": [
                 {
                     "Name": " Pechvogel",
                     "Url": "/lodestone/playguide/db/quest/d6a15a26a3e/",
@@ -892,7 +892,7 @@
                     "Level": "1"
                 }
             ],
-            "NPCs": [
+            "RelatedNPC": [
                 {
                     "Name": "Hildeyerd",
                     "Url": "/lodestone/playguide/db/npc/npc/0377ff8fd12/",
@@ -954,7 +954,7 @@
             "ItemsOpt": []
         },
         "Infos": {
-            "PrevQuests": [
+            "PrerequisiteQuest": [
                 {
                     "Name": " Pechvogel",
                     "Url": "/lodestone/playguide/db/quest/d6a15a26a3e/",
@@ -962,7 +962,7 @@
                     "Level": "3"
                 }
             ],
-            "NextQuests": [
+            "FollowupQuest": [
                 {
                     "Name": " Gutes Rad ist teuer",
                     "Url": "/lodestone/playguide/db/quest/1b77e5c8c9a/",
@@ -970,7 +970,7 @@
                     "Level": "10"
                 }
             ],
-            "NPCs": [
+            "RelatedNPC": [
                 {
                     "Name": "Chansteloup",
                     "Url": "/lodestone/playguide/db/npc/npc/5c4e9faacc7/",
@@ -1046,7 +1046,7 @@
             ]
         },
         "Infos": {
-            "PrevQuests": [
+            "RelatedNPC": [
                 {
                     "Name": "Tataramu",
                     "Url": "/lodestone/playguide/db/npc/npc/05817e457a0/",
@@ -1105,7 +1105,7 @@
             "ItemsOpt": []
         },
         "Infos": {
-            "PrevQuests": [
+            "RelatedNPC": [
                 {
                     "Name": "Dametta",
                     "Url": "/lodestone/playguide/db/npc/npc/3e85d3575cf/",
@@ -1157,7 +1157,7 @@
             "ItemsOpt": []
         },
         "Infos": {
-            "PrevQuests": [
+            "PrerequisiteQuest": [
                 {
                     "Name": " Im Schatten des Vaters",
                     "Url": "/lodestone/playguide/db/quest/2520e41e2b7/",
@@ -1165,7 +1165,7 @@
                     "Level": "15"
                 }
             ],
-            "NextQuests": [
+            "FollowupQuest": [
                 {
                     "Name": " So hoch wie nie jemand zuvor",
                     "Url": "/lodestone/playguide/db/quest/2a11837ac8a/",
@@ -1173,7 +1173,7 @@
                     "Level": "18"
                 }
             ],
-            "NPCs": [
+            "RelatedNPC": [
                 {
                     "Name": "Tatabarus Sekretärin",
                     "Url": "/lodestone/playguide/db/npc/npc/b2321cd6d2c/",
@@ -1245,7 +1245,7 @@
             "ItemsOpt": []
         },
         "Infos": {
-            "PrevQuests": [
+            "RelatedNPC": [
                 {
                     "Name": "Fyrbryda",
                     "Url": "/lodestone/playguide/db/npc/npc/ec41caa41d5/",
@@ -1294,7 +1294,7 @@
             "ItemsOpt": []
         },
         "Infos": {
-            "PrevQuests": [
+            "RelatedNPC": [
                 {
                     "Name": "Hildeyerd",
                     "Url": "/lodestone/playguide/db/npc/npc/0377ff8fd12/",
@@ -1343,7 +1343,7 @@
             "ItemsOpt": []
         },
         "Infos": {
-            "PrevQuests": [
+            "RelatedNPC": [
                 {
                     "Name": "Ehcatl-Träger",
                     "Url": "/lodestone/playguide/db/npc/npc/8d604deef6c/",
@@ -1414,7 +1414,7 @@
             ]
         },
         "Infos": {
-            "PrevQuests": [
+            "RelatedNPC": [
                 {
                     "Name": "Norbettaux",
                     "Url": "/lodestone/playguide/db/npc/npc/12e0479f66b/",
@@ -1463,7 +1463,7 @@
             "ItemsOpt": []
         },
         "Infos": {
-            "PrevQuests": [
+            "RelatedNPC": [
                 {
                     "Name": "Templeton",
                     "Url": "/lodestone/playguide/db/npc/npc/a2483132eb7/",
@@ -1512,7 +1512,7 @@
             "ItemsOpt": []
         },
         "Infos": {
-            "PrevQuests": [
+            "RelatedNPC": [
                 {
                     "Name": "Ademar",
                     "Url": "/lodestone/playguide/db/npc/npc/a31cf89d921/",
@@ -1559,7 +1559,7 @@
             "ItemsOpt": []
         },
         "Infos": {
-            "PrevQuests": [
+            "RelatedNPC": [
                 {
                     "Name": "Fyrbryda",
                     "Url": "/lodestone/playguide/db/npc/npc/ec41caa41d5/",
@@ -1608,7 +1608,7 @@
             "ItemsOpt": []
         },
         "Infos": {
-            "PrevQuests": [
+            "RelatedNPC": [
                 {
                     "Name": "Templeton",
                     "Url": "/lodestone/playguide/db/npc/npc/a2483132eb7/",
@@ -1657,7 +1657,7 @@
             "ItemsOpt": []
         },
         "Infos": {
-            "PrevQuests": [
+            "RelatedNPC": [
                 {
                     "Name": "Hildeyerd",
                     "Url": "/lodestone/playguide/db/npc/npc/0377ff8fd12/",
@@ -1706,7 +1706,7 @@
             "ItemsOpt": []
         },
         "Infos": {
-            "PrevQuests": [
+            "RelatedNPC": [
                 {
                     "Name": "Jocea",
                     "Url": "/lodestone/playguide/db/npc/npc/187aaa2663a/",
@@ -1760,7 +1760,7 @@
             "ItemsOpt": []
         },
         "Infos": {
-            "PrevQuests": [
+            "RelatedNPC": [
                 {
                     "Name": "Drake",
                     "Url": "/lodestone/playguide/db/shop/f2cb98f29d2/",
@@ -1809,7 +1809,7 @@
             "ItemsOpt": []
         },
         "Infos": {
-            "PrevQuests": [
+            "RelatedNPC": [
                 {
                     "Name": "Dametta",
                     "Url": "/lodestone/playguide/db/npc/npc/3e85d3575cf/",
@@ -1868,7 +1868,7 @@
             "ItemsOpt": []
         },
         "Infos": {
-            "PrevQuests": [
+            "RelatedNPC": [
                 {
                     "Name": "Freier Händler",
                     "Url": "/lodestone/playguide/db/npc/npc/820523da018/",
@@ -1922,7 +1922,7 @@
             "ItemsOpt": []
         },
         "Infos": {
-            "PrevQuests": [
+            "RelatedNPC": [
                 {
                     "Name": "Duvicauroix",
                     "Url": "/lodestone/playguide/db/npc/npc/2d4c2de06c8/",
@@ -1976,7 +1976,7 @@
             "ItemsOpt": []
         },
         "Infos": {
-            "PrevQuests": [
+            "RelatedNPC": [
                 {
                     "Name": "Hildeyerd",
                     "Url": "/lodestone/playguide/db/npc/npc/0377ff8fd12/",
@@ -2048,7 +2048,7 @@
             "ItemsOpt": []
         },
         "Infos": {
-            "PrevQuests": [
+            "PrerequisiteQuest": [
                 {
                     "Name": " Griff nach den Sternen",
                     "Url": "/lodestone/playguide/db/quest/4116644c3ae/",
@@ -2056,7 +2056,7 @@
                     "Level": "1"
                 }
             ],
-            "NextQuests": [
+            "FollowupQuest": [
                 {
                     "Name": " Der Traum vom Fliegen",
                     "Url": "/lodestone/playguide/db/quest/46c1fa6046e/",
@@ -2064,7 +2064,7 @@
                     "Level": "6"
                 }
             ],
-            "NPCs": [
+            "RelatedNPC": [
                 {
                     "Name": "Bozol Eduan",
                     "Url": "/lodestone/playguide/db/npc/npc/c433c37aaf7/",
@@ -2111,7 +2111,7 @@
             "ItemsOpt": []
         },
         "Infos": {
-            "PrevQuests": [
+            "RelatedNPC": [
                 {
                     "Name": "Fyrbryda",
                     "Url": "/lodestone/playguide/db/npc/npc/ec41caa41d5/",
@@ -2197,7 +2197,7 @@
             ]
         },
         "Infos": {
-            "PrevQuests": [
+            "RelatedNPC": [
                 {
                     "Name": "Munterer Schankwirt",
                     "Url": "/lodestone/playguide/db/npc/npc/40b88613c0c/",
@@ -2251,7 +2251,7 @@
             "ItemsOpt": []
         },
         "Infos": {
-            "PrevQuests": [
+            "RelatedNPC": [
                 {
                     "Name": "Ehcatl-Träger",
                     "Url": "/lodestone/playguide/db/npc/npc/f136781ce96/",
@@ -2317,7 +2317,7 @@
             ]
         },
         "Infos": {
-            "PrevQuests": [
+            "RelatedNPC": [
                 {
                     "Name": "Norbettaux",
                     "Url": "/lodestone/playguide/db/npc/npc/12e0479f66b/",
@@ -2364,7 +2364,7 @@
             "ItemsOpt": []
         },
         "Infos": {
-            "PrevQuests": [
+            "RelatedNPC": [
                 {
                     "Name": "Fyrbryda",
                     "Url": "/lodestone/playguide/db/npc/npc/ec41caa41d5/",
@@ -2406,7 +2406,7 @@
             "ItemsOpt": []
         },
         "Infos": {
-            "PrevQuests": [
+            "RelatedNPC": [
                 {
                     "Name": "Fyrbryda",
                     "Url": "/lodestone/playguide/db/npc/npc/ec41caa41d5/",
@@ -2448,7 +2448,7 @@
             "ItemsOpt": []
         },
         "Infos": {
-            "PrevQuests": [
+            "RelatedNPC": [
                 {
                     "Name": "Fyrbryda",
                     "Url": "/lodestone/playguide/db/npc/npc/ec41caa41d5/",

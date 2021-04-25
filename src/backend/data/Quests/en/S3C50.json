@@ -33,7 +33,7 @@
             "ItemsOpt": []
         },
         "Infos": {
-            "PrevQuests": [
+            "PrerequisiteQuest": [
                 {
                     "Name": "Logistics of War",
                     "Url": "/lodestone/playguide/db/quest/6d27cdc6eaf/",
@@ -76,7 +76,7 @@
             "ItemsOpt": []
         },
         "Infos": {
-            "PrevQuests": [
+            "PrerequisiteQuest": [
                 {
                     "Name": "A Party Soon Divided",
                     "Url": "/lodestone/playguide/db/quest/38280c82578/",
@@ -125,7 +125,7 @@
             "ItemsOpt": []
         },
         "Infos": {
-            "PrevQuests": [
+            "PrerequisiteQuest": [
                 {
                     "Name": "Logistics of War",
                     "Url": "/lodestone/playguide/db/quest/6d27cdc6eaf/",
@@ -133,7 +133,7 @@
                     "Level": "72"
                 }
             ],
-            "NextQuests": [
+            "RelatedNPC": [
                 {
                     "Name": "Sentry",
                     "Url": "/lodestone/playguide/db/npc/npc/3d454b9fdbb/",
@@ -185,7 +185,7 @@
             "ItemsOpt": []
         },
         "Infos": {
-            "PrevQuests": [
+            "PrerequisiteQuest": [
                 {
                     "Name": "The Unbroken Thread",
                     "Url": "/lodestone/playguide/db/quest/1e755cf4af3/",
@@ -193,7 +193,7 @@
                     "Level": "79"
                 }
             ],
-            "NextQuests": [
+            "RelatedNPC": [
                 {
                     "Name": "Flustered Father",
                     "Url": "/lodestone/playguide/db/npc/npc/2361fff9e24/",
@@ -257,7 +257,7 @@
             "ItemsOpt": []
         },
         "Infos": {
-            "PrevQuests": [
+            "PrerequisiteQuest": [
                 {
                     "Name": "Logistics of War",
                     "Url": "/lodestone/playguide/db/quest/6d27cdc6eaf/",
@@ -265,7 +265,7 @@
                     "Level": "72"
                 }
             ],
-            "NextQuests": [
+            "RelatedNPC": [
                 {
                     "Name": "Boisterous Bather",
                     "Url": "/lodestone/playguide/db/npc/npc/5ac1864327e/",
@@ -317,7 +317,7 @@
             "ItemsOpt": []
         },
         "Infos": {
-            "PrevQuests": [
+            "PrerequisiteQuest": [
                 {
                     "Name": "Two Nuts Too Nutty",
                     "Url": "/lodestone/playguide/db/quest/293910d3727/",
@@ -325,7 +325,7 @@
                     "Level": "73"
                 }
             ],
-            "NextQuests": [
+            "FollowupQuest": [
                 {
                     "Name": "Too Many Nutters",
                     "Url": "/lodestone/playguide/db/quest/cede22e065d/",
@@ -333,7 +333,7 @@
                     "Level": "80"
                 }
             ],
-            "NPCs": [
+            "RelatedNPC": [
                 {
                     "Name": "Xylle",
                     "Url": "/lodestone/playguide/db/shop/4126551651a/",
@@ -394,7 +394,7 @@
             "ItemsOpt": []
         },
         "Infos": {
-            "PrevQuests": [
+            "PrerequisiteQuest": [
                 {
                     "Name": "The Unbroken Thread",
                     "Url": "/lodestone/playguide/db/quest/1e755cf4af3/",
@@ -402,7 +402,7 @@
                     "Level": "79"
                 }
             ],
-            "NextQuests": [
+            "RelatedNPC": [
                 {
                     "Name": "Botany Instructor",
                     "Url": "/lodestone/playguide/db/npc/npc/a54cdd7b11c/",
@@ -454,7 +454,7 @@
             "ItemsOpt": []
         },
         "Infos": {
-            "PrevQuests": [
+            "PrerequisiteQuest": [
                 {
                     "Name": "Travelers of Norvrandt",
                     "Url": "/lodestone/playguide/db/quest/50180402087/",
@@ -462,7 +462,7 @@
                     "Level": "70"
                 }
             ],
-            "NextQuests": [
+            "RelatedNPC": [
                 {
                     "Name": "Fae-Hann",
                     "Url": "/lodestone/playguide/db/npc/npc/b1f050aa46c/",
@@ -521,7 +521,7 @@
             "ItemsOpt": []
         },
         "Infos": {
-            "PrevQuests": [
+            "PrerequisiteQuest": [
                 {
                     "Name": "Travelers of Norvrandt",
                     "Url": "/lodestone/playguide/db/quest/50180402087/",
@@ -564,7 +564,7 @@
             "ItemsOpt": []
         },
         "Infos": {
-            "PrevQuests": [
+            "PrerequisiteQuest": [
                 {
                     "Name": "The Unbroken Thread",
                     "Url": "/lodestone/playguide/db/quest/1e755cf4af3/",
@@ -572,7 +572,7 @@
                     "Level": "79"
                 }
             ],
-            "NextQuests": [
+            "RelatedNPC": [
                 {
                     "Name": "Leweralth",
                     "Url": "/lodestone/playguide/db/npc/npc/2c84694e66e/",
@@ -665,7 +665,7 @@
             ]
         },
         "Infos": {
-            "PrevQuests": [
+            "PrerequisiteQuest": [
                 {
                     "Name": " A Much-needed Respite",
                     "Url": "/lodestone/playguide/db/quest/3383976ab8e/",
@@ -673,7 +673,7 @@
                     "Level": "70"
                 }
             ],
-            "NextQuests": [
+            "FollowupQuest": [
                 {
                     "Name": " Flowering Friendships",
                     "Url": "/lodestone/playguide/db/quest/b7091487809/",
@@ -681,7 +681,7 @@
                     "Level": "70"
                 }
             ],
-            "NPCs": [
+            "RelatedNPC": [
                 {
                     "Name": "Mauwyl",
                     "Url": "/lodestone/playguide/db/npc/npc/833343c1097/",
@@ -733,7 +733,7 @@
             "ItemsOpt": []
         },
         "Infos": {
-            "PrevQuests": [
+            "PrerequisiteQuest": [
                 {
                     "Name": "Nuts to You",
                     "Url": "/lodestone/playguide/db/quest/f2816833d78/",
@@ -741,7 +741,7 @@
                     "Level": "70"
                 }
             ],
-            "NextQuests": [
+            "FollowupQuest": [
                 {
                     "Name": "How Do You Like Three Nuts",
                     "Url": "/lodestone/playguide/db/quest/1b95adabe01/",
@@ -749,7 +749,7 @@
                     "Level": "76"
                 }
             ],
-            "NPCs": [
+            "RelatedNPC": [
                 {
                     "Name": "Xylle",
                     "Url": "/lodestone/playguide/db/shop/4126551651a/",
@@ -791,7 +791,7 @@
             "ItemsOpt": []
         },
         "Infos": {
-            "PrevQuests": [
+            "PrerequisiteQuest": [
                 {
                     "Name": "Logistics of War",
                     "Url": "/lodestone/playguide/db/quest/6d27cdc6eaf/",
@@ -834,7 +834,7 @@
             "ItemsOpt": []
         },
         "Infos": {
-            "PrevQuests": [
+            "PrerequisiteQuest": [
                 {
                     "Name": "Travelers of Norvrandt",
                     "Url": "/lodestone/playguide/db/quest/50180402087/",
@@ -842,7 +842,7 @@
                     "Level": "70"
                 }
             ],
-            "NextQuests": [
+            "RelatedNPC": [
                 {
                     "Name": "Astrille",
                     "Url": "/lodestone/playguide/db/npc/npc/09fab0b03c7/",
@@ -884,7 +884,7 @@
             "ItemsOpt": []
         },
         "Infos": {
-            "PrevQuests": [
+            "PrerequisiteQuest": [
                 {
                     "Name": " A Jobb Well Done",
                     "Url": "/lodestone/playguide/db/quest/ec566bf9c81/",
@@ -892,7 +892,7 @@
                     "Level": "70"
                 }
             ],
-            "NextQuests": [
+            "FollowupQuest": [
                 {
                     "Name": " Desperate Measures",
                     "Url": "/lodestone/playguide/db/quest/887b068f4d7/",
@@ -900,7 +900,7 @@
                     "Level": "70"
                 }
             ],
-            "NPCs": [
+            "RelatedNPC": [
                 {
                     "Name": "Guard Quartermaster",
                     "Url": "/lodestone/playguide/db/npc/npc/b6cd7e044c8/",
@@ -942,7 +942,7 @@
             "ItemsOpt": []
         },
         "Infos": {
-            "PrevQuests": [
+            "PrerequisiteQuest": [
                 {
                     "Name": " His Secret Shame",
                     "Url": "/lodestone/playguide/db/quest/fc7272dfbf5/",
@@ -950,7 +950,7 @@
                     "Level": "70"
                 }
             ],
-            "NextQuests": [
+            "FollowupQuest": [
                 {
                     "Name": " Resolve Regained",
                     "Url": "/lodestone/playguide/db/quest/291c28447a3/",
@@ -958,7 +958,7 @@
                     "Level": "70"
                 }
             ],
-            "NPCs": [
+            "RelatedNPC": [
                 {
                     "Name": "Atli",
                     "Url": "/lodestone/playguide/db/npc/npc/8b16e79a762/",
@@ -1027,7 +1027,7 @@
             "ItemsOpt": []
         },
         "Infos": {
-            "PrevQuests": [
+            "PrerequisiteQuest": [
                 {
                     "Name": " An Unreasonable Request",
                     "Url": "/lodestone/playguide/db/quest/cb8c8f79d62/",
@@ -1035,7 +1035,7 @@
                     "Level": "70"
                 }
             ],
-            "NextQuests": [
+            "RelatedNPC": [
                 {
                     "Name": "Roi-Tatch",
                     "Url": "/lodestone/playguide/db/npc/npc/6fb2786e6b8/",
@@ -1089,7 +1089,7 @@
             "ItemsOpt": []
         },
         "Infos": {
-            "PrevQuests": [
+            "PrerequisiteQuest": [
                 {
                     "Name": "Travelers of Norvrandt",
                     "Url": "/lodestone/playguide/db/quest/50180402087/",
@@ -1097,7 +1097,7 @@
                     "Level": "70"
                 }
             ],
-            "NextQuests": [
+            "RelatedNPC": [
                 {
                     "Name": "Catenaries Manager",
                     "Url": "/lodestone/playguide/db/npc/npc/a49c2b6160f/",
@@ -1144,7 +1144,7 @@
             "ItemsOpt": []
         },
         "Infos": {
-            "PrevQuests": [
+            "PrerequisiteQuest": [
                 {
                     "Name": "Warrior of Darkness",
                     "Url": "/lodestone/playguide/db/quest/0b1c0f7a203/",
@@ -1194,7 +1194,7 @@
             "ItemsOpt": []
         },
         "Infos": {
-            "PrevQuests": [
+            "PrerequisiteQuest": [
                 {
                     "Name": "A Party Soon Divided",
                     "Url": "/lodestone/playguide/db/quest/38280c82578/",
@@ -1202,7 +1202,7 @@
                     "Level": "74"
                 }
             ],
-            "NextQuests": [
+            "RelatedNPC": [
                 {
                     "Name": "High-strung Historian",
                     "Url": "/lodestone/playguide/db/npc/npc/8266befd40d/",
@@ -1249,7 +1249,7 @@
             "ItemsOpt": []
         },
         "Infos": {
-            "PrevQuests": [
+            "PrerequisiteQuest": [
                 {
                     "Name": "Travelers of Norvrandt",
                     "Url": "/lodestone/playguide/db/quest/50180402087/",
@@ -1257,7 +1257,7 @@
                     "Level": "70"
                 }
             ],
-            "NextQuests": [
+            "RelatedNPC": [
                 {
                     "Name": "Chantilde",
                     "Url": "/lodestone/playguide/db/npc/npc/8029d8dad9a/",
@@ -1314,7 +1314,7 @@
             "ItemsOpt": []
         },
         "Infos": {
-            "PrevQuests": [
+            "PrerequisiteQuest": [
                 {
                     "Name": " A Jobb Well Done",
                     "Url": "/lodestone/playguide/db/quest/ec566bf9c81/",
@@ -1322,7 +1322,7 @@
                     "Level": "70"
                 }
             ],
-            "NextQuests": [
+            "FollowupQuest": [
                 {
                     "Name": " Desperate Measures",
                     "Url": "/lodestone/playguide/db/quest/887b068f4d7/",
@@ -1330,7 +1330,7 @@
                     "Level": "70"
                 }
             ],
-            "NPCs": [
+            "RelatedNPC": [
                 {
                     "Name": "Amaro Handler",
                     "Url": "/lodestone/playguide/db/npc/npc/f92e273a9de/",
@@ -1382,7 +1382,7 @@
             "ItemsOpt": []
         },
         "Infos": {
-            "PrevQuests": [
+            "PrerequisiteQuest": [
                 {
                     "Name": " Carrying On",
                     "Url": "/lodestone/playguide/db/quest/a91ade1a1b4/",
@@ -1390,7 +1390,7 @@
                     "Level": "70"
                 }
             ],
-            "NextQuests": [
+            "FollowupQuest": [
                 {
                     "Name": " Her True Calling",
                     "Url": "/lodestone/playguide/db/quest/62b46c5d048/",
@@ -1398,7 +1398,7 @@
                     "Level": "70"
                 }
             ],
-            "NPCs": [
+            "RelatedNPC": [
                 {
                     "Name": "Callea",
                     "Url": "/lodestone/playguide/db/npc/npc/3998eccb62f/",
@@ -1476,7 +1476,7 @@
             ]
         },
         "Infos": {
-            "PrevQuests": [
+            "PrerequisiteQuest": [
                 {
                     "Name": " In Father's Footsteps",
                     "Url": "/lodestone/playguide/db/quest/627662a8e95/",
@@ -1484,7 +1484,7 @@
                     "Level": "70"
                 }
             ],
-            "NextQuests": [
+            "FollowupQuest": [
                 {
                     "Name": " Flowering Friendships",
                     "Url": "/lodestone/playguide/db/quest/b7091487809/",
@@ -1492,7 +1492,7 @@
                     "Level": "70"
                 }
             ],
-            "NPCs": [
+            "RelatedNPC": [
                 {
                     "Name": "Callea",
                     "Url": "/lodestone/playguide/db/npc/npc/ad698a66e42/",
@@ -1546,7 +1546,7 @@
             "ItemsOpt": []
         },
         "Infos": {
-            "PrevQuests": [
+            "PrerequisiteQuest": [
                 {
                     "Name": "The Unbroken Thread",
                     "Url": "/lodestone/playguide/db/quest/1e755cf4af3/",
@@ -1554,7 +1554,7 @@
                     "Level": "79"
                 }
             ],
-            "NextQuests": [
+            "RelatedNPC": [
                 {
                     "Name": "Amiable Apothecary",
                     "Url": "/lodestone/playguide/db/npc/npc/a9be1c0572b/",
@@ -1601,7 +1601,7 @@
             "ItemsOpt": []
         },
         "Infos": {
-            "PrevQuests": [
+            "PrerequisiteQuest": [
                 {
                     "Name": "Logistics of War",
                     "Url": "/lodestone/playguide/db/quest/6d27cdc6eaf/",
@@ -1609,7 +1609,7 @@
                     "Level": "72"
                 }
             ],
-            "NextQuests": [
+            "RelatedNPC": [
                 {
                     "Name": "Well-armed Larcener",
                     "Url": "/lodestone/playguide/db/npc/npc/09489435c13/",
@@ -1651,7 +1651,7 @@
             "ItemsOpt": []
         },
         "Infos": {
-            "PrevQuests": [
+            "PrerequisiteQuest": [
                 {
                     "Name": "Logistics of War",
                     "Url": "/lodestone/playguide/db/quest/6d27cdc6eaf/",
@@ -1659,7 +1659,7 @@
                     "Level": "72"
                 }
             ],
-            "NextQuests": [
+            "RelatedNPC": [
                 {
                     "Name": "Merlath",
                     "Url": "/lodestone/playguide/db/npc/npc/de32c0dc8ff/",
@@ -1716,7 +1716,7 @@
             "ItemsOpt": []
         },
         "Infos": {
-            "PrevQuests": [
+            "PrerequisiteQuest": [
                 {
                     "Name": "A Party Soon Divided",
                     "Url": "/lodestone/playguide/db/quest/38280c82578/",
@@ -1766,7 +1766,7 @@
             "ItemsOpt": []
         },
         "Infos": {
-            "PrevQuests": [
+            "PrerequisiteQuest": [
                 {
                     "Name": " Stock and Barrel",
                     "Url": "/lodestone/playguide/db/quest/31f2a3bcbf1/",
@@ -1780,7 +1780,7 @@
                     "Level": "70"
                 }
             ],
-            "NextQuests": [
+            "RelatedNPC": [
                 {
                     "Name": "Dawkes",
                     "Url": "/lodestone/playguide/db/npc/npc/099e27aa5e3/",
@@ -1835,7 +1835,7 @@
             "ItemsOpt": []
         },
         "Infos": {
-            "PrevQuests": [
+            "PrerequisiteQuest": [
                 {
                     "Name": "Shadowbringers",
                     "Url": "/lodestone/playguide/db/quest/4ed1668d377/",
@@ -1843,7 +1843,7 @@
                     "Level": "80"
                 }
             ],
-            "NextQuests": [
+            "RelatedNPC": [
                 {
                     "Name": "Bethana",
                     "Url": "/lodestone/playguide/db/npc/npc/7ea2a161ae1/",
@@ -1885,7 +1885,7 @@
             "ItemsOpt": []
         },
         "Infos": {
-            "PrevQuests": [
+            "PrerequisiteQuest": [
                 {
                     "Name": "To Storm-tossed Seas",
                     "Url": "/lodestone/playguide/db/quest/d4151297369/",
@@ -1893,7 +1893,7 @@
                     "Level": "79"
                 }
             ],
-            "NextQuests": [
+            "RelatedNPC": [
                 {
                     "Name": "Mopish Man",
                     "Url": "/lodestone/playguide/db/npc/npc/18440ce99be/",
@@ -1935,7 +1935,7 @@
             "ItemsOpt": []
         },
         "Infos": {
-            "PrevQuests": [
+            "PrerequisiteQuest": [
                 {
                     "Name": " On Her Own",
                     "Url": "/lodestone/playguide/db/quest/d17c5a65951/",
@@ -1943,7 +1943,7 @@
                     "Level": "70"
                 }
             ],
-            "NextQuests": [
+            "FollowupQuest": [
                 {
                     "Name": " In Father's Footsteps",
                     "Url": "/lodestone/playguide/db/quest/627662a8e95/",
@@ -1951,7 +1951,7 @@
                     "Level": "70"
                 }
             ],
-            "NPCs": [
+            "RelatedNPC": [
                 {
                     "Name": "Callea",
                     "Url": "/lodestone/playguide/db/npc/npc/904302db9b5/",
@@ -2008,7 +2008,7 @@
             "ItemsOpt": []
         },
         "Infos": {
-            "PrevQuests": [
+            "PrerequisiteQuest": [
                 {
                     "Name": "The Unbroken Thread",
                     "Url": "/lodestone/playguide/db/quest/1e755cf4af3/",
@@ -2016,7 +2016,7 @@
                     "Level": "79"
                 }
             ],
-            "NextQuests": [
+            "RelatedNPC": [
                 {
                     "Name": "Novice Guard",
                     "Url": "/lodestone/playguide/db/npc/npc/d518d228db8/",
@@ -2094,7 +2094,7 @@
             ]
         },
         "Infos": {
-            "PrevQuests": [
+            "PrerequisiteQuest": [
                 {
                     "Name": " Her True Calling",
                     "Url": "/lodestone/playguide/db/quest/62b46c5d048/",
@@ -2108,7 +2108,7 @@
                     "Level": "70"
                 }
             ],
-            "NextQuests": [
+            "RelatedNPC": [
                 {
                     "Name": "Angry Anemone",
                     "Url": "/lodestone/playguide/db/npc/npc/4d1259578a2/",
@@ -2215,7 +2215,7 @@
             "ItemsOpt": []
         },
         "Infos": {
-            "PrevQuests": [
+            "PrerequisiteQuest": [
                 {
                     "Name": "Travelers of Norvrandt",
                     "Url": "/lodestone/playguide/db/quest/50180402087/",
@@ -2223,7 +2223,7 @@
                     "Level": "70"
                 }
             ],
-            "NextQuests": [
+            "RelatedNPC": [
                 {
                     "Name": "Curious Child",
                     "Url": "/lodestone/playguide/db/npc/npc/3f9b78e54f2/",
@@ -2265,7 +2265,7 @@
             "ItemsOpt": []
         },
         "Infos": {
-            "PrevQuests": [
+            "PrerequisiteQuest": [
                 {
                     "Name": "To Storm-tossed Seas",
                     "Url": "/lodestone/playguide/db/quest/d4151297369/",
@@ -2273,7 +2273,7 @@
                     "Level": "79"
                 }
             ],
-            "NextQuests": [
+            "RelatedNPC": [
                 {
                     "Name": "Thafe's Brother",
                     "Url": "/lodestone/playguide/db/npc/npc/4cc039d5488/",
@@ -2315,7 +2315,7 @@
             "ItemsOpt": []
         },
         "Infos": {
-            "PrevQuests": [
+            "PrerequisiteQuest": [
                 {
                     "Name": "To Storm-tossed Seas",
                     "Url": "/lodestone/playguide/db/quest/d4151297369/",
@@ -2323,7 +2323,7 @@
                     "Level": "79"
                 }
             ],
-            "NextQuests": [
+            "RelatedNPC": [
                 {
                     "Name": "Short-haired Boy",
                     "Url": "/lodestone/playguide/db/npc/npc/d80cc40251f/",
@@ -2365,7 +2365,7 @@
             "ItemsOpt": []
         },
         "Infos": {
-            "PrevQuests": [
+            "PrerequisiteQuest": [
                 {
                     "Name": "To Storm-tossed Seas",
                     "Url": "/lodestone/playguide/db/quest/d4151297369/",
@@ -2373,7 +2373,7 @@
                     "Level": "79"
                 }
             ],
-            "NextQuests": [
+            "RelatedNPC": [
                 {
                     "Name": "Mord Merchant",
                     "Url": "/lodestone/playguide/db/npc/npc/e837604108a/",
@@ -2421,7 +2421,7 @@
             "ItemsOpt": []
         },
         "Infos": {
-            "PrevQuests": [
+            "PrerequisiteQuest": [
                 {
                     "Name": "Logistics of War",
                     "Url": "/lodestone/playguide/db/quest/6d27cdc6eaf/",
@@ -2429,7 +2429,7 @@
                     "Level": "72"
                 }
             ],
-            "NextQuests": [
+            "FollowupQuest": [
                 {
                     "Name": " You've Got the Tatch",
                     "Url": "/lodestone/playguide/db/quest/34a900add77/",
@@ -2437,7 +2437,7 @@
                     "Level": "70"
                 }
             ],
-            "NPCs": [
+            "RelatedNPC": [
                 {
                     "Name": "Joanard",
                     "Url": "/lodestone/playguide/db/npc/npc/94318814fc8/",
@@ -2494,7 +2494,7 @@
             "ItemsOpt": []
         },
         "Infos": {
-            "PrevQuests": [
+            "PrerequisiteQuest": [
                 {
                     "Name": "How Do You Like Three Nuts",
                     "Url": "/lodestone/playguide/db/quest/1b95adabe01/",
@@ -2502,7 +2502,7 @@
                     "Level": "76"
                 }
             ],
-            "NextQuests": [
+            "RelatedNPC": [
                 {
                     "Name": "Xylle",
                     "Url": "/lodestone/playguide/db/shop/4126551651a/",
@@ -2544,7 +2544,7 @@
             "ItemsOpt": []
         },
         "Infos": {
-            "PrevQuests": [
+            "PrerequisiteQuest": [
                 {
                     "Name": "To Storm-tossed Seas",
                     "Url": "/lodestone/playguide/db/quest/d4151297369/",
@@ -2552,7 +2552,7 @@
                     "Level": "79"
                 }
             ],
-            "NextQuests": [
+            "RelatedNPC": [
                 {
                     "Name": "Incen",
                     "Url": "/lodestone/playguide/db/npc/npc/ac2b8e51119/",
@@ -2611,7 +2611,7 @@
             "ItemsOpt": []
         },
         "Infos": {
-            "PrevQuests": [
+            "PrerequisiteQuest": [
                 {
                     "Name": "A Party Soon Divided",
                     "Url": "/lodestone/playguide/db/quest/38280c82578/",
@@ -2619,7 +2619,7 @@
                     "Level": "74"
                 }
             ],
-            "NextQuests": [
+            "FollowupQuest": [
                 {
                     "Name": " Carrying On",
                     "Url": "/lodestone/playguide/db/quest/a91ade1a1b4/",
@@ -2627,7 +2627,7 @@
                     "Level": "70"
                 }
             ],
-            "NPCs": [
+            "RelatedNPC": [
                 {
                     "Name": "Mynes",
                     "Url": "/lodestone/playguide/db/npc/npc/ba512230a61/",
@@ -2686,7 +2686,7 @@
             "ItemsOpt": []
         },
         "Infos": {
-            "PrevQuests": [
+            "PrerequisiteQuest": [
                 {
                     "Name": "More than a Hunch",
                     "Url": "/lodestone/playguide/db/quest/5c8aebeff0e/",
@@ -2694,7 +2694,7 @@
                     "Level": "77"
                 }
             ],
-            "NextQuests": [
+            "FollowupQuest": [
                 {
                     "Name": " His Secret Shame",
                     "Url": "/lodestone/playguide/db/quest/fc7272dfbf5/",
@@ -2702,7 +2702,7 @@
                     "Level": "70"
                 }
             ],
-            "NPCs": [
+            "RelatedNPC": [
                 {
                     "Name": "Mauwyl",
                     "Url": "/lodestone/playguide/db/npc/npc/833343c1097/",
@@ -2784,7 +2784,7 @@
             ]
         },
         "Infos": {
-            "PrevQuests": [
+            "PrerequisiteQuest": [
                 {
                     "Name": "To Storm-tossed Seas",
                     "Url": "/lodestone/playguide/db/quest/d4151297369/",
@@ -2792,7 +2792,7 @@
                     "Level": "79"
                 }
             ],
-            "NextQuests": [
+            "RelatedNPC": [
                 {
                     "Name": "Facet Investigator",
                     "Url": "/lodestone/playguide/db/npc/npc/ff3600b21ab/",
@@ -2851,7 +2851,7 @@
             "ItemsOpt": []
         },
         "Infos": {
-            "PrevQuests": [
+            "PrerequisiteQuest": [
                 {
                     "Name": "Warrior of Darkness",
                     "Url": "/lodestone/playguide/db/quest/0b1c0f7a203/",
@@ -2859,7 +2859,7 @@
                     "Level": "71"
                 }
             ],
-            "NextQuests": [
+            "FollowupQuest": [
                 {
                     "Name": " Stock and Barrel",
                     "Url": "/lodestone/playguide/db/quest/31f2a3bcbf1/",
@@ -2873,7 +2873,7 @@
                     "Level": "70"
                 }
             ],
-            "NPCs": [
+            "RelatedNPC": [
                 {
                     "Name": "Bjorn",
                     "Url": "/lodestone/playguide/db/npc/npc/916834aad99/",
@@ -2935,7 +2935,7 @@
             "ItemsOpt": []
         },
         "Infos": {
-            "PrevQuests": [
+            "PrerequisiteQuest": [
                 {
                     "Name": "Travelers of Norvrandt",
                     "Url": "/lodestone/playguide/db/quest/50180402087/",
@@ -2949,7 +2949,7 @@
                     "Level": "60"
                 }
             ],
-            "NextQuests": [
+            "FollowupQuest": [
                 {
                     "Name": "Two Nuts Too Nutty",
                     "Url": "/lodestone/playguide/db/quest/293910d3727/",
@@ -2957,7 +2957,7 @@
                     "Level": "73"
                 }
             ],
-            "NPCs": [
+            "RelatedNPC": [
                 {
                     "Name": "Halldor",
                     "Url": "/lodestone/playguide/db/npc/npc/191ecf7f71e/",
@@ -3010,7 +3010,7 @@
             "ItemsOpt": []
         },
         "Infos": {
-            "PrevQuests": [
+            "PrerequisiteQuest": [
                 {
                     "Name": "To Storm-tossed Seas",
                     "Url": "/lodestone/playguide/db/quest/d4151297369/",
@@ -3018,7 +3018,7 @@
                     "Level": "79"
                 }
             ],
-            "NextQuests": [
+            "RelatedNPC": [
                 {
                     "Name": "Vayne",
                     "Url": "/lodestone/playguide/db/npc/npc/ec61584afd8/",
@@ -3065,7 +3065,7 @@
             "ItemsOpt": []
         },
         "Infos": {
-            "PrevQuests": [
+            "PrerequisiteQuest": [
                 {
                     "Name": " Scars of War",
                     "Url": "/lodestone/playguide/db/quest/d4938757638/",
@@ -3073,7 +3073,7 @@
                     "Level": "70"
                 }
             ],
-            "NextQuests": [
+            "FollowupQuest": [
                 {
                     "Name": " A Much-needed Respite",
                     "Url": "/lodestone/playguide/db/quest/3383976ab8e/",
@@ -3081,7 +3081,7 @@
                     "Level": "70"
                 }
             ],
-            "NPCs": [
+            "RelatedNPC": [
                 {
                     "Name": "Mauwyl",
                     "Url": "/lodestone/playguide/db/npc/npc/f99b6371252/",

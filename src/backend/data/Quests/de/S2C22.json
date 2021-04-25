@@ -33,7 +33,7 @@
             "ItemsOpt": []
         },
         "Infos": {
-            "PrevQuests": [
+            "PrerequisiteQuest": [
                 {
                     "Name": "Rubinrote Konfrontation",
                     "Url": "/lodestone/playguide/db/quest/bf05ca6707e/",
@@ -41,7 +41,7 @@
                     "Level": "80"
                 }
             ],
-            "NextQuests": [
+            "FollowupQuest": [
                 {
                     "Name": "Blutsmaragd",
                     "Url": "/lodestone/playguide/db/quest/931c52aabb5/",
@@ -49,7 +49,7 @@
                     "Level": "80"
                 }
             ],
-            "NPCs": [
+            "RelatedNPC": [
                 {
                     "Name": "Militärlogistiker",
                     "Url": "/lodestone/playguide/db/npc/npc/a4526351191/",
@@ -161,7 +161,7 @@
             "ItemsOpt": []
         },
         "Infos": {
-            "PrevQuests": [
+            "PrerequisiteQuest": [
                 {
                     "Name": "Luftangriff auf Werlyt",
                     "Url": "/lodestone/playguide/db/quest/2204cf37dca/",
@@ -169,7 +169,7 @@
                     "Level": "80"
                 }
             ],
-            "NextQuests": [
+            "FollowupQuest": [
                 {
                     "Name": "Mahnmal der Sühne",
                     "Url": "/lodestone/playguide/db/quest/c351fc217ef/",
@@ -177,7 +177,7 @@
                     "Level": "80"
                 }
             ],
-            "NPCs": [
+            "RelatedNPC": [
                 {
                     "Name": "Gaius",
                     "Url": "/lodestone/playguide/db/npc/npc/12079f645d9/",
@@ -286,7 +286,7 @@
             "ItemsOpt": []
         },
         "Infos": {
-            "PrevQuests": [
+            "PrerequisiteQuest": [
                 {
                     "Name": "Gleißendes Leben",
                     "Url": "/lodestone/playguide/db/quest/e633761020c/",
@@ -294,7 +294,7 @@
                     "Level": "80"
                 }
             ],
-            "NextQuests": [
+            "RelatedNPC": [
                 {
                     "Name": "General der Befreiungsarmee",
                     "Url": "/lodestone/playguide/db/npc/npc/5145fc200b6/",
@@ -331,7 +331,7 @@
                     "Area": "Wendeklipp (X:5.8 Y:5.6)"
                 }
             ],
-            "NPCs": [
+            "RelatedAchievements": [
                 {
                     "Name": "Das Ende des Waffenprojekts",
                     "Url": "/lodestone/playguide/db/achievement/5d578415f61/",
@@ -374,7 +374,7 @@
             "ItemsOpt": []
         },
         "Infos": {
-            "PrevQuests": [
+            "PrerequisiteQuest": [
                 {
                     "Name": "Eine Warnung für die Allianz",
                     "Url": "/lodestone/playguide/db/quest/ef125190f21/",
@@ -382,7 +382,7 @@
                     "Level": "80"
                 }
             ],
-            "NextQuests": [
+            "FollowupQuest": [
                 {
                     "Name": "Luftangriff auf Werlyt",
                     "Url": "/lodestone/playguide/db/quest/2204cf37dca/",
@@ -390,7 +390,7 @@
                     "Level": "80"
                 }
             ],
-            "NPCs": [
+            "RelatedNPC": [
                 {
                     "Name": "Garlond-Modellbauer",
                     "Url": "/lodestone/playguide/db/npc/npc/2ccacb99814/",
@@ -482,7 +482,7 @@
             "ItemsOpt": []
         },
         "Infos": {
-            "PrevQuests": [
+            "PrerequisiteQuest": [
                 {
                     "Name": "Blutsmaragd",
                     "Url": "/lodestone/playguide/db/quest/931c52aabb5/",
@@ -490,7 +490,7 @@
                     "Level": "80"
                 }
             ],
-            "NextQuests": [
+            "FollowupQuest": [
                 {
                     "Name": "Gleißendes Leben",
                     "Url": "/lodestone/playguide/db/quest/e633761020c/",
@@ -498,7 +498,7 @@
                     "Level": "80"
                 }
             ],
-            "NPCs": [
+            "RelatedNPC": [
                 {
                     "Name": "Militärlogistiker",
                     "Url": "/lodestone/playguide/db/npc/npc/a4526351191/",
@@ -562,7 +562,7 @@
             "ItemsOpt": []
         },
         "Infos": {
-            "PrevQuests": [
+            "PrerequisiteQuest": [
                 {
                     "Name": "Mahnmal der Sühne",
                     "Url": "/lodestone/playguide/db/quest/c351fc217ef/",
@@ -570,7 +570,7 @@
                     "Level": "80"
                 }
             ],
-            "NextQuests": [
+            "FollowupQuest": [
                 {
                     "Name": "Leben für die Freiheit",
                     "Url": "/lodestone/playguide/db/quest/ac1352f077f/",
@@ -578,7 +578,7 @@
                     "Level": "80"
                 }
             ],
-            "NPCs": [
+            "RelatedNPC": [
                 {
                     "Name": "Militärlogistiker",
                     "Url": "/lodestone/playguide/db/npc/npc/a4526351191/",

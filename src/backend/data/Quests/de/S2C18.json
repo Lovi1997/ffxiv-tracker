@@ -40,7 +40,7 @@
             "ItemsOpt": []
         },
         "Infos": {
-            "PrevQuests": [
+            "PrerequisiteQuest": [
                 {
                     "Name": "Ein Häppchen zum Wein",
                     "Url": "/lodestone/playguide/db/quest/34afd8f20fc/",
@@ -54,7 +54,7 @@
                     "Level": "70"
                 }
             ],
-            "NextQuests": [
+            "RelatedNPC": [
                 {
                     "Name": "Stückeschreiber",
                     "Url": "/lodestone/playguide/db/npc/npc/045752899ac/",
@@ -96,7 +96,7 @@
             "ItemsOpt": []
         },
         "Infos": {
-            "PrevQuests": [
+            "PrerequisiteQuest": [
                 {
                     "Name": "Licht am Ende der Welt",
                     "Url": "/lodestone/playguide/db/quest/e9499b663e4/",
@@ -104,7 +104,7 @@
                     "Level": "70"
                 }
             ],
-            "NextQuests": [
+            "FollowupQuest": [
                 {
                     "Name": "Verborgen im Golmore-Dschungel",
                     "Url": "/lodestone/playguide/db/quest/7bd9d4363d1/",
@@ -112,7 +112,7 @@
                     "Level": "70"
                 }
             ],
-            "NPCs": [
+            "RelatedNPC": [
                 {
                     "Name": "Bwagi",
                     "Url": "/lodestone/playguide/db/npc/npc/88490bea916/",
@@ -189,7 +189,7 @@
             "ItemsOpt": []
         },
         "Infos": {
-            "PrevQuests": [
+            "PrerequisiteQuest": [
                 {
                     "Name": "Blutiger Sturm",
                     "Url": "/lodestone/playguide/db/quest/08908744553/",
@@ -197,7 +197,7 @@
                     "Level": "70"
                 }
             ],
-            "NextQuests": [
+            "FollowupQuest": [
                 {
                     "Name": "Die königliche Stadt Rabanastre",
                     "Url": "/lodestone/playguide/db/quest/49ef739c2b4/",
@@ -205,7 +205,7 @@
                     "Level": "70"
                 }
             ],
-            "NPCs": [
+            "RelatedNPC": [
                 {
                     "Name": "Alma",
                     "Url": "/lodestone/playguide/db/npc/npc/ba081f5f519/",
@@ -305,7 +305,7 @@
             "ItemsOpt": []
         },
         "Infos": {
-            "PrevQuests": [
+            "PrerequisiteQuest": [
                 {
                     "Name": "Licht am Ende der Welt",
                     "Url": "/lodestone/playguide/db/quest/e9499b663e4/",
@@ -313,7 +313,7 @@
                     "Level": "70"
                 }
             ],
-            "NextQuests": [
+            "FollowupQuest": [
                 {
                     "Name": "Neue Häppchen zum Wein",
                     "Url": "/lodestone/playguide/db/quest/02bb0cc0fb2/",
@@ -321,7 +321,7 @@
                     "Level": "1"
                 }
             ],
-            "NPCs": [
+            "RelatedNPC": [
                 {
                     "Name": "Stückeschreiber",
                     "Url": "/lodestone/playguide/db/npc/npc/045752899ac/",
@@ -376,7 +376,7 @@
             "ItemsOpt": []
         },
         "Infos": {
-            "PrevQuests": [
+            "PrerequisiteQuest": [
                 {
                     "Name": "Notleidende Künstler",
                     "Url": "/lodestone/playguide/db/quest/14847bc8932/",
@@ -384,7 +384,7 @@
                     "Level": "70"
                 }
             ],
-            "NextQuests": [
+            "FollowupQuest": [
                 {
                     "Name": "Ein ungebetener Gast",
                     "Url": "/lodestone/playguide/db/quest/fce5c04f86e/",
@@ -392,7 +392,7 @@
                     "Level": "70"
                 }
             ],
-            "NPCs": [
+            "RelatedNPC": [
                 {
                     "Name": "Lina Mewrilah",
                     "Url": "/lodestone/playguide/db/npc/npc/58ef028fca7/",
@@ -487,7 +487,7 @@
             "ItemsOpt": []
         },
         "Infos": {
-            "PrevQuests": [
+            "PrerequisiteQuest": [
                 {
                     "Name": "Verborgen im Golmore-Dschungel",
                     "Url": "/lodestone/playguide/db/quest/7bd9d4363d1/",
@@ -495,7 +495,7 @@
                     "Level": "70"
                 }
             ],
-            "NextQuests": [
+            "FollowupQuest": [
                 {
                     "Name": "Reiner Wein aus schlechtem Gewissen",
                     "Url": "/lodestone/playguide/db/quest/5452c739e68/",
@@ -509,7 +509,7 @@
                     "Level": "80"
                 }
             ],
-            "NPCs": [
+            "RelatedNPC": [
                 {
                     "Name": "Gijuk",
                     "Url": "/lodestone/playguide/db/npc/npc/b8faebaf0df/",
@@ -616,7 +616,7 @@
             "ItemsOpt": []
         },
         "Infos": {
-            "PrevQuests": [
+            "PrerequisiteQuest": [
                 {
                     "Name": "Das Kloster von Orbonne",
                     "Url": "/lodestone/playguide/db/quest/4b5e7d8e71b/",
@@ -624,7 +624,7 @@
                     "Level": "70"
                 }
             ],
-            "NextQuests": [
+            "FollowupQuest": [
                 {
                     "Name": "Neue Häppchen zum Wein",
                     "Url": "/lodestone/playguide/db/quest/02bb0cc0fb2/",
@@ -632,7 +632,7 @@
                     "Level": "1"
                 }
             ],
-            "NPCs": [
+            "RelatedNPC": [
                 {
                     "Name": "Drest",
                     "Url": "/lodestone/playguide/db/npc/npc/4f4864adf5b/",
@@ -704,7 +704,7 @@
             "ItemsOpt": []
         },
         "Infos": {
-            "PrevQuests": [
+            "PrerequisiteQuest": [
                 {
                     "Name": "In vino veritas",
                     "Url": "/lodestone/playguide/db/quest/6cfe82bbf56/",
@@ -712,7 +712,7 @@
                     "Level": "70"
                 }
             ],
-            "NextQuests": [
+            "FollowupQuest": [
                 {
                     "Name": "Licht am Ende der Welt",
                     "Url": "/lodestone/playguide/db/quest/e9499b663e4/",
@@ -720,7 +720,7 @@
                     "Level": "70"
                 }
             ],
-            "NPCs": [
+            "RelatedNPC": [
                 {
                     "Name": "Alma bas Lexentale",
                     "Url": "/lodestone/playguide/db/npc/npc/fb5ccaa955b/",
@@ -877,7 +877,7 @@
             "ItemsOpt": []
         },
         "Infos": {
-            "PrevQuests": [
+            "PrerequisiteQuest": [
                 {
                     "Name": "Ein ungebetener Gast",
                     "Url": "/lodestone/playguide/db/quest/fce5c04f86e/",
@@ -885,7 +885,7 @@
                     "Level": "70"
                 }
             ],
-            "NextQuests": [
+            "FollowupQuest": [
                 {
                     "Name": "Insel der Geheimnisse",
                     "Url": "/lodestone/playguide/db/quest/66d94a94d20/",
@@ -893,7 +893,7 @@
                     "Level": "70"
                 }
             ],
-            "NPCs": [
+            "RelatedNPC": [
                 {
                     "Name": "Byrglaent",
                     "Url": "/lodestone/playguide/db/npc/npc/790845e34cf/",
@@ -960,7 +960,7 @@
             "ItemsOpt": []
         },
         "Infos": {
-            "PrevQuests": [
+            "PrerequisiteQuest": [
                 {
                     "Name": "Der dalmascanische Widerstand",
                     "Url": "/lodestone/playguide/db/quest/048e1f242aa/",
@@ -968,7 +968,7 @@
                     "Level": "70"
                 }
             ],
-            "NextQuests": [
+            "FollowupQuest": [
                 {
                     "Name": "Das Kloster von Orbonne",
                     "Url": "/lodestone/playguide/db/quest/4b5e7d8e71b/",
@@ -976,7 +976,7 @@
                     "Level": "70"
                 }
             ],
-            "NPCs": [
+            "RelatedNPC": [
                 {
                     "Name": "Bwagi",
                     "Url": "/lodestone/playguide/db/npc/npc/88490bea916/",
@@ -1105,7 +1105,7 @@
             "ItemsOpt": []
         },
         "Infos": {
-            "PrevQuests": [
+            "PrerequisiteQuest": [
                 {
                     "Name": "Insel der Geheimnisse",
                     "Url": "/lodestone/playguide/db/quest/66d94a94d20/",
@@ -1113,7 +1113,7 @@
                     "Level": "70"
                 }
             ],
-            "NextQuests": [
+            "FollowupQuest": [
                 {
                     "Name": "Der dalmascanische Widerstand",
                     "Url": "/lodestone/playguide/db/quest/048e1f242aa/",
@@ -1127,7 +1127,7 @@
                     "Level": "1"
                 }
             ],
-            "NPCs": [
+            "RelatedNPC": [
                 {
                     "Name": "Lina Mewrilah",
                     "Url": "/lodestone/playguide/db/npc/npc/58ef028fca7/",
@@ -1174,7 +1174,7 @@
             "ItemsOpt": []
         },
         "Infos": {
-            "PrevQuests": [
+            "PrerequisiteQuest": [
                 {
                     "Name": "Die königliche Stadt Rabanastre",
                     "Url": "/lodestone/playguide/db/quest/49ef739c2b4/",
@@ -1182,7 +1182,7 @@
                     "Level": "70"
                 }
             ],
-            "NextQuests": [
+            "FollowupQuest": [
                 {
                     "Name": "In vino veritas",
                     "Url": "/lodestone/playguide/db/quest/6cfe82bbf56/",
@@ -1190,7 +1190,7 @@
                     "Level": "70"
                 }
             ],
-            "NPCs": [
+            "RelatedNPC": [
                 {
                     "Name": "Montblanc",
                     "Url": "/lodestone/playguide/db/npc/npc/9929b19e71a/",

@@ -102,9 +102,9 @@ ipcMain.handle("loadQuests", async (event, iJournalSection, iJournalCategory) =>
 });
 
 // save Quests
-ipcMain.handle("saveQuests", async (event, aQuests) => {
-  let bResult = await saveQuests(aQuests);
-  return bResult;
+ipcMain.handle("saveQuests", async (event, aQuests, bWithPrev) => {
+  let oResult = await saveQuests(aQuests, bWithPrev);
+  return oResult;
 });
 
 // Check online Status

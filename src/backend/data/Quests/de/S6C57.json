@@ -27,7 +27,7 @@
             "ItemsOpt": []
         },
         "Infos": {
-            "PrevQuests": [
+            "PrerequisiteQuest": [
                 {
                     "Name": "Der Weg des Thaumaturgen",
                     "Url": "/lodestone/playguide/db/quest/eb9c9e119b8/",
@@ -35,7 +35,7 @@
                     "Level": "1"
                 }
             ],
-            "NextQuests": [
+            "FollowupQuest": [
                 {
                     "Name": "Die Gefahr der Nähe",
                     "Url": "/lodestone/playguide/db/quest/dcd9ff9ecab/",
@@ -122,7 +122,7 @@
             ]
         },
         "Infos": {
-            "PrevQuests": [
+            "PrerequisiteQuest": [
                 {
                     "Name": "Auf eigene Faust",
                     "Url": "/lodestone/playguide/db/quest/12096c4c006/",
@@ -130,7 +130,7 @@
                     "Level": "20"
                 }
             ],
-            "NextQuests": [
+            "FollowupQuest": [
                 {
                     "Name": "Geschickt eingefädelt",
                     "Url": "/lodestone/playguide/db/quest/45ea45aff3a/",
@@ -138,7 +138,7 @@
                     "Level": "30"
                 }
             ],
-            "NPCs": [
+            "RelatedNPC": [
                 {
                     "Name": "K'lyhia",
                     "Url": "/lodestone/playguide/db/npc/npc/26a5a0f2b8f/",
@@ -233,7 +233,7 @@
             ]
         },
         "Infos": {
-            "PrevQuests": [
+            "PrerequisiteQuest": [
                 {
                     "Name": "Ankunft der Morgenstern",
                     "Url": "/lodestone/playguide/db/quest/f9107663c73/",
@@ -241,7 +241,7 @@
                     "Level": "15"
                 }
             ],
-            "NextQuests": [
+            "FollowupQuest": [
                 {
                     "Name": "Schwing das Tanzbein",
                     "Url": "/lodestone/playguide/db/quest/04b16d95faa/",
@@ -249,7 +249,7 @@
                     "Level": "25"
                 }
             ],
-            "NPCs": [
+            "RelatedNPC": [
                 {
                     "Name": "Ginnade",
                     "Url": "/lodestone/playguide/db/npc/npc/05f52f5c89d/",
@@ -360,7 +360,7 @@
             ]
         },
         "Infos": {
-            "PrevQuests": [
+            "PrerequisiteQuest": [
                 {
                     "Name": "Der Weg des Druiden",
                     "Url": "/lodestone/playguide/db/quest/db04bbe7dbd/",
@@ -374,7 +374,7 @@
                     "Level": "1"
                 }
             ],
-            "NextQuests": [
+            "FollowupQuest": [
                 {
                     "Name": "Prüfung des Winds",
                     "Url": "/lodestone/playguide/db/quest/6861bfea77f/",
@@ -388,7 +388,7 @@
                     "Level": "10"
                 }
             ],
-            "NPCs": [
+            "RelatedNPC": [
                 {
                     "Name": "Nolanel",
                     "Url": "/lodestone/playguide/db/npc/npc/0050a899aff/",
@@ -443,7 +443,7 @@
             "ItemsOpt": []
         },
         "Infos": {
-            "PrevQuests": [
+            "FollowupQuest": [
                 {
                     "Name": "Die Gefahr der Nähe",
                     "Url": "/lodestone/playguide/db/quest/dcd9ff9ecab/",
@@ -457,7 +457,7 @@
                     "Level": "10"
                 }
             ],
-            "NextQuests": [
+            "RelatedNPC": [
                 {
                     "Name": "Cocobuki",
                     "Url": "/lodestone/playguide/db/npc/npc/dc8b8565234/",
@@ -511,7 +511,7 @@
             "ItemsOpt": []
         },
         "Infos": {
-            "PrevQuests": [
+            "FollowupQuest": [
                 {
                     "Name": "Eine unerwartete Begegnung",
                     "Url": "/lodestone/playguide/db/quest/a8e4c161337/",
@@ -525,7 +525,7 @@
                     "Level": "10"
                 }
             ],
-            "NextQuests": [
+            "RelatedNPC": [
                 {
                     "Name": "Thubyrgeim",
                     "Url": "/lodestone/playguide/db/npc/npc/dec3b66e353/",
@@ -605,7 +605,7 @@
             ]
         },
         "Infos": {
-            "PrevQuests": [
+            "PrerequisiteQuest": [
                 {
                     "Name": "Sylphies Prüfungen",
                     "Url": "/lodestone/playguide/db/quest/4475bfec9fe/",
@@ -613,7 +613,7 @@
                     "Level": "20"
                 }
             ],
-            "NextQuests": [
+            "FollowupQuest": [
                 {
                     "Name": "Im Schoß der Natur",
                     "Url": "/lodestone/playguide/db/quest/a02c1c29571/",
@@ -621,7 +621,7 @@
                     "Level": "30"
                 }
             ],
-            "NPCs": [
+            "RelatedNPC": [
                 {
                     "Name": "Joacin",
                     "Url": "/lodestone/playguide/db/npc/npc/14008e29d80/",
@@ -710,7 +710,7 @@
             "ItemsOpt": []
         },
         "Infos": {
-            "PrevQuests": [
+            "FollowupQuest": [
                 {
                     "Name": "Das Grimoire aufnehmen",
                     "Url": "/lodestone/playguide/db/quest/cb1c8b16a34/",
@@ -718,7 +718,7 @@
                     "Level": "1"
                 }
             ],
-            "NextQuests": [
+            "RelatedNPC": [
                 {
                     "Name": "Thubyrgeim",
                     "Url": "/lodestone/playguide/db/npc/npc/dec3b66e353/",
@@ -798,7 +798,7 @@
             ]
         },
         "Infos": {
-            "PrevQuests": [
+            "PrerequisiteQuest": [
                 {
                     "Name": "Prüfung des Wassers",
                     "Url": "/lodestone/playguide/db/quest/cc938dbb781/",
@@ -806,7 +806,7 @@
                     "Level": "15"
                 }
             ],
-            "NextQuests": [
+            "FollowupQuest": [
                 {
                     "Name": "Wie die Mutter, so die Tochter",
                     "Url": "/lodestone/playguide/db/quest/3321be3cd92/",
@@ -814,7 +814,7 @@
                     "Level": "25"
                 }
             ],
-            "NPCs": [
+            "RelatedNPC": [
                 {
                     "Name": "Sylphie",
                     "Url": "/lodestone/playguide/db/npc/npc/6ba5dcf5d52/",
@@ -909,7 +909,7 @@
             ]
         },
         "Infos": {
-            "PrevQuests": [
+            "PrerequisiteQuest": [
                 {
                     "Name": "Schwing das Tanzbein",
                     "Url": "/lodestone/playguide/db/quest/04b16d95faa/",
@@ -917,7 +917,7 @@
                     "Level": "25"
                 }
             ],
-            "NextQuests": [
+            "FollowupQuest": [
                 {
                     "Name": "Das Spiel mit dem Feuer",
                     "Url": "/lodestone/playguide/db/quest/4bb5af1e8a9/",
@@ -931,7 +931,7 @@
                     "Level": "30"
                 }
             ],
-            "NPCs": [
+            "RelatedNPC": [
                 {
                     "Name": "Drogo",
                     "Url": "/lodestone/playguide/db/npc/npc/a05c0b06037/",
@@ -1065,7 +1065,7 @@
             ]
         },
         "Infos": {
-            "PrevQuests": [
+            "PrerequisiteQuest": [
                 {
                     "Name": "Die Gefahr der Übermacht",
                     "Url": "/lodestone/playguide/db/quest/82cdaaebcce/",
@@ -1073,7 +1073,7 @@
                     "Level": "15"
                 }
             ],
-            "NextQuests": [
+            "FollowupQuest": [
                 {
                     "Name": "Das Licht am Boden des Abgrunds",
                     "Url": "/lodestone/playguide/db/quest/71336abaf74/",
@@ -1081,7 +1081,7 @@
                     "Level": "25"
                 }
             ],
-            "NPCs": [
+            "RelatedNPC": [
                 {
                     "Name": "Cocoboha",
                     "Url": "/lodestone/playguide/db/npc/npc/2fd5ea54f1c/",
@@ -1186,7 +1186,7 @@
             ]
         },
         "Infos": {
-            "PrevQuests": [
+            "PrerequisiteQuest": [
                 {
                     "Name": "Der Weg des Hermetikers",
                     "Url": "/lodestone/playguide/db/quest/2f136560df9/",
@@ -1200,7 +1200,7 @@
                     "Level": "5"
                 }
             ],
-            "NextQuests": [
+            "FollowupQuest": [
                 {
                     "Name": "Ein neuer Gefährte",
                     "Url": "/lodestone/playguide/db/quest/c6975b0e58d/",
@@ -1208,7 +1208,7 @@
                     "Level": "15"
                 }
             ],
-            "NPCs": [
+            "RelatedNPC": [
                 {
                     "Name": "K'lyhia",
                     "Url": "/lodestone/playguide/db/npc/npc/055c6e8389b/",
@@ -1298,7 +1298,7 @@
             ]
         },
         "Infos": {
-            "PrevQuests": [
+            "PrerequisiteQuest": [
                 {
                     "Name": "Der Weg des Druiden",
                     "Url": "/lodestone/playguide/db/quest/db04bbe7dbd/",
@@ -1312,7 +1312,7 @@
                     "Level": "5"
                 }
             ],
-            "NextQuests": [
+            "FollowupQuest": [
                 {
                     "Name": "Prüfung des Wassers",
                     "Url": "/lodestone/playguide/db/quest/cc938dbb781/",
@@ -1320,7 +1320,7 @@
                     "Level": "15"
                 }
             ],
-            "NPCs": [
+            "RelatedNPC": [
                 {
                     "Name": "Wulfiue",
                     "Url": "/lodestone/playguide/db/npc/npc/e718f5ca4c5/",
@@ -1400,7 +1400,7 @@
             ]
         },
         "Infos": {
-            "PrevQuests": [
+            "PrerequisiteQuest": [
                 {
                     "Name": "Die Gefahr der Umzinglung",
                     "Url": "/lodestone/playguide/db/quest/5026eee3cc4/",
@@ -1408,7 +1408,7 @@
                     "Level": "20"
                 }
             ],
-            "NextQuests": [
+            "FollowupQuest": [
                 {
                     "Name": "Ein Äther für alle Fälle",
                     "Url": "/lodestone/playguide/db/quest/efb4d31dbd3/",
@@ -1416,7 +1416,7 @@
                     "Level": "30"
                 }
             ],
-            "NPCs": [
+            "RelatedNPC": [
                 {
                     "Name": "Cocobuki",
                     "Url": "/lodestone/playguide/db/npc/npc/dc8b8565234/",
@@ -1547,7 +1547,7 @@
             ]
         },
         "Infos": {
-            "PrevQuests": [
+            "PrerequisiteQuest": [
                 {
                     "Name": "Die Gefahr des Mangels",
                     "Url": "/lodestone/playguide/db/quest/a8a6c57536c/",
@@ -1561,7 +1561,7 @@
                     "Level": "10"
                 }
             ],
-            "NextQuests": [
+            "FollowupQuest": [
                 {
                     "Name": "Die Gefahr der Umzinglung",
                     "Url": "/lodestone/playguide/db/quest/5026eee3cc4/",
@@ -1569,7 +1569,7 @@
                     "Level": "20"
                 }
             ],
-            "NPCs": [
+            "RelatedNPC": [
                 {
                     "Name": "Aufgeregter Kaufmann",
                     "Url": "/lodestone/playguide/db/npc/npc/900d5634803/",
@@ -1664,7 +1664,7 @@
             ]
         },
         "Infos": {
-            "PrevQuests": [
+            "PrerequisiteQuest": [
                 {
                     "Name": "Der Weg des Druiden",
                     "Url": "/lodestone/playguide/db/quest/b4758d83d19/",
@@ -1678,7 +1678,7 @@
                     "Level": "5"
                 }
             ],
-            "NextQuests": [
+            "FollowupQuest": [
                 {
                     "Name": "Prüfung des Wassers",
                     "Url": "/lodestone/playguide/db/quest/cc938dbb781/",
@@ -1686,7 +1686,7 @@
                     "Level": "15"
                 }
             ],
-            "NPCs": [
+            "RelatedNPC": [
                 {
                     "Name": "Wulfiue",
                     "Url": "/lodestone/playguide/db/npc/npc/e718f5ca4c5/",
@@ -1771,7 +1771,7 @@
             ]
         },
         "Infos": {
-            "PrevQuests": [
+            "PrerequisiteQuest": [
                 {
                     "Name": "Wie die Mutter, so die Tochter",
                     "Url": "/lodestone/playguide/db/quest/3321be3cd92/",
@@ -1779,7 +1779,7 @@
                     "Level": "25"
                 }
             ],
-            "NextQuests": [
+            "FollowupQuest": [
                 {
                     "Name": "Ein einzigartiges Pferd",
                     "Url": "/lodestone/playguide/db/quest/8fa605dd35d/",
@@ -1793,7 +1793,7 @@
                     "Level": "30"
                 }
             ],
-            "NPCs": [
+            "RelatedNPC": [
                 {
                     "Name": "Sylphie",
                     "Url": "/lodestone/playguide/db/npc/npc/930c093393b/",
@@ -1902,7 +1902,7 @@
             ]
         },
         "Infos": {
-            "PrevQuests": [
+            "PrerequisiteQuest": [
                 {
                     "Name": "Der Weg des Thaumaturgen",
                     "Url": "/lodestone/playguide/db/quest/2e5314cfa56/",
@@ -1916,7 +1916,7 @@
                     "Level": "5"
                 }
             ],
-            "NextQuests": [
+            "FollowupQuest": [
                 {
                     "Name": "Die Gefahr der Übermacht",
                     "Url": "/lodestone/playguide/db/quest/82cdaaebcce/",
@@ -1924,7 +1924,7 @@
                     "Level": "15"
                 }
             ],
-            "NPCs": [
+            "RelatedNPC": [
                 {
                     "Name": "Cocobani",
                     "Url": "/lodestone/playguide/db/npc/npc/f9ee59b5cfb/",
@@ -2004,7 +2004,7 @@
             ]
         },
         "Infos": {
-            "PrevQuests": [
+            "PrerequisiteQuest": [
                 {
                     "Name": "Der Weg des Hermetikers",
                     "Url": "/lodestone/playguide/db/quest/2f136560df9/",
@@ -2018,7 +2018,7 @@
                     "Level": "1"
                 }
             ],
-            "NextQuests": [
+            "FollowupQuest": [
                 {
                     "Name": "Die Brodelsocken",
                     "Url": "/lodestone/playguide/db/quest/5a269538124/",
@@ -2074,7 +2074,7 @@
             "ItemsOpt": []
         },
         "Infos": {
-            "PrevQuests": [
+            "FollowupQuest": [
                 {
                     "Name": "Den Stock aufnehmen",
                     "Url": "/lodestone/playguide/db/quest/b5d05a159bb/",
@@ -2088,7 +2088,7 @@
                     "Level": "10"
                 }
             ],
-            "NextQuests": [
+            "RelatedNPC": [
                 {
                     "Name": "E-Sumi-Yan",
                     "Url": "/lodestone/playguide/db/npc/npc/208d50d33b5/",
@@ -2130,7 +2130,7 @@
             "ItemsOpt": []
         },
         "Infos": {
-            "PrevQuests": [
+            "PrerequisiteQuest": [
                 {
                     "Name": "Der Weg des Druiden",
                     "Url": "/lodestone/playguide/db/quest/b4758d83d19/",
@@ -2138,7 +2138,7 @@
                     "Level": "1"
                 }
             ],
-            "NextQuests": [
+            "FollowupQuest": [
                 {
                     "Name": "Prüfung der Erde",
                     "Url": "/lodestone/playguide/db/quest/1655c23d64e/",
@@ -2187,7 +2187,7 @@
             "ItemsOpt": []
         },
         "Infos": {
-            "PrevQuests": [
+            "PrerequisiteQuest": [
                 {
                     "Name": "Die Brodelsocken",
                     "Url": "/lodestone/playguide/db/quest/5a269538124/",
@@ -2201,7 +2201,7 @@
                     "Level": "10"
                 }
             ],
-            "NextQuests": [
+            "FollowupQuest": [
                 {
                     "Name": "Ankunft der Morgenstern",
                     "Url": "/lodestone/playguide/db/quest/f9107663c73/",
@@ -2209,7 +2209,7 @@
                     "Level": "15"
                 }
             ],
-            "NPCs": [
+            "RelatedNPC": [
                 {
                     "Name": "K'lyhia",
                     "Url": "/lodestone/playguide/db/npc/npc/055c6e8389b/",
@@ -2251,7 +2251,7 @@
             "ItemsOpt": []
         },
         "Infos": {
-            "PrevQuests": [
+            "PrerequisiteQuest": [
                 {
                     "Name": "Der Weg des Hermetikers",
                     "Url": "/lodestone/playguide/db/quest/4100af4d4b8/",
@@ -2259,7 +2259,7 @@
                     "Level": "1"
                 }
             ],
-            "NextQuests": [
+            "FollowupQuest": [
                 {
                     "Name": "Eine unerwartete Begegnung",
                     "Url": "/lodestone/playguide/db/quest/a8e4c161337/",
@@ -2357,7 +2357,7 @@
             ]
         },
         "Infos": {
-            "PrevQuests": [
+            "PrerequisiteQuest": [
                 {
                     "Name": "Prüfung des Winds",
                     "Url": "/lodestone/playguide/db/quest/6861bfea77f/",
@@ -2371,7 +2371,7 @@
                     "Level": "10"
                 }
             ],
-            "NextQuests": [
+            "FollowupQuest": [
                 {
                     "Name": "Sylphies Prüfungen",
                     "Url": "/lodestone/playguide/db/quest/4475bfec9fe/",
@@ -2379,7 +2379,7 @@
                     "Level": "20"
                 }
             ],
-            "NPCs": [
+            "RelatedNPC": [
                 {
                     "Name": "Aniud",
                     "Url": "/lodestone/playguide/db/npc/npc/95b7cb22f62/",
@@ -2489,7 +2489,7 @@
             ]
         },
         "Infos": {
-            "PrevQuests": [
+            "PrerequisiteQuest": [
                 {
                     "Name": "Das Grimoire aufnehmen",
                     "Url": "/lodestone/playguide/db/quest/cb1c8b16a34/",
@@ -2503,7 +2503,7 @@
                     "Level": "5"
                 }
             ],
-            "NextQuests": [
+            "FollowupQuest": [
                 {
                     "Name": "Ein neuer Gefährte",
                     "Url": "/lodestone/playguide/db/quest/c6975b0e58d/",
@@ -2511,7 +2511,7 @@
                     "Level": "15"
                 }
             ],
-            "NPCs": [
+            "RelatedNPC": [
                 {
                     "Name": "K'lyhia",
                     "Url": "/lodestone/playguide/db/npc/npc/055c6e8389b/",
@@ -2570,7 +2570,7 @@
             "ItemsOpt": []
         },
         "Infos": {
-            "PrevQuests": [
+            "FollowupQuest": [
                 {
                     "Name": "Prüfung der Erde",
                     "Url": "/lodestone/playguide/db/quest/1655c23d64e/",
@@ -2584,7 +2584,7 @@
                     "Level": "10"
                 }
             ],
-            "NextQuests": [
+            "RelatedNPC": [
                 {
                     "Name": "E-Sumi-Yan",
                     "Url": "/lodestone/playguide/db/npc/npc/208d50d33b5/",
@@ -2664,7 +2664,7 @@
             ]
         },
         "Infos": {
-            "PrevQuests": [
+            "PrerequisiteQuest": [
                 {
                     "Name": "Der Weg des Thaumaturgen",
                     "Url": "/lodestone/playguide/db/quest/2e5314cfa56/",
@@ -2678,7 +2678,7 @@
                     "Level": "1"
                 }
             ],
-            "NextQuests": [
+            "FollowupQuest": [
                 {
                     "Name": "Die Gefahr des Mangels",
                     "Url": "/lodestone/playguide/db/quest/a8a6c57536c/",
@@ -2692,7 +2692,7 @@
                     "Level": "10"
                 }
             ],
-            "NPCs": [
+            "RelatedNPC": [
                 {
                     "Name": "Cocobygo",
                     "Url": "/lodestone/playguide/db/npc/npc/a256d62038e/",
@@ -2752,7 +2752,7 @@
             "ItemsOpt": []
         },
         "Infos": {
-            "PrevQuests": [
+            "FollowupQuest": [
                 {
                     "Name": "Das Zepter aufnehmen",
                     "Url": "/lodestone/playguide/db/quest/03649a948f2/",
@@ -2760,7 +2760,7 @@
                     "Level": "1"
                 }
             ],
-            "NextQuests": [
+            "RelatedNPC": [
                 {
                     "Name": "Cocobygo",
                     "Url": "/lodestone/playguide/db/npc/npc/a256d62038e/",
@@ -2845,7 +2845,7 @@
             ]
         },
         "Infos": {
-            "PrevQuests": [
+            "PrerequisiteQuest": [
                 {
                     "Name": "Das Licht am Boden des Abgrunds",
                     "Url": "/lodestone/playguide/db/quest/71336abaf74/",
@@ -2853,7 +2853,7 @@
                     "Level": "25"
                 }
             ],
-            "NextQuests": [
+            "FollowupQuest": [
                 {
                     "Name": "Wer die Stimme hört",
                     "Url": "/lodestone/playguide/db/quest/eec832efc26/",
@@ -2861,7 +2861,7 @@
                     "Level": "30"
                 }
             ],
-            "NPCs": [
+            "RelatedNPC": [
                 {
                     "Name": "Cocobani",
                     "Url": "/lodestone/playguide/db/npc/npc/8b0e4f1d330/",
@@ -3000,7 +3000,7 @@
             ]
         },
         "Infos": {
-            "PrevQuests": [
+            "PrerequisiteQuest": [
                 {
                     "Name": "Das Zepter aufnehmen",
                     "Url": "/lodestone/playguide/db/quest/03649a948f2/",
@@ -3014,7 +3014,7 @@
                     "Level": "5"
                 }
             ],
-            "NextQuests": [
+            "FollowupQuest": [
                 {
                     "Name": "Die Gefahr der Übermacht",
                     "Url": "/lodestone/playguide/db/quest/82cdaaebcce/",
@@ -3022,7 +3022,7 @@
                     "Level": "15"
                 }
             ],
-            "NPCs": [
+            "RelatedNPC": [
                 {
                     "Name": "Cocobani",
                     "Url": "/lodestone/playguide/db/npc/npc/f9ee59b5cfb/",
@@ -3102,7 +3102,7 @@
             ]
         },
         "Infos": {
-            "PrevQuests": [
+            "PrerequisiteQuest": [
                 {
                     "Name": "Ein neuer Gefährte",
                     "Url": "/lodestone/playguide/db/quest/c6975b0e58d/",
@@ -3110,7 +3110,7 @@
                     "Level": "15"
                 }
             ],
-            "NextQuests": [
+            "FollowupQuest": [
                 {
                     "Name": "Auf eigene Faust",
                     "Url": "/lodestone/playguide/db/quest/12096c4c006/",
@@ -3118,7 +3118,7 @@
                     "Level": "20"
                 }
             ],
-            "NPCs": [
+            "RelatedNPC": [
                 {
                     "Name": "Aersthota",
                     "Url": "/lodestone/playguide/db/npc/npc/6f5f28380cf/",

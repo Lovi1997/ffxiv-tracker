@@ -46,7 +46,7 @@
             ]
         },
         "Infos": {
-            "PrevQuests": [
+            "PrerequisiteQuest": [
                 {
                     "Name": "Kristallkabale",
                     "Url": "/lodestone/playguide/db/quest/03f34c82ac3/",
@@ -54,7 +54,7 @@
                     "Level": "80"
                 }
             ],
-            "NextQuests": [
+            "FollowupQuest": [
                 {
                     "Name": "Gute Winde für Vylbrand",
                     "Url": "/lodestone/playguide/db/quest/3f6cfe1a2fe/",
@@ -62,7 +62,7 @@
                     "Level": "80"
                 }
             ],
-            "NPCs": [
+            "RelatedNPC": [
                 {
                     "Name": "Alisaie",
                     "Url": "/lodestone/playguide/db/npc/npc/94793fe4783/",
@@ -139,7 +139,7 @@
             "ItemsOpt": []
         },
         "Infos": {
-            "PrevQuests": [
+            "PrerequisiteQuest": [
                 {
                     "Name": "Der Argwohn des Admirals",
                     "Url": "/lodestone/playguide/db/quest/d030e947404/",
@@ -147,7 +147,7 @@
                     "Level": "80"
                 }
             ],
-            "NextQuests": [
+            "FollowupQuest": [
                 {
                     "Name": "Schuss ins Herz",
                     "Url": "/lodestone/playguide/db/quest/00c507f9533/",
@@ -155,7 +155,7 @@
                     "Level": "80"
                 }
             ],
-            "NPCs": [
+            "RelatedNPC": [
                 {
                     "Name": "Alisaie",
                     "Url": "/lodestone/playguide/db/npc/npc/6ac46f68bc3/",
@@ -217,7 +217,7 @@
             "ItemsOpt": []
         },
         "Infos": {
-            "PrevQuests": [
+            "PrerequisiteQuest": [
                 {
                     "Name": "Goldene Flammen",
                     "Url": "/lodestone/playguide/db/quest/48e6606f943/",
@@ -225,7 +225,7 @@
                     "Level": "80"
                 }
             ],
-            "NextQuests": [
+            "RelatedNPC": [
                 {
                     "Name": "Alisaie",
                     "Url": "/lodestone/playguide/db/npc/npc/d0f131d7f07/",
@@ -327,7 +327,7 @@
                     "Area": "Sonnenstein (X:6.0 Y:5.9)"
                 }
             ],
-            "NPCs": [
+            "RelatedAchievements": [
                 {
                     "Name": "Blutzoll des Krieges",
                     "Url": "/lodestone/playguide/db/achievement/dafad0a7824/",
@@ -395,7 +395,7 @@
             ]
         },
         "Infos": {
-            "PrevQuests": [
+            "PrerequisiteQuest": [
                 {
                     "Name": "Silberharnisch",
                     "Url": "/lodestone/playguide/db/quest/993e35adeeb/",
@@ -403,7 +403,7 @@
                     "Level": "80"
                 }
             ],
-            "NextQuests": [
+            "FollowupQuest": [
                 {
                     "Name": "Gefängnis der Trauer",
                     "Url": "/lodestone/playguide/db/quest/63c10bff6c2/",
@@ -411,7 +411,7 @@
                     "Level": "80"
                 }
             ],
-            "NPCs": [
+            "RelatedNPC": [
                 {
                     "Name": "Alisaie",
                     "Url": "/lodestone/playguide/db/npc/npc/37043013e75/",
@@ -548,7 +548,7 @@
             ]
         },
         "Infos": {
-            "PrevQuests": [
+            "PrerequisiteQuest": [
                 {
                     "Name": "Hohe Ziele",
                     "Url": "/lodestone/playguide/db/quest/7ead62083f1/",
@@ -556,7 +556,7 @@
                     "Level": "80"
                 }
             ],
-            "NextQuests": [
+            "FollowupQuest": [
                 {
                     "Name": "Das Erbe Noahs",
                     "Url": "/lodestone/playguide/db/quest/79893c7e864/",
@@ -564,7 +564,7 @@
                     "Level": "80"
                 }
             ],
-            "NPCs": [
+            "RelatedNPC": [
                 {
                     "Name": "Alisaie",
                     "Url": "/lodestone/playguide/db/npc/npc/240b72db5eb/",
@@ -631,7 +631,7 @@
             "ItemsOpt": []
         },
         "Infos": {
-            "PrevQuests": [
+            "PrerequisiteQuest": [
                 {
                     "Name": "Schuss ins Herz",
                     "Url": "/lodestone/playguide/db/quest/00c507f9533/",
@@ -639,7 +639,7 @@
                     "Level": "80"
                 }
             ],
-            "NextQuests": [
+            "FollowupQuest": [
                 {
                     "Name": "Auf Unheilsschwingen",
                     "Url": "/lodestone/playguide/db/quest/a424070bc4c/",
@@ -647,7 +647,7 @@
                     "Level": "80"
                 }
             ],
-            "NPCs": [
+            "RelatedNPC": [
                 {
                     "Name": "Alisaie",
                     "Url": "/lodestone/playguide/db/npc/npc/94793fe4783/",
@@ -788,7 +788,7 @@
             ]
         },
         "Infos": {
-            "PrevQuests": [
+            "PrerequisiteQuest": [
                 {
                     "Name": "Flügelschlag in die Freiheit",
                     "Url": "/lodestone/playguide/db/quest/faa752ebfa4/",
@@ -796,7 +796,7 @@
                     "Level": "80"
                 }
             ],
-            "NextQuests": [
+            "FollowupQuest": [
                 {
                     "Name": "Blutzoll",
                     "Url": "/lodestone/playguide/db/quest/264d23d2d1b/",
@@ -804,7 +804,7 @@
                     "Level": "80"
                 }
             ],
-            "NPCs": [
+            "RelatedNPC": [
                 {
                     "Name": "Alisaie",
                     "Url": "/lodestone/playguide/db/npc/npc/885c6e08fb9/",
@@ -926,7 +926,7 @@
             "ItemsOpt": []
         },
         "Infos": {
-            "PrevQuests": [
+            "PrerequisiteQuest": [
                 {
                     "Name": "Auf den Spuren eines Drachen",
                     "Url": "/lodestone/playguide/db/quest/3cf3d03e1a2/",
@@ -934,7 +934,7 @@
                     "Level": "80"
                 }
             ],
-            "NextQuests": [
+            "FollowupQuest": [
                 {
                     "Name": "Flügelschlag in die Freiheit",
                     "Url": "/lodestone/playguide/db/quest/faa752ebfa4/",
@@ -942,7 +942,7 @@
                     "Level": "80"
                 }
             ],
-            "NPCs": [
+            "RelatedNPC": [
                 {
                     "Name": "Alisaie",
                     "Url": "/lodestone/playguide/db/npc/npc/cdd41680ddf/",
@@ -1059,7 +1059,7 @@
             "ItemsOpt": []
         },
         "Infos": {
-            "PrevQuests": [
+            "PrerequisiteQuest": [
                 {
                     "Name": "Mit dem Allwissen der Allager",
                     "Url": "/lodestone/playguide/db/quest/3ed404bf688/",
@@ -1067,7 +1067,7 @@
                     "Level": "80"
                 }
             ],
-            "NextQuests": [
+            "FollowupQuest": [
                 {
                     "Name": "Titanische Taten",
                     "Url": "/lodestone/playguide/db/quest/c73901edcac/",
@@ -1075,7 +1075,7 @@
                     "Level": "80"
                 }
             ],
-            "NPCs": [
+            "RelatedNPC": [
                 {
                     "Name": "Fromelaut",
                     "Url": "/lodestone/playguide/db/npc/npc/217a4a6ae22/",
@@ -1197,7 +1197,7 @@
             "ItemsOpt": []
         },
         "Infos": {
-            "PrevQuests": [
+            "PrerequisiteQuest": [
                 {
                     "Name": "Kristall-Reflektionen",
                     "Url": "/lodestone/playguide/db/quest/29d7ff6ba43/",
@@ -1205,7 +1205,7 @@
                     "Level": "80"
                 }
             ],
-            "NextQuests": [
+            "FollowupQuest": [
                 {
                     "Name": "Mit dem Allwissen der Allager",
                     "Url": "/lodestone/playguide/db/quest/3ed404bf688/",
@@ -1213,7 +1213,7 @@
                     "Level": "80"
                 }
             ],
-            "NPCs": [
+            "RelatedNPC": [
                 {
                     "Name": "Tataru",
                     "Url": "/lodestone/playguide/db/npc/npc/09a9640fd30/",
@@ -1280,7 +1280,7 @@
             "ItemsOpt": []
         },
         "Infos": {
-            "PrevQuests": [
+            "PrerequisiteQuest": [
                 {
                     "Name": "Auf Unheilsschwingen",
                     "Url": "/lodestone/playguide/db/quest/a424070bc4c/",
@@ -1288,7 +1288,7 @@
                     "Level": "80"
                 }
             ],
-            "NextQuests": [
+            "FollowupQuest": [
                 {
                     "Name": "Auf den Spuren eines Drachen",
                     "Url": "/lodestone/playguide/db/quest/3cf3d03e1a2/",
@@ -1296,7 +1296,7 @@
                     "Level": "80"
                 }
             ],
-            "NPCs": [
+            "RelatedNPC": [
                 {
                     "Name": "Alisaie",
                     "Url": "/lodestone/playguide/db/npc/npc/a5ccd94b3cd/",
@@ -1383,7 +1383,7 @@
             "ItemsOpt": []
         },
         "Infos": {
-            "PrevQuests": [
+            "PrerequisiteQuest": [
                 {
                     "Name": "Gute Winde für Vylbrand",
                     "Url": "/lodestone/playguide/db/quest/3f6cfe1a2fe/",
@@ -1391,7 +1391,7 @@
                     "Level": "80"
                 }
             ],
-            "NextQuests": [
+            "FollowupQuest": [
                 {
                     "Name": "Silberharnisch",
                     "Url": "/lodestone/playguide/db/quest/993e35adeeb/",
@@ -1399,7 +1399,7 @@
                     "Level": "80"
                 }
             ],
-            "NPCs": [
+            "RelatedNPC": [
                 {
                     "Name": "Alisaie",
                     "Url": "/lodestone/playguide/db/npc/npc/d90ec644061/",
@@ -1549,7 +1549,7 @@
             "ItemsOpt": []
         },
         "Infos": {
-            "PrevQuests": [
+            "PrerequisiteQuest": [
                 {
                     "Name": "Titanische Taten",
                     "Url": "/lodestone/playguide/db/quest/c73901edcac/",
@@ -1557,7 +1557,7 @@
                     "Level": "80"
                 }
             ],
-            "NextQuests": [
+            "FollowupQuest": [
                 {
                     "Name": "Der Argwohn des Admirals",
                     "Url": "/lodestone/playguide/db/quest/d030e947404/",
@@ -1565,7 +1565,7 @@
                     "Level": "80"
                 }
             ],
-            "NPCs": [
+            "RelatedNPC": [
                 {
                     "Name": "Alisaie",
                     "Url": "/lodestone/playguide/db/npc/npc/519b3d1844e/",
@@ -1712,7 +1712,7 @@
             ]
         },
         "Infos": {
-            "PrevQuests": [
+            "PrerequisiteQuest": [
                 {
                     "Name": "Das Erbe Noahs",
                     "Url": "/lodestone/playguide/db/quest/79893c7e864/",
@@ -1720,7 +1720,7 @@
                     "Level": "80"
                 }
             ],
-            "NextQuests": [
+            "FollowupQuest": [
                 {
                     "Name": "Hexen hexen",
                     "Url": "/lodestone/playguide/db/quest/c482eedc483/",
@@ -1728,7 +1728,7 @@
                     "Level": "80"
                 }
             ],
-            "NPCs": [
+            "RelatedNPC": [
                 {
                     "Name": "Alisaie",
                     "Url": "/lodestone/playguide/db/npc/npc/44375c05c7c/",
@@ -1831,7 +1831,7 @@
             ]
         },
         "Infos": {
-            "PrevQuests": [
+            "PrerequisiteQuest": [
                 {
                     "Name": "Hexen hexen",
                     "Url": "/lodestone/playguide/db/quest/c482eedc483/",
@@ -1839,7 +1839,7 @@
                     "Level": "80"
                 }
             ],
-            "NextQuests": [
+            "FollowupQuest": [
                 {
                     "Name": "Kristallkabale",
                     "Url": "/lodestone/playguide/db/quest/03f34c82ac3/",
@@ -1847,7 +1847,7 @@
                     "Level": "80"
                 }
             ],
-            "NPCs": [
+            "RelatedNPC": [
                 {
                     "Name": "Carvallain",
                     "Url": "/lodestone/playguide/db/npc/npc/983f5a61be3/",
@@ -1954,7 +1954,7 @@
             ]
         },
         "Infos": {
-            "PrevQuests": [
+            "PrerequisiteQuest": [
                 {
                     "Name": "Gefängnis der Trauer",
                     "Url": "/lodestone/playguide/db/quest/63c10bff6c2/",
@@ -1962,7 +1962,7 @@
                     "Level": "80"
                 }
             ],
-            "NextQuests": [
+            "FollowupQuest": [
                 {
                     "Name": "Goldene Flammen",
                     "Url": "/lodestone/playguide/db/quest/48e6606f943/",
@@ -1970,7 +1970,7 @@
                     "Level": "80"
                 }
             ],
-            "NPCs": [
+            "RelatedNPC": [
                 {
                     "Name": "Alisaie",
                     "Url": "/lodestone/playguide/db/npc/npc/43742e9a5e7/",

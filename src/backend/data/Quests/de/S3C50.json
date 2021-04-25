@@ -33,7 +33,7 @@
             "ItemsOpt": []
         },
         "Infos": {
-            "PrevQuests": [
+            "PrerequisiteQuest": [
                 {
                     "Name": "Auf nach Ostalls Befehl",
                     "Url": "/lodestone/playguide/db/quest/6d27cdc6eaf/",
@@ -76,7 +76,7 @@
             "ItemsOpt": []
         },
         "Infos": {
-            "PrevQuests": [
+            "PrerequisiteQuest": [
                 {
                     "Name": "Aufbruch in alle Richtungen",
                     "Url": "/lodestone/playguide/db/quest/38280c82578/",
@@ -125,7 +125,7 @@
             "ItemsOpt": []
         },
         "Infos": {
-            "PrevQuests": [
+            "PrerequisiteQuest": [
                 {
                     "Name": "Auf nach Ostalls Befehl",
                     "Url": "/lodestone/playguide/db/quest/6d27cdc6eaf/",
@@ -133,7 +133,7 @@
                     "Level": "72"
                 }
             ],
-            "NextQuests": [
+            "RelatedNPC": [
                 {
                     "Name": "Amaro des Spähers",
                     "Url": "/lodestone/playguide/db/npc/npc/113b6475be1/",
@@ -185,7 +185,7 @@
             "ItemsOpt": []
         },
         "Infos": {
-            "PrevQuests": [
+            "PrerequisiteQuest": [
                 {
                     "Name": "Der Komplize",
                     "Url": "/lodestone/playguide/db/quest/1e755cf4af3/",
@@ -193,7 +193,7 @@
                     "Level": "79"
                 }
             ],
-            "NextQuests": [
+            "RelatedNPC": [
                 {
                     "Name": "Hebamme",
                     "Url": "/lodestone/playguide/db/npc/npc/67205f83295/",
@@ -257,7 +257,7 @@
             "ItemsOpt": []
         },
         "Infos": {
-            "PrevQuests": [
+            "PrerequisiteQuest": [
                 {
                     "Name": "Auf nach Ostalls Befehl",
                     "Url": "/lodestone/playguide/db/quest/6d27cdc6eaf/",
@@ -265,7 +265,7 @@
                     "Level": "72"
                 }
             ],
-            "NextQuests": [
+            "RelatedNPC": [
                 {
                     "Name": "Bosta-Bea",
                     "Url": "/lodestone/playguide/db/npc/npc/c3a2a25fda7/",
@@ -317,7 +317,7 @@
             "ItemsOpt": []
         },
         "Infos": {
-            "PrevQuests": [
+            "PrerequisiteQuest": [
                 {
                     "Name": "Clan Kupo bläst zur Jagd 2",
                     "Url": "/lodestone/playguide/db/quest/293910d3727/",
@@ -325,7 +325,7 @@
                     "Level": "73"
                 }
             ],
-            "NextQuests": [
+            "FollowupQuest": [
                 {
                     "Name": "Clan Kupo bläst zur Hochwildjagd",
                     "Url": "/lodestone/playguide/db/quest/cede22e065d/",
@@ -333,7 +333,7 @@
                     "Level": "80"
                 }
             ],
-            "NPCs": [
+            "RelatedNPC": [
                 {
                     "Name": "Xylle",
                     "Url": "/lodestone/playguide/db/shop/4126551651a/",
@@ -394,7 +394,7 @@
             "ItemsOpt": []
         },
         "Infos": {
-            "PrevQuests": [
+            "PrerequisiteQuest": [
                 {
                     "Name": "Der Komplize",
                     "Url": "/lodestone/playguide/db/quest/1e755cf4af3/",
@@ -402,7 +402,7 @@
                     "Level": "79"
                 }
             ],
-            "NextQuests": [
+            "RelatedNPC": [
                 {
                     "Name": "Julstan",
                     "Url": "/lodestone/playguide/db/npc/npc/7de82853237/",
@@ -454,7 +454,7 @@
             "ItemsOpt": []
         },
         "Infos": {
-            "PrevQuests": [
+            "PrerequisiteQuest": [
                 {
                     "Name": "Schlaflos in Crystarium",
                     "Url": "/lodestone/playguide/db/quest/50180402087/",
@@ -462,7 +462,7 @@
                     "Level": "70"
                 }
             ],
-            "NextQuests": [
+            "RelatedNPC": [
                 {
                     "Name": "Alchemist aus Crystarium",
                     "Url": "/lodestone/playguide/db/npc/npc/beb7f97fe32/",
@@ -521,7 +521,7 @@
             "ItemsOpt": []
         },
         "Infos": {
-            "PrevQuests": [
+            "PrerequisiteQuest": [
                 {
                     "Name": "Schlaflos in Crystarium",
                     "Url": "/lodestone/playguide/db/quest/50180402087/",
@@ -564,7 +564,7 @@
             "ItemsOpt": []
         },
         "Infos": {
-            "PrevQuests": [
+            "PrerequisiteQuest": [
                 {
                     "Name": "Der Komplize",
                     "Url": "/lodestone/playguide/db/quest/1e755cf4af3/",
@@ -572,7 +572,7 @@
                     "Level": "79"
                 }
             ],
-            "NextQuests": [
+            "RelatedNPC": [
                 {
                     "Name": "Angehender Dichter",
                     "Url": "/lodestone/playguide/db/npc/npc/282e8c56f95/",
@@ -665,7 +665,7 @@
             ]
         },
         "Infos": {
-            "PrevQuests": [
+            "PrerequisiteQuest": [
                 {
                     "Name": " Wie weggewaschen",
                     "Url": "/lodestone/playguide/db/quest/3383976ab8e/",
@@ -673,7 +673,7 @@
                     "Level": "70"
                 }
             ],
-            "NextQuests": [
+            "FollowupQuest": [
                 {
                     "Name": " Auf Patrouille",
                     "Url": "/lodestone/playguide/db/quest/b7091487809/",
@@ -681,7 +681,7 @@
                     "Level": "70"
                 }
             ],
-            "NPCs": [
+            "RelatedNPC": [
                 {
                     "Name": "Mauwyl",
                     "Url": "/lodestone/playguide/db/npc/npc/833343c1097/",
@@ -733,7 +733,7 @@
             "ItemsOpt": []
         },
         "Infos": {
-            "PrevQuests": [
+            "PrerequisiteQuest": [
                 {
                     "Name": "Clan Kupo bläst zur Jagd 1",
                     "Url": "/lodestone/playguide/db/quest/f2816833d78/",
@@ -741,7 +741,7 @@
                     "Level": "70"
                 }
             ],
-            "NextQuests": [
+            "FollowupQuest": [
                 {
                     "Name": "Clan Kupo bläst zur Jagd 3",
                     "Url": "/lodestone/playguide/db/quest/1b95adabe01/",
@@ -749,7 +749,7 @@
                     "Level": "76"
                 }
             ],
-            "NPCs": [
+            "RelatedNPC": [
                 {
                     "Name": "Xylle",
                     "Url": "/lodestone/playguide/db/shop/4126551651a/",
@@ -791,7 +791,7 @@
             "ItemsOpt": []
         },
         "Infos": {
-            "PrevQuests": [
+            "PrerequisiteQuest": [
                 {
                     "Name": "Auf nach Ostalls Befehl",
                     "Url": "/lodestone/playguide/db/quest/6d27cdc6eaf/",
@@ -834,7 +834,7 @@
             "ItemsOpt": []
         },
         "Infos": {
-            "PrevQuests": [
+            "PrerequisiteQuest": [
                 {
                     "Name": "Schlaflos in Crystarium",
                     "Url": "/lodestone/playguide/db/quest/50180402087/",
@@ -842,7 +842,7 @@
                     "Level": "70"
                 }
             ],
-            "NextQuests": [
+            "RelatedNPC": [
                 {
                     "Name": "Astrille",
                     "Url": "/lodestone/playguide/db/npc/npc/09fab0b03c7/",
@@ -884,7 +884,7 @@
             "ItemsOpt": []
         },
         "Infos": {
-            "PrevQuests": [
+            "PrerequisiteQuest": [
                 {
                     "Name": " Kleine Geste, große Freude",
                     "Url": "/lodestone/playguide/db/quest/ec566bf9c81/",
@@ -892,7 +892,7 @@
                     "Level": "70"
                 }
             ],
-            "NextQuests": [
+            "FollowupQuest": [
                 {
                     "Name": " Ein Treffen mit Triffiden",
                     "Url": "/lodestone/playguide/db/quest/887b068f4d7/",
@@ -900,7 +900,7 @@
                     "Level": "70"
                 }
             ],
-            "NPCs": [
+            "RelatedNPC": [
                 {
                     "Name": "Versorgungsoffizierin",
                     "Url": "/lodestone/playguide/db/npc/npc/b6cd7e044c8/",
@@ -942,7 +942,7 @@
             "ItemsOpt": []
         },
         "Infos": {
-            "PrevQuests": [
+            "PrerequisiteQuest": [
                 {
                     "Name": " Selbstvorwürfe lasten schwer",
                     "Url": "/lodestone/playguide/db/quest/fc7272dfbf5/",
@@ -950,7 +950,7 @@
                     "Level": "70"
                 }
             ],
-            "NextQuests": [
+            "FollowupQuest": [
                 {
                     "Name": " Freundschaft als Therapie",
                     "Url": "/lodestone/playguide/db/quest/291c28447a3/",
@@ -958,7 +958,7 @@
                     "Level": "70"
                 }
             ],
-            "NPCs": [
+            "RelatedNPC": [
                 {
                     "Name": "Atli",
                     "Url": "/lodestone/playguide/db/npc/npc/8b16e79a762/",
@@ -1027,7 +1027,7 @@
             "ItemsOpt": []
         },
         "Infos": {
-            "PrevQuests": [
+            "PrerequisiteQuest": [
                 {
                     "Name": " Wie bestellt",
                     "Url": "/lodestone/playguide/db/quest/cb8c8f79d62/",
@@ -1035,7 +1035,7 @@
                     "Level": "70"
                 }
             ],
-            "NextQuests": [
+            "RelatedNPC": [
                 {
                     "Name": "Roi-Tatch",
                     "Url": "/lodestone/playguide/db/npc/npc/6fb2786e6b8/",
@@ -1089,7 +1089,7 @@
             "ItemsOpt": []
         },
         "Infos": {
-            "PrevQuests": [
+            "PrerequisiteQuest": [
                 {
                     "Name": "Schlaflos in Crystarium",
                     "Url": "/lodestone/playguide/db/quest/50180402087/",
@@ -1097,7 +1097,7 @@
                     "Level": "70"
                 }
             ],
-            "NextQuests": [
+            "RelatedNPC": [
                 {
                     "Name": "Eidith",
                     "Url": "/lodestone/playguide/db/npc/npc/f7c90e6cc33/",
@@ -1144,7 +1144,7 @@
             "ItemsOpt": []
         },
         "Infos": {
-            "PrevQuests": [
+            "PrerequisiteQuest": [
                 {
                     "Name": "... tröstend die Nacht",
                     "Url": "/lodestone/playguide/db/quest/0b1c0f7a203/",
@@ -1194,7 +1194,7 @@
             "ItemsOpt": []
         },
         "Infos": {
-            "PrevQuests": [
+            "PrerequisiteQuest": [
                 {
                     "Name": "Aufbruch in alle Richtungen",
                     "Url": "/lodestone/playguide/db/quest/38280c82578/",
@@ -1202,7 +1202,7 @@
                     "Level": "74"
                 }
             ],
-            "NextQuests": [
+            "RelatedNPC": [
                 {
                     "Name": "Bierernster Historiker",
                     "Url": "/lodestone/playguide/db/npc/npc/8266befd40d/",
@@ -1249,7 +1249,7 @@
             "ItemsOpt": []
         },
         "Infos": {
-            "PrevQuests": [
+            "PrerequisiteQuest": [
                 {
                     "Name": "Schlaflos in Crystarium",
                     "Url": "/lodestone/playguide/db/quest/50180402087/",
@@ -1257,7 +1257,7 @@
                     "Level": "70"
                 }
             ],
-            "NextQuests": [
+            "RelatedNPC": [
                 {
                     "Name": "Amaro-Reiter",
                     "Url": "/lodestone/playguide/db/npc/npc/8655c92512c/",
@@ -1314,7 +1314,7 @@
             "ItemsOpt": []
         },
         "Infos": {
-            "PrevQuests": [
+            "PrerequisiteQuest": [
                 {
                     "Name": " Kleine Geste, große Freude",
                     "Url": "/lodestone/playguide/db/quest/ec566bf9c81/",
@@ -1322,7 +1322,7 @@
                     "Level": "70"
                 }
             ],
-            "NextQuests": [
+            "FollowupQuest": [
                 {
                     "Name": " Ein Treffen mit Triffiden",
                     "Url": "/lodestone/playguide/db/quest/887b068f4d7/",
@@ -1330,7 +1330,7 @@
                     "Level": "70"
                 }
             ],
-            "NPCs": [
+            "RelatedNPC": [
                 {
                     "Name": "Verletzter Amaro",
                     "Url": "/lodestone/playguide/db/npc/npc/fa39d0f0d17/",
@@ -1382,7 +1382,7 @@
             "ItemsOpt": []
         },
         "Infos": {
-            "PrevQuests": [
+            "PrerequisiteQuest": [
                 {
                     "Name": " Das neue Heim der Entwurzelten",
                     "Url": "/lodestone/playguide/db/quest/a91ade1a1b4/",
@@ -1390,7 +1390,7 @@
                     "Level": "70"
                 }
             ],
-            "NextQuests": [
+            "FollowupQuest": [
                 {
                     "Name": " Vererbte Fürsorge",
                     "Url": "/lodestone/playguide/db/quest/62b46c5d048/",
@@ -1398,7 +1398,7 @@
                     "Level": "70"
                 }
             ],
-            "NPCs": [
+            "RelatedNPC": [
                 {
                     "Name": "Callea",
                     "Url": "/lodestone/playguide/db/npc/npc/3998eccb62f/",
@@ -1476,7 +1476,7 @@
             ]
         },
         "Infos": {
-            "PrevQuests": [
+            "PrerequisiteQuest": [
                 {
                     "Name": " Das rettende Rezept",
                     "Url": "/lodestone/playguide/db/quest/627662a8e95/",
@@ -1484,7 +1484,7 @@
                     "Level": "70"
                 }
             ],
-            "NextQuests": [
+            "FollowupQuest": [
                 {
                     "Name": " Auf Patrouille",
                     "Url": "/lodestone/playguide/db/quest/b7091487809/",
@@ -1492,7 +1492,7 @@
                     "Level": "70"
                 }
             ],
-            "NPCs": [
+            "RelatedNPC": [
                 {
                     "Name": "Callea",
                     "Url": "/lodestone/playguide/db/npc/npc/ad698a66e42/",
@@ -1546,7 +1546,7 @@
             "ItemsOpt": []
         },
         "Infos": {
-            "PrevQuests": [
+            "PrerequisiteQuest": [
                 {
                     "Name": "Der Komplize",
                     "Url": "/lodestone/playguide/db/quest/1e755cf4af3/",
@@ -1554,7 +1554,7 @@
                     "Level": "79"
                 }
             ],
-            "NextQuests": [
+            "RelatedNPC": [
                 {
                     "Name": "Apothecarius",
                     "Url": "/lodestone/playguide/db/npc/npc/a9be1c0572b/",
@@ -1601,7 +1601,7 @@
             "ItemsOpt": []
         },
         "Infos": {
-            "PrevQuests": [
+            "PrerequisiteQuest": [
                 {
                     "Name": "Auf nach Ostalls Befehl",
                     "Url": "/lodestone/playguide/db/quest/6d27cdc6eaf/",
@@ -1609,7 +1609,7 @@
                     "Level": "72"
                 }
             ],
-            "NextQuests": [
+            "RelatedNPC": [
                 {
                     "Name": "Gefährlicher Räuber",
                     "Url": "/lodestone/playguide/db/npc/npc/09489435c13/",
@@ -1651,7 +1651,7 @@
             "ItemsOpt": []
         },
         "Infos": {
-            "PrevQuests": [
+            "PrerequisiteQuest": [
                 {
                     "Name": "Auf nach Ostalls Befehl",
                     "Url": "/lodestone/playguide/db/quest/6d27cdc6eaf/",
@@ -1659,7 +1659,7 @@
                     "Level": "72"
                 }
             ],
-            "NextQuests": [
+            "RelatedNPC": [
                 {
                     "Name": "Merlath",
                     "Url": "/lodestone/playguide/db/npc/npc/de32c0dc8ff/",
@@ -1716,7 +1716,7 @@
             "ItemsOpt": []
         },
         "Infos": {
-            "PrevQuests": [
+            "PrerequisiteQuest": [
                 {
                     "Name": "Aufbruch in alle Richtungen",
                     "Url": "/lodestone/playguide/db/quest/38280c82578/",
@@ -1766,7 +1766,7 @@
             "ItemsOpt": []
         },
         "Infos": {
-            "PrevQuests": [
+            "PrerequisiteQuest": [
                 {
                     "Name": " Hoffnung für Holminster",
                     "Url": "/lodestone/playguide/db/quest/31f2a3bcbf1/",
@@ -1780,7 +1780,7 @@
                     "Level": "70"
                 }
             ],
-            "NextQuests": [
+            "RelatedNPC": [
                 {
                     "Name": "Dawkes",
                     "Url": "/lodestone/playguide/db/npc/npc/099e27aa5e3/",
@@ -1835,7 +1835,7 @@
             "ItemsOpt": []
         },
         "Infos": {
-            "PrevQuests": [
+            "PrerequisiteQuest": [
                 {
                     "Name": "Schattenbringer",
                     "Url": "/lodestone/playguide/db/quest/4ed1668d377/",
@@ -1843,7 +1843,7 @@
                     "Level": "80"
                 }
             ],
-            "NextQuests": [
+            "RelatedNPC": [
                 {
                     "Name": "Bethana",
                     "Url": "/lodestone/playguide/db/npc/npc/7ea2a161ae1/",
@@ -1885,7 +1885,7 @@
             "ItemsOpt": []
         },
         "Infos": {
-            "PrevQuests": [
+            "PrerequisiteQuest": [
                 {
                     "Name": "Ins Meer der Schwarzen Winde",
                     "Url": "/lodestone/playguide/db/quest/d4151297369/",
@@ -1893,7 +1893,7 @@
                     "Level": "79"
                 }
             ],
-            "NextQuests": [
+            "RelatedNPC": [
                 {
                     "Name": "Lethargiker",
                     "Url": "/lodestone/playguide/db/npc/npc/18440ce99be/",
@@ -1935,7 +1935,7 @@
             "ItemsOpt": []
         },
         "Infos": {
-            "PrevQuests": [
+            "PrerequisiteQuest": [
                 {
                     "Name": " Ein tragischer Verlust",
                     "Url": "/lodestone/playguide/db/quest/d17c5a65951/",
@@ -1943,7 +1943,7 @@
                     "Level": "70"
                 }
             ],
-            "NextQuests": [
+            "FollowupQuest": [
                 {
                     "Name": " Das rettende Rezept",
                     "Url": "/lodestone/playguide/db/quest/627662a8e95/",
@@ -1951,7 +1951,7 @@
                     "Level": "70"
                 }
             ],
-            "NPCs": [
+            "RelatedNPC": [
                 {
                     "Name": "Sylgham",
                     "Url": "/lodestone/playguide/db/npc/npc/2f0da397a8e/",
@@ -2008,7 +2008,7 @@
             "ItemsOpt": []
         },
         "Infos": {
-            "PrevQuests": [
+            "PrerequisiteQuest": [
                 {
                     "Name": "Der Komplize",
                     "Url": "/lodestone/playguide/db/quest/1e755cf4af3/",
@@ -2016,7 +2016,7 @@
                     "Level": "79"
                 }
             ],
-            "NextQuests": [
+            "RelatedNPC": [
                 {
                     "Name": "Rekrut der Stadtwache",
                     "Url": "/lodestone/playguide/db/npc/npc/d518d228db8/",
@@ -2094,7 +2094,7 @@
             ]
         },
         "Infos": {
-            "PrevQuests": [
+            "PrerequisiteQuest": [
                 {
                     "Name": " Vererbte Fürsorge",
                     "Url": "/lodestone/playguide/db/quest/62b46c5d048/",
@@ -2108,7 +2108,7 @@
                     "Level": "70"
                 }
             ],
-            "NextQuests": [
+            "RelatedNPC": [
                 {
                     "Name": "Callea",
                     "Url": "/lodestone/playguide/db/npc/npc/7e9255ee22f/",
@@ -2215,7 +2215,7 @@
             "ItemsOpt": []
         },
         "Infos": {
-            "PrevQuests": [
+            "PrerequisiteQuest": [
                 {
                     "Name": "Schlaflos in Crystarium",
                     "Url": "/lodestone/playguide/db/quest/50180402087/",
@@ -2223,7 +2223,7 @@
                     "Level": "70"
                 }
             ],
-            "NextQuests": [
+            "RelatedNPC": [
                 {
                     "Name": "Unendlich neugieriges Kind",
                     "Url": "/lodestone/playguide/db/npc/npc/3f9b78e54f2/",
@@ -2265,7 +2265,7 @@
             "ItemsOpt": []
         },
         "Infos": {
-            "PrevQuests": [
+            "PrerequisiteQuest": [
                 {
                     "Name": "Ins Meer der Schwarzen Winde",
                     "Url": "/lodestone/playguide/db/quest/d4151297369/",
@@ -2273,7 +2273,7 @@
                     "Level": "79"
                 }
             ],
-            "NextQuests": [
+            "RelatedNPC": [
                 {
                     "Name": "Thafes Bruder",
                     "Url": "/lodestone/playguide/db/npc/npc/4cc039d5488/",
@@ -2315,7 +2315,7 @@
             "ItemsOpt": []
         },
         "Infos": {
-            "PrevQuests": [
+            "PrerequisiteQuest": [
                 {
                     "Name": "Ins Meer der Schwarzen Winde",
                     "Url": "/lodestone/playguide/db/quest/d4151297369/",
@@ -2323,7 +2323,7 @@
                     "Level": "79"
                 }
             ],
-            "NextQuests": [
+            "RelatedNPC": [
                 {
                     "Name": "Langhaariger Junge",
                     "Url": "/lodestone/playguide/db/npc/npc/d80cc40251f/",
@@ -2365,7 +2365,7 @@
             "ItemsOpt": []
         },
         "Infos": {
-            "PrevQuests": [
+            "PrerequisiteQuest": [
                 {
                     "Name": "Ins Meer der Schwarzen Winde",
                     "Url": "/lodestone/playguide/db/quest/d4151297369/",
@@ -2373,7 +2373,7 @@
                     "Level": "79"
                 }
             ],
-            "NextQuests": [
+            "RelatedNPC": [
                 {
                     "Name": "Fahrender Mordh-Händler",
                     "Url": "/lodestone/playguide/db/npc/npc/e837604108a/",
@@ -2421,7 +2421,7 @@
             "ItemsOpt": []
         },
         "Infos": {
-            "PrevQuests": [
+            "PrerequisiteQuest": [
                 {
                     "Name": "Auf nach Ostalls Befehl",
                     "Url": "/lodestone/playguide/db/quest/6d27cdc6eaf/",
@@ -2429,7 +2429,7 @@
                     "Level": "72"
                 }
             ],
-            "NextQuests": [
+            "FollowupQuest": [
                 {
                     "Name": " So geliefert",
                     "Url": "/lodestone/playguide/db/quest/34a900add77/",
@@ -2437,7 +2437,7 @@
                     "Level": "70"
                 }
             ],
-            "NPCs": [
+            "RelatedNPC": [
                 {
                     "Name": "Joanard",
                     "Url": "/lodestone/playguide/db/npc/npc/94318814fc8/",
@@ -2494,7 +2494,7 @@
             "ItemsOpt": []
         },
         "Infos": {
-            "PrevQuests": [
+            "PrerequisiteQuest": [
                 {
                     "Name": "Clan Kupo bläst zur Jagd 3",
                     "Url": "/lodestone/playguide/db/quest/1b95adabe01/",
@@ -2502,7 +2502,7 @@
                     "Level": "76"
                 }
             ],
-            "NextQuests": [
+            "RelatedNPC": [
                 {
                     "Name": "Xylle",
                     "Url": "/lodestone/playguide/db/shop/4126551651a/",
@@ -2544,7 +2544,7 @@
             "ItemsOpt": []
         },
         "Infos": {
-            "PrevQuests": [
+            "PrerequisiteQuest": [
                 {
                     "Name": "Ins Meer der Schwarzen Winde",
                     "Url": "/lodestone/playguide/db/quest/d4151297369/",
@@ -2552,7 +2552,7 @@
                     "Level": "79"
                 }
             ],
-            "NextQuests": [
+            "RelatedNPC": [
                 {
                     "Name": "Incen",
                     "Url": "/lodestone/playguide/db/npc/npc/ac2b8e51119/",
@@ -2611,7 +2611,7 @@
             "ItemsOpt": []
         },
         "Infos": {
-            "PrevQuests": [
+            "PrerequisiteQuest": [
                 {
                     "Name": "Aufbruch in alle Richtungen",
                     "Url": "/lodestone/playguide/db/quest/38280c82578/",
@@ -2619,7 +2619,7 @@
                     "Level": "74"
                 }
             ],
-            "NextQuests": [
+            "FollowupQuest": [
                 {
                     "Name": " Das neue Heim der Entwurzelten",
                     "Url": "/lodestone/playguide/db/quest/a91ade1a1b4/",
@@ -2627,7 +2627,7 @@
                     "Level": "70"
                 }
             ],
-            "NPCs": [
+            "RelatedNPC": [
                 {
                     "Name": "Mynes",
                     "Url": "/lodestone/playguide/db/npc/npc/ba512230a61/",
@@ -2686,7 +2686,7 @@
             "ItemsOpt": []
         },
         "Infos": {
-            "PrevQuests": [
+            "PrerequisiteQuest": [
                 {
                     "Name": "Die Last des Lichts",
                     "Url": "/lodestone/playguide/db/quest/5c8aebeff0e/",
@@ -2694,7 +2694,7 @@
                     "Level": "77"
                 }
             ],
-            "NextQuests": [
+            "FollowupQuest": [
                 {
                     "Name": " Selbstvorwürfe lasten schwer",
                     "Url": "/lodestone/playguide/db/quest/fc7272dfbf5/",
@@ -2702,7 +2702,7 @@
                     "Level": "70"
                 }
             ],
-            "NPCs": [
+            "RelatedNPC": [
                 {
                     "Name": "Mauwyl",
                     "Url": "/lodestone/playguide/db/npc/npc/833343c1097/",
@@ -2784,7 +2784,7 @@
             ]
         },
         "Infos": {
-            "PrevQuests": [
+            "PrerequisiteQuest": [
                 {
                     "Name": "Ins Meer der Schwarzen Winde",
                     "Url": "/lodestone/playguide/db/quest/d4151297369/",
@@ -2792,7 +2792,7 @@
                     "Level": "79"
                 }
             ],
-            "NextQuests": [
+            "RelatedNPC": [
                 {
                     "Name": "Forscherin aus Crystarium",
                     "Url": "/lodestone/playguide/db/npc/npc/ff3600b21ab/",
@@ -2851,7 +2851,7 @@
             "ItemsOpt": []
         },
         "Infos": {
-            "PrevQuests": [
+            "PrerequisiteQuest": [
                 {
                     "Name": "... tröstend die Nacht",
                     "Url": "/lodestone/playguide/db/quest/0b1c0f7a203/",
@@ -2859,7 +2859,7 @@
                     "Level": "71"
                 }
             ],
-            "NextQuests": [
+            "FollowupQuest": [
                 {
                     "Name": " Hoffnung für Holminster",
                     "Url": "/lodestone/playguide/db/quest/31f2a3bcbf1/",
@@ -2873,7 +2873,7 @@
                     "Level": "70"
                 }
             ],
-            "NPCs": [
+            "RelatedNPC": [
                 {
                     "Name": "Bjorn",
                     "Url": "/lodestone/playguide/db/npc/npc/916834aad99/",
@@ -2935,7 +2935,7 @@
             "ItemsOpt": []
         },
         "Infos": {
-            "PrevQuests": [
+            "PrerequisiteQuest": [
                 {
                     "Name": "Schlaflos in Crystarium",
                     "Url": "/lodestone/playguide/db/quest/50180402087/",
@@ -2949,7 +2949,7 @@
                     "Level": "60"
                 }
             ],
-            "NextQuests": [
+            "FollowupQuest": [
                 {
                     "Name": "Clan Kupo bläst zur Jagd 2",
                     "Url": "/lodestone/playguide/db/quest/293910d3727/",
@@ -2957,7 +2957,7 @@
                     "Level": "73"
                 }
             ],
-            "NPCs": [
+            "RelatedNPC": [
                 {
                     "Name": "Halldor",
                     "Url": "/lodestone/playguide/db/npc/npc/191ecf7f71e/",
@@ -3010,7 +3010,7 @@
             "ItemsOpt": []
         },
         "Infos": {
-            "PrevQuests": [
+            "PrerequisiteQuest": [
                 {
                     "Name": "Ins Meer der Schwarzen Winde",
                     "Url": "/lodestone/playguide/db/quest/d4151297369/",
@@ -3018,7 +3018,7 @@
                     "Level": "79"
                 }
             ],
-            "NextQuests": [
+            "RelatedNPC": [
                 {
                     "Name": "Vayne",
                     "Url": "/lodestone/playguide/db/npc/npc/ec61584afd8/",
@@ -3065,7 +3065,7 @@
             "ItemsOpt": []
         },
         "Infos": {
-            "PrevQuests": [
+            "PrerequisiteQuest": [
                 {
                     "Name": " Narben des Krieges",
                     "Url": "/lodestone/playguide/db/quest/d4938757638/",
@@ -3073,7 +3073,7 @@
                     "Level": "70"
                 }
             ],
-            "NextQuests": [
+            "FollowupQuest": [
                 {
                     "Name": " Wie weggewaschen",
                     "Url": "/lodestone/playguide/db/quest/3383976ab8e/",
@@ -3081,7 +3081,7 @@
                     "Level": "70"
                 }
             ],
-            "NPCs": [
+            "RelatedNPC": [
                 {
                     "Name": "Mauwyl",
                     "Url": "/lodestone/playguide/db/npc/npc/f99b6371252/",

@@ -19,6 +19,7 @@ class QuestPage extends Component {
         NumberOfDone: 0,
         Sort: { Field: "Seq", Order: "ASC" },
         Filter: { Field: "none", Value: "" },
+        inclPrev: false,
       },
     };
 
@@ -97,13 +98,38 @@ class QuestPage extends Component {
     } else {
       return (
         <div>
-          <div className={styles.doneDisplay}>
-            {Text[window.lang]["Done"]} {this.state.QPage.NumberOfDone}/{this.state.QPage.Quests.length}
+          <div className={styles.settingWrapper}>
+            <div className={styles.doneDisplay}>
+              {Text[window.lang]["Done"]} {this.state.QPage.NumberOfDone}/{this.state.QPage.Quests.length}
+            </div>
+            <div className={styles.prevToggle}>
+              {Text[window.lang]["PrevQuests"]}
+              <label className={styles.switch}>
+                <input
+                  type="checkbox"
+                  checked={this.state.QPage.inclPrev}
+                  onChange={(event) => this.onChangeToggle(event.target.checked, this)}
+                />
+                <span className={styles.slider}></span>
+              </label>
+            </div>
           </div>
-          <QuestTable key="qu-table" Quests={this.state.QPage.Display} Page={this.props.Page} QuestHandler={this} />
+          <QuestTable
+            key="qu-table"
+            inclPrev={this.state.QPage.inclPrev}
+            Quests={this.state.QPage.Display}
+            Page={this.props.Page}
+            QuestHandler={this}
+          />
         </div>
       );
     }
+  };
+
+  onChangeToggle = function (bChecked, oHandler) {
+    var QPage = { ...oHandler.state.QPage };
+    QPage.inclPrev = bChecked;
+    oHandler.setState({ QPage });
   };
 
   onDisplayChange = function () {
@@ -158,14 +184,21 @@ class QuestPage extends Component {
     oHandler.setState({ QPage });
   };
 
-  setDone = function (bDone, oQuest) {
+  setDone = function (bDone, oQuest, bReload, iChanged) {
     var QPage = { ...this.state.QPage };
-    QPage.Quests[QPage.Quests.indexOf(oQuest)].Done = bDone;
-    QPage.Display[QPage.Display.indexOf(oQuest)].Done = bDone;
-    bDone === true ? ++QPage.NumberOfDone : --QPage.NumberOfDone;
-    this.setState({ QPage });
 
-    this.props.App.setTotalDone(bDone);
+    if (bReload === false) {
+      QPage.Quests[QPage.Quests.indexOf(oQuest)].Done = bDone;
+      QPage.Display[QPage.Display.indexOf(oQuest)].Done = bDone;
+      bDone === true ? ++QPage.NumberOfDone : --QPage.NumberOfDone;
+      this.setState({ QPage });
+    } else {
+      QPage.loading = true;
+      this.setState({ QPage });
+      this.loadQuests(QPage.activeCategory.iID);
+    }
+
+    this.props.App.setTotalDone(bDone, iChanged);
   };
 
   getNumberOfDone = function (aQuests) {

@@ -34,7 +34,7 @@
             "ItemsOpt": []
         },
         "Infos": {
-            "PrevQuests": [
+            "PrerequisiteQuest": [
                 {
                     "Name": "Dem Schwur treu ergeben",
                     "Url": "/lodestone/playguide/db/quest/52b4a3217d3/",
@@ -42,7 +42,7 @@
                     "Level": "70"
                 }
             ],
-            "NextQuests": [
+            "RelatedNPC": [
                 {
                     "Name": "Byakko",
                     "Url": "/lodestone/playguide/db/npc/npc/9ea260743d9/",
@@ -164,7 +164,7 @@
             "ItemsOpt": []
         },
         "Infos": {
-            "PrevQuests": [
+            "PrerequisiteQuest": [
                 {
                     "Name": "Eine Liebe über den Tod hinaus",
                     "Url": "/lodestone/playguide/db/quest/e5023340098/",
@@ -172,7 +172,7 @@
                     "Level": "70"
                 }
             ],
-            "NextQuests": [
+            "FollowupQuest": [
                 {
                     "Name": "Ein tapferes Opfer",
                     "Url": "/lodestone/playguide/db/quest/1d5841d5d85/",
@@ -180,7 +180,7 @@
                     "Level": "70"
                 }
             ],
-            "NPCs": [
+            "RelatedNPC": [
                 {
                     "Name": "Genbu",
                     "Url": "/lodestone/playguide/db/npc/npc/081fd435184/",
@@ -269,7 +269,7 @@
             "ItemsOpt": []
         },
         "Infos": {
-            "PrevQuests": [
+            "PrerequisiteQuest": [
                 {
                     "Name": "Hoffnungsschimmer auf der Rubinsee",
                     "Url": "/lodestone/playguide/db/quest/084fa28f651/",
@@ -277,7 +277,7 @@
                     "Level": "70"
                 }
             ],
-            "NextQuests": [
+            "FollowupQuest": [
                 {
                     "Name": "Alter schützt vor Torheit nicht",
                     "Url": "/lodestone/playguide/db/quest/c2f001b93da/",
@@ -285,7 +285,7 @@
                     "Level": "70"
                 }
             ],
-            "NPCs": [
+            "RelatedNPC": [
                 {
                     "Name": "Byakko",
                     "Url": "/lodestone/playguide/db/npc/npc/f0f2f29fbc4/",
@@ -455,7 +455,7 @@
             ]
         },
         "Infos": {
-            "PrevQuests": [
+            "PrerequisiteQuest": [
                 {
                     "Name": "Der innere Dämon",
                     "Url": "/lodestone/playguide/db/quest/82d86206c11/",
@@ -463,7 +463,7 @@
                     "Level": "70"
                 }
             ],
-            "NextQuests": [
+            "FollowupQuest": [
                 {
                     "Name": "Eine Liebe über den Tod hinaus",
                     "Url": "/lodestone/playguide/db/quest/e5023340098/",
@@ -471,7 +471,7 @@
                     "Level": "70"
                 }
             ],
-            "NPCs": [
+            "RelatedNPC": [
                 {
                     "Name": "Byakko",
                     "Url": "/lodestone/playguide/db/npc/npc/f0f2f29fbc4/",
@@ -579,7 +579,7 @@
             "ItemsOpt": []
         },
         "Infos": {
-            "PrevQuests": [
+            "PrerequisiteQuest": [
                 {
                     "Name": "Alter schützt vor Torheit nicht",
                     "Url": "/lodestone/playguide/db/quest/c2f001b93da/",
@@ -587,7 +587,7 @@
                     "Level": "70"
                 }
             ],
-            "NextQuests": [
+            "FollowupQuest": [
                 {
                     "Name": "Dem Schwur treu ergeben",
                     "Url": "/lodestone/playguide/db/quest/52b4a3217d3/",
@@ -595,7 +595,7 @@
                     "Level": "70"
                 }
             ],
-            "NPCs": [
+            "RelatedNPC": [
                 {
                     "Name": "Byakko",
                     "Url": "/lodestone/playguide/db/npc/npc/f0f2f29fbc4/",

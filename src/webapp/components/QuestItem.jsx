@@ -72,29 +72,33 @@ class QuestItem extends Component {
 
   setDone = function (bDone) {
     ipcRenderer
-      .invoke("saveQuests", [{ iID: this.props.Quest.iID, Done: bDone }])
-      .then((bSuccess) => this.onSaved(bDone, bSuccess));
+      .invoke("saveQuests", [{ iID: this.props.Quest.iID, Done: bDone }], this.props.inclPrev)
+      .then((oResult) => this.onSaved(bDone, oResult));
 
     var QuestItem = { ...this.state.QuestItem };
     QuestItem.loading = true;
     this.setState({ QuestItem });
   };
 
-  onSaved = function (bDone, bSuccess) {
-    if (bSuccess !== true) {
+  onSaved = function (bDone, oResult) {
+    if (oResult.Success !== true) {
       this.props.Page.addMSG(Text[window.lang]["SaveError"], "E");
     }
 
-    setTimeout(() => this.setEnabledState(bDone, bSuccess), 1700);
+    if (oResult.Reload === false) {
+      setTimeout(() => this.setEnabledState(bDone, oResult), 1700);
+    } else {
+      this.setEnabledState(bDone, oResult);
+    }
   };
 
-  setEnabledState = function (bDone, bSuccess) {
+  setEnabledState = function (bDone, oResult) {
     var QuestItem = { ...this.state.QuestItem };
     QuestItem.loading = false;
     this.setState({ QuestItem });
 
-    if (bSuccess === true) {
-      this.props.QuestHandler.setDone(bDone, this.props.Quest);
+    if (oResult.Success === true) {
+      this.props.QuestHandler.setDone(bDone, this.props.Quest, oResult.Reload, oResult.Changed);
     }
   };
 }

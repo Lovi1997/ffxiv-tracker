@@ -62,6 +62,7 @@ class QuestTable extends Component {
           Page={this.props.Page}
           Quest={oQuest}
           QuestHandler={this.props.QuestHandler}
+          inclPrev={this.props.inclPrev}
         />
       );
     });

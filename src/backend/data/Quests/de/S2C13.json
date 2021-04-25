@@ -27,7 +27,7 @@
             "ItemsOpt": []
         },
         "Infos": {
-            "PrevQuests": [
+            "PrerequisiteQuest": [
                 {
                     "Name": "Die Erben sammeln sich",
                     "Url": "/lodestone/playguide/db/quest/c8805dfa3b8/",
@@ -35,7 +35,7 @@
                     "Level": "50"
                 }
             ],
-            "NextQuests": [
+            "FollowupQuest": [
                 {
                     "Name": "Licht ins Dunkel",
                     "Url": "/lodestone/playguide/db/quest/c95217ea0fd/",
@@ -43,7 +43,7 @@
                     "Level": "50"
                 }
             ],
-            "NPCs": [
+            "RelatedNPC": [
                 {
                     "Name": "Biggs",
                     "Url": "/lodestone/playguide/db/npc/npc/136242c70ec/",
@@ -170,7 +170,7 @@
             ]
         },
         "Infos": {
-            "PrevQuests": [
+            "PrerequisiteQuest": [
                 {
                     "Name": "Die Seele des Sandes",
                     "Url": "/lodestone/playguide/db/quest/8291860f8d9/",
@@ -178,7 +178,7 @@
                     "Level": "50"
                 }
             ],
-            "NextQuests": [
+            "FollowupQuest": [
                 {
                     "Name": "Das Labyrinth der Alten",
                     "Url": "/lodestone/playguide/db/quest/c8031463e5b/",
@@ -186,7 +186,7 @@
                     "Level": "50"
                 }
             ],
-            "NPCs": [
+            "RelatedNPC": [
                 {
                     "Name": "Parsemontret",
                     "Url": "/lodestone/playguide/db/npc/npc/3f5f88f851b/",
@@ -241,7 +241,7 @@
             "ItemsOpt": []
         },
         "Infos": {
-            "PrevQuests": [
+            "PrerequisiteQuest": [
                 {
                     "Name": "Besuch aus der Vergangenheit",
                     "Url": "/lodestone/playguide/db/quest/e2b06cb25d9/",
@@ -309,7 +309,7 @@
             ]
         },
         "Infos": {
-            "PrevQuests": [
+            "PrerequisiteQuest": [
                 {
                     "Name": "Das Erbe der Allager",
                     "Url": "/lodestone/playguide/db/quest/a2873d209ec/",
@@ -317,7 +317,7 @@
                     "Level": "50"
                 }
             ],
-            "NextQuests": [
+            "FollowupQuest": [
                 {
                     "Name": "Legenden schreiben",
                     "Url": "/lodestone/playguide/db/quest/71f858c9360/",
@@ -325,7 +325,7 @@
                     "Level": "50"
                 }
             ],
-            "NPCs": [
+            "RelatedNPC": [
                 {
                     "Name": "Erfahrene Abenteurerin",
                     "Url": "/lodestone/playguide/db/npc/npc/26d76811d87/",
@@ -389,7 +389,7 @@
             "ItemsOpt": []
         },
         "Infos": {
-            "PrevQuests": [
+            "PrerequisiteQuest": [
                 {
                     "Name": "Die ultimative Waffe",
                     "Url": "/lodestone/playguide/db/quest/3ab32cfebf8/",
@@ -397,7 +397,7 @@
                     "Level": "50"
                 }
             ],
-            "NextQuests": [
+            "FollowupQuest": [
                 {
                     "Name": "Die Seele des Sandes",
                     "Url": "/lodestone/playguide/db/quest/8291860f8d9/",
@@ -405,7 +405,7 @@
                     "Level": "50"
                 }
             ],
-            "NPCs": [
+            "RelatedNPC": [
                 {
                     "Name": "Rammbroes",
                     "Url": "/lodestone/playguide/db/npc/npc/3ceba4171d3/",
@@ -454,7 +454,7 @@
             "ItemsOpt": []
         },
         "Infos": {
-            "PrevQuests": [
+            "PrerequisiteQuest": [
                 {
                     "Name": "Licht ins Dunkel",
                     "Url": "/lodestone/playguide/db/quest/c95217ea0fd/",
@@ -462,7 +462,7 @@
                     "Level": "50"
                 }
             ],
-            "NextQuests": [
+            "FollowupQuest": [
                 {
                     "Name": "Besuch aus der Vergangenheit",
                     "Url": "/lodestone/playguide/db/quest/e2b06cb25d9/",
@@ -470,7 +470,7 @@
                     "Level": "50"
                 }
             ],
-            "NPCs": [
+            "RelatedNPC": [
                 {
                     "Name": "Sankt Coinachs-Forscher",
                     "Url": "/lodestone/playguide/db/npc/npc/d4875f21ce2/",
@@ -520,7 +520,7 @@
             "ItemsOpt": []
         },
         "Infos": {
-            "PrevQuests": [
+            "PrerequisiteQuest": [
                 {
                     "Name": "Legenden schreiben",
                     "Url": "/lodestone/playguide/db/quest/71f858c9360/",
@@ -528,7 +528,7 @@
                     "Level": "50"
                 }
             ],
-            "NextQuests": [
+            "FollowupQuest": [
                 {
                     "Name": "Die Erben sammeln sich",
                     "Url": "/lodestone/playguide/db/quest/c8805dfa3b8/",
@@ -596,7 +596,7 @@
             ]
         },
         "Infos": {
-            "PrevQuests": [
+            "PrerequisiteQuest": [
                 {
                     "Name": "Das Labyrinth der Alten",
                     "Url": "/lodestone/playguide/db/quest/c8031463e5b/",
@@ -604,7 +604,7 @@
                     "Level": "50"
                 }
             ],
-            "NextQuests": [
+            "FollowupQuest": [
                 {
                     "Name": "Der Syrcus-Turm",
                     "Url": "/lodestone/playguide/db/quest/4adf2560fdd/",
@@ -612,7 +612,7 @@
                     "Level": "50"
                 }
             ],
-            "NPCs": [
+            "RelatedNPC": [
                 {
                     "Name": "Rammbroes",
                     "Url": "/lodestone/playguide/db/npc/npc/3ceba4171d3/",
@@ -654,7 +654,7 @@
             "ItemsOpt": []
         },
         "Infos": {
-            "PrevQuests": [
+            "PrerequisiteQuest": [
                 {
                     "Name": "Der Syrcus-Turm",
                     "Url": "/lodestone/playguide/db/quest/4adf2560fdd/",
@@ -662,7 +662,7 @@
                     "Level": "50"
                 }
             ],
-            "NextQuests": [
+            "FollowupQuest": [
                 {
                     "Name": "G'raha Tias Bestimmung",
                     "Url": "/lodestone/playguide/db/quest/abeb33d0875/",
@@ -670,7 +670,7 @@
                     "Level": "50"
                 }
             ],
-            "NPCs": [
+            "RelatedNPC": [
                 {
                     "Name": "Biggs",
                     "Url": "/lodestone/playguide/db/npc/npc/136242c70ec/",
@@ -742,7 +742,7 @@
             "ItemsOpt": []
         },
         "Infos": {
-            "PrevQuests": [
+            "PrerequisiteQuest": [
                 {
                     "Name": "G'raha Tias Bestimmung",
                     "Url": "/lodestone/playguide/db/quest/abeb33d0875/",
@@ -750,7 +750,7 @@
                     "Level": "50"
                 }
             ],
-            "NextQuests": [
+            "FollowupQuest": [
                 {
                     "Name": "Edelstein-Erinnerungen",
                     "Url": "/lodestone/playguide/db/quest/810119f8166/",
@@ -758,7 +758,7 @@
                     "Level": "50"
                 }
             ],
-            "NPCs": [
+            "RelatedNPC": [
                 {
                     "Name": "Koh Rabntah",
                     "Url": "/lodestone/playguide/db/npc/npc/8eb0d83c09b/",

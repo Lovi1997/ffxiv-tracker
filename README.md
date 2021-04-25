@@ -23,6 +23,9 @@ Download the Windows Installer from the published [Releases](https://github.com/
 
 ## Release History
 
+- 0.2.1
+  - Added Consideration of Prerequisite Quests
+
 - 0.2.0
   - Removed XIVAPI and added Data locally (now its complete)
   - Some fixes in Search

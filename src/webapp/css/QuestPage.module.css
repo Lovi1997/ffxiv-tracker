@@ -6,6 +6,13 @@
   overflow-x: hidden;
 }
 
+.settingWrapper {
+  display: block;
+  margin-left: 8%;
+  margin-top: 5%;
+  min-height: 60px;
+}
+
 .doneDisplay {
   font-size: 22px;
   font-weight: bold;
@@ -14,9 +21,7 @@
   min-width: 185px;
   width: 185px;
   overflow: hidden;
-  display: block;
-  margin-left: 8%;
-  margin-top: 5%;
+  display: inline;
   border: solid 1px rgb(0, 146, 0);
   border-radius: 0.25em;
 }
@@ -48,4 +53,77 @@
   font-weight: 500;
   display: inline-grid;
   margin-top: 4%;
+}
+.switch {
+  position: relative;
+  display: inline-block;
+  width: 40px;
+  height: 23px;
+  margin-left: 6%;
+}
+
+.switch input {
+  opacity: 0;
+  width: 0;
+  height: 0;
+}
+
+.slider {
+  position: absolute;
+  cursor: pointer;
+  top: 0;
+  left: 0;
+  right: 0;
+  bottom: 0;
+  background-color: #ccc;
+  -webkit-transition: 0.4s;
+  transition: 0.4s;
+}
+
+.slider:before {
+  position: absolute;
+  content: "";
+  height: 17.5px;
+  width: 17.5px;
+  left: 2.5px;
+  bottom: 2.5px;
+  background-color: white;
+  -webkit-transition: 0.4s;
+  transition: 0.4s;
+}
+
+input:checked + .slider {
+  background-color: #2196f3;
+}
+
+input:focus + .slider {
+  box-shadow: 0 0 1px #2196f3;
+}
+
+input:checked + .slider:before {
+  -webkit-transform: translateX(17.5px);
+  -ms-transform: translateX(17.5px);
+  transform: translateX(17.5px);
+}
+
+/* Rounded sliders */
+.slider {
+  border-radius: 34px;
+}
+
+.slider:before {
+  border-radius: 50%;
+}
+
+.prevToggle {
+  display: inline;
+  font-size: 16px;
+  color: white;
+  background: #1f2227;
+  border: 1px solid gray;
+  padding: 8px 8px;
+  min-width: 150px;
+  overflow-x: hidden;
+  margin-left: 5%;
+  border-radius: 0.5em;
 }

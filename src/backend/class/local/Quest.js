@@ -128,6 +128,7 @@ class Quest {
   formatDetail(oQuest) {}
 
   async save(aQuestsNew) {
+    var iChanged = 0;
     var sPathFile = "";
     var bFullPath = true;
 
@@ -155,8 +156,10 @@ class Quest {
           iID: oQuestNew.iID,
           Done: oQuestNew.Done,
         });
+        iChanged++;
       } else {
         // If yes, update "Done" Flag
+        if (oQuests.quests[iExisting].Done !== oQuestNew.Done) iChanged++;
         oQuests.quests[iExisting].Done = oQuestNew.Done;
       }
     });
@@ -175,12 +178,81 @@ class Quest {
 
     // Free memory and return
     oQuests = null;
-    return bResult;
+    return { Success: bResult, Changed: iChanged };
   }
 
   sleep() {
     // Wait for 0.5 seconds
     return new Promise((resolve) => setTimeout(resolve, 500));
+  }
+
+  calcPrevious(aQuests, aAlreadyAdded) {
+    var aPrevQuests = [];
+    var bNew = false;
+
+    // For Each given Quest
+    var that = this;
+    aQuests.forEach(function (oQuest) {
+      // Check not already performed
+      if (aAlreadyAdded.indexOf(oQuest) === -1) {
+        // Add to new Array
+        aAlreadyAdded.push(oQuest);
+
+        // Search for Quest Data
+        var oQuestDetail = that.searchID(oQuest);
+        if (oQuestDetail !== null) {
+          // Check for previous Quests
+          if (oQuestDetail.Infos.hasOwnProperty("PrerequisiteQuest")) {
+            if (oQuestDetail.Infos.PrerequisiteQuest.length !== 0) {
+              // Get Prerequisites Quests for Each Prerequisite Quest
+              oQuestDetail.Infos.PrerequisiteQuest.forEach((oPrerequisiteQuest) => {
+                // Calc ID
+                var sID = oPrerequisiteQuest.Url.substr(30, oPrerequisiteQuest.Url.length - 30);
+                if (sID.slice(-1) === "/") sID = sID.slice(0, sID.length - 1);
+
+                // Collect Prev Quests
+                aPrevQuests.push(sID);
+                bNew = true;
+              });
+            }
+          }
+        }
+      }
+    });
+
+    // Rekursive call only of new prerequisite Quests have been added
+    if (bNew === true) {
+      this.calcPrevious(aPrevQuests, aAlreadyAdded);
+    }
+    aAlreadyAdded = aAlreadyAdded.filter((item, index) => aAlreadyAdded.indexOf(item) === index);
+  }
+
+  searchID(iID) {
+    var oQuest = null;
+
+    // Get Journal Sections
+    var aJournalSections = require("../../data/JournalSections.json");
+    // For Each JournalSection, search through Categories
+    aJournalSections.forEach((oSection) => {
+      if (oQuest === null) {
+        // Get Categories
+        var aCategories = require(`../../data/JournalCategories/js${oSection.ID}.json`);
+        // For Each Category, search through Quests
+        aCategories.forEach((oCategory) => {
+          if (oQuest === null) {
+            // Get Quests
+            var aQuests = require(`../../data/Quests/${this.Config.language}/S${oSection.ID}C${oCategory.ID}.json`);
+            // For Each Quest, check if ID matches Search
+            var iIndex = aQuests.findIndex((oQuest) => oQuest.ID === iID);
+            // Assign Object if found
+            if (iIndex !== -1) {
+              oQuest = aQuests[iIndex];
+            }
+          }
+        });
+      }
+    });
+    return oQuest;
   }
 }
 

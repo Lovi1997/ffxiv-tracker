@@ -27,7 +27,7 @@
             "ItemsOpt": []
         },
         "Infos": {
-            "PrevQuests": [
+            "PrerequisiteQuest": [
                 {
                     "Name": "Komra Wasn't Built in a Day",
                     "Url": "/lodestone/playguide/db/quest/e40ede1be5f/",
@@ -77,7 +77,7 @@
             "ItemsOpt": []
         },
         "Infos": {
-            "PrevQuests": [
+            "PrerequisiteQuest": [
                 {
                     "Name": "Everything You Know Is Wrong",
                     "Url": "/lodestone/playguide/db/quest/a0328655d65/",
@@ -85,7 +85,7 @@
                     "Level": "80"
                 }
             ],
-            "NextQuests": [
+            "FollowupQuest": [
                 {
                     "Name": "To Make Amends",
                     "Url": "/lodestone/playguide/db/quest/815c32e14aa/",
@@ -93,7 +93,7 @@
                     "Level": "80"
                 }
             ],
-            "NPCs": [
+            "RelatedNPC": [
                 {
                     "Name": "Anogg",
                     "Url": "/lodestone/playguide/db/npc/npc/9ad5908213f/",
@@ -190,7 +190,7 @@
             "ItemsOpt": []
         },
         "Infos": {
-            "PrevQuests": [
+            "RelatedNPC": [
                 {
                     "Name": "Doomsaying Dwarf",
                     "Url": "/lodestone/playguide/db/npc/npc/f2e24122dc3/",
@@ -244,7 +244,7 @@
             "ItemsOpt": []
         },
         "Infos": {
-            "PrevQuests": [
+            "PrerequisiteQuest": [
                 {
                     "Name": "An Academic Dispute",
                     "Url": "/lodestone/playguide/db/quest/8169b41d06c/",
@@ -252,7 +252,7 @@
                     "Level": "80"
                 }
             ],
-            "NextQuests": [
+            "FollowupQuest": [
                 {
                     "Name": "Carnivals and Confrontations",
                     "Url": "/lodestone/playguide/db/quest/f59f3e86cb3/",
@@ -260,7 +260,7 @@
                     "Level": "80"
                 }
             ],
-            "NPCs": [
+            "RelatedNPC": [
                 {
                     "Name": "Anogg",
                     "Url": "/lodestone/playguide/db/npc/npc/0d779657630/",
@@ -357,7 +357,7 @@
             "ItemsOpt": []
         },
         "Infos": {
-            "PrevQuests": [
+            "PrerequisiteQuest": [
                 {
                     "Name": "Brave New World",
                     "Url": "/lodestone/playguide/db/quest/bf682344248/",
@@ -365,7 +365,7 @@
                     "Level": "80"
                 }
             ],
-            "NextQuests": [
+            "FollowupQuest": [
                 {
                     "Name": "Komra Wasn't Built in a Day",
                     "Url": "/lodestone/playguide/db/quest/e40ede1be5f/",
@@ -373,7 +373,7 @@
                     "Level": "80"
                 }
             ],
-            "NPCs": [
+            "RelatedNPC": [
                 {
                     "Name": "Decisive Dwarf",
                     "Url": "/lodestone/playguide/db/npc/npc/3528ce9b9ca/",
@@ -504,7 +504,7 @@
             "ItemsOpt": []
         },
         "Infos": {
-            "PrevQuests": [
+            "PrerequisiteQuest": [
                 {
                     "Name": "Crime and Punishment",
                     "Url": "/lodestone/playguide/db/quest/4bd0d3f34f3/",
@@ -512,7 +512,7 @@
                     "Level": "80"
                 }
             ],
-            "NextQuests": [
+            "FollowupQuest": [
                 {
                     "Name": "Konogg, Alone",
                     "Url": "/lodestone/playguide/db/quest/ca9e90fcc8b/",
@@ -520,7 +520,7 @@
                     "Level": "80"
                 }
             ],
-            "NPCs": [
+            "RelatedNPC": [
                 {
                     "Name": "Konogg",
                     "Url": "/lodestone/playguide/db/npc/npc/af1427a70f1/",
@@ -617,7 +617,7 @@
             "ItemsOpt": []
         },
         "Infos": {
-            "PrevQuests": [
+            "PrerequisiteQuest": [
                 {
                     "Name": "On the Threshold",
                     "Url": "/lodestone/playguide/db/quest/bf797dd3937/",
@@ -625,7 +625,7 @@
                     "Level": "80"
                 }
             ],
-            "NextQuests": [
+            "FollowupQuest": [
                 {
                     "Name": "Tails, You Lose",
                     "Url": "/lodestone/playguide/db/quest/72a6f70a79f/",
@@ -639,7 +639,7 @@
                     "Level": "80"
                 }
             ],
-            "NPCs": [
+            "RelatedNPC": [
                 {
                     "Name": "Konogg",
                     "Url": "/lodestone/playguide/db/npc/npc/c74645dba57/",
@@ -722,7 +722,7 @@
             ]
         },
         "Infos": {
-            "PrevQuests": [
+            "PrerequisiteQuest": [
                 {
                     "Name": "Meet the Tholls",
                     "Url": "/lodestone/playguide/db/quest/990b7143c29/",
@@ -730,7 +730,7 @@
                     "Level": "78"
                 }
             ],
-            "NextQuests": [
+            "FollowupQuest": [
                 {
                     "Name": "A Scandal in Komra",
                     "Url": "/lodestone/playguide/db/quest/b3e20c46e23/",
@@ -738,7 +738,7 @@
                     "Level": "80"
                 }
             ],
-            "NPCs": [
+            "RelatedNPC": [
                 {
                     "Name": "Anogg",
                     "Url": "/lodestone/playguide/db/npc/npc/9586ee2f246/",
@@ -817,7 +817,7 @@
             "ItemsOpt": []
         },
         "Infos": {
-            "PrevQuests": [
+            "PrerequisiteQuest": [
                 {
                     "Name": "An Academic Dispute",
                     "Url": "/lodestone/playguide/db/quest/8169b41d06c/",
@@ -825,7 +825,7 @@
                     "Level": "80"
                 }
             ],
-            "NextQuests": [
+            "FollowupQuest": [
                 {
                     "Name": "Carnivals and Confrontations",
                     "Url": "/lodestone/playguide/db/quest/f59f3e86cb3/",
@@ -833,7 +833,7 @@
                     "Level": "80"
                 }
             ],
-            "NPCs": [
+            "RelatedNPC": [
                 {
                     "Name": "Anogg",
                     "Url": "/lodestone/playguide/db/npc/npc/7f9cc63ddb1/",
@@ -930,7 +930,7 @@
             "ItemsOpt": []
         },
         "Infos": {
-            "PrevQuests": [
+            "PrerequisiteQuest": [
                 {
                     "Name": "We Can Rebuild Her",
                     "Url": "/lodestone/playguide/db/quest/fb4929adbbe/",
@@ -938,7 +938,7 @@
                     "Level": "80"
                 }
             ],
-            "NextQuests": [
+            "FollowupQuest": [
                 {
                     "Name": "Crime and Punishment",
                     "Url": "/lodestone/playguide/db/quest/4bd0d3f34f3/",
@@ -946,7 +946,7 @@
                     "Level": "80"
                 }
             ],
-            "NPCs": [
+            "RelatedNPC": [
                 {
                     "Name": "2B",
                     "Url": "/lodestone/playguide/db/npc/npc/5bc5b7f09d4/",
@@ -1063,7 +1063,7 @@
             "ItemsOpt": []
         },
         "Infos": {
-            "PrevQuests": [
+            "PrerequisiteQuest": [
                 {
                     "Name": "Shadowbringers",
                     "Url": "/lodestone/playguide/db/quest/4ed1668d377/",
@@ -1077,7 +1077,7 @@
                     "Level": "70"
                 }
             ],
-            "NextQuests": [
+            "FollowupQuest": [
                 {
                     "Name": "On the Threshold",
                     "Url": "/lodestone/playguide/db/quest/bf797dd3937/",
@@ -1085,7 +1085,7 @@
                     "Level": "80"
                 }
             ],
-            "NPCs": [
+            "RelatedNPC": [
                 {
                     "Name": "Anogg",
                     "Url": "/lodestone/playguide/db/npc/npc/d889f9088f1/",
@@ -1191,7 +1191,7 @@
             "ItemsOpt": []
         },
         "Infos": {
-            "PrevQuests": [
+            "PrerequisiteQuest": [
                 {
                     "Name": "Konogg, Alone",
                     "Url": "/lodestone/playguide/db/quest/ca9e90fcc8b/",
@@ -1199,7 +1199,7 @@
                     "Level": "80"
                 }
             ],
-            "NextQuests": [
+            "FollowupQuest": [
                 {
                     "Name": "It Takes a Village",
                     "Url": "/lodestone/playguide/db/quest/743d0eaef54/",
@@ -1207,7 +1207,7 @@
                     "Level": "80"
                 }
             ],
-            "NPCs": [
+            "RelatedNPC": [
                 {
                     "Name": "Dig Site Chief",
                     "Url": "/lodestone/playguide/db/npc/npc/dd5c3628d2c/",
@@ -1271,7 +1271,7 @@
             "ItemsOpt": []
         },
         "Infos": {
-            "PrevQuests": [
+            "PrerequisiteQuest": [
                 {
                     "Name": "A Scandal in Komra",
                     "Url": "/lodestone/playguide/db/quest/b3e20c46e23/",
@@ -1279,7 +1279,7 @@
                     "Level": "80"
                 }
             ],
-            "NextQuests": [
+            "FollowupQuest": [
                 {
                     "Name": "An Academic Dispute",
                     "Url": "/lodestone/playguide/db/quest/8169b41d06c/",
@@ -1287,7 +1287,7 @@
                     "Level": "80"
                 }
             ],
-            "NPCs": [
+            "RelatedNPC": [
                 {
                     "Name": "2P",
                     "Url": "/lodestone/playguide/db/npc/npc/f81a9ea1ec4/",
@@ -1392,7 +1392,7 @@
             "ItemsOpt": []
         },
         "Infos": {
-            "PrevQuests": [
+            "PrerequisiteQuest": [
                 {
                     "Name": "To Make Amends",
                     "Url": "/lodestone/playguide/db/quest/815c32e14aa/",
@@ -1400,7 +1400,7 @@
                     "Level": "80"
                 }
             ],
-            "NextQuests": [
+            "FollowupQuest": [
                 {
                     "Name": "Brave New World",
                     "Url": "/lodestone/playguide/db/quest/bf682344248/",
@@ -1408,7 +1408,7 @@
                     "Level": "80"
                 }
             ],
-            "NPCs": [
+            "RelatedNPC": [
                 {
                     "Name": "Dig Site Chief",
                     "Url": "/lodestone/playguide/db/npc/npc/cb0aa1388b1/",
@@ -1490,7 +1490,7 @@
             "ItemsOpt": []
         },
         "Infos": {
-            "PrevQuests": [
+            "PrerequisiteQuest": [
                 {
                     "Name": "It Takes a Village",
                     "Url": "/lodestone/playguide/db/quest/743d0eaef54/",
@@ -1498,7 +1498,7 @@
                     "Level": "80"
                 }
             ],
-            "NextQuests": [
+            "FollowupQuest": [
                 {
                     "Name": "All That Grinds Is Not Gloom",
                     "Url": "/lodestone/playguide/db/quest/19390ac302f/",
@@ -1506,7 +1506,7 @@
                     "Level": "80"
                 }
             ],
-            "NPCs": [
+            "RelatedNPC": [
                 {
                     "Name": "Doomsaying Dwarf",
                     "Url": "/lodestone/playguide/db/npc/npc/f2e24122dc3/",
@@ -1555,7 +1555,7 @@
             "ItemsOpt": []
         },
         "Infos": {
-            "PrevQuests": [
+            "PrerequisiteQuest": [
                 {
                     "Name": "Carnivals and Confrontations",
                     "Url": "/lodestone/playguide/db/quest/f59f3e86cb3/",
@@ -1563,7 +1563,7 @@
                     "Level": "80"
                 }
             ],
-            "NextQuests": [
+            "FollowupQuest": [
                 {
                     "Name": "We Can Rebuild Her",
                     "Url": "/lodestone/playguide/db/quest/fb4929adbbe/",
@@ -1571,7 +1571,7 @@
                     "Level": "80"
                 }
             ],
-            "NPCs": [
+            "RelatedNPC": [
                 {
                     "Name": "Anogg",
                     "Url": "/lodestone/playguide/db/npc/npc/9586ee2f246/",
@@ -1618,7 +1618,7 @@
             "ItemsOpt": []
         },
         "Infos": {
-            "PrevQuests": [
+            "PrerequisiteQuest": [
                 {
                     "Name": "Tails, You Lose",
                     "Url": "/lodestone/playguide/db/quest/72a6f70a79f/",
@@ -1632,7 +1632,7 @@
                     "Level": "80"
                 }
             ],
-            "NextQuests": [
+            "FollowupQuest": [
                 {
                     "Name": "One Way to Do It",
                     "Url": "/lodestone/playguide/db/quest/f4189903bc7/",
@@ -1640,7 +1640,7 @@
                     "Level": "80"
                 }
             ],
-            "NPCs": [
+            "RelatedNPC": [
                 {
                     "Name": "Anogg",
                     "Url": "/lodestone/playguide/db/npc/npc/7f9cc63ddb1/",
@@ -1694,7 +1694,7 @@
             "ItemsOpt": []
         },
         "Infos": {
-            "PrevQuests": [
+            "PrerequisiteQuest": [
                 {
                     "Name": "One Way to Do It",
                     "Url": "/lodestone/playguide/db/quest/f4189903bc7/",
@@ -1702,7 +1702,7 @@
                     "Level": "80"
                 }
             ],
-            "NextQuests": [
+            "FollowupQuest": [
                 {
                     "Name": "Everything You Know Is Wrong",
                     "Url": "/lodestone/playguide/db/quest/a0328655d65/",
@@ -1710,7 +1710,7 @@
                     "Level": "80"
                 }
             ],
-            "NPCs": [
+            "RelatedNPC": [
                 {
                     "Name": "Anogg",
                     "Url": "/lodestone/playguide/db/npc/npc/20c478ca1c9/",

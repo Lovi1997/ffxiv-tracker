@@ -200,9 +200,13 @@ class App extends Component {
     oHandler.setState({ App });
   };
 
-  setTotalDone = function (bDone) {
+  setTotalDone = function (bDone, iChanged) {
     var App = { ...this.state.App };
-    bDone === true ? ++App.NumberDone : --App.NumberDone;
+    if (bDone === true) {
+      App.NumberDone = App.NumberDone + iChanged;
+    } else {
+      --App.NumberDone;
+    }
     this.setState({ App });
   };
 }
