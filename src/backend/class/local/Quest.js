@@ -118,6 +118,7 @@ class Quest {
         JournalCategory: oQuest.JournalGenre,
         Done: bDone,
         Seq: oQuest.Seq,
+        Dep: oQuest.StartDependency,
       });
     });
 

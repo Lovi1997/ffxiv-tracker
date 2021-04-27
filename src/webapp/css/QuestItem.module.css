@@ -36,6 +36,21 @@
   border-bottom: 1px solid #2f3237 !important;
 }
 
+.Gridania {
+  background-color: rgba(0, 102, 117, 0.514) !important;
+  border-bottom: 1px solid #2f3237 !important;
+}
+
+.Limsa {
+  background-color: rgba(255, 64, 64, 0.479) !important;
+  border-bottom: 1px solid #2f3237 !important;
+}
+
+.Uldah {
+  background-color: rgba(199, 125, 55, 0.514) !important;
+  border-bottom: 1px solid #2f3237 !important;
+}
+
 .undoneRow {
   width: 100%;
 }
@@ -64,4 +79,8 @@
 .select:active {
   box-shadow: 0 0px #151520;
   transform: translateY(2px);
+}
+
+.disabled {
+  cursor: default;
 }

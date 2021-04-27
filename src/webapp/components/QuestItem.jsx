@@ -21,10 +21,21 @@ class QuestItem extends Component {
     },
   };
   render() {
+    var sHost = window.lang === "de" ? "https://de.finalfantasyxiv.com/" : "https://na.finalfantasyxiv.com/";
     return (
       <tr className={this.getRowStyle()}>
         <td className={styles.icon}>{this.getIcon()}</td>
-        <td className={styles.name}>{this.props.Quest.Name}</td>
+        <td className={styles.name}>
+          <span
+            href={`${sHost}/lodestone/playguide/db/quest/${this.props.Quest.iID}/`}
+            onClick={() => {
+              return;
+            }}
+            class="eorzeadb_link"
+          >
+            {this.props.Quest.Name}
+          </span>
+        </td>
         <td className={styles.jobs}>{this.props.Quest.Jobs}</td>
         <td className={styles.level}>{this.props.Quest.Level}</td>
         <td className={styles.category}>{this.props.Quest.JournalCategory}</td>
@@ -42,7 +53,21 @@ class QuestItem extends Component {
     if (this.props.Quest.Done === true) {
       return styles.doneRow;
     } else {
-      return styles.undoneRow;
+      if (this.props.Quest.Dep === false) {
+        return styles.undoneRow;
+      } else {
+        switch (this.props.Quest.Dep) {
+          case 0:
+            return styles.Gridania;
+            break;
+          case 1:
+            return styles.Limsa;
+            break;
+          default:
+            return styles.Uldah;
+            break;
+        }
+      }
     }
   };
 
