@@ -23,6 +23,10 @@ Download the Windows Installer from the published [Releases](https://github.com/
 
 ## Release History
 
+- 0.2.2
+  - Added Lodestone Popup
+  - Marked Quests dependent on Start Town
+
 - 0.2.1
   - Added Consideration of Prerequisite Quests
 
