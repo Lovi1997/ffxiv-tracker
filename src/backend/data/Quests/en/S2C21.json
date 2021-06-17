@@ -52,7 +52,7 @@
         "JournalCategory": 21,
         "JournalGenre": "YoRHa: Dark Apocalypse",
         "Url": "/lodestone/playguide/db/quest/4bd0d3f34f3/",
-        "Image": "https://img.finalfantasyxiv.com/lds/pc/global/images/itemicon/27/27c43b136598849945edcd582e80736daa7b23d9.png?n5.5",
+        "Image": "https://img.finalfantasyxiv.com/lds/pc/global/images/itemicon/27/27c43b136598849945edcd582e80736daa7b23d9.png?n5.55",
         "Icon": "function_normal",
         "Issuer": "Konogg",
         "StartLocation": {
@@ -69,7 +69,7 @@
             "Exp": 0,
             "ItemsMand": [
                 {
-                    "Icon": "https://img.finalfantasyxiv.com/lds/pc/global/images/itemicon/7e/7eaa53e1fe9e2bd80f81d9ce69c98c24f6223b0b.png?n5.5",
+                    "Icon": "https://img.finalfantasyxiv.com/lds/pc/global/images/itemicon/7e/7eaa53e1fe9e2bd80f81d9ce69c98c24f6223b0b.png?n5.55",
                     "Name": "Broken Heart Orchestrion Roll",
                     "Amount": 1,
                     "Url": "/lodestone/playguide/db/item/f05eedca46b/"
@@ -165,6 +165,64 @@
         "StartDependency": false
     },
     {
+        "ID": "4bec7dc578b",
+        "Name": "Whence the Heart Leads",
+        "Location": "Kholusia",
+        "Level": 80,
+        "JournalSection": 2,
+        "JournalCategory": 21,
+        "JournalGenre": "YoRHa: Dark Apocalypse",
+        "Url": "/lodestone/playguide/db/quest/4bec7dc578b/",
+        "Image": "https://img.finalfantasyxiv.com/lds/pc/global/images/itemicon/1e/1e2be56780c24d558da4a60eb69fe242eb8d9c22.png?n5.55",
+        "Icon": "function_normal",
+        "Issuer": "Dig Site Chief",
+        "StartLocation": {
+            "Name": "Kholusia",
+            "X": "34.7",
+            "Y": "18.2"
+        },
+        "StartClass": null,
+        "Job": "Any Disciple of War or Magic (excluding limited jobs)",
+        "Company": "Not specified",
+        "Requirement": "Not specified",
+        "Rewards": {
+            "Gil": 1015,
+            "Exp": 0,
+            "ItemsMand": [
+                {
+                    "Icon": "https://img.finalfantasyxiv.com/lds/pc/global/images/itemicon/7e/7eaa53e1fe9e2bd80f81d9ce69c98c24f6223b0b.png?n5.55",
+                    "Name": "Weight of the World (Instrumental) Orchestrion Roll",
+                    "Amount": 1,
+                    "Url": "/lodestone/playguide/db/item/0cbf28b7a00/"
+                }
+            ],
+            "ItemsOpt": []
+        },
+        "Infos": {
+            "RelatedNPC": [
+                {
+                    "Name": "Bourgeois Merchant",
+                    "Url": "/lodestone/playguide/db/npc/npc/297a9414335/",
+                    "Area": "Eulmore (X:11.4 Y:10.1)"
+                }
+            ],
+            "RelatedAchievements": [
+                {
+                    "Name": "Inner Truth",
+                    "Url": "/lodestone/playguide/db/achievement/c741bfc6176/",
+                    "Reward": "Title",
+                    "Points": "10"
+                }
+            ]
+        },
+        "Seq": 19,
+        "oldID": 69589,
+        "Map": {
+            "ID": 492
+        },
+        "StartDependency": false
+    },
+    {
         "ID": "5d1432411a8",
         "Name": "How to Catch an Automaton",
         "Location": "Kholusia",
@@ -221,7 +279,7 @@
         "JournalCategory": 21,
         "JournalGenre": "YoRHa: Dark Apocalypse",
         "Url": "/lodestone/playguide/db/quest/72a6f70a79f/",
-        "Image": "https://img.finalfantasyxiv.com/lds/pc/global/images/itemicon/29/294dee4fbc1661a287a1407082e17b7e06715dcf.png?n5.5",
+        "Image": "https://img.finalfantasyxiv.com/lds/pc/global/images/itemicon/29/294dee4fbc1661a287a1407082e17b7e06715dcf.png?n5.55",
         "Icon": "function_normal",
         "Issuer": "Anogg",
         "StartLocation": {
@@ -238,7 +296,7 @@
             "Exp": 0,
             "ItemsMand": [
                 {
-                    "Icon": "https://img.finalfantasyxiv.com/lds/pc/global/images/itemicon/7e/7eaa53e1fe9e2bd80f81d9ce69c98c24f6223b0b.png?n5.5",
+                    "Icon": "https://img.finalfantasyxiv.com/lds/pc/global/images/itemicon/7e/7eaa53e1fe9e2bd80f81d9ce69c98c24f6223b0b.png?n5.55",
                     "Name": "Voice of no Return (Guitar) Orchestrion Roll",
                     "Amount": 1,
                     "Url": "/lodestone/playguide/db/item/01f68664010/"
@@ -342,7 +400,7 @@
         "JournalCategory": 21,
         "JournalGenre": "YoRHa: Dark Apocalypse",
         "Url": "/lodestone/playguide/db/quest/743d0eaef54/",
-        "Image": "https://img.finalfantasyxiv.com/lds/pc/global/images/itemicon/a0/a091cd3aa537428a486acc2787a274c6a1cdc315.png?n5.5",
+        "Image": "https://img.finalfantasyxiv.com/lds/pc/global/images/itemicon/a0/a091cd3aa537428a486acc2787a274c6a1cdc315.png?n5.55",
         "Icon": "function_normal",
         "Issuer": "Dig Site Chief",
         "StartLocation": {
@@ -443,7 +501,7 @@
         "Seq": 14,
         "oldID": 69572,
         "Map": {
-            "ID": null
+            "ID": 492
         },
         "StartDependency": false
     },
@@ -491,7 +549,7 @@
         "JournalCategory": 21,
         "JournalGenre": "YoRHa: Dark Apocalypse",
         "Url": "/lodestone/playguide/db/quest/815c32e14aa/",
-        "Image": "https://img.finalfantasyxiv.com/lds/pc/global/images/itemicon/93/936061a9d6ea1da64ab91980fd7324425facb2d4.png?n5.5",
+        "Image": "https://img.finalfantasyxiv.com/lds/pc/global/images/itemicon/93/936061a9d6ea1da64ab91980fd7324425facb2d4.png?n5.55",
         "Icon": "function_normal",
         "Issuer": "Konogg",
         "StartLocation": {
@@ -698,31 +756,31 @@
             "ItemsMand": [],
             "ItemsOpt": [
                 {
-                    "Icon": "https://img.finalfantasyxiv.com/lds/pc/global/images/itemicon/71/71860f9db7c2800909350796c376b286964a25c9.png?n5.5",
+                    "Icon": "https://img.finalfantasyxiv.com/lds/pc/global/images/itemicon/71/71860f9db7c2800909350796c376b286964a25c9.png?n5.55",
                     "Name": "Paella",
                     "Amount": 2,
                     "Url": "/lodestone/playguide/db/item/af1118e0f5f/"
                 },
                 {
-                    "Icon": "https://img.finalfantasyxiv.com/lds/pc/global/images/itemicon/9b/9bcbc49a589a34378dcea2d9d2a4e6e8f28564f4.png?n5.5",
+                    "Icon": "https://img.finalfantasyxiv.com/lds/pc/global/images/itemicon/9b/9bcbc49a589a34378dcea2d9d2a4e6e8f28564f4.png?n5.55",
                     "Name": "Ovim Cordon Bleu",
                     "Amount": 2,
                     "Url": "/lodestone/playguide/db/item/7e79001bf0c/"
                 },
                 {
-                    "Icon": "https://img.finalfantasyxiv.com/lds/pc/global/images/itemicon/1a/1a667017e3e2bb679c546fdc0a40273b4b0d4281.png?n5.5",
+                    "Icon": "https://img.finalfantasyxiv.com/lds/pc/global/images/itemicon/1a/1a667017e3e2bb679c546fdc0a40273b4b0d4281.png?n5.55",
                     "Name": "Lemonade",
                     "Amount": 2,
                     "Url": "/lodestone/playguide/db/item/8055bb19c73/"
                 },
                 {
-                    "Icon": "https://img.finalfantasyxiv.com/lds/pc/global/images/itemicon/66/66eb4cd1ad7c73e0c008f0b39e2fc79fe0fe415b.png?n5.5",
+                    "Icon": "https://img.finalfantasyxiv.com/lds/pc/global/images/itemicon/66/66eb4cd1ad7c73e0c008f0b39e2fc79fe0fe415b.png?n5.55",
                     "Name": "Jellied Harcot",
                     "Amount": 2,
                     "Url": "/lodestone/playguide/db/item/404134085d3/"
                 },
                 {
-                    "Icon": "https://img.finalfantasyxiv.com/lds/pc/global/images/itemicon/ba/baa2341dd17414fae7fd62ae7bc62c64589b67be.png?n5.5",
+                    "Icon": "https://img.finalfantasyxiv.com/lds/pc/global/images/itemicon/ba/baa2341dd17414fae7fd62ae7bc62c64589b67be.png?n5.55",
                     "Name": "Nightworld Silver Piece",
                     "Amount": 3,
                     "Url": "/lodestone/playguide/db/item/50ed823230e/"
@@ -784,7 +842,7 @@
                 }
             ]
         },
-        "Seq": 8,
+        "Seq": 9,
         "oldID": 69207,
         "Map": {
             "ID": 492
@@ -800,7 +858,7 @@
         "JournalCategory": 21,
         "JournalGenre": "YoRHa: Dark Apocalypse",
         "Url": "/lodestone/playguide/db/quest/989bdf3c51c/",
-        "Image": "https://img.finalfantasyxiv.com/lds/pc/global/images/itemicon/23/2365fb97ac00ced395bf43313d4b3adac4db7cb5.png?n5.5",
+        "Image": "https://img.finalfantasyxiv.com/lds/pc/global/images/itemicon/23/2365fb97ac00ced395bf43313d4b3adac4db7cb5.png?n5.55",
         "Icon": "function_normal",
         "Issuer": "Konogg",
         "StartLocation": {
@@ -817,7 +875,7 @@
             "Exp": 0,
             "ItemsMand": [
                 {
-                    "Icon": "https://img.finalfantasyxiv.com/lds/pc/global/images/itemicon/7e/7eaa53e1fe9e2bd80f81d9ce69c98c24f6223b0b.png?n5.5",
+                    "Icon": "https://img.finalfantasyxiv.com/lds/pc/global/images/itemicon/7e/7eaa53e1fe9e2bd80f81d9ce69c98c24f6223b0b.png?n5.55",
                     "Name": "Voice of no Return (Guitar) Orchestrion Roll",
                     "Amount": 1,
                     "Url": "/lodestone/playguide/db/item/01f68664010/"
@@ -921,7 +979,7 @@
         "JournalCategory": 21,
         "JournalGenre": "YoRHa: Dark Apocalypse",
         "Url": "/lodestone/playguide/db/quest/a0328655d65/",
-        "Image": "https://img.finalfantasyxiv.com/lds/pc/global/images/itemicon/ea/eaeb10c52f3f8ae6a9a6ecd45a2014cd09752a10.png?n5.5",
+        "Image": "https://img.finalfantasyxiv.com/lds/pc/global/images/itemicon/ea/eaeb10c52f3f8ae6a9a6ecd45a2014cd09752a10.png?n5.55",
         "Icon": "function_normal",
         "Issuer": "Anogg",
         "StartLocation": {
@@ -1055,7 +1113,7 @@
         "JournalCategory": 21,
         "JournalGenre": "YoRHa: Dark Apocalypse",
         "Url": "/lodestone/playguide/db/quest/b3e20c46e23/",
-        "Image": "https://img.finalfantasyxiv.com/lds/pc/global/images/itemicon/12/1208b57460245db2c16395d63750a141fc9d47e7.png?n5.5",
+        "Image": "https://img.finalfantasyxiv.com/lds/pc/global/images/itemicon/12/1208b57460245db2c16395d63750a141fc9d47e7.png?n5.55",
         "Icon": "function_normal",
         "Issuer": "Gossipy Dwarf",
         "StartLocation": {
@@ -1165,7 +1223,7 @@
         "JournalCategory": 21,
         "JournalGenre": "YoRHa: Dark Apocalypse",
         "Url": "/lodestone/playguide/db/quest/bf682344248/",
-        "Image": "https://img.finalfantasyxiv.com/lds/pc/global/images/itemicon/8a/8aa72f52d8672bef7407325749c19e5ac9915c6a.png?n5.5",
+        "Image": "https://img.finalfantasyxiv.com/lds/pc/global/images/itemicon/8a/8aa72f52d8672bef7407325749c19e5ac9915c6a.png?n5.55",
         "Icon": "function_normal",
         "Issuer": "Dig Site Chief",
         "StartLocation": {
@@ -1182,19 +1240,19 @@
             "Exp": 0,
             "ItemsMand": [
                 {
-                    "Icon": "https://img.finalfantasyxiv.com/lds/pc/global/images/itemicon/7e/7eaa53e1fe9e2bd80f81d9ce69c98c24f6223b0b.png?n5.5",
+                    "Icon": "https://img.finalfantasyxiv.com/lds/pc/global/images/itemicon/7e/7eaa53e1fe9e2bd80f81d9ce69c98c24f6223b0b.png?n5.55",
                     "Name": "Widespread Illness Orchestrion Roll",
                     "Amount": 1,
                     "Url": "/lodestone/playguide/db/item/6cd5367cb05/"
                 },
                 {
-                    "Icon": "https://img.finalfantasyxiv.com/lds/pc/global/images/itemicon/7e/7eaa53e1fe9e2bd80f81d9ce69c98c24f6223b0b.png?n5.5",
+                    "Icon": "https://img.finalfantasyxiv.com/lds/pc/global/images/itemicon/7e/7eaa53e1fe9e2bd80f81d9ce69c98c24f6223b0b.png?n5.55",
                     "Name": "Possessed by Disease Orchestrion Roll",
                     "Amount": 1,
                     "Url": "/lodestone/playguide/db/item/92e0d4f11ad/"
                 },
                 {
-                    "Icon": "https://img.finalfantasyxiv.com/lds/pc/global/images/itemicon/7e/7eaa53e1fe9e2bd80f81d9ce69c98c24f6223b0b.png?n5.5",
+                    "Icon": "https://img.finalfantasyxiv.com/lds/pc/global/images/itemicon/7e/7eaa53e1fe9e2bd80f81d9ce69c98c24f6223b0b.png?n5.55",
                     "Name": "Faltering Prayer (Dawn Breeze) Orchestrion Roll",
                     "Amount": 1,
                     "Url": "/lodestone/playguide/db/item/820f318199a/"
@@ -1245,7 +1303,7 @@
         "Seq": 13,
         "oldID": 69571,
         "Map": {
-            "ID": null
+            "ID": 623
         },
         "StartDependency": false
     },
@@ -1258,7 +1316,7 @@
         "JournalCategory": 21,
         "JournalGenre": "YoRHa: Dark Apocalypse",
         "Url": "/lodestone/playguide/db/quest/bf797dd3937/",
-        "Image": "https://img.finalfantasyxiv.com/lds/pc/global/images/itemicon/c6/c6d71d588a3161dff96c14a17c4d431b61230723.png?n5.5",
+        "Image": "https://img.finalfantasyxiv.com/lds/pc/global/images/itemicon/c6/c6d71d588a3161dff96c14a17c4d431b61230723.png?n5.55",
         "Icon": "function_normal",
         "Issuer": "Dig Site Chief",
         "StartLocation": {
@@ -1275,7 +1333,7 @@
             "Exp": 0,
             "ItemsMand": [
                 {
-                    "Icon": "https://img.finalfantasyxiv.com/lds/pc/global/images/itemicon/7e/7eaa53e1fe9e2bd80f81d9ce69c98c24f6223b0b.png?n5.5",
+                    "Icon": "https://img.finalfantasyxiv.com/lds/pc/global/images/itemicon/7e/7eaa53e1fe9e2bd80f81d9ce69c98c24f6223b0b.png?n5.55",
                     "Name": "Significance (Nothing) Orchestrion Roll",
                     "Amount": 1,
                     "Url": "/lodestone/playguide/db/item/325bc75ff51/"
@@ -1374,7 +1432,7 @@
         "JournalCategory": 21,
         "JournalGenre": "YoRHa: Dark Apocalypse",
         "Url": "/lodestone/playguide/db/quest/ca9e90fcc8b/",
-        "Image": "https://img.finalfantasyxiv.com/lds/pc/global/images/itemicon/51/5113b800f22a3007ec295f9f7e65f3ae5e8e96e2.png?n5.5",
+        "Image": "https://img.finalfantasyxiv.com/lds/pc/global/images/itemicon/51/5113b800f22a3007ec295f9f7e65f3ae5e8e96e2.png?n5.55",
         "Icon": "function_normal",
         "Issuer": "Dig Site Chief",
         "StartLocation": {
@@ -1391,13 +1449,13 @@
             "Exp": 0,
             "ItemsMand": [
                 {
-                    "Icon": "https://img.finalfantasyxiv.com/lds/pc/global/images/itemicon/7e/7eaa53e1fe9e2bd80f81d9ce69c98c24f6223b0b.png?n5.5",
+                    "Icon": "https://img.finalfantasyxiv.com/lds/pc/global/images/itemicon/7e/7eaa53e1fe9e2bd80f81d9ce69c98c24f6223b0b.png?n5.55",
                     "Name": "Voice of no Return (Normal) Orchestrion Roll",
                     "Amount": 1,
                     "Url": "/lodestone/playguide/db/item/9671682f88b/"
                 },
                 {
-                    "Icon": "https://img.finalfantasyxiv.com/lds/pc/global/images/itemicon/7e/7eaa53e1fe9e2bd80f81d9ce69c98c24f6223b0b.png?n5.5",
+                    "Icon": "https://img.finalfantasyxiv.com/lds/pc/global/images/itemicon/7e/7eaa53e1fe9e2bd80f81d9ce69c98c24f6223b0b.png?n5.55",
                     "Name": "The Color of Depression Orchestrion Roll",
                     "Amount": 1,
                     "Url": "/lodestone/playguide/db/item/4b2e68c73b6/"
@@ -1473,7 +1531,7 @@
         "Seq": 12,
         "oldID": 69570,
         "Map": {
-            "ID": null
+            "ID": 492
         },
         "StartDependency": false
     },
@@ -1545,7 +1603,7 @@
         "JournalCategory": 21,
         "JournalGenre": "YoRHa: Dark Apocalypse",
         "Url": "/lodestone/playguide/db/quest/f4189903bc7/",
-        "Image": "https://img.finalfantasyxiv.com/lds/pc/global/images/itemicon/0f/0f7c6edc2a479e17a76dd7218743b956a4b7efa1.png?n5.5",
+        "Image": "https://img.finalfantasyxiv.com/lds/pc/global/images/itemicon/0f/0f7c6edc2a479e17a76dd7218743b956a4b7efa1.png?n5.55",
         "Icon": "function_normal",
         "Issuer": "Anogg",
         "StartLocation": {
@@ -1562,7 +1620,7 @@
             "Exp": 0,
             "ItemsMand": [
                 {
-                    "Icon": "https://img.finalfantasyxiv.com/lds/pc/global/images/itemicon/7e/7eaa53e1fe9e2bd80f81d9ce69c98c24f6223b0b.png?n5.5",
+                    "Icon": "https://img.finalfantasyxiv.com/lds/pc/global/images/itemicon/7e/7eaa53e1fe9e2bd80f81d9ce69c98c24f6223b0b.png?n5.55",
                     "Name": "Crumbling Lies (Front) Orchestrion Roll",
                     "Amount": 1,
                     "Url": "/lodestone/playguide/db/item/6f23dbbff08/"
@@ -1616,7 +1674,7 @@
         "JournalCategory": 21,
         "JournalGenre": "YoRHa: Dark Apocalypse",
         "Url": "/lodestone/playguide/db/quest/f59f3e86cb3/",
-        "Image": "https://img.finalfantasyxiv.com/lds/pc/global/images/itemicon/d4/d45a96ec633e60f44fd4fa5674635194a056a459.png?n5.5",
+        "Image": "https://img.finalfantasyxiv.com/lds/pc/global/images/itemicon/d4/d45a96ec633e60f44fd4fa5674635194a056a459.png?n5.55",
         "Icon": "function_normal",
         "Issuer": "Dig Site Chief",
         "StartLocation": {
@@ -1686,7 +1744,7 @@
         "JournalCategory": 21,
         "JournalGenre": "YoRHa: Dark Apocalypse",
         "Url": "/lodestone/playguide/db/quest/fb4929adbbe/",
-        "Image": "https://img.finalfantasyxiv.com/lds/pc/global/images/itemicon/16/160099c2d6e14f25fff173f097e1d9d064f3f9bb.png?n5.5",
+        "Image": "https://img.finalfantasyxiv.com/lds/pc/global/images/itemicon/16/160099c2d6e14f25fff173f097e1d9d064f3f9bb.png?n5.55",
         "Icon": "function_normal",
         "Issuer": "Dig Site Chief",
         "StartLocation": {
@@ -1703,7 +1761,7 @@
             "Exp": 0,
             "ItemsMand": [
                 {
-                    "Icon": "https://img.finalfantasyxiv.com/lds/pc/global/images/itemicon/7e/7eaa53e1fe9e2bd80f81d9ce69c98c24f6223b0b.png?n5.5",
+                    "Icon": "https://img.finalfantasyxiv.com/lds/pc/global/images/itemicon/7e/7eaa53e1fe9e2bd80f81d9ce69c98c24f6223b0b.png?n5.55",
                     "Name": "Amusement Park Orchestrion Roll",
                     "Amount": 1,
                     "Url": "/lodestone/playguide/db/item/b253dff2ee9/"
