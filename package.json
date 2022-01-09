@@ -62,7 +62,7 @@
     "appId": "ffxiv.tracker",
     "publish": {
       "provider": "github",
-      "token": "23ebe2d43e8f2cb6972f5c241232affc23f2b9f6"
+      "token": ""
     },
     "files": [
       "src/**/*",
@@ -86,7 +86,7 @@
     },
     "win": {
       "certificateFile": "cert.pfx",
-      "certificatePassword": "FFXIV-Tracker2021ByLovi1997++!",
+      "certificatePassword": "",
       "verifyUpdateCodeSignature": false
     }
   }
