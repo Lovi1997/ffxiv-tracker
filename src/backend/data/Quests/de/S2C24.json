@@ -1,0 +1,512 @@
+[
+    {
+        "ID": "25cb51b44d8",
+        "Name": "Ketten, Käfig und Kanäle",
+        "Location": "Pforten des Pandæmoniums",
+        "Level": 90,
+        "JournalSection": 2,
+        "JournalCategory": 24,
+        "JournalGenre": "Pandæmonium",
+        "Url": "/lodestone/playguide/db/quest/25cb51b44d8/",
+        "Image": "https://img.finalfantasyxiv.com/lds/pc/global/images/itemicon/20/201b8a49323380744366f32ed7d4b0075474cb88.png?n6.05",
+        "Icon": "function_normal",
+        "Issuer": "Erichthonios",
+        "StartLocation": {
+            "Name": "Pforten des Pandæmoniums",
+            "X": "21.4",
+            "Y": "18.1"
+        },
+        "StartClass": null,
+        "Job": "Krieger oder Magier (außer beschränkte Jobs)",
+        "Company": "Keine Angabe",
+        "Requirement": "Keine Angabe",
+        "Rewards": {
+            "Gil": 3000,
+            "Exp": 0,
+            "ItemsMand": [
+                {
+                    "Icon": "https://img.finalfantasyxiv.com/lds/pc/global/images/itemicon/8f/8f57251240280c4dd8b41f0b143d5a4de1a29215.png?n6.05",
+                    "Name": "Fechtkunst-Materia IX",
+                    "Amount": 5,
+                    "Url": "/lodestone/playguide/db/item/dfec39007e3/"
+                }
+            ],
+            "ItemsOpt": [
+                {
+                    "Icon": "https://img.finalfantasyxiv.com/lds/pc/global/images/itemicon/42/42b918da5506c319185d6977ea8c5774d4665174.png?n6.05",
+                    "Name": "Hellseher-Materia IX",
+                    "Amount": 3,
+                    "Url": "/lodestone/playguide/db/item/6c33b180bfb/"
+                },
+                {
+                    "Icon": "https://img.finalfantasyxiv.com/lds/pc/global/images/itemicon/42/42b918da5506c319185d6977ea8c5774d4665174.png?n6.05",
+                    "Name": "Strategen-Materia IX",
+                    "Amount": 3,
+                    "Url": "/lodestone/playguide/db/item/fb86de99514/"
+                },
+                {
+                    "Icon": "https://img.finalfantasyxiv.com/lds/pc/global/images/itemicon/42/42b918da5506c319185d6977ea8c5774d4665174.png?n6.05",
+                    "Name": "Assassinen-Materia IX",
+                    "Amount": 3,
+                    "Url": "/lodestone/playguide/db/item/86ae2ca0af4/"
+                }
+            ]
+        },
+        "Infos": {
+            "PrerequisiteQuest": [
+                {
+                    "Name": "Die Tiefen der Tausend Teufel",
+                    "Url": "/lodestone/playguide/db/quest/691464a5e7c/",
+                    "Area": "Elpis",
+                    "Level": "90"
+                }
+            ],
+            "FollowupQuest": [
+                {
+                    "Name": "Die Feuer von Asphodelos",
+                    "Url": "/lodestone/playguide/db/quest/b689c497ee0/",
+                    "Area": "Pforten des Pandæmoniums",
+                    "Level": "90"
+                }
+            ],
+            "RelatedNPC": [
+                {
+                    "Name": "Erichthonios",
+                    "Url": "/lodestone/playguide/db/npc/npc/6043c76da26/",
+                    "Area": "Pforten des Pandæmoniums (X:21.4 Y:18.1)"
+                },
+                {
+                    "Name": "Themis",
+                    "Url": "/lodestone/playguide/db/npc/npc/047f3dc65d0/",
+                    "Area": "Pforten des Pandæmoniums (X:21.5 Y:18.1)"
+                },
+                {
+                    "Name": "Themis",
+                    "Url": "/lodestone/playguide/db/npc/npc/1ad13a56f60/",
+                    "Area": "Pforten des Pandæmoniums (X:21.4 Y:18.1)"
+                }
+            ]
+        },
+        "Seq": 2,
+        "StartDependency": false
+    },
+    {
+        "ID": "691464a5e7c",
+        "Name": "Die Tiefen der Tausend Teufel",
+        "Location": "Elpis",
+        "Level": 90,
+        "JournalSection": 2,
+        "JournalCategory": 24,
+        "JournalGenre": "Pandæmonium",
+        "Url": "/lodestone/playguide/db/quest/691464a5e7c/",
+        "Image": "https://img.finalfantasyxiv.com/lds/pc/global/images/itemicon/d6/d61e2377329c43273343b06d899057c541de11ba.png?n6.05",
+        "Icon": "function_normal",
+        "Issuer": "Themis",
+        "StartLocation": {
+            "Name": "Elpis",
+            "X": "32.3",
+            "Y": "22.4"
+        },
+        "StartClass": null,
+        "Job": "Krieger oder Magier (außer beschränkte Jobs)",
+        "Company": "Keine Angabe",
+        "Requirement": "Keine Angabe",
+        "Rewards": {
+            "Gil": 3000,
+            "Exp": 0,
+            "ItemsMand": [
+                {
+                    "Icon": "https://img.finalfantasyxiv.com/lds/pc/global/images/itemicon/97/97bba01b89bead76a7f16072d2979f06a1b4d805.png?n6.05",
+                    "Name": "Zauber-Materia IX",
+                    "Amount": 5,
+                    "Url": "/lodestone/playguide/db/item/7b373e9fe7c/"
+                }
+            ],
+            "ItemsOpt": [
+                {
+                    "Icon": "https://img.finalfantasyxiv.com/lds/pc/global/images/itemicon/42/42b918da5506c319185d6977ea8c5774d4665174.png?n6.05",
+                    "Name": "Hellseher-Materia IX",
+                    "Amount": 3,
+                    "Url": "/lodestone/playguide/db/item/6c33b180bfb/"
+                },
+                {
+                    "Icon": "https://img.finalfantasyxiv.com/lds/pc/global/images/itemicon/42/42b918da5506c319185d6977ea8c5774d4665174.png?n6.05",
+                    "Name": "Strategen-Materia IX",
+                    "Amount": 3,
+                    "Url": "/lodestone/playguide/db/item/fb86de99514/"
+                },
+                {
+                    "Icon": "https://img.finalfantasyxiv.com/lds/pc/global/images/itemicon/42/42b918da5506c319185d6977ea8c5774d4665174.png?n6.05",
+                    "Name": "Assassinen-Materia IX",
+                    "Amount": 3,
+                    "Url": "/lodestone/playguide/db/item/86ae2ca0af4/"
+                }
+            ]
+        },
+        "Infos": {
+            "PrerequisiteQuest": [
+                {
+                    "Name": "Hinab ins Pandæmonium",
+                    "Url": "/lodestone/playguide/db/quest/d5bc45b5af2/",
+                    "Area": "Alt-Sharlayan",
+                    "Level": "90"
+                }
+            ],
+            "FollowupQuest": [
+                {
+                    "Name": "Ketten, Käfig und Kanäle",
+                    "Url": "/lodestone/playguide/db/quest/25cb51b44d8/",
+                    "Area": "Pforten des Pandæmoniums",
+                    "Level": "90"
+                }
+            ],
+            "RelatedNPC": [
+                {
+                    "Name": "Angestellter von Lahabreas Worten",
+                    "Url": "/lodestone/playguide/db/npc/npc/07ad03c4967/",
+                    "Area": "Elpis (X:26.0 Y:26.2)"
+                },
+                {
+                    "Name": "Themis",
+                    "Url": "/lodestone/playguide/db/npc/npc/78574c94369/",
+                    "Area": "Elpis (X:37.6 Y:16.6)"
+                },
+                {
+                    "Name": "Themis",
+                    "Url": "/lodestone/playguide/db/npc/npc/1c7114aea00/",
+                    "Area": "Elpis (X:26.0 Y:26.2)"
+                },
+                {
+                    "Name": "Themis",
+                    "Url": "/lodestone/playguide/db/npc/npc/de298556748/",
+                    "Area": "Pforten des Pandæmoniums (X:21.5 Y:22.1)"
+                },
+                {
+                    "Name": "Themis",
+                    "Url": "/lodestone/playguide/db/npc/npc/7516cc07e47/",
+                    "Area": "Pforten des Pandæmoniums (X:21.5 Y:21.5)"
+                }
+            ]
+        },
+        "Seq": 1,
+        "StartDependency": false
+    },
+    {
+        "ID": "b689c497ee0",
+        "Name": "Die Feuer von Asphodelos",
+        "Location": "Pforten des Pandæmoniums",
+        "Level": 90,
+        "JournalSection": 2,
+        "JournalCategory": 24,
+        "JournalGenre": "Pandæmonium",
+        "Url": "/lodestone/playguide/db/quest/b689c497ee0/",
+        "Image": "https://img.finalfantasyxiv.com/lds/pc/global/images/itemicon/51/51cd545b315cc7513a884806b16d26755216050d.png?n6.05",
+        "Icon": "function_normal",
+        "Issuer": "Themis",
+        "StartLocation": {
+            "Name": "Pforten des Pandæmoniums",
+            "X": "21.4",
+            "Y": "18.1"
+        },
+        "StartClass": null,
+        "Job": "Krieger oder Magier (außer beschränkte Jobs)",
+        "Company": "Keine Angabe",
+        "Requirement": "Keine Angabe",
+        "Rewards": {
+            "Gil": 3000,
+            "Exp": 0,
+            "ItemsMand": [
+                {
+                    "Icon": "https://img.finalfantasyxiv.com/lds/pc/global/images/itemicon/8f/8f57251240280c4dd8b41f0b143d5a4de1a29215.png?n6.05",
+                    "Name": "Frömmigkeits-Materia IX",
+                    "Amount": 5,
+                    "Url": "/lodestone/playguide/db/item/b5e80dc8ce6/"
+                }
+            ],
+            "ItemsOpt": [
+                {
+                    "Icon": "https://img.finalfantasyxiv.com/lds/pc/global/images/itemicon/42/42b918da5506c319185d6977ea8c5774d4665174.png?n6.05",
+                    "Name": "Hellseher-Materia IX",
+                    "Amount": 3,
+                    "Url": "/lodestone/playguide/db/item/6c33b180bfb/"
+                },
+                {
+                    "Icon": "https://img.finalfantasyxiv.com/lds/pc/global/images/itemicon/42/42b918da5506c319185d6977ea8c5774d4665174.png?n6.05",
+                    "Name": "Strategen-Materia IX",
+                    "Amount": 3,
+                    "Url": "/lodestone/playguide/db/item/fb86de99514/"
+                },
+                {
+                    "Icon": "https://img.finalfantasyxiv.com/lds/pc/global/images/itemicon/42/42b918da5506c319185d6977ea8c5774d4665174.png?n6.05",
+                    "Name": "Assassinen-Materia IX",
+                    "Amount": 3,
+                    "Url": "/lodestone/playguide/db/item/86ae2ca0af4/"
+                }
+            ]
+        },
+        "Infos": {
+            "PrerequisiteQuest": [
+                {
+                    "Name": "Ketten, Käfig und Kanäle",
+                    "Url": "/lodestone/playguide/db/quest/25cb51b44d8/",
+                    "Area": "Pforten des Pandæmoniums",
+                    "Level": "90"
+                }
+            ],
+            "FollowupQuest": [
+                {
+                    "Name": "Im Herzen des Hohen Wächters",
+                    "Url": "/lodestone/playguide/db/quest/cf706f28742/",
+                    "Area": "Pforten des Pandæmoniums",
+                    "Level": "90"
+                }
+            ],
+            "RelatedNPC": [
+                {
+                    "Name": "Erichthonios",
+                    "Url": "/lodestone/playguide/db/npc/npc/8d110d74d46/",
+                    "Area": "Pforten des Pandæmoniums (X:21.7 Y:18.9)"
+                },
+                {
+                    "Name": "Erichthonios",
+                    "Url": "/lodestone/playguide/db/npc/npc/6043c76da26/",
+                    "Area": "Pforten des Pandæmoniums (X:21.4 Y:18.1)"
+                },
+                {
+                    "Name": "Themis",
+                    "Url": "/lodestone/playguide/db/npc/npc/be43dd2c036/",
+                    "Area": "Pforten des Pandæmoniums (X:21.4 Y:18.8)"
+                }
+            ]
+        },
+        "Seq": 3,
+        "StartDependency": false
+    },
+    {
+        "ID": "cf706f28742",
+        "Name": "Im Herzen des Hohen Wächters",
+        "Location": "Pforten des Pandæmoniums",
+        "Level": 90,
+        "JournalSection": 2,
+        "JournalCategory": 24,
+        "JournalGenre": "Pandæmonium",
+        "Url": "/lodestone/playguide/db/quest/cf706f28742/",
+        "Image": "https://img.finalfantasyxiv.com/lds/pc/global/images/itemicon/c3/c35d22c8f131658e59b7e7b691122651ffb04bb6.png?n6.05",
+        "Icon": "function_normal",
+        "Issuer": "Themis",
+        "StartLocation": {
+            "Name": "Pforten des Pandæmoniums",
+            "X": "21.4",
+            "Y": "18.8"
+        },
+        "StartClass": null,
+        "Job": "Krieger oder Magier (außer beschränkte Jobs)",
+        "Company": "Keine Angabe",
+        "Requirement": "Keine Angabe",
+        "Rewards": {
+            "Gil": 7500,
+            "Exp": 0,
+            "ItemsMand": [
+                {
+                    "Icon": "https://img.finalfantasyxiv.com/lds/pc/global/images/itemicon/42/42b918da5506c319185d6977ea8c5774d4665174.png?n6.05",
+                    "Name": "Hellseher-Materia IX",
+                    "Amount": 1,
+                    "Url": "/lodestone/playguide/db/item/6c33b180bfb/"
+                },
+                {
+                    "Icon": "https://img.finalfantasyxiv.com/lds/pc/global/images/itemicon/42/42b918da5506c319185d6977ea8c5774d4665174.png?n6.05",
+                    "Name": "Strategen-Materia IX",
+                    "Amount": 1,
+                    "Url": "/lodestone/playguide/db/item/fb86de99514/"
+                },
+                {
+                    "Icon": "https://img.finalfantasyxiv.com/lds/pc/global/images/itemicon/42/42b918da5506c319185d6977ea8c5774d4665174.png?n6.05",
+                    "Name": "Assassinen-Materia IX",
+                    "Amount": 1,
+                    "Url": "/lodestone/playguide/db/item/86ae2ca0af4/"
+                }
+            ],
+            "ItemsOpt": [
+                {
+                    "Icon": "https://img.finalfantasyxiv.com/lds/pc/global/images/itemicon/97/97bba01b89bead76a7f16072d2979f06a1b4d805.png?n6.05",
+                    "Name": "Kampf-Materia IX",
+                    "Amount": 3,
+                    "Url": "/lodestone/playguide/db/item/89b34b48665/"
+                },
+                {
+                    "Icon": "https://img.finalfantasyxiv.com/lds/pc/global/images/itemicon/97/97bba01b89bead76a7f16072d2979f06a1b4d805.png?n6.05",
+                    "Name": "Zauber-Materia IX",
+                    "Amount": 3,
+                    "Url": "/lodestone/playguide/db/item/7b373e9fe7c/"
+                },
+                {
+                    "Icon": "https://img.finalfantasyxiv.com/lds/pc/global/images/itemicon/8f/8f57251240280c4dd8b41f0b143d5a4de1a29215.png?n6.05",
+                    "Name": "Fechtkunst-Materia IX",
+                    "Amount": 3,
+                    "Url": "/lodestone/playguide/db/item/dfec39007e3/"
+                },
+                {
+                    "Icon": "https://img.finalfantasyxiv.com/lds/pc/global/images/itemicon/8f/8f57251240280c4dd8b41f0b143d5a4de1a29215.png?n6.05",
+                    "Name": "Frömmigkeits-Materia IX",
+                    "Amount": 3,
+                    "Url": "/lodestone/playguide/db/item/b5e80dc8ce6/"
+                }
+            ]
+        },
+        "Infos": {
+            "PrerequisiteQuest": [
+                {
+                    "Name": "Die Feuer von Asphodelos",
+                    "Url": "/lodestone/playguide/db/quest/b689c497ee0/",
+                    "Area": "Pforten des Pandæmoniums",
+                    "Level": "90"
+                }
+            ],
+            "RelatedNPC": [
+                {
+                    "Name": "Claudien",
+                    "Url": "/lodestone/playguide/db/npc/npc/73fcb90e0b1/",
+                    "Area": "Labyrinthos (X:8.6 Y:27.5)"
+                },
+                {
+                    "Name": "Nemjiji",
+                    "Url": "/lodestone/playguide/db/npc/npc/e3ba134a47c/",
+                    "Area": "Labyrinthos (X:8.6 Y:27.4)"
+                },
+                {
+                    "Name": "Ruissenaud",
+                    "Url": "/lodestone/playguide/db/npc/npc/185b2996a01/",
+                    "Area": "Labyrinthos (X:8.6 Y:27.4)"
+                },
+                {
+                    "Name": "Erichthonios",
+                    "Url": "/lodestone/playguide/db/npc/npc/8d110d74d46/",
+                    "Area": "Pforten des Pandæmoniums (X:21.7 Y:18.9)"
+                },
+                {
+                    "Name": "Erichthonios",
+                    "Url": "/lodestone/playguide/db/npc/npc/56f948889c1/",
+                    "Area": "Pforten des Pandæmoniums (X:21.4 Y:18.8)"
+                },
+                {
+                    "Name": "Erichthonios",
+                    "Url": "/lodestone/playguide/db/npc/npc/6043c76da26/",
+                    "Area": "Pforten des Pandæmoniums (X:21.4 Y:18.1)"
+                },
+                {
+                    "Name": "Themis",
+                    "Url": "/lodestone/playguide/db/npc/npc/e08a9542f8a/",
+                    "Area": "Pforten des Pandæmoniums (X:21.4 Y:18.8)"
+                },
+                {
+                    "Name": "Themis",
+                    "Url": "/lodestone/playguide/db/npc/npc/161545a26fd/",
+                    "Area": "Pforten des Pandæmoniums (X:21.4 Y:18.8)"
+                },
+                {
+                    "Name": "Themis",
+                    "Url": "/lodestone/playguide/db/npc/npc/1ad13a56f60/",
+                    "Area": "Pforten des Pandæmoniums (X:21.4 Y:18.1)"
+                }
+            ]
+        },
+        "Seq": 4,
+        "StartDependency": false
+    },
+    {
+        "ID": "d5bc45b5af2",
+        "Name": "Hinab ins Pandæmonium",
+        "Location": "Alt-Sharlayan",
+        "Level": 90,
+        "JournalSection": 2,
+        "JournalCategory": 24,
+        "JournalGenre": "Pandæmonium",
+        "Url": "/lodestone/playguide/db/quest/d5bc45b5af2/",
+        "Image": "https://img.finalfantasyxiv.com/lds/pc/global/images/itemicon/a8/a8f00c8f04b8ff55e8d664da72409a3063c18f9f.png?n6.05",
+        "Icon": "function_normal",
+        "Issuer": "Nemjiji",
+        "StartLocation": {
+            "Name": "Alt-Sharlayan",
+            "X": "9.6",
+            "Y": "11.9"
+        },
+        "StartClass": null,
+        "Job": "Krieger oder Magier (außer beschränkte Jobs)",
+        "Company": "Keine Angabe",
+        "Requirement": "Keine Angabe",
+        "Rewards": {
+            "Gil": 3000,
+            "Exp": 0,
+            "ItemsMand": [
+                {
+                    "Icon": "https://img.finalfantasyxiv.com/lds/pc/global/images/itemicon/97/97bba01b89bead76a7f16072d2979f06a1b4d805.png?n6.05",
+                    "Name": "Kampf-Materia IX",
+                    "Amount": 5,
+                    "Url": "/lodestone/playguide/db/item/89b34b48665/"
+                }
+            ],
+            "ItemsOpt": [
+                {
+                    "Icon": "https://img.finalfantasyxiv.com/lds/pc/global/images/itemicon/42/42b918da5506c319185d6977ea8c5774d4665174.png?n6.05",
+                    "Name": "Hellseher-Materia IX",
+                    "Amount": 3,
+                    "Url": "/lodestone/playguide/db/item/6c33b180bfb/"
+                },
+                {
+                    "Icon": "https://img.finalfantasyxiv.com/lds/pc/global/images/itemicon/42/42b918da5506c319185d6977ea8c5774d4665174.png?n6.05",
+                    "Name": "Strategen-Materia IX",
+                    "Amount": 3,
+                    "Url": "/lodestone/playguide/db/item/fb86de99514/"
+                },
+                {
+                    "Icon": "https://img.finalfantasyxiv.com/lds/pc/global/images/itemicon/42/42b918da5506c319185d6977ea8c5774d4665174.png?n6.05",
+                    "Name": "Assassinen-Materia IX",
+                    "Amount": 3,
+                    "Url": "/lodestone/playguide/db/item/86ae2ca0af4/"
+                }
+            ]
+        },
+        "Infos": {
+            "PrerequisiteQuest": [
+                {
+                    "Name": "Endschreiter",
+                    "Url": "/lodestone/playguide/db/quest/52a65d1961d/",
+                    "Area": "Ultima Thule",
+                    "Level": "90"
+                }
+            ],
+            "FollowupQuest": [
+                {
+                    "Name": "Die Tiefen der Tausend Teufel",
+                    "Url": "/lodestone/playguide/db/quest/691464a5e7c/",
+                    "Area": "Elpis",
+                    "Level": "90"
+                }
+            ],
+            "RelatedNPC": [
+                {
+                    "Name": "Claudien",
+                    "Url": "/lodestone/playguide/db/npc/npc/15c20a88289/",
+                    "Area": "Labyrinthos (X:8.6 Y:27.5)"
+                },
+                {
+                    "Name": "Nemjiji",
+                    "Url": "/lodestone/playguide/db/npc/npc/7519a81ab44/",
+                    "Area": "Labyrinthos (X:8.6 Y:27.4)"
+                },
+                {
+                    "Name": "Ruissenaud",
+                    "Url": "/lodestone/playguide/db/npc/npc/c1ee6ade50c/",
+                    "Area": "Labyrinthos (X:8.6 Y:27.4)"
+                },
+                {
+                    "Name": "Themis",
+                    "Url": "/lodestone/playguide/db/npc/npc/5c3fd6af8e3/",
+                    "Area": "Elpis (X:32.3 Y:22.4)"
+                }
+            ]
+        },
+        "Seq": 4,
+        "StartDependency": false
+    }
+]

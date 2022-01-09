@@ -1,0 +1,1105 @@
+[
+    {
+        "ID": "07f5c4892e9",
+        "Name": " Eindringling",
+        "Location": "Tempest",
+        "Level": 70,
+        "JournalSection": 3,
+        "JournalCategory": 57,
+        "JournalGenre": "Aufträge Tempest",
+        "Url": "/lodestone/playguide/db/quest/07f5c4892e9/",
+        "Image": null,
+        "Icon": "common_normal",
+        "Issuer": "Pegshs Ooan",
+        "StartLocation": {
+            "Name": "Tempest",
+            "X": "32.4",
+            "Y": "18.0"
+        },
+        "StartClass": null,
+        "Job": "",
+        "Company": "Keine Angabe",
+        "Requirement": "Keine Angabe",
+        "Rewards": {
+            "Gil": 779,
+            "Exp": null,
+            "ItemsMand": [],
+            "ItemsOpt": []
+        },
+        "Infos": {
+            "PrerequisiteQuest": [
+                {
+                    "Name": "Trocken auf dem Meeresgrund",
+                    "Url": "/lodestone/playguide/db/quest/7034c050956/",
+                    "Area": "Tempest",
+                    "Level": "79"
+                }
+            ],
+            "RelatedNPC": [
+                {
+                    "Name": "Alter Ondo",
+                    "Url": "/lodestone/playguide/db/npc/npc/6cdfbf8ddbf/",
+                    "Area": "Tempest (X:32.0 Y:16.1)"
+                },
+                {
+                    "Name": "Junge Ondo-Wache",
+                    "Url": "/lodestone/playguide/db/npc/npc/906f76820e2/",
+                    "Area": "Tempest (X:28.7 Y:15.6)"
+                },
+                {
+                    "Name": "Ondo-Eindringling",
+                    "Url": "/lodestone/playguide/db/npc/npc/a170eb13f6b/",
+                    "Area": "Tempest (X:29.0 Y:14.5)"
+                },
+                {
+                    "Name": "Ondo-Wache",
+                    "Url": "/lodestone/playguide/db/npc/npc/eea5adf4ec6/",
+                    "Area": "Tempest (X:32.8 Y:19.6)"
+                }
+            ]
+        },
+        "Seq": 7,
+        "StartDependency": false
+    },
+    {
+        "ID": "13d9311ecd2",
+        "Name": " Idee und Umsetzung",
+        "Location": "Tempest",
+        "Level": 70,
+        "JournalSection": 3,
+        "JournalCategory": 57,
+        "JournalGenre": "Aufträge Tempest",
+        "Url": "/lodestone/playguide/db/quest/13d9311ecd2/",
+        "Image": "https://img.finalfantasyxiv.com/lds/pc/global/images/itemicon/88/883a109379fce03b2d5b162b2c5974dc5b998d29.png?n6.05",
+        "Icon": "function_normal",
+        "Issuer": "Beamter im Büro des Architekten",
+        "StartLocation": {
+            "Name": "Tempest",
+            "X": "13.6",
+            "Y": "27.6"
+        },
+        "StartClass": null,
+        "Job": "",
+        "Company": "Keine Angabe",
+        "Requirement": "Keine Angabe",
+        "Rewards": {
+            "Gil": 861,
+            "Exp": null,
+            "ItemsMand": [
+                {
+                    "Icon": "https://img.finalfantasyxiv.com/lds/pc/global/images/itemicon/af/af26e4b79fb1de83550f6ddbd3a170408fcfe702.png?n6.05",
+                    "Name": "",
+                    "Amount": null
+                }
+            ],
+            "ItemsOpt": []
+        },
+        "Infos": {
+            "PrerequisiteQuest": [
+                {
+                    "Name": "Die Stadt am Ende der Welt",
+                    "Url": "/lodestone/playguide/db/quest/33b52b395d3/",
+                    "Area": "Tempest",
+                    "Level": "80"
+                }
+            ],
+            "RelatedNPC": [
+                {
+                    "Name": "Begeisterter Amaurotaner",
+                    "Url": "/lodestone/playguide/db/npc/npc/852aac5f2dc/",
+                    "Area": "Tempest (X:14.1 Y:27.0)"
+                },
+                {
+                    "Name": "Besonnener Amaurotaner",
+                    "Url": "/lodestone/playguide/db/npc/npc/ee96a6c828c/",
+                    "Area": "Tempest (X:13.2 Y:26.6)"
+                },
+                {
+                    "Name": "Besorgter Amaurotaner",
+                    "Url": "/lodestone/playguide/db/npc/npc/90bddcddeee/",
+                    "Area": "Tempest (X:13.6 Y:27.1)"
+                }
+            ]
+        },
+        "Seq": 16,
+        "StartDependency": false
+    },
+    {
+        "ID": "1726dcf7f15",
+        "Name": " Ein Königreich für eine Leiter",
+        "Location": "Tempest",
+        "Level": 70,
+        "JournalSection": 3,
+        "JournalCategory": 57,
+        "JournalGenre": "Aufträge Tempest",
+        "Url": "/lodestone/playguide/db/quest/1726dcf7f15/",
+        "Image": null,
+        "Icon": "common_normal",
+        "Issuer": "Sorashs Koal",
+        "StartLocation": {
+            "Name": "Tempest",
+            "X": "34.7",
+            "Y": "17.9"
+        },
+        "StartClass": null,
+        "Job": "",
+        "Company": "Keine Angabe",
+        "Requirement": "Keine Angabe",
+        "Rewards": {
+            "Gil": 706,
+            "Exp": null,
+            "ItemsMand": [],
+            "ItemsOpt": []
+        },
+        "Infos": {
+            "PrerequisiteQuest": [
+                {
+                    "Name": "Trocken auf dem Meeresgrund",
+                    "Url": "/lodestone/playguide/db/quest/7034c050956/",
+                    "Area": "Tempest",
+                    "Level": "79"
+                }
+            ]
+        },
+        "Seq": 3,
+        "StartDependency": false
+    },
+    {
+        "ID": "29a391969d7",
+        "Name": " Düsteres Meer, düstere Zukunft",
+        "Location": "Tempest",
+        "Level": 70,
+        "JournalSection": 3,
+        "JournalCategory": 57,
+        "JournalGenre": "Aufträge Tempest",
+        "Url": "/lodestone/playguide/db/quest/29a391969d7/",
+        "Image": "https://img.finalfantasyxiv.com/lds/pc/global/images/itemicon/33/33a403edc8765abbe118116fc19839cacf938ece.png?n6.05",
+        "Icon": "common_normal",
+        "Issuer": "Naroshs Koal",
+        "StartLocation": {
+            "Name": "Tempest",
+            "X": "31.5",
+            "Y": "14.6"
+        },
+        "StartClass": null,
+        "Job": "",
+        "Company": "Keine Angabe",
+        "Requirement": "Keine Angabe",
+        "Rewards": {
+            "Gil": 1290,
+            "Exp": null,
+            "ItemsMand": [],
+            "ItemsOpt": []
+        },
+        "Infos": {
+            "PrerequisiteQuest": [
+                {
+                    "Name": " Die Liebe eines Kindes",
+                    "Url": "/lodestone/playguide/db/quest/6deb8dc1419/",
+                    "Area": "Tempest",
+                    "Level": "70"
+                }
+            ],
+            "FollowupQuest": [
+                {
+                    "Name": " Das Glück der Kinder",
+                    "Url": "/lodestone/playguide/db/quest/58c5a977964/",
+                    "Area": "Tempest",
+                    "Level": "70"
+                }
+            ],
+            "RelatedNPC": [
+                {
+                    "Name": "Naroshs Koal",
+                    "Url": "/lodestone/playguide/db/npc/npc/3671d65fb67/",
+                    "Area": "Kholusia (X:35.0 Y:28.6)"
+                },
+                {
+                    "Name": "Naroshs Koal",
+                    "Url": "/lodestone/playguide/db/npc/npc/fcee8340c14/",
+                    "Area": "Tempest (X:33.4 Y:18.1)"
+                },
+                {
+                    "Name": "Xeroshs Ooan",
+                    "Url": "/lodestone/playguide/db/npc/npc/28c505a3b65/",
+                    "Area": "Tempest (X:33.5 Y:18.1)"
+                }
+            ]
+        },
+        "Seq": 14,
+        "StartDependency": false
+    },
+    {
+        "ID": "2de3acadf58",
+        "Name": " Das Begehr der Flossenlosen",
+        "Location": "Tempest",
+        "Level": 70,
+        "JournalSection": 3,
+        "JournalCategory": 57,
+        "JournalGenre": "Aufträge Tempest",
+        "Url": "/lodestone/playguide/db/quest/2de3acadf58/",
+        "Image": null,
+        "Icon": "common_normal",
+        "Issuer": "Nakshs Koal",
+        "StartLocation": {
+            "Name": "Tempest",
+            "X": "34.1",
+            "Y": "18.0"
+        },
+        "StartClass": null,
+        "Job": "",
+        "Company": "Keine Angabe",
+        "Requirement": "Keine Angabe",
+        "Rewards": {
+            "Gil": 825,
+            "Exp": null,
+            "ItemsMand": [
+                {
+                    "Icon": "https://img.finalfantasyxiv.com/lds/pc/global/images/itemicon/66/66e40643e0b44d9f56e8628395cdf870c5820fe6.png?n6.05",
+                    "Name": "Edelmithril-Kiste mit Ausrüstung für den Hals (G.-St. 415)",
+                    "Amount": 1,
+                    "Url": "/lodestone/playguide/db/item/9e50e91b51b/"
+                }
+            ],
+            "ItemsOpt": []
+        },
+        "Infos": {
+            "PrerequisiteQuest": [
+                {
+                    "Name": "Trocken auf dem Meeresgrund",
+                    "Url": "/lodestone/playguide/db/quest/7034c050956/",
+                    "Area": "Tempest",
+                    "Level": "79"
+                }
+            ],
+            "FollowupQuest": [
+                {
+                    "Name": " Jagd in den Tiefen",
+                    "Url": "/lodestone/playguide/db/quest/66fa699bc40/",
+                    "Area": "Tempest",
+                    "Level": "70"
+                }
+            ]
+        },
+        "Seq": 8,
+        "StartDependency": false
+    },
+    {
+        "ID": "3236408e9df",
+        "Name": " Reden ohne etwas zu sagen",
+        "Location": "Tempest",
+        "Level": 70,
+        "JournalSection": 3,
+        "JournalCategory": 57,
+        "JournalGenre": "Aufträge Tempest",
+        "Url": "/lodestone/playguide/db/quest/3236408e9df/",
+        "Image": null,
+        "Icon": "common_normal",
+        "Issuer": "Deushs Aath",
+        "StartLocation": {
+            "Name": "Tempest",
+            "X": "31.8",
+            "Y": "17.9"
+        },
+        "StartClass": null,
+        "Job": "",
+        "Company": "Keine Angabe",
+        "Requirement": "Keine Angabe",
+        "Rewards": {
+            "Gil": 606,
+            "Exp": null,
+            "ItemsMand": [],
+            "ItemsOpt": [
+                {
+                    "Icon": "https://img.finalfantasyxiv.com/lds/pc/global/images/itemicon/4a/4a2939cfd6283bed13ab6104f3baed9a8104d360.png?n6.05",
+                    "Name": "Visionsremedium der Konstitution",
+                    "Amount": 2,
+                    "Url": "/lodestone/playguide/db/item/d1a8625b9bf/"
+                },
+                {
+                    "Icon": "https://img.finalfantasyxiv.com/lds/pc/global/images/itemicon/ba/baa2341dd17414fae7fd62ae7bc62c64589b67be.png?n6.05",
+                    "Name": "Antikes Silberstück",
+                    "Amount": 2,
+                    "Url": "/lodestone/playguide/db/item/50ed823230e/"
+                }
+            ]
+        },
+        "Infos": {
+            "PrerequisiteQuest": [
+                {
+                    "Name": "Trocken auf dem Meeresgrund",
+                    "Url": "/lodestone/playguide/db/quest/7034c050956/",
+                    "Area": "Tempest",
+                    "Level": "79"
+                }
+            ],
+            "RelatedNPC": [
+                {
+                    "Name": "Ondo-Jüngling",
+                    "Url": "/lodestone/playguide/db/npc/npc/552d95abbe2/",
+                    "Area": "Tempest (X:32.0 Y:19.0)"
+                },
+                {
+                    "Name": "Wissbegieriger Ondo",
+                    "Url": "/lodestone/playguide/db/npc/npc/8f4323d1868/",
+                    "Area": "Tempest (X:34.2 Y:17.2)"
+                }
+            ]
+        },
+        "Seq": 4,
+        "StartDependency": false
+    },
+    {
+        "ID": "479f53932a7",
+        "Name": " Das Geheimnis des Feuers",
+        "Location": "Tempest",
+        "Level": 70,
+        "JournalSection": 3,
+        "JournalCategory": 57,
+        "JournalGenre": "Aufträge Tempest",
+        "Url": "/lodestone/playguide/db/quest/479f53932a7/",
+        "Image": null,
+        "Icon": "common_normal",
+        "Issuer": "Pulshs Ooan",
+        "StartLocation": {
+            "Name": "Tempest",
+            "X": "31.6",
+            "Y": "16.3"
+        },
+        "StartClass": null,
+        "Job": "",
+        "Company": "Keine Angabe",
+        "Requirement": "Keine Angabe",
+        "Rewards": {
+            "Gil": 925,
+            "Exp": null,
+            "ItemsMand": [],
+            "ItemsOpt": []
+        },
+        "Infos": {
+            "PrerequisiteQuest": [
+                {
+                    "Name": "Trocken auf dem Meeresgrund",
+                    "Url": "/lodestone/playguide/db/quest/7034c050956/",
+                    "Area": "Tempest",
+                    "Level": "79"
+                }
+            ],
+            "RelatedNPC": [
+                {
+                    "Name": "Ondo-Fangwart",
+                    "Url": "/lodestone/playguide/db/npc/npc/9072ea85f7d/",
+                    "Area": "Tempest (X:34.2 Y:17.6)"
+                }
+            ]
+        },
+        "Seq": 5,
+        "StartDependency": false
+    },
+    {
+        "ID": "58c5a977964",
+        "Name": " Das Glück der Kinder",
+        "Location": "Tempest",
+        "Level": 70,
+        "JournalSection": 3,
+        "JournalCategory": 57,
+        "JournalGenre": "Aufträge Tempest",
+        "Url": "/lodestone/playguide/db/quest/58c5a977964/",
+        "Image": "https://img.finalfantasyxiv.com/lds/pc/global/images/itemicon/33/33a403edc8765abbe118116fc19839cacf938ece.png?n6.05",
+        "Icon": "common_normal",
+        "Issuer": "Naroshs Koal",
+        "StartLocation": {
+            "Name": "Tempest",
+            "X": "31.5",
+            "Y": "14.6"
+        },
+        "StartClass": null,
+        "Job": "",
+        "Company": "Keine Angabe",
+        "Requirement": "Keine Angabe",
+        "Rewards": {
+            "Gil": 888,
+            "Exp": null,
+            "ItemsMand": [],
+            "ItemsOpt": [
+                {
+                    "Icon": "https://img.finalfantasyxiv.com/lds/pc/global/images/itemicon/71/71860f9db7c2800909350796c376b286964a25c9.png?n6.05",
+                    "Name": "Paella",
+                    "Amount": 2,
+                    "Url": "/lodestone/playguide/db/item/af1118e0f5f/"
+                },
+                {
+                    "Icon": "https://img.finalfantasyxiv.com/lds/pc/global/images/itemicon/9b/9bcbc49a589a34378dcea2d9d2a4e6e8f28564f4.png?n6.05",
+                    "Name": "Cordon bleu vom Ovim",
+                    "Amount": 2,
+                    "Url": "/lodestone/playguide/db/item/7e79001bf0c/"
+                },
+                {
+                    "Icon": "https://img.finalfantasyxiv.com/lds/pc/global/images/itemicon/1a/1a667017e3e2bb679c546fdc0a40273b4b0d4281.png?n6.05",
+                    "Name": "Limonade",
+                    "Amount": 2,
+                    "Url": "/lodestone/playguide/db/item/8055bb19c73/"
+                },
+                {
+                    "Icon": "https://img.finalfantasyxiv.com/lds/pc/global/images/itemicon/66/66eb4cd1ad7c73e0c008f0b39e2fc79fe0fe415b.png?n6.05",
+                    "Name": "Harcot-Kompott",
+                    "Amount": 2,
+                    "Url": "/lodestone/playguide/db/item/404134085d3/"
+                },
+                {
+                    "Icon": "https://img.finalfantasyxiv.com/lds/pc/global/images/itemicon/ba/baa2341dd17414fae7fd62ae7bc62c64589b67be.png?n6.05",
+                    "Name": "Antikes Silberstück",
+                    "Amount": 3,
+                    "Url": "/lodestone/playguide/db/item/50ed823230e/"
+                }
+            ]
+        },
+        "Infos": {
+            "PrerequisiteQuest": [
+                {
+                    "Name": " Düsteres Meer, düstere Zukunft",
+                    "Url": "/lodestone/playguide/db/quest/29a391969d7/",
+                    "Area": "Tempest",
+                    "Level": "70"
+                }
+            ],
+            "RelatedNPC": [
+                {
+                    "Name": "Naroshs Ooan",
+                    "Url": "/lodestone/playguide/db/npc/npc/1810cffec88/",
+                    "Area": "Tempest (X:33.4 Y:18.1)"
+                },
+                {
+                    "Name": "Xeroshs Ooan",
+                    "Url": "/lodestone/playguide/db/npc/npc/28c505a3b65/",
+                    "Area": "Tempest (X:33.5 Y:18.1)"
+                }
+            ]
+        },
+        "Seq": 15,
+        "StartDependency": false
+    },
+    {
+        "ID": "66fa699bc40",
+        "Name": " Jagd in den Tiefen",
+        "Location": "Tempest",
+        "Level": 70,
+        "JournalSection": 3,
+        "JournalCategory": 57,
+        "JournalGenre": "Aufträge Tempest",
+        "Url": "/lodestone/playguide/db/quest/66fa699bc40/",
+        "Image": null,
+        "Icon": "common_normal",
+        "Issuer": "Nakshs Koal",
+        "StartLocation": {
+            "Name": "Tempest",
+            "X": "34.1",
+            "Y": "18.0"
+        },
+        "StartClass": null,
+        "Job": "",
+        "Company": "Keine Angabe",
+        "Requirement": "Keine Angabe",
+        "Rewards": {
+            "Gil": 779,
+            "Exp": null,
+            "ItemsMand": [],
+            "ItemsOpt": [
+                {
+                    "Icon": "https://img.finalfantasyxiv.com/lds/pc/global/images/itemicon/9b/9b8be30f149d138326b973fa183f7ba7ea02195b.png?n6.05",
+                    "Name": "Visionsremedium der Willenskraft",
+                    "Amount": 2,
+                    "Url": "/lodestone/playguide/db/item/301d487f9fa/"
+                },
+                {
+                    "Icon": "https://img.finalfantasyxiv.com/lds/pc/global/images/itemicon/ba/baa2341dd17414fae7fd62ae7bc62c64589b67be.png?n6.05",
+                    "Name": "Antikes Silberstück",
+                    "Amount": 2,
+                    "Url": "/lodestone/playguide/db/item/50ed823230e/"
+                }
+            ]
+        },
+        "Infos": {
+            "PrerequisiteQuest": [
+                {
+                    "Name": " Das Begehr der Flossenlosen",
+                    "Url": "/lodestone/playguide/db/quest/2de3acadf58/",
+                    "Area": "Tempest",
+                    "Level": "70"
+                }
+            ],
+            "RelatedNPC": [
+                {
+                    "Name": "Ondo-Lederer",
+                    "Url": "/lodestone/playguide/db/npc/npc/7278f28103e/",
+                    "Area": "Tempest (X:32.6 Y:16.5)"
+                }
+            ]
+        },
+        "Seq": 10,
+        "StartDependency": false
+    },
+    {
+        "ID": "6deb8dc1419",
+        "Name": " Die Liebe eines Kindes",
+        "Location": "Tempest",
+        "Level": 70,
+        "JournalSection": 3,
+        "JournalCategory": 57,
+        "JournalGenre": "Aufträge Tempest",
+        "Url": "/lodestone/playguide/db/quest/6deb8dc1419/",
+        "Image": "https://img.finalfantasyxiv.com/lds/pc/global/images/itemicon/33/33a403edc8765abbe118116fc19839cacf938ece.png?n6.05",
+        "Icon": "common_normal",
+        "Issuer": "Naroshs Koal",
+        "StartLocation": {
+            "Name": "Tempest",
+            "X": "31.5",
+            "Y": "14.6"
+        },
+        "StartClass": null,
+        "Job": "",
+        "Company": "Keine Angabe",
+        "Requirement": "Keine Angabe",
+        "Rewards": {
+            "Gil": 852,
+            "Exp": null,
+            "ItemsMand": [],
+            "ItemsOpt": []
+        },
+        "Infos": {
+            "PrerequisiteQuest": [
+                {
+                    "Name": " Wie ein Fisch auf dem Trockenen",
+                    "Url": "/lodestone/playguide/db/quest/ce9fd05a9ad/",
+                    "Area": "Tempest",
+                    "Level": "70"
+                }
+            ],
+            "FollowupQuest": [
+                {
+                    "Name": " Düsteres Meer, düstere Zukunft",
+                    "Url": "/lodestone/playguide/db/quest/29a391969d7/",
+                    "Area": "Tempest",
+                    "Level": "70"
+                }
+            ],
+            "RelatedNPC": [
+                {
+                    "Name": "Xeroshs Ooan",
+                    "Url": "/lodestone/playguide/db/npc/npc/28c505a3b65/",
+                    "Area": "Tempest (X:33.5 Y:18.1)"
+                }
+            ]
+        },
+        "Seq": 13,
+        "StartDependency": false
+    },
+    {
+        "ID": "734d4c28730",
+        "Name": " Populationskontrolle",
+        "Location": "Tempest",
+        "Level": 70,
+        "JournalSection": 3,
+        "JournalCategory": 57,
+        "JournalGenre": "Aufträge Tempest",
+        "Url": "/lodestone/playguide/db/quest/734d4c28730/",
+        "Image": null,
+        "Icon": "common_normal",
+        "Issuer": "Nemshs Ooan",
+        "StartLocation": {
+            "Name": "Tempest",
+            "X": "34.4",
+            "Y": "16.8"
+        },
+        "StartClass": null,
+        "Job": "",
+        "Company": "Keine Angabe",
+        "Requirement": "Keine Angabe",
+        "Rewards": {
+            "Gil": 706,
+            "Exp": null,
+            "ItemsMand": [],
+            "ItemsOpt": []
+        },
+        "Infos": {
+            "PrerequisiteQuest": [
+                {
+                    "Name": "Trocken auf dem Meeresgrund",
+                    "Url": "/lodestone/playguide/db/quest/7034c050956/",
+                    "Area": "Tempest",
+                    "Level": "79"
+                }
+            ]
+        },
+        "Seq": 11,
+        "StartDependency": false
+    },
+    {
+        "ID": "8297e97c6e5",
+        "Name": " Die Zähne zeigen",
+        "Location": "Tempest",
+        "Level": 70,
+        "JournalSection": 3,
+        "JournalCategory": 57,
+        "JournalGenre": "Aufträge Tempest",
+        "Url": "/lodestone/playguide/db/quest/8297e97c6e5/",
+        "Image": null,
+        "Icon": "common_normal",
+        "Issuer": "Saushs Koal",
+        "StartLocation": {
+            "Name": "Tempest",
+            "X": "31.5",
+            "Y": "17.3"
+        },
+        "StartClass": null,
+        "Job": "",
+        "Company": "Keine Angabe",
+        "Requirement": "Keine Angabe",
+        "Rewards": {
+            "Gil": 706,
+            "Exp": null,
+            "ItemsMand": [],
+            "ItemsOpt": []
+        },
+        "Infos": {
+            "PrerequisiteQuest": [
+                {
+                    "Name": "Trocken auf dem Meeresgrund",
+                    "Url": "/lodestone/playguide/db/quest/7034c050956/",
+                    "Area": "Tempest",
+                    "Level": "79"
+                }
+            ]
+        },
+        "Seq": 1,
+        "StartDependency": false
+    },
+    {
+        "ID": "8c390847437",
+        "Name": " Der vermisste Jäger",
+        "Location": "Tempest",
+        "Level": 70,
+        "JournalSection": 3,
+        "JournalCategory": 57,
+        "JournalGenre": "Aufträge Tempest",
+        "Url": "/lodestone/playguide/db/quest/8c390847437/",
+        "Image": null,
+        "Icon": "common_normal",
+        "Issuer": "Kewshs Ooan",
+        "StartLocation": {
+            "Name": "Tempest",
+            "X": "34.6",
+            "Y": "17.3"
+        },
+        "StartClass": null,
+        "Job": "",
+        "Company": "Keine Angabe",
+        "Requirement": "Keine Angabe",
+        "Rewards": {
+            "Gil": 706,
+            "Exp": null,
+            "ItemsMand": [],
+            "ItemsOpt": [
+                {
+                    "Icon": "https://img.finalfantasyxiv.com/lds/pc/global/images/itemicon/73/735d5f81236a16b13f7ae0f9a02f9100cf7826af.png?n6.05",
+                    "Name": "Visionsremedium der Geschicklichkeit",
+                    "Amount": 2,
+                    "Url": "/lodestone/playguide/db/item/e20aa2bd572/"
+                },
+                {
+                    "Icon": "https://img.finalfantasyxiv.com/lds/pc/global/images/itemicon/ba/baa2341dd17414fae7fd62ae7bc62c64589b67be.png?n6.05",
+                    "Name": "Antikes Silberstück",
+                    "Amount": 2,
+                    "Url": "/lodestone/playguide/db/item/50ed823230e/"
+                }
+            ]
+        },
+        "Infos": {
+            "PrerequisiteQuest": [
+                {
+                    "Name": "Trocken auf dem Meeresgrund",
+                    "Url": "/lodestone/playguide/db/quest/7034c050956/",
+                    "Area": "Tempest",
+                    "Level": "79"
+                }
+            ],
+            "RelatedNPC": [
+                {
+                    "Name": "Ondo-Fischer",
+                    "Url": "/lodestone/playguide/db/npc/npc/77c32ceda93/",
+                    "Area": "Tempest (X:33.6 Y:4.1)"
+                }
+            ]
+        },
+        "Seq": 2,
+        "StartDependency": false
+    },
+    {
+        "ID": "92930ac3461",
+        "Name": " Charakterbildung",
+        "Location": "Tempest",
+        "Level": 70,
+        "JournalSection": 3,
+        "JournalCategory": 57,
+        "JournalGenre": "Aufträge Tempest",
+        "Url": "/lodestone/playguide/db/quest/92930ac3461/",
+        "Image": "https://img.finalfantasyxiv.com/lds/pc/global/images/itemicon/88/883a109379fce03b2d5b162b2c5974dc5b998d29.png?n6.05",
+        "Icon": "function_normal",
+        "Issuer": "Offenherziger Amaurotaner",
+        "StartLocation": {
+            "Name": "Tempest",
+            "X": "7.2",
+            "Y": "31.4"
+        },
+        "StartClass": null,
+        "Job": "",
+        "Company": "Keine Angabe",
+        "Requirement": "Keine Angabe",
+        "Rewards": {
+            "Gil": 861,
+            "Exp": null,
+            "ItemsMand": [
+                {
+                    "Icon": "https://img.finalfantasyxiv.com/lds/pc/global/images/itemicon/af/af26e4b79fb1de83550f6ddbd3a170408fcfe702.png?n6.05",
+                    "Name": "",
+                    "Amount": null
+                }
+            ],
+            "ItemsOpt": []
+        },
+        "Infos": {
+            "PrerequisiteQuest": [
+                {
+                    "Name": "Die Stadt am Ende der Welt",
+                    "Url": "/lodestone/playguide/db/quest/33b52b395d3/",
+                    "Area": "Tempest",
+                    "Level": "80"
+                }
+            ],
+            "RelatedNPC": [
+                {
+                    "Name": "Rhetorikbegeisterter Amaurotaner",
+                    "Url": "/lodestone/playguide/db/npc/npc/eba88be2f66/",
+                    "Area": "Tempest (X:8.9 Y:32.4)"
+                },
+                {
+                    "Name": "Rhetorikbegeisterter Amaurotaner",
+                    "Url": "/lodestone/playguide/db/npc/npc/82f81400622/",
+                    "Area": "Tempest (X:7.2 Y:31.3)"
+                }
+            ]
+        },
+        "Seq": 17,
+        "StartDependency": false
+    },
+    {
+        "ID": "95997b8d0b3",
+        "Name": " Aller Handel ist schwer",
+        "Location": "Tempest",
+        "Level": 70,
+        "JournalSection": 3,
+        "JournalCategory": 57,
+        "JournalGenre": "Aufträge Tempest",
+        "Url": "/lodestone/playguide/db/quest/95997b8d0b3/",
+        "Image": null,
+        "Icon": "common_normal",
+        "Issuer": "Verzweifelter Ondo",
+        "StartLocation": {
+            "Name": "Tempest",
+            "X": "31.8",
+            "Y": "16.0"
+        },
+        "StartClass": null,
+        "Job": "",
+        "Company": "Keine Angabe",
+        "Requirement": "Keine Angabe",
+        "Rewards": {
+            "Gil": 1132,
+            "Exp": null,
+            "ItemsMand": [],
+            "ItemsOpt": []
+        },
+        "Infos": {
+            "PrerequisiteQuest": [
+                {
+                    "Name": "Trocken auf dem Meeresgrund",
+                    "Url": "/lodestone/playguide/db/quest/7034c050956/",
+                    "Area": "Tempest",
+                    "Level": "79"
+                }
+            ],
+            "RelatedNPC": [
+                {
+                    "Name": "Mosha-Moa",
+                    "Url": "/lodestone/playguide/db/npc/npc/6490ecb6ee0/",
+                    "Area": "Kholusia (X:16.1 Y:29.0)"
+                }
+            ]
+        },
+        "Seq": 9,
+        "StartDependency": false
+    },
+    {
+        "ID": "af10ee9e769",
+        "Name": " Ein Traum in Orange",
+        "Location": "Tempest",
+        "Level": 70,
+        "JournalSection": 3,
+        "JournalCategory": 57,
+        "JournalGenre": "Aufträge Tempest",
+        "Url": "/lodestone/playguide/db/quest/af10ee9e769/",
+        "Image": null,
+        "Icon": "common_normal",
+        "Issuer": "Visionärer Ondo",
+        "StartLocation": {
+            "Name": "Tempest",
+            "X": "32.8",
+            "Y": "18.8"
+        },
+        "StartClass": null,
+        "Job": "",
+        "Company": "Keine Angabe",
+        "Requirement": "Keine Angabe",
+        "Rewards": {
+            "Gil": 952,
+            "Exp": null,
+            "ItemsMand": [],
+            "ItemsOpt": [
+                {
+                    "Icon": "https://img.finalfantasyxiv.com/lds/pc/global/images/itemicon/35/3509ece07f54245b5bfc0bec7d5b7181c1dcbfa3.png?n6.05",
+                    "Name": "Visionsremedium der Stärke",
+                    "Amount": 2,
+                    "Url": "/lodestone/playguide/db/item/e9e3c382bf6/"
+                },
+                {
+                    "Icon": "https://img.finalfantasyxiv.com/lds/pc/global/images/itemicon/ba/baa2341dd17414fae7fd62ae7bc62c64589b67be.png?n6.05",
+                    "Name": "Antikes Silberstück",
+                    "Amount": 2,
+                    "Url": "/lodestone/playguide/db/item/50ed823230e/"
+                }
+            ]
+        },
+        "Infos": {
+            "PrerequisiteQuest": [
+                {
+                    "Name": "Trocken auf dem Meeresgrund",
+                    "Url": "/lodestone/playguide/db/quest/7034c050956/",
+                    "Area": "Tempest",
+                    "Level": "79"
+                }
+            ],
+            "RelatedNPC": [
+                {
+                    "Name": "Visionärer Ondo",
+                    "Url": "/lodestone/playguide/db/npc/npc/b356d1a4a5a/",
+                    "Area": "Tempest (X:30.8 Y:10.0)"
+                },
+                {
+                    "Name": "Visionärer Ondo",
+                    "Url": "/lodestone/playguide/db/npc/npc/2b794ab8485/",
+                    "Area": "Tempest (X:36.6 Y:15.7)"
+                },
+                {
+                    "Name": "Visionärer Ondo",
+                    "Url": "/lodestone/playguide/db/npc/npc/5dcf643ad20/",
+                    "Area": "Tempest (X:27.0 Y:15.1)"
+                },
+                {
+                    "Name": "Visionärer Ondo",
+                    "Url": "/lodestone/playguide/db/npc/npc/fbebc50d270/",
+                    "Area": "Tempest (X:31.7 Y:16.2)"
+                }
+            ]
+        },
+        "Seq": 15,
+        "StartDependency": false
+    },
+    {
+        "ID": "ce9fd05a9ad",
+        "Name": " Wie ein Fisch auf dem Trockenen",
+        "Location": "Tempest",
+        "Level": 70,
+        "JournalSection": 3,
+        "JournalCategory": 57,
+        "JournalGenre": "Aufträge Tempest",
+        "Url": "/lodestone/playguide/db/quest/ce9fd05a9ad/",
+        "Image": "https://img.finalfantasyxiv.com/lds/pc/global/images/itemicon/33/33a403edc8765abbe118116fc19839cacf938ece.png?n6.05",
+        "Icon": "function_normal",
+        "Issuer": "Naroshs Koal",
+        "StartLocation": {
+            "Name": "Tempest",
+            "X": "32.0",
+            "Y": "16.6"
+        },
+        "StartClass": null,
+        "Job": "",
+        "Company": "Keine Angabe",
+        "Requirement": "Keine Angabe",
+        "Rewards": {
+            "Gil": 925,
+            "Exp": null,
+            "ItemsMand": [
+                {
+                    "Icon": "https://img.finalfantasyxiv.com/lds/pc/global/images/itemicon/af/af26e4b79fb1de83550f6ddbd3a170408fcfe702.png?n6.05",
+                    "Name": "",
+                    "Amount": null
+                }
+            ],
+            "ItemsOpt": []
+        },
+        "Infos": {
+            "PrerequisiteQuest": [
+                {
+                    "Name": "Trocken auf dem Meeresgrund",
+                    "Url": "/lodestone/playguide/db/quest/7034c050956/",
+                    "Area": "Tempest",
+                    "Level": "79"
+                }
+            ],
+            "FollowupQuest": [
+                {
+                    "Name": " Die Liebe eines Kindes",
+                    "Url": "/lodestone/playguide/db/quest/6deb8dc1419/",
+                    "Area": "Tempest",
+                    "Level": "70"
+                }
+            ],
+            "RelatedNPC": [
+                {
+                    "Name": "Naroshs Koal",
+                    "Url": "/lodestone/playguide/db/npc/npc/b81ea43c556/",
+                    "Area": "Tempest (X:28.3 Y:15.2)"
+                },
+                {
+                    "Name": "Naroshs Koal",
+                    "Url": "/lodestone/playguide/db/npc/npc/fcee8340c14/",
+                    "Area": "Tempest (X:33.4 Y:18.1)"
+                },
+                {
+                    "Name": "Naroshs Koal",
+                    "Url": "/lodestone/playguide/db/npc/npc/20f595745b7/",
+                    "Area": "Tempest (X:31.5 Y:14.6)"
+                },
+                {
+                    "Name": "Xeroshs Ooan",
+                    "Url": "/lodestone/playguide/db/npc/npc/28c505a3b65/",
+                    "Area": "Tempest (X:33.5 Y:18.1)"
+                }
+            ]
+        },
+        "Seq": 12,
+        "StartDependency": false
+    },
+    {
+        "ID": "ee5bfe11dce",
+        "Name": " Angemessenes Äußeres",
+        "Location": "Tempest",
+        "Level": 70,
+        "JournalSection": 3,
+        "JournalCategory": 57,
+        "JournalGenre": "Aufträge Tempest",
+        "Url": "/lodestone/playguide/db/quest/ee5bfe11dce/",
+        "Image": "https://img.finalfantasyxiv.com/lds/pc/global/images/itemicon/88/883a109379fce03b2d5b162b2c5974dc5b998d29.png?n6.05",
+        "Icon": "function_normal",
+        "Issuer": "Hilfsbereiter Amaurotaner",
+        "StartLocation": {
+            "Name": "Tempest",
+            "X": "9.5",
+            "Y": "28.2"
+        },
+        "StartClass": null,
+        "Job": "",
+        "Company": "Keine Angabe",
+        "Requirement": "Keine Angabe",
+        "Rewards": {
+            "Gil": 752,
+            "Exp": null,
+            "ItemsMand": [
+                {
+                    "Icon": "https://img.finalfantasyxiv.com/lds/pc/global/images/itemicon/1c/1c3044929c10562eb7dc8c36dd133747790401f2.png?n6.05",
+                    "Name": "Blitzpolykristall",
+                    "Amount": 1,
+                    "Url": "/lodestone/playguide/db/item/06061fd121b/"
+                }
+            ],
+            "ItemsOpt": []
+        },
+        "Infos": {
+            "PrerequisiteQuest": [
+                {
+                    "Name": "Die Stadt am Ende der Welt",
+                    "Url": "/lodestone/playguide/db/quest/33b52b395d3/",
+                    "Area": "Tempest",
+                    "Level": "80"
+                }
+            ],
+            "RelatedNPC": [
+                {
+                    "Name": "Sanfte Amaurotanerin",
+                    "Url": "/lodestone/playguide/db/npc/npc/977f5c9f799/",
+                    "Area": "Tempest (X:8.3 Y:30.9)"
+                },
+                {
+                    "Name": "Schalterbeamter des Ideenverleihs",
+                    "Url": "/lodestone/playguide/db/npc/npc/0cb073ab539/",
+                    "Area": "Tempest (X:14.3 Y:27.0)"
+                }
+            ]
+        },
+        "Seq": 18,
+        "StartDependency": false
+    },
+    {
+        "ID": "f7474f766e3",
+        "Name": " Jagdrituale",
+        "Location": "Tempest",
+        "Level": 70,
+        "JournalSection": 3,
+        "JournalCategory": 57,
+        "JournalGenre": "Aufträge Tempest",
+        "Url": "/lodestone/playguide/db/quest/f7474f766e3/",
+        "Image": null,
+        "Icon": "common_normal",
+        "Issuer": "Amshs Aath",
+        "StartLocation": {
+            "Name": "Tempest",
+            "X": "32.3",
+            "Y": "17.1"
+        },
+        "StartClass": null,
+        "Job": "",
+        "Company": "Keine Angabe",
+        "Requirement": "Keine Angabe",
+        "Rewards": {
+            "Gil": 998,
+            "Exp": null,
+            "ItemsMand": [],
+            "ItemsOpt": [
+                {
+                    "Icon": "https://img.finalfantasyxiv.com/lds/pc/global/images/itemicon/f7/f70e5b5e66a835a5901c6018b210c355a71f3c16.png?n6.05",
+                    "Name": "Visionsremedium der Intelligenz",
+                    "Amount": 2,
+                    "Url": "/lodestone/playguide/db/item/757f770f8be/"
+                },
+                {
+                    "Icon": "https://img.finalfantasyxiv.com/lds/pc/global/images/itemicon/ba/baa2341dd17414fae7fd62ae7bc62c64589b67be.png?n6.05",
+                    "Name": "Antikes Silberstück",
+                    "Amount": 2,
+                    "Url": "/lodestone/playguide/db/item/50ed823230e/"
+                }
+            ]
+        },
+        "Infos": {
+            "PrerequisiteQuest": [
+                {
+                    "Name": "Trocken auf dem Meeresgrund",
+                    "Url": "/lodestone/playguide/db/quest/7034c050956/",
+                    "Area": "Tempest",
+                    "Level": "79"
+                }
+            ]
+        },
+        "Seq": 6,
+        "StartDependency": false
+    }
+]

@@ -1,0 +1,2432 @@
+[
+    {
+        "ID": "00c507f9533",
+        "Name": "Schuss ins Herz",
+        "Location": "Unteres La Noscea",
+        "Level": 80,
+        "JournalSection": 0,
+        "JournalCategory": 10,
+        "JournalGenre": "Geflüster des Untergangs",
+        "Url": "/lodestone/playguide/db/quest/00c507f9533/",
+        "Image": null,
+        "Icon": "main",
+        "Issuer": "Alphinaud",
+        "StartLocation": {
+            "Name": "Unteres La Noscea",
+            "X": "27.4",
+            "Y": "18.5"
+        },
+        "StartClass": null,
+        "Job": "Krieger oder Magier (außer beschränkte Jobs)",
+        "Company": "Keine Angabe",
+        "Requirement": "Keine Angabe",
+        "Rewards": {
+            "Gil": 0,
+            "Exp": 22440,
+            "ItemsMand": [],
+            "ItemsOpt": [
+                {
+                    "Icon": "https://img.finalfantasyxiv.com/lds/pc/global/images/itemicon/18/18eb656617ee6b5c7a7bc8658a6b463dd72260b3.png?n6.05",
+                    "Name": "Hellseher-Materia VIII",
+                    "Amount": 1,
+                    "Url": "/lodestone/playguide/db/item/790e514496c/"
+                },
+                {
+                    "Icon": "https://img.finalfantasyxiv.com/lds/pc/global/images/itemicon/18/18eb656617ee6b5c7a7bc8658a6b463dd72260b3.png?n6.05",
+                    "Name": "Strategen-Materia VIII",
+                    "Amount": 1,
+                    "Url": "/lodestone/playguide/db/item/cd92a6cfb05/"
+                },
+                {
+                    "Icon": "https://img.finalfantasyxiv.com/lds/pc/global/images/itemicon/18/18eb656617ee6b5c7a7bc8658a6b463dd72260b3.png?n6.05",
+                    "Name": "Assassinen-Materia VIII",
+                    "Amount": 1,
+                    "Url": "/lodestone/playguide/db/item/dcb31ada91b/"
+                }
+            ]
+        },
+        "Infos": {
+            "PrerequisiteQuest": [
+                {
+                    "Name": "Kristallkabale",
+                    "Url": "/lodestone/playguide/db/quest/03f34c82ac3/",
+                    "Area": "Untere Decks",
+                    "Level": "80"
+                }
+            ],
+            "FollowupQuest": [
+                {
+                    "Name": "Gute Winde für Vylbrand",
+                    "Url": "/lodestone/playguide/db/quest/3f6cfe1a2fe/",
+                    "Area": "Admiralsbrücke",
+                    "Level": "80"
+                }
+            ],
+            "RelatedNPC": [
+                {
+                    "Name": "Alisaie",
+                    "Url": "/lodestone/playguide/db/npc/npc/94793fe4783/",
+                    "Area": "Admiralsbrücke (X:3.5 Y:3.4)"
+                },
+                {
+                    "Name": "Alphinaud",
+                    "Url": "/lodestone/playguide/db/npc/npc/594aa95a8ce/",
+                    "Area": "Admiralsbrücke (X:3.5 Y:3.4)"
+                },
+                {
+                    "Name": "Eynzahr Slafyrsyn",
+                    "Url": "/lodestone/playguide/db/npc/npc/555bd60b48d/",
+                    "Area": "Admiralsbrücke (X:3.5 Y:3.3)"
+                },
+                {
+                    "Name": "G'raha Tia",
+                    "Url": "/lodestone/playguide/db/npc/npc/8d9f122730a/",
+                    "Area": "Admiralsbrücke (X:3.5 Y:3.4)"
+                },
+                {
+                    "Name": "Merlwyb",
+                    "Url": "/lodestone/playguide/db/npc/npc/046a0800c36/",
+                    "Area": "Admiralsbrücke (X:3.5 Y:3.4)"
+                },
+                {
+                    "Name": "Zanthael",
+                    "Url": "/lodestone/playguide/db/npc/npc/923199fa8c4/",
+                    "Area": "Untere Decks (X:11.4 Y:10.9)"
+                },
+                {
+                    "Name": "Alisaie",
+                    "Url": "/lodestone/playguide/db/npc/npc/0b9254c4a05/",
+                    "Area": "Unteres La Noscea (X:27.4 Y:18.5)"
+                },
+                {
+                    "Name": "G'raha Tia",
+                    "Url": "/lodestone/playguide/db/npc/npc/9833dc033a9/",
+                    "Area": "Unteres La Noscea (X:27.3 Y:18.5)"
+                }
+            ]
+        },
+        "Seq": 7,
+        "StartDependency": false
+    },
+    {
+        "ID": "03f34c82ac3",
+        "Name": "Kristallkabale",
+        "Location": "Untere Decks",
+        "Level": 80,
+        "JournalSection": 0,
+        "JournalCategory": 10,
+        "JournalGenre": "Geflüster des Untergangs",
+        "Url": "/lodestone/playguide/db/quest/03f34c82ac3/",
+        "Image": null,
+        "Icon": "main",
+        "Issuer": "Alphinaud",
+        "StartLocation": {
+            "Name": "Untere Decks",
+            "X": "11.2",
+            "Y": "10.9"
+        },
+        "StartClass": null,
+        "Job": "Krieger oder Magier (außer beschränkte Jobs)",
+        "Company": "Keine Angabe",
+        "Requirement": "Keine Angabe",
+        "Rewards": {
+            "Gil": 815,
+            "Exp": 22440,
+            "ItemsMand": [],
+            "ItemsOpt": []
+        },
+        "Infos": {
+            "PrerequisiteQuest": [
+                {
+                    "Name": "Der Argwohn des Admirals",
+                    "Url": "/lodestone/playguide/db/quest/d030e947404/",
+                    "Area": "Dravanisches Hinterland",
+                    "Level": "80"
+                }
+            ],
+            "FollowupQuest": [
+                {
+                    "Name": "Schuss ins Herz",
+                    "Url": "/lodestone/playguide/db/quest/00c507f9533/",
+                    "Area": "Unteres La Noscea",
+                    "Level": "80"
+                }
+            ],
+            "RelatedNPC": [
+                {
+                    "Name": "Alisaie",
+                    "Url": "/lodestone/playguide/db/npc/npc/6ac46f68bc3/",
+                    "Area": "Untere Decks (X:11.2 Y:10.9)"
+                },
+                {
+                    "Name": "G'raha Tia",
+                    "Url": "/lodestone/playguide/db/npc/npc/aec4f55a69c/",
+                    "Area": "Untere Decks (X:11.1 Y:10.9)"
+                },
+                {
+                    "Name": "Alisaie",
+                    "Url": "/lodestone/playguide/db/npc/npc/0b9254c4a05/",
+                    "Area": "Unteres La Noscea (X:27.4 Y:18.5)"
+                },
+                {
+                    "Name": "Alphinaud",
+                    "Url": "/lodestone/playguide/db/npc/npc/efddd19355f/",
+                    "Area": "Unteres La Noscea (X:23.1 Y:28.3)"
+                },
+                {
+                    "Name": "Alphinaud",
+                    "Url": "/lodestone/playguide/db/npc/npc/036ff75bff6/",
+                    "Area": "Unteres La Noscea (X:27.4 Y:18.5)"
+                }
+            ]
+        },
+        "Seq": 6,
+        "StartDependency": false
+    },
+    {
+        "ID": "264d23d2d1b",
+        "Name": "Blutzoll",
+        "Location": "Nald-Kreuzgang",
+        "Level": 80,
+        "JournalSection": 0,
+        "JournalCategory": 10,
+        "JournalGenre": "Geflüster des Untergangs",
+        "Url": "/lodestone/playguide/db/quest/264d23d2d1b/",
+        "Image": "https://img.finalfantasyxiv.com/lds/pc/global/images/itemicon/e3/e329ea651e9b13c04054994546b8d9b04addf8cd.png?n6.05",
+        "Icon": "main",
+        "Issuer": "Alphinaud",
+        "StartLocation": {
+            "Name": "Nald-Kreuzgang",
+            "X": "10.8",
+            "Y": "11.5"
+        },
+        "StartClass": null,
+        "Job": "Krieger oder Magier (außer beschränkte Jobs)",
+        "Company": "Keine Angabe",
+        "Requirement": "Keine Angabe",
+        "Rewards": {
+            "Gil": 5000,
+            "Exp": 22440,
+            "ItemsMand": [],
+            "ItemsOpt": []
+        },
+        "Infos": {
+            "PrerequisiteQuest": [
+                {
+                    "Name": "Goldene Flammen",
+                    "Url": "/lodestone/playguide/db/quest/48e6606f943/",
+                    "Area": "Azys Lla",
+                    "Level": "80"
+                }
+            ],
+            "FollowupQuest": [
+                {
+                    "Name": "Im Namen Eorzeas",
+                    "Url": "/lodestone/playguide/db/quest/d56bdc51d50/",
+                    "Area": "Sonnenstein",
+                    "Level": "80"
+                }
+            ],
+            "RelatedNPC": [
+                {
+                    "Name": "Alisaie",
+                    "Url": "/lodestone/playguide/db/npc/npc/d0f131d7f07/",
+                    "Area": "Nald-Kreuzgang (X:10.8 Y:11.5)"
+                },
+                {
+                    "Name": "Estinien",
+                    "Url": "/lodestone/playguide/db/npc/npc/8b93aa179d8/",
+                    "Area": "Nald-Kreuzgang (X:10.8 Y:11.4)"
+                },
+                {
+                    "Name": "G'raha Tia",
+                    "Url": "/lodestone/playguide/db/npc/npc/a4d50ff0bc4/",
+                    "Area": "Nald-Kreuzgang (X:10.8 Y:11.5)"
+                },
+                {
+                    "Name": "Luftschiffmatrose der Legion",
+                    "Url": "/lodestone/playguide/db/npc/npc/a5f5838a2e9/",
+                    "Area": "Nald-Kreuzgang (X:10.7 Y:11.4)"
+                },
+                {
+                    "Name": "Thancred",
+                    "Url": "/lodestone/playguide/db/npc/npc/3428fbe4118/",
+                    "Area": "Nald-Kreuzgang (X:10.8 Y:11.5)"
+                },
+                {
+                    "Name": "Urianger",
+                    "Url": "/lodestone/playguide/db/npc/npc/fdc7812c338/",
+                    "Area": "Nald-Kreuzgang (X:10.8 Y:11.4)"
+                },
+                {
+                    "Name": "Y'shtola",
+                    "Url": "/lodestone/playguide/db/npc/npc/d0a356964d2/",
+                    "Area": "Nald-Kreuzgang (X:10.8 Y:11.5)"
+                },
+                {
+                    "Name": "Alisaie",
+                    "Url": "/lodestone/playguide/db/npc/npc/77f09ada247/",
+                    "Area": "Thal-Kreuzgang (X:10.9 Y:12.4)"
+                },
+                {
+                    "Name": "Alphinaud",
+                    "Url": "/lodestone/playguide/db/npc/npc/8daa89fed1f/",
+                    "Area": "Thal-Kreuzgang (X:9.6 Y:12.4)"
+                },
+                {
+                    "Name": "Alphinaud",
+                    "Url": "/lodestone/playguide/db/npc/npc/b7ccbd77506/",
+                    "Area": "Thal-Kreuzgang (X:10.9 Y:12.4)"
+                },
+                {
+                    "Name": "Estinien",
+                    "Url": "/lodestone/playguide/db/npc/npc/c3cae784a5a/",
+                    "Area": "Thal-Kreuzgang (X:9.5 Y:12.1)"
+                },
+                {
+                    "Name": "Estinien",
+                    "Url": "/lodestone/playguide/db/npc/npc/bf1c4138c6e/",
+                    "Area": "Thal-Kreuzgang (X:11.0 Y:12.3)"
+                },
+                {
+                    "Name": "Fordola",
+                    "Url": "/lodestone/playguide/db/npc/npc/b7f24f349b9/",
+                    "Area": "Thal-Kreuzgang (X:9.7 Y:12.3)"
+                },
+                {
+                    "Name": "G'raha Tia",
+                    "Url": "/lodestone/playguide/db/npc/npc/f088f058c2d/",
+                    "Area": "Thal-Kreuzgang (X:11.0 Y:12.4)"
+                },
+                {
+                    "Name": "Heiler der Physiatrischen Akademie",
+                    "Url": "/lodestone/playguide/db/npc/npc/dd734260a4e/",
+                    "Area": "Thal-Kreuzgang (X:9.7 Y:12.4)"
+                },
+                {
+                    "Name": "Thancred",
+                    "Url": "/lodestone/playguide/db/npc/npc/542da734d06/",
+                    "Area": "Thal-Kreuzgang (X:11.0 Y:12.4)"
+                },
+                {
+                    "Name": "Urianger",
+                    "Url": "/lodestone/playguide/db/npc/npc/49189135945/",
+                    "Area": "Thal-Kreuzgang (X:11.0 Y:12.4)"
+                },
+                {
+                    "Name": "Y'shtola",
+                    "Url": "/lodestone/playguide/db/npc/npc/adcb2a17970/",
+                    "Area": "Thal-Kreuzgang (X:10.9 Y:12.4)"
+                },
+                {
+                    "Name": "Alisaie",
+                    "Url": "/lodestone/playguide/db/npc/npc/5acf6892190/",
+                    "Area": "Sonnenstein (X:6.0 Y:5.9)"
+                },
+                {
+                    "Name": "Tataru",
+                    "Url": "/lodestone/playguide/db/npc/npc/95a4d68eddf/",
+                    "Area": "Sonnenstein (X:6.0 Y:5.9)"
+                }
+            ],
+            "RelatedAchievements": [
+                {
+                    "Name": "Blutzoll des Krieges",
+                    "Url": "/lodestone/playguide/db/achievement/dafad0a7824/",
+                    "Reward": "-",
+                    "Points": "20"
+                }
+            ]
+        },
+        "Seq": 15,
+        "StartDependency": false
+    },
+    {
+        "ID": "29d3d8654c1",
+        "Name": "Die Lehren des Scheiterns",
+        "Location": "Abanisches Grenzland",
+        "Level": 80,
+        "JournalSection": 0,
+        "JournalCategory": 10,
+        "JournalGenre": "Geflüster des Untergangs",
+        "Url": "/lodestone/playguide/db/quest/29d3d8654c1/",
+        "Image": null,
+        "Icon": "main",
+        "Issuer": "Alphinaud",
+        "StartLocation": {
+            "Name": "Abanisches Grenzland",
+            "X": "8.6",
+            "Y": "11.3"
+        },
+        "StartClass": null,
+        "Job": "Krieger oder Magier (außer beschränkte Jobs)",
+        "Company": "Keine Angabe",
+        "Requirement": "Keine Angabe",
+        "Rewards": {
+            "Gil": 0,
+            "Exp": 22440,
+            "ItemsMand": [],
+            "ItemsOpt": [
+                {
+                    "Icon": "https://img.finalfantasyxiv.com/lds/pc/global/images/itemicon/d6/d665ef5c3f7631ddabd9db05ef661898a46040ba.png?n6.05",
+                    "Name": "Zefir",
+                    "Amount": 3,
+                    "Url": "/lodestone/playguide/db/item/728726b13a6/?hq=1"
+                },
+                {
+                    "Icon": "https://img.finalfantasyxiv.com/lds/pc/global/images/itemicon/06/06e2cf5b5ac620c0efa7da3700c5cf30d60ee47b.png?n6.05",
+                    "Name": "Bandnudeln an Hähnchen-Sahnesoße",
+                    "Amount": 3,
+                    "Url": "/lodestone/playguide/db/item/82236739962/?hq=1"
+                },
+                {
+                    "Icon": "https://img.finalfantasyxiv.com/lds/pc/global/images/itemicon/4b/4bc985cd4360112e25dade3f98b370b5289a99ca.png?n6.05",
+                    "Name": "Goldananassaft",
+                    "Amount": 3,
+                    "Url": "/lodestone/playguide/db/item/46318bf17a6/?hq=1"
+                },
+                {
+                    "Icon": "https://img.finalfantasyxiv.com/lds/pc/global/images/itemicon/58/588911df74e3161b271ee59caff8dbede1079476.png?n6.05",
+                    "Name": "Zitronenmuffin",
+                    "Amount": 3,
+                    "Url": "/lodestone/playguide/db/item/58661f5b4a2/?hq=1"
+                }
+            ]
+        },
+        "Infos": {
+            "PrerequisiteQuest": [
+                {
+                    "Name": "Im Namen Eorzeas",
+                    "Url": "/lodestone/playguide/db/quest/d56bdc51d50/",
+                    "Area": "Sonnenstein",
+                    "Level": "80"
+                }
+            ],
+            "FollowupQuest": [
+                {
+                    "Name": "Kampf im Morgengrauen",
+                    "Url": "/lodestone/playguide/db/quest/964cf0528f1/",
+                    "Area": "Wasserrosentisch",
+                    "Level": "80"
+                }
+            ],
+            "RelatedNPC": [
+                {
+                    "Name": "Alisaie",
+                    "Url": "/lodestone/playguide/db/npc/npc/a65512fe72f/",
+                    "Area": "Alt-Gridania (X:13.7 Y:6.2)"
+                },
+                {
+                    "Name": "Alphinaud",
+                    "Url": "/lodestone/playguide/db/npc/npc/2bbbfcbf3ab/",
+                    "Area": "Alt-Gridania (X:13.7 Y:6.2)"
+                },
+                {
+                    "Name": "G'raha Tia",
+                    "Url": "/lodestone/playguide/db/npc/npc/d59b67d1b9c/",
+                    "Area": "Alt-Gridania (X:13.7 Y:6.2)"
+                },
+                {
+                    "Name": "Stille Druidin",
+                    "Url": "/lodestone/playguide/db/npc/npc/e6c3e7ebc51/",
+                    "Area": "Alt-Gridania (X:8.0 Y:11.1)"
+                },
+                {
+                    "Name": "Alisaie",
+                    "Url": "/lodestone/playguide/db/npc/npc/bdf6a8ad789/",
+                    "Area": "Ostwald (X:22.0 Y:25.7)"
+                },
+                {
+                    "Name": "Frixio",
+                    "Url": "/lodestone/playguide/db/npc/npc/37230901206/",
+                    "Area": "Ostwald (X:22.0 Y:25.6)"
+                },
+                {
+                    "Name": "G'raha Tia",
+                    "Url": "/lodestone/playguide/db/npc/npc/c7a0bc119db/",
+                    "Area": "Ostwald (X:22.0 Y:25.6)"
+                },
+                {
+                    "Name": "Alisaie",
+                    "Url": "/lodestone/playguide/db/npc/npc/5a779b4329d/",
+                    "Area": "Wasserrosentisch (X:6.2 Y:6.1)"
+                },
+                {
+                    "Name": "Alisaie",
+                    "Url": "/lodestone/playguide/db/npc/npc/0d53327731c/",
+                    "Area": "Wasserrosentisch (X:6.2 Y:6.1)"
+                },
+                {
+                    "Name": "Alphinaud",
+                    "Url": "/lodestone/playguide/db/npc/npc/408f7be56b3/",
+                    "Area": "Wasserrosentisch (X:6.1 Y:6.1)"
+                },
+                {
+                    "Name": "Alphinaud",
+                    "Url": "/lodestone/playguide/db/npc/npc/170d75afb87/",
+                    "Area": "Wasserrosentisch (X:6.1 Y:6.1)"
+                },
+                {
+                    "Name": "G'raha Tia",
+                    "Url": "/lodestone/playguide/db/npc/npc/d388f42baa6/",
+                    "Area": "Wasserrosentisch (X:6.1 Y:6.1)"
+                },
+                {
+                    "Name": "G'raha Tia",
+                    "Url": "/lodestone/playguide/db/npc/npc/edeb25fee5f/",
+                    "Area": "Wasserrosentisch (X:6.1 Y:6.1)"
+                },
+                {
+                    "Name": "Kan-E-Senna",
+                    "Url": "/lodestone/playguide/db/npc/npc/c66819d3e14/",
+                    "Area": "Wasserrosentisch (X:6.2 Y:6.1)"
+                },
+                {
+                    "Name": "Alianne",
+                    "Url": "/lodestone/playguide/db/npc/npc/90dfe07203c/",
+                    "Area": "Abanisches Grenzland (X:8.6 Y:11.4)"
+                },
+                {
+                    "Name": "Riol",
+                    "Url": "/lodestone/playguide/db/npc/npc/235ec698930/",
+                    "Area": "Abanisches Grenzland (X:8.6 Y:11.4)"
+                }
+            ]
+        },
+        "Seq": 17,
+        "StartDependency": false
+    },
+    {
+        "ID": "3cf3d03e1a2",
+        "Name": "Auf den Spuren eines Drachen",
+        "Location": "Das Fenn",
+        "Level": 80,
+        "JournalSection": 0,
+        "JournalCategory": 10,
+        "JournalGenre": "Geflüster des Untergangs",
+        "Url": "/lodestone/playguide/db/quest/3cf3d03e1a2/",
+        "Image": null,
+        "Icon": "main",
+        "Issuer": "Alphinaud",
+        "StartLocation": {
+            "Name": "Das Fenn",
+            "X": "36.3",
+            "Y": "32.0"
+        },
+        "StartClass": null,
+        "Job": "Krieger oder Magier (außer beschränkte Jobs)",
+        "Company": "Keine Angabe",
+        "Requirement": "Keine Angabe",
+        "Rewards": {
+            "Gil": 0,
+            "Exp": 22440,
+            "ItemsMand": [],
+            "ItemsOpt": [
+                {
+                    "Icon": "https://img.finalfantasyxiv.com/lds/pc/global/images/itemicon/f3/f320e482689e023dd5f2045a6bc5d12ffaa22dac.png?n6.05",
+                    "Name": "Pizza",
+                    "Amount": 3,
+                    "Url": "/lodestone/playguide/db/item/bc2468db942/?hq=1"
+                },
+                {
+                    "Icon": "https://img.finalfantasyxiv.com/lds/pc/global/images/itemicon/01/016b341e911f6ac7ed1b8e1924610a6b4b589d00.png?n6.05",
+                    "Name": "Dunstspinat-Quiche",
+                    "Amount": 3,
+                    "Url": "/lodestone/playguide/db/item/7061a53f111/?hq=1"
+                },
+                {
+                    "Icon": "https://img.finalfantasyxiv.com/lds/pc/global/images/itemicon/21/2137e56a303112af0e5ffa0f46b30f530f705c2f.png?n6.05",
+                    "Name": "Toffelsalat mit Apfel",
+                    "Amount": 3,
+                    "Url": "/lodestone/playguide/db/item/c50d9bbb3ce/?hq=1"
+                },
+                {
+                    "Icon": "https://img.finalfantasyxiv.com/lds/pc/global/images/itemicon/ba/baa2341dd17414fae7fd62ae7bc62c64589b67be.png?n6.05",
+                    "Name": "Allagisches Silberstück",
+                    "Amount": 2,
+                    "Url": "/lodestone/playguide/db/item/a3ac3ba4b00/"
+                }
+            ]
+        },
+        "Infos": {
+            "PrerequisiteQuest": [
+                {
+                    "Name": "Silberharnisch",
+                    "Url": "/lodestone/playguide/db/quest/993e35adeeb/",
+                    "Area": "Sonnenstein",
+                    "Level": "80"
+                }
+            ],
+            "FollowupQuest": [
+                {
+                    "Name": "Gefängnis der Trauer",
+                    "Url": "/lodestone/playguide/db/quest/63c10bff6c2/",
+                    "Area": "Azys Lla",
+                    "Level": "80"
+                }
+            ],
+            "RelatedNPC": [
+                {
+                    "Name": "Alisaie",
+                    "Url": "/lodestone/playguide/db/npc/npc/37043013e75/",
+                    "Area": "Fundamente (X:9.7 Y:11.8)"
+                },
+                {
+                    "Name": "Alphinaud",
+                    "Url": "/lodestone/playguide/db/npc/npc/56b974b9542/",
+                    "Area": "Fundamente (X:9.7 Y:11.8)"
+                },
+                {
+                    "Name": "Alphinaud",
+                    "Url": "/lodestone/playguide/db/npc/npc/b90f6f29330/",
+                    "Area": "Fundamente (X:8.3 Y:10.6)"
+                },
+                {
+                    "Name": "G'raha Tia",
+                    "Url": "/lodestone/playguide/db/npc/npc/f8565489e11/",
+                    "Area": "Fundamente (X:9.7 Y:11.7)"
+                },
+                {
+                    "Name": "Lucia",
+                    "Url": "/lodestone/playguide/db/npc/npc/2fb397135ab/",
+                    "Area": "Fundamente (X:13.7 Y:11.2)"
+                },
+                {
+                    "Name": "Alisaie",
+                    "Url": "/lodestone/playguide/db/npc/npc/3103ad85cb6/",
+                    "Area": "Strebewerk (X:9.9 Y:10.1)"
+                },
+                {
+                    "Name": "Alisaie",
+                    "Url": "/lodestone/playguide/db/npc/npc/f65ee2cb8f5/",
+                    "Area": "Strebewerk (X:14.4 Y:11.9)"
+                },
+                {
+                    "Name": "G'raha Tia",
+                    "Url": "/lodestone/playguide/db/npc/npc/5c27d74717b/",
+                    "Area": "Strebewerk (X:12.9 Y:10.0)"
+                },
+                {
+                    "Name": "G'raha Tia",
+                    "Url": "/lodestone/playguide/db/npc/npc/d6cebc6ccb0/",
+                    "Area": "Strebewerk (X:14.5 Y:11.9)"
+                },
+                {
+                    "Name": "Alisaie",
+                    "Url": "/lodestone/playguide/db/npc/npc/cdd41680ddf/",
+                    "Area": "Azys Lla (X:12.1 Y:25.3)"
+                },
+                {
+                    "Name": "Alphinaud",
+                    "Url": "/lodestone/playguide/db/npc/npc/86a697ea5c1/",
+                    "Area": "Azys Lla (X:12.1 Y:25.4)"
+                },
+                {
+                    "Name": "Estinien",
+                    "Url": "/lodestone/playguide/db/npc/npc/9a800411856/",
+                    "Area": "Azys Lla (X:12.1 Y:25.4)"
+                },
+                {
+                    "Name": "G'raha Tia",
+                    "Url": "/lodestone/playguide/db/npc/npc/357d592ca2b/",
+                    "Area": "Azys Lla (X:12.1 Y:25.4)"
+                },
+                {
+                    "Name": "Alisaie",
+                    "Url": "/lodestone/playguide/db/npc/npc/461a6a652d7/",
+                    "Area": "Das Fenn (X:36.3 Y:32.1)"
+                },
+                {
+                    "Name": "G'raha Tia",
+                    "Url": "/lodestone/playguide/db/npc/npc/059acaed5d5/",
+                    "Area": "Das Fenn (X:36.2 Y:32.0)"
+                }
+            ]
+        },
+        "Seq": 11,
+        "StartDependency": false
+    },
+    {
+        "ID": "3ed404bf688",
+        "Name": "Mit dem Allwissen der Allager",
+        "Location": "Azys Lla",
+        "Level": 80,
+        "JournalSection": 0,
+        "JournalCategory": 10,
+        "JournalGenre": "Geflüster des Untergangs",
+        "Url": "/lodestone/playguide/db/quest/3ed404bf688/",
+        "Image": null,
+        "Icon": "main",
+        "Issuer": "G'raha Tia",
+        "StartLocation": {
+            "Name": "Azys Lla",
+            "X": "4.6",
+            "Y": "9.8"
+        },
+        "StartClass": null,
+        "Job": "Krieger oder Magier (außer beschränkte Jobs)",
+        "Company": "Keine Angabe",
+        "Requirement": "Keine Angabe",
+        "Rewards": {
+            "Gil": 0,
+            "Exp": 22440,
+            "ItemsMand": [],
+            "ItemsOpt": [
+                {
+                    "Icon": "https://img.finalfantasyxiv.com/lds/pc/global/images/itemicon/d5/d50ecfc3f54b64586dc6ac48c57b02b821ff0529.png?n6.05",
+                    "Name": "Ovim-Hackbällchen",
+                    "Amount": 3,
+                    "Url": "/lodestone/playguide/db/item/125f198c66e/?hq=1"
+                },
+                {
+                    "Icon": "https://img.finalfantasyxiv.com/lds/pc/global/images/itemicon/01/0100591a7c20893300c296cb9dd5f0a1e540d79a.png?n6.05",
+                    "Name": "Heringspastete",
+                    "Amount": 3,
+                    "Url": "/lodestone/playguide/db/item/7f25930f9a4/?hq=1"
+                },
+                {
+                    "Icon": "https://img.finalfantasyxiv.com/lds/pc/global/images/itemicon/9a/9a1ea167c5bcc05aba00cce51055ef039ef3a152.png?n6.05",
+                    "Name": "Seidenpudding",
+                    "Amount": 3,
+                    "Url": "/lodestone/playguide/db/item/3bee248da67/?hq=1"
+                },
+                {
+                    "Icon": "https://img.finalfantasyxiv.com/lds/pc/global/images/itemicon/ba/baa2341dd17414fae7fd62ae7bc62c64589b67be.png?n6.05",
+                    "Name": "Allagisches Silberstück",
+                    "Amount": 2,
+                    "Url": "/lodestone/playguide/db/item/a3ac3ba4b00/"
+                }
+            ]
+        },
+        "Infos": {
+            "PrerequisiteQuest": [
+                {
+                    "Name": "Hohe Ziele",
+                    "Url": "/lodestone/playguide/db/quest/7ead62083f1/",
+                    "Area": "Sonnenstein",
+                    "Level": "80"
+                }
+            ],
+            "FollowupQuest": [
+                {
+                    "Name": "Das Erbe Noahs",
+                    "Url": "/lodestone/playguide/db/quest/79893c7e864/",
+                    "Area": "Azys Lla",
+                    "Level": "80"
+                }
+            ],
+            "RelatedNPC": [
+                {
+                    "Name": "Alisaie",
+                    "Url": "/lodestone/playguide/db/npc/npc/240b72db5eb/",
+                    "Area": "Azys Lla (X:4.6 Y:9.7)"
+                },
+                {
+                    "Name": "Alisaie",
+                    "Url": "/lodestone/playguide/db/npc/npc/a932787e5c5/",
+                    "Area": "Azys Lla (X:9.7 Y:11.0)"
+                },
+                {
+                    "Name": "Alisaie",
+                    "Url": "/lodestone/playguide/db/npc/npc/eac3121d283/",
+                    "Area": "Azys Lla (X:35.4 Y:15.5)"
+                },
+                {
+                    "Name": "G'raha Tia",
+                    "Url": "/lodestone/playguide/db/npc/npc/f04984c51a6/",
+                    "Area": "Azys Lla (X:9.7 Y:11.0)"
+                },
+                {
+                    "Name": "G'raha Tia",
+                    "Url": "/lodestone/playguide/db/npc/npc/eb63ad86087/",
+                    "Area": "Azys Lla (X:35.3 Y:15.5)"
+                },
+                {
+                    "Name": "Steuermodul",
+                    "Url": "/lodestone/playguide/db/npc/npc/11de8c485bd/",
+                    "Area": "Azys Lla (X:35.4 Y:15.5)"
+                }
+            ]
+        },
+        "Seq": 1,
+        "StartDependency": false
+    },
+    {
+        "ID": "3f6cfe1a2fe",
+        "Name": "Gute Winde für Vylbrand",
+        "Location": "Admiralsbrücke",
+        "Level": 80,
+        "JournalSection": 0,
+        "JournalCategory": 10,
+        "JournalGenre": "Geflüster des Untergangs",
+        "Url": "/lodestone/playguide/db/quest/3f6cfe1a2fe/",
+        "Image": "https://img.finalfantasyxiv.com/lds/pc/global/images/itemicon/9c/9cfc991ffd00b9d9159f829f84571fb74cd3a07e.png?n6.05",
+        "Icon": "main",
+        "Issuer": "Merlwyb",
+        "StartLocation": {
+            "Name": "Admiralsbrücke",
+            "X": "3.5",
+            "Y": "3.4"
+        },
+        "StartClass": null,
+        "Job": "Krieger oder Magier (außer beschränkte Jobs)",
+        "Company": "Keine Angabe",
+        "Requirement": "Keine Angabe",
+        "Rewards": {
+            "Gil": 2556,
+            "Exp": 22440,
+            "ItemsMand": [],
+            "ItemsOpt": []
+        },
+        "Infos": {
+            "PrerequisiteQuest": [
+                {
+                    "Name": "Schuss ins Herz",
+                    "Url": "/lodestone/playguide/db/quest/00c507f9533/",
+                    "Area": "Unteres La Noscea",
+                    "Level": "80"
+                }
+            ],
+            "FollowupQuest": [
+                {
+                    "Name": "Auf Unheilsschwingen",
+                    "Url": "/lodestone/playguide/db/quest/a424070bc4c/",
+                    "Area": "Äußeres La Noscea",
+                    "Level": "80"
+                }
+            ],
+            "RelatedNPC": [
+                {
+                    "Name": "Alisaie",
+                    "Url": "/lodestone/playguide/db/npc/npc/94793fe4783/",
+                    "Area": "Admiralsbrücke (X:3.5 Y:3.4)"
+                },
+                {
+                    "Name": "Alphinaud",
+                    "Url": "/lodestone/playguide/db/npc/npc/594aa95a8ce/",
+                    "Area": "Admiralsbrücke (X:3.5 Y:3.4)"
+                },
+                {
+                    "Name": "Eynzahr Slafyrsyn",
+                    "Url": "/lodestone/playguide/db/npc/npc/555bd60b48d/",
+                    "Area": "Admiralsbrücke (X:3.5 Y:3.3)"
+                },
+                {
+                    "Name": "G'raha Tia",
+                    "Url": "/lodestone/playguide/db/npc/npc/8d9f122730a/",
+                    "Area": "Admiralsbrücke (X:3.5 Y:3.4)"
+                },
+                {
+                    "Name": "Zanthael",
+                    "Url": "/lodestone/playguide/db/npc/npc/923199fa8c4/",
+                    "Area": "Untere Decks (X:11.4 Y:10.9)"
+                },
+                {
+                    "Name": "Alisaie",
+                    "Url": "/lodestone/playguide/db/npc/npc/d90ec644061/",
+                    "Area": "Äußeres La Noscea (X:19.3 Y:16.6)"
+                },
+                {
+                    "Name": "Alisaie",
+                    "Url": "/lodestone/playguide/db/npc/npc/ff288262a33/",
+                    "Area": "Äußeres La Noscea (X:24.3 Y:8.7)"
+                },
+                {
+                    "Name": "Alphinaud",
+                    "Url": "/lodestone/playguide/db/npc/npc/dbe657b202b/",
+                    "Area": "Äußeres La Noscea (X:19.3 Y:16.6)"
+                },
+                {
+                    "Name": "Alphinaud",
+                    "Url": "/lodestone/playguide/db/npc/npc/2e9af0aae78/",
+                    "Area": "Äußeres La Noscea (X:24.4 Y:8.8)"
+                },
+                {
+                    "Name": "Bloeidin",
+                    "Url": "/lodestone/playguide/db/npc/npc/485ce80f0e6/",
+                    "Area": "Äußeres La Noscea (X:18.6 Y:17.2)"
+                },
+                {
+                    "Name": "Eynzahr Slafyrsyn",
+                    "Url": "/lodestone/playguide/db/npc/npc/c8972460f59/",
+                    "Area": "Äußeres La Noscea (X:24.3 Y:8.8)"
+                },
+                {
+                    "Name": "Eynzahr Slafyrsyn",
+                    "Url": "/lodestone/playguide/db/npc/npc/b095596256c/",
+                    "Area": "Äußeres La Noscea (X:19.3 Y:16.6)"
+                },
+                {
+                    "Name": "G'raha Tia",
+                    "Url": "/lodestone/playguide/db/npc/npc/bf120aaced5/",
+                    "Area": "Äußeres La Noscea (X:19.3 Y:16.6)"
+                },
+                {
+                    "Name": "G'raha Tia",
+                    "Url": "/lodestone/playguide/db/npc/npc/1436e9b6f92/",
+                    "Area": "Äußeres La Noscea (X:24.4 Y:8.7)"
+                },
+                {
+                    "Name": "Ga Bu",
+                    "Url": "/lodestone/playguide/db/npc/npc/ba5eff7757c/",
+                    "Area": "Äußeres La Noscea (X:19.3 Y:16.6)"
+                },
+                {
+                    "Name": "Merlwyb",
+                    "Url": "/lodestone/playguide/db/npc/npc/d6e635ab68c/",
+                    "Area": "Äußeres La Noscea (X:24.3 Y:8.7)"
+                },
+                {
+                    "Name": "Merlwyb",
+                    "Url": "/lodestone/playguide/db/npc/npc/a7fa9233b10/",
+                    "Area": "Äußeres La Noscea (X:19.4 Y:16.6)"
+                }
+            ]
+        },
+        "Seq": 8,
+        "StartDependency": false
+    },
+    {
+        "ID": "48e6606f943",
+        "Name": "Goldene Flammen",
+        "Location": "Azys Lla",
+        "Level": 80,
+        "JournalSection": 0,
+        "JournalCategory": 10,
+        "JournalGenre": "Geflüster des Untergangs",
+        "Url": "/lodestone/playguide/db/quest/48e6606f943/",
+        "Image": "https://img.finalfantasyxiv.com/lds/pc/global/images/itemicon/33/3368bfd6a6b33e62e3a83b0728827bdaf3aac3b1.png?n6.05",
+        "Icon": "main",
+        "Issuer": "G'raha Tia",
+        "StartLocation": {
+            "Name": "Azys Lla",
+            "X": "8.9",
+            "Y": "31.1"
+        },
+        "StartClass": null,
+        "Job": "Krieger oder Magier (außer beschränkte Jobs)",
+        "Company": "Keine Angabe",
+        "Requirement": "Keine Angabe",
+        "Rewards": {
+            "Gil": 0,
+            "Exp": 22440,
+            "ItemsMand": [],
+            "ItemsOpt": [
+                {
+                    "Icon": "https://img.finalfantasyxiv.com/lds/pc/global/images/itemicon/18/18eb656617ee6b5c7a7bc8658a6b463dd72260b3.png?n6.05",
+                    "Name": "Hellseher-Materia VIII",
+                    "Amount": 1,
+                    "Url": "/lodestone/playguide/db/item/790e514496c/"
+                },
+                {
+                    "Icon": "https://img.finalfantasyxiv.com/lds/pc/global/images/itemicon/18/18eb656617ee6b5c7a7bc8658a6b463dd72260b3.png?n6.05",
+                    "Name": "Strategen-Materia VIII",
+                    "Amount": 1,
+                    "Url": "/lodestone/playguide/db/item/cd92a6cfb05/"
+                },
+                {
+                    "Icon": "https://img.finalfantasyxiv.com/lds/pc/global/images/itemicon/18/18eb656617ee6b5c7a7bc8658a6b463dd72260b3.png?n6.05",
+                    "Name": "Assassinen-Materia VIII",
+                    "Amount": 1,
+                    "Url": "/lodestone/playguide/db/item/dcb31ada91b/"
+                }
+            ]
+        },
+        "Infos": {
+            "PrerequisiteQuest": [
+                {
+                    "Name": "Flügelschlag in die Freiheit",
+                    "Url": "/lodestone/playguide/db/quest/faa752ebfa4/",
+                    "Area": "Azys Lla",
+                    "Level": "80"
+                }
+            ],
+            "FollowupQuest": [
+                {
+                    "Name": "Blutzoll",
+                    "Url": "/lodestone/playguide/db/quest/264d23d2d1b/",
+                    "Area": "Nald-Kreuzgang",
+                    "Level": "80"
+                }
+            ],
+            "RelatedNPC": [
+                {
+                    "Name": "Alisaie",
+                    "Url": "/lodestone/playguide/db/npc/npc/885c6e08fb9/",
+                    "Area": "Nald-Kreuzgang (X:8.5 Y:9.0)"
+                },
+                {
+                    "Name": "Alisaie",
+                    "Url": "/lodestone/playguide/db/npc/npc/d0f131d7f07/",
+                    "Area": "Nald-Kreuzgang (X:10.8 Y:11.5)"
+                },
+                {
+                    "Name": "Alphinaud",
+                    "Url": "/lodestone/playguide/db/npc/npc/bd610d260a2/",
+                    "Area": "Nald-Kreuzgang (X:8.5 Y:9.0)"
+                },
+                {
+                    "Name": "Alphinaud",
+                    "Url": "/lodestone/playguide/db/npc/npc/24a38e583e2/",
+                    "Area": "Nald-Kreuzgang (X:10.8 Y:11.5)"
+                },
+                {
+                    "Name": "Estinien",
+                    "Url": "/lodestone/playguide/db/npc/npc/8b93aa179d8/",
+                    "Area": "Nald-Kreuzgang (X:10.8 Y:11.4)"
+                },
+                {
+                    "Name": "G'raha Tia",
+                    "Url": "/lodestone/playguide/db/npc/npc/029f9d64628/",
+                    "Area": "Nald-Kreuzgang (X:8.5 Y:9.0)"
+                },
+                {
+                    "Name": "G'raha Tia",
+                    "Url": "/lodestone/playguide/db/npc/npc/a4d50ff0bc4/",
+                    "Area": "Nald-Kreuzgang (X:10.8 Y:11.5)"
+                },
+                {
+                    "Name": "Luftschiffmatrose der Legion",
+                    "Url": "/lodestone/playguide/db/npc/npc/a5f5838a2e9/",
+                    "Area": "Nald-Kreuzgang (X:10.7 Y:11.4)"
+                },
+                {
+                    "Name": "Thancred",
+                    "Url": "/lodestone/playguide/db/npc/npc/405aa057013/",
+                    "Area": "Nald-Kreuzgang (X:8.4 Y:9.0)"
+                },
+                {
+                    "Name": "Thancred",
+                    "Url": "/lodestone/playguide/db/npc/npc/3428fbe4118/",
+                    "Area": "Nald-Kreuzgang (X:10.8 Y:11.5)"
+                },
+                {
+                    "Name": "Urianger",
+                    "Url": "/lodestone/playguide/db/npc/npc/286bc5a5e55/",
+                    "Area": "Nald-Kreuzgang (X:8.4 Y:9.0)"
+                },
+                {
+                    "Name": "Urianger",
+                    "Url": "/lodestone/playguide/db/npc/npc/fdc7812c338/",
+                    "Area": "Nald-Kreuzgang (X:10.8 Y:11.4)"
+                },
+                {
+                    "Name": "Y'shtola",
+                    "Url": "/lodestone/playguide/db/npc/npc/3c22b5d8835/",
+                    "Area": "Nald-Kreuzgang (X:8.5 Y:8.9)"
+                },
+                {
+                    "Name": "Y'shtola",
+                    "Url": "/lodestone/playguide/db/npc/npc/d0a356964d2/",
+                    "Area": "Nald-Kreuzgang (X:10.8 Y:11.5)"
+                },
+                {
+                    "Name": "Alisaie",
+                    "Url": "/lodestone/playguide/db/npc/npc/43742e9a5e7/",
+                    "Area": "Azys Lla (X:8.9 Y:31.1)"
+                },
+                {
+                    "Name": "Alphinaud",
+                    "Url": "/lodestone/playguide/db/npc/npc/449b55fa312/",
+                    "Area": "Azys Lla (X:23.0 Y:21.8)"
+                },
+                {
+                    "Name": "Konstriktionsmodul",
+                    "Url": "/lodestone/playguide/db/npc/npc/acc7393f68a/",
+                    "Area": "Azys Lla (X:23.0 Y:21.8)"
+                }
+            ]
+        },
+        "Seq": 14,
+        "StartDependency": false
+    },
+    {
+        "ID": "63c10bff6c2",
+        "Name": "Gefängnis der Trauer",
+        "Location": "Azys Lla",
+        "Level": 80,
+        "JournalSection": 0,
+        "JournalCategory": 10,
+        "JournalGenre": "Geflüster des Untergangs",
+        "Url": "/lodestone/playguide/db/quest/63c10bff6c2/",
+        "Image": null,
+        "Icon": "main",
+        "Issuer": "Estinien",
+        "StartLocation": {
+            "Name": "Azys Lla",
+            "X": "12.1",
+            "Y": "25.4"
+        },
+        "StartClass": null,
+        "Job": "Krieger oder Magier (außer beschränkte Jobs)",
+        "Company": "Keine Angabe",
+        "Requirement": "Keine Angabe",
+        "Rewards": {
+            "Gil": 1175,
+            "Exp": 22440,
+            "ItemsMand": [],
+            "ItemsOpt": []
+        },
+        "Infos": {
+            "PrerequisiteQuest": [
+                {
+                    "Name": "Auf den Spuren eines Drachen",
+                    "Url": "/lodestone/playguide/db/quest/3cf3d03e1a2/",
+                    "Area": "Das Fenn",
+                    "Level": "80"
+                }
+            ],
+            "FollowupQuest": [
+                {
+                    "Name": "Flügelschlag in die Freiheit",
+                    "Url": "/lodestone/playguide/db/quest/faa752ebfa4/",
+                    "Area": "Azys Lla",
+                    "Level": "80"
+                }
+            ],
+            "RelatedNPC": [
+                {
+                    "Name": "Alisaie",
+                    "Url": "/lodestone/playguide/db/npc/npc/cdd41680ddf/",
+                    "Area": "Azys Lla (X:12.1 Y:25.3)"
+                },
+                {
+                    "Name": "Alisaie",
+                    "Url": "/lodestone/playguide/db/npc/npc/43742e9a5e7/",
+                    "Area": "Azys Lla (X:8.9 Y:31.1)"
+                },
+                {
+                    "Name": "Alphinaud",
+                    "Url": "/lodestone/playguide/db/npc/npc/86a697ea5c1/",
+                    "Area": "Azys Lla (X:12.1 Y:25.4)"
+                },
+                {
+                    "Name": "Alphinaud",
+                    "Url": "/lodestone/playguide/db/npc/npc/e46d47c3c5a/",
+                    "Area": "Azys Lla (X:8.9 Y:31.1)"
+                },
+                {
+                    "Name": "Alphinaud",
+                    "Url": "/lodestone/playguide/db/npc/npc/548556d3f09/",
+                    "Area": "Azys Lla (X:17.9 Y:24.4)"
+                },
+                {
+                    "Name": "Alphinaud",
+                    "Url": "/lodestone/playguide/db/npc/npc/9e2e5c07c92/",
+                    "Area": "Azys Lla (X:16.9 Y:22.9)"
+                },
+                {
+                    "Name": "Alphinaud",
+                    "Url": "/lodestone/playguide/db/npc/npc/94889e8788c/",
+                    "Area": "Azys Lla (X:17.0 Y:22.1)"
+                },
+                {
+                    "Name": "Estinien",
+                    "Url": "/lodestone/playguide/db/npc/npc/f21d04bdecb/",
+                    "Area": "Azys Lla (X:17.9 Y:24.4)"
+                },
+                {
+                    "Name": "Estinien",
+                    "Url": "/lodestone/playguide/db/npc/npc/516913f7129/",
+                    "Area": "Azys Lla (X:16.9 Y:22.5)"
+                },
+                {
+                    "Name": "Estinien",
+                    "Url": "/lodestone/playguide/db/npc/npc/35a2f48d231/",
+                    "Area": "Azys Lla (X:17.0 Y:22.1)"
+                },
+                {
+                    "Name": "Estinien",
+                    "Url": "/lodestone/playguide/db/npc/npc/6b1165aff01/",
+                    "Area": "Azys Lla (X:8.8 Y:31.0)"
+                },
+                {
+                    "Name": "G'raha Tia",
+                    "Url": "/lodestone/playguide/db/npc/npc/357d592ca2b/",
+                    "Area": "Azys Lla (X:12.1 Y:25.4)"
+                },
+                {
+                    "Name": "G'raha Tia",
+                    "Url": "/lodestone/playguide/db/npc/npc/afcfa41cd57/",
+                    "Area": "Azys Lla (X:8.8 Y:31.0)"
+                },
+                {
+                    "Name": "Qualmendes Terminal",
+                    "Url": "/lodestone/playguide/db/npc/npc/a8f0134fc5f/",
+                    "Area": "Azys Lla (X:18.2 Y:22.2)"
+                },
+                {
+                    "Name": "Ungewartetes Terminal",
+                    "Url": "/lodestone/playguide/db/npc/npc/6d0c6ff8d74/",
+                    "Area": "Azys Lla (X:17.0 Y:22.1)"
+                },
+                {
+                    "Name": "Verbindungsloses Terminal",
+                    "Url": "/lodestone/playguide/db/npc/npc/f56b5e08a0a/",
+                    "Area": "Azys Lla (X:17.6 Y:22.0)"
+                }
+            ]
+        },
+        "Seq": 12,
+        "StartDependency": false
+    },
+    {
+        "ID": "79893c7e864",
+        "Name": "Das Erbe Noahs",
+        "Location": "Azys Lla",
+        "Level": 80,
+        "JournalSection": 0,
+        "JournalCategory": 10,
+        "JournalGenre": "Geflüster des Untergangs",
+        "Url": "/lodestone/playguide/db/quest/79893c7e864/",
+        "Image": "https://img.finalfantasyxiv.com/lds/pc/global/images/itemicon/8f/8fd824a6fecb232e81d10d2fa8cbce471daf54b7.png?n6.05",
+        "Icon": "main",
+        "Issuer": "G'raha Tia",
+        "StartLocation": {
+            "Name": "Azys Lla",
+            "X": "35.3",
+            "Y": "15.5"
+        },
+        "StartClass": null,
+        "Job": "Krieger oder Magier (außer beschränkte Jobs)",
+        "Company": "Keine Angabe",
+        "Requirement": "Keine Angabe",
+        "Rewards": {
+            "Gil": 2100,
+            "Exp": 22440,
+            "ItemsMand": [],
+            "ItemsOpt": []
+        },
+        "Infos": {
+            "PrerequisiteQuest": [
+                {
+                    "Name": "Mit dem Allwissen der Allager",
+                    "Url": "/lodestone/playguide/db/quest/3ed404bf688/",
+                    "Area": "Azys Lla",
+                    "Level": "80"
+                }
+            ],
+            "FollowupQuest": [
+                {
+                    "Name": "Titanische Taten",
+                    "Url": "/lodestone/playguide/db/quest/c73901edcac/",
+                    "Area": "Sonnenstein",
+                    "Level": "80"
+                }
+            ],
+            "RelatedNPC": [
+                {
+                    "Name": "Fromelaut",
+                    "Url": "/lodestone/playguide/db/npc/npc/217a4a6ae22/",
+                    "Area": "Fundamente (X:8.2 Y:10.2)"
+                },
+                {
+                    "Name": "Himmelsstahl-Ingenieur",
+                    "Url": "/lodestone/playguide/db/npc/npc/7dffbea9193/",
+                    "Area": "Strebewerk (X:14.5 Y:10.9)"
+                },
+                {
+                    "Name": "Alisaie",
+                    "Url": "/lodestone/playguide/db/npc/npc/f952eda692b/",
+                    "Area": "Sonnenstein (X:6.0 Y:5.9)"
+                },
+                {
+                    "Name": "Alisaie",
+                    "Url": "/lodestone/playguide/db/npc/npc/85c84a8bdb8/",
+                    "Area": "Sonnenstein (X:6.1 Y:5.9)"
+                },
+                {
+                    "Name": "Cid",
+                    "Url": "/lodestone/playguide/db/npc/npc/4324697db0a/",
+                    "Area": "Sonnenstein (X:6.1 Y:6.0)"
+                },
+                {
+                    "Name": "G'raha Tia",
+                    "Url": "/lodestone/playguide/db/npc/npc/f51a1b1473a/",
+                    "Area": "Sonnenstein (X:6.1 Y:5.9)"
+                },
+                {
+                    "Name": "G'raha Tia",
+                    "Url": "/lodestone/playguide/db/npc/npc/839fea088e9/",
+                    "Area": "Sonnenstein (X:6.1 Y:5.9)"
+                },
+                {
+                    "Name": "Informationssystem",
+                    "Url": "/lodestone/playguide/db/npc/npc/8637eb414f1/",
+                    "Area": "Sonnenstein (X:6.1 Y:6.0)"
+                },
+                {
+                    "Name": "Informationssystem",
+                    "Url": "/lodestone/playguide/db/npc/npc/6080e74b681/",
+                    "Area": "Sonnenstein (X:6.1 Y:5.9)"
+                },
+                {
+                    "Name": "Informationssystem",
+                    "Url": "/lodestone/playguide/db/npc/npc/a30571b7f88/",
+                    "Area": "Sonnenstein (X:6.1 Y:5.9)"
+                },
+                {
+                    "Name": "Krile",
+                    "Url": "/lodestone/playguide/db/npc/npc/9c8aa7c0082/",
+                    "Area": "Sonnenstein (X:6.0 Y:5.9)"
+                },
+                {
+                    "Name": "Krile",
+                    "Url": "/lodestone/playguide/db/npc/npc/16f71c66b90/",
+                    "Area": "Sonnenstein (X:6.2 Y:5.9)"
+                },
+                {
+                    "Name": "Krile",
+                    "Url": "/lodestone/playguide/db/npc/npc/2ab95f3881f/",
+                    "Area": "Sonnenstein (X:6.7 Y:6.1)"
+                },
+                {
+                    "Name": "Tataru",
+                    "Url": "/lodestone/playguide/db/npc/npc/265b6c47733/",
+                    "Area": "Sonnenstein (X:6.0 Y:5.9)"
+                },
+                {
+                    "Name": "Tataru",
+                    "Url": "/lodestone/playguide/db/npc/npc/985c2345acc/",
+                    "Area": "Sonnenstein (X:6.2 Y:5.9)"
+                },
+                {
+                    "Name": "Alisaie",
+                    "Url": "/lodestone/playguide/db/npc/npc/eac3121d283/",
+                    "Area": "Azys Lla (X:35.4 Y:15.5)"
+                },
+                {
+                    "Name": "Informationssystem",
+                    "Url": "/lodestone/playguide/db/npc/npc/3ef62330c38/",
+                    "Area": "Azys Lla (X:35.3 Y:15.5)"
+                }
+            ]
+        },
+        "Seq": 2,
+        "StartDependency": false
+    },
+    {
+        "ID": "7ead62083f1",
+        "Name": "Hohe Ziele",
+        "Location": "Sonnenstein",
+        "Level": 80,
+        "JournalSection": 0,
+        "JournalCategory": 10,
+        "JournalGenre": "Geflüster des Untergangs",
+        "Url": "/lodestone/playguide/db/quest/7ead62083f1/",
+        "Image": "https://img.finalfantasyxiv.com/lds/pc/global/images/itemicon/5b/5b3ec538239c25bf9b6f2e8c36442613e1fddb7f.png?n6.05",
+        "Icon": "main",
+        "Issuer": "Krile",
+        "StartLocation": {
+            "Name": "Sonnenstein",
+            "X": "6.0",
+            "Y": "5.9"
+        },
+        "StartClass": null,
+        "Job": "Krieger oder Magier (außer beschränkte Jobs)",
+        "Company": "Keine Angabe",
+        "Requirement": "Keine Angabe",
+        "Rewards": {
+            "Gil": 935,
+            "Exp": 22440,
+            "ItemsMand": [],
+            "ItemsOpt": []
+        },
+        "Infos": {
+            "PrerequisiteQuest": [
+                {
+                    "Name": "Kristall-Reflektionen",
+                    "Url": "/lodestone/playguide/db/quest/29d7ff6ba43/",
+                    "Area": "Crystarium",
+                    "Level": "80"
+                }
+            ],
+            "FollowupQuest": [
+                {
+                    "Name": "Mit dem Allwissen der Allager",
+                    "Url": "/lodestone/playguide/db/quest/3ed404bf688/",
+                    "Area": "Azys Lla",
+                    "Level": "80"
+                }
+            ],
+            "RelatedNPC": [
+                {
+                    "Name": "Tataru",
+                    "Url": "/lodestone/playguide/db/npc/npc/09a9640fd30/",
+                    "Area": "Mor Dhona (X:23.9 Y:12.9)"
+                },
+                {
+                    "Name": "Alisaie",
+                    "Url": "/lodestone/playguide/db/npc/npc/c549b632c18/",
+                    "Area": "Sonnenstein (X:6.2 Y:5.9)"
+                },
+                {
+                    "Name": "G'raha Tia",
+                    "Url": "/lodestone/playguide/db/npc/npc/ae324447fbc/",
+                    "Area": "Sonnenstein (X:6.2 Y:5.9)"
+                },
+                {
+                    "Name": "Tataru",
+                    "Url": "/lodestone/playguide/db/npc/npc/dbb94f91cc0/",
+                    "Area": "Sonnenstein (X:6.2 Y:5.9)"
+                },
+                {
+                    "Name": "Alisaie",
+                    "Url": "/lodestone/playguide/db/npc/npc/240b72db5eb/",
+                    "Area": "Azys Lla (X:4.6 Y:9.7)"
+                },
+                {
+                    "Name": "G'raha Tia",
+                    "Url": "/lodestone/playguide/db/npc/npc/9c348881dce/",
+                    "Area": "Azys Lla (X:4.6 Y:9.8)"
+                }
+            ]
+        },
+        "Seq": 10,
+        "StartDependency": false
+    },
+    {
+        "ID": "964cf0528f1",
+        "Name": "Kampf im Morgengrauen",
+        "Location": "Wasserrosentisch",
+        "Level": 80,
+        "JournalSection": 0,
+        "JournalCategory": 10,
+        "JournalGenre": "Geflüster des Untergangs",
+        "Url": "/lodestone/playguide/db/quest/964cf0528f1/",
+        "Image": "https://img.finalfantasyxiv.com/lds/pc/global/images/itemicon/52/524a2257d58faa856bf8c40ee2abda1f552e1591.png?n6.05",
+        "Icon": "main",
+        "Issuer": "Kan-E-Senna",
+        "StartLocation": {
+            "Name": "Wasserrosentisch",
+            "X": "6.2",
+            "Y": "6.1"
+        },
+        "StartClass": null,
+        "Job": "Krieger oder Magier (außer beschränkte Jobs)",
+        "Company": "Keine Angabe",
+        "Requirement": "Keine Angabe",
+        "Rewards": {
+            "Gil": 0,
+            "Exp": 22440,
+            "ItemsMand": [
+                {
+                    "Icon": "https://img.finalfantasyxiv.com/lds/pc/global/images/itemicon/5e/5ec3981d430b756b587873ff9ab8ca7ac1754c02.png?n6.05",
+                    "Name": "",
+                    "Amount": null
+                }
+            ],
+            "ItemsOpt": []
+        },
+        "Infos": {
+            "PrerequisiteQuest": [
+                {
+                    "Name": "Die Lehren des Scheiterns",
+                    "Url": "/lodestone/playguide/db/quest/29d3d8654c1/",
+                    "Area": "Abanisches Grenzland",
+                    "Level": "80"
+                }
+            ],
+            "FollowupQuest": [
+                {
+                    "Name": "Aufbruch zu neuen Horizonten",
+                    "Url": "/lodestone/playguide/db/quest/129a229d2fe/",
+                    "Area": "Sonnenstein",
+                    "Level": "80"
+                }
+            ],
+            "RelatedNPC": [
+                {
+                    "Name": "Stille Druidin",
+                    "Url": "/lodestone/playguide/db/npc/npc/e6c3e7ebc51/",
+                    "Area": "Alt-Gridania (X:8.0 Y:11.1)"
+                },
+                {
+                    "Name": "Alisaie",
+                    "Url": "/lodestone/playguide/db/npc/npc/8ef1a09a296/",
+                    "Area": "Neu-Gridania (X:11.8 Y:13.3)"
+                },
+                {
+                    "Name": "Alphinaud",
+                    "Url": "/lodestone/playguide/db/npc/npc/756ab33a731/",
+                    "Area": "Neu-Gridania (X:12.3 Y:13.3)"
+                },
+                {
+                    "Name": "Alphinaud",
+                    "Url": "/lodestone/playguide/db/npc/npc/1cfc12e6f32/",
+                    "Area": "Neu-Gridania (X:11.9 Y:13.2)"
+                },
+                {
+                    "Name": "Fordola",
+                    "Url": "/lodestone/playguide/db/npc/npc/9847d716ee8/",
+                    "Area": "Neu-Gridania (X:12.4 Y:13.4)"
+                },
+                {
+                    "Name": "G'raha Tia",
+                    "Url": "/lodestone/playguide/db/npc/npc/e934a494958/",
+                    "Area": "Neu-Gridania (X:11.9 Y:13.3)"
+                },
+                {
+                    "Name": "Alisaie",
+                    "Url": "/lodestone/playguide/db/npc/npc/5a779b4329d/",
+                    "Area": "Wasserrosentisch (X:6.2 Y:6.1)"
+                },
+                {
+                    "Name": "Alphinaud",
+                    "Url": "/lodestone/playguide/db/npc/npc/408f7be56b3/",
+                    "Area": "Wasserrosentisch (X:6.1 Y:6.1)"
+                },
+                {
+                    "Name": "G'raha Tia",
+                    "Url": "/lodestone/playguide/db/npc/npc/d388f42baa6/",
+                    "Area": "Wasserrosentisch (X:6.1 Y:6.1)"
+                },
+                {
+                    "Name": "Alisaie",
+                    "Url": "/lodestone/playguide/db/npc/npc/9e18d3e46b0/",
+                    "Area": "Sonnenstein (X:6.1 Y:5.9)"
+                },
+                {
+                    "Name": "Alphinaud",
+                    "Url": "/lodestone/playguide/db/npc/npc/79f39caa68f/",
+                    "Area": "Sonnenstein (X:6.0 Y:6.0)"
+                },
+                {
+                    "Name": "Aymeric",
+                    "Url": "/lodestone/playguide/db/npc/npc/d0fc4c67544/",
+                    "Area": "Sonnenstein (X:6.0 Y:6.0)"
+                },
+                {
+                    "Name": "Estinien",
+                    "Url": "/lodestone/playguide/db/npc/npc/ce28033eeb4/",
+                    "Area": "Sonnenstein (X:6.1 Y:5.9)"
+                },
+                {
+                    "Name": "G'raha Tia",
+                    "Url": "/lodestone/playguide/db/npc/npc/2f55b279fb7/",
+                    "Area": "Sonnenstein (X:6.1 Y:6.0)"
+                },
+                {
+                    "Name": "Tataru",
+                    "Url": "/lodestone/playguide/db/npc/npc/95a4d68eddf/",
+                    "Area": "Sonnenstein (X:6.0 Y:5.9)"
+                },
+                {
+                    "Name": "Thancred",
+                    "Url": "/lodestone/playguide/db/npc/npc/af9cbfb2b06/",
+                    "Area": "Sonnenstein (X:6.1 Y:6.0)"
+                },
+                {
+                    "Name": "Urianger",
+                    "Url": "/lodestone/playguide/db/npc/npc/9b1a62eb869/",
+                    "Area": "Sonnenstein (X:6.1 Y:6.0)"
+                },
+                {
+                    "Name": "Y'shtola",
+                    "Url": "/lodestone/playguide/db/npc/npc/f02afa40cf8/",
+                    "Area": "Sonnenstein (X:6.1 Y:6.0)"
+                }
+            ],
+            "RelatedAchievements": [
+                {
+                    "Name": "Blick gen Mond",
+                    "Url": "/lodestone/playguide/db/achievement/e8986cb1971/",
+                    "Reward": "Titel",
+                    "Points": "20"
+                }
+            ]
+        },
+        "Seq": 18,
+        "StartDependency": false
+    },
+    {
+        "ID": "993e35adeeb",
+        "Name": "Silberharnisch",
+        "Location": "Sonnenstein",
+        "Level": 80,
+        "JournalSection": 0,
+        "JournalCategory": 10,
+        "JournalGenre": "Geflüster des Untergangs",
+        "Url": "/lodestone/playguide/db/quest/993e35adeeb/",
+        "Image": "https://img.finalfantasyxiv.com/lds/pc/global/images/itemicon/8d/8da556f5b1a914895d4a066a0feb59b9d54d2ea7.png?n6.05",
+        "Icon": "main",
+        "Issuer": "Alisaie",
+        "StartLocation": {
+            "Name": "Sonnenstein",
+            "X": "6.0",
+            "Y": "5.9"
+        },
+        "StartClass": null,
+        "Job": "Krieger oder Magier (außer beschränkte Jobs)",
+        "Company": "Keine Angabe",
+        "Requirement": "Keine Angabe",
+        "Rewards": {
+            "Gil": 1851,
+            "Exp": 22440,
+            "ItemsMand": [],
+            "ItemsOpt": []
+        },
+        "Infos": {
+            "PrerequisiteQuest": [
+                {
+                    "Name": "Auf Unheilsschwingen",
+                    "Url": "/lodestone/playguide/db/quest/a424070bc4c/",
+                    "Area": "Äußeres La Noscea",
+                    "Level": "80"
+                }
+            ],
+            "FollowupQuest": [
+                {
+                    "Name": "Auf den Spuren eines Drachen",
+                    "Url": "/lodestone/playguide/db/quest/3cf3d03e1a2/",
+                    "Area": "Das Fenn",
+                    "Level": "80"
+                }
+            ],
+            "RelatedNPC": [
+                {
+                    "Name": "Alisaie",
+                    "Url": "/lodestone/playguide/db/npc/npc/a5ccd94b3cd/",
+                    "Area": "Sonnenstein (X:6.1 Y:5.9)"
+                },
+                {
+                    "Name": "Y'shtola",
+                    "Url": "/lodestone/playguide/db/npc/npc/5109a210ac8/",
+                    "Area": "Sonnenstein (X:6.0 Y:5.9)"
+                },
+                {
+                    "Name": "Alisaie",
+                    "Url": "/lodestone/playguide/db/npc/npc/0a5261d9404/",
+                    "Area": "Das Fenn (X:36.2 Y:32.1)"
+                },
+                {
+                    "Name": "Alphinaud",
+                    "Url": "/lodestone/playguide/db/npc/npc/321580b6232/",
+                    "Area": "Das Fenn (X:36.2 Y:32.1)"
+                },
+                {
+                    "Name": "Alphinaud",
+                    "Url": "/lodestone/playguide/db/npc/npc/7eeb8de90da/",
+                    "Area": "Das Fenn (X:36.3 Y:32.0)"
+                },
+                {
+                    "Name": "Arenvald",
+                    "Url": "/lodestone/playguide/db/npc/npc/935eb88c8ed/",
+                    "Area": "Das Fenn (X:36.3 Y:32.0)"
+                },
+                {
+                    "Name": "Fordola",
+                    "Url": "/lodestone/playguide/db/npc/npc/9dc7e5a0ce2/",
+                    "Area": "Das Fenn (X:36.2 Y:32.0)"
+                },
+                {
+                    "Name": "G'raha Tia",
+                    "Url": "/lodestone/playguide/db/npc/npc/2f354beb021/",
+                    "Area": "Das Fenn (X:36.3 Y:32.1)"
+                },
+                {
+                    "Name": "Thancred",
+                    "Url": "/lodestone/playguide/db/npc/npc/dd4ad23b6d5/",
+                    "Area": "Das Fenn (X:36.3 Y:32.1)"
+                },
+                {
+                    "Name": "Urianger",
+                    "Url": "/lodestone/playguide/db/npc/npc/2119490a4eb/",
+                    "Area": "Das Fenn (X:36.2 Y:32.1)"
+                }
+            ]
+        },
+        "Seq": 10,
+        "StartDependency": false
+    },
+    {
+        "ID": "a424070bc4c",
+        "Name": "Auf Unheilsschwingen",
+        "Location": "Äußeres La Noscea",
+        "Level": 80,
+        "JournalSection": 0,
+        "JournalCategory": 10,
+        "JournalGenre": "Geflüster des Untergangs",
+        "Url": "/lodestone/playguide/db/quest/a424070bc4c/",
+        "Image": "https://img.finalfantasyxiv.com/lds/pc/global/images/itemicon/b8/b8cf8d6b88ab1668727d41f003bb4e2d757b369e.png?n6.05",
+        "Icon": "main",
+        "Issuer": "Alphinaud",
+        "StartLocation": {
+            "Name": "Äußeres La Noscea",
+            "X": "19.3",
+            "Y": "16.6"
+        },
+        "StartClass": null,
+        "Job": "Krieger oder Magier (außer beschränkte Jobs)",
+        "Company": "Keine Angabe",
+        "Requirement": "Keine Angabe",
+        "Rewards": {
+            "Gil": 4500,
+            "Exp": 22440,
+            "ItemsMand": [],
+            "ItemsOpt": []
+        },
+        "Infos": {
+            "PrerequisiteQuest": [
+                {
+                    "Name": "Gute Winde für Vylbrand",
+                    "Url": "/lodestone/playguide/db/quest/3f6cfe1a2fe/",
+                    "Area": "Admiralsbrücke",
+                    "Level": "80"
+                }
+            ],
+            "FollowupQuest": [
+                {
+                    "Name": "Silberharnisch",
+                    "Url": "/lodestone/playguide/db/quest/993e35adeeb/",
+                    "Area": "Sonnenstein",
+                    "Level": "80"
+                },
+                {
+                    "Name": "Dem Feind auf den Fersen",
+                    "Url": "/lodestone/playguide/db/quest/1baea97c99b/",
+                    "Area": "Gangos",
+                    "Level": "80"
+                }
+            ],
+            "RelatedNPC": [
+                {
+                    "Name": "Alisaie",
+                    "Url": "/lodestone/playguide/db/npc/npc/d90ec644061/",
+                    "Area": "Äußeres La Noscea (X:19.3 Y:16.6)"
+                },
+                {
+                    "Name": "Eynzahr Slafyrsyn",
+                    "Url": "/lodestone/playguide/db/npc/npc/b095596256c/",
+                    "Area": "Äußeres La Noscea (X:19.3 Y:16.6)"
+                },
+                {
+                    "Name": "G'raha Tia",
+                    "Url": "/lodestone/playguide/db/npc/npc/bf120aaced5/",
+                    "Area": "Äußeres La Noscea (X:19.3 Y:16.6)"
+                },
+                {
+                    "Name": "Ga Bu",
+                    "Url": "/lodestone/playguide/db/npc/npc/ba5eff7757c/",
+                    "Area": "Äußeres La Noscea (X:19.3 Y:16.6)"
+                },
+                {
+                    "Name": "Mahlstromoffizier",
+                    "Url": "/lodestone/playguide/db/npc/npc/84396cb3951/",
+                    "Area": "Äußeres La Noscea (X:12.8 Y:15.1)"
+                },
+                {
+                    "Name": "Merlwyb",
+                    "Url": "/lodestone/playguide/db/npc/npc/a7fa9233b10/",
+                    "Area": "Äußeres La Noscea (X:19.4 Y:16.6)"
+                },
+                {
+                    "Name": "Alisaie",
+                    "Url": "/lodestone/playguide/db/npc/npc/a5ccd94b3cd/",
+                    "Area": "Sonnenstein (X:6.1 Y:5.9)"
+                },
+                {
+                    "Name": "Alphinaud",
+                    "Url": "/lodestone/playguide/db/npc/npc/dc1cd876011/",
+                    "Area": "Sonnenstein (X:6.1 Y:5.9)"
+                },
+                {
+                    "Name": "G'raha Tia",
+                    "Url": "/lodestone/playguide/db/npc/npc/9a6707e1ddb/",
+                    "Area": "Sonnenstein (X:6.1 Y:5.9)"
+                },
+                {
+                    "Name": "Krile",
+                    "Url": "/lodestone/playguide/db/npc/npc/9c8aa7c0082/",
+                    "Area": "Sonnenstein (X:6.0 Y:5.9)"
+                },
+                {
+                    "Name": "Tataru",
+                    "Url": "/lodestone/playguide/db/npc/npc/265b6c47733/",
+                    "Area": "Sonnenstein (X:6.0 Y:5.9)"
+                },
+                {
+                    "Name": "Y'shtola",
+                    "Url": "/lodestone/playguide/db/npc/npc/b9dff6c71f2/",
+                    "Area": "Sonnenstein (X:6.0 Y:5.9)"
+                },
+                {
+                    "Name": "Alisaie",
+                    "Url": "/lodestone/playguide/db/npc/npc/96b1ae145eb/",
+                    "Area": "Das Fenn (X:33.1 Y:33.9)"
+                },
+                {
+                    "Name": "Alisaie",
+                    "Url": "/lodestone/playguide/db/npc/npc/9a192d09e06/",
+                    "Area": "Das Fenn (X:36.2 Y:32.0)"
+                },
+                {
+                    "Name": "Alphinaud",
+                    "Url": "/lodestone/playguide/db/npc/npc/4110a5a8a6a/",
+                    "Area": "Das Fenn (X:33.1 Y:33.9)"
+                },
+                {
+                    "Name": "Alphinaud",
+                    "Url": "/lodestone/playguide/db/npc/npc/8157bffc7a5/",
+                    "Area": "Das Fenn (X:36.2 Y:31.9)"
+                },
+                {
+                    "Name": "G'raha Tia",
+                    "Url": "/lodestone/playguide/db/npc/npc/fc0e9011fe7/",
+                    "Area": "Das Fenn (X:33.1 Y:33.9)"
+                },
+                {
+                    "Name": "G'raha Tia",
+                    "Url": "/lodestone/playguide/db/npc/npc/f0fdd53ed58/",
+                    "Area": "Das Fenn (X:36.2 Y:31.9)"
+                },
+                {
+                    "Name": "Lyse",
+                    "Url": "/lodestone/playguide/db/npc/npc/09e7ae9c2e4/",
+                    "Area": "Das Fenn (X:33.1 Y:33.9)"
+                },
+                {
+                    "Name": "Lyse",
+                    "Url": "/lodestone/playguide/db/npc/npc/34e201f39fd/",
+                    "Area": "Das Fenn (X:36.2 Y:32.0)"
+                },
+                {
+                    "Name": "Raubahn",
+                    "Url": "/lodestone/playguide/db/npc/npc/0025d7d4ed0/",
+                    "Area": "Das Fenn (X:36.2 Y:31.9)"
+                }
+            ],
+            "RelatedAchievements": [
+                {
+                    "Name": "Eine zweite Zukunft",
+                    "Url": "/lodestone/playguide/db/achievement/dc5deb50b87/",
+                    "Reward": "Titel",
+                    "Points": "20"
+                }
+            ]
+        },
+        "Seq": 9,
+        "StartDependency": false
+    },
+    {
+        "ID": "c482eedc483",
+        "Name": "Hexen hexen",
+        "Location": "Obere Decks",
+        "Level": 80,
+        "JournalSection": 0,
+        "JournalCategory": 10,
+        "JournalGenre": "Geflüster des Untergangs",
+        "Url": "/lodestone/playguide/db/quest/c482eedc483/",
+        "Image": "https://img.finalfantasyxiv.com/lds/pc/global/images/itemicon/8b/8b6b6413e3157c05a2e641b50d31a450b59f8fd1.png?n6.05",
+        "Icon": "main",
+        "Issuer": "Y'shtola",
+        "StartLocation": {
+            "Name": "Obere Decks",
+            "X": "9.0",
+            "Y": "13.5"
+        },
+        "StartClass": null,
+        "Job": "Krieger oder Magier (außer beschränkte Jobs)",
+        "Company": "Keine Angabe",
+        "Requirement": "Keine Angabe",
+        "Rewards": {
+            "Gil": 4000,
+            "Exp": 22440,
+            "ItemsMand": [],
+            "ItemsOpt": []
+        },
+        "Infos": {
+            "PrerequisiteQuest": [
+                {
+                    "Name": "Titanische Taten",
+                    "Url": "/lodestone/playguide/db/quest/c73901edcac/",
+                    "Area": "Sonnenstein",
+                    "Level": "80"
+                }
+            ],
+            "FollowupQuest": [
+                {
+                    "Name": "Der Argwohn des Admirals",
+                    "Url": "/lodestone/playguide/db/quest/d030e947404/",
+                    "Area": "Dravanisches Hinterland",
+                    "Level": "80"
+                }
+            ],
+            "RelatedNPC": [
+                {
+                    "Name": "Alisaie",
+                    "Url": "/lodestone/playguide/db/npc/npc/519b3d1844e/",
+                    "Area": "Obere Decks (X:9.0 Y:13.6)"
+                },
+                {
+                    "Name": "Alphinaud",
+                    "Url": "/lodestone/playguide/db/npc/npc/4d00205e87d/",
+                    "Area": "Obere Decks (X:9.0 Y:13.5)"
+                },
+                {
+                    "Name": "G'raha Tia",
+                    "Url": "/lodestone/playguide/db/npc/npc/a3b0c512e30/",
+                    "Area": "Obere Decks (X:9.0 Y:13.6)"
+                },
+                {
+                    "Name": "Alisaie",
+                    "Url": "/lodestone/playguide/db/npc/npc/166a216e984/",
+                    "Area": "Dravanisches Hinterland (X:12.9 Y:36.5)"
+                },
+                {
+                    "Name": "Alisaie",
+                    "Url": "/lodestone/playguide/db/npc/npc/a06316a495b/",
+                    "Area": "Dravanisches Hinterland (X:30.1 Y:18.0)"
+                },
+                {
+                    "Name": "Alphinaud",
+                    "Url": "/lodestone/playguide/db/npc/npc/a172fbab3dc/",
+                    "Area": "Dravanisches Hinterland (X:12.9 Y:36.5)"
+                },
+                {
+                    "Name": "Alphinaud",
+                    "Url": "/lodestone/playguide/db/npc/npc/b16e6d8d4de/",
+                    "Area": "Dravanisches Hinterland (X:30.2 Y:18.0)"
+                },
+                {
+                    "Name": "G'raha Tia",
+                    "Url": "/lodestone/playguide/db/npc/npc/92b0cce2f0e/",
+                    "Area": "Dravanisches Hinterland (X:12.9 Y:36.5)"
+                },
+                {
+                    "Name": "G'raha Tia",
+                    "Url": "/lodestone/playguide/db/npc/npc/5a4a54ac5e9/",
+                    "Area": "Dravanisches Hinterland (X:30.1 Y:18.1)"
+                },
+                {
+                    "Name": "Puro Roggo der Malproperer",
+                    "Url": "/lodestone/playguide/db/npc/npc/d17b543c2ef/",
+                    "Area": "Dravanisches Hinterland (X:30.2 Y:18.1)"
+                },
+                {
+                    "Name": "Y'shtola",
+                    "Url": "/lodestone/playguide/db/npc/npc/75bce1f2220/",
+                    "Area": "Dravanisches Hinterland (X:12.9 Y:36.5)"
+                },
+                {
+                    "Name": "Y'shtola",
+                    "Url": "/lodestone/playguide/db/npc/npc/932de83c025/",
+                    "Area": "Dravanisches Hinterland (X:30.1 Y:18.1)"
+                },
+                {
+                    "Name": "Alisaie",
+                    "Url": "/lodestone/playguide/db/npc/npc/d344b1c6d2b/",
+                    "Area": "Matoyas Höhle (X:6.4 Y:6.3)"
+                },
+                {
+                    "Name": "Alphinaud",
+                    "Url": "/lodestone/playguide/db/npc/npc/8bc2b4bb0d0/",
+                    "Area": "Matoyas Höhle (X:6.5 Y:6.3)"
+                },
+                {
+                    "Name": "G'raha Tia",
+                    "Url": "/lodestone/playguide/db/npc/npc/0179fd3da2d/",
+                    "Area": "Matoyas Höhle (X:6.4 Y:6.3)"
+                },
+                {
+                    "Name": "Matoya",
+                    "Url": "/lodestone/playguide/db/npc/npc/f3f8bd985d8/",
+                    "Area": "Matoyas Höhle (X:6.5 Y:6.4)"
+                },
+                {
+                    "Name": "Y'shtola",
+                    "Url": "/lodestone/playguide/db/npc/npc/808d934d3ab/",
+                    "Area": "Matoyas Höhle (X:6.4 Y:6.3)"
+                }
+            ]
+        },
+        "Seq": 4,
+        "StartDependency": false
+    },
+    {
+        "ID": "c73901edcac",
+        "Name": "Titanische Taten",
+        "Location": "Sonnenstein",
+        "Level": 80,
+        "JournalSection": 0,
+        "JournalCategory": 10,
+        "JournalGenre": "Geflüster des Untergangs",
+        "Url": "/lodestone/playguide/db/quest/c73901edcac/",
+        "Image": null,
+        "Icon": "main",
+        "Issuer": "Alisaie",
+        "StartLocation": {
+            "Name": "Sonnenstein",
+            "X": "6.0",
+            "Y": "5.9"
+        },
+        "StartClass": null,
+        "Job": "Krieger oder Magier (außer beschränkte Jobs)",
+        "Company": "Keine Angabe",
+        "Requirement": "Keine Angabe",
+        "Rewards": {
+            "Gil": 0,
+            "Exp": 22440,
+            "ItemsMand": [],
+            "ItemsOpt": [
+                {
+                    "Icon": "https://img.finalfantasyxiv.com/lds/pc/global/images/itemicon/59/59a42960944a5275082d2fef339a1ca37413f75f.png?n6.05",
+                    "Name": "Honighörnchen",
+                    "Amount": 3,
+                    "Url": "/lodestone/playguide/db/item/84b63e682f6/?hq=1"
+                },
+                {
+                    "Icon": "https://img.finalfantasyxiv.com/lds/pc/global/images/itemicon/da/da8d8c9ca19b832bf6d324391b65528282e356be.png?n6.05",
+                    "Name": "Zitronenwaffel",
+                    "Amount": 3,
+                    "Url": "/lodestone/playguide/db/item/6f24b9d9c46/?hq=1"
+                },
+                {
+                    "Icon": "https://img.finalfantasyxiv.com/lds/pc/global/images/itemicon/90/90135d943abe5a8adb17801986a3f252e3e3c386.png?n6.05",
+                    "Name": "Krautwickel nach Hochländer Art",
+                    "Amount": 3,
+                    "Url": "/lodestone/playguide/db/item/26f21af6409/?hq=1"
+                },
+                {
+                    "Icon": "https://img.finalfantasyxiv.com/lds/pc/global/images/itemicon/ba/baa2341dd17414fae7fd62ae7bc62c64589b67be.png?n6.05",
+                    "Name": "Allagisches Silberstück",
+                    "Amount": 2,
+                    "Url": "/lodestone/playguide/db/item/a3ac3ba4b00/"
+                }
+            ]
+        },
+        "Infos": {
+            "PrerequisiteQuest": [
+                {
+                    "Name": "Das Erbe Noahs",
+                    "Url": "/lodestone/playguide/db/quest/79893c7e864/",
+                    "Area": "Azys Lla",
+                    "Level": "80"
+                }
+            ],
+            "FollowupQuest": [
+                {
+                    "Name": "Hexen hexen",
+                    "Url": "/lodestone/playguide/db/quest/c482eedc483/",
+                    "Area": "Obere Decks",
+                    "Level": "80"
+                }
+            ],
+            "RelatedNPC": [
+                {
+                    "Name": "Alisaie",
+                    "Url": "/lodestone/playguide/db/npc/npc/44375c05c7c/",
+                    "Area": "Obere Decks (X:12.6 Y:12.6)"
+                },
+                {
+                    "Name": "Alphinaud",
+                    "Url": "/lodestone/playguide/db/npc/npc/4d00205e87d/",
+                    "Area": "Obere Decks (X:9.0 Y:13.5)"
+                },
+                {
+                    "Name": "G'raha Tia",
+                    "Url": "/lodestone/playguide/db/npc/npc/a7958907d52/",
+                    "Area": "Obere Decks (X:12.5 Y:12.6)"
+                },
+                {
+                    "Name": "Y'shtola",
+                    "Url": "/lodestone/playguide/db/npc/npc/ff1a4edb885/",
+                    "Area": "Obere Decks (X:9.0 Y:13.5)"
+                },
+                {
+                    "Name": "G'raha Tia",
+                    "Url": "/lodestone/playguide/db/npc/npc/f51a1b1473a/",
+                    "Area": "Sonnenstein (X:6.1 Y:5.9)"
+                },
+                {
+                    "Name": "Krile",
+                    "Url": "/lodestone/playguide/db/npc/npc/9c8aa7c0082/",
+                    "Area": "Sonnenstein (X:6.0 Y:5.9)"
+                },
+                {
+                    "Name": "Tataru",
+                    "Url": "/lodestone/playguide/db/npc/npc/265b6c47733/",
+                    "Area": "Sonnenstein (X:6.0 Y:5.9)"
+                }
+            ]
+        },
+        "Seq": 3,
+        "StartDependency": false
+    },
+    {
+        "ID": "d030e947404",
+        "Name": "Der Argwohn des Admirals",
+        "Location": "Dravanisches Hinterland",
+        "Level": 80,
+        "JournalSection": 0,
+        "JournalCategory": 10,
+        "JournalGenre": "Geflüster des Untergangs",
+        "Url": "/lodestone/playguide/db/quest/d030e947404/",
+        "Image": null,
+        "Icon": "main",
+        "Issuer": "Alphinaud",
+        "StartLocation": {
+            "Name": "Dravanisches Hinterland",
+            "X": "30.2",
+            "Y": "18.0"
+        },
+        "StartClass": null,
+        "Job": "Krieger oder Magier (außer beschränkte Jobs)",
+        "Company": "Keine Angabe",
+        "Requirement": "Keine Angabe",
+        "Rewards": {
+            "Gil": 0,
+            "Exp": 22440,
+            "ItemsMand": [],
+            "ItemsOpt": [
+                {
+                    "Icon": "https://img.finalfantasyxiv.com/lds/pc/global/images/itemicon/2c/2c78073377d3bf6ddc5e15a992cf6f531cd895b8.png?n6.05",
+                    "Name": "Marinierter Hering",
+                    "Amount": 3,
+                    "Url": "/lodestone/playguide/db/item/bce5261f3a4/?hq=1"
+                },
+                {
+                    "Icon": "https://img.finalfantasyxiv.com/lds/pc/global/images/itemicon/2a/2a6d9872ca8d51377def542bddf56b91e9f5a9a8.png?n6.05",
+                    "Name": "Mors",
+                    "Amount": 3,
+                    "Url": "/lodestone/playguide/db/item/46abc40cd6f/?hq=1"
+                },
+                {
+                    "Icon": "https://img.finalfantasyxiv.com/lds/pc/global/images/itemicon/67/67d3b3a831cb8be513bdbcdf11bf53acc311227d.png?n6.05",
+                    "Name": "Bauernfrühstück",
+                    "Amount": 3,
+                    "Url": "/lodestone/playguide/db/item/4e541171b25/?hq=1"
+                },
+                {
+                    "Icon": "https://img.finalfantasyxiv.com/lds/pc/global/images/itemicon/f5/f551bdc450da645c708665d7e232d356b6364813.png?n6.05",
+                    "Name": "Würstchen mit Sauerkraut",
+                    "Amount": 3,
+                    "Url": "/lodestone/playguide/db/item/bc3e7087d8a/?hq=1"
+                },
+                {
+                    "Icon": "https://img.finalfantasyxiv.com/lds/pc/global/images/itemicon/ba/baa2341dd17414fae7fd62ae7bc62c64589b67be.png?n6.05",
+                    "Name": "Allagisches Silberstück",
+                    "Amount": 2,
+                    "Url": "/lodestone/playguide/db/item/a3ac3ba4b00/"
+                }
+            ]
+        },
+        "Infos": {
+            "PrerequisiteQuest": [
+                {
+                    "Name": "Hexen hexen",
+                    "Url": "/lodestone/playguide/db/quest/c482eedc483/",
+                    "Area": "Obere Decks",
+                    "Level": "80"
+                }
+            ],
+            "FollowupQuest": [
+                {
+                    "Name": "Kristallkabale",
+                    "Url": "/lodestone/playguide/db/quest/03f34c82ac3/",
+                    "Area": "Untere Decks",
+                    "Level": "80"
+                }
+            ],
+            "RelatedNPC": [
+                {
+                    "Name": "Carvallain",
+                    "Url": "/lodestone/playguide/db/npc/npc/983f5a61be3/",
+                    "Area": "Obere Decks (X:11.6 Y:7.9)"
+                },
+                {
+                    "Name": "Rhoswen",
+                    "Url": "/lodestone/playguide/db/npc/npc/a526c376ab2/",
+                    "Area": "Obere Decks (X:12.9 Y:13.8)"
+                },
+                {
+                    "Name": "Alisaie",
+                    "Url": "/lodestone/playguide/db/npc/npc/6ac46f68bc3/",
+                    "Area": "Untere Decks (X:11.2 Y:10.9)"
+                },
+                {
+                    "Name": "Alphinaud",
+                    "Url": "/lodestone/playguide/db/npc/npc/11680a75488/",
+                    "Area": "Untere Decks (X:11.2 Y:10.9)"
+                },
+                {
+                    "Name": "G'raha Tia",
+                    "Url": "/lodestone/playguide/db/npc/npc/aec4f55a69c/",
+                    "Area": "Untere Decks (X:11.1 Y:10.9)"
+                },
+                {
+                    "Name": "Zanthael",
+                    "Url": "/lodestone/playguide/db/npc/npc/923199fa8c4/",
+                    "Area": "Untere Decks (X:11.4 Y:10.9)"
+                },
+                {
+                    "Name": "Alisaie",
+                    "Url": "/lodestone/playguide/db/npc/npc/a06316a495b/",
+                    "Area": "Dravanisches Hinterland (X:30.1 Y:18.0)"
+                },
+                {
+                    "Name": "G'raha Tia",
+                    "Url": "/lodestone/playguide/db/npc/npc/5a4a54ac5e9/",
+                    "Area": "Dravanisches Hinterland (X:30.1 Y:18.1)"
+                },
+                {
+                    "Name": "Y'shtola",
+                    "Url": "/lodestone/playguide/db/npc/npc/808d934d3ab/",
+                    "Area": "Matoyas Höhle (X:6.4 Y:6.3)"
+                }
+            ]
+        },
+        "Seq": 5,
+        "StartDependency": false
+    },
+    {
+        "ID": "d56bdc51d50",
+        "Name": "Im Namen Eorzeas",
+        "Location": "Sonnenstein",
+        "Level": 80,
+        "JournalSection": 0,
+        "JournalCategory": 10,
+        "JournalGenre": "Geflüster des Untergangs",
+        "Url": "/lodestone/playguide/db/quest/d56bdc51d50/",
+        "Image": "https://img.finalfantasyxiv.com/lds/pc/global/images/itemicon/31/310f667123ca8ab4818291a8452d8197e32aace2.png?n6.05",
+        "Icon": "main",
+        "Issuer": "Alisaie",
+        "StartLocation": {
+            "Name": "Sonnenstein",
+            "X": "6.0",
+            "Y": "5.9"
+        },
+        "StartClass": null,
+        "Job": "Krieger oder Magier (außer beschränkte Jobs)",
+        "Company": "Keine Angabe",
+        "Requirement": "Keine Angabe",
+        "Rewards": {
+            "Gil": 2189,
+            "Exp": 22440,
+            "ItemsMand": [],
+            "ItemsOpt": []
+        },
+        "Infos": {
+            "PrerequisiteQuest": [
+                {
+                    "Name": "Blutzoll",
+                    "Url": "/lodestone/playguide/db/quest/264d23d2d1b/",
+                    "Area": "Nald-Kreuzgang",
+                    "Level": "80"
+                }
+            ],
+            "FollowupQuest": [
+                {
+                    "Name": "Die Lehren des Scheiterns",
+                    "Url": "/lodestone/playguide/db/quest/29d3d8654c1/",
+                    "Area": "Abanisches Grenzland",
+                    "Level": "80"
+                }
+            ],
+            "RelatedNPC": [
+                {
+                    "Name": "Estinien",
+                    "Url": "/lodestone/playguide/db/npc/npc/6567086aebe/",
+                    "Area": "Sonnenstein (X:5.9 Y:6.0)"
+                },
+                {
+                    "Name": "Tataru",
+                    "Url": "/lodestone/playguide/db/npc/npc/95a4d68eddf/",
+                    "Area": "Sonnenstein (X:6.0 Y:5.9)"
+                },
+                {
+                    "Name": "Urianger",
+                    "Url": "/lodestone/playguide/db/npc/npc/93bb1ed726f/",
+                    "Area": "Sonnenstein (X:5.9 Y:5.9)"
+                },
+                {
+                    "Name": "Alianne",
+                    "Url": "/lodestone/playguide/db/npc/npc/b73810336aa/",
+                    "Area": "Abanisches Grenzland (X:8.6 Y:11.4)"
+                },
+                {
+                    "Name": "Alphinaud",
+                    "Url": "/lodestone/playguide/db/npc/npc/51381388e3d/",
+                    "Area": "Abanisches Grenzland (X:8.6 Y:11.3)"
+                },
+                {
+                    "Name": "Riol",
+                    "Url": "/lodestone/playguide/db/npc/npc/5b44a4332f0/",
+                    "Area": "Abanisches Grenzland (X:8.6 Y:11.4)"
+                },
+                {
+                    "Name": "Alisaie",
+                    "Url": "/lodestone/playguide/db/npc/npc/0a5261d9404/",
+                    "Area": "Das Fenn (X:36.2 Y:32.1)"
+                },
+                {
+                    "Name": "Alisaie",
+                    "Url": "/lodestone/playguide/db/npc/npc/19eb4942dd3/",
+                    "Area": "Das Fenn (X:36.3 Y:32.1)"
+                },
+                {
+                    "Name": "Alphinaud",
+                    "Url": "/lodestone/playguide/db/npc/npc/321580b6232/",
+                    "Area": "Das Fenn (X:36.2 Y:32.1)"
+                },
+                {
+                    "Name": "Alphinaud",
+                    "Url": "/lodestone/playguide/db/npc/npc/cccd5d8125c/",
+                    "Area": "Das Fenn (X:36.2 Y:32.1)"
+                },
+                {
+                    "Name": "G'raha Tia",
+                    "Url": "/lodestone/playguide/db/npc/npc/2f354beb021/",
+                    "Area": "Das Fenn (X:36.3 Y:32.1)"
+                },
+                {
+                    "Name": "G'raha Tia",
+                    "Url": "/lodestone/playguide/db/npc/npc/952d2d9a87f/",
+                    "Area": "Das Fenn (X:36.2 Y:32.1)"
+                },
+                {
+                    "Name": "Thancred",
+                    "Url": "/lodestone/playguide/db/npc/npc/e11650375d3/",
+                    "Area": "Das Fenn (X:36.2 Y:32.2)"
+                },
+                {
+                    "Name": "Wache der Befreiungsarmee",
+                    "Url": "/lodestone/playguide/db/npc/npc/aff370d878d/",
+                    "Area": "Das Fenn (X:36.4 Y:31.9)"
+                },
+                {
+                    "Name": "Y'shtola",
+                    "Url": "/lodestone/playguide/db/npc/npc/6dc28fcc693/",
+                    "Area": "Das Fenn (X:36.2 Y:32.1)"
+                }
+            ]
+        },
+        "Seq": 16,
+        "StartDependency": false
+    },
+    {
+        "ID": "faa752ebfa4",
+        "Name": "Flügelschlag in die Freiheit",
+        "Location": "Azys Lla",
+        "Level": 80,
+        "JournalSection": 0,
+        "JournalCategory": 10,
+        "JournalGenre": "Geflüster des Untergangs",
+        "Url": "/lodestone/playguide/db/quest/faa752ebfa4/",
+        "Image": "https://img.finalfantasyxiv.com/lds/pc/global/images/itemicon/f4/f4916c835e31394742c4eaac98b16489cceafdfb.png?n6.05",
+        "Icon": "main",
+        "Issuer": "Konstriktionsmodul",
+        "StartLocation": {
+            "Name": "Azys Lla",
+            "X": "17.0",
+            "Y": "22.1"
+        },
+        "StartClass": null,
+        "Job": "Krieger oder Magier (außer beschränkte Jobs)",
+        "Company": "Keine Angabe",
+        "Requirement": "Keine Angabe",
+        "Rewards": {
+            "Gil": 0,
+            "Exp": 22440,
+            "ItemsMand": [],
+            "ItemsOpt": [
+                {
+                    "Icon": "https://img.finalfantasyxiv.com/lds/pc/global/images/itemicon/e5/e5468aa0bbecb8d1465261c239afaf76bf474cab.png?n6.05",
+                    "Name": "Geräucherte Hähnchenkeule",
+                    "Amount": 3,
+                    "Url": "/lodestone/playguide/db/item/ee851a0fcfc/?hq=1"
+                },
+                {
+                    "Icon": "https://img.finalfantasyxiv.com/lds/pc/global/images/itemicon/ee/eee18698dca6f36d15dc09ba465ddd29a47b5c1b.png?n6.05",
+                    "Name": "Goldananassalat",
+                    "Amount": 3,
+                    "Url": "/lodestone/playguide/db/item/bc484b2b47a/?hq=1"
+                },
+                {
+                    "Icon": "https://img.finalfantasyxiv.com/lds/pc/global/images/itemicon/4d/4d459c0874a0e643ebd288a21dcd74ee1b05ec0d.png?n6.05",
+                    "Name": "Bohnencurry",
+                    "Amount": 3,
+                    "Url": "/lodestone/playguide/db/item/514aa3ecd7a/?hq=1"
+                },
+                {
+                    "Icon": "https://img.finalfantasyxiv.com/lds/pc/global/images/itemicon/ba/baa2341dd17414fae7fd62ae7bc62c64589b67be.png?n6.05",
+                    "Name": "Allagisches Silberstück",
+                    "Amount": 2,
+                    "Url": "/lodestone/playguide/db/item/a3ac3ba4b00/"
+                }
+            ]
+        },
+        "Infos": {
+            "PrerequisiteQuest": [
+                {
+                    "Name": "Gefängnis der Trauer",
+                    "Url": "/lodestone/playguide/db/quest/63c10bff6c2/",
+                    "Area": "Azys Lla",
+                    "Level": "80"
+                }
+            ],
+            "FollowupQuest": [
+                {
+                    "Name": "Goldene Flammen",
+                    "Url": "/lodestone/playguide/db/quest/48e6606f943/",
+                    "Area": "Azys Lla",
+                    "Level": "80"
+                }
+            ],
+            "RelatedNPC": [
+                {
+                    "Name": "Alisaie",
+                    "Url": "/lodestone/playguide/db/npc/npc/43742e9a5e7/",
+                    "Area": "Azys Lla (X:8.9 Y:31.1)"
+                },
+                {
+                    "Name": "Alphinaud",
+                    "Url": "/lodestone/playguide/db/npc/npc/94889e8788c/",
+                    "Area": "Azys Lla (X:17.0 Y:22.1)"
+                },
+                {
+                    "Name": "Alphinaud",
+                    "Url": "/lodestone/playguide/db/npc/npc/449b55fa312/",
+                    "Area": "Azys Lla (X:23.0 Y:21.8)"
+                },
+                {
+                    "Name": "Estinien",
+                    "Url": "/lodestone/playguide/db/npc/npc/0b1b0b31669/",
+                    "Area": "Azys Lla (X:8.6 Y:31.2)"
+                },
+                {
+                    "Name": "Estinien",
+                    "Url": "/lodestone/playguide/db/npc/npc/35a2f48d231/",
+                    "Area": "Azys Lla (X:17.0 Y:22.1)"
+                },
+                {
+                    "Name": "Estinien",
+                    "Url": "/lodestone/playguide/db/npc/npc/fe47b3343ea/",
+                    "Area": "Azys Lla (X:23.0 Y:21.7)"
+                },
+                {
+                    "Name": "Estinien",
+                    "Url": "/lodestone/playguide/db/npc/npc/6b1165aff01/",
+                    "Area": "Azys Lla (X:8.8 Y:31.0)"
+                },
+                {
+                    "Name": "G'raha Tia",
+                    "Url": "/lodestone/playguide/db/npc/npc/61769ce74f5/",
+                    "Area": "Azys Lla (X:8.9 Y:31.1)"
+                },
+                {
+                    "Name": "Konstriktionsmodul",
+                    "Url": "/lodestone/playguide/db/npc/npc/acc7393f68a/",
+                    "Area": "Azys Lla (X:23.0 Y:21.8)"
+                },
+                {
+                    "Name": "Ungewartetes Terminal",
+                    "Url": "/lodestone/playguide/db/npc/npc/6d0c6ff8d74/",
+                    "Area": "Azys Lla (X:17.0 Y:22.1)"
+                }
+            ]
+        },
+        "Seq": 13,
+        "StartDependency": false
+    }
+]

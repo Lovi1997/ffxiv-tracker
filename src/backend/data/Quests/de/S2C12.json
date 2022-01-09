@@ -1,170 +1,14 @@
 [
     {
-        "ID": "0c47c665c78",
-        "Name": "Antworten",
+        "ID": "05653b4d0b2",
+        "Name": "Ein neuer Sturm zieht auf",
         "Location": "Sonnenwind",
         "Level": 50,
         "JournalSection": 2,
         "JournalCategory": 12,
-        "JournalGenre": "Bahamut",
-        "Url": "/lodestone/playguide/db/quest/0c47c665c78/",
-        "Image": "https://img.finalfantasyxiv.com/lds/pc/global/images/itemicon/ef/eff536e86ddf0f383546f4ca474065a9423aa81e.png?n5.55",
-        "Icon": "function_normal",
-        "Issuer": "Urianger",
-        "StartLocation": {
-            "Name": "Sonnenwind",
-            "X": "6.0",
-            "Y": "4.9"
-        },
-        "StartClass": null,
-        "Job": "",
-        "Company": "Keine Angabe",
-        "Requirement": "Keine Angabe",
-        "Rewards": {
-            "Gil": 1018,
-            "Exp": 0,
-            "ItemsMand": [],
-            "ItemsOpt": []
-        },
-        "Infos": {
-            "PrerequisiteQuest": [
-                {
-                    "Name": "Mut zur Wahrheit",
-                    "Url": "/lodestone/playguide/db/quest/8c0f312af46/",
-                    "Area": "Nördliches Thanalan",
-                    "Level": "50"
-                }
-            ],
-            "FollowupQuest": [
-                {
-                    "Name": "Für immer begraben",
-                    "Url": "/lodestone/playguide/db/quest/540aa672655/",
-                    "Area": "Nördliches Thanalan",
-                    "Level": "50"
-                }
-            ],
-            "RelatedNPC": [
-                {
-                    "Name": "Alisaie",
-                    "Url": "/lodestone/playguide/db/npc/npc/1136d776df0/",
-                    "Area": "Nördliches Thanalan (X:20.1 Y:17.6)"
-                },
-                {
-                    "Name": "Erkenrad",
-                    "Url": "/lodestone/playguide/db/npc/npc/fa31252b61b/",
-                    "Area": "Nördliches Thanalan (X:19.4 Y:20.3)"
-                },
-                {
-                    "Name": "Urianger",
-                    "Url": "/lodestone/playguide/db/npc/npc/c5335f3519d/",
-                    "Area": "Nördliches Thanalan (X:20.0 Y:20.4)"
-                },
-                {
-                    "Name": "Urianger",
-                    "Url": "/lodestone/playguide/db/npc/npc/7b433d764d5/",
-                    "Area": "Nördliches Thanalan (X:20.1 Y:17.6)"
-                },
-                {
-                    "Name": "Diener des Hauses Leveilleur",
-                    "Url": "/lodestone/playguide/db/npc/npc/64d655e9773/",
-                    "Area": "Östliches Thanalan (X:30.0 Y:24.9)"
-                },
-                {
-                    "Name": "Diener des Hauses Leveilleur",
-                    "Url": "/lodestone/playguide/db/npc/npc/076246cbbab/",
-                    "Area": "Mor Dhona (X:30.8 Y:5.8)"
-                },
-                {
-                    "Name": "Diener des Hauses Leveilleur",
-                    "Url": "/lodestone/playguide/db/npc/npc/f2031c985e8/",
-                    "Area": "Mor Dhona (X:30.8 Y:5.8)"
-                }
-            ]
-        },
-        "Seq": 4,
-        "oldID": 65579,
-        "Map": {
-            "ID": 107
-        },
-        "StartDependency": false
-    },
-    {
-        "ID": "33b59cfa29e",
-        "Name": "Alisaies Suche nach Wahrheit",
-        "Location": "Sonnenwind",
-        "Level": 50,
-        "JournalSection": 2,
-        "JournalCategory": 12,
-        "JournalGenre": "Bahamut",
-        "Url": "/lodestone/playguide/db/quest/33b59cfa29e/",
-        "Image": "https://img.finalfantasyxiv.com/lds/pc/global/images/itemicon/80/80a221c4e8026601e6fa4750dc52967b85b8044f.png?n5.55",
-        "Icon": "function_normal",
-        "Issuer": "Urianger",
-        "StartLocation": {
-            "Name": "Sonnenwind",
-            "X": "6.0",
-            "Y": "4.9"
-        },
-        "StartClass": null,
-        "Job": "",
-        "Company": "Keine Angabe",
-        "Requirement": "Verschlungene Schatten 5",
-        "Rewards": {
-            "Gil": 3752,
-            "Exp": 0,
-            "ItemsMand": [],
-            "ItemsOpt": []
-        },
-        "Infos": {
-            "PrerequisiteQuest": [
-                {
-                    "Name": "Ein neuer Primae",
-                    "Url": "/lodestone/playguide/db/quest/37c727ddab3/",
-                    "Area": "Sonnenwind",
-                    "Level": "50"
-                }
-            ],
-            "FollowupQuest": [
-                {
-                    "Name": "Der zweite Abstieg",
-                    "Url": "/lodestone/playguide/db/quest/d04a0280ec0/",
-                    "Area": "Sonnenwind",
-                    "Level": "50"
-                }
-            ],
-            "RelatedNPC": [
-                {
-                    "Name": "Alisaie",
-                    "Url": "/lodestone/playguide/db/npc/npc/4d810451d0f/",
-                    "Area": "Sonnenwind (X:6.0 Y:5.0)"
-                }
-            ],
-            "RelatedAchievements": [
-                {
-                    "Name": "Auf der Suche nach Wahrheit",
-                    "Url": "/lodestone/playguide/db/achievement/c601ed315e6/",
-                    "Reward": "-",
-                    "Points": "10"
-                }
-            ]
-        },
-        "Seq": 1,
-        "oldID": 66696,
-        "Map": {
-            "ID": 107
-        },
-        "StartDependency": false
-    },
-    {
-        "ID": "37c727ddab3",
-        "Name": "Ein neuer Primae",
-        "Location": "Sonnenwind",
-        "Level": 50,
-        "JournalSection": 2,
-        "JournalCategory": 12,
-        "JournalGenre": "Bahamut",
-        "Url": "/lodestone/playguide/db/quest/37c727ddab3/",
-        "Image": "https://img.finalfantasyxiv.com/lds/pc/global/images/itemicon/f4/f4b6c4b9bf3c8aca25cfae88ade8e167702ac781.png?n5.55",
+        "JournalGenre": "Primae (A Realm Reborn)",
+        "Url": "/lodestone/playguide/db/quest/05653b4d0b2/",
+        "Image": "https://img.finalfantasyxiv.com/lds/pc/global/images/itemicon/33/33bdd8dcb65cd4db5cbba7116757474525789ca9.png?n6.05",
         "Icon": "function_normal",
         "Issuer": "Urianger",
         "StartLocation": {
@@ -177,10 +21,35 @@
         "Company": "Keine Angabe",
         "Requirement": "Götterdämmerung - Titan",
         "Rewards": {
-            "Gil": 1659,
+            "Gil": 939,
             "Exp": 0,
             "ItemsMand": [],
-            "ItemsOpt": []
+            "ItemsOpt": [
+                {
+                    "Icon": "https://img.finalfantasyxiv.com/lds/pc/global/images/itemicon/de/de478eac5995aeff260b0e6eaf52fef8ac0086d8.png?n6.05",
+                    "Name": "Gigatrank",
+                    "Amount": 3,
+                    "Url": "/lodestone/playguide/db/item/11f603e31f2/"
+                },
+                {
+                    "Icon": "https://img.finalfantasyxiv.com/lds/pc/global/images/itemicon/59/5964f8ab3a877d7a58d391b912e8e67204dc9ba5.png?n6.05",
+                    "Name": "Giga-Äther",
+                    "Amount": 3,
+                    "Url": "/lodestone/playguide/db/item/054f77ecc81/"
+                },
+                {
+                    "Icon": "https://img.finalfantasyxiv.com/lds/pc/global/images/itemicon/60/60ab5df609901e4ca4a73fd1922931e538cede62.png?n6.05",
+                    "Name": "Super-Elixier",
+                    "Amount": 3,
+                    "Url": "/lodestone/playguide/db/item/7d95edb06ef/"
+                },
+                {
+                    "Icon": "https://img.finalfantasyxiv.com/lds/pc/global/images/itemicon/ba/baa2341dd17414fae7fd62ae7bc62c64589b67be.png?n6.05",
+                    "Name": "Allagisches Silberstück",
+                    "Amount": 1,
+                    "Url": "/lodestone/playguide/db/item/a3ac3ba4b00/"
+                }
+            ]
         },
         "Infos": {
             "PrerequisiteQuest": [
@@ -193,173 +62,33 @@
             ],
             "FollowupQuest": [
                 {
-                    "Name": "Alisaies Suche nach Wahrheit",
-                    "Url": "/lodestone/playguide/db/quest/33b59cfa29e/",
-                    "Area": "Sonnenwind",
+                    "Name": "Eine neue Bedrohung: Garuda",
+                    "Url": "/lodestone/playguide/db/quest/3c2355cdb01/",
+                    "Area": "Gridania",
                     "Level": "50"
                 }
             ],
             "RelatedNPC": [
                 {
-                    "Name": "Alisaie",
-                    "Url": "/lodestone/playguide/db/npc/npc/54af48b91ec/",
-                    "Area": "Östliches La Noscea (X:21.1 Y:21.8)"
-                },
-                {
-                    "Name": "J'brohka",
-                    "Url": "/lodestone/playguide/db/npc/npc/cbfcb7f0342/",
-                    "Area": "Östliches La Noscea (X:21.7 Y:22.3)"
+                    "Name": "Vorsaile Heuloix",
+                    "Url": "/lodestone/playguide/db/npc/npc/dc5622e5466/",
+                    "Area": "Neu-Gridania (X:9.7 Y:11.1)"
                 }
             ]
         },
-        "Seq": 2,
-        "oldID": 66695,
-        "Map": {
-            "ID": 107
-        },
+        "Seq": 4,
         "StartDependency": false
     },
     {
-        "ID": "540aa672655",
-        "Name": "Für immer begraben",
-        "Location": "Nördliches Thanalan",
-        "Level": 50,
-        "JournalSection": 2,
-        "JournalCategory": 12,
-        "JournalGenre": "Bahamut",
-        "Url": "/lodestone/playguide/db/quest/540aa672655/",
-        "Image": "https://img.finalfantasyxiv.com/lds/pc/global/images/itemicon/12/12687e9268fed8070f01937e970bf13a0d6a8429.png?n5.55",
-        "Icon": "function_normal",
-        "Issuer": "Alisaie",
-        "StartLocation": {
-            "Name": "Nördliches Thanalan",
-            "X": "20.2",
-            "Y": "17.3"
-        },
-        "StartClass": null,
-        "Job": "",
-        "Company": "Keine Angabe",
-        "Requirement": "Verschlungene Schatten 3 - 4",
-        "Rewards": {
-            "Gil": 5000,
-            "Exp": 0,
-            "ItemsMand": [],
-            "ItemsOpt": []
-        },
-        "Infos": {
-            "PrerequisiteQuest": [
-                {
-                    "Name": "Antworten",
-                    "Url": "/lodestone/playguide/db/quest/0c47c665c78/",
-                    "Area": "Sonnenwind",
-                    "Level": "50"
-                }
-            ],
-            "RelatedNPC": [
-                {
-                    "Name": "Alphinaud",
-                    "Url": "/lodestone/playguide/db/npc/npc/dcf5dfcf696/",
-                    "Area": "Nördliches Thanalan (X:20.3 Y:17.3)"
-                },
-                {
-                    "Name": "Urianger",
-                    "Url": "/lodestone/playguide/db/npc/npc/c5335f3519d/",
-                    "Area": "Nördliches Thanalan (X:20.0 Y:20.4)"
-                }
-            ],
-            "RelatedAchievements": [
-                {
-                    "Name": "Die Wahrheit liegt in den Schatten",
-                    "Url": "/lodestone/playguide/db/achievement/8d9467a18ac/",
-                    "Reward": "Titel",
-                    "Points": "20"
-                }
-            ]
-        },
-        "Seq": 5,
-        "oldID": 65580,
-        "Map": {
-            "ID": 24
-        },
-        "StartDependency": false
-    },
-    {
-        "ID": "8c0f312af46",
-        "Name": "Mut zur Wahrheit",
-        "Location": "Nördliches Thanalan",
-        "Level": 50,
-        "JournalSection": 2,
-        "JournalCategory": 12,
-        "JournalGenre": "Bahamut",
-        "Url": "/lodestone/playguide/db/quest/8c0f312af46/",
-        "Image": "https://img.finalfantasyxiv.com/lds/pc/global/images/itemicon/a7/a79cb63ce2f232357f9e1d6ffcff38e6cf4701ec.png?n5.55",
-        "Icon": "function_normal",
-        "Issuer": "Alisaie",
-        "StartLocation": {
-            "Name": "Nördliches Thanalan",
-            "X": "20.2",
-            "Y": "17.4"
-        },
-        "StartClass": null,
-        "Job": "",
-        "Company": "Keine Angabe",
-        "Requirement": "Verschlungene Schatten 2 - 4",
-        "Rewards": {
-            "Gil": 3752,
-            "Exp": 0,
-            "ItemsMand": [],
-            "ItemsOpt": []
-        },
-        "Infos": {
-            "PrerequisiteQuest": [
-                {
-                    "Name": "Der zweite Abstieg",
-                    "Url": "/lodestone/playguide/db/quest/d04a0280ec0/",
-                    "Area": "Sonnenwind",
-                    "Level": "50"
-                }
-            ],
-            "FollowupQuest": [
-                {
-                    "Name": "Antworten",
-                    "Url": "/lodestone/playguide/db/quest/0c47c665c78/",
-                    "Area": "Sonnenwind",
-                    "Level": "50"
-                }
-            ],
-            "RelatedNPC": [
-                {
-                    "Name": "Urianger",
-                    "Url": "/lodestone/playguide/db/npc/npc/f64497fe8b0/",
-                    "Area": "Sonnenwind (X:6.0 Y:4.9)"
-                }
-            ],
-            "RelatedAchievements": [
-                {
-                    "Name": "Der Wahrheit auf den Grund gegangen",
-                    "Url": "/lodestone/playguide/db/achievement/11f7fa6533a/",
-                    "Reward": "-",
-                    "Points": "20"
-                }
-            ]
-        },
-        "Seq": 3,
-        "oldID": 66850,
-        "Map": {
-            "ID": 24
-        },
-        "StartDependency": false
-    },
-    {
-        "ID": "d04a0280ec0",
-        "Name": "Der zweite Abstieg",
+        "ID": "1e53e0a4c19",
+        "Name": "Zum Gegenschlag gerüstet",
         "Location": "Sonnenwind",
         "Level": 50,
         "JournalSection": 2,
         "JournalCategory": 12,
-        "JournalGenre": "Bahamut",
-        "Url": "/lodestone/playguide/db/quest/d04a0280ec0/",
-        "Image": "https://img.finalfantasyxiv.com/lds/pc/global/images/itemicon/b8/b86eb70ed320e7f1b41201570bbd43b7cb5de53e.png?n5.55",
+        "JournalGenre": "Primae (A Realm Reborn)",
+        "Url": "/lodestone/playguide/db/quest/1e53e0a4c19/",
+        "Image": null,
         "Icon": "function_normal",
         "Issuer": "Urianger",
         "StartLocation": {
@@ -372,7 +101,79 @@
         "Company": "Keine Angabe",
         "Requirement": "Keine Angabe",
         "Rewards": {
-            "Gil": 2064,
+            "Gil": 1220,
+            "Exp": 0,
+            "ItemsMand": [
+                {
+                    "Icon": "https://img.finalfantasyxiv.com/lds/pc/global/images/itemicon/d1/d15f551e7d3f79d5fb3c76891f2a640fe0e506f6.png?n6.05",
+                    "Name": "Rowena-Marke",
+                    "Amount": 3,
+                    "Url": "/lodestone/playguide/db/item/df414cdfab1/"
+                }
+            ],
+            "ItemsOpt": []
+        },
+        "Infos": {
+            "PrerequisiteQuest": [
+                {
+                    "Name": "Eine neue Bedrohung: Ifrit",
+                    "Url": "/lodestone/playguide/db/quest/41b1438823b/",
+                    "Area": "Sonnenwind",
+                    "Level": "50"
+                }
+            ],
+            "FollowupQuest": [
+                {
+                    "Name": "Jagd auf die Primae",
+                    "Url": "/lodestone/playguide/db/quest/66896b15b94/",
+                    "Area": "Mor Dhona",
+                    "Level": "50"
+                }
+            ],
+            "RelatedNPC": [
+                {
+                    "Name": "Swift",
+                    "Url": "/lodestone/playguide/db/npc/npc/e201100500b/",
+                    "Area": "Nald-Kreuzgang (X:8.4 Y:8.9)"
+                },
+                {
+                    "Name": "Laraina",
+                    "Url": "/lodestone/playguide/db/npc/npc/bfdc64764c0/",
+                    "Area": "Mor Dhona (X:22.9 Y:7.2)"
+                },
+                {
+                    "Name": "Rowena",
+                    "Url": "/lodestone/playguide/db/npc/npc/5f16dc7f440/",
+                    "Area": "Mor Dhona (X:21.9 Y:4.9)"
+                }
+            ]
+        },
+        "Seq": 8,
+        "StartDependency": false
+    },
+    {
+        "ID": "3c2355cdb01",
+        "Name": "Eine neue Bedrohung: Garuda",
+        "Location": "Gridania",
+        "Level": 50,
+        "JournalSection": 2,
+        "JournalCategory": 12,
+        "JournalGenre": "Primae (A Realm Reborn)",
+        "Url": "/lodestone/playguide/db/quest/3c2355cdb01/",
+        "Image": "https://img.finalfantasyxiv.com/lds/pc/global/images/itemicon/c2/c2ecba1266526dbfd9c2e67a45f4d3ac6bdfc3e9.png?n6.05",
+        "Icon": "function_normal",
+        "Issuer": "Vorsaile Heuloix",
+        "StartLocation": {
+            "Name": "Neu-Gridania",
+            "X": "9.7",
+            "Y": "11.1"
+        },
+        "StartClass": null,
+        "Job": "",
+        "Company": "Keine Angabe",
+        "Requirement": "Keine Angabe",
+        "Rewards": {
+            "Gil": 2908,
             "Exp": 0,
             "ItemsMand": [],
             "ItemsOpt": []
@@ -380,46 +181,695 @@
         "Infos": {
             "PrerequisiteQuest": [
                 {
-                    "Name": "Alisaies Suche nach Wahrheit",
-                    "Url": "/lodestone/playguide/db/quest/33b59cfa29e/",
+                    "Name": "Ein neuer Sturm zieht auf",
+                    "Url": "/lodestone/playguide/db/quest/05653b4d0b2/",
                     "Area": "Sonnenwind",
                     "Level": "50"
                 }
             ],
             "FollowupQuest": [
                 {
-                    "Name": "Mut zur Wahrheit",
-                    "Url": "/lodestone/playguide/db/quest/8c0f312af46/",
+                    "Name": "Eine neue Bedrohung: Titan",
+                    "Url": "/lodestone/playguide/db/quest/aac88614d57/",
+                    "Area": "Sonnenwind",
+                    "Level": "50"
+                }
+            ],
+            "RelatedNPC": [
+                {
+                    "Name": "Urianger",
+                    "Url": "/lodestone/playguide/db/npc/npc/f64497fe8b0/",
+                    "Area": "Sonnenwind (X:6.0 Y:4.9)"
+                }
+            ]
+        },
+        "Seq": 5,
+        "StartDependency": false
+    },
+    {
+        "ID": "3f881a1b15a",
+        "Name": "Die Wiederauferstehung der Primae",
+        "Location": "Sonnenwind",
+        "Level": 50,
+        "JournalSection": 2,
+        "JournalCategory": 12,
+        "JournalGenre": "Primae (A Realm Reborn)",
+        "Url": "/lodestone/playguide/db/quest/3f881a1b15a/",
+        "Image": null,
+        "Icon": "function_normal",
+        "Issuer": "Minfilia",
+        "StartLocation": {
+            "Name": "Sonnenwind",
+            "X": "6.9",
+            "Y": "6.1"
+        },
+        "StartClass": null,
+        "Job": "",
+        "Company": "Keine Angabe",
+        "Requirement": "Keine Angabe",
+        "Rewards": {
+            "Gil": 0,
+            "Exp": 0,
+            "ItemsMand": [],
+            "ItemsOpt": []
+        },
+        "Infos": {
+            "PrerequisiteQuest": [
+                {
+                    "Name": "Die ultimative Waffe",
+                    "Url": "/lodestone/playguide/db/quest/3ab32cfebf8/",
+                    "Area": "Nördliches Thanalan",
+                    "Level": "50"
+                }
+            ],
+            "FollowupQuest": [
+                {
+                    "Name": "Götterdämmerung - Ifrit",
+                    "Url": "/lodestone/playguide/db/quest/5461de86d50/",
+                    "Area": "Sonnenwind",
+                    "Level": "50"
+                }
+            ],
+            "RelatedNPC": [
+                {
+                    "Name": "Urianger",
+                    "Url": "/lodestone/playguide/db/npc/npc/f64497fe8b0/",
+                    "Area": "Sonnenwind (X:6.0 Y:4.9)"
+                }
+            ]
+        },
+        "Seq": 3,
+        "StartDependency": false
+    },
+    {
+        "ID": "3fe58aa572c",
+        "Name": "Götterdämmerung - Titan",
+        "Location": "Sonnenwind",
+        "Level": 50,
+        "JournalSection": 2,
+        "JournalCategory": 12,
+        "JournalGenre": "Primae (A Realm Reborn)",
+        "Url": "/lodestone/playguide/db/quest/3fe58aa572c/",
+        "Image": "https://img.finalfantasyxiv.com/lds/pc/global/images/itemicon/93/9372b0ae476a9c2373bf6ff92efd6739f67a08f8.png?n6.05",
+        "Icon": "function_normal",
+        "Issuer": "Y'shtola",
+        "StartLocation": {
+            "Name": "Sonnenwind",
+            "X": "6.1",
+            "Y": "5.1"
+        },
+        "StartClass": null,
+        "Job": "",
+        "Company": "Keine Angabe",
+        "Requirement": "Götterdämmerung - Garuda",
+        "Rewards": {
+            "Gil": 0,
+            "Exp": 0,
+            "ItemsMand": [],
+            "ItemsOpt": []
+        },
+        "Infos": {
+            "PrerequisiteQuest": [
+                {
+                    "Name": "Götterdämmerung - Garuda",
+                    "Url": "/lodestone/playguide/db/quest/5a370d18685/",
+                    "Area": "Sonnenwind",
+                    "Level": "50"
+                }
+            ],
+            "FollowupQuest": [
+                {
+                    "Name": "Ein neuer Sturm zieht auf",
+                    "Url": "/lodestone/playguide/db/quest/05653b4d0b2/",
+                    "Area": "Sonnenwind",
+                    "Level": "50"
+                },
+                {
+                    "Name": "Ein neuer Primae",
+                    "Url": "/lodestone/playguide/db/quest/37c727ddab3/",
+                    "Area": "Sonnenwind",
+                    "Level": "50"
+                }
+            ],
+            "RelatedNPC": [
+                {
+                    "Name": "R'ashaht Rhiki",
+                    "Url": "/lodestone/playguide/db/npc/npc/18feb495b80/",
+                    "Area": "Obere Decks (X:13.1 Y:12.8)"
+                },
+                {
+                    "Name": "Thancred",
+                    "Url": "/lodestone/playguide/db/npc/npc/4ecd29478b6/",
+                    "Area": "Sonnenwind (X:6.1 Y:5.1)"
+                }
+            ]
+        },
+        "Seq": 3,
+        "StartDependency": false
+    },
+    {
+        "ID": "41b1438823b",
+        "Name": "Eine neue Bedrohung: Ifrit",
+        "Location": "Sonnenwind",
+        "Level": 50,
+        "JournalSection": 2,
+        "JournalCategory": 12,
+        "JournalGenre": "Primae (A Realm Reborn)",
+        "Url": "/lodestone/playguide/db/quest/41b1438823b/",
+        "Image": "https://img.finalfantasyxiv.com/lds/pc/global/images/itemicon/60/6074cd5c930bd7a94301dfe128d379a250277160.png?n6.05",
+        "Icon": "function_normal",
+        "Issuer": "Urianger",
+        "StartLocation": {
+            "Name": "Sonnenwind",
+            "X": "6.0",
+            "Y": "4.9"
+        },
+        "StartClass": null,
+        "Job": "",
+        "Company": "Keine Angabe",
+        "Requirement": "Keine Angabe",
+        "Rewards": {
+            "Gil": 2908,
+            "Exp": 0,
+            "ItemsMand": [],
+            "ItemsOpt": []
+        },
+        "Infos": {
+            "PrerequisiteQuest": [
+                {
+                    "Name": "Eine neue Bedrohung: Titan",
+                    "Url": "/lodestone/playguide/db/quest/aac88614d57/",
+                    "Area": "Sonnenwind",
+                    "Level": "50"
+                }
+            ],
+            "FollowupQuest": [
+                {
+                    "Name": "Zum Gegenschlag gerüstet",
+                    "Url": "/lodestone/playguide/db/quest/1e53e0a4c19/",
+                    "Area": "Sonnenwind",
+                    "Level": "50"
+                }
+            ],
+            "RelatedNPC": [
+                {
+                    "Name": "Swift",
+                    "Url": "/lodestone/playguide/db/npc/npc/e201100500b/",
+                    "Area": "Nald-Kreuzgang (X:8.4 Y:8.9)"
+                }
+            ]
+        },
+        "Seq": 7,
+        "StartDependency": false
+    },
+    {
+        "ID": "5461de86d50",
+        "Name": "Götterdämmerung - Ifrit",
+        "Location": "Sonnenwind",
+        "Level": 50,
+        "JournalSection": 2,
+        "JournalCategory": 12,
+        "JournalGenre": "Primae (A Realm Reborn)",
+        "Url": "/lodestone/playguide/db/quest/5461de86d50/",
+        "Image": "https://img.finalfantasyxiv.com/lds/pc/global/images/itemicon/42/42a5036b2e857b2da12bfc427e2071e38727afb2.png?n6.05",
+        "Icon": "function_normal",
+        "Issuer": "Thancred",
+        "StartLocation": {
+            "Name": "Sonnenwind",
+            "X": "6.1",
+            "Y": "5.1"
+        },
+        "StartClass": null,
+        "Job": "",
+        "Company": "Keine Angabe",
+        "Requirement": "Keine Angabe",
+        "Rewards": {
+            "Gil": 0,
+            "Exp": 0,
+            "ItemsMand": [],
+            "ItemsOpt": []
+        },
+        "Infos": {
+            "PrerequisiteQuest": [
+                {
+                    "Name": "Die Wiederauferstehung der Primae",
+                    "Url": "/lodestone/playguide/db/quest/3f881a1b15a/",
+                    "Area": "Sonnenwind",
+                    "Level": "50"
+                }
+            ],
+            "FollowupQuest": [
+                {
+                    "Name": "Götterdämmerung - Garuda",
+                    "Url": "/lodestone/playguide/db/quest/5a370d18685/",
+                    "Area": "Sonnenwind",
+                    "Level": "50"
+                }
+            ],
+            "RelatedNPC": [
+                {
+                    "Name": "Swift",
+                    "Url": "/lodestone/playguide/db/npc/npc/e201100500b/",
+                    "Area": "Nald-Kreuzgang (X:8.4 Y:8.9)"
+                }
+            ]
+        },
+        "Seq": 1,
+        "StartDependency": false
+    },
+    {
+        "ID": "5a370d18685",
+        "Name": "Götterdämmerung - Garuda",
+        "Location": "Sonnenwind",
+        "Level": 50,
+        "JournalSection": 2,
+        "JournalCategory": 12,
+        "JournalGenre": "Primae (A Realm Reborn)",
+        "Url": "/lodestone/playguide/db/quest/5a370d18685/",
+        "Image": "https://img.finalfantasyxiv.com/lds/pc/global/images/itemicon/95/959c9fbbfc127c6b2bafb3ab90a0e298fb15345a.png?n6.05",
+        "Icon": "function_normal",
+        "Issuer": "Papalymo",
+        "StartLocation": {
+            "Name": "Sonnenwind",
+            "X": "6.1",
+            "Y": "5.0"
+        },
+        "StartClass": null,
+        "Job": "",
+        "Company": "Keine Angabe",
+        "Requirement": "Götterdämmerung - Ifrit",
+        "Rewards": {
+            "Gil": 0,
+            "Exp": 0,
+            "ItemsMand": [],
+            "ItemsOpt": []
+        },
+        "Infos": {
+            "PrerequisiteQuest": [
+                {
+                    "Name": "Götterdämmerung - Ifrit",
+                    "Url": "/lodestone/playguide/db/quest/5461de86d50/",
+                    "Area": "Sonnenwind",
+                    "Level": "50"
+                }
+            ],
+            "FollowupQuest": [
+                {
+                    "Name": "Götterdämmerung - Titan",
+                    "Url": "/lodestone/playguide/db/quest/3fe58aa572c/",
+                    "Area": "Sonnenwind",
+                    "Level": "50"
+                }
+            ],
+            "RelatedNPC": [
+                {
+                    "Name": "Vorsaile Heuloix",
+                    "Url": "/lodestone/playguide/db/npc/npc/dc5622e5466/",
+                    "Area": "Neu-Gridania (X:9.7 Y:11.1)"
+                },
+                {
+                    "Name": "Thancred",
+                    "Url": "/lodestone/playguide/db/npc/npc/4ecd29478b6/",
+                    "Area": "Sonnenwind (X:6.1 Y:5.1)"
+                }
+            ]
+        },
+        "Seq": 2,
+        "StartDependency": false
+    },
+    {
+        "ID": "66896b15b94",
+        "Name": "Jagd auf die Primae",
+        "Location": "Mor Dhona",
+        "Level": 50,
+        "JournalSection": 2,
+        "JournalCategory": 12,
+        "JournalGenre": "Primae (A Realm Reborn)",
+        "Url": "/lodestone/playguide/db/quest/66896b15b94/",
+        "Image": "https://img.finalfantasyxiv.com/lds/pc/global/images/itemicon/21/21e138bfc85cd07986bb7fbac2b0384b89332c4d.png?n6.05",
+        "Icon": "function_repeat",
+        "Issuer": "Laraina",
+        "StartLocation": {
+            "Name": "Mor Dhona",
+            "X": "22.9",
+            "Y": "7.2"
+        },
+        "StartClass": null,
+        "Job": "",
+        "Company": "Keine Angabe",
+        "Requirement": "Keine Angabe",
+        "Rewards": {
+            "Gil": 0,
+            "Exp": 0,
+            "ItemsMand": [
+                {
+                    "Icon": "https://img.finalfantasyxiv.com/lds/pc/global/images/itemicon/d1/d15f551e7d3f79d5fb3c76891f2a640fe0e506f6.png?n6.05",
+                    "Name": "Rowena-Marke",
+                    "Amount": 3,
+                    "Url": "/lodestone/playguide/db/item/df414cdfab1/"
+                }
+            ],
+            "ItemsOpt": []
+        },
+        "Infos": {
+            "PrerequisiteQuest": [
+                {
+                    "Name": "Zum Gegenschlag gerüstet",
+                    "Url": "/lodestone/playguide/db/quest/1e53e0a4c19/",
+                    "Area": "Sonnenwind",
+                    "Level": "50"
+                }
+            ],
+            "RelatedNPC": [
+                {
+                    "Name": "Urianger",
+                    "Url": "/lodestone/playguide/db/npc/npc/f64497fe8b0/",
+                    "Area": "Sonnenwind (X:6.0 Y:4.9)"
+                }
+            ]
+        },
+        "Seq": 9,
+        "StartDependency": false
+    },
+    {
+        "ID": "78f3e480c22",
+        "Name": "Grenzen der Gottheit",
+        "Location": "Sonnenwind",
+        "Level": 50,
+        "JournalSection": 2,
+        "JournalCategory": 12,
+        "JournalGenre": "Primae (A Realm Reborn)",
+        "Url": "/lodestone/playguide/db/quest/78f3e480c22/",
+        "Image": "https://img.finalfantasyxiv.com/lds/pc/global/images/itemicon/96/968e847cd11424a9f2b34a6fbd81ff57d498587e.png?n6.05",
+        "Icon": "function_normal",
+        "Issuer": "Urianger",
+        "StartLocation": {
+            "Name": "Sonnenwind",
+            "X": "6.0",
+            "Y": "4.9"
+        },
+        "StartClass": null,
+        "Job": "",
+        "Company": "Keine Angabe",
+        "Requirement": "Keine Angabe",
+        "Rewards": {
+            "Gil": 1220,
+            "Exp": 0,
+            "ItemsMand": [],
+            "ItemsOpt": []
+        },
+        "Infos": {
+            "PrerequisiteQuest": [
+                {
+                    "Name": "Werden und Vergehen",
+                    "Url": "/lodestone/playguide/db/quest/7f72ebda286/",
+                    "Area": "Limsa Lominsa",
+                    "Level": "50"
+                }
+            ],
+            "RelatedNPC": [
+                {
+                    "Name": "R'ashaht Rhiki",
+                    "Url": "/lodestone/playguide/db/npc/npc/18feb495b80/",
+                    "Area": "Obere Decks (X:13.1 Y:12.8)"
+                },
+                {
+                    "Name": "Styrnlona",
+                    "Url": "/lodestone/playguide/db/npc/npc/2f7ac8f923e/",
+                    "Area": "Unteres La Noscea (X:24.6 Y:33.1)"
+                }
+            ]
+        },
+        "Seq": 11,
+        "StartDependency": false
+    },
+    {
+        "ID": "80ca83bbb9a",
+        "Name": "Eine neue Bedrohung: Shiva",
+        "Location": "Sonnenwind",
+        "Level": 50,
+        "JournalSection": 2,
+        "JournalCategory": 12,
+        "JournalGenre": "Primae (A Realm Reborn)",
+        "Url": "/lodestone/playguide/db/quest/80ca83bbb9a/",
+        "Image": "https://img.finalfantasyxiv.com/lds/pc/global/images/itemicon/66/66b60b66bcf2bd2a8c53edf2c160573549f9f943.png?n6.05",
+        "Icon": "function_normal",
+        "Issuer": "Urianger",
+        "StartLocation": {
+            "Name": "Sonnenwind",
+            "X": "6.0",
+            "Y": "4.9"
+        },
+        "StartClass": null,
+        "Job": "",
+        "Company": "Keine Angabe",
+        "Requirement": "Keine Angabe",
+        "Rewards": {
+            "Gil": 3000,
+            "Exp": 0,
+            "ItemsMand": [],
+            "ItemsOpt": []
+        },
+        "Infos": {
+            "PrerequisiteQuest": [
+                {
+                    "Name": "Zeit der Ernüchterung",
+                    "Url": "/lodestone/playguide/db/quest/79ee62beaca/",
                     "Area": "Nördliches Thanalan",
                     "Level": "50"
                 }
             ],
             "RelatedNPC": [
                 {
-                    "Name": "Anaelle",
-                    "Url": "/lodestone/playguide/db/npc/npc/3da910313ba/",
-                    "Area": "Nordwald (X:20.7 Y:27.3)"
+                    "Name": "Drillemont",
+                    "Url": "/lodestone/playguide/db/npc/npc/f40f1163d93/",
+                    "Area": "Zentrales Hochland von Coerthas (X:12.8 Y:17.4)"
                 },
                 {
-                    "Name": "Wachsamer Novize",
-                    "Url": "/lodestone/playguide/db/npc/npc/07d09f2cabb/",
-                    "Area": "Nordwald (X:16.7 Y:29.9)"
-                }
-            ],
-            "RelatedAchievements": [
-                {
-                    "Name": "Auf der Suche nach Wahrheit",
-                    "Url": "/lodestone/playguide/db/achievement/c601ed315e6/",
-                    "Reward": "-",
-                    "Points": "10"
+                    "Name": "Kräftiger Tempelritter",
+                    "Url": "/lodestone/playguide/db/npc/npc/8913fd309d2/",
+                    "Area": "Zentrales Hochland von Coerthas (X:3.1 Y:21.3)"
                 }
             ]
         },
-        "Seq": 2,
-        "oldID": 66849,
-        "Map": {
-            "ID": 107
+        "Seq": 13,
+        "StartDependency": false
+    },
+    {
+        "ID": "aac88614d57",
+        "Name": "Eine neue Bedrohung: Titan",
+        "Location": "Sonnenwind",
+        "Level": 50,
+        "JournalSection": 2,
+        "JournalCategory": 12,
+        "JournalGenre": "Primae (A Realm Reborn)",
+        "Url": "/lodestone/playguide/db/quest/aac88614d57/",
+        "Image": "https://img.finalfantasyxiv.com/lds/pc/global/images/itemicon/73/731fe8c7a43a83b53cd975c4023fbe8a70b08867.png?n6.05",
+        "Icon": "function_normal",
+        "Issuer": "Urianger",
+        "StartLocation": {
+            "Name": "Sonnenwind",
+            "X": "6.0",
+            "Y": "4.9"
         },
+        "StartClass": null,
+        "Job": "",
+        "Company": "Keine Angabe",
+        "Requirement": "Keine Angabe",
+        "Rewards": {
+            "Gil": 2908,
+            "Exp": 0,
+            "ItemsMand": [],
+            "ItemsOpt": []
+        },
+        "Infos": {
+            "PrerequisiteQuest": [
+                {
+                    "Name": "Eine neue Bedrohung: Garuda",
+                    "Url": "/lodestone/playguide/db/quest/3c2355cdb01/",
+                    "Area": "Gridania",
+                    "Level": "50"
+                }
+            ],
+            "FollowupQuest": [
+                {
+                    "Name": "Eine neue Bedrohung: Ifrit",
+                    "Url": "/lodestone/playguide/db/quest/41b1438823b/",
+                    "Area": "Sonnenwind",
+                    "Level": "50"
+                }
+            ],
+            "RelatedNPC": [
+                {
+                    "Name": "R'ashaht Rhiki",
+                    "Url": "/lodestone/playguide/db/npc/npc/18feb495b80/",
+                    "Area": "Obere Decks (X:13.1 Y:12.8)"
+                }
+            ]
+        },
+        "Seq": 6,
+        "StartDependency": false
+    },
+    {
+        "ID": "b6c37d2d2eb",
+        "Name": "Es lebe der König",
+        "Location": "Sonnenwind",
+        "Level": 50,
+        "JournalSection": 2,
+        "JournalCategory": 12,
+        "JournalGenre": "Primae (A Realm Reborn)",
+        "Url": "/lodestone/playguide/db/quest/b6c37d2d2eb/",
+        "Image": "https://img.finalfantasyxiv.com/lds/pc/global/images/itemicon/09/09b9c2700a2acd095162c5e84a84322c13db2b4c.png?n6.05",
+        "Icon": "function_normal",
+        "Issuer": "Urianger",
+        "StartLocation": {
+            "Name": "Sonnenwind",
+            "X": "6.0",
+            "Y": "4.9"
+        },
+        "StartClass": null,
+        "Job": "",
+        "Company": "Keine Angabe",
+        "Requirement": "Keine Angabe",
+        "Rewards": {
+            "Gil": 1220,
+            "Exp": 0,
+            "ItemsMand": [],
+            "ItemsOpt": []
+        },
+        "Infos": {
+            "PrerequisiteQuest": [
+                {
+                    "Name": "Mysterium Königsbeschwörung",
+                    "Url": "/lodestone/playguide/db/quest/ef2163f9c10/",
+                    "Area": "Südwald",
+                    "Level": "50"
+                }
+            ],
+            "RelatedNPC": [
+                {
+                    "Name": "Vorsaile Heuloix",
+                    "Url": "/lodestone/playguide/db/npc/npc/dc5622e5466/",
+                    "Area": "Neu-Gridania (X:9.7 Y:11.1)"
+                },
+                {
+                    "Name": "Hüter der Weißen Viper",
+                    "Url": "/lodestone/playguide/db/npc/npc/d6646268748/",
+                    "Area": "Ostwald (X:15.1 Y:20.7)"
+                },
+                {
+                    "Name": "Kuplo Kopp",
+                    "Url": "/lodestone/playguide/db/npc/npc/c1453feb5e7/",
+                    "Area": "Ostwald (X:15.1 Y:20.7)"
+                }
+            ]
+        },
+        "Seq": 10,
+        "StartDependency": false
+    },
+    {
+        "ID": "e9042fb523b",
+        "Name": "Das Geheimnis des Dunklen Reiters",
+        "Location": "Gridania",
+        "Level": 50,
+        "JournalSection": 2,
+        "JournalCategory": 12,
+        "JournalGenre": "Primae (A Realm Reborn)",
+        "Url": "/lodestone/playguide/db/quest/e9042fb523b/",
+        "Image": "https://img.finalfantasyxiv.com/lds/pc/global/images/itemicon/91/91be70fb8b4300a8de5f4b4fa62566fc825e0fef.png?n6.05",
+        "Icon": "function_normal",
+        "Issuer": "Scarlet",
+        "StartLocation": {
+            "Name": "Neu-Gridania",
+            "X": "9.9",
+            "Y": "11.4"
+        },
+        "StartClass": null,
+        "Job": "",
+        "Company": "Keine Angabe",
+        "Requirement": "Keine Angabe",
+        "Rewards": {
+            "Gil": 2908,
+            "Exp": 0,
+            "ItemsMand": [],
+            "ItemsOpt": []
+        },
+        "Infos": {
+            "PrerequisiteQuest": [
+                {
+                    "Name": "Die ultimative Waffe",
+                    "Url": "/lodestone/playguide/db/quest/3ab32cfebf8/",
+                    "Area": "Nördliches Thanalan",
+                    "Level": "50"
+                },
+                {
+                    "Name": "Die Wahrheit der heiligen Schrift",
+                    "Url": "/lodestone/playguide/db/quest/8e32fb5a128/",
+                    "Area": "Südwald",
+                    "Level": "46"
+                }
+            ],
+            "RelatedNPC": [
+                {
+                    "Name": "O-App-Pesi",
+                    "Url": "/lodestone/playguide/db/npc/npc/d2d656b5b0c/",
+                    "Area": "Südwald (X:33.8 Y:23.1)"
+                }
+            ]
+        },
+        "Seq": 14,
+        "StartDependency": false
+    },
+    {
+        "ID": "ee4927b54eb",
+        "Name": "Eine neue Bedrohung: Ramuh",
+        "Location": "Gridania",
+        "Level": 50,
+        "JournalSection": 2,
+        "JournalCategory": 12,
+        "JournalGenre": "Primae (A Realm Reborn)",
+        "Url": "/lodestone/playguide/db/quest/ee4927b54eb/",
+        "Image": "https://img.finalfantasyxiv.com/lds/pc/global/images/itemicon/d6/d6624ff609d50f9ce5446b3d914869dc8c9845d6.png?n6.05",
+        "Icon": "function_normal",
+        "Issuer": "Scarlet",
+        "StartLocation": {
+            "Name": "Neu-Gridania",
+            "X": "9.9",
+            "Y": "11.4"
+        },
+        "StartClass": null,
+        "Job": "",
+        "Company": "Keine Angabe",
+        "Requirement": "Keine Angabe",
+        "Rewards": {
+            "Gil": 2445,
+            "Exp": 0,
+            "ItemsMand": [],
+            "ItemsOpt": []
+        },
+        "Infos": {
+            "PrerequisiteQuest": [
+                {
+                    "Name": "Streiter für Eorzea",
+                    "Url": "/lodestone/playguide/db/quest/e31b1481e7a/",
+                    "Area": "Mor Dhona",
+                    "Level": "50"
+                }
+            ],
+            "RelatedNPC": [
+                {
+                    "Name": "Dellexia",
+                    "Url": "/lodestone/playguide/db/npc/npc/d9902f1cac9/",
+                    "Area": "Ostwald (X:21.3 Y:26.8)"
+                },
+                {
+                    "Name": "Urianger",
+                    "Url": "/lodestone/playguide/db/npc/npc/f64497fe8b0/",
+                    "Area": "Sonnenwind (X:6.0 Y:4.9)"
+                }
+            ]
+        },
+        "Seq": 12,
         "StartDependency": false
     }
 ]

@@ -1,1172 +1,27 @@
 [
     {
-        "ID": "004da535430",
-        "Name": " Die Tanzffflosse schwingen",
-        "Location": "Azim-Steppe",
-        "Level": 60,
-        "JournalSection": 4,
-        "JournalCategory": 36,
-        "JournalGenre": "\n\t\t\t\t\t\t\tNebenaufträge\n\t\t\t\t\t\t",
-        "Url": "/lodestone/playguide/db/quest/004da535430/",
-        "Image": null,
-        "Icon": "common_repeat",
-        "Issuer": "Seigetsu",
-        "StartLocation": {
-            "Name": "Azim-Steppe",
-            "X": "5.8",
-            "Y": "23.4"
-        },
-        "StartClass": null,
-        "Job": "",
-        "Company": "Keine Angabe",
-        "Requirement": "Keine Angabe",
-        "Rewards": {
-            "Gil": 680,
-            "Exp": null,
-            "ItemsMand": [
-                {
-                    "Icon": "https://img.finalfantasyxiv.com/lds/pc/global/images/itemicon/0d/0dd4af1f23b8f1d782bacfb905a67b491688414c.png?n5.55",
-                    "Name": "Windkristall",
-                    "Amount": 20,
-                    "Url": "/lodestone/playguide/db/item/5db117cd77b/"
-                },
-                {
-                    "Icon": "https://img.finalfantasyxiv.com/lds/pc/global/images/itemicon/d9/d9a4b77a07bb95bf2713ae233a0eececdf211e8b.png?n5.55",
-                    "Name": "Feuerkristall",
-                    "Amount": 20,
-                    "Url": "/lodestone/playguide/db/item/75403105d7f/"
-                },
-                {
-                    "Icon": "https://img.finalfantasyxiv.com/lds/pc/global/images/itemicon/a7/a71da2eb489188dbbfadd582938a0e761a9a0585.png?n5.55",
-                    "Name": "Eiskristall",
-                    "Amount": 20,
-                    "Url": "/lodestone/playguide/db/item/2d800a06851/"
-                },
-                {
-                    "Icon": "https://img.finalfantasyxiv.com/lds/pc/global/images/itemicon/0d/0dd4af1f23b8f1d782bacfb905a67b491688414c.png?n5.55",
-                    "Name": "Windkristall",
-                    "Amount": 20,
-                    "Url": "/lodestone/playguide/db/item/5db117cd77b/"
-                },
-                {
-                    "Icon": "https://img.finalfantasyxiv.com/lds/pc/global/images/itemicon/16/16cd107e2bd1c45cee59e6b96ef02f2f6f68eac5.png?n5.55",
-                    "Name": "Erdkristall",
-                    "Amount": 20,
-                    "Url": "/lodestone/playguide/db/item/ff6eae7bdcb/"
-                },
-                {
-                    "Icon": "https://img.finalfantasyxiv.com/lds/pc/global/images/itemicon/5d/5dd42eb2385a5e0d158b8fa81b63a09e4b25c821.png?n5.55",
-                    "Name": "Blitzkristall",
-                    "Amount": 20,
-                    "Url": "/lodestone/playguide/db/item/b21a951916e/"
-                },
-                {
-                    "Icon": "https://img.finalfantasyxiv.com/lds/pc/global/images/itemicon/b5/b5eb0d9131d8f735a91286bdf2f877f0495e8235.png?n5.55",
-                    "Name": "Wasserkristall",
-                    "Amount": 20,
-                    "Url": "/lodestone/playguide/db/item/44d3f4cb26b/"
-                },
-                {
-                    "Icon": "https://img.finalfantasyxiv.com/lds/pc/global/images/itemicon/d9/d9a4b77a07bb95bf2713ae233a0eececdf211e8b.png?n5.55",
-                    "Name": "Feuerkristall",
-                    "Amount": 20,
-                    "Url": "/lodestone/playguide/db/item/75403105d7f/"
-                },
-                {
-                    "Icon": "https://img.finalfantasyxiv.com/lds/pc/global/images/itemicon/d9/d9beff495b00ab597dbd0b268530571d803e6a2d.png?n5.55",
-                    "Name": "Kräutertrank",
-                    "Amount": null,
-                    "Url": "/lodestone/playguide/db/item/2ff3e7e028c/"
-                },
-                {
-                    "Icon": "https://img.finalfantasyxiv.com/lds/pc/global/images/itemicon/d9/d9beff495b00ab597dbd0b268530571d803e6a2d.png?n5.55",
-                    "Name": "Kräutertrank",
-                    "Amount": null,
-                    "Url": "/lodestone/playguide/db/item/2ff3e7e028c/"
-                },
-                {
-                    "Icon": "https://img.finalfantasyxiv.com/lds/pc/global/images/itemicon/d9/d9beff495b00ab597dbd0b268530571d803e6a2d.png?n5.55",
-                    "Name": "Kräutertrank",
-                    "Amount": null,
-                    "Url": "/lodestone/playguide/db/item/2ff3e7e028c/"
-                }
-            ],
-            "ItemsOpt": []
-        },
-        "Infos": {
-            "RelatedNPC": [
-                {
-                    "Name": "Materialkiste",
-                    "Url": "/lodestone/playguide/db/npc/npc/561bd66b142/",
-                    "Area": "Azim-Steppe (X:26.3 Y:21.7)"
-                },
-                {
-                    "Name": "Namazuo-Heiler",
-                    "Url": "/lodestone/playguide/db/npc/npc/51c6671ab52/",
-                    "Area": "Azim-Steppe (X:26.2 Y:21.7)"
-                },
-                {
-                    "Name": "Tanzender Namazuo",
-                    "Url": "/lodestone/playguide/db/npc/npc/4ad12051055/",
-                    "Area": "Azim-Steppe (X:22.4 Y:21.6)"
-                },
-                {
-                    "Name": "Tanzender Namazuo",
-                    "Url": "/lodestone/playguide/db/npc/npc/b067354494d/",
-                    "Area": "Azim-Steppe (X:22.4 Y:21.6)"
-                },
-                {
-                    "Name": "Tanzender Namazuo",
-                    "Url": "/lodestone/playguide/db/npc/npc/29aa0a1a24e/",
-                    "Area": "Azim-Steppe (X:22.3 Y:21.6)"
-                }
-            ]
-        },
-        "Seq": 31,
-        "oldID": 68666,
-        "Map": {
-            "ID": 372
-        },
-        "StartDependency": false
-    },
-    {
-        "ID": "0a84c3b7db4",
-        "Name": " Buuds geben Kraffft",
-        "Location": "Azim-Steppe",
-        "Level": 60,
-        "JournalSection": 4,
-        "JournalCategory": 36,
-        "JournalGenre": "\n\t\t\t\t\t\t\tNebenaufträge\n\t\t\t\t\t\t",
-        "Url": "/lodestone/playguide/db/quest/0a84c3b7db4/",
-        "Image": null,
-        "Icon": "common_repeat",
-        "Issuer": "Seigetsu",
-        "StartLocation": {
-            "Name": "Azim-Steppe",
-            "X": "5.8",
-            "Y": "23.4"
-        },
-        "StartClass": null,
-        "Job": "",
-        "Company": "Keine Angabe",
-        "Requirement": "Keine Angabe",
-        "Rewards": {
-            "Gil": 615,
-            "Exp": null,
-            "ItemsMand": [
-                {
-                    "Icon": "https://img.finalfantasyxiv.com/lds/pc/global/images/itemicon/0d/0dd4af1f23b8f1d782bacfb905a67b491688414c.png?n5.55",
-                    "Name": "Windkristall",
-                    "Amount": 20,
-                    "Url": "/lodestone/playguide/db/item/5db117cd77b/"
-                },
-                {
-                    "Icon": "https://img.finalfantasyxiv.com/lds/pc/global/images/itemicon/d9/d9a4b77a07bb95bf2713ae233a0eececdf211e8b.png?n5.55",
-                    "Name": "Feuerkristall",
-                    "Amount": 20,
-                    "Url": "/lodestone/playguide/db/item/75403105d7f/"
-                },
-                {
-                    "Icon": "https://img.finalfantasyxiv.com/lds/pc/global/images/itemicon/a7/a71da2eb489188dbbfadd582938a0e761a9a0585.png?n5.55",
-                    "Name": "Eiskristall",
-                    "Amount": 20,
-                    "Url": "/lodestone/playguide/db/item/2d800a06851/"
-                },
-                {
-                    "Icon": "https://img.finalfantasyxiv.com/lds/pc/global/images/itemicon/0d/0dd4af1f23b8f1d782bacfb905a67b491688414c.png?n5.55",
-                    "Name": "Windkristall",
-                    "Amount": 20,
-                    "Url": "/lodestone/playguide/db/item/5db117cd77b/"
-                },
-                {
-                    "Icon": "https://img.finalfantasyxiv.com/lds/pc/global/images/itemicon/16/16cd107e2bd1c45cee59e6b96ef02f2f6f68eac5.png?n5.55",
-                    "Name": "Erdkristall",
-                    "Amount": 20,
-                    "Url": "/lodestone/playguide/db/item/ff6eae7bdcb/"
-                },
-                {
-                    "Icon": "https://img.finalfantasyxiv.com/lds/pc/global/images/itemicon/5d/5dd42eb2385a5e0d158b8fa81b63a09e4b25c821.png?n5.55",
-                    "Name": "Blitzkristall",
-                    "Amount": 20,
-                    "Url": "/lodestone/playguide/db/item/b21a951916e/"
-                },
-                {
-                    "Icon": "https://img.finalfantasyxiv.com/lds/pc/global/images/itemicon/b5/b5eb0d9131d8f735a91286bdf2f877f0495e8235.png?n5.55",
-                    "Name": "Wasserkristall",
-                    "Amount": 20,
-                    "Url": "/lodestone/playguide/db/item/44d3f4cb26b/"
-                },
-                {
-                    "Icon": "https://img.finalfantasyxiv.com/lds/pc/global/images/itemicon/d9/d9a4b77a07bb95bf2713ae233a0eececdf211e8b.png?n5.55",
-                    "Name": "Feuerkristall",
-                    "Amount": 20,
-                    "Url": "/lodestone/playguide/db/item/75403105d7f/"
-                },
-                {
-                    "Icon": "https://img.finalfantasyxiv.com/lds/pc/global/images/itemicon/d9/d9beff495b00ab597dbd0b268530571d803e6a2d.png?n5.55",
-                    "Name": "Kräutertrank",
-                    "Amount": null,
-                    "Url": "/lodestone/playguide/db/item/2ff3e7e028c/"
-                },
-                {
-                    "Icon": "https://img.finalfantasyxiv.com/lds/pc/global/images/itemicon/d9/d9beff495b00ab597dbd0b268530571d803e6a2d.png?n5.55",
-                    "Name": "Kräutertrank",
-                    "Amount": null,
-                    "Url": "/lodestone/playguide/db/item/2ff3e7e028c/"
-                },
-                {
-                    "Icon": "https://img.finalfantasyxiv.com/lds/pc/global/images/itemicon/d9/d9beff495b00ab597dbd0b268530571d803e6a2d.png?n5.55",
-                    "Name": "Kräutertrank",
-                    "Amount": null,
-                    "Url": "/lodestone/playguide/db/item/2ff3e7e028c/"
-                }
-            ],
-            "ItemsOpt": []
-        },
-        "Infos": {
-            "RelatedNPC": [
-                {
-                    "Name": "Materialkiste",
-                    "Url": "/lodestone/playguide/db/npc/npc/c11e4a97f49/",
-                    "Area": "Azim-Steppe (X:29.3 Y:31.2)"
-                },
-                {
-                    "Name": "Namazuo-Koch",
-                    "Url": "/lodestone/playguide/db/npc/npc/ac48f1c2617/",
-                    "Area": "Azim-Steppe (X:29.2 Y:31.2)"
-                }
-            ]
-        },
-        "Seq": 16,
-        "oldID": 68649,
-        "Map": {
-            "ID": 372
-        },
-        "StartDependency": false
-    },
-    {
-        "ID": "0f6562f5219",
-        "Name": " Reinlichkeitsfffimmel",
-        "Location": "Azim-Steppe",
-        "Level": 60,
-        "JournalSection": 4,
-        "JournalCategory": 36,
-        "JournalGenre": "\n\t\t\t\t\t\t\tNebenaufträge\n\t\t\t\t\t\t",
-        "Url": "/lodestone/playguide/db/quest/0f6562f5219/",
-        "Image": null,
-        "Icon": "common_repeat",
-        "Issuer": "Seigetsu",
-        "StartLocation": {
-            "Name": "Azim-Steppe",
-            "X": "5.8",
-            "Y": "23.4"
-        },
-        "StartClass": null,
-        "Job": "",
-        "Company": "Keine Angabe",
-        "Requirement": "Keine Angabe",
-        "Rewards": {
-            "Gil": 550,
-            "Exp": null,
-            "ItemsMand": [
-                {
-                    "Icon": "https://img.finalfantasyxiv.com/lds/pc/global/images/itemicon/0d/0dd4af1f23b8f1d782bacfb905a67b491688414c.png?n5.55",
-                    "Name": "Windkristall",
-                    "Amount": 20,
-                    "Url": "/lodestone/playguide/db/item/5db117cd77b/"
-                },
-                {
-                    "Icon": "https://img.finalfantasyxiv.com/lds/pc/global/images/itemicon/d9/d9a4b77a07bb95bf2713ae233a0eececdf211e8b.png?n5.55",
-                    "Name": "Feuerkristall",
-                    "Amount": 20,
-                    "Url": "/lodestone/playguide/db/item/75403105d7f/"
-                },
-                {
-                    "Icon": "https://img.finalfantasyxiv.com/lds/pc/global/images/itemicon/a7/a71da2eb489188dbbfadd582938a0e761a9a0585.png?n5.55",
-                    "Name": "Eiskristall",
-                    "Amount": 20,
-                    "Url": "/lodestone/playguide/db/item/2d800a06851/"
-                },
-                {
-                    "Icon": "https://img.finalfantasyxiv.com/lds/pc/global/images/itemicon/0d/0dd4af1f23b8f1d782bacfb905a67b491688414c.png?n5.55",
-                    "Name": "Windkristall",
-                    "Amount": 20,
-                    "Url": "/lodestone/playguide/db/item/5db117cd77b/"
-                },
-                {
-                    "Icon": "https://img.finalfantasyxiv.com/lds/pc/global/images/itemicon/16/16cd107e2bd1c45cee59e6b96ef02f2f6f68eac5.png?n5.55",
-                    "Name": "Erdkristall",
-                    "Amount": 20,
-                    "Url": "/lodestone/playguide/db/item/ff6eae7bdcb/"
-                },
-                {
-                    "Icon": "https://img.finalfantasyxiv.com/lds/pc/global/images/itemicon/5d/5dd42eb2385a5e0d158b8fa81b63a09e4b25c821.png?n5.55",
-                    "Name": "Blitzkristall",
-                    "Amount": 20,
-                    "Url": "/lodestone/playguide/db/item/b21a951916e/"
-                },
-                {
-                    "Icon": "https://img.finalfantasyxiv.com/lds/pc/global/images/itemicon/b5/b5eb0d9131d8f735a91286bdf2f877f0495e8235.png?n5.55",
-                    "Name": "Wasserkristall",
-                    "Amount": 20,
-                    "Url": "/lodestone/playguide/db/item/44d3f4cb26b/"
-                },
-                {
-                    "Icon": "https://img.finalfantasyxiv.com/lds/pc/global/images/itemicon/d9/d9a4b77a07bb95bf2713ae233a0eececdf211e8b.png?n5.55",
-                    "Name": "Feuerkristall",
-                    "Amount": 20,
-                    "Url": "/lodestone/playguide/db/item/75403105d7f/"
-                },
-                {
-                    "Icon": "https://img.finalfantasyxiv.com/lds/pc/global/images/itemicon/d9/d9beff495b00ab597dbd0b268530571d803e6a2d.png?n5.55",
-                    "Name": "Kräutertrank",
-                    "Amount": null,
-                    "Url": "/lodestone/playguide/db/item/2ff3e7e028c/"
-                },
-                {
-                    "Icon": "https://img.finalfantasyxiv.com/lds/pc/global/images/itemicon/d9/d9beff495b00ab597dbd0b268530571d803e6a2d.png?n5.55",
-                    "Name": "Kräutertrank",
-                    "Amount": null,
-                    "Url": "/lodestone/playguide/db/item/2ff3e7e028c/"
-                },
-                {
-                    "Icon": "https://img.finalfantasyxiv.com/lds/pc/global/images/itemicon/d9/d9beff495b00ab597dbd0b268530571d803e6a2d.png?n5.55",
-                    "Name": "Kräutertrank",
-                    "Amount": null,
-                    "Url": "/lodestone/playguide/db/item/2ff3e7e028c/"
-                }
-            ],
-            "ItemsOpt": []
-        },
-        "Infos": {
-            "RelatedNPC": [
-                {
-                    "Name": "Angeheuerter Namazuo",
-                    "Url": "/lodestone/playguide/db/npc/npc/11a5419bd5e/",
-                    "Area": "Azim-Steppe (X:20.3 Y:10.2)"
-                },
-                {
-                    "Name": "Materialkiste",
-                    "Url": "/lodestone/playguide/db/npc/npc/7a2d287ab65/",
-                    "Area": "Azim-Steppe (X:20.4 Y:10.3)"
-                }
-            ]
-        },
-        "Seq": 9,
-        "oldID": 68641,
-        "Map": {
-            "ID": 372
-        },
-        "StartDependency": false
-    },
-    {
-        "ID": "13f91ac35a5",
-        "Name": " Fffeierlicher Fffummel",
-        "Location": "Azim-Steppe",
+        "ID": "2027759876a",
+        "Name": " Rotpanzer auf dem Vormarsch",
+        "Location": "Rubinsee",
         "Level": 60,
         "JournalSection": 4,
         "JournalCategory": 36,
         "JournalGenre": "\n\t\t\t\t\t\t\tHauptaufträge\n\t\t\t\t\t\t",
-        "Url": "/lodestone/playguide/db/quest/13f91ac35a5/",
-        "Image": "https://img.finalfantasyxiv.com/lds/pc/global/images/itemicon/e0/e0033be37bc99a2f19f0fae4bd5cb057d8b918ca.png?n5.55",
+        "Url": "/lodestone/playguide/db/quest/2027759876a/",
+        "Image": "https://img.finalfantasyxiv.com/lds/pc/global/images/itemicon/2d/2dc69826341e97d321d85fae30df0e58d9493e0a.png?n6.05",
         "Icon": "function_normal",
-        "Issuer": "Seigetsu",
+        "Issuer": "Kabuto",
         "StartLocation": {
-            "Name": "Azim-Steppe",
-            "X": "6.1",
-            "Y": "23.3"
+            "Name": "Rubinsee",
+            "X": "29.4",
+            "Y": "16.5"
         },
         "StartClass": null,
         "Job": "",
         "Company": "Keine Angabe",
         "Requirement": "Keine Angabe",
         "Rewards": {
-            "Gil": 648,
-            "Exp": null,
-            "ItemsMand": [],
-            "ItemsOpt": [
-                {
-                    "Icon": "https://img.finalfantasyxiv.com/lds/pc/global/images/itemicon/05/050fda3f7c55f511b31bda3f9fa0731dcd5a54cb.png?n5.55",
-                    "Name": "Sammlersold-Materia V",
-                    "Amount": 3,
-                    "Url": "/lodestone/playguide/db/item/b3fa9f1136c/"
-                },
-                {
-                    "Icon": "https://img.finalfantasyxiv.com/lds/pc/global/images/itemicon/05/050fda3f7c55f511b31bda3f9fa0731dcd5a54cb.png?n5.55",
-                    "Name": "Sammlersinn-Materia V",
-                    "Amount": 3,
-                    "Url": "/lodestone/playguide/db/item/aaf024009df/"
-                },
-                {
-                    "Icon": "https://img.finalfantasyxiv.com/lds/pc/global/images/itemicon/6c/6c28ac35293bc5cd065ca1da849891b2ff436b18.png?n5.55",
-                    "Name": "Facharbeiter-Materia V",
-                    "Amount": 3,
-                    "Url": "/lodestone/playguide/db/item/341799aa68e/"
-                }
-            ]
-        },
-        "Infos": {
-            "PrerequisiteQuest": [
-                {
-                    "Name": "Eine Schicksalsfffrage",
-                    "Url": "/lodestone/playguide/db/quest/48fcd4f22d5/",
-                    "Area": "Azim-Steppe",
-                    "Level": "60"
-                }
-            ],
-            "FollowupQuest": [
-                {
-                    "Name": " Fffirlefanz fürs Opffferfest",
-                    "Url": "/lodestone/playguide/db/quest/7b8fca31198/",
-                    "Area": "Azim-Steppe",
-                    "Level": "60"
-                }
-            ],
-            "RelatedNPC": [
-                {
-                    "Name": "Gyorei",
-                    "Url": "/lodestone/playguide/db/npc/npc/272b49fb8c5/",
-                    "Area": "Azim-Steppe (X:6.1 Y:23.2)"
-                },
-                {
-                    "Name": "Gyoshin",
-                    "Url": "/lodestone/playguide/db/npc/npc/0ad71b53313/",
-                    "Area": "Azim-Steppe (X:6.1 Y:23.3)"
-                },
-                {
-                    "Name": "Materialkiste",
-                    "Url": "/lodestone/playguide/db/npc/npc/271cb54a2e3/",
-                    "Area": "Azim-Steppe (X:6.0 Y:23.1)"
-                }
-            ]
-        },
-        "Seq": 1,
-        "oldID": 68633,
-        "Map": {
-            "ID": 372
-        },
-        "StartDependency": false
-    },
-    {
-        "ID": "1b80ad3cd5d",
-        "Name": " Auf gute Nachbarschaffft",
-        "Location": "Azim-Steppe",
-        "Level": 60,
-        "JournalSection": 4,
-        "JournalCategory": 36,
-        "JournalGenre": "\n\t\t\t\t\t\t\tNebenaufträge\n\t\t\t\t\t\t",
-        "Url": "/lodestone/playguide/db/quest/1b80ad3cd5d/",
-        "Image": null,
-        "Icon": "common_repeat",
-        "Issuer": "Seigetsu",
-        "StartLocation": {
-            "Name": "Azim-Steppe",
-            "X": "5.8",
-            "Y": "23.4"
-        },
-        "StartClass": null,
-        "Job": "",
-        "Company": "Keine Angabe",
-        "Requirement": "Keine Angabe",
-        "Rewards": {
-            "Gil": 680,
-            "Exp": null,
-            "ItemsMand": [
-                {
-                    "Icon": "https://img.finalfantasyxiv.com/lds/pc/global/images/itemicon/0d/0dd4af1f23b8f1d782bacfb905a67b491688414c.png?n5.55",
-                    "Name": "Windkristall",
-                    "Amount": 20,
-                    "Url": "/lodestone/playguide/db/item/5db117cd77b/"
-                },
-                {
-                    "Icon": "https://img.finalfantasyxiv.com/lds/pc/global/images/itemicon/d9/d9a4b77a07bb95bf2713ae233a0eececdf211e8b.png?n5.55",
-                    "Name": "Feuerkristall",
-                    "Amount": 20,
-                    "Url": "/lodestone/playguide/db/item/75403105d7f/"
-                },
-                {
-                    "Icon": "https://img.finalfantasyxiv.com/lds/pc/global/images/itemicon/a7/a71da2eb489188dbbfadd582938a0e761a9a0585.png?n5.55",
-                    "Name": "Eiskristall",
-                    "Amount": 20,
-                    "Url": "/lodestone/playguide/db/item/2d800a06851/"
-                },
-                {
-                    "Icon": "https://img.finalfantasyxiv.com/lds/pc/global/images/itemicon/0d/0dd4af1f23b8f1d782bacfb905a67b491688414c.png?n5.55",
-                    "Name": "Windkristall",
-                    "Amount": 20,
-                    "Url": "/lodestone/playguide/db/item/5db117cd77b/"
-                },
-                {
-                    "Icon": "https://img.finalfantasyxiv.com/lds/pc/global/images/itemicon/16/16cd107e2bd1c45cee59e6b96ef02f2f6f68eac5.png?n5.55",
-                    "Name": "Erdkristall",
-                    "Amount": 20,
-                    "Url": "/lodestone/playguide/db/item/ff6eae7bdcb/"
-                },
-                {
-                    "Icon": "https://img.finalfantasyxiv.com/lds/pc/global/images/itemicon/5d/5dd42eb2385a5e0d158b8fa81b63a09e4b25c821.png?n5.55",
-                    "Name": "Blitzkristall",
-                    "Amount": 20,
-                    "Url": "/lodestone/playguide/db/item/b21a951916e/"
-                },
-                {
-                    "Icon": "https://img.finalfantasyxiv.com/lds/pc/global/images/itemicon/b5/b5eb0d9131d8f735a91286bdf2f877f0495e8235.png?n5.55",
-                    "Name": "Wasserkristall",
-                    "Amount": 20,
-                    "Url": "/lodestone/playguide/db/item/44d3f4cb26b/"
-                },
-                {
-                    "Icon": "https://img.finalfantasyxiv.com/lds/pc/global/images/itemicon/d9/d9a4b77a07bb95bf2713ae233a0eececdf211e8b.png?n5.55",
-                    "Name": "Feuerkristall",
-                    "Amount": 20,
-                    "Url": "/lodestone/playguide/db/item/75403105d7f/"
-                },
-                {
-                    "Icon": "https://img.finalfantasyxiv.com/lds/pc/global/images/itemicon/d9/d9beff495b00ab597dbd0b268530571d803e6a2d.png?n5.55",
-                    "Name": "Kräutertrank",
-                    "Amount": null,
-                    "Url": "/lodestone/playguide/db/item/2ff3e7e028c/"
-                },
-                {
-                    "Icon": "https://img.finalfantasyxiv.com/lds/pc/global/images/itemicon/d9/d9beff495b00ab597dbd0b268530571d803e6a2d.png?n5.55",
-                    "Name": "Kräutertrank",
-                    "Amount": null,
-                    "Url": "/lodestone/playguide/db/item/2ff3e7e028c/"
-                },
-                {
-                    "Icon": "https://img.finalfantasyxiv.com/lds/pc/global/images/itemicon/d9/d9beff495b00ab597dbd0b268530571d803e6a2d.png?n5.55",
-                    "Name": "Kräutertrank",
-                    "Amount": null,
-                    "Url": "/lodestone/playguide/db/item/2ff3e7e028c/"
-                }
-            ],
-            "ItemsOpt": []
-        },
-        "Infos": {
-            "RelatedNPC": [
-                {
-                    "Name": "Baavgai",
-                    "Url": "/lodestone/playguide/db/npc/npc/38145747d69/",
-                    "Area": "Azim-Steppe (X:6.5 Y:29.4)"
-                },
-                {
-                    "Name": "Liebenswerter Namazuo",
-                    "Url": "/lodestone/playguide/db/npc/npc/38c94368f3e/",
-                    "Area": "Azim-Steppe (X:9.5 Y:15.7)"
-                },
-                {
-                    "Name": "Materialkiste",
-                    "Url": "/lodestone/playguide/db/npc/npc/a9e6e9cbf73/",
-                    "Area": "Azim-Steppe (X:9.5 Y:15.7)"
-                }
-            ]
-        },
-        "Seq": 12,
-        "oldID": 68644,
-        "Map": {
-            "ID": 372
-        },
-        "StartDependency": false
-    },
-    {
-        "ID": "1c400698842",
-        "Name": " Spiel mit dem Fffeuer",
-        "Location": "Azim-Steppe",
-        "Level": 60,
-        "JournalSection": 4,
-        "JournalCategory": 36,
-        "JournalGenre": "\n\t\t\t\t\t\t\tHauptaufträge\n\t\t\t\t\t\t",
-        "Url": "/lodestone/playguide/db/quest/1c400698842/",
-        "Image": "https://img.finalfantasyxiv.com/lds/pc/global/images/itemicon/13/138176451b39dccc32366decc69cebcee493eb80.png?n5.55",
-        "Icon": "function_normal",
-        "Issuer": "Gyoshin",
-        "StartLocation": {
-            "Name": "Azim-Steppe",
-            "X": "6.1",
-            "Y": "23.3"
-        },
-        "StartClass": null,
-        "Job": "",
-        "Company": "Keine Angabe",
-        "Requirement": "Keine Angabe",
-        "Rewards": {
-            "Gil": 2938,
-            "Exp": null,
-            "ItemsMand": [],
-            "ItemsOpt": [
-                {
-                    "Icon": "https://img.finalfantasyxiv.com/lds/pc/global/images/itemicon/d4/d49fdc4ab26dbf9b92ffca562fcc03a2f8b98446.png?n5.55",
-                    "Name": "Sammlersold-Materia VI",
-                    "Amount": 2,
-                    "Url": "/lodestone/playguide/db/item/58b8073b1c5/"
-                },
-                {
-                    "Icon": "https://img.finalfantasyxiv.com/lds/pc/global/images/itemicon/d4/d49fdc4ab26dbf9b92ffca562fcc03a2f8b98446.png?n5.55",
-                    "Name": "Sammlersinn-Materia VI",
-                    "Amount": 2,
-                    "Url": "/lodestone/playguide/db/item/3e7ec58f07a/"
-                },
-                {
-                    "Icon": "https://img.finalfantasyxiv.com/lds/pc/global/images/itemicon/f6/f6b4b9e71e6ea07af16668337ac28607e8e58297.png?n5.55",
-                    "Name": "Facharbeiter-Materia VI",
-                    "Amount": 2,
-                    "Url": "/lodestone/playguide/db/item/782c2924c59/"
-                }
-            ]
-        },
-        "Infos": {
-            "PrerequisiteQuest": [
-                {
-                    "Name": " Die Bräuche der Nomaden",
-                    "Url": "/lodestone/playguide/db/quest/7c9dd7d8a75/",
-                    "Area": "Azim-Steppe",
-                    "Level": "60"
-                }
-            ],
-            "FollowupQuest": [
-                {
-                    "Name": " Die Fffrüchte der Fffreundschaft",
-                    "Url": "/lodestone/playguide/db/quest/cc69384e776/",
-                    "Area": "Azim-Steppe",
-                    "Level": "60"
-                }
-            ],
-            "RelatedNPC": [
-                {
-                    "Name": "Matoya",
-                    "Url": "/lodestone/playguide/db/npc/npc/f3f8bd985d8/",
-                    "Area": "Matoyas Höhle (X:6.5 Y:6.4)"
-                },
-                {
-                    "Name": "Gyorei",
-                    "Url": "/lodestone/playguide/db/npc/npc/30c3f1b050a/",
-                    "Area": "Azim-Steppe (X:5.8 Y:23.5)"
-                },
-                {
-                    "Name": "Gyorei",
-                    "Url": "/lodestone/playguide/db/npc/npc/267c991a8b3/",
-                    "Area": "Azim-Steppe (X:5.6 Y:23.9)"
-                },
-                {
-                    "Name": "Gyoshin",
-                    "Url": "/lodestone/playguide/db/npc/npc/ab221b27c35/",
-                    "Area": "Azim-Steppe (X:5.6 Y:23.9)"
-                },
-                {
-                    "Name": "Materialkiste",
-                    "Url": "/lodestone/playguide/db/npc/npc/271cb54a2e3/",
-                    "Area": "Azim-Steppe (X:6.0 Y:23.1)"
-                }
-            ]
-        },
-        "Seq": 5,
-        "oldID": 68637,
-        "Map": {
-            "ID": 372
-        },
-        "StartDependency": false
-    },
-    {
-        "ID": "1c94c7d8823",
-        "Name": " Da steht kein Pffferd aufm Flur",
-        "Location": "Azim-Steppe",
-        "Level": 60,
-        "JournalSection": 4,
-        "JournalCategory": 36,
-        "JournalGenre": "\n\t\t\t\t\t\t\tNebenaufträge\n\t\t\t\t\t\t",
-        "Url": "/lodestone/playguide/db/quest/1c94c7d8823/",
-        "Image": null,
-        "Icon": "common_repeat",
-        "Issuer": "Seigetsu",
-        "StartLocation": {
-            "Name": "Azim-Steppe",
-            "X": "5.8",
-            "Y": "23.4"
-        },
-        "StartClass": null,
-        "Job": "",
-        "Company": "Keine Angabe",
-        "Requirement": "Keine Angabe",
-        "Rewards": {
-            "Gil": 550,
-            "Exp": null,
-            "ItemsMand": [
-                {
-                    "Icon": "https://img.finalfantasyxiv.com/lds/pc/global/images/itemicon/0d/0dd4af1f23b8f1d782bacfb905a67b491688414c.png?n5.55",
-                    "Name": "Windkristall",
-                    "Amount": 20,
-                    "Url": "/lodestone/playguide/db/item/5db117cd77b/"
-                },
-                {
-                    "Icon": "https://img.finalfantasyxiv.com/lds/pc/global/images/itemicon/d9/d9a4b77a07bb95bf2713ae233a0eececdf211e8b.png?n5.55",
-                    "Name": "Feuerkristall",
-                    "Amount": 20,
-                    "Url": "/lodestone/playguide/db/item/75403105d7f/"
-                },
-                {
-                    "Icon": "https://img.finalfantasyxiv.com/lds/pc/global/images/itemicon/a7/a71da2eb489188dbbfadd582938a0e761a9a0585.png?n5.55",
-                    "Name": "Eiskristall",
-                    "Amount": 20,
-                    "Url": "/lodestone/playguide/db/item/2d800a06851/"
-                },
-                {
-                    "Icon": "https://img.finalfantasyxiv.com/lds/pc/global/images/itemicon/0d/0dd4af1f23b8f1d782bacfb905a67b491688414c.png?n5.55",
-                    "Name": "Windkristall",
-                    "Amount": 20,
-                    "Url": "/lodestone/playguide/db/item/5db117cd77b/"
-                },
-                {
-                    "Icon": "https://img.finalfantasyxiv.com/lds/pc/global/images/itemicon/16/16cd107e2bd1c45cee59e6b96ef02f2f6f68eac5.png?n5.55",
-                    "Name": "Erdkristall",
-                    "Amount": 20,
-                    "Url": "/lodestone/playguide/db/item/ff6eae7bdcb/"
-                },
-                {
-                    "Icon": "https://img.finalfantasyxiv.com/lds/pc/global/images/itemicon/5d/5dd42eb2385a5e0d158b8fa81b63a09e4b25c821.png?n5.55",
-                    "Name": "Blitzkristall",
-                    "Amount": 20,
-                    "Url": "/lodestone/playguide/db/item/b21a951916e/"
-                },
-                {
-                    "Icon": "https://img.finalfantasyxiv.com/lds/pc/global/images/itemicon/b5/b5eb0d9131d8f735a91286bdf2f877f0495e8235.png?n5.55",
-                    "Name": "Wasserkristall",
-                    "Amount": 20,
-                    "Url": "/lodestone/playguide/db/item/44d3f4cb26b/"
-                },
-                {
-                    "Icon": "https://img.finalfantasyxiv.com/lds/pc/global/images/itemicon/d9/d9a4b77a07bb95bf2713ae233a0eececdf211e8b.png?n5.55",
-                    "Name": "Feuerkristall",
-                    "Amount": 20,
-                    "Url": "/lodestone/playguide/db/item/75403105d7f/"
-                },
-                {
-                    "Icon": "https://img.finalfantasyxiv.com/lds/pc/global/images/itemicon/d9/d9beff495b00ab597dbd0b268530571d803e6a2d.png?n5.55",
-                    "Name": "Kräutertrank",
-                    "Amount": null,
-                    "Url": "/lodestone/playguide/db/item/2ff3e7e028c/"
-                },
-                {
-                    "Icon": "https://img.finalfantasyxiv.com/lds/pc/global/images/itemicon/d9/d9beff495b00ab597dbd0b268530571d803e6a2d.png?n5.55",
-                    "Name": "Kräutertrank",
-                    "Amount": null,
-                    "Url": "/lodestone/playguide/db/item/2ff3e7e028c/"
-                },
-                {
-                    "Icon": "https://img.finalfantasyxiv.com/lds/pc/global/images/itemicon/d9/d9beff495b00ab597dbd0b268530571d803e6a2d.png?n5.55",
-                    "Name": "Kräutertrank",
-                    "Amount": null,
-                    "Url": "/lodestone/playguide/db/item/2ff3e7e028c/"
-                }
-            ],
-            "ItemsOpt": []
-        },
-        "Infos": {
-            "RelatedNPC": [
-                {
-                    "Name": "Materialkiste",
-                    "Url": "/lodestone/playguide/db/npc/npc/1f94d506940/",
-                    "Area": "Azim-Steppe (X:14.1 Y:9.8)"
-                },
-                {
-                    "Name": "Namazuo-Pferdepfleger",
-                    "Url": "/lodestone/playguide/db/npc/npc/c6563edfc20/",
-                    "Area": "Azim-Steppe (X:14.1 Y:9.8)"
-                }
-            ]
-        },
-        "Seq": 26,
-        "oldID": 68652,
-        "Map": {
-            "ID": 372
-        },
-        "StartDependency": false
-    },
-    {
-        "ID": "1e0a1fe1d5b",
-        "Name": " Geschmacksfffrage",
-        "Location": "Azim-Steppe",
-        "Level": 60,
-        "JournalSection": 4,
-        "JournalCategory": 36,
-        "JournalGenre": "\n\t\t\t\t\t\t\tNebenaufträge\n\t\t\t\t\t\t",
-        "Url": "/lodestone/playguide/db/quest/1e0a1fe1d5b/",
-        "Image": null,
-        "Icon": "common_repeat",
-        "Issuer": "Seigetsu",
-        "StartLocation": {
-            "Name": "Azim-Steppe",
-            "X": "5.8",
-            "Y": "23.4"
-        },
-        "StartClass": null,
-        "Job": "",
-        "Company": "Keine Angabe",
-        "Requirement": "Keine Angabe",
-        "Rewards": {
-            "Gil": 680,
-            "Exp": null,
-            "ItemsMand": [
-                {
-                    "Icon": "https://img.finalfantasyxiv.com/lds/pc/global/images/itemicon/0d/0dd4af1f23b8f1d782bacfb905a67b491688414c.png?n5.55",
-                    "Name": "Windkristall",
-                    "Amount": 20,
-                    "Url": "/lodestone/playguide/db/item/5db117cd77b/"
-                },
-                {
-                    "Icon": "https://img.finalfantasyxiv.com/lds/pc/global/images/itemicon/d9/d9a4b77a07bb95bf2713ae233a0eececdf211e8b.png?n5.55",
-                    "Name": "Feuerkristall",
-                    "Amount": 20,
-                    "Url": "/lodestone/playguide/db/item/75403105d7f/"
-                },
-                {
-                    "Icon": "https://img.finalfantasyxiv.com/lds/pc/global/images/itemicon/a7/a71da2eb489188dbbfadd582938a0e761a9a0585.png?n5.55",
-                    "Name": "Eiskristall",
-                    "Amount": 20,
-                    "Url": "/lodestone/playguide/db/item/2d800a06851/"
-                },
-                {
-                    "Icon": "https://img.finalfantasyxiv.com/lds/pc/global/images/itemicon/0d/0dd4af1f23b8f1d782bacfb905a67b491688414c.png?n5.55",
-                    "Name": "Windkristall",
-                    "Amount": 20,
-                    "Url": "/lodestone/playguide/db/item/5db117cd77b/"
-                },
-                {
-                    "Icon": "https://img.finalfantasyxiv.com/lds/pc/global/images/itemicon/16/16cd107e2bd1c45cee59e6b96ef02f2f6f68eac5.png?n5.55",
-                    "Name": "Erdkristall",
-                    "Amount": 20,
-                    "Url": "/lodestone/playguide/db/item/ff6eae7bdcb/"
-                },
-                {
-                    "Icon": "https://img.finalfantasyxiv.com/lds/pc/global/images/itemicon/5d/5dd42eb2385a5e0d158b8fa81b63a09e4b25c821.png?n5.55",
-                    "Name": "Blitzkristall",
-                    "Amount": 20,
-                    "Url": "/lodestone/playguide/db/item/b21a951916e/"
-                },
-                {
-                    "Icon": "https://img.finalfantasyxiv.com/lds/pc/global/images/itemicon/b5/b5eb0d9131d8f735a91286bdf2f877f0495e8235.png?n5.55",
-                    "Name": "Wasserkristall",
-                    "Amount": 20,
-                    "Url": "/lodestone/playguide/db/item/44d3f4cb26b/"
-                },
-                {
-                    "Icon": "https://img.finalfantasyxiv.com/lds/pc/global/images/itemicon/d9/d9a4b77a07bb95bf2713ae233a0eececdf211e8b.png?n5.55",
-                    "Name": "Feuerkristall",
-                    "Amount": 20,
-                    "Url": "/lodestone/playguide/db/item/75403105d7f/"
-                },
-                {
-                    "Icon": "https://img.finalfantasyxiv.com/lds/pc/global/images/itemicon/d9/d9beff495b00ab597dbd0b268530571d803e6a2d.png?n5.55",
-                    "Name": "Kräutertrank",
-                    "Amount": null,
-                    "Url": "/lodestone/playguide/db/item/2ff3e7e028c/"
-                },
-                {
-                    "Icon": "https://img.finalfantasyxiv.com/lds/pc/global/images/itemicon/d9/d9beff495b00ab597dbd0b268530571d803e6a2d.png?n5.55",
-                    "Name": "Kräutertrank",
-                    "Amount": null,
-                    "Url": "/lodestone/playguide/db/item/2ff3e7e028c/"
-                },
-                {
-                    "Icon": "https://img.finalfantasyxiv.com/lds/pc/global/images/itemicon/d9/d9beff495b00ab597dbd0b268530571d803e6a2d.png?n5.55",
-                    "Name": "Kräutertrank",
-                    "Amount": null,
-                    "Url": "/lodestone/playguide/db/item/2ff3e7e028c/"
-                }
-            ],
-            "ItemsOpt": []
-        },
-        "Infos": {
-            "RelatedNPC": [
-                {
-                    "Name": "Materialkiste",
-                    "Url": "/lodestone/playguide/db/npc/npc/0afb5160aee/",
-                    "Area": "Azim-Steppe (X:33.0 Y:25.9)"
-                },
-                {
-                    "Name": "Namazuo-Gourmet",
-                    "Url": "/lodestone/playguide/db/npc/npc/e60569b56a9/",
-                    "Area": "Azim-Steppe (X:33.1 Y:25.9)"
-                },
-                {
-                    "Name": "Yesui",
-                    "Url": "/lodestone/playguide/db/npc/npc/9aceb35f15d/",
-                    "Area": "Azim-Steppe (X:32.3 Y:29.3)"
-                }
-            ]
-        },
-        "Seq": 24,
-        "oldID": 68658,
-        "Map": {
-            "ID": 372
-        },
-        "StartDependency": false
-    },
-    {
-        "ID": "2244aa3c570",
-        "Name": " Wasshoi macht die Götter froh",
-        "Location": "Azim-Steppe",
-        "Level": 60,
-        "JournalSection": 4,
-        "JournalCategory": 36,
-        "JournalGenre": "\n\t\t\t\t\t\t\tNebenaufträge\n\t\t\t\t\t\t",
-        "Url": "/lodestone/playguide/db/quest/2244aa3c570/",
-        "Image": null,
-        "Icon": "common_repeat",
-        "Issuer": "Seigetsu",
-        "StartLocation": {
-            "Name": "Azim-Steppe",
-            "X": "5.8",
-            "Y": "23.4"
-        },
-        "StartClass": null,
-        "Job": "",
-        "Company": "Keine Angabe",
-        "Requirement": "Keine Angabe",
-        "Rewards": {
-            "Gil": 615,
-            "Exp": null,
-            "ItemsMand": [],
-            "ItemsOpt": []
-        },
-        "Infos": {
-            "RelatedNPC": [
-                {
-                    "Name": "Gyotaku",
-                    "Url": "/lodestone/playguide/db/npc/npc/6d452b5de85/",
-                    "Area": "Azim-Steppe (X:6.6 Y:23.2)"
-                }
-            ]
-        },
-        "Seq": 20,
-        "oldID": 68651,
-        "Map": {
-            "ID": 372
-        },
-        "StartDependency": false
-    },
-    {
-        "ID": "2500840e7fd",
-        "Name": " In geheimer Mission",
-        "Location": "Azim-Steppe",
-        "Level": 60,
-        "JournalSection": 4,
-        "JournalCategory": 36,
-        "JournalGenre": "\n\t\t\t\t\t\t\tNebenaufträge\n\t\t\t\t\t\t",
-        "Url": "/lodestone/playguide/db/quest/2500840e7fd/",
-        "Image": null,
-        "Icon": "common_repeat",
-        "Issuer": "Seigetsu",
-        "StartLocation": {
-            "Name": "Azim-Steppe",
-            "X": "5.8",
-            "Y": "23.4"
-        },
-        "StartClass": null,
-        "Job": "",
-        "Company": "Keine Angabe",
-        "Requirement": "Keine Angabe",
-        "Rewards": {
-            "Gil": 550,
-            "Exp": null,
-            "ItemsMand": [
-                {
-                    "Icon": "https://img.finalfantasyxiv.com/lds/pc/global/images/itemicon/0d/0dd4af1f23b8f1d782bacfb905a67b491688414c.png?n5.55",
-                    "Name": "Windkristall",
-                    "Amount": 20,
-                    "Url": "/lodestone/playguide/db/item/5db117cd77b/"
-                },
-                {
-                    "Icon": "https://img.finalfantasyxiv.com/lds/pc/global/images/itemicon/d9/d9a4b77a07bb95bf2713ae233a0eececdf211e8b.png?n5.55",
-                    "Name": "Feuerkristall",
-                    "Amount": 20,
-                    "Url": "/lodestone/playguide/db/item/75403105d7f/"
-                },
-                {
-                    "Icon": "https://img.finalfantasyxiv.com/lds/pc/global/images/itemicon/a7/a71da2eb489188dbbfadd582938a0e761a9a0585.png?n5.55",
-                    "Name": "Eiskristall",
-                    "Amount": 20,
-                    "Url": "/lodestone/playguide/db/item/2d800a06851/"
-                },
-                {
-                    "Icon": "https://img.finalfantasyxiv.com/lds/pc/global/images/itemicon/0d/0dd4af1f23b8f1d782bacfb905a67b491688414c.png?n5.55",
-                    "Name": "Windkristall",
-                    "Amount": 20,
-                    "Url": "/lodestone/playguide/db/item/5db117cd77b/"
-                },
-                {
-                    "Icon": "https://img.finalfantasyxiv.com/lds/pc/global/images/itemicon/16/16cd107e2bd1c45cee59e6b96ef02f2f6f68eac5.png?n5.55",
-                    "Name": "Erdkristall",
-                    "Amount": 20,
-                    "Url": "/lodestone/playguide/db/item/ff6eae7bdcb/"
-                },
-                {
-                    "Icon": "https://img.finalfantasyxiv.com/lds/pc/global/images/itemicon/5d/5dd42eb2385a5e0d158b8fa81b63a09e4b25c821.png?n5.55",
-                    "Name": "Blitzkristall",
-                    "Amount": 20,
-                    "Url": "/lodestone/playguide/db/item/b21a951916e/"
-                },
-                {
-                    "Icon": "https://img.finalfantasyxiv.com/lds/pc/global/images/itemicon/b5/b5eb0d9131d8f735a91286bdf2f877f0495e8235.png?n5.55",
-                    "Name": "Wasserkristall",
-                    "Amount": 20,
-                    "Url": "/lodestone/playguide/db/item/44d3f4cb26b/"
-                },
-                {
-                    "Icon": "https://img.finalfantasyxiv.com/lds/pc/global/images/itemicon/d9/d9a4b77a07bb95bf2713ae233a0eececdf211e8b.png?n5.55",
-                    "Name": "Feuerkristall",
-                    "Amount": 20,
-                    "Url": "/lodestone/playguide/db/item/75403105d7f/"
-                },
-                {
-                    "Icon": "https://img.finalfantasyxiv.com/lds/pc/global/images/itemicon/d9/d9beff495b00ab597dbd0b268530571d803e6a2d.png?n5.55",
-                    "Name": "Kräutertrank",
-                    "Amount": null,
-                    "Url": "/lodestone/playguide/db/item/2ff3e7e028c/"
-                },
-                {
-                    "Icon": "https://img.finalfantasyxiv.com/lds/pc/global/images/itemicon/d9/d9beff495b00ab597dbd0b268530571d803e6a2d.png?n5.55",
-                    "Name": "Kräutertrank",
-                    "Amount": null,
-                    "Url": "/lodestone/playguide/db/item/2ff3e7e028c/"
-                },
-                {
-                    "Icon": "https://img.finalfantasyxiv.com/lds/pc/global/images/itemicon/d9/d9beff495b00ab597dbd0b268530571d803e6a2d.png?n5.55",
-                    "Name": "Kräutertrank",
-                    "Amount": null,
-                    "Url": "/lodestone/playguide/db/item/2ff3e7e028c/"
-                }
-            ],
-            "ItemsOpt": []
-        },
-        "Infos": {
-            "RelatedNPC": [
-                {
-                    "Name": "Materialkiste",
-                    "Url": "/lodestone/playguide/db/npc/npc/bf20c026b5c/",
-                    "Area": "Azim-Steppe (X:36.1 Y:18.2)"
-                },
-                {
-                    "Name": "Namazuo-Opfergabenbeauftragter",
-                    "Url": "/lodestone/playguide/db/npc/npc/d7121f8b303/",
-                    "Area": "Azim-Steppe (X:36.1 Y:18.1)"
-                }
-            ]
-        },
-        "Seq": 18,
-        "oldID": 68656,
-        "Map": {
-            "ID": 372
-        },
-        "StartDependency": false
-    },
-    {
-        "ID": "2cb1bd83be2",
-        "Name": " Kaum zu ertragen",
-        "Location": "Azim-Steppe",
-        "Level": 60,
-        "JournalSection": 4,
-        "JournalCategory": 36,
-        "JournalGenre": "\n\t\t\t\t\t\t\tNebenaufträge\n\t\t\t\t\t\t",
-        "Url": "/lodestone/playguide/db/quest/2cb1bd83be2/",
-        "Image": null,
-        "Icon": "common_repeat",
-        "Issuer": "Seigetsu",
-        "StartLocation": {
-            "Name": "Azim-Steppe",
-            "X": "5.8",
-            "Y": "23.4"
-        },
-        "StartClass": null,
-        "Job": "",
-        "Company": "Keine Angabe",
-        "Requirement": "Keine Angabe",
-        "Rewards": {
-            "Gil": 615,
-            "Exp": null,
-            "ItemsMand": [],
-            "ItemsOpt": []
-        },
-        "Infos": {
-            "RelatedNPC": [
-                {
-                    "Name": "Gyotaku",
-                    "Url": "/lodestone/playguide/db/npc/npc/6d452b5de85/",
-                    "Area": "Azim-Steppe (X:6.6 Y:23.2)"
-                }
-            ]
-        },
-        "Seq": 23,
-        "oldID": 68657,
-        "Map": {
-            "ID": 372
-        },
-        "StartDependency": false
-    },
-    {
-        "ID": "324c2b673d4",
-        "Name": " Namazuo-Schießbude",
-        "Location": "Azim-Steppe",
-        "Level": 60,
-        "JournalSection": 4,
-        "JournalCategory": 36,
-        "JournalGenre": "\n\t\t\t\t\t\t\tNebenaufträge\n\t\t\t\t\t\t",
-        "Url": "/lodestone/playguide/db/quest/324c2b673d4/",
-        "Image": null,
-        "Icon": "common_repeat",
-        "Issuer": "Seigetsu",
-        "StartLocation": {
-            "Name": "Azim-Steppe",
-            "X": "5.8",
-            "Y": "23.4"
-        },
-        "StartClass": null,
-        "Job": "",
-        "Company": "Keine Angabe",
-        "Requirement": "Keine Angabe",
-        "Rewards": {
-            "Gil": 615,
-            "Exp": null,
-            "ItemsMand": [],
-            "ItemsOpt": []
-        },
-        "Infos": {
-            "RelatedNPC": [
-                {
-                    "Name": "Gyobi",
-                    "Url": "/lodestone/playguide/db/npc/npc/8cf78384bc6/",
-                    "Area": "Azim-Steppe (X:5.1 Y:22.5)"
-                }
-            ]
-        },
-        "Seq": 28,
-        "oldID": 68660,
-        "Map": {
-            "ID": 372
-        },
-        "StartDependency": false
-    },
-    {
-        "ID": "48fcd4f22d5",
-        "Name": "Eine Schicksalsfffrage",
-        "Location": "Azim-Steppe",
-        "Level": 60,
-        "JournalSection": 4,
-        "JournalCategory": 36,
-        "JournalGenre": "\n\t\t\t\t\t\t\tHauptaufträge\n\t\t\t\t\t\t",
-        "Url": "/lodestone/playguide/db/quest/48fcd4f22d5/",
-        "Image": "https://img.finalfantasyxiv.com/lds/pc/global/images/itemicon/b1/b1a546a2332bfdf6d18d8bf2be8980be08e9e1bc.png?n5.55",
-        "Icon": "function_normal",
-        "Issuer": "Zuckender Namazuo",
-        "StartLocation": {
-            "Name": "Azim-Steppe",
-            "X": "17.4",
-            "Y": "37.5"
-        },
-        "StartClass": null,
-        "Job": "",
-        "Company": "Keine Angabe",
-        "Requirement": "Keine Angabe",
-        "Rewards": {
-            "Gil": 1383,
+            "Gil": 2272,
             "Exp": null,
             "ItemsMand": [],
             "ItemsOpt": []
@@ -1174,1911 +29,84 @@
         "Infos": {
             "PrerequisiteQuest": [
                 {
-                    "Name": "Hoffnungsvoller Morgenhimmel",
-                    "Url": "/lodestone/playguide/db/quest/f237a8217b8/",
-                    "Area": "Azim-Steppe",
-                    "Level": "66"
-                },
-                {
-                    "Name": "Waffen für Namai",
-                    "Url": "/lodestone/playguide/db/quest/411539a69b9/",
-                    "Area": "Yanxia",
-                    "Level": "64"
-                }
-            ],
-            "FollowupQuest": [
-                {
-                    "Name": " Fffeierlicher Fffummel",
-                    "Url": "/lodestone/playguide/db/quest/13f91ac35a5/",
-                    "Area": "Azim-Steppe",
-                    "Level": "60"
-                }
-            ],
-            "RelatedNPC": [
-                {
-                    "Name": "Bergführer der Mol",
-                    "Url": "/lodestone/playguide/db/npc/npc/95de2e75f3a/",
-                    "Area": "Azim-Steppe (X:8.9 Y:23.4)"
-                },
-                {
-                    "Name": "Cirina",
-                    "Url": "/lodestone/playguide/db/npc/npc/077102a4b03/",
-                    "Area": "Azim-Steppe (X:31.4 Y:11.3)"
-                },
-                {
-                    "Name": "Gyorei",
-                    "Url": "/lodestone/playguide/db/npc/npc/272b49fb8c5/",
-                    "Area": "Azim-Steppe (X:6.1 Y:23.2)"
-                },
-                {
-                    "Name": "Gyoshin",
-                    "Url": "/lodestone/playguide/db/npc/npc/0ad71b53313/",
-                    "Area": "Azim-Steppe (X:6.1 Y:23.3)"
-                },
-                {
-                    "Name": "Seigetsu",
-                    "Url": "/lodestone/playguide/db/npc/npc/00eaa83b1e1/",
-                    "Area": "Azim-Steppe (X:6.1 Y:23.3)"
-                },
-                {
-                    "Name": "Temulun",
-                    "Url": "/lodestone/playguide/db/npc/npc/2ceef072c55/",
-                    "Area": "Azim-Steppe (X:31.4 Y:11.2)"
-                },
-                {
-                    "Name": "Gyorei",
-                    "Url": "/lodestone/playguide/db/npc/npc/f19d4ed8b5e/",
-                    "Area": "Yanxia (X:15.6 Y:31.7)"
-                },
-                {
-                    "Name": "Gyorei",
-                    "Url": "/lodestone/playguide/db/npc/npc/3108a5beaab/",
-                    "Area": "Yanxia (X:15.7 Y:31.7)"
-                },
-                {
-                    "Name": "Gyoshin",
-                    "Url": "/lodestone/playguide/db/npc/npc/bcff12c0028/",
-                    "Area": "Yanxia (X:15.7 Y:31.7)"
-                },
-                {
-                    "Name": "Seigetsu",
-                    "Url": "/lodestone/playguide/db/npc/npc/f5669198b12/",
-                    "Area": "Yanxia (X:15.8 Y:31.7)"
-                }
-            ]
-        },
-        "Seq": 12,
-        "oldID": 68632,
-        "Map": {
-            "ID": 372
-        },
-        "StartDependency": false
-    },
-    {
-        "ID": "5e33b13c125",
-        "Name": " Heilsame Knallerei",
-        "Location": "Azim-Steppe",
-        "Level": 60,
-        "JournalSection": 4,
-        "JournalCategory": 36,
-        "JournalGenre": "\n\t\t\t\t\t\t\tNebenaufträge\n\t\t\t\t\t\t",
-        "Url": "/lodestone/playguide/db/quest/5e33b13c125/",
-        "Image": null,
-        "Icon": "common_repeat",
-        "Issuer": "Seigetsu",
-        "StartLocation": {
-            "Name": "Azim-Steppe",
-            "X": "5.8",
-            "Y": "23.4"
-        },
-        "StartClass": null,
-        "Job": "",
-        "Company": "Keine Angabe",
-        "Requirement": "Keine Angabe",
-        "Rewards": {
-            "Gil": 550,
-            "Exp": null,
-            "ItemsMand": [],
-            "ItemsOpt": []
-        },
-        "Infos": {
-            "RelatedNPC": [
-                {
-                    "Name": "Verwirrter Namazuo",
-                    "Url": "/lodestone/playguide/db/npc/npc/a572afce1fe/",
-                    "Area": "Azim-Steppe (X:30.1 Y:21.0)"
-                },
-                {
-                    "Name": "Verwirrter Namazuo",
-                    "Url": "/lodestone/playguide/db/npc/npc/19511cfabf8/",
-                    "Area": "Azim-Steppe (X:29.7 Y:20.5)"
-                },
-                {
-                    "Name": "Verwirrter Namazuo",
-                    "Url": "/lodestone/playguide/db/npc/npc/114fa4bef05/",
-                    "Area": "Azim-Steppe (X:30.1 Y:21.8)"
-                }
-            ]
-        },
-        "Seq": 25,
-        "oldID": 68663,
-        "Map": {
-            "ID": 372
-        },
-        "StartDependency": false
-    },
-    {
-        "ID": "658236fa9ed",
-        "Name": " Motivationshilfffe",
-        "Location": "Azim-Steppe",
-        "Level": 60,
-        "JournalSection": 4,
-        "JournalCategory": 36,
-        "JournalGenre": "\n\t\t\t\t\t\t\tNebenaufträge\n\t\t\t\t\t\t",
-        "Url": "/lodestone/playguide/db/quest/658236fa9ed/",
-        "Image": null,
-        "Icon": "common_repeat",
-        "Issuer": "Seigetsu",
-        "StartLocation": {
-            "Name": "Azim-Steppe",
-            "X": "5.8",
-            "Y": "23.4"
-        },
-        "StartClass": null,
-        "Job": "",
-        "Company": "Keine Angabe",
-        "Requirement": "Keine Angabe",
-        "Rewards": {
-            "Gil": 550,
-            "Exp": null,
-            "ItemsMand": [
-                {
-                    "Icon": "https://img.finalfantasyxiv.com/lds/pc/global/images/itemicon/0d/0dd4af1f23b8f1d782bacfb905a67b491688414c.png?n5.55",
-                    "Name": "Windkristall",
-                    "Amount": 20,
-                    "Url": "/lodestone/playguide/db/item/5db117cd77b/"
-                },
-                {
-                    "Icon": "https://img.finalfantasyxiv.com/lds/pc/global/images/itemicon/d9/d9a4b77a07bb95bf2713ae233a0eececdf211e8b.png?n5.55",
-                    "Name": "Feuerkristall",
-                    "Amount": 20,
-                    "Url": "/lodestone/playguide/db/item/75403105d7f/"
-                },
-                {
-                    "Icon": "https://img.finalfantasyxiv.com/lds/pc/global/images/itemicon/a7/a71da2eb489188dbbfadd582938a0e761a9a0585.png?n5.55",
-                    "Name": "Eiskristall",
-                    "Amount": 20,
-                    "Url": "/lodestone/playguide/db/item/2d800a06851/"
-                },
-                {
-                    "Icon": "https://img.finalfantasyxiv.com/lds/pc/global/images/itemicon/0d/0dd4af1f23b8f1d782bacfb905a67b491688414c.png?n5.55",
-                    "Name": "Windkristall",
-                    "Amount": 20,
-                    "Url": "/lodestone/playguide/db/item/5db117cd77b/"
-                },
-                {
-                    "Icon": "https://img.finalfantasyxiv.com/lds/pc/global/images/itemicon/16/16cd107e2bd1c45cee59e6b96ef02f2f6f68eac5.png?n5.55",
-                    "Name": "Erdkristall",
-                    "Amount": 20,
-                    "Url": "/lodestone/playguide/db/item/ff6eae7bdcb/"
-                },
-                {
-                    "Icon": "https://img.finalfantasyxiv.com/lds/pc/global/images/itemicon/5d/5dd42eb2385a5e0d158b8fa81b63a09e4b25c821.png?n5.55",
-                    "Name": "Blitzkristall",
-                    "Amount": 20,
-                    "Url": "/lodestone/playguide/db/item/b21a951916e/"
-                },
-                {
-                    "Icon": "https://img.finalfantasyxiv.com/lds/pc/global/images/itemicon/b5/b5eb0d9131d8f735a91286bdf2f877f0495e8235.png?n5.55",
-                    "Name": "Wasserkristall",
-                    "Amount": 20,
-                    "Url": "/lodestone/playguide/db/item/44d3f4cb26b/"
-                },
-                {
-                    "Icon": "https://img.finalfantasyxiv.com/lds/pc/global/images/itemicon/d9/d9a4b77a07bb95bf2713ae233a0eececdf211e8b.png?n5.55",
-                    "Name": "Feuerkristall",
-                    "Amount": 20,
-                    "Url": "/lodestone/playguide/db/item/75403105d7f/"
-                },
-                {
-                    "Icon": "https://img.finalfantasyxiv.com/lds/pc/global/images/itemicon/d9/d9beff495b00ab597dbd0b268530571d803e6a2d.png?n5.55",
-                    "Name": "Kräutertrank",
-                    "Amount": null,
-                    "Url": "/lodestone/playguide/db/item/2ff3e7e028c/"
-                },
-                {
-                    "Icon": "https://img.finalfantasyxiv.com/lds/pc/global/images/itemicon/d9/d9beff495b00ab597dbd0b268530571d803e6a2d.png?n5.55",
-                    "Name": "Kräutertrank",
-                    "Amount": null,
-                    "Url": "/lodestone/playguide/db/item/2ff3e7e028c/"
-                },
-                {
-                    "Icon": "https://img.finalfantasyxiv.com/lds/pc/global/images/itemicon/d9/d9beff495b00ab597dbd0b268530571d803e6a2d.png?n5.55",
-                    "Name": "Kräutertrank",
-                    "Amount": null,
-                    "Url": "/lodestone/playguide/db/item/2ff3e7e028c/"
-                }
-            ],
-            "ItemsOpt": []
-        },
-        "Infos": {
-            "RelatedNPC": [
-                {
-                    "Name": "Materialkiste",
-                    "Url": "/lodestone/playguide/db/npc/npc/b34999bc7e8/",
-                    "Area": "Azim-Steppe (X:18.6 Y:20.6)"
-                },
-                {
-                    "Name": "Zerstreuter Namazuo",
-                    "Url": "/lodestone/playguide/db/npc/npc/a0cdf0e61a9/",
-                    "Area": "Azim-Steppe (X:18.5 Y:20.7)"
-                }
-            ]
-        },
-        "Seq": 11,
-        "oldID": 68643,
-        "Map": {
-            "ID": 372
-        },
-        "StartDependency": false
-    },
-    {
-        "ID": "6b11e03ecb5",
-        "Name": " Höchst kultiviert",
-        "Location": "Azim-Steppe",
-        "Level": 60,
-        "JournalSection": 4,
-        "JournalCategory": 36,
-        "JournalGenre": "\n\t\t\t\t\t\t\tNebenaufträge\n\t\t\t\t\t\t",
-        "Url": "/lodestone/playguide/db/quest/6b11e03ecb5/",
-        "Image": null,
-        "Icon": "common_repeat",
-        "Issuer": "Seigetsu",
-        "StartLocation": {
-            "Name": "Azim-Steppe",
-            "X": "5.8",
-            "Y": "23.4"
-        },
-        "StartClass": null,
-        "Job": "",
-        "Company": "Keine Angabe",
-        "Requirement": "Keine Angabe",
-        "Rewards": {
-            "Gil": 550,
-            "Exp": null,
-            "ItemsMand": [
-                {
-                    "Icon": "https://img.finalfantasyxiv.com/lds/pc/global/images/itemicon/0d/0dd4af1f23b8f1d782bacfb905a67b491688414c.png?n5.55",
-                    "Name": "Windkristall",
-                    "Amount": 20,
-                    "Url": "/lodestone/playguide/db/item/5db117cd77b/"
-                },
-                {
-                    "Icon": "https://img.finalfantasyxiv.com/lds/pc/global/images/itemicon/d9/d9a4b77a07bb95bf2713ae233a0eececdf211e8b.png?n5.55",
-                    "Name": "Feuerkristall",
-                    "Amount": 20,
-                    "Url": "/lodestone/playguide/db/item/75403105d7f/"
-                },
-                {
-                    "Icon": "https://img.finalfantasyxiv.com/lds/pc/global/images/itemicon/a7/a71da2eb489188dbbfadd582938a0e761a9a0585.png?n5.55",
-                    "Name": "Eiskristall",
-                    "Amount": 20,
-                    "Url": "/lodestone/playguide/db/item/2d800a06851/"
-                },
-                {
-                    "Icon": "https://img.finalfantasyxiv.com/lds/pc/global/images/itemicon/0d/0dd4af1f23b8f1d782bacfb905a67b491688414c.png?n5.55",
-                    "Name": "Windkristall",
-                    "Amount": 20,
-                    "Url": "/lodestone/playguide/db/item/5db117cd77b/"
-                },
-                {
-                    "Icon": "https://img.finalfantasyxiv.com/lds/pc/global/images/itemicon/16/16cd107e2bd1c45cee59e6b96ef02f2f6f68eac5.png?n5.55",
-                    "Name": "Erdkristall",
-                    "Amount": 20,
-                    "Url": "/lodestone/playguide/db/item/ff6eae7bdcb/"
-                },
-                {
-                    "Icon": "https://img.finalfantasyxiv.com/lds/pc/global/images/itemicon/5d/5dd42eb2385a5e0d158b8fa81b63a09e4b25c821.png?n5.55",
-                    "Name": "Blitzkristall",
-                    "Amount": 20,
-                    "Url": "/lodestone/playguide/db/item/b21a951916e/"
-                },
-                {
-                    "Icon": "https://img.finalfantasyxiv.com/lds/pc/global/images/itemicon/b5/b5eb0d9131d8f735a91286bdf2f877f0495e8235.png?n5.55",
-                    "Name": "Wasserkristall",
-                    "Amount": 20,
-                    "Url": "/lodestone/playguide/db/item/44d3f4cb26b/"
-                },
-                {
-                    "Icon": "https://img.finalfantasyxiv.com/lds/pc/global/images/itemicon/d9/d9a4b77a07bb95bf2713ae233a0eececdf211e8b.png?n5.55",
-                    "Name": "Feuerkristall",
-                    "Amount": 20,
-                    "Url": "/lodestone/playguide/db/item/75403105d7f/"
-                },
-                {
-                    "Icon": "https://img.finalfantasyxiv.com/lds/pc/global/images/itemicon/d9/d9beff495b00ab597dbd0b268530571d803e6a2d.png?n5.55",
-                    "Name": "Kräutertrank",
-                    "Amount": null,
-                    "Url": "/lodestone/playguide/db/item/2ff3e7e028c/"
-                },
-                {
-                    "Icon": "https://img.finalfantasyxiv.com/lds/pc/global/images/itemicon/d9/d9beff495b00ab597dbd0b268530571d803e6a2d.png?n5.55",
-                    "Name": "Kräutertrank",
-                    "Amount": null,
-                    "Url": "/lodestone/playguide/db/item/2ff3e7e028c/"
-                },
-                {
-                    "Icon": "https://img.finalfantasyxiv.com/lds/pc/global/images/itemicon/d9/d9beff495b00ab597dbd0b268530571d803e6a2d.png?n5.55",
-                    "Name": "Kräutertrank",
-                    "Amount": null,
-                    "Url": "/lodestone/playguide/db/item/2ff3e7e028c/"
-                }
-            ],
-            "ItemsOpt": []
-        },
-        "Infos": {
-            "RelatedNPC": [
-                {
-                    "Name": "Materialkiste",
-                    "Url": "/lodestone/playguide/db/npc/npc/9d871dbd453/",
-                    "Area": "Azim-Steppe (X:15.3 Y:16.9)"
-                },
-                {
-                    "Name": "Störrischer Namazuo",
-                    "Url": "/lodestone/playguide/db/npc/npc/2bef6bba707/",
-                    "Area": "Azim-Steppe (X:15.2 Y:16.9)"
-                }
-            ]
-        },
-        "Seq": 10,
-        "oldID": 68642,
-        "Map": {
-            "ID": 372
-        },
-        "StartDependency": false
-    },
-    {
-        "ID": "6ffcf50995a",
-        "Name": " Tauschrausch",
-        "Location": "Azim-Steppe",
-        "Level": 60,
-        "JournalSection": 4,
-        "JournalCategory": 36,
-        "JournalGenre": "\n\t\t\t\t\t\t\tNebenaufträge\n\t\t\t\t\t\t",
-        "Url": "/lodestone/playguide/db/quest/6ffcf50995a/",
-        "Image": null,
-        "Icon": "common_repeat",
-        "Issuer": "Seigetsu",
-        "StartLocation": {
-            "Name": "Azim-Steppe",
-            "X": "5.8",
-            "Y": "23.4"
-        },
-        "StartClass": null,
-        "Job": "",
-        "Company": "Keine Angabe",
-        "Requirement": "Keine Angabe",
-        "Rewards": {
-            "Gil": 615,
-            "Exp": null,
-            "ItemsMand": [
-                {
-                    "Icon": "https://img.finalfantasyxiv.com/lds/pc/global/images/itemicon/0d/0dd4af1f23b8f1d782bacfb905a67b491688414c.png?n5.55",
-                    "Name": "Windkristall",
-                    "Amount": 20,
-                    "Url": "/lodestone/playguide/db/item/5db117cd77b/"
-                },
-                {
-                    "Icon": "https://img.finalfantasyxiv.com/lds/pc/global/images/itemicon/d9/d9a4b77a07bb95bf2713ae233a0eececdf211e8b.png?n5.55",
-                    "Name": "Feuerkristall",
-                    "Amount": 20,
-                    "Url": "/lodestone/playguide/db/item/75403105d7f/"
-                },
-                {
-                    "Icon": "https://img.finalfantasyxiv.com/lds/pc/global/images/itemicon/a7/a71da2eb489188dbbfadd582938a0e761a9a0585.png?n5.55",
-                    "Name": "Eiskristall",
-                    "Amount": 20,
-                    "Url": "/lodestone/playguide/db/item/2d800a06851/"
-                },
-                {
-                    "Icon": "https://img.finalfantasyxiv.com/lds/pc/global/images/itemicon/0d/0dd4af1f23b8f1d782bacfb905a67b491688414c.png?n5.55",
-                    "Name": "Windkristall",
-                    "Amount": 20,
-                    "Url": "/lodestone/playguide/db/item/5db117cd77b/"
-                },
-                {
-                    "Icon": "https://img.finalfantasyxiv.com/lds/pc/global/images/itemicon/16/16cd107e2bd1c45cee59e6b96ef02f2f6f68eac5.png?n5.55",
-                    "Name": "Erdkristall",
-                    "Amount": 20,
-                    "Url": "/lodestone/playguide/db/item/ff6eae7bdcb/"
-                },
-                {
-                    "Icon": "https://img.finalfantasyxiv.com/lds/pc/global/images/itemicon/5d/5dd42eb2385a5e0d158b8fa81b63a09e4b25c821.png?n5.55",
-                    "Name": "Blitzkristall",
-                    "Amount": 20,
-                    "Url": "/lodestone/playguide/db/item/b21a951916e/"
-                },
-                {
-                    "Icon": "https://img.finalfantasyxiv.com/lds/pc/global/images/itemicon/b5/b5eb0d9131d8f735a91286bdf2f877f0495e8235.png?n5.55",
-                    "Name": "Wasserkristall",
-                    "Amount": 20,
-                    "Url": "/lodestone/playguide/db/item/44d3f4cb26b/"
-                },
-                {
-                    "Icon": "https://img.finalfantasyxiv.com/lds/pc/global/images/itemicon/d9/d9a4b77a07bb95bf2713ae233a0eececdf211e8b.png?n5.55",
-                    "Name": "Feuerkristall",
-                    "Amount": 20,
-                    "Url": "/lodestone/playguide/db/item/75403105d7f/"
-                },
-                {
-                    "Icon": "https://img.finalfantasyxiv.com/lds/pc/global/images/itemicon/d9/d9beff495b00ab597dbd0b268530571d803e6a2d.png?n5.55",
-                    "Name": "Kräutertrank",
-                    "Amount": null,
-                    "Url": "/lodestone/playguide/db/item/2ff3e7e028c/"
-                },
-                {
-                    "Icon": "https://img.finalfantasyxiv.com/lds/pc/global/images/itemicon/d9/d9beff495b00ab597dbd0b268530571d803e6a2d.png?n5.55",
-                    "Name": "Kräutertrank",
-                    "Amount": null,
-                    "Url": "/lodestone/playguide/db/item/2ff3e7e028c/"
-                },
-                {
-                    "Icon": "https://img.finalfantasyxiv.com/lds/pc/global/images/itemicon/d9/d9beff495b00ab597dbd0b268530571d803e6a2d.png?n5.55",
-                    "Name": "Kräutertrank",
-                    "Amount": null,
-                    "Url": "/lodestone/playguide/db/item/2ff3e7e028c/"
-                }
-            ],
-            "ItemsOpt": []
-        },
-        "Infos": {
-            "RelatedNPC": [
-                {
-                    "Name": "Gewissenhafter Namazuo",
-                    "Url": "/lodestone/playguide/db/npc/npc/2987ea12a2f/",
-                    "Area": "Azim-Steppe (X:31.7 Y:13.3)"
-                },
-                {
-                    "Name": "Materialkiste",
-                    "Url": "/lodestone/playguide/db/npc/npc/0ac67418926/",
-                    "Area": "Azim-Steppe (X:31.7 Y:13.3)"
-                }
-            ]
-        },
-        "Seq": 7,
-        "oldID": 68639,
-        "Map": {
-            "ID": 372
-        },
-        "StartDependency": false
-    },
-    {
-        "ID": "7385db1f29a",
-        "Name": " Ein fffestlicher Umzug",
-        "Location": "Azim-Steppe",
-        "Level": 60,
-        "JournalSection": 4,
-        "JournalCategory": 36,
-        "JournalGenre": "\n\t\t\t\t\t\t\tHauptaufträge\n\t\t\t\t\t\t",
-        "Url": "/lodestone/playguide/db/quest/7385db1f29a/",
-        "Image": "https://img.finalfantasyxiv.com/lds/pc/global/images/itemicon/af/afe81ba1f13e42480c4a048ccd969cf31cb58eb1.png?n5.55",
-        "Icon": "function_normal",
-        "Issuer": "Gyoshin",
-        "StartLocation": {
-            "Name": "Azim-Steppe",
-            "X": "6.1",
-            "Y": "23.3"
-        },
-        "StartClass": null,
-        "Job": "",
-        "Company": "Keine Angabe",
-        "Requirement": "Keine Angabe",
-        "Rewards": {
-            "Gil": 1986,
-            "Exp": null,
-            "ItemsMand": [],
-            "ItemsOpt": [
-                {
-                    "Icon": "https://img.finalfantasyxiv.com/lds/pc/global/images/itemicon/d4/d49fdc4ab26dbf9b92ffca562fcc03a2f8b98446.png?n5.55",
-                    "Name": "Sammlersold-Materia VI",
-                    "Amount": 1,
-                    "Url": "/lodestone/playguide/db/item/58b8073b1c5/"
-                },
-                {
-                    "Icon": "https://img.finalfantasyxiv.com/lds/pc/global/images/itemicon/d4/d49fdc4ab26dbf9b92ffca562fcc03a2f8b98446.png?n5.55",
-                    "Name": "Sammlersinn-Materia VI",
-                    "Amount": 1,
-                    "Url": "/lodestone/playguide/db/item/3e7ec58f07a/"
-                },
-                {
-                    "Icon": "https://img.finalfantasyxiv.com/lds/pc/global/images/itemicon/f6/f6b4b9e71e6ea07af16668337ac28607e8e58297.png?n5.55",
-                    "Name": "Facharbeiter-Materia VI",
-                    "Amount": 1,
-                    "Url": "/lodestone/playguide/db/item/782c2924c59/"
-                }
-            ]
-        },
-        "Infos": {
-            "PrerequisiteQuest": [
-                {
-                    "Name": " Fffirlefanz fürs Opffferfest",
-                    "Url": "/lodestone/playguide/db/quest/7b8fca31198/",
-                    "Area": "Azim-Steppe",
+                    "Name": " Der Wert der Freundschaft",
+                    "Url": "/lodestone/playguide/db/quest/638eb03979a/",
+                    "Area": "Rubinsee",
                     "Level": "60"
                 }
             ],
             "FollowupQuest": [
                 {
-                    "Name": " Die Bräuche der Nomaden",
-                    "Url": "/lodestone/playguide/db/quest/7c9dd7d8a75/",
-                    "Area": "Azim-Steppe",
+                    "Name": " Zoff auf Zekki",
+                    "Url": "/lodestone/playguide/db/quest/91e029c93cd/",
+                    "Area": "Rubinsee",
                     "Level": "60"
                 }
             ],
             "RelatedNPC": [
                 {
-                    "Name": "Gyorei",
-                    "Url": "/lodestone/playguide/db/npc/npc/30c3f1b050a/",
-                    "Area": "Azim-Steppe (X:5.8 Y:23.5)"
+                    "Name": "Kabuto",
+                    "Url": "/lodestone/playguide/db/npc/npc/1314b332514/",
+                    "Area": "Rubinsee (X:26.4 Y:34.5)"
                 },
                 {
-                    "Name": "Gyorei",
-                    "Url": "/lodestone/playguide/db/npc/npc/a23c7a375c6/",
-                    "Area": "Azim-Steppe (X:6.5 Y:23.3)"
+                    "Name": "Kabuto",
+                    "Url": "/lodestone/playguide/db/npc/npc/231a5bde55d/",
+                    "Area": "Rubinsee (X:26.4 Y:34.5)"
                 },
                 {
-                    "Name": "Gyoshin",
-                    "Url": "/lodestone/playguide/db/npc/npc/dcafa6307bd/",
-                    "Area": "Azim-Steppe (X:6.5 Y:23.3)"
+                    "Name": "Kräftiger Kurier",
+                    "Url": "/lodestone/playguide/db/npc/npc/c8a5afb13c7/",
+                    "Area": "Rubinsee (X:26.4 Y:34.4)"
                 },
                 {
-                    "Name": "Materialkiste",
-                    "Url": "/lodestone/playguide/db/npc/npc/271cb54a2e3/",
-                    "Area": "Azim-Steppe (X:6.0 Y:23.1)"
+                    "Name": "Kabuto",
+                    "Url": "/lodestone/playguide/db/npc/npc/9ad4c9c9149/",
+                    "Area": "Kugane (X:8.6 Y:14.8)"
                 },
                 {
-                    "Name": "Namazuo-Zuschauer",
-                    "Url": "/lodestone/playguide/db/npc/npc/df8bcdd95e1/",
-                    "Area": "Azim-Steppe (X:6.2 Y:24.2)"
+                    "Name": "Shihomi",
+                    "Url": "/lodestone/playguide/db/npc/npc/0f0694a872b/",
+                    "Area": "Kugane (X:8.6 Y:14.9)"
                 },
                 {
-                    "Name": "Namazuo-Zuschauer",
-                    "Url": "/lodestone/playguide/db/npc/npc/cb5a5ed8e7d/",
-                    "Area": "Azim-Steppe (X:6.9 Y:23.6)"
+                    "Name": "Shihomi",
+                    "Url": "/lodestone/playguide/db/npc/npc/17287d86e1f/",
+                    "Area": "Kugane (X:8.6 Y:14.9)"
                 },
                 {
-                    "Name": "Grobschlächtiger Bootsbauer",
-                    "Url": "/lodestone/playguide/db/npc/npc/b2d0a23c225/",
-                    "Area": "Kugane (X:10.4 Y:12.1)"
-                },
-                {
-                    "Name": "Gyoshin",
-                    "Url": "/lodestone/playguide/db/npc/npc/2bd18032bcf/",
-                    "Area": "Kugane (X:10.4 Y:12.1)"
+                    "Name": "Tsukumo",
+                    "Url": "/lodestone/playguide/db/npc/npc/5d0727ece88/",
+                    "Area": "Kugane (X:8.6 Y:14.8)"
                 }
             ]
         },
         "Seq": 3,
-        "oldID": 68635,
-        "Map": {
-            "ID": 372
-        },
         "StartDependency": false
     },
     {
-        "ID": "7598fec86af",
-        "Name": " Kampfff der Kulturen",
-        "Location": "Azim-Steppe",
+        "ID": "2336732df69",
+        "Name": " Das Reinigungsritual",
+        "Location": "Rubinsee",
         "Level": 60,
         "JournalSection": 4,
         "JournalCategory": 36,
         "JournalGenre": "\n\t\t\t\t\t\t\tNebenaufträge\n\t\t\t\t\t\t",
-        "Url": "/lodestone/playguide/db/quest/7598fec86af/",
+        "Url": "/lodestone/playguide/db/quest/2336732df69/",
         "Image": null,
         "Icon": "common_repeat",
-        "Issuer": "Seigetsu",
+        "Issuer": "Zukin",
         "StartLocation": {
-            "Name": "Azim-Steppe",
-            "X": "5.8",
-            "Y": "23.4"
+            "Name": "Rubinsee",
+            "X": "29.3",
+            "Y": "16.8"
         },
         "StartClass": null,
         "Job": "",
         "Company": "Keine Angabe",
         "Requirement": "Keine Angabe",
         "Rewards": {
-            "Gil": 615,
-            "Exp": null,
-            "ItemsMand": [
-                {
-                    "Icon": "https://img.finalfantasyxiv.com/lds/pc/global/images/itemicon/0d/0dd4af1f23b8f1d782bacfb905a67b491688414c.png?n5.55",
-                    "Name": "Windkristall",
-                    "Amount": 20,
-                    "Url": "/lodestone/playguide/db/item/5db117cd77b/"
-                },
-                {
-                    "Icon": "https://img.finalfantasyxiv.com/lds/pc/global/images/itemicon/d9/d9a4b77a07bb95bf2713ae233a0eececdf211e8b.png?n5.55",
-                    "Name": "Feuerkristall",
-                    "Amount": 20,
-                    "Url": "/lodestone/playguide/db/item/75403105d7f/"
-                },
-                {
-                    "Icon": "https://img.finalfantasyxiv.com/lds/pc/global/images/itemicon/a7/a71da2eb489188dbbfadd582938a0e761a9a0585.png?n5.55",
-                    "Name": "Eiskristall",
-                    "Amount": 20,
-                    "Url": "/lodestone/playguide/db/item/2d800a06851/"
-                },
-                {
-                    "Icon": "https://img.finalfantasyxiv.com/lds/pc/global/images/itemicon/0d/0dd4af1f23b8f1d782bacfb905a67b491688414c.png?n5.55",
-                    "Name": "Windkristall",
-                    "Amount": 20,
-                    "Url": "/lodestone/playguide/db/item/5db117cd77b/"
-                },
-                {
-                    "Icon": "https://img.finalfantasyxiv.com/lds/pc/global/images/itemicon/16/16cd107e2bd1c45cee59e6b96ef02f2f6f68eac5.png?n5.55",
-                    "Name": "Erdkristall",
-                    "Amount": 20,
-                    "Url": "/lodestone/playguide/db/item/ff6eae7bdcb/"
-                },
-                {
-                    "Icon": "https://img.finalfantasyxiv.com/lds/pc/global/images/itemicon/5d/5dd42eb2385a5e0d158b8fa81b63a09e4b25c821.png?n5.55",
-                    "Name": "Blitzkristall",
-                    "Amount": 20,
-                    "Url": "/lodestone/playguide/db/item/b21a951916e/"
-                },
-                {
-                    "Icon": "https://img.finalfantasyxiv.com/lds/pc/global/images/itemicon/b5/b5eb0d9131d8f735a91286bdf2f877f0495e8235.png?n5.55",
-                    "Name": "Wasserkristall",
-                    "Amount": 20,
-                    "Url": "/lodestone/playguide/db/item/44d3f4cb26b/"
-                },
-                {
-                    "Icon": "https://img.finalfantasyxiv.com/lds/pc/global/images/itemicon/d9/d9a4b77a07bb95bf2713ae233a0eececdf211e8b.png?n5.55",
-                    "Name": "Feuerkristall",
-                    "Amount": 20,
-                    "Url": "/lodestone/playguide/db/item/75403105d7f/"
-                },
-                {
-                    "Icon": "https://img.finalfantasyxiv.com/lds/pc/global/images/itemicon/d9/d9beff495b00ab597dbd0b268530571d803e6a2d.png?n5.55",
-                    "Name": "Kräutertrank",
-                    "Amount": null,
-                    "Url": "/lodestone/playguide/db/item/2ff3e7e028c/"
-                },
-                {
-                    "Icon": "https://img.finalfantasyxiv.com/lds/pc/global/images/itemicon/d9/d9beff495b00ab597dbd0b268530571d803e6a2d.png?n5.55",
-                    "Name": "Kräutertrank",
-                    "Amount": null,
-                    "Url": "/lodestone/playguide/db/item/2ff3e7e028c/"
-                },
-                {
-                    "Icon": "https://img.finalfantasyxiv.com/lds/pc/global/images/itemicon/d9/d9beff495b00ab597dbd0b268530571d803e6a2d.png?n5.55",
-                    "Name": "Kräutertrank",
-                    "Amount": null,
-                    "Url": "/lodestone/playguide/db/item/2ff3e7e028c/"
-                }
-            ],
-            "ItemsOpt": []
-        },
-        "Infos": {
-            "RelatedNPC": [
-                {
-                    "Name": "Azim-Bökh-Lehrerin",
-                    "Url": "/lodestone/playguide/db/npc/npc/d8c9d9e3bb0/",
-                    "Area": "Azim-Steppe (X:20.4 Y:21.0)"
-                },
-                {
-                    "Name": "Dankbarer Namazuo",
-                    "Url": "/lodestone/playguide/db/npc/npc/7455526d73e/",
-                    "Area": "Azim-Steppe (X:20.3 Y:21.0)"
-                },
-                {
-                    "Name": "Materialkiste",
-                    "Url": "/lodestone/playguide/db/npc/npc/ba6219530ed/",
-                    "Area": "Azim-Steppe (X:20.3 Y:21.1)"
-                }
-            ]
-        },
-        "Seq": 30,
-        "oldID": 68664,
-        "Map": {
-            "ID": 372
-        },
-        "StartDependency": false
-    },
-    {
-        "ID": "7b8fca31198",
-        "Name": " Fffirlefanz fürs Opffferfest",
-        "Location": "Azim-Steppe",
-        "Level": 60,
-        "JournalSection": 4,
-        "JournalCategory": 36,
-        "JournalGenre": "\n\t\t\t\t\t\t\tHauptaufträge\n\t\t\t\t\t\t",
-        "Url": "/lodestone/playguide/db/quest/7b8fca31198/",
-        "Image": "https://img.finalfantasyxiv.com/lds/pc/global/images/itemicon/71/7111e404d19b19106884565b8706be4722ed4a45.png?n5.55",
-        "Icon": "function_normal",
-        "Issuer": "Gyoshin",
-        "StartLocation": {
-            "Name": "Azim-Steppe",
-            "X": "6.1",
-            "Y": "23.3"
-        },
-        "StartClass": null,
-        "Job": "",
-        "Company": "Keine Angabe",
-        "Requirement": "Keine Angabe",
-        "Rewards": {
-            "Gil": 1318,
-            "Exp": null,
-            "ItemsMand": [],
-            "ItemsOpt": [
-                {
-                    "Icon": "https://img.finalfantasyxiv.com/lds/pc/global/images/itemicon/05/050fda3f7c55f511b31bda3f9fa0731dcd5a54cb.png?n5.55",
-                    "Name": "Sammlerschlich-Materia V",
-                    "Amount": 3,
-                    "Url": "/lodestone/playguide/db/item/495ec449b8e/"
-                },
-                {
-                    "Icon": "https://img.finalfantasyxiv.com/lds/pc/global/images/itemicon/6c/6c28ac35293bc5cd065ca1da849891b2ff436b18.png?n5.55",
-                    "Name": "Fachwissen-Materia V",
-                    "Amount": 3,
-                    "Url": "/lodestone/playguide/db/item/1c7d17024e6/"
-                },
-                {
-                    "Icon": "https://img.finalfantasyxiv.com/lds/pc/global/images/itemicon/6c/6c28ac35293bc5cd065ca1da849891b2ff436b18.png?n5.55",
-                    "Name": "Fachkenntnis-Materia V",
-                    "Amount": 3,
-                    "Url": "/lodestone/playguide/db/item/5275c679fe1/"
-                }
-            ]
-        },
-        "Infos": {
-            "PrerequisiteQuest": [
-                {
-                    "Name": " Fffeierlicher Fffummel",
-                    "Url": "/lodestone/playguide/db/quest/13f91ac35a5/",
-                    "Area": "Azim-Steppe",
-                    "Level": "60"
-                }
-            ],
-            "FollowupQuest": [
-                {
-                    "Name": " Ein fffestlicher Umzug",
-                    "Url": "/lodestone/playguide/db/quest/7385db1f29a/",
-                    "Area": "Azim-Steppe",
-                    "Level": "60"
-                }
-            ],
-            "RelatedNPC": [
-                {
-                    "Name": "Gyorei",
-                    "Url": "/lodestone/playguide/db/npc/npc/ec92e13ad8b/",
-                    "Area": "Azim-Steppe (X:6.7 Y:23.4)"
-                },
-                {
-                    "Name": "Gyoshin",
-                    "Url": "/lodestone/playguide/db/npc/npc/06d9735304c/",
-                    "Area": "Azim-Steppe (X:6.1 Y:23.3)"
-                },
-                {
-                    "Name": "Gyoshin",
-                    "Url": "/lodestone/playguide/db/npc/npc/92cf89c9816/",
-                    "Area": "Azim-Steppe (X:6.7 Y:23.4)"
-                },
-                {
-                    "Name": "Materialkiste",
-                    "Url": "/lodestone/playguide/db/npc/npc/271cb54a2e3/",
-                    "Area": "Azim-Steppe (X:6.0 Y:23.1)"
-                },
-                {
-                    "Name": "Betrunkener Namazuo",
-                    "Url": "/lodestone/playguide/db/npc/npc/d1c3114e8a8/",
-                    "Area": "Yanxia (X:15.8 Y:31.9)"
-                },
-                {
-                    "Name": "Gyorin",
-                    "Url": "/lodestone/playguide/db/npc/npc/94f84eb8c10/",
-                    "Area": "Yanxia (X:15.6 Y:31.2)"
-                },
-                {
-                    "Name": "Schläfriger Namazuo",
-                    "Url": "/lodestone/playguide/db/npc/npc/ecd8e97342b/",
-                    "Area": "Yanxia (X:15.8 Y:31.2)"
-                }
-            ]
-        },
-        "Seq": 2,
-        "oldID": 68634,
-        "Map": {
-            "ID": 372
-        },
-        "StartDependency": false
-    },
-    {
-        "ID": "7bad34cf700",
-        "Name": " Heiliger Tee",
-        "Location": "Azim-Steppe",
-        "Level": 60,
-        "JournalSection": 4,
-        "JournalCategory": 36,
-        "JournalGenre": "\n\t\t\t\t\t\t\tNebenaufträge\n\t\t\t\t\t\t",
-        "Url": "/lodestone/playguide/db/quest/7bad34cf700/",
-        "Image": null,
-        "Icon": "common_repeat",
-        "Issuer": "Seigetsu",
-        "StartLocation": {
-            "Name": "Azim-Steppe",
-            "X": "5.8",
-            "Y": "23.4"
-        },
-        "StartClass": null,
-        "Job": "",
-        "Company": "Keine Angabe",
-        "Requirement": "Keine Angabe",
-        "Rewards": {
-            "Gil": 615,
-            "Exp": null,
-            "ItemsMand": [
-                {
-                    "Icon": "https://img.finalfantasyxiv.com/lds/pc/global/images/itemicon/0d/0dd4af1f23b8f1d782bacfb905a67b491688414c.png?n5.55",
-                    "Name": "Windkristall",
-                    "Amount": 20,
-                    "Url": "/lodestone/playguide/db/item/5db117cd77b/"
-                },
-                {
-                    "Icon": "https://img.finalfantasyxiv.com/lds/pc/global/images/itemicon/d9/d9a4b77a07bb95bf2713ae233a0eececdf211e8b.png?n5.55",
-                    "Name": "Feuerkristall",
-                    "Amount": 20,
-                    "Url": "/lodestone/playguide/db/item/75403105d7f/"
-                },
-                {
-                    "Icon": "https://img.finalfantasyxiv.com/lds/pc/global/images/itemicon/a7/a71da2eb489188dbbfadd582938a0e761a9a0585.png?n5.55",
-                    "Name": "Eiskristall",
-                    "Amount": 20,
-                    "Url": "/lodestone/playguide/db/item/2d800a06851/"
-                },
-                {
-                    "Icon": "https://img.finalfantasyxiv.com/lds/pc/global/images/itemicon/0d/0dd4af1f23b8f1d782bacfb905a67b491688414c.png?n5.55",
-                    "Name": "Windkristall",
-                    "Amount": 20,
-                    "Url": "/lodestone/playguide/db/item/5db117cd77b/"
-                },
-                {
-                    "Icon": "https://img.finalfantasyxiv.com/lds/pc/global/images/itemicon/16/16cd107e2bd1c45cee59e6b96ef02f2f6f68eac5.png?n5.55",
-                    "Name": "Erdkristall",
-                    "Amount": 20,
-                    "Url": "/lodestone/playguide/db/item/ff6eae7bdcb/"
-                },
-                {
-                    "Icon": "https://img.finalfantasyxiv.com/lds/pc/global/images/itemicon/5d/5dd42eb2385a5e0d158b8fa81b63a09e4b25c821.png?n5.55",
-                    "Name": "Blitzkristall",
-                    "Amount": 20,
-                    "Url": "/lodestone/playguide/db/item/b21a951916e/"
-                },
-                {
-                    "Icon": "https://img.finalfantasyxiv.com/lds/pc/global/images/itemicon/b5/b5eb0d9131d8f735a91286bdf2f877f0495e8235.png?n5.55",
-                    "Name": "Wasserkristall",
-                    "Amount": 20,
-                    "Url": "/lodestone/playguide/db/item/44d3f4cb26b/"
-                },
-                {
-                    "Icon": "https://img.finalfantasyxiv.com/lds/pc/global/images/itemicon/d9/d9a4b77a07bb95bf2713ae233a0eececdf211e8b.png?n5.55",
-                    "Name": "Feuerkristall",
-                    "Amount": 20,
-                    "Url": "/lodestone/playguide/db/item/75403105d7f/"
-                },
-                {
-                    "Icon": "https://img.finalfantasyxiv.com/lds/pc/global/images/itemicon/d9/d9beff495b00ab597dbd0b268530571d803e6a2d.png?n5.55",
-                    "Name": "Kräutertrank",
-                    "Amount": null,
-                    "Url": "/lodestone/playguide/db/item/2ff3e7e028c/"
-                },
-                {
-                    "Icon": "https://img.finalfantasyxiv.com/lds/pc/global/images/itemicon/d9/d9beff495b00ab597dbd0b268530571d803e6a2d.png?n5.55",
-                    "Name": "Kräutertrank",
-                    "Amount": null,
-                    "Url": "/lodestone/playguide/db/item/2ff3e7e028c/"
-                },
-                {
-                    "Icon": "https://img.finalfantasyxiv.com/lds/pc/global/images/itemicon/d9/d9beff495b00ab597dbd0b268530571d803e6a2d.png?n5.55",
-                    "Name": "Kräutertrank",
-                    "Amount": null,
-                    "Url": "/lodestone/playguide/db/item/2ff3e7e028c/"
-                }
-            ],
-            "ItemsOpt": []
-        },
-        "Infos": {
-            "RelatedNPC": [
-                {
-                    "Name": "Materialkiste",
-                    "Url": "/lodestone/playguide/db/npc/npc/3fd8bc8d464/",
-                    "Area": "Azim-Steppe (X:33.3 Y:13.0)"
-                },
-                {
-                    "Name": "Namazuo-Teekenner",
-                    "Url": "/lodestone/playguide/db/npc/npc/de88b98004b/",
-                    "Area": "Azim-Steppe (X:33.3 Y:13.0)"
-                }
-            ]
-        },
-        "Seq": 17,
-        "oldID": 68650,
-        "Map": {
-            "ID": 372
-        },
-        "StartDependency": false
-    },
-    {
-        "ID": "7c9dd7d8a75",
-        "Name": " Die Bräuche der Nomaden",
-        "Location": "Azim-Steppe",
-        "Level": 60,
-        "JournalSection": 4,
-        "JournalCategory": 36,
-        "JournalGenre": "\n\t\t\t\t\t\t\tHauptaufträge\n\t\t\t\t\t\t",
-        "Url": "/lodestone/playguide/db/quest/7c9dd7d8a75/",
-        "Image": "https://img.finalfantasyxiv.com/lds/pc/global/images/itemicon/10/1083cad1b0ed0da8539f417ab3fca883dd27f3f3.png?n5.55",
-        "Icon": "function_normal",
-        "Issuer": "Gyoshin",
-        "StartLocation": {
-            "Name": "Azim-Steppe",
-            "X": "6.1",
-            "Y": "23.3"
-        },
-        "StartClass": null,
-        "Job": "",
-        "Company": "Keine Angabe",
-        "Requirement": "Keine Angabe",
-        "Rewards": {
-            "Gil": 1103,
-            "Exp": null,
-            "ItemsMand": [],
-            "ItemsOpt": [
-                {
-                    "Icon": "https://img.finalfantasyxiv.com/lds/pc/global/images/itemicon/d4/d49fdc4ab26dbf9b92ffca562fcc03a2f8b98446.png?n5.55",
-                    "Name": "Sammlerschlich-Materia VI",
-                    "Amount": 1,
-                    "Url": "/lodestone/playguide/db/item/79104b54e2b/"
-                },
-                {
-                    "Icon": "https://img.finalfantasyxiv.com/lds/pc/global/images/itemicon/f6/f6b4b9e71e6ea07af16668337ac28607e8e58297.png?n5.55",
-                    "Name": "Fachwissen-Materia VI",
-                    "Amount": 1,
-                    "Url": "/lodestone/playguide/db/item/c9c82ae1948/"
-                },
-                {
-                    "Icon": "https://img.finalfantasyxiv.com/lds/pc/global/images/itemicon/f6/f6b4b9e71e6ea07af16668337ac28607e8e58297.png?n5.55",
-                    "Name": "Fachkenntnis-Materia VI",
-                    "Amount": 1,
-                    "Url": "/lodestone/playguide/db/item/c61ed952535/"
-                }
-            ]
-        },
-        "Infos": {
-            "PrerequisiteQuest": [
-                {
-                    "Name": " Ein fffestlicher Umzug",
-                    "Url": "/lodestone/playguide/db/quest/7385db1f29a/",
-                    "Area": "Azim-Steppe",
-                    "Level": "60"
-                }
-            ],
-            "FollowupQuest": [
-                {
-                    "Name": " Spiel mit dem Fffeuer",
-                    "Url": "/lodestone/playguide/db/quest/1c400698842/",
-                    "Area": "Azim-Steppe",
-                    "Level": "60"
-                }
-            ],
-            "RelatedNPC": [
-                {
-                    "Name": "Cirina",
-                    "Url": "/lodestone/playguide/db/npc/npc/077102a4b03/",
-                    "Area": "Azim-Steppe (X:31.4 Y:11.3)"
-                },
-                {
-                    "Name": "Gyorei",
-                    "Url": "/lodestone/playguide/db/npc/npc/30c3f1b050a/",
-                    "Area": "Azim-Steppe (X:5.8 Y:23.5)"
-                },
-                {
-                    "Name": "Gyorei",
-                    "Url": "/lodestone/playguide/db/npc/npc/bc73ae090f7/",
-                    "Area": "Azim-Steppe (X:5.4 Y:22.6)"
-                },
-                {
-                    "Name": "Gyorei",
-                    "Url": "/lodestone/playguide/db/npc/npc/afca8723911/",
-                    "Area": "Azim-Steppe (X:6.6 Y:24.2)"
-                },
-                {
-                    "Name": "Gyoshin",
-                    "Url": "/lodestone/playguide/db/npc/npc/738575252fa/",
-                    "Area": "Azim-Steppe (X:31.4 Y:11.3)"
-                },
-                {
-                    "Name": "Gyoshin",
-                    "Url": "/lodestone/playguide/db/npc/npc/614f6bb4371/",
-                    "Area": "Azim-Steppe (X:20.7 Y:22.7)"
-                },
-                {
-                    "Name": "Gyoshin",
-                    "Url": "/lodestone/playguide/db/npc/npc/15652258178/",
-                    "Area": "Azim-Steppe (X:12.5 Y:34.0)"
-                },
-                {
-                    "Name": "Gyoshin",
-                    "Url": "/lodestone/playguide/db/npc/npc/0278901d619/",
-                    "Area": "Azim-Steppe (X:5.4 Y:22.2)"
-                },
-                {
-                    "Name": "Gyoshin",
-                    "Url": "/lodestone/playguide/db/npc/npc/2478992c5dd/",
-                    "Area": "Azim-Steppe (X:6.6 Y:24.2)"
-                },
-                {
-                    "Name": "Magnai",
-                    "Url": "/lodestone/playguide/db/npc/npc/89c029f2d8a/",
-                    "Area": "Azim-Steppe (X:20.6 Y:22.7)"
-                },
-                {
-                    "Name": "Materialkiste",
-                    "Url": "/lodestone/playguide/db/npc/npc/271cb54a2e3/",
-                    "Area": "Azim-Steppe (X:6.0 Y:23.1)"
-                },
-                {
-                    "Name": "Sadu",
-                    "Url": "/lodestone/playguide/db/npc/npc/2b121b486a0/",
-                    "Area": "Azim-Steppe (X:12.5 Y:34.1)"
-                },
-                {
-                    "Name": "Temulun",
-                    "Url": "/lodestone/playguide/db/npc/npc/2ceef072c55/",
-                    "Area": "Azim-Steppe (X:31.4 Y:11.2)"
-                }
-            ]
-        },
-        "Seq": 4,
-        "oldID": 68636,
-        "Map": {
-            "ID": 372
-        },
-        "StartDependency": false
-    },
-    {
-        "ID": "875f1deb9cf",
-        "Name": " Wels ein Fffang!",
-        "Location": "Azim-Steppe",
-        "Level": 60,
-        "JournalSection": 4,
-        "JournalCategory": 36,
-        "JournalGenre": "\n\t\t\t\t\t\t\tNebenaufträge\n\t\t\t\t\t\t",
-        "Url": "/lodestone/playguide/db/quest/875f1deb9cf/",
-        "Image": null,
-        "Icon": "common_repeat",
-        "Issuer": "Seigetsu",
-        "StartLocation": {
-            "Name": "Azim-Steppe",
-            "X": "5.8",
-            "Y": "23.4"
-        },
-        "StartClass": null,
-        "Job": "",
-        "Company": "Keine Angabe",
-        "Requirement": "Keine Angabe",
-        "Rewards": {
-            "Gil": 550,
-            "Exp": null,
-            "ItemsMand": [
-                {
-                    "Icon": "https://img.finalfantasyxiv.com/lds/pc/global/images/itemicon/0d/0dd4af1f23b8f1d782bacfb905a67b491688414c.png?n5.55",
-                    "Name": "Windkristall",
-                    "Amount": 20,
-                    "Url": "/lodestone/playguide/db/item/5db117cd77b/"
-                },
-                {
-                    "Icon": "https://img.finalfantasyxiv.com/lds/pc/global/images/itemicon/d9/d9a4b77a07bb95bf2713ae233a0eececdf211e8b.png?n5.55",
-                    "Name": "Feuerkristall",
-                    "Amount": 20,
-                    "Url": "/lodestone/playguide/db/item/75403105d7f/"
-                },
-                {
-                    "Icon": "https://img.finalfantasyxiv.com/lds/pc/global/images/itemicon/a7/a71da2eb489188dbbfadd582938a0e761a9a0585.png?n5.55",
-                    "Name": "Eiskristall",
-                    "Amount": 20,
-                    "Url": "/lodestone/playguide/db/item/2d800a06851/"
-                },
-                {
-                    "Icon": "https://img.finalfantasyxiv.com/lds/pc/global/images/itemicon/0d/0dd4af1f23b8f1d782bacfb905a67b491688414c.png?n5.55",
-                    "Name": "Windkristall",
-                    "Amount": 20,
-                    "Url": "/lodestone/playguide/db/item/5db117cd77b/"
-                },
-                {
-                    "Icon": "https://img.finalfantasyxiv.com/lds/pc/global/images/itemicon/16/16cd107e2bd1c45cee59e6b96ef02f2f6f68eac5.png?n5.55",
-                    "Name": "Erdkristall",
-                    "Amount": 20,
-                    "Url": "/lodestone/playguide/db/item/ff6eae7bdcb/"
-                },
-                {
-                    "Icon": "https://img.finalfantasyxiv.com/lds/pc/global/images/itemicon/5d/5dd42eb2385a5e0d158b8fa81b63a09e4b25c821.png?n5.55",
-                    "Name": "Blitzkristall",
-                    "Amount": 20,
-                    "Url": "/lodestone/playguide/db/item/b21a951916e/"
-                },
-                {
-                    "Icon": "https://img.finalfantasyxiv.com/lds/pc/global/images/itemicon/b5/b5eb0d9131d8f735a91286bdf2f877f0495e8235.png?n5.55",
-                    "Name": "Wasserkristall",
-                    "Amount": 20,
-                    "Url": "/lodestone/playguide/db/item/44d3f4cb26b/"
-                },
-                {
-                    "Icon": "https://img.finalfantasyxiv.com/lds/pc/global/images/itemicon/d9/d9a4b77a07bb95bf2713ae233a0eececdf211e8b.png?n5.55",
-                    "Name": "Feuerkristall",
-                    "Amount": 20,
-                    "Url": "/lodestone/playguide/db/item/75403105d7f/"
-                },
-                {
-                    "Icon": "https://img.finalfantasyxiv.com/lds/pc/global/images/itemicon/d9/d9beff495b00ab597dbd0b268530571d803e6a2d.png?n5.55",
-                    "Name": "Kräutertrank",
-                    "Amount": null,
-                    "Url": "/lodestone/playguide/db/item/2ff3e7e028c/"
-                },
-                {
-                    "Icon": "https://img.finalfantasyxiv.com/lds/pc/global/images/itemicon/d9/d9beff495b00ab597dbd0b268530571d803e6a2d.png?n5.55",
-                    "Name": "Kräutertrank",
-                    "Amount": null,
-                    "Url": "/lodestone/playguide/db/item/2ff3e7e028c/"
-                },
-                {
-                    "Icon": "https://img.finalfantasyxiv.com/lds/pc/global/images/itemicon/d9/d9beff495b00ab597dbd0b268530571d803e6a2d.png?n5.55",
-                    "Name": "Kräutertrank",
-                    "Amount": null,
-                    "Url": "/lodestone/playguide/db/item/2ff3e7e028c/"
-                }
-            ],
-            "ItemsOpt": []
-        },
-        "Infos": {
-            "RelatedNPC": [
-                {
-                    "Name": "Materialkiste",
-                    "Url": "/lodestone/playguide/db/npc/npc/a8a267cde5b/",
-                    "Area": "Azim-Steppe (X:25.3 Y:23.9)"
-                },
-                {
-                    "Name": "Namazuo-Angler",
-                    "Url": "/lodestone/playguide/db/npc/npc/0bf756951e2/",
-                    "Area": "Azim-Steppe (X:25.3 Y:23.8)"
-                }
-            ]
-        },
-        "Seq": 13,
-        "oldID": 68645,
-        "Map": {
-            "ID": 372
-        },
-        "StartDependency": false
-    },
-    {
-        "ID": "88b39b6328a",
-        "Name": " Massenhaffft Mikoshi",
-        "Location": "Azim-Steppe",
-        "Level": 60,
-        "JournalSection": 4,
-        "JournalCategory": 36,
-        "JournalGenre": "\n\t\t\t\t\t\t\tNebenaufträge\n\t\t\t\t\t\t",
-        "Url": "/lodestone/playguide/db/quest/88b39b6328a/",
-        "Image": null,
-        "Icon": "common_repeat",
-        "Issuer": "Seigetsu",
-        "StartLocation": {
-            "Name": "Azim-Steppe",
-            "X": "5.8",
-            "Y": "23.4"
-        },
-        "StartClass": null,
-        "Job": "",
-        "Company": "Keine Angabe",
-        "Requirement": "Keine Angabe",
-        "Rewards": {
-            "Gil": 615,
-            "Exp": null,
-            "ItemsMand": [
-                {
-                    "Icon": "https://img.finalfantasyxiv.com/lds/pc/global/images/itemicon/0d/0dd4af1f23b8f1d782bacfb905a67b491688414c.png?n5.55",
-                    "Name": "Windkristall",
-                    "Amount": 20,
-                    "Url": "/lodestone/playguide/db/item/5db117cd77b/"
-                },
-                {
-                    "Icon": "https://img.finalfantasyxiv.com/lds/pc/global/images/itemicon/d9/d9a4b77a07bb95bf2713ae233a0eececdf211e8b.png?n5.55",
-                    "Name": "Feuerkristall",
-                    "Amount": 20,
-                    "Url": "/lodestone/playguide/db/item/75403105d7f/"
-                },
-                {
-                    "Icon": "https://img.finalfantasyxiv.com/lds/pc/global/images/itemicon/a7/a71da2eb489188dbbfadd582938a0e761a9a0585.png?n5.55",
-                    "Name": "Eiskristall",
-                    "Amount": 20,
-                    "Url": "/lodestone/playguide/db/item/2d800a06851/"
-                },
-                {
-                    "Icon": "https://img.finalfantasyxiv.com/lds/pc/global/images/itemicon/0d/0dd4af1f23b8f1d782bacfb905a67b491688414c.png?n5.55",
-                    "Name": "Windkristall",
-                    "Amount": 20,
-                    "Url": "/lodestone/playguide/db/item/5db117cd77b/"
-                },
-                {
-                    "Icon": "https://img.finalfantasyxiv.com/lds/pc/global/images/itemicon/16/16cd107e2bd1c45cee59e6b96ef02f2f6f68eac5.png?n5.55",
-                    "Name": "Erdkristall",
-                    "Amount": 20,
-                    "Url": "/lodestone/playguide/db/item/ff6eae7bdcb/"
-                },
-                {
-                    "Icon": "https://img.finalfantasyxiv.com/lds/pc/global/images/itemicon/5d/5dd42eb2385a5e0d158b8fa81b63a09e4b25c821.png?n5.55",
-                    "Name": "Blitzkristall",
-                    "Amount": 20,
-                    "Url": "/lodestone/playguide/db/item/b21a951916e/"
-                },
-                {
-                    "Icon": "https://img.finalfantasyxiv.com/lds/pc/global/images/itemicon/b5/b5eb0d9131d8f735a91286bdf2f877f0495e8235.png?n5.55",
-                    "Name": "Wasserkristall",
-                    "Amount": 20,
-                    "Url": "/lodestone/playguide/db/item/44d3f4cb26b/"
-                },
-                {
-                    "Icon": "https://img.finalfantasyxiv.com/lds/pc/global/images/itemicon/d9/d9a4b77a07bb95bf2713ae233a0eececdf211e8b.png?n5.55",
-                    "Name": "Feuerkristall",
-                    "Amount": 20,
-                    "Url": "/lodestone/playguide/db/item/75403105d7f/"
-                },
-                {
-                    "Icon": "https://img.finalfantasyxiv.com/lds/pc/global/images/itemicon/d9/d9beff495b00ab597dbd0b268530571d803e6a2d.png?n5.55",
-                    "Name": "Kräutertrank",
-                    "Amount": null,
-                    "Url": "/lodestone/playguide/db/item/2ff3e7e028c/"
-                },
-                {
-                    "Icon": "https://img.finalfantasyxiv.com/lds/pc/global/images/itemicon/d9/d9beff495b00ab597dbd0b268530571d803e6a2d.png?n5.55",
-                    "Name": "Kräutertrank",
-                    "Amount": null,
-                    "Url": "/lodestone/playguide/db/item/2ff3e7e028c/"
-                },
-                {
-                    "Icon": "https://img.finalfantasyxiv.com/lds/pc/global/images/itemicon/d9/d9beff495b00ab597dbd0b268530571d803e6a2d.png?n5.55",
-                    "Name": "Kräutertrank",
-                    "Amount": null,
-                    "Url": "/lodestone/playguide/db/item/2ff3e7e028c/"
-                }
-            ],
-            "ItemsOpt": []
-        },
-        "Infos": {
-            "RelatedNPC": [
-                {
-                    "Name": "Dzo-Hirte",
-                    "Url": "/lodestone/playguide/db/npc/npc/215bf52290c/",
-                    "Area": "Azim-Steppe (X:23.0 Y:21.3)"
-                },
-                {
-                    "Name": "Materialkiste",
-                    "Url": "/lodestone/playguide/db/npc/npc/c0f4f3cd0f9/",
-                    "Area": "Azim-Steppe (X:22.9 Y:21.2)"
-                }
-            ]
-        },
-        "Seq": 19,
-        "oldID": 68648,
-        "Map": {
-            "ID": 372
-        },
-        "StartDependency": false
-    },
-    {
-        "ID": "8fd713ebadc",
-        "Name": " Paissa-Kämpfffe",
-        "Location": "Azim-Steppe",
-        "Level": 60,
-        "JournalSection": 4,
-        "JournalCategory": 36,
-        "JournalGenre": "\n\t\t\t\t\t\t\tNebenaufträge\n\t\t\t\t\t\t",
-        "Url": "/lodestone/playguide/db/quest/8fd713ebadc/",
-        "Image": null,
-        "Icon": "common_repeat",
-        "Issuer": "Seigetsu",
-        "StartLocation": {
-            "Name": "Azim-Steppe",
-            "X": "5.8",
-            "Y": "23.4"
-        },
-        "StartClass": null,
-        "Job": "",
-        "Company": "Keine Angabe",
-        "Requirement": "Keine Angabe",
-        "Rewards": {
-            "Gil": 615,
-            "Exp": null,
-            "ItemsMand": [
-                {
-                    "Icon": "https://img.finalfantasyxiv.com/lds/pc/global/images/itemicon/0d/0dd4af1f23b8f1d782bacfb905a67b491688414c.png?n5.55",
-                    "Name": "Windkristall",
-                    "Amount": 20,
-                    "Url": "/lodestone/playguide/db/item/5db117cd77b/"
-                },
-                {
-                    "Icon": "https://img.finalfantasyxiv.com/lds/pc/global/images/itemicon/d9/d9a4b77a07bb95bf2713ae233a0eececdf211e8b.png?n5.55",
-                    "Name": "Feuerkristall",
-                    "Amount": 20,
-                    "Url": "/lodestone/playguide/db/item/75403105d7f/"
-                },
-                {
-                    "Icon": "https://img.finalfantasyxiv.com/lds/pc/global/images/itemicon/a7/a71da2eb489188dbbfadd582938a0e761a9a0585.png?n5.55",
-                    "Name": "Eiskristall",
-                    "Amount": 20,
-                    "Url": "/lodestone/playguide/db/item/2d800a06851/"
-                },
-                {
-                    "Icon": "https://img.finalfantasyxiv.com/lds/pc/global/images/itemicon/0d/0dd4af1f23b8f1d782bacfb905a67b491688414c.png?n5.55",
-                    "Name": "Windkristall",
-                    "Amount": 20,
-                    "Url": "/lodestone/playguide/db/item/5db117cd77b/"
-                },
-                {
-                    "Icon": "https://img.finalfantasyxiv.com/lds/pc/global/images/itemicon/16/16cd107e2bd1c45cee59e6b96ef02f2f6f68eac5.png?n5.55",
-                    "Name": "Erdkristall",
-                    "Amount": 20,
-                    "Url": "/lodestone/playguide/db/item/ff6eae7bdcb/"
-                },
-                {
-                    "Icon": "https://img.finalfantasyxiv.com/lds/pc/global/images/itemicon/5d/5dd42eb2385a5e0d158b8fa81b63a09e4b25c821.png?n5.55",
-                    "Name": "Blitzkristall",
-                    "Amount": 20,
-                    "Url": "/lodestone/playguide/db/item/b21a951916e/"
-                },
-                {
-                    "Icon": "https://img.finalfantasyxiv.com/lds/pc/global/images/itemicon/b5/b5eb0d9131d8f735a91286bdf2f877f0495e8235.png?n5.55",
-                    "Name": "Wasserkristall",
-                    "Amount": 20,
-                    "Url": "/lodestone/playguide/db/item/44d3f4cb26b/"
-                },
-                {
-                    "Icon": "https://img.finalfantasyxiv.com/lds/pc/global/images/itemicon/d9/d9a4b77a07bb95bf2713ae233a0eececdf211e8b.png?n5.55",
-                    "Name": "Feuerkristall",
-                    "Amount": 20,
-                    "Url": "/lodestone/playguide/db/item/75403105d7f/"
-                },
-                {
-                    "Icon": "https://img.finalfantasyxiv.com/lds/pc/global/images/itemicon/d9/d9beff495b00ab597dbd0b268530571d803e6a2d.png?n5.55",
-                    "Name": "Kräutertrank",
-                    "Amount": null,
-                    "Url": "/lodestone/playguide/db/item/2ff3e7e028c/"
-                },
-                {
-                    "Icon": "https://img.finalfantasyxiv.com/lds/pc/global/images/itemicon/d9/d9beff495b00ab597dbd0b268530571d803e6a2d.png?n5.55",
-                    "Name": "Kräutertrank",
-                    "Amount": null,
-                    "Url": "/lodestone/playguide/db/item/2ff3e7e028c/"
-                },
-                {
-                    "Icon": "https://img.finalfantasyxiv.com/lds/pc/global/images/itemicon/d9/d9beff495b00ab597dbd0b268530571d803e6a2d.png?n5.55",
-                    "Name": "Kräutertrank",
-                    "Amount": null,
-                    "Url": "/lodestone/playguide/db/item/2ff3e7e028c/"
-                }
-            ],
-            "ItemsOpt": []
-        },
-        "Infos": {
-            "RelatedNPC": [
-                {
-                    "Name": "Gyoka",
-                    "Url": "/lodestone/playguide/db/npc/npc/e87f9d44688/",
-                    "Area": "Azim-Steppe (X:6.4 Y:24.3)"
-                },
-                {
-                    "Name": "Materialkiste",
-                    "Url": "/lodestone/playguide/db/npc/npc/57f365a992f/",
-                    "Area": "Azim-Steppe (X:10.7 Y:13.2)"
-                },
-                {
-                    "Name": "Namazuo-Sammler",
-                    "Url": "/lodestone/playguide/db/npc/npc/478242cc531/",
-                    "Area": "Azim-Steppe (X:10.7 Y:13.2)"
-                }
-            ]
-        },
-        "Seq": 34,
-        "oldID": 68665,
-        "Map": {
-            "ID": 372
-        },
-        "StartDependency": false
-    },
-    {
-        "ID": "a39317e23a3",
-        "Name": " Es blubbert der Beat",
-        "Location": "Azim-Steppe",
-        "Level": 60,
-        "JournalSection": 4,
-        "JournalCategory": 36,
-        "JournalGenre": "\n\t\t\t\t\t\t\tNebenaufträge\n\t\t\t\t\t\t",
-        "Url": "/lodestone/playguide/db/quest/a39317e23a3/",
-        "Image": null,
-        "Icon": "common_repeat",
-        "Issuer": "Seigetsu",
-        "StartLocation": {
-            "Name": "Azim-Steppe",
-            "X": "5.8",
-            "Y": "23.4"
-        },
-        "StartClass": null,
-        "Job": "",
-        "Company": "Keine Angabe",
-        "Requirement": "Keine Angabe",
-        "Rewards": {
-            "Gil": 550,
-            "Exp": null,
-            "ItemsMand": [
-                {
-                    "Icon": "https://img.finalfantasyxiv.com/lds/pc/global/images/itemicon/0d/0dd4af1f23b8f1d782bacfb905a67b491688414c.png?n5.55",
-                    "Name": "Windkristall",
-                    "Amount": 20,
-                    "Url": "/lodestone/playguide/db/item/5db117cd77b/"
-                },
-                {
-                    "Icon": "https://img.finalfantasyxiv.com/lds/pc/global/images/itemicon/d9/d9a4b77a07bb95bf2713ae233a0eececdf211e8b.png?n5.55",
-                    "Name": "Feuerkristall",
-                    "Amount": 20,
-                    "Url": "/lodestone/playguide/db/item/75403105d7f/"
-                },
-                {
-                    "Icon": "https://img.finalfantasyxiv.com/lds/pc/global/images/itemicon/a7/a71da2eb489188dbbfadd582938a0e761a9a0585.png?n5.55",
-                    "Name": "Eiskristall",
-                    "Amount": 20,
-                    "Url": "/lodestone/playguide/db/item/2d800a06851/"
-                },
-                {
-                    "Icon": "https://img.finalfantasyxiv.com/lds/pc/global/images/itemicon/0d/0dd4af1f23b8f1d782bacfb905a67b491688414c.png?n5.55",
-                    "Name": "Windkristall",
-                    "Amount": 20,
-                    "Url": "/lodestone/playguide/db/item/5db117cd77b/"
-                },
-                {
-                    "Icon": "https://img.finalfantasyxiv.com/lds/pc/global/images/itemicon/16/16cd107e2bd1c45cee59e6b96ef02f2f6f68eac5.png?n5.55",
-                    "Name": "Erdkristall",
-                    "Amount": 20,
-                    "Url": "/lodestone/playguide/db/item/ff6eae7bdcb/"
-                },
-                {
-                    "Icon": "https://img.finalfantasyxiv.com/lds/pc/global/images/itemicon/5d/5dd42eb2385a5e0d158b8fa81b63a09e4b25c821.png?n5.55",
-                    "Name": "Blitzkristall",
-                    "Amount": 20,
-                    "Url": "/lodestone/playguide/db/item/b21a951916e/"
-                },
-                {
-                    "Icon": "https://img.finalfantasyxiv.com/lds/pc/global/images/itemicon/b5/b5eb0d9131d8f735a91286bdf2f877f0495e8235.png?n5.55",
-                    "Name": "Wasserkristall",
-                    "Amount": 20,
-                    "Url": "/lodestone/playguide/db/item/44d3f4cb26b/"
-                },
-                {
-                    "Icon": "https://img.finalfantasyxiv.com/lds/pc/global/images/itemicon/d9/d9a4b77a07bb95bf2713ae233a0eececdf211e8b.png?n5.55",
-                    "Name": "Feuerkristall",
-                    "Amount": 20,
-                    "Url": "/lodestone/playguide/db/item/75403105d7f/"
-                },
-                {
-                    "Icon": "https://img.finalfantasyxiv.com/lds/pc/global/images/itemicon/d9/d9beff495b00ab597dbd0b268530571d803e6a2d.png?n5.55",
-                    "Name": "Kräutertrank",
-                    "Amount": null,
-                    "Url": "/lodestone/playguide/db/item/2ff3e7e028c/"
-                },
-                {
-                    "Icon": "https://img.finalfantasyxiv.com/lds/pc/global/images/itemicon/d9/d9beff495b00ab597dbd0b268530571d803e6a2d.png?n5.55",
-                    "Name": "Kräutertrank",
-                    "Amount": null,
-                    "Url": "/lodestone/playguide/db/item/2ff3e7e028c/"
-                },
-                {
-                    "Icon": "https://img.finalfantasyxiv.com/lds/pc/global/images/itemicon/d9/d9beff495b00ab597dbd0b268530571d803e6a2d.png?n5.55",
-                    "Name": "Kräutertrank",
-                    "Amount": null,
-                    "Url": "/lodestone/playguide/db/item/2ff3e7e028c/"
-                }
-            ],
-            "ItemsOpt": []
-        },
-        "Infos": {
-            "RelatedNPC": [
-                {
-                    "Name": "Materialkiste",
-                    "Url": "/lodestone/playguide/db/npc/npc/f5c545cf006/",
-                    "Area": "Azim-Steppe (X:18.0 Y:12.7)"
-                },
-                {
-                    "Name": "Namazuo-Handwerker",
-                    "Url": "/lodestone/playguide/db/npc/npc/1414c3a3c93/",
-                    "Area": "Azim-Steppe (X:17.9 Y:12.7)"
-                }
-            ]
-        },
-        "Seq": 21,
-        "oldID": 68653,
-        "Map": {
-            "ID": 372
-        },
-        "StartDependency": false
-    },
-    {
-        "ID": "ad6c666fbbc",
-        "Name": " Ahnen, bringt uns Glück und Wohlstand",
-        "Location": "Azim-Steppe",
-        "Level": 60,
-        "JournalSection": 4,
-        "JournalCategory": 36,
-        "JournalGenre": "\n\t\t\t\t\t\t\tNebenaufträge\n\t\t\t\t\t\t",
-        "Url": "/lodestone/playguide/db/quest/ad6c666fbbc/",
-        "Image": null,
-        "Icon": "common_repeat",
-        "Issuer": "Seigetsu",
-        "StartLocation": {
-            "Name": "Azim-Steppe",
-            "X": "5.8",
-            "Y": "23.4"
-        },
-        "StartClass": null,
-        "Job": "",
-        "Company": "Keine Angabe",
-        "Requirement": "Keine Angabe",
-        "Rewards": {
-            "Gil": 550,
-            "Exp": null,
-            "ItemsMand": [
-                {
-                    "Icon": "https://img.finalfantasyxiv.com/lds/pc/global/images/itemicon/0d/0dd4af1f23b8f1d782bacfb905a67b491688414c.png?n5.55",
-                    "Name": "Windkristall",
-                    "Amount": 20,
-                    "Url": "/lodestone/playguide/db/item/5db117cd77b/"
-                },
-                {
-                    "Icon": "https://img.finalfantasyxiv.com/lds/pc/global/images/itemicon/d9/d9a4b77a07bb95bf2713ae233a0eececdf211e8b.png?n5.55",
-                    "Name": "Feuerkristall",
-                    "Amount": 20,
-                    "Url": "/lodestone/playguide/db/item/75403105d7f/"
-                },
-                {
-                    "Icon": "https://img.finalfantasyxiv.com/lds/pc/global/images/itemicon/a7/a71da2eb489188dbbfadd582938a0e761a9a0585.png?n5.55",
-                    "Name": "Eiskristall",
-                    "Amount": 20,
-                    "Url": "/lodestone/playguide/db/item/2d800a06851/"
-                },
-                {
-                    "Icon": "https://img.finalfantasyxiv.com/lds/pc/global/images/itemicon/0d/0dd4af1f23b8f1d782bacfb905a67b491688414c.png?n5.55",
-                    "Name": "Windkristall",
-                    "Amount": 20,
-                    "Url": "/lodestone/playguide/db/item/5db117cd77b/"
-                },
-                {
-                    "Icon": "https://img.finalfantasyxiv.com/lds/pc/global/images/itemicon/16/16cd107e2bd1c45cee59e6b96ef02f2f6f68eac5.png?n5.55",
-                    "Name": "Erdkristall",
-                    "Amount": 20,
-                    "Url": "/lodestone/playguide/db/item/ff6eae7bdcb/"
-                },
-                {
-                    "Icon": "https://img.finalfantasyxiv.com/lds/pc/global/images/itemicon/5d/5dd42eb2385a5e0d158b8fa81b63a09e4b25c821.png?n5.55",
-                    "Name": "Blitzkristall",
-                    "Amount": 20,
-                    "Url": "/lodestone/playguide/db/item/b21a951916e/"
-                },
-                {
-                    "Icon": "https://img.finalfantasyxiv.com/lds/pc/global/images/itemicon/b5/b5eb0d9131d8f735a91286bdf2f877f0495e8235.png?n5.55",
-                    "Name": "Wasserkristall",
-                    "Amount": 20,
-                    "Url": "/lodestone/playguide/db/item/44d3f4cb26b/"
-                },
-                {
-                    "Icon": "https://img.finalfantasyxiv.com/lds/pc/global/images/itemicon/d9/d9a4b77a07bb95bf2713ae233a0eececdf211e8b.png?n5.55",
-                    "Name": "Feuerkristall",
-                    "Amount": 20,
-                    "Url": "/lodestone/playguide/db/item/75403105d7f/"
-                },
-                {
-                    "Icon": "https://img.finalfantasyxiv.com/lds/pc/global/images/itemicon/d9/d9beff495b00ab597dbd0b268530571d803e6a2d.png?n5.55",
-                    "Name": "Kräutertrank",
-                    "Amount": null,
-                    "Url": "/lodestone/playguide/db/item/2ff3e7e028c/"
-                },
-                {
-                    "Icon": "https://img.finalfantasyxiv.com/lds/pc/global/images/itemicon/d9/d9beff495b00ab597dbd0b268530571d803e6a2d.png?n5.55",
-                    "Name": "Kräutertrank",
-                    "Amount": null,
-                    "Url": "/lodestone/playguide/db/item/2ff3e7e028c/"
-                },
-                {
-                    "Icon": "https://img.finalfantasyxiv.com/lds/pc/global/images/itemicon/d9/d9beff495b00ab597dbd0b268530571d803e6a2d.png?n5.55",
-                    "Name": "Kräutertrank",
-                    "Amount": null,
-                    "Url": "/lodestone/playguide/db/item/2ff3e7e028c/"
-                }
-            ],
-            "ItemsOpt": []
-        },
-        "Infos": {
-            "RelatedNPC": [
-                {
-                    "Name": "Ehrerbietiger Namazuo",
-                    "Url": "/lodestone/playguide/db/npc/npc/5052b21c3b7/",
-                    "Area": "Azim-Steppe (X:23.9 Y:14.7)"
-                },
-                {
-                    "Name": "Materialkiste",
-                    "Url": "/lodestone/playguide/db/npc/npc/8f7b6de0fff/",
-                    "Area": "Azim-Steppe (X:23.9 Y:14.7)"
-                }
-            ]
-        },
-        "Seq": 15,
-        "oldID": 68647,
-        "Map": {
-            "ID": 372
-        },
-        "StartDependency": false
-    },
-    {
-        "ID": "aeeef7bf164",
-        "Name": " Fffestliche Wurfffgeschosse",
-        "Location": "Azim-Steppe",
-        "Level": 60,
-        "JournalSection": 4,
-        "JournalCategory": 36,
-        "JournalGenre": "\n\t\t\t\t\t\t\tNebenaufträge\n\t\t\t\t\t\t",
-        "Url": "/lodestone/playguide/db/quest/aeeef7bf164/",
-        "Image": null,
-        "Icon": "common_repeat",
-        "Issuer": "Seigetsu",
-        "StartLocation": {
-            "Name": "Azim-Steppe",
-            "X": "5.8",
-            "Y": "23.4"
-        },
-        "StartClass": null,
-        "Job": "",
-        "Company": "Keine Angabe",
-        "Requirement": "Keine Angabe",
-        "Rewards": {
-            "Gil": 550,
-            "Exp": null,
-            "ItemsMand": [
-                {
-                    "Icon": "https://img.finalfantasyxiv.com/lds/pc/global/images/itemicon/0d/0dd4af1f23b8f1d782bacfb905a67b491688414c.png?n5.55",
-                    "Name": "Windkristall",
-                    "Amount": 20,
-                    "Url": "/lodestone/playguide/db/item/5db117cd77b/"
-                },
-                {
-                    "Icon": "https://img.finalfantasyxiv.com/lds/pc/global/images/itemicon/d9/d9a4b77a07bb95bf2713ae233a0eececdf211e8b.png?n5.55",
-                    "Name": "Feuerkristall",
-                    "Amount": 20,
-                    "Url": "/lodestone/playguide/db/item/75403105d7f/"
-                },
-                {
-                    "Icon": "https://img.finalfantasyxiv.com/lds/pc/global/images/itemicon/a7/a71da2eb489188dbbfadd582938a0e761a9a0585.png?n5.55",
-                    "Name": "Eiskristall",
-                    "Amount": 20,
-                    "Url": "/lodestone/playguide/db/item/2d800a06851/"
-                },
-                {
-                    "Icon": "https://img.finalfantasyxiv.com/lds/pc/global/images/itemicon/0d/0dd4af1f23b8f1d782bacfb905a67b491688414c.png?n5.55",
-                    "Name": "Windkristall",
-                    "Amount": 20,
-                    "Url": "/lodestone/playguide/db/item/5db117cd77b/"
-                },
-                {
-                    "Icon": "https://img.finalfantasyxiv.com/lds/pc/global/images/itemicon/16/16cd107e2bd1c45cee59e6b96ef02f2f6f68eac5.png?n5.55",
-                    "Name": "Erdkristall",
-                    "Amount": 20,
-                    "Url": "/lodestone/playguide/db/item/ff6eae7bdcb/"
-                },
-                {
-                    "Icon": "https://img.finalfantasyxiv.com/lds/pc/global/images/itemicon/5d/5dd42eb2385a5e0d158b8fa81b63a09e4b25c821.png?n5.55",
-                    "Name": "Blitzkristall",
-                    "Amount": 20,
-                    "Url": "/lodestone/playguide/db/item/b21a951916e/"
-                },
-                {
-                    "Icon": "https://img.finalfantasyxiv.com/lds/pc/global/images/itemicon/b5/b5eb0d9131d8f735a91286bdf2f877f0495e8235.png?n5.55",
-                    "Name": "Wasserkristall",
-                    "Amount": 20,
-                    "Url": "/lodestone/playguide/db/item/44d3f4cb26b/"
-                },
-                {
-                    "Icon": "https://img.finalfantasyxiv.com/lds/pc/global/images/itemicon/d9/d9a4b77a07bb95bf2713ae233a0eececdf211e8b.png?n5.55",
-                    "Name": "Feuerkristall",
-                    "Amount": 20,
-                    "Url": "/lodestone/playguide/db/item/75403105d7f/"
-                },
-                {
-                    "Icon": "https://img.finalfantasyxiv.com/lds/pc/global/images/itemicon/d9/d9beff495b00ab597dbd0b268530571d803e6a2d.png?n5.55",
-                    "Name": "Kräutertrank",
-                    "Amount": null,
-                    "Url": "/lodestone/playguide/db/item/2ff3e7e028c/"
-                },
-                {
-                    "Icon": "https://img.finalfantasyxiv.com/lds/pc/global/images/itemicon/d9/d9beff495b00ab597dbd0b268530571d803e6a2d.png?n5.55",
-                    "Name": "Kräutertrank",
-                    "Amount": null,
-                    "Url": "/lodestone/playguide/db/item/2ff3e7e028c/"
-                },
-                {
-                    "Icon": "https://img.finalfantasyxiv.com/lds/pc/global/images/itemicon/d9/d9beff495b00ab597dbd0b268530571d803e6a2d.png?n5.55",
-                    "Name": "Kräutertrank",
-                    "Amount": null,
-                    "Url": "/lodestone/playguide/db/item/2ff3e7e028c/"
-                }
-            ],
-            "ItemsOpt": []
-        },
-        "Infos": {
-            "RelatedNPC": [
-                {
-                    "Name": "Materialkiste",
-                    "Url": "/lodestone/playguide/db/npc/npc/db19e049bba/",
-                    "Area": "Azim-Steppe (X:32.3 Y:17.6)"
-                },
-                {
-                    "Name": "Unersättlicher Namazuo",
-                    "Url": "/lodestone/playguide/db/npc/npc/c9796e5ab82/",
-                    "Area": "Azim-Steppe (X:32.3 Y:17.6)"
-                }
-            ]
-        },
-        "Seq": 32,
-        "oldID": 68659,
-        "Map": {
-            "ID": 372
-        },
-        "StartDependency": false
-    },
-    {
-        "ID": "bd14595c25f",
-        "Name": " Konfffettifieber",
-        "Location": "Azim-Steppe",
-        "Level": 60,
-        "JournalSection": 4,
-        "JournalCategory": 36,
-        "JournalGenre": "\n\t\t\t\t\t\t\tNebenaufträge\n\t\t\t\t\t\t",
-        "Url": "/lodestone/playguide/db/quest/bd14595c25f/",
-        "Image": null,
-        "Icon": "common_repeat",
-        "Issuer": "Seigetsu",
-        "StartLocation": {
-            "Name": "Azim-Steppe",
-            "X": "5.8",
-            "Y": "23.4"
-        },
-        "StartClass": null,
-        "Job": "",
-        "Company": "Keine Angabe",
-        "Requirement": "Keine Angabe",
-        "Rewards": {
-            "Gil": 615,
-            "Exp": null,
-            "ItemsMand": [
-                {
-                    "Icon": "https://img.finalfantasyxiv.com/lds/pc/global/images/itemicon/0d/0dd4af1f23b8f1d782bacfb905a67b491688414c.png?n5.55",
-                    "Name": "Windkristall",
-                    "Amount": 20,
-                    "Url": "/lodestone/playguide/db/item/5db117cd77b/"
-                },
-                {
-                    "Icon": "https://img.finalfantasyxiv.com/lds/pc/global/images/itemicon/d9/d9a4b77a07bb95bf2713ae233a0eececdf211e8b.png?n5.55",
-                    "Name": "Feuerkristall",
-                    "Amount": 20,
-                    "Url": "/lodestone/playguide/db/item/75403105d7f/"
-                },
-                {
-                    "Icon": "https://img.finalfantasyxiv.com/lds/pc/global/images/itemicon/a7/a71da2eb489188dbbfadd582938a0e761a9a0585.png?n5.55",
-                    "Name": "Eiskristall",
-                    "Amount": 20,
-                    "Url": "/lodestone/playguide/db/item/2d800a06851/"
-                },
-                {
-                    "Icon": "https://img.finalfantasyxiv.com/lds/pc/global/images/itemicon/0d/0dd4af1f23b8f1d782bacfb905a67b491688414c.png?n5.55",
-                    "Name": "Windkristall",
-                    "Amount": 20,
-                    "Url": "/lodestone/playguide/db/item/5db117cd77b/"
-                },
-                {
-                    "Icon": "https://img.finalfantasyxiv.com/lds/pc/global/images/itemicon/16/16cd107e2bd1c45cee59e6b96ef02f2f6f68eac5.png?n5.55",
-                    "Name": "Erdkristall",
-                    "Amount": 20,
-                    "Url": "/lodestone/playguide/db/item/ff6eae7bdcb/"
-                },
-                {
-                    "Icon": "https://img.finalfantasyxiv.com/lds/pc/global/images/itemicon/5d/5dd42eb2385a5e0d158b8fa81b63a09e4b25c821.png?n5.55",
-                    "Name": "Blitzkristall",
-                    "Amount": 20,
-                    "Url": "/lodestone/playguide/db/item/b21a951916e/"
-                },
-                {
-                    "Icon": "https://img.finalfantasyxiv.com/lds/pc/global/images/itemicon/b5/b5eb0d9131d8f735a91286bdf2f877f0495e8235.png?n5.55",
-                    "Name": "Wasserkristall",
-                    "Amount": 20,
-                    "Url": "/lodestone/playguide/db/item/44d3f4cb26b/"
-                },
-                {
-                    "Icon": "https://img.finalfantasyxiv.com/lds/pc/global/images/itemicon/d9/d9a4b77a07bb95bf2713ae233a0eececdf211e8b.png?n5.55",
-                    "Name": "Feuerkristall",
-                    "Amount": 20,
-                    "Url": "/lodestone/playguide/db/item/75403105d7f/"
-                },
-                {
-                    "Icon": "https://img.finalfantasyxiv.com/lds/pc/global/images/itemicon/d9/d9beff495b00ab597dbd0b268530571d803e6a2d.png?n5.55",
-                    "Name": "Kräutertrank",
-                    "Amount": null,
-                    "Url": "/lodestone/playguide/db/item/2ff3e7e028c/"
-                },
-                {
-                    "Icon": "https://img.finalfantasyxiv.com/lds/pc/global/images/itemicon/d9/d9beff495b00ab597dbd0b268530571d803e6a2d.png?n5.55",
-                    "Name": "Kräutertrank",
-                    "Amount": null,
-                    "Url": "/lodestone/playguide/db/item/2ff3e7e028c/"
-                },
-                {
-                    "Icon": "https://img.finalfantasyxiv.com/lds/pc/global/images/itemicon/d9/d9beff495b00ab597dbd0b268530571d803e6a2d.png?n5.55",
-                    "Name": "Kräutertrank",
-                    "Amount": null,
-                    "Url": "/lodestone/playguide/db/item/2ff3e7e028c/"
-                }
-            ],
-            "ItemsOpt": []
-        },
-        "Infos": {
-            "RelatedNPC": [
-                {
-                    "Name": "Materialkiste",
-                    "Url": "/lodestone/playguide/db/npc/npc/c371980f894/",
-                    "Area": "Azim-Steppe (X:26.9 Y:27.0)"
-                },
-                {
-                    "Name": "Namazuo-Papiermacher",
-                    "Url": "/lodestone/playguide/db/npc/npc/1e415fd5b28/",
-                    "Area": "Azim-Steppe (X:26.9 Y:27.0)"
-                }
-            ]
-        },
-        "Seq": 22,
-        "oldID": 68655,
-        "Map": {
-            "ID": 372
-        },
-        "StartDependency": false
-    },
-    {
-        "ID": "c6cb3ea9741",
-        "Name": " Fffromme Fffische",
-        "Location": "Azim-Steppe",
-        "Level": 60,
-        "JournalSection": 4,
-        "JournalCategory": 36,
-        "JournalGenre": "\n\t\t\t\t\t\t\tNebenaufträge\n\t\t\t\t\t\t",
-        "Url": "/lodestone/playguide/db/quest/c6cb3ea9741/",
-        "Image": null,
-        "Icon": "common_repeat",
-        "Issuer": "Seigetsu",
-        "StartLocation": {
-            "Name": "Azim-Steppe",
-            "X": "5.8",
-            "Y": "23.4"
-        },
-        "StartClass": null,
-        "Job": "",
-        "Company": "Keine Angabe",
-        "Requirement": "Keine Angabe",
-        "Rewards": {
-            "Gil": 550,
+            "Gil": 680,
             "Exp": null,
             "ItemsMand": [],
             "ItemsOpt": []
@@ -3086,63 +114,1087 @@
         "Infos": {
             "RelatedNPC": [
                 {
-                    "Name": "Chakha-Zoh-Jäger",
-                    "Url": "/lodestone/playguide/db/npc/npc/4aa5e100ef3/",
-                    "Area": "Azim-Steppe (X:19.9 Y:13.0)"
+                    "Name": "Bedächtige Priesterin",
+                    "Url": "/lodestone/playguide/db/npc/npc/edc38d7ad74/",
+                    "Area": "Rubinsee (X:20.9 Y:18.7)"
                 },
                 {
-                    "Name": "Namazuo-Pilger",
-                    "Url": "/lodestone/playguide/db/npc/npc/1d285eeb081/",
-                    "Area": "Azim-Steppe (X:35.9 Y:12.9)"
+                    "Name": "Urokuzu",
+                    "Url": "/lodestone/playguide/db/npc/npc/e8b2f898d12/",
+                    "Area": "Rubinsee (X:28.8 Y:15.6)"
                 }
             ]
         },
         "Seq": 8,
-        "oldID": 68640,
-        "Map": {
-            "ID": 372
-        },
         "StartDependency": false
     },
     {
-        "ID": "cc69384e776",
-        "Name": " Die Fffrüchte der Fffreundschaft",
-        "Location": "Azim-Steppe",
+        "ID": "2a8b3ac5db8",
+        "Name": " Oktopus-Fallen",
+        "Location": "Rubinsee",
         "Level": 60,
         "JournalSection": 4,
         "JournalCategory": 36,
-        "JournalGenre": "\n\t\t\t\t\t\t\tHauptaufträge\n\t\t\t\t\t\t",
-        "Url": "/lodestone/playguide/db/quest/cc69384e776/",
-        "Image": "https://img.finalfantasyxiv.com/lds/pc/global/images/itemicon/8a/8ab813a7bb49b99132af398a8af3eba92ca95a64.png?n5.55",
-        "Icon": "function_normal",
-        "Issuer": "Gyoshin",
+        "JournalGenre": "\n\t\t\t\t\t\t\tNebenaufträge\n\t\t\t\t\t\t",
+        "Url": "/lodestone/playguide/db/quest/2a8b3ac5db8/",
+        "Image": null,
+        "Icon": "common_repeat",
+        "Issuer": "Zukin",
         "StartLocation": {
-            "Name": "Azim-Steppe",
-            "X": "6.1",
-            "Y": "23.3"
+            "Name": "Rubinsee",
+            "X": "29.3",
+            "Y": "16.8"
         },
         "StartClass": null,
         "Job": "",
         "Company": "Keine Angabe",
         "Requirement": "Keine Angabe",
         "Rewards": {
-            "Gil": 810,
+            "Gil": 550,
             "Exp": null,
-            "ItemsMand": [
+            "ItemsMand": [],
+            "ItemsOpt": []
+        },
+        "Infos": {},
+        "Seq": 27,
+        "StartDependency": false
+    },
+    {
+        "ID": "2f0fe89ae5a",
+        "Name": " Mondperlen",
+        "Location": "Rubinsee",
+        "Level": 60,
+        "JournalSection": 4,
+        "JournalCategory": 36,
+        "JournalGenre": "\n\t\t\t\t\t\t\tNebenaufträge\n\t\t\t\t\t\t",
+        "Url": "/lodestone/playguide/db/quest/2f0fe89ae5a/",
+        "Image": null,
+        "Icon": "common_repeat",
+        "Issuer": "Zukin",
+        "StartLocation": {
+            "Name": "Rubinsee",
+            "X": "29.3",
+            "Y": "16.8"
+        },
+        "StartClass": null,
+        "Job": "",
+        "Company": "Keine Angabe",
+        "Requirement": "Keine Angabe",
+        "Rewards": {
+            "Gil": 550,
+            "Exp": null,
+            "ItemsMand": [],
+            "ItemsOpt": []
+        },
+        "Infos": {},
+        "Seq": 21,
+        "StartDependency": false
+    },
+    {
+        "ID": "4159c25d912",
+        "Name": " Verköstigung der Konföderation",
+        "Location": "Rubinsee",
+        "Level": 60,
+        "JournalSection": 4,
+        "JournalCategory": 36,
+        "JournalGenre": "\n\t\t\t\t\t\t\tNebenaufträge\n\t\t\t\t\t\t",
+        "Url": "/lodestone/playguide/db/quest/4159c25d912/",
+        "Image": null,
+        "Icon": "common_repeat",
+        "Issuer": "Zukin",
+        "StartLocation": {
+            "Name": "Rubinsee",
+            "X": "29.3",
+            "Y": "16.8"
+        },
+        "StartClass": null,
+        "Job": "",
+        "Company": "Keine Angabe",
+        "Requirement": "Keine Angabe",
+        "Rewards": {
+            "Gil": 550,
+            "Exp": null,
+            "ItemsMand": [],
+            "ItemsOpt": []
+        },
+        "Infos": {
+            "RelatedNPC": [
                 {
-                    "Icon": "https://img.finalfantasyxiv.com/lds/pc/global/images/itemicon/fb/fb000afa3b641a86f1f443904fff67f28e2c5b11.png?n5.55",
-                    "Name": "",
-                    "Amount": null
+                    "Name": "Angeheiterter Pirat",
+                    "Url": "/lodestone/playguide/db/npc/npc/ffc34faf730/",
+                    "Area": "Rubinsee (X:33.0 Y:6.8)"
+                },
+                {
+                    "Name": "Piratin der Konföderation",
+                    "Url": "/lodestone/playguide/db/npc/npc/43af09e78ea/",
+                    "Area": "Rubinsee (X:35.9 Y:5.1)"
+                },
+                {
+                    "Name": "Rikufu",
+                    "Url": "/lodestone/playguide/db/npc/npc/4d1b209b2d2/",
+                    "Area": "Rubinsee (X:32.2 Y:5.2)"
                 }
-            ],
+            ]
+        },
+        "Seq": 11,
+        "StartDependency": false
+    },
+    {
+        "ID": "5ec93c18f91",
+        "Name": " Geschmacksache",
+        "Location": "Rubinsee",
+        "Level": 60,
+        "JournalSection": 4,
+        "JournalCategory": 36,
+        "JournalGenre": "\n\t\t\t\t\t\t\tNebenaufträge\n\t\t\t\t\t\t",
+        "Url": "/lodestone/playguide/db/quest/5ec93c18f91/",
+        "Image": null,
+        "Icon": "common_repeat",
+        "Issuer": "Zukin",
+        "StartLocation": {
+            "Name": "Rubinsee",
+            "X": "29.3",
+            "Y": "16.8"
+        },
+        "StartClass": null,
+        "Job": "",
+        "Company": "Keine Angabe",
+        "Requirement": "Keine Angabe",
+        "Rewards": {
+            "Gil": 550,
+            "Exp": null,
+            "ItemsMand": [],
+            "ItemsOpt": []
+        },
+        "Infos": {},
+        "Seq": 13,
+        "StartDependency": false
+    },
+    {
+        "ID": "62aef1ae192",
+        "Name": " Heißblütiger Blaupanzer",
+        "Location": "Rubinsee",
+        "Level": 60,
+        "JournalSection": 4,
+        "JournalCategory": 36,
+        "JournalGenre": "\n\t\t\t\t\t\t\tNebenaufträge\n\t\t\t\t\t\t",
+        "Url": "/lodestone/playguide/db/quest/62aef1ae192/",
+        "Image": null,
+        "Icon": "common_repeat",
+        "Issuer": "Zukin",
+        "StartLocation": {
+            "Name": "Rubinsee",
+            "X": "29.3",
+            "Y": "16.8"
+        },
+        "StartClass": null,
+        "Job": "",
+        "Company": "Keine Angabe",
+        "Requirement": "Keine Angabe",
+        "Rewards": {
+            "Gil": 550,
+            "Exp": null,
+            "ItemsMand": [],
+            "ItemsOpt": []
+        },
+        "Infos": {
+            "RelatedNPC": [
+                {
+                    "Name": "Heißblütiger Blaupanzer",
+                    "Url": "/lodestone/playguide/db/npc/npc/bc56d3f985c/",
+                    "Area": "Rubinsee (X:9.3 Y:25.1)"
+                },
+                {
+                    "Name": "Heißblütiger Blaupanzer",
+                    "Url": "/lodestone/playguide/db/npc/npc/d49def3c61f/",
+                    "Area": "Rubinsee (X:6.9 Y:25.2)"
+                },
+                {
+                    "Name": "Heißblütiger Blaupanzer",
+                    "Url": "/lodestone/playguide/db/npc/npc/74737c24196/",
+                    "Area": "Rubinsee (X:4.0 Y:27.0)"
+                }
+            ]
+        },
+        "Seq": 28,
+        "StartDependency": false
+    },
+    {
+        "ID": "638eb03979a",
+        "Name": " Der Wert der Freundschaft",
+        "Location": "Rubinsee",
+        "Level": 60,
+        "JournalSection": 4,
+        "JournalCategory": 36,
+        "JournalGenre": "\n\t\t\t\t\t\t\tHauptaufträge\n\t\t\t\t\t\t",
+        "Url": "/lodestone/playguide/db/quest/638eb03979a/",
+        "Image": "https://img.finalfantasyxiv.com/lds/pc/global/images/itemicon/22/22235921990709bb661acc5bd2ed6f857397ba2d.png?n6.05",
+        "Icon": "function_normal",
+        "Issuer": "Kabuto",
+        "StartLocation": {
+            "Name": "Rubinsee",
+            "X": "29.4",
+            "Y": "16.5"
+        },
+        "StartClass": null,
+        "Job": "",
+        "Company": "Keine Angabe",
+        "Requirement": "Keine Angabe",
+        "Rewards": {
+            "Gil": 1415,
+            "Exp": null,
+            "ItemsMand": [],
             "ItemsOpt": []
         },
         "Infos": {
             "PrerequisiteQuest": [
                 {
-                    "Name": " Spiel mit dem Fffeuer",
-                    "Url": "/lodestone/playguide/db/quest/1c400698842/",
-                    "Area": "Azim-Steppe",
+                    "Name": " Ein Wellengeneral schlägt Wellen",
+                    "Url": "/lodestone/playguide/db/quest/97de9dddf33/",
+                    "Area": "Rubinsee",
+                    "Level": "60"
+                }
+            ],
+            "FollowupQuest": [
+                {
+                    "Name": " Rotpanzer auf dem Vormarsch",
+                    "Url": "/lodestone/playguide/db/quest/2027759876a/",
+                    "Area": "Rubinsee",
+                    "Level": "60"
+                }
+            ],
+            "RelatedNPC": [
+                {
+                    "Name": "Anständiger Oronir-Schütze",
+                    "Url": "/lodestone/playguide/db/npc/npc/96668f54c01/",
+                    "Area": "Azim-Steppe (X:32.9 Y:27.4)"
+                },
+                {
+                    "Name": "Ehrliche Dotharl-Kriegerin",
+                    "Url": "/lodestone/playguide/db/npc/npc/b547be10e5c/",
+                    "Area": "Azim-Steppe (X:32.7 Y:28.7)"
+                },
+                {
+                    "Name": "Gütiger Buduga-Reiter",
+                    "Url": "/lodestone/playguide/db/npc/npc/4253bc5fb1f/",
+                    "Area": "Azim-Steppe (X:32.5 Y:27.7)"
+                },
+                {
+                    "Name": "Kabuto",
+                    "Url": "/lodestone/playguide/db/npc/npc/9878524e89d/",
+                    "Area": "Azim-Steppe (X:32.2 Y:29.8)"
+                },
+                {
+                    "Name": "Kabuto",
+                    "Url": "/lodestone/playguide/db/npc/npc/398038b7a92/",
+                    "Area": "Azim-Steppe (X:28.6 Y:30.8)"
+                },
+                {
+                    "Name": "Tsukumo",
+                    "Url": "/lodestone/playguide/db/npc/npc/aba63982760/",
+                    "Area": "Azim-Steppe (X:32.2 Y:29.8)"
+                },
+                {
+                    "Name": "Tsukumo",
+                    "Url": "/lodestone/playguide/db/npc/npc/010dea95bec/",
+                    "Area": "Azim-Steppe (X:28.6 Y:30.8)"
+                },
+                {
+                    "Name": "Uchikin",
+                    "Url": "/lodestone/playguide/db/npc/npc/191024e1f3c/",
+                    "Area": "Azim-Steppe (X:28.5 Y:30.9)"
+                },
+                {
+                    "Name": "Uchikin",
+                    "Url": "/lodestone/playguide/db/npc/npc/b5a9db48d8b/",
+                    "Area": "Azim-Steppe (X:28.5 Y:30.8)"
+                },
+                {
+                    "Name": "Vater von Uchikin",
+                    "Url": "/lodestone/playguide/db/npc/npc/d5213331f86/",
+                    "Area": "Azim-Steppe (X:28.5 Y:30.9)"
+                },
+                {
+                    "Name": "Tsukumo",
+                    "Url": "/lodestone/playguide/db/npc/npc/6b1723f5c67/",
+                    "Area": "Rubinsee (X:29.4 Y:16.4)"
+                }
+            ]
+        },
+        "Seq": 2,
+        "StartDependency": false
+    },
+    {
+        "ID": "66533e5f796",
+        "Name": " Schatzsucherin mit Orientierungsproblemen",
+        "Location": "Rubinsee",
+        "Level": 60,
+        "JournalSection": 4,
+        "JournalCategory": 36,
+        "JournalGenre": "\n\t\t\t\t\t\t\tNebenaufträge\n\t\t\t\t\t\t",
+        "Url": "/lodestone/playguide/db/quest/66533e5f796/",
+        "Image": null,
+        "Icon": "common_repeat",
+        "Issuer": "Zukin",
+        "StartLocation": {
+            "Name": "Rubinsee",
+            "X": "29.3",
+            "Y": "16.8"
+        },
+        "StartClass": null,
+        "Job": "",
+        "Company": "Keine Angabe",
+        "Requirement": "Keine Angabe",
+        "Rewards": {
+            "Gil": 615,
+            "Exp": null,
+            "ItemsMand": [],
+            "ItemsOpt": []
+        },
+        "Infos": {
+            "RelatedNPC": [
+                {
+                    "Name": "Itomaki",
+                    "Url": "/lodestone/playguide/db/npc/npc/e9e63a7e895/",
+                    "Area": "Rubinsee (X:38.7 Y:10.5)"
+                },
+                {
+                    "Name": "Itomaki",
+                    "Url": "/lodestone/playguide/db/npc/npc/90f17187342/",
+                    "Area": "Rubinsee (X:38.2 Y:3.2)"
+                },
+                {
+                    "Name": "Itomaki",
+                    "Url": "/lodestone/playguide/db/npc/npc/4eabcdfbcd2/",
+                    "Area": "Rubinsee (X:39.3 Y:5.5)"
+                }
+            ]
+        },
+        "Seq": 12,
+        "StartDependency": false
+    },
+    {
+        "ID": "6a7d9849c90",
+        "Name": " Duftspuren",
+        "Location": "Rubinsee",
+        "Level": 60,
+        "JournalSection": 4,
+        "JournalCategory": 36,
+        "JournalGenre": "\n\t\t\t\t\t\t\tNebenaufträge\n\t\t\t\t\t\t",
+        "Url": "/lodestone/playguide/db/quest/6a7d9849c90/",
+        "Image": null,
+        "Icon": "common_repeat",
+        "Issuer": "Zukin",
+        "StartLocation": {
+            "Name": "Rubinsee",
+            "X": "29.3",
+            "Y": "16.8"
+        },
+        "StartClass": null,
+        "Job": "",
+        "Company": "Keine Angabe",
+        "Requirement": "Keine Angabe",
+        "Rewards": {
+            "Gil": 615,
+            "Exp": null,
+            "ItemsMand": [],
+            "ItemsOpt": []
+        },
+        "Infos": {
+            "RelatedNPC": [
+                {
+                    "Name": "Makura",
+                    "Url": "/lodestone/playguide/db/npc/npc/538af947d67/",
+                    "Area": "Rubinsee (X:29.2 Y:16.3)"
+                }
+            ]
+        },
+        "Seq": 15,
+        "StartDependency": false
+    },
+    {
+        "ID": "6d2ac7da282",
+        "Name": " Ein gutes Auge für Schätze",
+        "Location": "Rubinsee",
+        "Level": 60,
+        "JournalSection": 4,
+        "JournalCategory": 36,
+        "JournalGenre": "\n\t\t\t\t\t\t\tNebenaufträge\n\t\t\t\t\t\t",
+        "Url": "/lodestone/playguide/db/quest/6d2ac7da282/",
+        "Image": null,
+        "Icon": "common_repeat",
+        "Issuer": "Zukin",
+        "StartLocation": {
+            "Name": "Rubinsee",
+            "X": "29.3",
+            "Y": "16.8"
+        },
+        "StartClass": null,
+        "Job": "",
+        "Company": "Keine Angabe",
+        "Requirement": "Keine Angabe",
+        "Rewards": {
+            "Gil": 550,
+            "Exp": null,
+            "ItemsMand": [],
+            "ItemsOpt": []
+        },
+        "Infos": {},
+        "Seq": 23,
+        "StartDependency": false
+    },
+    {
+        "ID": "722ef804360",
+        "Name": " Eigenwillige Truhen",
+        "Location": "Rubinsee",
+        "Level": 60,
+        "JournalSection": 4,
+        "JournalCategory": 36,
+        "JournalGenre": "\n\t\t\t\t\t\t\tNebenaufträge\n\t\t\t\t\t\t",
+        "Url": "/lodestone/playguide/db/quest/722ef804360/",
+        "Image": null,
+        "Icon": "common_repeat",
+        "Issuer": "Zukin",
+        "StartLocation": {
+            "Name": "Rubinsee",
+            "X": "29.3",
+            "Y": "16.8"
+        },
+        "StartClass": null,
+        "Job": "",
+        "Company": "Keine Angabe",
+        "Requirement": "Keine Angabe",
+        "Rewards": {
+            "Gil": 550,
+            "Exp": null,
+            "ItemsMand": [],
+            "ItemsOpt": []
+        },
+        "Infos": {},
+        "Seq": 19,
+        "StartDependency": false
+    },
+    {
+        "ID": "725bde2e214",
+        "Name": " Schatzmuscheln",
+        "Location": "Rubinsee",
+        "Level": 60,
+        "JournalSection": 4,
+        "JournalCategory": 36,
+        "JournalGenre": "\n\t\t\t\t\t\t\tNebenaufträge\n\t\t\t\t\t\t",
+        "Url": "/lodestone/playguide/db/quest/725bde2e214/",
+        "Image": null,
+        "Icon": "common_repeat",
+        "Issuer": "Zukin",
+        "StartLocation": {
+            "Name": "Rubinsee",
+            "X": "29.3",
+            "Y": "16.8"
+        },
+        "StartClass": null,
+        "Job": "",
+        "Company": "Keine Angabe",
+        "Requirement": "Keine Angabe",
+        "Rewards": {
+            "Gil": 550,
+            "Exp": null,
+            "ItemsMand": [],
+            "ItemsOpt": []
+        },
+        "Infos": {},
+        "Seq": 24,
+        "StartDependency": false
+    },
+    {
+        "ID": "76c3813d096",
+        "Name": " Bombastische Abrüstung",
+        "Location": "Rubinsee",
+        "Level": 60,
+        "JournalSection": 4,
+        "JournalCategory": 36,
+        "JournalGenre": "\n\t\t\t\t\t\t\tNebenaufträge\n\t\t\t\t\t\t",
+        "Url": "/lodestone/playguide/db/quest/76c3813d096/",
+        "Image": null,
+        "Icon": "common_repeat",
+        "Issuer": "Zukin",
+        "StartLocation": {
+            "Name": "Rubinsee",
+            "X": "29.3",
+            "Y": "16.8"
+        },
+        "StartClass": null,
+        "Job": "",
+        "Company": "Keine Angabe",
+        "Requirement": "Keine Angabe",
+        "Rewards": {
+            "Gil": 550,
+            "Exp": null,
+            "ItemsMand": [],
+            "ItemsOpt": []
+        },
+        "Infos": {},
+        "Seq": 26,
+        "StartDependency": false
+    },
+    {
+        "ID": "8fe752d366d",
+        "Name": " Die blaue Schatzkammer",
+        "Location": "Rubinsee",
+        "Level": 60,
+        "JournalSection": 4,
+        "JournalCategory": 36,
+        "JournalGenre": "\n\t\t\t\t\t\t\tHauptaufträge\n\t\t\t\t\t\t",
+        "Url": "/lodestone/playguide/db/quest/8fe752d366d/",
+        "Image": "https://img.finalfantasyxiv.com/lds/pc/global/images/itemicon/ff/ff24c83cd559ce2d2444f1a743e46c5b5fb39fc5.png?n6.05",
+        "Icon": "function_normal",
+        "Issuer": "Besorgter Fischer",
+        "StartLocation": {
+            "Name": "Rubinsee",
+            "X": "6.8",
+            "Y": "13.3"
+        },
+        "StartClass": null,
+        "Job": "",
+        "Company": "Keine Angabe",
+        "Requirement": "Keine Angabe",
+        "Rewards": {
+            "Gil": 940,
+            "Exp": null,
+            "ItemsMand": [],
+            "ItemsOpt": []
+        },
+        "Infos": {
+            "PrerequisiteQuest": [
+                {
+                    "Name": "Die Befreier von Isari",
+                    "Url": "/lodestone/playguide/db/quest/d87d68f83e8/",
+                    "Area": "Rubinsee",
+                    "Level": "63"
+                }
+            ],
+            "FollowupQuest": [
+                {
+                    "Name": " Ein Wellengeneral schlägt Wellen",
+                    "Url": "/lodestone/playguide/db/quest/97de9dddf33/",
+                    "Area": "Rubinsee",
+                    "Level": "60"
+                }
+            ],
+            "RelatedNPC": [
+                {
+                    "Name": "Kabuto",
+                    "Url": "/lodestone/playguide/db/npc/npc/922209ba499/",
+                    "Area": "Rubinsee (X:34.5 Y:20.2)"
+                },
+                {
+                    "Name": "Muschelhelm-Kojin",
+                    "Url": "/lodestone/playguide/db/npc/npc/08774335371/",
+                    "Area": "Rubinsee (X:27.7 Y:30.8)"
+                },
+                {
+                    "Name": "Muschelhelm-Kojin",
+                    "Url": "/lodestone/playguide/db/npc/npc/876b8098400/",
+                    "Area": "Rubinsee (X:23.8 Y:32.7)"
+                },
+                {
+                    "Name": "Shihomi",
+                    "Url": "/lodestone/playguide/db/npc/npc/ab16a945053/",
+                    "Area": "Rubinsee (X:27.7 Y:30.8)"
+                }
+            ]
+        },
+        "Seq": 14,
+        "StartDependency": false
+    },
+    {
+        "ID": "91e029c93cd",
+        "Name": " Zoff auf Zekki",
+        "Location": "Rubinsee",
+        "Level": 60,
+        "JournalSection": 4,
+        "JournalCategory": 36,
+        "JournalGenre": "\n\t\t\t\t\t\t\tHauptaufträge\n\t\t\t\t\t\t",
+        "Url": "/lodestone/playguide/db/quest/91e029c93cd/",
+        "Image": "https://img.finalfantasyxiv.com/lds/pc/global/images/itemicon/75/75a05c0d1fb1f8323a2bcbc8371f36478f927c1b.png?n6.05",
+        "Icon": "function_normal",
+        "Issuer": "Kabuto",
+        "StartLocation": {
+            "Name": "Rubinsee",
+            "X": "29.4",
+            "Y": "16.5"
+        },
+        "StartClass": null,
+        "Job": "",
+        "Company": "Keine Angabe",
+        "Requirement": "Keine Angabe",
+        "Rewards": {
+            "Gil": 1135,
+            "Exp": null,
+            "ItemsMand": [],
+            "ItemsOpt": []
+        },
+        "Infos": {
+            "PrerequisiteQuest": [
+                {
+                    "Name": " Rotpanzer auf dem Vormarsch",
+                    "Url": "/lodestone/playguide/db/quest/2027759876a/",
+                    "Area": "Rubinsee",
+                    "Level": "60"
+                }
+            ],
+            "FollowupQuest": [
+                {
+                    "Name": " Tsuku-wer?",
+                    "Url": "/lodestone/playguide/db/quest/d59782ef216/",
+                    "Area": "Rubinsee",
+                    "Level": "60"
+                }
+            ],
+            "RelatedNPC": [
+                {
+                    "Name": "Bunchin",
+                    "Url": "/lodestone/playguide/db/npc/npc/8d3f9089f39/",
+                    "Area": "Rubinsee (X:27.8 Y:16.4)"
+                },
+                {
+                    "Name": "Enthusiastischer Blaupanzer",
+                    "Url": "/lodestone/playguide/db/npc/npc/dfcba3d290f/",
+                    "Area": "Rubinsee (X:28.0 Y:17.4)"
+                },
+                {
+                    "Name": "Kabuto",
+                    "Url": "/lodestone/playguide/db/npc/npc/87148b3f6f6/",
+                    "Area": "Rubinsee (X:28.0 Y:17.4)"
+                },
+                {
+                    "Name": "Kabuto",
+                    "Url": "/lodestone/playguide/db/npc/npc/ff99cee6f2c/",
+                    "Area": "Rubinsee (X:8.1 Y:26.8)"
+                }
+            ]
+        },
+        "Seq": 4,
+        "StartDependency": false
+    },
+    {
+        "ID": "9315c38cf29",
+        "Name": " Rochenfütterung",
+        "Location": "Rubinsee",
+        "Level": 60,
+        "JournalSection": 4,
+        "JournalCategory": 36,
+        "JournalGenre": "\n\t\t\t\t\t\t\tNebenaufträge\n\t\t\t\t\t\t",
+        "Url": "/lodestone/playguide/db/quest/9315c38cf29/",
+        "Image": null,
+        "Icon": "common_repeat",
+        "Issuer": "Zukin",
+        "StartLocation": {
+            "Name": "Rubinsee",
+            "X": "29.3",
+            "Y": "16.8"
+        },
+        "StartClass": null,
+        "Job": "",
+        "Company": "Keine Angabe",
+        "Requirement": "Keine Angabe",
+        "Rewards": {
+            "Gil": 615,
+            "Exp": null,
+            "ItemsMand": [],
+            "ItemsOpt": []
+        },
+        "Infos": {
+            "RelatedNPC": [
+                {
+                    "Name": "Makura",
+                    "Url": "/lodestone/playguide/db/npc/npc/538af947d67/",
+                    "Area": "Rubinsee (X:29.2 Y:16.3)"
+                }
+            ]
+        },
+        "Seq": 9,
+        "StartDependency": false
+    },
+    {
+        "ID": "97de9dddf33",
+        "Name": " Ein Wellengeneral schlägt Wellen",
+        "Location": "Rubinsee",
+        "Level": 60,
+        "JournalSection": 4,
+        "JournalCategory": 36,
+        "JournalGenre": "\n\t\t\t\t\t\t\tHauptaufträge\n\t\t\t\t\t\t",
+        "Url": "/lodestone/playguide/db/quest/97de9dddf33/",
+        "Image": "https://img.finalfantasyxiv.com/lds/pc/global/images/itemicon/b4/b471e63f0f05117ef64c7e4aed2118312ea41ee3.png?n6.05",
+        "Icon": "function_normal",
+        "Issuer": "Kabuto",
+        "StartLocation": {
+            "Name": "Rubinsee",
+            "X": "29.4",
+            "Y": "16.5"
+        },
+        "StartClass": null,
+        "Job": "",
+        "Company": "Keine Angabe",
+        "Requirement": "Keine Angabe",
+        "Rewards": {
+            "Gil": 1516,
+            "Exp": null,
+            "ItemsMand": [],
+            "ItemsOpt": []
+        },
+        "Infos": {
+            "PrerequisiteQuest": [
+                {
+                    "Name": " Die blaue Schatzkammer",
+                    "Url": "/lodestone/playguide/db/quest/8fe752d366d/",
+                    "Area": "Rubinsee",
+                    "Level": "60"
+                }
+            ],
+            "FollowupQuest": [
+                {
+                    "Name": " Der Wert der Freundschaft",
+                    "Url": "/lodestone/playguide/db/quest/638eb03979a/",
+                    "Area": "Rubinsee",
+                    "Level": "60"
+                }
+            ],
+            "RelatedNPC": [
+                {
+                    "Name": "Tsukumo",
+                    "Url": "/lodestone/playguide/db/npc/npc/6b1723f5c67/",
+                    "Area": "Rubinsee (X:29.4 Y:16.4)"
+                },
+                {
+                    "Name": "Eigenartiger Namazuo",
+                    "Url": "/lodestone/playguide/db/npc/npc/4d6160111b2/",
+                    "Area": "Yanxia (X:27.5 Y:36.1)"
+                },
+                {
+                    "Name": "Gesprächiger Bauer",
+                    "Url": "/lodestone/playguide/db/npc/npc/7e6205a6f06/",
+                    "Area": "Yanxia (X:30.7 Y:18.2)"
+                },
+                {
+                    "Name": "Gyokei",
+                    "Url": "/lodestone/playguide/db/npc/npc/b1b7d848627/",
+                    "Area": "Yanxia (X:27.5 Y:36.1)"
+                },
+                {
+                    "Name": "Kabuto",
+                    "Url": "/lodestone/playguide/db/npc/npc/18d30262183/",
+                    "Area": "Yanxia (X:30.7 Y:18.3)"
+                },
+                {
+                    "Name": "Kabuto",
+                    "Url": "/lodestone/playguide/db/npc/npc/8bd6bfa0658/",
+                    "Area": "Yanxia (X:24.4 Y:30.5)"
+                },
+                {
+                    "Name": "Kabuto",
+                    "Url": "/lodestone/playguide/db/npc/npc/dce2b01ada0/",
+                    "Area": "Yanxia (X:25.5 Y:35.6)"
+                },
+                {
+                    "Name": "Kabuto",
+                    "Url": "/lodestone/playguide/db/npc/npc/0ed7103b0aa/",
+                    "Area": "Yanxia (X:27.5 Y:36.1)"
+                },
+                {
+                    "Name": "Kabuto",
+                    "Url": "/lodestone/playguide/db/npc/npc/951958b9e9d/",
+                    "Area": "Yanxia (X:25.1 Y:32.5)"
+                },
+                {
+                    "Name": "Tsukumo",
+                    "Url": "/lodestone/playguide/db/npc/npc/bbcdcd30a20/",
+                    "Area": "Yanxia (X:30.7 Y:18.2)"
+                },
+                {
+                    "Name": "Tsukumo",
+                    "Url": "/lodestone/playguide/db/npc/npc/5e80abcb527/",
+                    "Area": "Yanxia (X:24.4 Y:30.5)"
+                },
+                {
+                    "Name": "Tsukumo",
+                    "Url": "/lodestone/playguide/db/npc/npc/f5aae52343e/",
+                    "Area": "Yanxia (X:25.5 Y:35.7)"
+                },
+                {
+                    "Name": "Tsukumo",
+                    "Url": "/lodestone/playguide/db/npc/npc/f1389773960/",
+                    "Area": "Yanxia (X:27.5 Y:36.1)"
+                }
+            ]
+        },
+        "Seq": 1,
+        "StartDependency": false
+    },
+    {
+        "ID": "ae6404692f3",
+        "Name": " Panzertöpfe",
+        "Location": "Rubinsee",
+        "Level": 60,
+        "JournalSection": 4,
+        "JournalCategory": 36,
+        "JournalGenre": "\n\t\t\t\t\t\t\tNebenaufträge\n\t\t\t\t\t\t",
+        "Url": "/lodestone/playguide/db/quest/ae6404692f3/",
+        "Image": null,
+        "Icon": "common_repeat",
+        "Issuer": "Zukin",
+        "StartLocation": {
+            "Name": "Rubinsee",
+            "X": "29.3",
+            "Y": "16.8"
+        },
+        "StartClass": null,
+        "Job": "",
+        "Company": "Keine Angabe",
+        "Requirement": "Keine Angabe",
+        "Rewards": {
+            "Gil": 550,
+            "Exp": null,
+            "ItemsMand": [],
+            "ItemsOpt": []
+        },
+        "Infos": {},
+        "Seq": 10,
+        "StartDependency": false
+    },
+    {
+        "ID": "bb447d28fc3",
+        "Name": " Nicht so schüchtern, Rochen",
+        "Location": "Rubinsee",
+        "Level": 60,
+        "JournalSection": 4,
+        "JournalCategory": 36,
+        "JournalGenre": "\n\t\t\t\t\t\t\tNebenaufträge\n\t\t\t\t\t\t",
+        "Url": "/lodestone/playguide/db/quest/bb447d28fc3/",
+        "Image": null,
+        "Icon": "common_repeat",
+        "Issuer": "Zukin",
+        "StartLocation": {
+            "Name": "Rubinsee",
+            "X": "29.3",
+            "Y": "16.8"
+        },
+        "StartClass": null,
+        "Job": "",
+        "Company": "Keine Angabe",
+        "Requirement": "Keine Angabe",
+        "Rewards": {
+            "Gil": 583,
+            "Exp": null,
+            "ItemsMand": [],
+            "ItemsOpt": []
+        },
+        "Infos": {
+            "RelatedNPC": [
+                {
+                    "Name": "Junger Streifenrochen",
+                    "Url": "/lodestone/playguide/db/npc/npc/29252c8bfed/",
+                    "Area": "Rubinsee (X:22.0 Y:20.9)"
+                },
+                {
+                    "Name": "Rochenflüsterer",
+                    "Url": "/lodestone/playguide/db/npc/npc/e3b2a571f34/",
+                    "Area": "Rubinsee (X:21.9 Y:21.0)"
+                }
+            ]
+        },
+        "Seq": 18,
+        "StartDependency": false
+    },
+    {
+        "ID": "bdcf81655f5",
+        "Name": " Handarbeit aus Isari",
+        "Location": "Rubinsee",
+        "Level": 60,
+        "JournalSection": 4,
+        "JournalCategory": 36,
+        "JournalGenre": "\n\t\t\t\t\t\t\tNebenaufträge\n\t\t\t\t\t\t",
+        "Url": "/lodestone/playguide/db/quest/bdcf81655f5/",
+        "Image": null,
+        "Icon": "common_repeat",
+        "Issuer": "Zukin",
+        "StartLocation": {
+            "Name": "Rubinsee",
+            "X": "29.3",
+            "Y": "16.8"
+        },
+        "StartClass": null,
+        "Job": "",
+        "Company": "Keine Angabe",
+        "Requirement": "Keine Angabe",
+        "Rewards": {
+            "Gil": 550,
+            "Exp": null,
+            "ItemsMand": [],
+            "ItemsOpt": []
+        },
+        "Infos": {
+            "RelatedNPC": [
+                {
+                    "Name": "Alter Fischer aus Isari",
+                    "Url": "/lodestone/playguide/db/npc/npc/caf689ef31c/",
+                    "Area": "Rubinsee (X:5.5 Y:12.1)"
+                },
+                {
+                    "Name": "Alter Fischer aus Isari",
+                    "Url": "/lodestone/playguide/db/npc/npc/d30df6952cf/",
+                    "Area": "Rubinsee (X:6.4 Y:11.8)"
+                },
+                {
+                    "Name": "Drechslerin aus Isari",
+                    "Url": "/lodestone/playguide/db/npc/npc/f838322ee02/",
+                    "Area": "Rubinsee (X:5.6 Y:12.5)"
+                },
+                {
+                    "Name": "Drechslerin aus Isari",
+                    "Url": "/lodestone/playguide/db/npc/npc/cfc0ff912b2/",
+                    "Area": "Rubinsee (X:6.1 Y:12.6)"
+                },
+                {
+                    "Name": "Korbmacher aus Isari",
+                    "Url": "/lodestone/playguide/db/npc/npc/df3cb5e210a/",
+                    "Area": "Rubinsee (X:5.7 Y:12.3)"
+                },
+                {
+                    "Name": "Korbmacher aus Isari",
+                    "Url": "/lodestone/playguide/db/npc/npc/5a698ff985d/",
+                    "Area": "Rubinsee (X:5.5 Y:13.1)"
+                }
+            ]
+        },
+        "Seq": 20,
+        "StartDependency": false
+    },
+    {
+        "ID": "cc6ae55758e",
+        "Name": " Muschelsprengung",
+        "Location": "Rubinsee",
+        "Level": 60,
+        "JournalSection": 4,
+        "JournalCategory": 36,
+        "JournalGenre": "\n\t\t\t\t\t\t\tNebenaufträge\n\t\t\t\t\t\t",
+        "Url": "/lodestone/playguide/db/quest/cc6ae55758e/",
+        "Image": null,
+        "Icon": "common_repeat",
+        "Issuer": "Zukin",
+        "StartLocation": {
+            "Name": "Rubinsee",
+            "X": "29.3",
+            "Y": "16.8"
+        },
+        "StartClass": null,
+        "Job": "",
+        "Company": "Keine Angabe",
+        "Requirement": "Keine Angabe",
+        "Rewards": {
+            "Gil": 680,
+            "Exp": null,
+            "ItemsMand": [],
+            "ItemsOpt": []
+        },
+        "Infos": {
+            "RelatedNPC": [
+                {
+                    "Name": "Blaupanzer-Muschelsammler",
+                    "Url": "/lodestone/playguide/db/npc/npc/7fd5dc9b338/",
+                    "Area": "Rubinsee (X:35.7 Y:24.2)"
+                }
+            ]
+        },
+        "Seq": 22,
+        "StartDependency": false
+    },
+    {
+        "ID": "d4749f955bb",
+        "Name": " Vergesslicher Händler",
+        "Location": "Rubinsee",
+        "Level": 60,
+        "JournalSection": 4,
+        "JournalCategory": 36,
+        "JournalGenre": "\n\t\t\t\t\t\t\tNebenaufträge\n\t\t\t\t\t\t",
+        "Url": "/lodestone/playguide/db/quest/d4749f955bb/",
+        "Image": null,
+        "Icon": "common_repeat",
+        "Issuer": "Zukin",
+        "StartLocation": {
+            "Name": "Rubinsee",
+            "X": "29.3",
+            "Y": "16.8"
+        },
+        "StartClass": null,
+        "Job": "",
+        "Company": "Keine Angabe",
+        "Requirement": "Keine Angabe",
+        "Rewards": {
+            "Gil": 615,
+            "Exp": null,
+            "ItemsMand": [],
+            "ItemsOpt": []
+        },
+        "Infos": {
+            "RelatedNPC": [
+                {
+                    "Name": "Betagter Kojin",
+                    "Url": "/lodestone/playguide/db/npc/npc/e96b3e6a6e0/",
+                    "Area": "Rubinsee (X:24.2 Y:9.9)"
+                },
+                {
+                    "Name": "Langhaarige Piratin",
+                    "Url": "/lodestone/playguide/db/npc/npc/f034b13bd54/",
+                    "Area": "Rubinsee (X:21.2 Y:9.0)"
+                },
+                {
+                    "Name": "Langhaarige Piratin",
+                    "Url": "/lodestone/playguide/db/npc/npc/7413bb47857/",
+                    "Area": "Rubinsee (X:22.3 Y:9.0)"
+                },
+                {
+                    "Name": "Langhaariger Pirat",
+                    "Url": "/lodestone/playguide/db/npc/npc/36f2b1514d5/",
+                    "Area": "Rubinsee (X:22.0 Y:10.8)"
+                }
+            ]
+        },
+        "Seq": 14,
+        "StartDependency": false
+    },
+    {
+        "ID": "d59782ef216",
+        "Name": " Tsuku-wer?",
+        "Location": "Rubinsee",
+        "Level": 60,
+        "JournalSection": 4,
+        "JournalCategory": 36,
+        "JournalGenre": "\n\t\t\t\t\t\t\tHauptaufträge\n\t\t\t\t\t\t",
+        "Url": "/lodestone/playguide/db/quest/d59782ef216/",
+        "Image": "https://img.finalfantasyxiv.com/lds/pc/global/images/itemicon/f5/f5cb1d838d389796c7ef03b2cd6821ea83436652.png?n6.05",
+        "Icon": "function_normal",
+        "Issuer": "Kabuto",
+        "StartLocation": {
+            "Name": "Rubinsee",
+            "X": "29.4",
+            "Y": "16.5"
+        },
+        "StartClass": null,
+        "Job": "",
+        "Company": "Keine Angabe",
+        "Requirement": "Keine Angabe",
+        "Rewards": {
+            "Gil": 1950,
+            "Exp": null,
+            "ItemsMand": [],
+            "ItemsOpt": []
+        },
+        "Infos": {
+            "PrerequisiteQuest": [
+                {
+                    "Name": " Zoff auf Zekki",
+                    "Url": "/lodestone/playguide/db/quest/91e029c93cd/",
+                    "Area": "Rubinsee",
                     "Level": "60"
                 }
             ],
@@ -3156,185 +1208,71 @@
             ],
             "RelatedNPC": [
                 {
-                    "Name": "Cirina",
-                    "Url": "/lodestone/playguide/db/npc/npc/077102a4b03/",
-                    "Area": "Azim-Steppe (X:31.4 Y:11.3)"
+                    "Name": "Kabuto",
+                    "Url": "/lodestone/playguide/db/npc/npc/80db9d81965/",
+                    "Area": "Azim-Steppe (X:32.1 Y:27.8)"
                 },
                 {
-                    "Name": "Gyorei",
-                    "Url": "/lodestone/playguide/db/npc/npc/30c3f1b050a/",
-                    "Area": "Azim-Steppe (X:5.8 Y:23.5)"
+                    "Name": "Uchikin",
+                    "Url": "/lodestone/playguide/db/npc/npc/9896c47959e/",
+                    "Area": "Azim-Steppe (X:32.1 Y:27.8)"
                 },
                 {
-                    "Name": "Gyoshin",
-                    "Url": "/lodestone/playguide/db/npc/npc/738575252fa/",
-                    "Area": "Azim-Steppe (X:31.4 Y:11.3)"
+                    "Name": "Vater von Uchikin",
+                    "Url": "/lodestone/playguide/db/npc/npc/a6a270660bd/",
+                    "Area": "Azim-Steppe (X:32.1 Y:27.8)"
                 },
                 {
-                    "Name": "Gyoshin",
-                    "Url": "/lodestone/playguide/db/npc/npc/614f6bb4371/",
-                    "Area": "Azim-Steppe (X:20.7 Y:22.7)"
+                    "Name": "Bunchin",
+                    "Url": "/lodestone/playguide/db/npc/npc/8d3f9089f39/",
+                    "Area": "Rubinsee (X:27.8 Y:16.4)"
                 },
                 {
-                    "Name": "Gyoshin",
-                    "Url": "/lodestone/playguide/db/npc/npc/15652258178/",
-                    "Area": "Azim-Steppe (X:12.5 Y:34.0)"
+                    "Name": "Kabuto",
+                    "Url": "/lodestone/playguide/db/npc/npc/16ebfe1471b/",
+                    "Area": "Rubinsee (X:27.9 Y:16.4)"
                 },
                 {
-                    "Name": "Gyoshin",
-                    "Url": "/lodestone/playguide/db/npc/npc/ab221b27c35/",
-                    "Area": "Azim-Steppe (X:5.6 Y:23.9)"
+                    "Name": "Gyokei",
+                    "Url": "/lodestone/playguide/db/npc/npc/9e1b6c3621f/",
+                    "Area": "Yanxia (X:16.0 Y:31.2)"
                 },
                 {
-                    "Name": "Magnai",
-                    "Url": "/lodestone/playguide/db/npc/npc/89c029f2d8a/",
-                    "Area": "Azim-Steppe (X:20.6 Y:22.7)"
+                    "Name": "Kabuto",
+                    "Url": "/lodestone/playguide/db/npc/npc/327be3fff60/",
+                    "Area": "Yanxia (X:15.9 Y:31.3)"
                 },
                 {
-                    "Name": "Sadu",
-                    "Url": "/lodestone/playguide/db/npc/npc/2b121b486a0/",
-                    "Area": "Azim-Steppe (X:12.5 Y:34.1)"
+                    "Name": "Kabuto",
+                    "Url": "/lodestone/playguide/db/npc/npc/a32e5171b03/",
+                    "Area": "Kugane (X:8.6 Y:14.8)"
+                },
+                {
+                    "Name": "Shihomi",
+                    "Url": "/lodestone/playguide/db/npc/npc/6676988e415/",
+                    "Area": "Kugane (X:8.6 Y:14.9)"
                 }
             ]
         },
-        "Seq": 6,
-        "oldID": 68638,
-        "Map": {
-            "ID": 372
-        },
+        "Seq": 5,
         "StartDependency": false
     },
     {
-        "ID": "d5db4b1a1f3",
-        "Name": " Fffestmahl für die Dotharl",
-        "Location": "Azim-Steppe",
+        "ID": "dca46b35b2d",
+        "Name": " Schatzsauger",
+        "Location": "Rubinsee",
         "Level": 60,
         "JournalSection": 4,
         "JournalCategory": 36,
         "JournalGenre": "\n\t\t\t\t\t\t\tNebenaufträge\n\t\t\t\t\t\t",
-        "Url": "/lodestone/playguide/db/quest/d5db4b1a1f3/",
+        "Url": "/lodestone/playguide/db/quest/dca46b35b2d/",
         "Image": null,
         "Icon": "common_repeat",
-        "Issuer": "Seigetsu",
+        "Issuer": "Zukin",
         "StartLocation": {
-            "Name": "Azim-Steppe",
-            "X": "5.8",
-            "Y": "23.4"
-        },
-        "StartClass": null,
-        "Job": "",
-        "Company": "Keine Angabe",
-        "Requirement": "Keine Angabe",
-        "Rewards": {
-            "Gil": 615,
-            "Exp": null,
-            "ItemsMand": [
-                {
-                    "Icon": "https://img.finalfantasyxiv.com/lds/pc/global/images/itemicon/0d/0dd4af1f23b8f1d782bacfb905a67b491688414c.png?n5.55",
-                    "Name": "Windkristall",
-                    "Amount": 20,
-                    "Url": "/lodestone/playguide/db/item/5db117cd77b/"
-                },
-                {
-                    "Icon": "https://img.finalfantasyxiv.com/lds/pc/global/images/itemicon/d9/d9a4b77a07bb95bf2713ae233a0eececdf211e8b.png?n5.55",
-                    "Name": "Feuerkristall",
-                    "Amount": 20,
-                    "Url": "/lodestone/playguide/db/item/75403105d7f/"
-                },
-                {
-                    "Icon": "https://img.finalfantasyxiv.com/lds/pc/global/images/itemicon/a7/a71da2eb489188dbbfadd582938a0e761a9a0585.png?n5.55",
-                    "Name": "Eiskristall",
-                    "Amount": 20,
-                    "Url": "/lodestone/playguide/db/item/2d800a06851/"
-                },
-                {
-                    "Icon": "https://img.finalfantasyxiv.com/lds/pc/global/images/itemicon/0d/0dd4af1f23b8f1d782bacfb905a67b491688414c.png?n5.55",
-                    "Name": "Windkristall",
-                    "Amount": 20,
-                    "Url": "/lodestone/playguide/db/item/5db117cd77b/"
-                },
-                {
-                    "Icon": "https://img.finalfantasyxiv.com/lds/pc/global/images/itemicon/16/16cd107e2bd1c45cee59e6b96ef02f2f6f68eac5.png?n5.55",
-                    "Name": "Erdkristall",
-                    "Amount": 20,
-                    "Url": "/lodestone/playguide/db/item/ff6eae7bdcb/"
-                },
-                {
-                    "Icon": "https://img.finalfantasyxiv.com/lds/pc/global/images/itemicon/5d/5dd42eb2385a5e0d158b8fa81b63a09e4b25c821.png?n5.55",
-                    "Name": "Blitzkristall",
-                    "Amount": 20,
-                    "Url": "/lodestone/playguide/db/item/b21a951916e/"
-                },
-                {
-                    "Icon": "https://img.finalfantasyxiv.com/lds/pc/global/images/itemicon/b5/b5eb0d9131d8f735a91286bdf2f877f0495e8235.png?n5.55",
-                    "Name": "Wasserkristall",
-                    "Amount": 20,
-                    "Url": "/lodestone/playguide/db/item/44d3f4cb26b/"
-                },
-                {
-                    "Icon": "https://img.finalfantasyxiv.com/lds/pc/global/images/itemicon/d9/d9a4b77a07bb95bf2713ae233a0eececdf211e8b.png?n5.55",
-                    "Name": "Feuerkristall",
-                    "Amount": 20,
-                    "Url": "/lodestone/playguide/db/item/75403105d7f/"
-                },
-                {
-                    "Icon": "https://img.finalfantasyxiv.com/lds/pc/global/images/itemicon/d9/d9beff495b00ab597dbd0b268530571d803e6a2d.png?n5.55",
-                    "Name": "Kräutertrank",
-                    "Amount": null,
-                    "Url": "/lodestone/playguide/db/item/2ff3e7e028c/"
-                },
-                {
-                    "Icon": "https://img.finalfantasyxiv.com/lds/pc/global/images/itemicon/d9/d9beff495b00ab597dbd0b268530571d803e6a2d.png?n5.55",
-                    "Name": "Kräutertrank",
-                    "Amount": null,
-                    "Url": "/lodestone/playguide/db/item/2ff3e7e028c/"
-                },
-                {
-                    "Icon": "https://img.finalfantasyxiv.com/lds/pc/global/images/itemicon/d9/d9beff495b00ab597dbd0b268530571d803e6a2d.png?n5.55",
-                    "Name": "Kräutertrank",
-                    "Amount": null,
-                    "Url": "/lodestone/playguide/db/item/2ff3e7e028c/"
-                }
-            ],
-            "ItemsOpt": []
-        },
-        "Infos": {
-            "RelatedNPC": [
-                {
-                    "Name": "Materialkiste",
-                    "Url": "/lodestone/playguide/db/npc/npc/1734d3eccb1/",
-                    "Area": "Azim-Steppe (X:23.2 Y:34.5)"
-                },
-                {
-                    "Name": "Namazuo-Meisterkoch",
-                    "Url": "/lodestone/playguide/db/npc/npc/f98ff324ce3/",
-                    "Area": "Azim-Steppe (X:23.2 Y:34.5)"
-                }
-            ]
-        },
-        "Seq": 29,
-        "oldID": 68662,
-        "Map": {
-            "ID": 372
-        },
-        "StartDependency": false
-    },
-    {
-        "ID": "ecab3e4a2c7",
-        "Name": " Wenn er fffällt, dann schreit er",
-        "Location": "Azim-Steppe",
-        "Level": 60,
-        "JournalSection": 4,
-        "JournalCategory": 36,
-        "JournalGenre": "\n\t\t\t\t\t\t\tNebenaufträge\n\t\t\t\t\t\t",
-        "Url": "/lodestone/playguide/db/quest/ecab3e4a2c7/",
-        "Image": null,
-        "Icon": "common_repeat",
-        "Issuer": "Seigetsu",
-        "StartLocation": {
-            "Name": "Azim-Steppe",
-            "X": "5.8",
-            "Y": "23.4"
+            "Name": "Rubinsee",
+            "X": "29.3",
+            "Y": "16.8"
         },
         "StartClass": null,
         "Job": "",
@@ -3349,155 +1287,93 @@
         "Infos": {
             "RelatedNPC": [
                 {
-                    "Name": "Mol-Pferdewart",
-                    "Url": "/lodestone/playguide/db/npc/npc/a3d26b362bb/",
-                    "Area": "Azim-Steppe (X:16.8 Y:14.8)"
-                },
-                {
-                    "Name": "Namazuo-Pferdefreund",
-                    "Url": "/lodestone/playguide/db/npc/npc/d13d9c3e71d/",
-                    "Area": "Azim-Steppe (X:9.2 Y:24.2)"
+                    "Name": "Makura",
+                    "Url": "/lodestone/playguide/db/npc/npc/538af947d67/",
+                    "Area": "Rubinsee (X:29.2 Y:16.3)"
                 }
             ]
         },
-        "Seq": 27,
-        "oldID": 68654,
-        "Map": {
-            "ID": 372
-        },
+        "Seq": 17,
         "StartDependency": false
     },
     {
-        "ID": "f41e68b8c6d",
-        "Name": " Eine Ffflosse wäscht die andere",
-        "Location": "Azim-Steppe",
+        "ID": "e332b2ad56b",
+        "Name": " Bittere Lektion",
+        "Location": "Rubinsee",
         "Level": 60,
         "JournalSection": 4,
         "JournalCategory": 36,
         "JournalGenre": "\n\t\t\t\t\t\t\tNebenaufträge\n\t\t\t\t\t\t",
-        "Url": "/lodestone/playguide/db/quest/f41e68b8c6d/",
+        "Url": "/lodestone/playguide/db/quest/e332b2ad56b/",
         "Image": null,
         "Icon": "common_repeat",
-        "Issuer": "Seigetsu",
+        "Issuer": "Zukin",
         "StartLocation": {
-            "Name": "Azim-Steppe",
-            "X": "5.8",
-            "Y": "23.4"
+            "Name": "Rubinsee",
+            "X": "29.3",
+            "Y": "16.8"
         },
         "StartClass": null,
         "Job": "",
         "Company": "Keine Angabe",
         "Requirement": "Keine Angabe",
         "Rewards": {
-            "Gil": 680,
+            "Gil": 550,
             "Exp": null,
-            "ItemsMand": [
-                {
-                    "Icon": "https://img.finalfantasyxiv.com/lds/pc/global/images/itemicon/0d/0dd4af1f23b8f1d782bacfb905a67b491688414c.png?n5.55",
-                    "Name": "Windkristall",
-                    "Amount": 20,
-                    "Url": "/lodestone/playguide/db/item/5db117cd77b/"
-                },
-                {
-                    "Icon": "https://img.finalfantasyxiv.com/lds/pc/global/images/itemicon/d9/d9a4b77a07bb95bf2713ae233a0eececdf211e8b.png?n5.55",
-                    "Name": "Feuerkristall",
-                    "Amount": 20,
-                    "Url": "/lodestone/playguide/db/item/75403105d7f/"
-                },
-                {
-                    "Icon": "https://img.finalfantasyxiv.com/lds/pc/global/images/itemicon/a7/a71da2eb489188dbbfadd582938a0e761a9a0585.png?n5.55",
-                    "Name": "Eiskristall",
-                    "Amount": 20,
-                    "Url": "/lodestone/playguide/db/item/2d800a06851/"
-                },
-                {
-                    "Icon": "https://img.finalfantasyxiv.com/lds/pc/global/images/itemicon/0d/0dd4af1f23b8f1d782bacfb905a67b491688414c.png?n5.55",
-                    "Name": "Windkristall",
-                    "Amount": 20,
-                    "Url": "/lodestone/playguide/db/item/5db117cd77b/"
-                },
-                {
-                    "Icon": "https://img.finalfantasyxiv.com/lds/pc/global/images/itemicon/16/16cd107e2bd1c45cee59e6b96ef02f2f6f68eac5.png?n5.55",
-                    "Name": "Erdkristall",
-                    "Amount": 20,
-                    "Url": "/lodestone/playguide/db/item/ff6eae7bdcb/"
-                },
-                {
-                    "Icon": "https://img.finalfantasyxiv.com/lds/pc/global/images/itemicon/5d/5dd42eb2385a5e0d158b8fa81b63a09e4b25c821.png?n5.55",
-                    "Name": "Blitzkristall",
-                    "Amount": 20,
-                    "Url": "/lodestone/playguide/db/item/b21a951916e/"
-                },
-                {
-                    "Icon": "https://img.finalfantasyxiv.com/lds/pc/global/images/itemicon/b5/b5eb0d9131d8f735a91286bdf2f877f0495e8235.png?n5.55",
-                    "Name": "Wasserkristall",
-                    "Amount": 20,
-                    "Url": "/lodestone/playguide/db/item/44d3f4cb26b/"
-                },
-                {
-                    "Icon": "https://img.finalfantasyxiv.com/lds/pc/global/images/itemicon/d9/d9a4b77a07bb95bf2713ae233a0eececdf211e8b.png?n5.55",
-                    "Name": "Feuerkristall",
-                    "Amount": 20,
-                    "Url": "/lodestone/playguide/db/item/75403105d7f/"
-                },
-                {
-                    "Icon": "https://img.finalfantasyxiv.com/lds/pc/global/images/itemicon/d9/d9beff495b00ab597dbd0b268530571d803e6a2d.png?n5.55",
-                    "Name": "Kräutertrank",
-                    "Amount": null,
-                    "Url": "/lodestone/playguide/db/item/2ff3e7e028c/"
-                },
-                {
-                    "Icon": "https://img.finalfantasyxiv.com/lds/pc/global/images/itemicon/d9/d9beff495b00ab597dbd0b268530571d803e6a2d.png?n5.55",
-                    "Name": "Kräutertrank",
-                    "Amount": null,
-                    "Url": "/lodestone/playguide/db/item/2ff3e7e028c/"
-                },
-                {
-                    "Icon": "https://img.finalfantasyxiv.com/lds/pc/global/images/itemicon/d9/d9beff495b00ab597dbd0b268530571d803e6a2d.png?n5.55",
-                    "Name": "Kräutertrank",
-                    "Amount": null,
-                    "Url": "/lodestone/playguide/db/item/2ff3e7e028c/"
-                }
-            ],
+            "ItemsMand": [],
             "ItemsOpt": []
         },
-        "Infos": {
-            "RelatedNPC": [
-                {
-                    "Name": "Gyorin",
-                    "Url": "/lodestone/playguide/db/npc/npc/045692b537a/",
-                    "Area": "Azim-Steppe (X:32.9 Y:30.0)"
-                },
-                {
-                    "Name": "Materialkiste",
-                    "Url": "/lodestone/playguide/db/npc/npc/8218690aeee/",
-                    "Area": "Azim-Steppe (X:32.9 Y:30.0)"
-                }
-            ]
-        },
-        "Seq": 14,
-        "oldID": 68646,
-        "Map": {
-            "ID": 372
-        },
+        "Infos": {},
+        "Seq": 29,
         "StartDependency": false
     },
     {
-        "ID": "fce2567ed72",
-        "Name": " Ohne Netz und doppelten Boden",
-        "Location": "Azim-Steppe",
+        "ID": "e59b7bf30e4",
+        "Name": " Sicherung des Höllenspunds",
+        "Location": "Rubinsee",
         "Level": 60,
         "JournalSection": 4,
         "JournalCategory": 36,
         "JournalGenre": "\n\t\t\t\t\t\t\tNebenaufträge\n\t\t\t\t\t\t",
-        "Url": "/lodestone/playguide/db/quest/fce2567ed72/",
+        "Url": "/lodestone/playguide/db/quest/e59b7bf30e4/",
         "Image": null,
         "Icon": "common_repeat",
-        "Issuer": "Seigetsu",
+        "Issuer": "Zukin",
         "StartLocation": {
-            "Name": "Azim-Steppe",
-            "X": "5.8",
-            "Y": "23.4"
+            "Name": "Rubinsee",
+            "X": "29.3",
+            "Y": "16.8"
+        },
+        "StartClass": null,
+        "Job": "",
+        "Company": "Keine Angabe",
+        "Requirement": "Keine Angabe",
+        "Rewards": {
+            "Gil": 550,
+            "Exp": null,
+            "ItemsMand": [],
+            "ItemsOpt": []
+        },
+        "Infos": {},
+        "Seq": 16,
+        "StartDependency": false
+    },
+    {
+        "ID": "ee9a800535f",
+        "Name": " Perlenhandel",
+        "Location": "Rubinsee",
+        "Level": 60,
+        "JournalSection": 4,
+        "JournalCategory": 36,
+        "JournalGenre": "\n\t\t\t\t\t\t\tNebenaufträge\n\t\t\t\t\t\t",
+        "Url": "/lodestone/playguide/db/quest/ee9a800535f/",
+        "Image": null,
+        "Icon": "common_repeat",
+        "Issuer": "Zukin",
+        "StartLocation": {
+            "Name": "Rubinsee",
+            "X": "29.3",
+            "Y": "16.8"
         },
         "StartClass": null,
         "Job": "",
@@ -3506,110 +1382,97 @@
         "Rewards": {
             "Gil": 615,
             "Exp": null,
-            "ItemsMand": [
-                {
-                    "Icon": "https://img.finalfantasyxiv.com/lds/pc/global/images/itemicon/0d/0dd4af1f23b8f1d782bacfb905a67b491688414c.png?n5.55",
-                    "Name": "Windkristall",
-                    "Amount": 20,
-                    "Url": "/lodestone/playguide/db/item/5db117cd77b/"
-                },
-                {
-                    "Icon": "https://img.finalfantasyxiv.com/lds/pc/global/images/itemicon/d9/d9a4b77a07bb95bf2713ae233a0eececdf211e8b.png?n5.55",
-                    "Name": "Feuerkristall",
-                    "Amount": 20,
-                    "Url": "/lodestone/playguide/db/item/75403105d7f/"
-                },
-                {
-                    "Icon": "https://img.finalfantasyxiv.com/lds/pc/global/images/itemicon/a7/a71da2eb489188dbbfadd582938a0e761a9a0585.png?n5.55",
-                    "Name": "Eiskristall",
-                    "Amount": 20,
-                    "Url": "/lodestone/playguide/db/item/2d800a06851/"
-                },
-                {
-                    "Icon": "https://img.finalfantasyxiv.com/lds/pc/global/images/itemicon/0d/0dd4af1f23b8f1d782bacfb905a67b491688414c.png?n5.55",
-                    "Name": "Windkristall",
-                    "Amount": 20,
-                    "Url": "/lodestone/playguide/db/item/5db117cd77b/"
-                },
-                {
-                    "Icon": "https://img.finalfantasyxiv.com/lds/pc/global/images/itemicon/16/16cd107e2bd1c45cee59e6b96ef02f2f6f68eac5.png?n5.55",
-                    "Name": "Erdkristall",
-                    "Amount": 20,
-                    "Url": "/lodestone/playguide/db/item/ff6eae7bdcb/"
-                },
-                {
-                    "Icon": "https://img.finalfantasyxiv.com/lds/pc/global/images/itemicon/5d/5dd42eb2385a5e0d158b8fa81b63a09e4b25c821.png?n5.55",
-                    "Name": "Blitzkristall",
-                    "Amount": 20,
-                    "Url": "/lodestone/playguide/db/item/b21a951916e/"
-                },
-                {
-                    "Icon": "https://img.finalfantasyxiv.com/lds/pc/global/images/itemicon/b5/b5eb0d9131d8f735a91286bdf2f877f0495e8235.png?n5.55",
-                    "Name": "Wasserkristall",
-                    "Amount": 20,
-                    "Url": "/lodestone/playguide/db/item/44d3f4cb26b/"
-                },
-                {
-                    "Icon": "https://img.finalfantasyxiv.com/lds/pc/global/images/itemicon/d9/d9a4b77a07bb95bf2713ae233a0eececdf211e8b.png?n5.55",
-                    "Name": "Feuerkristall",
-                    "Amount": 20,
-                    "Url": "/lodestone/playguide/db/item/75403105d7f/"
-                },
-                {
-                    "Icon": "https://img.finalfantasyxiv.com/lds/pc/global/images/itemicon/d9/d9beff495b00ab597dbd0b268530571d803e6a2d.png?n5.55",
-                    "Name": "Kräutertrank",
-                    "Amount": null,
-                    "Url": "/lodestone/playguide/db/item/2ff3e7e028c/"
-                },
-                {
-                    "Icon": "https://img.finalfantasyxiv.com/lds/pc/global/images/itemicon/d9/d9beff495b00ab597dbd0b268530571d803e6a2d.png?n5.55",
-                    "Name": "Kräutertrank",
-                    "Amount": null,
-                    "Url": "/lodestone/playguide/db/item/2ff3e7e028c/"
-                },
-                {
-                    "Icon": "https://img.finalfantasyxiv.com/lds/pc/global/images/itemicon/d9/d9beff495b00ab597dbd0b268530571d803e6a2d.png?n5.55",
-                    "Name": "Kräutertrank",
-                    "Amount": null,
-                    "Url": "/lodestone/playguide/db/item/2ff3e7e028c/"
-                }
-            ],
+            "ItemsMand": [],
             "ItemsOpt": []
         },
         "Infos": {
             "RelatedNPC": [
                 {
-                    "Name": "Materialkiste",
-                    "Url": "/lodestone/playguide/db/npc/npc/ed18d56979e/",
-                    "Area": "Azim-Steppe (X:23.3 Y:24.3)"
-                },
-                {
-                    "Name": "Ängstlicher Namazuo",
-                    "Url": "/lodestone/playguide/db/npc/npc/ca08b460462/",
-                    "Area": "Azim-Steppe (X:25.4 Y:22.3)"
-                },
-                {
-                    "Name": "Ängstlicher Namazuo",
-                    "Url": "/lodestone/playguide/db/npc/npc/b876cc02966/",
-                    "Area": "Azim-Steppe (X:23.3 Y:24.3)"
-                },
-                {
-                    "Name": "Ängstlicher Namazuo",
-                    "Url": "/lodestone/playguide/db/npc/npc/8daabff01e5/",
-                    "Area": "Azim-Steppe (X:21.4 Y:25.9)"
-                },
-                {
-                    "Name": "Ängstlicher Namazuo",
-                    "Url": "/lodestone/playguide/db/npc/npc/88316410122/",
-                    "Area": "Azim-Steppe (X:18.5 Y:26.2)"
+                    "Name": "Kontorist der Ostaldenard-HG",
+                    "Url": "/lodestone/playguide/db/npc/npc/6ad1027e85f/",
+                    "Area": "Rubinsee (X:38.9 Y:38.5)"
                 }
             ]
         },
-        "Seq": 33,
-        "oldID": 68661,
-        "Map": {
-            "ID": 372
+        "Seq": 7,
+        "StartDependency": false
+    },
+    {
+        "ID": "fdfe6d4776d",
+        "Name": " Der Gestank der Niederlage",
+        "Location": "Rubinsee",
+        "Level": 60,
+        "JournalSection": 4,
+        "JournalCategory": 36,
+        "JournalGenre": "\n\t\t\t\t\t\t\tNebenaufträge\n\t\t\t\t\t\t",
+        "Url": "/lodestone/playguide/db/quest/fdfe6d4776d/",
+        "Image": null,
+        "Icon": "common_repeat",
+        "Issuer": "Zukin",
+        "StartLocation": {
+            "Name": "Rubinsee",
+            "X": "29.3",
+            "Y": "16.8"
         },
+        "StartClass": null,
+        "Job": "",
+        "Company": "Keine Angabe",
+        "Requirement": "Keine Angabe",
+        "Rewards": {
+            "Gil": 680,
+            "Exp": null,
+            "ItemsMand": [],
+            "ItemsOpt": []
+        },
+        "Infos": {
+            "RelatedNPC": [
+                {
+                    "Name": "Mürrische Kojin",
+                    "Url": "/lodestone/playguide/db/npc/npc/4f837c3a757/",
+                    "Area": "Rubinsee (X:35.5 Y:20.9)"
+                }
+            ]
+        },
+        "Seq": 6,
+        "StartDependency": false
+    },
+    {
+        "ID": "ff41d6a5203",
+        "Name": " Kaviar macht Freunde",
+        "Location": "Rubinsee",
+        "Level": 60,
+        "JournalSection": 4,
+        "JournalCategory": 36,
+        "JournalGenre": "\n\t\t\t\t\t\t\tNebenaufträge\n\t\t\t\t\t\t",
+        "Url": "/lodestone/playguide/db/quest/ff41d6a5203/",
+        "Image": null,
+        "Icon": "common_repeat",
+        "Issuer": "Zukin",
+        "StartLocation": {
+            "Name": "Rubinsee",
+            "X": "29.3",
+            "Y": "16.8"
+        },
+        "StartClass": null,
+        "Job": "",
+        "Company": "Keine Angabe",
+        "Requirement": "Keine Angabe",
+        "Rewards": {
+            "Gil": 615,
+            "Exp": null,
+            "ItemsMand": [],
+            "ItemsOpt": []
+        },
+        "Infos": {
+            "RelatedNPC": [
+                {
+                    "Name": "Koch der Rubin-Seefestung",
+                    "Url": "/lodestone/playguide/db/npc/npc/388d162ad58/",
+                    "Area": "Rubinsee (X:37.9 Y:38.8)"
+                }
+            ]
+        },
+        "Seq": 25,
         "StartDependency": false
     }
 ]

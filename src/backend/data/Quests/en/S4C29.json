@@ -1,20 +1,20 @@
 [
     {
-        "ID": "0107dd8f66c",
-        "Name": "Plunder Fire",
-        "Location": "Western La Noscea",
+        "ID": "0dca0014514",
+        "Name": "Mist Opportunities",
+        "Location": "East Shroud",
         "Level": 48,
         "JournalSection": 4,
         "JournalCategory": 29,
         "JournalGenre": "\n\t\t\t\t\t\t\tDaily Quests\n\t\t\t\t\t\t",
-        "Url": "/lodestone/playguide/db/quest/0107dd8f66c/",
+        "Url": "/lodestone/playguide/db/quest/0dca0014514/",
         "Image": null,
         "Icon": "common_repeat",
-        "Issuer": "Seww",
+        "Issuer": "Moxia",
         "StartLocation": {
-            "Name": "Western La Noscea",
-            "X": "16.9",
-            "Y": "22.6"
+            "Name": "East Shroud",
+            "X": "22.4",
+            "Y": "26.5"
         },
         "StartClass": null,
         "Job": "",
@@ -22,1294 +22,88 @@
         "Requirement": "Not specified",
         "Rewards": {
             "Gil": 780,
-            "Exp": 10473,
+            "Exp": 5130,
             "ItemsMand": [],
             "ItemsOpt": [
                 {
-                    "Icon": "https://img.finalfantasyxiv.com/lds/pc/global/images/itemicon/59/591709d485ebd155ba018c8cd773fe3c662caed3.png?n5.55",
-                    "Name": "Piety Materia IV",
-                    "Amount": 1,
-                    "Url": "/lodestone/playguide/db/item/905d47601dd/"
-                },
-                {
-                    "Icon": "https://img.finalfantasyxiv.com/lds/pc/global/images/itemicon/06/06bd35b3df19cbc5d80eed3ed99c67a366c835aa.png?n5.55",
+                    "Icon": "https://img.finalfantasyxiv.com/lds/pc/global/images/itemicon/06/06bd35b3df19cbc5d80eed3ed99c67a366c835aa.png?n6.05",
                     "Name": "Heavens' Eye Materia IV",
                     "Amount": 1,
                     "Url": "/lodestone/playguide/db/item/93fe1786b70/"
                 },
                 {
-                    "Icon": "https://img.finalfantasyxiv.com/lds/pc/global/images/itemicon/60/6072436b0c90d22b6a9d7da93f356256a04be53d.png?n5.55",
-                    "Name": "Quickarm Materia IV",
-                    "Amount": 1,
-                    "Url": "/lodestone/playguide/db/item/1162b3fcc58/"
-                }
-            ]
-        },
-        "Infos": {
-            "RelatedNPC": [
-                {
-                    "Name": "Pahh",
-                    "Url": "/lodestone/playguide/db/npc/npc/e1731c57a26/",
-                    "Area": "Western La Noscea (X:16.6 Y:21.7)"
-                }
-            ]
-        },
-        "Seq": 33,
-        "oldID": 66944,
-        "Map": {
-            "ID": 18
-        },
-        "StartDependency": false
-    },
-    {
-        "ID": "01c86d656d9",
-        "Name": "An Enthralling Engagement",
-        "Location": "Western La Noscea",
-        "Level": 48,
-        "JournalSection": 4,
-        "JournalCategory": 29,
-        "JournalGenre": "\n\t\t\t\t\t\t\tDaily Quests\n\t\t\t\t\t\t",
-        "Url": "/lodestone/playguide/db/quest/01c86d656d9/",
-        "Image": null,
-        "Icon": "common_repeat",
-        "Issuer": "Seww",
-        "StartLocation": {
-            "Name": "Western La Noscea",
-            "X": "16.9",
-            "Y": "22.6"
-        },
-        "StartClass": null,
-        "Job": "",
-        "Company": "Not specified",
-        "Requirement": "Not specified",
-        "Rewards": {
-            "Gil": 780,
-            "Exp": 10473,
-            "ItemsMand": [],
-            "ItemsOpt": [
-                {
-                    "Icon": "https://img.finalfantasyxiv.com/lds/pc/global/images/itemicon/59/591709d485ebd155ba018c8cd773fe3c662caed3.png?n5.55",
-                    "Name": "Piety Materia IV",
-                    "Amount": 1,
-                    "Url": "/lodestone/playguide/db/item/905d47601dd/"
-                },
-                {
-                    "Icon": "https://img.finalfantasyxiv.com/lds/pc/global/images/itemicon/06/06bd35b3df19cbc5d80eed3ed99c67a366c835aa.png?n5.55",
-                    "Name": "Savage Aim Materia IV",
-                    "Amount": 1,
-                    "Url": "/lodestone/playguide/db/item/dce3a5f3467/"
-                },
-                {
-                    "Icon": "https://img.finalfantasyxiv.com/lds/pc/global/images/itemicon/60/6072436b0c90d22b6a9d7da93f356256a04be53d.png?n5.55",
-                    "Name": "Quicktongue Materia IV",
-                    "Amount": 1,
-                    "Url": "/lodestone/playguide/db/item/5bbb25ff7dd/"
-                }
-            ]
-        },
-        "Infos": {
-            "RelatedNPC": [
-                {
-                    "Name": "Imprisoned Soldier",
-                    "Url": "/lodestone/playguide/db/npc/npc/9352609ff79/",
-                    "Area": "Western La Noscea (X:14.2 Y:14.0)"
-                },
-                {
-                    "Name": "Imprisoned Soldier",
-                    "Url": "/lodestone/playguide/db/npc/npc/365b267d97d/",
-                    "Area": "Western La Noscea (X:14.1 Y:14.3)"
-                },
-                {
-                    "Name": "Imprisoned Soldier",
-                    "Url": "/lodestone/playguide/db/npc/npc/5d559c8889a/",
-                    "Area": "Western La Noscea (X:13.9 Y:14.4)"
-                },
-                {
-                    "Name": "Imprisoned Soldier",
-                    "Url": "/lodestone/playguide/db/npc/npc/25b8b7d4bfe/",
-                    "Area": "Western La Noscea (X:14.3 Y:13.9)"
-                },
-                {
-                    "Name": "Imprisoned Soldier",
-                    "Url": "/lodestone/playguide/db/npc/npc/ef08ad37a51/",
-                    "Area": "Western La Noscea (X:14.2 Y:14.2)"
-                },
-                {
-                    "Name": "Imprisoned Soldier",
-                    "Url": "/lodestone/playguide/db/npc/npc/a97497539a1/",
-                    "Area": "Western La Noscea (X:14.2 Y:14.0)"
-                },
-                {
-                    "Name": "Imprisoned Soldier",
-                    "Url": "/lodestone/playguide/db/npc/npc/5ec1a7dc3f9/",
-                    "Area": "Western La Noscea (X:14.1 Y:14.3)"
-                }
-            ]
-        },
-        "Seq": 26,
-        "oldID": 66938,
-        "Map": {
-            "ID": 18
-        },
-        "StartDependency": false
-    },
-    {
-        "ID": "0584a8da1d0",
-        "Name": "Violence of the Clams",
-        "Location": "Western La Noscea",
-        "Level": 44,
-        "JournalSection": 4,
-        "JournalCategory": 29,
-        "JournalGenre": "\n\t\t\t\t\t\t\tDaily Quests\n\t\t\t\t\t\t",
-        "Url": "/lodestone/playguide/db/quest/0584a8da1d0/",
-        "Image": null,
-        "Icon": "common_repeat",
-        "Issuer": "Fyuu",
-        "StartLocation": {
-            "Name": "Western La Noscea",
-            "X": "17.0",
-            "Y": "22.2"
-        },
-        "StartClass": null,
-        "Job": "",
-        "Company": "Not specified",
-        "Requirement": "Not specified",
-        "Rewards": {
-            "Gil": 540,
-            "Exp": 9142,
-            "ItemsMand": [],
-            "ItemsOpt": []
-        },
-        "Infos": {
-            "RelatedNPC": [
-                {
-                    "Name": "Pahh",
-                    "Url": "/lodestone/playguide/db/npc/npc/e1731c57a26/",
-                    "Area": "Western La Noscea (X:16.6 Y:21.7)"
-                }
-            ]
-        },
-        "Seq": 7,
-        "oldID": 66921,
-        "Map": {
-            "ID": 18
-        },
-        "StartDependency": false
-    },
-    {
-        "ID": "19fb403a1d6",
-        "Name": "A Quick Snip",
-        "Location": "Western La Noscea",
-        "Level": 44,
-        "JournalSection": 4,
-        "JournalCategory": 29,
-        "JournalGenre": "\n\t\t\t\t\t\t\tDaily Quests\n\t\t\t\t\t\t",
-        "Url": "/lodestone/playguide/db/quest/19fb403a1d6/",
-        "Image": null,
-        "Icon": "common_repeat",
-        "Issuer": "Fyuu",
-        "StartLocation": {
-            "Name": "Western La Noscea",
-            "X": "17.0",
-            "Y": "22.2"
-        },
-        "StartClass": null,
-        "Job": "",
-        "Company": "Not specified",
-        "Requirement": "Not specified",
-        "Rewards": {
-            "Gil": 540,
-            "Exp": 9142,
-            "ItemsMand": [],
-            "ItemsOpt": []
-        },
-        "Infos": {
-            "RelatedNPC": [
-                {
-                    "Name": "Pahh",
-                    "Url": "/lodestone/playguide/db/npc/npc/e1731c57a26/",
-                    "Area": "Western La Noscea (X:16.6 Y:21.7)"
-                }
-            ]
-        },
-        "Seq": 9,
-        "oldID": 66920,
-        "Map": {
-            "ID": 18
-        },
-        "StartDependency": false
-    },
-    {
-        "ID": "1bf827a03ab",
-        "Name": "Wind from Their Sails",
-        "Location": "Western La Noscea",
-        "Level": 44,
-        "JournalSection": 4,
-        "JournalCategory": 29,
-        "JournalGenre": "\n\t\t\t\t\t\t\tDaily Quests\n\t\t\t\t\t\t",
-        "Url": "/lodestone/playguide/db/quest/1bf827a03ab/",
-        "Image": null,
-        "Icon": "common_repeat",
-        "Issuer": "Fyuu",
-        "StartLocation": {
-            "Name": "Western La Noscea",
-            "X": "17.0",
-            "Y": "22.2"
-        },
-        "StartClass": null,
-        "Job": "",
-        "Company": "Not specified",
-        "Requirement": "Not specified",
-        "Rewards": {
-            "Gil": 540,
-            "Exp": 9142,
-            "ItemsMand": [],
-            "ItemsOpt": []
-        },
-        "Infos": {
-            "RelatedNPC": [
-                {
-                    "Name": "Pahh",
-                    "Url": "/lodestone/playguide/db/npc/npc/e1731c57a26/",
-                    "Area": "Western La Noscea (X:16.6 Y:21.7)"
-                }
-            ]
-        },
-        "Seq": 14,
-        "oldID": 66922,
-        "Map": {
-            "ID": 18
-        },
-        "StartDependency": false
-    },
-    {
-        "ID": "20327a16283",
-        "Name": "Get a Lode of This",
-        "Location": "Western La Noscea",
-        "Level": 46,
-        "JournalSection": 4,
-        "JournalCategory": 29,
-        "JournalGenre": "\n\t\t\t\t\t\t\tDaily Quests\n\t\t\t\t\t\t",
-        "Url": "/lodestone/playguide/db/quest/20327a16283/",
-        "Image": null,
-        "Icon": "common_repeat",
-        "Issuer": "Houu",
-        "StartLocation": {
-            "Name": "Western La Noscea",
-            "X": "16.5",
-            "Y": "22.5"
-        },
-        "StartClass": null,
-        "Job": "",
-        "Company": "Not specified",
-        "Requirement": "Not specified",
-        "Rewards": {
-            "Gil": 660,
-            "Exp": 9693,
-            "ItemsMand": [],
-            "ItemsOpt": []
-        },
-        "Infos": {},
-        "Seq": 18,
-        "oldID": 66928,
-        "Map": {
-            "ID": 18
-        },
-        "StartDependency": false
-    },
-    {
-        "ID": "3e8aa2e4ad7",
-        "Name": "Spawning Ground Salvation",
-        "Location": "Western La Noscea",
-        "Level": 44,
-        "JournalSection": 4,
-        "JournalCategory": 29,
-        "JournalGenre": "\n\t\t\t\t\t\t\tDaily Quests\n\t\t\t\t\t\t",
-        "Url": "/lodestone/playguide/db/quest/3e8aa2e4ad7/",
-        "Image": null,
-        "Icon": "common_repeat",
-        "Issuer": "Fyuu",
-        "StartLocation": {
-            "Name": "Western La Noscea",
-            "X": "17.0",
-            "Y": "22.2"
-        },
-        "StartClass": null,
-        "Job": "",
-        "Company": "Not specified",
-        "Requirement": "Not specified",
-        "Rewards": {
-            "Gil": 540,
-            "Exp": 9142,
-            "ItemsMand": [],
-            "ItemsOpt": []
-        },
-        "Infos": {
-            "RelatedNPC": [
-                {
-                    "Name": "Captive Storm Recruit",
-                    "Url": "/lodestone/playguide/db/npc/npc/9e66768e3ea/",
-                    "Area": "Western La Noscea (X:17.2 Y:19.4)"
-                },
-                {
-                    "Name": "Captive Storm Recruit",
-                    "Url": "/lodestone/playguide/db/npc/npc/1cff6c7baac/",
-                    "Area": "Western La Noscea (X:17.2 Y:19.3)"
-                },
-                {
-                    "Name": "Captive Storm Recruit",
-                    "Url": "/lodestone/playguide/db/npc/npc/1f6eff4630a/",
-                    "Area": "Western La Noscea (X:17.2 Y:19.4)"
-                },
-                {
-                    "Name": "Sahagin Sentry",
-                    "Url": "/lodestone/playguide/db/npc/npc/c01e495e262/",
-                    "Area": "Western La Noscea (X:17.0 Y:19.2)"
-                },
-                {
-                    "Name": "Sahagin Sentry",
-                    "Url": "/lodestone/playguide/db/npc/npc/cd477dcab44/",
-                    "Area": "Western La Noscea (X:17.5 Y:19.0)"
-                },
-                {
-                    "Name": "Sahagin Sentry",
-                    "Url": "/lodestone/playguide/db/npc/npc/4fce5552846/",
-                    "Area": "Western La Noscea (X:17.7 Y:20.6)"
-                },
-                {
-                    "Name": "Sahagin Sentry",
-                    "Url": "/lodestone/playguide/db/npc/npc/09df174688b/",
-                    "Area": "Western La Noscea (X:18.3 Y:20.4)"
-                },
-                {
-                    "Name": "Sahagin Sentry",
-                    "Url": "/lodestone/playguide/db/npc/npc/e48873d5e94/",
-                    "Area": "Western La Noscea (X:18.4 Y:20.0)"
-                },
-                {
-                    "Name": "Sahagin Sentry",
-                    "Url": "/lodestone/playguide/db/npc/npc/df547c0f982/",
-                    "Area": "Western La Noscea (X:18.0 Y:19.5)"
-                },
-                {
-                    "Name": "Sahagin Sentry",
-                    "Url": "/lodestone/playguide/db/npc/npc/99df0b6e7a3/",
-                    "Area": "Western La Noscea (X:18.6 Y:19.3)"
-                }
-            ]
-        },
-        "Seq": 13,
-        "oldID": 66919,
-        "Map": {
-            "ID": 18
-        },
-        "StartDependency": false
-    },
-    {
-        "ID": "4677a08c329",
-        "Name": "The Scarlet Bloodletter",
-        "Location": "Western La Noscea",
-        "Level": 46,
-        "JournalSection": 4,
-        "JournalCategory": 29,
-        "JournalGenre": "\n\t\t\t\t\t\t\tMain Quests\n\t\t\t\t\t\t",
-        "Url": "/lodestone/playguide/db/quest/4677a08c329/",
-        "Image": "https://img.finalfantasyxiv.com/lds/pc/global/images/itemicon/5e/5ed0a40fe5594ed2926dcc08a0cc5a3cd14dbf7b.png?n5.55",
-        "Icon": "function_normal",
-        "Issuer": "Novv",
-        "StartLocation": {
-            "Name": "Western La Noscea",
-            "X": "16.7",
-            "Y": "22.8"
-        },
-        "StartClass": null,
-        "Job": "",
-        "Company": "Not specified",
-        "Requirement": "Not specified",
-        "Rewards": {
-            "Gil": 753,
-            "Exp": 12925,
-            "ItemsMand": [],
-            "ItemsOpt": []
-        },
-        "Infos": {
-            "PrerequisiteQuest": [
-                {
-                    "Name": "Clutch and Kin",
-                    "Url": "/lodestone/playguide/db/quest/5f36f9fc938/",
-                    "Area": "Western La Noscea",
-                    "Level": "44"
-                }
-            ],
-            "FollowupQuest": [
-                {
-                    "Name": "Watching the Spawn",
-                    "Url": "/lodestone/playguide/db/quest/7138516f230/",
-                    "Area": "Western La Noscea",
-                    "Level": "48"
-                }
-            ],
-            "RelatedNPC": [
-                {
-                    "Name": "Pahh",
-                    "Url": "/lodestone/playguide/db/npc/npc/e1731c57a26/",
-                    "Area": "Western La Noscea (X:16.6 Y:21.7)"
-                },
-                {
-                    "Name": "Swallow Captain",
-                    "Url": "/lodestone/playguide/db/npc/npc/6aecb6ab217/",
-                    "Area": "Western La Noscea (X:3.6 Y:40.0)"
-                },
-                {
-                    "Name": "Swallow Captain",
-                    "Url": "/lodestone/playguide/db/npc/npc/7d52da9967f/",
-                    "Area": "Western La Noscea (X:27.8 Y:26.9)"
-                }
-            ]
-        },
-        "Seq": 2,
-        "oldID": 66912,
-        "Map": {
-            "ID": 18
-        },
-        "StartDependency": false
-    },
-    {
-        "ID": "5f36f9fc938",
-        "Name": "Clutch and Kin",
-        "Location": "Western La Noscea",
-        "Level": 44,
-        "JournalSection": 4,
-        "JournalCategory": 29,
-        "JournalGenre": "\n\t\t\t\t\t\t\tMain Quests\n\t\t\t\t\t\t",
-        "Url": "/lodestone/playguide/db/quest/5f36f9fc938/",
-        "Image": "https://img.finalfantasyxiv.com/lds/pc/global/images/itemicon/7f/7f89a4c7327b3177642f66bf29ef8ce8b67fc502.png?n5.55",
-        "Icon": "function_normal",
-        "Issuer": "Novv",
-        "StartLocation": {
-            "Name": "Western La Noscea",
-            "X": "16.7",
-            "Y": "22.8"
-        },
-        "StartClass": null,
-        "Job": "",
-        "Company": "Not specified",
-        "Requirement": "Not specified",
-        "Rewards": {
-            "Gil": 729,
-            "Exp": 12190,
-            "ItemsMand": [],
-            "ItemsOpt": []
-        },
-        "Infos": {
-            "PrerequisiteQuest": [
-                {
-                    "Name": "They Came from the Deep",
-                    "Url": "/lodestone/playguide/db/quest/f6cfe116e17/",
-                    "Area": "Limsa Lominsa",
-                    "Level": "44"
-                }
-            ],
-            "FollowupQuest": [
-                {
-                    "Name": "The Scarlet Bloodletter",
-                    "Url": "/lodestone/playguide/db/quest/4677a08c329/",
-                    "Area": "Western La Noscea",
-                    "Level": "46"
-                }
-            ],
-            "RelatedNPC": [
-                {
-                    "Name": "Pyuu",
-                    "Url": "/lodestone/playguide/db/npc/npc/72ee839fcc7/",
-                    "Area": "Western La Noscea (X:20.7 Y:19.7)"
-                },
-                {
-                    "Name": "Seww",
-                    "Url": "/lodestone/playguide/db/npc/npc/c083c166190/",
-                    "Area": "Western La Noscea (X:16.9 Y:22.6)"
-                }
-            ]
-        },
-        "Seq": 1,
-        "oldID": 66911,
-        "Map": {
-            "ID": 18
-        },
-        "StartDependency": false
-    },
-    {
-        "ID": "644e43bcf56",
-        "Name": "Like Clutchfather, Like Son",
-        "Location": "Western La Noscea",
-        "Level": 48,
-        "JournalSection": 4,
-        "JournalCategory": 29,
-        "JournalGenre": "\n\t\t\t\t\t\t\tMain Quests\n\t\t\t\t\t\t",
-        "Url": "/lodestone/playguide/db/quest/644e43bcf56/",
-        "Image": "https://img.finalfantasyxiv.com/lds/pc/global/images/itemicon/38/383e91479ecd1caaf2201fa152e4ed69accabba4.png?n5.55",
-        "Icon": "function_normal",
-        "Issuer": "Novv",
-        "StartLocation": {
-            "Name": "Western La Noscea",
-            "X": "16.7",
-            "Y": "22.8"
-        },
-        "StartClass": null,
-        "Job": "",
-        "Company": "Not specified",
-        "Requirement": "Not specified",
-        "Rewards": {
-            "Gil": 1184,
-            "Exp": 13965,
-            "ItemsMand": [],
-            "ItemsOpt": []
-        },
-        "Infos": {
-            "PrerequisiteQuest": [
-                {
-                    "Name": "Watching the Spawn",
-                    "Url": "/lodestone/playguide/db/quest/7138516f230/",
-                    "Area": "Western La Noscea",
-                    "Level": "48"
-                }
-            ],
-            "RelatedNPC": [
-                {
-                    "Name": "R'ashaht Rhiki",
-                    "Url": "/lodestone/playguide/db/npc/npc/18feb495b80/",
-                    "Area": "Limsa Lominsa Upper Decks (X:13.1 Y:12.8)"
-                },
-                {
-                    "Name": "Councillor Turstin",
-                    "Url": "/lodestone/playguide/db/npc/npc/5b98b895a6c/",
-                    "Area": "Western La Noscea (X:3.1 Y:37.7)"
-                },
-                {
-                    "Name": "Councillor Turstin",
-                    "Url": "/lodestone/playguide/db/npc/npc/8cbd88ed7b0/",
-                    "Area": "Western La Noscea (X:27.9 Y:28.4)"
-                },
-                {
-                    "Name": "Falkbryda",
-                    "Url": "/lodestone/playguide/db/npc/npc/732bca1d47a/",
-                    "Area": "Western La Noscea (X:22.7 Y:22.7)"
-                },
-                {
-                    "Name": "Novv",
-                    "Url": "/lodestone/playguide/db/npc/npc/dd20fc604a7/",
-                    "Area": "Western La Noscea (X:3.1 Y:37.7)"
-                },
-                {
-                    "Name": "Pahh",
-                    "Url": "/lodestone/playguide/db/npc/npc/e1731c57a26/",
-                    "Area": "Western La Noscea (X:16.6 Y:21.7)"
-                }
-            ]
-        },
-        "Seq": 4,
-        "oldID": 66914,
-        "Map": {
-            "ID": 18
-        },
-        "StartDependency": false
-    },
-    {
-        "ID": "6e60286092d",
-        "Name": "A Nap Before Drowning",
-        "Location": "Western La Noscea",
-        "Level": 46,
-        "JournalSection": 4,
-        "JournalCategory": 29,
-        "JournalGenre": "\n\t\t\t\t\t\t\tDaily Quests\n\t\t\t\t\t\t",
-        "Url": "/lodestone/playguide/db/quest/6e60286092d/",
-        "Image": null,
-        "Icon": "common_repeat",
-        "Issuer": "Houu",
-        "StartLocation": {
-            "Name": "Western La Noscea",
-            "X": "16.5",
-            "Y": "22.5"
-        },
-        "StartClass": null,
-        "Job": "",
-        "Company": "Not specified",
-        "Requirement": "Not specified",
-        "Rewards": {
-            "Gil": 660,
-            "Exp": 9693,
-            "ItemsMand": [],
-            "ItemsOpt": []
-        },
-        "Infos": {
-            "RelatedNPC": [
-                {
-                    "Name": "Captive Storm Recruit",
-                    "Url": "/lodestone/playguide/db/npc/npc/5c2984fabad/",
-                    "Area": "Western La Noscea (X:18.2 Y:16.0)"
-                },
-                {
-                    "Name": "Captive Storm Recruit",
-                    "Url": "/lodestone/playguide/db/npc/npc/dbc6a0f7b58/",
-                    "Area": "Western La Noscea (X:17.1 Y:14.8)"
-                },
-                {
-                    "Name": "Captive Storm Recruit",
-                    "Url": "/lodestone/playguide/db/npc/npc/04b5e5ac8d1/",
-                    "Area": "Western La Noscea (X:16.0 Y:16.2)"
-                },
-                {
-                    "Name": "Captive Storm Recruit",
-                    "Url": "/lodestone/playguide/db/npc/npc/ed958667fe2/",
-                    "Area": "Western La Noscea (X:17.6 Y:17.2)"
-                }
-            ]
-        },
-        "Seq": 23,
-        "oldID": 66933,
-        "Map": {
-            "ID": 18
-        },
-        "StartDependency": false
-    },
-    {
-        "ID": "7138516f230",
-        "Name": "Watching the Spawn",
-        "Location": "Western La Noscea",
-        "Level": 48,
-        "JournalSection": 4,
-        "JournalCategory": 29,
-        "JournalGenre": "\n\t\t\t\t\t\t\tMain Quests\n\t\t\t\t\t\t",
-        "Url": "/lodestone/playguide/db/quest/7138516f230/",
-        "Image": "https://img.finalfantasyxiv.com/lds/pc/global/images/itemicon/29/2974b74ed085e1a61852450b8016b3826990b736.png?n5.55",
-        "Icon": "function_normal",
-        "Issuer": "Novv",
-        "StartLocation": {
-            "Name": "Western La Noscea",
-            "X": "16.7",
-            "Y": "22.8"
-        },
-        "StartClass": null,
-        "Job": "",
-        "Company": "Not specified",
-        "Requirement": "Not specified",
-        "Rewards": {
-            "Gil": 776,
-            "Exp": 13965,
-            "ItemsMand": [],
-            "ItemsOpt": []
-        },
-        "Infos": {
-            "PrerequisiteQuest": [
-                {
-                    "Name": "The Scarlet Bloodletter",
-                    "Url": "/lodestone/playguide/db/quest/4677a08c329/",
-                    "Area": "Western La Noscea",
-                    "Level": "46"
-                }
-            ],
-            "FollowupQuest": [
-                {
-                    "Name": "Like Clutchfather, Like Son",
-                    "Url": "/lodestone/playguide/db/quest/644e43bcf56/",
-                    "Area": "Western La Noscea",
-                    "Level": "48"
-                }
-            ],
-            "RelatedNPC": [
-                {
-                    "Name": "Pahh",
-                    "Url": "/lodestone/playguide/db/npc/npc/e1731c57a26/",
-                    "Area": "Western La Noscea (X:16.6 Y:21.7)"
-                },
-                {
-                    "Name": "Seww",
-                    "Url": "/lodestone/playguide/db/npc/npc/c083c166190/",
-                    "Area": "Western La Noscea (X:16.9 Y:22.6)"
-                },
-                {
-                    "Name": "Silverfin Sahagin",
-                    "Url": "/lodestone/playguide/db/npc/npc/56f4bf27ddf/",
-                    "Area": "Western La Noscea (X:18.4 Y:15.5)"
-                },
-                {
-                    "Name": "Silverfin Sahagin",
-                    "Url": "/lodestone/playguide/db/npc/npc/a2037807a6f/",
-                    "Area": "Western La Noscea (X:14.3 Y:12.9)"
-                },
-                {
-                    "Name": "Silverfin Sahagin",
-                    "Url": "/lodestone/playguide/db/npc/npc/bc8366e4a49/",
-                    "Area": "Western La Noscea (X:5.6 Y:35.8)"
-                }
-            ]
-        },
-        "Seq": 3,
-        "oldID": 66913,
-        "Map": {
-            "ID": 18
-        },
-        "StartDependency": false
-    },
-    {
-        "ID": "7151f260deb",
-        "Name": "The Tail's the Best Part",
-        "Location": "Western La Noscea",
-        "Level": 48,
-        "JournalSection": 4,
-        "JournalCategory": 29,
-        "JournalGenre": "\n\t\t\t\t\t\t\tDaily Quests\n\t\t\t\t\t\t",
-        "Url": "/lodestone/playguide/db/quest/7151f260deb/",
-        "Image": null,
-        "Icon": "common_repeat",
-        "Issuer": "Seww",
-        "StartLocation": {
-            "Name": "Western La Noscea",
-            "X": "16.9",
-            "Y": "22.6"
-        },
-        "StartClass": null,
-        "Job": "",
-        "Company": "Not specified",
-        "Requirement": "Not specified",
-        "Rewards": {
-            "Gil": 780,
-            "Exp": 10473,
-            "ItemsMand": [],
-            "ItemsOpt": [
-                {
-                    "Icon": "https://img.finalfantasyxiv.com/lds/pc/global/images/itemicon/06/06bd35b3df19cbc5d80eed3ed99c67a366c835aa.png?n5.55",
-                    "Name": "Heavens' Eye Materia IV",
-                    "Amount": 1,
-                    "Url": "/lodestone/playguide/db/item/93fe1786b70/"
-                },
-                {
-                    "Icon": "https://img.finalfantasyxiv.com/lds/pc/global/images/itemicon/06/06bd35b3df19cbc5d80eed3ed99c67a366c835aa.png?n5.55",
+                    "Icon": "https://img.finalfantasyxiv.com/lds/pc/global/images/itemicon/06/06bd35b3df19cbc5d80eed3ed99c67a366c835aa.png?n6.05",
                     "Name": "Savage Might Materia IV",
                     "Amount": 1,
                     "Url": "/lodestone/playguide/db/item/1bc25f58180/"
                 },
                 {
-                    "Icon": "https://img.finalfantasyxiv.com/lds/pc/global/images/itemicon/60/6072436b0c90d22b6a9d7da93f356256a04be53d.png?n5.55",
+                    "Icon": "https://img.finalfantasyxiv.com/lds/pc/global/images/itemicon/60/6072436b0c90d22b6a9d7da93f356256a04be53d.png?n6.05",
                     "Name": "Quicktongue Materia IV",
                     "Amount": 1,
                     "Url": "/lodestone/playguide/db/item/5bbb25ff7dd/"
                 }
             ]
         },
-        "Infos": {},
-        "Seq": 30,
-        "oldID": 66941,
-        "Map": {
-            "ID": 18
-        },
-        "StartDependency": false
-    },
-    {
-        "ID": "77a5e4d9039",
-        "Name": "Move Along, Nothing to Heal Here",
-        "Location": "Western La Noscea",
-        "Level": 46,
-        "JournalSection": 4,
-        "JournalCategory": 29,
-        "JournalGenre": "\n\t\t\t\t\t\t\tDaily Quests\n\t\t\t\t\t\t",
-        "Url": "/lodestone/playguide/db/quest/77a5e4d9039/",
-        "Image": null,
-        "Icon": "common_repeat",
-        "Issuer": "Houu",
-        "StartLocation": {
-            "Name": "Western La Noscea",
-            "X": "16.5",
-            "Y": "22.5"
-        },
-        "StartClass": null,
-        "Job": "",
-        "Company": "Not specified",
-        "Requirement": "Not specified",
-        "Rewards": {
-            "Gil": 660,
-            "Exp": 9693,
-            "ItemsMand": [],
-            "ItemsOpt": []
-        },
-        "Infos": {},
-        "Seq": 15,
-        "oldID": 66926,
-        "Map": {
-            "ID": 18
-        },
-        "StartDependency": false
-    },
-    {
-        "ID": "7c0814d1f67",
-        "Name": "A Killer Strategy",
-        "Location": "Western La Noscea",
-        "Level": 44,
-        "JournalSection": 4,
-        "JournalCategory": 29,
-        "JournalGenre": "\n\t\t\t\t\t\t\tDaily Quests\n\t\t\t\t\t\t",
-        "Url": "/lodestone/playguide/db/quest/7c0814d1f67/",
-        "Image": null,
-        "Icon": "common_repeat",
-        "Issuer": "Fyuu",
-        "StartLocation": {
-            "Name": "Western La Noscea",
-            "X": "17.0",
-            "Y": "22.2"
-        },
-        "StartClass": null,
-        "Job": "",
-        "Company": "Not specified",
-        "Requirement": "Not specified",
-        "Rewards": {
-            "Gil": 540,
-            "Exp": 9142,
-            "ItemsMand": [],
-            "ItemsOpt": []
-        },
-        "Infos": {},
-        "Seq": 12,
-        "oldID": 66915,
-        "Map": {
-            "ID": 18
-        },
-        "StartDependency": false
-    },
-    {
-        "ID": "84703bb20e8",
-        "Name": "Shellfish Schemes",
-        "Location": "Western La Noscea",
-        "Level": 48,
-        "JournalSection": 4,
-        "JournalCategory": 29,
-        "JournalGenre": "\n\t\t\t\t\t\t\tDaily Quests\n\t\t\t\t\t\t",
-        "Url": "/lodestone/playguide/db/quest/84703bb20e8/",
-        "Image": null,
-        "Icon": "common_repeat",
-        "Issuer": "Seww",
-        "StartLocation": {
-            "Name": "Western La Noscea",
-            "X": "16.9",
-            "Y": "22.6"
-        },
-        "StartClass": null,
-        "Job": "",
-        "Company": "Not specified",
-        "Requirement": "Not specified",
-        "Rewards": {
-            "Gil": 780,
-            "Exp": 10473,
-            "ItemsMand": [],
-            "ItemsOpt": [
-                {
-                    "Icon": "https://img.finalfantasyxiv.com/lds/pc/global/images/itemicon/06/06bd35b3df19cbc5d80eed3ed99c67a366c835aa.png?n5.55",
-                    "Name": "Savage Aim Materia IV",
-                    "Amount": 1,
-                    "Url": "/lodestone/playguide/db/item/dce3a5f3467/"
-                },
-                {
-                    "Icon": "https://img.finalfantasyxiv.com/lds/pc/global/images/itemicon/06/06bd35b3df19cbc5d80eed3ed99c67a366c835aa.png?n5.55",
-                    "Name": "Savage Might Materia IV",
-                    "Amount": 1,
-                    "Url": "/lodestone/playguide/db/item/1bc25f58180/"
-                },
-                {
-                    "Icon": "https://img.finalfantasyxiv.com/lds/pc/global/images/itemicon/60/6072436b0c90d22b6a9d7da93f356256a04be53d.png?n5.55",
-                    "Name": "Quicktongue Materia IV",
-                    "Amount": 1,
-                    "Url": "/lodestone/playguide/db/item/5bbb25ff7dd/"
-                }
-            ]
-        },
-        "Infos": {},
-        "Seq": 28,
-        "oldID": 66937,
-        "Map": {
-            "ID": 18
-        },
-        "StartDependency": false
-    },
-    {
-        "ID": "85dce8264eb",
-        "Name": "Ain't Got Time to Breed",
-        "Location": "Western La Noscea",
-        "Level": 46,
-        "JournalSection": 4,
-        "JournalCategory": 29,
-        "JournalGenre": "\n\t\t\t\t\t\t\tDaily Quests\n\t\t\t\t\t\t",
-        "Url": "/lodestone/playguide/db/quest/85dce8264eb/",
-        "Image": null,
-        "Icon": "common_repeat",
-        "Issuer": "Houu",
-        "StartLocation": {
-            "Name": "Western La Noscea",
-            "X": "16.5",
-            "Y": "22.5"
-        },
-        "StartClass": null,
-        "Job": "",
-        "Company": "Not specified",
-        "Requirement": "Not specified",
-        "Rewards": {
-            "Gil": 660,
-            "Exp": 9693,
-            "ItemsMand": [],
-            "ItemsOpt": []
-        },
-        "Infos": {},
-        "Seq": 16,
-        "oldID": 66927,
-        "Map": {
-            "ID": 18
-        },
-        "StartDependency": false
-    },
-    {
-        "ID": "86901de1ee5",
-        "Name": "Reaving in a Hurry",
-        "Location": "Western La Noscea",
-        "Level": 48,
-        "JournalSection": 4,
-        "JournalCategory": 29,
-        "JournalGenre": "\n\t\t\t\t\t\t\tDaily Quests\n\t\t\t\t\t\t",
-        "Url": "/lodestone/playguide/db/quest/86901de1ee5/",
-        "Image": null,
-        "Icon": "common_repeat",
-        "Issuer": "Seww",
-        "StartLocation": {
-            "Name": "Western La Noscea",
-            "X": "16.9",
-            "Y": "22.6"
-        },
-        "StartClass": null,
-        "Job": "",
-        "Company": "Not specified",
-        "Requirement": "Not specified",
-        "Rewards": {
-            "Gil": 780,
-            "Exp": 10473,
-            "ItemsMand": [],
-            "ItemsOpt": [
-                {
-                    "Icon": "https://img.finalfantasyxiv.com/lds/pc/global/images/itemicon/59/591709d485ebd155ba018c8cd773fe3c662caed3.png?n5.55",
-                    "Name": "Piety Materia IV",
-                    "Amount": 1,
-                    "Url": "/lodestone/playguide/db/item/905d47601dd/"
-                },
-                {
-                    "Icon": "https://img.finalfantasyxiv.com/lds/pc/global/images/itemicon/59/591709d485ebd155ba018c8cd773fe3c662caed3.png?n5.55",
-                    "Name": "Battledance Materia IV",
-                    "Amount": 1,
-                    "Url": "/lodestone/playguide/db/item/37f25043bf3/"
-                },
-                {
-                    "Icon": "https://img.finalfantasyxiv.com/lds/pc/global/images/itemicon/60/6072436b0c90d22b6a9d7da93f356256a04be53d.png?n5.55",
-                    "Name": "Quicktongue Materia IV",
-                    "Amount": 1,
-                    "Url": "/lodestone/playguide/db/item/5bbb25ff7dd/"
-                }
-            ]
-        },
-        "Infos": {},
-        "Seq": 27,
-        "oldID": 66940,
-        "Map": {
-            "ID": 18
-        },
-        "StartDependency": false
-    },
-    {
-        "ID": "8c42fe21873",
-        "Name": "Clutchfather Knows Best",
-        "Location": "Western La Noscea",
-        "Level": 46,
-        "JournalSection": 4,
-        "JournalCategory": 29,
-        "JournalGenre": "\n\t\t\t\t\t\t\tDaily Quests\n\t\t\t\t\t\t",
-        "Url": "/lodestone/playguide/db/quest/8c42fe21873/",
-        "Image": null,
-        "Icon": "common_repeat",
-        "Issuer": "Houu",
-        "StartLocation": {
-            "Name": "Western La Noscea",
-            "X": "16.5",
-            "Y": "22.5"
-        },
-        "StartClass": null,
-        "Job": "",
-        "Company": "Not specified",
-        "Requirement": "Not specified",
-        "Rewards": {
-            "Gil": 660,
-            "Exp": 9693,
-            "ItemsMand": [],
-            "ItemsOpt": []
-        },
         "Infos": {
             "RelatedNPC": [
                 {
-                    "Name": "Fyuu",
-                    "Url": "/lodestone/playguide/db/npc/npc/85021401d63/",
-                    "Area": "Western La Noscea (X:17.0 Y:22.2)"
+                    "Name": "Mysterious Sylph",
+                    "Url": "/lodestone/playguide/db/npc/npc/22985ed910d/",
+                    "Area": "East Shroud (X:26.3 Y:20.3)"
                 }
             ]
         },
-        "Seq": 22,
-        "oldID": 66932,
-        "Map": {
-            "ID": 18
-        },
-        "StartDependency": false
-    },
-    {
-        "ID": "8c5b9d8f475",
-        "Name": "Put a Shhhock in It",
-        "Location": "Western La Noscea",
-        "Level": 46,
-        "JournalSection": 4,
-        "JournalCategory": 29,
-        "JournalGenre": "\n\t\t\t\t\t\t\tDaily Quests\n\t\t\t\t\t\t",
-        "Url": "/lodestone/playguide/db/quest/8c5b9d8f475/",
-        "Image": null,
-        "Icon": "common_repeat",
-        "Issuer": "Houu",
-        "StartLocation": {
-            "Name": "Western La Noscea",
-            "X": "16.5",
-            "Y": "22.5"
-        },
-        "StartClass": null,
-        "Job": "",
-        "Company": "Not specified",
-        "Requirement": "Not specified",
-        "Rewards": {
-            "Gil": 660,
-            "Exp": 9693,
-            "ItemsMand": [],
-            "ItemsOpt": []
-        },
-        "Infos": {},
-        "Seq": 17,
-        "oldID": 66931,
-        "Map": {
-            "ID": 18
-        },
-        "StartDependency": false
-    },
-    {
-        "ID": "8eeacebd265",
-        "Name": "In the Shadow of the Moon",
-        "Location": "Western La Noscea",
-        "Level": 46,
-        "JournalSection": 4,
-        "JournalCategory": 29,
-        "JournalGenre": "\n\t\t\t\t\t\t\tDaily Quests\n\t\t\t\t\t\t",
-        "Url": "/lodestone/playguide/db/quest/8eeacebd265/",
-        "Image": null,
-        "Icon": "common_repeat",
-        "Issuer": "Houu",
-        "StartLocation": {
-            "Name": "Western La Noscea",
-            "X": "16.5",
-            "Y": "22.5"
-        },
-        "StartClass": null,
-        "Job": "",
-        "Company": "Not specified",
-        "Requirement": "Not specified",
-        "Rewards": {
-            "Gil": 660,
-            "Exp": 9693,
-            "ItemsMand": [],
-            "ItemsOpt": []
-        },
-        "Infos": {
-            "RelatedNPC": [
-                {
-                    "Name": "Pahh",
-                    "Url": "/lodestone/playguide/db/npc/npc/e1731c57a26/",
-                    "Area": "Western La Noscea (X:16.6 Y:21.7)"
-                }
-            ]
-        },
-        "Seq": 21,
-        "oldID": 66934,
-        "Map": {
-            "ID": 18
-        },
-        "StartDependency": false
-    },
-    {
-        "ID": "a846d86b215",
-        "Name": "Learn by Destroying",
-        "Location": "Western La Noscea",
-        "Level": 46,
-        "JournalSection": 4,
-        "JournalCategory": 29,
-        "JournalGenre": "\n\t\t\t\t\t\t\tDaily Quests\n\t\t\t\t\t\t",
-        "Url": "/lodestone/playguide/db/quest/a846d86b215/",
-        "Image": null,
-        "Icon": "common_repeat",
-        "Issuer": "Houu",
-        "StartLocation": {
-            "Name": "Western La Noscea",
-            "X": "16.5",
-            "Y": "22.5"
-        },
-        "StartClass": null,
-        "Job": "",
-        "Company": "Not specified",
-        "Requirement": "Not specified",
-        "Rewards": {
-            "Gil": 660,
-            "Exp": 9693,
-            "ItemsMand": [],
-            "ItemsOpt": []
-        },
-        "Infos": {
-            "RelatedNPC": [
-                {
-                    "Name": "Pahh",
-                    "Url": "/lodestone/playguide/db/npc/npc/e1731c57a26/",
-                    "Area": "Western La Noscea (X:16.6 Y:21.7)"
-                }
-            ]
-        },
-        "Seq": 24,
-        "oldID": 66935,
-        "Map": {
-            "ID": 18
-        },
-        "StartDependency": false
-    },
-    {
-        "ID": "aa484852896",
-        "Name": "Skullduggery",
-        "Location": "Western La Noscea",
-        "Level": 44,
-        "JournalSection": 4,
-        "JournalCategory": 29,
-        "JournalGenre": "\n\t\t\t\t\t\t\tDaily Quests\n\t\t\t\t\t\t",
-        "Url": "/lodestone/playguide/db/quest/aa484852896/",
-        "Image": null,
-        "Icon": "common_repeat",
-        "Issuer": "Fyuu",
-        "StartLocation": {
-            "Name": "Western La Noscea",
-            "X": "17.0",
-            "Y": "22.2"
-        },
-        "StartClass": null,
-        "Job": "",
-        "Company": "Not specified",
-        "Requirement": "Not specified",
-        "Rewards": {
-            "Gil": 540,
-            "Exp": 9142,
-            "ItemsMand": [],
-            "ItemsOpt": []
-        },
-        "Infos": {
-            "RelatedNPC": [
-                {
-                    "Name": "Sahagin Infiltrator",
-                    "Url": "/lodestone/playguide/db/npc/npc/6cfd9d643bf/",
-                    "Area": "Western La Noscea (X:20.3 Y:22.2)"
-                },
-                {
-                    "Name": "Sahagin Infiltrator",
-                    "Url": "/lodestone/playguide/db/npc/npc/93f5c938334/",
-                    "Area": "Western La Noscea (X:19.2 Y:23.1)"
-                },
-                {
-                    "Name": "Sahagin Infiltrator",
-                    "Url": "/lodestone/playguide/db/npc/npc/c1ce763f2e7/",
-                    "Area": "Western La Noscea (X:23.3 Y:22.1)"
-                },
-                {
-                    "Name": "Sahagin Infiltrator",
-                    "Url": "/lodestone/playguide/db/npc/npc/90df05034b3/",
-                    "Area": "Western La Noscea (X:22.4 Y:22.5)"
-                }
-            ]
-        },
-        "Seq": 11,
-        "oldID": 66924,
-        "Map": {
-            "ID": 18
-        },
-        "StartDependency": false
-    },
-    {
-        "ID": "afe48630a77",
-        "Name": "Up in Shhhmoke",
-        "Location": "Western La Noscea",
-        "Level": 48,
-        "JournalSection": 4,
-        "JournalCategory": 29,
-        "JournalGenre": "\n\t\t\t\t\t\t\tDaily Quests\n\t\t\t\t\t\t",
-        "Url": "/lodestone/playguide/db/quest/afe48630a77/",
-        "Image": null,
-        "Icon": "common_repeat",
-        "Issuer": "Seww",
-        "StartLocation": {
-            "Name": "Western La Noscea",
-            "X": "16.9",
-            "Y": "22.6"
-        },
-        "StartClass": null,
-        "Job": "",
-        "Company": "Not specified",
-        "Requirement": "Not specified",
-        "Rewards": {
-            "Gil": 780,
-            "Exp": 10473,
-            "ItemsMand": [],
-            "ItemsOpt": [
-                {
-                    "Icon": "https://img.finalfantasyxiv.com/lds/pc/global/images/itemicon/06/06bd35b3df19cbc5d80eed3ed99c67a366c835aa.png?n5.55",
-                    "Name": "Heavens' Eye Materia IV",
-                    "Amount": 1,
-                    "Url": "/lodestone/playguide/db/item/93fe1786b70/"
-                },
-                {
-                    "Icon": "https://img.finalfantasyxiv.com/lds/pc/global/images/itemicon/06/06bd35b3df19cbc5d80eed3ed99c67a366c835aa.png?n5.55",
-                    "Name": "Savage Aim Materia IV",
-                    "Amount": 1,
-                    "Url": "/lodestone/playguide/db/item/dce3a5f3467/"
-                },
-                {
-                    "Icon": "https://img.finalfantasyxiv.com/lds/pc/global/images/itemicon/60/6072436b0c90d22b6a9d7da93f356256a04be53d.png?n5.55",
-                    "Name": "Quicktongue Materia IV",
-                    "Amount": 1,
-                    "Url": "/lodestone/playguide/db/item/5bbb25ff7dd/"
-                }
-            ]
-        },
-        "Infos": {},
         "Seq": 29,
-        "oldID": 66939,
-        "Map": {
-            "ID": 18
-        },
         "StartDependency": false
     },
     {
-        "ID": "b38fa4477e8",
-        "Name": "Unfair Trading",
-        "Location": "Western La Noscea",
+        "ID": "1158e00c544",
+        "Name": "Fungal Foulness",
+        "Location": "East Shroud",
+        "Level": 45,
+        "JournalSection": 4,
+        "JournalCategory": 29,
+        "JournalGenre": "\n\t\t\t\t\t\t\tDaily Quests\n\t\t\t\t\t\t",
+        "Url": "/lodestone/playguide/db/quest/1158e00c544/",
+        "Image": null,
+        "Icon": "common_repeat",
+        "Issuer": "Ponnixia",
+        "StartLocation": {
+            "Name": "East Shroud",
+            "X": "22.2",
+            "Y": "26.4"
+        },
+        "StartClass": null,
+        "Job": "",
+        "Company": "Not specified",
+        "Requirement": "Not specified",
+        "Rewards": {
+            "Gil": 600,
+            "Exp": 4455,
+            "ItemsMand": [],
+            "ItemsOpt": []
+        },
+        "Infos": {},
+        "Seq": 24,
+        "StartDependency": false
+    },
+    {
+        "ID": "15f4ad022d2",
+        "Name": "Bane of the Barbs",
+        "Location": "East Shroud",
         "Level": 48,
         "JournalSection": 4,
         "JournalCategory": 29,
         "JournalGenre": "\n\t\t\t\t\t\t\tDaily Quests\n\t\t\t\t\t\t",
-        "Url": "/lodestone/playguide/db/quest/b38fa4477e8/",
+        "Url": "/lodestone/playguide/db/quest/15f4ad022d2/",
         "Image": null,
         "Icon": "common_repeat",
-        "Issuer": "Seww",
+        "Issuer": "Moxia",
         "StartLocation": {
-            "Name": "Western La Noscea",
-            "X": "16.9",
-            "Y": "22.6"
+            "Name": "East Shroud",
+            "X": "22.4",
+            "Y": "26.5"
         },
         "StartClass": null,
         "Job": "",
@@ -1317,388 +111,173 @@
         "Requirement": "Not specified",
         "Rewards": {
             "Gil": 780,
-            "Exp": 10473,
+            "Exp": 5130,
             "ItemsMand": [],
             "ItemsOpt": [
                 {
-                    "Icon": "https://img.finalfantasyxiv.com/lds/pc/global/images/itemicon/06/06bd35b3df19cbc5d80eed3ed99c67a366c835aa.png?n5.55",
-                    "Name": "Savage Might Materia IV",
+                    "Icon": "https://img.finalfantasyxiv.com/lds/pc/global/images/itemicon/59/591709d485ebd155ba018c8cd773fe3c662caed3.png?n6.05",
+                    "Name": "Piety Materia IV",
                     "Amount": 1,
-                    "Url": "/lodestone/playguide/db/item/1bc25f58180/"
+                    "Url": "/lodestone/playguide/db/item/905d47601dd/"
                 },
                 {
-                    "Icon": "https://img.finalfantasyxiv.com/lds/pc/global/images/itemicon/59/591709d485ebd155ba018c8cd773fe3c662caed3.png?n5.55",
+                    "Icon": "https://img.finalfantasyxiv.com/lds/pc/global/images/itemicon/59/591709d485ebd155ba018c8cd773fe3c662caed3.png?n6.05",
                     "Name": "Battledance Materia IV",
                     "Amount": 1,
                     "Url": "/lodestone/playguide/db/item/37f25043bf3/"
                 },
                 {
-                    "Icon": "https://img.finalfantasyxiv.com/lds/pc/global/images/itemicon/60/6072436b0c90d22b6a9d7da93f356256a04be53d.png?n5.55",
-                    "Name": "Quickarm Materia IV",
+                    "Icon": "https://img.finalfantasyxiv.com/lds/pc/global/images/itemicon/60/6072436b0c90d22b6a9d7da93f356256a04be53d.png?n6.05",
+                    "Name": "Quicktongue Materia IV",
                     "Amount": 1,
-                    "Url": "/lodestone/playguide/db/item/1162b3fcc58/"
-                }
-            ]
-        },
-        "Infos": {
-            "RelatedNPC": [
-                {
-                    "Name": "Pahh",
-                    "Url": "/lodestone/playguide/db/npc/npc/e1731c57a26/",
-                    "Area": "Western La Noscea (X:16.6 Y:21.7)"
-                }
-            ]
-        },
-        "Seq": 31,
-        "oldID": 66942,
-        "Map": {
-            "ID": 18
-        },
-        "StartDependency": false
-    },
-    {
-        "ID": "b8d4cc0234d",
-        "Name": "Enemy at the Tidegates",
-        "Location": "Western La Noscea",
-        "Level": 44,
-        "JournalSection": 4,
-        "JournalCategory": 29,
-        "JournalGenre": "\n\t\t\t\t\t\t\tDaily Quests\n\t\t\t\t\t\t",
-        "Url": "/lodestone/playguide/db/quest/b8d4cc0234d/",
-        "Image": null,
-        "Icon": "common_repeat",
-        "Issuer": "Fyuu",
-        "StartLocation": {
-            "Name": "Western La Noscea",
-            "X": "17.0",
-            "Y": "22.2"
-        },
-        "StartClass": null,
-        "Job": "",
-        "Company": "Not specified",
-        "Requirement": "Not specified",
-        "Rewards": {
-            "Gil": 540,
-            "Exp": 9142,
-            "ItemsMand": [],
-            "ItemsOpt": []
-        },
-        "Infos": {
-            "RelatedNPC": [
-                {
-                    "Name": "Novv",
-                    "Url": "/lodestone/playguide/db/npc/npc/b381ff33ab9/",
-                    "Area": "Western La Noscea (X:16.7 Y:22.8)"
-                }
-            ]
-        },
-        "Seq": 8,
-        "oldID": 66917,
-        "Map": {
-            "ID": 18
-        },
-        "StartDependency": false
-    },
-    {
-        "ID": "bb50f7a4475",
-        "Name": "Better Ash than Blood",
-        "Location": "Western La Noscea",
-        "Level": 46,
-        "JournalSection": 4,
-        "JournalCategory": 29,
-        "JournalGenre": "\n\t\t\t\t\t\t\tDaily Quests\n\t\t\t\t\t\t",
-        "Url": "/lodestone/playguide/db/quest/bb50f7a4475/",
-        "Image": null,
-        "Icon": "common_repeat",
-        "Issuer": "Houu",
-        "StartLocation": {
-            "Name": "Western La Noscea",
-            "X": "16.5",
-            "Y": "22.5"
-        },
-        "StartClass": null,
-        "Job": "",
-        "Company": "Not specified",
-        "Requirement": "Not specified",
-        "Rewards": {
-            "Gil": 660,
-            "Exp": 9693,
-            "ItemsMand": [],
-            "ItemsOpt": []
-        },
-        "Infos": {},
-        "Seq": 20,
-        "oldID": 66930,
-        "Map": {
-            "ID": 18
-        },
-        "StartDependency": false
-    },
-    {
-        "ID": "c70927cd63a",
-        "Name": "A Taste for Paste",
-        "Location": "Western La Noscea",
-        "Level": 44,
-        "JournalSection": 4,
-        "JournalCategory": 29,
-        "JournalGenre": "\n\t\t\t\t\t\t\tDaily Quests\n\t\t\t\t\t\t",
-        "Url": "/lodestone/playguide/db/quest/c70927cd63a/",
-        "Image": null,
-        "Icon": "common_repeat",
-        "Issuer": "Fyuu",
-        "StartLocation": {
-            "Name": "Western La Noscea",
-            "X": "17.0",
-            "Y": "22.2"
-        },
-        "StartClass": null,
-        "Job": "",
-        "Company": "Not specified",
-        "Requirement": "Not specified",
-        "Rewards": {
-            "Gil": 540,
-            "Exp": 9142,
-            "ItemsMand": [],
-            "ItemsOpt": []
-        },
-        "Infos": {},
-        "Seq": 6,
-        "oldID": 66918,
-        "Map": {
-            "ID": 18
-        },
-        "StartDependency": false
-    },
-    {
-        "ID": "d699a126ba5",
-        "Name": "A Crate-ful Response",
-        "Location": "Western La Noscea",
-        "Level": 44,
-        "JournalSection": 4,
-        "JournalCategory": 29,
-        "JournalGenre": "\n\t\t\t\t\t\t\tDaily Quests\n\t\t\t\t\t\t",
-        "Url": "/lodestone/playguide/db/quest/d699a126ba5/",
-        "Image": null,
-        "Icon": "common_repeat",
-        "Issuer": "Fyuu",
-        "StartLocation": {
-            "Name": "Western La Noscea",
-            "X": "17.0",
-            "Y": "22.2"
-        },
-        "StartClass": null,
-        "Job": "",
-        "Company": "Not specified",
-        "Requirement": "Not specified",
-        "Rewards": {
-            "Gil": 540,
-            "Exp": 9142,
-            "ItemsMand": [],
-            "ItemsOpt": []
-        },
-        "Infos": {
-            "RelatedNPC": [
-                {
-                    "Name": "Pahh",
-                    "Url": "/lodestone/playguide/db/npc/npc/e1731c57a26/",
-                    "Area": "Western La Noscea (X:16.6 Y:21.7)"
-                }
-            ]
-        },
-        "Seq": 10,
-        "oldID": 66923,
-        "Map": {
-            "ID": 18
-        },
-        "StartDependency": false
-    },
-    {
-        "ID": "db63cc7f527",
-        "Name": "Standard Procedure",
-        "Location": "Western La Noscea",
-        "Level": 44,
-        "JournalSection": 4,
-        "JournalCategory": 29,
-        "JournalGenre": "\n\t\t\t\t\t\t\tDaily Quests\n\t\t\t\t\t\t",
-        "Url": "/lodestone/playguide/db/quest/db63cc7f527/",
-        "Image": null,
-        "Icon": "common_repeat",
-        "Issuer": "Fyuu",
-        "StartLocation": {
-            "Name": "Western La Noscea",
-            "X": "17.0",
-            "Y": "22.2"
-        },
-        "StartClass": null,
-        "Job": "",
-        "Company": "Not specified",
-        "Requirement": "Not specified",
-        "Rewards": {
-            "Gil": 540,
-            "Exp": 9142,
-            "ItemsMand": [],
-            "ItemsOpt": []
-        },
-        "Infos": {},
-        "Seq": 5,
-        "oldID": 66916,
-        "Map": {
-            "ID": 18
-        },
-        "StartDependency": false
-    },
-    {
-        "ID": "dba9f4fbec1",
-        "Name": "Sea Scraps",
-        "Location": "Western La Noscea",
-        "Level": 48,
-        "JournalSection": 4,
-        "JournalCategory": 29,
-        "JournalGenre": "\n\t\t\t\t\t\t\tDaily Quests\n\t\t\t\t\t\t",
-        "Url": "/lodestone/playguide/db/quest/dba9f4fbec1/",
-        "Image": null,
-        "Icon": "common_repeat",
-        "Issuer": "Seww",
-        "StartLocation": {
-            "Name": "Western La Noscea",
-            "X": "16.9",
-            "Y": "22.6"
-        },
-        "StartClass": null,
-        "Job": "",
-        "Company": "Not specified",
-        "Requirement": "Not specified",
-        "Rewards": {
-            "Gil": 780,
-            "Exp": 10473,
-            "ItemsMand": [],
-            "ItemsOpt": [
-                {
-                    "Icon": "https://img.finalfantasyxiv.com/lds/pc/global/images/itemicon/06/06bd35b3df19cbc5d80eed3ed99c67a366c835aa.png?n5.55",
-                    "Name": "Heavens' Eye Materia IV",
-                    "Amount": 1,
-                    "Url": "/lodestone/playguide/db/item/93fe1786b70/"
-                },
-                {
-                    "Icon": "https://img.finalfantasyxiv.com/lds/pc/global/images/itemicon/06/06bd35b3df19cbc5d80eed3ed99c67a366c835aa.png?n5.55",
-                    "Name": "Savage Might Materia IV",
-                    "Amount": 1,
-                    "Url": "/lodestone/playguide/db/item/1bc25f58180/"
-                },
-                {
-                    "Icon": "https://img.finalfantasyxiv.com/lds/pc/global/images/itemicon/60/6072436b0c90d22b6a9d7da93f356256a04be53d.png?n5.55",
-                    "Name": "Quickarm Materia IV",
-                    "Amount": 1,
-                    "Url": "/lodestone/playguide/db/item/1162b3fcc58/"
-                }
-            ]
-        },
-        "Infos": {
-            "RelatedNPC": [
-                {
-                    "Name": "Captive Soldier",
-                    "Url": "/lodestone/playguide/db/npc/npc/18b0de1849e/",
-                    "Area": "Western La Noscea (X:5.0 Y:40.9)"
-                },
-                {
-                    "Name": "Captive Soldier",
-                    "Url": "/lodestone/playguide/db/npc/npc/32156506014/",
-                    "Area": "Western La Noscea (X:5.5 Y:40.9)"
-                },
-                {
-                    "Name": "Captive Soldier",
-                    "Url": "/lodestone/playguide/db/npc/npc/3ef9843b3ec/",
-                    "Area": "Western La Noscea (X:4.5 Y:40.7)"
-                },
-                {
-                    "Name": "Captive Soldier",
-                    "Url": "/lodestone/playguide/db/npc/npc/e5870c86f6f/",
-                    "Area": "Western La Noscea (X:4.2 Y:40.8)"
-                },
-                {
-                    "Name": "Pahh",
-                    "Url": "/lodestone/playguide/db/npc/npc/e1731c57a26/",
-                    "Area": "Western La Noscea (X:16.6 Y:21.7)"
-                }
-            ]
-        },
-        "Seq": 32,
-        "oldID": 66943,
-        "Map": {
-            "ID": 18
-        },
-        "StartDependency": false
-    },
-    {
-        "ID": "e37a5e4c8ca",
-        "Name": "Removing the Stain",
-        "Location": "Western La Noscea",
-        "Level": 48,
-        "JournalSection": 4,
-        "JournalCategory": 29,
-        "JournalGenre": "\n\t\t\t\t\t\t\tDaily Quests\n\t\t\t\t\t\t",
-        "Url": "/lodestone/playguide/db/quest/e37a5e4c8ca/",
-        "Image": null,
-        "Icon": "common_repeat",
-        "Issuer": "Seww",
-        "StartLocation": {
-            "Name": "Western La Noscea",
-            "X": "16.9",
-            "Y": "22.6"
-        },
-        "StartClass": null,
-        "Job": "",
-        "Company": "Not specified",
-        "Requirement": "Not specified",
-        "Rewards": {
-            "Gil": 780,
-            "Exp": 10473,
-            "ItemsMand": [],
-            "ItemsOpt": [
-                {
-                    "Icon": "https://img.finalfantasyxiv.com/lds/pc/global/images/itemicon/06/06bd35b3df19cbc5d80eed3ed99c67a366c835aa.png?n5.55",
-                    "Name": "Savage Aim Materia IV",
-                    "Amount": 1,
-                    "Url": "/lodestone/playguide/db/item/dce3a5f3467/"
-                },
-                {
-                    "Icon": "https://img.finalfantasyxiv.com/lds/pc/global/images/itemicon/59/591709d485ebd155ba018c8cd773fe3c662caed3.png?n5.55",
-                    "Name": "Battledance Materia IV",
-                    "Amount": 1,
-                    "Url": "/lodestone/playguide/db/item/37f25043bf3/"
-                },
-                {
-                    "Icon": "https://img.finalfantasyxiv.com/lds/pc/global/images/itemicon/60/6072436b0c90d22b6a9d7da93f356256a04be53d.png?n5.55",
-                    "Name": "Quickarm Materia IV",
-                    "Amount": 1,
-                    "Url": "/lodestone/playguide/db/item/1162b3fcc58/"
+                    "Url": "/lodestone/playguide/db/item/5bbb25ff7dd/"
                 }
             ]
         },
         "Infos": {},
         "Seq": 34,
-        "oldID": 66945,
-        "Map": {
-            "ID": 18
-        },
         "StartDependency": false
     },
     {
-        "ID": "e5a9990b5b6",
-        "Name": "Tines of the Trident",
-        "Location": "Western La Noscea",
+        "ID": "175c6e33d10",
+        "Name": "Feed Me",
+        "Location": "East Shroud",
+        "Level": 42,
+        "JournalSection": 4,
+        "JournalCategory": 29,
+        "JournalGenre": "\n\t\t\t\t\t\t\tDaily Quests\n\t\t\t\t\t\t",
+        "Url": "/lodestone/playguide/db/quest/175c6e33d10/",
+        "Image": null,
+        "Icon": "common_repeat",
+        "Issuer": "Tonaxia",
+        "StartLocation": {
+            "Name": "East Shroud",
+            "X": "22.4",
+            "Y": "26.5"
+        },
+        "StartClass": null,
+        "Job": "",
+        "Company": "Not specified",
+        "Requirement": "Not specified",
+        "Rewards": {
+            "Gil": 420,
+            "Exp": 4207,
+            "ItemsMand": [],
+            "ItemsOpt": []
+        },
+        "Infos": {},
+        "Seq": 8,
+        "StartDependency": false
+    },
+    {
+        "ID": "1b6a28409bd",
+        "Name": "Perilous Pumpkins",
+        "Location": "East Shroud",
+        "Level": 45,
+        "JournalSection": 4,
+        "JournalCategory": 29,
+        "JournalGenre": "\n\t\t\t\t\t\t\tDaily Quests\n\t\t\t\t\t\t",
+        "Url": "/lodestone/playguide/db/quest/1b6a28409bd/",
+        "Image": null,
+        "Icon": "common_repeat",
+        "Issuer": "Ponnixia",
+        "StartLocation": {
+            "Name": "East Shroud",
+            "X": "22.2",
+            "Y": "26.4"
+        },
+        "StartClass": null,
+        "Job": "",
+        "Company": "Not specified",
+        "Requirement": "Not specified",
+        "Rewards": {
+            "Gil": 600,
+            "Exp": 4455,
+            "ItemsMand": [],
+            "ItemsOpt": []
+        },
+        "Infos": {},
+        "Seq": 23,
+        "StartDependency": false
+    },
+    {
+        "ID": "2322925dc97",
+        "Name": "Mushroom Madness",
+        "Location": "East Shroud",
+        "Level": 45,
+        "JournalSection": 4,
+        "JournalCategory": 29,
+        "JournalGenre": "\n\t\t\t\t\t\t\tDaily Quests\n\t\t\t\t\t\t",
+        "Url": "/lodestone/playguide/db/quest/2322925dc97/",
+        "Image": null,
+        "Icon": "common_repeat",
+        "Issuer": "Ponnixia",
+        "StartLocation": {
+            "Name": "East Shroud",
+            "X": "22.2",
+            "Y": "26.4"
+        },
+        "StartClass": null,
+        "Job": "",
+        "Company": "Not specified",
+        "Requirement": "Not specified",
+        "Rewards": {
+            "Gil": 600,
+            "Exp": 4455,
+            "ItemsMand": [],
+            "ItemsOpt": []
+        },
+        "Infos": {},
+        "Seq": 17,
+        "StartDependency": false
+    },
+    {
+        "ID": "32077f7bf42",
+        "Name": "I Dream of Slimy",
+        "Location": "East Shroud",
+        "Level": 45,
+        "JournalSection": 4,
+        "JournalCategory": 29,
+        "JournalGenre": "\n\t\t\t\t\t\t\tDaily Quests\n\t\t\t\t\t\t",
+        "Url": "/lodestone/playguide/db/quest/32077f7bf42/",
+        "Image": null,
+        "Icon": "common_repeat",
+        "Issuer": "Ponnixia",
+        "StartLocation": {
+            "Name": "East Shroud",
+            "X": "22.2",
+            "Y": "26.4"
+        },
+        "StartClass": null,
+        "Job": "",
+        "Company": "Not specified",
+        "Requirement": "Not specified",
+        "Rewards": {
+            "Gil": 600,
+            "Exp": 4455,
+            "ItemsMand": [],
+            "ItemsOpt": []
+        },
+        "Infos": {},
+        "Seq": 16,
+        "StartDependency": false
+    },
+    {
+        "ID": "37393c567c4",
+        "Name": "Podling Peril",
+        "Location": "East Shroud",
         "Level": 48,
         "JournalSection": 4,
         "JournalCategory": 29,
         "JournalGenre": "\n\t\t\t\t\t\t\tDaily Quests\n\t\t\t\t\t\t",
-        "Url": "/lodestone/playguide/db/quest/e5a9990b5b6/",
+        "Url": "/lodestone/playguide/db/quest/37393c567c4/",
         "Image": null,
         "Icon": "common_repeat",
-        "Issuer": "Seww",
+        "Issuer": "Moxia",
         "StartLocation": {
-            "Name": "Western La Noscea",
-            "X": "16.9",
-            "Y": "22.6"
+            "Name": "East Shroud",
+            "X": "22.4",
+            "Y": "26.5"
         },
         "StartClass": null,
         "Job": "",
@@ -1706,23 +285,112 @@
         "Requirement": "Not specified",
         "Rewards": {
             "Gil": 780,
-            "Exp": 10473,
+            "Exp": 5130,
             "ItemsMand": [],
             "ItemsOpt": [
                 {
-                    "Icon": "https://img.finalfantasyxiv.com/lds/pc/global/images/itemicon/59/591709d485ebd155ba018c8cd773fe3c662caed3.png?n5.55",
+                    "Icon": "https://img.finalfantasyxiv.com/lds/pc/global/images/itemicon/06/06bd35b3df19cbc5d80eed3ed99c67a366c835aa.png?n6.05",
+                    "Name": "Savage Aim Materia IV",
+                    "Amount": 1,
+                    "Url": "/lodestone/playguide/db/item/dce3a5f3467/"
+                },
+                {
+                    "Icon": "https://img.finalfantasyxiv.com/lds/pc/global/images/itemicon/06/06bd35b3df19cbc5d80eed3ed99c67a366c835aa.png?n6.05",
+                    "Name": "Savage Might Materia IV",
+                    "Amount": 1,
+                    "Url": "/lodestone/playguide/db/item/1bc25f58180/"
+                },
+                {
+                    "Icon": "https://img.finalfantasyxiv.com/lds/pc/global/images/itemicon/60/6072436b0c90d22b6a9d7da93f356256a04be53d.png?n6.05",
+                    "Name": "Quicktongue Materia IV",
+                    "Amount": 1,
+                    "Url": "/lodestone/playguide/db/item/5bbb25ff7dd/"
+                }
+            ]
+        },
+        "Infos": {
+            "RelatedNPC": [
+                {
+                    "Name": "Little Solace Sylph",
+                    "Url": "/lodestone/playguide/db/npc/npc/f1457c76001/",
+                    "Area": "East Shroud (X:26.7 Y:19.9)"
+                }
+            ]
+        },
+        "Seq": 31,
+        "StartDependency": false
+    },
+    {
+        "ID": "3b300a0f097",
+        "Name": "Shocking Developments",
+        "Location": "East Shroud",
+        "Level": 45,
+        "JournalSection": 4,
+        "JournalCategory": 29,
+        "JournalGenre": "\n\t\t\t\t\t\t\tDaily Quests\n\t\t\t\t\t\t",
+        "Url": "/lodestone/playguide/db/quest/3b300a0f097/",
+        "Image": null,
+        "Icon": "common_repeat",
+        "Issuer": "Ponnixia",
+        "StartLocation": {
+            "Name": "East Shroud",
+            "X": "22.2",
+            "Y": "26.4"
+        },
+        "StartClass": null,
+        "Job": "",
+        "Company": "Not specified",
+        "Requirement": "Not specified",
+        "Rewards": {
+            "Gil": 600,
+            "Exp": 4455,
+            "ItemsMand": [],
+            "ItemsOpt": []
+        },
+        "Infos": {},
+        "Seq": 20,
+        "StartDependency": false
+    },
+    {
+        "ID": "40d5255f40b",
+        "Name": "A Sticky Situation",
+        "Location": "East Shroud",
+        "Level": 48,
+        "JournalSection": 4,
+        "JournalCategory": 29,
+        "JournalGenre": "\n\t\t\t\t\t\t\tDaily Quests\n\t\t\t\t\t\t",
+        "Url": "/lodestone/playguide/db/quest/40d5255f40b/",
+        "Image": null,
+        "Icon": "common_repeat",
+        "Issuer": "Moxia",
+        "StartLocation": {
+            "Name": "East Shroud",
+            "X": "22.4",
+            "Y": "26.5"
+        },
+        "StartClass": null,
+        "Job": "",
+        "Company": "Not specified",
+        "Requirement": "Not specified",
+        "Rewards": {
+            "Gil": 780,
+            "Exp": 5130,
+            "ItemsMand": [],
+            "ItemsOpt": [
+                {
+                    "Icon": "https://img.finalfantasyxiv.com/lds/pc/global/images/itemicon/59/591709d485ebd155ba018c8cd773fe3c662caed3.png?n6.05",
                     "Name": "Piety Materia IV",
                     "Amount": 1,
                     "Url": "/lodestone/playguide/db/item/905d47601dd/"
                 },
                 {
-                    "Icon": "https://img.finalfantasyxiv.com/lds/pc/global/images/itemicon/59/591709d485ebd155ba018c8cd773fe3c662caed3.png?n5.55",
-                    "Name": "Battledance Materia IV",
+                    "Icon": "https://img.finalfantasyxiv.com/lds/pc/global/images/itemicon/06/06bd35b3df19cbc5d80eed3ed99c67a366c835aa.png?n6.05",
+                    "Name": "Heavens' Eye Materia IV",
                     "Amount": 1,
-                    "Url": "/lodestone/playguide/db/item/37f25043bf3/"
+                    "Url": "/lodestone/playguide/db/item/93fe1786b70/"
                 },
                 {
-                    "Icon": "https://img.finalfantasyxiv.com/lds/pc/global/images/itemicon/60/6072436b0c90d22b6a9d7da93f356256a04be53d.png?n5.55",
+                    "Icon": "https://img.finalfantasyxiv.com/lds/pc/global/images/itemicon/60/6072436b0c90d22b6a9d7da93f356256a04be53d.png?n6.05",
                     "Name": "Quickarm Materia IV",
                     "Amount": 1,
                     "Url": "/lodestone/playguide/db/item/1162b3fcc58/"
@@ -1730,37 +398,33 @@
             ]
         },
         "Infos": {},
-        "Seq": 25,
-        "oldID": 66936,
-        "Map": {
-            "ID": 18
-        },
+        "Seq": 26,
         "StartDependency": false
     },
     {
-        "ID": "f6cfe116e17",
-        "Name": "They Came from the Deep",
-        "Location": "Limsa Lominsa",
-        "Level": 44,
+        "ID": "4d62c9f19ee",
+        "Name": "Seeking Solace",
+        "Location": "Gridania",
+        "Level": 42,
         "JournalSection": 4,
         "JournalCategory": 29,
         "JournalGenre": "\n\t\t\t\t\t\t\tMain Quests\n\t\t\t\t\t\t",
-        "Url": "/lodestone/playguide/db/quest/f6cfe116e17/",
-        "Image": "https://img.finalfantasyxiv.com/lds/pc/global/images/itemicon/fb/fb1a481c27de5b350b4e441076478481313136fd.png?n5.55",
+        "Url": "/lodestone/playguide/db/quest/4d62c9f19ee/",
+        "Image": "https://img.finalfantasyxiv.com/lds/pc/global/images/itemicon/c1/c1a6ea955d51c2d7edb30e8027db34c970f54533.png?n6.05",
         "Icon": "function_normal",
-        "Issuer": "R'ashaht Rhiki",
+        "Issuer": "Vorsaile Heuloix",
         "StartLocation": {
-            "Name": "Limsa Lominsa Upper Decks",
-            "X": "13.1",
-            "Y": "12.8"
+            "Name": "New Gridania",
+            "X": "9.7",
+            "Y": "11.1"
         },
         "StartClass": null,
         "Job": "",
         "Company": "Not specified",
         "Requirement": "Not specified",
         "Rewards": {
-            "Gil": 729,
-            "Exp": 12190,
+            "Gil": 825,
+            "Exp": 5610,
             "ItemsMand": [],
             "ItemsOpt": []
         },
@@ -1775,105 +439,1161 @@
             ],
             "FollowupQuest": [
                 {
-                    "Name": "Clutch and Kin",
-                    "Url": "/lodestone/playguide/db/quest/5f36f9fc938/",
-                    "Area": "Western La Noscea",
-                    "Level": "44"
+                    "Name": "Voyce of Concern",
+                    "Url": "/lodestone/playguide/db/quest/9deb59f1211/",
+                    "Area": "East Shroud",
+                    "Level": "42"
                 }
             ],
             "RelatedNPC": [
                 {
-                    "Name": "Bedraggled Woman",
-                    "Url": "/lodestone/playguide/db/npc/npc/24bb3ebcad7/",
-                    "Area": "Eastern La Noscea (X:31.6 Y:26.4)"
+                    "Name": "Frixio",
+                    "Url": "/lodestone/playguide/db/npc/npc/37230901206/",
+                    "Area": "East Shroud (X:22.0 Y:25.6)"
                 },
                 {
-                    "Name": "Bedraggled Woman",
-                    "Url": "/lodestone/playguide/db/npc/npc/2925cd3ccba/",
-                    "Area": "Eastern La Noscea (X:31.6 Y:26.4)"
-                },
-                {
-                    "Name": "Injured Survivor",
-                    "Url": "/lodestone/playguide/db/npc/npc/b8f8193917d/",
-                    "Area": "Eastern La Noscea (X:31.4 Y:26.3)"
-                },
-                {
-                    "Name": "Injured Survivor",
-                    "Url": "/lodestone/playguide/db/npc/npc/1a54756b906/",
-                    "Area": "Eastern La Noscea (X:31.8 Y:26.3)"
-                },
-                {
-                    "Name": "Robyn",
-                    "Url": "/lodestone/playguide/db/npc/npc/912ca202485/",
-                    "Area": "Eastern La Noscea (X:31.6 Y:26.4)"
-                },
-                {
-                    "Name": "Wilfalk",
-                    "Url": "/lodestone/playguide/db/npc/npc/b73cf2d4186/",
-                    "Area": "Eastern La Noscea (X:31.6 Y:26.5)"
-                },
-                {
-                    "Name": "Wounded Survivor",
-                    "Url": "/lodestone/playguide/db/npc/npc/abfc98cc1a6/",
-                    "Area": "Eastern La Noscea (X:31.7 Y:26.5)"
-                },
-                {
-                    "Name": "Wounded Survivor",
-                    "Url": "/lodestone/playguide/db/npc/npc/a867e85839e/",
-                    "Area": "Eastern La Noscea (X:31.6 Y:26.6)"
-                },
-                {
-                    "Name": "Novv",
-                    "Url": "/lodestone/playguide/db/npc/npc/b381ff33ab9/",
-                    "Area": "Western La Noscea (X:16.7 Y:22.8)"
-                },
-                {
-                    "Name": "Sahagin Spawnling",
-                    "Url": "/lodestone/playguide/db/npc/npc/f3b8da9fc0e/",
-                    "Area": "Western La Noscea (X:17.3 Y:21.9)"
+                    "Name": "Olmxio",
+                    "Url": "/lodestone/playguide/db/npc/npc/ca267dac437/",
+                    "Area": "East Shroud (X:22.4 Y:26.4)"
                 }
             ]
         },
-        "Seq": 33,
-        "oldID": 66910,
-        "Map": {
-            "ID": 11
-        },
+        "Seq": 10,
         "StartDependency": false
     },
     {
-        "ID": "fcd897d8044",
-        "Name": "Ballista Bust-up",
-        "Location": "Western La Noscea",
-        "Level": 46,
+        "ID": "4e6d0856349",
+        "Name": "Raising a Stink",
+        "Location": "East Shroud",
+        "Level": 42,
         "JournalSection": 4,
         "JournalCategory": 29,
         "JournalGenre": "\n\t\t\t\t\t\t\tDaily Quests\n\t\t\t\t\t\t",
-        "Url": "/lodestone/playguide/db/quest/fcd897d8044/",
+        "Url": "/lodestone/playguide/db/quest/4e6d0856349/",
         "Image": null,
         "Icon": "common_repeat",
-        "Issuer": "Houu",
+        "Issuer": "Tonaxia",
         "StartLocation": {
-            "Name": "Western La Noscea",
-            "X": "16.5",
-            "Y": "22.5"
+            "Name": "East Shroud",
+            "X": "22.4",
+            "Y": "26.5"
         },
         "StartClass": null,
         "Job": "",
         "Company": "Not specified",
         "Requirement": "Not specified",
         "Rewards": {
-            "Gil": 660,
-            "Exp": 9693,
+            "Gil": 420,
+            "Exp": 4207,
             "ItemsMand": [],
             "ItemsOpt": []
         },
         "Infos": {},
-        "Seq": 19,
-        "oldID": 66929,
-        "Map": {
-            "ID": 18
+        "Seq": 14,
+        "StartDependency": false
+    },
+    {
+        "ID": "4f3ab651fcc",
+        "Name": "Imperial Intruders",
+        "Location": "East Shroud",
+        "Level": 42,
+        "JournalSection": 4,
+        "JournalCategory": 29,
+        "JournalGenre": "\n\t\t\t\t\t\t\tDaily Quests\n\t\t\t\t\t\t",
+        "Url": "/lodestone/playguide/db/quest/4f3ab651fcc/",
+        "Image": null,
+        "Icon": "common_repeat",
+        "Issuer": "Tonaxia",
+        "StartLocation": {
+            "Name": "East Shroud",
+            "X": "22.4",
+            "Y": "26.5"
         },
+        "StartClass": null,
+        "Job": "",
+        "Company": "Not specified",
+        "Requirement": "Not specified",
+        "Rewards": {
+            "Gil": 420,
+            "Exp": 4207,
+            "ItemsMand": [],
+            "ItemsOpt": []
+        },
+        "Infos": {
+            "RelatedNPC": [
+                {
+                    "Name": "Imperial Soldier",
+                    "Url": "/lodestone/playguide/db/npc/npc/a194f8de36f/",
+                    "Area": "East Shroud (X:25.2 Y:23.4)"
+                },
+                {
+                    "Name": "Imperial Soldier",
+                    "Url": "/lodestone/playguide/db/npc/npc/974e555b509/",
+                    "Area": "East Shroud (X:27.3 Y:24.4)"
+                },
+                {
+                    "Name": "Imperial Soldier",
+                    "Url": "/lodestone/playguide/db/npc/npc/5b27163a3d8/",
+                    "Area": "East Shroud (X:27.2 Y:22.4)"
+                },
+                {
+                    "Name": "Imperial Soldier",
+                    "Url": "/lodestone/playguide/db/npc/npc/3e64f625284/",
+                    "Area": "East Shroud (X:25.6 Y:21.1)"
+                },
+                {
+                    "Name": "Imperial Soldier",
+                    "Url": "/lodestone/playguide/db/npc/npc/ce1f49e9e7f/",
+                    "Area": "East Shroud (X:26.3 Y:23.8)"
+                },
+                {
+                    "Name": "Imperial Soldier",
+                    "Url": "/lodestone/playguide/db/npc/npc/038e50b3e08/",
+                    "Area": "East Shroud (X:23.6 Y:21.3)"
+                },
+                {
+                    "Name": "Imperial Soldier",
+                    "Url": "/lodestone/playguide/db/npc/npc/1fe56dd1ae4/",
+                    "Area": "East Shroud (X:21.4 Y:21.7)"
+                }
+            ]
+        },
+        "Seq": 11,
+        "StartDependency": false
+    },
+    {
+        "ID": "561661191e3",
+        "Name": "Idle Hands",
+        "Location": "East Shroud",
+        "Level": 48,
+        "JournalSection": 4,
+        "JournalCategory": 29,
+        "JournalGenre": "\n\t\t\t\t\t\t\tMain Quests\n\t\t\t\t\t\t",
+        "Url": "/lodestone/playguide/db/quest/561661191e3/",
+        "Image": "https://img.finalfantasyxiv.com/lds/pc/global/images/itemicon/fb/fbaadc1d8ab1030787c0c7569019cf79bc3c94d2.png?n6.05",
+        "Icon": "function_normal",
+        "Issuer": "Olmxio",
+        "StartLocation": {
+            "Name": "East Shroud",
+            "X": "22.4",
+            "Y": "26.4"
+        },
+        "StartClass": null,
+        "Job": "",
+        "Company": "Not specified",
+        "Requirement": "Not specified",
+        "Rewards": {
+            "Gil": 912,
+            "Exp": 6840,
+            "ItemsMand": [],
+            "ItemsOpt": []
+        },
+        "Infos": {
+            "PrerequisiteQuest": [
+                {
+                    "Name": "Pilfered Podlings",
+                    "Url": "/lodestone/playguide/db/quest/57269887241/",
+                    "Area": "East Shroud",
+                    "Level": "45"
+                }
+            ],
+            "FollowupQuest": [
+                {
+                    "Name": "Feathers and Folly",
+                    "Url": "/lodestone/playguide/db/quest/778068e458f/",
+                    "Area": "East Shroud",
+                    "Level": "48"
+                }
+            ],
+            "RelatedNPC": [
+                {
+                    "Name": "Frixio",
+                    "Url": "/lodestone/playguide/db/npc/npc/37230901206/",
+                    "Area": "East Shroud (X:22.0 Y:25.6)"
+                },
+                {
+                    "Name": "Nathaxio",
+                    "Url": "/lodestone/playguide/db/npc/npc/924d14b3b1f/",
+                    "Area": "East Shroud (X:23.5 Y:25.2)"
+                },
+                {
+                    "Name": "Voyce",
+                    "Url": "/lodestone/playguide/db/npc/npc/ac67ccc1c7c/",
+                    "Area": "East Shroud (X:21.9 Y:26.5)"
+                },
+                {
+                    "Name": "Voyce",
+                    "Url": "/lodestone/playguide/db/npc/npc/7b3a70b3b10/",
+                    "Area": "East Shroud (X:26.9 Y:20.0)"
+                }
+            ]
+        },
+        "Seq": 3,
+        "StartDependency": false
+    },
+    {
+        "ID": "57269887241",
+        "Name": "Pilfered Podlings",
+        "Location": "East Shroud",
+        "Level": 45,
+        "JournalSection": 4,
+        "JournalCategory": 29,
+        "JournalGenre": "\n\t\t\t\t\t\t\tMain Quests\n\t\t\t\t\t\t",
+        "Url": "/lodestone/playguide/db/quest/57269887241/",
+        "Image": "https://img.finalfantasyxiv.com/lds/pc/global/images/itemicon/15/150311fb3fee8c8b0a1c0777aaf02297198df1d4.png?n6.05",
+        "Icon": "function_normal",
+        "Issuer": "Voyce",
+        "StartLocation": {
+            "Name": "East Shroud",
+            "X": "21.9",
+            "Y": "26.5"
+        },
+        "StartClass": null,
+        "Job": "",
+        "Company": "Not specified",
+        "Requirement": "Not specified",
+        "Rewards": {
+            "Gil": 869,
+            "Exp": 5940,
+            "ItemsMand": [],
+            "ItemsOpt": []
+        },
+        "Infos": {
+            "PrerequisiteQuest": [
+                {
+                    "Name": "Voyce of Concern",
+                    "Url": "/lodestone/playguide/db/quest/9deb59f1211/",
+                    "Area": "East Shroud",
+                    "Level": "42"
+                }
+            ],
+            "FollowupQuest": [
+                {
+                    "Name": "Idle Hands",
+                    "Url": "/lodestone/playguide/db/quest/561661191e3/",
+                    "Area": "East Shroud",
+                    "Level": "48"
+                }
+            ],
+            "RelatedNPC": [
+                {
+                    "Name": "Olmxio",
+                    "Url": "/lodestone/playguide/db/npc/npc/ca267dac437/",
+                    "Area": "East Shroud (X:22.4 Y:26.4)"
+                },
+                {
+                    "Name": "Sluggish Sylph",
+                    "Url": "/lodestone/playguide/db/npc/npc/81b5da146e2/",
+                    "Area": "East Shroud (X:26.4 Y:20.3)"
+                }
+            ]
+        },
+        "Seq": 2,
+        "StartDependency": false
+    },
+    {
+        "ID": "5aa71b73729",
+        "Name": "The Magitek Menace",
+        "Location": "East Shroud",
+        "Level": 42,
+        "JournalSection": 4,
+        "JournalCategory": 29,
+        "JournalGenre": "\n\t\t\t\t\t\t\tDaily Quests\n\t\t\t\t\t\t",
+        "Url": "/lodestone/playguide/db/quest/5aa71b73729/",
+        "Image": null,
+        "Icon": "common_repeat",
+        "Issuer": "Tonaxia",
+        "StartLocation": {
+            "Name": "East Shroud",
+            "X": "22.4",
+            "Y": "26.5"
+        },
+        "StartClass": null,
+        "Job": "",
+        "Company": "Not specified",
+        "Requirement": "Not specified",
+        "Rewards": {
+            "Gil": 420,
+            "Exp": 4207,
+            "ItemsMand": [],
+            "ItemsOpt": []
+        },
+        "Infos": {},
+        "Seq": 12,
+        "StartDependency": false
+    },
+    {
+        "ID": "5d13a6a04a6",
+        "Name": "With One Stone",
+        "Location": "East Shroud",
+        "Level": 45,
+        "JournalSection": 4,
+        "JournalCategory": 29,
+        "JournalGenre": "\n\t\t\t\t\t\t\tDaily Quests\n\t\t\t\t\t\t",
+        "Url": "/lodestone/playguide/db/quest/5d13a6a04a6/",
+        "Image": null,
+        "Icon": "common_repeat",
+        "Issuer": "Ponnixia",
+        "StartLocation": {
+            "Name": "East Shroud",
+            "X": "22.2",
+            "Y": "26.4"
+        },
+        "StartClass": null,
+        "Job": "",
+        "Company": "Not specified",
+        "Requirement": "Not specified",
+        "Rewards": {
+            "Gil": 600,
+            "Exp": 4455,
+            "ItemsMand": [],
+            "ItemsOpt": []
+        },
+        "Infos": {},
+        "Seq": 15,
+        "StartDependency": false
+    },
+    {
+        "ID": "6405088158c",
+        "Name": "Malodorous Mischief",
+        "Location": "East Shroud",
+        "Level": 42,
+        "JournalSection": 4,
+        "JournalCategory": 29,
+        "JournalGenre": "\n\t\t\t\t\t\t\tDaily Quests\n\t\t\t\t\t\t",
+        "Url": "/lodestone/playguide/db/quest/6405088158c/",
+        "Image": null,
+        "Icon": "common_repeat",
+        "Issuer": "Tonaxia",
+        "StartLocation": {
+            "Name": "East Shroud",
+            "X": "22.4",
+            "Y": "26.5"
+        },
+        "StartClass": null,
+        "Job": "",
+        "Company": "Not specified",
+        "Requirement": "Not specified",
+        "Rewards": {
+            "Gil": 420,
+            "Exp": 4207,
+            "ItemsMand": [],
+            "ItemsOpt": []
+        },
+        "Infos": {},
+        "Seq": 6,
+        "StartDependency": false
+    },
+    {
+        "ID": "778068e458f",
+        "Name": "Feathers and Folly",
+        "Location": "East Shroud",
+        "Level": 48,
+        "JournalSection": 4,
+        "JournalCategory": 29,
+        "JournalGenre": "\n\t\t\t\t\t\t\tMain Quests\n\t\t\t\t\t\t",
+        "Url": "/lodestone/playguide/db/quest/778068e458f/",
+        "Image": "https://img.finalfantasyxiv.com/lds/pc/global/images/itemicon/62/627a9697fe47af1b42ef70c4ad317f16de426b79.png?n6.05",
+        "Icon": "function_normal",
+        "Issuer": "Olmxio",
+        "StartLocation": {
+            "Name": "East Shroud",
+            "X": "22.4",
+            "Y": "26.4"
+        },
+        "StartClass": null,
+        "Job": "",
+        "Company": "Not specified",
+        "Requirement": "Not specified",
+        "Rewards": {
+            "Gil": 912,
+            "Exp": 6840,
+            "ItemsMand": [],
+            "ItemsOpt": []
+        },
+        "Infos": {
+            "PrerequisiteQuest": [
+                {
+                    "Name": "Idle Hands",
+                    "Url": "/lodestone/playguide/db/quest/561661191e3/",
+                    "Area": "East Shroud",
+                    "Level": "48"
+                }
+            ],
+            "RelatedNPC": [
+                {
+                    "Name": "Frixio",
+                    "Url": "/lodestone/playguide/db/npc/npc/37230901206/",
+                    "Area": "East Shroud (X:22.0 Y:25.6)"
+                },
+                {
+                    "Name": "Voco",
+                    "Url": "/lodestone/playguide/db/npc/npc/29328e4ce0b/",
+                    "Area": "East Shroud (X:21.3 Y:10.8)"
+                },
+                {
+                    "Name": "Voco",
+                    "Url": "/lodestone/playguide/db/npc/npc/71d3467cae0/",
+                    "Area": "East Shroud (X:26.5 Y:20.1)"
+                },
+                {
+                    "Name": "Voyce",
+                    "Url": "/lodestone/playguide/db/npc/npc/ac67ccc1c7c/",
+                    "Area": "East Shroud (X:21.9 Y:26.5)"
+                },
+                {
+                    "Name": "Voyce",
+                    "Url": "/lodestone/playguide/db/npc/npc/f568dbca00f/",
+                    "Area": "East Shroud (X:23.5 Y:11.2)"
+                },
+                {
+                    "Name": "Vorsaile Heuloix",
+                    "Url": "/lodestone/playguide/db/npc/npc/dc5622e5466/",
+                    "Area": "New Gridania (X:9.7 Y:11.1)"
+                }
+            ]
+        },
+        "Seq": 4,
+        "StartDependency": false
+    },
+    {
+        "ID": "7a6ba6b45f9",
+        "Name": "Not Who They Seem",
+        "Location": "East Shroud",
+        "Level": 42,
+        "JournalSection": 4,
+        "JournalCategory": 29,
+        "JournalGenre": "\n\t\t\t\t\t\t\tDaily Quests\n\t\t\t\t\t\t",
+        "Url": "/lodestone/playguide/db/quest/7a6ba6b45f9/",
+        "Image": null,
+        "Icon": "common_repeat",
+        "Issuer": "Tonaxia",
+        "StartLocation": {
+            "Name": "East Shroud",
+            "X": "22.4",
+            "Y": "26.5"
+        },
+        "StartClass": null,
+        "Job": "",
+        "Company": "Not specified",
+        "Requirement": "Not specified",
+        "Rewards": {
+            "Gil": 420,
+            "Exp": 4207,
+            "ItemsMand": [],
+            "ItemsOpt": []
+        },
+        "Infos": {
+            "RelatedNPC": [
+                {
+                    "Name": "Shifty Brute",
+                    "Url": "/lodestone/playguide/db/npc/npc/45b4c5ccd22/",
+                    "Area": "East Shroud (X:25.2 Y:23.2)"
+                },
+                {
+                    "Name": "Shifty Codger",
+                    "Url": "/lodestone/playguide/db/npc/npc/272c79bede5/",
+                    "Area": "East Shroud (X:25.8 Y:23.2)"
+                },
+                {
+                    "Name": "Shifty Crone",
+                    "Url": "/lodestone/playguide/db/npc/npc/ea4f7cafea4/",
+                    "Area": "East Shroud (X:25.5 Y:24.0)"
+                },
+                {
+                    "Name": "Shifty Youth",
+                    "Url": "/lodestone/playguide/db/npc/npc/04fd4b16888/",
+                    "Area": "East Shroud (X:25.8 Y:21.3)"
+                }
+            ]
+        },
+        "Seq": 13,
+        "StartDependency": false
+    },
+    {
+        "ID": "7c748bda341",
+        "Name": "Sympathy for the Sentinel",
+        "Location": "East Shroud",
+        "Level": 48,
+        "JournalSection": 4,
+        "JournalCategory": 29,
+        "JournalGenre": "\n\t\t\t\t\t\t\tDaily Quests\n\t\t\t\t\t\t",
+        "Url": "/lodestone/playguide/db/quest/7c748bda341/",
+        "Image": null,
+        "Icon": "common_repeat",
+        "Issuer": "Moxia",
+        "StartLocation": {
+            "Name": "East Shroud",
+            "X": "22.4",
+            "Y": "26.5"
+        },
+        "StartClass": null,
+        "Job": "",
+        "Company": "Not specified",
+        "Requirement": "Not specified",
+        "Rewards": {
+            "Gil": 780,
+            "Exp": 5130,
+            "ItemsMand": [],
+            "ItemsOpt": [
+                {
+                    "Icon": "https://img.finalfantasyxiv.com/lds/pc/global/images/itemicon/06/06bd35b3df19cbc5d80eed3ed99c67a366c835aa.png?n6.05",
+                    "Name": "Heavens' Eye Materia IV",
+                    "Amount": 1,
+                    "Url": "/lodestone/playguide/db/item/93fe1786b70/"
+                },
+                {
+                    "Icon": "https://img.finalfantasyxiv.com/lds/pc/global/images/itemicon/06/06bd35b3df19cbc5d80eed3ed99c67a366c835aa.png?n6.05",
+                    "Name": "Savage Might Materia IV",
+                    "Amount": 1,
+                    "Url": "/lodestone/playguide/db/item/1bc25f58180/"
+                },
+                {
+                    "Icon": "https://img.finalfantasyxiv.com/lds/pc/global/images/itemicon/60/6072436b0c90d22b6a9d7da93f356256a04be53d.png?n6.05",
+                    "Name": "Quickarm Materia IV",
+                    "Amount": 1,
+                    "Url": "/lodestone/playguide/db/item/1162b3fcc58/"
+                }
+            ]
+        },
+        "Infos": {},
+        "Seq": 27,
+        "StartDependency": false
+    },
+    {
+        "ID": "9deb59f1211",
+        "Name": "Voyce of Concern",
+        "Location": "East Shroud",
+        "Level": 42,
+        "JournalSection": 4,
+        "JournalCategory": 29,
+        "JournalGenre": "\n\t\t\t\t\t\t\tMain Quests\n\t\t\t\t\t\t",
+        "Url": "/lodestone/playguide/db/quest/9deb59f1211/",
+        "Image": "https://img.finalfantasyxiv.com/lds/pc/global/images/itemicon/6e/6eb4bb32f2d26b509dc50ffb440d46a8e071adde.png?n6.05",
+        "Icon": "function_normal",
+        "Issuer": "Olmxio",
+        "StartLocation": {
+            "Name": "East Shroud",
+            "X": "22.4",
+            "Y": "26.4"
+        },
+        "StartClass": null,
+        "Job": "",
+        "Company": "Not specified",
+        "Requirement": "Not specified",
+        "Rewards": {
+            "Gil": 825,
+            "Exp": 5610,
+            "ItemsMand": [],
+            "ItemsOpt": []
+        },
+        "Infos": {
+            "PrerequisiteQuest": [
+                {
+                    "Name": "Seeking Solace",
+                    "Url": "/lodestone/playguide/db/quest/4d62c9f19ee/",
+                    "Area": "Gridania",
+                    "Level": "42"
+                }
+            ],
+            "FollowupQuest": [
+                {
+                    "Name": "Pilfered Podlings",
+                    "Url": "/lodestone/playguide/db/quest/57269887241/",
+                    "Area": "East Shroud",
+                    "Level": "45"
+                }
+            ],
+            "RelatedNPC": [
+                {
+                    "Name": "Voyce",
+                    "Url": "/lodestone/playguide/db/npc/npc/ac67ccc1c7c/",
+                    "Area": "East Shroud (X:21.9 Y:26.5)"
+                },
+                {
+                    "Name": "Voyce",
+                    "Url": "/lodestone/playguide/db/npc/npc/4fcecc0a543/",
+                    "Area": "East Shroud (X:27.3 Y:24.3)"
+                }
+            ]
+        },
+        "Seq": 1,
+        "StartDependency": false
+    },
+    {
+        "ID": "a3e4ca95493",
+        "Name": "Ripe for the Picking",
+        "Location": "East Shroud",
+        "Level": 48,
+        "JournalSection": 4,
+        "JournalCategory": 29,
+        "JournalGenre": "\n\t\t\t\t\t\t\tDaily Quests\n\t\t\t\t\t\t",
+        "Url": "/lodestone/playguide/db/quest/a3e4ca95493/",
+        "Image": null,
+        "Icon": "common_repeat",
+        "Issuer": "Moxia",
+        "StartLocation": {
+            "Name": "East Shroud",
+            "X": "22.4",
+            "Y": "26.5"
+        },
+        "StartClass": null,
+        "Job": "",
+        "Company": "Not specified",
+        "Requirement": "Not specified",
+        "Rewards": {
+            "Gil": 780,
+            "Exp": 5130,
+            "ItemsMand": [],
+            "ItemsOpt": [
+                {
+                    "Icon": "https://img.finalfantasyxiv.com/lds/pc/global/images/itemicon/06/06bd35b3df19cbc5d80eed3ed99c67a366c835aa.png?n6.05",
+                    "Name": "Savage Aim Materia IV",
+                    "Amount": 1,
+                    "Url": "/lodestone/playguide/db/item/dce3a5f3467/"
+                },
+                {
+                    "Icon": "https://img.finalfantasyxiv.com/lds/pc/global/images/itemicon/59/591709d485ebd155ba018c8cd773fe3c662caed3.png?n6.05",
+                    "Name": "Battledance Materia IV",
+                    "Amount": 1,
+                    "Url": "/lodestone/playguide/db/item/37f25043bf3/"
+                },
+                {
+                    "Icon": "https://img.finalfantasyxiv.com/lds/pc/global/images/itemicon/60/6072436b0c90d22b6a9d7da93f356256a04be53d.png?n6.05",
+                    "Name": "Quickarm Materia IV",
+                    "Amount": 1,
+                    "Url": "/lodestone/playguide/db/item/1162b3fcc58/"
+                }
+            ]
+        },
+        "Infos": {},
+        "Seq": 25,
+        "StartDependency": false
+    },
+    {
+        "ID": "ac86816fa41",
+        "Name": "Moxia's Magnum Opus",
+        "Location": "East Shroud",
+        "Level": 48,
+        "JournalSection": 4,
+        "JournalCategory": 29,
+        "JournalGenre": "\n\t\t\t\t\t\t\tDaily Quests\n\t\t\t\t\t\t",
+        "Url": "/lodestone/playguide/db/quest/ac86816fa41/",
+        "Image": null,
+        "Icon": "common_repeat",
+        "Issuer": "Moxia",
+        "StartLocation": {
+            "Name": "East Shroud",
+            "X": "22.4",
+            "Y": "26.5"
+        },
+        "StartClass": null,
+        "Job": "",
+        "Company": "Not specified",
+        "Requirement": "Not specified",
+        "Rewards": {
+            "Gil": 780,
+            "Exp": 5130,
+            "ItemsMand": [],
+            "ItemsOpt": [
+                {
+                    "Icon": "https://img.finalfantasyxiv.com/lds/pc/global/images/itemicon/06/06bd35b3df19cbc5d80eed3ed99c67a366c835aa.png?n6.05",
+                    "Name": "Heavens' Eye Materia IV",
+                    "Amount": 1,
+                    "Url": "/lodestone/playguide/db/item/93fe1786b70/"
+                },
+                {
+                    "Icon": "https://img.finalfantasyxiv.com/lds/pc/global/images/itemicon/06/06bd35b3df19cbc5d80eed3ed99c67a366c835aa.png?n6.05",
+                    "Name": "Savage Aim Materia IV",
+                    "Amount": 1,
+                    "Url": "/lodestone/playguide/db/item/dce3a5f3467/"
+                },
+                {
+                    "Icon": "https://img.finalfantasyxiv.com/lds/pc/global/images/itemicon/60/6072436b0c90d22b6a9d7da93f356256a04be53d.png?n6.05",
+                    "Name": "Quicktongue Materia IV",
+                    "Amount": 1,
+                    "Url": "/lodestone/playguide/db/item/5bbb25ff7dd/"
+                }
+            ]
+        },
+        "Infos": {},
+        "Seq": 33,
+        "StartDependency": false
+    },
+    {
+        "ID": "ad1c8ce23d1",
+        "Name": "Something to Sneeze At",
+        "Location": "East Shroud",
+        "Level": 45,
+        "JournalSection": 4,
+        "JournalCategory": 29,
+        "JournalGenre": "\n\t\t\t\t\t\t\tDaily Quests\n\t\t\t\t\t\t",
+        "Url": "/lodestone/playguide/db/quest/ad1c8ce23d1/",
+        "Image": null,
+        "Icon": "common_repeat",
+        "Issuer": "Ponnixia",
+        "StartLocation": {
+            "Name": "East Shroud",
+            "X": "22.2",
+            "Y": "26.4"
+        },
+        "StartClass": null,
+        "Job": "",
+        "Company": "Not specified",
+        "Requirement": "Not specified",
+        "Rewards": {
+            "Gil": 600,
+            "Exp": 4455,
+            "ItemsMand": [],
+            "ItemsOpt": []
+        },
+        "Infos": {
+            "RelatedNPC": [
+                {
+                    "Name": "Amiable Sylph",
+                    "Url": "/lodestone/playguide/db/npc/npc/8cc68c6674a/",
+                    "Area": "East Shroud (X:25.1 Y:25.4)"
+                }
+            ]
+        },
+        "Seq": 19,
+        "StartDependency": false
+    },
+    {
+        "ID": "ad76031b8e9",
+        "Name": "Deck the Hut",
+        "Location": "East Shroud",
+        "Level": 42,
+        "JournalSection": 4,
+        "JournalCategory": 29,
+        "JournalGenre": "\n\t\t\t\t\t\t\tDaily Quests\n\t\t\t\t\t\t",
+        "Url": "/lodestone/playguide/db/quest/ad76031b8e9/",
+        "Image": null,
+        "Icon": "common_repeat",
+        "Issuer": "Tonaxia",
+        "StartLocation": {
+            "Name": "East Shroud",
+            "X": "22.4",
+            "Y": "26.5"
+        },
+        "StartClass": null,
+        "Job": "",
+        "Company": "Not specified",
+        "Requirement": "Not specified",
+        "Rewards": {
+            "Gil": 420,
+            "Exp": 4207,
+            "ItemsMand": [],
+            "ItemsOpt": []
+        },
+        "Infos": {
+            "RelatedNPC": [
+                {
+                    "Name": "Rolfe Hawthorne",
+                    "Url": "/lodestone/playguide/db/npc/npc/a12310f7cab/",
+                    "Area": "East Shroud (X:16.7 Y:27.1)"
+                }
+            ]
+        },
+        "Seq": 5,
+        "StartDependency": false
+    },
+    {
+        "ID": "c6c66113d8d",
+        "Name": "Waterbringer",
+        "Location": "East Shroud",
+        "Level": 45,
+        "JournalSection": 4,
+        "JournalCategory": 29,
+        "JournalGenre": "\n\t\t\t\t\t\t\tDaily Quests\n\t\t\t\t\t\t",
+        "Url": "/lodestone/playguide/db/quest/c6c66113d8d/",
+        "Image": null,
+        "Icon": "common_repeat",
+        "Issuer": "Ponnixia",
+        "StartLocation": {
+            "Name": "East Shroud",
+            "X": "22.2",
+            "Y": "26.4"
+        },
+        "StartClass": null,
+        "Job": "",
+        "Company": "Not specified",
+        "Requirement": "Not specified",
+        "Rewards": {
+            "Gil": 600,
+            "Exp": 4455,
+            "ItemsMand": [],
+            "ItemsOpt": []
+        },
+        "Infos": {
+            "RelatedNPC": [
+                {
+                    "Name": "Mysterious Sylph",
+                    "Url": "/lodestone/playguide/db/npc/npc/b737a244903/",
+                    "Area": "East Shroud (X:26.6 Y:20.2)"
+                }
+            ]
+        },
+        "Seq": 21,
+        "StartDependency": false
+    },
+    {
+        "ID": "cf62dac63d2",
+        "Name": "No Root for You",
+        "Location": "East Shroud",
+        "Level": 48,
+        "JournalSection": 4,
+        "JournalCategory": 29,
+        "JournalGenre": "\n\t\t\t\t\t\t\tDaily Quests\n\t\t\t\t\t\t",
+        "Url": "/lodestone/playguide/db/quest/cf62dac63d2/",
+        "Image": null,
+        "Icon": "common_repeat",
+        "Issuer": "Moxia",
+        "StartLocation": {
+            "Name": "East Shroud",
+            "X": "22.4",
+            "Y": "26.5"
+        },
+        "StartClass": null,
+        "Job": "",
+        "Company": "Not specified",
+        "Requirement": "Not specified",
+        "Rewards": {
+            "Gil": 780,
+            "Exp": 5130,
+            "ItemsMand": [],
+            "ItemsOpt": [
+                {
+                    "Icon": "https://img.finalfantasyxiv.com/lds/pc/global/images/itemicon/06/06bd35b3df19cbc5d80eed3ed99c67a366c835aa.png?n6.05",
+                    "Name": "Savage Might Materia IV",
+                    "Amount": 1,
+                    "Url": "/lodestone/playguide/db/item/1bc25f58180/"
+                },
+                {
+                    "Icon": "https://img.finalfantasyxiv.com/lds/pc/global/images/itemicon/59/591709d485ebd155ba018c8cd773fe3c662caed3.png?n6.05",
+                    "Name": "Battledance Materia IV",
+                    "Amount": 1,
+                    "Url": "/lodestone/playguide/db/item/37f25043bf3/"
+                },
+                {
+                    "Icon": "https://img.finalfantasyxiv.com/lds/pc/global/images/itemicon/60/6072436b0c90d22b6a9d7da93f356256a04be53d.png?n6.05",
+                    "Name": "Quickarm Materia IV",
+                    "Amount": 1,
+                    "Url": "/lodestone/playguide/db/item/1162b3fcc58/"
+                }
+            ]
+        },
+        "Infos": {
+            "RelatedNPC": [
+                {
+                    "Name": "Shifty Botanist",
+                    "Url": "/lodestone/playguide/db/npc/npc/c3cd9a6b430/",
+                    "Area": "East Shroud (X:23.3 Y:14.7)"
+                },
+                {
+                    "Name": "Shifty Carpenter",
+                    "Url": "/lodestone/playguide/db/npc/npc/773d6676139/",
+                    "Area": "East Shroud (X:23.0 Y:16.2)"
+                },
+                {
+                    "Name": "Shifty Conjurer",
+                    "Url": "/lodestone/playguide/db/npc/npc/e322f6a6f62/",
+                    "Area": "East Shroud (X:23.3 Y:14.2)"
+                },
+                {
+                    "Name": "Shifty Leatherworker",
+                    "Url": "/lodestone/playguide/db/npc/npc/a2b0df5a31e/",
+                    "Area": "East Shroud (X:24.4 Y:15.0)"
+                },
+                {
+                    "Name": "Shifty Merchant",
+                    "Url": "/lodestone/playguide/db/npc/npc/a5c62d45b03/",
+                    "Area": "East Shroud (X:23.8 Y:15.5)"
+                },
+                {
+                    "Name": "Shifty Youngling",
+                    "Url": "/lodestone/playguide/db/npc/npc/a1428a04a86/",
+                    "Area": "East Shroud (X:23.7 Y:13.9)"
+                },
+                {
+                    "Name": "Vorsaile Heuloix",
+                    "Url": "/lodestone/playguide/db/npc/npc/f3304c3ca4b/",
+                    "Area": "East Shroud (X:23.5 Y:15.3)"
+                }
+            ]
+        },
+        "Seq": 28,
+        "StartDependency": false
+    },
+    {
+        "ID": "db545cbde0f",
+        "Name": "Milkroot in Moderation",
+        "Location": "East Shroud",
+        "Level": 45,
+        "JournalSection": 4,
+        "JournalCategory": 29,
+        "JournalGenre": "\n\t\t\t\t\t\t\tDaily Quests\n\t\t\t\t\t\t",
+        "Url": "/lodestone/playguide/db/quest/db545cbde0f/",
+        "Image": null,
+        "Icon": "common_repeat",
+        "Issuer": "Ponnixia",
+        "StartLocation": {
+            "Name": "East Shroud",
+            "X": "22.2",
+            "Y": "26.4"
+        },
+        "StartClass": null,
+        "Job": "",
+        "Company": "Not specified",
+        "Requirement": "Not specified",
+        "Rewards": {
+            "Gil": 600,
+            "Exp": 4455,
+            "ItemsMand": [],
+            "ItemsOpt": []
+        },
+        "Infos": {},
+        "Seq": 18,
+        "StartDependency": false
+    },
+    {
+        "ID": "df3372fc808",
+        "Name": "Clearing the Air",
+        "Location": "East Shroud",
+        "Level": 48,
+        "JournalSection": 4,
+        "JournalCategory": 29,
+        "JournalGenre": "\n\t\t\t\t\t\t\tDaily Quests\n\t\t\t\t\t\t",
+        "Url": "/lodestone/playguide/db/quest/df3372fc808/",
+        "Image": null,
+        "Icon": "common_repeat",
+        "Issuer": "Moxia",
+        "StartLocation": {
+            "Name": "East Shroud",
+            "X": "22.4",
+            "Y": "26.5"
+        },
+        "StartClass": null,
+        "Job": "",
+        "Company": "Not specified",
+        "Requirement": "Not specified",
+        "Rewards": {
+            "Gil": 780,
+            "Exp": 5130,
+            "ItemsMand": [],
+            "ItemsOpt": [
+                {
+                    "Icon": "https://img.finalfantasyxiv.com/lds/pc/global/images/itemicon/59/591709d485ebd155ba018c8cd773fe3c662caed3.png?n6.05",
+                    "Name": "Piety Materia IV",
+                    "Amount": 1,
+                    "Url": "/lodestone/playguide/db/item/905d47601dd/"
+                },
+                {
+                    "Icon": "https://img.finalfantasyxiv.com/lds/pc/global/images/itemicon/59/591709d485ebd155ba018c8cd773fe3c662caed3.png?n6.05",
+                    "Name": "Battledance Materia IV",
+                    "Amount": 1,
+                    "Url": "/lodestone/playguide/db/item/37f25043bf3/"
+                },
+                {
+                    "Icon": "https://img.finalfantasyxiv.com/lds/pc/global/images/itemicon/60/6072436b0c90d22b6a9d7da93f356256a04be53d.png?n6.05",
+                    "Name": "Quickarm Materia IV",
+                    "Amount": 1,
+                    "Url": "/lodestone/playguide/db/item/1162b3fcc58/"
+                }
+            ]
+        },
+        "Infos": {},
+        "Seq": 30,
+        "StartDependency": false
+    },
+    {
+        "ID": "e308d9c84a2",
+        "Name": "Giddy for Goobbues",
+        "Location": "East Shroud",
+        "Level": 42,
+        "JournalSection": 4,
+        "JournalCategory": 29,
+        "JournalGenre": "\n\t\t\t\t\t\t\tDaily Quests\n\t\t\t\t\t\t",
+        "Url": "/lodestone/playguide/db/quest/e308d9c84a2/",
+        "Image": null,
+        "Icon": "common_repeat",
+        "Issuer": "Tonaxia",
+        "StartLocation": {
+            "Name": "East Shroud",
+            "X": "22.4",
+            "Y": "26.5"
+        },
+        "StartClass": null,
+        "Job": "",
+        "Company": "Not specified",
+        "Requirement": "Not specified",
+        "Rewards": {
+            "Gil": 420,
+            "Exp": 4207,
+            "ItemsMand": [],
+            "ItemsOpt": []
+        },
+        "Infos": {
+            "RelatedNPC": [
+                {
+                    "Name": "Cheerful Sylph",
+                    "Url": "/lodestone/playguide/db/npc/npc/f6602177e8a/",
+                    "Area": "East Shroud (X:25.1 Y:25.4)"
+                }
+            ]
+        },
+        "Seq": 9,
+        "StartDependency": false
+    },
+    {
+        "ID": "e3471459d17",
+        "Name": "Boar Wars",
+        "Location": "East Shroud",
+        "Level": 48,
+        "JournalSection": 4,
+        "JournalCategory": 29,
+        "JournalGenre": "\n\t\t\t\t\t\t\tDaily Quests\n\t\t\t\t\t\t",
+        "Url": "/lodestone/playguide/db/quest/e3471459d17/",
+        "Image": null,
+        "Icon": "common_repeat",
+        "Issuer": "Moxia",
+        "StartLocation": {
+            "Name": "East Shroud",
+            "X": "22.4",
+            "Y": "26.5"
+        },
+        "StartClass": null,
+        "Job": "",
+        "Company": "Not specified",
+        "Requirement": "Not specified",
+        "Rewards": {
+            "Gil": 780,
+            "Exp": 5130,
+            "ItemsMand": [],
+            "ItemsOpt": [
+                {
+                    "Icon": "https://img.finalfantasyxiv.com/lds/pc/global/images/itemicon/59/591709d485ebd155ba018c8cd773fe3c662caed3.png?n6.05",
+                    "Name": "Piety Materia IV",
+                    "Amount": 1,
+                    "Url": "/lodestone/playguide/db/item/905d47601dd/"
+                },
+                {
+                    "Icon": "https://img.finalfantasyxiv.com/lds/pc/global/images/itemicon/06/06bd35b3df19cbc5d80eed3ed99c67a366c835aa.png?n6.05",
+                    "Name": "Savage Aim Materia IV",
+                    "Amount": 1,
+                    "Url": "/lodestone/playguide/db/item/dce3a5f3467/"
+                },
+                {
+                    "Icon": "https://img.finalfantasyxiv.com/lds/pc/global/images/itemicon/60/6072436b0c90d22b6a9d7da93f356256a04be53d.png?n6.05",
+                    "Name": "Quicktongue Materia IV",
+                    "Amount": 1,
+                    "Url": "/lodestone/playguide/db/item/5bbb25ff7dd/"
+                }
+            ]
+        },
+        "Infos": {},
+        "Seq": 32,
+        "StartDependency": false
+    },
+    {
+        "ID": "e4e3fc94ea3",
+        "Name": "Now You See Me",
+        "Location": "East Shroud",
+        "Level": 42,
+        "JournalSection": 4,
+        "JournalCategory": 29,
+        "JournalGenre": "\n\t\t\t\t\t\t\tDaily Quests\n\t\t\t\t\t\t",
+        "Url": "/lodestone/playguide/db/quest/e4e3fc94ea3/",
+        "Image": null,
+        "Icon": "common_repeat",
+        "Issuer": "Tonaxia",
+        "StartLocation": {
+            "Name": "East Shroud",
+            "X": "22.4",
+            "Y": "26.5"
+        },
+        "StartClass": null,
+        "Job": "",
+        "Company": "Not specified",
+        "Requirement": "Not specified",
+        "Rewards": {
+            "Gil": 420,
+            "Exp": 4207,
+            "ItemsMand": [],
+            "ItemsOpt": []
+        },
+        "Infos": {
+            "RelatedNPC": [
+                {
+                    "Name": "Mysterious Sylph",
+                    "Url": "/lodestone/playguide/db/npc/npc/186b8da00f3/",
+                    "Area": "East Shroud (X:24.9 Y:25.5)"
+                }
+            ]
+        },
+        "Seq": 10,
+        "StartDependency": false
+    },
+    {
+        "ID": "e61aee34d4b",
+        "Name": "Gourd Grief",
+        "Location": "East Shroud",
+        "Level": 42,
+        "JournalSection": 4,
+        "JournalCategory": 29,
+        "JournalGenre": "\n\t\t\t\t\t\t\tDaily Quests\n\t\t\t\t\t\t",
+        "Url": "/lodestone/playguide/db/quest/e61aee34d4b/",
+        "Image": null,
+        "Icon": "common_repeat",
+        "Issuer": "Tonaxia",
+        "StartLocation": {
+            "Name": "East Shroud",
+            "X": "22.4",
+            "Y": "26.5"
+        },
+        "StartClass": null,
+        "Job": "",
+        "Company": "Not specified",
+        "Requirement": "Not specified",
+        "Rewards": {
+            "Gil": 420,
+            "Exp": 4207,
+            "ItemsMand": [],
+            "ItemsOpt": []
+        },
+        "Infos": {},
+        "Seq": 7,
+        "StartDependency": false
+    },
+    {
+        "ID": "f7c3c27a015",
+        "Name": "In the Sylphlands, Treasure Hunts You",
+        "Location": "East Shroud",
+        "Level": 45,
+        "JournalSection": 4,
+        "JournalCategory": 29,
+        "JournalGenre": "\n\t\t\t\t\t\t\tDaily Quests\n\t\t\t\t\t\t",
+        "Url": "/lodestone/playguide/db/quest/f7c3c27a015/",
+        "Image": null,
+        "Icon": "common_repeat",
+        "Issuer": "Ponnixia",
+        "StartLocation": {
+            "Name": "East Shroud",
+            "X": "22.2",
+            "Y": "26.4"
+        },
+        "StartClass": null,
+        "Job": "",
+        "Company": "Not specified",
+        "Requirement": "Not specified",
+        "Rewards": {
+            "Gil": 600,
+            "Exp": 4455,
+            "ItemsMand": [],
+            "ItemsOpt": []
+        },
+        "Infos": {},
+        "Seq": 22,
         "StartDependency": false
     }
 ]

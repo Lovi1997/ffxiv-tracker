@@ -1,0 +1,1669 @@
+[
+    {
+        "ID": "0bc4f1bcc7a",
+        "Name": " It Can Be Cruel Sometimes",
+        "Location": "The Fringes",
+        "Level": 60,
+        "JournalSection": 4,
+        "JournalCategory": 37,
+        "JournalGenre": "\n\t\t\t\t\t\t\tMain Quests\n\t\t\t\t\t\t",
+        "Url": "/lodestone/playguide/db/quest/0bc4f1bcc7a/",
+        "Image": "https://img.finalfantasyxiv.com/lds/pc/global/images/itemicon/8a/8ae11ee224676c0f78b1728e71f88ae2bf1fa418.png?n6.05",
+        "Icon": "function_normal",
+        "Issuer": "Alpa",
+        "StartLocation": {
+            "Name": "The Fringes",
+            "X": "21.7",
+            "Y": "26.2"
+        },
+        "StartClass": null,
+        "Job": "",
+        "Company": "Not specified",
+        "Requirement": "Not specified",
+        "Rewards": {
+            "Gil": 1523,
+            "Exp": null,
+            "ItemsMand": [],
+            "ItemsOpt": []
+        },
+        "Infos": {
+            "PrerequisiteQuest": [
+                {
+                    "Name": " Chance of Gales",
+                    "Url": "/lodestone/playguide/db/quest/df9a1804ad1/",
+                    "Area": "The Fringes",
+                    "Level": "60"
+                }
+            ],
+            "FollowupQuest": [
+                {
+                    "Name": " Schism between Sisters",
+                    "Url": "/lodestone/playguide/db/quest/21fa2258d32/",
+                    "Area": "The Fringes",
+                    "Level": "60"
+                }
+            ],
+            "RelatedNPC": [
+                {
+                    "Name": "Alpa",
+                    "Url": "/lodestone/playguide/db/npc/npc/e751471fff8/",
+                    "Area": "Rhalgr's Reach (X:8.8 Y:10.0)"
+                },
+                {
+                    "Name": "J'olhmyn",
+                    "Url": "/lodestone/playguide/db/npc/npc/b65c04cb84f/",
+                    "Area": "Rhalgr's Reach (X:8.8 Y:10.1)"
+                },
+                {
+                    "Name": "Orella",
+                    "Url": "/lodestone/playguide/db/npc/npc/09dd7592447/",
+                    "Area": "Rhalgr's Reach (X:8.9 Y:10.1)"
+                },
+                {
+                    "Name": "Alpa",
+                    "Url": "/lodestone/playguide/db/npc/npc/b0deb82168c/",
+                    "Area": "The Fringes (X:19.0 Y:21.6)"
+                },
+                {
+                    "Name": "Alpa",
+                    "Url": "/lodestone/playguide/db/npc/npc/a613b7961b9/",
+                    "Area": "The Fringes (X:11.5 Y:12.9)"
+                },
+                {
+                    "Name": "Alpa",
+                    "Url": "/lodestone/playguide/db/npc/npc/8c46d6685fb/",
+                    "Area": "The Fringes (X:21.7 Y:26.2)"
+                },
+                {
+                    "Name": "Gales",
+                    "Url": "/lodestone/playguide/db/npc/npc/10a7fc66342/",
+                    "Area": "The Fringes (X:22.1 Y:26.8)"
+                },
+                {
+                    "Name": "Gales",
+                    "Url": "/lodestone/playguide/db/npc/npc/4fe269c0c9c/",
+                    "Area": "The Fringes (X:18.9 Y:21.6)"
+                },
+                {
+                    "Name": "J'olhmyn",
+                    "Url": "/lodestone/playguide/db/npc/npc/2941596de9e/",
+                    "Area": "The Fringes (X:19.0 Y:21.7)"
+                },
+                {
+                    "Name": "M'zhet Tia",
+                    "Url": "/lodestone/playguide/db/npc/npc/3e417d89d0d/",
+                    "Area": "The Fringes (X:18.9 Y:21.6)"
+                },
+                {
+                    "Name": "M'zhet Tia",
+                    "Url": "/lodestone/playguide/db/npc/npc/8f3f59d242a/",
+                    "Area": "The Fringes (X:18.9 Y:21.6)"
+                },
+                {
+                    "Name": "M'zhet Tia",
+                    "Url": "/lodestone/playguide/db/npc/npc/b1923151849/",
+                    "Area": "The Fringes (X:21.6 Y:26.1)"
+                }
+            ]
+        },
+        "Seq": 3,
+        "StartDependency": false
+    },
+    {
+        "ID": "14419873983",
+        "Name": " Deep-rooted Problems",
+        "Location": "The Fringes",
+        "Level": 60,
+        "JournalSection": 4,
+        "JournalCategory": 37,
+        "JournalGenre": "\n\t\t\t\t\t\t\tDaily Quests\n\t\t\t\t\t\t",
+        "Url": "/lodestone/playguide/db/quest/14419873983/",
+        "Image": null,
+        "Icon": "common_repeat",
+        "Issuer": "Eshana",
+        "StartLocation": {
+            "Name": "The Fringes",
+            "X": "20.9",
+            "Y": "26.2"
+        },
+        "StartClass": null,
+        "Job": "",
+        "Company": "Not specified",
+        "Requirement": "Not specified",
+        "Rewards": {
+            "Gil": 550,
+            "Exp": null,
+            "ItemsMand": [],
+            "ItemsOpt": []
+        },
+        "Infos": {},
+        "Seq": 8,
+        "StartDependency": false
+    },
+    {
+        "ID": "147876e3b3f",
+        "Name": " Snack between Meals",
+        "Location": "The Fringes",
+        "Level": 60,
+        "JournalSection": 4,
+        "JournalCategory": 37,
+        "JournalGenre": "\n\t\t\t\t\t\t\tDaily Quests\n\t\t\t\t\t\t",
+        "Url": "/lodestone/playguide/db/quest/147876e3b3f/",
+        "Image": null,
+        "Icon": "common_repeat",
+        "Issuer": "Eshana",
+        "StartLocation": {
+            "Name": "The Fringes",
+            "X": "20.9",
+            "Y": "26.2"
+        },
+        "StartClass": null,
+        "Job": "",
+        "Company": "Not specified",
+        "Requirement": "Not specified",
+        "Rewards": {
+            "Gil": 550,
+            "Exp": null,
+            "ItemsMand": [],
+            "ItemsOpt": []
+        },
+        "Infos": {},
+        "Seq": 12,
+        "StartDependency": false
+    },
+    {
+        "ID": "21fa2258d32",
+        "Name": " Schism between Sisters",
+        "Location": "The Fringes",
+        "Level": 60,
+        "JournalSection": 4,
+        "JournalCategory": 37,
+        "JournalGenre": "\n\t\t\t\t\t\t\tMain Quests\n\t\t\t\t\t\t",
+        "Url": "/lodestone/playguide/db/quest/21fa2258d32/",
+        "Image": "https://img.finalfantasyxiv.com/lds/pc/global/images/itemicon/70/70187809d2280ec992b20d91f8525ddcaf7a92a1.png?n6.05",
+        "Icon": "function_normal",
+        "Issuer": "Alpa",
+        "StartLocation": {
+            "Name": "The Fringes",
+            "X": "21.7",
+            "Y": "26.2"
+        },
+        "StartClass": null,
+        "Job": "",
+        "Company": "Not specified",
+        "Requirement": "Not specified",
+        "Rewards": {
+            "Gil": 2045,
+            "Exp": null,
+            "ItemsMand": [],
+            "ItemsOpt": []
+        },
+        "Infos": {
+            "PrerequisiteQuest": [
+                {
+                    "Name": " It Can Be Cruel Sometimes",
+                    "Url": "/lodestone/playguide/db/quest/0bc4f1bcc7a/",
+                    "Area": "The Fringes",
+                    "Level": "60"
+                }
+            ],
+            "FollowupQuest": [
+                {
+                    "Name": " Celebratory Smorgasbord",
+                    "Url": "/lodestone/playguide/db/quest/b47825bd164/",
+                    "Area": "The Fringes",
+                    "Level": "60"
+                }
+            ],
+            "RelatedNPC": [
+                {
+                    "Name": "Alpa",
+                    "Url": "/lodestone/playguide/db/npc/npc/5d01c046586/",
+                    "Area": "The Fringes (X:24.3 Y:29.6)"
+                },
+                {
+                    "Name": "Alpa",
+                    "Url": "/lodestone/playguide/db/npc/npc/5afef760ab1/",
+                    "Area": "The Fringes (X:26.9 Y:28.3)"
+                },
+                {
+                    "Name": "Alpa",
+                    "Url": "/lodestone/playguide/db/npc/npc/8c46d6685fb/",
+                    "Area": "The Fringes (X:21.7 Y:26.2)"
+                },
+                {
+                    "Name": "J'olhmyn",
+                    "Url": "/lodestone/playguide/db/npc/npc/7cd3e00094d/",
+                    "Area": "The Fringes (X:21.7 Y:26.1)"
+                },
+                {
+                    "Name": "J'olhmyn",
+                    "Url": "/lodestone/playguide/db/npc/npc/9a4358a0de6/",
+                    "Area": "The Fringes (X:24.2 Y:29.7)"
+                },
+                {
+                    "Name": "J'olhmyn",
+                    "Url": "/lodestone/playguide/db/npc/npc/f385198a13f/",
+                    "Area": "The Fringes (X:26.9 Y:28.3)"
+                },
+                {
+                    "Name": "M'zhet Tia",
+                    "Url": "/lodestone/playguide/db/npc/npc/06f641bf203/",
+                    "Area": "The Fringes (X:21.5 Y:26.5)"
+                },
+                {
+                    "Name": "Qalyana Battlemaid",
+                    "Url": "/lodestone/playguide/db/npc/npc/39d1667ce75/",
+                    "Area": "The Fringes (X:23.8 Y:33.4)"
+                },
+                {
+                    "Name": "Qalyana Separatist",
+                    "Url": "/lodestone/playguide/db/npc/npc/6072f628afe/",
+                    "Area": "The Fringes (X:26.9 Y:28.3)"
+                },
+                {
+                    "Name": "Qalyana Survivor",
+                    "Url": "/lodestone/playguide/db/npc/npc/30eade5e4b2/",
+                    "Area": "The Fringes (X:22.6 Y:26.6)"
+                },
+                {
+                    "Name": "Tahla Molkoh",
+                    "Url": "/lodestone/playguide/db/npc/npc/27dadb09927/",
+                    "Area": "The Fringes (X:21.4 Y:26.5)"
+                }
+            ]
+        },
+        "Seq": 4,
+        "StartDependency": false
+    },
+    {
+        "ID": "2e1fe8a8d08",
+        "Name": " Thin-skinned",
+        "Location": "The Fringes",
+        "Level": 60,
+        "JournalSection": 4,
+        "JournalCategory": 37,
+        "JournalGenre": "\n\t\t\t\t\t\t\tDaily Quests\n\t\t\t\t\t\t",
+        "Url": "/lodestone/playguide/db/quest/2e1fe8a8d08/",
+        "Image": null,
+        "Icon": "common_repeat",
+        "Issuer": "Eshana",
+        "StartLocation": {
+            "Name": "The Fringes",
+            "X": "20.9",
+            "Y": "26.2"
+        },
+        "StartClass": null,
+        "Job": "",
+        "Company": "Not specified",
+        "Requirement": "Not specified",
+        "Rewards": {
+            "Gil": 615,
+            "Exp": null,
+            "ItemsMand": [],
+            "ItemsOpt": []
+        },
+        "Infos": {
+            "RelatedNPC": [
+                {
+                    "Name": "Jagranti",
+                    "Url": "/lodestone/playguide/db/npc/npc/91ef4a13de1/",
+                    "Area": "The Fringes (X:21.3 Y:26.4)"
+                }
+            ]
+        },
+        "Seq": 28,
+        "StartDependency": false
+    },
+    {
+        "ID": "316d6b32f90",
+        "Name": " Ants in the Pants",
+        "Location": "The Fringes",
+        "Level": 60,
+        "JournalSection": 4,
+        "JournalCategory": 37,
+        "JournalGenre": "\n\t\t\t\t\t\t\tDaily Quests\n\t\t\t\t\t\t",
+        "Url": "/lodestone/playguide/db/quest/316d6b32f90/",
+        "Image": null,
+        "Icon": "common_repeat",
+        "Issuer": "Eshana",
+        "StartLocation": {
+            "Name": "The Fringes",
+            "X": "20.9",
+            "Y": "26.2"
+        },
+        "StartClass": null,
+        "Job": "",
+        "Company": "Not specified",
+        "Requirement": "Not specified",
+        "Rewards": {
+            "Gil": 615,
+            "Exp": null,
+            "ItemsMand": [],
+            "ItemsOpt": []
+        },
+        "Infos": {
+            "RelatedNPC": [
+                {
+                    "Name": "Dakshina",
+                    "Url": "/lodestone/playguide/db/npc/npc/9add07e7c4d/",
+                    "Area": "The Fringes (X:20.6 Y:25.7)"
+                }
+            ]
+        },
+        "Seq": 24,
+        "StartDependency": false
+    },
+    {
+        "ID": "31ca72dc841",
+        "Name": " A Sluggish Endeavor",
+        "Location": "The Fringes",
+        "Level": 60,
+        "JournalSection": 4,
+        "JournalCategory": 37,
+        "JournalGenre": "\n\t\t\t\t\t\t\tDaily Quests\n\t\t\t\t\t\t",
+        "Url": "/lodestone/playguide/db/quest/31ca72dc841/",
+        "Image": null,
+        "Icon": "common_repeat",
+        "Issuer": "Eshana",
+        "StartLocation": {
+            "Name": "The Fringes",
+            "X": "20.9",
+            "Y": "26.2"
+        },
+        "StartClass": null,
+        "Job": "",
+        "Company": "Not specified",
+        "Requirement": "Not specified",
+        "Rewards": {
+            "Gil": 550,
+            "Exp": null,
+            "ItemsMand": [],
+            "ItemsOpt": []
+        },
+        "Infos": {},
+        "Seq": 7,
+        "StartDependency": false
+    },
+    {
+        "ID": "3c40d102e8f",
+        "Name": " Keeping an Eye off Things",
+        "Location": "The Fringes",
+        "Level": 60,
+        "JournalSection": 4,
+        "JournalCategory": 37,
+        "JournalGenre": "\n\t\t\t\t\t\t\tDaily Quests\n\t\t\t\t\t\t",
+        "Url": "/lodestone/playguide/db/quest/3c40d102e8f/",
+        "Image": null,
+        "Icon": "common_repeat",
+        "Issuer": "Eshana",
+        "StartLocation": {
+            "Name": "The Fringes",
+            "X": "20.9",
+            "Y": "26.2"
+        },
+        "StartClass": null,
+        "Job": "",
+        "Company": "Not specified",
+        "Requirement": "Not specified",
+        "Rewards": {
+            "Gil": 550,
+            "Exp": null,
+            "ItemsMand": [],
+            "ItemsOpt": []
+        },
+        "Infos": {},
+        "Seq": 19,
+        "StartDependency": false
+    },
+    {
+        "ID": "3f8f00fd66e",
+        "Name": " A Business Proposal",
+        "Location": "The Fringes",
+        "Level": 60,
+        "JournalSection": 4,
+        "JournalCategory": 37,
+        "JournalGenre": "\n\t\t\t\t\t\t\tDaily Quests\n\t\t\t\t\t\t",
+        "Url": "/lodestone/playguide/db/quest/3f8f00fd66e/",
+        "Image": null,
+        "Icon": "common_repeat",
+        "Issuer": "Eshana",
+        "StartLocation": {
+            "Name": "The Fringes",
+            "X": "20.9",
+            "Y": "26.2"
+        },
+        "StartClass": null,
+        "Job": "",
+        "Company": "Not specified",
+        "Requirement": "Not specified",
+        "Rewards": {
+            "Gil": 615,
+            "Exp": null,
+            "ItemsMand": [],
+            "ItemsOpt": []
+        },
+        "Infos": {
+            "RelatedNPC": [
+                {
+                    "Name": "Miqo'te Merchant",
+                    "Url": "/lodestone/playguide/db/npc/npc/92eb1e8e3a0/",
+                    "Area": "The Fringes (X:29.4 Y:25.2)"
+                },
+                {
+                    "Name": "Resistance Guard",
+                    "Url": "/lodestone/playguide/db/npc/npc/c70d30d904a/",
+                    "Area": "The Fringes (X:24.1 Y:27.5)"
+                }
+            ]
+        },
+        "Seq": 30,
+        "StartDependency": false
+    },
+    {
+        "ID": "42fbcdb96b9",
+        "Name": " Out for Delivery",
+        "Location": "The Fringes",
+        "Level": 60,
+        "JournalSection": 4,
+        "JournalCategory": 37,
+        "JournalGenre": "\n\t\t\t\t\t\t\tDaily Quests\n\t\t\t\t\t\t",
+        "Url": "/lodestone/playguide/db/quest/42fbcdb96b9/",
+        "Image": null,
+        "Icon": "common_repeat",
+        "Issuer": "Eshana",
+        "StartLocation": {
+            "Name": "The Fringes",
+            "X": "20.9",
+            "Y": "26.2"
+        },
+        "StartClass": null,
+        "Job": "",
+        "Company": "Not specified",
+        "Requirement": "Not specified",
+        "Rewards": {
+            "Gil": 550,
+            "Exp": null,
+            "ItemsMand": [],
+            "ItemsOpt": []
+        },
+        "Infos": {
+            "RelatedNPC": [
+                {
+                    "Name": "Cowering Carrier",
+                    "Url": "/lodestone/playguide/db/npc/npc/68278583d5a/",
+                    "Area": "The Fringes (X:12.6 Y:24.3)"
+                },
+                {
+                    "Name": "Cowering Carrier",
+                    "Url": "/lodestone/playguide/db/npc/npc/510a9718632/",
+                    "Area": "The Fringes (X:11.6 Y:14.8)"
+                },
+                {
+                    "Name": "Cowering Carrier",
+                    "Url": "/lodestone/playguide/db/npc/npc/e3b20bc5994/",
+                    "Area": "The Fringes (X:16.0 Y:13.9)"
+                }
+            ]
+        },
+        "Seq": 10,
+        "StartDependency": false
+    },
+    {
+        "ID": "4e9b464f0be",
+        "Name": " Up Sheet Creek",
+        "Location": "The Fringes",
+        "Level": 60,
+        "JournalSection": 4,
+        "JournalCategory": 37,
+        "JournalGenre": "\n\t\t\t\t\t\t\tDaily Quests\n\t\t\t\t\t\t",
+        "Url": "/lodestone/playguide/db/quest/4e9b464f0be/",
+        "Image": null,
+        "Icon": "common_repeat",
+        "Issuer": "Eshana",
+        "StartLocation": {
+            "Name": "The Fringes",
+            "X": "20.9",
+            "Y": "26.2"
+        },
+        "StartClass": null,
+        "Job": "",
+        "Company": "Not specified",
+        "Requirement": "Not specified",
+        "Rewards": {
+            "Gil": 680,
+            "Exp": null,
+            "ItemsMand": [],
+            "ItemsOpt": []
+        },
+        "Infos": {},
+        "Seq": 25,
+        "StartDependency": false
+    },
+    {
+        "ID": "5530a95258c",
+        "Name": " A Bit of Home Cooking",
+        "Location": "The Fringes",
+        "Level": 60,
+        "JournalSection": 4,
+        "JournalCategory": 37,
+        "JournalGenre": "\n\t\t\t\t\t\t\tDaily Quests\n\t\t\t\t\t\t",
+        "Url": "/lodestone/playguide/db/quest/5530a95258c/",
+        "Image": null,
+        "Icon": "common_repeat",
+        "Issuer": "Eshana",
+        "StartLocation": {
+            "Name": "The Fringes",
+            "X": "20.9",
+            "Y": "26.2"
+        },
+        "StartClass": null,
+        "Job": "",
+        "Company": "Not specified",
+        "Requirement": "Not specified",
+        "Rewards": {
+            "Gil": 615,
+            "Exp": null,
+            "ItemsMand": [],
+            "ItemsOpt": []
+        },
+        "Infos": {
+            "RelatedNPC": [
+                {
+                    "Name": "Anuraga",
+                    "Url": "/lodestone/playguide/db/npc/npc/f81f1c797fb/",
+                    "Area": "The Fringes (X:21.7 Y:26.6)"
+                }
+            ]
+        },
+        "Seq": 11,
+        "StartDependency": false
+    },
+    {
+        "ID": "6c65f9e9ccf",
+        "Name": " Let There Be Lard",
+        "Location": "The Fringes",
+        "Level": 60,
+        "JournalSection": 4,
+        "JournalCategory": 37,
+        "JournalGenre": "\n\t\t\t\t\t\t\tDaily Quests\n\t\t\t\t\t\t",
+        "Url": "/lodestone/playguide/db/quest/6c65f9e9ccf/",
+        "Image": null,
+        "Icon": "common_repeat",
+        "Issuer": "Eshana",
+        "StartLocation": {
+            "Name": "The Fringes",
+            "X": "20.9",
+            "Y": "26.2"
+        },
+        "StartClass": null,
+        "Job": "",
+        "Company": "Not specified",
+        "Requirement": "Not specified",
+        "Rewards": {
+            "Gil": 550,
+            "Exp": null,
+            "ItemsMand": [],
+            "ItemsOpt": []
+        },
+        "Infos": {},
+        "Seq": 26,
+        "StartDependency": false
+    },
+    {
+        "ID": "7f999b6d2f6",
+        "Name": " Hearts of Precious Stone",
+        "Location": "The Fringes",
+        "Level": 60,
+        "JournalSection": 4,
+        "JournalCategory": 37,
+        "JournalGenre": "\n\t\t\t\t\t\t\tDaily Quests\n\t\t\t\t\t\t",
+        "Url": "/lodestone/playguide/db/quest/7f999b6d2f6/",
+        "Image": null,
+        "Icon": "common_repeat",
+        "Issuer": "Eshana",
+        "StartLocation": {
+            "Name": "The Fringes",
+            "X": "20.9",
+            "Y": "26.2"
+        },
+        "StartClass": null,
+        "Job": "",
+        "Company": "Not specified",
+        "Requirement": "Not specified",
+        "Rewards": {
+            "Gil": 680,
+            "Exp": null,
+            "ItemsMand": [],
+            "ItemsOpt": []
+        },
+        "Infos": {
+            "RelatedNPC": [
+                {
+                    "Name": "Resistance Captain",
+                    "Url": "/lodestone/playguide/db/npc/npc/7bd974d0c5d/",
+                    "Area": "The Fringes (X:35.3 Y:31.0)"
+                }
+            ]
+        },
+        "Seq": 23,
+        "StartDependency": false
+    },
+    {
+        "ID": "8077cb3dd46",
+        "Name": " Sparring Lesson",
+        "Location": "The Fringes",
+        "Level": 60,
+        "JournalSection": 4,
+        "JournalCategory": 37,
+        "JournalGenre": "\n\t\t\t\t\t\t\tDaily Quests\n\t\t\t\t\t\t",
+        "Url": "/lodestone/playguide/db/quest/8077cb3dd46/",
+        "Image": null,
+        "Icon": "common_repeat",
+        "Issuer": "Eshana",
+        "StartLocation": {
+            "Name": "The Fringes",
+            "X": "20.9",
+            "Y": "26.2"
+        },
+        "StartClass": null,
+        "Job": "",
+        "Company": "Not specified",
+        "Requirement": "Not specified",
+        "Rewards": {
+            "Gil": 615,
+            "Exp": null,
+            "ItemsMand": [],
+            "ItemsOpt": []
+        },
+        "Infos": {
+            "RelatedNPC": [
+                {
+                    "Name": "Ananta Instructor",
+                    "Url": "/lodestone/playguide/db/npc/npc/589c66112ab/",
+                    "Area": "The Fringes (X:22.3 Y:17.1)"
+                },
+                {
+                    "Name": "Ananta Recruit",
+                    "Url": "/lodestone/playguide/db/npc/npc/5aaf13eaae5/",
+                    "Area": "The Fringes (X:22.2 Y:17.0)"
+                }
+            ]
+        },
+        "Seq": 16,
+        "StartDependency": false
+    },
+    {
+        "ID": "83773aa891b",
+        "Name": " Soothing the Sting",
+        "Location": "The Fringes",
+        "Level": 60,
+        "JournalSection": 4,
+        "JournalCategory": 37,
+        "JournalGenre": "\n\t\t\t\t\t\t\tDaily Quests\n\t\t\t\t\t\t",
+        "Url": "/lodestone/playguide/db/quest/83773aa891b/",
+        "Image": null,
+        "Icon": "common_repeat",
+        "Issuer": "Eshana",
+        "StartLocation": {
+            "Name": "The Fringes",
+            "X": "20.9",
+            "Y": "26.2"
+        },
+        "StartClass": null,
+        "Job": "",
+        "Company": "Not specified",
+        "Requirement": "Not specified",
+        "Rewards": {
+            "Gil": 550,
+            "Exp": null,
+            "ItemsMand": [],
+            "ItemsOpt": []
+        },
+        "Infos": {},
+        "Seq": 32,
+        "StartDependency": false
+    },
+    {
+        "ID": "87f76e3fdc3",
+        "Name": " Criminal Crossings",
+        "Location": "The Fringes",
+        "Level": 60,
+        "JournalSection": 4,
+        "JournalCategory": 37,
+        "JournalGenre": "\n\t\t\t\t\t\t\tDaily Quests\n\t\t\t\t\t\t",
+        "Url": "/lodestone/playguide/db/quest/87f76e3fdc3/",
+        "Image": null,
+        "Icon": "common_repeat",
+        "Issuer": "Eshana",
+        "StartLocation": {
+            "Name": "The Fringes",
+            "X": "20.9",
+            "Y": "26.2"
+        },
+        "StartClass": null,
+        "Job": "",
+        "Company": "Not specified",
+        "Requirement": "Not specified",
+        "Rewards": {
+            "Gil": 550,
+            "Exp": null,
+            "ItemsMand": [],
+            "ItemsOpt": []
+        },
+        "Infos": {
+            "RelatedNPC": [
+                {
+                    "Name": "Dubious Dandy",
+                    "Url": "/lodestone/playguide/db/npc/npc/ad338f5473a/",
+                    "Area": "The Fringes (X:14.5 Y:25.0)"
+                },
+                {
+                    "Name": "Dubious Dandy",
+                    "Url": "/lodestone/playguide/db/npc/npc/65ae7f1cd9c/",
+                    "Area": "The Fringes (X:14.8 Y:21.0)"
+                },
+                {
+                    "Name": "Questionable Quester",
+                    "Url": "/lodestone/playguide/db/npc/npc/ddc1ea23e59/",
+                    "Area": "The Fringes (X:10.0 Y:16.8)"
+                },
+                {
+                    "Name": "Questionable Quester",
+                    "Url": "/lodestone/playguide/db/npc/npc/7b53aa95234/",
+                    "Area": "The Fringes (X:10.0 Y:16.8)"
+                },
+                {
+                    "Name": "Suspicious Stalker",
+                    "Url": "/lodestone/playguide/db/npc/npc/c8266d74f29/",
+                    "Area": "The Fringes (X:11.7 Y:17.6)"
+                },
+                {
+                    "Name": "Suspicious Stalker",
+                    "Url": "/lodestone/playguide/db/npc/npc/16619e77f51/",
+                    "Area": "The Fringes (X:11.7 Y:17.6)"
+                }
+            ]
+        },
+        "Seq": 14,
+        "StartDependency": false
+    },
+    {
+        "ID": "8880453990e",
+        "Name": " Funnel and Games",
+        "Location": "The Fringes",
+        "Level": 60,
+        "JournalSection": 4,
+        "JournalCategory": 37,
+        "JournalGenre": "\n\t\t\t\t\t\t\tDaily Quests\n\t\t\t\t\t\t",
+        "Url": "/lodestone/playguide/db/quest/8880453990e/",
+        "Image": null,
+        "Icon": "common_repeat",
+        "Issuer": "Eshana",
+        "StartLocation": {
+            "Name": "The Fringes",
+            "X": "20.9",
+            "Y": "26.2"
+        },
+        "StartClass": null,
+        "Job": "",
+        "Company": "Not specified",
+        "Requirement": "Not specified",
+        "Rewards": {
+            "Gil": 550,
+            "Exp": null,
+            "ItemsMand": [],
+            "ItemsOpt": []
+        },
+        "Infos": {},
+        "Seq": 17,
+        "StartDependency": false
+    },
+    {
+        "ID": "8cf2d03c89a",
+        "Name": " For Fast, Temporary Relief",
+        "Location": "The Fringes",
+        "Level": 60,
+        "JournalSection": 4,
+        "JournalCategory": 37,
+        "JournalGenre": "\n\t\t\t\t\t\t\tDaily Quests\n\t\t\t\t\t\t",
+        "Url": "/lodestone/playguide/db/quest/8cf2d03c89a/",
+        "Image": null,
+        "Icon": "common_repeat",
+        "Issuer": "Eshana",
+        "StartLocation": {
+            "Name": "The Fringes",
+            "X": "20.9",
+            "Y": "26.2"
+        },
+        "StartClass": null,
+        "Job": "",
+        "Company": "Not specified",
+        "Requirement": "Not specified",
+        "Rewards": {
+            "Gil": 550,
+            "Exp": null,
+            "ItemsMand": [],
+            "ItemsOpt": []
+        },
+        "Infos": {
+            "RelatedNPC": [
+                {
+                    "Name": "Bleeding Scout",
+                    "Url": "/lodestone/playguide/db/npc/npc/001a6964450/",
+                    "Area": "The Fringes (X:26.9 Y:23.4)"
+                },
+                {
+                    "Name": "Wincing Scout",
+                    "Url": "/lodestone/playguide/db/npc/npc/336a393c9ff/",
+                    "Area": "The Fringes (X:28.7 Y:22.9)"
+                },
+                {
+                    "Name": "Wounded Scout",
+                    "Url": "/lodestone/playguide/db/npc/npc/1b20bc25eed/",
+                    "Area": "The Fringes (X:32.5 Y:21.6)"
+                }
+            ]
+        },
+        "Seq": 31,
+        "StartDependency": false
+    },
+    {
+        "ID": "9d637784009",
+        "Name": " The Antlion's Share",
+        "Location": "The Fringes",
+        "Level": 60,
+        "JournalSection": 4,
+        "JournalCategory": 37,
+        "JournalGenre": "\n\t\t\t\t\t\t\tDaily Quests\n\t\t\t\t\t\t",
+        "Url": "/lodestone/playguide/db/quest/9d637784009/",
+        "Image": null,
+        "Icon": "common_repeat",
+        "Issuer": "Eshana",
+        "StartLocation": {
+            "Name": "The Fringes",
+            "X": "20.9",
+            "Y": "26.2"
+        },
+        "StartClass": null,
+        "Job": "",
+        "Company": "Not specified",
+        "Requirement": "Not specified",
+        "Rewards": {
+            "Gil": 615,
+            "Exp": null,
+            "ItemsMand": [],
+            "ItemsOpt": []
+        },
+        "Infos": {},
+        "Seq": 22,
+        "StartDependency": false
+    },
+    {
+        "ID": "9d675807c2e",
+        "Name": " Bhoot Camps",
+        "Location": "The Fringes",
+        "Level": 60,
+        "JournalSection": 4,
+        "JournalCategory": 37,
+        "JournalGenre": "\n\t\t\t\t\t\t\tDaily Quests\n\t\t\t\t\t\t",
+        "Url": "/lodestone/playguide/db/quest/9d675807c2e/",
+        "Image": null,
+        "Icon": "common_repeat",
+        "Issuer": "Eshana",
+        "StartLocation": {
+            "Name": "The Fringes",
+            "X": "20.9",
+            "Y": "26.2"
+        },
+        "StartClass": null,
+        "Job": "",
+        "Company": "Not specified",
+        "Requirement": "Not specified",
+        "Rewards": {
+            "Gil": 550,
+            "Exp": null,
+            "ItemsMand": [],
+            "ItemsOpt": []
+        },
+        "Infos": {},
+        "Seq": 27,
+        "StartDependency": false
+    },
+    {
+        "ID": "9fbe3eda8b2",
+        "Name": " Have I Got News for You",
+        "Location": "The Fringes",
+        "Level": 60,
+        "JournalSection": 4,
+        "JournalCategory": 37,
+        "JournalGenre": "\n\t\t\t\t\t\t\tDaily Quests\n\t\t\t\t\t\t",
+        "Url": "/lodestone/playguide/db/quest/9fbe3eda8b2/",
+        "Image": null,
+        "Icon": "common_repeat",
+        "Issuer": "Eshana",
+        "StartLocation": {
+            "Name": "The Fringes",
+            "X": "20.9",
+            "Y": "26.2"
+        },
+        "StartClass": null,
+        "Job": "",
+        "Company": "Not specified",
+        "Requirement": "Not specified",
+        "Rewards": {
+            "Gil": 615,
+            "Exp": null,
+            "ItemsMand": [],
+            "ItemsOpt": []
+        },
+        "Infos": {
+            "RelatedNPC": [
+                {
+                    "Name": "Ananta Whispermaid",
+                    "Url": "/lodestone/playguide/db/npc/npc/d361dfaa802/",
+                    "Area": "The Fringes (X:22.4 Y:27.4)"
+                }
+            ]
+        },
+        "Seq": 20,
+        "StartDependency": false
+    },
+    {
+        "ID": "a82f292c10b",
+        "Name": " A Real Fixer-upper",
+        "Location": "The Fringes",
+        "Level": 60,
+        "JournalSection": 4,
+        "JournalCategory": 37,
+        "JournalGenre": "\n\t\t\t\t\t\t\tDaily Quests\n\t\t\t\t\t\t",
+        "Url": "/lodestone/playguide/db/quest/a82f292c10b/",
+        "Image": null,
+        "Icon": "common_repeat",
+        "Issuer": "Eshana",
+        "StartLocation": {
+            "Name": "The Fringes",
+            "X": "20.9",
+            "Y": "26.2"
+        },
+        "StartClass": null,
+        "Job": "",
+        "Company": "Not specified",
+        "Requirement": "Not specified",
+        "Rewards": {
+            "Gil": 550,
+            "Exp": null,
+            "ItemsMand": [],
+            "ItemsOpt": []
+        },
+        "Infos": {},
+        "Seq": 6,
+        "StartDependency": false
+    },
+    {
+        "ID": "b47825bd164",
+        "Name": " Celebratory Smorgasbord",
+        "Location": "The Fringes",
+        "Level": 60,
+        "JournalSection": 4,
+        "JournalCategory": 37,
+        "JournalGenre": "\n\t\t\t\t\t\t\tMain Quests\n\t\t\t\t\t\t",
+        "Url": "/lodestone/playguide/db/quest/b47825bd164/",
+        "Image": "https://img.finalfantasyxiv.com/lds/pc/global/images/itemicon/a2/a2a21231ac40f8336dd87b6df4b050c96a353e54.png?n6.05",
+        "Icon": "function_normal",
+        "Issuer": "Alpa",
+        "StartLocation": {
+            "Name": "The Fringes",
+            "X": "21.7",
+            "Y": "26.2"
+        },
+        "StartClass": null,
+        "Job": "",
+        "Company": "Not specified",
+        "Requirement": "Not specified",
+        "Rewards": {
+            "Gil": 1075,
+            "Exp": null,
+            "ItemsMand": [],
+            "ItemsOpt": []
+        },
+        "Infos": {
+            "PrerequisiteQuest": [
+                {
+                    "Name": " Schism between Sisters",
+                    "Url": "/lodestone/playguide/db/quest/21fa2258d32/",
+                    "Area": "The Fringes",
+                    "Level": "60"
+                }
+            ],
+            "FollowupQuest": [
+                {
+                    "Name": "The Ananta Maid's Tail",
+                    "Url": "/lodestone/playguide/db/quest/cd6b17e9dfb/",
+                    "Area": "Kugane",
+                    "Level": "70"
+                }
+            ],
+            "RelatedNPC": [
+                {
+                    "Name": "Alpa",
+                    "Url": "/lodestone/playguide/db/npc/npc/8c46d6685fb/",
+                    "Area": "The Fringes (X:21.7 Y:26.2)"
+                },
+                {
+                    "Name": "Alpa",
+                    "Url": "/lodestone/playguide/db/npc/npc/f92a315986a/",
+                    "Area": "The Fringes (X:18.3 Y:24.6)"
+                },
+                {
+                    "Name": "Gales",
+                    "Url": "/lodestone/playguide/db/npc/npc/10a7fc66342/",
+                    "Area": "The Fringes (X:22.1 Y:26.8)"
+                },
+                {
+                    "Name": "Injured Ala Mhigan",
+                    "Url": "/lodestone/playguide/db/npc/npc/3cf8d7576cc/",
+                    "Area": "The Fringes (X:18.4 Y:24.6)"
+                },
+                {
+                    "Name": "J'olhmyn",
+                    "Url": "/lodestone/playguide/db/npc/npc/7cd3e00094d/",
+                    "Area": "The Fringes (X:21.7 Y:26.1)"
+                },
+                {
+                    "Name": "J'olhmyn",
+                    "Url": "/lodestone/playguide/db/npc/npc/bac630472d3/",
+                    "Area": "The Fringes (X:18.4 Y:24.6)"
+                },
+                {
+                    "Name": "M'zhet Tia",
+                    "Url": "/lodestone/playguide/db/npc/npc/a339ac1287b/",
+                    "Area": "The Fringes (X:30.4 Y:26.1)"
+                },
+                {
+                    "Name": "Qalyana Sentry",
+                    "Url": "/lodestone/playguide/db/npc/npc/1afbef6ff2b/",
+                    "Area": "The Fringes (X:18.3 Y:24.6)"
+                },
+                {
+                    "Name": "Tahla Molkoh",
+                    "Url": "/lodestone/playguide/db/npc/npc/45356cdf9b2/",
+                    "Area": "The Fringes (X:8.6 Y:10.7)"
+                }
+            ]
+        },
+        "Seq": 5,
+        "StartDependency": false
+    },
+    {
+        "ID": "b49267c62ad",
+        "Name": " A Swarm Welcome",
+        "Location": "The Fringes",
+        "Level": 60,
+        "JournalSection": 4,
+        "JournalCategory": 37,
+        "JournalGenre": "\n\t\t\t\t\t\t\tDaily Quests\n\t\t\t\t\t\t",
+        "Url": "/lodestone/playguide/db/quest/b49267c62ad/",
+        "Image": null,
+        "Icon": "common_repeat",
+        "Issuer": "Eshana",
+        "StartLocation": {
+            "Name": "The Fringes",
+            "X": "20.9",
+            "Y": "26.2"
+        },
+        "StartClass": null,
+        "Job": "",
+        "Company": "Not specified",
+        "Requirement": "Not specified",
+        "Rewards": {
+            "Gil": 615,
+            "Exp": null,
+            "ItemsMand": [],
+            "ItemsOpt": []
+        },
+        "Infos": {
+            "RelatedNPC": [
+                {
+                    "Name": "Ananta Sentry",
+                    "Url": "/lodestone/playguide/db/npc/npc/db59751feaf/",
+                    "Area": "The Fringes (X:26.5 Y:29.8)"
+                },
+                {
+                    "Name": "Ananta Sentry",
+                    "Url": "/lodestone/playguide/db/npc/npc/5bc076c9db4/",
+                    "Area": "The Fringes (X:28.4 Y:26.0)"
+                },
+                {
+                    "Name": "Frenzied Swarm",
+                    "Url": "/lodestone/playguide/db/npc/npc/f0bf64b5e75/",
+                    "Area": "The Fringes (X:26.5 Y:29.8)"
+                },
+                {
+                    "Name": "Frenzied Swarm",
+                    "Url": "/lodestone/playguide/db/npc/npc/4dbc93e3da1/",
+                    "Area": "The Fringes (X:28.4 Y:26.0)"
+                },
+                {
+                    "Name": "Giff",
+                    "Url": "/lodestone/playguide/db/npc/npc/bb3a81c0886/",
+                    "Area": "The Fringes (X:20.7 Y:25.7)"
+                },
+                {
+                    "Name": "Highlander Soldier",
+                    "Url": "/lodestone/playguide/db/npc/npc/cbc7de528cf/",
+                    "Area": "The Fringes (X:26.5 Y:29.8)"
+                },
+                {
+                    "Name": "Highlander Soldier",
+                    "Url": "/lodestone/playguide/db/npc/npc/61f6303bb73/",
+                    "Area": "The Fringes (X:28.5 Y:26.0)"
+                }
+            ]
+        },
+        "Seq": 18,
+        "StartDependency": false
+    },
+    {
+        "ID": "b5b8233b0db",
+        "Name": " Brooding Broodmother",
+        "Location": "The Fringes",
+        "Level": 60,
+        "JournalSection": 4,
+        "JournalCategory": 37,
+        "JournalGenre": "\n\t\t\t\t\t\t\tMain Quests\n\t\t\t\t\t\t",
+        "Url": "/lodestone/playguide/db/quest/b5b8233b0db/",
+        "Image": "https://img.finalfantasyxiv.com/lds/pc/global/images/itemicon/a6/a6a7fc520aba841419f19e4615b6f5362a79208c.png?n6.05",
+        "Icon": "function_normal",
+        "Issuer": "M'rahz Nunh",
+        "StartLocation": {
+            "Name": "The Fringes",
+            "X": "30.2",
+            "Y": "25.7"
+        },
+        "StartClass": null,
+        "Job": "",
+        "Company": "Not specified",
+        "Requirement": "Not specified",
+        "Rewards": {
+            "Gil": 1158,
+            "Exp": null,
+            "ItemsMand": [],
+            "ItemsOpt": []
+        },
+        "Infos": {
+            "PrerequisiteQuest": [
+                {
+                    "Name": "The Rose Blooms Twice",
+                    "Url": "/lodestone/playguide/db/quest/1d63c997677/",
+                    "Area": "The Fringes",
+                    "Level": "67"
+                }
+            ],
+            "FollowupQuest": [
+                {
+                    "Name": " Griffins Rampant",
+                    "Url": "/lodestone/playguide/db/quest/d496db08988/",
+                    "Area": "The Fringes",
+                    "Level": "60"
+                }
+            ],
+            "RelatedNPC": [
+                {
+                    "Name": "Alpa",
+                    "Url": "/lodestone/playguide/db/npc/npc/0a73757feab/",
+                    "Area": "Rhalgr's Reach (X:11.6 Y:11.5)"
+                },
+                {
+                    "Name": "J'olhmyn",
+                    "Url": "/lodestone/playguide/db/npc/npc/cc7855ee176/",
+                    "Area": "Rhalgr's Reach (X:11.6 Y:11.5)"
+                },
+                {
+                    "Name": "Alpa",
+                    "Url": "/lodestone/playguide/db/npc/npc/18c3e64cd4b/",
+                    "Area": "The Fringes (X:21.7 Y:26.2)"
+                },
+                {
+                    "Name": "J'olhmyn",
+                    "Url": "/lodestone/playguide/db/npc/npc/7cd3e00094d/",
+                    "Area": "The Fringes (X:21.7 Y:26.1)"
+                },
+                {
+                    "Name": "Sarisha",
+                    "Url": "/lodestone/playguide/db/npc/npc/c6c2b4c5102/",
+                    "Area": "The Fringes (X:28.0 Y:19.4)"
+                }
+            ]
+        },
+        "Seq": 25,
+        "StartDependency": false
+    },
+    {
+        "ID": "d496db08988",
+        "Name": " Griffins Rampant",
+        "Location": "The Fringes",
+        "Level": 60,
+        "JournalSection": 4,
+        "JournalCategory": 37,
+        "JournalGenre": "\n\t\t\t\t\t\t\tMain Quests\n\t\t\t\t\t\t",
+        "Url": "/lodestone/playguide/db/quest/d496db08988/",
+        "Image": "https://img.finalfantasyxiv.com/lds/pc/global/images/itemicon/01/01a8cf7486f4de5ddfdf23701ac3c99488a1f432.png?n6.05",
+        "Icon": "function_normal",
+        "Issuer": "Alpa",
+        "StartLocation": {
+            "Name": "The Fringes",
+            "X": "21.7",
+            "Y": "26.2"
+        },
+        "StartClass": null,
+        "Job": "",
+        "Company": "Not specified",
+        "Requirement": "Not specified",
+        "Rewards": {
+            "Gil": 1681,
+            "Exp": null,
+            "ItemsMand": [],
+            "ItemsOpt": []
+        },
+        "Infos": {
+            "PrerequisiteQuest": [
+                {
+                    "Name": " Brooding Broodmother",
+                    "Url": "/lodestone/playguide/db/quest/b5b8233b0db/",
+                    "Area": "The Fringes",
+                    "Level": "60"
+                }
+            ],
+            "FollowupQuest": [
+                {
+                    "Name": " Chance of Gales",
+                    "Url": "/lodestone/playguide/db/quest/df9a1804ad1/",
+                    "Area": "The Fringes",
+                    "Level": "60"
+                }
+            ],
+            "RelatedNPC": [
+                {
+                    "Name": "Giff",
+                    "Url": "/lodestone/playguide/db/npc/npc/c71f5bf214b/",
+                    "Area": "Rhalgr's Reach (X:9.7 Y:10.2)"
+                },
+                {
+                    "Name": "Alpa",
+                    "Url": "/lodestone/playguide/db/npc/npc/b3b67ce4a7d/",
+                    "Area": "The Fringes (X:19.8 Y:26.1)"
+                },
+                {
+                    "Name": "Alpa",
+                    "Url": "/lodestone/playguide/db/npc/npc/8c46d6685fb/",
+                    "Area": "The Fringes (X:21.7 Y:26.2)"
+                },
+                {
+                    "Name": "Giff",
+                    "Url": "/lodestone/playguide/db/npc/npc/2a55716f868/",
+                    "Area": "The Fringes (X:20.4 Y:25.8)"
+                },
+                {
+                    "Name": "Tahla Molkoh",
+                    "Url": "/lodestone/playguide/db/npc/npc/99715293638/",
+                    "Area": "The Fringes (X:8.8 Y:12.4)"
+                }
+            ]
+        },
+        "Seq": 1,
+        "StartDependency": false
+    },
+    {
+        "ID": "d7ffdb1c48e",
+        "Name": " Catching and Fletching",
+        "Location": "The Fringes",
+        "Level": 60,
+        "JournalSection": 4,
+        "JournalCategory": 37,
+        "JournalGenre": "\n\t\t\t\t\t\t\tDaily Quests\n\t\t\t\t\t\t",
+        "Url": "/lodestone/playguide/db/quest/d7ffdb1c48e/",
+        "Image": null,
+        "Icon": "common_repeat",
+        "Issuer": "Eshana",
+        "StartLocation": {
+            "Name": "The Fringes",
+            "X": "20.9",
+            "Y": "26.2"
+        },
+        "StartClass": null,
+        "Job": "",
+        "Company": "Not specified",
+        "Requirement": "Not specified",
+        "Rewards": {
+            "Gil": 550,
+            "Exp": null,
+            "ItemsMand": [],
+            "ItemsOpt": []
+        },
+        "Infos": {},
+        "Seq": 33,
+        "StartDependency": false
+    },
+    {
+        "ID": "df9a1804ad1",
+        "Name": " Chance of Gales",
+        "Location": "The Fringes",
+        "Level": 60,
+        "JournalSection": 4,
+        "JournalCategory": 37,
+        "JournalGenre": "\n\t\t\t\t\t\t\tMain Quests\n\t\t\t\t\t\t",
+        "Url": "/lodestone/playguide/db/quest/df9a1804ad1/",
+        "Image": "https://img.finalfantasyxiv.com/lds/pc/global/images/itemicon/27/270f3a61affbc453bc366a1369f7c035a6ce9853.png?n6.05",
+        "Icon": "function_normal",
+        "Issuer": "Alpa",
+        "StartLocation": {
+            "Name": "The Fringes",
+            "X": "21.7",
+            "Y": "26.2"
+        },
+        "StartClass": null,
+        "Job": "",
+        "Company": "Not specified",
+        "Requirement": "Not specified",
+        "Rewards": {
+            "Gil": 1585,
+            "Exp": null,
+            "ItemsMand": [],
+            "ItemsOpt": []
+        },
+        "Infos": {
+            "PrerequisiteQuest": [
+                {
+                    "Name": " Griffins Rampant",
+                    "Url": "/lodestone/playguide/db/quest/d496db08988/",
+                    "Area": "The Fringes",
+                    "Level": "60"
+                }
+            ],
+            "FollowupQuest": [
+                {
+                    "Name": " It Can Be Cruel Sometimes",
+                    "Url": "/lodestone/playguide/db/quest/0bc4f1bcc7a/",
+                    "Area": "The Fringes",
+                    "Level": "60"
+                }
+            ],
+            "RelatedNPC": [
+                {
+                    "Name": "Alpa",
+                    "Url": "/lodestone/playguide/db/npc/npc/415be2e4397/",
+                    "Area": "The Fringes (X:23.5 Y:27.4)"
+                },
+                {
+                    "Name": "Alpa",
+                    "Url": "/lodestone/playguide/db/npc/npc/8c46d6685fb/",
+                    "Area": "The Fringes (X:21.7 Y:26.2)"
+                },
+                {
+                    "Name": "Dakshina",
+                    "Url": "/lodestone/playguide/db/npc/npc/0589a1b283e/",
+                    "Area": "The Fringes (X:19.6 Y:25.2)"
+                },
+                {
+                    "Name": "Eager Gatekeeper",
+                    "Url": "/lodestone/playguide/db/npc/npc/b4ca1c0c4f9/",
+                    "Area": "The Fringes (X:17.3 Y:18.4)"
+                },
+                {
+                    "Name": "Forthright Gatekeeper",
+                    "Url": "/lodestone/playguide/db/npc/npc/71cf4cd259f/",
+                    "Area": "The Fringes (X:17.2 Y:18.3)"
+                },
+                {
+                    "Name": "Gales",
+                    "Url": "/lodestone/playguide/db/npc/npc/7a644ff8416/",
+                    "Area": "The Fringes (X:21.6 Y:26.2)"
+                },
+                {
+                    "Name": "Gridanian Merchant",
+                    "Url": "/lodestone/playguide/db/npc/npc/7c675bb8d16/",
+                    "Area": "The Fringes (X:23.7 Y:27.4)"
+                },
+                {
+                    "Name": "J'olhmyn",
+                    "Url": "/lodestone/playguide/db/npc/npc/7cd3e00094d/",
+                    "Area": "The Fringes (X:21.7 Y:26.1)"
+                },
+                {
+                    "Name": "J'olhmyn",
+                    "Url": "/lodestone/playguide/db/npc/npc/3e553c38fe7/",
+                    "Area": "The Fringes (X:23.5 Y:27.4)"
+                },
+                {
+                    "Name": "Alpa",
+                    "Url": "/lodestone/playguide/db/npc/npc/afa655bd505/",
+                    "Area": "The Peaks (X:16.6 Y:37.1)"
+                },
+                {
+                    "Name": "Alpa",
+                    "Url": "/lodestone/playguide/db/npc/npc/725155bc17c/",
+                    "Area": "The Peaks (X:16.6 Y:31.6)"
+                },
+                {
+                    "Name": "Gales",
+                    "Url": "/lodestone/playguide/db/npc/npc/40e94026e56/",
+                    "Area": "The Peaks (X:16.7 Y:31.6)"
+                },
+                {
+                    "Name": "Gerbod",
+                    "Url": "/lodestone/playguide/db/npc/npc/5ccd1a9fe7c/",
+                    "Area": "The Peaks (X:15.9 Y:37.1)"
+                },
+                {
+                    "Name": "J'nairoh",
+                    "Url": "/lodestone/playguide/db/npc/npc/1b87a6a15d1/",
+                    "Area": "The Peaks (X:17.2 Y:36.8)"
+                },
+                {
+                    "Name": "J'olhmyn",
+                    "Url": "/lodestone/playguide/db/npc/npc/d84a54f45b8/",
+                    "Area": "The Peaks (X:16.6 Y:37.1)"
+                },
+                {
+                    "Name": "J'olhmyn",
+                    "Url": "/lodestone/playguide/db/npc/npc/4edfb052861/",
+                    "Area": "The Peaks (X:16.7 Y:31.5)"
+                },
+                {
+                    "Name": "Weidheri",
+                    "Url": "/lodestone/playguide/db/npc/npc/039d8ba396e/",
+                    "Area": "The Peaks (X:16.7 Y:36.3)"
+                }
+            ]
+        },
+        "Seq": 2,
+        "StartDependency": false
+    },
+    {
+        "ID": "efbf54835a5",
+        "Name": " A Delicate Operation",
+        "Location": "The Fringes",
+        "Level": 60,
+        "JournalSection": 4,
+        "JournalCategory": 37,
+        "JournalGenre": "\n\t\t\t\t\t\t\tDaily Quests\n\t\t\t\t\t\t",
+        "Url": "/lodestone/playguide/db/quest/efbf54835a5/",
+        "Image": null,
+        "Icon": "common_repeat",
+        "Issuer": "Eshana",
+        "StartLocation": {
+            "Name": "The Fringes",
+            "X": "20.9",
+            "Y": "26.2"
+        },
+        "StartClass": null,
+        "Job": "",
+        "Company": "Not specified",
+        "Requirement": "Not specified",
+        "Rewards": {
+            "Gil": 550,
+            "Exp": null,
+            "ItemsMand": [],
+            "ItemsOpt": []
+        },
+        "Infos": {},
+        "Seq": 29,
+        "StartDependency": false
+    },
+    {
+        "ID": "f14253a077d",
+        "Name": " The Very Hungry Marid",
+        "Location": "The Fringes",
+        "Level": 60,
+        "JournalSection": 4,
+        "JournalCategory": 37,
+        "JournalGenre": "\n\t\t\t\t\t\t\tDaily Quests\n\t\t\t\t\t\t",
+        "Url": "/lodestone/playguide/db/quest/f14253a077d/",
+        "Image": null,
+        "Icon": "common_repeat",
+        "Issuer": "Eshana",
+        "StartLocation": {
+            "Name": "The Fringes",
+            "X": "20.9",
+            "Y": "26.2"
+        },
+        "StartClass": null,
+        "Job": "",
+        "Company": "Not specified",
+        "Requirement": "Not specified",
+        "Rewards": {
+            "Gil": 745,
+            "Exp": null,
+            "ItemsMand": [],
+            "ItemsOpt": []
+        },
+        "Infos": {
+            "RelatedNPC": [
+                {
+                    "Name": "Ancient Marid",
+                    "Url": "/lodestone/playguide/db/npc/npc/22132c4be21/",
+                    "Area": "The Fringes (X:23.3 Y:29.0)"
+                }
+            ]
+        },
+        "Seq": 21,
+        "StartDependency": false
+    },
+    {
+        "ID": "f599ad98290",
+        "Name": " Beating the Heat",
+        "Location": "The Fringes",
+        "Level": 60,
+        "JournalSection": 4,
+        "JournalCategory": 37,
+        "JournalGenre": "\n\t\t\t\t\t\t\tDaily Quests\n\t\t\t\t\t\t",
+        "Url": "/lodestone/playguide/db/quest/f599ad98290/",
+        "Image": null,
+        "Icon": "common_repeat",
+        "Issuer": "Eshana",
+        "StartLocation": {
+            "Name": "The Fringes",
+            "X": "20.9",
+            "Y": "26.2"
+        },
+        "StartClass": null,
+        "Job": "",
+        "Company": "Not specified",
+        "Requirement": "Not specified",
+        "Rewards": {
+            "Gil": 550,
+            "Exp": null,
+            "ItemsMand": [],
+            "ItemsOpt": []
+        },
+        "Infos": {},
+        "Seq": 9,
+        "StartDependency": false
+    },
+    {
+        "ID": "f6daac2aa09",
+        "Name": " A Signal for the Senses",
+        "Location": "The Fringes",
+        "Level": 60,
+        "JournalSection": 4,
+        "JournalCategory": 37,
+        "JournalGenre": "\n\t\t\t\t\t\t\tDaily Quests\n\t\t\t\t\t\t",
+        "Url": "/lodestone/playguide/db/quest/f6daac2aa09/",
+        "Image": null,
+        "Icon": "common_repeat",
+        "Issuer": "Eshana",
+        "StartLocation": {
+            "Name": "The Fringes",
+            "X": "20.9",
+            "Y": "26.2"
+        },
+        "StartClass": null,
+        "Job": "",
+        "Company": "Not specified",
+        "Requirement": "Not specified",
+        "Rewards": {
+            "Gil": 615,
+            "Exp": null,
+            "ItemsMand": [],
+            "ItemsOpt": []
+        },
+        "Infos": {},
+        "Seq": 13,
+        "StartDependency": false
+    },
+    {
+        "ID": "fe1088d4d3f",
+        "Name": " When Feathers Fly",
+        "Location": "The Fringes",
+        "Level": 60,
+        "JournalSection": 4,
+        "JournalCategory": 37,
+        "JournalGenre": "\n\t\t\t\t\t\t\tDaily Quests\n\t\t\t\t\t\t",
+        "Url": "/lodestone/playguide/db/quest/fe1088d4d3f/",
+        "Image": null,
+        "Icon": "common_repeat",
+        "Issuer": "Eshana",
+        "StartLocation": {
+            "Name": "The Fringes",
+            "X": "20.9",
+            "Y": "26.2"
+        },
+        "StartClass": null,
+        "Job": "",
+        "Company": "Not specified",
+        "Requirement": "Not specified",
+        "Rewards": {
+            "Gil": 550,
+            "Exp": null,
+            "ItemsMand": [],
+            "ItemsOpt": []
+        },
+        "Infos": {
+            "RelatedNPC": [
+                {
+                    "Name": "Juvenile Griffin",
+                    "Url": "/lodestone/playguide/db/npc/npc/4a6ad87ee15/",
+                    "Area": "The Fringes (X:27.3 Y:11.5)"
+                },
+                {
+                    "Name": "Juvenile Griffin",
+                    "Url": "/lodestone/playguide/db/npc/npc/ac58a2278ac/",
+                    "Area": "The Fringes (X:25.1 Y:14.0)"
+                },
+                {
+                    "Name": "Juvenile Griffin",
+                    "Url": "/lodestone/playguide/db/npc/npc/d28be5b9ddf/",
+                    "Area": "The Fringes (X:20.0 Y:3.9)"
+                },
+                {
+                    "Name": "Juvenile Griffin",
+                    "Url": "/lodestone/playguide/db/npc/npc/5ed24d3c046/",
+                    "Area": "The Fringes (X:18.3 Y:14.1)"
+                }
+            ]
+        },
+        "Seq": 15,
+        "StartDependency": false
+    }
+]

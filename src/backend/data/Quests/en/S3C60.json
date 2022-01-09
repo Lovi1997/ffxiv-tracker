@@ -1,0 +1,2096 @@
+[
+    {
+        "ID": "1552c0b44a1",
+        "Name": " Help Me to Help You",
+        "Location": "Garlemald",
+        "Level": 80,
+        "JournalSection": 3,
+        "JournalCategory": 60,
+        "JournalGenre": "Garlean Sidequests",
+        "Url": "/lodestone/playguide/db/quest/1552c0b44a1/",
+        "Image": null,
+        "Icon": "common_normal",
+        "Issuer": "Menuki",
+        "StartLocation": {
+            "Name": "Garlemald",
+            "X": "14.0",
+            "Y": "29.3"
+        },
+        "StartClass": null,
+        "Job": "",
+        "Company": "Not specified",
+        "Requirement": "Not specified",
+        "Rewards": {
+            "Gil": 735,
+            "Exp": null,
+            "ItemsMand": [],
+            "ItemsOpt": []
+        },
+        "Infos": {
+            "PrerequisiteQuest": [
+                {
+                    "Name": "Strange Bedfellows",
+                    "Url": "/lodestone/playguide/db/quest/be4e79b846c/",
+                    "Area": "Garlemald",
+                    "Level": "83"
+                }
+            ],
+            "RelatedNPC": [
+                {
+                    "Name": "Forthright Local Boy",
+                    "Url": "/lodestone/playguide/db/npc/npc/efbc433eac1/",
+                    "Area": "Garlemald (X:23.1 Y:24.2)"
+                }
+            ]
+        },
+        "Seq": 4,
+        "StartDependency": false
+    },
+    {
+        "ID": "17bcecc8dd3",
+        "Name": " Under Lock and Code",
+        "Location": "Garlemald",
+        "Level": 80,
+        "JournalSection": 3,
+        "JournalCategory": 60,
+        "JournalGenre": "Garlean Sidequests",
+        "Url": "/lodestone/playguide/db/quest/17bcecc8dd3/",
+        "Image": null,
+        "Icon": "common_normal",
+        "Issuer": "Ambaghai",
+        "StartLocation": {
+            "Name": "Garlemald",
+            "X": "14.6",
+            "Y": "30.8"
+        },
+        "StartClass": null,
+        "Job": "",
+        "Company": "Not specified",
+        "Requirement": "Not specified",
+        "Rewards": {
+            "Gil": 815,
+            "Exp": null,
+            "ItemsMand": [],
+            "ItemsOpt": []
+        },
+        "Infos": {
+            "PrerequisiteQuest": [
+                {
+                    "Name": "A Way Forward",
+                    "Url": "/lodestone/playguide/db/quest/2b39bdb753b/",
+                    "Area": "Garlemald",
+                    "Level": "82"
+                }
+            ],
+            "RelatedNPC": [
+                {
+                    "Name": "3rd Legion Decurion",
+                    "Url": "/lodestone/playguide/db/npc/npc/c9df82421d5/",
+                    "Area": "Garlemald (X:13.1 Y:29.1)"
+                },
+                {
+                    "Name": "Hawisia",
+                    "Url": "/lodestone/playguide/db/npc/npc/a1b314dc4ca/",
+                    "Area": "Garlemald (X:14.3 Y:31.8)"
+                },
+                {
+                    "Name": "Perpetually Perturbed Maelstrom Officer",
+                    "Url": "/lodestone/playguide/db/npc/npc/e77c79c07f2/",
+                    "Area": "Garlemald (X:13.9 Y:32.1)"
+                },
+                {
+                    "Name": "Willelm",
+                    "Url": "/lodestone/playguide/db/npc/npc/1b2da4367dd/",
+                    "Area": "Garlemald (X:12.8 Y:30.2)"
+                }
+            ]
+        },
+        "Seq": 3,
+        "StartDependency": false
+    },
+    {
+        "ID": "1fc29bca30d",
+        "Name": " Scouting for Scouts",
+        "Location": "Garlemald",
+        "Level": 80,
+        "JournalSection": 3,
+        "JournalCategory": 60,
+        "JournalGenre": "Garlean Sidequests",
+        "Url": "/lodestone/playguide/db/quest/1fc29bca30d/",
+        "Image": null,
+        "Icon": "common_normal",
+        "Issuer": "Talon",
+        "StartLocation": {
+            "Name": "Garlemald",
+            "X": "14.7",
+            "Y": "30.4"
+        },
+        "StartClass": null,
+        "Job": "",
+        "Company": "Not specified",
+        "Requirement": "Not specified",
+        "Rewards": {
+            "Gil": 895,
+            "Exp": null,
+            "ItemsMand": [],
+            "ItemsOpt": []
+        },
+        "Infos": {
+            "PrerequisiteQuest": [
+                {
+                    "Name": "Strange Bedfellows",
+                    "Url": "/lodestone/playguide/db/quest/be4e79b846c/",
+                    "Area": "Garlemald",
+                    "Level": "83"
+                }
+            ],
+            "RelatedNPC": [
+                {
+                    "Name": "Injured Civilian",
+                    "Url": "/lodestone/playguide/db/npc/npc/a907c792a78/",
+                    "Area": "Garlemald (X:24.3 Y:30.2)"
+                },
+                {
+                    "Name": "Wounded Contingent Scout",
+                    "Url": "/lodestone/playguide/db/npc/npc/5f3aec82d6e/",
+                    "Area": "Garlemald (X:24.3 Y:30.1)"
+                }
+            ]
+        },
+        "Seq": 5,
+        "StartDependency": false
+    },
+    {
+        "ID": "298ffe5b68f",
+        "Name": " Armored Up",
+        "Location": "Garlemald",
+        "Level": 80,
+        "JournalSection": 3,
+        "JournalCategory": 60,
+        "JournalGenre": "Garlean Sidequests",
+        "Url": "/lodestone/playguide/db/quest/298ffe5b68f/",
+        "Image": null,
+        "Icon": "common_normal",
+        "Issuer": "Commissary Officer",
+        "StartLocation": {
+            "Name": "Garlemald",
+            "X": "24.1",
+            "Y": "34.4"
+        },
+        "StartClass": null,
+        "Job": "",
+        "Company": "Not specified",
+        "Requirement": "Not specified",
+        "Rewards": {
+            "Gil": 815,
+            "Exp": null,
+            "ItemsMand": [
+                {
+                    "Icon": "https://img.finalfantasyxiv.com/lds/pc/global/images/itemicon/f3/f357ea7ae8d550e78704823b64f7e5d104e16e2f.png?n6.05",
+                    "Name": "Pewter Earring Coffer",
+                    "Amount": 1,
+                    "Url": "/lodestone/playguide/db/item/7a6c6759cfe/"
+                }
+            ],
+            "ItemsOpt": []
+        },
+        "Infos": {
+            "PrerequisiteQuest": [
+                {
+                    "Name": "Strange Bedfellows",
+                    "Url": "/lodestone/playguide/db/quest/be4e79b846c/",
+                    "Area": "Garlemald",
+                    "Level": "83"
+                },
+                {
+                    "Name": " Best Delivered Cold",
+                    "Url": "/lodestone/playguide/db/quest/c1f78c16352/",
+                    "Area": "Garlemald",
+                    "Level": "80"
+                }
+            ],
+            "FollowupQuest": [
+                {
+                    "Name": " A Dream of Home",
+                    "Url": "/lodestone/playguide/db/quest/606b2e46012/",
+                    "Area": "Garlemald",
+                    "Level": "80"
+                }
+            ],
+            "RelatedNPC": [
+                {
+                    "Name": "Commissary Officer",
+                    "Url": "/lodestone/playguide/db/npc/npc/2d3ad75daed/",
+                    "Area": "Garlemald (X:24.1 Y:32.8)"
+                },
+                {
+                    "Name": "Jareck",
+                    "Url": "/lodestone/playguide/db/npc/npc/0bbc8e94ef1/",
+                    "Area": "Garlemald (X:24.2 Y:34.4)"
+                }
+            ]
+        },
+        "Seq": 7,
+        "StartDependency": false
+    },
+    {
+        "ID": "2f740bf526e",
+        "Name": " P.S. I Love You",
+        "Location": "Garlemald",
+        "Level": 80,
+        "JournalSection": 3,
+        "JournalCategory": 60,
+        "JournalGenre": "Garlean Sidequests",
+        "Url": "/lodestone/playguide/db/quest/2f740bf526e/",
+        "Image": null,
+        "Icon": "common_normal",
+        "Issuer": "Maelstrom Delegate",
+        "StartLocation": {
+            "Name": "Garlemald",
+            "X": "31.6",
+            "Y": "14.4"
+        },
+        "StartClass": null,
+        "Job": "",
+        "Company": "Not specified",
+        "Requirement": "Not specified",
+        "Rewards": {
+            "Gil": 735,
+            "Exp": null,
+            "ItemsMand": [],
+            "ItemsOpt": [
+                {
+                    "Icon": "https://img.finalfantasyxiv.com/lds/pc/global/images/itemicon/01/01b25fdbfd80233262131662c4d73e836a284b71.png?n6.05",
+                    "Name": "Wine Red Dye",
+                    "Amount": 2,
+                    "Url": "/lodestone/playguide/db/item/d03c7e15352/"
+                },
+                {
+                    "Icon": "https://img.finalfantasyxiv.com/lds/pc/global/images/itemicon/01/01b25fdbfd80233262131662c4d73e836a284b71.png?n6.05",
+                    "Name": "Lilac Purple Dye",
+                    "Amount": 2,
+                    "Url": "/lodestone/playguide/db/item/853d5204143/"
+                },
+                {
+                    "Icon": "https://img.finalfantasyxiv.com/lds/pc/global/images/itemicon/01/01b25fdbfd80233262131662c4d73e836a284b71.png?n6.05",
+                    "Name": "Coral Pink Dye",
+                    "Amount": 2,
+                    "Url": "/lodestone/playguide/db/item/0b103790e30/"
+                },
+                {
+                    "Icon": "https://img.finalfantasyxiv.com/lds/pc/global/images/itemicon/ba/baa2341dd17414fae7fd62ae7bc62c64589b67be.png?n6.05",
+                    "Name": "Allagan Silver Piece",
+                    "Amount": 1,
+                    "Url": "/lodestone/playguide/db/item/a3ac3ba4b00/"
+                }
+            ]
+        },
+        "Infos": {
+            "PrerequisiteQuest": [
+                {
+                    "Name": "Strange Bedfellows",
+                    "Url": "/lodestone/playguide/db/quest/be4e79b846c/",
+                    "Area": "Garlemald",
+                    "Level": "83"
+                }
+            ],
+            "RelatedNPC": [
+                {
+                    "Name": "A'telihgo",
+                    "Url": "/lodestone/playguide/db/npc/npc/f99b0431d86/",
+                    "Area": "Garlemald (X:31.9 Y:15.5)"
+                },
+                {
+                    "Name": "Crestfallen Woman",
+                    "Url": "/lodestone/playguide/db/npc/npc/30398972628/",
+                    "Area": "Garlemald (X:31.7 Y:18.3)"
+                },
+                {
+                    "Name": "Dossennus",
+                    "Url": "/lodestone/playguide/db/npc/npc/79c380b684a/",
+                    "Area": "Garlemald (X:31.7 Y:18.7)"
+                },
+                {
+                    "Name": "Weary Imperial Citizen",
+                    "Url": "/lodestone/playguide/db/npc/npc/373a4769158/",
+                    "Area": "Garlemald (X:32.4 Y:16.6)"
+                }
+            ]
+        },
+        "Seq": 16,
+        "StartDependency": false
+    },
+    {
+        "ID": "339ad04d546",
+        "Name": " Ordnance Cleanup Committee",
+        "Location": "Garlemald",
+        "Level": 80,
+        "JournalSection": 3,
+        "JournalCategory": 60,
+        "JournalGenre": "Garlean Sidequests",
+        "Url": "/lodestone/playguide/db/quest/339ad04d546/",
+        "Image": null,
+        "Icon": "common_normal",
+        "Issuer": "Kochacha",
+        "StartLocation": {
+            "Name": "Garlemald",
+            "X": "15.1",
+            "Y": "30.0"
+        },
+        "StartClass": null,
+        "Job": "",
+        "Company": "Not specified",
+        "Requirement": "Not specified",
+        "Rewards": {
+            "Gil": 735,
+            "Exp": null,
+            "ItemsMand": [],
+            "ItemsOpt": []
+        },
+        "Infos": {
+            "PrerequisiteQuest": [
+                {
+                    "Name": "Strange Bedfellows",
+                    "Url": "/lodestone/playguide/db/quest/be4e79b846c/",
+                    "Area": "Garlemald",
+                    "Level": "83"
+                }
+            ]
+        },
+        "Seq": 25,
+        "StartDependency": false
+    },
+    {
+        "ID": "352a9a3f566",
+        "Name": " Children Are Our Future",
+        "Location": "Garlemald",
+        "Level": 80,
+        "JournalSection": 3,
+        "JournalCategory": 60,
+        "JournalGenre": "Garlean Sidequests",
+        "Url": "/lodestone/playguide/db/quest/352a9a3f566/",
+        "Image": null,
+        "Icon": "function_normal",
+        "Issuer": "Azure-haired Woman",
+        "StartLocation": {
+            "Name": "Garlemald",
+            "X": "31.4",
+            "Y": "13.1"
+        },
+        "StartClass": null,
+        "Job": "",
+        "Company": "Not specified",
+        "Requirement": "Not specified",
+        "Rewards": {
+            "Gil": 1055,
+            "Exp": null,
+            "ItemsMand": [
+                {
+                    "Icon": "https://img.finalfantasyxiv.com/lds/pc/global/images/itemicon/af/af26e4b79fb1de83550f6ddbd3a170408fcfe702.png?n6.05",
+                    "Name": "",
+                    "Amount": null
+                }
+            ],
+            "ItemsOpt": []
+        },
+        "Infos": {
+            "PrerequisiteQuest": [
+                {
+                    "Name": "Strange Bedfellows",
+                    "Url": "/lodestone/playguide/db/quest/be4e79b846c/",
+                    "Area": "Garlemald",
+                    "Level": "83"
+                }
+            ],
+            "RelatedNPC": [
+                {
+                    "Name": "Azure-haired Boy",
+                    "Url": "/lodestone/playguide/db/npc/npc/c7d482ad4df/",
+                    "Area": "Garlemald (X:25.2 Y:8.8)"
+                },
+                {
+                    "Name": "Azure-haired Boy",
+                    "Url": "/lodestone/playguide/db/npc/npc/0a11866b45e/",
+                    "Area": "Garlemald (X:25.2 Y:8.1)"
+                },
+                {
+                    "Name": "Azure-haired Boy",
+                    "Url": "/lodestone/playguide/db/npc/npc/249ace66736/",
+                    "Area": "Garlemald (X:21.9 Y:9.6)"
+                },
+                {
+                    "Name": "Azure-haired Boy",
+                    "Url": "/lodestone/playguide/db/npc/npc/a85f416944b/",
+                    "Area": "Garlemald (X:21.1 Y:10.8)"
+                }
+            ]
+        },
+        "Seq": 20,
+        "StartDependency": false
+    },
+    {
+        "ID": "3728af5a011",
+        "Name": " Stranded at the Station",
+        "Location": "Garlemald",
+        "Level": 80,
+        "JournalSection": 3,
+        "JournalCategory": 60,
+        "JournalGenre": "Garlean Sidequests",
+        "Url": "/lodestone/playguide/db/quest/3728af5a011/",
+        "Image": "https://img.finalfantasyxiv.com/lds/pc/global/images/itemicon/92/9296237a7eac5842cc983315afe2054eb40a9334.png?n6.05",
+        "Icon": "function_normal",
+        "Issuer": "Galla",
+        "StartLocation": {
+            "Name": "Garlemald",
+            "X": "15.0",
+            "Y": "31.2"
+        },
+        "StartClass": null,
+        "Job": "",
+        "Company": "Not specified",
+        "Requirement": "Not specified",
+        "Rewards": {
+            "Gil": 935,
+            "Exp": null,
+            "ItemsMand": [
+                {
+                    "Icon": "https://img.finalfantasyxiv.com/lds/pc/global/images/itemicon/30/30b5f35d0481a6e2c068d1c0488a0aa9de0d5d13.png?n6.05",
+                    "Name": "Pewter Bracelet Coffer",
+                    "Amount": 1,
+                    "Url": "/lodestone/playguide/db/item/585c8dd411d/"
+                },
+                {
+                    "Icon": "https://img.finalfantasyxiv.com/lds/pc/global/images/itemicon/af/af26e4b79fb1de83550f6ddbd3a170408fcfe702.png?n6.05",
+                    "Name": "",
+                    "Amount": null
+                }
+            ],
+            "ItemsOpt": []
+        },
+        "Infos": {
+            "PrerequisiteQuest": [
+                {
+                    "Name": "Strange Bedfellows",
+                    "Url": "/lodestone/playguide/db/quest/be4e79b846c/",
+                    "Area": "Garlemald",
+                    "Level": "83"
+                }
+            ],
+            "FollowupQuest": [
+                {
+                    "Name": " Longing for Home",
+                    "Url": "/lodestone/playguide/db/quest/c76834ddcbf/",
+                    "Area": "Garlemald",
+                    "Level": "80"
+                }
+            ],
+            "RelatedNPC": [
+                {
+                    "Name": "Galla",
+                    "Url": "/lodestone/playguide/db/npc/npc/b1f78f63d49/",
+                    "Area": "Garlemald (X:31.5 Y:16.5)"
+                },
+                {
+                    "Name": "Galla",
+                    "Url": "/lodestone/playguide/db/npc/npc/fe7180d8448/",
+                    "Area": "Garlemald (X:31.7 Y:15.2)"
+                },
+                {
+                    "Name": "Volusus",
+                    "Url": "/lodestone/playguide/db/npc/npc/8d12c4ab96f/",
+                    "Area": "Garlemald (X:32.3 Y:18.8)"
+                }
+            ]
+        },
+        "Seq": 28,
+        "StartDependency": false
+    },
+    {
+        "ID": "3b74652401e",
+        "Name": " In the Skies above Garlemald",
+        "Location": "Garlemald",
+        "Level": 80,
+        "JournalSection": 3,
+        "JournalCategory": 60,
+        "JournalGenre": "Garlean Sidequests",
+        "Url": "/lodestone/playguide/db/quest/3b74652401e/",
+        "Image": null,
+        "Icon": "common_normal",
+        "Issuer": "Contingent Scout",
+        "StartLocation": {
+            "Name": "Garlemald",
+            "X": "14.0",
+            "Y": "29.1"
+        },
+        "StartClass": null,
+        "Job": "",
+        "Company": "Not specified",
+        "Requirement": "Not specified",
+        "Rewards": {
+            "Gil": 815,
+            "Exp": null,
+            "ItemsMand": [
+                {
+                    "Icon": "https://img.finalfantasyxiv.com/lds/pc/global/images/itemicon/98/98277e8c20528595bb33a7c12a42606baa4e57d2.png?n6.05",
+                    "Name": "King Crab Cake",
+                    "Amount": 2,
+                    "Url": "/lodestone/playguide/db/item/1b17e09ebeb/"
+                }
+            ],
+            "ItemsOpt": []
+        },
+        "Infos": {
+            "PrerequisiteQuest": [
+                {
+                    "Name": "Strange Bedfellows",
+                    "Url": "/lodestone/playguide/db/quest/be4e79b846c/",
+                    "Area": "Garlemald",
+                    "Level": "83"
+                }
+            ],
+            "RelatedNPC": [
+                {
+                    "Name": "Magitek Pilot",
+                    "Url": "/lodestone/playguide/db/npc/npc/b529c54ece6/",
+                    "Area": "Garlemald (X:22.4 Y:23.2)"
+                },
+                {
+                    "Name": "Magitek Pilot",
+                    "Url": "/lodestone/playguide/db/npc/npc/ee561d09db4/",
+                    "Area": "Garlemald (X:16.4 Y:22.1)"
+                }
+            ]
+        },
+        "Seq": 27,
+        "StartDependency": false
+    },
+    {
+        "ID": "48930e379af",
+        "Name": " Put Your Plasma Where Your Mouth Is",
+        "Location": "Garlemald",
+        "Level": 80,
+        "JournalSection": 3,
+        "JournalCategory": 60,
+        "JournalGenre": "Garlean Sidequests",
+        "Url": "/lodestone/playguide/db/quest/48930e379af/",
+        "Image": null,
+        "Icon": "common_normal",
+        "Issuer": "Immortal Flame Delegate",
+        "StartLocation": {
+            "Name": "Garlemald",
+            "X": "15.0",
+            "Y": "30.9"
+        },
+        "StartClass": null,
+        "Job": "",
+        "Company": "Not specified",
+        "Requirement": "Not specified",
+        "Rewards": {
+            "Gil": 995,
+            "Exp": null,
+            "ItemsMand": [
+                {
+                    "Icon": "https://img.finalfantasyxiv.com/lds/pc/global/images/itemicon/de/de08e55314dff17f6b963d8fc6a8ac7bd539e880.png?n6.05",
+                    "Name": "Ukha",
+                    "Amount": 2,
+                    "Url": "/lodestone/playguide/db/item/cc352721334/"
+                }
+            ],
+            "ItemsOpt": []
+        },
+        "Infos": {
+            "PrerequisiteQuest": [
+                {
+                    "Name": "Strange Bedfellows",
+                    "Url": "/lodestone/playguide/db/quest/be4e79b846c/",
+                    "Area": "Garlemald",
+                    "Level": "83"
+                }
+            ],
+            "RelatedNPC": [
+                {
+                    "Name": "Ambaghai",
+                    "Url": "/lodestone/playguide/db/npc/npc/de46c1a6c29/",
+                    "Area": "Garlemald (X:14.6 Y:30.8)"
+                },
+                {
+                    "Name": "Immortal Flame Delegate",
+                    "Url": "/lodestone/playguide/db/npc/npc/eed36943a81/",
+                    "Area": "Garlemald (X:31.2 Y:15.4)"
+                }
+            ]
+        },
+        "Seq": 22,
+        "StartDependency": false
+    },
+    {
+        "ID": "54ee0ffe4dd",
+        "Name": " Operation: Reactivation",
+        "Location": "Garlemald",
+        "Level": 80,
+        "JournalSection": 3,
+        "JournalCategory": 60,
+        "JournalGenre": "Garlean Sidequests",
+        "Url": "/lodestone/playguide/db/quest/54ee0ffe4dd/",
+        "Image": "https://img.finalfantasyxiv.com/lds/pc/global/images/itemicon/ec/ec02b60690a5f5b8e6202c7ca1005ce3895786ec.png?n6.05",
+        "Icon": "common_normal",
+        "Issuer": "Rimelnaud",
+        "StartLocation": {
+            "Name": "Garlemald",
+            "X": "14.6",
+            "Y": "31.5"
+        },
+        "StartClass": null,
+        "Job": "",
+        "Company": "Not specified",
+        "Requirement": "Not specified",
+        "Rewards": {
+            "Gil": 935,
+            "Exp": null,
+            "ItemsMand": [],
+            "ItemsOpt": []
+        },
+        "Infos": {
+            "PrerequisiteQuest": [
+                {
+                    "Name": " Camp Broken Engines",
+                    "Url": "/lodestone/playguide/db/quest/83134f0badf/",
+                    "Area": "Garlemald",
+                    "Level": "80"
+                }
+            ],
+            "FollowupQuest": [
+                {
+                    "Name": " Energy for All",
+                    "Url": "/lodestone/playguide/db/quest/c7b3b764aea/",
+                    "Area": "Garlemald",
+                    "Level": "80"
+                }
+            ],
+            "RelatedNPC": [
+                {
+                    "Name": "Appius",
+                    "Url": "/lodestone/playguide/db/npc/npc/0997ee9b45e/",
+                    "Area": "Garlemald (X:14.6 Y:31.4)"
+                },
+                {
+                    "Name": "Appius",
+                    "Url": "/lodestone/playguide/db/npc/npc/bf957700151/",
+                    "Area": "Garlemald (X:14.9 Y:30.4)"
+                },
+                {
+                    "Name": "Appius",
+                    "Url": "/lodestone/playguide/db/npc/npc/4f8893b4667/",
+                    "Area": "Garlemald (X:29.7 Y:33.7)"
+                },
+                {
+                    "Name": "Esdelot",
+                    "Url": "/lodestone/playguide/db/npc/npc/01f5a497cf6/",
+                    "Area": "Garlemald (X:14.9 Y:30.4)"
+                },
+                {
+                    "Name": "Rimelnaud",
+                    "Url": "/lodestone/playguide/db/npc/npc/fd219c40319/",
+                    "Area": "Garlemald (X:14.9 Y:30.4)"
+                },
+                {
+                    "Name": "Rimelnaud",
+                    "Url": "/lodestone/playguide/db/npc/npc/8f6e69013e1/",
+                    "Area": "Garlemald (X:29.7 Y:33.7)"
+                }
+            ]
+        },
+        "Seq": 11,
+        "StartDependency": false
+    },
+    {
+        "ID": "550a40edb98",
+        "Name": " The Hero Never Bombs",
+        "Location": "Garlemald",
+        "Level": 80,
+        "JournalSection": 3,
+        "JournalCategory": 60,
+        "JournalGenre": "Garlean Sidequests",
+        "Url": "/lodestone/playguide/db/quest/550a40edb98/",
+        "Image": null,
+        "Icon": "common_normal",
+        "Issuer": "Iliette",
+        "StartLocation": {
+            "Name": "Garlemald",
+            "X": "12.9",
+            "Y": "29.9"
+        },
+        "StartClass": null,
+        "Job": "",
+        "Company": "Not specified",
+        "Requirement": "Not specified",
+        "Rewards": {
+            "Gil": 975,
+            "Exp": null,
+            "ItemsMand": [],
+            "ItemsOpt": []
+        },
+        "Infos": {
+            "PrerequisiteQuest": [
+                {
+                    "Name": "Strange Bedfellows",
+                    "Url": "/lodestone/playguide/db/quest/be4e79b846c/",
+                    "Area": "Garlemald",
+                    "Level": "83"
+                }
+            ],
+            "RelatedNPC": [
+                {
+                    "Name": "1st Legion Magitek Engineer",
+                    "Url": "/lodestone/playguide/db/npc/npc/28c08bfcff0/",
+                    "Area": "Garlemald (X:15.1 Y:28.5)"
+                },
+                {
+                    "Name": "1st Legion Magitek Engineer",
+                    "Url": "/lodestone/playguide/db/npc/npc/776fed22bc4/",
+                    "Area": "Garlemald (X:29.1 Y:7.2)"
+                }
+            ]
+        },
+        "Seq": 23,
+        "StartDependency": false
+    },
+    {
+        "ID": "5f2e8e5fe7e",
+        "Name": " A Place of Greater Safety",
+        "Location": "Garlemald",
+        "Level": 80,
+        "JournalSection": 3,
+        "JournalCategory": 60,
+        "JournalGenre": "Garlean Sidequests",
+        "Url": "/lodestone/playguide/db/quest/5f2e8e5fe7e/",
+        "Image": null,
+        "Icon": "common_normal",
+        "Issuer": "Talon",
+        "StartLocation": {
+            "Name": "Garlemald",
+            "X": "14.7",
+            "Y": "30.4"
+        },
+        "StartClass": null,
+        "Job": "",
+        "Company": "Not specified",
+        "Requirement": "Not specified",
+        "Rewards": {
+            "Gil": 735,
+            "Exp": null,
+            "ItemsMand": [
+                {
+                    "Icon": "https://img.finalfantasyxiv.com/lds/pc/global/images/itemicon/82/82ac41fe2b7da3a3a2d06bd361c49a0e292e55d0.png?n6.05",
+                    "Name": "Glory Be Soup",
+                    "Amount": 2,
+                    "Url": "/lodestone/playguide/db/item/9d1358fceb8/"
+                }
+            ],
+            "ItemsOpt": []
+        },
+        "Infos": {
+            "PrerequisiteQuest": [
+                {
+                    "Name": "Strange Bedfellows",
+                    "Url": "/lodestone/playguide/db/quest/be4e79b846c/",
+                    "Area": "Garlemald",
+                    "Level": "83"
+                }
+            ],
+            "RelatedNPC": [
+                {
+                    "Name": "Fleeing Citizen",
+                    "Url": "/lodestone/playguide/db/npc/npc/124b82bc1a4/",
+                    "Area": "Garlemald (X:16.6 Y:16.3)"
+                },
+                {
+                    "Name": "Fleeing Citizen",
+                    "Url": "/lodestone/playguide/db/npc/npc/d7b64f892c0/",
+                    "Area": "Garlemald (X:14.7 Y:30.5)"
+                },
+                {
+                    "Name": "Injured Soldier",
+                    "Url": "/lodestone/playguide/db/npc/npc/f37841c950b/",
+                    "Area": "Garlemald (X:16.6 Y:16.3)"
+                },
+                {
+                    "Name": "Injured Soldier",
+                    "Url": "/lodestone/playguide/db/npc/npc/181a400f67e/",
+                    "Area": "Garlemald (X:14.6 Y:30.5)"
+                }
+            ]
+        },
+        "Seq": 26,
+        "StartDependency": false
+    },
+    {
+        "ID": "606b2e46012",
+        "Name": " A Dream of Home",
+        "Location": "Garlemald",
+        "Level": 80,
+        "JournalSection": 3,
+        "JournalCategory": 60,
+        "JournalGenre": "Garlean Sidequests",
+        "Url": "/lodestone/playguide/db/quest/606b2e46012/",
+        "Image": null,
+        "Icon": "common_normal",
+        "Issuer": "Commissary Officer",
+        "StartLocation": {
+            "Name": "Garlemald",
+            "X": "24.1",
+            "Y": "32.8"
+        },
+        "StartClass": null,
+        "Job": "",
+        "Company": "Not specified",
+        "Requirement": "Not specified",
+        "Rewards": {
+            "Gil": 895,
+            "Exp": null,
+            "ItemsMand": [],
+            "ItemsOpt": []
+        },
+        "Infos": {
+            "PrerequisiteQuest": [
+                {
+                    "Name": "Strange Bedfellows",
+                    "Url": "/lodestone/playguide/db/quest/be4e79b846c/",
+                    "Area": "Garlemald",
+                    "Level": "83"
+                },
+                {
+                    "Name": " Armored Up",
+                    "Url": "/lodestone/playguide/db/quest/298ffe5b68f/",
+                    "Area": "Garlemald",
+                    "Level": "80"
+                }
+            ],
+            "RelatedNPC": [
+                {
+                    "Name": "Commissary Officer",
+                    "Url": "/lodestone/playguide/db/npc/npc/5e189364dc1/",
+                    "Area": "Garlemald (X:12.8 Y:30.6)"
+                },
+                {
+                    "Name": "Commissary Officer",
+                    "Url": "/lodestone/playguide/db/npc/npc/34250aa0b98/",
+                    "Area": "Garlemald (X:24.0 Y:34.4)"
+                },
+                {
+                    "Name": "Jareck",
+                    "Url": "/lodestone/playguide/db/npc/npc/0bbc8e94ef1/",
+                    "Area": "Garlemald (X:24.2 Y:34.4)"
+                },
+                {
+                    "Name": "Refugee",
+                    "Url": "/lodestone/playguide/db/npc/npc/67f85fbf76d/",
+                    "Area": "Garlemald (X:25.6 Y:23.0)"
+                }
+            ]
+        },
+        "Seq": 8,
+        "StartDependency": false
+    },
+    {
+        "ID": "65bf767850b",
+        "Name": " And Then a Hero Comes Along",
+        "Location": "Garlemald",
+        "Level": 80,
+        "JournalSection": 3,
+        "JournalCategory": 60,
+        "JournalGenre": "Garlean Sidequests",
+        "Url": "/lodestone/playguide/db/quest/65bf767850b/",
+        "Image": null,
+        "Icon": "common_normal",
+        "Issuer": "Amanieu",
+        "StartLocation": {
+            "Name": "Garlemald",
+            "X": "32.3",
+            "Y": "16.4"
+        },
+        "StartClass": null,
+        "Job": "",
+        "Company": "Not specified",
+        "Requirement": "Not specified",
+        "Rewards": {
+            "Gil": 735,
+            "Exp": null,
+            "ItemsMand": [
+                {
+                    "Icon": "https://img.finalfantasyxiv.com/lds/pc/global/images/itemicon/98/98277e8c20528595bb33a7c12a42606baa4e57d2.png?n6.05",
+                    "Name": "King Crab Cake",
+                    "Amount": 2,
+                    "Url": "/lodestone/playguide/db/item/1b17e09ebeb/"
+                }
+            ],
+            "ItemsOpt": []
+        },
+        "Infos": {
+            "PrerequisiteQuest": [
+                {
+                    "Name": "Strange Bedfellows",
+                    "Url": "/lodestone/playguide/db/quest/be4e79b846c/",
+                    "Area": "Garlemald",
+                    "Level": "83"
+                }
+            ]
+        },
+        "Seq": 13,
+        "StartDependency": false
+    },
+    {
+        "ID": "7741f81fe24",
+        "Name": " With Folded Hands",
+        "Location": "Garlemald",
+        "Level": 80,
+        "JournalSection": 3,
+        "JournalCategory": 60,
+        "JournalGenre": "Garlean Sidequests",
+        "Url": "/lodestone/playguide/db/quest/7741f81fe24/",
+        "Image": null,
+        "Icon": "common_normal",
+        "Issuer": "Retired Magitek Engineer",
+        "StartLocation": {
+            "Name": "Garlemald",
+            "X": "32.6",
+            "Y": "18.8"
+        },
+        "StartClass": null,
+        "Job": "",
+        "Company": "Not specified",
+        "Requirement": "Not specified",
+        "Rewards": {
+            "Gil": 735,
+            "Exp": null,
+            "ItemsMand": [],
+            "ItemsOpt": []
+        },
+        "Infos": {
+            "PrerequisiteQuest": [
+                {
+                    "Name": "Strange Bedfellows",
+                    "Url": "/lodestone/playguide/db/quest/be4e79b846c/",
+                    "Area": "Garlemald",
+                    "Level": "83"
+                }
+            ]
+        },
+        "Seq": 14,
+        "StartDependency": false
+    },
+    {
+        "ID": "79d882c60d1",
+        "Name": " Your Inventory Is Not Full",
+        "Location": "Garlemald",
+        "Level": 80,
+        "JournalSection": 3,
+        "JournalCategory": 60,
+        "JournalGenre": "Garlean Sidequests",
+        "Url": "/lodestone/playguide/db/quest/79d882c60d1/",
+        "Image": null,
+        "Icon": "common_normal",
+        "Issuer": "Contingent Quartermaster",
+        "StartLocation": {
+            "Name": "Garlemald",
+            "X": "12.7",
+            "Y": "30.1"
+        },
+        "StartClass": null,
+        "Job": "",
+        "Company": "Not specified",
+        "Requirement": "Not specified",
+        "Rewards": {
+            "Gil": 895,
+            "Exp": null,
+            "ItemsMand": [
+                {
+                    "Icon": "https://img.finalfantasyxiv.com/lds/pc/global/images/itemicon/66/66e40643e0b44d9f56e8628395cdf870c5820fe6.png?n6.05",
+                    "Name": "Pewter Necklace Coffer",
+                    "Amount": 1,
+                    "Url": "/lodestone/playguide/db/item/3b7e1e944ea/"
+                }
+            ],
+            "ItemsOpt": []
+        },
+        "Infos": {
+            "PrerequisiteQuest": [
+                {
+                    "Name": "A Frosty Reception",
+                    "Url": "/lodestone/playguide/db/quest/e994f7f1be8/",
+                    "Area": "The Lochs",
+                    "Level": "82"
+                }
+            ],
+            "RelatedNPC": [
+                {
+                    "Name": "June",
+                    "Url": "/lodestone/playguide/db/npc/npc/41f3c04223a/",
+                    "Area": "Garlemald (X:13.9 Y:31.7)"
+                },
+                {
+                    "Name": "Kochacha",
+                    "Url": "/lodestone/playguide/db/npc/npc/4f4507e7414/",
+                    "Area": "Garlemald (X:15.1 Y:30.0)"
+                },
+                {
+                    "Name": "Menuki",
+                    "Url": "/lodestone/playguide/db/npc/npc/6e7e96a0185/",
+                    "Area": "Garlemald (X:14.0 Y:29.3)"
+                }
+            ]
+        },
+        "Seq": 16,
+        "StartDependency": false
+    },
+    {
+        "ID": "80e6eac8a5c",
+        "Name": " Mum Is the Word",
+        "Location": "Garlemald",
+        "Level": 80,
+        "JournalSection": 3,
+        "JournalCategory": 60,
+        "JournalGenre": "Garlean Sidequests",
+        "Url": "/lodestone/playguide/db/quest/80e6eac8a5c/",
+        "Image": "https://img.finalfantasyxiv.com/lds/pc/global/images/itemicon/92/9296237a7eac5842cc983315afe2054eb40a9334.png?n6.05",
+        "Icon": "common_normal",
+        "Issuer": "Galla",
+        "StartLocation": {
+            "Name": "Garlemald",
+            "X": "24.6",
+            "Y": "13.1"
+        },
+        "StartClass": null,
+        "Job": "",
+        "Company": "Not specified",
+        "Requirement": "Not specified",
+        "Rewards": {
+            "Gil": 935,
+            "Exp": null,
+            "ItemsMand": [],
+            "ItemsOpt": [
+                {
+                    "Icon": "https://img.finalfantasyxiv.com/lds/pc/global/images/itemicon/93/930608b415b4362cc88d7683e970a1824acc4458.png?n6.05",
+                    "Name": "Island Miq'abob",
+                    "Amount": 2,
+                    "Url": "/lodestone/playguide/db/item/98f84fbf349/"
+                },
+                {
+                    "Icon": "https://img.finalfantasyxiv.com/lds/pc/global/images/itemicon/98/98277e8c20528595bb33a7c12a42606baa4e57d2.png?n6.05",
+                    "Name": "King Crab Cake",
+                    "Amount": 2,
+                    "Url": "/lodestone/playguide/db/item/1b17e09ebeb/"
+                },
+                {
+                    "Icon": "https://img.finalfantasyxiv.com/lds/pc/global/images/itemicon/de/de08e55314dff17f6b963d8fc6a8ac7bd539e880.png?n6.05",
+                    "Name": "Ukha",
+                    "Amount": 2,
+                    "Url": "/lodestone/playguide/db/item/cc352721334/"
+                },
+                {
+                    "Icon": "https://img.finalfantasyxiv.com/lds/pc/global/images/itemicon/80/807946239db549d533cf672d2c02bd4dd74478cd.png?n6.05",
+                    "Name": "Borscht",
+                    "Amount": 2,
+                    "Url": "/lodestone/playguide/db/item/058514c3c01/"
+                },
+                {
+                    "Icon": "https://img.finalfantasyxiv.com/lds/pc/global/images/itemicon/ba/baa2341dd17414fae7fd62ae7bc62c64589b67be.png?n6.05",
+                    "Name": "Allagan Silver Piece",
+                    "Amount": 1,
+                    "Url": "/lodestone/playguide/db/item/a3ac3ba4b00/"
+                }
+            ]
+        },
+        "Infos": {
+            "PrerequisiteQuest": [
+                {
+                    "Name": " Palatial Possibilities",
+                    "Url": "/lodestone/playguide/db/quest/c91f333f3ff/",
+                    "Area": "Garlemald",
+                    "Level": "80"
+                }
+            ],
+            "FollowupQuest": [
+                {
+                    "Name": " Who Is Your Daddy",
+                    "Url": "/lodestone/playguide/db/quest/86eb75364c9/",
+                    "Area": "Garlemald",
+                    "Level": "80"
+                }
+            ],
+            "RelatedNPC": [
+                {
+                    "Name": "Galla",
+                    "Url": "/lodestone/playguide/db/npc/npc/ae806a8f3de/",
+                    "Area": "Garlemald (X:18.3 Y:10.8)"
+                },
+                {
+                    "Name": "Royal Bodyguard",
+                    "Url": "/lodestone/playguide/db/npc/npc/db5b4a552bc/",
+                    "Area": "Garlemald (X:19.9 Y:9.6)"
+                },
+                {
+                    "Name": "Vipsania",
+                    "Url": "/lodestone/playguide/db/npc/npc/65fa03c74f9/",
+                    "Area": "Garlemald (X:20.5 Y:9.1)"
+                },
+                {
+                    "Name": "Volusus",
+                    "Url": "/lodestone/playguide/db/npc/npc/8d12c4ab96f/",
+                    "Area": "Garlemald (X:32.3 Y:18.8)"
+                }
+            ]
+        },
+        "Seq": 31,
+        "StartDependency": false
+    },
+    {
+        "ID": "83134f0badf",
+        "Name": " Camp Broken Engines",
+        "Location": "Garlemald",
+        "Level": 80,
+        "JournalSection": 3,
+        "JournalCategory": 60,
+        "JournalGenre": "Garlean Sidequests",
+        "Url": "/lodestone/playguide/db/quest/83134f0badf/",
+        "Image": "https://img.finalfantasyxiv.com/lds/pc/global/images/itemicon/ec/ec02b60690a5f5b8e6202c7ca1005ce3895786ec.png?n6.05",
+        "Icon": "common_normal",
+        "Issuer": "Rimelnaud",
+        "StartLocation": {
+            "Name": "Garlemald",
+            "X": "14.6",
+            "Y": "31.5"
+        },
+        "StartClass": null,
+        "Job": "",
+        "Company": "Not specified",
+        "Requirement": "Not specified",
+        "Rewards": {
+            "Gil": 935,
+            "Exp": null,
+            "ItemsMand": [],
+            "ItemsOpt": []
+        },
+        "Infos": {
+            "PrerequisiteQuest": [
+                {
+                    "Name": " In Pursuit of Power",
+                    "Url": "/lodestone/playguide/db/quest/de685cadd9c/",
+                    "Area": "Garlemald",
+                    "Level": "80"
+                }
+            ],
+            "FollowupQuest": [
+                {
+                    "Name": " Operation: Reactivation",
+                    "Url": "/lodestone/playguide/db/quest/54ee0ffe4dd/",
+                    "Area": "Garlemald",
+                    "Level": "80"
+                }
+            ],
+            "RelatedNPC": [
+                {
+                    "Name": "Appius",
+                    "Url": "/lodestone/playguide/db/npc/npc/0997ee9b45e/",
+                    "Area": "Garlemald (X:14.6 Y:31.4)"
+                }
+            ]
+        },
+        "Seq": 10,
+        "StartDependency": false
+    },
+    {
+        "ID": "8378ae308ff",
+        "Name": " Some Like It Hot",
+        "Location": "Garlemald",
+        "Level": 80,
+        "JournalSection": 3,
+        "JournalCategory": 60,
+        "JournalGenre": "Garlean Sidequests",
+        "Url": "/lodestone/playguide/db/quest/8378ae308ff/",
+        "Image": null,
+        "Icon": "common_normal",
+        "Issuer": "Temple Knight",
+        "StartLocation": {
+            "Name": "Garlemald",
+            "X": "31.5",
+            "Y": "16.4"
+        },
+        "StartClass": null,
+        "Job": "",
+        "Company": "Not specified",
+        "Requirement": "Not specified",
+        "Rewards": {
+            "Gil": 735,
+            "Exp": null,
+            "ItemsMand": [],
+            "ItemsOpt": []
+        },
+        "Infos": {
+            "PrerequisiteQuest": [
+                {
+                    "Name": "Strange Bedfellows",
+                    "Url": "/lodestone/playguide/db/quest/be4e79b846c/",
+                    "Area": "Garlemald",
+                    "Level": "83"
+                }
+            ],
+            "RelatedNPC": [
+                {
+                    "Name": "Irascible Citizen",
+                    "Url": "/lodestone/playguide/db/npc/npc/b5f534aa7ce/",
+                    "Area": "Garlemald (X:32.2 Y:17.9)"
+                },
+                {
+                    "Name": "Mallius",
+                    "Url": "/lodestone/playguide/db/npc/npc/c89917b9091/",
+                    "Area": "Garlemald (X:31.8 Y:17.2)"
+                },
+                {
+                    "Name": "Poppaea",
+                    "Url": "/lodestone/playguide/db/npc/npc/2a948f80c00/",
+                    "Area": "Garlemald (X:32.3 Y:16.1)"
+                }
+            ]
+        },
+        "Seq": 19,
+        "StartDependency": false
+    },
+    {
+        "ID": "86eb75364c9",
+        "Name": " Who Is Your Daddy",
+        "Location": "Garlemald",
+        "Level": 80,
+        "JournalSection": 3,
+        "JournalCategory": 60,
+        "JournalGenre": "Garlean Sidequests",
+        "Url": "/lodestone/playguide/db/quest/86eb75364c9/",
+        "Image": "https://img.finalfantasyxiv.com/lds/pc/global/images/itemicon/67/672126d3943e87a92ad7c73f64e56475986dfc42.png?n6.05",
+        "Icon": "common_normal",
+        "Issuer": "Vipsania",
+        "StartLocation": {
+            "Name": "Garlemald",
+            "X": "32.3",
+            "Y": "18.8"
+        },
+        "StartClass": null,
+        "Job": "",
+        "Company": "Not specified",
+        "Requirement": "Not specified",
+        "Rewards": {
+            "Gil": 935,
+            "Exp": null,
+            "ItemsMand": [
+                {
+                    "Icon": "https://img.finalfantasyxiv.com/lds/pc/global/images/itemicon/80/807946239db549d533cf672d2c02bd4dd74478cd.png?n6.05",
+                    "Name": "Borscht",
+                    "Amount": 2,
+                    "Url": "/lodestone/playguide/db/item/058514c3c01/"
+                }
+            ],
+            "ItemsOpt": []
+        },
+        "Infos": {
+            "PrerequisiteQuest": [
+                {
+                    "Name": " Energy for All",
+                    "Url": "/lodestone/playguide/db/quest/c7b3b764aea/",
+                    "Area": "Garlemald",
+                    "Level": "80"
+                },
+                {
+                    "Name": " Mum Is the Word",
+                    "Url": "/lodestone/playguide/db/quest/80e6eac8a5c/",
+                    "Area": "Garlemald",
+                    "Level": "80"
+                }
+            ],
+            "RelatedNPC": [
+                {
+                    "Name": "Appius",
+                    "Url": "/lodestone/playguide/db/npc/npc/0997ee9b45e/",
+                    "Area": "Garlemald (X:14.6 Y:31.4)"
+                },
+                {
+                    "Name": "Frontinus",
+                    "Url": "/lodestone/playguide/db/npc/npc/c32e4bd9402/",
+                    "Area": "Garlemald (X:16.0 Y:9.6)"
+                },
+                {
+                    "Name": "Galla",
+                    "Url": "/lodestone/playguide/db/npc/npc/314b60338b6/",
+                    "Area": "Garlemald (X:32.2 Y:18.8)"
+                },
+                {
+                    "Name": "Galla",
+                    "Url": "/lodestone/playguide/db/npc/npc/3fd461b1d57/",
+                    "Area": "Garlemald (X:15.0 Y:9.9)"
+                },
+                {
+                    "Name": "Galla",
+                    "Url": "/lodestone/playguide/db/npc/npc/6c0baa025df/",
+                    "Area": "Garlemald (X:15.9 Y:9.6)"
+                },
+                {
+                    "Name": "Rimelnaud",
+                    "Url": "/lodestone/playguide/db/npc/npc/c380f823b19/",
+                    "Area": "Garlemald (X:14.6 Y:31.5)"
+                },
+                {
+                    "Name": "Rimelnaud",
+                    "Url": "/lodestone/playguide/db/npc/npc/a80347ef485/",
+                    "Area": "Garlemald (X:15.0 Y:9.9)"
+                },
+                {
+                    "Name": "Rimelnaud",
+                    "Url": "/lodestone/playguide/db/npc/npc/4a73f0053b3/",
+                    "Area": "Garlemald (X:15.9 Y:9.6)"
+                },
+                {
+                    "Name": "The Emperor's Personal Guard",
+                    "Url": "/lodestone/playguide/db/npc/npc/a66ccd4f251/",
+                    "Area": "Garlemald (X:32.3 Y:18.7)"
+                },
+                {
+                    "Name": "The Emperor's Personal Guard",
+                    "Url": "/lodestone/playguide/db/npc/npc/7b472e2d66c/",
+                    "Area": "Garlemald (X:14.6 Y:31.4)"
+                },
+                {
+                    "Name": "Vipsania",
+                    "Url": "/lodestone/playguide/db/npc/npc/4ec34715ec9/",
+                    "Area": "Garlemald (X:14.6 Y:31.4)"
+                },
+                {
+                    "Name": "Volusus",
+                    "Url": "/lodestone/playguide/db/npc/npc/8d12c4ab96f/",
+                    "Area": "Garlemald (X:32.3 Y:18.8)"
+                },
+                {
+                    "Name": "Volusus",
+                    "Url": "/lodestone/playguide/db/npc/npc/55b057a0eae/",
+                    "Area": "Garlemald (X:14.6 Y:31.4)"
+                }
+            ]
+        },
+        "Seq": 32,
+        "StartDependency": false
+    },
+    {
+        "ID": "8ddb1a8fdbe",
+        "Name": " Brick by Brick, Tank by Tank",
+        "Location": "Garlemald",
+        "Level": 80,
+        "JournalSection": 3,
+        "JournalCategory": 60,
+        "JournalGenre": "Garlean Sidequests",
+        "Url": "/lodestone/playguide/db/quest/8ddb1a8fdbe/",
+        "Image": null,
+        "Icon": "common_normal",
+        "Issuer": "Dossennus",
+        "StartLocation": {
+            "Name": "Garlemald",
+            "X": "31.7",
+            "Y": "18.7"
+        },
+        "StartClass": null,
+        "Job": "",
+        "Company": "Not specified",
+        "Requirement": "Not specified",
+        "Rewards": {
+            "Gil": 735,
+            "Exp": null,
+            "ItemsMand": [],
+            "ItemsOpt": []
+        },
+        "Infos": {
+            "PrerequisiteQuest": [
+                {
+                    "Name": "Strange Bedfellows",
+                    "Url": "/lodestone/playguide/db/quest/be4e79b846c/",
+                    "Area": "Garlemald",
+                    "Level": "83"
+                }
+            ],
+            "RelatedNPC": [
+                {
+                    "Name": "Dormant Warmachina",
+                    "Url": "/lodestone/playguide/db/npc/npc/5f949152814/",
+                    "Area": "Garlemald (X:28.7 Y:15.3)"
+                },
+                {
+                    "Name": "Dormant Warmachina",
+                    "Url": "/lodestone/playguide/db/npc/npc/69798782350/",
+                    "Area": "Garlemald (X:27.4 Y:13.7)"
+                },
+                {
+                    "Name": "Dormant Warmachina",
+                    "Url": "/lodestone/playguide/db/npc/npc/8f06818ec85/",
+                    "Area": "Garlemald (X:27.1 Y:14.1)"
+                },
+                {
+                    "Name": "Dormant Warmachina",
+                    "Url": "/lodestone/playguide/db/npc/npc/0cf61a7218d/",
+                    "Area": "Garlemald (X:26.6 Y:12.3)"
+                }
+            ]
+        },
+        "Seq": 17,
+        "StartDependency": false
+    },
+    {
+        "ID": "952af8846d6",
+        "Name": " Bear Baiting",
+        "Location": "Garlemald",
+        "Level": 80,
+        "JournalSection": 3,
+        "JournalCategory": 60,
+        "JournalGenre": "Garlean Sidequests",
+        "Url": "/lodestone/playguide/db/quest/952af8846d6/",
+        "Image": null,
+        "Icon": "common_normal",
+        "Issuer": "Iliette",
+        "StartLocation": {
+            "Name": "Garlemald",
+            "X": "12.9",
+            "Y": "29.9"
+        },
+        "StartClass": null,
+        "Job": "",
+        "Company": "Not specified",
+        "Requirement": "Not specified",
+        "Rewards": {
+            "Gil": 735,
+            "Exp": null,
+            "ItemsMand": [],
+            "ItemsOpt": []
+        },
+        "Infos": {
+            "PrerequisiteQuest": [
+                {
+                    "Name": "A Frosty Reception",
+                    "Url": "/lodestone/playguide/db/quest/e994f7f1be8/",
+                    "Area": "The Lochs",
+                    "Level": "82"
+                }
+            ]
+        },
+        "Seq": 1,
+        "StartDependency": false
+    },
+    {
+        "ID": "b21a3825c75",
+        "Name": " Mama, She Is in Rubble Deep",
+        "Location": "Garlemald",
+        "Level": 80,
+        "JournalSection": 3,
+        "JournalCategory": 60,
+        "JournalGenre": "Garlean Sidequests",
+        "Url": "/lodestone/playguide/db/quest/b21a3825c75/",
+        "Image": null,
+        "Icon": "common_normal",
+        "Issuer": "Makago Nokago",
+        "StartLocation": {
+            "Name": "Garlemald",
+            "X": "15.3",
+            "Y": "29.7"
+        },
+        "StartClass": null,
+        "Job": "",
+        "Company": "Not specified",
+        "Requirement": "Not specified",
+        "Rewards": {
+            "Gil": 815,
+            "Exp": null,
+            "ItemsMand": [
+                {
+                    "Icon": "https://img.finalfantasyxiv.com/lds/pc/global/images/itemicon/e3/e37fdec0415b0585949d8355ae92379da2a0c37d.png?n6.05",
+                    "Name": "Pewter Ring Coffer",
+                    "Amount": 1,
+                    "Url": "/lodestone/playguide/db/item/89c447d60e8/"
+                }
+            ],
+            "ItemsOpt": []
+        },
+        "Infos": {
+            "PrerequisiteQuest": [
+                {
+                    "Name": "Strange Bedfellows",
+                    "Url": "/lodestone/playguide/db/quest/be4e79b846c/",
+                    "Area": "Garlemald",
+                    "Level": "83"
+                }
+            ],
+            "RelatedNPC": [
+                {
+                    "Name": "Fretting Girl",
+                    "Url": "/lodestone/playguide/db/npc/npc/7b4cc19cfbe/",
+                    "Area": "Garlemald (X:15.3 Y:29.7)"
+                },
+                {
+                    "Name": "Fretting Girl",
+                    "Url": "/lodestone/playguide/db/npc/npc/a2e15c0fc90/",
+                    "Area": "Garlemald (X:15.0 Y:21.3)"
+                },
+                {
+                    "Name": "Trapped Woman",
+                    "Url": "/lodestone/playguide/db/npc/npc/6edc73a5dc3/",
+                    "Area": "Garlemald (X:15.0 Y:21.2)"
+                }
+            ]
+        },
+        "Seq": 21,
+        "StartDependency": false
+    },
+    {
+        "ID": "b648b195b2b",
+        "Name": " Beasts of the Imperial Wild",
+        "Location": "Garlemald",
+        "Level": 80,
+        "JournalSection": 3,
+        "JournalCategory": 60,
+        "JournalGenre": "Garlean Sidequests",
+        "Url": "/lodestone/playguide/db/quest/b648b195b2b/",
+        "Image": null,
+        "Icon": "common_normal",
+        "Issuer": "Berthellemy",
+        "StartLocation": {
+            "Name": "Garlemald",
+            "X": "12.7",
+            "Y": "30.8"
+        },
+        "StartClass": null,
+        "Job": "",
+        "Company": "Not specified",
+        "Requirement": "Not specified",
+        "Rewards": {
+            "Gil": 975,
+            "Exp": null,
+            "ItemsMand": [],
+            "ItemsOpt": []
+        },
+        "Infos": {
+            "PrerequisiteQuest": [
+                {
+                    "Name": "Strange Bedfellows",
+                    "Url": "/lodestone/playguide/db/quest/be4e79b846c/",
+                    "Area": "Garlemald",
+                    "Level": "83"
+                }
+            ],
+            "RelatedNPC": [
+                {
+                    "Name": "Imperial Hunter",
+                    "Url": "/lodestone/playguide/db/npc/npc/abe252e2763/",
+                    "Area": "Garlemald (X:15.5 Y:31.1)"
+                },
+                {
+                    "Name": "Imperial Hunter",
+                    "Url": "/lodestone/playguide/db/npc/npc/8de0cd7e59c/",
+                    "Area": "Garlemald (X:27.9 Y:26.5)"
+                }
+            ]
+        },
+        "Seq": 24,
+        "StartDependency": false
+    },
+    {
+        "ID": "c1f78c16352",
+        "Name": " Best Delivered Cold",
+        "Location": "Garlemald",
+        "Level": 80,
+        "JournalSection": 3,
+        "JournalCategory": 60,
+        "JournalGenre": "Garlean Sidequests",
+        "Url": "/lodestone/playguide/db/quest/c1f78c16352/",
+        "Image": null,
+        "Icon": "function_normal",
+        "Issuer": "Commissary Officer",
+        "StartLocation": {
+            "Name": "Garlemald",
+            "X": "12.8",
+            "Y": "30.6"
+        },
+        "StartClass": null,
+        "Job": "",
+        "Company": "Not specified",
+        "Requirement": "Not specified",
+        "Rewards": {
+            "Gil": 815,
+            "Exp": null,
+            "ItemsMand": [
+                {
+                    "Icon": "https://img.finalfantasyxiv.com/lds/pc/global/images/itemicon/af/af26e4b79fb1de83550f6ddbd3a170408fcfe702.png?n6.05",
+                    "Name": "",
+                    "Amount": null
+                }
+            ],
+            "ItemsOpt": []
+        },
+        "Infos": {
+            "PrerequisiteQuest": [
+                {
+                    "Name": "Strange Bedfellows",
+                    "Url": "/lodestone/playguide/db/quest/be4e79b846c/",
+                    "Area": "Garlemald",
+                    "Level": "83"
+                }
+            ],
+            "FollowupQuest": [
+                {
+                    "Name": " Armored Up",
+                    "Url": "/lodestone/playguide/db/quest/298ffe5b68f/",
+                    "Area": "Garlemald",
+                    "Level": "80"
+                }
+            ],
+            "RelatedNPC": [
+                {
+                    "Name": "Commissary Officer",
+                    "Url": "/lodestone/playguide/db/npc/npc/6935c572daa/",
+                    "Area": "Garlemald (X:16.8 Y:30.3)"
+                },
+                {
+                    "Name": "Commissary Officer",
+                    "Url": "/lodestone/playguide/db/npc/npc/70432d56294/",
+                    "Area": "Garlemald (X:24.1 Y:34.4)"
+                },
+                {
+                    "Name": "Jareck",
+                    "Url": "/lodestone/playguide/db/npc/npc/0bbc8e94ef1/",
+                    "Area": "Garlemald (X:24.2 Y:34.4)"
+                }
+            ]
+        },
+        "Seq": 6,
+        "StartDependency": false
+    },
+    {
+        "ID": "c76834ddcbf",
+        "Name": " Longing for Home",
+        "Location": "Garlemald",
+        "Level": 80,
+        "JournalSection": 3,
+        "JournalCategory": 60,
+        "JournalGenre": "Garlean Sidequests",
+        "Url": "/lodestone/playguide/db/quest/c76834ddcbf/",
+        "Image": "https://img.finalfantasyxiv.com/lds/pc/global/images/itemicon/92/9296237a7eac5842cc983315afe2054eb40a9334.png?n6.05",
+        "Icon": "common_normal",
+        "Issuer": "Volusus",
+        "StartLocation": {
+            "Name": "Garlemald",
+            "X": "32.3",
+            "Y": "18.8"
+        },
+        "StartClass": null,
+        "Job": "",
+        "Company": "Not specified",
+        "Requirement": "Not specified",
+        "Rewards": {
+            "Gil": 935,
+            "Exp": null,
+            "ItemsMand": [],
+            "ItemsOpt": []
+        },
+        "Infos": {
+            "PrerequisiteQuest": [
+                {
+                    "Name": " Stranded at the Station",
+                    "Url": "/lodestone/playguide/db/quest/3728af5a011/",
+                    "Area": "Garlemald",
+                    "Level": "80"
+                }
+            ],
+            "FollowupQuest": [
+                {
+                    "Name": " Palatial Possibilities",
+                    "Url": "/lodestone/playguide/db/quest/c91f333f3ff/",
+                    "Area": "Garlemald",
+                    "Level": "80"
+                }
+            ],
+            "RelatedNPC": [
+                {
+                    "Name": "Galla",
+                    "Url": "/lodestone/playguide/db/npc/npc/314b60338b6/",
+                    "Area": "Garlemald (X:32.2 Y:18.8)"
+                },
+                {
+                    "Name": "Galla",
+                    "Url": "/lodestone/playguide/db/npc/npc/1f41c5b657c/",
+                    "Area": "Garlemald (X:25.7 Y:19.3)"
+                }
+            ]
+        },
+        "Seq": 29,
+        "StartDependency": false
+    },
+    {
+        "ID": "c7b3b764aea",
+        "Name": " Energy for All",
+        "Location": "Garlemald",
+        "Level": 80,
+        "JournalSection": 3,
+        "JournalCategory": 60,
+        "JournalGenre": "Garlean Sidequests",
+        "Url": "/lodestone/playguide/db/quest/c7b3b764aea/",
+        "Image": "https://img.finalfantasyxiv.com/lds/pc/global/images/itemicon/ec/ec02b60690a5f5b8e6202c7ca1005ce3895786ec.png?n6.05",
+        "Icon": "common_normal",
+        "Issuer": "Rimelnaud",
+        "StartLocation": {
+            "Name": "Garlemald",
+            "X": "29.7",
+            "Y": "33.7"
+        },
+        "StartClass": null,
+        "Job": "",
+        "Company": "Not specified",
+        "Requirement": "Not specified",
+        "Rewards": {
+            "Gil": 935,
+            "Exp": null,
+            "ItemsMand": [],
+            "ItemsOpt": [
+                {
+                    "Icon": "https://img.finalfantasyxiv.com/lds/pc/global/images/itemicon/93/930608b415b4362cc88d7683e970a1824acc4458.png?n6.05",
+                    "Name": "Island Miq'abob",
+                    "Amount": 2,
+                    "Url": "/lodestone/playguide/db/item/98f84fbf349/"
+                },
+                {
+                    "Icon": "https://img.finalfantasyxiv.com/lds/pc/global/images/itemicon/98/98277e8c20528595bb33a7c12a42606baa4e57d2.png?n6.05",
+                    "Name": "King Crab Cake",
+                    "Amount": 2,
+                    "Url": "/lodestone/playguide/db/item/1b17e09ebeb/"
+                },
+                {
+                    "Icon": "https://img.finalfantasyxiv.com/lds/pc/global/images/itemicon/de/de08e55314dff17f6b963d8fc6a8ac7bd539e880.png?n6.05",
+                    "Name": "Ukha",
+                    "Amount": 2,
+                    "Url": "/lodestone/playguide/db/item/cc352721334/"
+                },
+                {
+                    "Icon": "https://img.finalfantasyxiv.com/lds/pc/global/images/itemicon/80/807946239db549d533cf672d2c02bd4dd74478cd.png?n6.05",
+                    "Name": "Borscht",
+                    "Amount": 2,
+                    "Url": "/lodestone/playguide/db/item/058514c3c01/"
+                },
+                {
+                    "Icon": "https://img.finalfantasyxiv.com/lds/pc/global/images/itemicon/ba/baa2341dd17414fae7fd62ae7bc62c64589b67be.png?n6.05",
+                    "Name": "Allagan Silver Piece",
+                    "Amount": 1,
+                    "Url": "/lodestone/playguide/db/item/a3ac3ba4b00/"
+                }
+            ]
+        },
+        "Infos": {
+            "PrerequisiteQuest": [
+                {
+                    "Name": " Operation: Reactivation",
+                    "Url": "/lodestone/playguide/db/quest/54ee0ffe4dd/",
+                    "Area": "Garlemald",
+                    "Level": "80"
+                }
+            ],
+            "FollowupQuest": [
+                {
+                    "Name": " Who Is Your Daddy",
+                    "Url": "/lodestone/playguide/db/quest/86eb75364c9/",
+                    "Area": "Garlemald",
+                    "Level": "80"
+                }
+            ],
+            "RelatedNPC": [
+                {
+                    "Name": "Appius",
+                    "Url": "/lodestone/playguide/db/npc/npc/4f8893b4667/",
+                    "Area": "Garlemald (X:29.7 Y:33.7)"
+                },
+                {
+                    "Name": "Esdelot",
+                    "Url": "/lodestone/playguide/db/npc/npc/01f5a497cf6/",
+                    "Area": "Garlemald (X:14.9 Y:30.4)"
+                }
+            ]
+        },
+        "Seq": 12,
+        "StartDependency": false
+    },
+    {
+        "ID": "c91f333f3ff",
+        "Name": " Palatial Possibilities",
+        "Location": "Garlemald",
+        "Level": 80,
+        "JournalSection": 3,
+        "JournalCategory": 60,
+        "JournalGenre": "Garlean Sidequests",
+        "Url": "/lodestone/playguide/db/quest/c91f333f3ff/",
+        "Image": "https://img.finalfantasyxiv.com/lds/pc/global/images/itemicon/92/9296237a7eac5842cc983315afe2054eb40a9334.png?n6.05",
+        "Icon": "common_normal",
+        "Issuer": "Galla",
+        "StartLocation": {
+            "Name": "Garlemald",
+            "X": "32.2",
+            "Y": "18.8"
+        },
+        "StartClass": null,
+        "Job": "",
+        "Company": "Not specified",
+        "Requirement": "Not specified",
+        "Rewards": {
+            "Gil": 935,
+            "Exp": null,
+            "ItemsMand": [],
+            "ItemsOpt": []
+        },
+        "Infos": {
+            "PrerequisiteQuest": [
+                {
+                    "Name": " Longing for Home",
+                    "Url": "/lodestone/playguide/db/quest/c76834ddcbf/",
+                    "Area": "Garlemald",
+                    "Level": "80"
+                }
+            ],
+            "FollowupQuest": [
+                {
+                    "Name": " Mum Is the Word",
+                    "Url": "/lodestone/playguide/db/quest/80e6eac8a5c/",
+                    "Area": "Garlemald",
+                    "Level": "80"
+                }
+            ],
+            "RelatedNPC": [
+                {
+                    "Name": "Galla",
+                    "Url": "/lodestone/playguide/db/npc/npc/570cdc894a7/",
+                    "Area": "Garlemald (X:24.6 Y:13.1)"
+                },
+                {
+                    "Name": "Volusus",
+                    "Url": "/lodestone/playguide/db/npc/npc/8d12c4ab96f/",
+                    "Area": "Garlemald (X:32.3 Y:18.8)"
+                }
+            ]
+        },
+        "Seq": 30,
+        "StartDependency": false
+    },
+    {
+        "ID": "ca02c830406",
+        "Name": " Heroes All",
+        "Location": "Garlemald",
+        "Level": 80,
+        "JournalSection": 3,
+        "JournalCategory": 60,
+        "JournalGenre": "Garlean Sidequests",
+        "Url": "/lodestone/playguide/db/quest/ca02c830406/",
+        "Image": null,
+        "Icon": "common_normal",
+        "Issuer": "June",
+        "StartLocation": {
+            "Name": "Garlemald",
+            "X": "13.9",
+            "Y": "31.7"
+        },
+        "StartClass": null,
+        "Job": "",
+        "Company": "Not specified",
+        "Requirement": "Not specified",
+        "Rewards": {
+            "Gil": 735,
+            "Exp": null,
+            "ItemsMand": [
+                {
+                    "Icon": "https://img.finalfantasyxiv.com/lds/pc/global/images/itemicon/93/930608b415b4362cc88d7683e970a1824acc4458.png?n6.05",
+                    "Name": "Island Miq'abob",
+                    "Amount": 2,
+                    "Url": "/lodestone/playguide/db/item/98f84fbf349/"
+                }
+            ],
+            "ItemsOpt": []
+        },
+        "Infos": {
+            "PrerequisiteQuest": [
+                {
+                    "Name": "A Way Forward",
+                    "Url": "/lodestone/playguide/db/quest/2b39bdb753b/",
+                    "Area": "Garlemald",
+                    "Level": "82"
+                }
+            ],
+            "RelatedNPC": [
+                {
+                    "Name": "Despondent Conjurer",
+                    "Url": "/lodestone/playguide/db/npc/npc/fc95454a200/",
+                    "Area": "Garlemald (X:15.1 Y:29.3)"
+                },
+                {
+                    "Name": "Fatigued Conjurer",
+                    "Url": "/lodestone/playguide/db/npc/npc/b9f8ca8d7b4/",
+                    "Area": "Garlemald (X:15.1 Y:30.0)"
+                },
+                {
+                    "Name": "Weary Mol Healer",
+                    "Url": "/lodestone/playguide/db/npc/npc/5f58c07195c/",
+                    "Area": "Garlemald (X:15.1 Y:30.4)"
+                }
+            ]
+        },
+        "Seq": 2,
+        "StartDependency": false
+    },
+    {
+        "ID": "da2dd4383ae",
+        "Name": " Rest, Thy Warfare O'er",
+        "Location": "Garlemald",
+        "Level": 80,
+        "JournalSection": 3,
+        "JournalCategory": 60,
+        "JournalGenre": "Garlean Sidequests",
+        "Url": "/lodestone/playguide/db/quest/da2dd4383ae/",
+        "Image": null,
+        "Icon": "common_normal",
+        "Issuer": "Mol Delegate",
+        "StartLocation": {
+            "Name": "Garlemald",
+            "X": "31.1",
+            "Y": "12.3"
+        },
+        "StartClass": null,
+        "Job": "",
+        "Company": "Not specified",
+        "Requirement": "Not specified",
+        "Rewards": {
+            "Gil": 815,
+            "Exp": null,
+            "ItemsMand": [],
+            "ItemsOpt": []
+        },
+        "Infos": {
+            "PrerequisiteQuest": [
+                {
+                    "Name": "Strange Bedfellows",
+                    "Url": "/lodestone/playguide/db/quest/be4e79b846c/",
+                    "Area": "Garlemald",
+                    "Level": "83"
+                }
+            ],
+            "RelatedNPC": [
+                {
+                    "Name": "Wounded Soldier",
+                    "Url": "/lodestone/playguide/db/npc/npc/1d4731c2aab/",
+                    "Area": "Garlemald (X:15.2 Y:7.0)"
+                }
+            ]
+        },
+        "Seq": 18,
+        "StartDependency": false
+    },
+    {
+        "ID": "de685cadd9c",
+        "Name": " In Pursuit of Power",
+        "Location": "Garlemald",
+        "Level": 80,
+        "JournalSection": 3,
+        "JournalCategory": 60,
+        "JournalGenre": "Garlean Sidequests",
+        "Url": "/lodestone/playguide/db/quest/de685cadd9c/",
+        "Image": "https://img.finalfantasyxiv.com/lds/pc/global/images/itemicon/ec/ec02b60690a5f5b8e6202c7ca1005ce3895786ec.png?n6.05",
+        "Icon": "function_normal",
+        "Issuer": "Rimelnaud",
+        "StartLocation": {
+            "Name": "Garlemald",
+            "X": "15.0",
+            "Y": "29.9"
+        },
+        "StartClass": null,
+        "Job": "",
+        "Company": "Not specified",
+        "Requirement": "Not specified",
+        "Rewards": {
+            "Gil": 935,
+            "Exp": null,
+            "ItemsMand": [
+                {
+                    "Icon": "https://img.finalfantasyxiv.com/lds/pc/global/images/itemicon/af/af26e4b79fb1de83550f6ddbd3a170408fcfe702.png?n6.05",
+                    "Name": "",
+                    "Amount": null
+                }
+            ],
+            "ItemsOpt": []
+        },
+        "Infos": {
+            "PrerequisiteQuest": [
+                {
+                    "Name": "Strange Bedfellows",
+                    "Url": "/lodestone/playguide/db/quest/be4e79b846c/",
+                    "Area": "Garlemald",
+                    "Level": "83"
+                }
+            ],
+            "FollowupQuest": [
+                {
+                    "Name": " Camp Broken Engines",
+                    "Url": "/lodestone/playguide/db/quest/83134f0badf/",
+                    "Area": "Garlemald",
+                    "Level": "80"
+                }
+            ],
+            "RelatedNPC": [
+                {
+                    "Name": "Appius",
+                    "Url": "/lodestone/playguide/db/npc/npc/0997ee9b45e/",
+                    "Area": "Garlemald (X:14.6 Y:31.4)"
+                },
+                {
+                    "Name": "Rimelnaud",
+                    "Url": "/lodestone/playguide/db/npc/npc/c380f823b19/",
+                    "Area": "Garlemald (X:14.6 Y:31.5)"
+                }
+            ]
+        },
+        "Seq": 9,
+        "StartDependency": false
+    },
+    {
+        "ID": "f1da31f01ba",
+        "Name": " A Light That Never Goes Out",
+        "Location": "Garlemald",
+        "Level": 80,
+        "JournalSection": 3,
+        "JournalCategory": 60,
+        "JournalGenre": "Garlean Sidequests",
+        "Url": "/lodestone/playguide/db/quest/f1da31f01ba/",
+        "Image": null,
+        "Icon": "common_normal",
+        "Issuer": "Spurius",
+        "StartLocation": {
+            "Name": "Garlemald",
+            "X": "32.3",
+            "Y": "16.8"
+        },
+        "StartClass": null,
+        "Job": "",
+        "Company": "Not specified",
+        "Requirement": "Not specified",
+        "Rewards": {
+            "Gil": 735,
+            "Exp": null,
+            "ItemsMand": [],
+            "ItemsOpt": []
+        },
+        "Infos": {
+            "PrerequisiteQuest": [
+                {
+                    "Name": "Strange Bedfellows",
+                    "Url": "/lodestone/playguide/db/quest/be4e79b846c/",
+                    "Area": "Garlemald",
+                    "Level": "83"
+                }
+            ]
+        },
+        "Seq": 15,
+        "StartDependency": false
+    }
+]

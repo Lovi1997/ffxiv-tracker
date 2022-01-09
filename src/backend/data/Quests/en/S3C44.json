@@ -1,451 +1,48 @@
 [
     {
-        "ID": "0185193cbd8",
-        "Name": "Ok' Zundu's Got Talent",
-        "Location": "The Sea of Clouds",
-        "Level": 57,
+        "ID": "02577140302",
+        "Name": "A Self-improving Man",
+        "Location": "Mor Dhona",
+        "Level": 15,
         "JournalSection": 3,
         "JournalCategory": 44,
-        "JournalGenre": "Abalathian Sidequests",
-        "Url": "/lodestone/playguide/db/quest/0185193cbd8/",
-        "Image": "https://img.finalfantasyxiv.com/lds/pc/global/images/itemicon/1f/1fbd4e2d9e6a37d3aadbe77fec18348142e616db.png?n5.55",
-        "Icon": "common_normal",
-        "Issuer": "Gunu Vanu",
-        "StartLocation": {
-            "Name": "The Sea of Clouds",
-            "X": "12.5",
-            "Y": "14.4"
-        },
-        "StartClass": null,
-        "Job": "",
-        "Company": "Not specified",
-        "Requirement": "Not specified",
-        "Rewards": {
-            "Gil": 502,
-            "Exp": 38400,
-            "ItemsMand": [],
-            "ItemsOpt": [
-                {
-                    "Icon": "https://img.finalfantasyxiv.com/lds/pc/global/images/itemicon/d1/d100cb7a56b821be8d14db69a302122195edc056.png?n5.55",
-                    "Name": "Seafog Blue Dye",
-                    "Amount": 5,
-                    "Url": "/lodestone/playguide/db/item/56afc8783ff/"
-                },
-                {
-                    "Icon": "https://img.finalfantasyxiv.com/lds/pc/global/images/itemicon/7b/7bf85ff916a27cc2b17a3cbe2c9509757a2ed3fd.png?n5.55",
-                    "Name": "Shale Brown Dye",
-                    "Amount": 5,
-                    "Url": "/lodestone/playguide/db/item/1aae57e1629/"
-                },
-                {
-                    "Icon": "https://img.finalfantasyxiv.com/lds/pc/global/images/itemicon/87/8766a615ce1f564836948df8c194a9c33b733b45.png?n5.55",
-                    "Name": "Meadow Green Dye",
-                    "Amount": 5,
-                    "Url": "/lodestone/playguide/db/item/79031c0f52f/"
-                },
-                {
-                    "Icon": "https://img.finalfantasyxiv.com/lds/pc/global/images/itemicon/d1/d100cb7a56b821be8d14db69a302122195edc056.png?n5.55",
-                    "Name": "Corpse Blue Dye",
-                    "Amount": 5,
-                    "Url": "/lodestone/playguide/db/item/e67029752b0/"
-                },
-                {
-                    "Icon": "https://img.finalfantasyxiv.com/lds/pc/global/images/itemicon/87/8766a615ce1f564836948df8c194a9c33b733b45.png?n5.55",
-                    "Name": "Morbol Green Dye",
-                    "Amount": 5,
-                    "Url": "/lodestone/playguide/db/item/ec06adbbd4f/"
-                }
-            ]
-        },
-        "Infos": {
-            "PrerequisiteQuest": [
-                {
-                    "Name": "Black and the White",
-                    "Url": "/lodestone/playguide/db/quest/563c24561fe/",
-                    "Area": "The Sea of Clouds",
-                    "Level": "57"
-                },
-                {
-                    "Name": "Growing Pains",
-                    "Url": "/lodestone/playguide/db/quest/11b2c283cde/",
-                    "Area": "The Sea of Clouds",
-                    "Level": "57"
-                }
-            ],
-            "FollowupQuest": [
-                {
-                    "Name": "Lazing Saddles",
-                    "Url": "/lodestone/playguide/db/quest/1b8ea54b3bc/",
-                    "Area": "The Sea of Clouds",
-                    "Level": "57"
-                }
-            ],
-            "RelatedNPC": [
-                {
-                    "Name": "Aanu Vanu",
-                    "Url": "/lodestone/playguide/db/npc/npc/7d521699989/",
-                    "Area": "The Sea of Clouds (X:12.5 Y:14.4)"
-                },
-                {
-                    "Name": "Gunu Vanu",
-                    "Url": "/lodestone/playguide/db/npc/npc/99fa9d1c45d/",
-                    "Area": "The Sea of Clouds (X:11.4 Y:14.0)"
-                }
-            ]
-        },
-        "Seq": 28,
-        "oldID": 67450,
-        "Map": {
-            "ID": 215
-        },
-        "StartDependency": false
-    },
-    {
-        "ID": "01c998ebeaf",
-        "Name": "On Wings of Vanu",
-        "Location": "The Sea of Clouds",
-        "Level": 57,
-        "JournalSection": 3,
-        "JournalCategory": 44,
-        "JournalGenre": "Abalathian Sidequests",
-        "Url": "/lodestone/playguide/db/quest/01c998ebeaf/",
+        "JournalGenre": "Mor Dhonan Sidequests",
+        "Url": "/lodestone/playguide/db/quest/02577140302/",
         "Image": null,
-        "Icon": "common_normal",
-        "Issuer": "Sonu Vanu",
+        "Icon": "function_normal",
+        "Issuer": "Wiscard",
         "StartLocation": {
-            "Name": "The Sea of Clouds",
-            "X": "11.7",
-            "Y": "14.8"
+            "Name": "Mor Dhona",
+            "X": "22.1",
+            "Y": "6.7"
         },
         "StartClass": null,
         "Job": "",
         "Company": "Not specified",
         "Requirement": "Not specified",
         "Rewards": {
-            "Gil": 533,
-            "Exp": 38400,
-            "ItemsMand": [],
-            "ItemsOpt": [
-                {
-                    "Icon": "https://img.finalfantasyxiv.com/lds/pc/global/images/itemicon/06/06bd35b3df19cbc5d80eed3ed99c67a366c835aa.png?n5.55",
-                    "Name": "Savage Might Materia IV",
-                    "Amount": 1,
-                    "Url": "/lodestone/playguide/db/item/1bc25f58180/"
-                },
-                {
-                    "Icon": "https://img.finalfantasyxiv.com/lds/pc/global/images/itemicon/06/06bd35b3df19cbc5d80eed3ed99c67a366c835aa.png?n5.55",
-                    "Name": "Savage Aim Materia IV",
-                    "Amount": 1,
-                    "Url": "/lodestone/playguide/db/item/dce3a5f3467/"
-                },
-                {
-                    "Icon": "https://img.finalfantasyxiv.com/lds/pc/global/images/itemicon/06/06bd35b3df19cbc5d80eed3ed99c67a366c835aa.png?n5.55",
-                    "Name": "Heavens' Eye Materia IV",
-                    "Amount": 1,
-                    "Url": "/lodestone/playguide/db/item/93fe1786b70/"
-                },
-                {
-                    "Icon": "https://img.finalfantasyxiv.com/lds/pc/global/images/itemicon/59/591709d485ebd155ba018c8cd773fe3c662caed3.png?n5.55",
-                    "Name": "Piety Materia IV",
-                    "Amount": 1,
-                    "Url": "/lodestone/playguide/db/item/905d47601dd/"
-                }
-            ]
-        },
-        "Infos": {
-            "PrerequisiteQuest": [
-                {
-                    "Name": "Bolt, Chain, and Island",
-                    "Url": "/lodestone/playguide/db/quest/a54bd372189/",
-                    "Area": "The Sea of Clouds",
-                    "Level": "57"
-                },
-                {
-                    "Name": "Not Free as a Bird",
-                    "Url": "/lodestone/playguide/db/quest/657dba7d6d9/",
-                    "Area": "The Sea of Clouds",
-                    "Level": "57"
-                }
-            ],
-            "RelatedNPC": [
-                {
-                    "Name": "Captured Rose Knight",
-                    "Url": "/lodestone/playguide/db/npc/npc/3619e4e5d48/",
-                    "Area": "The Sea of Clouds (X:15.4 Y:16.4)"
-                },
-                {
-                    "Name": "Captured Rose Knight",
-                    "Url": "/lodestone/playguide/db/npc/npc/5755b32f66c/",
-                    "Area": "The Sea of Clouds (X:18.3 Y:26.9)"
-                },
-                {
-                    "Name": "Captured Rose Knight",
-                    "Url": "/lodestone/playguide/db/npc/npc/92dec538b92/",
-                    "Area": "The Sea of Clouds (X:21.3 Y:31.4)"
-                },
-                {
-                    "Name": "Laniaitte",
-                    "Url": "/lodestone/playguide/db/npc/npc/eceacc0b266/",
-                    "Area": "The Sea of Clouds (X:17.0 Y:37.3)"
-                },
-                {
-                    "Name": "Rescued Zundu Youth",
-                    "Url": "/lodestone/playguide/db/npc/npc/a98ac05aa36/",
-                    "Area": "The Sea of Clouds (X:12.3 Y:11.3)"
-                }
-            ]
-        },
-        "Seq": 24,
-        "oldID": 67454,
-        "Map": {
-            "ID": 215
-        },
-        "StartDependency": false
-    },
-    {
-        "ID": "0651a5acc2a",
-        "Name": "The Black Storm",
-        "Location": "The Sea of Clouds",
-        "Level": 57,
-        "JournalSection": 3,
-        "JournalCategory": 44,
-        "JournalGenre": "Abalathian Sidequests",
-        "Url": "/lodestone/playguide/db/quest/0651a5acc2a/",
-        "Image": "https://img.finalfantasyxiv.com/lds/pc/global/images/itemicon/1f/1fbd4e2d9e6a37d3aadbe77fec18348142e616db.png?n5.55",
-        "Icon": "common_normal",
-        "Issuer": "Gunu Vanu",
-        "StartLocation": {
-            "Name": "The Sea of Clouds",
-            "X": "12.5",
-            "Y": "14.4"
-        },
-        "StartClass": null,
-        "Job": "",
-        "Company": "Not specified",
-        "Requirement": "Not specified",
-        "Rewards": {
-            "Gil": 997,
-            "Exp": 38400,
-            "ItemsMand": [],
-            "ItemsOpt": [
-                {
-                    "Icon": "https://img.finalfantasyxiv.com/lds/pc/global/images/itemicon/59/591709d485ebd155ba018c8cd773fe3c662caed3.png?n5.55",
-                    "Name": "Battledance Materia IV",
-                    "Amount": 1,
-                    "Url": "/lodestone/playguide/db/item/37f25043bf3/"
-                },
-                {
-                    "Icon": "https://img.finalfantasyxiv.com/lds/pc/global/images/itemicon/60/6072436b0c90d22b6a9d7da93f356256a04be53d.png?n5.55",
-                    "Name": "Quickarm Materia IV",
-                    "Amount": 1,
-                    "Url": "/lodestone/playguide/db/item/1162b3fcc58/"
-                },
-                {
-                    "Icon": "https://img.finalfantasyxiv.com/lds/pc/global/images/itemicon/60/6072436b0c90d22b6a9d7da93f356256a04be53d.png?n5.55",
-                    "Name": "Quicktongue Materia IV",
-                    "Amount": 1,
-                    "Url": "/lodestone/playguide/db/item/5bbb25ff7dd/"
-                }
-            ]
-        },
-        "Infos": {
-            "PrerequisiteQuest": [
-                {
-                    "Name": "Black and the White",
-                    "Url": "/lodestone/playguide/db/quest/563c24561fe/",
-                    "Area": "The Sea of Clouds",
-                    "Level": "57"
-                },
-                {
-                    "Name": "Lazing Saddles",
-                    "Url": "/lodestone/playguide/db/quest/1b8ea54b3bc/",
-                    "Area": "The Sea of Clouds",
-                    "Level": "57"
-                }
-            ],
-            "RelatedNPC": [
-                {
-                    "Name": "Aanu Vanu",
-                    "Url": "/lodestone/playguide/db/npc/npc/7d521699989/",
-                    "Area": "The Sea of Clouds (X:12.5 Y:14.4)"
-                },
-                {
-                    "Name": "Guna Vanu",
-                    "Url": "/lodestone/playguide/db/npc/npc/bc70123b282/",
-                    "Area": "The Sea of Clouds (X:10.6 Y:14.8)"
-                },
-                {
-                    "Name": "Gunu Vanu",
-                    "Url": "/lodestone/playguide/db/npc/npc/ad740126187/",
-                    "Area": "The Sea of Clouds (X:15.0 Y:9.9)"
-                },
-                {
-                    "Name": "Gunu Vanu",
-                    "Url": "/lodestone/playguide/db/npc/npc/cdb726d404e/",
-                    "Area": "The Sea of Clouds (X:10.5 Y:14.8)"
-                },
-                {
-                    "Name": "Gunu Vanu",
-                    "Url": "/lodestone/playguide/db/npc/npc/06db251fee9/",
-                    "Area": "The Sea of Clouds (X:30.2 Y:13.6)"
-                }
-            ]
-        },
-        "Seq": 30,
-        "oldID": 67452,
-        "Map": {
-            "ID": 215
-        },
-        "StartDependency": false
-    },
-    {
-        "ID": "11b2c283cde",
-        "Name": "Growing Pains",
-        "Location": "The Sea of Clouds",
-        "Level": 57,
-        "JournalSection": 3,
-        "JournalCategory": 44,
-        "JournalGenre": "Abalathian Sidequests",
-        "Url": "/lodestone/playguide/db/quest/11b2c283cde/",
-        "Image": "https://img.finalfantasyxiv.com/lds/pc/global/images/itemicon/1f/1fbd4e2d9e6a37d3aadbe77fec18348142e616db.png?n5.55",
-        "Icon": "common_normal",
-        "Issuer": "Gunu Vanu",
-        "StartLocation": {
-            "Name": "The Sea of Clouds",
-            "X": "15.0",
-            "Y": "9.9"
-        },
-        "StartClass": null,
-        "Job": "",
-        "Company": "Not specified",
-        "Requirement": "Not specified",
-        "Rewards": {
-            "Gil": 653,
-            "Exp": 38400,
+            "Gil": 0,
+            "Exp": 0,
             "ItemsMand": [
                 {
-                    "Icon": "https://img.finalfantasyxiv.com/lds/pc/global/images/itemicon/60/606b393d7113c4a3c6980dcac15d90d18ffc0222.png?n5.55",
+                    "Icon": "https://img.finalfantasyxiv.com/lds/pc/global/images/itemicon/60/606b393d7113c4a3c6980dcac15d90d18ffc0222.png?n6.05",
                     "Name": "Glamour Prism",
-                    "Amount": 5,
+                    "Amount": 12,
                     "Url": "/lodestone/playguide/db/item/58886c8cb88/"
-                }
-            ],
-            "ItemsOpt": []
-        },
-        "Infos": {
-            "PrerequisiteQuest": [
-                {
-                    "Name": "Black and the White",
-                    "Url": "/lodestone/playguide/db/quest/563c24561fe/",
-                    "Area": "The Sea of Clouds",
-                    "Level": "57"
                 },
                 {
-                    "Name": "Flying the Nest",
-                    "Url": "/lodestone/playguide/db/quest/14cf20c3707/",
-                    "Area": "The Sea of Clouds",
-                    "Level": "57"
-                }
-            ],
-            "FollowupQuest": [
-                {
-                    "Name": "Ok' Zundu's Got Talent",
-                    "Url": "/lodestone/playguide/db/quest/0185193cbd8/",
-                    "Area": "The Sea of Clouds",
-                    "Level": "57"
-                }
-            ],
-            "RelatedNPC": [
-                {
-                    "Name": "Gunu Vanu",
-                    "Url": "/lodestone/playguide/db/npc/npc/5baffd98856/",
-                    "Area": "The Sea of Clouds (X:16.7 Y:9.7)"
+                    "Icon": "https://img.finalfantasyxiv.com/lds/pc/global/images/itemicon/cf/cf16688a8e88c065814895599a30f33e5d180c00.png?n6.05",
+                    "Name": "Green Beret",
+                    "Amount": 1,
+                    "Url": "/lodestone/playguide/db/item/7b101c7e945/"
                 },
                 {
-                    "Name": "Gunu Vanu",
-                    "Url": "/lodestone/playguide/db/npc/npc/67afba59c97/",
-                    "Area": "The Sea of Clouds (X:12.5 Y:14.4)"
-                }
-            ]
-        },
-        "Seq": 27,
-        "oldID": 67447,
-        "Map": {
-            "ID": 215
-        },
-        "StartDependency": false
-    },
-    {
-        "ID": "124cdba5102",
-        "Name": "One Flew over the Vundu's Nest",
-        "Location": "The Sea of Clouds",
-        "Level": 57,
-        "JournalSection": 3,
-        "JournalCategory": 44,
-        "JournalGenre": "Abalathian Sidequests",
-        "Url": "/lodestone/playguide/db/quest/124cdba5102/",
-        "Image": null,
-        "Icon": "common_normal",
-        "Issuer": "Ganu Vali",
-        "StartLocation": {
-            "Name": "The Sea of Clouds",
-            "X": "9.6",
-            "Y": "14.2"
-        },
-        "StartClass": null,
-        "Job": "",
-        "Company": "Not specified",
-        "Requirement": "Not specified",
-        "Rewards": {
-            "Gil": 684,
-            "Exp": 38400,
-            "ItemsMand": [],
-            "ItemsOpt": []
-        },
-        "Infos": {
-            "PrerequisiteQuest": [
+                    "Icon": "https://img.finalfantasyxiv.com/lds/pc/global/images/itemicon/c8/c8d2e16c9a95b158dd7fd8887b3aaea60788e552.png?n6.05",
+                    "Name": "",
+                    "Amount": null
+                },
                 {
-                    "Name": "Bolt, Chain, and Island",
-                    "Url": "/lodestone/playguide/db/quest/a54bd372189/",
-                    "Area": "The Sea of Clouds",
-                    "Level": "57"
-                }
-            ]
-        },
-        "Seq": 20,
-        "oldID": 67449,
-        "Map": {
-            "ID": 215
-        },
-        "StartDependency": false
-    },
-    {
-        "ID": "14cf20c3707",
-        "Name": "Flying the Nest",
-        "Location": "The Sea of Clouds",
-        "Level": 57,
-        "JournalSection": 3,
-        "JournalCategory": 44,
-        "JournalGenre": "Abalathian Sidequests",
-        "Url": "/lodestone/playguide/db/quest/14cf20c3707/",
-        "Image": "https://img.finalfantasyxiv.com/lds/pc/global/images/itemicon/1f/1fbd4e2d9e6a37d3aadbe77fec18348142e616db.png?n5.55",
-        "Icon": "function_normal",
-        "Issuer": "Guna Vanu",
-        "StartLocation": {
-            "Name": "The Sea of Clouds",
-            "X": "10.6",
-            "Y": "14.8"
-        },
-        "StartClass": null,
-        "Job": "",
-        "Company": "Not specified",
-        "Requirement": "Not specified",
-        "Rewards": {
-            "Gil": 502,
-            "Exp": 38400,
-            "ItemsMand": [
-                {
-                    "Icon": "https://img.finalfantasyxiv.com/lds/pc/global/images/itemicon/af/af26e4b79fb1de83550f6ddbd3a170408fcfe702.png?n5.55",
+                    "Icon": "https://img.finalfantasyxiv.com/lds/pc/global/images/itemicon/ca/ca560799b23de5d5f688dde5258649c1e7a538b9.png?n6.05",
                     "Name": "",
                     "Amount": null
                 }
@@ -453,1824 +50,48 @@
             "ItemsOpt": []
         },
         "Infos": {
-            "PrerequisiteQuest": [
-                {
-                    "Name": "Black and the White",
-                    "Url": "/lodestone/playguide/db/quest/563c24561fe/",
-                    "Area": "The Sea of Clouds",
-                    "Level": "57"
-                }
-            ],
             "FollowupQuest": [
                 {
-                    "Name": "Growing Pains",
-                    "Url": "/lodestone/playguide/db/quest/11b2c283cde/",
-                    "Area": "The Sea of Clouds",
-                    "Level": "57"
+                    "Name": "Submission Impossible",
+                    "Url": "/lodestone/playguide/db/quest/262d26cb079/",
+                    "Area": "Mor Dhona",
+                    "Level": "15"
                 }
             ],
             "RelatedNPC": [
                 {
-                    "Name": "Conu Vanu",
-                    "Url": "/lodestone/playguide/db/npc/npc/b64087fe06b/",
-                    "Area": "The Sea of Clouds (X:11.1 Y:13.5)"
-                },
-                {
-                    "Name": "Ganu Vali",
-                    "Url": "/lodestone/playguide/db/npc/npc/aaa4449bdb8/",
-                    "Area": "The Sea of Clouds (X:9.6 Y:14.2)"
-                },
-                {
-                    "Name": "Gunu Vanu",
-                    "Url": "/lodestone/playguide/db/npc/npc/ad740126187/",
-                    "Area": "The Sea of Clouds (X:15.0 Y:9.9)"
-                },
-                {
-                    "Name": "Hinu Vali",
-                    "Url": "/lodestone/playguide/db/npc/npc/a0fd26b8951/",
-                    "Area": "The Sea of Clouds (X:11.1 Y:13.5)"
-                }
-            ]
-        },
-        "Seq": 26,
-        "oldID": 67446,
-        "Map": {
-            "ID": 215
-        },
-        "StartDependency": false
-    },
-    {
-        "ID": "17514f1db13",
-        "Name": "Winds of Ill Omen",
-        "Location": "The Sea of Clouds",
-        "Level": 57,
-        "JournalSection": 3,
-        "JournalCategory": 44,
-        "JournalGenre": "Abalathian Sidequests",
-        "Url": "/lodestone/playguide/db/quest/17514f1db13/",
-        "Image": null,
-        "Icon": "common_normal",
-        "Issuer": "Aanu Vanu",
-        "StartLocation": {
-            "Name": "The Sea of Clouds",
-            "X": "12.5",
-            "Y": "14.4"
-        },
-        "StartClass": null,
-        "Job": "",
-        "Company": "Not specified",
-        "Requirement": "Not specified",
-        "Rewards": {
-            "Gil": 684,
-            "Exp": 38400,
-            "ItemsMand": [],
-            "ItemsOpt": []
-        },
-        "Infos": {
-            "PrerequisiteQuest": [
-                {
-                    "Name": "Bolt, Chain, and Island",
-                    "Url": "/lodestone/playguide/db/quest/a54bd372189/",
-                    "Area": "The Sea of Clouds",
-                    "Level": "57"
-                }
-            ]
-        },
-        "Seq": 21,
-        "oldID": 67453,
-        "Map": {
-            "ID": 215
-        },
-        "StartDependency": false
-    },
-    {
-        "ID": "1aa2e50c5ce",
-        "Name": "Calling Back the Troops",
-        "Location": "The Sea of Clouds",
-        "Level": 51,
-        "JournalSection": 3,
-        "JournalCategory": 44,
-        "JournalGenre": "Abalathian Sidequests",
-        "Url": "/lodestone/playguide/db/quest/1aa2e50c5ce/",
-        "Image": null,
-        "Icon": "common_normal",
-        "Issuer": "Terremiaux",
-        "StartLocation": {
-            "Name": "The Sea of Clouds",
-            "X": "37.9",
-            "Y": "24.2"
-        },
-        "StartClass": null,
-        "Job": "",
-        "Company": "Not specified",
-        "Requirement": "Not specified",
-        "Rewards": {
-            "Gil": 581,
-            "Exp": 25200,
-            "ItemsMand": [],
-            "ItemsOpt": []
-        },
-        "Infos": {
-            "PrerequisiteQuest": [
-                {
-                    "Name": "Alphinaud's Way",
-                    "Url": "/lodestone/playguide/db/quest/77cb6c15d41/",
-                    "Area": "Fortemps Manor",
-                    "Level": "51"
-                },
-                {
-                    "Name": "Behind Enemy Lines",
-                    "Url": "/lodestone/playguide/db/quest/c2b6ca2a319/",
-                    "Area": "The Sea of Clouds",
-                    "Level": "51"
-                }
-            ],
-            "FollowupQuest": [
-                {
-                    "Name": "A Hasty Recovery",
-                    "Url": "/lodestone/playguide/db/quest/bee640fa8b7/",
-                    "Area": "The Sea of Clouds",
-                    "Level": "51"
-                }
-            ],
-            "RelatedNPC": [
-                {
-                    "Name": "Laniaitte",
-                    "Url": "/lodestone/playguide/db/npc/npc/eceacc0b266/",
-                    "Area": "The Sea of Clouds (X:17.0 Y:37.3)"
-                },
-                {
-                    "Name": "Rose Knight",
-                    "Url": "/lodestone/playguide/db/npc/npc/26170cb7128/",
-                    "Area": "The Sea of Clouds (X:35.1 Y:23.4)"
-                },
-                {
-                    "Name": "Rose Knight",
-                    "Url": "/lodestone/playguide/db/npc/npc/0664e0ec9aa/",
-                    "Area": "The Sea of Clouds (X:36.6 Y:22.1)"
-                },
-                {
-                    "Name": "Rose Knight",
-                    "Url": "/lodestone/playguide/db/npc/npc/9f86ab1cffa/",
-                    "Area": "The Sea of Clouds (X:37.5 Y:23.6)"
-                },
-                {
-                    "Name": "Wounded Knight",
-                    "Url": "/lodestone/playguide/db/npc/npc/1f7b7bf8167/",
-                    "Area": "The Sea of Clouds (X:34.0 Y:27.2)"
-                }
-            ]
-        },
-        "Seq": 8,
-        "oldID": 67293,
-        "Map": {
-            "ID": 215
-        },
-        "StartDependency": false
-    },
-    {
-        "ID": "1b8ea54b3bc",
-        "Name": "Lazing Saddles",
-        "Location": "The Sea of Clouds",
-        "Level": 57,
-        "JournalSection": 3,
-        "JournalCategory": 44,
-        "JournalGenre": "Abalathian Sidequests",
-        "Url": "/lodestone/playguide/db/quest/1b8ea54b3bc/",
-        "Image": "https://img.finalfantasyxiv.com/lds/pc/global/images/itemicon/1f/1fbd4e2d9e6a37d3aadbe77fec18348142e616db.png?n5.55",
-        "Icon": "common_normal",
-        "Issuer": "Gunu Vanu",
-        "StartLocation": {
-            "Name": "The Sea of Clouds",
-            "X": "12.5",
-            "Y": "14.4"
-        },
-        "StartClass": null,
-        "Job": "",
-        "Company": "Not specified",
-        "Requirement": "Not specified",
-        "Rewards": {
-            "Gil": 684,
-            "Exp": 38400,
-            "ItemsMand": [],
-            "ItemsOpt": []
-        },
-        "Infos": {
-            "PrerequisiteQuest": [
-                {
-                    "Name": "Black and the White",
-                    "Url": "/lodestone/playguide/db/quest/563c24561fe/",
-                    "Area": "The Sea of Clouds",
-                    "Level": "57"
-                },
-                {
-                    "Name": "Ok' Zundu's Got Talent",
-                    "Url": "/lodestone/playguide/db/quest/0185193cbd8/",
-                    "Area": "The Sea of Clouds",
-                    "Level": "57"
-                }
-            ],
-            "FollowupQuest": [
-                {
-                    "Name": "The Black Storm",
-                    "Url": "/lodestone/playguide/db/quest/0651a5acc2a/",
-                    "Area": "The Sea of Clouds",
-                    "Level": "57"
-                }
-            ],
-            "RelatedNPC": [
-                {
-                    "Name": "Battle-trained Sanuwa",
-                    "Url": "/lodestone/playguide/db/npc/npc/6655554f6d1/",
-                    "Area": "The Sea of Clouds (X:27.8 Y:13.5)"
-                },
-                {
-                    "Name": "Gunu Vanu",
-                    "Url": "/lodestone/playguide/db/npc/npc/11b6b93ba52/",
-                    "Area": "The Sea of Clouds (X:27.4 Y:13.6)"
-                }
-            ]
-        },
-        "Seq": 29,
-        "oldID": 67451,
-        "Map": {
-            "ID": 215
-        },
-        "StartDependency": false
-    },
-    {
-        "ID": "20c7de18782",
-        "Name": "An Awkward Situation",
-        "Location": "The Sea of Clouds",
-        "Level": 57,
-        "JournalSection": 3,
-        "JournalCategory": 44,
-        "JournalGenre": "Abalathian Sidequests",
-        "Url": "/lodestone/playguide/db/quest/20c7de18782/",
-        "Image": null,
-        "Icon": "common_normal",
-        "Issuer": "Zundu Sacrifice",
-        "StartLocation": {
-            "Name": "The Sea of Clouds",
-            "X": "17.7",
-            "Y": "17.6"
-        },
-        "StartClass": null,
-        "Job": "",
-        "Company": "Not specified",
-        "Requirement": "Not specified",
-        "Rewards": {
-            "Gil": 742,
-            "Exp": 38400,
-            "ItemsMand": [],
-            "ItemsOpt": []
-        },
-        "Infos": {
-            "PrerequisiteQuest": [
-                {
-                    "Name": "Bolt, Chain, and Island",
-                    "Url": "/lodestone/playguide/db/quest/a54bd372189/",
-                    "Area": "The Sea of Clouds",
-                    "Level": "57"
-                }
-            ],
-            "RelatedNPC": [
-                {
-                    "Name": "Aanu Vanu",
-                    "Url": "/lodestone/playguide/db/npc/npc/7d521699989/",
-                    "Area": "The Sea of Clouds (X:12.5 Y:14.4)"
-                }
-            ]
-        },
-        "Seq": 25,
-        "oldID": 67457,
-        "Map": {
-            "ID": 215
-        },
-        "StartDependency": false
-    },
-    {
-        "ID": "291348387d7",
-        "Name": "Nutritious and Delicious",
-        "Location": "The Sea of Clouds",
-        "Level": 57,
-        "JournalSection": 3,
-        "JournalCategory": 44,
-        "JournalGenre": "Abalathian Sidequests",
-        "Url": "/lodestone/playguide/db/quest/291348387d7/",
-        "Image": null,
-        "Icon": "common_normal",
-        "Issuer": "Conu Vanu",
-        "StartLocation": {
-            "Name": "The Sea of Clouds",
-            "X": "11.1",
-            "Y": "13.5"
-        },
-        "StartClass": null,
-        "Job": "",
-        "Company": "Not specified",
-        "Requirement": "Not specified",
-        "Rewards": {
-            "Gil": 564,
-            "Exp": 38400,
-            "ItemsMand": [],
-            "ItemsOpt": []
-        },
-        "Infos": {
-            "PrerequisiteQuest": [
-                {
-                    "Name": "Black and the White",
-                    "Url": "/lodestone/playguide/db/quest/563c24561fe/",
-                    "Area": "The Sea of Clouds",
-                    "Level": "57"
-                }
-            ]
-        },
-        "Seq": 16,
-        "oldID": 67443,
-        "Map": {
-            "ID": 215
-        },
-        "StartDependency": false
-    },
-    {
-        "ID": "2a0d5542429",
-        "Name": "The Feast Must Go On",
-        "Location": "The Sea of Clouds",
-        "Level": 57,
-        "JournalSection": 3,
-        "JournalCategory": 44,
-        "JournalGenre": "Abalathian Sidequests",
-        "Url": "/lodestone/playguide/db/quest/2a0d5542429/",
-        "Image": null,
-        "Icon": "common_normal",
-        "Issuer": "Hinu Vali",
-        "StartLocation": {
-            "Name": "The Sea of Clouds",
-            "X": "11.1",
-            "Y": "13.5"
-        },
-        "StartClass": null,
-        "Job": "",
-        "Company": "Not specified",
-        "Requirement": "Not specified",
-        "Rewards": {
-            "Gil": 564,
-            "Exp": 38400,
-            "ItemsMand": [],
-            "ItemsOpt": []
-        },
-        "Infos": {
-            "PrerequisiteQuest": [
-                {
-                    "Name": "Black and the White",
-                    "Url": "/lodestone/playguide/db/quest/563c24561fe/",
-                    "Area": "The Sea of Clouds",
-                    "Level": "57"
-                }
-            ]
-        },
-        "Seq": 17,
-        "oldID": 67444,
-        "Map": {
-            "ID": 215
-        },
-        "StartDependency": false
-    },
-    {
-        "ID": "2de1162d2dc",
-        "Name": "The Way of the Dodo",
-        "Location": "The Sea of Clouds",
-        "Level": 50,
-        "JournalSection": 3,
-        "JournalCategory": 44,
-        "JournalGenre": "Abalathian Sidequests",
-        "Url": "/lodestone/playguide/db/quest/2de1162d2dc/",
-        "Image": null,
-        "Icon": "common_normal",
-        "Issuer": "Caribault",
-        "StartLocation": {
-            "Name": "The Sea of Clouds",
-            "X": "9.3",
-            "Y": "35.0"
-        },
-        "StartClass": null,
-        "Job": "",
-        "Company": "Not specified",
-        "Requirement": "Not specified",
-        "Rewards": {
-            "Gil": 517,
-            "Exp": 24000,
-            "ItemsMand": [],
-            "ItemsOpt": []
-        },
-        "Infos": {
-            "PrerequisiteQuest": [
-                {
-                    "Name": "Coming to Ishgard",
-                    "Url": "/lodestone/playguide/db/quest/da4fd01f849/",
-                    "Area": "Intercessory",
-                    "Level": "50"
-                }
-            ]
-        },
-        "Seq": 12,
-        "oldID": 67274,
-        "Map": {
-            "ID": 215
-        },
-        "StartDependency": false
-    },
-    {
-        "ID": "2e181ce4208",
-        "Name": "A Cropper's Duty",
-        "Location": "The Sea of Clouds",
-        "Level": 56,
-        "JournalSection": 3,
-        "JournalCategory": 44,
-        "JournalGenre": "Abalathian Sidequests",
-        "Url": "/lodestone/playguide/db/quest/2e181ce4208/",
-        "Image": null,
-        "Icon": "common_normal",
-        "Issuer": "Caribault",
-        "StartLocation": {
-            "Name": "The Sea of Clouds",
-            "X": "9.3",
-            "Y": "35.0"
-        },
-        "StartClass": null,
-        "Job": "",
-        "Company": "Not specified",
-        "Requirement": "Not specified",
-        "Rewards": {
-            "Gil": 527,
-            "Exp": 36000,
-            "ItemsMand": [],
-            "ItemsOpt": []
-        },
-        "Infos": {
-            "PrerequisiteQuest": [
-                {
-                    "Name": "He Who Would Not Be Denied",
-                    "Url": "/lodestone/playguide/db/quest/502fe826ab0/",
-                    "Area": "Ishgard",
-                    "Level": "56"
-                },
-                {
-                    "Name": "Honoring the Past",
-                    "Url": "/lodestone/playguide/db/quest/675895e15c9/",
-                    "Area": "Ishgard",
-                    "Level": "56"
-                }
-            ]
-        },
-        "Seq": 15,
-        "oldID": 67438,
-        "Map": {
-            "ID": 215
-        },
-        "StartDependency": false
-    },
-    {
-        "ID": "34698be0632",
-        "Name": "Clipped Wings",
-        "Location": "The Sea of Clouds",
-        "Level": 50,
-        "JournalSection": 3,
-        "JournalCategory": 44,
-        "JournalGenre": "Abalathian Sidequests",
-        "Url": "/lodestone/playguide/db/quest/34698be0632/",
-        "Image": null,
-        "Icon": "function_normal",
-        "Issuer": "Laniaitte",
-        "StartLocation": {
-            "Name": "The Sea of Clouds",
-            "X": "17.0",
-            "Y": "37.3"
-        },
-        "StartClass": null,
-        "Job": "",
-        "Company": "Not specified",
-        "Requirement": "Not specified",
-        "Rewards": {
-            "Gil": 517,
-            "Exp": 24000,
-            "ItemsMand": [
-                {
-                    "Icon": "https://img.finalfantasyxiv.com/lds/pc/global/images/itemicon/af/af26e4b79fb1de83550f6ddbd3a170408fcfe702.png?n5.55",
-                    "Name": "",
-                    "Amount": null
-                }
-            ],
-            "ItemsOpt": []
-        },
-        "Infos": {
-            "PrerequisiteQuest": [
-                {
-                    "Name": "Disclosure",
-                    "Url": "/lodestone/playguide/db/quest/c30cb94ef47/",
-                    "Area": "Ishgard",
-                    "Level": "50"
+                    "Name": "Rowena",
+                    "Url": "/lodestone/playguide/db/npc/npc/5f16dc7f440/",
+                    "Area": "Mor Dhona (X:21.9 Y:4.9)"
                 }
             ]
         },
         "Seq": 2,
-        "oldID": 67284,
-        "Map": {
-            "ID": 215
-        },
         "StartDependency": false
     },
     {
-        "ID": "35d4cb04163",
-        "Name": "The Skies That Bind",
-        "Location": "The Sea of Clouds",
-        "Level": 59,
+        "ID": "0379f909f32",
+        "Name": "Not Easy Being Green",
+        "Location": "Mor Dhona",
+        "Level": 50,
         "JournalSection": 3,
         "JournalCategory": 44,
-        "JournalGenre": "Abalathian Sidequests",
-        "Url": "/lodestone/playguide/db/quest/35d4cb04163/",
-        "Image": "https://img.finalfantasyxiv.com/lds/pc/global/images/itemicon/b6/b634b02713c04db844bf6cedb24dbbc71781cc65.png?n5.55",
-        "Icon": "common_normal",
-        "Issuer": "Kupli Kuki",
-        "StartLocation": {
-            "Name": "The Sea of Clouds",
-            "X": "37.2",
-            "Y": "33.7"
-        },
-        "StartClass": null,
-        "Job": "",
-        "Company": "Not specified",
-        "Requirement": "Not specified",
-        "Rewards": {
-            "Gil": 1038,
-            "Exp": 43200,
-            "ItemsMand": [],
-            "ItemsOpt": []
-        },
-        "Infos": {
-            "PrerequisiteQuest": [
-                {
-                    "Name": "An Eye for Aether",
-                    "Url": "/lodestone/playguide/db/quest/17ec1e31564/",
-                    "Area": "Matoya's Cave",
-                    "Level": "59"
-                },
-                {
-                    "Name": "An Eggcellent Disguise",
-                    "Url": "/lodestone/playguide/db/quest/b1723b3ebab/",
-                    "Area": "The Sea of Clouds",
-                    "Level": "59"
-                }
-            ],
-            "FollowupQuest": [
-                {
-                    "Name": "A Moogle by Any Other Name",
-                    "Url": "/lodestone/playguide/db/quest/aa69859f72e/",
-                    "Area": "The Churning Mists",
-                    "Level": "59"
-                }
-            ],
-            "RelatedNPC": [
-                {
-                    "Name": "Moofy Moogle",
-                    "Url": "/lodestone/playguide/db/npc/npc/1630d348829/",
-                    "Area": "The Sea of Clouds (X:37.2 Y:33.7)"
-                },
-                {
-                    "Name": "Motioning Moogle",
-                    "Url": "/lodestone/playguide/db/npc/npc/a2453aa611a/",
-                    "Area": "The Sea of Clouds (X:37.2 Y:33.7)"
-                },
-                {
-                    "Name": "Moglin",
-                    "Url": "/lodestone/playguide/db/npc/npc/3f4711a3aeb/",
-                    "Area": "The Churning Mists (X:30.1 Y:36.5)"
-                },
-                {
-                    "Name": "Mogule",
-                    "Url": "/lodestone/playguide/db/npc/npc/5fe9d33dc61/",
-                    "Area": "The Churning Mists (X:29.4 Y:33.6)"
-                }
-            ]
-        },
-        "Seq": 34,
-        "oldID": 67513,
-        "Map": {
-            "ID": 215
-        },
-        "StartDependency": false
-    },
-    {
-        "ID": "5299aeff726",
-        "Name": "Sleepless in Ok' Zundu",
-        "Location": "The Sea of Clouds",
-        "Level": 57,
-        "JournalSection": 3,
-        "JournalCategory": 44,
-        "JournalGenre": "Abalathian Sidequests",
-        "Url": "/lodestone/playguide/db/quest/5299aeff726/",
-        "Image": null,
+        "JournalGenre": "Mor Dhonan Sidequests",
+        "Url": "/lodestone/playguide/db/quest/0379f909f32/",
+        "Image": "https://img.finalfantasyxiv.com/lds/pc/global/images/itemicon/d2/d20909938d07e83d4af169cbbe27dc0cae62d601.png?n6.05",
         "Icon": "function_normal",
-        "Issuer": "Ganu Vali",
+        "Issuer": "Bloezoeng",
         "StartLocation": {
-            "Name": "The Sea of Clouds",
-            "X": "9.6",
-            "Y": "14.2"
+            "Name": "Mor Dhona",
+            "X": "22.1",
+            "Y": "8.7"
         },
         "StartClass": null,
         "Job": "",
         "Company": "Not specified",
-        "Requirement": "Not specified",
+        "Requirement": "The Wanderer's Palace",
         "Rewards": {
-            "Gil": 684,
-            "Exp": 38400,
-            "ItemsMand": [
-                {
-                    "Icon": "https://img.finalfantasyxiv.com/lds/pc/global/images/itemicon/af/af26e4b79fb1de83550f6ddbd3a170408fcfe702.png?n5.55",
-                    "Name": "",
-                    "Amount": null
-                }
-            ],
-            "ItemsOpt": []
-        },
-        "Infos": {
-            "PrerequisiteQuest": [
-                {
-                    "Name": "Black and the White",
-                    "Url": "/lodestone/playguide/db/quest/563c24561fe/",
-                    "Area": "The Sea of Clouds",
-                    "Level": "57"
-                }
-            ]
-        },
-        "Seq": 18,
-        "oldID": 67445,
-        "Map": {
-            "ID": 215
-        },
-        "StartDependency": false
-    },
-    {
-        "ID": "657dba7d6d9",
-        "Name": "Not Free as a Bird",
-        "Location": "The Sea of Clouds",
-        "Level": 57,
-        "JournalSection": 3,
-        "JournalCategory": 44,
-        "JournalGenre": "Abalathian Sidequests",
-        "Url": "/lodestone/playguide/db/quest/657dba7d6d9/",
-        "Image": null,
-        "Icon": "common_normal",
-        "Issuer": "Captured Zundu Youth",
-        "StartLocation": {
-            "Name": "The Sea of Clouds",
-            "X": "31.3",
-            "Y": "13.8"
-        },
-        "StartClass": null,
-        "Job": "",
-        "Company": "Not specified",
-        "Requirement": "Not specified",
-        "Rewards": {
-            "Gil": 840,
-            "Exp": 38400,
-            "ItemsMand": [],
-            "ItemsOpt": []
-        },
-        "Infos": {
-            "PrerequisiteQuest": [
-                {
-                    "Name": "Bolt, Chain, and Island",
-                    "Url": "/lodestone/playguide/db/quest/a54bd372189/",
-                    "Area": "The Sea of Clouds",
-                    "Level": "57"
-                },
-                {
-                    "Name": "For Your Spies Only",
-                    "Url": "/lodestone/playguide/db/quest/a3f62f59b82/",
-                    "Area": "The Sea of Clouds",
-                    "Level": "57"
-                }
-            ],
-            "FollowupQuest": [
-                {
-                    "Name": "On Wings of Vanu",
-                    "Url": "/lodestone/playguide/db/quest/01c998ebeaf/",
-                    "Area": "The Sea of Clouds",
-                    "Level": "57"
-                }
-            ],
-            "RelatedNPC": [
-                {
-                    "Name": "Rescued Zundu Youth",
-                    "Url": "/lodestone/playguide/db/npc/npc/a98ac05aa36/",
-                    "Area": "The Sea of Clouds (X:12.3 Y:11.3)"
-                }
-            ]
-        },
-        "Seq": 23,
-        "oldID": 67455,
-        "Map": {
-            "ID": 215
-        },
-        "StartDependency": false
-    },
-    {
-        "ID": "680ec41d73e",
-        "Name": "Search and Rescue",
-        "Location": "The Sea of Clouds",
-        "Level": 56,
-        "JournalSection": 3,
-        "JournalCategory": 44,
-        "JournalGenre": "Abalathian Sidequests",
-        "Url": "/lodestone/playguide/db/quest/680ec41d73e/",
-        "Image": null,
-        "Icon": "common_normal",
-        "Issuer": "Laniaitte",
-        "StartLocation": {
-            "Name": "The Sea of Clouds",
-            "X": "17.0",
-            "Y": "37.3"
-        },
-        "StartClass": null,
-        "Job": "",
-        "Company": "Not specified",
-        "Requirement": "Not specified",
-        "Rewards": {
-            "Gil": 496,
-            "Exp": 36000,
-            "ItemsMand": [],
-            "ItemsOpt": []
-        },
-        "Infos": {
-            "PrerequisiteQuest": [
-                {
-                    "Name": "He Who Would Not Be Denied",
-                    "Url": "/lodestone/playguide/db/quest/502fe826ab0/",
-                    "Area": "Ishgard",
-                    "Level": "56"
-                },
-                {
-                    "Name": "Honoring the Past",
-                    "Url": "/lodestone/playguide/db/quest/675895e15c9/",
-                    "Area": "Ishgard",
-                    "Level": "56"
-                }
-            ],
-            "RelatedNPC": [
-                {
-                    "Name": "Rose Knight",
-                    "Url": "/lodestone/playguide/db/npc/npc/d56de1bf58c/",
-                    "Area": "The Sea of Clouds (X:24.9 Y:31.1)"
-                },
-                {
-                    "Name": "Rose Knight",
-                    "Url": "/lodestone/playguide/db/npc/npc/11d128f575f/",
-                    "Area": "The Sea of Clouds (X:24.6 Y:31.2)"
-                },
-                {
-                    "Name": "Rose Knight",
-                    "Url": "/lodestone/playguide/db/npc/npc/d9324b5c71a/",
-                    "Area": "The Sea of Clouds (X:24.9 Y:31.3)"
-                }
-            ]
-        },
-        "Seq": 14,
-        "oldID": 67437,
-        "Map": {
-            "ID": 215
-        },
-        "StartDependency": false
-    },
-    {
-        "ID": "80ea9905a75",
-        "Name": "Birds of a Feather",
-        "Location": "The Sea of Clouds",
-        "Level": 59,
-        "JournalSection": 3,
-        "JournalCategory": 44,
-        "JournalGenre": "Abalathian Sidequests",
-        "Url": "/lodestone/playguide/db/quest/80ea9905a75/",
-        "Image": "https://img.finalfantasyxiv.com/lds/pc/global/images/itemicon/b6/b634b02713c04db844bf6cedb24dbbc71781cc65.png?n5.55",
-        "Icon": "common_normal",
-        "Issuer": "Kupli Kuki",
-        "StartLocation": {
-            "Name": "The Sea of Clouds",
-            "X": "15.8",
-            "Y": "10.3"
-        },
-        "StartClass": null,
-        "Job": "",
-        "Company": "Not specified",
-        "Requirement": "Not specified",
-        "Rewards": {
-            "Gil": 577,
-            "Exp": 43200,
-            "ItemsMand": [],
-            "ItemsOpt": []
-        },
-        "Infos": {
-            "PrerequisiteQuest": [
-                {
-                    "Name": "An Eye for Aether",
-                    "Url": "/lodestone/playguide/db/quest/17ec1e31564/",
-                    "Area": "Matoya's Cave",
-                    "Level": "59"
-                },
-                {
-                    "Name": "A Tale of Two Moogles",
-                    "Url": "/lodestone/playguide/db/quest/80f464e48af/",
-                    "Area": "The Sea of Clouds",
-                    "Level": "59"
-                }
-            ],
-            "FollowupQuest": [
-                {
-                    "Name": "An Eggcellent Disguise",
-                    "Url": "/lodestone/playguide/db/quest/b1723b3ebab/",
-                    "Area": "The Sea of Clouds",
-                    "Level": "59"
-                }
-            ],
-            "RelatedNPC": [
-                {
-                    "Name": "Kupli Kuki",
-                    "Url": "/lodestone/playguide/db/npc/npc/1dcb62cf32e/",
-                    "Area": "The Sea of Clouds (X:35.3 Y:8.2)"
-                },
-                {
-                    "Name": "Moofy Moogle",
-                    "Url": "/lodestone/playguide/db/npc/npc/98904cb98e7/",
-                    "Area": "The Sea of Clouds (X:15.8 Y:10.3)"
-                },
-                {
-                    "Name": "Moofy Moogle",
-                    "Url": "/lodestone/playguide/db/npc/npc/3795b466a07/",
-                    "Area": "The Sea of Clouds (X:35.3 Y:8.2)"
-                }
-            ]
-        },
-        "Seq": 32,
-        "oldID": 67511,
-        "Map": {
-            "ID": 215
-        },
-        "StartDependency": false
-    },
-    {
-        "ID": "80f464e48af",
-        "Name": "A Tale of Two Moogles",
-        "Location": "The Sea of Clouds",
-        "Level": 59,
-        "JournalSection": 3,
-        "JournalCategory": 44,
-        "JournalGenre": "Abalathian Sidequests",
-        "Url": "/lodestone/playguide/db/quest/80f464e48af/",
-        "Image": "https://img.finalfantasyxiv.com/lds/pc/global/images/itemicon/b6/b634b02713c04db844bf6cedb24dbbc71781cc65.png?n5.55",
-        "Icon": "common_normal",
-        "Issuer": "Kupli Kuki",
-        "StartLocation": {
-            "Name": "The Sea of Clouds",
-            "X": "15.8",
-            "Y": "10.3"
-        },
-        "StartClass": null,
-        "Job": "",
-        "Company": "Not specified",
-        "Requirement": "Not specified",
-        "Rewards": {
-            "Gil": 545,
-            "Exp": 43200,
-            "ItemsMand": [],
-            "ItemsOpt": []
-        },
-        "Infos": {
-            "PrerequisiteQuest": [
-                {
-                    "Name": "An Eye for Aether",
-                    "Url": "/lodestone/playguide/db/quest/17ec1e31564/",
-                    "Area": "Matoya's Cave",
-                    "Level": "59"
-                },
-                {
-                    "Name": "Classic Misdirection",
-                    "Url": "/lodestone/playguide/db/quest/c6ecce544ce/",
-                    "Area": "The Churning Mists",
-                    "Level": "59"
-                }
-            ],
-            "FollowupQuest": [
-                {
-                    "Name": "Birds of a Feather",
-                    "Url": "/lodestone/playguide/db/quest/80ea9905a75/",
-                    "Area": "The Sea of Clouds",
-                    "Level": "59"
-                }
-            ],
-            "RelatedNPC": [
-                {
-                    "Name": "Moofy Moogle",
-                    "Url": "/lodestone/playguide/db/npc/npc/a5537f50c67/",
-                    "Area": "The Sea of Clouds (X:26.6 Y:7.0)"
-                },
-                {
-                    "Name": "Moofy Moogle",
-                    "Url": "/lodestone/playguide/db/npc/npc/98904cb98e7/",
-                    "Area": "The Sea of Clouds (X:15.8 Y:10.3)"
-                }
-            ]
-        },
-        "Seq": 31,
-        "oldID": 67510,
-        "Map": {
-            "ID": 215
-        },
-        "StartDependency": false
-    },
-    {
-        "ID": "855769abe34",
-        "Name": "Returning What's Ours",
-        "Location": "The Sea of Clouds",
-        "Level": 57,
-        "JournalSection": 3,
-        "JournalCategory": 44,
-        "JournalGenre": "Abalathian Sidequests",
-        "Url": "/lodestone/playguide/db/quest/855769abe34/",
-        "Image": null,
-        "Icon": "common_normal",
-        "Issuer": "Hinu Vali",
-        "StartLocation": {
-            "Name": "The Sea of Clouds",
-            "X": "11.1",
-            "Y": "13.5"
-        },
-        "StartClass": null,
-        "Job": "",
-        "Company": "Not specified",
-        "Requirement": "Not specified",
-        "Rewards": {
-            "Gil": 622,
-            "Exp": 38400,
-            "ItemsMand": [
-                {
-                    "Icon": "https://img.finalfantasyxiv.com/lds/pc/global/images/itemicon/60/606b393d7113c4a3c6980dcac15d90d18ffc0222.png?n5.55",
-                    "Name": "Glamour Prism",
-                    "Amount": 5,
-                    "Url": "/lodestone/playguide/db/item/58886c8cb88/"
-                }
-            ],
-            "ItemsOpt": []
-        },
-        "Infos": {
-            "PrerequisiteQuest": [
-                {
-                    "Name": "Bolt, Chain, and Island",
-                    "Url": "/lodestone/playguide/db/quest/a54bd372189/",
-                    "Area": "The Sea of Clouds",
-                    "Level": "57"
-                }
-            ]
-        },
-        "Seq": 19,
-        "oldID": 67448,
-        "Map": {
-            "ID": 215
-        },
-        "StartDependency": false
-    },
-    {
-        "ID": "8a53f8711ce",
-        "Name": "Made to Order",
-        "Location": "The Sea of Clouds",
-        "Level": 50,
-        "JournalSection": 3,
-        "JournalCategory": 44,
-        "JournalGenre": "Abalathian Sidequests",
-        "Url": "/lodestone/playguide/db/quest/8a53f8711ce/",
-        "Image": null,
-        "Icon": "common_normal",
-        "Issuer": "Rose Knight Cook",
-        "StartLocation": {
-            "Name": "The Sea of Clouds",
-            "X": "17.5",
-            "Y": "37.4"
-        },
-        "StartClass": null,
-        "Job": "",
-        "Company": "Not specified",
-        "Requirement": "Not specified",
-        "Rewards": {
-            "Gil": 433,
-            "Exp": 24000,
-            "ItemsMand": [],
-            "ItemsOpt": [
-                {
-                    "Icon": "https://img.finalfantasyxiv.com/lds/pc/global/images/itemicon/09/09570b3c3c46b1e8a52e8475c5b16cbcca432d97.png?n5.55",
-                    "Name": "Eft Steak",
-                    "Amount": 3,
-                    "Url": "/lodestone/playguide/db/item/3a8e51ad61f/"
-                },
-                {
-                    "Icon": "https://img.finalfantasyxiv.com/lds/pc/global/images/itemicon/72/72b57850dc26f184e59b08415ed63e6319f576de.png?n5.55",
-                    "Name": "Buttons in a Blanket",
-                    "Amount": 3,
-                    "Url": "/lodestone/playguide/db/item/b85a5db91c8/"
-                },
-                {
-                    "Icon": "https://img.finalfantasyxiv.com/lds/pc/global/images/itemicon/da/da7216f73b0cc772e8f68f3feaf7d20bffa3f095.png?n5.55",
-                    "Name": "Mulled Tea",
-                    "Amount": 3,
-                    "Url": "/lodestone/playguide/db/item/e979df3a51d/"
-                }
-            ]
-        },
-        "Infos": {
-            "PrerequisiteQuest": [
-                {
-                    "Name": "Meeting the Neighbors",
-                    "Url": "/lodestone/playguide/db/quest/6e8692318d9/",
-                    "Area": "The Sea of Clouds",
-                    "Level": "50"
-                }
-            ],
-            "RelatedNPC": [
-                {
-                    "Name": "Gildon",
-                    "Url": "/lodestone/playguide/db/npc/npc/86d882da4a4/",
-                    "Area": "The Sea of Clouds (X:15.6 Y:39.2)"
-                },
-                {
-                    "Name": "Laniaitte",
-                    "Url": "/lodestone/playguide/db/npc/npc/eceacc0b266/",
-                    "Area": "The Sea of Clouds (X:17.0 Y:37.3)"
-                },
-                {
-                    "Name": "Marielle",
-                    "Url": "/lodestone/playguide/db/npc/npc/5badaea7330/",
-                    "Area": "The Sea of Clouds (X:15.3 Y:37.7)"
-                }
-            ]
-        },
-        "Seq": 1,
-        "oldID": 67275,
-        "Map": {
-            "ID": 215
-        },
-        "StartDependency": false
-    },
-    {
-        "ID": "8aa5aa4596a",
-        "Name": "A Tall Order to Fill",
-        "Location": "The Sea of Clouds",
-        "Level": 56,
-        "JournalSection": 3,
-        "JournalCategory": 44,
-        "JournalGenre": "Abalathian Sidequests",
-        "Url": "/lodestone/playguide/db/quest/8aa5aa4596a/",
-        "Image": null,
-        "Icon": "common_normal",
-        "Issuer": "Gildon",
-        "StartLocation": {
-            "Name": "The Sea of Clouds",
-            "X": "15.6",
-            "Y": "39.2"
-        },
-        "StartClass": null,
-        "Job": "",
-        "Company": "Not specified",
-        "Requirement": "Not specified",
-        "Rewards": {
-            "Gil": 496,
-            "Exp": 36000,
-            "ItemsMand": [],
-            "ItemsOpt": []
-        },
-        "Infos": {
-            "PrerequisiteQuest": [
-                {
-                    "Name": "He Who Would Not Be Denied",
-                    "Url": "/lodestone/playguide/db/quest/502fe826ab0/",
-                    "Area": "Ishgard",
-                    "Level": "56"
-                },
-                {
-                    "Name": "Honoring the Past",
-                    "Url": "/lodestone/playguide/db/quest/675895e15c9/",
-                    "Area": "Ishgard",
-                    "Level": "56"
-                },
-                {
-                    "Name": "Crying over Spilled Food",
-                    "Url": "/lodestone/playguide/db/quest/ef8cb27278d/",
-                    "Area": "The Sea of Clouds",
-                    "Level": "56"
-                }
-            ]
-        },
-        "Seq": 11,
-        "oldID": 67440,
-        "Map": {
-            "ID": 215
-        },
-        "StartDependency": false
-    },
-    {
-        "ID": "a3f62f59b82",
-        "Name": "For Your Spies Only",
-        "Location": "The Sea of Clouds",
-        "Level": 57,
-        "JournalSection": 3,
-        "JournalCategory": 44,
-        "JournalGenre": "Abalathian Sidequests",
-        "Url": "/lodestone/playguide/db/quest/a3f62f59b82/",
-        "Image": null,
-        "Icon": "common_normal",
-        "Issuer": "Zundu Intelligencer",
-        "StartLocation": {
-            "Name": "The Sea of Clouds",
-            "X": "23.0",
-            "Y": "19.8"
-        },
-        "StartClass": null,
-        "Job": "",
-        "Company": "Not specified",
-        "Requirement": "Not specified",
-        "Rewards": {
-            "Gil": 622,
-            "Exp": 38400,
-            "ItemsMand": [],
-            "ItemsOpt": []
-        },
-        "Infos": {
-            "PrerequisiteQuest": [
-                {
-                    "Name": "Bolt, Chain, and Island",
-                    "Url": "/lodestone/playguide/db/quest/a54bd372189/",
-                    "Area": "The Sea of Clouds",
-                    "Level": "57"
-                }
-            ],
-            "FollowupQuest": [
-                {
-                    "Name": "Not Free as a Bird",
-                    "Url": "/lodestone/playguide/db/quest/657dba7d6d9/",
-                    "Area": "The Sea of Clouds",
-                    "Level": "57"
-                }
-            ],
-            "RelatedNPC": [
-                {
-                    "Name": "Hidden Zundu Youth",
-                    "Url": "/lodestone/playguide/db/npc/npc/3d63e4ecd9e/",
-                    "Area": "The Sea of Clouds (X:27.3 Y:24.9)"
-                },
-                {
-                    "Name": "Hidden Zundu Youth",
-                    "Url": "/lodestone/playguide/db/npc/npc/6090eb9eebd/",
-                    "Area": "The Sea of Clouds (X:20.3 Y:14.6)"
-                },
-                {
-                    "Name": "Hidden Zundu Youth",
-                    "Url": "/lodestone/playguide/db/npc/npc/5f1718c19af/",
-                    "Area": "The Sea of Clouds (X:27.0 Y:21.6)"
-                },
-                {
-                    "Name": "Sonu Vanu",
-                    "Url": "/lodestone/playguide/db/npc/npc/86fa51a3d8e/",
-                    "Area": "The Sea of Clouds (X:11.7 Y:14.8)"
-                }
-            ]
-        },
-        "Seq": 22,
-        "oldID": 67456,
-        "Map": {
-            "ID": 215
-        },
-        "StartDependency": false
-    },
-    {
-        "ID": "aa2e3045686",
-        "Name": "Dragons in the Mist",
-        "Location": "The Sea of Clouds",
-        "Level": 50,
-        "JournalSection": 3,
-        "JournalCategory": 44,
-        "JournalGenre": "Abalathian Sidequests",
-        "Url": "/lodestone/playguide/db/quest/aa2e3045686/",
-        "Image": "https://img.finalfantasyxiv.com/lds/pc/global/images/itemicon/3f/3fc2887b990cd4cd50ab9fd9216b2460932e898c.png?n5.55",
-        "Icon": "common_normal",
-        "Issuer": "Gildon",
-        "StartLocation": {
-            "Name": "The Sea of Clouds",
-            "X": "15.6",
-            "Y": "39.2"
-        },
-        "StartClass": null,
-        "Job": "",
-        "Company": "Not specified",
-        "Requirement": "Not specified",
-        "Rewards": {
-            "Gil": 574,
-            "Exp": 24000,
-            "ItemsMand": [],
-            "ItemsOpt": [
-                {
-                    "Icon": "https://img.finalfantasyxiv.com/lds/pc/global/images/itemicon/4c/4c1bc19cca1e8074cdfb3898c3e7e91c76c892b4.png?n5.55",
-                    "Name": "Mythrite Earrings of Fending",
-                    "Amount": 1,
-                    "Url": "/lodestone/playguide/db/item/e6573ea0474/?hq=1"
-                },
-                {
-                    "Icon": "https://img.finalfantasyxiv.com/lds/pc/global/images/itemicon/4c/4c1bc19cca1e8074cdfb3898c3e7e91c76c892b4.png?n5.55",
-                    "Name": "Mythrite Earrings of Slaying",
-                    "Amount": 1,
-                    "Url": "/lodestone/playguide/db/item/7898343ff58/?hq=1"
-                },
-                {
-                    "Icon": "https://img.finalfantasyxiv.com/lds/pc/global/images/itemicon/4c/4c1bc19cca1e8074cdfb3898c3e7e91c76c892b4.png?n5.55",
-                    "Name": "Mythrite Earrings of Aiming",
-                    "Amount": 1,
-                    "Url": "/lodestone/playguide/db/item/aa65bcb61ad/?hq=1"
-                },
-                {
-                    "Icon": "https://img.finalfantasyxiv.com/lds/pc/global/images/itemicon/4c/4c1bc19cca1e8074cdfb3898c3e7e91c76c892b4.png?n5.55",
-                    "Name": "Mythrite Earrings of Healing",
-                    "Amount": 1,
-                    "Url": "/lodestone/playguide/db/item/5f573003830/?hq=1"
-                },
-                {
-                    "Icon": "https://img.finalfantasyxiv.com/lds/pc/global/images/itemicon/4c/4c1bc19cca1e8074cdfb3898c3e7e91c76c892b4.png?n5.55",
-                    "Name": "Mythrite Earrings of Casting",
-                    "Amount": 1,
-                    "Url": "/lodestone/playguide/db/item/d997c096906/?hq=1"
-                }
-            ]
-        },
-        "Infos": {
-            "PrerequisiteQuest": [
-                {
-                    "Name": "Onwards and Upwards",
-                    "Url": "/lodestone/playguide/db/quest/bc979e21d1c/",
-                    "Area": "Fortemps Manor",
-                    "Level": "50"
-                },
-                {
-                    "Name": "Bargaining Chip",
-                    "Url": "/lodestone/playguide/db/quest/b0a8ae85193/",
-                    "Area": "The Sea of Clouds",
-                    "Level": "50"
-                }
-            ],
-            "FollowupQuest": [
-                {
-                    "Name": "Unclear Motives",
-                    "Url": "/lodestone/playguide/db/quest/d3adf8c7f26/",
-                    "Area": "The Sea of Clouds",
-                    "Level": "50"
-                }
-            ],
-            "RelatedNPC": [
-                {
-                    "Name": "Caribault",
-                    "Url": "/lodestone/playguide/db/npc/npc/7dcf222383b/",
-                    "Area": "The Sea of Clouds (X:9.3 Y:35.0)"
-                },
-                {
-                    "Name": "Harmiette",
-                    "Url": "/lodestone/playguide/db/npc/npc/333abc0f493/",
-                    "Area": "The Sea of Clouds (X:10.5 Y:33.7)"
-                },
-                {
-                    "Name": "Jauminfrest",
-                    "Url": "/lodestone/playguide/db/npc/npc/0c905edd5a6/",
-                    "Area": "The Sea of Clouds (X:8.0 Y:32.2)"
-                },
-                {
-                    "Name": "Vanu Scout",
-                    "Url": "/lodestone/playguide/db/npc/npc/a7dbc6f1a38/",
-                    "Area": "The Sea of Clouds (X:19.9 Y:32.8)"
-                }
-            ]
-        },
-        "Seq": 4,
-        "oldID": 67277,
-        "Map": {
-            "ID": 215
-        },
-        "StartDependency": false
-    },
-    {
-        "ID": "b0a8ae85193",
-        "Name": "Bargaining Chip",
-        "Location": "The Sea of Clouds",
-        "Level": 50,
-        "JournalSection": 3,
-        "JournalCategory": 44,
-        "JournalGenre": "Abalathian Sidequests",
-        "Url": "/lodestone/playguide/db/quest/b0a8ae85193/",
-        "Image": "https://img.finalfantasyxiv.com/lds/pc/global/images/itemicon/3f/3fc2887b990cd4cd50ab9fd9216b2460932e898c.png?n5.55",
-        "Icon": "common_normal",
-        "Issuer": "Gildon",
-        "StartLocation": {
-            "Name": "The Sea of Clouds",
-            "X": "15.6",
-            "Y": "39.2"
-        },
-        "StartClass": null,
-        "Job": "",
-        "Company": "Not specified",
-        "Requirement": "Not specified",
-        "Rewards": {
-            "Gil": 517,
-            "Exp": 24000,
-            "ItemsMand": [],
-            "ItemsOpt": []
-        },
-        "Infos": {
-            "PrerequisiteQuest": [
-                {
-                    "Name": "Onwards and Upwards",
-                    "Url": "/lodestone/playguide/db/quest/bc979e21d1c/",
-                    "Area": "Fortemps Manor",
-                    "Level": "50"
-                }
-            ],
-            "FollowupQuest": [
-                {
-                    "Name": "Dragons in the Mist",
-                    "Url": "/lodestone/playguide/db/quest/aa2e3045686/",
-                    "Area": "The Sea of Clouds",
-                    "Level": "50"
-                }
-            ],
-            "RelatedNPC": [
-                {
-                    "Name": "Fabrellet",
-                    "Url": "/lodestone/playguide/db/npc/npc/864646bd557/",
-                    "Area": "The Sea of Clouds (X:9.7 Y:31.9)"
-                }
-            ]
-        },
-        "Seq": 3,
-        "oldID": 67276,
-        "Map": {
-            "ID": 215
-        },
-        "StartDependency": false
-    },
-    {
-        "ID": "b1723b3ebab",
-        "Name": "An Eggcellent Disguise",
-        "Location": "The Sea of Clouds",
-        "Level": 59,
-        "JournalSection": 3,
-        "JournalCategory": 44,
-        "JournalGenre": "Abalathian Sidequests",
-        "Url": "/lodestone/playguide/db/quest/b1723b3ebab/",
-        "Image": "https://img.finalfantasyxiv.com/lds/pc/global/images/itemicon/b6/b634b02713c04db844bf6cedb24dbbc71781cc65.png?n5.55",
-        "Icon": "common_normal",
-        "Issuer": "Kupli Kuki",
-        "StartLocation": {
-            "Name": "The Sea of Clouds",
-            "X": "35.3",
-            "Y": "8.2"
-        },
-        "StartClass": null,
-        "Job": "",
-        "Company": "Not specified",
-        "Requirement": "Not specified",
-        "Rewards": {
-            "Gil": 609,
-            "Exp": 43200,
-            "ItemsMand": [],
-            "ItemsOpt": []
-        },
-        "Infos": {
-            "PrerequisiteQuest": [
-                {
-                    "Name": "An Eye for Aether",
-                    "Url": "/lodestone/playguide/db/quest/17ec1e31564/",
-                    "Area": "Matoya's Cave",
-                    "Level": "59"
-                },
-                {
-                    "Name": "Birds of a Feather",
-                    "Url": "/lodestone/playguide/db/quest/80ea9905a75/",
-                    "Area": "The Sea of Clouds",
-                    "Level": "59"
-                }
-            ],
-            "FollowupQuest": [
-                {
-                    "Name": "The Skies That Bind",
-                    "Url": "/lodestone/playguide/db/quest/35d4cb04163/",
-                    "Area": "The Sea of Clouds",
-                    "Level": "59"
-                }
-            ],
-            "RelatedNPC": [
-                {
-                    "Name": "Kupli Kuki",
-                    "Url": "/lodestone/playguide/db/npc/npc/24584963646/",
-                    "Area": "The Sea of Clouds (X:37.2 Y:33.7)"
-                },
-                {
-                    "Name": "Moofy Moogle",
-                    "Url": "/lodestone/playguide/db/npc/npc/3795b466a07/",
-                    "Area": "The Sea of Clouds (X:35.3 Y:8.2)"
-                },
-                {
-                    "Name": "Moofy Moogle",
-                    "Url": "/lodestone/playguide/db/npc/npc/1630d348829/",
-                    "Area": "The Sea of Clouds (X:37.2 Y:33.7)"
-                },
-                {
-                    "Name": "Motioning Moogle",
-                    "Url": "/lodestone/playguide/db/npc/npc/a2453aa611a/",
-                    "Area": "The Sea of Clouds (X:37.2 Y:33.7)"
-                },
-                {
-                    "Name": "Motioning Moogle",
-                    "Url": "/lodestone/playguide/db/npc/npc/41aced17c08/",
-                    "Area": "The Sea of Clouds (X:35.5 Y:35.6)"
-                }
-            ]
-        },
-        "Seq": 33,
-        "oldID": 67512,
-        "Map": {
-            "ID": 215
-        },
-        "StartDependency": false
-    },
-    {
-        "ID": "bc06a070806",
-        "Name": "Hatching Ideas",
-        "Location": "The Sea of Clouds",
-        "Level": 56,
-        "JournalSection": 3,
-        "JournalCategory": 44,
-        "JournalGenre": "Abalathian Sidequests",
-        "Url": "/lodestone/playguide/db/quest/bc06a070806/",
-        "Image": null,
-        "Icon": "common_normal",
-        "Issuer": "Fabrellet",
-        "StartLocation": {
-            "Name": "The Sea of Clouds",
-            "X": "9.7",
-            "Y": "31.9"
-        },
-        "StartClass": null,
-        "Job": "",
-        "Company": "Not specified",
-        "Requirement": "Not specified",
-        "Rewards": {
-            "Gil": 596,
-            "Exp": 36000,
-            "ItemsMand": [],
-            "ItemsOpt": []
-        },
-        "Infos": {
-            "PrerequisiteQuest": [
-                {
-                    "Name": "He Who Would Not Be Denied",
-                    "Url": "/lodestone/playguide/db/quest/502fe826ab0/",
-                    "Area": "Ishgard",
-                    "Level": "56"
-                },
-                {
-                    "Name": "Honoring the Past",
-                    "Url": "/lodestone/playguide/db/quest/675895e15c9/",
-                    "Area": "Ishgard",
-                    "Level": "56"
-                },
-                {
-                    "Name": "Beefing Up the Reserves",
-                    "Url": "/lodestone/playguide/db/quest/d1fa1a7aabe/",
-                    "Area": "The Sea of Clouds",
-                    "Level": "56"
-                }
-            ]
-        },
-        "Seq": 13,
-        "oldID": 67439,
-        "Map": {
-            "ID": 215
-        },
-        "StartDependency": false
-    },
-    {
-        "ID": "bee640fa8b7",
-        "Name": "A Hasty Recovery",
-        "Location": "The Sea of Clouds",
-        "Level": 51,
-        "JournalSection": 3,
-        "JournalCategory": 44,
-        "JournalGenre": "Abalathian Sidequests",
-        "Url": "/lodestone/playguide/db/quest/bee640fa8b7/",
-        "Image": null,
-        "Icon": "common_normal",
-        "Issuer": "Terremiaux",
-        "StartLocation": {
-            "Name": "The Sea of Clouds",
-            "X": "37.9",
-            "Y": "24.2"
-        },
-        "StartClass": null,
-        "Job": "",
-        "Company": "Not specified",
-        "Requirement": "Not specified",
-        "Rewards": {
-            "Gil": 496,
-            "Exp": 25200,
-            "ItemsMand": [],
-            "ItemsOpt": []
-        },
-        "Infos": {
-            "PrerequisiteQuest": [
-                {
-                    "Name": "Alphinaud's Way",
-                    "Url": "/lodestone/playguide/db/quest/77cb6c15d41/",
-                    "Area": "Fortemps Manor",
-                    "Level": "51"
-                },
-                {
-                    "Name": "Calling Back the Troops",
-                    "Url": "/lodestone/playguide/db/quest/1aa2e50c5ce/",
-                    "Area": "The Sea of Clouds",
-                    "Level": "51"
-                }
-            ],
-            "RelatedNPC": [
-                {
-                    "Name": "Laniaitte",
-                    "Url": "/lodestone/playguide/db/npc/npc/eceacc0b266/",
-                    "Area": "The Sea of Clouds (X:17.0 Y:37.3)"
-                },
-                {
-                    "Name": "Rose Knight",
-                    "Url": "/lodestone/playguide/db/npc/npc/5f70c1706d8/",
-                    "Area": "The Sea of Clouds (X:34.0 Y:27.1)"
-                },
-                {
-                    "Name": "Rose Knight",
-                    "Url": "/lodestone/playguide/db/npc/npc/6455d43266a/",
-                    "Area": "The Sea of Clouds (X:34.0 Y:27.1)"
-                },
-                {
-                    "Name": "Rose Knight",
-                    "Url": "/lodestone/playguide/db/npc/npc/5b3f58bdc72/",
-                    "Area": "The Sea of Clouds (X:34.0 Y:27.1)"
-                },
-                {
-                    "Name": "Terremiaux",
-                    "Url": "/lodestone/playguide/db/npc/npc/82a832005a6/",
-                    "Area": "The Sea of Clouds (X:34.1 Y:27.2)"
-                },
-                {
-                    "Name": "Wounded Knight",
-                    "Url": "/lodestone/playguide/db/npc/npc/1f7b7bf8167/",
-                    "Area": "The Sea of Clouds (X:34.0 Y:27.2)"
-                }
-            ]
-        },
-        "Seq": 9,
-        "oldID": 67294,
-        "Map": {
-            "ID": 215
-        },
-        "StartDependency": false
-    },
-    {
-        "ID": "c2b6ca2a319",
-        "Name": "Behind Enemy Lines",
-        "Location": "The Sea of Clouds",
-        "Level": 51,
-        "JournalSection": 3,
-        "JournalCategory": 44,
-        "JournalGenre": "Abalathian Sidequests",
-        "Url": "/lodestone/playguide/db/quest/c2b6ca2a319/",
-        "Image": null,
-        "Icon": "common_normal",
-        "Issuer": "Laniaitte",
-        "StartLocation": {
-            "Name": "The Sea of Clouds",
-            "X": "17.0",
-            "Y": "37.3"
-        },
-        "StartClass": null,
-        "Job": "",
-        "Company": "Not specified",
-        "Requirement": "Not specified",
-        "Rewards": {
-            "Gil": 467,
-            "Exp": 25200,
-            "ItemsMand": [],
-            "ItemsOpt": []
-        },
-        "Infos": {
-            "PrerequisiteQuest": [
-                {
-                    "Name": "Alphinaud's Way",
-                    "Url": "/lodestone/playguide/db/quest/77cb6c15d41/",
-                    "Area": "Fortemps Manor",
-                    "Level": "51"
-                }
-            ],
-            "FollowupQuest": [
-                {
-                    "Name": "Calling Back the Troops",
-                    "Url": "/lodestone/playguide/db/quest/1aa2e50c5ce/",
-                    "Area": "The Sea of Clouds",
-                    "Level": "51"
-                }
-            ],
-            "RelatedNPC": [
-                {
-                    "Name": "Terremiaux",
-                    "Url": "/lodestone/playguide/db/npc/npc/cb11355dfc7/",
-                    "Area": "The Sea of Clouds (X:37.9 Y:24.2)"
-                },
-                {
-                    "Name": "Wounded Knight",
-                    "Url": "/lodestone/playguide/db/npc/npc/1f7b7bf8167/",
-                    "Area": "The Sea of Clouds (X:34.0 Y:27.2)"
-                }
-            ]
-        },
-        "Seq": 7,
-        "oldID": 67291,
-        "Map": {
-            "ID": 215
-        },
-        "StartDependency": false
-    },
-    {
-        "ID": "d1fa1a7aabe",
-        "Name": "Beefing Up the Reserves",
-        "Location": "The Sea of Clouds",
-        "Level": 56,
-        "JournalSection": 3,
-        "JournalCategory": 44,
-        "JournalGenre": "Abalathian Sidequests",
-        "Url": "/lodestone/playguide/db/quest/d1fa1a7aabe/",
-        "Image": null,
-        "Icon": "common_normal",
-        "Issuer": "Fabrellet",
-        "StartLocation": {
-            "Name": "The Sea of Clouds",
-            "X": "9.7",
-            "Y": "31.9"
-        },
-        "StartClass": null,
-        "Job": "",
-        "Company": "Not specified",
-        "Requirement": "Not specified",
-        "Rewards": {
-            "Gil": 527,
-            "Exp": 36000,
-            "ItemsMand": [],
-            "ItemsOpt": []
-        },
-        "Infos": {
-            "PrerequisiteQuest": [
-                {
-                    "Name": "He Who Would Not Be Denied",
-                    "Url": "/lodestone/playguide/db/quest/502fe826ab0/",
-                    "Area": "Ishgard",
-                    "Level": "56"
-                },
-                {
-                    "Name": "Honoring the Past",
-                    "Url": "/lodestone/playguide/db/quest/675895e15c9/",
-                    "Area": "Ishgard",
-                    "Level": "56"
-                }
-            ],
-            "FollowupQuest": [
-                {
-                    "Name": "Hatching Ideas",
-                    "Url": "/lodestone/playguide/db/quest/bc06a070806/",
-                    "Area": "The Sea of Clouds",
-                    "Level": "56"
-                }
-            ]
-        },
-        "Seq": 12,
-        "oldID": 67436,
-        "Map": {
-            "ID": 215
-        },
-        "StartDependency": false
-    },
-    {
-        "ID": "d3adf8c7f26",
-        "Name": "Unclear Motives",
-        "Location": "The Sea of Clouds",
-        "Level": 50,
-        "JournalSection": 3,
-        "JournalCategory": 44,
-        "JournalGenre": "Abalathian Sidequests",
-        "Url": "/lodestone/playguide/db/quest/d3adf8c7f26/",
-        "Image": "https://img.finalfantasyxiv.com/lds/pc/global/images/itemicon/3f/3fc2887b990cd4cd50ab9fd9216b2460932e898c.png?n5.55",
-        "Icon": "common_normal",
-        "Issuer": "Gildon",
-        "StartLocation": {
-            "Name": "The Sea of Clouds",
-            "X": "15.6",
-            "Y": "39.2"
-        },
-        "StartClass": null,
-        "Job": "",
-        "Company": "Not specified",
-        "Requirement": "Not specified",
-        "Rewards": {
-            "Gil": 517,
-            "Exp": 24000,
-            "ItemsMand": [],
-            "ItemsOpt": [
-                {
-                    "Icon": "https://img.finalfantasyxiv.com/lds/pc/global/images/itemicon/d8/d80669c37a12b3faf3e58c08920bd8a2c8e6fdd8.png?n5.55",
-                    "Name": "Beef Stew",
-                    "Amount": 3,
-                    "Url": "/lodestone/playguide/db/item/265818d4531/"
-                },
-                {
-                    "Icon": "https://img.finalfantasyxiv.com/lds/pc/global/images/itemicon/e2/e29a5a675e98e74024ac3f3b03abb7d112ad1c7d.png?n5.55",
-                    "Name": "Popoto Pancakes",
-                    "Amount": 3,
-                    "Url": "/lodestone/playguide/db/item/5310374fa2e/"
-                },
-                {
-                    "Icon": "https://img.finalfantasyxiv.com/lds/pc/global/images/itemicon/a9/a96e8a6bc0d00f22df8e3de6c1130ebb0cd75366.png?n5.55",
-                    "Name": "Apple Juice",
-                    "Amount": 3,
-                    "Url": "/lodestone/playguide/db/item/3cc6d9ce0b6/"
-                }
-            ]
-        },
-        "Infos": {
-            "PrerequisiteQuest": [
-                {
-                    "Name": "Disclosure",
-                    "Url": "/lodestone/playguide/db/quest/c30cb94ef47/",
-                    "Area": "Ishgard",
-                    "Level": "50"
-                },
-                {
-                    "Name": "Dragons in the Mist",
-                    "Url": "/lodestone/playguide/db/quest/aa2e3045686/",
-                    "Area": "The Sea of Clouds",
-                    "Level": "50"
-                }
-            ],
-            "FollowupQuest": [
-                {
-                    "Name": "Featherbrained Schemes",
-                    "Url": "/lodestone/playguide/db/quest/f02aa875df0/",
-                    "Area": "The Sea of Clouds",
-                    "Level": "51"
-                }
-            ],
-            "RelatedNPC": [
-                {
-                    "Name": "Vanu Scout",
-                    "Url": "/lodestone/playguide/db/npc/npc/95c570cf278/",
-                    "Area": "The Sea of Clouds (X:19.9 Y:32.8)"
-                }
-            ]
-        },
-        "Seq": 5,
-        "oldID": 67285,
-        "Map": {
-            "ID": 215
-        },
-        "StartDependency": false
-    },
-    {
-        "ID": "da816a91231",
-        "Name": "Reap What You Sow",
-        "Location": "The Sea of Clouds",
-        "Level": 60,
-        "JournalSection": 3,
-        "JournalCategory": 44,
-        "JournalGenre": "Abalathian Sidequests",
-        "Url": "/lodestone/playguide/db/quest/da816a91231/",
-        "Image": "https://img.finalfantasyxiv.com/lds/pc/global/images/itemicon/f5/f517b7d5d8a69050c8f746b6f13924cb34c91272.png?n5.55",
-        "Icon": "function_normal",
-        "Issuer": "Sanu Vanu",
-        "StartLocation": {
-            "Name": "The Sea of Clouds",
-            "X": "11.7",
-            "Y": "14.9"
-        },
-        "StartClass": null,
-        "Job": "",
-        "Company": "Not specified",
-        "Requirement": "Not specified",
-        "Rewards": {
-            "Gil": 5000,
+            "Gil": 2064,
             "Exp": 0,
             "ItemsMand": [],
             "ItemsOpt": []
@@ -2278,174 +99,1801 @@
         "Infos": {
             "PrerequisiteQuest": [
                 {
-                    "Name": "Heavensward",
-                    "Url": "/lodestone/playguide/db/quest/29fa56153f5/",
-                    "Area": "Azys Lla",
-                    "Level": "60"
+                    "Name": "The Ultimate Weapon",
+                    "Url": "/lodestone/playguide/db/quest/3ab32cfebf8/",
+                    "Area": "Northern Thanalan",
+                    "Level": "50"
                 }
             ],
             "RelatedNPC": [
                 {
-                    "Name": "Tonu Vanu",
-                    "Url": "/lodestone/playguide/db/npc/npc/fbcaa4e652e/",
-                    "Area": "The Sea of Clouds (X:40.1 Y:7.7)"
+                    "Name": "Abazi Charazi",
+                    "Url": "/lodestone/playguide/db/npc/npc/350ac263073/",
+                    "Area": "Upper La Noscea (X:25.6 Y:23.0)"
+                },
+                {
+                    "Name": "Blundering Treasure Hunter",
+                    "Url": "/lodestone/playguide/db/npc/npc/07270ec3b7b/",
+                    "Area": "Upper La Noscea (X:30.0 Y:22.9)"
+                },
+                {
+                    "Name": "Steadfast Companion",
+                    "Url": "/lodestone/playguide/db/npc/npc/b6e82e15eff/",
+                    "Area": "Upper La Noscea (X:30.0 Y:22.9)"
                 }
             ]
         },
-        "Seq": 35,
-        "oldID": 67648,
-        "Map": {
-            "ID": 215
-        },
+        "Seq": 31,
         "StartDependency": false
     },
     {
-        "ID": "ef8cb27278d",
-        "Name": "Crying over Spilled Food",
-        "Location": "The Sea of Clouds",
-        "Level": 56,
+        "ID": "09b7eca3a28",
+        "Name": "Blood for Stone",
+        "Location": "Mor Dhona",
+        "Level": 50,
         "JournalSection": 3,
         "JournalCategory": 44,
-        "JournalGenre": "Abalathian Sidequests",
-        "Url": "/lodestone/playguide/db/quest/ef8cb27278d/",
-        "Image": null,
-        "Icon": "common_normal",
-        "Issuer": "Gildon",
+        "JournalGenre": "Mor Dhonan Sidequests",
+        "Url": "/lodestone/playguide/db/quest/09b7eca3a28/",
+        "Image": "https://img.finalfantasyxiv.com/lds/pc/global/images/itemicon/89/89ab173dbe1ee1af6f7adeede644f8797e9c2abc.png?n6.05",
+        "Icon": "function_normal",
+        "Issuer": "Faillicie",
         "StartLocation": {
-            "Name": "The Sea of Clouds",
-            "X": "15.6",
-            "Y": "39.2"
+            "Name": "Mor Dhona",
+            "X": "21.9",
+            "Y": "8.4"
         },
         "StartClass": null,
         "Job": "",
         "Company": "Not specified",
         "Requirement": "Not specified",
         "Rewards": {
-            "Gil": 496,
-            "Exp": 36000,
+            "Gil": 2064,
+            "Exp": 0,
             "ItemsMand": [],
             "ItemsOpt": []
         },
         "Infos": {
             "PrerequisiteQuest": [
                 {
-                    "Name": "He Who Would Not Be Denied",
-                    "Url": "/lodestone/playguide/db/quest/502fe826ab0/",
-                    "Area": "Ishgard",
-                    "Level": "56"
-                },
-                {
-                    "Name": "Honoring the Past",
-                    "Url": "/lodestone/playguide/db/quest/675895e15c9/",
-                    "Area": "Ishgard",
-                    "Level": "56"
+                    "Name": "The Ultimate Weapon",
+                    "Url": "/lodestone/playguide/db/quest/3ab32cfebf8/",
+                    "Area": "Northern Thanalan",
+                    "Level": "50"
                 }
             ],
-            "FollowupQuest": [
+            "RelatedNPC": [
                 {
-                    "Name": "A Tall Order to Fill",
-                    "Url": "/lodestone/playguide/db/quest/8aa5aa4596a/",
-                    "Area": "The Sea of Clouds",
-                    "Level": "56"
+                    "Name": "Drillemont",
+                    "Url": "/lodestone/playguide/db/npc/npc/f40f1163d93/",
+                    "Area": "Coerthas Central Highlands (X:12.8 Y:17.4)"
+                },
+                {
+                    "Name": "Nathelain",
+                    "Url": "/lodestone/playguide/db/npc/npc/bd5446717ff/",
+                    "Area": "Coerthas Central Highlands (X:8.0 Y:11.1)"
                 }
             ]
         },
-        "Seq": 10,
-        "oldID": 67435,
-        "Map": {
-            "ID": 215
-        },
+        "Seq": 26,
         "StartDependency": false
     },
     {
-        "ID": "f02aa875df0",
-        "Name": "Featherbrained Schemes",
-        "Location": "The Sea of Clouds",
-        "Level": 51,
+        "ID": "13c6b27d9bb",
+        "Name": "Playing the Postman",
+        "Location": "Mor Dhona",
+        "Level": 45,
         "JournalSection": 3,
         "JournalCategory": 44,
-        "JournalGenre": "Abalathian Sidequests",
-        "Url": "/lodestone/playguide/db/quest/f02aa875df0/",
-        "Image": "https://img.finalfantasyxiv.com/lds/pc/global/images/itemicon/3f/3fc2887b990cd4cd50ab9fd9216b2460932e898c.png?n5.55",
+        "JournalGenre": "Mor Dhonan Sidequests",
+        "Url": "/lodestone/playguide/db/quest/13c6b27d9bb/",
+        "Image": null,
         "Icon": "common_normal",
-        "Issuer": "Gildon",
+        "Issuer": "Nazyl Duzyl",
         "StartLocation": {
-            "Name": "The Sea of Clouds",
-            "X": "15.6",
-            "Y": "39.2"
+            "Name": "Mor Dhona",
+            "X": "30.4",
+            "Y": "12.1"
         },
         "StartClass": null,
         "Job": "",
         "Company": "Not specified",
         "Requirement": "Not specified",
         "Rewards": {
-            "Gil": 610,
-            "Exp": 25200,
+            "Gil": 1782,
+            "Exp": 5940,
+            "ItemsMand": [],
+            "ItemsOpt": []
+        },
+        "Infos": {
+            "FollowupQuest": [
+                {
+                    "Name": "Dropping Out",
+                    "Url": "/lodestone/playguide/db/quest/f454b4c72fe/",
+                    "Area": "Mor Dhona",
+                    "Level": "45"
+                }
+            ],
+            "RelatedNPC": [
+                {
+                    "Name": "Kindly Son",
+                    "Url": "/lodestone/playguide/db/npc/npc/2cf46d2aaf2/",
+                    "Area": "Mor Dhona (X:32.8 Y:6.8)"
+                },
+                {
+                    "Name": "Sightly Son",
+                    "Url": "/lodestone/playguide/db/npc/npc/c2b4bf67dcc/",
+                    "Area": "Mor Dhona (X:32.3 Y:12.0)"
+                },
+                {
+                    "Name": "Stony Son",
+                    "Url": "/lodestone/playguide/db/npc/npc/bf7142858a2/",
+                    "Area": "Mor Dhona (X:32.4 Y:8.7)"
+                }
+            ]
+        },
+        "Seq": 10,
+        "StartDependency": false
+    },
+    {
+        "ID": "14e3b64a4a6",
+        "Name": "Problem with Plasma",
+        "Location": "Mor Dhona",
+        "Level": 45,
+        "JournalSection": 3,
+        "JournalCategory": 44,
+        "JournalGenre": "Mor Dhonan Sidequests",
+        "Url": "/lodestone/playguide/db/quest/14e3b64a4a6/",
+        "Image": null,
+        "Icon": "common_normal",
+        "Issuer": "Aganbold",
+        "StartLocation": {
+            "Name": "Mor Dhona",
+            "X": "22.0",
+            "Y": "8.6"
+        },
+        "StartClass": null,
+        "Job": "",
+        "Company": "Not specified",
+        "Requirement": "Not specified",
+        "Rewards": {
+            "Gil": 1782,
+            "Exp": 5940,
+            "ItemsMand": [],
+            "ItemsOpt": []
+        },
+        "Infos": {
+            "PrerequisiteQuest": [
+                {
+                    "Name": "The Trickster of the Toll",
+                    "Url": "/lodestone/playguide/db/quest/73143b0fec9/",
+                    "Area": "Mor Dhona",
+                    "Level": "45"
+                }
+            ]
+        },
+        "Seq": 7,
+        "StartDependency": false
+    },
+    {
+        "ID": "1a5c1d4bb6a",
+        "Name": "It's Definitely Pirates",
+        "Location": "Mor Dhona",
+        "Level": 50,
+        "JournalSection": 3,
+        "JournalCategory": 44,
+        "JournalGenre": "Mor Dhonan Sidequests",
+        "Url": "/lodestone/playguide/db/quest/1a5c1d4bb6a/",
+        "Image": "https://img.finalfantasyxiv.com/lds/pc/global/images/itemicon/b5/b5f18d043f6f331f310c9420dabdc108d054d843.png?n6.05",
+        "Icon": "function_normal",
+        "Issuer": "Bloezoeng",
+        "StartLocation": {
+            "Name": "Mor Dhona",
+            "X": "22.1",
+            "Y": "8.7"
+        },
+        "StartClass": null,
+        "Job": "",
+        "Company": "Not specified",
+        "Requirement": "Not specified",
+        "Rewards": {
+            "Gil": 2064,
+            "Exp": 0,
+            "ItemsMand": [],
+            "ItemsOpt": []
+        },
+        "Infos": {
+            "PrerequisiteQuest": [
+                {
+                    "Name": "The Ultimate Weapon",
+                    "Url": "/lodestone/playguide/db/quest/3ab32cfebf8/",
+                    "Area": "Northern Thanalan",
+                    "Level": "50"
+                }
+            ],
+            "RelatedNPC": [
+                {
+                    "Name": "Reyner",
+                    "Url": "/lodestone/playguide/db/npc/npc/0fac1708feb/",
+                    "Area": "Limsa Lominsa Upper Decks (X:11.1 Y:6.0)"
+                },
+                {
+                    "Name": "Apathetic Archer",
+                    "Url": "/lodestone/playguide/db/npc/npc/b5520395fe7/",
+                    "Area": "Western La Noscea (X:28.4 Y:21.9)"
+                },
+                {
+                    "Name": "Consumed Conjurer",
+                    "Url": "/lodestone/playguide/db/npc/npc/59aa4dddb17/",
+                    "Area": "Western La Noscea (X:28.3 Y:21.9)"
+                },
+                {
+                    "Name": "D'perjha",
+                    "Url": "/lodestone/playguide/db/npc/npc/fb93cddc222/",
+                    "Area": "Western La Noscea (X:28.1 Y:21.5)"
+                },
+                {
+                    "Name": "Ghost-faced Gladiator",
+                    "Url": "/lodestone/playguide/db/npc/npc/1bd6dc5289a/",
+                    "Area": "Western La Noscea (X:28.3 Y:21.9)"
+                },
+                {
+                    "Name": "Reyner",
+                    "Url": "/lodestone/playguide/db/npc/npc/8ca9a3581e8/",
+                    "Area": "Western La Noscea (X:25.6 Y:26.3)"
+                },
+                {
+                    "Name": "Threadbare Thaumaturge",
+                    "Url": "/lodestone/playguide/db/npc/npc/e2e04bf3ff0/",
+                    "Area": "Western La Noscea (X:28.4 Y:21.9)"
+                }
+            ]
+        },
+        "Seq": 28,
+        "StartDependency": false
+    },
+    {
+        "ID": "262d26cb079",
+        "Name": "Submission Impossible",
+        "Location": "Mor Dhona",
+        "Level": 15,
+        "JournalSection": 3,
+        "JournalCategory": 44,
+        "JournalGenre": "Mor Dhonan Sidequests",
+        "Url": "/lodestone/playguide/db/quest/262d26cb079/",
+        "Image": null,
+        "Icon": "function_normal",
+        "Issuer": "Wiscard",
+        "StartLocation": {
+            "Name": "Mor Dhona",
+            "X": "22.1",
+            "Y": "6.7"
+        },
+        "StartClass": null,
+        "Job": "",
+        "Company": "Not specified",
+        "Requirement": "Not specified",
+        "Rewards": {
+            "Gil": 0,
+            "Exp": 0,
+            "ItemsMand": [
+                {
+                    "Icon": "https://img.finalfantasyxiv.com/lds/pc/global/images/itemicon/84/840dbf9f6e99c61f1be49512a64cf617335d1c2a.png?n6.05",
+                    "Name": "Clear Prism",
+                    "Amount": 1,
+                    "Url": "/lodestone/playguide/db/item/7c36dfd57e5/"
+                }
+            ],
+            "ItemsOpt": []
+        },
+        "Infos": {
+            "PrerequisiteQuest": [
+                {
+                    "Name": "A Self-improving Man",
+                    "Url": "/lodestone/playguide/db/quest/02577140302/",
+                    "Area": "Mor Dhona",
+                    "Level": "15"
+                }
+            ],
+            "RelatedNPC": [
+                {
+                    "Name": "Rowena",
+                    "Url": "/lodestone/playguide/db/npc/npc/5f16dc7f440/",
+                    "Area": "Mor Dhona (X:21.9 Y:4.9)"
+                }
+            ]
+        },
+        "Seq": 3,
+        "StartDependency": false
+    },
+    {
+        "ID": "32d657b59c7",
+        "Name": "For Keep's Sake",
+        "Location": "Mor Dhona",
+        "Level": 50,
+        "JournalSection": 3,
+        "JournalCategory": 44,
+        "JournalGenre": "Mor Dhonan Sidequests",
+        "Url": "/lodestone/playguide/db/quest/32d657b59c7/",
+        "Image": "https://img.finalfantasyxiv.com/lds/pc/global/images/itemicon/f6/f6f26a0009c2e5620ed8b5fb609f0d88614adb1d.png?n6.05",
+        "Icon": "function_normal",
+        "Issuer": "Lauriane",
+        "StartLocation": {
+            "Name": "Mor Dhona",
+            "X": "22.1",
+            "Y": "8.6"
+        },
+        "StartClass": null,
+        "Job": "",
+        "Company": "Not specified",
+        "Requirement": "Amdapor Keep",
+        "Rewards": {
+            "Gil": 2064,
+            "Exp": 0,
+            "ItemsMand": [],
+            "ItemsOpt": []
+        },
+        "Infos": {
+            "PrerequisiteQuest": [
+                {
+                    "Name": "The Ultimate Weapon",
+                    "Url": "/lodestone/playguide/db/quest/3ab32cfebf8/",
+                    "Area": "Northern Thanalan",
+                    "Level": "50"
+                }
+            ],
+            "RelatedNPC": [
+                {
+                    "Name": "Adestan",
+                    "Url": "/lodestone/playguide/db/npc/npc/c9de9d52e88/",
+                    "Area": "South Shroud (X:17.1 Y:28.2)"
+                },
+                {
+                    "Name": "Maxinne",
+                    "Url": "/lodestone/playguide/db/npc/npc/53f4e639833/",
+                    "Area": "South Shroud (X:24.7 Y:24.9)"
+                }
+            ]
+        },
+        "Seq": 30,
+        "StartDependency": false
+    },
+    {
+        "ID": "480dab9e291",
+        "Name": "Simply to Dye For",
+        "Location": "Mor Dhona",
+        "Level": 1,
+        "JournalSection": 3,
+        "JournalCategory": 44,
+        "JournalGenre": "Mor Dhonan Sidequests",
+        "Url": "/lodestone/playguide/db/quest/480dab9e291/",
+        "Image": null,
+        "Icon": "function_normal",
+        "Issuer": "Alys",
+        "StartLocation": {
+            "Name": "Mor Dhona",
+            "X": "21.7",
+            "Y": "8.6"
+        },
+        "StartClass": null,
+        "Job": "",
+        "Company": "Not specified",
+        "Requirement": "Not specified",
+        "Rewards": {
+            "Gil": 433,
+            "Exp": 0,
             "ItemsMand": [],
             "ItemsOpt": [
                 {
-                    "Icon": "https://img.finalfantasyxiv.com/lds/pc/global/images/itemicon/59/591709d485ebd155ba018c8cd773fe3c662caed3.png?n5.55",
-                    "Name": "Battledance Materia IV",
-                    "Amount": 1,
-                    "Url": "/lodestone/playguide/db/item/37f25043bf3/"
+                    "Icon": "https://img.finalfantasyxiv.com/lds/pc/global/images/itemicon/01/01b25fdbfd80233262131662c4d73e836a284b71.png?n6.05",
+                    "Name": "Coral Pink Dye",
+                    "Amount": 3,
+                    "Url": "/lodestone/playguide/db/item/0b103790e30/"
                 },
                 {
-                    "Icon": "https://img.finalfantasyxiv.com/lds/pc/global/images/itemicon/60/6072436b0c90d22b6a9d7da93f356256a04be53d.png?n5.55",
-                    "Name": "Quickarm Materia IV",
-                    "Amount": 1,
-                    "Url": "/lodestone/playguide/db/item/1162b3fcc58/"
+                    "Icon": "https://img.finalfantasyxiv.com/lds/pc/global/images/itemicon/87/8766a615ce1f564836948df8c194a9c33b733b45.png?n6.05",
+                    "Name": "Adamantoise Green Dye",
+                    "Amount": 3,
+                    "Url": "/lodestone/playguide/db/item/5f48906cb92/"
                 },
                 {
-                    "Icon": "https://img.finalfantasyxiv.com/lds/pc/global/images/itemicon/60/6072436b0c90d22b6a9d7da93f356256a04be53d.png?n5.55",
-                    "Name": "Quicktongue Materia IV",
-                    "Amount": 1,
-                    "Url": "/lodestone/playguide/db/item/5bbb25ff7dd/"
+                    "Icon": "https://img.finalfantasyxiv.com/lds/pc/global/images/itemicon/d1/d100cb7a56b821be8d14db69a302122195edc056.png?n6.05",
+                    "Name": "Rhotano Blue Dye",
+                    "Amount": 3,
+                    "Url": "/lodestone/playguide/db/item/b2a2dc9a50a/"
                 }
             ]
         },
         "Infos": {
             "PrerequisiteQuest": [
                 {
-                    "Name": "Alphinaud's Way",
-                    "Url": "/lodestone/playguide/db/quest/77cb6c15d41/",
-                    "Area": "Fortemps Manor",
-                    "Level": "51"
+                    "Name": "Color Your World",
+                    "Url": "/lodestone/playguide/db/quest/9a0657857bd/",
+                    "Area": "Western Thanalan",
+                    "Level": "15"
+                }
+            ],
+            "RelatedNPC": [
+                {
+                    "Name": "Eginolf",
+                    "Url": "/lodestone/playguide/db/npc/npc/e81df11993c/",
+                    "Area": "Mor Dhona (X:22.3 Y:5.5)"
+                }
+            ]
+        },
+        "Seq": 1,
+        "StartDependency": false
+    },
+    {
+        "ID": "519a1b68a33",
+        "Name": "Crazy about Crystals",
+        "Location": "Mor Dhona",
+        "Level": 44,
+        "JournalSection": 3,
+        "JournalCategory": 44,
+        "JournalGenre": "Mor Dhonan Sidequests",
+        "Url": "/lodestone/playguide/db/quest/519a1b68a33/",
+        "Image": null,
+        "Icon": "common_normal",
+        "Issuer": "Npah Tayuun",
+        "StartLocation": {
+            "Name": "Mor Dhona",
+            "X": "22.0",
+            "Y": "7.4"
+        },
+        "StartClass": null,
+        "Job": "",
+        "Company": "Not specified",
+        "Requirement": "Not specified",
+        "Rewards": {
+            "Gil": 0,
+            "Exp": 5830,
+            "ItemsMand": [],
+            "ItemsOpt": [
+                {
+                    "Icon": "https://img.finalfantasyxiv.com/lds/pc/global/images/itemicon/6e/6e74adbf6fd38ee7e509ef2d815c60bc709008bf.png?n6.05",
+                    "Name": "Battledance Materia III",
+                    "Amount": 1,
+                    "Url": "/lodestone/playguide/db/item/82b80f823c3/"
                 },
                 {
-                    "Name": "Unclear Motives",
-                    "Url": "/lodestone/playguide/db/quest/d3adf8c7f26/",
-                    "Area": "The Sea of Clouds",
+                    "Icon": "https://img.finalfantasyxiv.com/lds/pc/global/images/itemicon/6e/6e74adbf6fd38ee7e509ef2d815c60bc709008bf.png?n6.05",
+                    "Name": "Piety Materia III",
+                    "Amount": 1,
+                    "Url": "/lodestone/playguide/db/item/8810a774ee4/"
+                },
+                {
+                    "Icon": "https://img.finalfantasyxiv.com/lds/pc/global/images/itemicon/de/de478eac5995aeff260b0e6eaf52fef8ac0086d8.png?n6.05",
+                    "Name": "Mega-Potion",
+                    "Amount": 3,
+                    "Url": "/lodestone/playguide/db/item/1e8c49c8ac3/"
+                },
+                {
+                    "Icon": "https://img.finalfantasyxiv.com/lds/pc/global/images/itemicon/d9/d9beff495b00ab597dbd0b268530571d803e6a2d.png?n6.05",
+                    "Name": "Hi-Ether",
+                    "Amount": 3,
+                    "Url": "/lodestone/playguide/db/item/88fad7976ae/"
+                }
+            ]
+        },
+        "Infos": {},
+        "Seq": 4,
+        "StartDependency": false
+    },
+    {
+        "ID": "598aebd82b3",
+        "Name": "Maniac Manor",
+        "Location": "Mor Dhona",
+        "Level": 50,
+        "JournalSection": 3,
+        "JournalCategory": 44,
+        "JournalGenre": "Mor Dhonan Sidequests",
+        "Url": "/lodestone/playguide/db/quest/598aebd82b3/",
+        "Image": null,
+        "Icon": "function_normal",
+        "Issuer": "Lauriane",
+        "StartLocation": {
+            "Name": "Mor Dhona",
+            "X": "22.1",
+            "Y": "8.6"
+        },
+        "StartClass": null,
+        "Job": "",
+        "Company": "Not specified",
+        "Requirement": "Not specified",
+        "Rewards": {
+            "Gil": 939,
+            "Exp": 0,
+            "ItemsMand": [],
+            "ItemsOpt": []
+        },
+        "Infos": {
+            "PrerequisiteQuest": [
+                {
+                    "Name": "The Ultimate Weapon",
+                    "Url": "/lodestone/playguide/db/quest/3ab32cfebf8/",
+                    "Area": "Northern Thanalan",
                     "Level": "50"
                 }
             ],
             "RelatedNPC": [
                 {
-                    "Name": "Fabrellet",
-                    "Url": "/lodestone/playguide/db/npc/npc/864646bd557/",
-                    "Area": "The Sea of Clouds (X:9.7 Y:31.9)"
+                    "Name": "Ursandel",
+                    "Url": "/lodestone/playguide/db/npc/npc/a6d157b4f1b/",
+                    "Area": "Old Gridania (X:11.9 Y:4.5)"
+                }
+            ]
+        },
+        "Seq": 21,
+        "StartDependency": false
+    },
+    {
+        "ID": "5cc52395ca0",
+        "Name": "Take with a Tonze of Salt",
+        "Location": "Mor Dhona",
+        "Level": 70,
+        "JournalSection": 3,
+        "JournalCategory": 44,
+        "JournalGenre": "Mor Dhonan Sidequests",
+        "Url": "/lodestone/playguide/db/quest/5cc52395ca0/",
+        "Image": "https://img.finalfantasyxiv.com/lds/pc/global/images/itemicon/62/629c1b3237c74c4471e7f151ac30c42b3bee9293.png?n6.05",
+        "Icon": "common_normal",
+        "Issuer": "Bloezoeng",
+        "StartLocation": {
+            "Name": "Mor Dhona",
+            "X": "22.1",
+            "Y": "8.7"
+        },
+        "StartClass": null,
+        "Job": "Any Disciple of War or Magic (excluding limited jobs)",
+        "Company": "Not specified",
+        "Requirement": "Not specified",
+        "Rewards": {
+            "Gil": 463,
+            "Exp": 0,
+            "ItemsMand": [
+                {
+                    "Icon": "https://img.finalfantasyxiv.com/lds/pc/global/images/itemicon/e1/e1dd23830cba46801e8ca744f0689f983028947f.png?n6.05",
+                    "Name": "Cracked Crystal",
+                    "Amount": 1,
+                    "Url": "/lodestone/playguide/db/item/d9ec534741a/"
+                }
+            ],
+            "ItemsOpt": []
+        },
+        "Infos": {
+            "PrerequisiteQuest": [
+                {
+                    "Name": "Seiryu's Wall",
+                    "Url": "/lodestone/playguide/db/quest/efbc396aba9/",
+                    "Area": "Kienkan",
+                    "Level": "70"
+                }
+            ],
+            "RelatedNPC": [
+                {
+                    "Name": "Acot",
+                    "Url": "/lodestone/playguide/db/npc/npc/4a227087a2b/",
+                    "Area": "Central Thanalan (X:18.8 Y:27.5)"
                 },
                 {
-                    "Name": "Injured Knight",
-                    "Url": "/lodestone/playguide/db/npc/npc/240c3aee515/",
-                    "Area": "The Sea of Clouds (X:8.3 Y:31.6)"
+                    "Name": "Chipper Pauper",
+                    "Url": "/lodestone/playguide/db/npc/npc/47e903022c7/",
+                    "Area": "Ul'dah - Steps of Thal (X:13.6 Y:9.9)"
                 },
                 {
-                    "Name": "Laniaitte",
-                    "Url": "/lodestone/playguide/db/npc/npc/eceacc0b266/",
-                    "Area": "The Sea of Clouds (X:17.0 Y:37.3)"
+                    "Name": "Discerning Brass Blade",
+                    "Url": "/lodestone/playguide/db/npc/npc/09a08f89a0e/",
+                    "Area": "Ul'dah - Steps of Thal (X:13.8 Y:10.4)"
                 },
                 {
-                    "Name": "Marielle",
-                    "Url": "/lodestone/playguide/db/npc/npc/5badaea7330/",
-                    "Area": "The Sea of Clouds (X:15.3 Y:37.7)"
+                    "Name": "Industrious Refugee",
+                    "Url": "/lodestone/playguide/db/npc/npc/d265b398862/",
+                    "Area": "Ul'dah - Steps of Thal (X:13.3 Y:10.7)"
+                },
+                {
+                    "Name": "Landebert",
+                    "Url": "/lodestone/playguide/db/npc/npc/a2a247757d7/",
+                    "Area": "Ul'dah - Steps of Thal (X:13.1 Y:10.5)"
+                },
+                {
+                    "Name": "Pragmatic Peddler",
+                    "Url": "/lodestone/playguide/db/npc/npc/c9e4e260230/",
+                    "Area": "Ul'dah - Steps of Thal (X:13.3 Y:10.6)"
+                },
+                {
+                    "Name": "Reformed Ruffian",
+                    "Url": "/lodestone/playguide/db/npc/npc/8c4fda7240e/",
+                    "Area": "Ul'dah - Steps of Thal (X:13.8 Y:10.4)"
+                }
+            ]
+        },
+        "Seq": 35,
+        "StartDependency": false
+    },
+    {
+        "ID": "616f0bcad59",
+        "Name": "Holier than Thou",
+        "Location": "Mor Dhona",
+        "Level": 45,
+        "JournalSection": 3,
+        "JournalCategory": 44,
+        "JournalGenre": "Mor Dhonan Sidequests",
+        "Url": "/lodestone/playguide/db/quest/616f0bcad59/",
+        "Image": null,
+        "Icon": "common_normal",
+        "Issuer": "Wandering Breeze",
+        "StartLocation": {
+            "Name": "Mor Dhona",
+            "X": "30.4",
+            "Y": "12.6"
+        },
+        "StartClass": null,
+        "Job": "",
+        "Company": "Not specified",
+        "Requirement": "Not specified",
+        "Rewards": {
+            "Gil": 1782,
+            "Exp": 5940,
+            "ItemsMand": [],
+            "ItemsOpt": []
+        },
+        "Infos": {
+            "PrerequisiteQuest": [
+                {
+                    "Name": "Straight Outta Abalathia",
+                    "Url": "/lodestone/playguide/db/quest/abe08984f5a/",
+                    "Area": "Mor Dhona",
+                    "Level": "45"
+                }
+            ]
+        },
+        "Seq": 14,
+        "StartDependency": false
+    },
+    {
+        "ID": "67c527d0faa",
+        "Name": "Leves of Saint Coinach's Find",
+        "Location": "Mor Dhona",
+        "Level": 45,
+        "JournalSection": 3,
+        "JournalCategory": 44,
+        "JournalGenre": "Mor Dhonan Sidequests",
+        "Url": "/lodestone/playguide/db/quest/67c527d0faa/",
+        "Image": null,
+        "Icon": "function_normal",
+        "Issuer": "K'leytai",
+        "StartLocation": {
+            "Name": "Mor Dhona",
+            "X": "29.8",
+            "Y": "12.5"
+        },
+        "StartClass": null,
+        "Job": "",
+        "Company": "Not specified",
+        "Requirement": "Not specified",
+        "Rewards": {
+            "Gil": 1958,
+            "Exp": 5940,
+            "ItemsMand": [],
+            "ItemsOpt": []
+        },
+        "Infos": {
+            "PrerequisiteQuest": [
+                {
+                    "Name": "Leves of Swiftperch",
+                    "Url": "/lodestone/playguide/db/quest/8b2de303b68/",
+                    "Area": "Limsa Lominsa",
+                    "Level": "10"
+                },
+                {
+                    "Name": "Leves of Bentbranch",
+                    "Url": "/lodestone/playguide/db/quest/08e04b5f634/",
+                    "Area": "Gridania",
+                    "Level": "10"
+                },
+                {
+                    "Name": "Leves of Horizon",
+                    "Url": "/lodestone/playguide/db/quest/c4ed1e8736c/",
+                    "Area": "Ul'dah",
+                    "Level": "10"
                 }
             ]
         },
         "Seq": 6,
-        "oldID": 67292,
-        "Map": {
-            "ID": 215
+        "StartDependency": false
+    },
+    {
+        "ID": "73143b0fec9",
+        "Name": "The Trickster of the Toll",
+        "Location": "Mor Dhona",
+        "Level": 45,
+        "JournalSection": 3,
+        "JournalCategory": 44,
+        "JournalGenre": "Mor Dhonan Sidequests",
+        "Url": "/lodestone/playguide/db/quest/73143b0fec9/",
+        "Image": null,
+        "Icon": "common_normal",
+        "Issuer": "Aganbold",
+        "StartLocation": {
+            "Name": "Mor Dhona",
+            "X": "22.0",
+            "Y": "8.6"
         },
+        "StartClass": null,
+        "Job": "",
+        "Company": "Not specified",
+        "Requirement": "Not specified",
+        "Rewards": {
+            "Gil": 1782,
+            "Exp": 5940,
+            "ItemsMand": [],
+            "ItemsOpt": []
+        },
+        "Infos": {
+            "PrerequisiteQuest": [
+                {
+                    "Name": "Passing the Smell Test",
+                    "Url": "/lodestone/playguide/db/quest/99fbe210154/",
+                    "Area": "Mor Dhona",
+                    "Level": "44"
+                }
+            ],
+            "FollowupQuest": [
+                {
+                    "Name": "Problem with Plasma",
+                    "Url": "/lodestone/playguide/db/quest/14e3b64a4a6/",
+                    "Area": "Mor Dhona",
+                    "Level": "45"
+                }
+            ]
+        },
+        "Seq": 17,
+        "StartDependency": false
+    },
+    {
+        "ID": "7a4cd9a9c24",
+        "Name": "Out of Sight, Out of Mine",
+        "Location": "Mor Dhona",
+        "Level": 50,
+        "JournalSection": 3,
+        "JournalCategory": 44,
+        "JournalGenre": "Mor Dhonan Sidequests",
+        "Url": "/lodestone/playguide/db/quest/7a4cd9a9c24/",
+        "Image": null,
+        "Icon": "function_normal",
+        "Issuer": "Hugubert",
+        "StartLocation": {
+            "Name": "Mor Dhona",
+            "X": "22.0",
+            "Y": "8.7"
+        },
+        "StartClass": null,
+        "Job": "",
+        "Company": "Not specified",
+        "Requirement": "Not specified",
+        "Rewards": {
+            "Gil": 939,
+            "Exp": 0,
+            "ItemsMand": [],
+            "ItemsOpt": []
+        },
+        "Infos": {
+            "PrerequisiteQuest": [
+                {
+                    "Name": "The Ultimate Weapon",
+                    "Url": "/lodestone/playguide/db/quest/3ab32cfebf8/",
+                    "Area": "Northern Thanalan",
+                    "Level": "50"
+                }
+            ],
+            "RelatedNPC": [
+                {
+                    "Name": "Stone Torch",
+                    "Url": "/lodestone/playguide/db/npc/npc/426a6afc027/",
+                    "Area": "Western Thanalan (X:28.0 Y:16.8)"
+                }
+            ]
+        },
+        "Seq": 22,
+        "StartDependency": false
+    },
+    {
+        "ID": "81d414249d7",
+        "Name": "Curds and Slay",
+        "Location": "Mor Dhona",
+        "Level": 50,
+        "JournalSection": 3,
+        "JournalCategory": 44,
+        "JournalGenre": "Mor Dhonan Sidequests",
+        "Url": "/lodestone/playguide/db/quest/81d414249d7/",
+        "Image": null,
+        "Icon": "function_normal",
+        "Issuer": "Bloezoeng",
+        "StartLocation": {
+            "Name": "Mor Dhona",
+            "X": "22.1",
+            "Y": "8.7"
+        },
+        "StartClass": null,
+        "Job": "",
+        "Company": "Not specified",
+        "Requirement": "Not specified",
+        "Rewards": {
+            "Gil": 939,
+            "Exp": 0,
+            "ItemsMand": [],
+            "ItemsOpt": []
+        },
+        "Infos": {
+            "PrerequisiteQuest": [
+                {
+                    "Name": "The Ultimate Weapon",
+                    "Url": "/lodestone/playguide/db/quest/3ab32cfebf8/",
+                    "Area": "Northern Thanalan",
+                    "Level": "50"
+                }
+            ],
+            "RelatedNPC": [
+                {
+                    "Name": "Brayflox Alltalks",
+                    "Url": "/lodestone/playguide/db/npc/npc/2029a1e4de6/",
+                    "Area": "Eastern La Noscea (X:14.7 Y:24.5)"
+                },
+                {
+                    "Name": "Wheiskaet",
+                    "Url": "/lodestone/playguide/db/npc/npc/29deab0a044/",
+                    "Area": "Eastern La Noscea (X:32.6 Y:30.5)"
+                }
+            ]
+        },
+        "Seq": 24,
+        "StartDependency": false
+    },
+    {
+        "ID": "82b57cd1a22",
+        "Name": "Hit the Hippogryphs",
+        "Location": "Mor Dhona",
+        "Level": 45,
+        "JournalSection": 3,
+        "JournalCategory": 44,
+        "JournalGenre": "Mor Dhonan Sidequests",
+        "Url": "/lodestone/playguide/db/quest/82b57cd1a22/",
+        "Image": null,
+        "Icon": "common_normal",
+        "Issuer": "Rammbroes",
+        "StartLocation": {
+            "Name": "Mor Dhona",
+            "X": "30.4",
+            "Y": "12.1"
+        },
+        "StartClass": null,
+        "Job": "",
+        "Company": "Not specified",
+        "Requirement": "Not specified",
+        "Rewards": {
+            "Gil": 2121,
+            "Exp": 5940,
+            "ItemsMand": [],
+            "ItemsOpt": []
+        },
+        "Infos": {},
+        "Seq": 11,
+        "StartDependency": false
+    },
+    {
+        "ID": "8639390e5c0",
+        "Name": "Dirt and Ashes",
+        "Location": "Mor Dhona",
+        "Level": 45,
+        "JournalSection": 3,
+        "JournalCategory": 44,
+        "JournalGenre": "Mor Dhonan Sidequests",
+        "Url": "/lodestone/playguide/db/quest/8639390e5c0/",
+        "Image": null,
+        "Icon": "common_normal",
+        "Issuer": "Guolgeim",
+        "StartLocation": {
+            "Name": "Mor Dhona",
+            "X": "21.9",
+            "Y": "6.4"
+        },
+        "StartClass": null,
+        "Job": "",
+        "Company": "Not specified",
+        "Requirement": "Not specified",
+        "Rewards": {
+            "Gil": 1782,
+            "Exp": 5940,
+            "ItemsMand": [],
+            "ItemsOpt": []
+        },
+        "Infos": {
+            "FollowupQuest": [
+                {
+                    "Name": "The Organ of Choice",
+                    "Url": "/lodestone/playguide/db/quest/fad3c671124/",
+                    "Area": "Mor Dhona",
+                    "Level": "45"
+                }
+            ]
+        },
+        "Seq": 8,
+        "StartDependency": false
+    },
+    {
+        "ID": "8f10b78af15",
+        "Name": "No Longer a Collectable",
+        "Location": "Mor Dhona",
+        "Level": 56,
+        "JournalSection": 3,
+        "JournalCategory": 44,
+        "JournalGenre": "Mor Dhonan Sidequests",
+        "Url": "/lodestone/playguide/db/quest/8f10b78af15/",
+        "Image": null,
+        "Icon": "function_normal",
+        "Issuer": "Lydirlona",
+        "StartLocation": {
+            "Name": "Mor Dhona",
+            "X": "22.3",
+            "Y": "6.8"
+        },
+        "StartClass": null,
+        "Job": "",
+        "Company": "Not specified",
+        "Requirement": "Not specified",
+        "Rewards": {
+            "Gil": 558,
+            "Exp": 12870,
+            "ItemsMand": [
+                {
+                    "Icon": "https://img.finalfantasyxiv.com/lds/pc/global/images/itemicon/b6/b62f19d7192f7bc5f133575f709553cafe179cfa.png?n6.05",
+                    "Name": "",
+                    "Amount": null
+                }
+            ],
+            "ItemsOpt": []
+        },
+        "Infos": {
+            "PrerequisiteQuest": [
+                {
+                    "Name": "The Better Half",
+                    "Url": "/lodestone/playguide/db/quest/8ef1c45e2a4/",
+                    "Area": "Ishgard",
+                    "Level": "50"
+                }
+            ],
+            "RelatedNPC": [
+                {
+                    "Name": "Kokosamu",
+                    "Url": "/lodestone/playguide/db/npc/npc/62b5535bd1d/",
+                    "Area": "Central Thanalan (X:23.8 Y:14.2)"
+                }
+            ]
+        },
+        "Seq": 33,
+        "StartDependency": false
+    },
+    {
+        "ID": "9242292b341",
+        "Name": "The Sons Also Rise",
+        "Location": "Mor Dhona",
+        "Level": 45,
+        "JournalSection": 3,
+        "JournalCategory": 44,
+        "JournalGenre": "Mor Dhonan Sidequests",
+        "Url": "/lodestone/playguide/db/quest/9242292b341/",
+        "Image": null,
+        "Icon": "common_normal",
+        "Issuer": "Kakamehi",
+        "StartLocation": {
+            "Name": "Mor Dhona",
+            "X": "22.0",
+            "Y": "8.5"
+        },
+        "StartClass": null,
+        "Job": "",
+        "Company": "Not specified",
+        "Requirement": "Not specified",
+        "Rewards": {
+            "Gil": 1668,
+            "Exp": 5940,
+            "ItemsMand": [],
+            "ItemsOpt": []
+        },
+        "Infos": {
+            "RelatedNPC": [
+                {
+                    "Name": "Nazyl Duzyl",
+                    "Url": "/lodestone/playguide/db/npc/npc/70f4fb5f4be/",
+                    "Area": "Mor Dhona (X:30.4 Y:12.1)"
+                }
+            ]
+        },
+        "Seq": 9,
+        "StartDependency": false
+    },
+    {
+        "ID": "99fbe210154",
+        "Name": "Passing the Smell Test",
+        "Location": "Mor Dhona",
+        "Level": 44,
+        "JournalSection": 3,
+        "JournalCategory": 44,
+        "JournalGenre": "Mor Dhonan Sidequests",
+        "Url": "/lodestone/playguide/db/quest/99fbe210154/",
+        "Image": null,
+        "Icon": "common_normal",
+        "Issuer": "Aganbold",
+        "StartLocation": {
+            "Name": "Mor Dhona",
+            "X": "22.0",
+            "Y": "8.6"
+        },
+        "StartClass": null,
+        "Job": "",
+        "Company": "Not specified",
+        "Requirement": "Not specified",
+        "Rewards": {
+            "Gil": 0,
+            "Exp": 5830,
+            "ItemsMand": [],
+            "ItemsOpt": [
+                {
+                    "Icon": "https://img.finalfantasyxiv.com/lds/pc/global/images/itemicon/8b/8b384dddee2b1099c500f2238f25470ec44e1799.png?n6.05",
+                    "Name": "Savage Aim Materia III",
+                    "Amount": 1,
+                    "Url": "/lodestone/playguide/db/item/82c6eb433f2/"
+                },
+                {
+                    "Icon": "https://img.finalfantasyxiv.com/lds/pc/global/images/itemicon/8b/8b384dddee2b1099c500f2238f25470ec44e1799.png?n6.05",
+                    "Name": "Heavens' Eye Materia III",
+                    "Amount": 1,
+                    "Url": "/lodestone/playguide/db/item/20c2c8929f0/"
+                },
+                {
+                    "Icon": "https://img.finalfantasyxiv.com/lds/pc/global/images/itemicon/8b/8b384dddee2b1099c500f2238f25470ec44e1799.png?n6.05",
+                    "Name": "Savage Might Materia III",
+                    "Amount": 1,
+                    "Url": "/lodestone/playguide/db/item/6d65a73f718/"
+                }
+            ]
+        },
+        "Infos": {
+            "FollowupQuest": [
+                {
+                    "Name": "The Trickster of the Toll",
+                    "Url": "/lodestone/playguide/db/quest/73143b0fec9/",
+                    "Area": "Mor Dhona",
+                    "Level": "45"
+                }
+            ]
+        },
+        "Seq": 5,
+        "StartDependency": false
+    },
+    {
+        "ID": "abe08984f5a",
+        "Name": "Straight Outta Abalathia",
+        "Location": "Mor Dhona",
+        "Level": 45,
+        "JournalSection": 3,
+        "JournalCategory": 44,
+        "JournalGenre": "Mor Dhonan Sidequests",
+        "Url": "/lodestone/playguide/db/quest/abe08984f5a/",
+        "Image": null,
+        "Icon": "common_normal",
+        "Issuer": "Wandering Breeze",
+        "StartLocation": {
+            "Name": "Mor Dhona",
+            "X": "30.4",
+            "Y": "12.6"
+        },
+        "StartClass": null,
+        "Job": "",
+        "Company": "Not specified",
+        "Requirement": "Not specified",
+        "Rewards": {
+            "Gil": 1782,
+            "Exp": 5940,
+            "ItemsMand": [],
+            "ItemsOpt": []
+        },
+        "Infos": {
+            "FollowupQuest": [
+                {
+                    "Name": "Holier than Thou",
+                    "Url": "/lodestone/playguide/db/quest/616f0bcad59/",
+                    "Area": "Mor Dhona",
+                    "Level": "45"
+                }
+            ],
+            "RelatedNPC": [
+                {
+                    "Name": "Harried Researcher",
+                    "Url": "/lodestone/playguide/db/npc/npc/0e4bf12cbf2/",
+                    "Area": "Mor Dhona (X:32.8 Y:16.1)"
+                }
+            ]
+        },
+        "Seq": 12,
+        "StartDependency": false
+    },
+    {
+        "ID": "ac600f4e951",
+        "Name": "Magiteknical Difficulties",
+        "Location": "Mor Dhona",
+        "Level": 50,
+        "JournalSection": 3,
+        "JournalCategory": 44,
+        "JournalGenre": "Mor Dhonan Sidequests",
+        "Url": "/lodestone/playguide/db/quest/ac600f4e951/",
+        "Image": null,
+        "Icon": "common_normal",
+        "Issuer": "Slafborn",
+        "StartLocation": {
+            "Name": "Mor Dhona",
+            "X": "21.9",
+            "Y": "7.8"
+        },
+        "StartClass": null,
+        "Job": "",
+        "Company": "Not specified",
+        "Requirement": "Not specified",
+        "Rewards": {
+            "Gil": 686,
+            "Exp": 0,
+            "ItemsMand": [],
+            "ItemsOpt": []
+        },
+        "Infos": {
+            "PrerequisiteQuest": [
+                {
+                    "Name": "The Ultimate Weapon",
+                    "Url": "/lodestone/playguide/db/quest/3ab32cfebf8/",
+                    "Area": "Northern Thanalan",
+                    "Level": "50"
+                }
+            ],
+            "RelatedNPC": [
+                {
+                    "Name": "Jessie",
+                    "Url": "/lodestone/playguide/db/npc/npc/ba709f471f7/",
+                    "Area": "Mor Dhona (X:5.9 Y:6.0)"
+                }
+            ]
+        },
+        "Seq": 19,
+        "StartDependency": false
+    },
+    {
+        "ID": "b1a689f6489",
+        "Name": "A Legend for a Legend",
+        "Location": "Mor Dhona",
+        "Level": 1,
+        "JournalSection": 3,
+        "JournalCategory": 44,
+        "JournalGenre": "Mor Dhonan Sidequests",
+        "Url": "/lodestone/playguide/db/quest/b1a689f6489/",
+        "Image": null,
+        "Icon": "common_normal",
+        "Issuer": "Wandering Minstrel",
+        "StartLocation": {
+            "Name": "Mor Dhona",
+            "X": "21.7",
+            "Y": "8.7"
+        },
+        "StartClass": null,
+        "Job": "",
+        "Company": "Not specified",
+        "Requirement": "Not specified",
+        "Rewards": {
+            "Gil": 0,
+            "Exp": 0,
+            "ItemsMand": [
+                {
+                    "Icon": "https://img.finalfantasyxiv.com/lds/pc/global/images/itemicon/d3/d36597ea1c4fa075299be3ebc297ce99fdc624c0.png?n6.05",
+                    "Name": "Kirin Fife",
+                    "Amount": 1,
+                    "Url": "/lodestone/playguide/db/item/ac5fba7c8d9/"
+                }
+            ],
+            "ItemsOpt": []
+        },
+        "Infos": {
+            "RelatedAchievements": [
+                {
+                    "Name": "Ichiban",
+                    "Url": "/lodestone/playguide/db/achievement/4347850428a/",
+                    "Reward": "Title",
+                    "Points": "20"
+                }
+            ]
+        },
+        "Seq": 24,
+        "StartDependency": false
+    },
+    {
+        "ID": "b5077febc57",
+        "Name": "King of the Hull",
+        "Location": "Mor Dhona",
+        "Level": 50,
+        "JournalSection": 3,
+        "JournalCategory": 44,
+        "JournalGenre": "Mor Dhonan Sidequests",
+        "Url": "/lodestone/playguide/db/quest/b5077febc57/",
+        "Image": "https://img.finalfantasyxiv.com/lds/pc/global/images/itemicon/dc/dc0694a4d133620f9e2b9790812be36d27c145f9.png?n6.05",
+        "Icon": "function_normal",
+        "Issuer": "Bloezoeng",
+        "StartLocation": {
+            "Name": "Mor Dhona",
+            "X": "22.1",
+            "Y": "8.7"
+        },
+        "StartClass": null,
+        "Job": "",
+        "Company": "Not specified",
+        "Requirement": "Not specified",
+        "Rewards": {
+            "Gil": 2064,
+            "Exp": 0,
+            "ItemsMand": [],
+            "ItemsOpt": []
+        },
+        "Infos": {
+            "PrerequisiteQuest": [
+                {
+                    "Name": "The Ultimate Weapon",
+                    "Url": "/lodestone/playguide/db/quest/3ab32cfebf8/",
+                    "Area": "Northern Thanalan",
+                    "Level": "50"
+                }
+            ],
+            "FollowupQuest": [
+                {
+                    "Name": "Storming the Hull",
+                    "Url": "/lodestone/playguide/db/quest/b3635183584/",
+                    "Area": "Limsa Lominsa",
+                    "Level": "60"
+                }
+            ],
+            "RelatedNPC": [
+                {
+                    "Name": "Denston",
+                    "Url": "/lodestone/playguide/db/npc/npc/f8c1381c4d8/",
+                    "Area": "Limsa Lominsa Upper Decks (X:11.0 Y:10.4)"
+                },
+                {
+                    "Name": "Denston",
+                    "Url": "/lodestone/playguide/db/npc/npc/49507a5c4b3/",
+                    "Area": "Lower La Noscea (X:26.9 Y:36.0)"
+                }
+            ]
+        },
+        "Seq": 27,
+        "StartDependency": false
+    },
+    {
+        "ID": "c8b5b41a22b",
+        "Name": "Moon Sliver and Me",
+        "Location": "Mor Dhona",
+        "Level": 45,
+        "JournalSection": 3,
+        "JournalCategory": 44,
+        "JournalGenre": "Mor Dhonan Sidequests",
+        "Url": "/lodestone/playguide/db/quest/c8b5b41a22b/",
+        "Image": null,
+        "Icon": "common_normal",
+        "Issuer": "Klynthota",
+        "StartLocation": {
+            "Name": "Mor Dhona",
+            "X": "30.4",
+            "Y": "13.7"
+        },
+        "StartClass": null,
+        "Job": "",
+        "Company": "Not specified",
+        "Requirement": "Not specified",
+        "Rewards": {
+            "Gil": 1782,
+            "Exp": 5940,
+            "ItemsMand": [],
+            "ItemsOpt": []
+        },
+        "Infos": {},
+        "Seq": 13,
+        "StartDependency": false
+    },
+    {
+        "ID": "cd187120f92",
+        "Name": "Heart of Cermet",
+        "Location": "Mor Dhona",
+        "Level": 45,
+        "JournalSection": 3,
+        "JournalCategory": 44,
+        "JournalGenre": "Mor Dhonan Sidequests",
+        "Url": "/lodestone/playguide/db/quest/cd187120f92/",
+        "Image": null,
+        "Icon": "common_normal",
+        "Issuer": "Guolgeim",
+        "StartLocation": {
+            "Name": "Mor Dhona",
+            "X": "21.9",
+            "Y": "6.4"
+        },
+        "StartClass": null,
+        "Job": "",
+        "Company": "Not specified",
+        "Requirement": "Not specified",
+        "Rewards": {
+            "Gil": 1782,
+            "Exp": 5940,
+            "ItemsMand": [],
+            "ItemsOpt": []
+        },
+        "Infos": {
+            "PrerequisiteQuest": [
+                {
+                    "Name": "The Organ of Choice",
+                    "Url": "/lodestone/playguide/db/quest/fad3c671124/",
+                    "Area": "Mor Dhona",
+                    "Level": "45"
+                }
+            ],
+            "RelatedNPC": [
+                {
+                    "Name": "Wandering Breeze",
+                    "Url": "/lodestone/playguide/db/npc/npc/04322fca34d/",
+                    "Area": "Mor Dhona (X:30.4 Y:12.6)"
+                }
+            ]
+        },
+        "Seq": 18,
+        "StartDependency": false
+    },
+    {
+        "ID": "dc1b5d359e7",
+        "Name": "Beloved of the Builder",
+        "Location": "Mor Dhona",
+        "Level": 55,
+        "JournalSection": 3,
+        "JournalCategory": 44,
+        "JournalGenre": "Mor Dhonan Sidequests",
+        "Url": "/lodestone/playguide/db/quest/dc1b5d359e7/",
+        "Image": null,
+        "Icon": "function_normal",
+        "Issuer": "Lydirlona",
+        "StartLocation": {
+            "Name": "Mor Dhona",
+            "X": "22.3",
+            "Y": "6.8"
+        },
+        "StartClass": null,
+        "Job": "",
+        "Company": "Not specified",
+        "Requirement": "Not specified",
+        "Rewards": {
+            "Gil": 490,
+            "Exp": 12675,
+            "ItemsMand": [
+                {
+                    "Icon": "https://img.finalfantasyxiv.com/lds/pc/global/images/itemicon/53/531a5cd0d298ca7c83e4662901eb7a1cbe2fae61.png?n6.05",
+                    "Name": "Soul of the Crafter",
+                    "Amount": 3,
+                    "Url": "/lodestone/playguide/db/item/1d6a2afa640/"
+                },
+                {
+                    "Icon": "https://img.finalfantasyxiv.com/lds/pc/global/images/itemicon/8a/8ac6ce83bf208dfa6a7e5dfeb0ade59882323ec5.png?n6.05",
+                    "Name": "",
+                    "Amount": null
+                }
+            ],
+            "ItemsOpt": []
+        },
+        "Infos": {
+            "PrerequisiteQuest": [
+                {
+                    "Name": "The Better Half",
+                    "Url": "/lodestone/playguide/db/quest/8ef1c45e2a4/",
+                    "Area": "Ishgard",
+                    "Level": "50"
+                }
+            ],
+            "RelatedNPC": [
+                {
+                    "Name": "Alderan",
+                    "Url": "/lodestone/playguide/db/npc/npc/acc43c4413e/",
+                    "Area": "The Pillars (X:14.7 Y:10.7)"
+                }
+            ]
+        },
+        "Seq": 32,
+        "StartDependency": false
+    },
+    {
+        "ID": "e98ac728f85",
+        "Name": "This Time's for Fun",
+        "Location": "Mor Dhona",
+        "Level": 50,
+        "JournalSection": 3,
+        "JournalCategory": 44,
+        "JournalGenre": "Mor Dhonan Sidequests",
+        "Url": "/lodestone/playguide/db/quest/e98ac728f85/",
+        "Image": null,
+        "Icon": "function_normal",
+        "Issuer": "Hugubert",
+        "StartLocation": {
+            "Name": "Mor Dhona",
+            "X": "22.0",
+            "Y": "8.7"
+        },
+        "StartClass": null,
+        "Job": "",
+        "Company": "Not specified",
+        "Requirement": "Halatali",
+        "Rewards": {
+            "Gil": 939,
+            "Exp": 0,
+            "ItemsMand": [],
+            "ItemsOpt": []
+        },
+        "Infos": {
+            "PrerequisiteQuest": [
+                {
+                    "Name": "The Ultimate Weapon",
+                    "Url": "/lodestone/playguide/db/quest/3ab32cfebf8/",
+                    "Area": "Northern Thanalan",
+                    "Level": "50"
+                }
+            ],
+            "RelatedNPC": [
+                {
+                    "Name": "Arlh",
+                    "Url": "/lodestone/playguide/db/npc/npc/0eb0ae65735/",
+                    "Area": "Eastern Thanalan (X:14.6 Y:30.1)"
+                }
+            ]
+        },
+        "Seq": 23,
+        "StartDependency": false
+    },
+    {
+        "ID": "f454b4c72fe",
+        "Name": "Dropping Out",
+        "Location": "Mor Dhona",
+        "Level": 45,
+        "JournalSection": 3,
+        "JournalCategory": 44,
+        "JournalGenre": "Mor Dhonan Sidequests",
+        "Url": "/lodestone/playguide/db/quest/f454b4c72fe/",
+        "Image": null,
+        "Icon": "common_normal",
+        "Issuer": "Nazyl Duzyl",
+        "StartLocation": {
+            "Name": "Mor Dhona",
+            "X": "30.4",
+            "Y": "12.1"
+        },
+        "StartClass": null,
+        "Job": "",
+        "Company": "Not specified",
+        "Requirement": "Not specified",
+        "Rewards": {
+            "Gil": 1782,
+            "Exp": 5940,
+            "ItemsMand": [],
+            "ItemsOpt": []
+        },
+        "Infos": {
+            "PrerequisiteQuest": [
+                {
+                    "Name": "Playing the Postman",
+                    "Url": "/lodestone/playguide/db/quest/13c6b27d9bb/",
+                    "Area": "Mor Dhona",
+                    "Level": "45"
+                }
+            ],
+            "RelatedNPC": [
+                {
+                    "Name": "Kakamehi",
+                    "Url": "/lodestone/playguide/db/npc/npc/56a55f47667/",
+                    "Area": "Mor Dhona (X:22.0 Y:8.5)"
+                },
+                {
+                    "Name": "Wrought Researcher",
+                    "Url": "/lodestone/playguide/db/npc/npc/1454f2e87bf/",
+                    "Area": "Mor Dhona (X:26.9 Y:13.7)"
+                }
+            ]
+        },
+        "Seq": 15,
+        "StartDependency": false
+    },
+    {
+        "ID": "f4be7048089",
+        "Name": "Go West, Craftsman",
+        "Location": "Mor Dhona",
+        "Level": 60,
+        "JournalSection": 3,
+        "JournalCategory": 44,
+        "JournalGenre": "Mor Dhonan Sidequests",
+        "Url": "/lodestone/playguide/db/quest/f4be7048089/",
+        "Image": null,
+        "Icon": "function_normal",
+        "Issuer": "Lydirlona",
+        "StartLocation": {
+            "Name": "Mor Dhona",
+            "X": "22.3",
+            "Y": "6.8"
+        },
+        "StartClass": null,
+        "Job": "",
+        "Company": "Not specified",
+        "Requirement": "Not specified",
+        "Rewards": {
+            "Gil": 550,
+            "Exp": 0,
+            "ItemsMand": [],
+            "ItemsOpt": []
+        },
+        "Infos": {
+            "PrerequisiteQuest": [
+                {
+                    "Name": "The Better Half",
+                    "Url": "/lodestone/playguide/db/quest/8ef1c45e2a4/",
+                    "Area": "Ishgard",
+                    "Level": "50"
+                },
+                {
+                    "Name": "Inscrutable Tastes",
+                    "Url": "/lodestone/playguide/db/quest/a94b1abd066/",
+                    "Area": "Ishgard",
+                    "Level": "50"
+                }
+            ],
+            "FollowupQuest": [
+                {
+                    "Name": "O Crafter, My Crafter",
+                    "Url": "/lodestone/playguide/db/quest/432aca38d17/",
+                    "Area": "The Firmament",
+                    "Level": "70"
+                },
+                {
+                    "Name": "You Can Count on It",
+                    "Url": "/lodestone/playguide/db/quest/62f583d1653/",
+                    "Area": "The Firmament",
+                    "Level": "70"
+                },
+                {
+                    "Name": "Arms Wide Open",
+                    "Url": "/lodestone/playguide/db/quest/765dd599ef4/",
+                    "Area": "Idyllshire",
+                    "Level": "60"
+                }
+            ],
+            "RelatedNPC": [
+                {
+                    "Name": "Geimlona",
+                    "Url": "/lodestone/playguide/db/npc/npc/4bc33e70c4f/",
+                    "Area": "Idyllshire (X:5.7 Y:6.9)"
+                }
+            ]
+        },
+        "Seq": 34,
+        "StartDependency": false
+    },
+    {
+        "ID": "f65b42bf25a",
+        "Name": "The Wrath of Qarn",
+        "Location": "Mor Dhona",
+        "Level": 50,
+        "JournalSection": 3,
+        "JournalCategory": 44,
+        "JournalGenre": "Mor Dhonan Sidequests",
+        "Url": "/lodestone/playguide/db/quest/f65b42bf25a/",
+        "Image": "https://img.finalfantasyxiv.com/lds/pc/global/images/itemicon/e0/e057bf8bfc786b9668fc5e4abb7ad66cc4abd04a.png?n6.05",
+        "Icon": "function_normal",
+        "Issuer": "Hugubert",
+        "StartLocation": {
+            "Name": "Mor Dhona",
+            "X": "22.0",
+            "Y": "8.7"
+        },
+        "StartClass": null,
+        "Job": "",
+        "Company": "Not specified",
+        "Requirement": "The Sunken Temple of Qarn",
+        "Rewards": {
+            "Gil": 2064,
+            "Exp": 0,
+            "ItemsMand": [],
+            "ItemsOpt": []
+        },
+        "Infos": {
+            "PrerequisiteQuest": [
+                {
+                    "Name": "The Ultimate Weapon",
+                    "Url": "/lodestone/playguide/db/quest/3ab32cfebf8/",
+                    "Area": "Northern Thanalan",
+                    "Level": "50"
+                }
+            ],
+            "RelatedNPC": [
+                {
+                    "Name": "Bibimu",
+                    "Url": "/lodestone/playguide/db/npc/npc/373842fad56/",
+                    "Area": "Southern Thanalan (X:25.1 Y:12.6)"
+                },
+                {
+                    "Name": "Popokkuli",
+                    "Url": "/lodestone/playguide/db/npc/npc/e866070745f/",
+                    "Area": "Ul'dah - Steps of Thal (X:11.0 Y:14.1)"
+                },
+                {
+                    "Name": "Seserukka",
+                    "Url": "/lodestone/playguide/db/npc/npc/95b8e307446/",
+                    "Area": "Ul'dah - Steps of Thal (X:11.0 Y:14.1)"
+                }
+            ]
+        },
+        "Seq": 29,
+        "StartDependency": false
+    },
+    {
+        "ID": "fad3c671124",
+        "Name": "The Organ of Choice",
+        "Location": "Mor Dhona",
+        "Level": 45,
+        "JournalSection": 3,
+        "JournalCategory": 44,
+        "JournalGenre": "Mor Dhonan Sidequests",
+        "Url": "/lodestone/playguide/db/quest/fad3c671124/",
+        "Image": null,
+        "Icon": "common_normal",
+        "Issuer": "Guolgeim",
+        "StartLocation": {
+            "Name": "Mor Dhona",
+            "X": "21.9",
+            "Y": "6.4"
+        },
+        "StartClass": null,
+        "Job": "",
+        "Company": "Not specified",
+        "Requirement": "Not specified",
+        "Rewards": {
+            "Gil": 1782,
+            "Exp": 5940,
+            "ItemsMand": [],
+            "ItemsOpt": []
+        },
+        "Infos": {
+            "PrerequisiteQuest": [
+                {
+                    "Name": "Dirt and Ashes",
+                    "Url": "/lodestone/playguide/db/quest/8639390e5c0/",
+                    "Area": "Mor Dhona",
+                    "Level": "45"
+                }
+            ],
+            "FollowupQuest": [
+                {
+                    "Name": "Heart of Cermet",
+                    "Url": "/lodestone/playguide/db/quest/cd187120f92/",
+                    "Area": "Mor Dhona",
+                    "Level": "45"
+                }
+            ]
+        },
+        "Seq": 16,
+        "StartDependency": false
+    },
+    {
+        "ID": "feb5215a556",
+        "Name": "Just Tooling Around",
+        "Location": "Mor Dhona",
+        "Level": 50,
+        "JournalSection": 3,
+        "JournalCategory": 44,
+        "JournalGenre": "Mor Dhonan Sidequests",
+        "Url": "/lodestone/playguide/db/quest/feb5215a556/",
+        "Image": null,
+        "Icon": "function_normal",
+        "Issuer": "Guiding Star",
+        "StartLocation": {
+            "Name": "Mor Dhona",
+            "X": "21.9",
+            "Y": "6.9"
+        },
+        "StartClass": null,
+        "Job": "",
+        "Company": "Not specified",
+        "Requirement": "Not specified",
+        "Rewards": {
+            "Gil": 0,
+            "Exp": 0,
+            "ItemsMand": [],
+            "ItemsOpt": [
+                {
+                    "Icon": "https://img.finalfantasyxiv.com/lds/pc/global/images/itemicon/7b/7b33210b9912e4aec9614ad2d1411640d4ea2600.png?n6.05",
+                    "Name": "Pan-fried Mahi-mahi",
+                    "Amount": 3,
+                    "Url": "/lodestone/playguide/db/item/3a02d54d0ad/"
+                },
+                {
+                    "Icon": "https://img.finalfantasyxiv.com/lds/pc/global/images/itemicon/a4/a4106733d7c4bf400522e27ba51bff1cedc29cf5.png?n6.05",
+                    "Name": "Dzemael Gratin",
+                    "Amount": 3,
+                    "Url": "/lodestone/playguide/db/item/287458aa2af/"
+                },
+                {
+                    "Icon": "https://img.finalfantasyxiv.com/lds/pc/global/images/itemicon/61/61fb5cb5e9afbfb52b690aa68a8064f6b90de6f9.png?n6.05",
+                    "Name": "Landtrap Salad",
+                    "Amount": 3,
+                    "Url": "/lodestone/playguide/db/item/5f86f184a06/"
+                },
+                {
+                    "Icon": "https://img.finalfantasyxiv.com/lds/pc/global/images/itemicon/46/4696b2f027b0b33da98c53098783aef7b1e3cb58.png?n6.05",
+                    "Name": "Bouillabaisse",
+                    "Amount": 3,
+                    "Url": "/lodestone/playguide/db/item/4eb57fadd27/"
+                },
+                {
+                    "Icon": "https://img.finalfantasyxiv.com/lds/pc/global/images/itemicon/a3/a3129556d3c2943a99b80ddf0ce330211d07a23e.png?n6.05",
+                    "Name": "Rolanberry Cheesecake",
+                    "Amount": 3,
+                    "Url": "/lodestone/playguide/db/item/2d9f0fd48d9/"
+                }
+            ]
+        },
+        "Infos": {},
+        "Seq": 25,
+        "StartDependency": false
+    },
+    {
+        "ID": "ff0d9aa6841",
+        "Name": "Morbid Motivation",
+        "Location": "Mor Dhona",
+        "Level": 50,
+        "JournalSection": 3,
+        "JournalCategory": 44,
+        "JournalGenre": "Mor Dhonan Sidequests",
+        "Url": "/lodestone/playguide/db/quest/ff0d9aa6841/",
+        "Image": null,
+        "Icon": "function_repeat",
+        "Issuer": "Brangwine",
+        "StartLocation": {
+            "Name": "Mor Dhona",
+            "X": "21.9",
+            "Y": "6.7"
+        },
+        "StartClass": null,
+        "Job": "",
+        "Company": "Not specified",
+        "Requirement": "Not specified",
+        "Rewards": {
+            "Gil": 0,
+            "Exp": 0,
+            "ItemsMand": [
+                {
+                    "Icon": "https://img.finalfantasyxiv.com/lds/pc/global/images/itemicon/12/122ce9f6d4bfbaaca5618cd0c2301a1018188b44.png?n6.05",
+                    "Name": "Mysterious Map",
+                    "Amount": 1,
+                    "Url": "/lodestone/playguide/db/item/c93aca6ba89/"
+                }
+            ],
+            "ItemsOpt": []
+        },
+        "Infos": {
+            "PrerequisiteQuest": [
+                {
+                    "Name": "One Man's Trash",
+                    "Url": "/lodestone/playguide/db/quest/e07310dc045/",
+                    "Area": "North Shroud",
+                    "Level": "50"
+                }
+            ]
+        },
+        "Seq": 20,
         "StartDependency": false
     }
 ]

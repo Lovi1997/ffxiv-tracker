@@ -1,27 +1,27 @@
 [
     {
-        "ID": "40020a8a0b5",
-        "Name": "Kampfsimulation: Sephirot",
-        "Location": "Sonnenstein",
+        "ID": "17fc37d0397",
+        "Name": "Auf den Schwingen der Zeit",
+        "Location": "Dravanisches Hinterland",
         "Level": 60,
         "JournalSection": 2,
         "JournalCategory": 15,
-        "JournalGenre": "Primae (Heavensward)",
-        "Url": "/lodestone/playguide/db/quest/40020a8a0b5/",
-        "Image": "https://img.finalfantasyxiv.com/lds/pc/global/images/itemicon/f3/f3fdd0d726b2103598e8db0fad33b229f2242943.png?n5.55",
+        "JournalGenre": "Alexander",
+        "Url": "/lodestone/playguide/db/quest/17fc37d0397/",
+        "Image": "https://img.finalfantasyxiv.com/lds/pc/global/images/itemicon/14/140831b51813fa5bb339eda3e727b17553ddbd07.png?n6.05",
         "Icon": "function_normal",
-        "Issuer": "Unukalhai",
+        "Issuer": "Biggs",
         "StartLocation": {
-            "Name": "Sonnenstein",
-            "X": "6.1",
-            "Y": "5.2"
+            "Name": "Dravanisches Hinterland",
+            "X": "23.5",
+            "Y": "23.9"
         },
         "StartClass": null,
         "Job": "",
         "Company": "Keine Angabe",
         "Requirement": "Keine Angabe",
         "Rewards": {
-            "Gil": 934,
+            "Gil": 3508,
             "Exp": 0,
             "ItemsMand": [],
             "ItemsOpt": []
@@ -29,51 +29,67 @@
         "Infos": {
             "PrerequisiteQuest": [
                 {
-                    "Name": "Eine Ikone erwacht",
-                    "Url": "/lodestone/playguide/db/quest/71fe495b79d/",
-                    "Area": "Sonnenstein",
+                    "Name": "Geschichte in Gefahr",
+                    "Url": "/lodestone/playguide/db/quest/b4ee65bf49a/",
+                    "Area": "Dravanisches Hinterland",
                     "Level": "60"
                 }
             ],
             "FollowupQuest": [
                 {
-                    "Name": "Wiedersehen auf dem ersten Splitter",
-                    "Url": "/lodestone/playguide/db/quest/f3f792f1b91/",
-                    "Area": "Crystarium",
-                    "Level": "80"
+                    "Name": "Eine Chronik der Zukunft",
+                    "Url": "/lodestone/playguide/db/quest/4ef04b0db1c/",
+                    "Area": "Dravanisches Hinterland",
+                    "Level": "60"
                 }
             ],
             "RelatedNPC": [
                 {
-                    "Name": "Authentifizierungssystem",
-                    "Url": "/lodestone/playguide/db/npc/npc/758d22a0954/",
-                    "Area": "Azys Lla (X:25.6 Y:22.4)"
+                    "Name": "Biggs",
+                    "Url": "/lodestone/playguide/db/npc/npc/eecb1d21ecf/",
+                    "Area": "Dravanisches Hinterland (X:22.2 Y:27.6)"
+                },
+                {
+                    "Name": "Mide",
+                    "Url": "/lodestone/playguide/db/npc/npc/9eff2d4fee1/",
+                    "Area": "Dravanisches Hinterland (X:23.5 Y:23.8)"
+                },
+                {
+                    "Name": "Rückblix",
+                    "Url": "/lodestone/playguide/db/npc/npc/060e6a3d283/",
+                    "Area": "Dravanisches Hinterland (X:22.2 Y:27.7)"
+                },
+                {
+                    "Name": "Wedge",
+                    "Url": "/lodestone/playguide/db/npc/npc/146554449d6/",
+                    "Area": "Dravanisches Hinterland (X:23.5 Y:23.9)"
+                },
+                {
+                    "Name": "Wedge",
+                    "Url": "/lodestone/playguide/db/npc/npc/347af340fb1/",
+                    "Area": "Dravanisches Hinterland (X:22.1 Y:27.6)"
                 }
             ]
         },
-        "Seq": 7,
-        "oldID": 67817,
-        "Map": {
-            "ID": 136
-        },
+        "Seq": 11,
         "StartDependency": false
     },
     {
-        "ID": "4188c7ded61",
-        "Name": "Uralte Götter",
-        "Location": "Ishgard",
+        "ID": "3862b01959f",
+        "Name": "Dystopie für Dummies",
+        "Location": "Dravanisches Hinterland",
         "Level": 60,
         "JournalSection": 2,
         "JournalCategory": 15,
-        "JournalGenre": "Primae (Heavensward)",
-        "Url": "/lodestone/playguide/db/quest/4188c7ded61/",
-        "Image": "https://img.finalfantasyxiv.com/lds/pc/global/images/itemicon/cd/cd7151b7a638fe8a3e5c7e1a5bb1b698723335c9.png?n5.55",
+        "JournalGenre": "Alexander",
+        "Url": "/lodestone/playguide/db/quest/3862b01959f/",
+        "Image": "https://img.finalfantasyxiv.com/lds/pc/global/images/itemicon/47/47925fc8d470ee7c6cd2079a4d967670b1ed89b4.png?n6.05",
         "Icon": "function_normal",
-        "Issuer": "Torsefers",
+        "Issuer": "Biggs",
         "StartLocation": {
-            "Name": "Strebewerk",
-            "X": "11.7",
-            "Y": "11.6"
+            "Name": "Dravanisches Hinterland",
+            "X": "21.7",
+            "Y": "18.8"
         },
         "StartClass": null,
         "Job": "",
@@ -88,445 +104,146 @@
         "Infos": {
             "PrerequisiteQuest": [
                 {
-                    "Name": "Himmelwärts",
-                    "Url": "/lodestone/playguide/db/quest/29fa56153f5/",
-                    "Area": "Azys Lla",
+                    "Name": "Das Werk eines Visionärs",
+                    "Url": "/lodestone/playguide/db/quest/ef2efbe411f/",
+                    "Area": "Dravanisches Hinterland",
                     "Level": "60"
                 }
             ],
             "FollowupQuest": [
                 {
-                    "Name": "Eine Ikone erwacht",
-                    "Url": "/lodestone/playguide/db/quest/71fe495b79d/",
-                    "Area": "Sonnenstein",
-                    "Level": "60"
-                },
-                {
-                    "Name": "Eine neue Bedrohung: Bismarck",
-                    "Url": "/lodestone/playguide/db/quest/5d671001b22/",
-                    "Area": "Sonnenstein",
-                    "Level": "60"
-                },
-                {
-                    "Name": "Eine neue Bedrohung: Ravana",
-                    "Url": "/lodestone/playguide/db/quest/fe1cf47259a/",
-                    "Area": "Sonnenstein",
-                    "Level": "60"
-                }
-            ]
-        },
-        "Seq": 1,
-        "oldID": 67650,
-        "Map": {
-            "ID": 219
-        },
-        "StartDependency": false
-    },
-    {
-        "ID": "4ef025cf458",
-        "Name": "Irrwege der Entwicklung",
-        "Location": "Sonnenstein",
-        "Level": 60,
-        "JournalSection": 2,
-        "JournalCategory": 15,
-        "JournalGenre": "Primae (Heavensward)",
-        "Url": "/lodestone/playguide/db/quest/4ef025cf458/",
-        "Image": "https://img.finalfantasyxiv.com/lds/pc/global/images/itemicon/39/39dc5230f42f21c2419bba43879db4bd9d163bbb.png?n5.55",
-        "Icon": "function_normal",
-        "Issuer": "Unukalhai",
-        "StartLocation": {
-            "Name": "Sonnenstein",
-            "X": "6.1",
-            "Y": "5.2"
-        },
-        "StartClass": null,
-        "Job": "",
-        "Company": "Keine Angabe",
-        "Requirement": "Keine Angabe",
-        "Rewards": {
-            "Gil": 5000,
-            "Exp": 0,
-            "ItemsMand": [],
-            "ItemsOpt": []
-        },
-        "Infos": {
-            "PrerequisiteQuest": [
-                {
-                    "Name": "Ein verzweifelter Plan",
-                    "Url": "/lodestone/playguide/db/quest/599e73dcbc2/",
-                    "Area": "Sonnenstein",
-                    "Level": "60"
-                }
-            ],
-            "FollowupQuest": [
-                {
-                    "Name": "Kampfsimulation: Zurvan",
-                    "Url": "/lodestone/playguide/db/quest/7be61701434/",
-                    "Area": "Sonnenstein",
+                    "Name": "Stich ins Herz",
+                    "Url": "/lodestone/playguide/db/quest/b08d71e821e/",
+                    "Area": "Dravanisches Hinterland",
                     "Level": "60"
                 }
             ],
             "RelatedNPC": [
                 {
-                    "Name": "Authentifizierungssystem",
-                    "Url": "/lodestone/playguide/db/npc/npc/758d22a0954/",
-                    "Area": "Azys Lla (X:25.6 Y:22.4)"
+                    "Name": "Mide",
+                    "Url": "/lodestone/playguide/db/npc/npc/bb5dee62305/",
+                    "Area": "Dravanisches Hinterland (X:21.7 Y:18.9)"
                 },
                 {
-                    "Name": "Unukalhai",
-                    "Url": "/lodestone/playguide/db/npc/npc/d8ae16b75d6/",
-                    "Area": "Azys Lla (X:25.5 Y:22.4)"
+                    "Name": "Rundblox",
+                    "Url": "/lodestone/playguide/db/npc/npc/db244314c29/",
+                    "Area": "Dravanisches Hinterland (X:21.7 Y:18.8)"
                 },
                 {
-                    "Name": "Decurio der VI. Legion",
-                    "Url": "/lodestone/playguide/db/npc/npc/108ea48eb1e/",
-                    "Area": "Zentral-Azys Lla (X:6.3 Y:6.1)"
-                },
-                {
-                    "Name": "Krile",
-                    "Url": "/lodestone/playguide/db/npc/npc/2276bea72b0/",
-                    "Area": "Zentral-Azys Lla (X:6.2 Y:6.2)"
-                },
-                {
-                    "Name": "Krile",
-                    "Url": "/lodestone/playguide/db/npc/npc/31b28d7b525/",
-                    "Area": "Zentral-Azys Lla (X:6.1 Y:6.2)"
-                },
-                {
-                    "Name": "Soldat der VI. Legion",
-                    "Url": "/lodestone/playguide/db/npc/npc/3d891cc1743/",
-                    "Area": "Zentral-Azys Lla (X:6.3 Y:6.1)"
-                },
-                {
-                    "Name": "Unukalhai",
-                    "Url": "/lodestone/playguide/db/npc/npc/1b2605af4e3/",
-                    "Area": "Zentral-Azys Lla (X:6.0 Y:6.2)"
-                },
-                {
-                    "Name": "Urianger",
-                    "Url": "/lodestone/playguide/db/npc/npc/a0d7dd20f03/",
-                    "Area": "Zentral-Azys Lla (X:6.1 Y:6.3)"
-                },
-                {
-                    "Name": "Y'shtola",
-                    "Url": "/lodestone/playguide/db/npc/npc/0a1adefd596/",
-                    "Area": "Zentral-Azys Lla (X:6.1 Y:6.3)"
-                }
-            ]
-        },
-        "Seq": 4,
-        "oldID": 67930,
-        "Map": {
-            "ID": 136
-        },
-        "StartDependency": false
-    },
-    {
-        "ID": "599e73dcbc2",
-        "Name": "Ein verzweifelter Plan",
-        "Location": "Sonnenstein",
-        "Level": 60,
-        "JournalSection": 2,
-        "JournalCategory": 15,
-        "JournalGenre": "Primae (Heavensward)",
-        "Url": "/lodestone/playguide/db/quest/599e73dcbc2/",
-        "Image": "https://img.finalfantasyxiv.com/lds/pc/global/images/itemicon/1f/1f77e7b1196d08743b1806f91cf7d89f324f430a.png?n5.55",
-        "Icon": "function_normal",
-        "Issuer": "Unukalhai",
-        "StartLocation": {
-            "Name": "Sonnenstein",
-            "X": "6.1",
-            "Y": "5.2"
-        },
-        "StartClass": null,
-        "Job": "",
-        "Company": "Keine Angabe",
-        "Requirement": "Keine Angabe",
-        "Rewards": {
-            "Gil": 5000,
-            "Exp": 0,
-            "ItemsMand": [],
-            "ItemsOpt": []
-        },
-        "Infos": {
-            "PrerequisiteQuest": [
-                {
-                    "Name": "Siegelbrecher",
-                    "Url": "/lodestone/playguide/db/quest/7271488252e/",
-                    "Area": "Sonnenstein",
-                    "Level": "60"
-                }
-            ],
-            "FollowupQuest": [
-                {
-                    "Name": "Irrwege der Entwicklung",
-                    "Url": "/lodestone/playguide/db/quest/4ef025cf458/",
-                    "Area": "Sonnenstein",
-                    "Level": "60"
-                },
-                {
-                    "Name": "Kampfsimulation: Sophia",
-                    "Url": "/lodestone/playguide/db/quest/fb6d1706a94/",
-                    "Area": "Sonnenstein",
-                    "Level": "60"
-                }
-            ],
-            "RelatedNPC": [
-                {
-                    "Name": "Unukalhai",
-                    "Url": "/lodestone/playguide/db/npc/npc/5e736a08c7b/",
-                    "Area": "Azys Lla (X:26.7 Y:22.6)"
-                }
-            ]
-        },
-        "Seq": 3,
-        "oldID": 67868,
-        "Map": {
-            "ID": 136
-        },
-        "StartDependency": false
-    },
-    {
-        "ID": "5d671001b22",
-        "Name": "Eine neue Bedrohung: Bismarck",
-        "Location": "Sonnenstein",
-        "Level": 60,
-        "JournalSection": 2,
-        "JournalCategory": 15,
-        "JournalGenre": "Primae (Heavensward)",
-        "Url": "/lodestone/playguide/db/quest/5d671001b22/",
-        "Image": "https://img.finalfantasyxiv.com/lds/pc/global/images/itemicon/d4/d4e1086911e97cd7fd9255fb9c500d69f103bec9.png?n5.55",
-        "Icon": "function_normal",
-        "Issuer": "Unukalhai",
-        "StartLocation": {
-            "Name": "Sonnenstein",
-            "X": "6.1",
-            "Y": "5.2"
-        },
-        "StartClass": null,
-        "Job": "",
-        "Company": "Keine Angabe",
-        "Requirement": "Keine Angabe",
-        "Rewards": {
-            "Gil": 5000,
-            "Exp": 0,
-            "ItemsMand": [],
-            "ItemsOpt": []
-        },
-        "Infos": {
-            "PrerequisiteQuest": [
-                {
-                    "Name": "Himmelwärts",
-                    "Url": "/lodestone/playguide/db/quest/29fa56153f5/",
-                    "Area": "Azys Lla",
-                    "Level": "60"
-                },
-                {
-                    "Name": "Uralte Götter",
-                    "Url": "/lodestone/playguide/db/quest/4188c7ded61/",
-                    "Area": "Ishgard",
-                    "Level": "60"
-                }
-            ],
-            "FollowupQuest": [
-                {
-                    "Name": "Wiedersehen auf dem ersten Splitter",
-                    "Url": "/lodestone/playguide/db/quest/f3f792f1b91/",
-                    "Area": "Crystarium",
-                    "Level": "80"
-                }
-            ],
-            "RelatedNPC": [
-                {
-                    "Name": "Cid",
-                    "Url": "/lodestone/playguide/db/npc/npc/6378e03118e/",
-                    "Area": "Abalathisches Wolkenmeer (X:6.3 Y:25.7)"
-                },
-                {
-                    "Name": "Sonu Vanu",
-                    "Url": "/lodestone/playguide/db/npc/npc/86fa51a3d8e/",
-                    "Area": "Abalathisches Wolkenmeer (X:11.7 Y:14.8)"
-                }
-            ],
-            "RelatedAchievements": [
-                {
-                    "Name": "Kriegstriade, ich hör dir trapsen",
-                    "Url": "/lodestone/playguide/db/achievement/4fa0131f0f6/",
-                    "Reward": "Titel",
-                    "Points": "10"
-                }
-            ]
-        },
-        "Seq": 5,
-        "oldID": 67651,
-        "Map": {
-            "ID": 136
-        },
-        "StartDependency": false
-    },
-    {
-        "ID": "71fe495b79d",
-        "Name": "Eine Ikone erwacht",
-        "Location": "Sonnenstein",
-        "Level": 60,
-        "JournalSection": 2,
-        "JournalCategory": 15,
-        "JournalGenre": "Primae (Heavensward)",
-        "Url": "/lodestone/playguide/db/quest/71fe495b79d/",
-        "Image": "https://img.finalfantasyxiv.com/lds/pc/global/images/itemicon/3a/3aa4f907910565763bf64dc8aabcbc249c2378f2.png?n5.55",
-        "Icon": "function_normal",
-        "Issuer": "Unukalhai",
-        "StartLocation": {
-            "Name": "Sonnenstein",
-            "X": "6.1",
-            "Y": "5.2"
-        },
-        "StartClass": null,
-        "Job": "",
-        "Company": "Keine Angabe",
-        "Requirement": "Keine Angabe",
-        "Rewards": {
-            "Gil": 3722,
-            "Exp": 0,
-            "ItemsMand": [],
-            "ItemsOpt": []
-        },
-        "Infos": {
-            "PrerequisiteQuest": [
-                {
-                    "Name": "Licht und Dunkel",
-                    "Url": "/lodestone/playguide/db/quest/02f039d7119/",
-                    "Area": "Ishgard",
-                    "Level": "60"
-                },
-                {
-                    "Name": "Uralte Götter",
-                    "Url": "/lodestone/playguide/db/quest/4188c7ded61/",
-                    "Area": "Ishgard",
-                    "Level": "60"
-                }
-            ],
-            "FollowupQuest": [
-                {
-                    "Name": "Siegelbrecher",
-                    "Url": "/lodestone/playguide/db/quest/7271488252e/",
-                    "Area": "Sonnenstein",
-                    "Level": "60"
-                },
-                {
-                    "Name": "Kampfsimulation: Sephirot",
-                    "Url": "/lodestone/playguide/db/quest/40020a8a0b5/",
-                    "Area": "Sonnenstein",
-                    "Level": "60"
-                }
-            ],
-            "RelatedNPC": [
-                {
-                    "Name": "Authentifizierungssystem",
-                    "Url": "/lodestone/playguide/db/npc/npc/758d22a0954/",
-                    "Area": "Azys Lla (X:25.6 Y:22.4)"
-                },
-                {
-                    "Name": "Unukalhai",
-                    "Url": "/lodestone/playguide/db/npc/npc/091f01f305d/",
-                    "Area": "Azys Lla (X:26.7 Y:22.4)"
-                }
-            ]
-        },
-        "Seq": 1,
-        "oldID": 67766,
-        "Map": {
-            "ID": 136
-        },
-        "StartDependency": false
-    },
-    {
-        "ID": "7271488252e",
-        "Name": "Siegelbrecher",
-        "Location": "Sonnenstein",
-        "Level": 60,
-        "JournalSection": 2,
-        "JournalCategory": 15,
-        "JournalGenre": "Primae (Heavensward)",
-        "Url": "/lodestone/playguide/db/quest/7271488252e/",
-        "Image": "https://img.finalfantasyxiv.com/lds/pc/global/images/itemicon/90/90acbafdf95a6be15d9ed5d2f6326136bc5e67aa.png?n5.55",
-        "Icon": "function_normal",
-        "Issuer": "Unukalhai",
-        "StartLocation": {
-            "Name": "Sonnenstein",
-            "X": "6.1",
-            "Y": "5.2"
-        },
-        "StartClass": null,
-        "Job": "",
-        "Company": "Keine Angabe",
-        "Requirement": "Keine Angabe",
-        "Rewards": {
-            "Gil": 1935,
-            "Exp": 0,
-            "ItemsMand": [],
-            "ItemsOpt": []
-        },
-        "Infos": {
-            "PrerequisiteQuest": [
-                {
-                    "Name": "Eine Ikone erwacht",
-                    "Url": "/lodestone/playguide/db/quest/71fe495b79d/",
-                    "Area": "Sonnenstein",
-                    "Level": "60"
-                }
-            ],
-            "FollowupQuest": [
-                {
-                    "Name": "Ein verzweifelter Plan",
-                    "Url": "/lodestone/playguide/db/quest/599e73dcbc2/",
-                    "Area": "Sonnenstein",
-                    "Level": "60"
-                }
-            ],
-            "RelatedNPC": [
-                {
-                    "Name": "Unukalhai",
-                    "Url": "/lodestone/playguide/db/npc/npc/d30486a8c26/",
-                    "Area": "Azys Lla (X:21.3 Y:22.6)"
-                },
-                {
-                    "Name": "Unukalhai",
-                    "Url": "/lodestone/playguide/db/npc/npc/c842800e8ae/",
-                    "Area": "Azys Lla (X:21.2 Y:22.6)"
+                    "Name": "Wedge",
+                    "Url": "/lodestone/playguide/db/npc/npc/d7775371779/",
+                    "Area": "Dravanisches Hinterland (X:21.8 Y:18.9)"
                 }
             ]
         },
         "Seq": 2,
-        "oldID": 67824,
-        "Map": {
-            "ID": 136
-        },
         "StartDependency": false
     },
     {
-        "ID": "7be61701434",
-        "Name": "Kampfsimulation: Zurvan",
-        "Location": "Sonnenstein",
+        "ID": "4ef04b0db1c",
+        "Name": "Eine Chronik der Zukunft",
+        "Location": "Dravanisches Hinterland",
         "Level": 60,
         "JournalSection": 2,
         "JournalCategory": 15,
-        "JournalGenre": "Primae (Heavensward)",
-        "Url": "/lodestone/playguide/db/quest/7be61701434/",
-        "Image": "https://img.finalfantasyxiv.com/lds/pc/global/images/itemicon/86/86457584b68e8c8354ca75b8c6ef22d6249e7035.png?n5.55",
+        "JournalGenre": "Alexander",
+        "Url": "/lodestone/playguide/db/quest/4ef04b0db1c/",
+        "Image": "https://img.finalfantasyxiv.com/lds/pc/global/images/itemicon/c7/c737eaf2d2905fe87797a0d8438928001fff47ff.png?n6.05",
         "Icon": "function_normal",
-        "Issuer": "Unukalhai",
+        "Issuer": "Biggs",
         "StartLocation": {
-            "Name": "Sonnenstein",
-            "X": "6.1",
-            "Y": "5.2"
+            "Name": "Dravanisches Hinterland",
+            "X": "21.5",
+            "Y": "19.5"
         },
         "StartClass": null,
         "Job": "",
         "Company": "Keine Angabe",
         "Requirement": "Keine Angabe",
         "Rewards": {
-            "Gil": 934,
+            "Gil": 3508,
+            "Exp": 0,
+            "ItemsMand": [
+                {
+                    "Icon": "https://img.finalfantasyxiv.com/lds/pc/global/images/itemicon/7e/7eaa53e1fe9e2bd80f81d9ce69c98c24f6223b0b.png?n6.05",
+                    "Name": "Notenrolle von „Exponential Entropy“",
+                    "Amount": 1,
+                    "Url": "/lodestone/playguide/db/item/474235ce978/"
+                }
+            ],
+            "ItemsOpt": []
+        },
+        "Infos": {
+            "PrerequisiteQuest": [
+                {
+                    "Name": "Auf den Schwingen der Zeit",
+                    "Url": "/lodestone/playguide/db/quest/17fc37d0397/",
+                    "Area": "Dravanisches Hinterland",
+                    "Level": "60"
+                }
+            ],
+            "FollowupQuest": [
+                {
+                    "Name": "Hazza la vizza, Gobbie",
+                    "Url": "/lodestone/playguide/db/quest/fb49c3f6128/",
+                    "Area": "Dravanisches Hinterland",
+                    "Level": "60"
+                }
+            ],
+            "RelatedNPC": [
+                {
+                    "Name": "Biggs",
+                    "Url": "/lodestone/playguide/db/npc/npc/bd4752151a7/",
+                    "Area": "Dravanisches Hinterland (X:21.7 Y:18.8)"
+                },
+                {
+                    "Name": "Rückblix",
+                    "Url": "/lodestone/playguide/db/npc/npc/4986a71548e/",
+                    "Area": "Dravanisches Hinterland (X:21.6 Y:19.6)"
+                },
+                {
+                    "Name": "Wedge",
+                    "Url": "/lodestone/playguide/db/npc/npc/d7775371779/",
+                    "Area": "Dravanisches Hinterland (X:21.8 Y:18.9)"
+                },
+                {
+                    "Name": "Wedge",
+                    "Url": "/lodestone/playguide/db/npc/npc/60b226fa602/",
+                    "Area": "Dravanisches Hinterland (X:21.5 Y:19.5)"
+                },
+                {
+                    "Name": "Wedge",
+                    "Url": "/lodestone/playguide/db/npc/npc/196564c41a3/",
+                    "Area": "Dravanisches Hinterland (X:21.8 Y:18.8)"
+                }
+            ]
+        },
+        "Seq": 12,
+        "StartDependency": false
+    },
+    {
+        "ID": "6f5072b0464",
+        "Name": "Alles zu meiner Zeit",
+        "Location": "Dravanisches Hinterland",
+        "Level": 60,
+        "JournalSection": 2,
+        "JournalCategory": 15,
+        "JournalGenre": "Alexander",
+        "Url": "/lodestone/playguide/db/quest/6f5072b0464/",
+        "Image": "https://img.finalfantasyxiv.com/lds/pc/global/images/itemicon/7e/7ed6373ce017255b507228418853754787c3a7ee.png?n6.05",
+        "Icon": "function_normal",
+        "Issuer": "Rückblix",
+        "StartLocation": {
+            "Name": "Dravanisches Hinterland",
+            "X": "21.8",
+            "Y": "18.9"
+        },
+        "StartClass": null,
+        "Job": "",
+        "Company": "Keine Angabe",
+        "Requirement": "Keine Angabe",
+        "Rewards": {
+            "Gil": 745,
             "Exp": 0,
             "ItemsMand": [],
             "ItemsOpt": []
@@ -534,58 +251,98 @@
         "Infos": {
             "PrerequisiteQuest": [
                 {
-                    "Name": "Irrwege der Entwicklung",
-                    "Url": "/lodestone/playguide/db/quest/4ef025cf458/",
-                    "Area": "Sonnenstein",
+                    "Name": "Ganz nach Plan",
+                    "Url": "/lodestone/playguide/db/quest/957dbbb403d/",
+                    "Area": "Dravanisches Hinterland",
                     "Level": "60"
                 }
             ],
             "FollowupQuest": [
                 {
-                    "Name": "Wiedersehen auf dem ersten Splitter",
-                    "Url": "/lodestone/playguide/db/quest/f3f792f1b91/",
-                    "Area": "Crystarium",
-                    "Level": "80"
+                    "Name": "Geschichte in Gefahr",
+                    "Url": "/lodestone/playguide/db/quest/b4ee65bf49a/",
+                    "Area": "Dravanisches Hinterland",
+                    "Level": "60"
+                },
+                {
+                    "Name": "Gesang der Gigantomanie",
+                    "Url": "/lodestone/playguide/db/quest/c36477b1baf/",
+                    "Area": "Mor Dhona",
+                    "Level": "60"
                 }
             ],
             "RelatedNPC": [
                 {
-                    "Name": "Authentifizierungssystem",
-                    "Url": "/lodestone/playguide/db/npc/npc/758d22a0954/",
-                    "Area": "Azys Lla (X:25.6 Y:22.4)"
+                    "Name": "Biggs",
+                    "Url": "/lodestone/playguide/db/npc/npc/d90236226e8/",
+                    "Area": "Dravanisches Hinterland (X:21.7 Y:18.8)"
+                },
+                {
+                    "Name": "Biggs",
+                    "Url": "/lodestone/playguide/db/npc/npc/2e441b54c7e/",
+                    "Area": "Dravanisches Hinterland (X:21.5 Y:19.5)"
+                },
+                {
+                    "Name": "Mide",
+                    "Url": "/lodestone/playguide/db/npc/npc/18bf436290d/",
+                    "Area": "Dravanisches Hinterland (X:21.7 Y:18.8)"
+                },
+                {
+                    "Name": "Mide",
+                    "Url": "/lodestone/playguide/db/npc/npc/6c1875fc58e/",
+                    "Area": "Dravanisches Hinterland (X:21.5 Y:19.6)"
+                },
+                {
+                    "Name": "Mide",
+                    "Url": "/lodestone/playguide/db/npc/npc/e14957174d1/",
+                    "Area": "Dravanisches Hinterland (X:21.7 Y:18.9)"
+                },
+                {
+                    "Name": "Wedge",
+                    "Url": "/lodestone/playguide/db/npc/npc/d7775371779/",
+                    "Area": "Dravanisches Hinterland (X:21.8 Y:18.9)"
+                },
+                {
+                    "Name": "Wedge",
+                    "Url": "/lodestone/playguide/db/npc/npc/60b226fa602/",
+                    "Area": "Dravanisches Hinterland (X:21.5 Y:19.5)"
+                }
+            ],
+            "RelatedAchievements": [
+                {
+                    "Name": "Von Midas berührt",
+                    "Url": "/lodestone/playguide/db/achievement/2ef0ccb79ba/",
+                    "Reward": "Titel",
+                    "Points": "10"
                 }
             ]
         },
         "Seq": 9,
-        "oldID": 67931,
-        "Map": {
-            "ID": 136
-        },
         "StartDependency": false
     },
     {
-        "ID": "fb6d1706a94",
-        "Name": "Kampfsimulation: Sophia",
-        "Location": "Sonnenstein",
+        "ID": "957dbbb403d",
+        "Name": "Ganz nach Plan",
+        "Location": "Dravanisches Hinterland",
         "Level": 60,
         "JournalSection": 2,
         "JournalCategory": 15,
-        "JournalGenre": "Primae (Heavensward)",
-        "Url": "/lodestone/playguide/db/quest/fb6d1706a94/",
-        "Image": "https://img.finalfantasyxiv.com/lds/pc/global/images/itemicon/c2/c292c93da52d530f99438b782c7f2f3f6762975a.png?n5.55",
+        "JournalGenre": "Alexander",
+        "Url": "/lodestone/playguide/db/quest/957dbbb403d/",
+        "Image": "https://img.finalfantasyxiv.com/lds/pc/global/images/itemicon/0d/0de9d4f0d7c3f6b2901ec8dae41d5d211ff2810a.png?n6.05",
         "Icon": "function_normal",
-        "Issuer": "Unukalhai",
+        "Issuer": "Rückblix",
         "StartLocation": {
-            "Name": "Sonnenstein",
-            "X": "6.1",
-            "Y": "5.2"
+            "Name": "Dravanisches Hinterland",
+            "X": "21.8",
+            "Y": "18.9"
         },
         "StartClass": null,
         "Job": "",
         "Company": "Keine Angabe",
         "Requirement": "Keine Angabe",
         "Rewards": {
-            "Gil": 934,
+            "Gil": 3573,
             "Exp": 0,
             "ItemsMand": [],
             "ItemsOpt": []
@@ -593,51 +350,223 @@
         "Infos": {
             "PrerequisiteQuest": [
                 {
-                    "Name": "Ein verzweifelter Plan",
-                    "Url": "/lodestone/playguide/db/quest/599e73dcbc2/",
-                    "Area": "Sonnenstein",
+                    "Name": "Aggressive Ablenkung",
+                    "Url": "/lodestone/playguide/db/quest/aa17121e0f8/",
+                    "Area": "Dravanisches Hinterland",
                     "Level": "60"
                 }
             ],
             "FollowupQuest": [
                 {
-                    "Name": "Wiedersehen auf dem ersten Splitter",
-                    "Url": "/lodestone/playguide/db/quest/f3f792f1b91/",
-                    "Area": "Crystarium",
-                    "Level": "80"
+                    "Name": "Alles zu meiner Zeit",
+                    "Url": "/lodestone/playguide/db/quest/6f5072b0464/",
+                    "Area": "Dravanisches Hinterland",
+                    "Level": "60"
                 }
             ],
             "RelatedNPC": [
                 {
-                    "Name": "Authentifizierungssystem",
-                    "Url": "/lodestone/playguide/db/npc/npc/758d22a0954/",
-                    "Area": "Azys Lla (X:25.6 Y:22.4)"
+                    "Name": "Biggs",
+                    "Url": "/lodestone/playguide/db/npc/npc/d90236226e8/",
+                    "Area": "Dravanisches Hinterland (X:21.7 Y:18.8)"
+                },
+                {
+                    "Name": "Lichtblix",
+                    "Url": "/lodestone/playguide/db/npc/npc/e1211fe0f13/",
+                    "Area": "Dravanisches Hinterland (X:20.6 Y:26.1)"
+                },
+                {
+                    "Name": "Mide",
+                    "Url": "/lodestone/playguide/db/npc/npc/e14957174d1/",
+                    "Area": "Dravanisches Hinterland (X:21.7 Y:18.9)"
+                },
+                {
+                    "Name": "Wedge",
+                    "Url": "/lodestone/playguide/db/npc/npc/d7775371779/",
+                    "Area": "Dravanisches Hinterland (X:21.8 Y:18.9)"
                 }
             ]
         },
         "Seq": 8,
-        "oldID": 67869,
-        "Map": {
-            "ID": 136
-        },
         "StartDependency": false
     },
     {
-        "ID": "fe1cf47259a",
-        "Name": "Eine neue Bedrohung: Ravana",
-        "Location": "Sonnenstein",
+        "ID": "9aff08a4f0e",
+        "Name": "Ein hübsches Luftbild",
+        "Location": "Dravanisches Hinterland",
         "Level": 60,
         "JournalSection": 2,
         "JournalCategory": 15,
-        "JournalGenre": "Primae (Heavensward)",
-        "Url": "/lodestone/playguide/db/quest/fe1cf47259a/",
-        "Image": "https://img.finalfantasyxiv.com/lds/pc/global/images/itemicon/7c/7cb11f04a84be46de4fab2bd8fe91e2bd507065e.png?n5.55",
+        "JournalGenre": "Alexander",
+        "Url": "/lodestone/playguide/db/quest/9aff08a4f0e/",
+        "Image": "https://img.finalfantasyxiv.com/lds/pc/global/images/itemicon/d1/d1d505cebd4b69812b77f54637898a419679d9f8.png?n6.05",
         "Icon": "function_normal",
-        "Issuer": "Unukalhai",
+        "Issuer": "Rotflox",
         "StartLocation": {
-            "Name": "Sonnenstein",
-            "X": "6.1",
-            "Y": "5.2"
+            "Name": "Dravanisches Hinterland",
+            "X": "23.9",
+            "Y": "26.5"
+        },
+        "StartClass": null,
+        "Job": "",
+        "Company": "Keine Angabe",
+        "Requirement": "Keine Angabe",
+        "Rewards": {
+            "Gil": 5000,
+            "Exp": 0,
+            "ItemsMand": [
+                {
+                    "Icon": "https://img.finalfantasyxiv.com/lds/pc/global/images/itemicon/10/10262a2036e2fae36ab0f0202dd7af7bd32fa721.png?n6.05",
+                    "Name": "Angelaufener gordischer Bolzen",
+                    "Amount": 1,
+                    "Url": "/lodestone/playguide/db/item/18b1116384f/"
+                }
+            ],
+            "ItemsOpt": []
+        },
+        "Infos": {
+            "PrerequisiteQuest": [
+                {
+                    "Name": "Stich ins Herz",
+                    "Url": "/lodestone/playguide/db/quest/b08d71e821e/",
+                    "Area": "Dravanisches Hinterland",
+                    "Level": "60"
+                }
+            ],
+            "FollowupQuest": [
+                {
+                    "Name": "Kleine Geschenke erhalten die Freundschaft",
+                    "Url": "/lodestone/playguide/db/quest/a32aa59b312/",
+                    "Area": "Dravanisches Hinterland",
+                    "Level": "60"
+                },
+                {
+                    "Name": "Ein Lied vom Eisenungeheuer",
+                    "Url": "/lodestone/playguide/db/quest/6fce5387fb6/",
+                    "Area": "Mor Dhona",
+                    "Level": "60"
+                }
+            ],
+            "RelatedNPC": [
+                {
+                    "Name": "Mide",
+                    "Url": "/lodestone/playguide/db/npc/npc/bb5dee62305/",
+                    "Area": "Dravanisches Hinterland (X:21.7 Y:18.9)"
+                },
+                {
+                    "Name": "Rundblox",
+                    "Url": "/lodestone/playguide/db/npc/npc/db244314c29/",
+                    "Area": "Dravanisches Hinterland (X:21.7 Y:18.8)"
+                }
+            ],
+            "RelatedAchievements": [
+                {
+                    "Name": "Eine feste Burg ist unser Gott",
+                    "Url": "/lodestone/playguide/db/achievement/68c3e662b57/",
+                    "Reward": "Titel",
+                    "Points": "10"
+                }
+            ]
+        },
+        "Seq": 4,
+        "StartDependency": false
+    },
+    {
+        "ID": "a32aa59b312",
+        "Name": "Kleine Geschenke erhalten die Freundschaft",
+        "Location": "Dravanisches Hinterland",
+        "Level": 60,
+        "JournalSection": 2,
+        "JournalCategory": 15,
+        "JournalGenre": "Alexander",
+        "Url": "/lodestone/playguide/db/quest/a32aa59b312/",
+        "Image": "https://img.finalfantasyxiv.com/lds/pc/global/images/itemicon/ef/efe35428cbdcfcbe7d2f7d62855d2106ea633356.png?n6.05",
+        "Icon": "function_normal",
+        "Issuer": "Rundblox",
+        "StartLocation": {
+            "Name": "Dravanisches Hinterland",
+            "X": "21.7",
+            "Y": "18.8"
+        },
+        "StartClass": null,
+        "Job": "",
+        "Company": "Keine Angabe",
+        "Requirement": "Keine Angabe",
+        "Rewards": {
+            "Gil": 3800,
+            "Exp": 0,
+            "ItemsMand": [],
+            "ItemsOpt": []
+        },
+        "Infos": {
+            "PrerequisiteQuest": [
+                {
+                    "Name": "Ein hübsches Luftbild",
+                    "Url": "/lodestone/playguide/db/quest/9aff08a4f0e/",
+                    "Area": "Dravanisches Hinterland",
+                    "Level": "60"
+                }
+            ],
+            "FollowupQuest": [
+                {
+                    "Name": "Täter und Opfer",
+                    "Url": "/lodestone/playguide/db/quest/ed61451ed4e/",
+                    "Area": "Dravanisches Hinterland",
+                    "Level": "60"
+                }
+            ],
+            "RelatedNPC": [
+                {
+                    "Name": "Biggs",
+                    "Url": "/lodestone/playguide/db/npc/npc/d90236226e8/",
+                    "Area": "Dravanisches Hinterland (X:21.7 Y:18.8)"
+                },
+                {
+                    "Name": "Biggs",
+                    "Url": "/lodestone/playguide/db/npc/npc/9874916cc28/",
+                    "Area": "Dravanisches Hinterland (X:23.6 Y:24.0)"
+                },
+                {
+                    "Name": "Lichtblix",
+                    "Url": "/lodestone/playguide/db/npc/npc/e1211fe0f13/",
+                    "Area": "Dravanisches Hinterland (X:20.6 Y:26.1)"
+                },
+                {
+                    "Name": "Mide",
+                    "Url": "/lodestone/playguide/db/npc/npc/1f8cbda5efd/",
+                    "Area": "Dravanisches Hinterland (X:17.8 Y:18.3)"
+                },
+                {
+                    "Name": "Rückblix",
+                    "Url": "/lodestone/playguide/db/npc/npc/1749b664a8c/",
+                    "Area": "Dravanisches Hinterland (X:21.8 Y:18.9)"
+                },
+                {
+                    "Name": "Wedge",
+                    "Url": "/lodestone/playguide/db/npc/npc/d7775371779/",
+                    "Area": "Dravanisches Hinterland (X:21.8 Y:18.9)"
+                }
+            ]
+        },
+        "Seq": 5,
+        "StartDependency": false
+    },
+    {
+        "ID": "a91452a04be",
+        "Name": "Ein kolossales Rätsel",
+        "Location": "Frohehalde",
+        "Level": 60,
+        "JournalSection": 2,
+        "JournalCategory": 15,
+        "JournalGenre": "Alexander",
+        "Url": "/lodestone/playguide/db/quest/a91452a04be/",
+        "Image": "https://img.finalfantasyxiv.com/lds/pc/global/images/itemicon/89/89bf954b38b70d4d9bd2b7a02ff2e029ee6d09f8.png?n6.05",
+        "Icon": "function_normal",
+        "Issuer": "Schlafix",
+        "StartLocation": {
+            "Name": "Frohehalde",
+            "X": "7.5",
+            "Y": "6.5"
         },
         "StartClass": null,
         "Job": "",
@@ -656,43 +585,620 @@
                     "Url": "/lodestone/playguide/db/quest/29fa56153f5/",
                     "Area": "Azys Lla",
                     "Level": "60"
+                }
+            ],
+            "FollowupQuest": [
+                {
+                    "Name": "Das Werk eines Visionärs",
+                    "Url": "/lodestone/playguide/db/quest/ef2efbe411f/",
+                    "Area": "Dravanisches Hinterland",
+                    "Level": "60"
+                }
+            ],
+            "RelatedNPC": [
+                {
+                    "Name": "Biggs",
+                    "Url": "/lodestone/playguide/db/npc/npc/63190d01844/",
+                    "Area": "Dravanisches Hinterland (X:23.9 Y:26.5)"
                 },
                 {
-                    "Name": "Uralte Götter",
-                    "Url": "/lodestone/playguide/db/quest/4188c7ded61/",
-                    "Area": "Ishgard",
+                    "Name": "Biggs",
+                    "Url": "/lodestone/playguide/db/npc/npc/d90236226e8/",
+                    "Area": "Dravanisches Hinterland (X:21.7 Y:18.8)"
+                },
+                {
+                    "Name": "Mide",
+                    "Url": "/lodestone/playguide/db/npc/npc/c5893c0b1f2/",
+                    "Area": "Dravanisches Hinterland (X:23.8 Y:26.5)"
+                },
+                {
+                    "Name": "Mide",
+                    "Url": "/lodestone/playguide/db/npc/npc/bb5dee62305/",
+                    "Area": "Dravanisches Hinterland (X:21.7 Y:18.9)"
+                },
+                {
+                    "Name": "Rundblox",
+                    "Url": "/lodestone/playguide/db/npc/npc/db244314c29/",
+                    "Area": "Dravanisches Hinterland (X:21.7 Y:18.8)"
+                },
+                {
+                    "Name": "Rückblix",
+                    "Url": "/lodestone/playguide/db/npc/npc/1749b664a8c/",
+                    "Area": "Dravanisches Hinterland (X:21.8 Y:18.9)"
+                },
+                {
+                    "Name": "Wedge",
+                    "Url": "/lodestone/playguide/db/npc/npc/0066bbc61e5/",
+                    "Area": "Dravanisches Hinterland (X:23.9 Y:26.5)"
+                },
+                {
+                    "Name": "Wedge",
+                    "Url": "/lodestone/playguide/db/npc/npc/d7775371779/",
+                    "Area": "Dravanisches Hinterland (X:21.8 Y:18.9)"
+                }
+            ]
+        },
+        "Seq": 7,
+        "StartDependency": false
+    },
+    {
+        "ID": "aa17121e0f8",
+        "Name": "Aggressive Ablenkung",
+        "Location": "Dravanisches Hinterland",
+        "Level": 60,
+        "JournalSection": 2,
+        "JournalCategory": 15,
+        "JournalGenre": "Alexander",
+        "Url": "/lodestone/playguide/db/quest/aa17121e0f8/",
+        "Image": "https://img.finalfantasyxiv.com/lds/pc/global/images/itemicon/bb/bbd45c0d28c979c27619ab464bfcd12dfe5e9733.png?n6.05",
+        "Icon": "function_normal",
+        "Issuer": "Mide",
+        "StartLocation": {
+            "Name": "Dravanisches Hinterland",
+            "X": "21.7",
+            "Y": "18.9"
+        },
+        "StartClass": null,
+        "Job": "",
+        "Company": "Keine Angabe",
+        "Requirement": "Keine Angabe",
+        "Rewards": {
+            "Gil": 3508,
+            "Exp": 0,
+            "ItemsMand": [],
+            "ItemsOpt": []
+        },
+        "Infos": {
+            "PrerequisiteQuest": [
+                {
+                    "Name": "Täter und Opfer",
+                    "Url": "/lodestone/playguide/db/quest/ed61451ed4e/",
+                    "Area": "Dravanisches Hinterland",
                     "Level": "60"
                 }
             ],
             "FollowupQuest": [
                 {
-                    "Name": "Wiedersehen auf dem ersten Splitter",
-                    "Url": "/lodestone/playguide/db/quest/f3f792f1b91/",
-                    "Area": "Crystarium",
-                    "Level": "80"
+                    "Name": "Ganz nach Plan",
+                    "Url": "/lodestone/playguide/db/quest/957dbbb403d/",
+                    "Area": "Dravanisches Hinterland",
+                    "Level": "60"
                 }
             ],
             "RelatedNPC": [
                 {
-                    "Name": "Erzähler",
-                    "Url": "/lodestone/playguide/db/npc/npc/41a0c5ab8cb/",
-                    "Area": "Dravanisches Vorland (X:24.0 Y:19.7)"
+                    "Name": "Biggs",
+                    "Url": "/lodestone/playguide/db/npc/npc/d90236226e8/",
+                    "Area": "Dravanisches Hinterland (X:21.7 Y:18.8)"
+                },
+                {
+                    "Name": "Biggs",
+                    "Url": "/lodestone/playguide/db/npc/npc/faa58d66d22/",
+                    "Area": "Dravanisches Hinterland (X:21.7 Y:18.8)"
+                },
+                {
+                    "Name": "Mide",
+                    "Url": "/lodestone/playguide/db/npc/npc/18bf436290d/",
+                    "Area": "Dravanisches Hinterland (X:21.7 Y:18.8)"
+                },
+                {
+                    "Name": "Rückblix",
+                    "Url": "/lodestone/playguide/db/npc/npc/1749b664a8c/",
+                    "Area": "Dravanisches Hinterland (X:21.8 Y:18.9)"
+                },
+                {
+                    "Name": "Wedge",
+                    "Url": "/lodestone/playguide/db/npc/npc/d7775371779/",
+                    "Area": "Dravanisches Hinterland (X:21.8 Y:18.9)"
+                },
+                {
+                    "Name": "Wedge",
+                    "Url": "/lodestone/playguide/db/npc/npc/12a3c84914e/",
+                    "Area": "Dravanisches Hinterland (X:21.7 Y:18.8)"
+                }
+            ]
+        },
+        "Seq": 7,
+        "StartDependency": false
+    },
+    {
+        "ID": "b08d71e821e",
+        "Name": "Stich ins Herz",
+        "Location": "Dravanisches Hinterland",
+        "Level": 60,
+        "JournalSection": 2,
+        "JournalCategory": 15,
+        "JournalGenre": "Alexander",
+        "Url": "/lodestone/playguide/db/quest/b08d71e821e/",
+        "Image": "https://img.finalfantasyxiv.com/lds/pc/global/images/itemicon/a5/a5519f5017d7ec5286e4ac296fed3dbbbb4fda1b.png?n6.05",
+        "Icon": "function_normal",
+        "Issuer": "Mide",
+        "StartLocation": {
+            "Name": "Dravanisches Hinterland",
+            "X": "21.7",
+            "Y": "18.9"
+        },
+        "StartClass": null,
+        "Job": "",
+        "Company": "Keine Angabe",
+        "Requirement": "Keine Angabe",
+        "Rewards": {
+            "Gil": 5000,
+            "Exp": 0,
+            "ItemsMand": [],
+            "ItemsOpt": []
+        },
+        "Infos": {
+            "PrerequisiteQuest": [
+                {
+                    "Name": "Dystopie für Dummies",
+                    "Url": "/lodestone/playguide/db/quest/3862b01959f/",
+                    "Area": "Dravanisches Hinterland",
+                    "Level": "60"
+                }
+            ],
+            "FollowupQuest": [
+                {
+                    "Name": "Ein hübsches Luftbild",
+                    "Url": "/lodestone/playguide/db/quest/9aff08a4f0e/",
+                    "Area": "Dravanisches Hinterland",
+                    "Level": "60"
+                }
+            ],
+            "RelatedNPC": [
+                {
+                    "Name": "Biggs",
+                    "Url": "/lodestone/playguide/db/npc/npc/63190d01844/",
+                    "Area": "Dravanisches Hinterland (X:23.9 Y:26.5)"
+                },
+                {
+                    "Name": "Biggs",
+                    "Url": "/lodestone/playguide/db/npc/npc/d90236226e8/",
+                    "Area": "Dravanisches Hinterland (X:21.7 Y:18.8)"
+                },
+                {
+                    "Name": "Mide",
+                    "Url": "/lodestone/playguide/db/npc/npc/c5893c0b1f2/",
+                    "Area": "Dravanisches Hinterland (X:23.8 Y:26.5)"
+                },
+                {
+                    "Name": "Rotflox",
+                    "Url": "/lodestone/playguide/db/npc/npc/808678eb5ae/",
+                    "Area": "Dravanisches Hinterland (X:23.9 Y:26.5)"
+                },
+                {
+                    "Name": "Rundblox",
+                    "Url": "/lodestone/playguide/db/npc/npc/db244314c29/",
+                    "Area": "Dravanisches Hinterland (X:21.7 Y:18.8)"
+                },
+                {
+                    "Name": "Wedge",
+                    "Url": "/lodestone/playguide/db/npc/npc/0066bbc61e5/",
+                    "Area": "Dravanisches Hinterland (X:23.9 Y:26.5)"
+                },
+                {
+                    "Name": "Wedge",
+                    "Url": "/lodestone/playguide/db/npc/npc/d7775371779/",
+                    "Area": "Dravanisches Hinterland (X:21.8 Y:18.9)"
+                }
+            ]
+        },
+        "Seq": 3,
+        "StartDependency": false
+    },
+    {
+        "ID": "b4ee65bf49a",
+        "Name": "Geschichte in Gefahr",
+        "Location": "Dravanisches Hinterland",
+        "Level": 60,
+        "JournalSection": 2,
+        "JournalCategory": 15,
+        "JournalGenre": "Alexander",
+        "Url": "/lodestone/playguide/db/quest/b4ee65bf49a/",
+        "Image": "https://img.finalfantasyxiv.com/lds/pc/global/images/itemicon/2a/2ae2f19152a7a37bce35ac620ee82f689b49a669.png?n6.05",
+        "Icon": "function_normal",
+        "Issuer": "Mide",
+        "StartLocation": {
+            "Name": "Dravanisches Hinterland",
+            "X": "21.7",
+            "Y": "18.8"
+        },
+        "StartClass": null,
+        "Job": "",
+        "Company": "Keine Angabe",
+        "Requirement": "Keine Angabe",
+        "Rewards": {
+            "Gil": 3508,
+            "Exp": 0,
+            "ItemsMand": [],
+            "ItemsOpt": []
+        },
+        "Infos": {
+            "PrerequisiteQuest": [
+                {
+                    "Name": "Alles zu meiner Zeit",
+                    "Url": "/lodestone/playguide/db/quest/6f5072b0464/",
+                    "Area": "Dravanisches Hinterland",
+                    "Level": "60"
+                }
+            ],
+            "FollowupQuest": [
+                {
+                    "Name": "Auf den Schwingen der Zeit",
+                    "Url": "/lodestone/playguide/db/quest/17fc37d0397/",
+                    "Area": "Dravanisches Hinterland",
+                    "Level": "60"
+                }
+            ],
+            "RelatedNPC": [
+                {
+                    "Name": "Biggs",
+                    "Url": "/lodestone/playguide/db/npc/npc/bffbaae6bf9/",
+                    "Area": "Dravanisches Hinterland (X:23.5 Y:23.9)"
+                },
+                {
+                    "Name": "Mide",
+                    "Url": "/lodestone/playguide/db/npc/npc/ce14961b645/",
+                    "Area": "Dravanisches Hinterland (X:20.1 Y:19.9)"
+                },
+                {
+                    "Name": "Mide",
+                    "Url": "/lodestone/playguide/db/npc/npc/9eff2d4fee1/",
+                    "Area": "Dravanisches Hinterland (X:23.5 Y:23.8)"
+                },
+                {
+                    "Name": "Wedge",
+                    "Url": "/lodestone/playguide/db/npc/npc/146554449d6/",
+                    "Area": "Dravanisches Hinterland (X:23.5 Y:23.9)"
+                }
+            ]
+        },
+        "Seq": 10,
+        "StartDependency": false
+    },
+    {
+        "ID": "ed61451ed4e",
+        "Name": "Täter und Opfer",
+        "Location": "Dravanisches Hinterland",
+        "Level": 60,
+        "JournalSection": 2,
+        "JournalCategory": 15,
+        "JournalGenre": "Alexander",
+        "Url": "/lodestone/playguide/db/quest/ed61451ed4e/",
+        "Image": "https://img.finalfantasyxiv.com/lds/pc/global/images/itemicon/01/01cbb00da1fe632ddc7b4ef25f3cd2a35f04e50f.png?n6.05",
+        "Icon": "function_normal",
+        "Issuer": "Biggs",
+        "StartLocation": {
+            "Name": "Dravanisches Hinterland",
+            "X": "21.7",
+            "Y": "18.8"
+        },
+        "StartClass": null,
+        "Job": "",
+        "Company": "Keine Angabe",
+        "Requirement": "Keine Angabe",
+        "Rewards": {
+            "Gil": 3573,
+            "Exp": 0,
+            "ItemsMand": [],
+            "ItemsOpt": []
+        },
+        "Infos": {
+            "PrerequisiteQuest": [
+                {
+                    "Name": "Kleine Geschenke erhalten die Freundschaft",
+                    "Url": "/lodestone/playguide/db/quest/a32aa59b312/",
+                    "Area": "Dravanisches Hinterland",
+                    "Level": "60"
+                }
+            ],
+            "FollowupQuest": [
+                {
+                    "Name": "Aggressive Ablenkung",
+                    "Url": "/lodestone/playguide/db/quest/aa17121e0f8/",
+                    "Area": "Dravanisches Hinterland",
+                    "Level": "60"
+                }
+            ],
+            "RelatedNPC": [
+                {
+                    "Name": "Mide",
+                    "Url": "/lodestone/playguide/db/npc/npc/bb5dee62305/",
+                    "Area": "Dravanisches Hinterland (X:21.7 Y:18.9)"
+                }
+            ]
+        },
+        "Seq": 6,
+        "StartDependency": false
+    },
+    {
+        "ID": "ef2efbe411f",
+        "Name": "Das Werk eines Visionärs",
+        "Location": "Dravanisches Hinterland",
+        "Level": 60,
+        "JournalSection": 2,
+        "JournalCategory": 15,
+        "JournalGenre": "Alexander",
+        "Url": "/lodestone/playguide/db/quest/ef2efbe411f/",
+        "Image": "https://img.finalfantasyxiv.com/lds/pc/global/images/itemicon/9e/9ecd1cff06f2bd7f53c147f03d56d20fbfa45d21.png?n6.05",
+        "Icon": "function_normal",
+        "Issuer": "Biggs",
+        "StartLocation": {
+            "Name": "Dravanisches Hinterland",
+            "X": "21.7",
+            "Y": "18.8"
+        },
+        "StartClass": null,
+        "Job": "",
+        "Company": "Keine Angabe",
+        "Requirement": "Keine Angabe",
+        "Rewards": {
+            "Gil": 5000,
+            "Exp": 0,
+            "ItemsMand": [],
+            "ItemsOpt": []
+        },
+        "Infos": {
+            "PrerequisiteQuest": [
+                {
+                    "Name": "Ein kolossales Rätsel",
+                    "Url": "/lodestone/playguide/db/quest/a91452a04be/",
+                    "Area": "Frohehalde",
+                    "Level": "60"
+                }
+            ],
+            "FollowupQuest": [
+                {
+                    "Name": "Dystopie für Dummies",
+                    "Url": "/lodestone/playguide/db/quest/3862b01959f/",
+                    "Area": "Dravanisches Hinterland",
+                    "Level": "60"
+                }
+            ],
+            "RelatedNPC": [
+                {
+                    "Name": "Mide",
+                    "Url": "/lodestone/playguide/db/npc/npc/bb5dee62305/",
+                    "Area": "Dravanisches Hinterland (X:21.7 Y:18.9)"
+                },
+                {
+                    "Name": "Rundblox",
+                    "Url": "/lodestone/playguide/db/npc/npc/db244314c29/",
+                    "Area": "Dravanisches Hinterland (X:21.7 Y:18.8)"
+                },
+                {
+                    "Name": "Wedge",
+                    "Url": "/lodestone/playguide/db/npc/npc/d7775371779/",
+                    "Area": "Dravanisches Hinterland (X:21.8 Y:18.9)"
+                }
+            ]
+        },
+        "Seq": 1,
+        "StartDependency": false
+    },
+    {
+        "ID": "efd4a3439d3",
+        "Name": "Des Schöpfers Schöpfung",
+        "Location": "Dravanisches Hinterland",
+        "Level": 60,
+        "JournalSection": 2,
+        "JournalCategory": 15,
+        "JournalGenre": "Alexander",
+        "Url": "/lodestone/playguide/db/quest/efd4a3439d3/",
+        "Image": "https://img.finalfantasyxiv.com/lds/pc/global/images/itemicon/cc/cc8ee53aae2bd9a7debc6bd5b1ca03154a4672e8.png?n6.05",
+        "Icon": "function_normal",
+        "Issuer": "Biggs",
+        "StartLocation": {
+            "Name": "Dravanisches Hinterland",
+            "X": "17.8",
+            "Y": "22.4"
+        },
+        "StartClass": null,
+        "Job": "",
+        "Company": "Keine Angabe",
+        "Requirement": "Keine Angabe",
+        "Rewards": {
+            "Gil": 745,
+            "Exp": 0,
+            "ItemsMand": [
+                {
+                    "Icon": "https://img.finalfantasyxiv.com/lds/pc/global/images/itemicon/7e/7eaa53e1fe9e2bd80f81d9ce69c98c24f6223b0b.png?n6.05",
+                    "Name": "Notenrolle von „Sins of the Father, Sins of the Son“",
+                    "Amount": 1,
+                    "Url": "/lodestone/playguide/db/item/98123db7d65/"
+                },
+                {
+                    "Icon": "https://img.finalfantasyxiv.com/lds/pc/global/images/itemicon/7e/7eaa53e1fe9e2bd80f81d9ce69c98c24f6223b0b.png?n6.05",
+                    "Name": "Notenrolle von „Locus“",
+                    "Amount": 1,
+                    "Url": "/lodestone/playguide/db/item/8bcb97a6775/"
+                },
+                {
+                    "Icon": "https://img.finalfantasyxiv.com/lds/pc/global/images/itemicon/7e/7eaa53e1fe9e2bd80f81d9ce69c98c24f6223b0b.png?n6.05",
+                    "Name": "Notenrolle von „Metal“",
+                    "Amount": 1,
+                    "Url": "/lodestone/playguide/db/item/c497f596092/"
+                },
+                {
+                    "Icon": "https://img.finalfantasyxiv.com/lds/pc/global/images/itemicon/7e/7eaa53e1fe9e2bd80f81d9ce69c98c24f6223b0b.png?n6.05",
+                    "Name": "Notenrolle von „Metal - Brute Justice Mode“",
+                    "Amount": 1,
+                    "Url": "/lodestone/playguide/db/item/07f69db07de/"
+                }
+            ],
+            "ItemsOpt": []
+        },
+        "Infos": {
+            "PrerequisiteQuest": [
+                {
+                    "Name": "Hazza la vizza, Gobbie",
+                    "Url": "/lodestone/playguide/db/quest/fb49c3f6128/",
+                    "Area": "Dravanisches Hinterland",
+                    "Level": "60"
+                }
+            ],
+            "FollowupQuest": [
+                {
+                    "Name": "Abgesang der Achronie",
+                    "Url": "/lodestone/playguide/db/quest/0393ad9ce2d/",
+                    "Area": "Mor Dhona",
+                    "Level": "60"
+                }
+            ],
+            "RelatedNPC": [
+                {
+                    "Name": "Biggs",
+                    "Url": "/lodestone/playguide/db/npc/npc/faa58d66d22/",
+                    "Area": "Dravanisches Hinterland (X:21.7 Y:18.8)"
+                },
+                {
+                    "Name": "Rundblox",
+                    "Url": "/lodestone/playguide/db/npc/npc/db244314c29/",
+                    "Area": "Dravanisches Hinterland (X:21.7 Y:18.8)"
+                },
+                {
+                    "Name": "Rundblox",
+                    "Url": "/lodestone/playguide/db/npc/npc/6f91a3a4b25/",
+                    "Area": "Dravanisches Hinterland (X:17.8 Y:18.3)"
+                },
+                {
+                    "Name": "Rückblix",
+                    "Url": "/lodestone/playguide/db/npc/npc/1749b664a8c/",
+                    "Area": "Dravanisches Hinterland (X:21.8 Y:18.9)"
+                },
+                {
+                    "Name": "Wedge",
+                    "Url": "/lodestone/playguide/db/npc/npc/12a3c84914e/",
+                    "Area": "Dravanisches Hinterland (X:21.7 Y:18.8)"
+                },
+                {
+                    "Name": "Wedge",
+                    "Url": "/lodestone/playguide/db/npc/npc/dea1d3e7509/",
+                    "Area": "Dravanisches Hinterland (X:17.9 Y:22.3)"
                 }
             ],
             "RelatedAchievements": [
                 {
-                    "Name": "Kriegstriade, ich hör dir trapsen",
-                    "Url": "/lodestone/playguide/db/achievement/4fa0131f0f6/",
+                    "Name": "Drei Mal in denselben Fluss gestiegen",
+                    "Url": "/lodestone/playguide/db/achievement/e31dee1d9ba/",
                     "Reward": "Titel",
                     "Points": "10"
                 }
             ]
         },
-        "Seq": 6,
-        "oldID": 67652,
-        "Map": {
-            "ID": 136
+        "Seq": 14,
+        "StartDependency": false
+    },
+    {
+        "ID": "fb49c3f6128",
+        "Name": "Hazza la vizza, Gobbie",
+        "Location": "Dravanisches Hinterland",
+        "Level": 60,
+        "JournalSection": 2,
+        "JournalCategory": 15,
+        "JournalGenre": "Alexander",
+        "Url": "/lodestone/playguide/db/quest/fb49c3f6128/",
+        "Image": "https://img.finalfantasyxiv.com/lds/pc/global/images/itemicon/b5/b524b7ab88eee718b19fbc80601bc98aa6be41db.png?n6.05",
+        "Icon": "function_normal",
+        "Issuer": "Biggs",
+        "StartLocation": {
+            "Name": "Dravanisches Hinterland",
+            "X": "21.7",
+            "Y": "18.8"
         },
+        "StartClass": null,
+        "Job": "",
+        "Company": "Keine Angabe",
+        "Requirement": "Keine Angabe",
+        "Rewards": {
+            "Gil": 3508,
+            "Exp": 0,
+            "ItemsMand": [
+                {
+                    "Icon": "https://img.finalfantasyxiv.com/lds/pc/global/images/itemicon/7e/7eaa53e1fe9e2bd80f81d9ce69c98c24f6223b0b.png?n6.05",
+                    "Name": "Notenrolle von „Rise“",
+                    "Amount": 1,
+                    "Url": "/lodestone/playguide/db/item/c1791fb075e/"
+                }
+            ],
+            "ItemsOpt": []
+        },
+        "Infos": {
+            "PrerequisiteQuest": [
+                {
+                    "Name": "Eine Chronik der Zukunft",
+                    "Url": "/lodestone/playguide/db/quest/4ef04b0db1c/",
+                    "Area": "Dravanisches Hinterland",
+                    "Level": "60"
+                }
+            ],
+            "FollowupQuest": [
+                {
+                    "Name": "Des Schöpfers Schöpfung",
+                    "Url": "/lodestone/playguide/db/quest/efd4a3439d3/",
+                    "Area": "Dravanisches Hinterland",
+                    "Level": "60"
+                }
+            ],
+            "RelatedNPC": [
+                {
+                    "Name": "Biggs",
+                    "Url": "/lodestone/playguide/db/npc/npc/5579ef55d7c/",
+                    "Area": "Dravanisches Hinterland (X:17.8 Y:22.4)"
+                },
+                {
+                    "Name": "Schnappfix",
+                    "Url": "/lodestone/playguide/db/npc/npc/61c23054d2c/",
+                    "Area": "Dravanisches Hinterland (X:23.5 Y:24.0)"
+                },
+                {
+                    "Name": "Wedge",
+                    "Url": "/lodestone/playguide/db/npc/npc/d7775371779/",
+                    "Area": "Dravanisches Hinterland (X:21.8 Y:18.9)"
+                },
+                {
+                    "Name": "Wedge",
+                    "Url": "/lodestone/playguide/db/npc/npc/dea1d3e7509/",
+                    "Area": "Dravanisches Hinterland (X:17.9 Y:22.3)"
+                },
+                {
+                    "Name": "Biggs",
+                    "Url": "/lodestone/playguide/db/npc/npc/69ab95d8d40/",
+                    "Area": "Herz des Schöpfers (X:11.3 Y:12.0)"
+                },
+                {
+                    "Name": "Cid",
+                    "Url": "/lodestone/playguide/db/npc/npc/13d656822fd/",
+                    "Area": "Herz des Schöpfers (X:11.1 Y:12.0)"
+                },
+                {
+                    "Name": "Wedge",
+                    "Url": "/lodestone/playguide/db/npc/npc/eaf258d426d/",
+                    "Area": "Herz des Schöpfers (X:11.2 Y:12.0)"
+                }
+            ]
+        },
+        "Seq": 13,
         "StartDependency": false
     }
 ]

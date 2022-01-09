@@ -1,0 +1,2737 @@
+[
+    {
+        "ID": "0cb751e6db5",
+        "Name": " Blumen für die Götter",
+        "Location": "Thavnair",
+        "Level": 80,
+        "JournalSection": 3,
+        "JournalCategory": 59,
+        "JournalGenre": "Aufträge Thavnair",
+        "Url": "/lodestone/playguide/db/quest/0cb751e6db5/",
+        "Image": null,
+        "Icon": "common_normal",
+        "Issuer": "Besorgter Vater",
+        "StartLocation": {
+            "Name": "Thavnair",
+            "X": "28.9",
+            "Y": "17.4"
+        },
+        "StartClass": null,
+        "Job": "",
+        "Company": "Keine Angabe",
+        "Requirement": "Keine Angabe",
+        "Rewards": {
+            "Gil": 895,
+            "Exp": null,
+            "ItemsMand": [],
+            "ItemsOpt": []
+        },
+        "Infos": {
+            "PrerequisiteQuest": [
+                {
+                    "Name": "Warm ist die Seele Thavnairs",
+                    "Url": "/lodestone/playguide/db/quest/055d71c0b23/",
+                    "Area": "Thavnair",
+                    "Level": "85"
+                }
+            ],
+            "RelatedNPC": [
+                {
+                    "Name": "Besorgter Vater",
+                    "Url": "/lodestone/playguide/db/npc/npc/0033547b7ca/",
+                    "Area": "Thavnair (X:33.0 Y:26.2)"
+                },
+                {
+                    "Name": "Vermisstes Mädchen",
+                    "Url": "/lodestone/playguide/db/npc/npc/c37fe55e9eb/",
+                    "Area": "Thavnair (X:33.1 Y:26.2)"
+                },
+                {
+                    "Name": "Vermisstes Mädchen",
+                    "Url": "/lodestone/playguide/db/npc/npc/7c1079e4abc/",
+                    "Area": "Thavnair (X:32.1 Y:19.6)"
+                }
+            ]
+        },
+        "Seq": 29,
+        "StartDependency": false
+    },
+    {
+        "ID": "0f816e9c199",
+        "Name": " Eilbrief aus Eorzea",
+        "Location": "Radz-at-Han",
+        "Level": 80,
+        "JournalSection": 3,
+        "JournalCategory": 59,
+        "JournalGenre": "Aufträge Thavnair",
+        "Url": "/lodestone/playguide/db/quest/0f816e9c199/",
+        "Image": null,
+        "Icon": "common_normal",
+        "Issuer": "Überforderte Abenteurerin",
+        "StartLocation": {
+            "Name": "Radz-at-Han",
+            "X": "10.0",
+            "Y": "13.8"
+        },
+        "StartClass": null,
+        "Job": "",
+        "Company": "Keine Angabe",
+        "Requirement": "Keine Angabe",
+        "Rewards": {
+            "Gil": 735,
+            "Exp": null,
+            "ItemsMand": [],
+            "ItemsOpt": []
+        },
+        "Infos": {
+            "PrerequisiteQuest": [
+                {
+                    "Name": "Blasphemische Bestien",
+                    "Url": "/lodestone/playguide/db/quest/1e3c991b458/",
+                    "Area": "Radz-at-Han",
+                    "Level": "85"
+                }
+            ],
+            "RelatedNPC": [
+                {
+                    "Name": "Isu",
+                    "Url": "/lodestone/playguide/db/npc/npc/b79d1e49faf/",
+                    "Area": "Radz-at-Han (X:13.4 Y:9.2)"
+                },
+                {
+                    "Name": "Tochter der Familie Barik",
+                    "Url": "/lodestone/playguide/db/npc/npc/a76acf51759/",
+                    "Area": "Radz-at-Han (X:13.4 Y:12.3)"
+                }
+            ]
+        },
+        "Seq": 2,
+        "StartDependency": false
+    },
+    {
+        "ID": "2ad2b6f8bae",
+        "Name": " Beruhigende Borke",
+        "Location": "Thavnair",
+        "Level": 80,
+        "JournalSection": 3,
+        "JournalCategory": 59,
+        "JournalGenre": "Aufträge Thavnair",
+        "Url": "/lodestone/playguide/db/quest/2ad2b6f8bae/",
+        "Image": null,
+        "Icon": "common_normal",
+        "Issuer": "Kusuma",
+        "StartLocation": {
+            "Name": "Thavnair",
+            "X": "10.3",
+            "Y": "24.2"
+        },
+        "StartClass": null,
+        "Job": "",
+        "Company": "Keine Angabe",
+        "Requirement": "Keine Angabe",
+        "Rewards": {
+            "Gil": 735,
+            "Exp": null,
+            "ItemsMand": [],
+            "ItemsOpt": []
+        },
+        "Infos": {
+            "PrerequisiteQuest": [
+                {
+                    "Name": "Ein Hamsa ist (k)ein Dodo",
+                    "Url": "/lodestone/playguide/db/quest/b4e66ce1714/",
+                    "Area": "Thavnair",
+                    "Level": "80"
+                }
+            ]
+        },
+        "Seq": 25,
+        "StartDependency": false
+    },
+    {
+        "ID": "2badaed2e9b",
+        "Name": " Silbriger Schuppenpanzer",
+        "Location": "Thavnair",
+        "Level": 80,
+        "JournalSection": 3,
+        "JournalCategory": 59,
+        "JournalGenre": "Aufträge Thavnair",
+        "Url": "/lodestone/playguide/db/quest/2badaed2e9b/",
+        "Image": null,
+        "Icon": "common_normal",
+        "Issuer": "Qeryde",
+        "StartLocation": {
+            "Name": "Thavnair",
+            "X": "29.9",
+            "Y": "16.0"
+        },
+        "StartClass": null,
+        "Job": "",
+        "Company": "Keine Angabe",
+        "Requirement": "Keine Angabe",
+        "Rewards": {
+            "Gil": 815,
+            "Exp": null,
+            "ItemsMand": [],
+            "ItemsOpt": []
+        },
+        "Infos": {
+            "PrerequisiteQuest": [
+                {
+                    "Name": "Unter schützenden Schwingen",
+                    "Url": "/lodestone/playguide/db/quest/d84e3f2a32c/",
+                    "Area": "Thavnair",
+                    "Level": "85"
+                }
+            ]
+        },
+        "Seq": 34,
+        "StartDependency": false
+    },
+    {
+        "ID": "337160dd44f",
+        "Name": " Medizinische Versorgung in Palakas Ruh",
+        "Location": "Thavnair",
+        "Level": 80,
+        "JournalSection": 3,
+        "JournalCategory": 59,
+        "JournalGenre": "Aufträge Thavnair",
+        "Url": "/lodestone/playguide/db/quest/337160dd44f/",
+        "Image": null,
+        "Icon": "common_normal",
+        "Issuer": "Utpala",
+        "StartLocation": {
+            "Name": "Thavnair",
+            "X": "30.1",
+            "Y": "16.9"
+        },
+        "StartClass": null,
+        "Job": "",
+        "Company": "Keine Angabe",
+        "Requirement": "Keine Angabe",
+        "Rewards": {
+            "Gil": 895,
+            "Exp": null,
+            "ItemsMand": [],
+            "ItemsOpt": []
+        },
+        "Infos": {
+            "PrerequisiteQuest": [
+                {
+                    "Name": "Unter schützenden Schwingen",
+                    "Url": "/lodestone/playguide/db/quest/d84e3f2a32c/",
+                    "Area": "Thavnair",
+                    "Level": "85"
+                }
+            ],
+            "RelatedNPC": [
+                {
+                    "Name": "Assistentin der Dorfheilerin",
+                    "Url": "/lodestone/playguide/db/npc/npc/22a285ca4c0/",
+                    "Area": "Thavnair (X:30.0 Y:12.1)"
+                },
+                {
+                    "Name": "Dorfheilerin",
+                    "Url": "/lodestone/playguide/db/npc/npc/977d19fa98a/",
+                    "Area": "Thavnair (X:29.5 Y:15.6)"
+                }
+            ]
+        },
+        "Seq": 32,
+        "StartDependency": false
+    },
+    {
+        "ID": "33b02d5f935",
+        "Name": "Ein Ort zum Trainieren",
+        "Location": "Radz-at-Han",
+        "Level": 90,
+        "JournalSection": 3,
+        "JournalCategory": 59,
+        "JournalGenre": "Aufträge Thavnair",
+        "Url": "/lodestone/playguide/db/quest/33b02d5f935/",
+        "Image": null,
+        "Icon": "function_normal",
+        "Issuer": "Abgehärteter Soldat des Himmelsheers",
+        "StartLocation": {
+            "Name": "Radz-at-Han",
+            "X": "12.3",
+            "Y": "10.7"
+        },
+        "StartClass": null,
+        "Job": "",
+        "Company": "Keine Angabe",
+        "Requirement": "Keine Angabe",
+        "Rewards": {
+            "Gil": 699,
+            "Exp": 0,
+            "ItemsMand": [],
+            "ItemsOpt": []
+        },
+        "Infos": {
+            "PrerequisiteQuest": [
+                {
+                    "Name": "Endschreiter",
+                    "Url": "/lodestone/playguide/db/quest/52a65d1961d/",
+                    "Area": "Ultima Thule",
+                    "Level": "90"
+                },
+                {
+                    "Name": "Steinharte Trainingspartner",
+                    "Url": "/lodestone/playguide/db/quest/2de8032fec8/",
+                    "Area": "Frohehalde",
+                    "Level": "60"
+                }
+            ],
+            "RelatedNPC": [
+                {
+                    "Name": "Scharfsichtiger Soldat des Himmelsheers ",
+                    "Url": "/lodestone/playguide/db/npc/npc/cad293d0bf4/",
+                    "Area": "Thavnair (X:29.8 Y:17.2)"
+                }
+            ]
+        },
+        "Seq": 7,
+        "StartDependency": false
+    },
+    {
+        "ID": "36767b7099b",
+        "Name": " Yezahn und Pasareen",
+        "Location": "Thavnair",
+        "Level": 80,
+        "JournalSection": 3,
+        "JournalCategory": 59,
+        "JournalGenre": "Aufträge Thavnair",
+        "Url": "/lodestone/playguide/db/quest/36767b7099b/",
+        "Image": "https://img.finalfantasyxiv.com/lds/pc/global/images/itemicon/c9/c9abeb7184920ded06e2541ed5678c62bfee6e99.png?n6.05",
+        "Icon": "common_normal",
+        "Issuer": "Yezahn",
+        "StartLocation": {
+            "Name": "Thavnair",
+            "X": "29.7",
+            "Y": "16.1"
+        },
+        "StartClass": null,
+        "Job": "",
+        "Company": "Keine Angabe",
+        "Requirement": "Keine Angabe",
+        "Rewards": {
+            "Gil": 1015,
+            "Exp": null,
+            "ItemsMand": [],
+            "ItemsOpt": [
+                {
+                    "Icon": "https://img.finalfantasyxiv.com/lds/pc/global/images/itemicon/81/8155ad42553a503a6c18c3196a60ee99a29e2c5b.png?n6.05",
+                    "Name": "Rote-Bete-Suppe",
+                    "Amount": 2,
+                    "Url": "/lodestone/playguide/db/item/96ace1b323e/"
+                },
+                {
+                    "Icon": "https://img.finalfantasyxiv.com/lds/pc/global/images/itemicon/82/82ac41fe2b7da3a3a2d06bd361c49a0e292e55d0.png?n6.05",
+                    "Name": "Kaisersuppe",
+                    "Amount": 2,
+                    "Url": "/lodestone/playguide/db/item/9d1358fceb8/"
+                },
+                {
+                    "Icon": "https://img.finalfantasyxiv.com/lds/pc/global/images/itemicon/44/44848386f9871f5654fddcafb2a8e9210e6a96b0.png?n6.05",
+                    "Name": "Hamsa-Curry",
+                    "Amount": 2,
+                    "Url": "/lodestone/playguide/db/item/3d802e935a9/"
+                },
+                {
+                    "Icon": "https://img.finalfantasyxiv.com/lds/pc/global/images/itemicon/a6/a65f7cd4dcf658cc637ccacd182c2ef92948c490.png?n6.05",
+                    "Name": "Karniyarik",
+                    "Amount": 2,
+                    "Url": "/lodestone/playguide/db/item/0d5a52aaf25/"
+                },
+                {
+                    "Icon": "https://img.finalfantasyxiv.com/lds/pc/global/images/itemicon/ba/baa2341dd17414fae7fd62ae7bc62c64589b67be.png?n6.05",
+                    "Name": "Allagisches Silberstück",
+                    "Amount": 1,
+                    "Url": "/lodestone/playguide/db/item/a3ac3ba4b00/"
+                }
+            ]
+        },
+        "Infos": {
+            "PrerequisiteQuest": [
+                {
+                    "Name": " Sulas Bitte um Vergebung",
+                    "Url": "/lodestone/playguide/db/quest/75e2153ea0f/",
+                    "Area": "Thavnair",
+                    "Level": "80"
+                }
+            ],
+            "FollowupQuest": [
+                {
+                    "Name": " Hoffnung für Palakas Ruh",
+                    "Url": "/lodestone/playguide/db/quest/fea56c68337/",
+                    "Area": "Thavnair",
+                    "Level": "80"
+                }
+            ],
+            "RelatedNPC": [
+                {
+                    "Name": "Pasareen",
+                    "Url": "/lodestone/playguide/db/npc/npc/171a4e3737a/",
+                    "Area": "Thavnair (X:29.7 Y:16.1)"
+                },
+                {
+                    "Name": "Sula",
+                    "Url": "/lodestone/playguide/db/npc/npc/694796fe284/",
+                    "Area": "Thavnair (X:29.6 Y:16.1)"
+                },
+                {
+                    "Name": "Sula",
+                    "Url": "/lodestone/playguide/db/npc/npc/2242fad1e0f/",
+                    "Area": "Thavnair (X:26.9 Y:10.3)"
+                },
+                {
+                    "Name": "Yezahn",
+                    "Url": "/lodestone/playguide/db/npc/npc/0f21c332773/",
+                    "Area": "Thavnair (X:29.5 Y:17.2)"
+                }
+            ]
+        },
+        "Seq": 42,
+        "StartDependency": false
+    },
+    {
+        "ID": "3e629c4879d",
+        "Name": " Auf der Suche nach Soma-Blüten",
+        "Location": "Thavnair",
+        "Level": 80,
+        "JournalSection": 3,
+        "JournalCategory": 59,
+        "JournalGenre": "Aufträge Thavnair",
+        "Url": "/lodestone/playguide/db/quest/3e629c4879d/",
+        "Image": "https://img.finalfantasyxiv.com/lds/pc/global/images/itemicon/c9/c9abeb7184920ded06e2541ed5678c62bfee6e99.png?n6.05",
+        "Icon": "common_normal",
+        "Issuer": "Yezahn",
+        "StartLocation": {
+            "Name": "Thavnair",
+            "X": "29.5",
+            "Y": "17.2"
+        },
+        "StartClass": null,
+        "Job": "",
+        "Company": "Keine Angabe",
+        "Requirement": "Keine Angabe",
+        "Rewards": {
+            "Gil": 1015,
+            "Exp": null,
+            "ItemsMand": [],
+            "ItemsOpt": []
+        },
+        "Infos": {
+            "PrerequisiteQuest": [
+                {
+                    "Name": " Der Alchemist und das Kind",
+                    "Url": "/lodestone/playguide/db/quest/90746a592aa/",
+                    "Area": "Thavnair",
+                    "Level": "80"
+                }
+            ],
+            "FollowupQuest": [
+                {
+                    "Name": " Sulas Bitte um Vergebung",
+                    "Url": "/lodestone/playguide/db/quest/75e2153ea0f/",
+                    "Area": "Thavnair",
+                    "Level": "80"
+                }
+            ],
+            "RelatedNPC": [
+                {
+                    "Name": "Pasareen",
+                    "Url": "/lodestone/playguide/db/npc/npc/f11dbd4a44c/",
+                    "Area": "Thavnair (X:29.7 Y:16.1)"
+                },
+                {
+                    "Name": "Sula",
+                    "Url": "/lodestone/playguide/db/npc/npc/19d6a0d8080/",
+                    "Area": "Thavnair (X:29.0 Y:16.7)"
+                },
+                {
+                    "Name": "Yezahn",
+                    "Url": "/lodestone/playguide/db/npc/npc/7b251e3d00e/",
+                    "Area": "Thavnair (X:31.5 Y:14.1)"
+                }
+            ]
+        },
+        "Seq": 40,
+        "StartDependency": false
+    },
+    {
+        "ID": "572e73b399f",
+        "Name": " Vertrauen ist der größte Reichtum",
+        "Location": "Thavnair",
+        "Level": 80,
+        "JournalSection": 3,
+        "JournalCategory": 59,
+        "JournalGenre": "Aufträge Thavnair",
+        "Url": "/lodestone/playguide/db/quest/572e73b399f/",
+        "Image": "https://img.finalfantasyxiv.com/lds/pc/global/images/itemicon/94/948cb3ed7b82cb52259e8f6ea138c9cf2097c5e8.png?n6.05",
+        "Icon": "common_normal",
+        "Issuer": "Ogul",
+        "StartLocation": {
+            "Name": "Thavnair",
+            "X": "19.0",
+            "Y": "33.8"
+        },
+        "StartClass": null,
+        "Job": "",
+        "Company": "Keine Angabe",
+        "Requirement": "Keine Angabe",
+        "Rewards": {
+            "Gil": 1015,
+            "Exp": null,
+            "ItemsMand": [
+                {
+                    "Icon": "https://img.finalfantasyxiv.com/lds/pc/global/images/itemicon/30/30e88355ab778d4c7fbc9d247345deed9ba71d99.png?n6.05",
+                    "Name": "Amrasalat",
+                    "Amount": 2,
+                    "Url": "/lodestone/playguide/db/item/58b5db9ba3b/"
+                }
+            ],
+            "ItemsOpt": []
+        },
+        "Infos": {
+            "PrerequisiteQuest": [
+                {
+                    "Name": " Ein Matanga kommt selten allein",
+                    "Url": "/lodestone/playguide/db/quest/ee0948d9ee6/",
+                    "Area": "Thavnair",
+                    "Level": "80"
+                }
+            ],
+            "FollowupQuest": [
+                {
+                    "Name": " Langfingern auf der Spur",
+                    "Url": "/lodestone/playguide/db/quest/ade8a34a7de/",
+                    "Area": "Thavnair",
+                    "Level": "80"
+                }
+            ],
+            "RelatedNPC": [
+                {
+                    "Name": "Abdhi",
+                    "Url": "/lodestone/playguide/db/npc/npc/4323b3db82a/",
+                    "Area": "Thavnair (X:24.6 Y:35.6)"
+                },
+                {
+                    "Name": "Darpasa",
+                    "Url": "/lodestone/playguide/db/npc/npc/468c2387ac3/",
+                    "Area": "Thavnair (X:25.6 Y:34.9)"
+                },
+                {
+                    "Name": "Djinazade",
+                    "Url": "/lodestone/playguide/db/npc/npc/ae10449f3d9/",
+                    "Area": "Thavnair (X:25.8 Y:33.5)"
+                },
+                {
+                    "Name": "Kancana",
+                    "Url": "/lodestone/playguide/db/npc/npc/ad004fb1c56/",
+                    "Area": "Thavnair (X:25.3 Y:31.2)"
+                },
+                {
+                    "Name": "Kancana",
+                    "Url": "/lodestone/playguide/db/npc/npc/abb0d3e3132/",
+                    "Area": "Thavnair (X:24.9 Y:34.8)"
+                },
+                {
+                    "Name": "Ogul",
+                    "Url": "/lodestone/playguide/db/npc/npc/72713fc2605/",
+                    "Area": "Thavnair (X:25.0 Y:32.4)"
+                },
+                {
+                    "Name": "Ogul",
+                    "Url": "/lodestone/playguide/db/npc/npc/532d4179805/",
+                    "Area": "Thavnair (X:25.3 Y:31.2)"
+                }
+            ]
+        },
+        "Seq": 13,
+        "StartDependency": false
+    },
+    {
+        "ID": "5c3b699a1ae",
+        "Name": " Im Kreis der Familie",
+        "Location": "Thavnair",
+        "Level": 80,
+        "JournalSection": 3,
+        "JournalCategory": 59,
+        "JournalGenre": "Aufträge Thavnair",
+        "Url": "/lodestone/playguide/db/quest/5c3b699a1ae/",
+        "Image": null,
+        "Icon": "common_normal",
+        "Issuer": "Junge Au Ra",
+        "StartLocation": {
+            "Name": "Thavnair",
+            "X": "24.4",
+            "Y": "33.7"
+        },
+        "StartClass": null,
+        "Job": "",
+        "Company": "Keine Angabe",
+        "Requirement": "Keine Angabe",
+        "Rewards": {
+            "Gil": 0,
+            "Exp": null,
+            "ItemsMand": [],
+            "ItemsOpt": [
+                {
+                    "Icon": "https://img.finalfantasyxiv.com/lds/pc/global/images/itemicon/54/54b92978cb660c98a6929b6c656043ffdadfd7ae.png?n6.05",
+                    "Name": "Exegetenbrot",
+                    "Amount": 2,
+                    "Url": "/lodestone/playguide/db/item/fefd3d40532/"
+                },
+                {
+                    "Icon": "https://img.finalfantasyxiv.com/lds/pc/global/images/itemicon/db/db44ca6e9ffe985d687a9d6f8a002eb83738c577.png?n6.05",
+                    "Name": "Zurek",
+                    "Amount": 2,
+                    "Url": "/lodestone/playguide/db/item/798aad50c0b/"
+                },
+                {
+                    "Icon": "https://img.finalfantasyxiv.com/lds/pc/global/images/itemicon/30/30e88355ab778d4c7fbc9d247345deed9ba71d99.png?n6.05",
+                    "Name": "Amrasalat",
+                    "Amount": 2,
+                    "Url": "/lodestone/playguide/db/item/58b5db9ba3b/"
+                },
+                {
+                    "Icon": "https://img.finalfantasyxiv.com/lds/pc/global/images/itemicon/97/971e499993f5a2d147ec0ae5a982d1e5fe7e8dc5.png?n6.05",
+                    "Name": "Amra-Lassi",
+                    "Amount": 2,
+                    "Url": "/lodestone/playguide/db/item/18a8bc8502c/"
+                },
+                {
+                    "Icon": "https://img.finalfantasyxiv.com/lds/pc/global/images/itemicon/ba/baa2341dd17414fae7fd62ae7bc62c64589b67be.png?n6.05",
+                    "Name": "Allagisches Silberstück",
+                    "Amount": 1,
+                    "Url": "/lodestone/playguide/db/item/a3ac3ba4b00/"
+                }
+            ]
+        },
+        "Infos": {
+            "PrerequisiteQuest": [
+                {
+                    "Name": "Ein Fischkrämer und sein Geselle",
+                    "Url": "/lodestone/playguide/db/quest/6d6650732be/",
+                    "Area": "Thavnair",
+                    "Level": "80"
+                }
+            ],
+            "RelatedNPC": [
+                {
+                    "Name": "Rothaarige Au Ra",
+                    "Url": "/lodestone/playguide/db/npc/npc/2628c9bcded/",
+                    "Area": "Thavnair (X:21.1 Y:29.3)"
+                },
+                {
+                    "Name": "Rothaarige Au Ra",
+                    "Url": "/lodestone/playguide/db/npc/npc/4130e7c72a3/",
+                    "Area": "Thavnair (X:24.4 Y:33.6)"
+                }
+            ]
+        },
+        "Seq": 10,
+        "StartDependency": false
+    },
+    {
+        "ID": "5fa5bee6aa7",
+        "Name": " Schicksalsknoten",
+        "Location": "Radz-at-Han",
+        "Level": 80,
+        "JournalSection": 3,
+        "JournalCategory": 59,
+        "JournalGenre": "Aufträge Thavnair",
+        "Url": "/lodestone/playguide/db/quest/5fa5bee6aa7/",
+        "Image": null,
+        "Icon": "common_normal",
+        "Issuer": "Mehryde",
+        "StartLocation": {
+            "Name": "Radz-at-Han",
+            "X": "10.7",
+            "Y": "7.6"
+        },
+        "StartClass": null,
+        "Job": "",
+        "Company": "Keine Angabe",
+        "Requirement": "Keine Angabe",
+        "Rewards": {
+            "Gil": 735,
+            "Exp": null,
+            "ItemsMand": [
+                {
+                    "Icon": "https://img.finalfantasyxiv.com/lds/pc/global/images/itemicon/44/44848386f9871f5654fddcafb2a8e9210e6a96b0.png?n6.05",
+                    "Name": "Hamsa-Curry",
+                    "Amount": 2,
+                    "Url": "/lodestone/playguide/db/item/3d802e935a9/"
+                }
+            ],
+            "ItemsOpt": []
+        },
+        "Infos": {
+            "PrerequisiteQuest": [
+                {
+                    "Name": "Blasphemische Bestien",
+                    "Url": "/lodestone/playguide/db/quest/1e3c991b458/",
+                    "Area": "Radz-at-Han",
+                    "Level": "85"
+                }
+            ],
+            "RelatedNPC": [
+                {
+                    "Name": "Alchemistin mit geröteten Augen",
+                    "Url": "/lodestone/playguide/db/npc/npc/b72c2241cc1/",
+                    "Area": "Radz-at-Han (X:12.5 Y:6.4)"
+                },
+                {
+                    "Name": "Ausgelastete Alchemistin",
+                    "Url": "/lodestone/playguide/db/npc/npc/494ccc24eca/",
+                    "Area": "Radz-at-Han (X:12.6 Y:7.5)"
+                },
+                {
+                    "Name": "Nuhashir",
+                    "Url": "/lodestone/playguide/db/npc/npc/7823b44dd0a/",
+                    "Area": "Radz-at-Han (X:13.2 Y:8.5)"
+                }
+            ]
+        },
+        "Seq": 10,
+        "StartDependency": false
+    },
+    {
+        "ID": "61da265ce3e",
+        "Name": " Unnötige Zurückhaltung",
+        "Location": "Thavnair",
+        "Level": 80,
+        "JournalSection": 3,
+        "JournalCategory": 59,
+        "JournalGenre": "Aufträge Thavnair",
+        "Url": "/lodestone/playguide/db/quest/61da265ce3e/",
+        "Image": null,
+        "Icon": "common_normal",
+        "Issuer": "Nashrifhal",
+        "StartLocation": {
+            "Name": "Thavnair",
+            "X": "10.3",
+            "Y": "23.9"
+        },
+        "StartClass": null,
+        "Job": "",
+        "Company": "Keine Angabe",
+        "Requirement": "Keine Angabe",
+        "Rewards": {
+            "Gil": 735,
+            "Exp": null,
+            "ItemsMand": [
+                {
+                    "Icon": "https://img.finalfantasyxiv.com/lds/pc/global/images/itemicon/db/db44ca6e9ffe985d687a9d6f8a002eb83738c577.png?n6.05",
+                    "Name": "Zurek",
+                    "Amount": 2,
+                    "Url": "/lodestone/playguide/db/item/798aad50c0b/"
+                }
+            ],
+            "ItemsOpt": []
+        },
+        "Infos": {
+            "PrerequisiteQuest": [
+                {
+                    "Name": "Kadjayas Bühne",
+                    "Url": "/lodestone/playguide/db/quest/772affd186c/",
+                    "Area": "Thavnair",
+                    "Level": "80"
+                }
+            ],
+            "RelatedNPC": [
+                {
+                    "Name": "Jalamuc",
+                    "Url": "/lodestone/playguide/db/npc/npc/e1cfe6700a4/",
+                    "Area": "Thavnair (X:11.3 Y:21.0)"
+                },
+                {
+                    "Name": "Mahruvvet",
+                    "Url": "/lodestone/playguide/db/npc/npc/7db72bd6d13/",
+                    "Area": "Thavnair (X:11.4 Y:23.8)"
+                },
+                {
+                    "Name": "Sajavaaz",
+                    "Url": "/lodestone/playguide/db/npc/npc/56ab07d4c79/",
+                    "Area": "Thavnair (X:10.4 Y:22.4)"
+                }
+            ]
+        },
+        "Seq": 17,
+        "StartDependency": false
+    },
+    {
+        "ID": "68f2db50455",
+        "Name": " Das Amulett einer Wächterin",
+        "Location": "Thavnair",
+        "Level": 80,
+        "JournalSection": 3,
+        "JournalCategory": 59,
+        "JournalGenre": "Aufträge Thavnair",
+        "Url": "/lodestone/playguide/db/quest/68f2db50455/",
+        "Image": null,
+        "Icon": "common_normal",
+        "Issuer": "Viraban",
+        "StartLocation": {
+            "Name": "Thavnair",
+            "X": "29.0",
+            "Y": "17.0"
+        },
+        "StartClass": null,
+        "Job": "",
+        "Company": "Keine Angabe",
+        "Requirement": "Keine Angabe",
+        "Rewards": {
+            "Gil": 735,
+            "Exp": null,
+            "ItemsMand": [
+                {
+                    "Icon": "https://img.finalfantasyxiv.com/lds/pc/global/images/itemicon/81/8155ad42553a503a6c18c3196a60ee99a29e2c5b.png?n6.05",
+                    "Name": "Rote-Bete-Suppe",
+                    "Amount": 2,
+                    "Url": "/lodestone/playguide/db/item/96ace1b323e/"
+                }
+            ],
+            "ItemsOpt": []
+        },
+        "Infos": {
+            "PrerequisiteQuest": [
+                {
+                    "Name": "Warm ist die Seele Thavnairs",
+                    "Url": "/lodestone/playguide/db/quest/055d71c0b23/",
+                    "Area": "Thavnair",
+                    "Level": "85"
+                }
+            ]
+        },
+        "Seq": 26,
+        "StartDependency": false
+    },
+    {
+        "ID": "6b5bda8d0fd",
+        "Name": " Alchemist vermisst",
+        "Location": "Thavnair",
+        "Level": 80,
+        "JournalSection": 3,
+        "JournalCategory": 59,
+        "JournalGenre": "Aufträge Thavnair",
+        "Url": "/lodestone/playguide/db/quest/6b5bda8d0fd/",
+        "Image": null,
+        "Icon": "common_normal",
+        "Issuer": "Redliche Alchemistin",
+        "StartLocation": {
+            "Name": "Thavnair",
+            "X": "13.2",
+            "Y": "22.1"
+        },
+        "StartClass": null,
+        "Job": "",
+        "Company": "Keine Angabe",
+        "Requirement": "Keine Angabe",
+        "Rewards": {
+            "Gil": 815,
+            "Exp": null,
+            "ItemsMand": [],
+            "ItemsOpt": []
+        },
+        "Infos": {
+            "PrerequisiteQuest": [
+                {
+                    "Name": "Kadjayas Bühne",
+                    "Url": "/lodestone/playguide/db/quest/772affd186c/",
+                    "Area": "Thavnair",
+                    "Level": "80"
+                }
+            ],
+            "RelatedNPC": [
+                {
+                    "Name": "Alchemistenkollege",
+                    "Url": "/lodestone/playguide/db/npc/npc/8b62ea21aa4/",
+                    "Area": "Thavnair (X:15.2 Y:32.6)"
+                },
+                {
+                    "Name": "Redliche Alchemistin",
+                    "Url": "/lodestone/playguide/db/npc/npc/e9a8ef5c2fe/",
+                    "Area": "Thavnair (X:25.3 Y:34.6)"
+                },
+                {
+                    "Name": "Redliche Alchemistin",
+                    "Url": "/lodestone/playguide/db/npc/npc/1cdf56d9e88/",
+                    "Area": "Thavnair (X:15.1 Y:32.7)"
+                }
+            ]
+        },
+        "Seq": 21,
+        "StartDependency": false
+    },
+    {
+        "ID": "6bf0500c329",
+        "Name": " Bhujamga-Jagd",
+        "Location": "Thavnair",
+        "Level": 80,
+        "JournalSection": 3,
+        "JournalCategory": 59,
+        "JournalGenre": "Aufträge Thavnair",
+        "Url": "/lodestone/playguide/db/quest/6bf0500c329/",
+        "Image": null,
+        "Icon": "common_normal",
+        "Issuer": "Erfahrener Jäger",
+        "StartLocation": {
+            "Name": "Thavnair",
+            "X": "30.0",
+            "Y": "17.0"
+        },
+        "StartClass": null,
+        "Job": "",
+        "Company": "Keine Angabe",
+        "Requirement": "Keine Angabe",
+        "Rewards": {
+            "Gil": 815,
+            "Exp": null,
+            "ItemsMand": [],
+            "ItemsOpt": []
+        },
+        "Infos": {
+            "PrerequisiteQuest": [
+                {
+                    "Name": "Unter schützenden Schwingen",
+                    "Url": "/lodestone/playguide/db/quest/d84e3f2a32c/",
+                    "Area": "Thavnair",
+                    "Level": "85"
+                }
+            ],
+            "RelatedNPC": [
+                {
+                    "Name": "Erfahrener Jäger",
+                    "Url": "/lodestone/playguide/db/npc/npc/04da5ca7b0f/",
+                    "Area": "Thavnair (X:28.6 Y:13.3)"
+                }
+            ]
+        },
+        "Seq": 36,
+        "StartDependency": false
+    },
+    {
+        "ID": "7038ff05d8f",
+        "Name": " Kiste mit Hexenschusspotential",
+        "Location": "Thavnair",
+        "Level": 80,
+        "JournalSection": 3,
+        "JournalCategory": 59,
+        "JournalGenre": "Aufträge Thavnair",
+        "Url": "/lodestone/playguide/db/quest/7038ff05d8f/",
+        "Image": null,
+        "Icon": "common_normal",
+        "Issuer": "Qefiraz",
+        "StartLocation": {
+            "Name": "Thavnair",
+            "X": "25.2",
+            "Y": "35.4"
+        },
+        "StartClass": null,
+        "Job": "",
+        "Company": "Keine Angabe",
+        "Requirement": "Keine Angabe",
+        "Rewards": {
+            "Gil": 0,
+            "Exp": null,
+            "ItemsMand": [
+                {
+                    "Icon": "https://img.finalfantasyxiv.com/lds/pc/global/images/itemicon/e3/e37fdec0415b0585949d8355ae92379da2a0c37d.png?n6.05",
+                    "Name": "Kiste mit Rosskastanien-Ausrüstung für die Finger (G.-St. 515)",
+                    "Amount": 1,
+                    "Url": "/lodestone/playguide/db/item/7a290e9517a/"
+                }
+            ],
+            "ItemsOpt": []
+        },
+        "Infos": {
+            "PrerequisiteQuest": [
+                {
+                    "Name": "Ein Fischkrämer und sein Geselle",
+                    "Url": "/lodestone/playguide/db/quest/6d6650732be/",
+                    "Area": "Thavnair",
+                    "Level": "80"
+                }
+            ]
+        },
+        "Seq": 8,
+        "StartDependency": false
+    },
+    {
+        "ID": "75e2153ea0f",
+        "Name": " Sulas Bitte um Vergebung",
+        "Location": "Thavnair",
+        "Level": 80,
+        "JournalSection": 3,
+        "JournalCategory": 59,
+        "JournalGenre": "Aufträge Thavnair",
+        "Url": "/lodestone/playguide/db/quest/75e2153ea0f/",
+        "Image": "https://img.finalfantasyxiv.com/lds/pc/global/images/itemicon/c9/c9abeb7184920ded06e2541ed5678c62bfee6e99.png?n6.05",
+        "Icon": "common_normal",
+        "Issuer": "Sula",
+        "StartLocation": {
+            "Name": "Thavnair",
+            "X": "29.5",
+            "Y": "17.2"
+        },
+        "StartClass": null,
+        "Job": "",
+        "Company": "Keine Angabe",
+        "Requirement": "Keine Angabe",
+        "Rewards": {
+            "Gil": 1015,
+            "Exp": null,
+            "ItemsMand": [],
+            "ItemsOpt": []
+        },
+        "Infos": {
+            "PrerequisiteQuest": [
+                {
+                    "Name": " Auf der Suche nach Soma-Blüten",
+                    "Url": "/lodestone/playguide/db/quest/3e629c4879d/",
+                    "Area": "Thavnair",
+                    "Level": "80"
+                }
+            ],
+            "FollowupQuest": [
+                {
+                    "Name": " Yezahn und Pasareen",
+                    "Url": "/lodestone/playguide/db/quest/36767b7099b/",
+                    "Area": "Thavnair",
+                    "Level": "80"
+                }
+            ],
+            "RelatedNPC": [
+                {
+                    "Name": "Pasareen",
+                    "Url": "/lodestone/playguide/db/npc/npc/f11dbd4a44c/",
+                    "Area": "Thavnair (X:29.7 Y:16.1)"
+                },
+                {
+                    "Name": "Sula",
+                    "Url": "/lodestone/playguide/db/npc/npc/3cbc21d0a42/",
+                    "Area": "Thavnair (X:34.9 Y:24.3)"
+                },
+                {
+                    "Name": "Sula",
+                    "Url": "/lodestone/playguide/db/npc/npc/d3e3774b951/",
+                    "Area": "Thavnair (X:31.9 Y:28.4)"
+                },
+                {
+                    "Name": "Sula",
+                    "Url": "/lodestone/playguide/db/npc/npc/694796fe284/",
+                    "Area": "Thavnair (X:29.6 Y:16.1)"
+                },
+                {
+                    "Name": "Yezahn",
+                    "Url": "/lodestone/playguide/db/npc/npc/0f21c332773/",
+                    "Area": "Thavnair (X:29.5 Y:17.2)"
+                },
+                {
+                    "Name": "Yezahn",
+                    "Url": "/lodestone/playguide/db/npc/npc/b0f1a72269f/",
+                    "Area": "Thavnair (X:29.7 Y:16.1)"
+                }
+            ]
+        },
+        "Seq": 41,
+        "StartDependency": false
+    },
+    {
+        "ID": "7911a93329c",
+        "Name": " Steinharte Geschäfte",
+        "Location": "Thavnair",
+        "Level": 80,
+        "JournalSection": 3,
+        "JournalCategory": 59,
+        "JournalGenre": "Aufträge Thavnair",
+        "Url": "/lodestone/playguide/db/quest/7911a93329c/",
+        "Image": null,
+        "Icon": "common_normal",
+        "Issuer": "Apasa",
+        "StartLocation": {
+            "Name": "Thavnair",
+            "X": "11.1",
+            "Y": "23.4"
+        },
+        "StartClass": null,
+        "Job": "",
+        "Company": "Keine Angabe",
+        "Requirement": "Keine Angabe",
+        "Rewards": {
+            "Gil": 735,
+            "Exp": null,
+            "ItemsMand": [],
+            "ItemsOpt": []
+        },
+        "Infos": {
+            "PrerequisiteQuest": [
+                {
+                    "Name": "Ein Hamsa ist (k)ein Dodo",
+                    "Url": "/lodestone/playguide/db/quest/b4e66ce1714/",
+                    "Area": "Thavnair",
+                    "Level": "80"
+                }
+            ],
+            "RelatedNPC": [
+                {
+                    "Name": "Heiterer Steinhauer",
+                    "Url": "/lodestone/playguide/db/npc/npc/100c63e15e2/",
+                    "Area": "Thavnair (X:20.1 Y:8.7)"
+                },
+                {
+                    "Name": "Schroffer Steinhauer",
+                    "Url": "/lodestone/playguide/db/npc/npc/e9d56ee1a46/",
+                    "Area": "Thavnair (X:19.3 Y:7.4)"
+                },
+                {
+                    "Name": "Stämmiger Steinhauer",
+                    "Url": "/lodestone/playguide/db/npc/npc/9a2533bb8cc/",
+                    "Area": "Thavnair (X:20.1 Y:8.2)"
+                }
+            ]
+        },
+        "Seq": 24,
+        "StartDependency": false
+    },
+    {
+        "ID": "8d089cf19c2",
+        "Name": " Hoffnung für die Hamsa",
+        "Location": "Thavnair",
+        "Level": 80,
+        "JournalSection": 3,
+        "JournalCategory": 59,
+        "JournalGenre": "Aufträge Thavnair",
+        "Url": "/lodestone/playguide/db/quest/8d089cf19c2/",
+        "Image": null,
+        "Icon": "common_normal",
+        "Issuer": "Junger Arkasodara",
+        "StartLocation": {
+            "Name": "Thavnair",
+            "X": "11.8",
+            "Y": "22.2"
+        },
+        "StartClass": null,
+        "Job": "",
+        "Company": "Keine Angabe",
+        "Requirement": "Keine Angabe",
+        "Rewards": {
+            "Gil": 895,
+            "Exp": null,
+            "ItemsMand": [],
+            "ItemsOpt": []
+        },
+        "Infos": {
+            "PrerequisiteQuest": [
+                {
+                    "Name": "Ein Hamsa ist (k)ein Dodo",
+                    "Url": "/lodestone/playguide/db/quest/b4e66ce1714/",
+                    "Area": "Thavnair",
+                    "Level": "80"
+                }
+            ],
+            "RelatedNPC": [
+                {
+                    "Name": "Junger Arkasodara",
+                    "Url": "/lodestone/playguide/db/npc/npc/54278c3bf24/",
+                    "Area": "Thavnair (X:12.8 Y:10.3)"
+                }
+            ]
+        },
+        "Seq": 23,
+        "StartDependency": false
+    },
+    {
+        "ID": "90746a592aa",
+        "Name": " Der Alchemist und das Kind",
+        "Location": "Thavnair",
+        "Level": 80,
+        "JournalSection": 3,
+        "JournalCategory": 59,
+        "JournalGenre": "Aufträge Thavnair",
+        "Url": "/lodestone/playguide/db/quest/90746a592aa/",
+        "Image": "https://img.finalfantasyxiv.com/lds/pc/global/images/itemicon/c9/c9abeb7184920ded06e2541ed5678c62bfee6e99.png?n6.05",
+        "Icon": "common_normal",
+        "Issuer": "Yezahn",
+        "StartLocation": {
+            "Name": "Thavnair",
+            "X": "29.2",
+            "Y": "15.2"
+        },
+        "StartClass": null,
+        "Job": "",
+        "Company": "Keine Angabe",
+        "Requirement": "Keine Angabe",
+        "Rewards": {
+            "Gil": 935,
+            "Exp": null,
+            "ItemsMand": [],
+            "ItemsOpt": []
+        },
+        "Infos": {
+            "PrerequisiteQuest": [
+                {
+                    "Name": "Unter schützenden Schwingen",
+                    "Url": "/lodestone/playguide/db/quest/d84e3f2a32c/",
+                    "Area": "Thavnair",
+                    "Level": "85"
+                }
+            ],
+            "FollowupQuest": [
+                {
+                    "Name": " Auf der Suche nach Soma-Blüten",
+                    "Url": "/lodestone/playguide/db/quest/3e629c4879d/",
+                    "Area": "Thavnair",
+                    "Level": "80"
+                }
+            ],
+            "RelatedNPC": [
+                {
+                    "Name": "Beschäftigte Dorfbewohnerin",
+                    "Url": "/lodestone/playguide/db/npc/npc/bb0443d2ed9/",
+                    "Area": "Thavnair (X:28.7 Y:16.5)"
+                },
+                {
+                    "Name": "Erschöpfter Dorfbewohner",
+                    "Url": "/lodestone/playguide/db/npc/npc/b4ee73a2828/",
+                    "Area": "Thavnair (X:29.9 Y:16.1)"
+                },
+                {
+                    "Name": "Friedliche Dorfbewohnerin",
+                    "Url": "/lodestone/playguide/db/npc/npc/888ebe915c8/",
+                    "Area": "Thavnair (X:30.2 Y:16.5)"
+                },
+                {
+                    "Name": "Pasareen",
+                    "Url": "/lodestone/playguide/db/npc/npc/f11dbd4a44c/",
+                    "Area": "Thavnair (X:29.7 Y:16.1)"
+                },
+                {
+                    "Name": "Yezahn",
+                    "Url": "/lodestone/playguide/db/npc/npc/0f21c332773/",
+                    "Area": "Thavnair (X:29.5 Y:17.2)"
+                },
+                {
+                    "Name": "Yezahn",
+                    "Url": "/lodestone/playguide/db/npc/npc/fd4f8731f89/",
+                    "Area": "Thavnair (X:29.5 Y:17.4)"
+                }
+            ]
+        },
+        "Seq": 39,
+        "StartDependency": false
+    },
+    {
+        "ID": "a7a15e72bc8",
+        "Name": " Unerwiderte Gefühle",
+        "Location": "Thavnair",
+        "Level": 80,
+        "JournalSection": 3,
+        "JournalCategory": 59,
+        "JournalGenre": "Aufträge Thavnair",
+        "Url": "/lodestone/playguide/db/quest/a7a15e72bc8/",
+        "Image": null,
+        "Icon": "common_normal",
+        "Issuer": "Mehrunnah",
+        "StartLocation": {
+            "Name": "Thavnair",
+            "X": "25.0",
+            "Y": "37.4"
+        },
+        "StartClass": null,
+        "Job": "",
+        "Company": "Keine Angabe",
+        "Requirement": "Keine Angabe",
+        "Rewards": {
+            "Gil": 0,
+            "Exp": null,
+            "ItemsMand": [
+                {
+                    "Icon": "https://img.finalfantasyxiv.com/lds/pc/global/images/itemicon/f3/f357ea7ae8d550e78704823b64f7e5d104e16e2f.png?n6.05",
+                    "Name": "Kiste mit Rosskastanien-Ausrüstung für die Ohren (G.-St. 515)",
+                    "Amount": 1,
+                    "Url": "/lodestone/playguide/db/item/fdedd4a6a71/"
+                }
+            ],
+            "ItemsOpt": []
+        },
+        "Infos": {
+            "PrerequisiteQuest": [
+                {
+                    "Name": "Ein Fischkrämer und sein Geselle",
+                    "Url": "/lodestone/playguide/db/quest/6d6650732be/",
+                    "Area": "Thavnair",
+                    "Level": "80"
+                }
+            ]
+        },
+        "Seq": 9,
+        "StartDependency": false
+    },
+    {
+        "ID": "a9e8ea64db8",
+        "Name": " Ringen um den Ring",
+        "Location": "Radz-at-Han",
+        "Level": 80,
+        "JournalSection": 3,
+        "JournalCategory": 59,
+        "JournalGenre": "Aufträge Thavnair",
+        "Url": "/lodestone/playguide/db/quest/a9e8ea64db8/",
+        "Image": null,
+        "Icon": "common_normal",
+        "Issuer": "Wachoffizierin des Himmelsheers",
+        "StartLocation": {
+            "Name": "Radz-at-Han",
+            "X": "7.7",
+            "Y": "11.8"
+        },
+        "StartClass": null,
+        "Job": "",
+        "Company": "Keine Angabe",
+        "Requirement": "Keine Angabe",
+        "Rewards": {
+            "Gil": 815,
+            "Exp": null,
+            "ItemsMand": [],
+            "ItemsOpt": []
+        },
+        "Infos": {
+            "PrerequisiteQuest": [
+                {
+                    "Name": "Blasphemische Bestien",
+                    "Url": "/lodestone/playguide/db/quest/1e3c991b458/",
+                    "Area": "Radz-at-Han",
+                    "Level": "85"
+                }
+            ],
+            "RelatedNPC": [
+                {
+                    "Name": "Grimmiger Au Ra",
+                    "Url": "/lodestone/playguide/db/npc/npc/ebccb4e8f59/",
+                    "Area": "Radz-at-Han (X:7.7 Y:11.7)"
+                },
+                {
+                    "Name": "Grimmiger Au Ra",
+                    "Url": "/lodestone/playguide/db/npc/npc/68dad2813cf/",
+                    "Area": "Radz-at-Han (X:8.5 Y:11.2)"
+                },
+                {
+                    "Name": "Sanftmütige Au Ra",
+                    "Url": "/lodestone/playguide/db/npc/npc/222c07b633a/",
+                    "Area": "Radz-at-Han (X:7.8 Y:11.7)"
+                },
+                {
+                    "Name": "Wachoffizierin des Himmelsheers",
+                    "Url": "/lodestone/playguide/db/npc/npc/a369f80de81/",
+                    "Area": "Radz-at-Han (X:8.5 Y:11.2)"
+                },
+                {
+                    "Name": "Wachoffizierin des Himmelsheers",
+                    "Url": "/lodestone/playguide/db/npc/npc/fe561f7c6b0/",
+                    "Area": "Radz-at-Han (X:12.6 Y:12.4)"
+                },
+                {
+                    "Name": "Wachsoldatin des Himmelsheers",
+                    "Url": "/lodestone/playguide/db/npc/npc/2a3004f4619/",
+                    "Area": "Radz-at-Han (X:7.7 Y:11.7)"
+                }
+            ]
+        },
+        "Seq": 6,
+        "StartDependency": false
+    },
+    {
+        "ID": "ab8d3b51d07",
+        "Name": " Ein seltsamer Führer",
+        "Location": "Thavnair",
+        "Level": 80,
+        "JournalSection": 3,
+        "JournalCategory": 59,
+        "JournalGenre": "Aufträge Thavnair",
+        "Url": "/lodestone/playguide/db/quest/ab8d3b51d07/",
+        "Image": null,
+        "Icon": "common_normal",
+        "Issuer": "Seltsamer Hanuman-Langur",
+        "StartLocation": {
+            "Name": "Thavnair",
+            "X": "29.1",
+            "Y": "17.4"
+        },
+        "StartClass": null,
+        "Job": "",
+        "Company": "Keine Angabe",
+        "Requirement": "Keine Angabe",
+        "Rewards": {
+            "Gil": 815,
+            "Exp": null,
+            "ItemsMand": [],
+            "ItemsOpt": []
+        },
+        "Infos": {
+            "PrerequisiteQuest": [
+                {
+                    "Name": "Warm ist die Seele Thavnairs",
+                    "Url": "/lodestone/playguide/db/quest/055d71c0b23/",
+                    "Area": "Thavnair",
+                    "Level": "85"
+                }
+            ],
+            "RelatedNPC": [
+                {
+                    "Name": "Erschöpfte Au Ra",
+                    "Url": "/lodestone/playguide/db/npc/npc/d332eebd4fa/",
+                    "Area": "Thavnair (X:31.0 Y:22.0)"
+                },
+                {
+                    "Name": "Erschöpfte Au Ra",
+                    "Url": "/lodestone/playguide/db/npc/npc/af0b3be9713/",
+                    "Area": "Thavnair (X:29.1 Y:17.4)"
+                },
+                {
+                    "Name": "Seltsamer Hanuman-Langur",
+                    "Url": "/lodestone/playguide/db/npc/npc/9ec028475db/",
+                    "Area": "Thavnair (X:29.2 Y:18.8)"
+                },
+                {
+                    "Name": "Seltsamer Hanuman-Langur",
+                    "Url": "/lodestone/playguide/db/npc/npc/3dd30e7506e/",
+                    "Area": "Thavnair (X:31.0 Y:22.0)"
+                }
+            ]
+        },
+        "Seq": 31,
+        "StartDependency": false
+    },
+    {
+        "ID": "abf1b887618",
+        "Name": " Eine Alchemistin gibt nicht auf",
+        "Location": "Thavnair",
+        "Level": 80,
+        "JournalSection": 3,
+        "JournalCategory": 59,
+        "JournalGenre": "Aufträge Thavnair",
+        "Url": "/lodestone/playguide/db/quest/abf1b887618/",
+        "Image": null,
+        "Icon": "function_normal",
+        "Issuer": "Jalamuc",
+        "StartLocation": {
+            "Name": "Thavnair",
+            "X": "11.3",
+            "Y": "21.0"
+        },
+        "StartClass": null,
+        "Job": "",
+        "Company": "Keine Angabe",
+        "Requirement": "Keine Angabe",
+        "Rewards": {
+            "Gil": 895,
+            "Exp": null,
+            "ItemsMand": [
+                {
+                    "Icon": "https://img.finalfantasyxiv.com/lds/pc/global/images/itemicon/af/af26e4b79fb1de83550f6ddbd3a170408fcfe702.png?n6.05",
+                    "Name": "",
+                    "Amount": null
+                }
+            ],
+            "ItemsOpt": []
+        },
+        "Infos": {
+            "PrerequisiteQuest": [
+                {
+                    "Name": "Kadjayas Bühne",
+                    "Url": "/lodestone/playguide/db/quest/772affd186c/",
+                    "Area": "Thavnair",
+                    "Level": "80"
+                }
+            ],
+            "RelatedNPC": [
+                {
+                    "Name": "Schwarzhaarige Hyuran",
+                    "Url": "/lodestone/playguide/db/npc/npc/15e57ff269f/",
+                    "Area": "Thavnair (X:21.8 Y:18.8)"
+                }
+            ]
+        },
+        "Seq": 19,
+        "StartDependency": false
+    },
+    {
+        "ID": "ade05929d39",
+        "Name": " Die Abenteurerin aus der Azim-Steppe",
+        "Location": "Thavnair",
+        "Level": 80,
+        "JournalSection": 3,
+        "JournalCategory": 59,
+        "JournalGenre": "Aufträge Thavnair",
+        "Url": "/lodestone/playguide/db/quest/ade05929d39/",
+        "Image": "https://img.finalfantasyxiv.com/lds/pc/global/images/itemicon/94/948cb3ed7b82cb52259e8f6ea138c9cf2097c5e8.png?n6.05",
+        "Icon": "function_normal",
+        "Issuer": "Ogul",
+        "StartLocation": {
+            "Name": "Thavnair",
+            "X": "25.5",
+            "Y": "36.0"
+        },
+        "StartClass": null,
+        "Job": "",
+        "Company": "Keine Angabe",
+        "Requirement": "Keine Angabe",
+        "Rewards": {
+            "Gil": 1095,
+            "Exp": null,
+            "ItemsMand": [
+                {
+                    "Icon": "https://img.finalfantasyxiv.com/lds/pc/global/images/itemicon/af/af26e4b79fb1de83550f6ddbd3a170408fcfe702.png?n6.05",
+                    "Name": "",
+                    "Amount": null
+                }
+            ],
+            "ItemsOpt": []
+        },
+        "Infos": {
+            "PrerequisiteQuest": [
+                {
+                    "Name": "Ein Fischkrämer und sein Geselle",
+                    "Url": "/lodestone/playguide/db/quest/6d6650732be/",
+                    "Area": "Thavnair",
+                    "Level": "80"
+                }
+            ],
+            "FollowupQuest": [
+                {
+                    "Name": " Ein Matanga kommt selten allein",
+                    "Url": "/lodestone/playguide/db/quest/ee0948d9ee6/",
+                    "Area": "Thavnair",
+                    "Level": "80"
+                }
+            ],
+            "RelatedNPC": [
+                {
+                    "Name": "Kancana",
+                    "Url": "/lodestone/playguide/db/npc/npc/ad004fb1c56/",
+                    "Area": "Thavnair (X:25.3 Y:31.2)"
+                },
+                {
+                    "Name": "Ogul",
+                    "Url": "/lodestone/playguide/db/npc/npc/bd334b25ee2/",
+                    "Area": "Thavnair (X:25.2 Y:31.2)"
+                },
+                {
+                    "Name": "Ogul",
+                    "Url": "/lodestone/playguide/db/npc/npc/ca971f0ba6d/",
+                    "Area": "Thavnair (X:24.0 Y:32.2)"
+                },
+                {
+                    "Name": "Ogul",
+                    "Url": "/lodestone/playguide/db/npc/npc/8a4276fa8e6/",
+                    "Area": "Thavnair (X:24.8 Y:29.6)"
+                },
+                {
+                    "Name": "Verwundeter Arkasodara",
+                    "Url": "/lodestone/playguide/db/npc/npc/70ca7fd5294/",
+                    "Area": "Thavnair (X:24.8 Y:29.6)"
+                },
+                {
+                    "Name": "Zunftmeister der Arkasodara",
+                    "Url": "/lodestone/playguide/db/npc/npc/13b9e00c7f2/",
+                    "Area": "Thavnair (X:23.9 Y:32.2)"
+                }
+            ]
+        },
+        "Seq": 11,
+        "StartDependency": false
+    },
+    {
+        "ID": "ade8a34a7de",
+        "Name": " Langfingern auf der Spur",
+        "Location": "Thavnair",
+        "Level": 80,
+        "JournalSection": 3,
+        "JournalCategory": 59,
+        "JournalGenre": "Aufträge Thavnair",
+        "Url": "/lodestone/playguide/db/quest/ade8a34a7de/",
+        "Image": "https://img.finalfantasyxiv.com/lds/pc/global/images/itemicon/94/948cb3ed7b82cb52259e8f6ea138c9cf2097c5e8.png?n6.05",
+        "Icon": "common_normal",
+        "Issuer": "Ogul",
+        "StartLocation": {
+            "Name": "Thavnair",
+            "X": "25.3",
+            "Y": "31.2"
+        },
+        "StartClass": null,
+        "Job": "",
+        "Company": "Keine Angabe",
+        "Requirement": "Keine Angabe",
+        "Rewards": {
+            "Gil": 1015,
+            "Exp": null,
+            "ItemsMand": [],
+            "ItemsOpt": []
+        },
+        "Infos": {
+            "PrerequisiteQuest": [
+                {
+                    "Name": " Vertrauen ist der größte Reichtum",
+                    "Url": "/lodestone/playguide/db/quest/572e73b399f/",
+                    "Area": "Thavnair",
+                    "Level": "80"
+                }
+            ],
+            "FollowupQuest": [
+                {
+                    "Name": " Hoffnung für Palakas Ruh",
+                    "Url": "/lodestone/playguide/db/quest/fea56c68337/",
+                    "Area": "Thavnair",
+                    "Level": "80"
+                }
+            ],
+            "RelatedNPC": [
+                {
+                    "Name": "Dubioser Arkasodara",
+                    "Url": "/lodestone/playguide/db/npc/npc/80767a80081/",
+                    "Area": "Thavnair (X:20.9 Y:30.6)"
+                },
+                {
+                    "Name": "Kancana",
+                    "Url": "/lodestone/playguide/db/npc/npc/ad004fb1c56/",
+                    "Area": "Thavnair (X:25.3 Y:31.2)"
+                },
+                {
+                    "Name": "Kleiner Langfinger",
+                    "Url": "/lodestone/playguide/db/npc/npc/a2b843345c6/",
+                    "Area": "Thavnair (X:25.7 Y:33.4)"
+                },
+                {
+                    "Name": "Ogul",
+                    "Url": "/lodestone/playguide/db/npc/npc/10cc03d3726/",
+                    "Area": "Thavnair (X:25.5 Y:33.0)"
+                },
+                {
+                    "Name": "Ogul",
+                    "Url": "/lodestone/playguide/db/npc/npc/5e4961e7bf4/",
+                    "Area": "Thavnair (X:20.8 Y:30.6)"
+                },
+                {
+                    "Name": "Racashir",
+                    "Url": "/lodestone/playguide/db/npc/npc/979e56f8458/",
+                    "Area": "Thavnair (X:20.8 Y:30.6)"
+                }
+            ]
+        },
+        "Seq": 14,
+        "StartDependency": false
+    },
+    {
+        "ID": "ae10019ef68",
+        "Name": " Agama zu Ehren",
+        "Location": "Thavnair",
+        "Level": 80,
+        "JournalSection": 3,
+        "JournalCategory": 59,
+        "JournalGenre": "Aufträge Thavnair",
+        "Url": "/lodestone/playguide/db/quest/ae10019ef68/",
+        "Image": null,
+        "Icon": "function_normal",
+        "Issuer": "Erschöpfte Kriegerin des Himmelsheeres",
+        "StartLocation": {
+            "Name": "Thavnair",
+            "X": "30.7",
+            "Y": "17.0"
+        },
+        "StartClass": null,
+        "Job": "",
+        "Company": "Keine Angabe",
+        "Requirement": "Keine Angabe",
+        "Rewards": {
+            "Gil": 815,
+            "Exp": null,
+            "ItemsMand": [
+                {
+                    "Icon": "https://img.finalfantasyxiv.com/lds/pc/global/images/itemicon/77/77239c1524734ebf268d9008c1712392f235fa4b.png?n6.05",
+                    "Name": "Linsencurry",
+                    "Amount": 2,
+                    "Url": "/lodestone/playguide/db/item/3b0f99829e6/"
+                },
+                {
+                    "Icon": "https://img.finalfantasyxiv.com/lds/pc/global/images/itemicon/af/af26e4b79fb1de83550f6ddbd3a170408fcfe702.png?n6.05",
+                    "Name": "",
+                    "Amount": null
+                }
+            ],
+            "ItemsOpt": []
+        },
+        "Infos": {
+            "PrerequisiteQuest": [
+                {
+                    "Name": "Warm ist die Seele Thavnairs",
+                    "Url": "/lodestone/playguide/db/quest/055d71c0b23/",
+                    "Area": "Thavnair",
+                    "Level": "85"
+                }
+            ],
+            "FollowupQuest": [
+                {
+                    "Name": " Verborgen im Schleier der Sangha",
+                    "Url": "/lodestone/playguide/db/quest/d33bcc0f689/",
+                    "Area": "Thavnair",
+                    "Level": "80"
+                },
+                {
+                    "Name": " Essenslieferung in luftiger Höhe",
+                    "Url": "/lodestone/playguide/db/quest/ddcf70a0e5c/",
+                    "Area": "Thavnair",
+                    "Level": "80"
+                }
+            ],
+            "RelatedNPC": [
+                {
+                    "Name": "Überlebender",
+                    "Url": "/lodestone/playguide/db/npc/npc/59a58fce96b/",
+                    "Area": "Thavnair (X:20.9 Y:17.9)"
+                }
+            ]
+        },
+        "Seq": 27,
+        "StartDependency": false
+    },
+    {
+        "ID": "b4b4e7d0473",
+        "Name": " Der Yeti-Flüsterer",
+        "Location": "Thavnair",
+        "Level": 80,
+        "JournalSection": 3,
+        "JournalCategory": 59,
+        "JournalGenre": "Aufträge Thavnair",
+        "Url": "/lodestone/playguide/db/quest/b4b4e7d0473/",
+        "Image": null,
+        "Icon": "common_normal",
+        "Issuer": "Junger Arkasodara",
+        "StartLocation": {
+            "Name": "Thavnair",
+            "X": "28.4",
+            "Y": "16.0"
+        },
+        "StartClass": null,
+        "Job": "",
+        "Company": "Keine Angabe",
+        "Requirement": "Keine Angabe",
+        "Rewards": {
+            "Gil": 815,
+            "Exp": null,
+            "ItemsMand": [
+                {
+                    "Icon": "https://img.finalfantasyxiv.com/lds/pc/global/images/itemicon/77/77239c1524734ebf268d9008c1712392f235fa4b.png?n6.05",
+                    "Name": "Linsencurry",
+                    "Amount": 2,
+                    "Url": "/lodestone/playguide/db/item/3b0f99829e6/"
+                }
+            ],
+            "ItemsOpt": []
+        },
+        "Infos": {
+            "PrerequisiteQuest": [
+                {
+                    "Name": "Unter schützenden Schwingen",
+                    "Url": "/lodestone/playguide/db/quest/d84e3f2a32c/",
+                    "Area": "Thavnair",
+                    "Level": "85"
+                }
+            ],
+            "RelatedNPC": [
+                {
+                    "Name": "Sushena",
+                    "Url": "/lodestone/playguide/db/npc/npc/a5de5842570/",
+                    "Area": "Thavnair (X:22.9 Y:12.6)"
+                }
+            ]
+        },
+        "Seq": 33,
+        "StartDependency": false
+    },
+    {
+        "ID": "bbf57d8065f",
+        "Name": " Ein unkollegialer Dieb",
+        "Location": "Thavnair",
+        "Level": 80,
+        "JournalSection": 3,
+        "JournalCategory": 59,
+        "JournalGenre": "Aufträge Thavnair",
+        "Url": "/lodestone/playguide/db/quest/bbf57d8065f/",
+        "Image": null,
+        "Icon": "common_normal",
+        "Issuer": "Varpasa",
+        "StartLocation": {
+            "Name": "Thavnair",
+            "X": "10.1",
+            "Y": "23.9"
+        },
+        "StartClass": null,
+        "Job": "",
+        "Company": "Keine Angabe",
+        "Requirement": "Keine Angabe",
+        "Rewards": {
+            "Gil": 815,
+            "Exp": null,
+            "ItemsMand": [],
+            "ItemsOpt": []
+        },
+        "Infos": {
+            "PrerequisiteQuest": [
+                {
+                    "Name": "Kadjayas Bühne",
+                    "Url": "/lodestone/playguide/db/quest/772affd186c/",
+                    "Area": "Thavnair",
+                    "Level": "80"
+                }
+            ],
+            "RelatedNPC": [
+                {
+                    "Name": "Verdächtiger Mann in schwarzer Kleidung",
+                    "Url": "/lodestone/playguide/db/npc/npc/ae9a2adae92/",
+                    "Area": "Thavnair (X:19.4 Y:33.4)"
+                }
+            ]
+        },
+        "Seq": 15,
+        "StartDependency": false
+    },
+    {
+        "ID": "ca89b92d38f",
+        "Name": " Die Sprache der Blumen",
+        "Location": "Radz-at-Han",
+        "Level": 80,
+        "JournalSection": 3,
+        "JournalCategory": 59,
+        "JournalGenre": "Aufträge Thavnair",
+        "Url": "/lodestone/playguide/db/quest/ca89b92d38f/",
+        "Image": null,
+        "Icon": "common_normal",
+        "Issuer": "Mihreen",
+        "StartLocation": {
+            "Name": "Radz-at-Han",
+            "X": "8.2",
+            "Y": "12.0"
+        },
+        "StartClass": null,
+        "Job": "",
+        "Company": "Keine Angabe",
+        "Requirement": "Keine Angabe",
+        "Rewards": {
+            "Gil": 895,
+            "Exp": null,
+            "ItemsMand": [],
+            "ItemsOpt": [
+                {
+                    "Icon": "https://img.finalfantasyxiv.com/lds/pc/global/images/itemicon/84/84d740e20165d5f7765a8cbe7fd8636a3763111e.png?n6.05",
+                    "Name": "Getrocknete rote Veilchen",
+                    "Amount": 1,
+                    "Url": "/lodestone/playguide/db/item/f4f81fa573e/"
+                },
+                {
+                    "Icon": "https://img.finalfantasyxiv.com/lds/pc/global/images/itemicon/d1/d1eeb958e8a0e01b6b18d5f43180b02f76ee7c71.png?n6.05",
+                    "Name": "Getrocknete blaue Veilchen",
+                    "Amount": 1,
+                    "Url": "/lodestone/playguide/db/item/a62c3282721/"
+                },
+                {
+                    "Icon": "https://img.finalfantasyxiv.com/lds/pc/global/images/itemicon/7a/7aa964523c5b874c08ff852429cee8200ea055bc.png?n6.05",
+                    "Name": "Getrocknete gelbe Veilchen",
+                    "Amount": 1,
+                    "Url": "/lodestone/playguide/db/item/c2fadcd5cc3/"
+                },
+                {
+                    "Icon": "https://img.finalfantasyxiv.com/lds/pc/global/images/itemicon/a7/a73f3a165abeaa5d3a8fb68df68a1c7eeb105915.png?n6.05",
+                    "Name": "Getrocknete orange Veilchen",
+                    "Amount": 1,
+                    "Url": "/lodestone/playguide/db/item/03fbc98d87f/"
+                },
+                {
+                    "Icon": "https://img.finalfantasyxiv.com/lds/pc/global/images/itemicon/d6/d614b022c7ceb5b90c95501a39065efb610d8fec.png?n6.05",
+                    "Name": "Getrocknete violette Veilchen",
+                    "Amount": 1,
+                    "Url": "/lodestone/playguide/db/item/491c12d5e56/"
+                }
+            ]
+        },
+        "Infos": {
+            "PrerequisiteQuest": [
+                {
+                    "Name": "Blasphemische Bestien",
+                    "Url": "/lodestone/playguide/db/quest/1e3c991b458/",
+                    "Area": "Radz-at-Han",
+                    "Level": "85"
+                }
+            ],
+            "RelatedNPC": [
+                {
+                    "Name": "Halbstarker Au Ra",
+                    "Url": "/lodestone/playguide/db/npc/npc/5245f0bd772/",
+                    "Area": "Radz-at-Han (X:9.2 Y:14.3)"
+                },
+                {
+                    "Name": "Junge Au Ra",
+                    "Url": "/lodestone/playguide/db/npc/npc/ce0b9c4f8b2/",
+                    "Area": "Radz-at-Han (X:9.2 Y:14.3)"
+                }
+            ]
+        },
+        "Seq": 1,
+        "StartDependency": false
+    },
+    {
+        "ID": "d25fc8b6159",
+        "Name": " Ein starker Duft",
+        "Location": "Thavnair",
+        "Level": 80,
+        "JournalSection": 3,
+        "JournalCategory": 59,
+        "JournalGenre": "Aufträge Thavnair",
+        "Url": "/lodestone/playguide/db/quest/d25fc8b6159/",
+        "Image": null,
+        "Icon": "common_normal",
+        "Issuer": "Ängstlicher Arkasodara",
+        "StartLocation": {
+            "Name": "Thavnair",
+            "X": "11.6",
+            "Y": "22.7"
+        },
+        "StartClass": null,
+        "Job": "",
+        "Company": "Keine Angabe",
+        "Requirement": "Keine Angabe",
+        "Rewards": {
+            "Gil": 975,
+            "Exp": null,
+            "ItemsMand": [],
+            "ItemsOpt": []
+        },
+        "Infos": {
+            "PrerequisiteQuest": [
+                {
+                    "Name": "Kadjayas Bühne",
+                    "Url": "/lodestone/playguide/db/quest/772affd186c/",
+                    "Area": "Thavnair",
+                    "Level": "80"
+                }
+            ],
+            "RelatedNPC": [
+                {
+                    "Name": "Ängstlicher Arkasodara",
+                    "Url": "/lodestone/playguide/db/npc/npc/6f1724b4818/",
+                    "Area": "Thavnair (X:13.7 Y:22.7)"
+                },
+                {
+                    "Name": "Ängstlicher Arkasodara",
+                    "Url": "/lodestone/playguide/db/npc/npc/ca22f2ec99a/",
+                    "Area": "Thavnair (X:18.2 Y:25.6)"
+                }
+            ]
+        },
+        "Seq": 20,
+        "StartDependency": false
+    },
+    {
+        "ID": "d33bcc0f689",
+        "Name": " Verborgen im Schleier der Sangha",
+        "Location": "Thavnair",
+        "Level": 80,
+        "JournalSection": 3,
+        "JournalCategory": 59,
+        "JournalGenre": "Aufträge Thavnair",
+        "Url": "/lodestone/playguide/db/quest/d33bcc0f689/",
+        "Image": null,
+        "Icon": "common_normal",
+        "Issuer": "Aurischer Tänzer",
+        "StartLocation": {
+            "Name": "Thavnair",
+            "X": "29.2",
+            "Y": "15.9"
+        },
+        "StartClass": null,
+        "Job": "",
+        "Company": "Keine Angabe",
+        "Requirement": "Keine Angabe",
+        "Rewards": {
+            "Gil": 815,
+            "Exp": null,
+            "ItemsMand": [],
+            "ItemsOpt": []
+        },
+        "Infos": {
+            "PrerequisiteQuest": [
+                {
+                    "Name": "Unter schützenden Schwingen",
+                    "Url": "/lodestone/playguide/db/quest/d84e3f2a32c/",
+                    "Area": "Thavnair",
+                    "Level": "85"
+                },
+                {
+                    "Name": " Agama zu Ehren",
+                    "Url": "/lodestone/playguide/db/quest/ae10019ef68/",
+                    "Area": "Thavnair",
+                    "Level": "80"
+                },
+                {
+                    "Name": " Fische für Palakas Ruh",
+                    "Url": "/lodestone/playguide/db/quest/d7fa3379ffc/",
+                    "Area": "Thavnair",
+                    "Level": "80"
+                }
+            ],
+            "RelatedNPC": [
+                {
+                    "Name": "Aurischer Tänzer",
+                    "Url": "/lodestone/playguide/db/npc/npc/5b5aff98ce9/",
+                    "Area": "Thavnair (X:24.4 Y:23.3)"
+                }
+            ]
+        },
+        "Seq": 37,
+        "StartDependency": false
+    },
+    {
+        "ID": "d39d9f4ffb8",
+        "Name": " Helft den Hungrigen",
+        "Location": "Radz-at-Han",
+        "Level": 80,
+        "JournalSection": 3,
+        "JournalCategory": 59,
+        "JournalGenre": "Aufträge Thavnair",
+        "Url": "/lodestone/playguide/db/quest/d39d9f4ffb8/",
+        "Image": null,
+        "Icon": "common_normal",
+        "Issuer": "Arkasodara-Schlemmer",
+        "StartLocation": {
+            "Name": "Radz-at-Han",
+            "X": "9.9",
+            "Y": "13.7"
+        },
+        "StartClass": null,
+        "Job": "",
+        "Company": "Keine Angabe",
+        "Requirement": "Keine Angabe",
+        "Rewards": {
+            "Gil": 975,
+            "Exp": null,
+            "ItemsMand": [],
+            "ItemsOpt": []
+        },
+        "Infos": {
+            "PrerequisiteQuest": [
+                {
+                    "Name": "Blasphemische Bestien",
+                    "Url": "/lodestone/playguide/db/quest/1e3c991b458/",
+                    "Area": "Radz-at-Han",
+                    "Level": "85"
+                }
+            ],
+            "RelatedNPC": [
+                {
+                    "Name": "Arkasodara-Schlemmer",
+                    "Url": "/lodestone/playguide/db/npc/npc/df0a1e4c196/",
+                    "Area": "Radz-at-Han (X:9.9 Y:13.7)"
+                },
+                {
+                    "Name": "Khufiye",
+                    "Url": "/lodestone/playguide/db/npc/npc/c7abe8a3a19/",
+                    "Area": "Radz-at-Han (X:7.1 Y:13.9)"
+                },
+                {
+                    "Name": "Mehryde",
+                    "Url": "/lodestone/playguide/db/npc/npc/4994844e278/",
+                    "Area": "Radz-at-Han (X:10.7 Y:7.6)"
+                }
+            ]
+        },
+        "Seq": 3,
+        "StartDependency": false
+    },
+    {
+        "ID": "d7fa3379ffc",
+        "Name": " Fische für Palakas Ruh",
+        "Location": "Thavnair",
+        "Level": 80,
+        "JournalSection": 3,
+        "JournalCategory": 59,
+        "JournalGenre": "Aufträge Thavnair",
+        "Url": "/lodestone/playguide/db/quest/d7fa3379ffc/",
+        "Image": null,
+        "Icon": "common_normal",
+        "Issuer": "Arkasodara-Mädchen",
+        "StartLocation": {
+            "Name": "Thavnair",
+            "X": "29.8",
+            "Y": "15.9"
+        },
+        "StartClass": null,
+        "Job": "",
+        "Company": "Keine Angabe",
+        "Requirement": "Keine Angabe",
+        "Rewards": {
+            "Gil": 895,
+            "Exp": null,
+            "ItemsMand": [],
+            "ItemsOpt": []
+        },
+        "Infos": {
+            "PrerequisiteQuest": [
+                {
+                    "Name": "Warm ist die Seele Thavnairs",
+                    "Url": "/lodestone/playguide/db/quest/055d71c0b23/",
+                    "Area": "Thavnair",
+                    "Level": "85"
+                }
+            ],
+            "FollowupQuest": [
+                {
+                    "Name": " Verborgen im Schleier der Sangha",
+                    "Url": "/lodestone/playguide/db/quest/d33bcc0f689/",
+                    "Area": "Thavnair",
+                    "Level": "80"
+                },
+                {
+                    "Name": " Essenslieferung in luftiger Höhe",
+                    "Url": "/lodestone/playguide/db/quest/ddcf70a0e5c/",
+                    "Area": "Thavnair",
+                    "Level": "80"
+                }
+            ],
+            "RelatedNPC": [
+                {
+                    "Name": "Arkasodara-Vater",
+                    "Url": "/lodestone/playguide/db/npc/npc/163be26816c/",
+                    "Area": "Thavnair (X:31.3 Y:13.0)"
+                }
+            ]
+        },
+        "Seq": 30,
+        "StartDependency": false
+    },
+    {
+        "ID": "d81362c72f2",
+        "Name": " Ein Geschenk von Herzen",
+        "Location": "Thavnair",
+        "Level": 80,
+        "JournalSection": 3,
+        "JournalCategory": 59,
+        "JournalGenre": "Aufträge Thavnair",
+        "Url": "/lodestone/playguide/db/quest/d81362c72f2/",
+        "Image": null,
+        "Icon": "common_normal",
+        "Issuer": "Yedjina",
+        "StartLocation": {
+            "Name": "Thavnair",
+            "X": "10.3",
+            "Y": "21.9"
+        },
+        "StartClass": null,
+        "Job": "",
+        "Company": "Keine Angabe",
+        "Requirement": "Keine Angabe",
+        "Rewards": {
+            "Gil": 735,
+            "Exp": null,
+            "ItemsMand": [
+                {
+                    "Icon": "https://img.finalfantasyxiv.com/lds/pc/global/images/itemicon/30/30b5f35d0481a6e2c068d1c0488a0aa9de0d5d13.png?n6.05",
+                    "Name": "Kiste mit Rosskastanien-Ausrüstung für die Handgelenke (G.-St. 515)",
+                    "Amount": 1,
+                    "Url": "/lodestone/playguide/db/item/3144a32c007/"
+                }
+            ],
+            "ItemsOpt": []
+        },
+        "Infos": {
+            "PrerequisiteQuest": [
+                {
+                    "Name": "Kadjayas Bühne",
+                    "Url": "/lodestone/playguide/db/quest/772affd186c/",
+                    "Area": "Thavnair",
+                    "Level": "80"
+                }
+            ],
+            "RelatedNPC": [
+                {
+                    "Name": "Juwelierin in Yedlihmad",
+                    "Url": "/lodestone/playguide/db/npc/npc/47d8e12ee97/",
+                    "Area": "Thavnair (X:25.9 Y:32.7)"
+                }
+            ]
+        },
+        "Seq": 16,
+        "StartDependency": false
+    },
+    {
+        "ID": "ddcf70a0e5c",
+        "Name": " Essenslieferung in luftiger Höhe",
+        "Location": "Thavnair",
+        "Level": 80,
+        "JournalSection": 3,
+        "JournalCategory": 59,
+        "JournalGenre": "Aufträge Thavnair",
+        "Url": "/lodestone/playguide/db/quest/ddcf70a0e5c/",
+        "Image": null,
+        "Icon": "common_normal",
+        "Issuer": "Jubkhal",
+        "StartLocation": {
+            "Name": "Thavnair",
+            "X": "29.2",
+            "Y": "17.0"
+        },
+        "StartClass": null,
+        "Job": "",
+        "Company": "Keine Angabe",
+        "Requirement": "Keine Angabe",
+        "Rewards": {
+            "Gil": 735,
+            "Exp": null,
+            "ItemsMand": [],
+            "ItemsOpt": []
+        },
+        "Infos": {
+            "PrerequisiteQuest": [
+                {
+                    "Name": "Unter schützenden Schwingen",
+                    "Url": "/lodestone/playguide/db/quest/d84e3f2a32c/",
+                    "Area": "Thavnair",
+                    "Level": "85"
+                },
+                {
+                    "Name": " Agama zu Ehren",
+                    "Url": "/lodestone/playguide/db/quest/ae10019ef68/",
+                    "Area": "Thavnair",
+                    "Level": "80"
+                },
+                {
+                    "Name": " Fische für Palakas Ruh",
+                    "Url": "/lodestone/playguide/db/quest/d7fa3379ffc/",
+                    "Area": "Thavnair",
+                    "Level": "80"
+                }
+            ],
+            "RelatedNPC": [
+                {
+                    "Name": "Wächter",
+                    "Url": "/lodestone/playguide/db/npc/npc/41c69689a2c/",
+                    "Area": "Thavnair (X:28.0 Y:30.3)"
+                },
+                {
+                    "Name": "Wächter",
+                    "Url": "/lodestone/playguide/db/npc/npc/7a7a3b668de/",
+                    "Area": "Thavnair (X:31.6 Y:29.7)"
+                }
+            ]
+        },
+        "Seq": 38,
+        "StartDependency": false
+    },
+    {
+        "ID": "e37a7884280",
+        "Name": " Hanni auf dem Holzweg",
+        "Location": "Thavnair",
+        "Level": 80,
+        "JournalSection": 3,
+        "JournalCategory": 59,
+        "JournalGenre": "Aufträge Thavnair",
+        "Url": "/lodestone/playguide/db/quest/e37a7884280/",
+        "Image": null,
+        "Icon": "common_normal",
+        "Issuer": "Reensarudh",
+        "StartLocation": {
+            "Name": "Thavnair",
+            "X": "12.1",
+            "Y": "21.5"
+        },
+        "StartClass": null,
+        "Job": "",
+        "Company": "Keine Angabe",
+        "Requirement": "Keine Angabe",
+        "Rewards": {
+            "Gil": 815,
+            "Exp": null,
+            "ItemsMand": [],
+            "ItemsOpt": []
+        },
+        "Infos": {
+            "PrerequisiteQuest": [
+                {
+                    "Name": "Ein Hamsa ist (k)ein Dodo",
+                    "Url": "/lodestone/playguide/db/quest/b4e66ce1714/",
+                    "Area": "Thavnair",
+                    "Level": "80"
+                }
+            ],
+            "RelatedNPC": [
+                {
+                    "Name": "Verirrter Hamsa",
+                    "Url": "/lodestone/playguide/db/npc/npc/d61116072ea/",
+                    "Area": "Thavnair (X:10.1 Y:12.5)"
+                }
+            ]
+        },
+        "Seq": 22,
+        "StartDependency": false
+    },
+    {
+        "ID": "e643aefe121",
+        "Name": " Die Farbe neuen Glücks",
+        "Location": "Radz-at-Han",
+        "Level": 80,
+        "JournalSection": 3,
+        "JournalCategory": 59,
+        "JournalGenre": "Aufträge Thavnair",
+        "Url": "/lodestone/playguide/db/quest/e643aefe121/",
+        "Image": null,
+        "Icon": "common_normal",
+        "Issuer": "Junger Arkasodara",
+        "StartLocation": {
+            "Name": "Radz-at-Han",
+            "X": "8.1",
+            "Y": "14.8"
+        },
+        "StartClass": null,
+        "Job": "",
+        "Company": "Keine Angabe",
+        "Requirement": "Keine Angabe",
+        "Rewards": {
+            "Gil": 815,
+            "Exp": null,
+            "ItemsMand": [],
+            "ItemsOpt": []
+        },
+        "Infos": {
+            "PrerequisiteQuest": [
+                {
+                    "Name": "Blasphemische Bestien",
+                    "Url": "/lodestone/playguide/db/quest/1e3c991b458/",
+                    "Area": "Radz-at-Han",
+                    "Level": "85"
+                }
+            ],
+            "RelatedNPC": [
+                {
+                    "Name": "Junger Arkasodara",
+                    "Url": "/lodestone/playguide/db/npc/npc/9a0a0bf34b6/",
+                    "Area": "Radz-at-Han (X:9.4 Y:12.6)"
+                }
+            ]
+        },
+        "Seq": 4,
+        "StartDependency": false
+    },
+    {
+        "ID": "ea8487de1fc",
+        "Name": " Gefiederte Feinschmecker",
+        "Location": "Radz-at-Han",
+        "Level": 80,
+        "JournalSection": 3,
+        "JournalCategory": 59,
+        "JournalGenre": "Aufträge Thavnair",
+        "Url": "/lodestone/playguide/db/quest/ea8487de1fc/",
+        "Image": null,
+        "Icon": "common_normal",
+        "Issuer": "Vishrahd",
+        "StartLocation": {
+            "Name": "Radz-at-Han",
+            "X": "7.4",
+            "Y": "14.4"
+        },
+        "StartClass": null,
+        "Job": "",
+        "Company": "Keine Angabe",
+        "Requirement": "Keine Angabe",
+        "Rewards": {
+            "Gil": 735,
+            "Exp": null,
+            "ItemsMand": [],
+            "ItemsOpt": []
+        },
+        "Infos": {
+            "PrerequisiteQuest": [
+                {
+                    "Name": "Blasphemische Bestien",
+                    "Url": "/lodestone/playguide/db/quest/1e3c991b458/",
+                    "Area": "Radz-at-Han",
+                    "Level": "85"
+                }
+            ],
+            "RelatedNPC": [
+                {
+                    "Name": "Großer Hamsa",
+                    "Url": "/lodestone/playguide/db/npc/npc/05fa7d3c264/",
+                    "Area": "Radz-at-Han (X:6.7 Y:13.4)"
+                },
+                {
+                    "Name": "Kleiner Hamsa",
+                    "Url": "/lodestone/playguide/db/npc/npc/6948991414b/",
+                    "Area": "Radz-at-Han (X:6.7 Y:14.1)"
+                }
+            ]
+        },
+        "Seq": 5,
+        "StartDependency": false
+    },
+    {
+        "ID": "ee0948d9ee6",
+        "Name": " Ein Matanga kommt selten allein",
+        "Location": "Thavnair",
+        "Level": 80,
+        "JournalSection": 3,
+        "JournalCategory": 59,
+        "JournalGenre": "Aufträge Thavnair",
+        "Url": "/lodestone/playguide/db/quest/ee0948d9ee6/",
+        "Image": "https://img.finalfantasyxiv.com/lds/pc/global/images/itemicon/94/948cb3ed7b82cb52259e8f6ea138c9cf2097c5e8.png?n6.05",
+        "Icon": "common_normal",
+        "Issuer": "Kancana",
+        "StartLocation": {
+            "Name": "Thavnair",
+            "X": "25.3",
+            "Y": "31.2"
+        },
+        "StartClass": null,
+        "Job": "",
+        "Company": "Keine Angabe",
+        "Requirement": "Keine Angabe",
+        "Rewards": {
+            "Gil": 1175,
+            "Exp": null,
+            "ItemsMand": [],
+            "ItemsOpt": []
+        },
+        "Infos": {
+            "PrerequisiteQuest": [
+                {
+                    "Name": " Die Abenteurerin aus der Azim-Steppe",
+                    "Url": "/lodestone/playguide/db/quest/ade05929d39/",
+                    "Area": "Thavnair",
+                    "Level": "80"
+                }
+            ],
+            "FollowupQuest": [
+                {
+                    "Name": " Vertrauen ist der größte Reichtum",
+                    "Url": "/lodestone/playguide/db/quest/572e73b399f/",
+                    "Area": "Thavnair",
+                    "Level": "80"
+                }
+            ],
+            "RelatedNPC": [
+                {
+                    "Name": "Arkasodara-Fischer",
+                    "Url": "/lodestone/playguide/db/npc/npc/be11317f01d/",
+                    "Area": "Thavnair (X:18.9 Y:33.7)"
+                },
+                {
+                    "Name": "Grübelnde Fischerin",
+                    "Url": "/lodestone/playguide/db/npc/npc/0b06bc3b7bf/",
+                    "Area": "Thavnair (X:17.8 Y:34.2)"
+                },
+                {
+                    "Name": "Ogul",
+                    "Url": "/lodestone/playguide/db/npc/npc/bd334b25ee2/",
+                    "Area": "Thavnair (X:25.2 Y:31.2)"
+                },
+                {
+                    "Name": "Ogul",
+                    "Url": "/lodestone/playguide/db/npc/npc/eaf4c743624/",
+                    "Area": "Thavnair (X:19.0 Y:33.8)"
+                },
+                {
+                    "Name": "Ogul",
+                    "Url": "/lodestone/playguide/db/npc/npc/2fce742e4a7/",
+                    "Area": "Thavnair (X:19.2 Y:29.3)"
+                },
+                {
+                    "Name": "Ruhender Fischer",
+                    "Url": "/lodestone/playguide/db/npc/npc/ab8a225d765/",
+                    "Area": "Thavnair (X:19.0 Y:34.3)"
+                },
+                {
+                    "Name": "Schläfriger Fischer",
+                    "Url": "/lodestone/playguide/db/npc/npc/90acb77f5e9/",
+                    "Area": "Thavnair (X:18.2 Y:34.7)"
+                }
+            ]
+        },
+        "Seq": 12,
+        "StartDependency": false
+    },
+    {
+        "ID": "f24fc634fe7",
+        "Name": " Patrouille für das Himmelsheer",
+        "Location": "Thavnair",
+        "Level": 80,
+        "JournalSection": 3,
+        "JournalCategory": 59,
+        "JournalGenre": "Aufträge Thavnair",
+        "Url": "/lodestone/playguide/db/quest/f24fc634fe7/",
+        "Image": null,
+        "Icon": "function_normal",
+        "Issuer": "Offizierin des Himmelsheeres",
+        "StartLocation": {
+            "Name": "Thavnair",
+            "X": "29.1",
+            "Y": "17.3"
+        },
+        "StartClass": null,
+        "Job": "",
+        "Company": "Keine Angabe",
+        "Requirement": "Keine Angabe",
+        "Rewards": {
+            "Gil": 815,
+            "Exp": null,
+            "ItemsMand": [
+                {
+                    "Icon": "https://img.finalfantasyxiv.com/lds/pc/global/images/itemicon/af/af26e4b79fb1de83550f6ddbd3a170408fcfe702.png?n6.05",
+                    "Name": "",
+                    "Amount": null
+                }
+            ],
+            "ItemsOpt": []
+        },
+        "Infos": {
+            "PrerequisiteQuest": [
+                {
+                    "Name": "Warm ist die Seele Thavnairs",
+                    "Url": "/lodestone/playguide/db/quest/055d71c0b23/",
+                    "Area": "Thavnair",
+                    "Level": "85"
+                }
+            ],
+            "RelatedNPC": [
+                {
+                    "Name": "Offizierin des Himmelsheeres",
+                    "Url": "/lodestone/playguide/db/npc/npc/a74f14227ee/",
+                    "Area": "Thavnair (X:29.9 Y:20.2)"
+                },
+                {
+                    "Name": "Verwundete Siedlerin",
+                    "Url": "/lodestone/playguide/db/npc/npc/c52873125a5/",
+                    "Area": "Thavnair (X:29.7 Y:27.5)"
+                },
+                {
+                    "Name": "Verwundete Siedlerin",
+                    "Url": "/lodestone/playguide/db/npc/npc/72a6bb491e7/",
+                    "Area": "Thavnair (X:29.9 Y:20.2)"
+                }
+            ]
+        },
+        "Seq": 28,
+        "StartDependency": false
+    },
+    {
+        "ID": "f5c7b2aafb1",
+        "Name": " Das Chai-Orakel",
+        "Location": "Thavnair",
+        "Level": 80,
+        "JournalSection": 3,
+        "JournalCategory": 59,
+        "JournalGenre": "Aufträge Thavnair",
+        "Url": "/lodestone/playguide/db/quest/f5c7b2aafb1/",
+        "Image": null,
+        "Icon": "common_normal",
+        "Issuer": "Mihsaja",
+        "StartLocation": {
+            "Name": "Thavnair",
+            "X": "29.0",
+            "Y": "17.2"
+        },
+        "StartClass": null,
+        "Job": "",
+        "Company": "Keine Angabe",
+        "Requirement": "Keine Angabe",
+        "Rewards": {
+            "Gil": 735,
+            "Exp": null,
+            "ItemsMand": [
+                {
+                    "Icon": "https://img.finalfantasyxiv.com/lds/pc/global/images/itemicon/a6/a65f7cd4dcf658cc637ccacd182c2ef92948c490.png?n6.05",
+                    "Name": "Karniyarik",
+                    "Amount": 2,
+                    "Url": "/lodestone/playguide/db/item/0d5a52aaf25/"
+                }
+            ],
+            "ItemsOpt": []
+        },
+        "Infos": {
+            "PrerequisiteQuest": [
+                {
+                    "Name": "Unter schützenden Schwingen",
+                    "Url": "/lodestone/playguide/db/quest/d84e3f2a32c/",
+                    "Area": "Thavnair",
+                    "Level": "85"
+                }
+            ]
+        },
+        "Seq": 35,
+        "StartDependency": false
+    },
+    {
+        "ID": "fa1b6ed6405",
+        "Name": " Jung, gesund und vor Kraft strotzend",
+        "Location": "Thavnair",
+        "Level": 80,
+        "JournalSection": 3,
+        "JournalCategory": 59,
+        "JournalGenre": "Aufträge Thavnair",
+        "Url": "/lodestone/playguide/db/quest/fa1b6ed6405/",
+        "Image": null,
+        "Icon": "common_normal",
+        "Issuer": "Muskulöser Alchemist",
+        "StartLocation": {
+            "Name": "Thavnair",
+            "X": "11.9",
+            "Y": "23.3"
+        },
+        "StartClass": null,
+        "Job": "",
+        "Company": "Keine Angabe",
+        "Requirement": "Keine Angabe",
+        "Rewards": {
+            "Gil": 975,
+            "Exp": null,
+            "ItemsMand": [],
+            "ItemsOpt": []
+        },
+        "Infos": {
+            "PrerequisiteQuest": [
+                {
+                    "Name": "Kadjayas Bühne",
+                    "Url": "/lodestone/playguide/db/quest/772affd186c/",
+                    "Area": "Thavnair",
+                    "Level": "80"
+                }
+            ],
+            "RelatedNPC": [
+                {
+                    "Name": "Muskulöser Alchemist",
+                    "Url": "/lodestone/playguide/db/npc/npc/726aa00b5b8/",
+                    "Area": "Thavnair (X:13.7 Y:25.6)"
+                }
+            ]
+        },
+        "Seq": 18,
+        "StartDependency": false
+    },
+    {
+        "ID": "fea56c68337",
+        "Name": " Hoffnung für Palakas Ruh",
+        "Location": "Thavnair",
+        "Level": 80,
+        "JournalSection": 3,
+        "JournalCategory": 59,
+        "JournalGenre": "Aufträge Thavnair",
+        "Url": "/lodestone/playguide/db/quest/fea56c68337/",
+        "Image": "https://img.finalfantasyxiv.com/lds/pc/global/images/itemicon/eb/ebeaa2f4c8d767abac315e5016d59a6cf56741c2.png?n6.05",
+        "Icon": "common_normal",
+        "Issuer": "Yezahn",
+        "StartLocation": {
+            "Name": "Thavnair",
+            "X": "29.5",
+            "Y": "17.2"
+        },
+        "StartClass": null,
+        "Job": "",
+        "Company": "Keine Angabe",
+        "Requirement": "Keine Angabe",
+        "Rewards": {
+            "Gil": 1375,
+            "Exp": null,
+            "ItemsMand": [],
+            "ItemsOpt": []
+        },
+        "Infos": {
+            "PrerequisiteQuest": [
+                {
+                    "Name": " Langfingern auf der Spur",
+                    "Url": "/lodestone/playguide/db/quest/ade8a34a7de/",
+                    "Area": "Thavnair",
+                    "Level": "80"
+                },
+                {
+                    "Name": " Yezahn und Pasareen",
+                    "Url": "/lodestone/playguide/db/quest/36767b7099b/",
+                    "Area": "Thavnair",
+                    "Level": "80"
+                }
+            ],
+            "RelatedNPC": [
+                {
+                    "Name": "Kancana",
+                    "Url": "/lodestone/playguide/db/npc/npc/ad004fb1c56/",
+                    "Area": "Thavnair (X:25.3 Y:31.2)"
+                },
+                {
+                    "Name": "Ogul",
+                    "Url": "/lodestone/playguide/db/npc/npc/532d4179805/",
+                    "Area": "Thavnair (X:25.3 Y:31.2)"
+                },
+                {
+                    "Name": "Ogul",
+                    "Url": "/lodestone/playguide/db/npc/npc/362c5d0201f/",
+                    "Area": "Thavnair (X:23.3 Y:32.8)"
+                },
+                {
+                    "Name": "Ogul",
+                    "Url": "/lodestone/playguide/db/npc/npc/b6d3cd76925/",
+                    "Area": "Thavnair (X:15.8 Y:10.6)"
+                },
+                {
+                    "Name": "Ogul",
+                    "Url": "/lodestone/playguide/db/npc/npc/5ce37a1d057/",
+                    "Area": "Thavnair (X:29.2 Y:11.7)"
+                },
+                {
+                    "Name": "Ogul",
+                    "Url": "/lodestone/playguide/db/npc/npc/097bf6230f9/",
+                    "Area": "Thavnair (X:29.5 Y:17.1)"
+                },
+                {
+                    "Name": "Ogul",
+                    "Url": "/lodestone/playguide/db/npc/npc/41afa4ac40b/",
+                    "Area": "Thavnair (X:29.3 Y:15.5)"
+                },
+                {
+                    "Name": "Racashir",
+                    "Url": "/lodestone/playguide/db/npc/npc/1d23eb67304/",
+                    "Area": "Thavnair (X:25.3 Y:31.2)"
+                },
+                {
+                    "Name": "Racashir",
+                    "Url": "/lodestone/playguide/db/npc/npc/5b4fc6cd5bb/",
+                    "Area": "Thavnair (X:23.3 Y:32.7)"
+                },
+                {
+                    "Name": "Racashir",
+                    "Url": "/lodestone/playguide/db/npc/npc/d7285427202/",
+                    "Area": "Thavnair (X:15.8 Y:10.6)"
+                },
+                {
+                    "Name": "Racashir",
+                    "Url": "/lodestone/playguide/db/npc/npc/07f63d68d74/",
+                    "Area": "Thavnair (X:29.2 Y:11.6)"
+                },
+                {
+                    "Name": "Racashir",
+                    "Url": "/lodestone/playguide/db/npc/npc/d3c02ee3902/",
+                    "Area": "Thavnair (X:29.4 Y:17.1)"
+                },
+                {
+                    "Name": "Racashir",
+                    "Url": "/lodestone/playguide/db/npc/npc/42f4aa06d23/",
+                    "Area": "Thavnair (X:29.3 Y:15.5)"
+                },
+                {
+                    "Name": "Sula",
+                    "Url": "/lodestone/playguide/db/npc/npc/a267ac9ae4c/",
+                    "Area": "Thavnair (X:29.2 Y:11.7)"
+                }
+            ]
+        },
+        "Seq": 43,
+        "StartDependency": false
+    }
+]

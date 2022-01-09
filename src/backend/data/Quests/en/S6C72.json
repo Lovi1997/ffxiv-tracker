@@ -1,0 +1,5007 @@
+[
+    {
+        "ID": "01fc92ea7ec",
+        "Name": "Our Aching Souls",
+        "Location": "Radz-at-Han",
+        "Level": 85,
+        "JournalSection": 6,
+        "JournalCategory": 72,
+        "JournalGenre": "\n\t\t\t\t\t\t\tMagical Ranged DPS Role Quests (Endwalker)\n\t\t\t\t\t\t",
+        "Url": "/lodestone/playguide/db/quest/01fc92ea7ec/",
+        "Image": "https://img.finalfantasyxiv.com/lds/pc/global/images/itemicon/4c/4c49c22f7bdd2fa9a63fcc57a97e13ab0bbadb46.png?n6.05",
+        "Icon": "function_normal",
+        "Issuer": "Ishgardian Delegate",
+        "StartLocation": {
+            "Name": "Radz-at-Han",
+            "X": "7.8",
+            "Y": "9.4"
+        },
+        "StartClass": null,
+        "Job": "Magical Ranged DPS (excluding limited jobs)",
+        "Company": "Not specified",
+        "Requirement": "Not specified",
+        "Rewards": {
+            "Gil": 1000,
+            "Exp": 481800,
+            "ItemsMand": [],
+            "ItemsOpt": []
+        },
+        "Infos": {
+            "PrerequisiteQuest": [
+                {
+                    "Name": "At World's End",
+                    "Url": "/lodestone/playguide/db/quest/1e3c991b458/",
+                    "Area": "Radz-at-Han",
+                    "Level": "85"
+                }
+            ],
+            "FollowupQuest": [
+                {
+                    "Name": "No Forgiveness, No Deliverance",
+                    "Url": "/lodestone/playguide/db/quest/ca158765b8f/",
+                    "Area": "Ishgard",
+                    "Level": "86"
+                }
+            ],
+            "RelatedNPC": [
+                {
+                    "Name": "Artoirel",
+                    "Url": "/lodestone/playguide/db/npc/npc/ed18a0f5baf/",
+                    "Area": "Coerthas Western Highlands (X:32.2 Y:11.7)"
+                },
+                {
+                    "Name": "Aymeric",
+                    "Url": "/lodestone/playguide/db/npc/npc/e78c8935394/",
+                    "Area": "Coerthas Western Highlands (X:32.2 Y:11.6)"
+                },
+                {
+                    "Name": "Clem",
+                    "Url": "/lodestone/playguide/db/npc/npc/c9efe85ecb9/",
+                    "Area": "Coerthas Western Highlands (X:32.2 Y:11.7)"
+                },
+                {
+                    "Name": "Clem",
+                    "Url": "/lodestone/playguide/db/npc/npc/53325dd7f2b/",
+                    "Area": "Coerthas Western Highlands (X:32.1 Y:11.6)"
+                },
+                {
+                    "Name": "Pallid Inquisitor",
+                    "Url": "/lodestone/playguide/db/npc/npc/ac763ec18dd/",
+                    "Area": "Coerthas Western Highlands (X:32.2 Y:11.6)"
+                },
+                {
+                    "Name": "Artoirel",
+                    "Url": "/lodestone/playguide/db/npc/npc/b9f20111ee3/",
+                    "Area": "Foundation (X:10.5 Y:12.1)"
+                },
+                {
+                    "Name": "Temple Knight Guard",
+                    "Url": "/lodestone/playguide/db/npc/npc/340b2c2824b/",
+                    "Area": "Foundation (X:13.5 Y:11.0)"
+                },
+                {
+                    "Name": "Artoirel",
+                    "Url": "/lodestone/playguide/db/npc/npc/3811b3036ab/",
+                    "Area": "Strategy Room (X:6.1 Y:5.9)"
+                },
+                {
+                    "Name": "Aymeric",
+                    "Url": "/lodestone/playguide/db/npc/npc/13735002538/",
+                    "Area": "Strategy Room (X:6.1 Y:5.9)"
+                },
+                {
+                    "Name": "Artoirel",
+                    "Url": "/lodestone/playguide/db/npc/npc/1071b6b3fbd/",
+                    "Area": "The Pillars (X:8.2 Y:7.9)"
+                },
+                {
+                    "Name": "Aymeric",
+                    "Url": "/lodestone/playguide/db/npc/npc/a8523882735/",
+                    "Area": "The Pillars (X:8.2 Y:7.9)"
+                },
+                {
+                    "Name": "Clem",
+                    "Url": "/lodestone/playguide/db/npc/npc/6614e6b6917/",
+                    "Area": "The Pillars (X:8.2 Y:7.8)"
+                }
+            ]
+        },
+        "Seq": 50,
+        "StartDependency": false
+    },
+    {
+        "ID": "09caf4c208c",
+        "Name": "Wills Unending, Faith Unbending",
+        "Location": "Ishgard",
+        "Level": 88,
+        "JournalSection": 6,
+        "JournalCategory": 72,
+        "JournalGenre": "\n\t\t\t\t\t\t\tMagical Ranged DPS Role Quests (Endwalker)\n\t\t\t\t\t\t",
+        "Url": "/lodestone/playguide/db/quest/09caf4c208c/",
+        "Image": "https://img.finalfantasyxiv.com/lds/pc/global/images/itemicon/4c/4c49c22f7bdd2fa9a63fcc57a97e13ab0bbadb46.png?n6.05",
+        "Icon": "function_normal",
+        "Issuer": "Artoirel",
+        "StartLocation": {
+            "Name": "Strategy Room",
+            "X": "6.1",
+            "Y": "5.9"
+        },
+        "StartClass": null,
+        "Job": "Magical Ranged DPS (excluding limited jobs)",
+        "Company": "Not specified",
+        "Requirement": "Not specified",
+        "Rewards": {
+            "Gil": 1000,
+            "Exp": 501600,
+            "ItemsMand": [],
+            "ItemsOpt": []
+        },
+        "Infos": {
+            "PrerequisiteQuest": [
+                {
+                    "Name": "Only Justice, Only Vengeance",
+                    "Url": "/lodestone/playguide/db/quest/67dd512d8b8/",
+                    "Area": "Ishgard",
+                    "Level": "87"
+                }
+            ],
+            "FollowupQuest": [
+                {
+                    "Name": "O Mighty Fury, Guide Us to Victory",
+                    "Url": "/lodestone/playguide/db/quest/bd2fc7af450/",
+                    "Area": "Ishgard",
+                    "Level": "89"
+                }
+            ],
+            "RelatedNPC": [
+                {
+                    "Name": "Aymeric",
+                    "Url": "/lodestone/playguide/db/npc/npc/447ef2d5235/",
+                    "Area": "Coerthas Central Highlands (X:25.4 Y:18.1)"
+                },
+                {
+                    "Name": "Ninne",
+                    "Url": "/lodestone/playguide/db/npc/npc/6401b5a3212/",
+                    "Area": "Coerthas Central Highlands (X:25.6 Y:15.5)"
+                },
+                {
+                    "Name": "Theobalin",
+                    "Url": "/lodestone/playguide/db/npc/npc/bfb8631b685/",
+                    "Area": "Coerthas Central Highlands (X:25.1 Y:16.7)"
+                },
+                {
+                    "Name": "Yaelle",
+                    "Url": "/lodestone/playguide/db/npc/npc/7faee6a7173/",
+                    "Area": "Coerthas Central Highlands (X:26.6 Y:17.3)"
+                },
+                {
+                    "Name": "Temple Knight Guard",
+                    "Url": "/lodestone/playguide/db/npc/npc/340b2c2824b/",
+                    "Area": "Foundation (X:13.5 Y:11.0)"
+                }
+            ]
+        },
+        "Seq": 53,
+        "StartDependency": false
+    },
+    {
+        "ID": "0f29a82f228",
+        "Name": "Never to Return",
+        "Location": "The Crystarium",
+        "Level": 78,
+        "JournalSection": 6,
+        "JournalCategory": 72,
+        "JournalGenre": "\n\t\t\t\t\t\t\tHealer Role Quests (Shadowbringers)\n\t\t\t\t\t\t",
+        "Url": "/lodestone/playguide/db/quest/0f29a82f228/",
+        "Image": "https://img.finalfantasyxiv.com/lds/pc/global/images/itemicon/b4/b4cc4be92787c66fc5723a90217143924571f8a2.png?n6.05",
+        "Icon": "function_normal",
+        "Issuer": "Giott",
+        "StartLocation": {
+            "Name": "The Crystarium",
+            "X": "10.7",
+            "Y": "15.4"
+        },
+        "StartClass": null,
+        "Job": "Healer (excluding limited jobs)",
+        "Company": "Not specified",
+        "Requirement": "Not specified",
+        "Rewards": {
+            "Gil": 1312,
+            "Exp": 227520,
+            "ItemsMand": [
+                {
+                    "Icon": "https://img.finalfantasyxiv.com/lds/pc/global/images/itemicon/e8/e88d404bd56effa8df06cb3cd5b9dad699693de2.png?n6.05",
+                    "Name": "Masala Chai",
+                    "Amount": 1,
+                    "Url": "/lodestone/playguide/db/item/2d4fb73f2dd/"
+                }
+            ],
+            "ItemsOpt": []
+        },
+        "Infos": {
+            "PrerequisiteQuest": [
+                {
+                    "Name": "The Lost and the Found",
+                    "Url": "/lodestone/playguide/db/quest/dc7ac33b9e4/",
+                    "Area": "The Crystarium",
+                    "Level": "76"
+                }
+            ],
+            "FollowupQuest": [
+                {
+                    "Name": "The Soul of Temperance",
+                    "Url": "/lodestone/playguide/db/quest/8a95243a602/",
+                    "Area": "Kholusia",
+                    "Level": "80"
+                }
+            ],
+            "RelatedNPC": [
+                {
+                    "Name": "Giott",
+                    "Url": "/lodestone/playguide/db/npc/npc/3afcd82ec49/",
+                    "Area": "Kholusia (X:12.3 Y:9.5)"
+                },
+                {
+                    "Name": "Giott",
+                    "Url": "/lodestone/playguide/db/npc/npc/3d845e74bf9/",
+                    "Area": "Kholusia (X:14.3 Y:7.9)"
+                },
+                {
+                    "Name": "Giott",
+                    "Url": "/lodestone/playguide/db/npc/npc/a680cfc7823/",
+                    "Area": "The Crystarium (X:10.7 Y:15.4)"
+                }
+            ]
+        },
+        "Seq": 10,
+        "StartDependency": false
+    },
+    {
+        "ID": "0f8b13923c6",
+        "Name": "The Man with Too Many Scars",
+        "Location": "The Crystarium",
+        "Level": 70,
+        "JournalSection": 6,
+        "JournalCategory": 72,
+        "JournalGenre": "\n\t\t\t\t\t\t\tTank Role Quests (Shadowbringers)\n\t\t\t\t\t\t",
+        "Url": "/lodestone/playguide/db/quest/0f8b13923c6/",
+        "Image": "https://img.finalfantasyxiv.com/lds/pc/global/images/itemicon/76/761096945269a95c83d96b9c301fa71c2354d06f.png?n6.05",
+        "Icon": "function_normal",
+        "Issuer": "Granson",
+        "StartLocation": {
+            "Name": "The Crystarium",
+            "X": "10.5",
+            "Y": "16.2"
+        },
+        "StartClass": null,
+        "Job": "Tank (excluding limited jobs)",
+        "Company": "Not specified",
+        "Requirement": "Not specified",
+        "Rewards": {
+            "Gil": 1084,
+            "Exp": 216000,
+            "ItemsMand": [],
+            "ItemsOpt": []
+        },
+        "Infos": {
+            "PrerequisiteQuest": [
+                {
+                    "Name": "Warrior of Darkness",
+                    "Url": "/lodestone/playguide/db/quest/0b1c0f7a203/",
+                    "Area": "Lakeland",
+                    "Level": "71"
+                }
+            ],
+            "FollowupQuest": [
+                {
+                    "Name": "Shaped by Tragedy",
+                    "Url": "/lodestone/playguide/db/quest/6cf455fc8a6/",
+                    "Area": "The Crystarium",
+                    "Level": "72"
+                }
+            ],
+            "RelatedNPC": [
+                {
+                    "Name": "Granson",
+                    "Url": "/lodestone/playguide/db/npc/npc/eaef252001f/",
+                    "Area": "Lakeland (X:36.2 Y:29.6)"
+                },
+                {
+                    "Name": "Granson",
+                    "Url": "/lodestone/playguide/db/npc/npc/b38b9a596ba/",
+                    "Area": "Lakeland (X:30.3 Y:25.5)"
+                },
+                {
+                    "Name": "Granson",
+                    "Url": "/lodestone/playguide/db/npc/npc/7b903956d2f/",
+                    "Area": "Lakeland (X:34.1 Y:16.4)"
+                },
+                {
+                    "Name": "Granson",
+                    "Url": "/lodestone/playguide/db/npc/npc/fd2c49be49f/",
+                    "Area": "The Crystarium (X:10.5 Y:16.2)"
+                }
+            ]
+        },
+        "Seq": 3,
+        "StartDependency": false
+    },
+    {
+        "ID": "101f6e8a983",
+        "Name": "Seeds of Disquiet",
+        "Location": "Radz-at-Han",
+        "Level": 85,
+        "JournalSection": 6,
+        "JournalCategory": 72,
+        "JournalGenre": "\n\t\t\t\t\t\t\tPhysical Ranged DPS Role Quests (Endwalker)\n\t\t\t\t\t\t",
+        "Url": "/lodestone/playguide/db/quest/101f6e8a983/",
+        "Image": "https://img.finalfantasyxiv.com/lds/pc/global/images/itemicon/b7/b7ad6c3c4965aaa018a35c5b193c76b01bdeb6d2.png?n6.05",
+        "Icon": "function_normal",
+        "Issuer": "Doman Delegate",
+        "StartLocation": {
+            "Name": "Radz-at-Han",
+            "X": "7.6",
+            "Y": "9.4"
+        },
+        "StartClass": null,
+        "Job": "Physical Ranged DPS (excluding limited jobs)",
+        "Company": "Not specified",
+        "Requirement": "Not specified",
+        "Rewards": {
+            "Gil": 1000,
+            "Exp": 481800,
+            "ItemsMand": [],
+            "ItemsOpt": []
+        },
+        "Infos": {
+            "PrerequisiteQuest": [
+                {
+                    "Name": "At World's End",
+                    "Url": "/lodestone/playguide/db/quest/1e3c991b458/",
+                    "Area": "Radz-at-Han",
+                    "Level": "85"
+                }
+            ],
+            "FollowupQuest": [
+                {
+                    "Name": "When the Kami Answer",
+                    "Url": "/lodestone/playguide/db/quest/20e755c69c7/",
+                    "Area": "The Doman Enclave",
+                    "Level": "86"
+                }
+            ],
+            "RelatedNPC": [
+                {
+                    "Name": "Hien",
+                    "Url": "/lodestone/playguide/db/npc/npc/dd9277cb9ad/",
+                    "Area": "The Doman Enclave (X:6.5 Y:6.9)"
+                },
+                {
+                    "Name": "Yugiri",
+                    "Url": "/lodestone/playguide/db/npc/npc/6e2f78479c9/",
+                    "Area": "The Doman Enclave (X:6.5 Y:6.9)"
+                },
+                {
+                    "Name": "Frightened Youth",
+                    "Url": "/lodestone/playguide/db/npc/npc/edc66ef1c60/",
+                    "Area": "Yanxia (X:27.8 Y:25.9)"
+                },
+                {
+                    "Name": "Hien",
+                    "Url": "/lodestone/playguide/db/npc/npc/1e06ab09c2f/",
+                    "Area": "Yanxia (X:30.8 Y:27.8)"
+                },
+                {
+                    "Name": "Vexed Villager",
+                    "Url": "/lodestone/playguide/db/npc/npc/5af64750262/",
+                    "Area": "Yanxia (X:30.9 Y:27.8)"
+                },
+                {
+                    "Name": "Yugiri",
+                    "Url": "/lodestone/playguide/db/npc/npc/46ed157b4e7/",
+                    "Area": "Yanxia (X:30.9 Y:27.8)"
+                }
+            ]
+        },
+        "Seq": 44,
+        "StartDependency": false
+    },
+    {
+        "ID": "136f373a4cc",
+        "Name": "Far from Free",
+        "Location": "Radz-at-Han",
+        "Level": 85,
+        "JournalSection": 6,
+        "JournalCategory": 72,
+        "JournalGenre": "\n\t\t\t\t\t\t\tHealer Role Quests (Endwalker)\n\t\t\t\t\t\t",
+        "Url": "/lodestone/playguide/db/quest/136f373a4cc/",
+        "Image": "https://img.finalfantasyxiv.com/lds/pc/global/images/itemicon/0b/0be0ee56a6c903377f3618f372cf75eaf657aed5.png?n6.05",
+        "Icon": "function_normal",
+        "Issuer": "Ala Mhigan Delegate",
+        "StartLocation": {
+            "Name": "Radz-at-Han",
+            "X": "7.5",
+            "Y": "9.6"
+        },
+        "StartClass": null,
+        "Job": "Healer (excluding limited jobs)",
+        "Company": "Not specified",
+        "Requirement": "Not specified",
+        "Rewards": {
+            "Gil": 1000,
+            "Exp": 481800,
+            "ItemsMand": [],
+            "ItemsOpt": []
+        },
+        "Infos": {
+            "PrerequisiteQuest": [
+                {
+                    "Name": "At World's End",
+                    "Url": "/lodestone/playguide/db/quest/1e3c991b458/",
+                    "Area": "Radz-at-Han",
+                    "Level": "85"
+                }
+            ],
+            "FollowupQuest": [
+                {
+                    "Name": "The Butcher's Blade",
+                    "Url": "/lodestone/playguide/db/quest/68e97133a16/",
+                    "Area": "The Lochs",
+                    "Level": "86"
+                }
+            ],
+            "RelatedNPC": [
+                {
+                    "Name": "Blasphemy Hunter",
+                    "Url": "/lodestone/playguide/db/npc/npc/945cafaf457/",
+                    "Area": "The Lochs (X:36.3 Y:31.6)"
+                },
+                {
+                    "Name": "Raubahn",
+                    "Url": "/lodestone/playguide/db/npc/npc/dbe3357d841/",
+                    "Area": "The Lochs (X:36.2 Y:31.7)"
+                },
+                {
+                    "Name": "Arenvald",
+                    "Url": "/lodestone/playguide/db/npc/npc/4bdb05dbae5/",
+                    "Area": "The Peaks (X:24.3 Y:6.8)"
+                },
+                {
+                    "Name": "Mortified Fighter",
+                    "Url": "/lodestone/playguide/db/npc/npc/06e27f02f18/",
+                    "Area": "The Peaks (X:21.5 Y:9.9)"
+                },
+                {
+                    "Name": "Raganfrid",
+                    "Url": "/lodestone/playguide/db/npc/npc/621723d5079/",
+                    "Area": "The Peaks (X:24.4 Y:6.8)"
+                },
+                {
+                    "Name": "Raubahn",
+                    "Url": "/lodestone/playguide/db/npc/npc/4657477645d/",
+                    "Area": "The Peaks (X:21.4 Y:9.9)"
+                },
+                {
+                    "Name": "Raubahn",
+                    "Url": "/lodestone/playguide/db/npc/npc/39413128d55/",
+                    "Area": "The Peaks (X:24.3 Y:6.9)"
+                },
+                {
+                    "Name": "Wounded Fighter",
+                    "Url": "/lodestone/playguide/db/npc/npc/90ad30d746e/",
+                    "Area": "The Peaks (X:21.5 Y:9.9)"
+                },
+                {
+                    "Name": "Ul'dahn Delegate",
+                    "Url": "/lodestone/playguide/db/npc/npc/5593bf31b02/",
+                    "Area": "Radz-at-Han (X:7.6 Y:9.6)"
+                }
+            ]
+        },
+        "Seq": 32,
+        "StartDependency": false
+    },
+    {
+        "ID": "20556aacbce",
+        "Name": "The Hardened Heart",
+        "Location": "Il Mheg",
+        "Level": 78,
+        "JournalSection": 6,
+        "JournalCategory": 72,
+        "JournalGenre": "\n\t\t\t\t\t\t\tTank Role Quests (Shadowbringers)\n\t\t\t\t\t\t",
+        "Url": "/lodestone/playguide/db/quest/20556aacbce/",
+        "Image": "https://img.finalfantasyxiv.com/lds/pc/global/images/itemicon/76/761096945269a95c83d96b9c301fa71c2354d06f.png?n6.05",
+        "Icon": "function_normal",
+        "Issuer": "Sul Oul",
+        "StartLocation": {
+            "Name": "Il Mheg",
+            "X": "22.7",
+            "Y": "4.0"
+        },
+        "StartClass": null,
+        "Job": "Tank (excluding limited jobs)",
+        "Company": "Not specified",
+        "Requirement": "Not specified",
+        "Rewards": {
+            "Gil": 2416,
+            "Exp": 227520,
+            "ItemsMand": [
+                {
+                    "Icon": "https://img.finalfantasyxiv.com/lds/pc/global/images/itemicon/71/71860f9db7c2800909350796c376b286964a25c9.png?n6.05",
+                    "Name": "Paella",
+                    "Amount": 1,
+                    "Url": "/lodestone/playguide/db/item/af1118e0f5f/"
+                }
+            ],
+            "ItemsOpt": []
+        },
+        "Infos": {
+            "PrerequisiteQuest": [
+                {
+                    "Name": "The Princess and Her Knight",
+                    "Url": "/lodestone/playguide/db/quest/5eff5764ca1/",
+                    "Area": "Amh Araeng",
+                    "Level": "76"
+                }
+            ],
+            "FollowupQuest": [
+                {
+                    "Name": "To Have Loved and Lost",
+                    "Url": "/lodestone/playguide/db/quest/beb4c0a8e49/",
+                    "Area": "Il Mheg",
+                    "Level": "80"
+                }
+            ],
+            "RelatedNPC": [
+                {
+                    "Name": "Granson",
+                    "Url": "/lodestone/playguide/db/npc/npc/dbabe583103/",
+                    "Area": "Il Mheg (X:22.6 Y:4.0)"
+                },
+                {
+                    "Name": "Granson",
+                    "Url": "/lodestone/playguide/db/npc/npc/d8cbf05f3d1/",
+                    "Area": "Il Mheg (X:20.1 Y:16.3)"
+                },
+                {
+                    "Name": "Sul Oul",
+                    "Url": "/lodestone/playguide/db/npc/npc/dd472edda82/",
+                    "Area": "Il Mheg (X:20.1 Y:16.4)"
+                }
+            ]
+        },
+        "Seq": 4,
+        "StartDependency": false
+    },
+    {
+        "ID": "20e755c69c7",
+        "Name": "When the Kami Answer",
+        "Location": "The Doman Enclave",
+        "Level": 86,
+        "JournalSection": 6,
+        "JournalCategory": 72,
+        "JournalGenre": "\n\t\t\t\t\t\t\tPhysical Ranged DPS Role Quests (Endwalker)\n\t\t\t\t\t\t",
+        "Url": "/lodestone/playguide/db/quest/20e755c69c7/",
+        "Image": "https://img.finalfantasyxiv.com/lds/pc/global/images/itemicon/b7/b7ad6c3c4965aaa018a35c5b193c76b01bdeb6d2.png?n6.05",
+        "Icon": "function_normal",
+        "Issuer": "Yugiri",
+        "StartLocation": {
+            "Name": "The Doman Enclave",
+            "X": "6.5",
+            "Y": "6.9"
+        },
+        "StartClass": null,
+        "Job": "Physical Ranged DPS (excluding limited jobs)",
+        "Company": "Not specified",
+        "Requirement": "Not specified",
+        "Rewards": {
+            "Gil": 1000,
+            "Exp": 488400,
+            "ItemsMand": [],
+            "ItemsOpt": []
+        },
+        "Infos": {
+            "PrerequisiteQuest": [
+                {
+                    "Name": "Seeds of Disquiet",
+                    "Url": "/lodestone/playguide/db/quest/101f6e8a983/",
+                    "Area": "Radz-at-Han",
+                    "Level": "85"
+                }
+            ],
+            "FollowupQuest": [
+                {
+                    "Name": "Home No Longer",
+                    "Url": "/lodestone/playguide/db/quest/a14b9a0a8a1/",
+                    "Area": "The Doman Enclave",
+                    "Level": "87"
+                }
+            ],
+            "RelatedNPC": [
+                {
+                    "Name": "Hien",
+                    "Url": "/lodestone/playguide/db/npc/npc/dd9277cb9ad/",
+                    "Area": "The Doman Enclave (X:6.5 Y:6.9)"
+                },
+                {
+                    "Name": "Burly Villager",
+                    "Url": "/lodestone/playguide/db/npc/npc/f9c3d717548/",
+                    "Area": "The Ruby Sea (X:6.4 Y:11.8)"
+                },
+                {
+                    "Name": "Concerned Villager",
+                    "Url": "/lodestone/playguide/db/npc/npc/2845876ad41/",
+                    "Area": "The Ruby Sea (X:5.1 Y:12.2)"
+                },
+                {
+                    "Name": "Hien",
+                    "Url": "/lodestone/playguide/db/npc/npc/4e9515c812f/",
+                    "Area": "The Ruby Sea (X:6.7 Y:14.1)"
+                },
+                {
+                    "Name": "Hien",
+                    "Url": "/lodestone/playguide/db/npc/npc/b5b472c6b13/",
+                    "Area": "The Ruby Sea (X:9.7 Y:7.3)"
+                },
+                {
+                    "Name": "Kami-fearing Villager",
+                    "Url": "/lodestone/playguide/db/npc/npc/a5ec2a8764e/",
+                    "Area": "The Ruby Sea (X:5.9 Y:11.5)"
+                },
+                {
+                    "Name": "Yugiri",
+                    "Url": "/lodestone/playguide/db/npc/npc/9536216d612/",
+                    "Area": "The Ruby Sea (X:6.6 Y:14.1)"
+                },
+                {
+                    "Name": "Yugiri",
+                    "Url": "/lodestone/playguide/db/npc/npc/8a588dec1ad/",
+                    "Area": "The Ruby Sea (X:9.7 Y:7.3)"
+                },
+                {
+                    "Name": "Yugiri",
+                    "Url": "/lodestone/playguide/db/npc/npc/d6eb32de416/",
+                    "Area": "The Ruby Sea (X:6.3 Y:10.5)"
+                },
+                {
+                    "Name": "Yugiri",
+                    "Url": "/lodestone/playguide/db/npc/npc/354046e41de/",
+                    "Area": "The Ruby Sea (X:6.6 Y:14.1)"
+                }
+            ]
+        },
+        "Seq": 45,
+        "StartDependency": false
+    },
+    {
+        "ID": "22213ae745d",
+        "Name": "Fellowship Restored",
+        "Location": "Kholusia",
+        "Level": 78,
+        "JournalSection": 6,
+        "JournalCategory": 72,
+        "JournalGenre": "\n\t\t\t\t\t\t\tPhysical DPS Role Quests (Shadowbringers)\n\t\t\t\t\t\t",
+        "Url": "/lodestone/playguide/db/quest/22213ae745d/",
+        "Image": "https://img.finalfantasyxiv.com/lds/pc/global/images/itemicon/56/5636454a1a70da9fa4653b67a466aab9422fe4cf.png?n6.05",
+        "Icon": "function_normal",
+        "Issuer": "Olvara",
+        "StartLocation": {
+            "Name": "Kholusia",
+            "X": "23.3",
+            "Y": "33.7"
+        },
+        "StartClass": null,
+        "Job": "Physical DPS (excluding limited jobs)",
+        "Company": "Not specified",
+        "Requirement": "Not specified",
+        "Rewards": {
+            "Gil": 1804,
+            "Exp": 227520,
+            "ItemsMand": [
+                {
+                    "Icon": "https://img.finalfantasyxiv.com/lds/pc/global/images/itemicon/77/77ee72d6d84cf5dcd91052f60ff70cbb93314d8e.png?n6.05",
+                    "Name": "Risotto al Nero",
+                    "Amount": 1,
+                    "Url": "/lodestone/playguide/db/item/6eca851ed67/"
+                }
+            ],
+            "ItemsOpt": []
+        },
+        "Infos": {
+            "PrerequisiteQuest": [
+                {
+                    "Name": "The Hunter's Legacy",
+                    "Url": "/lodestone/playguide/db/quest/82b4b287f29/",
+                    "Area": "The Crystarium",
+                    "Level": "76"
+                }
+            ],
+            "FollowupQuest": [
+                {
+                    "Name": "Courage Born of Fear",
+                    "Url": "/lodestone/playguide/db/quest/3a48c43814f/",
+                    "Area": "Kholusia",
+                    "Level": "80"
+                }
+            ],
+            "RelatedNPC": [
+                {
+                    "Name": "Lue-Reeq",
+                    "Url": "/lodestone/playguide/db/npc/npc/aeba157b452/",
+                    "Area": "Kholusia (X:23.3 Y:33.7)"
+                },
+                {
+                    "Name": "Darlfort",
+                    "Url": "/lodestone/playguide/db/npc/npc/3a8c0ac1ad0/",
+                    "Area": "The Crystarium (X:10.3 Y:16.0)"
+                },
+                {
+                    "Name": "Mei-Tatch",
+                    "Url": "/lodestone/playguide/db/npc/npc/b5c8d8f3e80/",
+                    "Area": "The Crystarium (X:10.9 Y:15.5)"
+                },
+                {
+                    "Name": "Well-traveled Mage",
+                    "Url": "/lodestone/playguide/db/npc/npc/fbcfc722e6d/",
+                    "Area": "The Crystarium (X:11.2 Y:15.4)"
+                },
+                {
+                    "Name": "Lue-Reeq",
+                    "Url": "/lodestone/playguide/db/npc/npc/7ed77c88ae6/",
+                    "Area": "The Rak'tika Greatwood (X:16.5 Y:35.0)"
+                }
+            ]
+        },
+        "Seq": 16,
+        "StartDependency": false
+    },
+    {
+        "ID": "256beed3572",
+        "Name": "Laying the Past to Rest",
+        "Location": "The Lochs",
+        "Level": 88,
+        "JournalSection": 6,
+        "JournalCategory": 72,
+        "JournalGenre": "\n\t\t\t\t\t\t\tHealer Role Quests (Endwalker)\n\t\t\t\t\t\t",
+        "Url": "/lodestone/playguide/db/quest/256beed3572/",
+        "Image": "https://img.finalfantasyxiv.com/lds/pc/global/images/itemicon/0b/0be0ee56a6c903377f3618f372cf75eaf657aed5.png?n6.05",
+        "Icon": "function_normal",
+        "Issuer": "Blasphemy Hunter",
+        "StartLocation": {
+            "Name": "The Lochs",
+            "X": "36.3",
+            "Y": "31.6"
+        },
+        "StartClass": null,
+        "Job": "Healer (excluding limited jobs)",
+        "Company": "Not specified",
+        "Requirement": "Not specified",
+        "Rewards": {
+            "Gil": 1000,
+            "Exp": 501600,
+            "ItemsMand": [],
+            "ItemsOpt": []
+        },
+        "Infos": {
+            "PrerequisiteQuest": [
+                {
+                    "Name": "A New Battleground",
+                    "Url": "/lodestone/playguide/db/quest/f20b57ba893/",
+                    "Area": "The Lochs",
+                    "Level": "87"
+                }
+            ],
+            "FollowupQuest": [
+                {
+                    "Name": "Trail of Skulls",
+                    "Url": "/lodestone/playguide/db/quest/d72ad453d59/",
+                    "Area": "The Lochs",
+                    "Level": "89"
+                }
+            ],
+            "RelatedNPC": [
+                {
+                    "Name": "M'hahtoa",
+                    "Url": "/lodestone/playguide/db/npc/npc/4f2a1bd2111/",
+                    "Area": "The Fringes (X:30.3 Y:25.7)"
+                },
+                {
+                    "Name": "M'rahz Nunh",
+                    "Url": "/lodestone/playguide/db/npc/npc/60a5edabfea/",
+                    "Area": "The Fringes (X:30.2 Y:25.7)"
+                },
+                {
+                    "Name": "Sarisha",
+                    "Url": "/lodestone/playguide/db/npc/npc/c6c2b4c5102/",
+                    "Area": "The Fringes (X:28.0 Y:19.4)"
+                },
+                {
+                    "Name": "Arenvald",
+                    "Url": "/lodestone/playguide/db/npc/npc/1774e2c4c01/",
+                    "Area": "The Lochs (X:33.7 Y:33.9)"
+                },
+                {
+                    "Name": "Raubahn",
+                    "Url": "/lodestone/playguide/db/npc/npc/dbe3357d841/",
+                    "Area": "The Lochs (X:36.2 Y:31.7)"
+                },
+                {
+                    "Name": "Royal Palace Guard",
+                    "Url": "/lodestone/playguide/db/npc/npc/4824c56da58/",
+                    "Area": "The Lochs (X:36.4 Y:31.8)"
+                }
+            ]
+        },
+        "Seq": 35,
+        "StartDependency": false
+    },
+    {
+        "ID": "38387ff9175",
+        "Name": "Traditions and Travails",
+        "Location": "The Crystarium",
+        "Level": 70,
+        "JournalSection": 6,
+        "JournalCategory": 72,
+        "JournalGenre": "\n\t\t\t\t\t\t\tHealer Role Quests (Shadowbringers)\n\t\t\t\t\t\t",
+        "Url": "/lodestone/playguide/db/quest/38387ff9175/",
+        "Image": "https://img.finalfantasyxiv.com/lds/pc/global/images/itemicon/b4/b4cc4be92787c66fc5723a90217143924571f8a2.png?n6.05",
+        "Icon": "function_normal",
+        "Issuer": "Giott",
+        "StartLocation": {
+            "Name": "The Crystarium",
+            "X": "10.7",
+            "Y": "15.4"
+        },
+        "StartClass": null,
+        "Job": "Healer (excluding limited jobs)",
+        "Company": "Not specified",
+        "Requirement": "Not specified",
+        "Rewards": {
+            "Gil": 1161,
+            "Exp": 216000,
+            "ItemsMand": [],
+            "ItemsOpt": []
+        },
+        "Infos": {
+            "PrerequisiteQuest": [
+                {
+                    "Name": "Warrior of Darkness",
+                    "Url": "/lodestone/playguide/db/quest/0b1c0f7a203/",
+                    "Area": "Lakeland",
+                    "Level": "71"
+                }
+            ],
+            "FollowupQuest": [
+                {
+                    "Name": "Affronts and Allies",
+                    "Url": "/lodestone/playguide/db/quest/fb78c7c68e4/",
+                    "Area": "The Crystarium",
+                    "Level": "72"
+                }
+            ],
+            "RelatedNPC": [
+                {
+                    "Name": "Giott",
+                    "Url": "/lodestone/playguide/db/npc/npc/f98a87f754e/",
+                    "Area": "Lakeland (X:28.4 Y:25.0)"
+                },
+                {
+                    "Name": "Giott",
+                    "Url": "/lodestone/playguide/db/npc/npc/25332ad20f7/",
+                    "Area": "Lakeland (X:28.3 Y:25.4)"
+                },
+                {
+                    "Name": "Giott",
+                    "Url": "/lodestone/playguide/db/npc/npc/28833b62a70/",
+                    "Area": "The Crystarium (X:10.7 Y:15.4)"
+                }
+            ]
+        },
+        "Seq": 6,
+        "StartDependency": false
+    },
+    {
+        "ID": "3a23c506ba6",
+        "Name": "The Scientific Method",
+        "Location": "The Crystarium",
+        "Level": 74,
+        "JournalSection": 6,
+        "JournalCategory": 72,
+        "JournalGenre": "\n\t\t\t\t\t\t\tHealer Role Quests (Shadowbringers)\n\t\t\t\t\t\t",
+        "Url": "/lodestone/playguide/db/quest/3a23c506ba6/",
+        "Image": "https://img.finalfantasyxiv.com/lds/pc/global/images/itemicon/b4/b4cc4be92787c66fc5723a90217143924571f8a2.png?n6.05",
+        "Icon": "function_normal",
+        "Issuer": "Giott",
+        "StartLocation": {
+            "Name": "The Crystarium",
+            "X": "10.7",
+            "Y": "15.4"
+        },
+        "StartClass": null,
+        "Job": "Healer (excluding limited jobs)",
+        "Company": "Not specified",
+        "Requirement": "Not specified",
+        "Rewards": {
+            "Gil": 1283,
+            "Exp": 221760,
+            "ItemsMand": [],
+            "ItemsOpt": []
+        },
+        "Infos": {
+            "PrerequisiteQuest": [
+                {
+                    "Name": "Affronts and Allies",
+                    "Url": "/lodestone/playguide/db/quest/fb78c7c68e4/",
+                    "Area": "The Crystarium",
+                    "Level": "72"
+                }
+            ],
+            "FollowupQuest": [
+                {
+                    "Name": "The Lost and the Found",
+                    "Url": "/lodestone/playguide/db/quest/dc7ac33b9e4/",
+                    "Area": "The Crystarium",
+                    "Level": "76"
+                }
+            ],
+            "RelatedNPC": [
+                {
+                    "Name": "Fallen Sin Eater",
+                    "Url": "/lodestone/playguide/db/npc/npc/d14ba85b189/",
+                    "Area": "Amh Araeng (X:33.7 Y:20.7)"
+                },
+                {
+                    "Name": "Giott",
+                    "Url": "/lodestone/playguide/db/npc/npc/8ac12238c50/",
+                    "Area": "Amh Araeng (X:27.0 Y:15.8)"
+                },
+                {
+                    "Name": "Giott",
+                    "Url": "/lodestone/playguide/db/npc/npc/fcb540553b8/",
+                    "Area": "Amh Araeng (X:33.7 Y:20.7)"
+                }
+            ]
+        },
+        "Seq": 8,
+        "StartDependency": false
+    },
+    {
+        "ID": "3a48c43814f",
+        "Name": "Courage Born of Fear",
+        "Location": "Kholusia",
+        "Level": 80,
+        "JournalSection": 6,
+        "JournalCategory": 72,
+        "JournalGenre": "\n\t\t\t\t\t\t\tPhysical DPS Role Quests (Shadowbringers)\n\t\t\t\t\t\t",
+        "Url": "/lodestone/playguide/db/quest/3a48c43814f/",
+        "Image": "https://img.finalfantasyxiv.com/lds/pc/global/images/itemicon/56/5636454a1a70da9fa4653b67a466aab9422fe4cf.png?n6.05",
+        "Icon": "function_normal",
+        "Issuer": "Lue-Reeq",
+        "StartLocation": {
+            "Name": "Kholusia",
+            "X": "23.3",
+            "Y": "33.7"
+        },
+        "StartClass": null,
+        "Job": "Physical DPS (excluding limited jobs)",
+        "Company": "Not specified",
+        "Requirement": "Not specified",
+        "Rewards": {
+            "Gil": 3744,
+            "Exp": 448800,
+            "ItemsMand": [
+                {
+                    "Icon": "https://img.finalfantasyxiv.com/lds/pc/global/images/itemicon/01/01947a3034803440796fe4eb7c9dca412b782390.png?n6.05",
+                    "Name": "Heavens' Eye Materia VII",
+                    "Amount": 1,
+                    "Url": "/lodestone/playguide/db/item/85587a58d9a/"
+                },
+                {
+                    "Icon": "https://img.finalfantasyxiv.com/lds/pc/global/images/itemicon/01/01947a3034803440796fe4eb7c9dca412b782390.png?n6.05",
+                    "Name": "Savage Aim Materia VII",
+                    "Amount": 1,
+                    "Url": "/lodestone/playguide/db/item/ae193b74ae4/"
+                },
+                {
+                    "Icon": "https://img.finalfantasyxiv.com/lds/pc/global/images/itemicon/01/01947a3034803440796fe4eb7c9dca412b782390.png?n6.05",
+                    "Name": "Savage Might Materia VII",
+                    "Amount": 1,
+                    "Url": "/lodestone/playguide/db/item/a3870117f91/"
+                }
+            ],
+            "ItemsOpt": []
+        },
+        "Infos": {
+            "PrerequisiteQuest": [
+                {
+                    "Name": "Fellowship Restored",
+                    "Url": "/lodestone/playguide/db/quest/22213ae745d/",
+                    "Area": "Kholusia",
+                    "Level": "78"
+                }
+            ],
+            "FollowupQuest": [
+                {
+                    "Name": "A Monk's Legacy",
+                    "Url": "/lodestone/playguide/db/quest/721920815f0/",
+                    "Area": "Ul'dah",
+                    "Level": "80"
+                },
+                {
+                    "Name": "Gone but Not Forgiven",
+                    "Url": "/lodestone/playguide/db/quest/a3c6641e256/",
+                    "Area": "Coerthas Central Highlands",
+                    "Level": "80"
+                },
+                {
+                    "Name": "A Harmony from the Heavens",
+                    "Url": "/lodestone/playguide/db/quest/cc4c82940ae/",
+                    "Area": "South Shroud",
+                    "Level": "80"
+                },
+                {
+                    "Name": "Oboro's Big Idea",
+                    "Url": "/lodestone/playguide/db/quest/5f73afdfaa7/",
+                    "Area": "Eastern La Noscea",
+                    "Level": "80"
+                },
+                {
+                    "Name": "Machinists for the Morrow",
+                    "Url": "/lodestone/playguide/db/quest/c516f57036d/",
+                    "Area": "Ishgard",
+                    "Level": "80"
+                },
+                {
+                    "Name": "The Legend of Musosai",
+                    "Url": "/lodestone/playguide/db/quest/dd70cc2e3a7/",
+                    "Area": "Kugane",
+                    "Level": "80"
+                },
+                {
+                    "Name": "Rising to the Occasion",
+                    "Url": "/lodestone/playguide/db/quest/822f4fc05aa/",
+                    "Area": "Limsa Lominsa",
+                    "Level": "80"
+                },
+                {
+                    "Name": "Shadow Walk with Me",
+                    "Url": "/lodestone/playguide/db/quest/92799414083/",
+                    "Area": "The Crystarium",
+                    "Level": "80"
+                }
+            ],
+            "RelatedNPC": [
+                {
+                    "Name": "Olvara",
+                    "Url": "/lodestone/playguide/db/npc/npc/09b63b68960/",
+                    "Area": "Kholusia (X:23.3 Y:33.7)"
+                },
+                {
+                    "Name": "Loythe",
+                    "Url": "/lodestone/playguide/db/npc/npc/80904113590/",
+                    "Area": "The Crystarium (X:11.5 Y:7.4)"
+                },
+                {
+                    "Name": "Lue-Reeq",
+                    "Url": "/lodestone/playguide/db/npc/npc/6e9433d863e/",
+                    "Area": "The Crystarium (X:11.5 Y:7.4)"
+                },
+                {
+                    "Name": "Lue-Reeq",
+                    "Url": "/lodestone/playguide/db/npc/npc/befced6ad6b/",
+                    "Area": "The Crystarium (X:10.8 Y:15.9)"
+                },
+                {
+                    "Name": "Lue-Reeq",
+                    "Url": "/lodestone/playguide/db/npc/npc/15c9f619878/",
+                    "Area": "The Rak'tika Greatwood (X:16.5 Y:35.0)"
+                }
+            ],
+            "RelatedAchievements": [
+                {
+                    "Name": "Speaker for the Brave",
+                    "Url": "/lodestone/playguide/db/achievement/07ae54da2db/",
+                    "Reward": "-",
+                    "Points": "5"
+                }
+            ]
+        },
+        "Seq": 17,
+        "StartDependency": false
+    },
+    {
+        "ID": "3f1d070dfe8",
+        "Name": "A Singular Gift",
+        "Location": "The Doman Enclave",
+        "Level": 89,
+        "JournalSection": 6,
+        "JournalCategory": 72,
+        "JournalGenre": "\n\t\t\t\t\t\t\tPhysical Ranged DPS Role Quests (Endwalker)\n\t\t\t\t\t\t",
+        "Url": "/lodestone/playguide/db/quest/3f1d070dfe8/",
+        "Image": "https://img.finalfantasyxiv.com/lds/pc/global/images/itemicon/b7/b7ad6c3c4965aaa018a35c5b193c76b01bdeb6d2.png?n6.05",
+        "Icon": "function_normal",
+        "Issuer": "Yugiri",
+        "StartLocation": {
+            "Name": "The Doman Enclave",
+            "X": "6.5",
+            "Y": "6.9"
+        },
+        "StartClass": null,
+        "Job": "Physical Ranged DPS (excluding limited jobs)",
+        "Company": "Not specified",
+        "Requirement": "Not specified",
+        "Rewards": {
+            "Gil": 1000,
+            "Exp": 508200,
+            "ItemsMand": [
+                {
+                    "Icon": "https://img.finalfantasyxiv.com/lds/pc/global/images/itemicon/a0/a02194449b9efb177af0cfe2f083e273a5704f03.png?n6.05",
+                    "Name": "Coconut Cod Chowder",
+                    "Amount": 1,
+                    "Url": "/lodestone/playguide/db/item/ac97918bbd7/"
+                }
+            ],
+            "ItemsOpt": []
+        },
+        "Infos": {
+            "PrerequisiteQuest": [
+                {
+                    "Name": "The Devoted Daughter",
+                    "Url": "/lodestone/playguide/db/quest/b54137edf5e/",
+                    "Area": "The Doman Enclave",
+                    "Level": "88"
+                }
+            ],
+            "FollowupQuest": [
+                {
+                    "Name": "Laid to Rest",
+                    "Url": "/lodestone/playguide/db/quest/baead0a5b97/",
+                    "Area": "The Doman Enclave",
+                    "Level": "90"
+                }
+            ],
+            "RelatedNPC": [
+                {
+                    "Name": "Hien",
+                    "Url": "/lodestone/playguide/db/npc/npc/dd9277cb9ad/",
+                    "Area": "The Doman Enclave (X:6.5 Y:6.9)"
+                },
+                {
+                    "Name": "Bereaved Woman",
+                    "Url": "/lodestone/playguide/db/npc/npc/b2177eab6f1/",
+                    "Area": "Yanxia (X:31.0 Y:19.1)"
+                },
+                {
+                    "Name": "Grieving Elder",
+                    "Url": "/lodestone/playguide/db/npc/npc/3e9f59850f0/",
+                    "Area": "Yanxia (X:30.0 Y:18.9)"
+                },
+                {
+                    "Name": "Hien",
+                    "Url": "/lodestone/playguide/db/npc/npc/50b22e5ec87/",
+                    "Area": "Yanxia (X:30.3 Y:19.8)"
+                },
+                {
+                    "Name": "Hien",
+                    "Url": "/lodestone/playguide/db/npc/npc/50c137e71bd/",
+                    "Area": "Yanxia (X:34.0 Y:17.2)"
+                },
+                {
+                    "Name": "Tonbo",
+                    "Url": "/lodestone/playguide/db/npc/npc/5e3631fd7c0/",
+                    "Area": "Yanxia (X:30.3 Y:17.8)"
+                }
+            ]
+        },
+        "Seq": 48,
+        "StartDependency": false
+    },
+    {
+        "ID": "4a5d6341048",
+        "Name": "Defined by Loss",
+        "Location": "Kholusia",
+        "Level": 74,
+        "JournalSection": 6,
+        "JournalCategory": 72,
+        "JournalGenre": "\n\t\t\t\t\t\t\tTank Role Quests (Shadowbringers)\n\t\t\t\t\t\t",
+        "Url": "/lodestone/playguide/db/quest/4a5d6341048/",
+        "Image": "https://img.finalfantasyxiv.com/lds/pc/global/images/itemicon/76/761096945269a95c83d96b9c301fa71c2354d06f.png?n6.05",
+        "Icon": "function_normal",
+        "Issuer": "Granson",
+        "StartLocation": {
+            "Name": "Kholusia",
+            "X": "16.5",
+            "Y": "28.4"
+        },
+        "StartClass": null,
+        "Job": "Tank (excluding limited jobs)",
+        "Company": "Not specified",
+        "Requirement": "Not specified",
+        "Rewards": {
+            "Gil": 2163,
+            "Exp": 221760,
+            "ItemsMand": [],
+            "ItemsOpt": []
+        },
+        "Infos": {
+            "PrerequisiteQuest": [
+                {
+                    "Name": "Shaped by Tragedy",
+                    "Url": "/lodestone/playguide/db/quest/6cf455fc8a6/",
+                    "Area": "The Crystarium",
+                    "Level": "72"
+                }
+            ],
+            "FollowupQuest": [
+                {
+                    "Name": "The Princess and Her Knight",
+                    "Url": "/lodestone/playguide/db/quest/5eff5764ca1/",
+                    "Area": "Amh Araeng",
+                    "Level": "76"
+                }
+            ],
+            "RelatedNPC": [
+                {
+                    "Name": "Granson",
+                    "Url": "/lodestone/playguide/db/npc/npc/f90c207069d/",
+                    "Area": "Amh Araeng (X:26.8 Y:17.5)"
+                },
+                {
+                    "Name": "Granson",
+                    "Url": "/lodestone/playguide/db/npc/npc/55793f6e418/",
+                    "Area": "Amh Araeng (X:26.3 Y:15.6)"
+                },
+                {
+                    "Name": "Granson",
+                    "Url": "/lodestone/playguide/db/npc/npc/4335d2029f5/",
+                    "Area": "Amh Araeng (X:27.3 Y:26.6)"
+                },
+                {
+                    "Name": "Granson",
+                    "Url": "/lodestone/playguide/db/npc/npc/67bfc202655/",
+                    "Area": "Amh Araeng (X:27.3 Y:26.5)"
+                },
+                {
+                    "Name": "Granson",
+                    "Url": "/lodestone/playguide/db/npc/npc/20a290c8173/",
+                    "Area": "Amh Araeng (X:27.3 Y:15.6)"
+                },
+                {
+                    "Name": "Hume Peddler",
+                    "Url": "/lodestone/playguide/db/npc/npc/9f18daafb91/",
+                    "Area": "Amh Araeng (X:27.5 Y:15.6)"
+                },
+                {
+                    "Name": "Zhin Zin",
+                    "Url": "/lodestone/playguide/db/npc/npc/d3d9242d21b/",
+                    "Area": "Amh Araeng (X:27.7 Y:16.3)"
+                },
+                {
+                    "Name": "Industrious Trader",
+                    "Url": "/lodestone/playguide/db/npc/npc/f95c69d8f3d/",
+                    "Area": "Eulmore (X:11.9 Y:9.9)"
+                }
+            ]
+        },
+        "Seq": 2,
+        "StartDependency": false
+    },
+    {
+        "ID": "4ea072f3039",
+        "Name": "Taynor's Training Day",
+        "Location": "Amh Araeng",
+        "Level": 78,
+        "JournalSection": 6,
+        "JournalCategory": 72,
+        "JournalGenre": "\n\t\t\t\t\t\t\tMagical Ranged DPS Role Quests (Shadowbringers)\n\t\t\t\t\t\t",
+        "Url": "/lodestone/playguide/db/quest/4ea072f3039/",
+        "Image": "https://img.finalfantasyxiv.com/lds/pc/global/images/itemicon/1a/1a4d6c24cbb2cf539c23b0c88808745ea3209094.png?n6.05",
+        "Icon": "function_normal",
+        "Issuer": "Cerigg",
+        "StartLocation": {
+            "Name": "Amh Araeng",
+            "X": "25.8",
+            "Y": "16.4"
+        },
+        "StartClass": null,
+        "Job": "Magical Ranged DPS (excluding limited jobs)",
+        "Company": "Not specified",
+        "Requirement": "Not specified",
+        "Rewards": {
+            "Gil": 1365,
+            "Exp": 227520,
+            "ItemsMand": [
+                {
+                    "Icon": "https://img.finalfantasyxiv.com/lds/pc/global/images/itemicon/8a/8a7b7e68ab6fdb5284cf36875daf25e66850aae7.png?n6.05",
+                    "Name": "Espresso con Panna",
+                    "Amount": 1,
+                    "Url": "/lodestone/playguide/db/item/229a4ccc590/"
+                }
+            ],
+            "ItemsOpt": []
+        },
+        "Infos": {
+            "PrerequisiteQuest": [
+                {
+                    "Name": "Nyelbert's Lament",
+                    "Url": "/lodestone/playguide/db/quest/5624c92db62/",
+                    "Area": "Amh Araeng",
+                    "Level": "76"
+                }
+            ],
+            "FollowupQuest": [
+                {
+                    "Name": "A Tearful Reunion",
+                    "Url": "/lodestone/playguide/db/quest/5fec56883e2/",
+                    "Area": "Amh Araeng",
+                    "Level": "80"
+                }
+            ],
+            "RelatedNPC": [
+                {
+                    "Name": "Taynor",
+                    "Url": "/lodestone/playguide/db/npc/npc/7921103dd4e/",
+                    "Area": "Amh Araeng (X:25.8 Y:16.5)"
+                },
+                {
+                    "Name": "Taynor",
+                    "Url": "/lodestone/playguide/db/npc/npc/aa63fc3fa98/",
+                    "Area": "Amh Araeng (X:25.8 Y:16.5)"
+                },
+                {
+                    "Name": "Cerigg",
+                    "Url": "/lodestone/playguide/db/npc/npc/1638d206aac/",
+                    "Area": "Lakeland (X:32.3 Y:37.7)"
+                },
+                {
+                    "Name": "Cerigg",
+                    "Url": "/lodestone/playguide/db/npc/npc/1646a70525f/",
+                    "Area": "Lakeland (X:32.2 Y:37.5)"
+                },
+                {
+                    "Name": "Taynor",
+                    "Url": "/lodestone/playguide/db/npc/npc/73da33a801b/",
+                    "Area": "Lakeland (X:32.3 Y:37.7)"
+                },
+                {
+                    "Name": "Taynor",
+                    "Url": "/lodestone/playguide/db/npc/npc/d1654b7a735/",
+                    "Area": "Lakeland (X:32.2 Y:37.5)"
+                }
+            ]
+        },
+        "Seq": 22,
+        "StartDependency": false
+    },
+    {
+        "ID": "5624c92db62",
+        "Name": "Nyelbert's Lament",
+        "Location": "Amh Araeng",
+        "Level": 76,
+        "JournalSection": 6,
+        "JournalCategory": 72,
+        "JournalGenre": "\n\t\t\t\t\t\t\tMagical Ranged DPS Role Quests (Shadowbringers)\n\t\t\t\t\t\t",
+        "Url": "/lodestone/playguide/db/quest/5624c92db62/",
+        "Image": "https://img.finalfantasyxiv.com/lds/pc/global/images/itemicon/1a/1a4d6c24cbb2cf539c23b0c88808745ea3209094.png?n6.05",
+        "Icon": "function_normal",
+        "Issuer": "Cerigg",
+        "StartLocation": {
+            "Name": "Amh Araeng",
+            "X": "25.8",
+            "Y": "16.4"
+        },
+        "StartClass": null,
+        "Job": "Magical Ranged DPS (excluding limited jobs)",
+        "Company": "Not specified",
+        "Requirement": "Not specified",
+        "Rewards": {
+            "Gil": 2554,
+            "Exp": 224640,
+            "ItemsMand": [],
+            "ItemsOpt": []
+        },
+        "Infos": {
+            "PrerequisiteQuest": [
+                {
+                    "Name": "Echoes of the Past",
+                    "Url": "/lodestone/playguide/db/quest/d266d82fb99/",
+                    "Area": "Amh Araeng",
+                    "Level": "74"
+                }
+            ],
+            "FollowupQuest": [
+                {
+                    "Name": "Taynor's Training Day",
+                    "Url": "/lodestone/playguide/db/quest/4ea072f3039/",
+                    "Area": "Amh Araeng",
+                    "Level": "78"
+                }
+            ],
+            "RelatedNPC": [
+                {
+                    "Name": "Cerigg",
+                    "Url": "/lodestone/playguide/db/npc/npc/c49a267b89d/",
+                    "Area": "Amh Araeng (X:28.3 Y:23.0)"
+                },
+                {
+                    "Name": "Taynor",
+                    "Url": "/lodestone/playguide/db/npc/npc/62fc08f84f2/",
+                    "Area": "Amh Araeng (X:28.3 Y:23.0)"
+                },
+                {
+                    "Name": "Taynor",
+                    "Url": "/lodestone/playguide/db/npc/npc/aa63fc3fa98/",
+                    "Area": "Amh Araeng (X:25.8 Y:16.5)"
+                }
+            ]
+        },
+        "Seq": 21,
+        "StartDependency": false
+    },
+    {
+        "ID": "589bf21f55a",
+        "Name": "Ever March Heavensward",
+        "Location": "Ishgard",
+        "Level": 90,
+        "JournalSection": 6,
+        "JournalCategory": 72,
+        "JournalGenre": "\n\t\t\t\t\t\t\tMagical Ranged DPS Role Quests (Endwalker)\n\t\t\t\t\t\t",
+        "Url": "/lodestone/playguide/db/quest/589bf21f55a/",
+        "Image": "https://img.finalfantasyxiv.com/lds/pc/global/images/itemicon/4c/4c49c22f7bdd2fa9a63fcc57a97e13ab0bbadb46.png?n6.05",
+        "Icon": "function_normal",
+        "Issuer": "Artoirel",
+        "StartLocation": {
+            "Name": "Strategy Room",
+            "X": "6.1",
+            "Y": "5.9"
+        },
+        "StartClass": null,
+        "Job": "Magical Ranged DPS (excluding limited jobs)",
+        "Company": "Not specified",
+        "Requirement": "Not specified",
+        "Rewards": {
+            "Gil": 2000,
+            "Exp": 0,
+            "ItemsMand": [
+                {
+                    "Icon": "https://img.finalfantasyxiv.com/lds/pc/global/images/itemicon/42/42b918da5506c319185d6977ea8c5774d4665174.png?n6.05",
+                    "Name": "Savage Aim Materia IX",
+                    "Amount": 2,
+                    "Url": "/lodestone/playguide/db/item/fb86de99514/"
+                },
+                {
+                    "Icon": "https://img.finalfantasyxiv.com/lds/pc/global/images/itemicon/42/42b918da5506c319185d6977ea8c5774d4665174.png?n6.05",
+                    "Name": "Savage Might Materia IX",
+                    "Amount": 2,
+                    "Url": "/lodestone/playguide/db/item/86ae2ca0af4/"
+                },
+                {
+                    "Icon": "https://img.finalfantasyxiv.com/lds/pc/global/images/itemicon/42/42b918da5506c319185d6977ea8c5774d4665174.png?n6.05",
+                    "Name": "Heavens' Eye Materia IX",
+                    "Amount": 2,
+                    "Url": "/lodestone/playguide/db/item/6c33b180bfb/"
+                }
+            ],
+            "ItemsOpt": []
+        },
+        "Infos": {
+            "PrerequisiteQuest": [
+                {
+                    "Name": "O Mighty Fury, Guide Us to Victory",
+                    "Url": "/lodestone/playguide/db/quest/bd2fc7af450/",
+                    "Area": "Ishgard",
+                    "Level": "89"
+                }
+            ],
+            "RelatedNPC": [
+                {
+                    "Name": "Temple Knight Guard",
+                    "Url": "/lodestone/playguide/db/npc/npc/340b2c2824b/",
+                    "Area": "Foundation (X:13.5 Y:11.0)"
+                },
+                {
+                    "Name": "Artoirel",
+                    "Url": "/lodestone/playguide/db/npc/npc/a17633094e3/",
+                    "Area": "Strategy Room (X:6.1 Y:5.9)"
+                },
+                {
+                    "Name": "Aymeric",
+                    "Url": "/lodestone/playguide/db/npc/npc/13735002538/",
+                    "Area": "Strategy Room (X:6.1 Y:5.9)"
+                },
+                {
+                    "Name": "Clem",
+                    "Url": "/lodestone/playguide/db/npc/npc/4410e8e72f1/",
+                    "Area": "Strategy Room (X:6.0 Y:6.0)"
+                },
+                {
+                    "Name": "Artoirel",
+                    "Url": "/lodestone/playguide/db/npc/npc/b0c643acf88/",
+                    "Area": "The Pillars (X:11.2 Y:7.4)"
+                },
+                {
+                    "Name": "Aymeric",
+                    "Url": "/lodestone/playguide/db/npc/npc/8dd421c8e95/",
+                    "Area": "The Pillars (X:11.2 Y:7.4)"
+                },
+                {
+                    "Name": "Ishgardian Delegate",
+                    "Url": "/lodestone/playguide/db/npc/npc/6ea928f2d14/",
+                    "Area": "Radz-at-Han (X:7.8 Y:9.4)"
+                }
+            ],
+            "RelatedAchievements": [
+                {
+                    "Name": "More than Fear",
+                    "Url": "/lodestone/playguide/db/achievement/cca7049a8ab/",
+                    "Reward": "-",
+                    "Points": "5"
+                }
+            ]
+        },
+        "Seq": 55,
+        "StartDependency": false
+    },
+    {
+        "ID": "5eff5764ca1",
+        "Name": "The Princess and Her Knight",
+        "Location": "Amh Araeng",
+        "Level": 76,
+        "JournalSection": 6,
+        "JournalCategory": 72,
+        "JournalGenre": "\n\t\t\t\t\t\t\tTank Role Quests (Shadowbringers)\n\t\t\t\t\t\t",
+        "Url": "/lodestone/playguide/db/quest/5eff5764ca1/",
+        "Image": "https://img.finalfantasyxiv.com/lds/pc/global/images/itemicon/76/761096945269a95c83d96b9c301fa71c2354d06f.png?n6.05",
+        "Icon": "function_normal",
+        "Issuer": "Granson",
+        "StartLocation": {
+            "Name": "Amh Araeng",
+            "X": "27.3",
+            "Y": "15.6"
+        },
+        "StartClass": null,
+        "Job": "Tank (excluding limited jobs)",
+        "Company": "Not specified",
+        "Requirement": "Not specified",
+        "Rewards": {
+            "Gil": 1962,
+            "Exp": 224640,
+            "ItemsMand": [],
+            "ItemsOpt": []
+        },
+        "Infos": {
+            "PrerequisiteQuest": [
+                {
+                    "Name": "Defined by Loss",
+                    "Url": "/lodestone/playguide/db/quest/4a5d6341048/",
+                    "Area": "Kholusia",
+                    "Level": "74"
+                }
+            ],
+            "FollowupQuest": [
+                {
+                    "Name": "The Hardened Heart",
+                    "Url": "/lodestone/playguide/db/quest/20556aacbce/",
+                    "Area": "Il Mheg",
+                    "Level": "78"
+                }
+            ],
+            "RelatedNPC": [
+                {
+                    "Name": "Daen Kenn",
+                    "Url": "/lodestone/playguide/db/npc/npc/3922791717f/",
+                    "Area": "Il Mheg (X:20.8 Y:3.8)"
+                },
+                {
+                    "Name": "Granson",
+                    "Url": "/lodestone/playguide/db/npc/npc/3213637bd43/",
+                    "Area": "Il Mheg (X:13.6 Y:31.4)"
+                },
+                {
+                    "Name": "Granson",
+                    "Url": "/lodestone/playguide/db/npc/npc/90e1af9c50a/",
+                    "Area": "Il Mheg (X:19.6 Y:4.7)"
+                },
+                {
+                    "Name": "Granson",
+                    "Url": "/lodestone/playguide/db/npc/npc/dbabe583103/",
+                    "Area": "Il Mheg (X:22.6 Y:4.0)"
+                },
+                {
+                    "Name": "Iala Oul",
+                    "Url": "/lodestone/playguide/db/npc/npc/7ca99d1c088/",
+                    "Area": "Il Mheg (X:22.1 Y:4.3)"
+                },
+                {
+                    "Name": "Sul Oul",
+                    "Url": "/lodestone/playguide/db/npc/npc/f7b133e9145/",
+                    "Area": "Il Mheg (X:22.7 Y:4.0)"
+                }
+            ]
+        },
+        "Seq": 3,
+        "StartDependency": false
+    },
+    {
+        "ID": "5fec56883e2",
+        "Name": "A Tearful Reunion",
+        "Location": "Amh Araeng",
+        "Level": 80,
+        "JournalSection": 6,
+        "JournalCategory": 72,
+        "JournalGenre": "\n\t\t\t\t\t\t\tMagical Ranged DPS Role Quests (Shadowbringers)\n\t\t\t\t\t\t",
+        "Url": "/lodestone/playguide/db/quest/5fec56883e2/",
+        "Image": "https://img.finalfantasyxiv.com/lds/pc/global/images/itemicon/1a/1a4d6c24cbb2cf539c23b0c88808745ea3209094.png?n6.05",
+        "Icon": "function_normal",
+        "Issuer": "Cerigg",
+        "StartLocation": {
+            "Name": "Amh Araeng",
+            "X": "25.8",
+            "Y": "16.4"
+        },
+        "StartClass": null,
+        "Job": "Magical Ranged DPS (excluding limited jobs)",
+        "Company": "Not specified",
+        "Requirement": "Not specified",
+        "Rewards": {
+            "Gil": 523,
+            "Exp": 448800,
+            "ItemsMand": [
+                {
+                    "Icon": "https://img.finalfantasyxiv.com/lds/pc/global/images/itemicon/01/01947a3034803440796fe4eb7c9dca412b782390.png?n6.05",
+                    "Name": "Heavens' Eye Materia VII",
+                    "Amount": 1,
+                    "Url": "/lodestone/playguide/db/item/85587a58d9a/"
+                },
+                {
+                    "Icon": "https://img.finalfantasyxiv.com/lds/pc/global/images/itemicon/01/01947a3034803440796fe4eb7c9dca412b782390.png?n6.05",
+                    "Name": "Savage Aim Materia VII",
+                    "Amount": 1,
+                    "Url": "/lodestone/playguide/db/item/ae193b74ae4/"
+                },
+                {
+                    "Icon": "https://img.finalfantasyxiv.com/lds/pc/global/images/itemicon/01/01947a3034803440796fe4eb7c9dca412b782390.png?n6.05",
+                    "Name": "Savage Might Materia VII",
+                    "Amount": 1,
+                    "Url": "/lodestone/playguide/db/item/a3870117f91/"
+                },
+                {
+                    "Icon": "https://img.finalfantasyxiv.com/lds/pc/global/images/itemicon/ba/baa2341dd17414fae7fd62ae7bc62c64589b67be.png?n6.05",
+                    "Name": "Nightworld Silver Piece",
+                    "Amount": 5,
+                    "Url": "/lodestone/playguide/db/item/50ed823230e/"
+                }
+            ],
+            "ItemsOpt": []
+        },
+        "Infos": {
+            "PrerequisiteQuest": [
+                {
+                    "Name": "Taynor's Training Day",
+                    "Url": "/lodestone/playguide/db/quest/4ea072f3039/",
+                    "Area": "Amh Araeng",
+                    "Level": "78"
+                }
+            ],
+            "FollowupQuest": [
+                {
+                    "Name": "A Home for a Tome",
+                    "Url": "/lodestone/playguide/db/quest/37f25d97115/",
+                    "Area": "Ul'dah",
+                    "Level": "80"
+                },
+                {
+                    "Name": "To Be Second Best",
+                    "Url": "/lodestone/playguide/db/quest/752c8d3bfbe/",
+                    "Area": "Gridania",
+                    "Level": "80"
+                },
+                {
+                    "Name": "Succession of Steel",
+                    "Url": "/lodestone/playguide/db/quest/5a4b5444137/",
+                    "Area": "Mor Dhona",
+                    "Level": "80"
+                },
+                {
+                    "Name": "Shadow Walk with Me",
+                    "Url": "/lodestone/playguide/db/quest/92799414083/",
+                    "Area": "The Crystarium",
+                    "Level": "80"
+                }
+            ],
+            "RelatedNPC": [
+                {
+                    "Name": "Cerigg",
+                    "Url": "/lodestone/playguide/db/npc/npc/702b8122a8c/",
+                    "Area": "Amh Araeng (X:16.3 Y:15.7)"
+                },
+                {
+                    "Name": "Taynor",
+                    "Url": "/lodestone/playguide/db/npc/npc/7921103dd4e/",
+                    "Area": "Amh Araeng (X:25.8 Y:16.5)"
+                },
+                {
+                    "Name": "Taynor",
+                    "Url": "/lodestone/playguide/db/npc/npc/cd741ce3fcc/",
+                    "Area": "Amh Araeng (X:16.3 Y:15.7)"
+                },
+                {
+                    "Name": "Taynor",
+                    "Url": "/lodestone/playguide/db/npc/npc/cfc96a67548/",
+                    "Area": "Amh Araeng (X:27.2 Y:17.0)"
+                },
+                {
+                    "Name": "Cerigg",
+                    "Url": "/lodestone/playguide/db/npc/npc/3ca03d49032/",
+                    "Area": "The Crystarium (X:11.2 Y:15.2)"
+                },
+                {
+                    "Name": "Taynor",
+                    "Url": "/lodestone/playguide/db/npc/npc/f68f4587c4f/",
+                    "Area": "The Crystarium (X:11.2 Y:15.2)"
+                }
+            ],
+            "RelatedAchievements": [
+                {
+                    "Name": "Speaker for the Wise",
+                    "Url": "/lodestone/playguide/db/achievement/ac177fa32f0/",
+                    "Reward": "-",
+                    "Points": "5"
+                }
+            ]
+        },
+        "Seq": 23,
+        "StartDependency": false
+    },
+    {
+        "ID": "6289dd9d57d",
+        "Name": "A Gift Undone",
+        "Location": "Gridania",
+        "Level": 87,
+        "JournalSection": 6,
+        "JournalCategory": 72,
+        "JournalGenre": "\n\t\t\t\t\t\t\tTank Role Quests (Endwalker)\n\t\t\t\t\t\t",
+        "Url": "/lodestone/playguide/db/quest/6289dd9d57d/",
+        "Image": "https://img.finalfantasyxiv.com/lds/pc/global/images/itemicon/aa/aaabcd282cadb57f6529c83bf246923e2042c33e.png?n6.05",
+        "Icon": "function_normal",
+        "Issuer": "Keeper Of The Entwined Serpents",
+        "StartLocation": {
+            "Name": "New Gridania",
+            "X": "9.8",
+            "Y": "11.3"
+        },
+        "StartClass": null,
+        "Job": "Tank (excluding limited jobs)",
+        "Company": "Not specified",
+        "Requirement": "Not specified",
+        "Rewards": {
+            "Gil": 1000,
+            "Exp": 495000,
+            "ItemsMand": [],
+            "ItemsOpt": []
+        },
+        "Infos": {
+            "PrerequisiteQuest": [
+                {
+                    "Name": "To Give Voice",
+                    "Url": "/lodestone/playguide/db/quest/e3cf74578d5/",
+                    "Area": "Gridania",
+                    "Level": "86"
+                }
+            ],
+            "FollowupQuest": [
+                {
+                    "Name": "A Pact Proven",
+                    "Url": "/lodestone/playguide/db/quest/bf1bee2dbf1/",
+                    "Area": "Gridania",
+                    "Level": "88"
+                }
+            ],
+            "RelatedNPC": [
+                {
+                    "Name": "Kan-E-Senna",
+                    "Url": "/lodestone/playguide/db/npc/npc/529a9306691/",
+                    "Area": "Central Shroud (X:14.4 Y:17.2)"
+                },
+                {
+                    "Name": "Keeper Of The Entwined Serpents",
+                    "Url": "/lodestone/playguide/db/npc/npc/e7454b5a106/",
+                    "Area": "Central Shroud (X:14.4 Y:17.2)"
+                }
+            ]
+        },
+        "Seq": 28,
+        "StartDependency": false
+    },
+    {
+        "ID": "67dd512d8b8",
+        "Name": "Only Justice, Only Vengeance",
+        "Location": "Ishgard",
+        "Level": 87,
+        "JournalSection": 6,
+        "JournalCategory": 72,
+        "JournalGenre": "\n\t\t\t\t\t\t\tMagical Ranged DPS Role Quests (Endwalker)\n\t\t\t\t\t\t",
+        "Url": "/lodestone/playguide/db/quest/67dd512d8b8/",
+        "Image": "https://img.finalfantasyxiv.com/lds/pc/global/images/itemicon/4c/4c49c22f7bdd2fa9a63fcc57a97e13ab0bbadb46.png?n6.05",
+        "Icon": "function_normal",
+        "Issuer": "Artoirel",
+        "StartLocation": {
+            "Name": "Strategy Room",
+            "X": "6.1",
+            "Y": "5.9"
+        },
+        "StartClass": null,
+        "Job": "Magical Ranged DPS (excluding limited jobs)",
+        "Company": "Not specified",
+        "Requirement": "Not specified",
+        "Rewards": {
+            "Gil": 1000,
+            "Exp": 495000,
+            "ItemsMand": [],
+            "ItemsOpt": []
+        },
+        "Infos": {
+            "PrerequisiteQuest": [
+                {
+                    "Name": "No Forgiveness, No Deliverance",
+                    "Url": "/lodestone/playguide/db/quest/ca158765b8f/",
+                    "Area": "Ishgard",
+                    "Level": "86"
+                }
+            ],
+            "FollowupQuest": [
+                {
+                    "Name": "Wills Unending, Faith Unbending",
+                    "Url": "/lodestone/playguide/db/quest/09caf4c208c/",
+                    "Area": "Ishgard",
+                    "Level": "88"
+                }
+            ],
+            "RelatedNPC": [
+                {
+                    "Name": "Temple Knight Guard",
+                    "Url": "/lodestone/playguide/db/npc/npc/340b2c2824b/",
+                    "Area": "Foundation (X:13.5 Y:11.0)"
+                },
+                {
+                    "Name": "Aymeric",
+                    "Url": "/lodestone/playguide/db/npc/npc/13735002538/",
+                    "Area": "Strategy Room (X:6.1 Y:5.9)"
+                },
+                {
+                    "Name": "Artoirel",
+                    "Url": "/lodestone/playguide/db/npc/npc/83d520f4a0c/",
+                    "Area": "The Pillars (X:9.1 Y:8.4)"
+                },
+                {
+                    "Name": "Artoirel",
+                    "Url": "/lodestone/playguide/db/npc/npc/26962e725a5/",
+                    "Area": "The Pillars (X:9.7 Y:10.3)"
+                },
+                {
+                    "Name": "Aymeric",
+                    "Url": "/lodestone/playguide/db/npc/npc/9c9ff4778e6/",
+                    "Area": "The Pillars (X:9.1 Y:8.3)"
+                },
+                {
+                    "Name": "Clem",
+                    "Url": "/lodestone/playguide/db/npc/npc/a9cae5b3bc2/",
+                    "Area": "The Pillars (X:9.1 Y:8.3)"
+                },
+                {
+                    "Name": "Vartinoix",
+                    "Url": "/lodestone/playguide/db/npc/npc/188c1b87fea/",
+                    "Area": "The Pillars (X:9.8 Y:10.4)"
+                }
+            ]
+        },
+        "Seq": 52,
+        "StartDependency": false
+    },
+    {
+        "ID": "68e97133a16",
+        "Name": "The Butcher's Blade",
+        "Location": "The Lochs",
+        "Level": 86,
+        "JournalSection": 6,
+        "JournalCategory": 72,
+        "JournalGenre": "\n\t\t\t\t\t\t\tHealer Role Quests (Endwalker)\n\t\t\t\t\t\t",
+        "Url": "/lodestone/playguide/db/quest/68e97133a16/",
+        "Image": "https://img.finalfantasyxiv.com/lds/pc/global/images/itemicon/0b/0be0ee56a6c903377f3618f372cf75eaf657aed5.png?n6.05",
+        "Icon": "function_normal",
+        "Issuer": "Blasphemy Hunter",
+        "StartLocation": {
+            "Name": "The Lochs",
+            "X": "36.3",
+            "Y": "31.6"
+        },
+        "StartClass": null,
+        "Job": "Healer (excluding limited jobs)",
+        "Company": "Not specified",
+        "Requirement": "Not specified",
+        "Rewards": {
+            "Gil": 1000,
+            "Exp": 488400,
+            "ItemsMand": [],
+            "ItemsOpt": []
+        },
+        "Infos": {
+            "PrerequisiteQuest": [
+                {
+                    "Name": "Far from Free",
+                    "Url": "/lodestone/playguide/db/quest/136f373a4cc/",
+                    "Area": "Radz-at-Han",
+                    "Level": "85"
+                }
+            ],
+            "FollowupQuest": [
+                {
+                    "Name": "A New Battleground",
+                    "Url": "/lodestone/playguide/db/quest/f20b57ba893/",
+                    "Area": "The Lochs",
+                    "Level": "87"
+                }
+            ],
+            "RelatedNPC": [
+                {
+                    "Name": "Arenvald",
+                    "Url": "/lodestone/playguide/db/npc/npc/1e73ec3004a/",
+                    "Area": "The Lochs (X:36.1 Y:30.2)"
+                },
+                {
+                    "Name": "Raubahn",
+                    "Url": "/lodestone/playguide/db/npc/npc/dbe3357d841/",
+                    "Area": "The Lochs (X:36.2 Y:31.7)"
+                },
+                {
+                    "Name": "Anxious Mother",
+                    "Url": "/lodestone/playguide/db/npc/npc/5a4d2186e3a/",
+                    "Area": "The Peaks (X:24.4 Y:6.7)"
+                },
+                {
+                    "Name": "Fordola",
+                    "Url": "/lodestone/playguide/db/npc/npc/3ee57ade9b7/",
+                    "Area": "The Peaks (X:24.3 Y:6.8)"
+                },
+                {
+                    "Name": "Fordola",
+                    "Url": "/lodestone/playguide/db/npc/npc/23d0572b52b/",
+                    "Area": "The Peaks (X:21.5 Y:6.3)"
+                },
+                {
+                    "Name": "Raganfrid",
+                    "Url": "/lodestone/playguide/db/npc/npc/621723d5079/",
+                    "Area": "The Peaks (X:24.4 Y:6.8)"
+                },
+                {
+                    "Name": "Skittish Girl",
+                    "Url": "/lodestone/playguide/db/npc/npc/2484c178552/",
+                    "Area": "The Peaks (X:24.4 Y:6.6)"
+                }
+            ]
+        },
+        "Seq": 33,
+        "StartDependency": false
+    },
+    {
+        "ID": "6cf455fc8a6",
+        "Name": "Shaped by Tragedy",
+        "Location": "The Crystarium",
+        "Level": 72,
+        "JournalSection": 6,
+        "JournalCategory": 72,
+        "JournalGenre": "\n\t\t\t\t\t\t\tTank Role Quests (Shadowbringers)\n\t\t\t\t\t\t",
+        "Url": "/lodestone/playguide/db/quest/6cf455fc8a6/",
+        "Image": "https://img.finalfantasyxiv.com/lds/pc/global/images/itemicon/76/761096945269a95c83d96b9c301fa71c2354d06f.png?n6.05",
+        "Icon": "function_normal",
+        "Issuer": "Granson",
+        "StartLocation": {
+            "Name": "The Crystarium",
+            "X": "10.5",
+            "Y": "16.2"
+        },
+        "StartClass": null,
+        "Job": "Tank (excluding limited jobs)",
+        "Company": "Not specified",
+        "Requirement": "Not specified",
+        "Rewards": {
+            "Gil": 1120,
+            "Exp": 218880,
+            "ItemsMand": [],
+            "ItemsOpt": []
+        },
+        "Infos": {
+            "PrerequisiteQuest": [
+                {
+                    "Name": "The Man with Too Many Scars",
+                    "Url": "/lodestone/playguide/db/quest/0f8b13923c6/",
+                    "Area": "The Crystarium",
+                    "Level": "70"
+                }
+            ],
+            "FollowupQuest": [
+                {
+                    "Name": "Defined by Loss",
+                    "Url": "/lodestone/playguide/db/quest/4a5d6341048/",
+                    "Area": "Kholusia",
+                    "Level": "74"
+                }
+            ],
+            "RelatedNPC": [
+                {
+                    "Name": "Despondent Villager",
+                    "Url": "/lodestone/playguide/db/npc/npc/c75dcad132c/",
+                    "Area": "Kholusia (X:15.2 Y:30.3)"
+                },
+                {
+                    "Name": "Granson",
+                    "Url": "/lodestone/playguide/db/npc/npc/083e1db4284/",
+                    "Area": "Kholusia (X:16.5 Y:28.4)"
+                },
+                {
+                    "Name": "Granson",
+                    "Url": "/lodestone/playguide/db/npc/npc/f659d05b8da/",
+                    "Area": "Kholusia (X:15.1 Y:28.8)"
+                },
+                {
+                    "Name": "Skittish Villager",
+                    "Url": "/lodestone/playguide/db/npc/npc/53e6cc17376/",
+                    "Area": "Kholusia (X:15.1 Y:29.5)"
+                }
+            ]
+        },
+        "Seq": 1,
+        "StartDependency": false
+    },
+    {
+        "ID": "6db8bc6f742",
+        "Name": "Safekeeping",
+        "Location": "The Crystarium",
+        "Level": 80,
+        "JournalSection": 6,
+        "JournalCategory": 72,
+        "JournalGenre": "\n\t\t\t\t\t\t\tRole Quests\n\t\t\t\t\t\t",
+        "Url": "/lodestone/playguide/db/quest/6db8bc6f742/",
+        "Image": "https://img.finalfantasyxiv.com/lds/pc/global/images/itemicon/e5/e54f9a751545736bd5cb0d0ed30131d9ec7a66df.png?n6.05",
+        "Icon": "common_normal",
+        "Issuer": "Cyella",
+        "StartLocation": {
+            "Name": "The Crystarium",
+            "X": "10.7",
+            "Y": "15.3"
+        },
+        "StartClass": null,
+        "Job": "Any Disciple of War or Magic (excluding limited jobs)",
+        "Company": "Not specified",
+        "Requirement": "Not specified",
+        "Rewards": {
+            "Gil": 895,
+            "Exp": 448800,
+            "ItemsMand": [],
+            "ItemsOpt": []
+        },
+        "Infos": {
+            "PrerequisiteQuest": [
+                {
+                    "Name": "Reflections in Crystal",
+                    "Url": "/lodestone/playguide/db/quest/29d7ff6ba43/",
+                    "Area": "The Crystarium",
+                    "Level": "80"
+                },
+                {
+                    "Name": "Shadow Walk with Me",
+                    "Url": "/lodestone/playguide/db/quest/92799414083/",
+                    "Area": "The Crystarium",
+                    "Level": "80"
+                }
+            ],
+            "FollowupQuest": [
+                {
+                    "Name": "The Hero's Journey",
+                    "Url": "/lodestone/playguide/db/quest/f3f792f1b91/",
+                    "Area": "The Crystarium",
+                    "Level": "80"
+                }
+            ],
+            "RelatedNPC": [
+                {
+                    "Name": "Cerigg",
+                    "Url": "/lodestone/playguide/db/npc/npc/3ca03d49032/",
+                    "Area": "The Crystarium (X:11.2 Y:15.2)"
+                },
+                {
+                    "Name": "Giott",
+                    "Url": "/lodestone/playguide/db/npc/npc/a16e1ee6d30/",
+                    "Area": "The Crystarium (X:10.7 Y:15.4)"
+                },
+                {
+                    "Name": "Granson",
+                    "Url": "/lodestone/playguide/db/npc/npc/9c70245b77c/",
+                    "Area": "The Crystarium (X:10.5 Y:16.2)"
+                },
+                {
+                    "Name": "Lue-Reeq",
+                    "Url": "/lodestone/playguide/db/npc/npc/981041a0fce/",
+                    "Area": "The Crystarium (X:10.8 Y:15.9)"
+                },
+                {
+                    "Name": "Taynor",
+                    "Url": "/lodestone/playguide/db/npc/npc/f68f4587c4f/",
+                    "Area": "The Crystarium (X:11.2 Y:15.2)"
+                }
+            ]
+        },
+        "Seq": 25,
+        "StartDependency": false
+    },
+    {
+        "ID": "6f56c687f85",
+        "Name": "No Greater Sport",
+        "Location": "The Crystarium",
+        "Level": 70,
+        "JournalSection": 6,
+        "JournalCategory": 72,
+        "JournalGenre": "\n\t\t\t\t\t\t\tPhysical DPS Role Quests (Shadowbringers)\n\t\t\t\t\t\t",
+        "Url": "/lodestone/playguide/db/quest/6f56c687f85/",
+        "Image": "https://img.finalfantasyxiv.com/lds/pc/global/images/itemicon/56/5636454a1a70da9fa4653b67a466aab9422fe4cf.png?n6.05",
+        "Icon": "function_normal",
+        "Issuer": "Lue-Reeq",
+        "StartLocation": {
+            "Name": "The Crystarium",
+            "X": "10.8",
+            "Y": "15.9"
+        },
+        "StartClass": null,
+        "Job": "Physical DPS (excluding limited jobs)",
+        "Company": "Not specified",
+        "Requirement": "Not specified",
+        "Rewards": {
+            "Gil": 1234,
+            "Exp": 216000,
+            "ItemsMand": [],
+            "ItemsOpt": []
+        },
+        "Infos": {
+            "PrerequisiteQuest": [
+                {
+                    "Name": "Warrior of Darkness",
+                    "Url": "/lodestone/playguide/db/quest/0b1c0f7a203/",
+                    "Area": "Lakeland",
+                    "Level": "71"
+                }
+            ],
+            "FollowupQuest": [
+                {
+                    "Name": "Vengeance in Defeat",
+                    "Url": "/lodestone/playguide/db/quest/a3b836469f1/",
+                    "Area": "The Crystarium",
+                    "Level": "72"
+                }
+            ],
+            "RelatedNPC": [
+                {
+                    "Name": "Lue-Reeq",
+                    "Url": "/lodestone/playguide/db/npc/npc/2a5a5640133/",
+                    "Area": "Lakeland (X:25.4 Y:29.2)"
+                },
+                {
+                    "Name": "Lue-Reeq",
+                    "Url": "/lodestone/playguide/db/npc/npc/5e8b0be2661/",
+                    "Area": "Lakeland (X:25.4 Y:29.2)"
+                },
+                {
+                    "Name": "Lue-Reeq",
+                    "Url": "/lodestone/playguide/db/npc/npc/befced6ad6b/",
+                    "Area": "The Crystarium (X:10.8 Y:15.9)"
+                }
+            ]
+        },
+        "Seq": 12,
+        "StartDependency": false
+    },
+    {
+        "ID": "74f3de30cec",
+        "Name": "The Gift of Mercy",
+        "Location": "The Lochs",
+        "Level": 90,
+        "JournalSection": 6,
+        "JournalCategory": 72,
+        "JournalGenre": "\n\t\t\t\t\t\t\tHealer Role Quests (Endwalker)\n\t\t\t\t\t\t",
+        "Url": "/lodestone/playguide/db/quest/74f3de30cec/",
+        "Image": "https://img.finalfantasyxiv.com/lds/pc/global/images/itemicon/0b/0be0ee56a6c903377f3618f372cf75eaf657aed5.png?n6.05",
+        "Icon": "function_normal",
+        "Issuer": "Blasphemy Hunter",
+        "StartLocation": {
+            "Name": "The Lochs",
+            "X": "36.3",
+            "Y": "31.6"
+        },
+        "StartClass": null,
+        "Job": "Healer (excluding limited jobs)",
+        "Company": "Not specified",
+        "Requirement": "Not specified",
+        "Rewards": {
+            "Gil": 2000,
+            "Exp": 0,
+            "ItemsMand": [
+                {
+                    "Icon": "https://img.finalfantasyxiv.com/lds/pc/global/images/itemicon/8f/8f57251240280c4dd8b41f0b143d5a4de1a29215.png?n6.05",
+                    "Name": "Piety Materia IX",
+                    "Amount": 2,
+                    "Url": "/lodestone/playguide/db/item/b5e80dc8ce6/"
+                },
+                {
+                    "Icon": "https://img.finalfantasyxiv.com/lds/pc/global/images/itemicon/42/42b918da5506c319185d6977ea8c5774d4665174.png?n6.05",
+                    "Name": "Savage Aim Materia IX",
+                    "Amount": 2,
+                    "Url": "/lodestone/playguide/db/item/fb86de99514/"
+                },
+                {
+                    "Icon": "https://img.finalfantasyxiv.com/lds/pc/global/images/itemicon/42/42b918da5506c319185d6977ea8c5774d4665174.png?n6.05",
+                    "Name": "Savage Might Materia IX",
+                    "Amount": 2,
+                    "Url": "/lodestone/playguide/db/item/86ae2ca0af4/"
+                }
+            ],
+            "ItemsOpt": []
+        },
+        "Infos": {
+            "PrerequisiteQuest": [
+                {
+                    "Name": "Trail of Skulls",
+                    "Url": "/lodestone/playguide/db/quest/d72ad453d59/",
+                    "Area": "The Lochs",
+                    "Level": "89"
+                }
+            ],
+            "RelatedNPC": [
+                {
+                    "Name": "Arenvald",
+                    "Url": "/lodestone/playguide/db/npc/npc/1e73ec3004a/",
+                    "Area": "The Lochs (X:36.1 Y:30.2)"
+                },
+                {
+                    "Name": "Raubahn",
+                    "Url": "/lodestone/playguide/db/npc/npc/e24571645b9/",
+                    "Area": "The Lochs (X:36.1 Y:30.2)"
+                },
+                {
+                    "Name": "Raubahn",
+                    "Url": "/lodestone/playguide/db/npc/npc/bc4084390f4/",
+                    "Area": "The Lochs (X:33.6 Y:33.9)"
+                },
+                {
+                    "Name": "Ala Mhigan Delegate",
+                    "Url": "/lodestone/playguide/db/npc/npc/f1d3acf5411/",
+                    "Area": "Radz-at-Han (X:7.5 Y:9.6)"
+                },
+                {
+                    "Name": "Ul'dahn Delegate",
+                    "Url": "/lodestone/playguide/db/npc/npc/5593bf31b02/",
+                    "Area": "Radz-at-Han (X:7.6 Y:9.6)"
+                }
+            ],
+            "RelatedAchievements": [
+                {
+                    "Name": "More than Guilt",
+                    "Url": "/lodestone/playguide/db/achievement/4c850f36611/",
+                    "Reward": "-",
+                    "Points": "5"
+                }
+            ]
+        },
+        "Seq": 37,
+        "StartDependency": false
+    },
+    {
+        "ID": "7a91cda57d9",
+        "Name": "Freedom from Privilege",
+        "Location": "The Crystarium",
+        "Level": 74,
+        "JournalSection": 6,
+        "JournalCategory": 72,
+        "JournalGenre": "\n\t\t\t\t\t\t\tPhysical DPS Role Quests (Shadowbringers)\n\t\t\t\t\t\t",
+        "Url": "/lodestone/playguide/db/quest/7a91cda57d9/",
+        "Image": "https://img.finalfantasyxiv.com/lds/pc/global/images/itemicon/56/5636454a1a70da9fa4653b67a466aab9422fe4cf.png?n6.05",
+        "Icon": "function_normal",
+        "Issuer": "Lue-Reeq",
+        "StartLocation": {
+            "Name": "The Crystarium",
+            "X": "10.8",
+            "Y": "15.9"
+        },
+        "StartClass": null,
+        "Job": "Physical DPS (excluding limited jobs)",
+        "Company": "Not specified",
+        "Requirement": "Not specified",
+        "Rewards": {
+            "Gil": 1941,
+            "Exp": 221760,
+            "ItemsMand": [],
+            "ItemsOpt": []
+        },
+        "Infos": {
+            "PrerequisiteQuest": [
+                {
+                    "Name": "Vengeance in Defeat",
+                    "Url": "/lodestone/playguide/db/quest/a3b836469f1/",
+                    "Area": "The Crystarium",
+                    "Level": "72"
+                }
+            ],
+            "FollowupQuest": [
+                {
+                    "Name": "The Hunter's Legacy",
+                    "Url": "/lodestone/playguide/db/quest/82b4b287f29/",
+                    "Area": "The Crystarium",
+                    "Level": "76"
+                }
+            ],
+            "RelatedNPC": [
+                {
+                    "Name": "Diligent Manservant",
+                    "Url": "/lodestone/playguide/db/npc/npc/7213c6d2e9c/",
+                    "Area": "Eulmore (X:12.6 Y:10.1)"
+                },
+                {
+                    "Name": "Disinterested Patriarch",
+                    "Url": "/lodestone/playguide/db/npc/npc/b7d9dbfa02f/",
+                    "Area": "Eulmore (X:12.6 Y:10.1)"
+                },
+                {
+                    "Name": "Dispassionate Oligarch",
+                    "Url": "/lodestone/playguide/db/npc/npc/974b7b52740/",
+                    "Area": "Eulmore (X:12.6 Y:10.1)"
+                },
+                {
+                    "Name": "Lue-Reeq",
+                    "Url": "/lodestone/playguide/db/npc/npc/d2eeaacf0cd/",
+                    "Area": "Eulmore (X:12.5 Y:10.1)"
+                },
+                {
+                    "Name": "Cocky Sellsword",
+                    "Url": "/lodestone/playguide/db/npc/npc/448ab86b3bf/",
+                    "Area": "Kholusia (X:17.6 Y:26.4)"
+                },
+                {
+                    "Name": "Lue-Reeq",
+                    "Url": "/lodestone/playguide/db/npc/npc/b355043f736/",
+                    "Area": "Kholusia (X:16.4 Y:27.9)"
+                },
+                {
+                    "Name": "Lue-Reeq",
+                    "Url": "/lodestone/playguide/db/npc/npc/deb699e26a4/",
+                    "Area": "Kholusia (X:17.6 Y:26.4)"
+                },
+                {
+                    "Name": "Well-traveled Mage",
+                    "Url": "/lodestone/playguide/db/npc/npc/93ea6383566/",
+                    "Area": "Kholusia (X:17.6 Y:26.4)"
+                },
+                {
+                    "Name": "Wry Hunter",
+                    "Url": "/lodestone/playguide/db/npc/npc/97bbc800d7e/",
+                    "Area": "Kholusia (X:17.6 Y:26.4)"
+                }
+            ]
+        },
+        "Seq": 14,
+        "StartDependency": false
+    },
+    {
+        "ID": "7cc241034bd",
+        "Name": "A Voice from the Void",
+        "Location": "Amh Araeng",
+        "Level": 72,
+        "JournalSection": 6,
+        "JournalCategory": 72,
+        "JournalGenre": "\n\t\t\t\t\t\t\tMagical Ranged DPS Role Quests (Shadowbringers)\n\t\t\t\t\t\t",
+        "Url": "/lodestone/playguide/db/quest/7cc241034bd/",
+        "Image": "https://img.finalfantasyxiv.com/lds/pc/global/images/itemicon/1a/1a4d6c24cbb2cf539c23b0c88808745ea3209094.png?n6.05",
+        "Icon": "function_normal",
+        "Issuer": "Cerigg",
+        "StartLocation": {
+            "Name": "Amh Araeng",
+            "X": "25.8",
+            "Y": "16.4"
+        },
+        "StartClass": null,
+        "Job": "Magical Ranged DPS (excluding limited jobs)",
+        "Company": "Not specified",
+        "Requirement": "Not specified",
+        "Rewards": {
+            "Gil": 1077,
+            "Exp": 218880,
+            "ItemsMand": [],
+            "ItemsOpt": []
+        },
+        "Infos": {
+            "PrerequisiteQuest": [
+                {
+                    "Name": "Hollow Pursuits",
+                    "Url": "/lodestone/playguide/db/quest/ae0ed578fab/",
+                    "Area": "The Crystarium",
+                    "Level": "70"
+                }
+            ],
+            "FollowupQuest": [
+                {
+                    "Name": "Echoes of the Past",
+                    "Url": "/lodestone/playguide/db/quest/d266d82fb99/",
+                    "Area": "Amh Araeng",
+                    "Level": "74"
+                }
+            ]
+        },
+        "Seq": 19,
+        "StartDependency": false
+    },
+    {
+        "ID": "82b4b287f29",
+        "Name": "The Hunter's Legacy",
+        "Location": "The Crystarium",
+        "Level": 76,
+        "JournalSection": 6,
+        "JournalCategory": 72,
+        "JournalGenre": "\n\t\t\t\t\t\t\tPhysical DPS Role Quests (Shadowbringers)\n\t\t\t\t\t\t",
+        "Url": "/lodestone/playguide/db/quest/82b4b287f29/",
+        "Image": "https://img.finalfantasyxiv.com/lds/pc/global/images/itemicon/56/5636454a1a70da9fa4653b67a466aab9422fe4cf.png?n6.05",
+        "Icon": "function_normal",
+        "Issuer": "Lue-Reeq",
+        "StartLocation": {
+            "Name": "The Crystarium",
+            "X": "10.8",
+            "Y": "15.9"
+        },
+        "StartClass": null,
+        "Job": "Physical DPS (excluding limited jobs)",
+        "Company": "Not specified",
+        "Requirement": "Not specified",
+        "Rewards": {
+            "Gil": 3172,
+            "Exp": 224640,
+            "ItemsMand": [],
+            "ItemsOpt": []
+        },
+        "Infos": {
+            "PrerequisiteQuest": [
+                {
+                    "Name": "Freedom from Privilege",
+                    "Url": "/lodestone/playguide/db/quest/7a91cda57d9/",
+                    "Area": "The Crystarium",
+                    "Level": "74"
+                }
+            ],
+            "FollowupQuest": [
+                {
+                    "Name": "Fellowship Restored",
+                    "Url": "/lodestone/playguide/db/quest/22213ae745d/",
+                    "Area": "Kholusia",
+                    "Level": "78"
+                }
+            ],
+            "RelatedNPC": [
+                {
+                    "Name": "Lue-Reeq",
+                    "Url": "/lodestone/playguide/db/npc/npc/aeba157b452/",
+                    "Area": "Kholusia (X:23.3 Y:33.7)"
+                },
+                {
+                    "Name": "Olvara",
+                    "Url": "/lodestone/playguide/db/npc/npc/09b63b68960/",
+                    "Area": "Kholusia (X:23.3 Y:33.7)"
+                },
+                {
+                    "Name": "Lue-Reeq",
+                    "Url": "/lodestone/playguide/db/npc/npc/2b6f4ebd3e3/",
+                    "Area": "The Rak'tika Greatwood (X:17.6 Y:33.3)"
+                }
+            ]
+        },
+        "Seq": 15,
+        "StartDependency": false
+    },
+    {
+        "ID": "88a3096287d",
+        "Name": "Hearts True",
+        "Location": "Gridania",
+        "Level": 89,
+        "JournalSection": 6,
+        "JournalCategory": 72,
+        "JournalGenre": "\n\t\t\t\t\t\t\tTank Role Quests (Endwalker)\n\t\t\t\t\t\t",
+        "Url": "/lodestone/playguide/db/quest/88a3096287d/",
+        "Image": "https://img.finalfantasyxiv.com/lds/pc/global/images/itemicon/aa/aaabcd282cadb57f6529c83bf246923e2042c33e.png?n6.05",
+        "Icon": "function_normal",
+        "Issuer": "Keeper Of The Entwined Serpents",
+        "StartLocation": {
+            "Name": "New Gridania",
+            "X": "9.8",
+            "Y": "11.3"
+        },
+        "StartClass": null,
+        "Job": "Tank (excluding limited jobs)",
+        "Company": "Not specified",
+        "Requirement": "Not specified",
+        "Rewards": {
+            "Gil": 1000,
+            "Exp": 508200,
+            "ItemsMand": [
+                {
+                    "Icon": "https://img.finalfantasyxiv.com/lds/pc/global/images/itemicon/a0/a02194449b9efb177af0cfe2f083e273a5704f03.png?n6.05",
+                    "Name": "Coconut Cod Chowder",
+                    "Amount": 1,
+                    "Url": "/lodestone/playguide/db/item/ac97918bbd7/"
+                }
+            ],
+            "ItemsOpt": []
+        },
+        "Infos": {
+            "PrerequisiteQuest": [
+                {
+                    "Name": "A Pact Proven",
+                    "Url": "/lodestone/playguide/db/quest/bf1bee2dbf1/",
+                    "Area": "Gridania",
+                    "Level": "88"
+                }
+            ],
+            "FollowupQuest": [
+                {
+                    "Name": "A Path Unveiled",
+                    "Url": "/lodestone/playguide/db/quest/d09cc433b19/",
+                    "Area": "Gridania",
+                    "Level": "90"
+                }
+            ],
+            "RelatedNPC": [
+                {
+                    "Name": "Kan-E-Senna",
+                    "Url": "/lodestone/playguide/db/npc/npc/537f7370148/",
+                    "Area": "Central Shroud (X:28.2 Y:18.0)"
+                },
+                {
+                    "Name": "Kan-E-Senna",
+                    "Url": "/lodestone/playguide/db/npc/npc/47eb7853364/",
+                    "Area": "Central Shroud (X:15.2 Y:24.9)"
+                },
+                {
+                    "Name": "Keeper Of The Entwined Serpents",
+                    "Url": "/lodestone/playguide/db/npc/npc/db5f13f4fd1/",
+                    "Area": "Central Shroud (X:28.1 Y:18.0)"
+                },
+                {
+                    "Name": "Keeper Of The Entwined Serpents",
+                    "Url": "/lodestone/playguide/db/npc/npc/7ffacbd27fb/",
+                    "Area": "Central Shroud (X:15.2 Y:24.9)"
+                },
+                {
+                    "Name": "Kan-E-Senna",
+                    "Url": "/lodestone/playguide/db/npc/npc/46aa3817de2/",
+                    "Area": "North Shroud (X:27.9 Y:19.5)"
+                },
+                {
+                    "Name": "Keeper Of The Entwined Serpents",
+                    "Url": "/lodestone/playguide/db/npc/npc/bec142ef92a/",
+                    "Area": "North Shroud (X:27.9 Y:19.5)"
+                },
+                {
+                    "Name": "Kan-E-Senna",
+                    "Url": "/lodestone/playguide/db/npc/npc/0c51195a3a7/",
+                    "Area": "South Shroud (X:26.4 Y:19.3)"
+                },
+                {
+                    "Name": "Keeper Of The Entwined Serpents",
+                    "Url": "/lodestone/playguide/db/npc/npc/72d568fc713/",
+                    "Area": "South Shroud (X:26.4 Y:19.3)"
+                }
+            ]
+        },
+        "Seq": 30,
+        "StartDependency": false
+    },
+    {
+        "ID": "8a865e0ad9f",
+        "Name": "The Crushing Tide",
+        "Location": "Limsa Lominsa",
+        "Level": 86,
+        "JournalSection": 6,
+        "JournalCategory": 72,
+        "JournalGenre": "\n\t\t\t\t\t\t\tMelee DPS Role Quests (Endwalker)\n\t\t\t\t\t\t",
+        "Url": "/lodestone/playguide/db/quest/8a865e0ad9f/",
+        "Image": "https://img.finalfantasyxiv.com/lds/pc/global/images/itemicon/9b/9b044926e32a0f9379816797464129e8a894e668.png?n6.05",
+        "Icon": "function_normal",
+        "Issuer": "Maelstrom Secretariat",
+        "StartLocation": {
+            "Name": "Limsa Lominsa Upper Decks",
+            "X": "12.6",
+            "Y": "12.5"
+        },
+        "StartClass": null,
+        "Job": "Melee DPS (excluding limited jobs)",
+        "Company": "Not specified",
+        "Requirement": "Not specified",
+        "Rewards": {
+            "Gil": 1000,
+            "Exp": 488400,
+            "ItemsMand": [],
+            "ItemsOpt": []
+        },
+        "Infos": {
+            "PrerequisiteQuest": [
+                {
+                    "Name": "Storm Clouds Brewing",
+                    "Url": "/lodestone/playguide/db/quest/d74a8ec20c9/",
+                    "Area": "Radz-at-Han",
+                    "Level": "85"
+                }
+            ],
+            "FollowupQuest": [
+                {
+                    "Name": "Old Heroes Never Die",
+                    "Url": "/lodestone/playguide/db/quest/da392242377/",
+                    "Area": "Limsa Lominsa",
+                    "Level": "87"
+                }
+            ],
+            "RelatedNPC": [
+                {
+                    "Name": "Merlwyb",
+                    "Url": "/lodestone/playguide/db/npc/npc/993b07624cb/",
+                    "Area": "Limsa Lominsa Upper Decks (X:12.5 Y:12.5)"
+                },
+                {
+                    "Name": "Belligerent Sahagin",
+                    "Url": "/lodestone/playguide/db/npc/npc/0cb2eaf0a01/",
+                    "Area": "Western La Noscea (X:17.3 Y:20.3)"
+                },
+                {
+                    "Name": "Doww",
+                    "Url": "/lodestone/playguide/db/npc/npc/66f614513b8/",
+                    "Area": "Western La Noscea (X:17.0 Y:16.9)"
+                },
+                {
+                    "Name": "Merlwyb",
+                    "Url": "/lodestone/playguide/db/npc/npc/2b490da82f2/",
+                    "Area": "Western La Noscea (X:20.0 Y:22.6)"
+                },
+                {
+                    "Name": "Merlwyb",
+                    "Url": "/lodestone/playguide/db/npc/npc/ca77681a580/",
+                    "Area": "Western La Noscea (X:22.3 Y:23.4)"
+                },
+                {
+                    "Name": "Noll",
+                    "Url": "/lodestone/playguide/db/npc/npc/27fb4a136f8/",
+                    "Area": "Western La Noscea (X:19.8 Y:22.7)"
+                },
+                {
+                    "Name": "Noll",
+                    "Url": "/lodestone/playguide/db/npc/npc/bc78dd80132/",
+                    "Area": "Western La Noscea (X:22.3 Y:23.5)"
+                },
+                {
+                    "Name": "Sthalrhet",
+                    "Url": "/lodestone/playguide/db/npc/npc/b5bb030a026/",
+                    "Area": "Western La Noscea (X:19.5 Y:22.8)"
+                },
+                {
+                    "Name": "Stoic Sahagin",
+                    "Url": "/lodestone/playguide/db/npc/npc/daaa25e81c6/",
+                    "Area": "Western La Noscea (X:17.0 Y:19.4)"
+                }
+            ]
+        },
+        "Seq": 39,
+        "StartDependency": false
+    },
+    {
+        "ID": "8a95243a602",
+        "Name": "The Soul of Temperance",
+        "Location": "Kholusia",
+        "Level": 80,
+        "JournalSection": 6,
+        "JournalCategory": 72,
+        "JournalGenre": "\n\t\t\t\t\t\t\tHealer Role Quests (Shadowbringers)\n\t\t\t\t\t\t",
+        "Url": "/lodestone/playguide/db/quest/8a95243a602/",
+        "Image": "https://img.finalfantasyxiv.com/lds/pc/global/images/itemicon/b4/b4cc4be92787c66fc5723a90217143924571f8a2.png?n6.05",
+        "Icon": "function_normal",
+        "Issuer": "Giott",
+        "StartLocation": {
+            "Name": "Kholusia",
+            "X": "12.3",
+            "Y": "9.5"
+        },
+        "StartClass": null,
+        "Job": "Healer (excluding limited jobs)",
+        "Company": "Not specified",
+        "Requirement": "Not specified",
+        "Rewards": {
+            "Gil": 2830,
+            "Exp": 448800,
+            "ItemsMand": [
+                {
+                    "Icon": "https://img.finalfantasyxiv.com/lds/pc/global/images/itemicon/eb/eb584f7fe108c91fe738789576754bcfce3e48cb.png?n6.05",
+                    "Name": "Piety Materia VII",
+                    "Amount": 1,
+                    "Url": "/lodestone/playguide/db/item/c2be6ee80a9/"
+                },
+                {
+                    "Icon": "https://img.finalfantasyxiv.com/lds/pc/global/images/itemicon/01/01947a3034803440796fe4eb7c9dca412b782390.png?n6.05",
+                    "Name": "Savage Aim Materia VII",
+                    "Amount": 1,
+                    "Url": "/lodestone/playguide/db/item/ae193b74ae4/"
+                },
+                {
+                    "Icon": "https://img.finalfantasyxiv.com/lds/pc/global/images/itemicon/01/01947a3034803440796fe4eb7c9dca412b782390.png?n6.05",
+                    "Name": "Savage Might Materia VII",
+                    "Amount": 1,
+                    "Url": "/lodestone/playguide/db/item/a3870117f91/"
+                }
+            ],
+            "ItemsOpt": []
+        },
+        "Infos": {
+            "PrerequisiteQuest": [
+                {
+                    "Name": "Never to Return",
+                    "Url": "/lodestone/playguide/db/quest/0f29a82f228/",
+                    "Area": "The Crystarium",
+                    "Level": "78"
+                }
+            ],
+            "FollowupQuest": [
+                {
+                    "Name": "Whence the Healing Springs",
+                    "Url": "/lodestone/playguide/db/quest/6d203ae2dc1/",
+                    "Area": "South Shroud",
+                    "Level": "80"
+                },
+                {
+                    "Name": "True Beauty",
+                    "Url": "/lodestone/playguide/db/quest/ccb8fb7c3df/",
+                    "Area": "Limsa Lominsa",
+                    "Level": "80"
+                },
+                {
+                    "Name": "Love, Astrologically",
+                    "Url": "/lodestone/playguide/db/quest/eaf62f19314/",
+                    "Area": "Ishgard",
+                    "Level": "80"
+                },
+                {
+                    "Name": "Shadow Walk with Me",
+                    "Url": "/lodestone/playguide/db/quest/92799414083/",
+                    "Area": "The Crystarium",
+                    "Level": "80"
+                }
+            ],
+            "RelatedNPC": [
+                {
+                    "Name": "Giott",
+                    "Url": "/lodestone/playguide/db/npc/npc/5cbfb91db8e/",
+                    "Area": "Kholusia (X:12.4 Y:11.0)"
+                },
+                {
+                    "Name": "Giott",
+                    "Url": "/lodestone/playguide/db/npc/npc/8aea9f3cad0/",
+                    "Area": "Kholusia (X:8.4 Y:18.8)"
+                },
+                {
+                    "Name": "Giott",
+                    "Url": "/lodestone/playguide/db/npc/npc/7dd3fcb39b5/",
+                    "Area": "Kholusia (X:8.4 Y:18.8)"
+                },
+                {
+                    "Name": "Giott",
+                    "Url": "/lodestone/playguide/db/npc/npc/b84d132f66e/",
+                    "Area": "The Crystarium (X:10.7 Y:15.4)"
+                }
+            ],
+            "RelatedAchievements": [
+                {
+                    "Name": "Speaker for the Honorable",
+                    "Url": "/lodestone/playguide/db/achievement/040ae361536/",
+                    "Reward": "-",
+                    "Points": "5"
+                }
+            ]
+        },
+        "Seq": 11,
+        "StartDependency": false
+    },
+    {
+        "ID": "92799414083",
+        "Name": "Shadow Walk with Me",
+        "Location": "The Crystarium",
+        "Level": 80,
+        "JournalSection": 6,
+        "JournalCategory": 72,
+        "JournalGenre": "\n\t\t\t\t\t\t\tRole Quests\n\t\t\t\t\t\t",
+        "Url": "/lodestone/playguide/db/quest/92799414083/",
+        "Image": "https://img.finalfantasyxiv.com/lds/pc/global/images/itemicon/41/41085a2378d98d2dd98925225fd7d9b2a76ff85c.png?n6.05",
+        "Icon": "common_normal",
+        "Issuer": "Glynard",
+        "StartLocation": {
+            "Name": "The Crystarium",
+            "X": "10.8",
+            "Y": "15.3"
+        },
+        "StartClass": null,
+        "Job": "Any Disciple of War or Magic (excluding limited jobs)",
+        "Company": "Not specified",
+        "Requirement": "Not specified",
+        "Rewards": {
+            "Gil": 2579,
+            "Exp": 448800,
+            "ItemsMand": [],
+            "ItemsOpt": []
+        },
+        "Infos": {
+            "PrerequisiteQuest": [
+                {
+                    "Name": "Shadowbringers",
+                    "Url": "/lodestone/playguide/db/quest/4ed1668d377/",
+                    "Area": "The Tempest",
+                    "Level": "80"
+                },
+                {
+                    "Name": "To Have Loved and Lost",
+                    "Url": "/lodestone/playguide/db/quest/beb4c0a8e49/",
+                    "Area": "Il Mheg",
+                    "Level": "80"
+                },
+                {
+                    "Name": "The Soul of Temperance",
+                    "Url": "/lodestone/playguide/db/quest/8a95243a602/",
+                    "Area": "Kholusia",
+                    "Level": "80"
+                },
+                {
+                    "Name": "Courage Born of Fear",
+                    "Url": "/lodestone/playguide/db/quest/3a48c43814f/",
+                    "Area": "Kholusia",
+                    "Level": "80"
+                },
+                {
+                    "Name": "A Tearful Reunion",
+                    "Url": "/lodestone/playguide/db/quest/5fec56883e2/",
+                    "Area": "Amh Araeng",
+                    "Level": "80"
+                }
+            ],
+            "FollowupQuest": [
+                {
+                    "Name": "Safekeeping",
+                    "Url": "/lodestone/playguide/db/quest/6db8bc6f742/",
+                    "Area": "The Crystarium",
+                    "Level": "80"
+                }
+            ],
+            "RelatedNPC": [
+                {
+                    "Name": "Cyella",
+                    "Url": "/lodestone/playguide/db/npc/npc/f8e5bdbb560/",
+                    "Area": "Amh Araeng (X:28.2 Y:22.9)"
+                },
+                {
+                    "Name": "Cyella",
+                    "Url": "/lodestone/playguide/db/npc/npc/2bac0e0a353/",
+                    "Area": "Il Mheg (X:20.1 Y:16.4)"
+                },
+                {
+                    "Name": "Cyella",
+                    "Url": "/lodestone/playguide/db/npc/npc/38d4d8f8def/",
+                    "Area": "Kholusia (X:24.9 Y:25.1)"
+                },
+                {
+                    "Name": "Cyella",
+                    "Url": "/lodestone/playguide/db/npc/npc/d2e6b80ab4d/",
+                    "Area": "Kholusia (X:12.3 Y:9.5)"
+                },
+                {
+                    "Name": "Cyella",
+                    "Url": "/lodestone/playguide/db/npc/npc/f04839fb9a3/",
+                    "Area": "The Crystarium (X:11.7 Y:8.6)"
+                },
+                {
+                    "Name": "Cyella",
+                    "Url": "/lodestone/playguide/db/npc/npc/7f876f52e68/",
+                    "Area": "The Crystarium (X:10.7 Y:15.3)"
+                },
+                {
+                    "Name": "Cyella",
+                    "Url": "/lodestone/playguide/db/npc/npc/6986ac5ebba/",
+                    "Area": "The Rak'tika Greatwood (X:17.7 Y:33.6)"
+                }
+            ],
+            "RelatedAchievements": [
+                {
+                    "Name": "Tales to Be Told",
+                    "Url": "/lodestone/playguide/db/achievement/f6e35c1a44b/",
+                    "Reward": "Title",
+                    "Points": "10"
+                }
+            ]
+        },
+        "Seq": 24,
+        "StartDependency": false
+    },
+    {
+        "ID": "a14b9a0a8a1",
+        "Name": "Home No Longer",
+        "Location": "The Doman Enclave",
+        "Level": 87,
+        "JournalSection": 6,
+        "JournalCategory": 72,
+        "JournalGenre": "\n\t\t\t\t\t\t\tPhysical Ranged DPS Role Quests (Endwalker)\n\t\t\t\t\t\t",
+        "Url": "/lodestone/playguide/db/quest/a14b9a0a8a1/",
+        "Image": "https://img.finalfantasyxiv.com/lds/pc/global/images/itemicon/b7/b7ad6c3c4965aaa018a35c5b193c76b01bdeb6d2.png?n6.05",
+        "Icon": "function_normal",
+        "Issuer": "Yugiri",
+        "StartLocation": {
+            "Name": "The Doman Enclave",
+            "X": "6.5",
+            "Y": "6.9"
+        },
+        "StartClass": null,
+        "Job": "Physical Ranged DPS (excluding limited jobs)",
+        "Company": "Not specified",
+        "Requirement": "Not specified",
+        "Rewards": {
+            "Gil": 1000,
+            "Exp": 495000,
+            "ItemsMand": [],
+            "ItemsOpt": []
+        },
+        "Infos": {
+            "PrerequisiteQuest": [
+                {
+                    "Name": "When the Kami Answer",
+                    "Url": "/lodestone/playguide/db/quest/20e755c69c7/",
+                    "Area": "The Doman Enclave",
+                    "Level": "86"
+                }
+            ],
+            "FollowupQuest": [
+                {
+                    "Name": "The Devoted Daughter",
+                    "Url": "/lodestone/playguide/db/quest/b54137edf5e/",
+                    "Area": "The Doman Enclave",
+                    "Level": "88"
+                }
+            ],
+            "RelatedNPC": [
+                {
+                    "Name": "Hien",
+                    "Url": "/lodestone/playguide/db/npc/npc/dd9277cb9ad/",
+                    "Area": "The Doman Enclave (X:6.5 Y:6.9)"
+                },
+                {
+                    "Name": "Amiable Elder",
+                    "Url": "/lodestone/playguide/db/npc/npc/c7172bf4fd1/",
+                    "Area": "The Ruby Sea (X:21.8 Y:19.3)"
+                },
+                {
+                    "Name": "Cheerful Elder",
+                    "Url": "/lodestone/playguide/db/npc/npc/30df318dbe4/",
+                    "Area": "The Ruby Sea (X:20.7 Y:20.0)"
+                },
+                {
+                    "Name": "Ihanami",
+                    "Url": "/lodestone/playguide/db/npc/npc/06decb41ea6/",
+                    "Area": "The Ruby Sea (X:19.6 Y:18.8)"
+                },
+                {
+                    "Name": "Yugiri",
+                    "Url": "/lodestone/playguide/db/npc/npc/1ddda6f90f7/",
+                    "Area": "The Ruby Sea (X:25.5 Y:9.9)"
+                },
+                {
+                    "Name": "Yugiri",
+                    "Url": "/lodestone/playguide/db/npc/npc/042f5e83f4a/",
+                    "Area": "The Ruby Sea (X:25.5 Y:9.9)"
+                },
+                {
+                    "Name": "Yugiri",
+                    "Url": "/lodestone/playguide/db/npc/npc/17c0a43b5c6/",
+                    "Area": "The Ruby Sea (X:21.7 Y:18.3)"
+                },
+                {
+                    "Name": "Yunagi",
+                    "Url": "/lodestone/playguide/db/npc/npc/1eeda57d54f/",
+                    "Area": "The Ruby Sea (X:19.6 Y:18.8)"
+                }
+            ]
+        },
+        "Seq": 46,
+        "StartDependency": false
+    },
+    {
+        "ID": "a3b836469f1",
+        "Name": "Vengeance in Defeat",
+        "Location": "The Crystarium",
+        "Level": 72,
+        "JournalSection": 6,
+        "JournalCategory": 72,
+        "JournalGenre": "\n\t\t\t\t\t\t\tPhysical DPS Role Quests (Shadowbringers)\n\t\t\t\t\t\t",
+        "Url": "/lodestone/playguide/db/quest/a3b836469f1/",
+        "Image": "https://img.finalfantasyxiv.com/lds/pc/global/images/itemicon/56/5636454a1a70da9fa4653b67a466aab9422fe4cf.png?n6.05",
+        "Icon": "function_normal",
+        "Issuer": "Lue-Reeq",
+        "StartLocation": {
+            "Name": "The Crystarium",
+            "X": "10.8",
+            "Y": "15.9"
+        },
+        "StartClass": null,
+        "Job": "Physical DPS (excluding limited jobs)",
+        "Company": "Not specified",
+        "Requirement": "Not specified",
+        "Rewards": {
+            "Gil": 1416,
+            "Exp": 218880,
+            "ItemsMand": [],
+            "ItemsOpt": []
+        },
+        "Infos": {
+            "PrerequisiteQuest": [
+                {
+                    "Name": "No Greater Sport",
+                    "Url": "/lodestone/playguide/db/quest/6f56c687f85/",
+                    "Area": "The Crystarium",
+                    "Level": "70"
+                }
+            ],
+            "FollowupQuest": [
+                {
+                    "Name": "Freedom from Privilege",
+                    "Url": "/lodestone/playguide/db/quest/7a91cda57d9/",
+                    "Area": "The Crystarium",
+                    "Level": "74"
+                }
+            ],
+            "RelatedNPC": [
+                {
+                    "Name": "Lue-Reeq",
+                    "Url": "/lodestone/playguide/db/npc/npc/79e82ee6ff7/",
+                    "Area": "Amh Araeng (X:30.8 Y:15.7)"
+                }
+            ]
+        },
+        "Seq": 13,
+        "StartDependency": false
+    },
+    {
+        "ID": "ae0ed578fab",
+        "Name": "Hollow Pursuits",
+        "Location": "The Crystarium",
+        "Level": 70,
+        "JournalSection": 6,
+        "JournalCategory": 72,
+        "JournalGenre": "\n\t\t\t\t\t\t\tMagical Ranged DPS Role Quests (Shadowbringers)\n\t\t\t\t\t\t",
+        "Url": "/lodestone/playguide/db/quest/ae0ed578fab/",
+        "Image": "https://img.finalfantasyxiv.com/lds/pc/global/images/itemicon/1a/1a4d6c24cbb2cf539c23b0c88808745ea3209094.png?n6.05",
+        "Icon": "function_normal",
+        "Issuer": "Cerigg",
+        "StartLocation": {
+            "Name": "The Crystarium",
+            "X": "11.2",
+            "Y": "15.2"
+        },
+        "StartClass": null,
+        "Job": "Magical Ranged DPS (excluding limited jobs)",
+        "Company": "Not specified",
+        "Requirement": "Not specified",
+        "Rewards": {
+            "Gil": 1020,
+            "Exp": 216000,
+            "ItemsMand": [],
+            "ItemsOpt": []
+        },
+        "Infos": {
+            "PrerequisiteQuest": [
+                {
+                    "Name": "Warrior of Darkness",
+                    "Url": "/lodestone/playguide/db/quest/0b1c0f7a203/",
+                    "Area": "Lakeland",
+                    "Level": "71"
+                }
+            ],
+            "FollowupQuest": [
+                {
+                    "Name": "A Voice from the Void",
+                    "Url": "/lodestone/playguide/db/quest/7cc241034bd/",
+                    "Area": "Amh Araeng",
+                    "Level": "72"
+                }
+            ],
+            "RelatedNPC": [
+                {
+                    "Name": "Cerigg",
+                    "Url": "/lodestone/playguide/db/npc/npc/e702556fea4/",
+                    "Area": "Amh Araeng (X:34.7 Y:8.6)"
+                },
+                {
+                    "Name": "Cerigg",
+                    "Url": "/lodestone/playguide/db/npc/npc/49e44ea5f93/",
+                    "Area": "Amh Araeng (X:31.4 Y:8.5)"
+                },
+                {
+                    "Name": "Cerigg",
+                    "Url": "/lodestone/playguide/db/npc/npc/929377b8c92/",
+                    "Area": "Amh Araeng (X:25.8 Y:16.4)"
+                }
+            ]
+        },
+        "Seq": 18,
+        "StartDependency": false
+    },
+    {
+        "ID": "b54137edf5e",
+        "Name": "The Devoted Daughter",
+        "Location": "The Doman Enclave",
+        "Level": 88,
+        "JournalSection": 6,
+        "JournalCategory": 72,
+        "JournalGenre": "\n\t\t\t\t\t\t\tPhysical Ranged DPS Role Quests (Endwalker)\n\t\t\t\t\t\t",
+        "Url": "/lodestone/playguide/db/quest/b54137edf5e/",
+        "Image": "https://img.finalfantasyxiv.com/lds/pc/global/images/itemicon/b7/b7ad6c3c4965aaa018a35c5b193c76b01bdeb6d2.png?n6.05",
+        "Icon": "function_normal",
+        "Issuer": "Yugiri",
+        "StartLocation": {
+            "Name": "The Doman Enclave",
+            "X": "6.5",
+            "Y": "6.9"
+        },
+        "StartClass": null,
+        "Job": "Physical Ranged DPS (excluding limited jobs)",
+        "Company": "Not specified",
+        "Requirement": "Not specified",
+        "Rewards": {
+            "Gil": 1000,
+            "Exp": 501600,
+            "ItemsMand": [],
+            "ItemsOpt": []
+        },
+        "Infos": {
+            "PrerequisiteQuest": [
+                {
+                    "Name": "Home No Longer",
+                    "Url": "/lodestone/playguide/db/quest/a14b9a0a8a1/",
+                    "Area": "The Doman Enclave",
+                    "Level": "87"
+                }
+            ],
+            "FollowupQuest": [
+                {
+                    "Name": "A Singular Gift",
+                    "Url": "/lodestone/playguide/db/quest/3f1d070dfe8/",
+                    "Area": "The Doman Enclave",
+                    "Level": "89"
+                }
+            ],
+            "RelatedNPC": [
+                {
+                    "Name": "Hien",
+                    "Url": "/lodestone/playguide/db/npc/npc/dd9277cb9ad/",
+                    "Area": "The Doman Enclave (X:6.5 Y:6.9)"
+                },
+                {
+                    "Name": "Hien",
+                    "Url": "/lodestone/playguide/db/npc/npc/48e8aa0a6c1/",
+                    "Area": "The Ruby Sea (X:29.9 Y:7.7)"
+                },
+                {
+                    "Name": "Hien",
+                    "Url": "/lodestone/playguide/db/npc/npc/4d0d7f08f88/",
+                    "Area": "The Ruby Sea (X:32.8 Y:11.1)"
+                },
+                {
+                    "Name": "Rasho",
+                    "Url": "/lodestone/playguide/db/npc/npc/2298dadaf1f/",
+                    "Area": "The Ruby Sea (X:23.0 Y:8.0)"
+                },
+                {
+                    "Name": "Tansui",
+                    "Url": "/lodestone/playguide/db/npc/npc/804e9919817/",
+                    "Area": "The Ruby Sea (X:23.0 Y:8.0)"
+                },
+                {
+                    "Name": "Yugiri",
+                    "Url": "/lodestone/playguide/db/npc/npc/008fb421cf2/",
+                    "Area": "The Ruby Sea (X:29.9 Y:7.7)"
+                },
+                {
+                    "Name": "Yugiri",
+                    "Url": "/lodestone/playguide/db/npc/npc/2c8570698a0/",
+                    "Area": "The Ruby Sea (X:32.9 Y:11.1)"
+                }
+            ]
+        },
+        "Seq": 47,
+        "StartDependency": false
+    },
+    {
+        "ID": "baead0a5b97",
+        "Name": "Laid to Rest",
+        "Location": "The Doman Enclave",
+        "Level": 90,
+        "JournalSection": 6,
+        "JournalCategory": 72,
+        "JournalGenre": "\n\t\t\t\t\t\t\tPhysical Ranged DPS Role Quests (Endwalker)\n\t\t\t\t\t\t",
+        "Url": "/lodestone/playguide/db/quest/baead0a5b97/",
+        "Image": "https://img.finalfantasyxiv.com/lds/pc/global/images/itemicon/b7/b7ad6c3c4965aaa018a35c5b193c76b01bdeb6d2.png?n6.05",
+        "Icon": "function_normal",
+        "Issuer": "Yugiri",
+        "StartLocation": {
+            "Name": "The Doman Enclave",
+            "X": "6.5",
+            "Y": "6.9"
+        },
+        "StartClass": null,
+        "Job": "Physical Ranged DPS (excluding limited jobs)",
+        "Company": "Not specified",
+        "Requirement": "Not specified",
+        "Rewards": {
+            "Gil": 2000,
+            "Exp": 0,
+            "ItemsMand": [
+                {
+                    "Icon": "https://img.finalfantasyxiv.com/lds/pc/global/images/itemicon/42/42b918da5506c319185d6977ea8c5774d4665174.png?n6.05",
+                    "Name": "Savage Aim Materia IX",
+                    "Amount": 2,
+                    "Url": "/lodestone/playguide/db/item/fb86de99514/"
+                },
+                {
+                    "Icon": "https://img.finalfantasyxiv.com/lds/pc/global/images/itemicon/42/42b918da5506c319185d6977ea8c5774d4665174.png?n6.05",
+                    "Name": "Savage Might Materia IX",
+                    "Amount": 2,
+                    "Url": "/lodestone/playguide/db/item/86ae2ca0af4/"
+                },
+                {
+                    "Icon": "https://img.finalfantasyxiv.com/lds/pc/global/images/itemicon/42/42b918da5506c319185d6977ea8c5774d4665174.png?n6.05",
+                    "Name": "Heavens' Eye Materia IX",
+                    "Amount": 2,
+                    "Url": "/lodestone/playguide/db/item/6c33b180bfb/"
+                }
+            ],
+            "ItemsOpt": []
+        },
+        "Infos": {
+            "PrerequisiteQuest": [
+                {
+                    "Name": "A Singular Gift",
+                    "Url": "/lodestone/playguide/db/quest/3f1d070dfe8/",
+                    "Area": "The Doman Enclave",
+                    "Level": "89"
+                }
+            ],
+            "RelatedNPC": [
+                {
+                    "Name": "Gosetsu",
+                    "Url": "/lodestone/playguide/db/npc/npc/80019b7747c/",
+                    "Area": "The Doman Enclave (X:6.5 Y:6.9)"
+                },
+                {
+                    "Name": "Hien",
+                    "Url": "/lodestone/playguide/db/npc/npc/dd9277cb9ad/",
+                    "Area": "The Doman Enclave (X:6.5 Y:6.9)"
+                },
+                {
+                    "Name": "Gosetsu",
+                    "Url": "/lodestone/playguide/db/npc/npc/d791f63cc8b/",
+                    "Area": "Yanxia (X:12.4 Y:27.6)"
+                },
+                {
+                    "Name": "Hien",
+                    "Url": "/lodestone/playguide/db/npc/npc/bb3e0ab26a1/",
+                    "Area": "Yanxia (X:12.4 Y:27.5)"
+                },
+                {
+                    "Name": "Yugiri",
+                    "Url": "/lodestone/playguide/db/npc/npc/8bb10480d10/",
+                    "Area": "Yanxia (X:12.4 Y:27.5)"
+                },
+                {
+                    "Name": "Doman Delegate",
+                    "Url": "/lodestone/playguide/db/npc/npc/afeabb55c54/",
+                    "Area": "Radz-at-Han (X:7.6 Y:9.4)"
+                }
+            ],
+            "RelatedAchievements": [
+                {
+                    "Name": "More than Loneliness",
+                    "Url": "/lodestone/playguide/db/achievement/5db315c28e6/",
+                    "Reward": "-",
+                    "Points": "5"
+                }
+            ]
+        },
+        "Seq": 49,
+        "StartDependency": false
+    },
+    {
+        "ID": "bd2fc7af450",
+        "Name": "O Mighty Fury, Guide Us to Victory",
+        "Location": "Ishgard",
+        "Level": 89,
+        "JournalSection": 6,
+        "JournalCategory": 72,
+        "JournalGenre": "\n\t\t\t\t\t\t\tMagical Ranged DPS Role Quests (Endwalker)\n\t\t\t\t\t\t",
+        "Url": "/lodestone/playguide/db/quest/bd2fc7af450/",
+        "Image": "https://img.finalfantasyxiv.com/lds/pc/global/images/itemicon/4c/4c49c22f7bdd2fa9a63fcc57a97e13ab0bbadb46.png?n6.05",
+        "Icon": "function_normal",
+        "Issuer": "Artoirel",
+        "StartLocation": {
+            "Name": "Strategy Room",
+            "X": "6.1",
+            "Y": "5.9"
+        },
+        "StartClass": null,
+        "Job": "Magical Ranged DPS (excluding limited jobs)",
+        "Company": "Not specified",
+        "Requirement": "Not specified",
+        "Rewards": {
+            "Gil": 1000,
+            "Exp": 508200,
+            "ItemsMand": [
+                {
+                    "Icon": "https://img.finalfantasyxiv.com/lds/pc/global/images/itemicon/a0/a02194449b9efb177af0cfe2f083e273a5704f03.png?n6.05",
+                    "Name": "Coconut Cod Chowder",
+                    "Amount": 1,
+                    "Url": "/lodestone/playguide/db/item/ac97918bbd7/"
+                }
+            ],
+            "ItemsOpt": []
+        },
+        "Infos": {
+            "PrerequisiteQuest": [
+                {
+                    "Name": "Wills Unending, Faith Unbending",
+                    "Url": "/lodestone/playguide/db/quest/09caf4c208c/",
+                    "Area": "Ishgard",
+                    "Level": "88"
+                }
+            ],
+            "FollowupQuest": [
+                {
+                    "Name": "Ever March Heavensward",
+                    "Url": "/lodestone/playguide/db/quest/589bf21f55a/",
+                    "Area": "Ishgard",
+                    "Level": "90"
+                }
+            ],
+            "RelatedNPC": [
+                {
+                    "Name": "Temple Knight Guard",
+                    "Url": "/lodestone/playguide/db/npc/npc/340b2c2824b/",
+                    "Area": "Foundation (X:13.5 Y:11.0)"
+                },
+                {
+                    "Name": "Aymeric",
+                    "Url": "/lodestone/playguide/db/npc/npc/13735002538/",
+                    "Area": "Strategy Room (X:6.1 Y:5.9)"
+                },
+                {
+                    "Name": "Clem",
+                    "Url": "/lodestone/playguide/db/npc/npc/4410e8e72f1/",
+                    "Area": "Strategy Room (X:6.0 Y:6.0)"
+                },
+                {
+                    "Name": "Aymeric",
+                    "Url": "/lodestone/playguide/db/npc/npc/5c362c56f9d/",
+                    "Area": "The Pillars (X:11.4 Y:12.2)"
+                },
+                {
+                    "Name": "Clem",
+                    "Url": "/lodestone/playguide/db/npc/npc/57dc693803a/",
+                    "Area": "The Pillars (X:11.2 Y:7.4)"
+                }
+            ]
+        },
+        "Seq": 54,
+        "StartDependency": false
+    },
+    {
+        "ID": "beb4c0a8e49",
+        "Name": "To Have Loved and Lost",
+        "Location": "Il Mheg",
+        "Level": 80,
+        "JournalSection": 6,
+        "JournalCategory": 72,
+        "JournalGenre": "\n\t\t\t\t\t\t\tTank Role Quests (Shadowbringers)\n\t\t\t\t\t\t",
+        "Url": "/lodestone/playguide/db/quest/beb4c0a8e49/",
+        "Image": "https://img.finalfantasyxiv.com/lds/pc/global/images/itemicon/76/761096945269a95c83d96b9c301fa71c2354d06f.png?n6.05",
+        "Icon": "function_normal",
+        "Issuer": "Sul Oul",
+        "StartLocation": {
+            "Name": "Il Mheg",
+            "X": "22.7",
+            "Y": "4.0"
+        },
+        "StartClass": null,
+        "Job": "Tank (excluding limited jobs)",
+        "Company": "Not specified",
+        "Requirement": "Not specified",
+        "Rewards": {
+            "Gil": 2789,
+            "Exp": 448800,
+            "ItemsMand": [
+                {
+                    "Icon": "https://img.finalfantasyxiv.com/lds/pc/global/images/itemicon/eb/eb584f7fe108c91fe738789576754bcfce3e48cb.png?n6.05",
+                    "Name": "Battledance Materia VII",
+                    "Amount": 1,
+                    "Url": "/lodestone/playguide/db/item/d45e4b5e3ef/"
+                },
+                {
+                    "Icon": "https://img.finalfantasyxiv.com/lds/pc/global/images/itemicon/01/01947a3034803440796fe4eb7c9dca412b782390.png?n6.05",
+                    "Name": "Savage Aim Materia VII",
+                    "Amount": 1,
+                    "Url": "/lodestone/playguide/db/item/ae193b74ae4/"
+                },
+                {
+                    "Icon": "https://img.finalfantasyxiv.com/lds/pc/global/images/itemicon/01/01947a3034803440796fe4eb7c9dca412b782390.png?n6.05",
+                    "Name": "Savage Might Materia VII",
+                    "Amount": 1,
+                    "Url": "/lodestone/playguide/db/item/a3870117f91/"
+                }
+            ],
+            "ItemsOpt": []
+        },
+        "Infos": {
+            "PrerequisiteQuest": [
+                {
+                    "Name": "The Hardened Heart",
+                    "Url": "/lodestone/playguide/db/quest/20556aacbce/",
+                    "Area": "Il Mheg",
+                    "Level": "78"
+                }
+            ],
+            "FollowupQuest": [
+                {
+                    "Name": "Worth Fighting For",
+                    "Url": "/lodestone/playguide/db/quest/6f14cc586bf/",
+                    "Area": "Ul'dah",
+                    "Level": "80"
+                },
+                {
+                    "Name": "Once, Twice, Three Times a Warrior",
+                    "Url": "/lodestone/playguide/db/quest/82a4b46bd96/",
+                    "Area": "Eastern La Noscea",
+                    "Level": "80"
+                },
+                {
+                    "Name": "Our Closure",
+                    "Url": "/lodestone/playguide/db/quest/c837ccfc379/",
+                    "Area": "Ishgard",
+                    "Level": "80"
+                },
+                {
+                    "Name": "Gunblades of the Patriots",
+                    "Url": "/lodestone/playguide/db/quest/9959f9e9aea/",
+                    "Area": "Mor Dhona",
+                    "Level": "80"
+                },
+                {
+                    "Name": "Shadow Walk with Me",
+                    "Url": "/lodestone/playguide/db/quest/92799414083/",
+                    "Area": "The Crystarium",
+                    "Level": "80"
+                }
+            ],
+            "RelatedNPC": [
+                {
+                    "Name": "Granson",
+                    "Url": "/lodestone/playguide/db/npc/npc/dbabe583103/",
+                    "Area": "Il Mheg (X:22.6 Y:4.0)"
+                },
+                {
+                    "Name": "Granson",
+                    "Url": "/lodestone/playguide/db/npc/npc/a8c77899d2a/",
+                    "Area": "Il Mheg (X:4.9 Y:20.4)"
+                },
+                {
+                    "Name": "Granson",
+                    "Url": "/lodestone/playguide/db/npc/npc/fd2c49be49f/",
+                    "Area": "The Crystarium (X:10.5 Y:16.2)"
+                }
+            ],
+            "RelatedAchievements": [
+                {
+                    "Name": "Speaker for the Righteous",
+                    "Url": "/lodestone/playguide/db/achievement/ef86a331c19/",
+                    "Reward": "-",
+                    "Points": "5"
+                }
+            ]
+        },
+        "Seq": 5,
+        "StartDependency": false
+    },
+    {
+        "ID": "bf1bee2dbf1",
+        "Name": "A Pact Proven",
+        "Location": "Gridania",
+        "Level": 88,
+        "JournalSection": 6,
+        "JournalCategory": 72,
+        "JournalGenre": "\n\t\t\t\t\t\t\tTank Role Quests (Endwalker)\n\t\t\t\t\t\t",
+        "Url": "/lodestone/playguide/db/quest/bf1bee2dbf1/",
+        "Image": "https://img.finalfantasyxiv.com/lds/pc/global/images/itemicon/aa/aaabcd282cadb57f6529c83bf246923e2042c33e.png?n6.05",
+        "Icon": "function_normal",
+        "Issuer": "Keeper Of The Entwined Serpents",
+        "StartLocation": {
+            "Name": "New Gridania",
+            "X": "9.8",
+            "Y": "11.3"
+        },
+        "StartClass": null,
+        "Job": "Tank (excluding limited jobs)",
+        "Company": "Not specified",
+        "Requirement": "Not specified",
+        "Rewards": {
+            "Gil": 1000,
+            "Exp": 501600,
+            "ItemsMand": [],
+            "ItemsOpt": []
+        },
+        "Infos": {
+            "PrerequisiteQuest": [
+                {
+                    "Name": "A Gift Undone",
+                    "Url": "/lodestone/playguide/db/quest/6289dd9d57d/",
+                    "Area": "Gridania",
+                    "Level": "87"
+                }
+            ],
+            "FollowupQuest": [
+                {
+                    "Name": "Hearts True",
+                    "Url": "/lodestone/playguide/db/quest/88a3096287d/",
+                    "Area": "Gridania",
+                    "Level": "89"
+                }
+            ],
+            "RelatedNPC": [
+                {
+                    "Name": "Pukwa Pika",
+                    "Url": "/lodestone/playguide/db/npc/npc/ca694fc6978/",
+                    "Area": "East Shroud (X:15.3 Y:20.4)"
+                },
+                {
+                    "Name": "Pukwa Pika",
+                    "Url": "/lodestone/playguide/db/npc/npc/71b41747143/",
+                    "Area": "East Shroud (X:17.0 Y:22.7)"
+                },
+                {
+                    "Name": "Pukwa Pika",
+                    "Url": "/lodestone/playguide/db/npc/npc/57b16e5fa49/",
+                    "Area": "East Shroud (X:19.0 Y:25.1)"
+                },
+                {
+                    "Name": "Whiskerwall Kupdi Koop",
+                    "Url": "/lodestone/playguide/db/npc/npc/054367d94f7/",
+                    "Area": "East Shroud (X:15.3 Y:20.4)"
+                },
+                {
+                    "Name": "E-Sumi-Yan",
+                    "Url": "/lodestone/playguide/db/npc/npc/208d50d33b5/",
+                    "Area": "Old Gridania (X:6.0 Y:10.6)"
+                },
+                {
+                    "Name": "Keeper Of The Entwined Serpents",
+                    "Url": "/lodestone/playguide/db/npc/npc/c3280df1546/",
+                    "Area": "Old Gridania (X:6.5 Y:11.2)"
+                }
+            ]
+        },
+        "Seq": 29,
+        "StartDependency": false
+    },
+    {
+        "ID": "ca037f6df72",
+        "Name": "Shrouded in Peril",
+        "Location": "Radz-at-Han",
+        "Level": 85,
+        "JournalSection": 6,
+        "JournalCategory": 72,
+        "JournalGenre": "\n\t\t\t\t\t\t\tTank Role Quests (Endwalker)\n\t\t\t\t\t\t",
+        "Url": "/lodestone/playguide/db/quest/ca037f6df72/",
+        "Image": "https://img.finalfantasyxiv.com/lds/pc/global/images/itemicon/aa/aaabcd282cadb57f6529c83bf246923e2042c33e.png?n6.05",
+        "Icon": "function_normal",
+        "Issuer": "Gridanian Delegate",
+        "StartLocation": {
+            "Name": "Radz-at-Han",
+            "X": "7.6",
+            "Y": "9.7"
+        },
+        "StartClass": null,
+        "Job": "Tank (excluding limited jobs)",
+        "Company": "Not specified",
+        "Requirement": "Not specified",
+        "Rewards": {
+            "Gil": 1000,
+            "Exp": 481800,
+            "ItemsMand": [],
+            "ItemsOpt": []
+        },
+        "Infos": {
+            "PrerequisiteQuest": [
+                {
+                    "Name": "At World's End",
+                    "Url": "/lodestone/playguide/db/quest/1e3c991b458/",
+                    "Area": "Radz-at-Han",
+                    "Level": "85"
+                }
+            ],
+            "FollowupQuest": [
+                {
+                    "Name": "To Give Voice",
+                    "Url": "/lodestone/playguide/db/quest/e3cf74578d5/",
+                    "Area": "Gridania",
+                    "Level": "86"
+                }
+            ],
+            "RelatedNPC": [
+                {
+                    "Name": "Blasphemy Huntmaster",
+                    "Url": "/lodestone/playguide/db/npc/npc/4121e040cdf/",
+                    "Area": "New Gridania (X:9.8 Y:11.3)"
+                },
+                {
+                    "Name": "Keeper Of The Entwined Serpents",
+                    "Url": "/lodestone/playguide/db/npc/npc/37886e5201a/",
+                    "Area": "New Gridania (X:9.8 Y:11.3)"
+                },
+                {
+                    "Name": "Aethelmaer",
+                    "Url": "/lodestone/playguide/db/npc/npc/64aeedaf25e/",
+                    "Area": "North Shroud (X:19.6 Y:25.3)"
+                },
+                {
+                    "Name": "Afflicted Man",
+                    "Url": "/lodestone/playguide/db/npc/npc/a7f4f707b2f/",
+                    "Area": "North Shroud (X:20.5 Y:24.9)"
+                },
+                {
+                    "Name": "Borlent",
+                    "Url": "/lodestone/playguide/db/npc/npc/505cb4d72e3/",
+                    "Area": "North Shroud (X:22.5 Y:26.1)"
+                },
+                {
+                    "Name": "Fallgourd Hearer",
+                    "Url": "/lodestone/playguide/db/npc/npc/4b824931d01/",
+                    "Area": "North Shroud (X:20.6 Y:24.9)"
+                },
+                {
+                    "Name": "Hyrstmill Merchant",
+                    "Url": "/lodestone/playguide/db/npc/npc/49ac58f0567/",
+                    "Area": "North Shroud (X:25.5 Y:24.9)"
+                },
+                {
+                    "Name": "Kan-E-Senna",
+                    "Url": "/lodestone/playguide/db/npc/npc/3173e1a2dc1/",
+                    "Area": "North Shroud (X:19.6 Y:25.4)"
+                },
+                {
+                    "Name": "Kan-E-Senna",
+                    "Url": "/lodestone/playguide/db/npc/npc/65c0af7764f/",
+                    "Area": "North Shroud (X:20.6 Y:24.9)"
+                },
+                {
+                    "Name": "Keeper Of The Entwined Serpents",
+                    "Url": "/lodestone/playguide/db/npc/npc/be90b42d193/",
+                    "Area": "North Shroud (X:19.6 Y:25.4)"
+                },
+                {
+                    "Name": "Keeper Of The Entwined Serpents",
+                    "Url": "/lodestone/playguide/db/npc/npc/60c3c0f6a47/",
+                    "Area": "North Shroud (X:20.6 Y:24.9)"
+                },
+                {
+                    "Name": "Keeper Of The Entwined Serpents",
+                    "Url": "/lodestone/playguide/db/npc/npc/20c3507fbd1/",
+                    "Area": "North Shroud (X:22.5 Y:26.2)"
+                },
+                {
+                    "Name": "Keeper Of The Entwined Serpents",
+                    "Url": "/lodestone/playguide/db/npc/npc/167f9d2d8da/",
+                    "Area": "North Shroud (X:24.1 Y:25.7)"
+                },
+                {
+                    "Name": "Panicky Man",
+                    "Url": "/lodestone/playguide/db/npc/npc/c091c19cc99/",
+                    "Area": "North Shroud (X:22.5 Y:26.1)"
+                }
+            ]
+        },
+        "Seq": 26,
+        "StartDependency": false
+    },
+    {
+        "ID": "ca158765b8f",
+        "Name": "No Forgiveness, No Deliverance",
+        "Location": "Ishgard",
+        "Level": 86,
+        "JournalSection": 6,
+        "JournalCategory": 72,
+        "JournalGenre": "\n\t\t\t\t\t\t\tMagical Ranged DPS Role Quests (Endwalker)\n\t\t\t\t\t\t",
+        "Url": "/lodestone/playguide/db/quest/ca158765b8f/",
+        "Image": "https://img.finalfantasyxiv.com/lds/pc/global/images/itemicon/4c/4c49c22f7bdd2fa9a63fcc57a97e13ab0bbadb46.png?n6.05",
+        "Icon": "function_normal",
+        "Issuer": "Artoirel",
+        "StartLocation": {
+            "Name": "Strategy Room",
+            "X": "6.1",
+            "Y": "5.9"
+        },
+        "StartClass": null,
+        "Job": "Magical Ranged DPS (excluding limited jobs)",
+        "Company": "Not specified",
+        "Requirement": "Not specified",
+        "Rewards": {
+            "Gil": 1000,
+            "Exp": 488400,
+            "ItemsMand": [],
+            "ItemsOpt": []
+        },
+        "Infos": {
+            "PrerequisiteQuest": [
+                {
+                    "Name": "Our Aching Souls",
+                    "Url": "/lodestone/playguide/db/quest/01fc92ea7ec/",
+                    "Area": "Radz-at-Han",
+                    "Level": "85"
+                }
+            ],
+            "FollowupQuest": [
+                {
+                    "Name": "Only Justice, Only Vengeance",
+                    "Url": "/lodestone/playguide/db/quest/67dd512d8b8/",
+                    "Area": "Ishgard",
+                    "Level": "87"
+                }
+            ],
+            "RelatedNPC": [
+                {
+                    "Name": "Aymeric",
+                    "Url": "/lodestone/playguide/db/npc/npc/ccc6d51366e/",
+                    "Area": "Foundation (X:14.0 Y:12.4)"
+                },
+                {
+                    "Name": "Temple Knight Guard",
+                    "Url": "/lodestone/playguide/db/npc/npc/340b2c2824b/",
+                    "Area": "Foundation (X:13.5 Y:11.0)"
+                },
+                {
+                    "Name": "Aymeric",
+                    "Url": "/lodestone/playguide/db/npc/npc/13735002538/",
+                    "Area": "Strategy Room (X:6.1 Y:5.9)"
+                },
+                {
+                    "Name": "Artoirel",
+                    "Url": "/lodestone/playguide/db/npc/npc/e3b3f21240b/",
+                    "Area": "The Pillars (X:12.6 Y:10.3)"
+                },
+                {
+                    "Name": "Aymeric",
+                    "Url": "/lodestone/playguide/db/npc/npc/9c882a14701/",
+                    "Area": "The Pillars (X:12.6 Y:10.4)"
+                },
+                {
+                    "Name": "Sociable Citizen",
+                    "Url": "/lodestone/playguide/db/npc/npc/3ede68256fa/",
+                    "Area": "The Pillars (X:11.4 Y:10.6)"
+                },
+                {
+                    "Name": "Spirited Citizen",
+                    "Url": "/lodestone/playguide/db/npc/npc/a43113940c9/",
+                    "Area": "The Pillars (X:11.0 Y:7.8)"
+                },
+                {
+                    "Name": "Staid Citizen",
+                    "Url": "/lodestone/playguide/db/npc/npc/b83e4ed8ecd/",
+                    "Area": "The Pillars (X:12.2 Y:9.2)"
+                }
+            ]
+        },
+        "Seq": 51,
+        "StartDependency": false
+    },
+    {
+        "ID": "d09cc433b19",
+        "Name": "A Path Unveiled",
+        "Location": "Gridania",
+        "Level": 90,
+        "JournalSection": 6,
+        "JournalCategory": 72,
+        "JournalGenre": "\n\t\t\t\t\t\t\tTank Role Quests (Endwalker)\n\t\t\t\t\t\t",
+        "Url": "/lodestone/playguide/db/quest/d09cc433b19/",
+        "Image": "https://img.finalfantasyxiv.com/lds/pc/global/images/itemicon/aa/aaabcd282cadb57f6529c83bf246923e2042c33e.png?n6.05",
+        "Icon": "function_normal",
+        "Issuer": "Keeper Of The Entwined Serpents",
+        "StartLocation": {
+            "Name": "New Gridania",
+            "X": "9.8",
+            "Y": "11.3"
+        },
+        "StartClass": null,
+        "Job": "Tank (excluding limited jobs)",
+        "Company": "Not specified",
+        "Requirement": "Not specified",
+        "Rewards": {
+            "Gil": 2000,
+            "Exp": 0,
+            "ItemsMand": [
+                {
+                    "Icon": "https://img.finalfantasyxiv.com/lds/pc/global/images/itemicon/8f/8f57251240280c4dd8b41f0b143d5a4de1a29215.png?n6.05",
+                    "Name": "Battledance Materia IX",
+                    "Amount": 2,
+                    "Url": "/lodestone/playguide/db/item/dfec39007e3/"
+                },
+                {
+                    "Icon": "https://img.finalfantasyxiv.com/lds/pc/global/images/itemicon/42/42b918da5506c319185d6977ea8c5774d4665174.png?n6.05",
+                    "Name": "Savage Aim Materia IX",
+                    "Amount": 2,
+                    "Url": "/lodestone/playguide/db/item/fb86de99514/"
+                },
+                {
+                    "Icon": "https://img.finalfantasyxiv.com/lds/pc/global/images/itemicon/42/42b918da5506c319185d6977ea8c5774d4665174.png?n6.05",
+                    "Name": "Savage Might Materia IX",
+                    "Amount": 2,
+                    "Url": "/lodestone/playguide/db/item/86ae2ca0af4/"
+                }
+            ],
+            "ItemsOpt": []
+        },
+        "Infos": {
+            "PrerequisiteQuest": [
+                {
+                    "Name": "Hearts True",
+                    "Url": "/lodestone/playguide/db/quest/88a3096287d/",
+                    "Area": "Gridania",
+                    "Level": "89"
+                }
+            ],
+            "RelatedNPC": [
+                {
+                    "Name": "Kan-E-Senna",
+                    "Url": "/lodestone/playguide/db/npc/npc/d5d8f4cc673/",
+                    "Area": "Central Shroud (X:15.2 Y:24.9)"
+                },
+                {
+                    "Name": "Keeper Of The Entwined Serpents",
+                    "Url": "/lodestone/playguide/db/npc/npc/ec2a05ece5f/",
+                    "Area": "Central Shroud (X:15.2 Y:24.9)"
+                },
+                {
+                    "Name": "Kan-E-Senna",
+                    "Url": "/lodestone/playguide/db/npc/npc/d16c74c7fc0/",
+                    "Area": "Old Gridania (X:11.5 Y:9.0)"
+                },
+                {
+                    "Name": "Keeper Of The Entwined Serpents",
+                    "Url": "/lodestone/playguide/db/npc/npc/cc4c6539efa/",
+                    "Area": "Old Gridania (X:11.5 Y:9.0)"
+                },
+                {
+                    "Name": "Keeper Of The Entwined Serpents",
+                    "Url": "/lodestone/playguide/db/npc/npc/89cad352500/",
+                    "Area": "Old Gridania (X:8.0 Y:11.0)"
+                },
+                {
+                    "Name": "Silent Conjurer",
+                    "Url": "/lodestone/playguide/db/npc/npc/e6c3e7ebc51/",
+                    "Area": "Old Gridania (X:8.0 Y:11.1)"
+                },
+                {
+                    "Name": "Gridanian Delegate",
+                    "Url": "/lodestone/playguide/db/npc/npc/165f4563745/",
+                    "Area": "Radz-at-Han (X:7.6 Y:9.7)"
+                }
+            ],
+            "RelatedAchievements": [
+                {
+                    "Name": "More than Death",
+                    "Url": "/lodestone/playguide/db/achievement/6190838d5ed/",
+                    "Reward": "-",
+                    "Points": "5"
+                }
+            ]
+        },
+        "Seq": 31,
+        "StartDependency": false
+    },
+    {
+        "ID": "d266d82fb99",
+        "Name": "Echoes of the Past",
+        "Location": "Amh Araeng",
+        "Level": 74,
+        "JournalSection": 6,
+        "JournalCategory": 72,
+        "JournalGenre": "\n\t\t\t\t\t\t\tMagical Ranged DPS Role Quests (Shadowbringers)\n\t\t\t\t\t\t",
+        "Url": "/lodestone/playguide/db/quest/d266d82fb99/",
+        "Image": "https://img.finalfantasyxiv.com/lds/pc/global/images/itemicon/1a/1a4d6c24cbb2cf539c23b0c88808745ea3209094.png?n6.05",
+        "Icon": "function_normal",
+        "Issuer": "Cerigg",
+        "StartLocation": {
+            "Name": "Amh Araeng",
+            "X": "25.8",
+            "Y": "16.4"
+        },
+        "StartClass": null,
+        "Job": "Magical Ranged DPS (excluding limited jobs)",
+        "Company": "Not specified",
+        "Requirement": "Not specified",
+        "Rewards": {
+            "Gil": 1529,
+            "Exp": 221760,
+            "ItemsMand": [],
+            "ItemsOpt": []
+        },
+        "Infos": {
+            "PrerequisiteQuest": [
+                {
+                    "Name": "A Voice from the Void",
+                    "Url": "/lodestone/playguide/db/quest/7cc241034bd/",
+                    "Area": "Amh Araeng",
+                    "Level": "72"
+                }
+            ],
+            "FollowupQuest": [
+                {
+                    "Name": "Nyelbert's Lament",
+                    "Url": "/lodestone/playguide/db/quest/5624c92db62/",
+                    "Area": "Amh Araeng",
+                    "Level": "76"
+                }
+            ],
+            "RelatedNPC": [
+                {
+                    "Name": "Cerigg",
+                    "Url": "/lodestone/playguide/db/npc/npc/395073948ee/",
+                    "Area": "Amh Araeng (X:28.8 Y:28.5)"
+                },
+                {
+                    "Name": "Cerigg",
+                    "Url": "/lodestone/playguide/db/npc/npc/28059977fd7/",
+                    "Area": "Amh Araeng (X:28.0 Y:18.2)"
+                },
+                {
+                    "Name": "Cerigg",
+                    "Url": "/lodestone/playguide/db/npc/npc/368f34928a4/",
+                    "Area": "Amh Araeng (X:29.6 Y:26.2)"
+                },
+                {
+                    "Name": "Cerigg",
+                    "Url": "/lodestone/playguide/db/npc/npc/aa081d4fe4c/",
+                    "Area": "Amh Araeng (X:28.0 Y:16.5)"
+                },
+                {
+                    "Name": "Concerned Carer",
+                    "Url": "/lodestone/playguide/db/npc/npc/fb8cffc41e3/",
+                    "Area": "Amh Araeng (X:29.6 Y:26.6)"
+                },
+                {
+                    "Name": "Forlorn Boy",
+                    "Url": "/lodestone/playguide/db/npc/npc/3261db35233/",
+                    "Area": "Amh Araeng (X:28.8 Y:28.6)"
+                },
+                {
+                    "Name": "Savvy Merchant",
+                    "Url": "/lodestone/playguide/db/npc/npc/b930fb46c0f/",
+                    "Area": "Amh Araeng (X:28.0 Y:18.1)"
+                },
+                {
+                    "Name": "Taynor",
+                    "Url": "/lodestone/playguide/db/npc/npc/1bfd3d107bb/",
+                    "Area": "Amh Araeng (X:28.1 Y:16.5)"
+                },
+                {
+                    "Name": "Taynor",
+                    "Url": "/lodestone/playguide/db/npc/npc/11f2df589c8/",
+                    "Area": "Amh Araeng (X:32.4 Y:27.1)"
+                },
+                {
+                    "Name": "Taynor",
+                    "Url": "/lodestone/playguide/db/npc/npc/aa63fc3fa98/",
+                    "Area": "Amh Araeng (X:25.8 Y:16.5)"
+                },
+                {
+                    "Name": "Taynor",
+                    "Url": "/lodestone/playguide/db/npc/npc/76211e76c66/",
+                    "Area": "Amh Araeng (X:28.0 Y:18.2)"
+                },
+                {
+                    "Name": "Taynor",
+                    "Url": "/lodestone/playguide/db/npc/npc/d7fd3911fb5/",
+                    "Area": "Amh Araeng (X:29.5 Y:26.2)"
+                },
+                {
+                    "Name": "Taynor",
+                    "Url": "/lodestone/playguide/db/npc/npc/d66cf40cb58/",
+                    "Area": "Amh Araeng (X:28.8 Y:28.5)"
+                }
+            ]
+        },
+        "Seq": 20,
+        "StartDependency": false
+    },
+    {
+        "ID": "d6acde674b1",
+        "Name": "To Calmer Seas",
+        "Location": "Limsa Lominsa",
+        "Level": 90,
+        "JournalSection": 6,
+        "JournalCategory": 72,
+        "JournalGenre": "\n\t\t\t\t\t\t\tMelee DPS Role Quests (Endwalker)\n\t\t\t\t\t\t",
+        "Url": "/lodestone/playguide/db/quest/d6acde674b1/",
+        "Image": "https://img.finalfantasyxiv.com/lds/pc/global/images/itemicon/9b/9b044926e32a0f9379816797464129e8a894e668.png?n6.05",
+        "Icon": "function_normal",
+        "Issuer": "Maelstrom Secretariat",
+        "StartLocation": {
+            "Name": "Limsa Lominsa Upper Decks",
+            "X": "12.6",
+            "Y": "12.5"
+        },
+        "StartClass": null,
+        "Job": "Melee DPS (excluding limited jobs)",
+        "Company": "Not specified",
+        "Requirement": "Not specified",
+        "Rewards": {
+            "Gil": 2000,
+            "Exp": 0,
+            "ItemsMand": [
+                {
+                    "Icon": "https://img.finalfantasyxiv.com/lds/pc/global/images/itemicon/42/42b918da5506c319185d6977ea8c5774d4665174.png?n6.05",
+                    "Name": "Savage Aim Materia IX",
+                    "Amount": 2,
+                    "Url": "/lodestone/playguide/db/item/fb86de99514/"
+                },
+                {
+                    "Icon": "https://img.finalfantasyxiv.com/lds/pc/global/images/itemicon/42/42b918da5506c319185d6977ea8c5774d4665174.png?n6.05",
+                    "Name": "Savage Might Materia IX",
+                    "Amount": 2,
+                    "Url": "/lodestone/playguide/db/item/86ae2ca0af4/"
+                },
+                {
+                    "Icon": "https://img.finalfantasyxiv.com/lds/pc/global/images/itemicon/42/42b918da5506c319185d6977ea8c5774d4665174.png?n6.05",
+                    "Name": "Heavens' Eye Materia IX",
+                    "Amount": 2,
+                    "Url": "/lodestone/playguide/db/item/6c33b180bfb/"
+                }
+            ],
+            "ItemsOpt": []
+        },
+        "Infos": {
+            "PrerequisiteQuest": [
+                {
+                    "Name": "Out of the Shadows",
+                    "Url": "/lodestone/playguide/db/quest/ed1785e821d/",
+                    "Area": "Limsa Lominsa",
+                    "Level": "89"
+                }
+            ],
+            "RelatedNPC": [
+                {
+                    "Name": "Brayflox Alltalks",
+                    "Url": "/lodestone/playguide/db/npc/npc/a071d7fc977/",
+                    "Area": "Limsa Lominsa Upper Decks (X:10.1 Y:11.6)"
+                },
+                {
+                    "Name": "Landenel",
+                    "Url": "/lodestone/playguide/db/npc/npc/fddb4bd8971/",
+                    "Area": "Limsa Lominsa Upper Decks (X:10.0 Y:11.6)"
+                },
+                {
+                    "Name": "Lorens",
+                    "Url": "/lodestone/playguide/db/npc/npc/8b26c50a5a6/",
+                    "Area": "Limsa Lominsa Upper Decks (X:10.0 Y:11.7)"
+                },
+                {
+                    "Name": "Merlwyb",
+                    "Url": "/lodestone/playguide/db/npc/npc/11de3d93439/",
+                    "Area": "Limsa Lominsa Upper Decks (X:10.1 Y:11.6)"
+                },
+                {
+                    "Name": "Noll Of The Calming Seas",
+                    "Url": "/lodestone/playguide/db/npc/npc/929b79ff604/",
+                    "Area": "Limsa Lominsa Upper Decks (X:10.1 Y:11.7)"
+                },
+                {
+                    "Name": "Shamani Lohmani",
+                    "Url": "/lodestone/playguide/db/npc/npc/08b3b031cb4/",
+                    "Area": "Limsa Lominsa Upper Decks (X:10.1 Y:11.6)"
+                },
+                {
+                    "Name": "Stalwart Sahagin Youth",
+                    "Url": "/lodestone/playguide/db/npc/npc/3d5bd876282/",
+                    "Area": "Limsa Lominsa Upper Decks (X:10.1 Y:11.7)"
+                },
+                {
+                    "Name": "Storm Runner",
+                    "Url": "/lodestone/playguide/db/npc/npc/6e4a66ec905/",
+                    "Area": "Limsa Lominsa Upper Decks (X:12.6 Y:12.5)"
+                },
+                {
+                    "Name": "U'odh Nunh",
+                    "Url": "/lodestone/playguide/db/npc/npc/70b0ddf4a17/",
+                    "Area": "Limsa Lominsa Upper Decks (X:10.1 Y:11.6)"
+                },
+                {
+                    "Name": "Wheiskaet",
+                    "Url": "/lodestone/playguide/db/npc/npc/b520c1a8f48/",
+                    "Area": "Limsa Lominsa Upper Decks (X:10.0 Y:11.6)"
+                },
+                {
+                    "Name": "Lominsan Delegate",
+                    "Url": "/lodestone/playguide/db/npc/npc/0d24b46788a/",
+                    "Area": "Radz-at-Han (X:7.7 Y:9.6)"
+                }
+            ],
+            "RelatedAchievements": [
+                {
+                    "Name": "More than Loss",
+                    "Url": "/lodestone/playguide/db/achievement/37371ef34a7/",
+                    "Reward": "-",
+                    "Points": "5"
+                }
+            ]
+        },
+        "Seq": 43,
+        "StartDependency": false
+    },
+    {
+        "ID": "d72ad453d59",
+        "Name": "Trail of Skulls",
+        "Location": "The Lochs",
+        "Level": 89,
+        "JournalSection": 6,
+        "JournalCategory": 72,
+        "JournalGenre": "\n\t\t\t\t\t\t\tHealer Role Quests (Endwalker)\n\t\t\t\t\t\t",
+        "Url": "/lodestone/playguide/db/quest/d72ad453d59/",
+        "Image": "https://img.finalfantasyxiv.com/lds/pc/global/images/itemicon/0b/0be0ee56a6c903377f3618f372cf75eaf657aed5.png?n6.05",
+        "Icon": "function_normal",
+        "Issuer": "Blasphemy Hunter",
+        "StartLocation": {
+            "Name": "The Lochs",
+            "X": "36.3",
+            "Y": "31.6"
+        },
+        "StartClass": null,
+        "Job": "Healer (excluding limited jobs)",
+        "Company": "Not specified",
+        "Requirement": "Not specified",
+        "Rewards": {
+            "Gil": 1000,
+            "Exp": 508200,
+            "ItemsMand": [
+                {
+                    "Icon": "https://img.finalfantasyxiv.com/lds/pc/global/images/itemicon/9b/9bd72bd6c6937fe2db3d8cf7a2c6491c2778907e.png?n6.05",
+                    "Name": "Salted Thavnairian Cod",
+                    "Amount": 1,
+                    "Url": "/lodestone/playguide/db/item/2bbdf83e22f/"
+                }
+            ],
+            "ItemsOpt": []
+        },
+        "Infos": {
+            "PrerequisiteQuest": [
+                {
+                    "Name": "Laying the Past to Rest",
+                    "Url": "/lodestone/playguide/db/quest/256beed3572/",
+                    "Area": "The Lochs",
+                    "Level": "88"
+                }
+            ],
+            "FollowupQuest": [
+                {
+                    "Name": "The Gift of Mercy",
+                    "Url": "/lodestone/playguide/db/quest/74f3de30cec/",
+                    "Area": "The Lochs",
+                    "Level": "90"
+                }
+            ],
+            "RelatedNPC": [
+                {
+                    "Name": "Raubahn",
+                    "Url": "/lodestone/playguide/db/npc/npc/dbe3357d841/",
+                    "Area": "The Lochs (X:36.2 Y:31.7)"
+                },
+                {
+                    "Name": "Anxious Mother",
+                    "Url": "/lodestone/playguide/db/npc/npc/4f9139aa85c/",
+                    "Area": "The Peaks (X:26.6 Y:6.8)"
+                },
+                {
+                    "Name": "Arenvald",
+                    "Url": "/lodestone/playguide/db/npc/npc/6d60fc58634/",
+                    "Area": "The Peaks (X:26.6 Y:6.7)"
+                },
+                {
+                    "Name": "Arenvald",
+                    "Url": "/lodestone/playguide/db/npc/npc/01c870bea0e/",
+                    "Area": "The Peaks (X:24.3 Y:6.8)"
+                },
+                {
+                    "Name": "Clarell",
+                    "Url": "/lodestone/playguide/db/npc/npc/8c81f79a319/",
+                    "Area": "The Peaks (X:26.6 Y:6.8)"
+                },
+                {
+                    "Name": "Lylie",
+                    "Url": "/lodestone/playguide/db/npc/npc/3b2c5d53efa/",
+                    "Area": "The Peaks (X:26.6 Y:6.7)"
+                },
+                {
+                    "Name": "Raganfrid",
+                    "Url": "/lodestone/playguide/db/npc/npc/621723d5079/",
+                    "Area": "The Peaks (X:24.4 Y:6.8)"
+                },
+                {
+                    "Name": "Raubahn",
+                    "Url": "/lodestone/playguide/db/npc/npc/fcf3b3ceb8f/",
+                    "Area": "The Peaks (X:26.6 Y:6.7)"
+                },
+                {
+                    "Name": "Raubahn",
+                    "Url": "/lodestone/playguide/db/npc/npc/6de18068f57/",
+                    "Area": "The Peaks (X:24.3 Y:6.8)"
+                },
+                {
+                    "Name": "Raubahn",
+                    "Url": "/lodestone/playguide/db/npc/npc/9dd0a79b33a/",
+                    "Area": "The Peaks (X:37.1 Y:12.4)"
+                },
+                {
+                    "Name": "Skittish Girl",
+                    "Url": "/lodestone/playguide/db/npc/npc/3491a86aeb1/",
+                    "Area": "The Peaks (X:26.6 Y:6.7)"
+                }
+            ]
+        },
+        "Seq": 36,
+        "StartDependency": false
+    },
+    {
+        "ID": "d74a8ec20c9",
+        "Name": "Storm Clouds Brewing",
+        "Location": "Radz-at-Han",
+        "Level": 85,
+        "JournalSection": 6,
+        "JournalCategory": 72,
+        "JournalGenre": "\n\t\t\t\t\t\t\tMelee DPS Role Quests (Endwalker)\n\t\t\t\t\t\t",
+        "Url": "/lodestone/playguide/db/quest/d74a8ec20c9/",
+        "Image": "https://img.finalfantasyxiv.com/lds/pc/global/images/itemicon/9b/9b044926e32a0f9379816797464129e8a894e668.png?n6.05",
+        "Icon": "function_normal",
+        "Issuer": "Lominsan Delegate",
+        "StartLocation": {
+            "Name": "Radz-at-Han",
+            "X": "7.7",
+            "Y": "9.6"
+        },
+        "StartClass": null,
+        "Job": "Melee DPS (excluding limited jobs)",
+        "Company": "Not specified",
+        "Requirement": "Not specified",
+        "Rewards": {
+            "Gil": 1000,
+            "Exp": 481800,
+            "ItemsMand": [],
+            "ItemsOpt": []
+        },
+        "Infos": {
+            "PrerequisiteQuest": [
+                {
+                    "Name": "At World's End",
+                    "Url": "/lodestone/playguide/db/quest/1e3c991b458/",
+                    "Area": "Radz-at-Han",
+                    "Level": "85"
+                }
+            ],
+            "FollowupQuest": [
+                {
+                    "Name": "The Crushing Tide",
+                    "Url": "/lodestone/playguide/db/quest/8a865e0ad9f/",
+                    "Area": "Limsa Lominsa",
+                    "Level": "86"
+                }
+            ],
+            "RelatedNPC": [
+                {
+                    "Name": "Maelstrom Secretariat",
+                    "Url": "/lodestone/playguide/db/npc/npc/2407dbe3059/",
+                    "Area": "Limsa Lominsa Upper Decks (X:12.6 Y:12.5)"
+                },
+                {
+                    "Name": "Merlwyb",
+                    "Url": "/lodestone/playguide/db/npc/npc/993b07624cb/",
+                    "Area": "Limsa Lominsa Upper Decks (X:12.5 Y:12.5)"
+                },
+                {
+                    "Name": "Merlwyb",
+                    "Url": "/lodestone/playguide/db/npc/npc/2a2dc5b426c/",
+                    "Area": "Western La Noscea (X:20.3 Y:23.0)"
+                },
+                {
+                    "Name": "Merlwyb",
+                    "Url": "/lodestone/playguide/db/npc/npc/8499c9407fe/",
+                    "Area": "Western La Noscea (X:18.8 Y:22.5)"
+                },
+                {
+                    "Name": "Merlwyb",
+                    "Url": "/lodestone/playguide/db/npc/npc/3f67cd8fd30/",
+                    "Area": "Western La Noscea (X:18.8 Y:22.5)"
+                },
+                {
+                    "Name": "Noll",
+                    "Url": "/lodestone/playguide/db/npc/npc/9a42fa470f6/",
+                    "Area": "Western La Noscea (X:17.5 Y:19.9)"
+                },
+                {
+                    "Name": "Noll",
+                    "Url": "/lodestone/playguide/db/npc/npc/78aa13f3de8/",
+                    "Area": "Western La Noscea (X:18.8 Y:22.5)"
+                },
+                {
+                    "Name": "Shivering Sahagin",
+                    "Url": "/lodestone/playguide/db/npc/npc/43baf7bfc92/",
+                    "Area": "Western La Noscea (X:18.8 Y:22.5)"
+                }
+            ]
+        },
+        "Seq": 38,
+        "StartDependency": false
+    },
+    {
+        "ID": "da392242377",
+        "Name": "Old Heroes Never Die",
+        "Location": "Limsa Lominsa",
+        "Level": 87,
+        "JournalSection": 6,
+        "JournalCategory": 72,
+        "JournalGenre": "\n\t\t\t\t\t\t\tMelee DPS Role Quests (Endwalker)\n\t\t\t\t\t\t",
+        "Url": "/lodestone/playguide/db/quest/da392242377/",
+        "Image": "https://img.finalfantasyxiv.com/lds/pc/global/images/itemicon/9b/9b044926e32a0f9379816797464129e8a894e668.png?n6.05",
+        "Icon": "function_normal",
+        "Issuer": "Maelstrom Secretariat",
+        "StartLocation": {
+            "Name": "Limsa Lominsa Upper Decks",
+            "X": "12.6",
+            "Y": "12.5"
+        },
+        "StartClass": null,
+        "Job": "Melee DPS (excluding limited jobs)",
+        "Company": "Not specified",
+        "Requirement": "Not specified",
+        "Rewards": {
+            "Gil": 1000,
+            "Exp": 495000,
+            "ItemsMand": [],
+            "ItemsOpt": []
+        },
+        "Infos": {
+            "PrerequisiteQuest": [
+                {
+                    "Name": "The Crushing Tide",
+                    "Url": "/lodestone/playguide/db/quest/8a865e0ad9f/",
+                    "Area": "Limsa Lominsa",
+                    "Level": "86"
+                }
+            ],
+            "FollowupQuest": [
+                {
+                    "Name": "A Mother's Suffering",
+                    "Url": "/lodestone/playguide/db/quest/fd8c6a2db7f/",
+                    "Area": "Limsa Lominsa",
+                    "Level": "88"
+                }
+            ],
+            "RelatedNPC": [
+                {
+                    "Name": "Brayflox Alltalks",
+                    "Url": "/lodestone/playguide/db/npc/npc/2029a1e4de6/",
+                    "Area": "Eastern La Noscea (X:14.7 Y:24.5)"
+                },
+                {
+                    "Name": "Shamani Lohmani",
+                    "Url": "/lodestone/playguide/db/npc/npc/6fd0be4579b/",
+                    "Area": "Eastern La Noscea (X:21.6 Y:21.1)"
+                },
+                {
+                    "Name": "Wheiskaet",
+                    "Url": "/lodestone/playguide/db/npc/npc/29deab0a044/",
+                    "Area": "Eastern La Noscea (X:32.6 Y:30.5)"
+                },
+                {
+                    "Name": "Brayflox Alltalks",
+                    "Url": "/lodestone/playguide/db/npc/npc/a071d7fc977/",
+                    "Area": "Limsa Lominsa Upper Decks (X:10.1 Y:11.6)"
+                },
+                {
+                    "Name": "Landenel",
+                    "Url": "/lodestone/playguide/db/npc/npc/fddb4bd8971/",
+                    "Area": "Limsa Lominsa Upper Decks (X:10.0 Y:11.6)"
+                },
+                {
+                    "Name": "Merlwyb",
+                    "Url": "/lodestone/playguide/db/npc/npc/993b07624cb/",
+                    "Area": "Limsa Lominsa Upper Decks (X:12.5 Y:12.5)"
+                },
+                {
+                    "Name": "Merlwyb",
+                    "Url": "/lodestone/playguide/db/npc/npc/11de3d93439/",
+                    "Area": "Limsa Lominsa Upper Decks (X:10.1 Y:11.6)"
+                },
+                {
+                    "Name": "Shamani Lohmani",
+                    "Url": "/lodestone/playguide/db/npc/npc/08b3b031cb4/",
+                    "Area": "Limsa Lominsa Upper Decks (X:10.1 Y:11.6)"
+                },
+                {
+                    "Name": "Storm Runner",
+                    "Url": "/lodestone/playguide/db/npc/npc/6e4a66ec905/",
+                    "Area": "Limsa Lominsa Upper Decks (X:12.6 Y:12.5)"
+                },
+                {
+                    "Name": "U'odh Nunh",
+                    "Url": "/lodestone/playguide/db/npc/npc/70b0ddf4a17/",
+                    "Area": "Limsa Lominsa Upper Decks (X:10.1 Y:11.6)"
+                },
+                {
+                    "Name": "Wheiskaet",
+                    "Url": "/lodestone/playguide/db/npc/npc/b520c1a8f48/",
+                    "Area": "Limsa Lominsa Upper Decks (X:10.0 Y:11.6)"
+                },
+                {
+                    "Name": "Merlwyb",
+                    "Url": "/lodestone/playguide/db/npc/npc/80249363bc1/",
+                    "Area": "Western La Noscea (X:19.5 Y:23.0)"
+                },
+                {
+                    "Name": "Noll Of The Calming Seas",
+                    "Url": "/lodestone/playguide/db/npc/npc/abea55da48e/",
+                    "Area": "Western La Noscea (X:19.5 Y:22.9)"
+                },
+                {
+                    "Name": "Landenel",
+                    "Url": "/lodestone/playguide/db/npc/npc/a898520e45e/",
+                    "Area": "South Shroud (X:16.8 Y:28.2)"
+                },
+                {
+                    "Name": "U'odh Nunh",
+                    "Url": "/lodestone/playguide/db/npc/npc/3d41ead9c82/",
+                    "Area": "Southern Thanalan (X:14.3 Y:29.9)"
+                }
+            ]
+        },
+        "Seq": 40,
+        "StartDependency": false
+    },
+    {
+        "ID": "dc7ac33b9e4",
+        "Name": "The Lost and the Found",
+        "Location": "The Crystarium",
+        "Level": 76,
+        "JournalSection": 6,
+        "JournalCategory": 72,
+        "JournalGenre": "\n\t\t\t\t\t\t\tHealer Role Quests (Shadowbringers)\n\t\t\t\t\t\t",
+        "Url": "/lodestone/playguide/db/quest/dc7ac33b9e4/",
+        "Image": "https://img.finalfantasyxiv.com/lds/pc/global/images/itemicon/b4/b4cc4be92787c66fc5723a90217143924571f8a2.png?n6.05",
+        "Icon": "function_normal",
+        "Issuer": "Giott",
+        "StartLocation": {
+            "Name": "The Crystarium",
+            "X": "10.7",
+            "Y": "15.4"
+        },
+        "StartClass": null,
+        "Job": "Healer (excluding limited jobs)",
+        "Company": "Not specified",
+        "Requirement": "Not specified",
+        "Rewards": {
+            "Gil": 3020,
+            "Exp": 224640,
+            "ItemsMand": [],
+            "ItemsOpt": []
+        },
+        "Infos": {
+            "PrerequisiteQuest": [
+                {
+                    "Name": "The Scientific Method",
+                    "Url": "/lodestone/playguide/db/quest/3a23c506ba6/",
+                    "Area": "The Crystarium",
+                    "Level": "74"
+                }
+            ],
+            "FollowupQuest": [
+                {
+                    "Name": "Never to Return",
+                    "Url": "/lodestone/playguide/db/quest/0f29a82f228/",
+                    "Area": "The Crystarium",
+                    "Level": "78"
+                }
+            ],
+            "RelatedNPC": [
+                {
+                    "Name": "Giott",
+                    "Url": "/lodestone/playguide/db/npc/npc/b5c05e3b968/",
+                    "Area": "The Rak'tika Greatwood (X:19.8 Y:27.6)"
+                },
+                {
+                    "Name": "Giott",
+                    "Url": "/lodestone/playguide/db/npc/npc/02c2b4512a9/",
+                    "Area": "The Rak'tika Greatwood (X:34.0 Y:22.7)"
+                },
+                {
+                    "Name": "Giott",
+                    "Url": "/lodestone/playguide/db/npc/npc/9f021e395f9/",
+                    "Area": "The Rak'tika Greatwood (X:34.1 Y:22.6)"
+                }
+            ]
+        },
+        "Seq": 9,
+        "StartDependency": false
+    },
+    {
+        "ID": "e3cf74578d5",
+        "Name": "To Give Voice",
+        "Location": "Gridania",
+        "Level": 86,
+        "JournalSection": 6,
+        "JournalCategory": 72,
+        "JournalGenre": "\n\t\t\t\t\t\t\tTank Role Quests (Endwalker)\n\t\t\t\t\t\t",
+        "Url": "/lodestone/playguide/db/quest/e3cf74578d5/",
+        "Image": "https://img.finalfantasyxiv.com/lds/pc/global/images/itemicon/aa/aaabcd282cadb57f6529c83bf246923e2042c33e.png?n6.05",
+        "Icon": "function_normal",
+        "Issuer": "Keeper Of The Entwined Serpents",
+        "StartLocation": {
+            "Name": "New Gridania",
+            "X": "9.8",
+            "Y": "11.3"
+        },
+        "StartClass": null,
+        "Job": "Tank (excluding limited jobs)",
+        "Company": "Not specified",
+        "Requirement": "Not specified",
+        "Rewards": {
+            "Gil": 1000,
+            "Exp": 488400,
+            "ItemsMand": [],
+            "ItemsOpt": []
+        },
+        "Infos": {
+            "PrerequisiteQuest": [
+                {
+                    "Name": "Shrouded in Peril",
+                    "Url": "/lodestone/playguide/db/quest/ca037f6df72/",
+                    "Area": "Radz-at-Han",
+                    "Level": "85"
+                }
+            ],
+            "FollowupQuest": [
+                {
+                    "Name": "A Gift Undone",
+                    "Url": "/lodestone/playguide/db/quest/6289dd9d57d/",
+                    "Area": "Gridania",
+                    "Level": "87"
+                }
+            ],
+            "RelatedNPC": [
+                {
+                    "Name": "Distraught Woman",
+                    "Url": "/lodestone/playguide/db/npc/npc/787bb78906f/",
+                    "Area": "South Shroud (X:17.4 Y:28.7)"
+                },
+                {
+                    "Name": "Indignant Woman",
+                    "Url": "/lodestone/playguide/db/npc/npc/556c73f4276/",
+                    "Area": "South Shroud (X:16.0 Y:34.7)"
+                },
+                {
+                    "Name": "Inflamed Man",
+                    "Url": "/lodestone/playguide/db/npc/npc/1601763adb1/",
+                    "Area": "South Shroud (X:17.4 Y:28.2)"
+                },
+                {
+                    "Name": "Kan-E-Senna",
+                    "Url": "/lodestone/playguide/db/npc/npc/eb1165a5a74/",
+                    "Area": "South Shroud (X:18.4 Y:25.8)"
+                },
+                {
+                    "Name": "Kan-E-Senna",
+                    "Url": "/lodestone/playguide/db/npc/npc/51384225bd8/",
+                    "Area": "South Shroud (X:17.6 Y:27.7)"
+                },
+                {
+                    "Name": "Kan-E-Senna",
+                    "Url": "/lodestone/playguide/db/npc/npc/43fe2b97cba/",
+                    "Area": "South Shroud (X:16.0 Y:34.9)"
+                },
+                {
+                    "Name": "Kan-E-Senna",
+                    "Url": "/lodestone/playguide/db/npc/npc/dce747e2598/",
+                    "Area": "South Shroud (X:16.0 Y:34.8)"
+                },
+                {
+                    "Name": "Keeper Of The Entwined Serpents",
+                    "Url": "/lodestone/playguide/db/npc/npc/ae7fe68d003/",
+                    "Area": "South Shroud (X:18.4 Y:25.9)"
+                },
+                {
+                    "Name": "Keeper Of The Entwined Serpents",
+                    "Url": "/lodestone/playguide/db/npc/npc/c619a370fee/",
+                    "Area": "South Shroud (X:16.8 Y:28.3)"
+                },
+                {
+                    "Name": "Keeper Of The Entwined Serpents",
+                    "Url": "/lodestone/playguide/db/npc/npc/d4e9ccc24d2/",
+                    "Area": "South Shroud (X:16.0 Y:34.8)"
+                },
+                {
+                    "Name": "Keeper Of The Entwined Serpents",
+                    "Url": "/lodestone/playguide/db/npc/npc/693d900e39a/",
+                    "Area": "South Shroud (X:16.0 Y:34.8)"
+                },
+                {
+                    "Name": "Landenel",
+                    "Url": "/lodestone/playguide/db/npc/npc/a898520e45e/",
+                    "Area": "South Shroud (X:16.8 Y:28.2)"
+                },
+                {
+                    "Name": "Raya-O-Senna",
+                    "Url": "/lodestone/playguide/db/npc/npc/eebc9f5f741/",
+                    "Area": "South Shroud (X:18.6 Y:27.1)"
+                },
+                {
+                    "Name": "Restive Man",
+                    "Url": "/lodestone/playguide/db/npc/npc/632533c50ab/",
+                    "Area": "South Shroud (X:16.7 Y:28.6)"
+                },
+                {
+                    "Name": "Upset Man",
+                    "Url": "/lodestone/playguide/db/npc/npc/84cf823251e/",
+                    "Area": "South Shroud (X:15.9 Y:34.8)"
+                },
+                {
+                    "Name": "Wood Wailer",
+                    "Url": "/lodestone/playguide/db/npc/npc/a7d9d9dcc76/",
+                    "Area": "South Shroud (X:16.1 Y:34.9)"
+                },
+                {
+                    "Name": "Wood Wailer",
+                    "Url": "/lodestone/playguide/db/npc/npc/229af9481e6/",
+                    "Area": "South Shroud (X:16.0 Y:34.8)"
+                }
+            ]
+        },
+        "Seq": 27,
+        "StartDependency": false
+    },
+    {
+        "ID": "ed1785e821d",
+        "Name": "Out of the Shadows",
+        "Location": "Limsa Lominsa",
+        "Level": 89,
+        "JournalSection": 6,
+        "JournalCategory": 72,
+        "JournalGenre": "\n\t\t\t\t\t\t\tMelee DPS Role Quests (Endwalker)\n\t\t\t\t\t\t",
+        "Url": "/lodestone/playguide/db/quest/ed1785e821d/",
+        "Image": "https://img.finalfantasyxiv.com/lds/pc/global/images/itemicon/9b/9b044926e32a0f9379816797464129e8a894e668.png?n6.05",
+        "Icon": "function_normal",
+        "Issuer": "Maelstrom Secretariat",
+        "StartLocation": {
+            "Name": "Limsa Lominsa Upper Decks",
+            "X": "12.6",
+            "Y": "12.5"
+        },
+        "StartClass": null,
+        "Job": "Melee DPS (excluding limited jobs)",
+        "Company": "Not specified",
+        "Requirement": "Not specified",
+        "Rewards": {
+            "Gil": 1000,
+            "Exp": 508200,
+            "ItemsMand": [
+                {
+                    "Icon": "https://img.finalfantasyxiv.com/lds/pc/global/images/itemicon/a0/a02194449b9efb177af0cfe2f083e273a5704f03.png?n6.05",
+                    "Name": "Coconut Cod Chowder",
+                    "Amount": 1,
+                    "Url": "/lodestone/playguide/db/item/ac97918bbd7/"
+                }
+            ],
+            "ItemsOpt": []
+        },
+        "Infos": {
+            "PrerequisiteQuest": [
+                {
+                    "Name": "A Mother's Suffering",
+                    "Url": "/lodestone/playguide/db/quest/fd8c6a2db7f/",
+                    "Area": "Limsa Lominsa",
+                    "Level": "88"
+                }
+            ],
+            "FollowupQuest": [
+                {
+                    "Name": "To Calmer Seas",
+                    "Url": "/lodestone/playguide/db/quest/d6acde674b1/",
+                    "Area": "Limsa Lominsa",
+                    "Level": "90"
+                }
+            ],
+            "RelatedNPC": [
+                {
+                    "Name": "Lorens",
+                    "Url": "/lodestone/playguide/db/npc/npc/4a6badac9d2/",
+                    "Area": "Eastern La Noscea (X:32.0 Y:23.5)"
+                },
+                {
+                    "Name": "Wheiskaet",
+                    "Url": "/lodestone/playguide/db/npc/npc/29deab0a044/",
+                    "Area": "Eastern La Noscea (X:32.6 Y:30.5)"
+                }
+            ]
+        },
+        "Seq": 42,
+        "StartDependency": false
+    },
+    {
+        "ID": "f20b57ba893",
+        "Name": "A New Battleground",
+        "Location": "The Lochs",
+        "Level": 87,
+        "JournalSection": 6,
+        "JournalCategory": 72,
+        "JournalGenre": "\n\t\t\t\t\t\t\tHealer Role Quests (Endwalker)\n\t\t\t\t\t\t",
+        "Url": "/lodestone/playguide/db/quest/f20b57ba893/",
+        "Image": "https://img.finalfantasyxiv.com/lds/pc/global/images/itemicon/0b/0be0ee56a6c903377f3618f372cf75eaf657aed5.png?n6.05",
+        "Icon": "function_normal",
+        "Issuer": "Blasphemy Hunter",
+        "StartLocation": {
+            "Name": "The Lochs",
+            "X": "36.3",
+            "Y": "31.6"
+        },
+        "StartClass": null,
+        "Job": "Healer (excluding limited jobs)",
+        "Company": "Not specified",
+        "Requirement": "Not specified",
+        "Rewards": {
+            "Gil": 1000,
+            "Exp": 495000,
+            "ItemsMand": [],
+            "ItemsOpt": []
+        },
+        "Infos": {
+            "PrerequisiteQuest": [
+                {
+                    "Name": "The Butcher's Blade",
+                    "Url": "/lodestone/playguide/db/quest/68e97133a16/",
+                    "Area": "The Lochs",
+                    "Level": "86"
+                }
+            ],
+            "FollowupQuest": [
+                {
+                    "Name": "Laying the Past to Rest",
+                    "Url": "/lodestone/playguide/db/quest/256beed3572/",
+                    "Area": "The Lochs",
+                    "Level": "88"
+                }
+            ],
+            "RelatedNPC": [
+                {
+                    "Name": "Arenvald",
+                    "Url": "/lodestone/playguide/db/npc/npc/5b8468316e0/",
+                    "Area": "Ul'dah - Steps of Thal (X:11.4 Y:11.7)"
+                },
+                {
+                    "Name": "Nanamo Ul Namo",
+                    "Url": "/lodestone/playguide/db/npc/npc/3d064d63abc/",
+                    "Area": "Ul'dah - Steps of Thal (X:11.3 Y:11.7)"
+                },
+                {
+                    "Name": "Papashan",
+                    "Url": "/lodestone/playguide/db/npc/npc/bbab0f99bed/",
+                    "Area": "Ul'dah - Steps of Thal (X:11.3 Y:11.7)"
+                },
+                {
+                    "Name": "Raubahn",
+                    "Url": "/lodestone/playguide/db/npc/npc/808fe91b79b/",
+                    "Area": "Ul'dah - Steps of Thal (X:11.3 Y:11.7)"
+                },
+                {
+                    "Name": "Raubahn",
+                    "Url": "/lodestone/playguide/db/npc/npc/2d003554026/",
+                    "Area": "Ul'dah - Steps of Thal (X:14.1 Y:11.5)"
+                },
+                {
+                    "Name": "Raubahn",
+                    "Url": "/lodestone/playguide/db/npc/npc/39a1a740bdb/",
+                    "Area": "Ul'dah - Steps of Thal (X:13.2 Y:9.1)"
+                },
+                {
+                    "Name": "Raubahn",
+                    "Url": "/lodestone/playguide/db/npc/npc/dbe3357d841/",
+                    "Area": "The Lochs (X:36.2 Y:31.7)"
+                }
+            ]
+        },
+        "Seq": 34,
+        "StartDependency": false
+    },
+    {
+        "ID": "fb78c7c68e4",
+        "Name": "Affronts and Allies",
+        "Location": "The Crystarium",
+        "Level": 72,
+        "JournalSection": 6,
+        "JournalCategory": 72,
+        "JournalGenre": "\n\t\t\t\t\t\t\tHealer Role Quests (Shadowbringers)\n\t\t\t\t\t\t",
+        "Url": "/lodestone/playguide/db/quest/fb78c7c68e4/",
+        "Image": "https://img.finalfantasyxiv.com/lds/pc/global/images/itemicon/b4/b4cc4be92787c66fc5723a90217143924571f8a2.png?n6.05",
+        "Icon": "function_normal",
+        "Issuer": "Giott",
+        "StartLocation": {
+            "Name": "The Crystarium",
+            "X": "10.7",
+            "Y": "15.4"
+        },
+        "StartClass": null,
+        "Job": "Healer (excluding limited jobs)",
+        "Company": "Not specified",
+        "Requirement": "Not specified",
+        "Rewards": {
+            "Gil": 1578,
+            "Exp": 218880,
+            "ItemsMand": [],
+            "ItemsOpt": []
+        },
+        "Infos": {
+            "PrerequisiteQuest": [
+                {
+                    "Name": "Traditions and Travails",
+                    "Url": "/lodestone/playguide/db/quest/38387ff9175/",
+                    "Area": "The Crystarium",
+                    "Level": "70"
+                }
+            ],
+            "FollowupQuest": [
+                {
+                    "Name": "The Scientific Method",
+                    "Url": "/lodestone/playguide/db/quest/3a23c506ba6/",
+                    "Area": "The Crystarium",
+                    "Level": "74"
+                }
+            ],
+            "RelatedNPC": [
+                {
+                    "Name": "Giott",
+                    "Url": "/lodestone/playguide/db/npc/npc/282ad17a13c/",
+                    "Area": "Kholusia (X:35.2 Y:27.0)"
+                },
+                {
+                    "Name": "Giott",
+                    "Url": "/lodestone/playguide/db/npc/npc/012cd986d92/",
+                    "Area": "Kholusia (X:25.2 Y:25.0)"
+                },
+                {
+                    "Name": "Giott",
+                    "Url": "/lodestone/playguide/db/npc/npc/ff0b1d297fe/",
+                    "Area": "Kholusia (X:25.1 Y:25.0)"
+                }
+            ]
+        },
+        "Seq": 7,
+        "StartDependency": false
+    },
+    {
+        "ID": "fd8c6a2db7f",
+        "Name": "A Mother's Suffering",
+        "Location": "Limsa Lominsa",
+        "Level": 88,
+        "JournalSection": 6,
+        "JournalCategory": 72,
+        "JournalGenre": "\n\t\t\t\t\t\t\tMelee DPS Role Quests (Endwalker)\n\t\t\t\t\t\t",
+        "Url": "/lodestone/playguide/db/quest/fd8c6a2db7f/",
+        "Image": "https://img.finalfantasyxiv.com/lds/pc/global/images/itemicon/9b/9b044926e32a0f9379816797464129e8a894e668.png?n6.05",
+        "Icon": "function_normal",
+        "Issuer": "Maelstrom Secretariat",
+        "StartLocation": {
+            "Name": "Limsa Lominsa Upper Decks",
+            "X": "12.6",
+            "Y": "12.5"
+        },
+        "StartClass": null,
+        "Job": "Melee DPS (excluding limited jobs)",
+        "Company": "Not specified",
+        "Requirement": "Not specified",
+        "Rewards": {
+            "Gil": 1000,
+            "Exp": 501600,
+            "ItemsMand": [],
+            "ItemsOpt": []
+        },
+        "Infos": {
+            "PrerequisiteQuest": [
+                {
+                    "Name": "Old Heroes Never Die",
+                    "Url": "/lodestone/playguide/db/quest/da392242377/",
+                    "Area": "Limsa Lominsa",
+                    "Level": "87"
+                }
+            ],
+            "FollowupQuest": [
+                {
+                    "Name": "Out of the Shadows",
+                    "Url": "/lodestone/playguide/db/quest/ed1785e821d/",
+                    "Area": "Limsa Lominsa",
+                    "Level": "89"
+                }
+            ],
+            "RelatedNPC": [
+                {
+                    "Name": "Landenel",
+                    "Url": "/lodestone/playguide/db/npc/npc/417c81fe684/",
+                    "Area": "Limsa Lominsa Lower Decks (X:7.6 Y:15.7)"
+                },
+                {
+                    "Name": "Merlwyb",
+                    "Url": "/lodestone/playguide/db/npc/npc/c6735f2a818/",
+                    "Area": "Limsa Lominsa Lower Decks (X:7.5 Y:15.7)"
+                },
+                {
+                    "Name": "Noll Of The Calming Seas",
+                    "Url": "/lodestone/playguide/db/npc/npc/91b8cf54a1f/",
+                    "Area": "Limsa Lominsa Lower Decks (X:7.5 Y:15.6)"
+                },
+                {
+                    "Name": "U'odh Nunh",
+                    "Url": "/lodestone/playguide/db/npc/npc/d1b1eefe10e/",
+                    "Area": "Limsa Lominsa Lower Decks (X:7.6 Y:15.7)"
+                },
+                {
+                    "Name": "Wheiskaet",
+                    "Url": "/lodestone/playguide/db/npc/npc/b2c2a9bae15/",
+                    "Area": "Limsa Lominsa Lower Decks (X:7.5 Y:15.7)"
+                },
+                {
+                    "Name": "Merlwyb",
+                    "Url": "/lodestone/playguide/db/npc/npc/993b07624cb/",
+                    "Area": "Limsa Lominsa Upper Decks (X:12.5 Y:12.5)"
+                },
+                {
+                    "Name": "Storm Runner",
+                    "Url": "/lodestone/playguide/db/npc/npc/6e4a66ec905/",
+                    "Area": "Limsa Lominsa Upper Decks (X:12.6 Y:12.5)"
+                },
+                {
+                    "Name": "Brayflox Alltalks",
+                    "Url": "/lodestone/playguide/db/npc/npc/b235bab86bd/",
+                    "Area": "Lower La Noscea (X:21.4 Y:37.4)"
+                },
+                {
+                    "Name": "Landenel",
+                    "Url": "/lodestone/playguide/db/npc/npc/9e0ddbf650b/",
+                    "Area": "Lower La Noscea (X:21.4 Y:37.3)"
+                },
+                {
+                    "Name": "Shamani Lohmani",
+                    "Url": "/lodestone/playguide/db/npc/npc/3fd38429bad/",
+                    "Area": "Lower La Noscea (X:21.4 Y:37.4)"
+                },
+                {
+                    "Name": "U'odh Nunh",
+                    "Url": "/lodestone/playguide/db/npc/npc/02a20a4b0c5/",
+                    "Area": "Lower La Noscea (X:21.4 Y:37.3)"
+                },
+                {
+                    "Name": "Wheiskaet",
+                    "Url": "/lodestone/playguide/db/npc/npc/87f536bfd72/",
+                    "Area": "Lower La Noscea (X:21.4 Y:37.3)"
+                }
+            ]
+        },
+        "Seq": 41,
+        "StartDependency": false
+    }
+]

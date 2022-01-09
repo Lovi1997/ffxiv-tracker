@@ -1,0 +1,657 @@
+[
+    {
+        "ID": "2204cf37dca",
+        "Name": "Sleep Now in Sapphire",
+        "Location": "The Lochs",
+        "Level": 80,
+        "JournalSection": 2,
+        "JournalCategory": 23,
+        "JournalGenre": "Chronicles of a New Era - The Sorrow of Werlyt",
+        "Url": "/lodestone/playguide/db/quest/2204cf37dca/",
+        "Image": "https://img.finalfantasyxiv.com/lds/pc/global/images/itemicon/a6/a6a792193504c878bd604a544af1a6bede97df72.png?n6.05",
+        "Icon": "function_normal",
+        "Issuer": "Resistance Officer",
+        "StartLocation": {
+            "Name": "The Lochs",
+            "X": "11.3",
+            "Y": "22.5"
+        },
+        "StartClass": null,
+        "Job": "Any Disciple of War or Magic (excluding limited jobs)",
+        "Company": "Not specified",
+        "Requirement": "Not specified",
+        "Rewards": {
+            "Gil": 0,
+            "Exp": 0,
+            "ItemsMand": [
+                {
+                    "Icon": "https://img.finalfantasyxiv.com/lds/pc/global/images/itemicon/fb/fb000afa3b641a86f1f443904fff67f28e2c5b11.png?n6.05",
+                    "Name": "",
+                    "Amount": null
+                }
+            ],
+            "ItemsOpt": []
+        },
+        "Infos": {
+            "PrerequisiteQuest": [
+                {
+                    "Name": "Ruby Doomsday",
+                    "Url": "/lodestone/playguide/db/quest/bf05ca6707e/",
+                    "Area": "The Lochs",
+                    "Level": "80"
+                }
+            ],
+            "FollowupQuest": [
+                {
+                    "Name": "Blood of Emerald",
+                    "Url": "/lodestone/playguide/db/quest/931c52aabb5/",
+                    "Area": "The Lochs",
+                    "Level": "80"
+                }
+            ],
+            "RelatedNPC": [
+                {
+                    "Name": "Cid",
+                    "Url": "/lodestone/playguide/db/npc/npc/9e1ce1bc825/",
+                    "Area": "Eorzean Alliance Headquarters (X:6.0 Y:6.2)"
+                },
+                {
+                    "Name": "Gaius",
+                    "Url": "/lodestone/playguide/db/npc/npc/297132b3c24/",
+                    "Area": "Eorzean Alliance Headquarters (X:6.0 Y:5.9)"
+                },
+                {
+                    "Name": "Ironworks Technician",
+                    "Url": "/lodestone/playguide/db/npc/npc/f87b38700e8/",
+                    "Area": "Eorzean Alliance Headquarters (X:6.1 Y:5.9)"
+                },
+                {
+                    "Name": "Severa",
+                    "Url": "/lodestone/playguide/db/npc/npc/16f479d538a/",
+                    "Area": "Eorzean Alliance Headquarters (X:6.0 Y:5.9)"
+                },
+                {
+                    "Name": "Severa",
+                    "Url": "/lodestone/playguide/db/npc/npc/0531d6a6e2e/",
+                    "Area": "Eorzean Alliance Headquarters (X:6.0 Y:6.2)"
+                },
+                {
+                    "Name": "Valdeaulin",
+                    "Url": "/lodestone/playguide/db/npc/npc/9a696e7e53f/",
+                    "Area": "Eorzean Alliance Headquarters (X:6.1 Y:5.9)"
+                },
+                {
+                    "Name": "Resistance Escort",
+                    "Url": "/lodestone/playguide/db/npc/npc/a4526351191/",
+                    "Area": "The Lochs (X:10.8 Y:20.5)"
+                },
+                {
+                    "Name": "Resistance Fighter",
+                    "Url": "/lodestone/playguide/db/npc/npc/e68d1b9d13d/",
+                    "Area": "The Lochs (X:10.9 Y:21.1)"
+                },
+                {
+                    "Name": "Gaius",
+                    "Url": "/lodestone/playguide/db/npc/npc/4ea496ea16f/",
+                    "Area": "Terncliff (X:6.1 Y:5.9)"
+                },
+                {
+                    "Name": "Gaius",
+                    "Url": "/lodestone/playguide/db/npc/npc/3b227ef5fd1/",
+                    "Area": "Terncliff (X:6.3 Y:5.7)"
+                },
+                {
+                    "Name": "Severa",
+                    "Url": "/lodestone/playguide/db/npc/npc/ef4b35455d0/",
+                    "Area": "Terncliff (X:6.2 Y:5.8)"
+                },
+                {
+                    "Name": "Severa",
+                    "Url": "/lodestone/playguide/db/npc/npc/31e0c12a816/",
+                    "Area": "Terncliff (X:6.2 Y:5.7)"
+                },
+                {
+                    "Name": "Valdeaulin",
+                    "Url": "/lodestone/playguide/db/npc/npc/63a8be244bb/",
+                    "Area": "Terncliff (X:6.1 Y:5.8)"
+                },
+                {
+                    "Name": "Valdeaulin",
+                    "Url": "/lodestone/playguide/db/npc/npc/1a29b5eb0f3/",
+                    "Area": "Terncliff (X:7.1 Y:6.7)"
+                },
+                {
+                    "Name": "Valdeaulin",
+                    "Url": "/lodestone/playguide/db/npc/npc/6958da890d5/",
+                    "Area": "Terncliff (X:6.2 Y:5.7)"
+                }
+            ]
+        },
+        "Seq": 1,
+        "StartDependency": false
+    },
+    {
+        "ID": "931c52aabb5",
+        "Name": "Blood of Emerald",
+        "Location": "The Lochs",
+        "Level": 80,
+        "JournalSection": 2,
+        "JournalCategory": 23,
+        "JournalGenre": "Chronicles of a New Era - The Sorrow of Werlyt",
+        "Url": "/lodestone/playguide/db/quest/931c52aabb5/",
+        "Image": "https://img.finalfantasyxiv.com/lds/pc/global/images/itemicon/9c/9cc25fa5a38f49c3e9c0b0da6c42458955809a01.png?n6.05",
+        "Icon": "function_normal",
+        "Issuer": "Resistance Officer",
+        "StartLocation": {
+            "Name": "The Lochs",
+            "X": "11.3",
+            "Y": "22.5"
+        },
+        "StartClass": null,
+        "Job": "Any Disciple of War or Magic (excluding limited jobs)",
+        "Company": "Not specified",
+        "Requirement": "Not specified",
+        "Rewards": {
+            "Gil": 1655,
+            "Exp": 0,
+            "ItemsMand": [],
+            "ItemsOpt": []
+        },
+        "Infos": {
+            "PrerequisiteQuest": [
+                {
+                    "Name": "Sleep Now in Sapphire",
+                    "Url": "/lodestone/playguide/db/quest/2204cf37dca/",
+                    "Area": "The Lochs",
+                    "Level": "80"
+                }
+            ],
+            "FollowupQuest": [
+                {
+                    "Name": "In Memory",
+                    "Url": "/lodestone/playguide/db/quest/c351fc217ef/",
+                    "Area": "The Lochs",
+                    "Level": "80"
+                }
+            ],
+            "RelatedNPC": [
+                {
+                    "Name": "Gaius",
+                    "Url": "/lodestone/playguide/db/npc/npc/12079f645d9/",
+                    "Area": "Castrum Marinum Drydocks (X:6.0 Y:4.6)"
+                },
+                {
+                    "Name": "Gaius",
+                    "Url": "/lodestone/playguide/db/npc/npc/4ea2c369d0b/",
+                    "Area": "Western Thanalan (X:12.1 Y:13.1)"
+                },
+                {
+                    "Name": "Ironworks Pilot",
+                    "Url": "/lodestone/playguide/db/npc/npc/32999ab554b/",
+                    "Area": "Western Thanalan (X:12.1 Y:13.1)"
+                },
+                {
+                    "Name": "Resistance Escort",
+                    "Url": "/lodestone/playguide/db/npc/npc/a4526351191/",
+                    "Area": "The Lochs (X:10.8 Y:20.5)"
+                },
+                {
+                    "Name": "Gaius",
+                    "Url": "/lodestone/playguide/db/npc/npc/4ea496ea16f/",
+                    "Area": "Terncliff (X:6.1 Y:5.9)"
+                },
+                {
+                    "Name": "Gaius",
+                    "Url": "/lodestone/playguide/db/npc/npc/3b227ef5fd1/",
+                    "Area": "Terncliff (X:6.3 Y:5.7)"
+                },
+                {
+                    "Name": "Gaius",
+                    "Url": "/lodestone/playguide/db/npc/npc/99b9aab47c8/",
+                    "Area": "Terncliff (X:5.4 Y:5.5)"
+                },
+                {
+                    "Name": "Severa",
+                    "Url": "/lodestone/playguide/db/npc/npc/ef4b35455d0/",
+                    "Area": "Terncliff (X:6.2 Y:5.8)"
+                },
+                {
+                    "Name": "Severa",
+                    "Url": "/lodestone/playguide/db/npc/npc/092d4c9d3fd/",
+                    "Area": "Terncliff (X:5.4 Y:5.5)"
+                },
+                {
+                    "Name": "Severa",
+                    "Url": "/lodestone/playguide/db/npc/npc/929a3f9610a/",
+                    "Area": "Terncliff (X:5.3 Y:5.5)"
+                },
+                {
+                    "Name": "Valdeaulin",
+                    "Url": "/lodestone/playguide/db/npc/npc/63a8be244bb/",
+                    "Area": "Terncliff (X:6.1 Y:5.8)"
+                },
+                {
+                    "Name": "Valdeaulin",
+                    "Url": "/lodestone/playguide/db/npc/npc/6958da890d5/",
+                    "Area": "Terncliff (X:6.2 Y:5.7)"
+                },
+                {
+                    "Name": "Valdeaulin",
+                    "Url": "/lodestone/playguide/db/npc/npc/43ae99a5de4/",
+                    "Area": "Terncliff (X:5.4 Y:5.5)"
+                }
+            ]
+        },
+        "Seq": 2,
+        "StartDependency": false
+    },
+    {
+        "ID": "ac1352f077f",
+        "Name": "Forever at Your Side",
+        "Location": "The Lochs",
+        "Level": 80,
+        "JournalSection": 2,
+        "JournalCategory": 23,
+        "JournalGenre": "Chronicles of a New Era - The Sorrow of Werlyt",
+        "Url": "/lodestone/playguide/db/quest/ac1352f077f/",
+        "Image": "https://img.finalfantasyxiv.com/lds/pc/global/images/itemicon/eb/eb7e4d5950feb1fc19c766a1a1977186b682294e.png?n6.05",
+        "Icon": "function_normal",
+        "Issuer": "Severa",
+        "StartLocation": {
+            "Name": "Terncliff",
+            "X": "5.8",
+            "Y": "5.6"
+        },
+        "StartClass": null,
+        "Job": "Any Disciple of War or Magic (excluding limited jobs)",
+        "Company": "Not specified",
+        "Requirement": "Not specified",
+        "Rewards": {
+            "Gil": 0,
+            "Exp": 0,
+            "ItemsMand": [
+                {
+                    "Icon": "https://img.finalfantasyxiv.com/lds/pc/global/images/itemicon/59/59c78498a5220f741317a1909827c5a7bcd9ddd0.png?n6.05",
+                    "Name": "G-Warrior MG",
+                    "Amount": 1,
+                    "Url": "/lodestone/playguide/db/item/f143d56c030/"
+                }
+            ],
+            "ItemsOpt": []
+        },
+        "Infos": {
+            "PrerequisiteQuest": [
+                {
+                    "Name": "Duty in the Sky with Diamond",
+                    "Url": "/lodestone/playguide/db/quest/e633761020c/",
+                    "Area": "The Lochs",
+                    "Level": "80"
+                }
+            ],
+            "RelatedNPC": [
+                {
+                    "Name": "Resistance Escort",
+                    "Url": "/lodestone/playguide/db/npc/npc/a4526351191/",
+                    "Area": "The Lochs (X:10.8 Y:20.5)"
+                },
+                {
+                    "Name": "Resistance Officer",
+                    "Url": "/lodestone/playguide/db/npc/npc/5145fc200b6/",
+                    "Area": "The Lochs (X:11.3 Y:22.5)"
+                },
+                {
+                    "Name": "Allie",
+                    "Url": "/lodestone/playguide/db/npc/npc/7955dde6419/",
+                    "Area": "Terncliff (X:5.7 Y:5.6)"
+                },
+                {
+                    "Name": "Avilina",
+                    "Url": "/lodestone/playguide/db/npc/npc/2e4cb8405cf/",
+                    "Area": "Terncliff (X:7.2 Y:7.1)"
+                },
+                {
+                    "Name": "Avilina",
+                    "Url": "/lodestone/playguide/db/npc/npc/e10df967536/",
+                    "Area": "Terncliff (X:7.2 Y:7.1)"
+                },
+                {
+                    "Name": "Gaius",
+                    "Url": "/lodestone/playguide/db/npc/npc/40ada3a43ae/",
+                    "Area": "Terncliff (X:5.7 Y:5.6)"
+                },
+                {
+                    "Name": "Valdeaulin",
+                    "Url": "/lodestone/playguide/db/npc/npc/837aab91b75/",
+                    "Area": "Terncliff (X:5.8 Y:5.6)"
+                }
+            ],
+            "RelatedAchievements": [
+                {
+                    "Name": "Mass Destruction of Weapons",
+                    "Url": "/lodestone/playguide/db/achievement/5d578415f61/",
+                    "Reward": "-",
+                    "Points": "10"
+                }
+            ]
+        },
+        "Seq": 5,
+        "StartDependency": false
+    },
+    {
+        "ID": "bf05ca6707e",
+        "Name": "Ruby Doomsday",
+        "Location": "The Lochs",
+        "Level": 80,
+        "JournalSection": 2,
+        "JournalCategory": 23,
+        "JournalGenre": "Chronicles of a New Era - The Sorrow of Werlyt",
+        "Url": "/lodestone/playguide/db/quest/bf05ca6707e/",
+        "Image": "https://img.finalfantasyxiv.com/lds/pc/global/images/itemicon/f7/f77c106ec7aca7ff32458de66b951c65ed7753a8.png?n6.05",
+        "Icon": "function_normal",
+        "Issuer": "Resistance Officer",
+        "StartLocation": {
+            "Name": "The Lochs",
+            "X": "36.4",
+            "Y": "31.8"
+        },
+        "StartClass": null,
+        "Job": "Any Disciple of War or Magic (excluding limited jobs)",
+        "Company": "Not specified",
+        "Requirement": "Not specified",
+        "Rewards": {
+            "Gil": 4255,
+            "Exp": 0,
+            "ItemsMand": [],
+            "ItemsOpt": []
+        },
+        "Infos": {
+            "PrerequisiteQuest": [
+                {
+                    "Name": "Old Enemies, New Threats",
+                    "Url": "/lodestone/playguide/db/quest/ef125190f21/",
+                    "Area": "The Rising Stones",
+                    "Level": "80"
+                }
+            ],
+            "FollowupQuest": [
+                {
+                    "Name": "Sleep Now in Sapphire",
+                    "Url": "/lodestone/playguide/db/quest/2204cf37dca/",
+                    "Area": "The Lochs",
+                    "Level": "80"
+                }
+            ],
+            "RelatedNPC": [
+                {
+                    "Name": "Gaius",
+                    "Url": "/lodestone/playguide/db/npc/npc/838118015e4/",
+                    "Area": "Eorzean Alliance Headquarters (X:6.0 Y:5.9)"
+                },
+                {
+                    "Name": "Gaius",
+                    "Url": "/lodestone/playguide/db/npc/npc/297132b3c24/",
+                    "Area": "Eorzean Alliance Headquarters (X:6.0 Y:5.9)"
+                },
+                {
+                    "Name": "Gaius",
+                    "Url": "/lodestone/playguide/db/npc/npc/2f3d6396f00/",
+                    "Area": "Eorzean Alliance Headquarters (X:6.2 Y:6.1)"
+                },
+                {
+                    "Name": "Resistance Escort",
+                    "Url": "/lodestone/playguide/db/npc/npc/699512f6c45/",
+                    "Area": "Eorzean Alliance Headquarters (X:6.4 Y:6.1)"
+                },
+                {
+                    "Name": "Severa",
+                    "Url": "/lodestone/playguide/db/npc/npc/64b4394705d/",
+                    "Area": "Eorzean Alliance Headquarters (X:6.0 Y:5.9)"
+                },
+                {
+                    "Name": "Severa",
+                    "Url": "/lodestone/playguide/db/npc/npc/16f479d538a/",
+                    "Area": "Eorzean Alliance Headquarters (X:6.0 Y:5.9)"
+                },
+                {
+                    "Name": "Valdeaulin",
+                    "Url": "/lodestone/playguide/db/npc/npc/362bab0b698/",
+                    "Area": "Eorzean Alliance Headquarters (X:6.1 Y:5.9)"
+                },
+                {
+                    "Name": "Valdeaulin",
+                    "Url": "/lodestone/playguide/db/npc/npc/9a696e7e53f/",
+                    "Area": "Eorzean Alliance Headquarters (X:6.1 Y:5.9)"
+                },
+                {
+                    "Name": "Resistance Fighter",
+                    "Url": "/lodestone/playguide/db/npc/npc/e68d1b9d13d/",
+                    "Area": "The Lochs (X:10.9 Y:21.1)"
+                },
+                {
+                    "Name": "Resistance Officer",
+                    "Url": "/lodestone/playguide/db/npc/npc/5145fc200b6/",
+                    "Area": "The Lochs (X:11.3 Y:22.5)"
+                },
+                {
+                    "Name": "Warmachina Fanatic",
+                    "Url": "/lodestone/playguide/db/npc/npc/2ccacb99814/",
+                    "Area": "The Lochs (X:11.5 Y:22.5)"
+                }
+            ]
+        },
+        "Seq": 3,
+        "StartDependency": false
+    },
+    {
+        "ID": "c351fc217ef",
+        "Name": "In Memory",
+        "Location": "The Lochs",
+        "Level": 80,
+        "JournalSection": 2,
+        "JournalCategory": 23,
+        "JournalGenre": "Chronicles of a New Era - The Sorrow of Werlyt",
+        "Url": "/lodestone/playguide/db/quest/c351fc217ef/",
+        "Image": "https://img.finalfantasyxiv.com/lds/pc/global/images/itemicon/35/35e1ac7cf3ac40d41936aa70f1b862e48f0616a6.png?n6.05",
+        "Icon": "function_normal",
+        "Issuer": "Resistance Officer",
+        "StartLocation": {
+            "Name": "The Lochs",
+            "X": "11.3",
+            "Y": "22.5"
+        },
+        "StartClass": null,
+        "Job": "Any Disciple of War or Magic (excluding limited jobs)",
+        "Company": "Not specified",
+        "Requirement": "Not specified",
+        "Rewards": {
+            "Gil": 855,
+            "Exp": 0,
+            "ItemsMand": [],
+            "ItemsOpt": []
+        },
+        "Infos": {
+            "PrerequisiteQuest": [
+                {
+                    "Name": "Blood of Emerald",
+                    "Url": "/lodestone/playguide/db/quest/931c52aabb5/",
+                    "Area": "The Lochs",
+                    "Level": "80"
+                }
+            ],
+            "FollowupQuest": [
+                {
+                    "Name": "Duty in the Sky with Diamond",
+                    "Url": "/lodestone/playguide/db/quest/e633761020c/",
+                    "Area": "The Lochs",
+                    "Level": "80"
+                }
+            ],
+            "RelatedNPC": [
+                {
+                    "Name": "Resistance Escort",
+                    "Url": "/lodestone/playguide/db/npc/npc/a4526351191/",
+                    "Area": "The Lochs (X:10.8 Y:20.5)"
+                },
+                {
+                    "Name": "Avilina",
+                    "Url": "/lodestone/playguide/db/npc/npc/705fdf49b08/",
+                    "Area": "Terncliff (X:6.2 Y:6.0)"
+                },
+                {
+                    "Name": "Burly Engineer",
+                    "Url": "/lodestone/playguide/db/npc/npc/83b5fc7c45a/",
+                    "Area": "Terncliff (X:6.1 Y:6.0)"
+                },
+                {
+                    "Name": "Despondent Civilian",
+                    "Url": "/lodestone/playguide/db/npc/npc/8cef9360ba7/",
+                    "Area": "Terncliff (X:7.2 Y:6.1)"
+                }
+            ]
+        },
+        "Seq": 3,
+        "StartDependency": false
+    },
+    {
+        "ID": "e633761020c",
+        "Name": "Duty in the Sky with Diamond",
+        "Location": "The Lochs",
+        "Level": 80,
+        "JournalSection": 2,
+        "JournalCategory": 23,
+        "JournalGenre": "Chronicles of a New Era - The Sorrow of Werlyt",
+        "Url": "/lodestone/playguide/db/quest/e633761020c/",
+        "Image": "https://img.finalfantasyxiv.com/lds/pc/global/images/itemicon/ef/ef7db43cda82de299afef092dd70b1488bbd7f0e.png?n6.05",
+        "Icon": "function_normal",
+        "Issuer": "Resistance Officer",
+        "StartLocation": {
+            "Name": "The Lochs",
+            "X": "11.3",
+            "Y": "22.5"
+        },
+        "StartClass": null,
+        "Job": "Any Disciple of War or Magic (excluding limited jobs)",
+        "Company": "Not specified",
+        "Requirement": "Not specified",
+        "Rewards": {
+            "Gil": 0,
+            "Exp": 0,
+            "ItemsMand": [
+                {
+                    "Icon": "https://img.finalfantasyxiv.com/lds/pc/global/images/itemicon/7e/7eaa53e1fe9e2bd80f81d9ce69c98c24f6223b0b.png?n6.05",
+                    "Name": "And Love You Shall Find Orchestrion Roll",
+                    "Amount": 1,
+                    "Url": "/lodestone/playguide/db/item/ee0076b250a/"
+                }
+            ],
+            "ItemsOpt": []
+        },
+        "Infos": {
+            "PrerequisiteQuest": [
+                {
+                    "Name": "In Memory",
+                    "Url": "/lodestone/playguide/db/quest/c351fc217ef/",
+                    "Area": "The Lochs",
+                    "Level": "80"
+                }
+            ],
+            "FollowupQuest": [
+                {
+                    "Name": "Forever at Your Side",
+                    "Url": "/lodestone/playguide/db/quest/ac1352f077f/",
+                    "Area": "The Lochs",
+                    "Level": "80"
+                }
+            ],
+            "RelatedNPC": [
+                {
+                    "Name": "M'naago",
+                    "Url": "/lodestone/playguide/db/npc/npc/599ba2bae3c/",
+                    "Area": "Rhalgr's Reach (X:14.6 Y:9.4)"
+                },
+                {
+                    "Name": "Ironworks Pilot",
+                    "Url": "/lodestone/playguide/db/npc/npc/cff47247620/",
+                    "Area": "The Lochs (X:10.8 Y:20.6)"
+                },
+                {
+                    "Name": "Resistance Escort",
+                    "Url": "/lodestone/playguide/db/npc/npc/a4526351191/",
+                    "Area": "The Lochs (X:10.8 Y:20.5)"
+                },
+                {
+                    "Name": "Avilina",
+                    "Url": "/lodestone/playguide/db/npc/npc/41941609af9/",
+                    "Area": "G-Savior Deck (X:5.6 Y:5.9)"
+                },
+                {
+                    "Name": "Cid",
+                    "Url": "/lodestone/playguide/db/npc/npc/d973e75cda6/",
+                    "Area": "G-Savior Deck (X:5.6 Y:5.8)"
+                },
+                {
+                    "Name": "Gaius",
+                    "Url": "/lodestone/playguide/db/npc/npc/fa996ebe3df/",
+                    "Area": "G-Savior Deck (X:5.7 Y:5.8)"
+                },
+                {
+                    "Name": "Severa",
+                    "Url": "/lodestone/playguide/db/npc/npc/8e4ed8784cc/",
+                    "Area": "G-Savior Deck (X:5.6 Y:5.9)"
+                },
+                {
+                    "Name": "Gaius",
+                    "Url": "/lodestone/playguide/db/npc/npc/4ea496ea16f/",
+                    "Area": "Terncliff (X:6.1 Y:5.9)"
+                },
+                {
+                    "Name": "Gaius",
+                    "Url": "/lodestone/playguide/db/npc/npc/3b227ef5fd1/",
+                    "Area": "Terncliff (X:6.3 Y:5.7)"
+                },
+                {
+                    "Name": "Gaius",
+                    "Url": "/lodestone/playguide/db/npc/npc/cdb0fefb4b4/",
+                    "Area": "Terncliff (X:7.0 Y:6.9)"
+                },
+                {
+                    "Name": "Ironworks Pilot",
+                    "Url": "/lodestone/playguide/db/npc/npc/75f5ee95be5/",
+                    "Area": "Terncliff (X:6.1 Y:5.9)"
+                },
+                {
+                    "Name": "Revolutionary Commander",
+                    "Url": "/lodestone/playguide/db/npc/npc/bf915849d61/",
+                    "Area": "Terncliff (X:6.3 Y:5.7)"
+                },
+                {
+                    "Name": "Revolutionary Soldier",
+                    "Url": "/lodestone/playguide/db/npc/npc/509a1f5c885/",
+                    "Area": "Terncliff (X:6.3 Y:5.7)"
+                },
+                {
+                    "Name": "Severa",
+                    "Url": "/lodestone/playguide/db/npc/npc/ef4b35455d0/",
+                    "Area": "Terncliff (X:6.2 Y:5.8)"
+                },
+                {
+                    "Name": "Severa",
+                    "Url": "/lodestone/playguide/db/npc/npc/b9134ba539c/",
+                    "Area": "Terncliff (X:7.1 Y:6.9)"
+                },
+                {
+                    "Name": "Severa",
+                    "Url": "/lodestone/playguide/db/npc/npc/d1282c8b9cd/",
+                    "Area": "Terncliff (X:5.8 Y:5.6)"
+                },
+                {
+                    "Name": "Valdeaulin",
+                    "Url": "/lodestone/playguide/db/npc/npc/837aab91b75/",
+                    "Area": "Terncliff (X:5.8 Y:5.6)"
+                }
+            ]
+        },
+        "Seq": 4,
+        "StartDependency": false
+    }
+]

@@ -1,0 +1,779 @@
+[
+    {
+        "ID": "0262fe02207",
+        "Name": "Let the Hunt Begin (Immortal Flames)",
+        "Location": "Ul'dah",
+        "Level": 50,
+        "JournalSection": 7,
+        "JournalCategory": 73,
+        "JournalGenre": "\n\t\t\t\t\t\t\tImmortal Flames Quests\n\t\t\t\t\t\t",
+        "Url": "/lodestone/playguide/db/quest/0262fe02207/",
+        "Image": null,
+        "Icon": "function_normal",
+        "Issuer": "Mimio Mio",
+        "StartLocation": {
+            "Name": "Ul'dah - Steps of Nald",
+            "X": "8.6",
+            "Y": "9.4"
+        },
+        "StartClass": null,
+        "Job": "",
+        "Company": "Immortal Flames / Over Second Flame Lieutenant",
+        "Requirement": "Not specified",
+        "Rewards": {
+            "Gil": 433,
+            "Exp": 0,
+            "ItemsMand": [],
+            "ItemsOpt": []
+        },
+        "Infos": {
+            "FollowupQuest": [
+                {
+                    "Name": "Let the Clan Hunt Begin",
+                    "Url": "/lodestone/playguide/db/quest/78b452d40d8/",
+                    "Area": "Ishgard",
+                    "Level": "53"
+                }
+            ],
+            "RelatedNPC": [
+                {
+                    "Name": "Hunt Billmaster",
+                    "Url": "/lodestone/playguide/db/shop/6d49026aada/",
+                    "Area": "Ul'dah - Steps of Nald (X:8.1 Y:9.3)"
+                }
+            ]
+        },
+        "Seq": 14,
+        "StartDependency": false
+    },
+    {
+        "ID": "060f297c073",
+        "Name": "Shadows Uncast (Immortal Flames)",
+        "Location": "Ul'dah",
+        "Level": 44,
+        "JournalSection": 7,
+        "JournalCategory": 73,
+        "JournalGenre": "\n\t\t\t\t\t\t\tImmortal Flames Quests\n\t\t\t\t\t\t",
+        "Url": "/lodestone/playguide/db/quest/060f297c073/",
+        "Image": null,
+        "Icon": "function_normal",
+        "Issuer": "Swift",
+        "StartLocation": {
+            "Name": "Ul'dah - Steps of Nald",
+            "X": "8.4",
+            "Y": "8.9"
+        },
+        "StartClass": null,
+        "Job": "",
+        "Company": "Immortal Flames / Over Flame Sergeant First Class",
+        "Requirement": "Not specified",
+        "Rewards": {
+            "Gil": 0,
+            "Exp": 5830,
+            "ItemsMand": [],
+            "ItemsOpt": []
+        },
+        "Infos": {
+            "FollowupQuest": [
+                {
+                    "Name": "Gilding the Bilious (Immortal Flames)",
+                    "Url": "/lodestone/playguide/db/quest/f664c7268d9/",
+                    "Area": "Ul'dah",
+                    "Level": "47"
+                }
+            ],
+            "RelatedNPC": [
+                {
+                    "Name": "Ophelie",
+                    "Url": "/lodestone/playguide/db/npc/npc/30d183edf50/",
+                    "Area": "Coerthas Central Highlands (X:19.8 Y:27.8)"
+                }
+            ]
+        },
+        "Seq": 12,
+        "StartDependency": false
+    },
+    {
+        "ID": "200309855fa",
+        "Name": "Gilding the Bilious (Maelstrom)",
+        "Location": "Limsa Lominsa",
+        "Level": 47,
+        "JournalSection": 7,
+        "JournalCategory": 73,
+        "JournalGenre": "\n\t\t\t\t\t\t\tMaelstrom Quests\n\t\t\t\t\t\t",
+        "Url": "/lodestone/playguide/db/quest/200309855fa/",
+        "Image": null,
+        "Icon": "function_normal",
+        "Issuer": "R'ashaht Rhiki",
+        "StartLocation": {
+            "Name": "Limsa Lominsa Upper Decks",
+            "X": "13.1",
+            "Y": "12.8"
+        },
+        "StartClass": null,
+        "Job": "",
+        "Company": "Maelstrom / Over Chief Storm Sergeant",
+        "Requirement": "Not specified",
+        "Rewards": {
+            "Gil": 0,
+            "Exp": 0,
+            "ItemsMand": [],
+            "ItemsOpt": []
+        },
+        "Infos": {
+            "PrerequisiteQuest": [
+                {
+                    "Name": "Shadows Uncast (Maelstrom)",
+                    "Url": "/lodestone/playguide/db/quest/b08d7bf6a75/",
+                    "Area": "Limsa Lominsa",
+                    "Level": "44"
+                }
+            ],
+            "RelatedNPC": [
+                {
+                    "Name": "Willielmus",
+                    "Url": "/lodestone/playguide/db/npc/npc/33cebbdc2f4/",
+                    "Area": "Coerthas Central Highlands (X:14.3 Y:35.3)"
+                }
+            ]
+        },
+        "Seq": 3,
+        "StartDependency": false
+    },
+    {
+        "ID": "2d4ab5f47e9",
+        "Name": "Like Civilized Men and Women (Maelstrom)",
+        "Location": "Limsa Lominsa",
+        "Level": 30,
+        "JournalSection": 7,
+        "JournalCategory": 73,
+        "JournalGenre": "\n\t\t\t\t\t\t\tMaelstrom Quests\n\t\t\t\t\t\t",
+        "Url": "/lodestone/playguide/db/quest/2d4ab5f47e9/",
+        "Image": "https://img.finalfantasyxiv.com/lds/pc/global/images/itemicon/f1/f1d02380c19b2ce4e01253692d947e4a7eaa6b53.png?n6.05",
+        "Icon": "function_normal",
+        "Issuer": "Trachraet",
+        "StartLocation": {
+            "Name": "Limsa Lominsa Upper Decks",
+            "X": "12.7",
+            "Y": "12.8"
+        },
+        "StartClass": null,
+        "Job": "",
+        "Company": "Maelstrom",
+        "Requirement": "Not specified",
+        "Rewards": {
+            "Gil": 367,
+            "Exp": 0,
+            "ItemsMand": [],
+            "ItemsOpt": []
+        },
+        "Infos": {
+            "PrerequisiteQuest": [
+                {
+                    "Name": "A Pup No Longer (Maelstrom)",
+                    "Url": "/lodestone/playguide/db/quest/f77f912eeff/",
+                    "Area": "Limsa Lominsa",
+                    "Level": "30"
+                },
+                {
+                    "Name": "A Pup No Longer (Twin Adder)",
+                    "Url": "/lodestone/playguide/db/quest/d8fe24a2b5d/",
+                    "Area": "Gridania",
+                    "Level": "30"
+                },
+                {
+                    "Name": "A Pup No Longer (Immortal Flames)",
+                    "Url": "/lodestone/playguide/db/quest/d2c5aac1de8/",
+                    "Area": "Ul'dah",
+                    "Level": "30"
+                }
+            ],
+            "RelatedNPC": [
+                {
+                    "Name": "Foreign Levy Flyer",
+                    "Url": "/lodestone/playguide/db/npc/npc/3bff95c99de/",
+                    "Area": "Limsa Lominsa Upper Decks (X:10.8 Y:11.2)"
+                }
+            ]
+        },
+        "Seq": 1,
+        "StartDependency": false
+    },
+    {
+        "ID": "32c7488b0f1",
+        "Name": "Let the Hunt Begin (Twin Adder)",
+        "Location": "Gridania",
+        "Level": 50,
+        "JournalSection": 7,
+        "JournalCategory": 73,
+        "JournalGenre": "\n\t\t\t\t\t\t\tOrder of the Twin Adder Quests\n\t\t\t\t\t\t",
+        "Url": "/lodestone/playguide/db/quest/32c7488b0f1/",
+        "Image": null,
+        "Icon": "function_normal",
+        "Issuer": "Scarlet",
+        "StartLocation": {
+            "Name": "New Gridania",
+            "X": "9.9",
+            "Y": "11.4"
+        },
+        "StartClass": null,
+        "Job": "",
+        "Company": "Order of the Twin Adder / Over Second Serpent Lieutenant",
+        "Requirement": "Not specified",
+        "Rewards": {
+            "Gil": 433,
+            "Exp": 0,
+            "ItemsMand": [],
+            "ItemsOpt": []
+        },
+        "Infos": {
+            "FollowupQuest": [
+                {
+                    "Name": "Let the Clan Hunt Begin",
+                    "Url": "/lodestone/playguide/db/quest/78b452d40d8/",
+                    "Area": "Ishgard",
+                    "Level": "53"
+                }
+            ],
+            "RelatedNPC": [
+                {
+                    "Name": "Hunt Billmaster",
+                    "Url": "/lodestone/playguide/db/shop/3a4229b9b91/",
+                    "Area": "New Gridania (X:9.7 Y:11.3)"
+                }
+            ]
+        },
+        "Seq": 9,
+        "StartDependency": false
+    },
+    {
+        "ID": "363811b27b4",
+        "Name": "Let the Hunt Begin (Maelstrom)",
+        "Location": "Limsa Lominsa",
+        "Level": 50,
+        "JournalSection": 7,
+        "JournalCategory": 73,
+        "JournalGenre": "\n\t\t\t\t\t\t\tMaelstrom Quests\n\t\t\t\t\t\t",
+        "Url": "/lodestone/playguide/db/quest/363811b27b4/",
+        "Image": null,
+        "Icon": "function_normal",
+        "Issuer": "Trachraet",
+        "StartLocation": {
+            "Name": "Limsa Lominsa Upper Decks",
+            "X": "12.7",
+            "Y": "12.8"
+        },
+        "StartClass": null,
+        "Job": "",
+        "Company": "Maelstrom / Over Second Storm Lieutenant",
+        "Requirement": "Not specified",
+        "Rewards": {
+            "Gil": 433,
+            "Exp": 0,
+            "ItemsMand": [],
+            "ItemsOpt": []
+        },
+        "Infos": {
+            "FollowupQuest": [
+                {
+                    "Name": "Let the Clan Hunt Begin",
+                    "Url": "/lodestone/playguide/db/quest/78b452d40d8/",
+                    "Area": "Ishgard",
+                    "Level": "53"
+                }
+            ],
+            "RelatedNPC": [
+                {
+                    "Name": "Hunt Billmaster",
+                    "Url": "/lodestone/playguide/db/shop/ed586fa817a/",
+                    "Area": "Limsa Lominsa Upper Decks (X:13.1 Y:12.4)"
+                }
+            ]
+        },
+        "Seq": 4,
+        "StartDependency": false
+    },
+    {
+        "ID": "57a8adf321a",
+        "Name": "Shadows Uncast (Twin Adder)",
+        "Location": "Gridania",
+        "Level": 44,
+        "JournalSection": 7,
+        "JournalCategory": 73,
+        "JournalGenre": "\n\t\t\t\t\t\t\tOrder of the Twin Adder Quests\n\t\t\t\t\t\t",
+        "Url": "/lodestone/playguide/db/quest/57a8adf321a/",
+        "Image": null,
+        "Icon": "function_normal",
+        "Issuer": "Vorsaile Heuloix",
+        "StartLocation": {
+            "Name": "New Gridania",
+            "X": "9.7",
+            "Y": "11.1"
+        },
+        "StartClass": null,
+        "Job": "",
+        "Company": "Order of the Twin Adder / Over Serpent Sergeant First Class",
+        "Requirement": "Not specified",
+        "Rewards": {
+            "Gil": 0,
+            "Exp": 5830,
+            "ItemsMand": [],
+            "ItemsOpt": []
+        },
+        "Infos": {
+            "FollowupQuest": [
+                {
+                    "Name": "Gilding the Bilious (Twin Adder)",
+                    "Url": "/lodestone/playguide/db/quest/f90014ba7be/",
+                    "Area": "Gridania",
+                    "Level": "47"
+                }
+            ],
+            "RelatedNPC": [
+                {
+                    "Name": "Ophelie",
+                    "Url": "/lodestone/playguide/db/npc/npc/30d183edf50/",
+                    "Area": "Coerthas Central Highlands (X:19.8 Y:27.8)"
+                }
+            ]
+        },
+        "Seq": 7,
+        "StartDependency": false
+    },
+    {
+        "ID": "60d4d077629",
+        "Name": "Like Civilized Men and Women (Immortal Flames)",
+        "Location": "Ul'dah",
+        "Level": 30,
+        "JournalSection": 7,
+        "JournalCategory": 73,
+        "JournalGenre": "\n\t\t\t\t\t\t\tImmortal Flames Quests\n\t\t\t\t\t\t",
+        "Url": "/lodestone/playguide/db/quest/60d4d077629/",
+        "Image": "https://img.finalfantasyxiv.com/lds/pc/global/images/itemicon/f1/f1d02380c19b2ce4e01253692d947e4a7eaa6b53.png?n6.05",
+        "Icon": "function_normal",
+        "Issuer": "Mimio Mio",
+        "StartLocation": {
+            "Name": "Ul'dah - Steps of Nald",
+            "X": "8.6",
+            "Y": "9.4"
+        },
+        "StartClass": null,
+        "Job": "",
+        "Company": "Immortal Flames",
+        "Requirement": "Not specified",
+        "Rewards": {
+            "Gil": 367,
+            "Exp": 0,
+            "ItemsMand": [],
+            "ItemsOpt": []
+        },
+        "Infos": {
+            "PrerequisiteQuest": [
+                {
+                    "Name": "A Pup No Longer (Maelstrom)",
+                    "Url": "/lodestone/playguide/db/quest/f77f912eeff/",
+                    "Area": "Limsa Lominsa",
+                    "Level": "30"
+                },
+                {
+                    "Name": "A Pup No Longer (Twin Adder)",
+                    "Url": "/lodestone/playguide/db/quest/d8fe24a2b5d/",
+                    "Area": "Gridania",
+                    "Level": "30"
+                },
+                {
+                    "Name": "A Pup No Longer (Immortal Flames)",
+                    "Url": "/lodestone/playguide/db/quest/d2c5aac1de8/",
+                    "Area": "Ul'dah",
+                    "Level": "30"
+                }
+            ],
+            "RelatedNPC": [
+                {
+                    "Name": "Free Brigade Flyer",
+                    "Url": "/lodestone/playguide/db/npc/npc/d6e0ac63eca/",
+                    "Area": "Ul'dah - Steps of Nald (X:10.5 Y:11.0)"
+                }
+            ]
+        },
+        "Seq": 11,
+        "StartDependency": false
+    },
+    {
+        "ID": "b08d7bf6a75",
+        "Name": "Shadows Uncast (Maelstrom)",
+        "Location": "Limsa Lominsa",
+        "Level": 44,
+        "JournalSection": 7,
+        "JournalCategory": 73,
+        "JournalGenre": "\n\t\t\t\t\t\t\tMaelstrom Quests\n\t\t\t\t\t\t",
+        "Url": "/lodestone/playguide/db/quest/b08d7bf6a75/",
+        "Image": null,
+        "Icon": "function_normal",
+        "Issuer": "R'ashaht Rhiki",
+        "StartLocation": {
+            "Name": "Limsa Lominsa Upper Decks",
+            "X": "13.1",
+            "Y": "12.8"
+        },
+        "StartClass": null,
+        "Job": "",
+        "Company": "Maelstrom / Over Storm Sergeant First Class",
+        "Requirement": "Not specified",
+        "Rewards": {
+            "Gil": 0,
+            "Exp": 5830,
+            "ItemsMand": [],
+            "ItemsOpt": []
+        },
+        "Infos": {
+            "FollowupQuest": [
+                {
+                    "Name": "Gilding the Bilious (Maelstrom)",
+                    "Url": "/lodestone/playguide/db/quest/200309855fa/",
+                    "Area": "Limsa Lominsa",
+                    "Level": "47"
+                }
+            ],
+            "RelatedNPC": [
+                {
+                    "Name": "Ophelie",
+                    "Url": "/lodestone/playguide/db/npc/npc/30d183edf50/",
+                    "Area": "Coerthas Central Highlands (X:19.8 Y:27.8)"
+                }
+            ]
+        },
+        "Seq": 2,
+        "StartDependency": false
+    },
+    {
+        "ID": "d2c5aac1de8",
+        "Name": "A Pup No Longer (Immortal Flames)",
+        "Location": "Ul'dah",
+        "Level": 30,
+        "JournalSection": 7,
+        "JournalCategory": 73,
+        "JournalGenre": "\n\t\t\t\t\t\t\tImmortal Flames Quests\n\t\t\t\t\t\t",
+        "Url": "/lodestone/playguide/db/quest/d2c5aac1de8/",
+        "Image": "https://img.finalfantasyxiv.com/lds/pc/global/images/itemicon/e6/e67450ebd0b3cfc2d181d2e5c19451379ef5f9cd.png?n6.05",
+        "Icon": "function_normal",
+        "Issuer": "Swift",
+        "StartLocation": {
+            "Name": "Ul'dah - Steps of Nald",
+            "X": "8.4",
+            "Y": "8.9"
+        },
+        "StartClass": null,
+        "Job": "",
+        "Company": "Immortal Flames",
+        "Requirement": "Not specified",
+        "Rewards": {
+            "Gil": 0,
+            "Exp": 0,
+            "ItemsMand": [],
+            "ItemsOpt": []
+        },
+        "Infos": {
+            "FollowupQuest": [
+                {
+                    "Name": "Like Civilized Men and Women (Maelstrom)",
+                    "Url": "/lodestone/playguide/db/quest/2d4ab5f47e9/",
+                    "Area": "Limsa Lominsa",
+                    "Level": "30"
+                },
+                {
+                    "Name": "Like Civilized Men and Women (Twin Adder)",
+                    "Url": "/lodestone/playguide/db/quest/f7e72afa88e/",
+                    "Area": "Gridania",
+                    "Level": "30"
+                },
+                {
+                    "Name": "Like Civilized Men and Women (Immortal Flames)",
+                    "Url": "/lodestone/playguide/db/quest/60d4d077629/",
+                    "Area": "Ul'dah",
+                    "Level": "30"
+                }
+            ],
+            "RelatedNPC": [
+                {
+                    "Name": "Berkoeya Loetahlsyn",
+                    "Url": "/lodestone/playguide/db/npc/npc/37b35647257/",
+                    "Area": "Wolves' Den Pier (X:4.5 Y:5.5)"
+                }
+            ]
+        },
+        "Seq": 10,
+        "StartDependency": false
+    },
+    {
+        "ID": "d8fe24a2b5d",
+        "Name": "A Pup No Longer (Twin Adder)",
+        "Location": "Gridania",
+        "Level": 30,
+        "JournalSection": 7,
+        "JournalCategory": 73,
+        "JournalGenre": "\n\t\t\t\t\t\t\tOrder of the Twin Adder Quests\n\t\t\t\t\t\t",
+        "Url": "/lodestone/playguide/db/quest/d8fe24a2b5d/",
+        "Image": "https://img.finalfantasyxiv.com/lds/pc/global/images/itemicon/e6/e67450ebd0b3cfc2d181d2e5c19451379ef5f9cd.png?n6.05",
+        "Icon": "function_normal",
+        "Issuer": "Vorsaile Heuloix",
+        "StartLocation": {
+            "Name": "New Gridania",
+            "X": "9.7",
+            "Y": "11.1"
+        },
+        "StartClass": null,
+        "Job": "",
+        "Company": "Order of the Twin Adder",
+        "Requirement": "Not specified",
+        "Rewards": {
+            "Gil": 0,
+            "Exp": 0,
+            "ItemsMand": [],
+            "ItemsOpt": []
+        },
+        "Infos": {
+            "FollowupQuest": [
+                {
+                    "Name": "Like Civilized Men and Women (Maelstrom)",
+                    "Url": "/lodestone/playguide/db/quest/2d4ab5f47e9/",
+                    "Area": "Limsa Lominsa",
+                    "Level": "30"
+                },
+                {
+                    "Name": "Like Civilized Men and Women (Twin Adder)",
+                    "Url": "/lodestone/playguide/db/quest/f7e72afa88e/",
+                    "Area": "Gridania",
+                    "Level": "30"
+                },
+                {
+                    "Name": "Like Civilized Men and Women (Immortal Flames)",
+                    "Url": "/lodestone/playguide/db/quest/60d4d077629/",
+                    "Area": "Ul'dah",
+                    "Level": "30"
+                }
+            ],
+            "RelatedNPC": [
+                {
+                    "Name": "Berkoeya Loetahlsyn",
+                    "Url": "/lodestone/playguide/db/npc/npc/37b35647257/",
+                    "Area": "Wolves' Den Pier (X:4.5 Y:5.5)"
+                }
+            ]
+        },
+        "Seq": 5,
+        "StartDependency": false
+    },
+    {
+        "ID": "f664c7268d9",
+        "Name": "Gilding the Bilious (Immortal Flames)",
+        "Location": "Ul'dah",
+        "Level": 47,
+        "JournalSection": 7,
+        "JournalCategory": 73,
+        "JournalGenre": "\n\t\t\t\t\t\t\tImmortal Flames Quests\n\t\t\t\t\t\t",
+        "Url": "/lodestone/playguide/db/quest/f664c7268d9/",
+        "Image": null,
+        "Icon": "function_normal",
+        "Issuer": "Swift",
+        "StartLocation": {
+            "Name": "Ul'dah - Steps of Nald",
+            "X": "8.4",
+            "Y": "8.9"
+        },
+        "StartClass": null,
+        "Job": "",
+        "Company": "Immortal Flames / Over Chief Flame Sergeant",
+        "Requirement": "Not specified",
+        "Rewards": {
+            "Gil": 0,
+            "Exp": 0,
+            "ItemsMand": [],
+            "ItemsOpt": []
+        },
+        "Infos": {
+            "PrerequisiteQuest": [
+                {
+                    "Name": "Shadows Uncast (Immortal Flames)",
+                    "Url": "/lodestone/playguide/db/quest/060f297c073/",
+                    "Area": "Ul'dah",
+                    "Level": "44"
+                }
+            ],
+            "RelatedNPC": [
+                {
+                    "Name": "Willielmus",
+                    "Url": "/lodestone/playguide/db/npc/npc/33cebbdc2f4/",
+                    "Area": "Coerthas Central Highlands (X:14.3 Y:35.3)"
+                }
+            ]
+        },
+        "Seq": 13,
+        "StartDependency": false
+    },
+    {
+        "ID": "f77f912eeff",
+        "Name": "A Pup No Longer (Maelstrom)",
+        "Location": "Limsa Lominsa",
+        "Level": 30,
+        "JournalSection": 7,
+        "JournalCategory": 73,
+        "JournalGenre": "\n\t\t\t\t\t\t\tMaelstrom Quests\n\t\t\t\t\t\t",
+        "Url": "/lodestone/playguide/db/quest/f77f912eeff/",
+        "Image": "https://img.finalfantasyxiv.com/lds/pc/global/images/itemicon/e6/e67450ebd0b3cfc2d181d2e5c19451379ef5f9cd.png?n6.05",
+        "Icon": "function_normal",
+        "Issuer": "R'ashaht Rhiki",
+        "StartLocation": {
+            "Name": "Limsa Lominsa Upper Decks",
+            "X": "13.1",
+            "Y": "12.8"
+        },
+        "StartClass": null,
+        "Job": "",
+        "Company": "Maelstrom",
+        "Requirement": "Not specified",
+        "Rewards": {
+            "Gil": 0,
+            "Exp": 0,
+            "ItemsMand": [],
+            "ItemsOpt": []
+        },
+        "Infos": {
+            "FollowupQuest": [
+                {
+                    "Name": "Like Civilized Men and Women (Maelstrom)",
+                    "Url": "/lodestone/playguide/db/quest/2d4ab5f47e9/",
+                    "Area": "Limsa Lominsa",
+                    "Level": "30"
+                },
+                {
+                    "Name": "Like Civilized Men and Women (Twin Adder)",
+                    "Url": "/lodestone/playguide/db/quest/f7e72afa88e/",
+                    "Area": "Gridania",
+                    "Level": "30"
+                },
+                {
+                    "Name": "Like Civilized Men and Women (Immortal Flames)",
+                    "Url": "/lodestone/playguide/db/quest/60d4d077629/",
+                    "Area": "Ul'dah",
+                    "Level": "30"
+                }
+            ],
+            "RelatedNPC": [
+                {
+                    "Name": "Berkoeya Loetahlsyn",
+                    "Url": "/lodestone/playguide/db/npc/npc/37b35647257/",
+                    "Area": "Wolves' Den Pier (X:4.5 Y:5.5)"
+                }
+            ]
+        },
+        "Seq": 12,
+        "StartDependency": false
+    },
+    {
+        "ID": "f7e72afa88e",
+        "Name": "Like Civilized Men and Women (Twin Adder)",
+        "Location": "Gridania",
+        "Level": 30,
+        "JournalSection": 7,
+        "JournalCategory": 73,
+        "JournalGenre": "\n\t\t\t\t\t\t\tOrder of the Twin Adder Quests\n\t\t\t\t\t\t",
+        "Url": "/lodestone/playguide/db/quest/f7e72afa88e/",
+        "Image": "https://img.finalfantasyxiv.com/lds/pc/global/images/itemicon/f1/f1d02380c19b2ce4e01253692d947e4a7eaa6b53.png?n6.05",
+        "Icon": "function_normal",
+        "Issuer": "Scarlet",
+        "StartLocation": {
+            "Name": "New Gridania",
+            "X": "9.9",
+            "Y": "11.4"
+        },
+        "StartClass": null,
+        "Job": "",
+        "Company": "Order of the Twin Adder",
+        "Requirement": "Not specified",
+        "Rewards": {
+            "Gil": 367,
+            "Exp": 0,
+            "ItemsMand": [],
+            "ItemsOpt": []
+        },
+        "Infos": {
+            "PrerequisiteQuest": [
+                {
+                    "Name": "A Pup No Longer (Maelstrom)",
+                    "Url": "/lodestone/playguide/db/quest/f77f912eeff/",
+                    "Area": "Limsa Lominsa",
+                    "Level": "30"
+                },
+                {
+                    "Name": "A Pup No Longer (Twin Adder)",
+                    "Url": "/lodestone/playguide/db/quest/d8fe24a2b5d/",
+                    "Area": "Gridania",
+                    "Level": "30"
+                },
+                {
+                    "Name": "A Pup No Longer (Immortal Flames)",
+                    "Url": "/lodestone/playguide/db/quest/d2c5aac1de8/",
+                    "Area": "Ul'dah",
+                    "Level": "30"
+                }
+            ],
+            "RelatedNPC": [
+                {
+                    "Name": "Yellow Serpent Flyer",
+                    "Url": "/lodestone/playguide/db/npc/npc/9994e77be07/",
+                    "Area": "New Gridania (X:11.6 Y:13.4)"
+                }
+            ]
+        },
+        "Seq": 6,
+        "StartDependency": false
+    },
+    {
+        "ID": "f90014ba7be",
+        "Name": "Gilding the Bilious (Twin Adder)",
+        "Location": "Gridania",
+        "Level": 47,
+        "JournalSection": 7,
+        "JournalCategory": 73,
+        "JournalGenre": "\n\t\t\t\t\t\t\tOrder of the Twin Adder Quests\n\t\t\t\t\t\t",
+        "Url": "/lodestone/playguide/db/quest/f90014ba7be/",
+        "Image": null,
+        "Icon": "function_normal",
+        "Issuer": "Vorsaile Heuloix",
+        "StartLocation": {
+            "Name": "New Gridania",
+            "X": "9.7",
+            "Y": "11.1"
+        },
+        "StartClass": null,
+        "Job": "",
+        "Company": "Order of the Twin Adder / Over Chief Serpent Sergeant",
+        "Requirement": "Not specified",
+        "Rewards": {
+            "Gil": 0,
+            "Exp": 0,
+            "ItemsMand": [],
+            "ItemsOpt": []
+        },
+        "Infos": {
+            "PrerequisiteQuest": [
+                {
+                    "Name": "Shadows Uncast (Twin Adder)",
+                    "Url": "/lodestone/playguide/db/quest/57a8adf321a/",
+                    "Area": "Gridania",
+                    "Level": "44"
+                }
+            ],
+            "RelatedNPC": [
+                {
+                    "Name": "Willielmus",
+                    "Url": "/lodestone/playguide/db/npc/npc/33cebbdc2f4/",
+                    "Area": "Coerthas Central Highlands (X:14.3 Y:35.3)"
+                }
+            ]
+        },
+        "Seq": 8,
+        "StartDependency": false
+    }
+]

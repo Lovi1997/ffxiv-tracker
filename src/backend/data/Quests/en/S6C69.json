@@ -1,0 +1,2705 @@
+[
+    {
+        "ID": "0380061e05b",
+        "Name": "Professor Rurusha's New Friend",
+        "Location": "Old Sharlayan",
+        "Level": 80,
+        "JournalSection": 6,
+        "JournalCategory": 69,
+        "JournalGenre": "\n\t\t\t\t\t\t\tFaculty of Archaeology Quests\n\t\t\t\t\t\t",
+        "Url": "/lodestone/playguide/db/quest/0380061e05b/",
+        "Image": "https://img.finalfantasyxiv.com/lds/pc/global/images/itemicon/4f/4fa3e7744f017c2faaa2f33c16ce5ef3b3ac16b9.png?n6.05",
+        "Icon": "function_normal",
+        "Issuer": "Boric",
+        "StartLocation": {
+            "Name": "Old Sharlayan",
+            "X": "4.2",
+            "Y": "9.4"
+        },
+        "StartClass": null,
+        "Job": "",
+        "Company": "Not specified",
+        "Requirement": "Not specified",
+        "Rewards": {
+            "Gil": 0,
+            "Exp": 112200,
+            "ItemsMand": [
+                {
+                    "Icon": "https://img.finalfantasyxiv.com/lds/pc/global/images/itemicon/09/095c48d2cb88e6a5430a6438a24a8491dc9b5961.png?n6.05",
+                    "Name": "Chili Crab",
+                    "Amount": 2,
+                    "Url": "/lodestone/playguide/db/item/395fc8416a2/"
+                }
+            ],
+            "ItemsOpt": []
+        },
+        "Infos": {
+            "PrerequisiteQuest": [
+                {
+                    "Name": "The Faculty",
+                    "Url": "/lodestone/playguide/db/quest/b71995e5487/",
+                    "Area": "Old Sharlayan",
+                    "Level": "80"
+                }
+            ],
+            "FollowupQuest": [
+                {
+                    "Name": "The Dormant Dhyata",
+                    "Url": "/lodestone/playguide/db/quest/41afedaa67b/",
+                    "Area": "Old Sharlayan",
+                    "Level": "80"
+                }
+            ],
+            "RelatedNPC": [
+                {
+                    "Name": "Boric",
+                    "Url": "/lodestone/playguide/db/npc/npc/cd27e634a26/",
+                    "Area": "Old Sharlayan (X:5.7 Y:8.4)"
+                },
+                {
+                    "Name": "Boric",
+                    "Url": "/lodestone/playguide/db/npc/npc/6f21d08cbbc/",
+                    "Area": "Old Sharlayan (X:5.5 Y:8.7)"
+                },
+                {
+                    "Name": "Namono Tayamono",
+                    "Url": "/lodestone/playguide/db/npc/npc/3cbd81d5faa/",
+                    "Area": "Old Sharlayan (X:5.4 Y:8.6)"
+                },
+                {
+                    "Name": "Rurusha",
+                    "Url": "/lodestone/playguide/db/npc/npc/6a745626f94/",
+                    "Area": "Old Sharlayan (X:5.6 Y:8.4)"
+                },
+                {
+                    "Name": "Rurusha",
+                    "Url": "/lodestone/playguide/db/npc/npc/8960ba43609/",
+                    "Area": "Old Sharlayan (X:5.5 Y:8.7)"
+                }
+            ]
+        },
+        "Seq": 0,
+        "StartDependency": false
+    },
+    {
+        "ID": "081c5434365",
+        "Name": "A Friend in Need",
+        "Location": "Old Sharlayan",
+        "Level": 88,
+        "JournalSection": 6,
+        "JournalCategory": 69,
+        "JournalGenre": "\n\t\t\t\t\t\t\tFaculty of Archaeology Quests\n\t\t\t\t\t\t",
+        "Url": "/lodestone/playguide/db/quest/081c5434365/",
+        "Image": null,
+        "Icon": "common_normal",
+        "Issuer": "Rurusha",
+        "StartLocation": {
+            "Name": "Old Sharlayan",
+            "X": "5.6",
+            "Y": "8.4"
+        },
+        "StartClass": null,
+        "Job": "",
+        "Company": "Not specified",
+        "Requirement": "Not specified",
+        "Rewards": {
+            "Gil": 0,
+            "Exp": 125400,
+            "ItemsMand": [
+                {
+                    "Icon": "https://img.finalfantasyxiv.com/lds/pc/global/images/itemicon/6c/6c7e50ae7b0eb0c76554f383b2e2bccbbc8074f8.png?n6.05",
+                    "Name": "Tsai tou Vounou",
+                    "Amount": 2,
+                    "Url": "/lodestone/playguide/db/item/84fd8d880fd/"
+                }
+            ],
+            "ItemsOpt": []
+        },
+        "Infos": {
+            "PrerequisiteQuest": [
+                {
+                    "Name": "Boric's Choice",
+                    "Url": "/lodestone/playguide/db/quest/59e9c1af2c7/",
+                    "Area": "Old Sharlayan",
+                    "Level": "85"
+                }
+            ],
+            "FollowupQuest": [
+                {
+                    "Name": "Wayback Machine",
+                    "Url": "/lodestone/playguide/db/quest/5487a5e5d66/",
+                    "Area": "Old Sharlayan",
+                    "Level": "90"
+                }
+            ],
+            "RelatedNPC": [
+                {
+                    "Name": "Boric",
+                    "Url": "/lodestone/playguide/db/npc/npc/cd27e634a26/",
+                    "Area": "Old Sharlayan (X:5.7 Y:8.4)"
+                }
+            ]
+        },
+        "Seq": 5,
+        "StartDependency": false
+    },
+    {
+        "ID": "2b59501cd22",
+        "Name": "One Step Forward",
+        "Location": "Old Sharlayan",
+        "Level": 85,
+        "JournalSection": 6,
+        "JournalCategory": 69,
+        "JournalGenre": "\n\t\t\t\t\t\t\tFaculty of Astronomy Quests\n\t\t\t\t\t\t",
+        "Url": "/lodestone/playguide/db/quest/2b59501cd22/",
+        "Image": null,
+        "Icon": "common_normal",
+        "Issuer": "Jude",
+        "StartLocation": {
+            "Name": "Old Sharlayan",
+            "X": "5.3",
+            "Y": "7.9"
+        },
+        "StartClass": null,
+        "Job": "",
+        "Company": "Not specified",
+        "Requirement": "Not specified",
+        "Rewards": {
+            "Gil": 0,
+            "Exp": 120450,
+            "ItemsMand": [
+                {
+                    "Icon": "https://img.finalfantasyxiv.com/lds/pc/global/images/itemicon/da/da7216f73b0cc772e8f68f3feaf7d20bffa3f095.png?n6.05",
+                    "Name": "Happiness Juice",
+                    "Amount": 2,
+                    "Url": "/lodestone/playguide/db/item/5239a5ab87e/"
+                }
+            ],
+            "ItemsOpt": []
+        },
+        "Infos": {
+            "PrerequisiteQuest": [
+                {
+                    "Name": "Poetry Recital",
+                    "Url": "/lodestone/playguide/db/quest/6339e300326/",
+                    "Area": "Old Sharlayan",
+                    "Level": "83"
+                }
+            ],
+            "FollowupQuest": [
+                {
+                    "Name": "A Ten-year Promise",
+                    "Url": "/lodestone/playguide/db/quest/3f397ac5749/",
+                    "Area": "Old Sharlayan",
+                    "Level": "85"
+                }
+            ]
+        },
+        "Seq": 10,
+        "StartDependency": false
+    },
+    {
+        "ID": "30e256272ea",
+        "Name": "Sharlayan Cuisine",
+        "Location": "Old Sharlayan",
+        "Level": 90,
+        "JournalSection": 6,
+        "JournalCategory": 69,
+        "JournalGenre": "\n\t\t\t\t\t\t\tFaculty of Medicine Quests\n\t\t\t\t\t\t",
+        "Url": "/lodestone/playguide/db/quest/30e256272ea/",
+        "Image": "https://img.finalfantasyxiv.com/lds/pc/global/images/itemicon/58/58a89ebbe1e20d10f339c76b9c555524c2ca53d8.png?n6.05",
+        "Icon": "common_normal",
+        "Issuer": "Debroye",
+        "StartLocation": {
+            "Name": "Old Sharlayan",
+            "X": "5.4",
+            "Y": "8.2"
+        },
+        "StartClass": null,
+        "Job": "",
+        "Company": "Not specified",
+        "Requirement": "Not specified",
+        "Rewards": {
+            "Gil": 1001,
+            "Exp": 0,
+            "ItemsMand": [],
+            "ItemsOpt": [
+                {
+                    "Icon": "https://img.finalfantasyxiv.com/lds/pc/global/images/itemicon/36/362aacfec169d572a8bfc5a5d0bd70c5695e3dcf.png?n6.05",
+                    "Name": "Craftsman's Competence Materia X",
+                    "Amount": 1,
+                    "Url": "/lodestone/playguide/db/item/2fcd1b11c98/"
+                },
+                {
+                    "Icon": "https://img.finalfantasyxiv.com/lds/pc/global/images/itemicon/36/362aacfec169d572a8bfc5a5d0bd70c5695e3dcf.png?n6.05",
+                    "Name": "Craftsman's Cunning Materia X",
+                    "Amount": 1,
+                    "Url": "/lodestone/playguide/db/item/64ccb1e2a37/"
+                },
+                {
+                    "Icon": "https://img.finalfantasyxiv.com/lds/pc/global/images/itemicon/36/362aacfec169d572a8bfc5a5d0bd70c5695e3dcf.png?n6.05",
+                    "Name": "Craftsman's Command Materia X",
+                    "Amount": 1,
+                    "Url": "/lodestone/playguide/db/item/9fa3a0f1963/"
+                }
+            ]
+        },
+        "Infos": {
+            "PrerequisiteQuest": [
+                {
+                    "Name": "Perfectly Delectable",
+                    "Url": "/lodestone/playguide/db/quest/e1f1ac6dfe3/",
+                    "Area": "Old Sharlayan",
+                    "Level": "88"
+                }
+            ],
+            "FollowupQuest": [
+                {
+                    "Name": "The Meeting of Minds",
+                    "Url": "/lodestone/playguide/db/quest/7e7b4f5e975/",
+                    "Area": "Old Sharlayan",
+                    "Level": "90"
+                }
+            ],
+            "RelatedNPC": [
+                {
+                    "Name": "Debroye",
+                    "Url": "/lodestone/playguide/db/npc/npc/2d85aef6ffd/",
+                    "Area": "Old Sharlayan (X:11.0 Y:7.9)"
+                },
+                {
+                    "Name": "Debroye",
+                    "Url": "/lodestone/playguide/db/npc/npc/3b8ca96dbb1/",
+                    "Area": "Old Sharlayan (X:10.4 Y:13.3)"
+                },
+                {
+                    "Name": "Dickon",
+                    "Url": "/lodestone/playguide/db/npc/npc/0fb12e1ab43/",
+                    "Area": "Old Sharlayan (X:10.4 Y:13.3)"
+                }
+            ],
+            "RelatedAchievements": [
+                {
+                    "Name": "Winning Bread",
+                    "Url": "/lodestone/playguide/db/achievement/24cd4c6ade5/",
+                    "Reward": "Title",
+                    "Points": "5"
+                }
+            ]
+        },
+        "Seq": 20,
+        "StartDependency": false
+    },
+    {
+        "ID": "335bdf408a4",
+        "Name": "Long Live the Gourmet",
+        "Location": "Old Sharlayan",
+        "Level": 85,
+        "JournalSection": 6,
+        "JournalCategory": 69,
+        "JournalGenre": "\n\t\t\t\t\t\t\tFaculty of Medicine Quests\n\t\t\t\t\t\t",
+        "Url": "/lodestone/playguide/db/quest/335bdf408a4/",
+        "Image": null,
+        "Icon": "common_normal",
+        "Issuer": "Debroye",
+        "StartLocation": {
+            "Name": "Old Sharlayan",
+            "X": "5.4",
+            "Y": "8.2"
+        },
+        "StartClass": null,
+        "Job": "",
+        "Company": "Not specified",
+        "Requirement": "Not specified",
+        "Rewards": {
+            "Gil": 0,
+            "Exp": 120450,
+            "ItemsMand": [
+                {
+                    "Icon": "https://img.finalfantasyxiv.com/lds/pc/global/images/itemicon/21/21c6b808f0e4b460ec8b4f88908441f48c1eab51.png?n6.05",
+                    "Name": "Giant Haddock Dip",
+                    "Amount": 2,
+                    "Url": "/lodestone/playguide/db/item/0742f46674b/"
+                }
+            ],
+            "ItemsOpt": []
+        },
+        "Infos": {
+            "PrerequisiteQuest": [
+                {
+                    "Name": "Under His Wing",
+                    "Url": "/lodestone/playguide/db/quest/d84e3f2a32c/",
+                    "Area": "Thavnair",
+                    "Level": "85"
+                },
+                {
+                    "Name": "Aroma Is Key",
+                    "Url": "/lodestone/playguide/db/quest/a065a7c075e/",
+                    "Area": "Old Sharlayan",
+                    "Level": "85"
+                }
+            ],
+            "FollowupQuest": [
+                {
+                    "Name": "Perfectly Delectable",
+                    "Url": "/lodestone/playguide/db/quest/e1f1ac6dfe3/",
+                    "Area": "Old Sharlayan",
+                    "Level": "88"
+                }
+            ],
+            "RelatedNPC": [
+                {
+                    "Name": "Amiable Alchemist",
+                    "Url": "/lodestone/playguide/db/npc/npc/b3a597aa0d7/",
+                    "Area": "Radz-at-Han (X:12.9 Y:6.8)"
+                },
+                {
+                    "Name": "Apprentice Alchemist",
+                    "Url": "/lodestone/playguide/db/npc/npc/5bdb48ed21f/",
+                    "Area": "Radz-at-Han (X:13.8 Y:7.9)"
+                },
+                {
+                    "Name": "Debroye",
+                    "Url": "/lodestone/playguide/db/npc/npc/1790d1d7631/",
+                    "Area": "Radz-at-Han (X:10.9 Y:13.0)"
+                },
+                {
+                    "Name": "Debroye",
+                    "Url": "/lodestone/playguide/db/npc/npc/2ea6b0d73c5/",
+                    "Area": "Radz-at-Han (X:11.0 Y:6.9)"
+                },
+                {
+                    "Name": "Jalvaaz",
+                    "Url": "/lodestone/playguide/db/npc/npc/4f06508f5d1/",
+                    "Area": "Radz-at-Han (X:11.0 Y:6.9)"
+                },
+                {
+                    "Name": "Debroye",
+                    "Url": "/lodestone/playguide/db/npc/npc/ffdf1d4a056/",
+                    "Area": "Thavnair (X:24.9 Y:33.5)"
+                }
+            ]
+        },
+        "Seq": 18,
+        "StartDependency": false
+    },
+    {
+        "ID": "3f397ac5749",
+        "Name": "A Ten-year Promise",
+        "Location": "Old Sharlayan",
+        "Level": 85,
+        "JournalSection": 6,
+        "JournalCategory": 69,
+        "JournalGenre": "\n\t\t\t\t\t\t\tFaculty of Astronomy Quests\n\t\t\t\t\t\t",
+        "Url": "/lodestone/playguide/db/quest/3f397ac5749/",
+        "Image": null,
+        "Icon": "common_normal",
+        "Issuer": "Jude",
+        "StartLocation": {
+            "Name": "Old Sharlayan",
+            "X": "5.3",
+            "Y": "7.9"
+        },
+        "StartClass": null,
+        "Job": "",
+        "Company": "Not specified",
+        "Requirement": "Not specified",
+        "Rewards": {
+            "Gil": 0,
+            "Exp": 120450,
+            "ItemsMand": [
+                {
+                    "Icon": "https://img.finalfantasyxiv.com/lds/pc/global/images/itemicon/21/21c6b808f0e4b460ec8b4f88908441f48c1eab51.png?n6.05",
+                    "Name": "Giant Haddock Dip",
+                    "Amount": 2,
+                    "Url": "/lodestone/playguide/db/item/0742f46674b/"
+                }
+            ],
+            "ItemsOpt": []
+        },
+        "Infos": {
+            "PrerequisiteQuest": [
+                {
+                    "Name": "One Step Forward",
+                    "Url": "/lodestone/playguide/db/quest/2b59501cd22/",
+                    "Area": "Old Sharlayan",
+                    "Level": "85"
+                }
+            ],
+            "FollowupQuest": [
+                {
+                    "Name": "An Astronomical Growth",
+                    "Url": "/lodestone/playguide/db/quest/bf643bc29b6/",
+                    "Area": "Old Sharlayan",
+                    "Level": "88"
+                }
+            ],
+            "RelatedNPC": [
+                {
+                    "Name": "Cocksure Student",
+                    "Url": "/lodestone/playguide/db/npc/npc/d5d14dd46ef/",
+                    "Area": "Old Sharlayan (X:15.2 Y:9.4)"
+                },
+                {
+                    "Name": "Jeromere",
+                    "Url": "/lodestone/playguide/db/npc/npc/c3461106070/",
+                    "Area": "Old Sharlayan (X:13.2 Y:13.8)"
+                },
+                {
+                    "Name": "Jeromere",
+                    "Url": "/lodestone/playguide/db/npc/npc/1aecd480c04/",
+                    "Area": "Old Sharlayan (X:8.1 Y:13.7)"
+                },
+                {
+                    "Name": "Obsequious Student",
+                    "Url": "/lodestone/playguide/db/npc/npc/c111917bc95/",
+                    "Area": "Old Sharlayan (X:15.3 Y:9.4)"
+                }
+            ]
+        },
+        "Seq": 11,
+        "StartDependency": false
+    },
+    {
+        "ID": "41afedaa67b",
+        "Name": "The Dormant Dhyata",
+        "Location": "Old Sharlayan",
+        "Level": 80,
+        "JournalSection": 6,
+        "JournalCategory": 69,
+        "JournalGenre": "\n\t\t\t\t\t\t\tFaculty of Archaeology Quests\n\t\t\t\t\t\t",
+        "Url": "/lodestone/playguide/db/quest/41afedaa67b/",
+        "Image": null,
+        "Icon": "common_normal",
+        "Issuer": "Rurusha",
+        "StartLocation": {
+            "Name": "Old Sharlayan",
+            "X": "5.6",
+            "Y": "8.4"
+        },
+        "StartClass": null,
+        "Job": "",
+        "Company": "Not specified",
+        "Requirement": "Not specified",
+        "Rewards": {
+            "Gil": 0,
+            "Exp": 112200,
+            "ItemsMand": [
+                {
+                    "Icon": "https://img.finalfantasyxiv.com/lds/pc/global/images/itemicon/d9/d9a4b77a07bb95bf2713ae233a0eececdf211e8b.png?n6.05",
+                    "Name": "Fire Crystal",
+                    "Amount": 250,
+                    "Url": "/lodestone/playguide/db/item/75403105d7f/"
+                },
+                {
+                    "Icon": "https://img.finalfantasyxiv.com/lds/pc/global/images/itemicon/a7/a71da2eb489188dbbfadd582938a0e761a9a0585.png?n6.05",
+                    "Name": "Ice Crystal",
+                    "Amount": 250,
+                    "Url": "/lodestone/playguide/db/item/2d800a06851/"
+                }
+            ],
+            "ItemsOpt": []
+        },
+        "Infos": {
+            "PrerequisiteQuest": [
+                {
+                    "Name": "Professor Rurusha's New Friend",
+                    "Url": "/lodestone/playguide/db/quest/0380061e05b/",
+                    "Area": "Old Sharlayan",
+                    "Level": "80"
+                }
+            ],
+            "FollowupQuest": [
+                {
+                    "Name": "Gears of Gold",
+                    "Url": "/lodestone/playguide/db/quest/f48d80065cb/",
+                    "Area": "Old Sharlayan",
+                    "Level": "83"
+                }
+            ],
+            "RelatedNPC": [
+                {
+                    "Name": "Boric",
+                    "Url": "/lodestone/playguide/db/npc/npc/cd27e634a26/",
+                    "Area": "Old Sharlayan (X:5.7 Y:8.4)"
+                }
+            ]
+        },
+        "Seq": 1,
+        "StartDependency": false
+    },
+    {
+        "ID": "4abc7dee03c",
+        "Name": "History Lesson",
+        "Location": "Old Sharlayan",
+        "Level": 85,
+        "JournalSection": 6,
+        "JournalCategory": 69,
+        "JournalGenre": "\n\t\t\t\t\t\t\tFaculty of Aetherology Quests\n\t\t\t\t\t\t",
+        "Url": "/lodestone/playguide/db/quest/4abc7dee03c/",
+        "Image": null,
+        "Icon": "common_normal",
+        "Issuer": "T'laqa Tia",
+        "StartLocation": {
+            "Name": "Old Sharlayan",
+            "X": "4.2",
+            "Y": "9.6"
+        },
+        "StartClass": null,
+        "Job": "",
+        "Company": "Not specified",
+        "Requirement": "Not specified",
+        "Rewards": {
+            "Gil": 0,
+            "Exp": 120450,
+            "ItemsMand": [
+                {
+                    "Icon": "https://img.finalfantasyxiv.com/lds/pc/global/images/itemicon/e3/e3c95929c4d002f2ce85d14b4b974f9255bb402e.png?n6.05",
+                    "Name": "Carrot Nibbles",
+                    "Amount": 2,
+                    "Url": "/lodestone/playguide/db/item/840b2647f34/"
+                }
+            ],
+            "ItemsOpt": []
+        },
+        "Infos": {
+            "PrerequisiteQuest": [
+                {
+                    "Name": "The Martyr",
+                    "Url": "/lodestone/playguide/db/quest/884564c25bf/",
+                    "Area": "Mare Lamentorum",
+                    "Level": "83"
+                },
+                {
+                    "Name": "Data across the Decades",
+                    "Url": "/lodestone/playguide/db/quest/7242a17d0d2/",
+                    "Area": "Old Sharlayan",
+                    "Level": "83"
+                }
+            ],
+            "FollowupQuest": [
+                {
+                    "Name": "The Wandering Whale",
+                    "Url": "/lodestone/playguide/db/quest/5b494fcfcc0/",
+                    "Area": "Old Sharlayan",
+                    "Level": "85"
+                }
+            ]
+        },
+        "Seq": 31,
+        "StartDependency": false
+    },
+    {
+        "ID": "4c59fd39e4a",
+        "Name": "Cooking Up a Culture",
+        "Location": "Old Sharlayan",
+        "Level": 80,
+        "JournalSection": 6,
+        "JournalCategory": 69,
+        "JournalGenre": "\n\t\t\t\t\t\t\tFaculty of Anthropology Quests\n\t\t\t\t\t\t",
+        "Url": "/lodestone/playguide/db/quest/4c59fd39e4a/",
+        "Image": null,
+        "Icon": "common_normal",
+        "Issuer": "Hinageshi",
+        "StartLocation": {
+            "Name": "Old Sharlayan",
+            "X": "3.8",
+            "Y": "9.1"
+        },
+        "StartClass": null,
+        "Job": "",
+        "Company": "Not specified",
+        "Requirement": "Not specified",
+        "Rewards": {
+            "Gil": 0,
+            "Exp": 112200,
+            "ItemsMand": [
+                {
+                    "Icon": "https://img.finalfantasyxiv.com/lds/pc/global/images/itemicon/59/5964f8ab3a877d7a58d391b912e8e67204dc9ba5.png?n6.05",
+                    "Name": "Hi-Cordial",
+                    "Amount": 30,
+                    "Url": "/lodestone/playguide/db/item/8c938acd23f/"
+                }
+            ],
+            "ItemsOpt": []
+        },
+        "Infos": {
+            "PrerequisiteQuest": [
+                {
+                    "Name": "Cultured Pursuits",
+                    "Url": "/lodestone/playguide/db/quest/e46f035844d/",
+                    "Area": "Old Sharlayan",
+                    "Level": "80"
+                }
+            ],
+            "FollowupQuest": [
+                {
+                    "Name": "The Culture of Ceruleum",
+                    "Url": "/lodestone/playguide/db/quest/880ea2caeff/",
+                    "Area": "Old Sharlayan",
+                    "Level": "83"
+                }
+            ]
+        },
+        "Seq": 22,
+        "StartDependency": false
+    },
+    {
+        "ID": "523ba8c41b0",
+        "Name": "The World without You",
+        "Location": "Old Sharlayan",
+        "Level": 80,
+        "JournalSection": 6,
+        "JournalCategory": 69,
+        "JournalGenre": "\n\t\t\t\t\t\t\tFaculty of Astronomy Quests\n\t\t\t\t\t\t",
+        "Url": "/lodestone/playguide/db/quest/523ba8c41b0/",
+        "Image": null,
+        "Icon": "common_normal",
+        "Issuer": "Jude",
+        "StartLocation": {
+            "Name": "Old Sharlayan",
+            "X": "5.3",
+            "Y": "7.9"
+        },
+        "StartClass": null,
+        "Job": "",
+        "Company": "Not specified",
+        "Requirement": "Not specified",
+        "Rewards": {
+            "Gil": 0,
+            "Exp": 112200,
+            "ItemsMand": [
+                {
+                    "Icon": "https://img.finalfantasyxiv.com/lds/pc/global/images/itemicon/0d/0dd4af1f23b8f1d782bacfb905a67b491688414c.png?n6.05",
+                    "Name": "Wind Crystal",
+                    "Amount": 250,
+                    "Url": "/lodestone/playguide/db/item/5db117cd77b/"
+                },
+                {
+                    "Icon": "https://img.finalfantasyxiv.com/lds/pc/global/images/itemicon/16/16cd107e2bd1c45cee59e6b96ef02f2f6f68eac5.png?n6.05",
+                    "Name": "Earth Crystal",
+                    "Amount": 250,
+                    "Url": "/lodestone/playguide/db/item/ff6eae7bdcb/"
+                }
+            ],
+            "ItemsOpt": []
+        },
+        "Infos": {
+            "PrerequisiteQuest": [
+                {
+                    "Name": "In Search of the Azure Star",
+                    "Url": "/lodestone/playguide/db/quest/e3718bbfbb3/",
+                    "Area": "Old Sharlayan",
+                    "Level": "80"
+                }
+            ],
+            "FollowupQuest": [
+                {
+                    "Name": "Poetry Recital",
+                    "Url": "/lodestone/playguide/db/quest/6339e300326/",
+                    "Area": "Old Sharlayan",
+                    "Level": "83"
+                }
+            ]
+        },
+        "Seq": 8,
+        "StartDependency": false
+    },
+    {
+        "ID": "5487a5e5d66",
+        "Name": "Wayback Machine",
+        "Location": "Old Sharlayan",
+        "Level": 90,
+        "JournalSection": 6,
+        "JournalCategory": 69,
+        "JournalGenre": "\n\t\t\t\t\t\t\tFaculty of Archaeology Quests\n\t\t\t\t\t\t",
+        "Url": "/lodestone/playguide/db/quest/5487a5e5d66/",
+        "Image": "https://img.finalfantasyxiv.com/lds/pc/global/images/itemicon/4f/4fa3e7744f017c2faaa2f33c16ce5ef3b3ac16b9.png?n6.05",
+        "Icon": "common_normal",
+        "Issuer": "Rurusha",
+        "StartLocation": {
+            "Name": "Old Sharlayan",
+            "X": "5.6",
+            "Y": "8.4"
+        },
+        "StartClass": null,
+        "Job": "",
+        "Company": "Not specified",
+        "Requirement": "Not specified",
+        "Rewards": {
+            "Gil": 1044,
+            "Exp": 0,
+            "ItemsMand": [],
+            "ItemsOpt": [
+                {
+                    "Icon": "https://img.finalfantasyxiv.com/lds/pc/global/images/itemicon/36/362aacfec169d572a8bfc5a5d0bd70c5695e3dcf.png?n6.05",
+                    "Name": "Craftsman's Competence Materia X",
+                    "Amount": 1,
+                    "Url": "/lodestone/playguide/db/item/2fcd1b11c98/"
+                },
+                {
+                    "Icon": "https://img.finalfantasyxiv.com/lds/pc/global/images/itemicon/36/362aacfec169d572a8bfc5a5d0bd70c5695e3dcf.png?n6.05",
+                    "Name": "Craftsman's Cunning Materia X",
+                    "Amount": 1,
+                    "Url": "/lodestone/playguide/db/item/64ccb1e2a37/"
+                },
+                {
+                    "Icon": "https://img.finalfantasyxiv.com/lds/pc/global/images/itemicon/36/362aacfec169d572a8bfc5a5d0bd70c5695e3dcf.png?n6.05",
+                    "Name": "Craftsman's Command Materia X",
+                    "Amount": 1,
+                    "Url": "/lodestone/playguide/db/item/9fa3a0f1963/"
+                }
+            ]
+        },
+        "Infos": {
+            "PrerequisiteQuest": [
+                {
+                    "Name": "A Friend in Need",
+                    "Url": "/lodestone/playguide/db/quest/081c5434365/",
+                    "Area": "Old Sharlayan",
+                    "Level": "88"
+                }
+            ],
+            "FollowupQuest": [
+                {
+                    "Name": "The Meeting of Minds",
+                    "Url": "/lodestone/playguide/db/quest/7e7b4f5e975/",
+                    "Area": "Old Sharlayan",
+                    "Level": "90"
+                }
+            ],
+            "RelatedNPC": [
+                {
+                    "Name": "Boric",
+                    "Url": "/lodestone/playguide/db/npc/npc/cd27e634a26/",
+                    "Area": "Old Sharlayan (X:5.7 Y:8.4)"
+                },
+                {
+                    "Name": "Boric",
+                    "Url": "/lodestone/playguide/db/npc/npc/9250ce6cfd0/",
+                    "Area": "Old Sharlayan (X:4.7 Y:7.8)"
+                },
+                {
+                    "Name": "Namono Tayamono",
+                    "Url": "/lodestone/playguide/db/npc/npc/e4324acf54c/",
+                    "Area": "Old Sharlayan (X:4.7 Y:7.7)"
+                },
+                {
+                    "Name": "Rurusha's Box",
+                    "Url": "/lodestone/playguide/db/npc/npc/ae4c39a473a/",
+                    "Area": "Old Sharlayan (X:5.7 Y:8.4)"
+                }
+            ],
+            "RelatedAchievements": [
+                {
+                    "Name": "Found in Translation",
+                    "Url": "/lodestone/playguide/db/achievement/71e66302b03/",
+                    "Reward": "Title",
+                    "Points": "5"
+                }
+            ]
+        },
+        "Seq": 6,
+        "StartDependency": false
+    },
+    {
+        "ID": "59e9c1af2c7",
+        "Name": "Boric's Choice",
+        "Location": "Old Sharlayan",
+        "Level": 85,
+        "JournalSection": 6,
+        "JournalCategory": 69,
+        "JournalGenre": "\n\t\t\t\t\t\t\tFaculty of Archaeology Quests\n\t\t\t\t\t\t",
+        "Url": "/lodestone/playguide/db/quest/59e9c1af2c7/",
+        "Image": null,
+        "Icon": "common_normal",
+        "Issuer": "Rurusha",
+        "StartLocation": {
+            "Name": "Old Sharlayan",
+            "X": "5.6",
+            "Y": "8.4"
+        },
+        "StartClass": null,
+        "Job": "",
+        "Company": "Not specified",
+        "Requirement": "Not specified",
+        "Rewards": {
+            "Gil": 0,
+            "Exp": 120450,
+            "ItemsMand": [
+                {
+                    "Icon": "https://img.finalfantasyxiv.com/lds/pc/global/images/itemicon/21/21c6b808f0e4b460ec8b4f88908441f48c1eab51.png?n6.05",
+                    "Name": "Giant Haddock Dip",
+                    "Amount": 2,
+                    "Url": "/lodestone/playguide/db/item/0742f46674b/"
+                }
+            ],
+            "ItemsOpt": []
+        },
+        "Infos": {
+            "PrerequisiteQuest": [
+                {
+                    "Name": "Rubbished Research",
+                    "Url": "/lodestone/playguide/db/quest/b74db52914a/",
+                    "Area": "Old Sharlayan",
+                    "Level": "85"
+                }
+            ],
+            "FollowupQuest": [
+                {
+                    "Name": "A Friend in Need",
+                    "Url": "/lodestone/playguide/db/quest/081c5434365/",
+                    "Area": "Old Sharlayan",
+                    "Level": "88"
+                }
+            ],
+            "RelatedNPC": [
+                {
+                    "Name": "Boric",
+                    "Url": "/lodestone/playguide/db/npc/npc/cd27e634a26/",
+                    "Area": "Old Sharlayan (X:5.7 Y:8.4)"
+                },
+                {
+                    "Name": "Boric",
+                    "Url": "/lodestone/playguide/db/npc/npc/8a42f5ec9aa/",
+                    "Area": "Old Sharlayan (X:9.3 Y:14.8)"
+                },
+                {
+                    "Name": "Merchant",
+                    "Url": "/lodestone/playguide/db/npc/npc/817ff02cdb6/",
+                    "Area": "Old Sharlayan (X:9.3 Y:14.8)"
+                }
+            ]
+        },
+        "Seq": 4,
+        "StartDependency": false
+    },
+    {
+        "ID": "5b494fcfcc0",
+        "Name": "The Wandering Whale",
+        "Location": "Old Sharlayan",
+        "Level": 85,
+        "JournalSection": 6,
+        "JournalCategory": 69,
+        "JournalGenre": "\n\t\t\t\t\t\t\tFaculty of Aetherology Quests\n\t\t\t\t\t\t",
+        "Url": "/lodestone/playguide/db/quest/5b494fcfcc0/",
+        "Image": null,
+        "Icon": "common_normal",
+        "Issuer": "T'laqa Tia",
+        "StartLocation": {
+            "Name": "Old Sharlayan",
+            "X": "4.2",
+            "Y": "9.6"
+        },
+        "StartClass": null,
+        "Job": "",
+        "Company": "Not specified",
+        "Requirement": "Not specified",
+        "Rewards": {
+            "Gil": 0,
+            "Exp": 120450,
+            "ItemsMand": [
+                {
+                    "Icon": "https://img.finalfantasyxiv.com/lds/pc/global/images/itemicon/a4/a4106733d7c4bf400522e27ba51bff1cedc29cf5.png?n6.05",
+                    "Name": "Yakow Moussaka",
+                    "Amount": 2,
+                    "Url": "/lodestone/playguide/db/item/92ec5e0b196/"
+                }
+            ],
+            "ItemsOpt": []
+        },
+        "Infos": {
+            "PrerequisiteQuest": [
+                {
+                    "Name": "At World's End",
+                    "Url": "/lodestone/playguide/db/quest/1e3c991b458/",
+                    "Area": "Radz-at-Han",
+                    "Level": "85"
+                },
+                {
+                    "Name": "History Lesson",
+                    "Url": "/lodestone/playguide/db/quest/4abc7dee03c/",
+                    "Area": "Old Sharlayan",
+                    "Level": "85"
+                }
+            ],
+            "FollowupQuest": [
+                {
+                    "Name": "Fish Time Forgot",
+                    "Url": "/lodestone/playguide/db/quest/82cc62a0d3b/",
+                    "Area": "Old Sharlayan",
+                    "Level": "88"
+                }
+            ],
+            "RelatedNPC": [
+                {
+                    "Name": "Aubracie",
+                    "Url": "/lodestone/playguide/db/npc/npc/821bcb777d6/",
+                    "Area": "Old Sharlayan (X:4.1 Y:9.6)"
+                },
+                {
+                    "Name": "Aubracie",
+                    "Url": "/lodestone/playguide/db/npc/npc/1fefe9b0306/",
+                    "Area": "Old Sharlayan (X:8.8 Y:14.8)"
+                },
+                {
+                    "Name": "T'laqa Tia",
+                    "Url": "/lodestone/playguide/db/npc/npc/ef5a274af48/",
+                    "Area": "Old Sharlayan (X:8.8 Y:14.9)"
+                },
+                {
+                    "Name": "Bored Alchemist",
+                    "Url": "/lodestone/playguide/db/npc/npc/34f38261a8f/",
+                    "Area": "Thavnair (X:24.6 Y:33.4)"
+                },
+                {
+                    "Name": "Fisherman",
+                    "Url": "/lodestone/playguide/db/npc/npc/cd9fc554d84/",
+                    "Area": "Thavnair (X:25.7 Y:35.8)"
+                },
+                {
+                    "Name": "Merchant",
+                    "Url": "/lodestone/playguide/db/npc/npc/a78c9240e9e/",
+                    "Area": "Thavnair (X:25.6 Y:31.8)"
+                },
+                {
+                    "Name": "Preoccupied Alchemist",
+                    "Url": "/lodestone/playguide/db/npc/npc/106579a5826/",
+                    "Area": "Thavnair (X:25.7 Y:32.6)"
+                },
+                {
+                    "Name": "T'laqa Tia",
+                    "Url": "/lodestone/playguide/db/npc/npc/7b12becdf29/",
+                    "Area": "Thavnair (X:24.6 Y:33.4)"
+                }
+            ]
+        },
+        "Seq": 32,
+        "StartDependency": false
+    },
+    {
+        "ID": "5e445c49028",
+        "Name": "Hinageshi in Hingashi",
+        "Location": "Old Sharlayan",
+        "Level": 85,
+        "JournalSection": 6,
+        "JournalCategory": 69,
+        "JournalGenre": "\n\t\t\t\t\t\t\tFaculty of Anthropology Quests\n\t\t\t\t\t\t",
+        "Url": "/lodestone/playguide/db/quest/5e445c49028/",
+        "Image": null,
+        "Icon": "common_normal",
+        "Issuer": "Hinageshi",
+        "StartLocation": {
+            "Name": "Old Sharlayan",
+            "X": "3.8",
+            "Y": "9.1"
+        },
+        "StartClass": null,
+        "Job": "",
+        "Company": "Not specified",
+        "Requirement": "Not specified",
+        "Rewards": {
+            "Gil": 0,
+            "Exp": 120450,
+            "ItemsMand": [
+                {
+                    "Icon": "https://img.finalfantasyxiv.com/lds/pc/global/images/itemicon/a4/a4106733d7c4bf400522e27ba51bff1cedc29cf5.png?n6.05",
+                    "Name": "Yakow Moussaka",
+                    "Amount": 2,
+                    "Url": "/lodestone/playguide/db/item/92ec5e0b196/"
+                }
+            ],
+            "ItemsOpt": []
+        },
+        "Infos": {
+            "PrerequisiteQuest": [
+                {
+                    "Name": "The Culture of Carrots",
+                    "Url": "/lodestone/playguide/db/quest/fd9c93a4dda/",
+                    "Area": "Old Sharlayan",
+                    "Level": "85"
+                }
+            ],
+            "FollowupQuest": [
+                {
+                    "Name": "The Culture of the Past",
+                    "Url": "/lodestone/playguide/db/quest/755f74930fa/",
+                    "Area": "Old Sharlayan",
+                    "Level": "88"
+                }
+            ],
+            "RelatedNPC": [
+                {
+                    "Name": "Hinageshi",
+                    "Url": "/lodestone/playguide/db/npc/npc/7f948ad81e6/",
+                    "Area": "Kugane (X:13.5 Y:11.9)"
+                },
+                {
+                    "Name": "Hinageshi",
+                    "Url": "/lodestone/playguide/db/npc/npc/edb5fb7abd2/",
+                    "Area": "Kugane (X:9.4 Y:8.1)"
+                },
+                {
+                    "Name": "Patrolling Sekiseigumi",
+                    "Url": "/lodestone/playguide/db/npc/npc/2df5f4699da/",
+                    "Area": "Kugane (X:12.2 Y:14.2)"
+                },
+                {
+                    "Name": "Tankin",
+                    "Url": "/lodestone/playguide/db/npc/npc/560879112ac/",
+                    "Area": "Kugane (X:8.3 Y:15.2)"
+                },
+                {
+                    "Name": "Tankin",
+                    "Url": "/lodestone/playguide/db/npc/npc/5c5f5dbccfc/",
+                    "Area": "Kugane (X:13.5 Y:11.9)"
+                },
+                {
+                    "Name": "Tankin",
+                    "Url": "/lodestone/playguide/db/npc/npc/dc00a22b208/",
+                    "Area": "Kugane (X:9.3 Y:8.1)"
+                },
+                {
+                    "Name": "Tankin",
+                    "Url": "/lodestone/playguide/db/npc/npc/bbd302fb66f/",
+                    "Area": "Old Sharlayan (X:3.8 Y:9.3)"
+                }
+            ]
+        },
+        "Seq": 25,
+        "StartDependency": false
+    },
+    {
+        "ID": "62979ce402e",
+        "Name": "Fear the Thesis",
+        "Location": "Old Sharlayan",
+        "Level": 80,
+        "JournalSection": 6,
+        "JournalCategory": 69,
+        "JournalGenre": "\n\t\t\t\t\t\t\tFaculty of Aetherology Quests\n\t\t\t\t\t\t",
+        "Url": "/lodestone/playguide/db/quest/62979ce402e/",
+        "Image": "https://img.finalfantasyxiv.com/lds/pc/global/images/itemicon/23/23b98bc17870b104fd1a225b2de32294c99caa94.png?n6.05",
+        "Icon": "function_normal",
+        "Issuer": "T'laqa Tia",
+        "StartLocation": {
+            "Name": "Old Sharlayan",
+            "X": "4.2",
+            "Y": "9.5"
+        },
+        "StartClass": null,
+        "Job": "",
+        "Company": "Not specified",
+        "Requirement": "Not specified",
+        "Rewards": {
+            "Gil": 0,
+            "Exp": 112200,
+            "ItemsMand": [
+                {
+                    "Icon": "https://img.finalfantasyxiv.com/lds/pc/global/images/itemicon/98/98277e8c20528595bb33a7c12a42606baa4e57d2.png?n6.05",
+                    "Name": "Crab Cakes",
+                    "Amount": 2,
+                    "Url": "/lodestone/playguide/db/item/479ea840a66/"
+                }
+            ],
+            "ItemsOpt": []
+        },
+        "Infos": {
+            "PrerequisiteQuest": [
+                {
+                    "Name": "The Faculty",
+                    "Url": "/lodestone/playguide/db/quest/b71995e5487/",
+                    "Area": "Old Sharlayan",
+                    "Level": "80"
+                }
+            ],
+            "FollowupQuest": [
+                {
+                    "Name": "Go with the Flow",
+                    "Url": "/lodestone/playguide/db/quest/7079a77641f/",
+                    "Area": "Old Sharlayan",
+                    "Level": "80"
+                }
+            ],
+            "RelatedNPC": [
+                {
+                    "Name": "T'laqa Tia",
+                    "Url": "/lodestone/playguide/db/npc/npc/65eac6a4047/",
+                    "Area": "Old Sharlayan (X:11.1 Y:11.4)"
+                },
+                {
+                    "Name": "T'laqa Tia",
+                    "Url": "/lodestone/playguide/db/npc/npc/3d3f54cb099/",
+                    "Area": "Old Sharlayan (X:4.2 Y:9.6)"
+                }
+            ]
+        },
+        "Seq": 28,
+        "StartDependency": false
+    },
+    {
+        "ID": "6339e300326",
+        "Name": "Poetry Recital",
+        "Location": "Old Sharlayan",
+        "Level": 83,
+        "JournalSection": 6,
+        "JournalCategory": 69,
+        "JournalGenre": "\n\t\t\t\t\t\t\tFaculty of Astronomy Quests\n\t\t\t\t\t\t",
+        "Url": "/lodestone/playguide/db/quest/6339e300326/",
+        "Image": null,
+        "Icon": "common_normal",
+        "Issuer": "Jude",
+        "StartLocation": {
+            "Name": "Old Sharlayan",
+            "X": "5.3",
+            "Y": "7.9"
+        },
+        "StartClass": null,
+        "Job": "",
+        "Company": "Not specified",
+        "Requirement": "Not specified",
+        "Rewards": {
+            "Gil": 0,
+            "Exp": 117150,
+            "ItemsMand": [
+                {
+                    "Icon": "https://img.finalfantasyxiv.com/lds/pc/global/images/itemicon/0d/0dd4af1f23b8f1d782bacfb905a67b491688414c.png?n6.05",
+                    "Name": "Wind Crystal",
+                    "Amount": 250,
+                    "Url": "/lodestone/playguide/db/item/5db117cd77b/"
+                },
+                {
+                    "Icon": "https://img.finalfantasyxiv.com/lds/pc/global/images/itemicon/16/16cd107e2bd1c45cee59e6b96ef02f2f6f68eac5.png?n6.05",
+                    "Name": "Earth Crystal",
+                    "Amount": 250,
+                    "Url": "/lodestone/playguide/db/item/ff6eae7bdcb/"
+                }
+            ],
+            "ItemsOpt": []
+        },
+        "Infos": {
+            "PrerequisiteQuest": [
+                {
+                    "Name": "The World without You",
+                    "Url": "/lodestone/playguide/db/quest/523ba8c41b0/",
+                    "Area": "Old Sharlayan",
+                    "Level": "80"
+                }
+            ],
+            "FollowupQuest": [
+                {
+                    "Name": "One Step Forward",
+                    "Url": "/lodestone/playguide/db/quest/2b59501cd22/",
+                    "Area": "Old Sharlayan",
+                    "Level": "85"
+                }
+            ]
+        },
+        "Seq": 9,
+        "StartDependency": false
+    },
+    {
+        "ID": "7079a77641f",
+        "Name": "Go with the Flow",
+        "Location": "Old Sharlayan",
+        "Level": 80,
+        "JournalSection": 6,
+        "JournalCategory": 69,
+        "JournalGenre": "\n\t\t\t\t\t\t\tFaculty of Aetherology Quests\n\t\t\t\t\t\t",
+        "Url": "/lodestone/playguide/db/quest/7079a77641f/",
+        "Image": null,
+        "Icon": "common_normal",
+        "Issuer": "T'laqa Tia",
+        "StartLocation": {
+            "Name": "Old Sharlayan",
+            "X": "4.2",
+            "Y": "9.6"
+        },
+        "StartClass": null,
+        "Job": "",
+        "Company": "Not specified",
+        "Requirement": "Not specified",
+        "Rewards": {
+            "Gil": 0,
+            "Exp": 112200,
+            "ItemsMand": [
+                {
+                    "Icon": "https://img.finalfantasyxiv.com/lds/pc/global/images/itemicon/59/5964f8ab3a877d7a58d391b912e8e67204dc9ba5.png?n6.05",
+                    "Name": "Hi-Cordial",
+                    "Amount": 30,
+                    "Url": "/lodestone/playguide/db/item/8c938acd23f/"
+                }
+            ],
+            "ItemsOpt": []
+        },
+        "Infos": {
+            "PrerequisiteQuest": [
+                {
+                    "Name": "Fear the Thesis",
+                    "Url": "/lodestone/playguide/db/quest/62979ce402e/",
+                    "Area": "Old Sharlayan",
+                    "Level": "80"
+                }
+            ],
+            "FollowupQuest": [
+                {
+                    "Name": "Data across the Decades",
+                    "Url": "/lodestone/playguide/db/quest/7242a17d0d2/",
+                    "Area": "Old Sharlayan",
+                    "Level": "83"
+                }
+            ]
+        },
+        "Seq": 29,
+        "StartDependency": false
+    },
+    {
+        "ID": "7242a17d0d2",
+        "Name": "Data across the Decades",
+        "Location": "Old Sharlayan",
+        "Level": 83,
+        "JournalSection": 6,
+        "JournalCategory": 69,
+        "JournalGenre": "\n\t\t\t\t\t\t\tFaculty of Aetherology Quests\n\t\t\t\t\t\t",
+        "Url": "/lodestone/playguide/db/quest/7242a17d0d2/",
+        "Image": null,
+        "Icon": "common_normal",
+        "Issuer": "T'laqa Tia",
+        "StartLocation": {
+            "Name": "Old Sharlayan",
+            "X": "4.2",
+            "Y": "9.6"
+        },
+        "StartClass": null,
+        "Job": "",
+        "Company": "Not specified",
+        "Requirement": "Not specified",
+        "Rewards": {
+            "Gil": 0,
+            "Exp": 117150,
+            "ItemsMand": [
+                {
+                    "Icon": "https://img.finalfantasyxiv.com/lds/pc/global/images/itemicon/59/5964f8ab3a877d7a58d391b912e8e67204dc9ba5.png?n6.05",
+                    "Name": "Hi-Cordial",
+                    "Amount": 30,
+                    "Url": "/lodestone/playguide/db/item/8c938acd23f/"
+                }
+            ],
+            "ItemsOpt": []
+        },
+        "Infos": {
+            "PrerequisiteQuest": [
+                {
+                    "Name": "Go with the Flow",
+                    "Url": "/lodestone/playguide/db/quest/7079a77641f/",
+                    "Area": "Old Sharlayan",
+                    "Level": "80"
+                }
+            ],
+            "FollowupQuest": [
+                {
+                    "Name": "History Lesson",
+                    "Url": "/lodestone/playguide/db/quest/4abc7dee03c/",
+                    "Area": "Old Sharlayan",
+                    "Level": "85"
+                }
+            ]
+        },
+        "Seq": 30,
+        "StartDependency": false
+    },
+    {
+        "ID": "755f74930fa",
+        "Name": "The Culture of the Past",
+        "Location": "Old Sharlayan",
+        "Level": 88,
+        "JournalSection": 6,
+        "JournalCategory": 69,
+        "JournalGenre": "\n\t\t\t\t\t\t\tFaculty of Anthropology Quests\n\t\t\t\t\t\t",
+        "Url": "/lodestone/playguide/db/quest/755f74930fa/",
+        "Image": null,
+        "Icon": "common_normal",
+        "Issuer": "Hinageshi",
+        "StartLocation": {
+            "Name": "Old Sharlayan",
+            "X": "3.8",
+            "Y": "9.1"
+        },
+        "StartClass": null,
+        "Job": "",
+        "Company": "Not specified",
+        "Requirement": "Not specified",
+        "Rewards": {
+            "Gil": 0,
+            "Exp": 125400,
+            "ItemsMand": [
+                {
+                    "Icon": "https://img.finalfantasyxiv.com/lds/pc/global/images/itemicon/01/01d97eb21617cf08064f76b7702fb93d1aff8b40.png?n6.05",
+                    "Name": "Sideritis Cookie",
+                    "Amount": 2,
+                    "Url": "/lodestone/playguide/db/item/ab582289f43/"
+                }
+            ],
+            "ItemsOpt": []
+        },
+        "Infos": {
+            "PrerequisiteQuest": [
+                {
+                    "Name": "Hunger in the Garden",
+                    "Url": "/lodestone/playguide/db/quest/e35cb58909f/",
+                    "Area": "Elpis",
+                    "Level": "87"
+                },
+                {
+                    "Name": "Hinageshi in Hingashi",
+                    "Url": "/lodestone/playguide/db/quest/5e445c49028/",
+                    "Area": "Old Sharlayan",
+                    "Level": "85"
+                }
+            ],
+            "FollowupQuest": [
+                {
+                    "Name": "The Culture of Love",
+                    "Url": "/lodestone/playguide/db/quest/993875eeab2/",
+                    "Area": "Old Sharlayan",
+                    "Level": "90"
+                }
+            ],
+            "RelatedNPC": [
+                {
+                    "Name": "Tankin",
+                    "Url": "/lodestone/playguide/db/npc/npc/bbd302fb66f/",
+                    "Area": "Old Sharlayan (X:3.8 Y:9.3)"
+                }
+            ]
+        },
+        "Seq": 26,
+        "StartDependency": false
+    },
+    {
+        "ID": "7e7b4f5e975",
+        "Name": "The Meeting of Minds",
+        "Location": "Old Sharlayan",
+        "Level": 90,
+        "JournalSection": 6,
+        "JournalCategory": 69,
+        "JournalGenre": "\n\t\t\t\t\t\t\tStudium Quests\n\t\t\t\t\t\t",
+        "Url": "/lodestone/playguide/db/quest/7e7b4f5e975/",
+        "Image": "https://img.finalfantasyxiv.com/lds/pc/global/images/itemicon/35/359513272bdc64821b375d336c6b14da8fb69c05.png?n6.05",
+        "Icon": "common_normal",
+        "Issuer": "Qih Aliapoh",
+        "StartLocation": {
+            "Name": "Old Sharlayan",
+            "X": "4.0",
+            "Y": "9.4"
+        },
+        "StartClass": null,
+        "Job": "",
+        "Company": "Not specified",
+        "Requirement": "Not specified",
+        "Rewards": {
+            "Gil": 1303,
+            "Exp": 0,
+            "ItemsMand": [
+                {
+                    "Icon": "https://img.finalfantasyxiv.com/lds/pc/global/images/itemicon/fb/fb000afa3b641a86f1f443904fff67f28e2c5b11.png?n6.05",
+                    "Name": "",
+                    "Amount": null
+                }
+            ],
+            "ItemsOpt": []
+        },
+        "Infos": {
+            "PrerequisiteQuest": [
+                {
+                    "Name": "Wayback Machine",
+                    "Url": "/lodestone/playguide/db/quest/5487a5e5d66/",
+                    "Area": "Old Sharlayan",
+                    "Level": "90"
+                },
+                {
+                    "Name": "The Promised Star",
+                    "Url": "/lodestone/playguide/db/quest/a2f7a1b0afd/",
+                    "Area": "Old Sharlayan",
+                    "Level": "90"
+                },
+                {
+                    "Name": "Sharlayan Cuisine",
+                    "Url": "/lodestone/playguide/db/quest/30e256272ea/",
+                    "Area": "Old Sharlayan",
+                    "Level": "90"
+                },
+                {
+                    "Name": "The Culture of Love",
+                    "Url": "/lodestone/playguide/db/quest/993875eeab2/",
+                    "Area": "Old Sharlayan",
+                    "Level": "90"
+                },
+                {
+                    "Name": "Pastures New",
+                    "Url": "/lodestone/playguide/db/quest/9d3646cd4a2/",
+                    "Area": "Old Sharlayan",
+                    "Level": "90"
+                }
+            ],
+            "RelatedNPC": [
+                {
+                    "Name": "Debroye",
+                    "Url": "/lodestone/playguide/db/npc/npc/d1800a0b12c/",
+                    "Area": "Old Sharlayan (X:5.4 Y:8.2)"
+                },
+                {
+                    "Name": "Hinageshi",
+                    "Url": "/lodestone/playguide/db/npc/npc/9bf756a8d25/",
+                    "Area": "Old Sharlayan (X:3.8 Y:9.1)"
+                },
+                {
+                    "Name": "Jude",
+                    "Url": "/lodestone/playguide/db/npc/npc/150bef1ef37/",
+                    "Area": "Old Sharlayan (X:5.2 Y:7.9)"
+                },
+                {
+                    "Name": "Qih Aliapoh",
+                    "Url": "/lodestone/playguide/db/npc/npc/7621f7c7c6e/",
+                    "Area": "Old Sharlayan (X:3.5 Y:8.7)"
+                },
+                {
+                    "Name": "Qih Aliapoh",
+                    "Url": "/lodestone/playguide/db/npc/npc/2857a728a7b/",
+                    "Area": "Old Sharlayan (X:9.5 Y:13.6)"
+                },
+                {
+                    "Name": "Qih Aliapoh",
+                    "Url": "/lodestone/playguide/db/npc/npc/e4dc91bc1ad/",
+                    "Area": "Old Sharlayan (X:3.2 Y:8.9)"
+                },
+                {
+                    "Name": "Rurusha",
+                    "Url": "/lodestone/playguide/db/npc/npc/7a630d97714/",
+                    "Area": "Old Sharlayan (X:5.6 Y:8.4)"
+                },
+                {
+                    "Name": "Searchingway",
+                    "Url": "/lodestone/playguide/db/npc/npc/9ef199a47f7/",
+                    "Area": "Old Sharlayan (X:3.2 Y:8.9)"
+                },
+                {
+                    "Name": "T'laqa Tia",
+                    "Url": "/lodestone/playguide/db/npc/npc/e8f58d74bf3/",
+                    "Area": "Old Sharlayan (X:4.2 Y:9.6)"
+                }
+            ],
+            "RelatedAchievements": [
+                {
+                    "Name": "Overeducated",
+                    "Url": "/lodestone/playguide/db/achievement/9b7c4802fbc/",
+                    "Reward": "Title",
+                    "Points": "10"
+                }
+            ]
+        },
+        "Seq": 36,
+        "StartDependency": false
+    },
+    {
+        "ID": "82cc62a0d3b",
+        "Name": "Fish Time Forgot",
+        "Location": "Old Sharlayan",
+        "Level": 88,
+        "JournalSection": 6,
+        "JournalCategory": 69,
+        "JournalGenre": "\n\t\t\t\t\t\t\tFaculty of Aetherology Quests\n\t\t\t\t\t\t",
+        "Url": "/lodestone/playguide/db/quest/82cc62a0d3b/",
+        "Image": null,
+        "Icon": "common_normal",
+        "Issuer": "T'laqa Tia",
+        "StartLocation": {
+            "Name": "Old Sharlayan",
+            "X": "4.2",
+            "Y": "9.6"
+        },
+        "StartClass": null,
+        "Job": "",
+        "Company": "Not specified",
+        "Requirement": "Not specified",
+        "Rewards": {
+            "Gil": 0,
+            "Exp": 125400,
+            "ItemsMand": [
+                {
+                    "Icon": "https://img.finalfantasyxiv.com/lds/pc/global/images/itemicon/01/01d97eb21617cf08064f76b7702fb93d1aff8b40.png?n6.05",
+                    "Name": "Sideritis Cookie",
+                    "Amount": 2,
+                    "Url": "/lodestone/playguide/db/item/ab582289f43/"
+                }
+            ],
+            "ItemsOpt": []
+        },
+        "Infos": {
+            "PrerequisiteQuest": [
+                {
+                    "Name": "Thou Must Live, Die, and Know",
+                    "Url": "/lodestone/playguide/db/quest/c89356cb5c5/",
+                    "Area": "Elpis",
+                    "Level": "87"
+                },
+                {
+                    "Name": "The Wandering Whale",
+                    "Url": "/lodestone/playguide/db/quest/5b494fcfcc0/",
+                    "Area": "Old Sharlayan",
+                    "Level": "85"
+                }
+            ],
+            "FollowupQuest": [
+                {
+                    "Name": "Pastures New",
+                    "Url": "/lodestone/playguide/db/quest/9d3646cd4a2/",
+                    "Area": "Old Sharlayan",
+                    "Level": "90"
+                }
+            ]
+        },
+        "Seq": 33,
+        "StartDependency": false
+    },
+    {
+        "ID": "880ea2caeff",
+        "Name": "The Culture of Ceruleum",
+        "Location": "Old Sharlayan",
+        "Level": 83,
+        "JournalSection": 6,
+        "JournalCategory": 69,
+        "JournalGenre": "\n\t\t\t\t\t\t\tFaculty of Anthropology Quests\n\t\t\t\t\t\t",
+        "Url": "/lodestone/playguide/db/quest/880ea2caeff/",
+        "Image": null,
+        "Icon": "common_normal",
+        "Issuer": "Hinageshi",
+        "StartLocation": {
+            "Name": "Old Sharlayan",
+            "X": "3.8",
+            "Y": "9.1"
+        },
+        "StartClass": null,
+        "Job": "",
+        "Company": "Not specified",
+        "Requirement": "Not specified",
+        "Rewards": {
+            "Gil": 0,
+            "Exp": 117150,
+            "ItemsMand": [
+                {
+                    "Icon": "https://img.finalfantasyxiv.com/lds/pc/global/images/itemicon/59/5964f8ab3a877d7a58d391b912e8e67204dc9ba5.png?n6.05",
+                    "Name": "Hi-Cordial",
+                    "Amount": 30,
+                    "Url": "/lodestone/playguide/db/item/8c938acd23f/"
+                }
+            ],
+            "ItemsOpt": []
+        },
+        "Infos": {
+            "PrerequisiteQuest": [
+                {
+                    "Name": "A Frosty Reception",
+                    "Url": "/lodestone/playguide/db/quest/e994f7f1be8/",
+                    "Area": "The Lochs",
+                    "Level": "82"
+                },
+                {
+                    "Name": "Cooking Up a Culture",
+                    "Url": "/lodestone/playguide/db/quest/4c59fd39e4a/",
+                    "Area": "Old Sharlayan",
+                    "Level": "80"
+                }
+            ],
+            "FollowupQuest": [
+                {
+                    "Name": "The Culture of Carrots",
+                    "Url": "/lodestone/playguide/db/quest/fd9c93a4dda/",
+                    "Area": "Old Sharlayan",
+                    "Level": "85"
+                }
+            ],
+            "RelatedNPC": [
+                {
+                    "Name": "Tankin",
+                    "Url": "/lodestone/playguide/db/npc/npc/bbd302fb66f/",
+                    "Area": "Old Sharlayan (X:3.8 Y:9.3)"
+                }
+            ]
+        },
+        "Seq": 23,
+        "StartDependency": false
+    },
+    {
+        "ID": "993875eeab2",
+        "Name": "The Culture of Love",
+        "Location": "Old Sharlayan",
+        "Level": 90,
+        "JournalSection": 6,
+        "JournalCategory": 69,
+        "JournalGenre": "\n\t\t\t\t\t\t\tFaculty of Anthropology Quests\n\t\t\t\t\t\t",
+        "Url": "/lodestone/playguide/db/quest/993875eeab2/",
+        "Image": "https://img.finalfantasyxiv.com/lds/pc/global/images/itemicon/ec/ec4e661019f7d6b9b38fb1a8df5102ef639bcb38.png?n6.05",
+        "Icon": "common_normal",
+        "Issuer": "Hinageshi",
+        "StartLocation": {
+            "Name": "Old Sharlayan",
+            "X": "3.8",
+            "Y": "9.1"
+        },
+        "StartClass": null,
+        "Job": "",
+        "Company": "Not specified",
+        "Requirement": "Not specified",
+        "Rewards": {
+            "Gil": 1087,
+            "Exp": 0,
+            "ItemsMand": [],
+            "ItemsOpt": [
+                {
+                    "Icon": "https://img.finalfantasyxiv.com/lds/pc/global/images/itemicon/fd/fddc63429705d963570444690150fc0b94184fd3.png?n6.05",
+                    "Name": "Gatherer's Guerdon Materia X",
+                    "Amount": 1,
+                    "Url": "/lodestone/playguide/db/item/e1fb2fce8e4/"
+                },
+                {
+                    "Icon": "https://img.finalfantasyxiv.com/lds/pc/global/images/itemicon/fd/fddc63429705d963570444690150fc0b94184fd3.png?n6.05",
+                    "Name": "Gatherer's Guile Materia X",
+                    "Amount": 1,
+                    "Url": "/lodestone/playguide/db/item/2ca53d27bc7/"
+                },
+                {
+                    "Icon": "https://img.finalfantasyxiv.com/lds/pc/global/images/itemicon/fd/fddc63429705d963570444690150fc0b94184fd3.png?n6.05",
+                    "Name": "Gatherer's Grasp Materia X",
+                    "Amount": 1,
+                    "Url": "/lodestone/playguide/db/item/dbcdf2f7e5a/"
+                }
+            ]
+        },
+        "Infos": {
+            "PrerequisiteQuest": [
+                {
+                    "Name": "Endwalker",
+                    "Url": "/lodestone/playguide/db/quest/52a65d1961d/",
+                    "Area": "Ultima Thule",
+                    "Level": "90"
+                },
+                {
+                    "Name": "The Culture of the Past",
+                    "Url": "/lodestone/playguide/db/quest/755f74930fa/",
+                    "Area": "Old Sharlayan",
+                    "Level": "88"
+                }
+            ],
+            "FollowupQuest": [
+                {
+                    "Name": "The Meeting of Minds",
+                    "Url": "/lodestone/playguide/db/quest/7e7b4f5e975/",
+                    "Area": "Old Sharlayan",
+                    "Level": "90"
+                }
+            ],
+            "RelatedNPC": [
+                {
+                    "Name": "Hinageshi",
+                    "Url": "/lodestone/playguide/db/npc/npc/2ead8906176/",
+                    "Area": "Old Sharlayan (X:9.7 Y:15.0)"
+                },
+                {
+                    "Name": "Tankin",
+                    "Url": "/lodestone/playguide/db/npc/npc/2625f24a239/",
+                    "Area": "Old Sharlayan (X:3.8 Y:9.2)"
+                }
+            ],
+            "RelatedAchievements": [
+                {
+                    "Name": "'Tis Not Hereafter",
+                    "Url": "/lodestone/playguide/db/achievement/f0ebdbed546/",
+                    "Reward": "Title",
+                    "Points": "5"
+                }
+            ]
+        },
+        "Seq": 27,
+        "StartDependency": false
+    },
+    {
+        "ID": "9d3646cd4a2",
+        "Name": "Pastures New",
+        "Location": "Old Sharlayan",
+        "Level": 90,
+        "JournalSection": 6,
+        "JournalCategory": 69,
+        "JournalGenre": "\n\t\t\t\t\t\t\tFaculty of Aetherology Quests\n\t\t\t\t\t\t",
+        "Url": "/lodestone/playguide/db/quest/9d3646cd4a2/",
+        "Image": "https://img.finalfantasyxiv.com/lds/pc/global/images/itemicon/23/23b98bc17870b104fd1a225b2de32294c99caa94.png?n6.05",
+        "Icon": "common_normal",
+        "Issuer": "T'laqa Tia",
+        "StartLocation": {
+            "Name": "Old Sharlayan",
+            "X": "4.2",
+            "Y": "9.6"
+        },
+        "StartClass": null,
+        "Job": "",
+        "Company": "Not specified",
+        "Requirement": "Not specified",
+        "Rewards": {
+            "Gil": 1260,
+            "Exp": 0,
+            "ItemsMand": [],
+            "ItemsOpt": [
+                {
+                    "Icon": "https://img.finalfantasyxiv.com/lds/pc/global/images/itemicon/fd/fddc63429705d963570444690150fc0b94184fd3.png?n6.05",
+                    "Name": "Gatherer's Guerdon Materia X",
+                    "Amount": 1,
+                    "Url": "/lodestone/playguide/db/item/e1fb2fce8e4/"
+                },
+                {
+                    "Icon": "https://img.finalfantasyxiv.com/lds/pc/global/images/itemicon/fd/fddc63429705d963570444690150fc0b94184fd3.png?n6.05",
+                    "Name": "Gatherer's Guile Materia X",
+                    "Amount": 1,
+                    "Url": "/lodestone/playguide/db/item/2ca53d27bc7/"
+                },
+                {
+                    "Icon": "https://img.finalfantasyxiv.com/lds/pc/global/images/itemicon/fd/fddc63429705d963570444690150fc0b94184fd3.png?n6.05",
+                    "Name": "Gatherer's Grasp Materia X",
+                    "Amount": 1,
+                    "Url": "/lodestone/playguide/db/item/dbcdf2f7e5a/"
+                }
+            ]
+        },
+        "Infos": {
+            "PrerequisiteQuest": [
+                {
+                    "Name": "Endwalker",
+                    "Url": "/lodestone/playguide/db/quest/52a65d1961d/",
+                    "Area": "Ultima Thule",
+                    "Level": "90"
+                },
+                {
+                    "Name": "One Man's Fish Is Another Man's Poison",
+                    "Url": "/lodestone/playguide/db/quest/1457665ba30/",
+                    "Area": "Ishgard",
+                    "Level": "58"
+                },
+                {
+                    "Name": "Fish Time Forgot",
+                    "Url": "/lodestone/playguide/db/quest/82cc62a0d3b/",
+                    "Area": "Old Sharlayan",
+                    "Level": "88"
+                }
+            ],
+            "FollowupQuest": [
+                {
+                    "Name": "The Meeting of Minds",
+                    "Url": "/lodestone/playguide/db/quest/7e7b4f5e975/",
+                    "Area": "Old Sharlayan",
+                    "Level": "90"
+                }
+            ],
+            "RelatedNPC": [
+                {
+                    "Name": "Studium Staff",
+                    "Url": "/lodestone/playguide/db/npc/npc/25a3e092fad/",
+                    "Area": "Old Sharlayan (X:3.9 Y:8.7)"
+                },
+                {
+                    "Name": "T'laqa Tia",
+                    "Url": "/lodestone/playguide/db/npc/npc/e8f58d74bf3/",
+                    "Area": "Old Sharlayan (X:4.2 Y:9.6)"
+                },
+                {
+                    "Name": "Knowledgeable Loporrit",
+                    "Url": "/lodestone/playguide/db/npc/npc/24a2a3d5a11/",
+                    "Area": "Mare Lamentorum (X:19.9 Y:10.0)"
+                }
+            ],
+            "RelatedAchievements": [
+                {
+                    "Name": "Sufficient Data",
+                    "Url": "/lodestone/playguide/db/achievement/9252bde1c51/",
+                    "Reward": "Title",
+                    "Points": "5"
+                }
+            ]
+        },
+        "Seq": 34,
+        "StartDependency": false
+    },
+    {
+        "ID": "a065a7c075e",
+        "Name": "Aroma Is Key",
+        "Location": "Old Sharlayan",
+        "Level": 85,
+        "JournalSection": 6,
+        "JournalCategory": 69,
+        "JournalGenre": "\n\t\t\t\t\t\t\tFaculty of Medicine Quests\n\t\t\t\t\t\t",
+        "Url": "/lodestone/playguide/db/quest/a065a7c075e/",
+        "Image": null,
+        "Icon": "common_normal",
+        "Issuer": "Debroye",
+        "StartLocation": {
+            "Name": "Old Sharlayan",
+            "X": "5.4",
+            "Y": "8.2"
+        },
+        "StartClass": null,
+        "Job": "",
+        "Company": "Not specified",
+        "Requirement": "Not specified",
+        "Rewards": {
+            "Gil": 0,
+            "Exp": 120450,
+            "ItemsMand": [
+                {
+                    "Icon": "https://img.finalfantasyxiv.com/lds/pc/global/images/itemicon/da/da7216f73b0cc772e8f68f3feaf7d20bffa3f095.png?n6.05",
+                    "Name": "Happiness Juice",
+                    "Amount": 2,
+                    "Url": "/lodestone/playguide/db/item/5239a5ab87e/"
+                }
+            ],
+            "ItemsOpt": []
+        },
+        "Infos": {
+            "PrerequisiteQuest": [
+                {
+                    "Name": "Remember the Texture",
+                    "Url": "/lodestone/playguide/db/quest/f48570ef4ba/",
+                    "Area": "Old Sharlayan",
+                    "Level": "83"
+                }
+            ],
+            "FollowupQuest": [
+                {
+                    "Name": "Long Live the Gourmet",
+                    "Url": "/lodestone/playguide/db/quest/335bdf408a4/",
+                    "Area": "Old Sharlayan",
+                    "Level": "85"
+                }
+            ]
+        },
+        "Seq": 17,
+        "StartDependency": false
+    },
+    {
+        "ID": "a2f7a1b0afd",
+        "Name": "The Promised Star",
+        "Location": "Old Sharlayan",
+        "Level": 90,
+        "JournalSection": 6,
+        "JournalCategory": 69,
+        "JournalGenre": "\n\t\t\t\t\t\t\tFaculty of Astronomy Quests\n\t\t\t\t\t\t",
+        "Url": "/lodestone/playguide/db/quest/a2f7a1b0afd/",
+        "Image": "https://img.finalfantasyxiv.com/lds/pc/global/images/itemicon/17/177fad7f377908918ba5b70dd70a281e65c0a08f.png?n6.05",
+        "Icon": "common_normal",
+        "Issuer": "Jude",
+        "StartLocation": {
+            "Name": "Old Sharlayan",
+            "X": "5.3",
+            "Y": "7.9"
+        },
+        "StartClass": null,
+        "Job": "",
+        "Company": "Not specified",
+        "Requirement": "Not specified",
+        "Rewards": {
+            "Gil": 1130,
+            "Exp": 0,
+            "ItemsMand": [],
+            "ItemsOpt": [
+                {
+                    "Icon": "https://img.finalfantasyxiv.com/lds/pc/global/images/itemicon/36/362aacfec169d572a8bfc5a5d0bd70c5695e3dcf.png?n6.05",
+                    "Name": "Craftsman's Competence Materia X",
+                    "Amount": 1,
+                    "Url": "/lodestone/playguide/db/item/2fcd1b11c98/"
+                },
+                {
+                    "Icon": "https://img.finalfantasyxiv.com/lds/pc/global/images/itemicon/36/362aacfec169d572a8bfc5a5d0bd70c5695e3dcf.png?n6.05",
+                    "Name": "Craftsman's Cunning Materia X",
+                    "Amount": 1,
+                    "Url": "/lodestone/playguide/db/item/64ccb1e2a37/"
+                },
+                {
+                    "Icon": "https://img.finalfantasyxiv.com/lds/pc/global/images/itemicon/36/362aacfec169d572a8bfc5a5d0bd70c5695e3dcf.png?n6.05",
+                    "Name": "Craftsman's Command Materia X",
+                    "Amount": 1,
+                    "Url": "/lodestone/playguide/db/item/9fa3a0f1963/"
+                }
+            ]
+        },
+        "Infos": {
+            "PrerequisiteQuest": [
+                {
+                    "Name": "An Astronomical Growth",
+                    "Url": "/lodestone/playguide/db/quest/bf643bc29b6/",
+                    "Area": "Old Sharlayan",
+                    "Level": "88"
+                }
+            ],
+            "FollowupQuest": [
+                {
+                    "Name": "The Meeting of Minds",
+                    "Url": "/lodestone/playguide/db/quest/7e7b4f5e975/",
+                    "Area": "Old Sharlayan",
+                    "Level": "90"
+                }
+            ],
+            "RelatedNPC": [
+                {
+                    "Name": "Box Of Studium Supplies",
+                    "Url": "/lodestone/playguide/db/npc/npc/332e01d19d0/",
+                    "Area": "Old Sharlayan (X:5.3 Y:8.0)"
+                },
+                {
+                    "Name": "Cocksure Student",
+                    "Url": "/lodestone/playguide/db/npc/npc/d5d14dd46ef/",
+                    "Area": "Old Sharlayan (X:15.2 Y:9.4)"
+                },
+                {
+                    "Name": "Jeromere",
+                    "Url": "/lodestone/playguide/db/npc/npc/65b29e9c264/",
+                    "Area": "Old Sharlayan (X:15.2 Y:9.4)"
+                },
+                {
+                    "Name": "Jeromere",
+                    "Url": "/lodestone/playguide/db/npc/npc/820567a12ce/",
+                    "Area": "Old Sharlayan (X:11.3 Y:14.1)"
+                },
+                {
+                    "Name": "Obsequious Student",
+                    "Url": "/lodestone/playguide/db/npc/npc/c111917bc95/",
+                    "Area": "Old Sharlayan (X:15.3 Y:9.4)"
+                }
+            ],
+            "RelatedAchievements": [
+                {
+                    "Name": "Starry Night",
+                    "Url": "/lodestone/playguide/db/achievement/d22384eb821/",
+                    "Reward": "Title",
+                    "Points": "5"
+                }
+            ]
+        },
+        "Seq": 13,
+        "StartDependency": false
+    },
+    {
+        "ID": "b1da42f6466",
+        "Name": "Make It Sweeter",
+        "Location": "Old Sharlayan",
+        "Level": 80,
+        "JournalSection": 6,
+        "JournalCategory": 69,
+        "JournalGenre": "\n\t\t\t\t\t\t\tFaculty of Medicine Quests\n\t\t\t\t\t\t",
+        "Url": "/lodestone/playguide/db/quest/b1da42f6466/",
+        "Image": null,
+        "Icon": "common_normal",
+        "Issuer": "Debroye",
+        "StartLocation": {
+            "Name": "Old Sharlayan",
+            "X": "5.4",
+            "Y": "8.2"
+        },
+        "StartClass": null,
+        "Job": "",
+        "Company": "Not specified",
+        "Requirement": "Not specified",
+        "Rewards": {
+            "Gil": 0,
+            "Exp": 112200,
+            "ItemsMand": [
+                {
+                    "Icon": "https://img.finalfantasyxiv.com/lds/pc/global/images/itemicon/5d/5dd42eb2385a5e0d158b8fa81b63a09e4b25c821.png?n6.05",
+                    "Name": "Lightning Crystal",
+                    "Amount": 250,
+                    "Url": "/lodestone/playguide/db/item/b21a951916e/"
+                },
+                {
+                    "Icon": "https://img.finalfantasyxiv.com/lds/pc/global/images/itemicon/b5/b5eb0d9131d8f735a91286bdf2f877f0495e8235.png?n6.05",
+                    "Name": "Water Crystal",
+                    "Amount": 250,
+                    "Url": "/lodestone/playguide/db/item/44d3f4cb26b/"
+                }
+            ],
+            "ItemsOpt": []
+        },
+        "Infos": {
+            "PrerequisiteQuest": [
+                {
+                    "Name": "Perfectly Awful",
+                    "Url": "/lodestone/playguide/db/quest/e8f3531d467/",
+                    "Area": "Old Sharlayan",
+                    "Level": "80"
+                }
+            ],
+            "FollowupQuest": [
+                {
+                    "Name": "Remember the Texture",
+                    "Url": "/lodestone/playguide/db/quest/f48570ef4ba/",
+                    "Area": "Old Sharlayan",
+                    "Level": "83"
+                }
+            ]
+        },
+        "Seq": 15,
+        "StartDependency": false
+    },
+    {
+        "ID": "b71995e5487",
+        "Name": "The Faculty",
+        "Location": "Old Sharlayan",
+        "Level": 80,
+        "JournalSection": 6,
+        "JournalCategory": 69,
+        "JournalGenre": "\n\t\t\t\t\t\t\tStudium Quests\n\t\t\t\t\t\t",
+        "Url": "/lodestone/playguide/db/quest/b71995e5487/",
+        "Image": null,
+        "Icon": "function_normal",
+        "Issuer": "Qih Aliapoh",
+        "StartLocation": {
+            "Name": "Old Sharlayan",
+            "X": "4.0",
+            "Y": "9.4"
+        },
+        "StartClass": null,
+        "Job": "",
+        "Company": "Not specified",
+        "Requirement": "Not specified",
+        "Rewards": {
+            "Gil": 615,
+            "Exp": 112200,
+            "ItemsMand": [],
+            "ItemsOpt": []
+        },
+        "Infos": {
+            "PrerequisiteQuest": [
+                {
+                    "Name": "Sound the Bell, School's In",
+                    "Url": "/lodestone/playguide/db/quest/c8e2a1144b9/",
+                    "Area": "Old Sharlayan",
+                    "Level": "82"
+                },
+                {
+                    "Name": "Inscrutable Tastes",
+                    "Url": "/lodestone/playguide/db/quest/a94b1abd066/",
+                    "Area": "Ishgard",
+                    "Level": "50"
+                }
+            ],
+            "FollowupQuest": [
+                {
+                    "Name": "Professor Rurusha's New Friend",
+                    "Url": "/lodestone/playguide/db/quest/0380061e05b/",
+                    "Area": "Old Sharlayan",
+                    "Level": "80"
+                },
+                {
+                    "Name": "In Search of the Azure Star",
+                    "Url": "/lodestone/playguide/db/quest/e3718bbfbb3/",
+                    "Area": "Old Sharlayan",
+                    "Level": "80"
+                },
+                {
+                    "Name": "Perfectly Awful",
+                    "Url": "/lodestone/playguide/db/quest/e8f3531d467/",
+                    "Area": "Old Sharlayan",
+                    "Level": "80"
+                },
+                {
+                    "Name": "Cultured Pursuits",
+                    "Url": "/lodestone/playguide/db/quest/e46f035844d/",
+                    "Area": "Old Sharlayan",
+                    "Level": "80"
+                },
+                {
+                    "Name": "Fear the Thesis",
+                    "Url": "/lodestone/playguide/db/quest/62979ce402e/",
+                    "Area": "Old Sharlayan",
+                    "Level": "80"
+                }
+            ]
+        },
+        "Seq": 35,
+        "StartDependency": false
+    },
+    {
+        "ID": "b74db52914a",
+        "Name": "Rubbished Research",
+        "Location": "Old Sharlayan",
+        "Level": 85,
+        "JournalSection": 6,
+        "JournalCategory": 69,
+        "JournalGenre": "\n\t\t\t\t\t\t\tFaculty of Archaeology Quests\n\t\t\t\t\t\t",
+        "Url": "/lodestone/playguide/db/quest/b74db52914a/",
+        "Image": null,
+        "Icon": "common_normal",
+        "Issuer": "Rurusha",
+        "StartLocation": {
+            "Name": "Old Sharlayan",
+            "X": "5.6",
+            "Y": "8.4"
+        },
+        "StartClass": null,
+        "Job": "",
+        "Company": "Not specified",
+        "Requirement": "Not specified",
+        "Rewards": {
+            "Gil": 0,
+            "Exp": 120450,
+            "ItemsMand": [
+                {
+                    "Icon": "https://img.finalfantasyxiv.com/lds/pc/global/images/itemicon/da/da7216f73b0cc772e8f68f3feaf7d20bffa3f095.png?n6.05",
+                    "Name": "Happiness Juice",
+                    "Amount": 2,
+                    "Url": "/lodestone/playguide/db/item/5239a5ab87e/"
+                }
+            ],
+            "ItemsOpt": []
+        },
+        "Infos": {
+            "PrerequisiteQuest": [
+                {
+                    "Name": "Gears of Gold",
+                    "Url": "/lodestone/playguide/db/quest/f48d80065cb/",
+                    "Area": "Old Sharlayan",
+                    "Level": "83"
+                }
+            ],
+            "FollowupQuest": [
+                {
+                    "Name": "Boric's Choice",
+                    "Url": "/lodestone/playguide/db/quest/59e9c1af2c7/",
+                    "Area": "Old Sharlayan",
+                    "Level": "85"
+                }
+            ],
+            "RelatedNPC": [
+                {
+                    "Name": "Boric",
+                    "Url": "/lodestone/playguide/db/npc/npc/cd27e634a26/",
+                    "Area": "Old Sharlayan (X:5.7 Y:8.4)"
+                }
+            ]
+        },
+        "Seq": 3,
+        "StartDependency": false
+    },
+    {
+        "ID": "bf643bc29b6",
+        "Name": "An Astronomical Growth",
+        "Location": "Old Sharlayan",
+        "Level": 88,
+        "JournalSection": 6,
+        "JournalCategory": 69,
+        "JournalGenre": "\n\t\t\t\t\t\t\tFaculty of Astronomy Quests\n\t\t\t\t\t\t",
+        "Url": "/lodestone/playguide/db/quest/bf643bc29b6/",
+        "Image": null,
+        "Icon": "common_normal",
+        "Issuer": "Jude",
+        "StartLocation": {
+            "Name": "Old Sharlayan",
+            "X": "5.3",
+            "Y": "7.9"
+        },
+        "StartClass": null,
+        "Job": "",
+        "Company": "Not specified",
+        "Requirement": "Not specified",
+        "Rewards": {
+            "Gil": 0,
+            "Exp": 125400,
+            "ItemsMand": [
+                {
+                    "Icon": "https://img.finalfantasyxiv.com/lds/pc/global/images/itemicon/6c/6c7e50ae7b0eb0c76554f383b2e2bccbbc8074f8.png?n6.05",
+                    "Name": "Tsai tou Vounou",
+                    "Amount": 2,
+                    "Url": "/lodestone/playguide/db/item/84fd8d880fd/"
+                }
+            ],
+            "ItemsOpt": []
+        },
+        "Infos": {
+            "PrerequisiteQuest": [
+                {
+                    "Name": "A Ten-year Promise",
+                    "Url": "/lodestone/playguide/db/quest/3f397ac5749/",
+                    "Area": "Old Sharlayan",
+                    "Level": "85"
+                }
+            ],
+            "FollowupQuest": [
+                {
+                    "Name": "The Promised Star",
+                    "Url": "/lodestone/playguide/db/quest/a2f7a1b0afd/",
+                    "Area": "Old Sharlayan",
+                    "Level": "90"
+                }
+            ]
+        },
+        "Seq": 12,
+        "StartDependency": false
+    },
+    {
+        "ID": "e1f1ac6dfe3",
+        "Name": "Perfectly Delectable",
+        "Location": "Old Sharlayan",
+        "Level": 88,
+        "JournalSection": 6,
+        "JournalCategory": 69,
+        "JournalGenre": "\n\t\t\t\t\t\t\tFaculty of Medicine Quests\n\t\t\t\t\t\t",
+        "Url": "/lodestone/playguide/db/quest/e1f1ac6dfe3/",
+        "Image": null,
+        "Icon": "common_normal",
+        "Issuer": "Debroye",
+        "StartLocation": {
+            "Name": "Old Sharlayan",
+            "X": "5.4",
+            "Y": "8.2"
+        },
+        "StartClass": null,
+        "Job": "",
+        "Company": "Not specified",
+        "Requirement": "Not specified",
+        "Rewards": {
+            "Gil": 0,
+            "Exp": 125400,
+            "ItemsMand": [
+                {
+                    "Icon": "https://img.finalfantasyxiv.com/lds/pc/global/images/itemicon/6c/6c7e50ae7b0eb0c76554f383b2e2bccbbc8074f8.png?n6.05",
+                    "Name": "Tsai tou Vounou",
+                    "Amount": 2,
+                    "Url": "/lodestone/playguide/db/item/84fd8d880fd/"
+                }
+            ],
+            "ItemsOpt": []
+        },
+        "Infos": {
+            "PrerequisiteQuest": [
+                {
+                    "Name": "Long Live the Gourmet",
+                    "Url": "/lodestone/playguide/db/quest/335bdf408a4/",
+                    "Area": "Old Sharlayan",
+                    "Level": "85"
+                }
+            ],
+            "FollowupQuest": [
+                {
+                    "Name": "Sharlayan Cuisine",
+                    "Url": "/lodestone/playguide/db/quest/30e256272ea/",
+                    "Area": "Old Sharlayan",
+                    "Level": "90"
+                }
+            ]
+        },
+        "Seq": 19,
+        "StartDependency": false
+    },
+    {
+        "ID": "e3718bbfbb3",
+        "Name": "In Search of the Azure Star",
+        "Location": "Old Sharlayan",
+        "Level": 80,
+        "JournalSection": 6,
+        "JournalCategory": 69,
+        "JournalGenre": "\n\t\t\t\t\t\t\tFaculty of Astronomy Quests\n\t\t\t\t\t\t",
+        "Url": "/lodestone/playguide/db/quest/e3718bbfbb3/",
+        "Image": "https://img.finalfantasyxiv.com/lds/pc/global/images/itemicon/17/177fad7f377908918ba5b70dd70a281e65c0a08f.png?n6.05",
+        "Icon": "function_normal",
+        "Issuer": "Jude",
+        "StartLocation": {
+            "Name": "Old Sharlayan",
+            "X": "4.1",
+            "Y": "9.1"
+        },
+        "StartClass": null,
+        "Job": "",
+        "Company": "Not specified",
+        "Requirement": "Not specified",
+        "Rewards": {
+            "Gil": 0,
+            "Exp": 112200,
+            "ItemsMand": [
+                {
+                    "Icon": "https://img.finalfantasyxiv.com/lds/pc/global/images/itemicon/09/095c48d2cb88e6a5430a6438a24a8491dc9b5961.png?n6.05",
+                    "Name": "Chili Crab",
+                    "Amount": 2,
+                    "Url": "/lodestone/playguide/db/item/395fc8416a2/"
+                }
+            ],
+            "ItemsOpt": []
+        },
+        "Infos": {
+            "PrerequisiteQuest": [
+                {
+                    "Name": "The Faculty",
+                    "Url": "/lodestone/playguide/db/quest/b71995e5487/",
+                    "Area": "Old Sharlayan",
+                    "Level": "80"
+                }
+            ],
+            "FollowupQuest": [
+                {
+                    "Name": "The World without You",
+                    "Url": "/lodestone/playguide/db/quest/523ba8c41b0/",
+                    "Area": "Old Sharlayan",
+                    "Level": "80"
+                }
+            ],
+            "RelatedNPC": [
+                {
+                    "Name": "Jude",
+                    "Url": "/lodestone/playguide/db/npc/npc/6d9d4376ab2/",
+                    "Area": "Old Sharlayan (X:5.3 Y:7.9)"
+                },
+                {
+                    "Name": "Jude",
+                    "Url": "/lodestone/playguide/db/npc/npc/de2dc68e95e/",
+                    "Area": "Old Sharlayan (X:3.8 Y:13.0)"
+                }
+            ]
+        },
+        "Seq": 7,
+        "StartDependency": false
+    },
+    {
+        "ID": "e46f035844d",
+        "Name": "Cultured Pursuits",
+        "Location": "Old Sharlayan",
+        "Level": 80,
+        "JournalSection": 6,
+        "JournalCategory": 69,
+        "JournalGenre": "\n\t\t\t\t\t\t\tFaculty of Anthropology Quests\n\t\t\t\t\t\t",
+        "Url": "/lodestone/playguide/db/quest/e46f035844d/",
+        "Image": "https://img.finalfantasyxiv.com/lds/pc/global/images/itemicon/ec/ec4e661019f7d6b9b38fb1a8df5102ef639bcb38.png?n6.05",
+        "Icon": "function_normal",
+        "Issuer": "Hinageshi",
+        "StartLocation": {
+            "Name": "Old Sharlayan",
+            "X": "4.0",
+            "Y": "9.3"
+        },
+        "StartClass": null,
+        "Job": "",
+        "Company": "Not specified",
+        "Requirement": "Not specified",
+        "Rewards": {
+            "Gil": 0,
+            "Exp": 112200,
+            "ItemsMand": [
+                {
+                    "Icon": "https://img.finalfantasyxiv.com/lds/pc/global/images/itemicon/98/98277e8c20528595bb33a7c12a42606baa4e57d2.png?n6.05",
+                    "Name": "Crab Cakes",
+                    "Amount": 2,
+                    "Url": "/lodestone/playguide/db/item/479ea840a66/"
+                }
+            ],
+            "ItemsOpt": []
+        },
+        "Infos": {
+            "PrerequisiteQuest": [
+                {
+                    "Name": "The Faculty",
+                    "Url": "/lodestone/playguide/db/quest/b71995e5487/",
+                    "Area": "Old Sharlayan",
+                    "Level": "80"
+                }
+            ],
+            "FollowupQuest": [
+                {
+                    "Name": "Cooking Up a Culture",
+                    "Url": "/lodestone/playguide/db/quest/4c59fd39e4a/",
+                    "Area": "Old Sharlayan",
+                    "Level": "80"
+                }
+            ],
+            "RelatedNPC": [
+                {
+                    "Name": "Hinageshi",
+                    "Url": "/lodestone/playguide/db/npc/npc/e444c6b7cb9/",
+                    "Area": "Old Sharlayan (X:3.8 Y:9.1)"
+                },
+                {
+                    "Name": "Tankin",
+                    "Url": "/lodestone/playguide/db/npc/npc/bbd302fb66f/",
+                    "Area": "Old Sharlayan (X:3.8 Y:9.3)"
+                },
+                {
+                    "Name": "Tankin",
+                    "Url": "/lodestone/playguide/db/npc/npc/2625f24a239/",
+                    "Area": "Old Sharlayan (X:3.8 Y:9.2)"
+                },
+                {
+                    "Name": "Tankin",
+                    "Url": "/lodestone/playguide/db/npc/npc/e69d65f308d/",
+                    "Area": "Old Sharlayan (X:3.7 Y:11.9)"
+                }
+            ]
+        },
+        "Seq": 21,
+        "StartDependency": false
+    },
+    {
+        "ID": "e8f3531d467",
+        "Name": "Perfectly Awful",
+        "Location": "Old Sharlayan",
+        "Level": 80,
+        "JournalSection": 6,
+        "JournalCategory": 69,
+        "JournalGenre": "\n\t\t\t\t\t\t\tFaculty of Medicine Quests\n\t\t\t\t\t\t",
+        "Url": "/lodestone/playguide/db/quest/e8f3531d467/",
+        "Image": "https://img.finalfantasyxiv.com/lds/pc/global/images/itemicon/58/58a89ebbe1e20d10f339c76b9c555524c2ca53d8.png?n6.05",
+        "Icon": "function_normal",
+        "Issuer": "Debroye",
+        "StartLocation": {
+            "Name": "Old Sharlayan",
+            "X": "4.2",
+            "Y": "9.2"
+        },
+        "StartClass": null,
+        "Job": "",
+        "Company": "Not specified",
+        "Requirement": "Not specified",
+        "Rewards": {
+            "Gil": 0,
+            "Exp": 112200,
+            "ItemsMand": [
+                {
+                    "Icon": "https://img.finalfantasyxiv.com/lds/pc/global/images/itemicon/09/095c48d2cb88e6a5430a6438a24a8491dc9b5961.png?n6.05",
+                    "Name": "Chili Crab",
+                    "Amount": 2,
+                    "Url": "/lodestone/playguide/db/item/395fc8416a2/"
+                }
+            ],
+            "ItemsOpt": []
+        },
+        "Infos": {
+            "PrerequisiteQuest": [
+                {
+                    "Name": "The Faculty",
+                    "Url": "/lodestone/playguide/db/quest/b71995e5487/",
+                    "Area": "Old Sharlayan",
+                    "Level": "80"
+                }
+            ],
+            "FollowupQuest": [
+                {
+                    "Name": "Make It Sweeter",
+                    "Url": "/lodestone/playguide/db/quest/b1da42f6466/",
+                    "Area": "Old Sharlayan",
+                    "Level": "80"
+                }
+            ],
+            "RelatedNPC": [
+                {
+                    "Name": "Debroye",
+                    "Url": "/lodestone/playguide/db/npc/npc/d70644fae2b/",
+                    "Area": "Old Sharlayan (X:5.4 Y:8.2)"
+                },
+                {
+                    "Name": "Debroye",
+                    "Url": "/lodestone/playguide/db/npc/npc/9f3c92828ed/",
+                    "Area": "Old Sharlayan (X:9.5 Y:13.6)"
+                }
+            ]
+        },
+        "Seq": 14,
+        "StartDependency": false
+    },
+    {
+        "ID": "f48570ef4ba",
+        "Name": "Remember the Texture",
+        "Location": "Old Sharlayan",
+        "Level": 83,
+        "JournalSection": 6,
+        "JournalCategory": 69,
+        "JournalGenre": "\n\t\t\t\t\t\t\tFaculty of Medicine Quests\n\t\t\t\t\t\t",
+        "Url": "/lodestone/playguide/db/quest/f48570ef4ba/",
+        "Image": null,
+        "Icon": "common_normal",
+        "Issuer": "Debroye",
+        "StartLocation": {
+            "Name": "Old Sharlayan",
+            "X": "5.4",
+            "Y": "8.2"
+        },
+        "StartClass": null,
+        "Job": "",
+        "Company": "Not specified",
+        "Requirement": "Not specified",
+        "Rewards": {
+            "Gil": 0,
+            "Exp": 117150,
+            "ItemsMand": [
+                {
+                    "Icon": "https://img.finalfantasyxiv.com/lds/pc/global/images/itemicon/5d/5dd42eb2385a5e0d158b8fa81b63a09e4b25c821.png?n6.05",
+                    "Name": "Lightning Crystal",
+                    "Amount": 250,
+                    "Url": "/lodestone/playguide/db/item/b21a951916e/"
+                },
+                {
+                    "Icon": "https://img.finalfantasyxiv.com/lds/pc/global/images/itemicon/b5/b5eb0d9131d8f735a91286bdf2f877f0495e8235.png?n6.05",
+                    "Name": "Water Crystal",
+                    "Amount": 250,
+                    "Url": "/lodestone/playguide/db/item/44d3f4cb26b/"
+                }
+            ],
+            "ItemsOpt": []
+        },
+        "Infos": {
+            "PrerequisiteQuest": [
+                {
+                    "Name": "Make It Sweeter",
+                    "Url": "/lodestone/playguide/db/quest/b1da42f6466/",
+                    "Area": "Old Sharlayan",
+                    "Level": "80"
+                }
+            ],
+            "FollowupQuest": [
+                {
+                    "Name": "Aroma Is Key",
+                    "Url": "/lodestone/playguide/db/quest/a065a7c075e/",
+                    "Area": "Old Sharlayan",
+                    "Level": "85"
+                }
+            ]
+        },
+        "Seq": 16,
+        "StartDependency": false
+    },
+    {
+        "ID": "f48d80065cb",
+        "Name": "Gears of Gold",
+        "Location": "Old Sharlayan",
+        "Level": 83,
+        "JournalSection": 6,
+        "JournalCategory": 69,
+        "JournalGenre": "\n\t\t\t\t\t\t\tFaculty of Archaeology Quests\n\t\t\t\t\t\t",
+        "Url": "/lodestone/playguide/db/quest/f48d80065cb/",
+        "Image": null,
+        "Icon": "common_normal",
+        "Issuer": "Rurusha",
+        "StartLocation": {
+            "Name": "Old Sharlayan",
+            "X": "5.6",
+            "Y": "8.4"
+        },
+        "StartClass": null,
+        "Job": "",
+        "Company": "Not specified",
+        "Requirement": "Not specified",
+        "Rewards": {
+            "Gil": 0,
+            "Exp": 117150,
+            "ItemsMand": [
+                {
+                    "Icon": "https://img.finalfantasyxiv.com/lds/pc/global/images/itemicon/d9/d9a4b77a07bb95bf2713ae233a0eececdf211e8b.png?n6.05",
+                    "Name": "Fire Crystal",
+                    "Amount": 250,
+                    "Url": "/lodestone/playguide/db/item/75403105d7f/"
+                },
+                {
+                    "Icon": "https://img.finalfantasyxiv.com/lds/pc/global/images/itemicon/a7/a71da2eb489188dbbfadd582938a0e761a9a0585.png?n6.05",
+                    "Name": "Ice Crystal",
+                    "Amount": 250,
+                    "Url": "/lodestone/playguide/db/item/2d800a06851/"
+                }
+            ],
+            "ItemsOpt": []
+        },
+        "Infos": {
+            "PrerequisiteQuest": [
+                {
+                    "Name": "The Dormant Dhyata",
+                    "Url": "/lodestone/playguide/db/quest/41afedaa67b/",
+                    "Area": "Old Sharlayan",
+                    "Level": "80"
+                }
+            ],
+            "FollowupQuest": [
+                {
+                    "Name": "Rubbished Research",
+                    "Url": "/lodestone/playguide/db/quest/b74db52914a/",
+                    "Area": "Old Sharlayan",
+                    "Level": "85"
+                }
+            ],
+            "RelatedNPC": [
+                {
+                    "Name": "Boric",
+                    "Url": "/lodestone/playguide/db/npc/npc/cd27e634a26/",
+                    "Area": "Old Sharlayan (X:5.7 Y:8.4)"
+                }
+            ]
+        },
+        "Seq": 2,
+        "StartDependency": false
+    },
+    {
+        "ID": "fd9c93a4dda",
+        "Name": "The Culture of Carrots",
+        "Location": "Old Sharlayan",
+        "Level": 85,
+        "JournalSection": 6,
+        "JournalCategory": 69,
+        "JournalGenre": "\n\t\t\t\t\t\t\tFaculty of Anthropology Quests\n\t\t\t\t\t\t",
+        "Url": "/lodestone/playguide/db/quest/fd9c93a4dda/",
+        "Image": null,
+        "Icon": "common_normal",
+        "Issuer": "Hinageshi",
+        "StartLocation": {
+            "Name": "Old Sharlayan",
+            "X": "3.8",
+            "Y": "9.1"
+        },
+        "StartClass": null,
+        "Job": "",
+        "Company": "Not specified",
+        "Requirement": "Not specified",
+        "Rewards": {
+            "Gil": 0,
+            "Exp": 120450,
+            "ItemsMand": [
+                {
+                    "Icon": "https://img.finalfantasyxiv.com/lds/pc/global/images/itemicon/e3/e3c95929c4d002f2ce85d14b4b974f9255bb402e.png?n6.05",
+                    "Name": "Carrot Nibbles",
+                    "Amount": 2,
+                    "Url": "/lodestone/playguide/db/item/840b2647f34/"
+                }
+            ],
+            "ItemsOpt": []
+        },
+        "Infos": {
+            "PrerequisiteQuest": [
+                {
+                    "Name": "Helping Hands",
+                    "Url": "/lodestone/playguide/db/quest/f83ee3db27b/",
+                    "Area": "Mare Lamentorum",
+                    "Level": "84"
+                },
+                {
+                    "Name": "The Culture of Ceruleum",
+                    "Url": "/lodestone/playguide/db/quest/880ea2caeff/",
+                    "Area": "Old Sharlayan",
+                    "Level": "83"
+                }
+            ],
+            "FollowupQuest": [
+                {
+                    "Name": "Hinageshi in Hingashi",
+                    "Url": "/lodestone/playguide/db/quest/5e445c49028/",
+                    "Area": "Old Sharlayan",
+                    "Level": "85"
+                }
+            ],
+            "RelatedNPC": [
+                {
+                    "Name": "Tankin",
+                    "Url": "/lodestone/playguide/db/npc/npc/bbd302fb66f/",
+                    "Area": "Old Sharlayan (X:3.8 Y:9.3)"
+                }
+            ]
+        },
+        "Seq": 24,
+        "StartDependency": false
+    }
+]

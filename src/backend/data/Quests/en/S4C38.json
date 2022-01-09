@@ -1,0 +1,3475 @@
+[
+    {
+        "ID": "004da535430",
+        "Name": " Overcommitment",
+        "Location": "The Azim Steppe",
+        "Level": 60,
+        "JournalSection": 4,
+        "JournalCategory": 38,
+        "JournalGenre": "\n\t\t\t\t\t\t\tDaily Quests\n\t\t\t\t\t\t",
+        "Url": "/lodestone/playguide/db/quest/004da535430/",
+        "Image": null,
+        "Icon": "common_repeat",
+        "Issuer": "Seigetsu The Enlightened",
+        "StartLocation": {
+            "Name": "The Azim Steppe",
+            "X": "5.8",
+            "Y": "23.4"
+        },
+        "StartClass": null,
+        "Job": "",
+        "Company": "Not specified",
+        "Requirement": "Not specified",
+        "Rewards": {
+            "Gil": 680,
+            "Exp": null,
+            "ItemsMand": [
+                {
+                    "Icon": "https://img.finalfantasyxiv.com/lds/pc/global/images/itemicon/0d/0dd4af1f23b8f1d782bacfb905a67b491688414c.png?n6.05",
+                    "Name": "Wind Crystal",
+                    "Amount": 20,
+                    "Url": "/lodestone/playguide/db/item/5db117cd77b/"
+                },
+                {
+                    "Icon": "https://img.finalfantasyxiv.com/lds/pc/global/images/itemicon/d9/d9a4b77a07bb95bf2713ae233a0eececdf211e8b.png?n6.05",
+                    "Name": "Fire Crystal",
+                    "Amount": 20,
+                    "Url": "/lodestone/playguide/db/item/75403105d7f/"
+                },
+                {
+                    "Icon": "https://img.finalfantasyxiv.com/lds/pc/global/images/itemicon/a7/a71da2eb489188dbbfadd582938a0e761a9a0585.png?n6.05",
+                    "Name": "Ice Crystal",
+                    "Amount": 20,
+                    "Url": "/lodestone/playguide/db/item/2d800a06851/"
+                },
+                {
+                    "Icon": "https://img.finalfantasyxiv.com/lds/pc/global/images/itemicon/0d/0dd4af1f23b8f1d782bacfb905a67b491688414c.png?n6.05",
+                    "Name": "Wind Crystal",
+                    "Amount": 20,
+                    "Url": "/lodestone/playguide/db/item/5db117cd77b/"
+                },
+                {
+                    "Icon": "https://img.finalfantasyxiv.com/lds/pc/global/images/itemicon/16/16cd107e2bd1c45cee59e6b96ef02f2f6f68eac5.png?n6.05",
+                    "Name": "Earth Crystal",
+                    "Amount": 20,
+                    "Url": "/lodestone/playguide/db/item/ff6eae7bdcb/"
+                },
+                {
+                    "Icon": "https://img.finalfantasyxiv.com/lds/pc/global/images/itemicon/5d/5dd42eb2385a5e0d158b8fa81b63a09e4b25c821.png?n6.05",
+                    "Name": "Lightning Crystal",
+                    "Amount": 20,
+                    "Url": "/lodestone/playguide/db/item/b21a951916e/"
+                },
+                {
+                    "Icon": "https://img.finalfantasyxiv.com/lds/pc/global/images/itemicon/b5/b5eb0d9131d8f735a91286bdf2f877f0495e8235.png?n6.05",
+                    "Name": "Water Crystal",
+                    "Amount": 20,
+                    "Url": "/lodestone/playguide/db/item/44d3f4cb26b/"
+                },
+                {
+                    "Icon": "https://img.finalfantasyxiv.com/lds/pc/global/images/itemicon/d9/d9a4b77a07bb95bf2713ae233a0eececdf211e8b.png?n6.05",
+                    "Name": "Fire Crystal",
+                    "Amount": 20,
+                    "Url": "/lodestone/playguide/db/item/75403105d7f/"
+                },
+                {
+                    "Icon": "https://img.finalfantasyxiv.com/lds/pc/global/images/itemicon/d9/d9beff495b00ab597dbd0b268530571d803e6a2d.png?n6.05",
+                    "Name": "Cordial",
+                    "Amount": null,
+                    "Url": "/lodestone/playguide/db/item/2ff3e7e028c/"
+                },
+                {
+                    "Icon": "https://img.finalfantasyxiv.com/lds/pc/global/images/itemicon/d9/d9beff495b00ab597dbd0b268530571d803e6a2d.png?n6.05",
+                    "Name": "Cordial",
+                    "Amount": null,
+                    "Url": "/lodestone/playguide/db/item/2ff3e7e028c/"
+                },
+                {
+                    "Icon": "https://img.finalfantasyxiv.com/lds/pc/global/images/itemicon/d9/d9beff495b00ab597dbd0b268530571d803e6a2d.png?n6.05",
+                    "Name": "Cordial",
+                    "Amount": null,
+                    "Url": "/lodestone/playguide/db/item/2ff3e7e028c/"
+                }
+            ],
+            "ItemsOpt": []
+        },
+        "Infos": {
+            "RelatedNPC": [
+                {
+                    "Name": "Cumbersome Crate",
+                    "Url": "/lodestone/playguide/db/npc/npc/561bd66b142/",
+                    "Area": "The Azim Steppe (X:26.3 Y:21.7)"
+                },
+                {
+                    "Name": "Namazu Apothecary",
+                    "Url": "/lodestone/playguide/db/npc/npc/51c6671ab52/",
+                    "Area": "The Azim Steppe (X:26.2 Y:21.7)"
+                },
+                {
+                    "Name": "Namazu Dancer",
+                    "Url": "/lodestone/playguide/db/npc/npc/4ad12051055/",
+                    "Area": "The Azim Steppe (X:22.4 Y:21.6)"
+                },
+                {
+                    "Name": "Namazu Dancer",
+                    "Url": "/lodestone/playguide/db/npc/npc/b067354494d/",
+                    "Area": "The Azim Steppe (X:22.4 Y:21.6)"
+                },
+                {
+                    "Name": "Namazu Dancer",
+                    "Url": "/lodestone/playguide/db/npc/npc/29aa0a1a24e/",
+                    "Area": "The Azim Steppe (X:22.3 Y:21.6)"
+                }
+            ]
+        },
+        "Seq": 31,
+        "StartDependency": false
+    },
+    {
+        "ID": "0a84c3b7db4",
+        "Name": " Great Buuz Up",
+        "Location": "The Azim Steppe",
+        "Level": 60,
+        "JournalSection": 4,
+        "JournalCategory": 38,
+        "JournalGenre": "\n\t\t\t\t\t\t\tDaily Quests\n\t\t\t\t\t\t",
+        "Url": "/lodestone/playguide/db/quest/0a84c3b7db4/",
+        "Image": null,
+        "Icon": "common_repeat",
+        "Issuer": "Seigetsu The Enlightened",
+        "StartLocation": {
+            "Name": "The Azim Steppe",
+            "X": "5.8",
+            "Y": "23.4"
+        },
+        "StartClass": null,
+        "Job": "",
+        "Company": "Not specified",
+        "Requirement": "Not specified",
+        "Rewards": {
+            "Gil": 615,
+            "Exp": null,
+            "ItemsMand": [
+                {
+                    "Icon": "https://img.finalfantasyxiv.com/lds/pc/global/images/itemicon/0d/0dd4af1f23b8f1d782bacfb905a67b491688414c.png?n6.05",
+                    "Name": "Wind Crystal",
+                    "Amount": 20,
+                    "Url": "/lodestone/playguide/db/item/5db117cd77b/"
+                },
+                {
+                    "Icon": "https://img.finalfantasyxiv.com/lds/pc/global/images/itemicon/d9/d9a4b77a07bb95bf2713ae233a0eececdf211e8b.png?n6.05",
+                    "Name": "Fire Crystal",
+                    "Amount": 20,
+                    "Url": "/lodestone/playguide/db/item/75403105d7f/"
+                },
+                {
+                    "Icon": "https://img.finalfantasyxiv.com/lds/pc/global/images/itemicon/a7/a71da2eb489188dbbfadd582938a0e761a9a0585.png?n6.05",
+                    "Name": "Ice Crystal",
+                    "Amount": 20,
+                    "Url": "/lodestone/playguide/db/item/2d800a06851/"
+                },
+                {
+                    "Icon": "https://img.finalfantasyxiv.com/lds/pc/global/images/itemicon/0d/0dd4af1f23b8f1d782bacfb905a67b491688414c.png?n6.05",
+                    "Name": "Wind Crystal",
+                    "Amount": 20,
+                    "Url": "/lodestone/playguide/db/item/5db117cd77b/"
+                },
+                {
+                    "Icon": "https://img.finalfantasyxiv.com/lds/pc/global/images/itemicon/16/16cd107e2bd1c45cee59e6b96ef02f2f6f68eac5.png?n6.05",
+                    "Name": "Earth Crystal",
+                    "Amount": 20,
+                    "Url": "/lodestone/playguide/db/item/ff6eae7bdcb/"
+                },
+                {
+                    "Icon": "https://img.finalfantasyxiv.com/lds/pc/global/images/itemicon/5d/5dd42eb2385a5e0d158b8fa81b63a09e4b25c821.png?n6.05",
+                    "Name": "Lightning Crystal",
+                    "Amount": 20,
+                    "Url": "/lodestone/playguide/db/item/b21a951916e/"
+                },
+                {
+                    "Icon": "https://img.finalfantasyxiv.com/lds/pc/global/images/itemicon/b5/b5eb0d9131d8f735a91286bdf2f877f0495e8235.png?n6.05",
+                    "Name": "Water Crystal",
+                    "Amount": 20,
+                    "Url": "/lodestone/playguide/db/item/44d3f4cb26b/"
+                },
+                {
+                    "Icon": "https://img.finalfantasyxiv.com/lds/pc/global/images/itemicon/d9/d9a4b77a07bb95bf2713ae233a0eececdf211e8b.png?n6.05",
+                    "Name": "Fire Crystal",
+                    "Amount": 20,
+                    "Url": "/lodestone/playguide/db/item/75403105d7f/"
+                },
+                {
+                    "Icon": "https://img.finalfantasyxiv.com/lds/pc/global/images/itemicon/d9/d9beff495b00ab597dbd0b268530571d803e6a2d.png?n6.05",
+                    "Name": "Cordial",
+                    "Amount": null,
+                    "Url": "/lodestone/playguide/db/item/2ff3e7e028c/"
+                },
+                {
+                    "Icon": "https://img.finalfantasyxiv.com/lds/pc/global/images/itemicon/d9/d9beff495b00ab597dbd0b268530571d803e6a2d.png?n6.05",
+                    "Name": "Cordial",
+                    "Amount": null,
+                    "Url": "/lodestone/playguide/db/item/2ff3e7e028c/"
+                },
+                {
+                    "Icon": "https://img.finalfantasyxiv.com/lds/pc/global/images/itemicon/d9/d9beff495b00ab597dbd0b268530571d803e6a2d.png?n6.05",
+                    "Name": "Cordial",
+                    "Amount": null,
+                    "Url": "/lodestone/playguide/db/item/2ff3e7e028c/"
+                }
+            ],
+            "ItemsOpt": []
+        },
+        "Infos": {
+            "RelatedNPC": [
+                {
+                    "Name": "Cumbersome Crate",
+                    "Url": "/lodestone/playguide/db/npc/npc/c11e4a97f49/",
+                    "Area": "The Azim Steppe (X:29.3 Y:31.2)"
+                },
+                {
+                    "Name": "Namazu Cook",
+                    "Url": "/lodestone/playguide/db/npc/npc/ac48f1c2617/",
+                    "Area": "The Azim Steppe (X:29.2 Y:31.2)"
+                }
+            ]
+        },
+        "Seq": 16,
+        "StartDependency": false
+    },
+    {
+        "ID": "0f6562f5219",
+        "Name": " Unidentified Festive Objects",
+        "Location": "The Azim Steppe",
+        "Level": 60,
+        "JournalSection": 4,
+        "JournalCategory": 38,
+        "JournalGenre": "\n\t\t\t\t\t\t\tDaily Quests\n\t\t\t\t\t\t",
+        "Url": "/lodestone/playguide/db/quest/0f6562f5219/",
+        "Image": null,
+        "Icon": "common_repeat",
+        "Issuer": "Seigetsu The Enlightened",
+        "StartLocation": {
+            "Name": "The Azim Steppe",
+            "X": "5.8",
+            "Y": "23.4"
+        },
+        "StartClass": null,
+        "Job": "",
+        "Company": "Not specified",
+        "Requirement": "Not specified",
+        "Rewards": {
+            "Gil": 550,
+            "Exp": null,
+            "ItemsMand": [
+                {
+                    "Icon": "https://img.finalfantasyxiv.com/lds/pc/global/images/itemicon/0d/0dd4af1f23b8f1d782bacfb905a67b491688414c.png?n6.05",
+                    "Name": "Wind Crystal",
+                    "Amount": 20,
+                    "Url": "/lodestone/playguide/db/item/5db117cd77b/"
+                },
+                {
+                    "Icon": "https://img.finalfantasyxiv.com/lds/pc/global/images/itemicon/d9/d9a4b77a07bb95bf2713ae233a0eececdf211e8b.png?n6.05",
+                    "Name": "Fire Crystal",
+                    "Amount": 20,
+                    "Url": "/lodestone/playguide/db/item/75403105d7f/"
+                },
+                {
+                    "Icon": "https://img.finalfantasyxiv.com/lds/pc/global/images/itemicon/a7/a71da2eb489188dbbfadd582938a0e761a9a0585.png?n6.05",
+                    "Name": "Ice Crystal",
+                    "Amount": 20,
+                    "Url": "/lodestone/playguide/db/item/2d800a06851/"
+                },
+                {
+                    "Icon": "https://img.finalfantasyxiv.com/lds/pc/global/images/itemicon/0d/0dd4af1f23b8f1d782bacfb905a67b491688414c.png?n6.05",
+                    "Name": "Wind Crystal",
+                    "Amount": 20,
+                    "Url": "/lodestone/playguide/db/item/5db117cd77b/"
+                },
+                {
+                    "Icon": "https://img.finalfantasyxiv.com/lds/pc/global/images/itemicon/16/16cd107e2bd1c45cee59e6b96ef02f2f6f68eac5.png?n6.05",
+                    "Name": "Earth Crystal",
+                    "Amount": 20,
+                    "Url": "/lodestone/playguide/db/item/ff6eae7bdcb/"
+                },
+                {
+                    "Icon": "https://img.finalfantasyxiv.com/lds/pc/global/images/itemicon/5d/5dd42eb2385a5e0d158b8fa81b63a09e4b25c821.png?n6.05",
+                    "Name": "Lightning Crystal",
+                    "Amount": 20,
+                    "Url": "/lodestone/playguide/db/item/b21a951916e/"
+                },
+                {
+                    "Icon": "https://img.finalfantasyxiv.com/lds/pc/global/images/itemicon/b5/b5eb0d9131d8f735a91286bdf2f877f0495e8235.png?n6.05",
+                    "Name": "Water Crystal",
+                    "Amount": 20,
+                    "Url": "/lodestone/playguide/db/item/44d3f4cb26b/"
+                },
+                {
+                    "Icon": "https://img.finalfantasyxiv.com/lds/pc/global/images/itemicon/d9/d9a4b77a07bb95bf2713ae233a0eececdf211e8b.png?n6.05",
+                    "Name": "Fire Crystal",
+                    "Amount": 20,
+                    "Url": "/lodestone/playguide/db/item/75403105d7f/"
+                },
+                {
+                    "Icon": "https://img.finalfantasyxiv.com/lds/pc/global/images/itemicon/d9/d9beff495b00ab597dbd0b268530571d803e6a2d.png?n6.05",
+                    "Name": "Cordial",
+                    "Amount": null,
+                    "Url": "/lodestone/playguide/db/item/2ff3e7e028c/"
+                },
+                {
+                    "Icon": "https://img.finalfantasyxiv.com/lds/pc/global/images/itemicon/d9/d9beff495b00ab597dbd0b268530571d803e6a2d.png?n6.05",
+                    "Name": "Cordial",
+                    "Amount": null,
+                    "Url": "/lodestone/playguide/db/item/2ff3e7e028c/"
+                },
+                {
+                    "Icon": "https://img.finalfantasyxiv.com/lds/pc/global/images/itemicon/d9/d9beff495b00ab597dbd0b268530571d803e6a2d.png?n6.05",
+                    "Name": "Cordial",
+                    "Amount": null,
+                    "Url": "/lodestone/playguide/db/item/2ff3e7e028c/"
+                }
+            ],
+            "ItemsOpt": []
+        },
+        "Infos": {
+            "RelatedNPC": [
+                {
+                    "Name": "Cumbersome Crate",
+                    "Url": "/lodestone/playguide/db/npc/npc/7a2d287ab65/",
+                    "Area": "The Azim Steppe (X:20.4 Y:10.3)"
+                },
+                {
+                    "Name": "Namazu Contractor",
+                    "Url": "/lodestone/playguide/db/npc/npc/11a5419bd5e/",
+                    "Area": "The Azim Steppe (X:20.3 Y:10.2)"
+                }
+            ]
+        },
+        "Seq": 9,
+        "StartDependency": false
+    },
+    {
+        "ID": "13f91ac35a5",
+        "Name": " One Size Fits All",
+        "Location": "The Azim Steppe",
+        "Level": 60,
+        "JournalSection": 4,
+        "JournalCategory": 38,
+        "JournalGenre": "\n\t\t\t\t\t\t\tMain Quests\n\t\t\t\t\t\t",
+        "Url": "/lodestone/playguide/db/quest/13f91ac35a5/",
+        "Image": "https://img.finalfantasyxiv.com/lds/pc/global/images/itemicon/e0/e0033be37bc99a2f19f0fae4bd5cb057d8b918ca.png?n6.05",
+        "Icon": "function_normal",
+        "Issuer": "Seigetsu The Enlightened",
+        "StartLocation": {
+            "Name": "The Azim Steppe",
+            "X": "6.1",
+            "Y": "23.3"
+        },
+        "StartClass": null,
+        "Job": "",
+        "Company": "Not specified",
+        "Requirement": "Not specified",
+        "Rewards": {
+            "Gil": 648,
+            "Exp": null,
+            "ItemsMand": [],
+            "ItemsOpt": [
+                {
+                    "Icon": "https://img.finalfantasyxiv.com/lds/pc/global/images/itemicon/05/050fda3f7c55f511b31bda3f9fa0731dcd5a54cb.png?n6.05",
+                    "Name": "Gatherer's Guerdon Materia V",
+                    "Amount": 3,
+                    "Url": "/lodestone/playguide/db/item/b3fa9f1136c/"
+                },
+                {
+                    "Icon": "https://img.finalfantasyxiv.com/lds/pc/global/images/itemicon/05/050fda3f7c55f511b31bda3f9fa0731dcd5a54cb.png?n6.05",
+                    "Name": "Gatherer's Grasp Materia V",
+                    "Amount": 3,
+                    "Url": "/lodestone/playguide/db/item/aaf024009df/"
+                },
+                {
+                    "Icon": "https://img.finalfantasyxiv.com/lds/pc/global/images/itemicon/6c/6c28ac35293bc5cd065ca1da849891b2ff436b18.png?n6.05",
+                    "Name": "Craftsman's Competence Materia V",
+                    "Amount": 3,
+                    "Url": "/lodestone/playguide/db/item/341799aa68e/"
+                }
+            ]
+        },
+        "Infos": {
+            "PrerequisiteQuest": [
+                {
+                    "Name": "Something Fishy This Way Comes",
+                    "Url": "/lodestone/playguide/db/quest/48fcd4f22d5/",
+                    "Area": "The Azim Steppe",
+                    "Level": "60"
+                }
+            ],
+            "FollowupQuest": [
+                {
+                    "Name": " Big, Big Fish",
+                    "Url": "/lodestone/playguide/db/quest/7b8fca31198/",
+                    "Area": "The Azim Steppe",
+                    "Level": "60"
+                }
+            ],
+            "RelatedNPC": [
+                {
+                    "Name": "Cumbersome Crate",
+                    "Url": "/lodestone/playguide/db/npc/npc/271cb54a2e3/",
+                    "Area": "The Azim Steppe (X:6.0 Y:23.1)"
+                },
+                {
+                    "Name": "Gyorei",
+                    "Url": "/lodestone/playguide/db/npc/npc/272b49fb8c5/",
+                    "Area": "The Azim Steppe (X:6.1 Y:23.2)"
+                },
+                {
+                    "Name": "Gyoshin",
+                    "Url": "/lodestone/playguide/db/npc/npc/0ad71b53313/",
+                    "Area": "The Azim Steppe (X:6.1 Y:23.3)"
+                }
+            ]
+        },
+        "Seq": 1,
+        "StartDependency": false
+    },
+    {
+        "ID": "1b80ad3cd5d",
+        "Name": " Simpler Gifts",
+        "Location": "The Azim Steppe",
+        "Level": 60,
+        "JournalSection": 4,
+        "JournalCategory": 38,
+        "JournalGenre": "\n\t\t\t\t\t\t\tDaily Quests\n\t\t\t\t\t\t",
+        "Url": "/lodestone/playguide/db/quest/1b80ad3cd5d/",
+        "Image": null,
+        "Icon": "common_repeat",
+        "Issuer": "Seigetsu The Enlightened",
+        "StartLocation": {
+            "Name": "The Azim Steppe",
+            "X": "5.8",
+            "Y": "23.4"
+        },
+        "StartClass": null,
+        "Job": "",
+        "Company": "Not specified",
+        "Requirement": "Not specified",
+        "Rewards": {
+            "Gil": 680,
+            "Exp": null,
+            "ItemsMand": [
+                {
+                    "Icon": "https://img.finalfantasyxiv.com/lds/pc/global/images/itemicon/0d/0dd4af1f23b8f1d782bacfb905a67b491688414c.png?n6.05",
+                    "Name": "Wind Crystal",
+                    "Amount": 20,
+                    "Url": "/lodestone/playguide/db/item/5db117cd77b/"
+                },
+                {
+                    "Icon": "https://img.finalfantasyxiv.com/lds/pc/global/images/itemicon/d9/d9a4b77a07bb95bf2713ae233a0eececdf211e8b.png?n6.05",
+                    "Name": "Fire Crystal",
+                    "Amount": 20,
+                    "Url": "/lodestone/playguide/db/item/75403105d7f/"
+                },
+                {
+                    "Icon": "https://img.finalfantasyxiv.com/lds/pc/global/images/itemicon/a7/a71da2eb489188dbbfadd582938a0e761a9a0585.png?n6.05",
+                    "Name": "Ice Crystal",
+                    "Amount": 20,
+                    "Url": "/lodestone/playguide/db/item/2d800a06851/"
+                },
+                {
+                    "Icon": "https://img.finalfantasyxiv.com/lds/pc/global/images/itemicon/0d/0dd4af1f23b8f1d782bacfb905a67b491688414c.png?n6.05",
+                    "Name": "Wind Crystal",
+                    "Amount": 20,
+                    "Url": "/lodestone/playguide/db/item/5db117cd77b/"
+                },
+                {
+                    "Icon": "https://img.finalfantasyxiv.com/lds/pc/global/images/itemicon/16/16cd107e2bd1c45cee59e6b96ef02f2f6f68eac5.png?n6.05",
+                    "Name": "Earth Crystal",
+                    "Amount": 20,
+                    "Url": "/lodestone/playguide/db/item/ff6eae7bdcb/"
+                },
+                {
+                    "Icon": "https://img.finalfantasyxiv.com/lds/pc/global/images/itemicon/5d/5dd42eb2385a5e0d158b8fa81b63a09e4b25c821.png?n6.05",
+                    "Name": "Lightning Crystal",
+                    "Amount": 20,
+                    "Url": "/lodestone/playguide/db/item/b21a951916e/"
+                },
+                {
+                    "Icon": "https://img.finalfantasyxiv.com/lds/pc/global/images/itemicon/b5/b5eb0d9131d8f735a91286bdf2f877f0495e8235.png?n6.05",
+                    "Name": "Water Crystal",
+                    "Amount": 20,
+                    "Url": "/lodestone/playguide/db/item/44d3f4cb26b/"
+                },
+                {
+                    "Icon": "https://img.finalfantasyxiv.com/lds/pc/global/images/itemicon/d9/d9a4b77a07bb95bf2713ae233a0eececdf211e8b.png?n6.05",
+                    "Name": "Fire Crystal",
+                    "Amount": 20,
+                    "Url": "/lodestone/playguide/db/item/75403105d7f/"
+                },
+                {
+                    "Icon": "https://img.finalfantasyxiv.com/lds/pc/global/images/itemicon/d9/d9beff495b00ab597dbd0b268530571d803e6a2d.png?n6.05",
+                    "Name": "Cordial",
+                    "Amount": null,
+                    "Url": "/lodestone/playguide/db/item/2ff3e7e028c/"
+                },
+                {
+                    "Icon": "https://img.finalfantasyxiv.com/lds/pc/global/images/itemicon/d9/d9beff495b00ab597dbd0b268530571d803e6a2d.png?n6.05",
+                    "Name": "Cordial",
+                    "Amount": null,
+                    "Url": "/lodestone/playguide/db/item/2ff3e7e028c/"
+                },
+                {
+                    "Icon": "https://img.finalfantasyxiv.com/lds/pc/global/images/itemicon/d9/d9beff495b00ab597dbd0b268530571d803e6a2d.png?n6.05",
+                    "Name": "Cordial",
+                    "Amount": null,
+                    "Url": "/lodestone/playguide/db/item/2ff3e7e028c/"
+                }
+            ],
+            "ItemsOpt": []
+        },
+        "Infos": {
+            "RelatedNPC": [
+                {
+                    "Name": "Affable Namazu",
+                    "Url": "/lodestone/playguide/db/npc/npc/38c94368f3e/",
+                    "Area": "The Azim Steppe (X:9.5 Y:15.7)"
+                },
+                {
+                    "Name": "Baavgai",
+                    "Url": "/lodestone/playguide/db/npc/npc/38145747d69/",
+                    "Area": "The Azim Steppe (X:6.5 Y:29.4)"
+                },
+                {
+                    "Name": "Cumbersome Crate",
+                    "Url": "/lodestone/playguide/db/npc/npc/a9e6e9cbf73/",
+                    "Area": "The Azim Steppe (X:9.5 Y:15.7)"
+                }
+            ]
+        },
+        "Seq": 12,
+        "StartDependency": false
+    },
+    {
+        "ID": "1c400698842",
+        "Name": " Into the Fire",
+        "Location": "The Azim Steppe",
+        "Level": 60,
+        "JournalSection": 4,
+        "JournalCategory": 38,
+        "JournalGenre": "\n\t\t\t\t\t\t\tMain Quests\n\t\t\t\t\t\t",
+        "Url": "/lodestone/playguide/db/quest/1c400698842/",
+        "Image": "https://img.finalfantasyxiv.com/lds/pc/global/images/itemicon/13/138176451b39dccc32366decc69cebcee493eb80.png?n6.05",
+        "Icon": "function_normal",
+        "Issuer": "Gyoshin",
+        "StartLocation": {
+            "Name": "The Azim Steppe",
+            "X": "6.1",
+            "Y": "23.3"
+        },
+        "StartClass": null,
+        "Job": "",
+        "Company": "Not specified",
+        "Requirement": "Not specified",
+        "Rewards": {
+            "Gil": 2938,
+            "Exp": null,
+            "ItemsMand": [],
+            "ItemsOpt": [
+                {
+                    "Icon": "https://img.finalfantasyxiv.com/lds/pc/global/images/itemicon/d4/d49fdc4ab26dbf9b92ffca562fcc03a2f8b98446.png?n6.05",
+                    "Name": "Gatherer's Guerdon Materia VI",
+                    "Amount": 2,
+                    "Url": "/lodestone/playguide/db/item/58b8073b1c5/"
+                },
+                {
+                    "Icon": "https://img.finalfantasyxiv.com/lds/pc/global/images/itemicon/d4/d49fdc4ab26dbf9b92ffca562fcc03a2f8b98446.png?n6.05",
+                    "Name": "Gatherer's Grasp Materia VI",
+                    "Amount": 2,
+                    "Url": "/lodestone/playguide/db/item/3e7ec58f07a/"
+                },
+                {
+                    "Icon": "https://img.finalfantasyxiv.com/lds/pc/global/images/itemicon/f6/f6b4b9e71e6ea07af16668337ac28607e8e58297.png?n6.05",
+                    "Name": "Craftsman's Competence Materia VI",
+                    "Amount": 2,
+                    "Url": "/lodestone/playguide/db/item/782c2924c59/"
+                }
+            ]
+        },
+        "Infos": {
+            "PrerequisiteQuest": [
+                {
+                    "Name": " Out of the Frypan",
+                    "Url": "/lodestone/playguide/db/quest/7c9dd7d8a75/",
+                    "Area": "The Azim Steppe",
+                    "Level": "60"
+                }
+            ],
+            "FollowupQuest": [
+                {
+                    "Name": " Disciples of Creation",
+                    "Url": "/lodestone/playguide/db/quest/cc69384e776/",
+                    "Area": "The Azim Steppe",
+                    "Level": "60"
+                }
+            ],
+            "RelatedNPC": [
+                {
+                    "Name": "Matoya",
+                    "Url": "/lodestone/playguide/db/npc/npc/f3f8bd985d8/",
+                    "Area": "Matoya's Cave (X:6.5 Y:6.4)"
+                },
+                {
+                    "Name": "Cumbersome Crate",
+                    "Url": "/lodestone/playguide/db/npc/npc/271cb54a2e3/",
+                    "Area": "The Azim Steppe (X:6.0 Y:23.1)"
+                },
+                {
+                    "Name": "Gyorei",
+                    "Url": "/lodestone/playguide/db/npc/npc/30c3f1b050a/",
+                    "Area": "The Azim Steppe (X:5.8 Y:23.5)"
+                },
+                {
+                    "Name": "Gyorei",
+                    "Url": "/lodestone/playguide/db/npc/npc/267c991a8b3/",
+                    "Area": "The Azim Steppe (X:5.6 Y:23.9)"
+                },
+                {
+                    "Name": "Gyoshin",
+                    "Url": "/lodestone/playguide/db/npc/npc/ab221b27c35/",
+                    "Area": "The Azim Steppe (X:5.6 Y:23.9)"
+                }
+            ]
+        },
+        "Seq": 5,
+        "StartDependency": false
+    },
+    {
+        "ID": "1c94c7d8823",
+        "Name": " A Stable's Condition",
+        "Location": "The Azim Steppe",
+        "Level": 60,
+        "JournalSection": 4,
+        "JournalCategory": 38,
+        "JournalGenre": "\n\t\t\t\t\t\t\tDaily Quests\n\t\t\t\t\t\t",
+        "Url": "/lodestone/playguide/db/quest/1c94c7d8823/",
+        "Image": null,
+        "Icon": "common_repeat",
+        "Issuer": "Seigetsu The Enlightened",
+        "StartLocation": {
+            "Name": "The Azim Steppe",
+            "X": "5.8",
+            "Y": "23.4"
+        },
+        "StartClass": null,
+        "Job": "",
+        "Company": "Not specified",
+        "Requirement": "Not specified",
+        "Rewards": {
+            "Gil": 550,
+            "Exp": null,
+            "ItemsMand": [
+                {
+                    "Icon": "https://img.finalfantasyxiv.com/lds/pc/global/images/itemicon/0d/0dd4af1f23b8f1d782bacfb905a67b491688414c.png?n6.05",
+                    "Name": "Wind Crystal",
+                    "Amount": 20,
+                    "Url": "/lodestone/playguide/db/item/5db117cd77b/"
+                },
+                {
+                    "Icon": "https://img.finalfantasyxiv.com/lds/pc/global/images/itemicon/d9/d9a4b77a07bb95bf2713ae233a0eececdf211e8b.png?n6.05",
+                    "Name": "Fire Crystal",
+                    "Amount": 20,
+                    "Url": "/lodestone/playguide/db/item/75403105d7f/"
+                },
+                {
+                    "Icon": "https://img.finalfantasyxiv.com/lds/pc/global/images/itemicon/a7/a71da2eb489188dbbfadd582938a0e761a9a0585.png?n6.05",
+                    "Name": "Ice Crystal",
+                    "Amount": 20,
+                    "Url": "/lodestone/playguide/db/item/2d800a06851/"
+                },
+                {
+                    "Icon": "https://img.finalfantasyxiv.com/lds/pc/global/images/itemicon/0d/0dd4af1f23b8f1d782bacfb905a67b491688414c.png?n6.05",
+                    "Name": "Wind Crystal",
+                    "Amount": 20,
+                    "Url": "/lodestone/playguide/db/item/5db117cd77b/"
+                },
+                {
+                    "Icon": "https://img.finalfantasyxiv.com/lds/pc/global/images/itemicon/16/16cd107e2bd1c45cee59e6b96ef02f2f6f68eac5.png?n6.05",
+                    "Name": "Earth Crystal",
+                    "Amount": 20,
+                    "Url": "/lodestone/playguide/db/item/ff6eae7bdcb/"
+                },
+                {
+                    "Icon": "https://img.finalfantasyxiv.com/lds/pc/global/images/itemicon/5d/5dd42eb2385a5e0d158b8fa81b63a09e4b25c821.png?n6.05",
+                    "Name": "Lightning Crystal",
+                    "Amount": 20,
+                    "Url": "/lodestone/playguide/db/item/b21a951916e/"
+                },
+                {
+                    "Icon": "https://img.finalfantasyxiv.com/lds/pc/global/images/itemicon/b5/b5eb0d9131d8f735a91286bdf2f877f0495e8235.png?n6.05",
+                    "Name": "Water Crystal",
+                    "Amount": 20,
+                    "Url": "/lodestone/playguide/db/item/44d3f4cb26b/"
+                },
+                {
+                    "Icon": "https://img.finalfantasyxiv.com/lds/pc/global/images/itemicon/d9/d9a4b77a07bb95bf2713ae233a0eececdf211e8b.png?n6.05",
+                    "Name": "Fire Crystal",
+                    "Amount": 20,
+                    "Url": "/lodestone/playguide/db/item/75403105d7f/"
+                },
+                {
+                    "Icon": "https://img.finalfantasyxiv.com/lds/pc/global/images/itemicon/d9/d9beff495b00ab597dbd0b268530571d803e6a2d.png?n6.05",
+                    "Name": "Cordial",
+                    "Amount": null,
+                    "Url": "/lodestone/playguide/db/item/2ff3e7e028c/"
+                },
+                {
+                    "Icon": "https://img.finalfantasyxiv.com/lds/pc/global/images/itemicon/d9/d9beff495b00ab597dbd0b268530571d803e6a2d.png?n6.05",
+                    "Name": "Cordial",
+                    "Amount": null,
+                    "Url": "/lodestone/playguide/db/item/2ff3e7e028c/"
+                },
+                {
+                    "Icon": "https://img.finalfantasyxiv.com/lds/pc/global/images/itemicon/d9/d9beff495b00ab597dbd0b268530571d803e6a2d.png?n6.05",
+                    "Name": "Cordial",
+                    "Amount": null,
+                    "Url": "/lodestone/playguide/db/item/2ff3e7e028c/"
+                }
+            ],
+            "ItemsOpt": []
+        },
+        "Infos": {
+            "RelatedNPC": [
+                {
+                    "Name": "Cumbersome Crate",
+                    "Url": "/lodestone/playguide/db/npc/npc/1f94d506940/",
+                    "Area": "The Azim Steppe (X:14.1 Y:9.8)"
+                },
+                {
+                    "Name": "Namazu Horse Handler",
+                    "Url": "/lodestone/playguide/db/npc/npc/c6563edfc20/",
+                    "Area": "The Azim Steppe (X:14.1 Y:9.8)"
+                }
+            ]
+        },
+        "Seq": 26,
+        "StartDependency": false
+    },
+    {
+        "ID": "1e0a1fe1d5b",
+        "Name": " Roasting a New Dish",
+        "Location": "The Azim Steppe",
+        "Level": 60,
+        "JournalSection": 4,
+        "JournalCategory": 38,
+        "JournalGenre": "\n\t\t\t\t\t\t\tDaily Quests\n\t\t\t\t\t\t",
+        "Url": "/lodestone/playguide/db/quest/1e0a1fe1d5b/",
+        "Image": null,
+        "Icon": "common_repeat",
+        "Issuer": "Seigetsu The Enlightened",
+        "StartLocation": {
+            "Name": "The Azim Steppe",
+            "X": "5.8",
+            "Y": "23.4"
+        },
+        "StartClass": null,
+        "Job": "",
+        "Company": "Not specified",
+        "Requirement": "Not specified",
+        "Rewards": {
+            "Gil": 680,
+            "Exp": null,
+            "ItemsMand": [
+                {
+                    "Icon": "https://img.finalfantasyxiv.com/lds/pc/global/images/itemicon/0d/0dd4af1f23b8f1d782bacfb905a67b491688414c.png?n6.05",
+                    "Name": "Wind Crystal",
+                    "Amount": 20,
+                    "Url": "/lodestone/playguide/db/item/5db117cd77b/"
+                },
+                {
+                    "Icon": "https://img.finalfantasyxiv.com/lds/pc/global/images/itemicon/d9/d9a4b77a07bb95bf2713ae233a0eececdf211e8b.png?n6.05",
+                    "Name": "Fire Crystal",
+                    "Amount": 20,
+                    "Url": "/lodestone/playguide/db/item/75403105d7f/"
+                },
+                {
+                    "Icon": "https://img.finalfantasyxiv.com/lds/pc/global/images/itemicon/a7/a71da2eb489188dbbfadd582938a0e761a9a0585.png?n6.05",
+                    "Name": "Ice Crystal",
+                    "Amount": 20,
+                    "Url": "/lodestone/playguide/db/item/2d800a06851/"
+                },
+                {
+                    "Icon": "https://img.finalfantasyxiv.com/lds/pc/global/images/itemicon/0d/0dd4af1f23b8f1d782bacfb905a67b491688414c.png?n6.05",
+                    "Name": "Wind Crystal",
+                    "Amount": 20,
+                    "Url": "/lodestone/playguide/db/item/5db117cd77b/"
+                },
+                {
+                    "Icon": "https://img.finalfantasyxiv.com/lds/pc/global/images/itemicon/16/16cd107e2bd1c45cee59e6b96ef02f2f6f68eac5.png?n6.05",
+                    "Name": "Earth Crystal",
+                    "Amount": 20,
+                    "Url": "/lodestone/playguide/db/item/ff6eae7bdcb/"
+                },
+                {
+                    "Icon": "https://img.finalfantasyxiv.com/lds/pc/global/images/itemicon/5d/5dd42eb2385a5e0d158b8fa81b63a09e4b25c821.png?n6.05",
+                    "Name": "Lightning Crystal",
+                    "Amount": 20,
+                    "Url": "/lodestone/playguide/db/item/b21a951916e/"
+                },
+                {
+                    "Icon": "https://img.finalfantasyxiv.com/lds/pc/global/images/itemicon/b5/b5eb0d9131d8f735a91286bdf2f877f0495e8235.png?n6.05",
+                    "Name": "Water Crystal",
+                    "Amount": 20,
+                    "Url": "/lodestone/playguide/db/item/44d3f4cb26b/"
+                },
+                {
+                    "Icon": "https://img.finalfantasyxiv.com/lds/pc/global/images/itemicon/d9/d9a4b77a07bb95bf2713ae233a0eececdf211e8b.png?n6.05",
+                    "Name": "Fire Crystal",
+                    "Amount": 20,
+                    "Url": "/lodestone/playguide/db/item/75403105d7f/"
+                },
+                {
+                    "Icon": "https://img.finalfantasyxiv.com/lds/pc/global/images/itemicon/d9/d9beff495b00ab597dbd0b268530571d803e6a2d.png?n6.05",
+                    "Name": "Cordial",
+                    "Amount": null,
+                    "Url": "/lodestone/playguide/db/item/2ff3e7e028c/"
+                },
+                {
+                    "Icon": "https://img.finalfantasyxiv.com/lds/pc/global/images/itemicon/d9/d9beff495b00ab597dbd0b268530571d803e6a2d.png?n6.05",
+                    "Name": "Cordial",
+                    "Amount": null,
+                    "Url": "/lodestone/playguide/db/item/2ff3e7e028c/"
+                },
+                {
+                    "Icon": "https://img.finalfantasyxiv.com/lds/pc/global/images/itemicon/d9/d9beff495b00ab597dbd0b268530571d803e6a2d.png?n6.05",
+                    "Name": "Cordial",
+                    "Amount": null,
+                    "Url": "/lodestone/playguide/db/item/2ff3e7e028c/"
+                }
+            ],
+            "ItemsOpt": []
+        },
+        "Infos": {
+            "RelatedNPC": [
+                {
+                    "Name": "Cumbersome Crate",
+                    "Url": "/lodestone/playguide/db/npc/npc/0afb5160aee/",
+                    "Area": "The Azim Steppe (X:33.0 Y:25.9)"
+                },
+                {
+                    "Name": "Namazu Culinarian",
+                    "Url": "/lodestone/playguide/db/npc/npc/e60569b56a9/",
+                    "Area": "The Azim Steppe (X:33.1 Y:25.9)"
+                },
+                {
+                    "Name": "Yesui",
+                    "Url": "/lodestone/playguide/db/npc/npc/9aceb35f15d/",
+                    "Area": "The Azim Steppe (X:32.3 Y:29.3)"
+                }
+            ]
+        },
+        "Seq": 24,
+        "StartDependency": false
+    },
+    {
+        "ID": "2244aa3c570",
+        "Name": " Collision of Cultures",
+        "Location": "The Azim Steppe",
+        "Level": 60,
+        "JournalSection": 4,
+        "JournalCategory": 38,
+        "JournalGenre": "\n\t\t\t\t\t\t\tDaily Quests\n\t\t\t\t\t\t",
+        "Url": "/lodestone/playguide/db/quest/2244aa3c570/",
+        "Image": null,
+        "Icon": "common_repeat",
+        "Issuer": "Seigetsu The Enlightened",
+        "StartLocation": {
+            "Name": "The Azim Steppe",
+            "X": "5.8",
+            "Y": "23.4"
+        },
+        "StartClass": null,
+        "Job": "",
+        "Company": "Not specified",
+        "Requirement": "Not specified",
+        "Rewards": {
+            "Gil": 615,
+            "Exp": null,
+            "ItemsMand": [],
+            "ItemsOpt": []
+        },
+        "Infos": {
+            "RelatedNPC": [
+                {
+                    "Name": "Gyotaku",
+                    "Url": "/lodestone/playguide/db/npc/npc/6d452b5de85/",
+                    "Area": "The Azim Steppe (X:6.6 Y:23.2)"
+                }
+            ]
+        },
+        "Seq": 20,
+        "StartDependency": false
+    },
+    {
+        "ID": "2500840e7fd",
+        "Name": " Surprise Offerings",
+        "Location": "The Azim Steppe",
+        "Level": 60,
+        "JournalSection": 4,
+        "JournalCategory": 38,
+        "JournalGenre": "\n\t\t\t\t\t\t\tDaily Quests\n\t\t\t\t\t\t",
+        "Url": "/lodestone/playguide/db/quest/2500840e7fd/",
+        "Image": null,
+        "Icon": "common_repeat",
+        "Issuer": "Seigetsu The Enlightened",
+        "StartLocation": {
+            "Name": "The Azim Steppe",
+            "X": "5.8",
+            "Y": "23.4"
+        },
+        "StartClass": null,
+        "Job": "",
+        "Company": "Not specified",
+        "Requirement": "Not specified",
+        "Rewards": {
+            "Gil": 550,
+            "Exp": null,
+            "ItemsMand": [
+                {
+                    "Icon": "https://img.finalfantasyxiv.com/lds/pc/global/images/itemicon/0d/0dd4af1f23b8f1d782bacfb905a67b491688414c.png?n6.05",
+                    "Name": "Wind Crystal",
+                    "Amount": 20,
+                    "Url": "/lodestone/playguide/db/item/5db117cd77b/"
+                },
+                {
+                    "Icon": "https://img.finalfantasyxiv.com/lds/pc/global/images/itemicon/d9/d9a4b77a07bb95bf2713ae233a0eececdf211e8b.png?n6.05",
+                    "Name": "Fire Crystal",
+                    "Amount": 20,
+                    "Url": "/lodestone/playguide/db/item/75403105d7f/"
+                },
+                {
+                    "Icon": "https://img.finalfantasyxiv.com/lds/pc/global/images/itemicon/a7/a71da2eb489188dbbfadd582938a0e761a9a0585.png?n6.05",
+                    "Name": "Ice Crystal",
+                    "Amount": 20,
+                    "Url": "/lodestone/playguide/db/item/2d800a06851/"
+                },
+                {
+                    "Icon": "https://img.finalfantasyxiv.com/lds/pc/global/images/itemicon/0d/0dd4af1f23b8f1d782bacfb905a67b491688414c.png?n6.05",
+                    "Name": "Wind Crystal",
+                    "Amount": 20,
+                    "Url": "/lodestone/playguide/db/item/5db117cd77b/"
+                },
+                {
+                    "Icon": "https://img.finalfantasyxiv.com/lds/pc/global/images/itemicon/16/16cd107e2bd1c45cee59e6b96ef02f2f6f68eac5.png?n6.05",
+                    "Name": "Earth Crystal",
+                    "Amount": 20,
+                    "Url": "/lodestone/playguide/db/item/ff6eae7bdcb/"
+                },
+                {
+                    "Icon": "https://img.finalfantasyxiv.com/lds/pc/global/images/itemicon/5d/5dd42eb2385a5e0d158b8fa81b63a09e4b25c821.png?n6.05",
+                    "Name": "Lightning Crystal",
+                    "Amount": 20,
+                    "Url": "/lodestone/playguide/db/item/b21a951916e/"
+                },
+                {
+                    "Icon": "https://img.finalfantasyxiv.com/lds/pc/global/images/itemicon/b5/b5eb0d9131d8f735a91286bdf2f877f0495e8235.png?n6.05",
+                    "Name": "Water Crystal",
+                    "Amount": 20,
+                    "Url": "/lodestone/playguide/db/item/44d3f4cb26b/"
+                },
+                {
+                    "Icon": "https://img.finalfantasyxiv.com/lds/pc/global/images/itemicon/d9/d9a4b77a07bb95bf2713ae233a0eececdf211e8b.png?n6.05",
+                    "Name": "Fire Crystal",
+                    "Amount": 20,
+                    "Url": "/lodestone/playguide/db/item/75403105d7f/"
+                },
+                {
+                    "Icon": "https://img.finalfantasyxiv.com/lds/pc/global/images/itemicon/d9/d9beff495b00ab597dbd0b268530571d803e6a2d.png?n6.05",
+                    "Name": "Cordial",
+                    "Amount": null,
+                    "Url": "/lodestone/playguide/db/item/2ff3e7e028c/"
+                },
+                {
+                    "Icon": "https://img.finalfantasyxiv.com/lds/pc/global/images/itemicon/d9/d9beff495b00ab597dbd0b268530571d803e6a2d.png?n6.05",
+                    "Name": "Cordial",
+                    "Amount": null,
+                    "Url": "/lodestone/playguide/db/item/2ff3e7e028c/"
+                },
+                {
+                    "Icon": "https://img.finalfantasyxiv.com/lds/pc/global/images/itemicon/d9/d9beff495b00ab597dbd0b268530571d803e6a2d.png?n6.05",
+                    "Name": "Cordial",
+                    "Amount": null,
+                    "Url": "/lodestone/playguide/db/item/2ff3e7e028c/"
+                }
+            ],
+            "ItemsOpt": []
+        },
+        "Infos": {
+            "RelatedNPC": [
+                {
+                    "Name": "Cumbersome Crate",
+                    "Url": "/lodestone/playguide/db/npc/npc/bf20c026b5c/",
+                    "Area": "The Azim Steppe (X:36.1 Y:18.2)"
+                },
+                {
+                    "Name": "Namazu Procurer",
+                    "Url": "/lodestone/playguide/db/npc/npc/d7121f8b303/",
+                    "Area": "The Azim Steppe (X:36.1 Y:18.1)"
+                }
+            ]
+        },
+        "Seq": 18,
+        "StartDependency": false
+    },
+    {
+        "ID": "2cb1bd83be2",
+        "Name": " Bearers Wanted",
+        "Location": "The Azim Steppe",
+        "Level": 60,
+        "JournalSection": 4,
+        "JournalCategory": 38,
+        "JournalGenre": "\n\t\t\t\t\t\t\tDaily Quests\n\t\t\t\t\t\t",
+        "Url": "/lodestone/playguide/db/quest/2cb1bd83be2/",
+        "Image": null,
+        "Icon": "common_repeat",
+        "Issuer": "Seigetsu The Enlightened",
+        "StartLocation": {
+            "Name": "The Azim Steppe",
+            "X": "5.8",
+            "Y": "23.4"
+        },
+        "StartClass": null,
+        "Job": "",
+        "Company": "Not specified",
+        "Requirement": "Not specified",
+        "Rewards": {
+            "Gil": 615,
+            "Exp": null,
+            "ItemsMand": [],
+            "ItemsOpt": []
+        },
+        "Infos": {
+            "RelatedNPC": [
+                {
+                    "Name": "Gyotaku",
+                    "Url": "/lodestone/playguide/db/npc/npc/6d452b5de85/",
+                    "Area": "The Azim Steppe (X:6.6 Y:23.2)"
+                }
+            ]
+        },
+        "Seq": 23,
+        "StartDependency": false
+    },
+    {
+        "ID": "324c2b673d4",
+        "Name": " Bull's-eye",
+        "Location": "The Azim Steppe",
+        "Level": 60,
+        "JournalSection": 4,
+        "JournalCategory": 38,
+        "JournalGenre": "\n\t\t\t\t\t\t\tDaily Quests\n\t\t\t\t\t\t",
+        "Url": "/lodestone/playguide/db/quest/324c2b673d4/",
+        "Image": null,
+        "Icon": "common_repeat",
+        "Issuer": "Seigetsu The Enlightened",
+        "StartLocation": {
+            "Name": "The Azim Steppe",
+            "X": "5.8",
+            "Y": "23.4"
+        },
+        "StartClass": null,
+        "Job": "",
+        "Company": "Not specified",
+        "Requirement": "Not specified",
+        "Rewards": {
+            "Gil": 615,
+            "Exp": null,
+            "ItemsMand": [],
+            "ItemsOpt": []
+        },
+        "Infos": {
+            "RelatedNPC": [
+                {
+                    "Name": "Gyobi",
+                    "Url": "/lodestone/playguide/db/npc/npc/8cf78384bc6/",
+                    "Area": "The Azim Steppe (X:5.1 Y:22.5)"
+                }
+            ]
+        },
+        "Seq": 28,
+        "StartDependency": false
+    },
+    {
+        "ID": "48fcd4f22d5",
+        "Name": "Something Fishy This Way Comes",
+        "Location": "The Azim Steppe",
+        "Level": 60,
+        "JournalSection": 4,
+        "JournalCategory": 38,
+        "JournalGenre": "\n\t\t\t\t\t\t\tMain Quests\n\t\t\t\t\t\t",
+        "Url": "/lodestone/playguide/db/quest/48fcd4f22d5/",
+        "Image": "https://img.finalfantasyxiv.com/lds/pc/global/images/itemicon/b1/b1a546a2332bfdf6d18d8bf2be8980be08e9e1bc.png?n6.05",
+        "Icon": "function_normal",
+        "Issuer": "Floundering Namazu",
+        "StartLocation": {
+            "Name": "The Azim Steppe",
+            "X": "17.4",
+            "Y": "37.5"
+        },
+        "StartClass": null,
+        "Job": "",
+        "Company": "Not specified",
+        "Requirement": "Not specified",
+        "Rewards": {
+            "Gil": 1383,
+            "Exp": null,
+            "ItemsMand": [],
+            "ItemsOpt": []
+        },
+        "Infos": {
+            "PrerequisiteQuest": [
+                {
+                    "Name": "In Crimson They Walked",
+                    "Url": "/lodestone/playguide/db/quest/f237a8217b8/",
+                    "Area": "The Azim Steppe",
+                    "Level": "66"
+                },
+                {
+                    "Name": "Kurobana vs. Gyorin",
+                    "Url": "/lodestone/playguide/db/quest/411539a69b9/",
+                    "Area": "Yanxia",
+                    "Level": "64"
+                }
+            ],
+            "FollowupQuest": [
+                {
+                    "Name": " One Size Fits All",
+                    "Url": "/lodestone/playguide/db/quest/13f91ac35a5/",
+                    "Area": "The Azim Steppe",
+                    "Level": "60"
+                }
+            ],
+            "RelatedNPC": [
+                {
+                    "Name": "Cirina",
+                    "Url": "/lodestone/playguide/db/npc/npc/077102a4b03/",
+                    "Area": "The Azim Steppe (X:31.4 Y:11.3)"
+                },
+                {
+                    "Name": "Gyorei",
+                    "Url": "/lodestone/playguide/db/npc/npc/272b49fb8c5/",
+                    "Area": "The Azim Steppe (X:6.1 Y:23.2)"
+                },
+                {
+                    "Name": "Gyoshin",
+                    "Url": "/lodestone/playguide/db/npc/npc/0ad71b53313/",
+                    "Area": "The Azim Steppe (X:6.1 Y:23.3)"
+                },
+                {
+                    "Name": "Mol Guide",
+                    "Url": "/lodestone/playguide/db/npc/npc/95de2e75f3a/",
+                    "Area": "The Azim Steppe (X:8.9 Y:23.4)"
+                },
+                {
+                    "Name": "Seigetsu The Enlightened",
+                    "Url": "/lodestone/playguide/db/npc/npc/00eaa83b1e1/",
+                    "Area": "The Azim Steppe (X:6.1 Y:23.3)"
+                },
+                {
+                    "Name": "Temulun",
+                    "Url": "/lodestone/playguide/db/npc/npc/2ceef072c55/",
+                    "Area": "The Azim Steppe (X:31.4 Y:11.2)"
+                },
+                {
+                    "Name": "Gyorei",
+                    "Url": "/lodestone/playguide/db/npc/npc/f19d4ed8b5e/",
+                    "Area": "Yanxia (X:15.6 Y:31.7)"
+                },
+                {
+                    "Name": "Gyorei",
+                    "Url": "/lodestone/playguide/db/npc/npc/3108a5beaab/",
+                    "Area": "Yanxia (X:15.7 Y:31.7)"
+                },
+                {
+                    "Name": "Gyoshin",
+                    "Url": "/lodestone/playguide/db/npc/npc/bcff12c0028/",
+                    "Area": "Yanxia (X:15.7 Y:31.7)"
+                },
+                {
+                    "Name": "Seigetsu The Enlightened",
+                    "Url": "/lodestone/playguide/db/npc/npc/f5669198b12/",
+                    "Area": "Yanxia (X:15.8 Y:31.7)"
+                }
+            ]
+        },
+        "Seq": 12,
+        "StartDependency": false
+    },
+    {
+        "ID": "5e33b13c125",
+        "Name": " In Steep Trouble",
+        "Location": "The Azim Steppe",
+        "Level": 60,
+        "JournalSection": 4,
+        "JournalCategory": 38,
+        "JournalGenre": "\n\t\t\t\t\t\t\tDaily Quests\n\t\t\t\t\t\t",
+        "Url": "/lodestone/playguide/db/quest/5e33b13c125/",
+        "Image": null,
+        "Icon": "common_repeat",
+        "Issuer": "Seigetsu The Enlightened",
+        "StartLocation": {
+            "Name": "The Azim Steppe",
+            "X": "5.8",
+            "Y": "23.4"
+        },
+        "StartClass": null,
+        "Job": "",
+        "Company": "Not specified",
+        "Requirement": "Not specified",
+        "Rewards": {
+            "Gil": 550,
+            "Exp": null,
+            "ItemsMand": [],
+            "ItemsOpt": []
+        },
+        "Infos": {
+            "RelatedNPC": [
+                {
+                    "Name": "Stuporous Namazu",
+                    "Url": "/lodestone/playguide/db/npc/npc/a572afce1fe/",
+                    "Area": "The Azim Steppe (X:30.1 Y:21.0)"
+                },
+                {
+                    "Name": "Stuporous Namazu",
+                    "Url": "/lodestone/playguide/db/npc/npc/19511cfabf8/",
+                    "Area": "The Azim Steppe (X:29.7 Y:20.5)"
+                },
+                {
+                    "Name": "Stuporous Namazu",
+                    "Url": "/lodestone/playguide/db/npc/npc/114fa4bef05/",
+                    "Area": "The Azim Steppe (X:30.1 Y:21.8)"
+                }
+            ]
+        },
+        "Seq": 25,
+        "StartDependency": false
+    },
+    {
+        "ID": "658236fa9ed",
+        "Name": " Free for Most",
+        "Location": "The Azim Steppe",
+        "Level": 60,
+        "JournalSection": 4,
+        "JournalCategory": 38,
+        "JournalGenre": "\n\t\t\t\t\t\t\tDaily Quests\n\t\t\t\t\t\t",
+        "Url": "/lodestone/playguide/db/quest/658236fa9ed/",
+        "Image": null,
+        "Icon": "common_repeat",
+        "Issuer": "Seigetsu The Enlightened",
+        "StartLocation": {
+            "Name": "The Azim Steppe",
+            "X": "5.8",
+            "Y": "23.4"
+        },
+        "StartClass": null,
+        "Job": "",
+        "Company": "Not specified",
+        "Requirement": "Not specified",
+        "Rewards": {
+            "Gil": 550,
+            "Exp": null,
+            "ItemsMand": [
+                {
+                    "Icon": "https://img.finalfantasyxiv.com/lds/pc/global/images/itemicon/0d/0dd4af1f23b8f1d782bacfb905a67b491688414c.png?n6.05",
+                    "Name": "Wind Crystal",
+                    "Amount": 20,
+                    "Url": "/lodestone/playguide/db/item/5db117cd77b/"
+                },
+                {
+                    "Icon": "https://img.finalfantasyxiv.com/lds/pc/global/images/itemicon/d9/d9a4b77a07bb95bf2713ae233a0eececdf211e8b.png?n6.05",
+                    "Name": "Fire Crystal",
+                    "Amount": 20,
+                    "Url": "/lodestone/playguide/db/item/75403105d7f/"
+                },
+                {
+                    "Icon": "https://img.finalfantasyxiv.com/lds/pc/global/images/itemicon/a7/a71da2eb489188dbbfadd582938a0e761a9a0585.png?n6.05",
+                    "Name": "Ice Crystal",
+                    "Amount": 20,
+                    "Url": "/lodestone/playguide/db/item/2d800a06851/"
+                },
+                {
+                    "Icon": "https://img.finalfantasyxiv.com/lds/pc/global/images/itemicon/0d/0dd4af1f23b8f1d782bacfb905a67b491688414c.png?n6.05",
+                    "Name": "Wind Crystal",
+                    "Amount": 20,
+                    "Url": "/lodestone/playguide/db/item/5db117cd77b/"
+                },
+                {
+                    "Icon": "https://img.finalfantasyxiv.com/lds/pc/global/images/itemicon/16/16cd107e2bd1c45cee59e6b96ef02f2f6f68eac5.png?n6.05",
+                    "Name": "Earth Crystal",
+                    "Amount": 20,
+                    "Url": "/lodestone/playguide/db/item/ff6eae7bdcb/"
+                },
+                {
+                    "Icon": "https://img.finalfantasyxiv.com/lds/pc/global/images/itemicon/5d/5dd42eb2385a5e0d158b8fa81b63a09e4b25c821.png?n6.05",
+                    "Name": "Lightning Crystal",
+                    "Amount": 20,
+                    "Url": "/lodestone/playguide/db/item/b21a951916e/"
+                },
+                {
+                    "Icon": "https://img.finalfantasyxiv.com/lds/pc/global/images/itemicon/b5/b5eb0d9131d8f735a91286bdf2f877f0495e8235.png?n6.05",
+                    "Name": "Water Crystal",
+                    "Amount": 20,
+                    "Url": "/lodestone/playguide/db/item/44d3f4cb26b/"
+                },
+                {
+                    "Icon": "https://img.finalfantasyxiv.com/lds/pc/global/images/itemicon/d9/d9a4b77a07bb95bf2713ae233a0eececdf211e8b.png?n6.05",
+                    "Name": "Fire Crystal",
+                    "Amount": 20,
+                    "Url": "/lodestone/playguide/db/item/75403105d7f/"
+                },
+                {
+                    "Icon": "https://img.finalfantasyxiv.com/lds/pc/global/images/itemicon/d9/d9beff495b00ab597dbd0b268530571d803e6a2d.png?n6.05",
+                    "Name": "Cordial",
+                    "Amount": null,
+                    "Url": "/lodestone/playguide/db/item/2ff3e7e028c/"
+                },
+                {
+                    "Icon": "https://img.finalfantasyxiv.com/lds/pc/global/images/itemicon/d9/d9beff495b00ab597dbd0b268530571d803e6a2d.png?n6.05",
+                    "Name": "Cordial",
+                    "Amount": null,
+                    "Url": "/lodestone/playguide/db/item/2ff3e7e028c/"
+                },
+                {
+                    "Icon": "https://img.finalfantasyxiv.com/lds/pc/global/images/itemicon/d9/d9beff495b00ab597dbd0b268530571d803e6a2d.png?n6.05",
+                    "Name": "Cordial",
+                    "Amount": null,
+                    "Url": "/lodestone/playguide/db/item/2ff3e7e028c/"
+                }
+            ],
+            "ItemsOpt": []
+        },
+        "Infos": {
+            "RelatedNPC": [
+                {
+                    "Name": "Cumbersome Crate",
+                    "Url": "/lodestone/playguide/db/npc/npc/b34999bc7e8/",
+                    "Area": "The Azim Steppe (X:18.6 Y:20.6)"
+                },
+                {
+                    "Name": "Inattentive Namazu",
+                    "Url": "/lodestone/playguide/db/npc/npc/a0cdf0e61a9/",
+                    "Area": "The Azim Steppe (X:18.5 Y:20.7)"
+                }
+            ]
+        },
+        "Seq": 11,
+        "StartDependency": false
+    },
+    {
+        "ID": "6b11e03ecb5",
+        "Name": " Carry That Crate",
+        "Location": "The Azim Steppe",
+        "Level": 60,
+        "JournalSection": 4,
+        "JournalCategory": 38,
+        "JournalGenre": "\n\t\t\t\t\t\t\tDaily Quests\n\t\t\t\t\t\t",
+        "Url": "/lodestone/playguide/db/quest/6b11e03ecb5/",
+        "Image": null,
+        "Icon": "common_repeat",
+        "Issuer": "Seigetsu The Enlightened",
+        "StartLocation": {
+            "Name": "The Azim Steppe",
+            "X": "5.8",
+            "Y": "23.4"
+        },
+        "StartClass": null,
+        "Job": "",
+        "Company": "Not specified",
+        "Requirement": "Not specified",
+        "Rewards": {
+            "Gil": 550,
+            "Exp": null,
+            "ItemsMand": [
+                {
+                    "Icon": "https://img.finalfantasyxiv.com/lds/pc/global/images/itemicon/0d/0dd4af1f23b8f1d782bacfb905a67b491688414c.png?n6.05",
+                    "Name": "Wind Crystal",
+                    "Amount": 20,
+                    "Url": "/lodestone/playguide/db/item/5db117cd77b/"
+                },
+                {
+                    "Icon": "https://img.finalfantasyxiv.com/lds/pc/global/images/itemicon/d9/d9a4b77a07bb95bf2713ae233a0eececdf211e8b.png?n6.05",
+                    "Name": "Fire Crystal",
+                    "Amount": 20,
+                    "Url": "/lodestone/playguide/db/item/75403105d7f/"
+                },
+                {
+                    "Icon": "https://img.finalfantasyxiv.com/lds/pc/global/images/itemicon/a7/a71da2eb489188dbbfadd582938a0e761a9a0585.png?n6.05",
+                    "Name": "Ice Crystal",
+                    "Amount": 20,
+                    "Url": "/lodestone/playguide/db/item/2d800a06851/"
+                },
+                {
+                    "Icon": "https://img.finalfantasyxiv.com/lds/pc/global/images/itemicon/0d/0dd4af1f23b8f1d782bacfb905a67b491688414c.png?n6.05",
+                    "Name": "Wind Crystal",
+                    "Amount": 20,
+                    "Url": "/lodestone/playguide/db/item/5db117cd77b/"
+                },
+                {
+                    "Icon": "https://img.finalfantasyxiv.com/lds/pc/global/images/itemicon/16/16cd107e2bd1c45cee59e6b96ef02f2f6f68eac5.png?n6.05",
+                    "Name": "Earth Crystal",
+                    "Amount": 20,
+                    "Url": "/lodestone/playguide/db/item/ff6eae7bdcb/"
+                },
+                {
+                    "Icon": "https://img.finalfantasyxiv.com/lds/pc/global/images/itemicon/5d/5dd42eb2385a5e0d158b8fa81b63a09e4b25c821.png?n6.05",
+                    "Name": "Lightning Crystal",
+                    "Amount": 20,
+                    "Url": "/lodestone/playguide/db/item/b21a951916e/"
+                },
+                {
+                    "Icon": "https://img.finalfantasyxiv.com/lds/pc/global/images/itemicon/b5/b5eb0d9131d8f735a91286bdf2f877f0495e8235.png?n6.05",
+                    "Name": "Water Crystal",
+                    "Amount": 20,
+                    "Url": "/lodestone/playguide/db/item/44d3f4cb26b/"
+                },
+                {
+                    "Icon": "https://img.finalfantasyxiv.com/lds/pc/global/images/itemicon/d9/d9a4b77a07bb95bf2713ae233a0eececdf211e8b.png?n6.05",
+                    "Name": "Fire Crystal",
+                    "Amount": 20,
+                    "Url": "/lodestone/playguide/db/item/75403105d7f/"
+                },
+                {
+                    "Icon": "https://img.finalfantasyxiv.com/lds/pc/global/images/itemicon/d9/d9beff495b00ab597dbd0b268530571d803e6a2d.png?n6.05",
+                    "Name": "Cordial",
+                    "Amount": null,
+                    "Url": "/lodestone/playguide/db/item/2ff3e7e028c/"
+                },
+                {
+                    "Icon": "https://img.finalfantasyxiv.com/lds/pc/global/images/itemicon/d9/d9beff495b00ab597dbd0b268530571d803e6a2d.png?n6.05",
+                    "Name": "Cordial",
+                    "Amount": null,
+                    "Url": "/lodestone/playguide/db/item/2ff3e7e028c/"
+                },
+                {
+                    "Icon": "https://img.finalfantasyxiv.com/lds/pc/global/images/itemicon/d9/d9beff495b00ab597dbd0b268530571d803e6a2d.png?n6.05",
+                    "Name": "Cordial",
+                    "Amount": null,
+                    "Url": "/lodestone/playguide/db/item/2ff3e7e028c/"
+                }
+            ],
+            "ItemsOpt": []
+        },
+        "Infos": {
+            "RelatedNPC": [
+                {
+                    "Name": "Cumbersome Crate",
+                    "Url": "/lodestone/playguide/db/npc/npc/9d871dbd453/",
+                    "Area": "The Azim Steppe (X:15.3 Y:16.9)"
+                },
+                {
+                    "Name": "Willful Namazu",
+                    "Url": "/lodestone/playguide/db/npc/npc/2bef6bba707/",
+                    "Area": "The Azim Steppe (X:15.2 Y:16.9)"
+                }
+            ]
+        },
+        "Seq": 10,
+        "StartDependency": false
+    },
+    {
+        "ID": "6ffcf50995a",
+        "Name": " The Importance of Being Yes, Yes",
+        "Location": "The Azim Steppe",
+        "Level": 60,
+        "JournalSection": 4,
+        "JournalCategory": 38,
+        "JournalGenre": "\n\t\t\t\t\t\t\tDaily Quests\n\t\t\t\t\t\t",
+        "Url": "/lodestone/playguide/db/quest/6ffcf50995a/",
+        "Image": null,
+        "Icon": "common_repeat",
+        "Issuer": "Seigetsu The Enlightened",
+        "StartLocation": {
+            "Name": "The Azim Steppe",
+            "X": "5.8",
+            "Y": "23.4"
+        },
+        "StartClass": null,
+        "Job": "",
+        "Company": "Not specified",
+        "Requirement": "Not specified",
+        "Rewards": {
+            "Gil": 615,
+            "Exp": null,
+            "ItemsMand": [
+                {
+                    "Icon": "https://img.finalfantasyxiv.com/lds/pc/global/images/itemicon/0d/0dd4af1f23b8f1d782bacfb905a67b491688414c.png?n6.05",
+                    "Name": "Wind Crystal",
+                    "Amount": 20,
+                    "Url": "/lodestone/playguide/db/item/5db117cd77b/"
+                },
+                {
+                    "Icon": "https://img.finalfantasyxiv.com/lds/pc/global/images/itemicon/d9/d9a4b77a07bb95bf2713ae233a0eececdf211e8b.png?n6.05",
+                    "Name": "Fire Crystal",
+                    "Amount": 20,
+                    "Url": "/lodestone/playguide/db/item/75403105d7f/"
+                },
+                {
+                    "Icon": "https://img.finalfantasyxiv.com/lds/pc/global/images/itemicon/a7/a71da2eb489188dbbfadd582938a0e761a9a0585.png?n6.05",
+                    "Name": "Ice Crystal",
+                    "Amount": 20,
+                    "Url": "/lodestone/playguide/db/item/2d800a06851/"
+                },
+                {
+                    "Icon": "https://img.finalfantasyxiv.com/lds/pc/global/images/itemicon/0d/0dd4af1f23b8f1d782bacfb905a67b491688414c.png?n6.05",
+                    "Name": "Wind Crystal",
+                    "Amount": 20,
+                    "Url": "/lodestone/playguide/db/item/5db117cd77b/"
+                },
+                {
+                    "Icon": "https://img.finalfantasyxiv.com/lds/pc/global/images/itemicon/16/16cd107e2bd1c45cee59e6b96ef02f2f6f68eac5.png?n6.05",
+                    "Name": "Earth Crystal",
+                    "Amount": 20,
+                    "Url": "/lodestone/playguide/db/item/ff6eae7bdcb/"
+                },
+                {
+                    "Icon": "https://img.finalfantasyxiv.com/lds/pc/global/images/itemicon/5d/5dd42eb2385a5e0d158b8fa81b63a09e4b25c821.png?n6.05",
+                    "Name": "Lightning Crystal",
+                    "Amount": 20,
+                    "Url": "/lodestone/playguide/db/item/b21a951916e/"
+                },
+                {
+                    "Icon": "https://img.finalfantasyxiv.com/lds/pc/global/images/itemicon/b5/b5eb0d9131d8f735a91286bdf2f877f0495e8235.png?n6.05",
+                    "Name": "Water Crystal",
+                    "Amount": 20,
+                    "Url": "/lodestone/playguide/db/item/44d3f4cb26b/"
+                },
+                {
+                    "Icon": "https://img.finalfantasyxiv.com/lds/pc/global/images/itemicon/d9/d9a4b77a07bb95bf2713ae233a0eececdf211e8b.png?n6.05",
+                    "Name": "Fire Crystal",
+                    "Amount": 20,
+                    "Url": "/lodestone/playguide/db/item/75403105d7f/"
+                },
+                {
+                    "Icon": "https://img.finalfantasyxiv.com/lds/pc/global/images/itemicon/d9/d9beff495b00ab597dbd0b268530571d803e6a2d.png?n6.05",
+                    "Name": "Cordial",
+                    "Amount": null,
+                    "Url": "/lodestone/playguide/db/item/2ff3e7e028c/"
+                },
+                {
+                    "Icon": "https://img.finalfantasyxiv.com/lds/pc/global/images/itemicon/d9/d9beff495b00ab597dbd0b268530571d803e6a2d.png?n6.05",
+                    "Name": "Cordial",
+                    "Amount": null,
+                    "Url": "/lodestone/playguide/db/item/2ff3e7e028c/"
+                },
+                {
+                    "Icon": "https://img.finalfantasyxiv.com/lds/pc/global/images/itemicon/d9/d9beff495b00ab597dbd0b268530571d803e6a2d.png?n6.05",
+                    "Name": "Cordial",
+                    "Amount": null,
+                    "Url": "/lodestone/playguide/db/item/2ff3e7e028c/"
+                }
+            ],
+            "ItemsOpt": []
+        },
+        "Infos": {
+            "RelatedNPC": [
+                {
+                    "Name": "Cumbersome Crate",
+                    "Url": "/lodestone/playguide/db/npc/npc/0ac67418926/",
+                    "Area": "The Azim Steppe (X:31.7 Y:13.3)"
+                },
+                {
+                    "Name": "Earnest Namazu",
+                    "Url": "/lodestone/playguide/db/npc/npc/2987ea12a2f/",
+                    "Area": "The Azim Steppe (X:31.7 Y:13.3)"
+                }
+            ]
+        },
+        "Seq": 7,
+        "StartDependency": false
+    },
+    {
+        "ID": "7385db1f29a",
+        "Name": " Waiting for Gyodo",
+        "Location": "The Azim Steppe",
+        "Level": 60,
+        "JournalSection": 4,
+        "JournalCategory": 38,
+        "JournalGenre": "\n\t\t\t\t\t\t\tMain Quests\n\t\t\t\t\t\t",
+        "Url": "/lodestone/playguide/db/quest/7385db1f29a/",
+        "Image": "https://img.finalfantasyxiv.com/lds/pc/global/images/itemicon/af/afe81ba1f13e42480c4a048ccd969cf31cb58eb1.png?n6.05",
+        "Icon": "function_normal",
+        "Issuer": "Gyoshin",
+        "StartLocation": {
+            "Name": "The Azim Steppe",
+            "X": "6.1",
+            "Y": "23.3"
+        },
+        "StartClass": null,
+        "Job": "",
+        "Company": "Not specified",
+        "Requirement": "Not specified",
+        "Rewards": {
+            "Gil": 1986,
+            "Exp": null,
+            "ItemsMand": [],
+            "ItemsOpt": [
+                {
+                    "Icon": "https://img.finalfantasyxiv.com/lds/pc/global/images/itemicon/d4/d49fdc4ab26dbf9b92ffca562fcc03a2f8b98446.png?n6.05",
+                    "Name": "Gatherer's Guerdon Materia VI",
+                    "Amount": 1,
+                    "Url": "/lodestone/playguide/db/item/58b8073b1c5/"
+                },
+                {
+                    "Icon": "https://img.finalfantasyxiv.com/lds/pc/global/images/itemicon/d4/d49fdc4ab26dbf9b92ffca562fcc03a2f8b98446.png?n6.05",
+                    "Name": "Gatherer's Grasp Materia VI",
+                    "Amount": 1,
+                    "Url": "/lodestone/playguide/db/item/3e7ec58f07a/"
+                },
+                {
+                    "Icon": "https://img.finalfantasyxiv.com/lds/pc/global/images/itemicon/f6/f6b4b9e71e6ea07af16668337ac28607e8e58297.png?n6.05",
+                    "Name": "Craftsman's Competence Materia VI",
+                    "Amount": 1,
+                    "Url": "/lodestone/playguide/db/item/782c2924c59/"
+                }
+            ]
+        },
+        "Infos": {
+            "PrerequisiteQuest": [
+                {
+                    "Name": " Big, Big Fish",
+                    "Url": "/lodestone/playguide/db/quest/7b8fca31198/",
+                    "Area": "The Azim Steppe",
+                    "Level": "60"
+                }
+            ],
+            "FollowupQuest": [
+                {
+                    "Name": " Out of the Frypan",
+                    "Url": "/lodestone/playguide/db/quest/7c9dd7d8a75/",
+                    "Area": "The Azim Steppe",
+                    "Level": "60"
+                }
+            ],
+            "RelatedNPC": [
+                {
+                    "Name": "Cumbersome Crate",
+                    "Url": "/lodestone/playguide/db/npc/npc/271cb54a2e3/",
+                    "Area": "The Azim Steppe (X:6.0 Y:23.1)"
+                },
+                {
+                    "Name": "Gyorei",
+                    "Url": "/lodestone/playguide/db/npc/npc/30c3f1b050a/",
+                    "Area": "The Azim Steppe (X:5.8 Y:23.5)"
+                },
+                {
+                    "Name": "Gyorei",
+                    "Url": "/lodestone/playguide/db/npc/npc/a23c7a375c6/",
+                    "Area": "The Azim Steppe (X:6.5 Y:23.3)"
+                },
+                {
+                    "Name": "Gyoshin",
+                    "Url": "/lodestone/playguide/db/npc/npc/dcafa6307bd/",
+                    "Area": "The Azim Steppe (X:6.5 Y:23.3)"
+                },
+                {
+                    "Name": "Namazu Spectator",
+                    "Url": "/lodestone/playguide/db/npc/npc/df8bcdd95e1/",
+                    "Area": "The Azim Steppe (X:6.2 Y:24.2)"
+                },
+                {
+                    "Name": "Namazu Spectator",
+                    "Url": "/lodestone/playguide/db/npc/npc/cb5a5ed8e7d/",
+                    "Area": "The Azim Steppe (X:6.9 Y:23.6)"
+                },
+                {
+                    "Name": "Gyoshin",
+                    "Url": "/lodestone/playguide/db/npc/npc/2bd18032bcf/",
+                    "Area": "Kugane (X:10.4 Y:12.1)"
+                },
+                {
+                    "Name": "Rowdy Shipwright",
+                    "Url": "/lodestone/playguide/db/npc/npc/b2d0a23c225/",
+                    "Area": "Kugane (X:10.4 Y:12.1)"
+                }
+            ]
+        },
+        "Seq": 3,
+        "StartDependency": false
+    },
+    {
+        "ID": "7598fec86af",
+        "Name": " A Welcome Surprise",
+        "Location": "The Azim Steppe",
+        "Level": 60,
+        "JournalSection": 4,
+        "JournalCategory": 38,
+        "JournalGenre": "\n\t\t\t\t\t\t\tDaily Quests\n\t\t\t\t\t\t",
+        "Url": "/lodestone/playguide/db/quest/7598fec86af/",
+        "Image": null,
+        "Icon": "common_repeat",
+        "Issuer": "Seigetsu The Enlightened",
+        "StartLocation": {
+            "Name": "The Azim Steppe",
+            "X": "5.8",
+            "Y": "23.4"
+        },
+        "StartClass": null,
+        "Job": "",
+        "Company": "Not specified",
+        "Requirement": "Not specified",
+        "Rewards": {
+            "Gil": 615,
+            "Exp": null,
+            "ItemsMand": [
+                {
+                    "Icon": "https://img.finalfantasyxiv.com/lds/pc/global/images/itemicon/0d/0dd4af1f23b8f1d782bacfb905a67b491688414c.png?n6.05",
+                    "Name": "Wind Crystal",
+                    "Amount": 20,
+                    "Url": "/lodestone/playguide/db/item/5db117cd77b/"
+                },
+                {
+                    "Icon": "https://img.finalfantasyxiv.com/lds/pc/global/images/itemicon/d9/d9a4b77a07bb95bf2713ae233a0eececdf211e8b.png?n6.05",
+                    "Name": "Fire Crystal",
+                    "Amount": 20,
+                    "Url": "/lodestone/playguide/db/item/75403105d7f/"
+                },
+                {
+                    "Icon": "https://img.finalfantasyxiv.com/lds/pc/global/images/itemicon/a7/a71da2eb489188dbbfadd582938a0e761a9a0585.png?n6.05",
+                    "Name": "Ice Crystal",
+                    "Amount": 20,
+                    "Url": "/lodestone/playguide/db/item/2d800a06851/"
+                },
+                {
+                    "Icon": "https://img.finalfantasyxiv.com/lds/pc/global/images/itemicon/0d/0dd4af1f23b8f1d782bacfb905a67b491688414c.png?n6.05",
+                    "Name": "Wind Crystal",
+                    "Amount": 20,
+                    "Url": "/lodestone/playguide/db/item/5db117cd77b/"
+                },
+                {
+                    "Icon": "https://img.finalfantasyxiv.com/lds/pc/global/images/itemicon/16/16cd107e2bd1c45cee59e6b96ef02f2f6f68eac5.png?n6.05",
+                    "Name": "Earth Crystal",
+                    "Amount": 20,
+                    "Url": "/lodestone/playguide/db/item/ff6eae7bdcb/"
+                },
+                {
+                    "Icon": "https://img.finalfantasyxiv.com/lds/pc/global/images/itemicon/5d/5dd42eb2385a5e0d158b8fa81b63a09e4b25c821.png?n6.05",
+                    "Name": "Lightning Crystal",
+                    "Amount": 20,
+                    "Url": "/lodestone/playguide/db/item/b21a951916e/"
+                },
+                {
+                    "Icon": "https://img.finalfantasyxiv.com/lds/pc/global/images/itemicon/b5/b5eb0d9131d8f735a91286bdf2f877f0495e8235.png?n6.05",
+                    "Name": "Water Crystal",
+                    "Amount": 20,
+                    "Url": "/lodestone/playguide/db/item/44d3f4cb26b/"
+                },
+                {
+                    "Icon": "https://img.finalfantasyxiv.com/lds/pc/global/images/itemicon/d9/d9a4b77a07bb95bf2713ae233a0eececdf211e8b.png?n6.05",
+                    "Name": "Fire Crystal",
+                    "Amount": 20,
+                    "Url": "/lodestone/playguide/db/item/75403105d7f/"
+                },
+                {
+                    "Icon": "https://img.finalfantasyxiv.com/lds/pc/global/images/itemicon/d9/d9beff495b00ab597dbd0b268530571d803e6a2d.png?n6.05",
+                    "Name": "Cordial",
+                    "Amount": null,
+                    "Url": "/lodestone/playguide/db/item/2ff3e7e028c/"
+                },
+                {
+                    "Icon": "https://img.finalfantasyxiv.com/lds/pc/global/images/itemicon/d9/d9beff495b00ab597dbd0b268530571d803e6a2d.png?n6.05",
+                    "Name": "Cordial",
+                    "Amount": null,
+                    "Url": "/lodestone/playguide/db/item/2ff3e7e028c/"
+                },
+                {
+                    "Icon": "https://img.finalfantasyxiv.com/lds/pc/global/images/itemicon/d9/d9beff495b00ab597dbd0b268530571d803e6a2d.png?n6.05",
+                    "Name": "Cordial",
+                    "Amount": null,
+                    "Url": "/lodestone/playguide/db/item/2ff3e7e028c/"
+                }
+            ],
+            "ItemsOpt": []
+        },
+        "Infos": {
+            "RelatedNPC": [
+                {
+                    "Name": "Cumbersome Crate",
+                    "Url": "/lodestone/playguide/db/npc/npc/ba6219530ed/",
+                    "Area": "The Azim Steppe (X:20.3 Y:21.1)"
+                },
+                {
+                    "Name": "Novice Namazu Wrestler",
+                    "Url": "/lodestone/playguide/db/npc/npc/7455526d73e/",
+                    "Area": "The Azim Steppe (X:20.3 Y:21.0)"
+                },
+                {
+                    "Name": "Oroniri Wrestling Instructor",
+                    "Url": "/lodestone/playguide/db/npc/npc/d8c9d9e3bb0/",
+                    "Area": "The Azim Steppe (X:20.4 Y:21.0)"
+                }
+            ]
+        },
+        "Seq": 30,
+        "StartDependency": false
+    },
+    {
+        "ID": "7b8fca31198",
+        "Name": " Big, Big Fish",
+        "Location": "The Azim Steppe",
+        "Level": 60,
+        "JournalSection": 4,
+        "JournalCategory": 38,
+        "JournalGenre": "\n\t\t\t\t\t\t\tMain Quests\n\t\t\t\t\t\t",
+        "Url": "/lodestone/playguide/db/quest/7b8fca31198/",
+        "Image": "https://img.finalfantasyxiv.com/lds/pc/global/images/itemicon/71/7111e404d19b19106884565b8706be4722ed4a45.png?n6.05",
+        "Icon": "function_normal",
+        "Issuer": "Gyoshin",
+        "StartLocation": {
+            "Name": "The Azim Steppe",
+            "X": "6.1",
+            "Y": "23.3"
+        },
+        "StartClass": null,
+        "Job": "",
+        "Company": "Not specified",
+        "Requirement": "Not specified",
+        "Rewards": {
+            "Gil": 1318,
+            "Exp": null,
+            "ItemsMand": [],
+            "ItemsOpt": [
+                {
+                    "Icon": "https://img.finalfantasyxiv.com/lds/pc/global/images/itemicon/05/050fda3f7c55f511b31bda3f9fa0731dcd5a54cb.png?n6.05",
+                    "Name": "Gatherer's Guile Materia V",
+                    "Amount": 3,
+                    "Url": "/lodestone/playguide/db/item/495ec449b8e/"
+                },
+                {
+                    "Icon": "https://img.finalfantasyxiv.com/lds/pc/global/images/itemicon/6c/6c28ac35293bc5cd065ca1da849891b2ff436b18.png?n6.05",
+                    "Name": "Craftsman's Cunning Materia V",
+                    "Amount": 3,
+                    "Url": "/lodestone/playguide/db/item/1c7d17024e6/"
+                },
+                {
+                    "Icon": "https://img.finalfantasyxiv.com/lds/pc/global/images/itemicon/6c/6c28ac35293bc5cd065ca1da849891b2ff436b18.png?n6.05",
+                    "Name": "Craftsman's Command Materia V",
+                    "Amount": 3,
+                    "Url": "/lodestone/playguide/db/item/5275c679fe1/"
+                }
+            ]
+        },
+        "Infos": {
+            "PrerequisiteQuest": [
+                {
+                    "Name": " One Size Fits All",
+                    "Url": "/lodestone/playguide/db/quest/13f91ac35a5/",
+                    "Area": "The Azim Steppe",
+                    "Level": "60"
+                }
+            ],
+            "FollowupQuest": [
+                {
+                    "Name": " Waiting for Gyodo",
+                    "Url": "/lodestone/playguide/db/quest/7385db1f29a/",
+                    "Area": "The Azim Steppe",
+                    "Level": "60"
+                }
+            ],
+            "RelatedNPC": [
+                {
+                    "Name": "Cumbersome Crate",
+                    "Url": "/lodestone/playguide/db/npc/npc/271cb54a2e3/",
+                    "Area": "The Azim Steppe (X:6.0 Y:23.1)"
+                },
+                {
+                    "Name": "Gyorei",
+                    "Url": "/lodestone/playguide/db/npc/npc/ec92e13ad8b/",
+                    "Area": "The Azim Steppe (X:6.7 Y:23.4)"
+                },
+                {
+                    "Name": "Gyoshin",
+                    "Url": "/lodestone/playguide/db/npc/npc/06d9735304c/",
+                    "Area": "The Azim Steppe (X:6.1 Y:23.3)"
+                },
+                {
+                    "Name": "Gyoshin",
+                    "Url": "/lodestone/playguide/db/npc/npc/92cf89c9816/",
+                    "Area": "The Azim Steppe (X:6.7 Y:23.4)"
+                },
+                {
+                    "Name": "Fried Namazu",
+                    "Url": "/lodestone/playguide/db/npc/npc/ecd8e97342b/",
+                    "Area": "Yanxia (X:15.8 Y:31.2)"
+                },
+                {
+                    "Name": "Gyorin",
+                    "Url": "/lodestone/playguide/db/npc/npc/94f84eb8c10/",
+                    "Area": "Yanxia (X:15.6 Y:31.2)"
+                },
+                {
+                    "Name": "Half-baked Namazu",
+                    "Url": "/lodestone/playguide/db/npc/npc/d1c3114e8a8/",
+                    "Area": "Yanxia (X:15.8 Y:31.9)"
+                }
+            ]
+        },
+        "Seq": 2,
+        "StartDependency": false
+    },
+    {
+        "ID": "7bad34cf700",
+        "Name": " Local Special Tea",
+        "Location": "The Azim Steppe",
+        "Level": 60,
+        "JournalSection": 4,
+        "JournalCategory": 38,
+        "JournalGenre": "\n\t\t\t\t\t\t\tDaily Quests\n\t\t\t\t\t\t",
+        "Url": "/lodestone/playguide/db/quest/7bad34cf700/",
+        "Image": null,
+        "Icon": "common_repeat",
+        "Issuer": "Seigetsu The Enlightened",
+        "StartLocation": {
+            "Name": "The Azim Steppe",
+            "X": "5.8",
+            "Y": "23.4"
+        },
+        "StartClass": null,
+        "Job": "",
+        "Company": "Not specified",
+        "Requirement": "Not specified",
+        "Rewards": {
+            "Gil": 615,
+            "Exp": null,
+            "ItemsMand": [
+                {
+                    "Icon": "https://img.finalfantasyxiv.com/lds/pc/global/images/itemicon/0d/0dd4af1f23b8f1d782bacfb905a67b491688414c.png?n6.05",
+                    "Name": "Wind Crystal",
+                    "Amount": 20,
+                    "Url": "/lodestone/playguide/db/item/5db117cd77b/"
+                },
+                {
+                    "Icon": "https://img.finalfantasyxiv.com/lds/pc/global/images/itemicon/d9/d9a4b77a07bb95bf2713ae233a0eececdf211e8b.png?n6.05",
+                    "Name": "Fire Crystal",
+                    "Amount": 20,
+                    "Url": "/lodestone/playguide/db/item/75403105d7f/"
+                },
+                {
+                    "Icon": "https://img.finalfantasyxiv.com/lds/pc/global/images/itemicon/a7/a71da2eb489188dbbfadd582938a0e761a9a0585.png?n6.05",
+                    "Name": "Ice Crystal",
+                    "Amount": 20,
+                    "Url": "/lodestone/playguide/db/item/2d800a06851/"
+                },
+                {
+                    "Icon": "https://img.finalfantasyxiv.com/lds/pc/global/images/itemicon/0d/0dd4af1f23b8f1d782bacfb905a67b491688414c.png?n6.05",
+                    "Name": "Wind Crystal",
+                    "Amount": 20,
+                    "Url": "/lodestone/playguide/db/item/5db117cd77b/"
+                },
+                {
+                    "Icon": "https://img.finalfantasyxiv.com/lds/pc/global/images/itemicon/16/16cd107e2bd1c45cee59e6b96ef02f2f6f68eac5.png?n6.05",
+                    "Name": "Earth Crystal",
+                    "Amount": 20,
+                    "Url": "/lodestone/playguide/db/item/ff6eae7bdcb/"
+                },
+                {
+                    "Icon": "https://img.finalfantasyxiv.com/lds/pc/global/images/itemicon/5d/5dd42eb2385a5e0d158b8fa81b63a09e4b25c821.png?n6.05",
+                    "Name": "Lightning Crystal",
+                    "Amount": 20,
+                    "Url": "/lodestone/playguide/db/item/b21a951916e/"
+                },
+                {
+                    "Icon": "https://img.finalfantasyxiv.com/lds/pc/global/images/itemicon/b5/b5eb0d9131d8f735a91286bdf2f877f0495e8235.png?n6.05",
+                    "Name": "Water Crystal",
+                    "Amount": 20,
+                    "Url": "/lodestone/playguide/db/item/44d3f4cb26b/"
+                },
+                {
+                    "Icon": "https://img.finalfantasyxiv.com/lds/pc/global/images/itemicon/d9/d9a4b77a07bb95bf2713ae233a0eececdf211e8b.png?n6.05",
+                    "Name": "Fire Crystal",
+                    "Amount": 20,
+                    "Url": "/lodestone/playguide/db/item/75403105d7f/"
+                },
+                {
+                    "Icon": "https://img.finalfantasyxiv.com/lds/pc/global/images/itemicon/d9/d9beff495b00ab597dbd0b268530571d803e6a2d.png?n6.05",
+                    "Name": "Cordial",
+                    "Amount": null,
+                    "Url": "/lodestone/playguide/db/item/2ff3e7e028c/"
+                },
+                {
+                    "Icon": "https://img.finalfantasyxiv.com/lds/pc/global/images/itemicon/d9/d9beff495b00ab597dbd0b268530571d803e6a2d.png?n6.05",
+                    "Name": "Cordial",
+                    "Amount": null,
+                    "Url": "/lodestone/playguide/db/item/2ff3e7e028c/"
+                },
+                {
+                    "Icon": "https://img.finalfantasyxiv.com/lds/pc/global/images/itemicon/d9/d9beff495b00ab597dbd0b268530571d803e6a2d.png?n6.05",
+                    "Name": "Cordial",
+                    "Amount": null,
+                    "Url": "/lodestone/playguide/db/item/2ff3e7e028c/"
+                }
+            ],
+            "ItemsOpt": []
+        },
+        "Infos": {
+            "RelatedNPC": [
+                {
+                    "Name": "Cumbersome Crate",
+                    "Url": "/lodestone/playguide/db/npc/npc/3fd8bc8d464/",
+                    "Area": "The Azim Steppe (X:33.3 Y:13.0)"
+                },
+                {
+                    "Name": "Namazu Tea Connoisseur",
+                    "Url": "/lodestone/playguide/db/npc/npc/de88b98004b/",
+                    "Area": "The Azim Steppe (X:33.3 Y:13.0)"
+                }
+            ]
+        },
+        "Seq": 17,
+        "StartDependency": false
+    },
+    {
+        "ID": "7c9dd7d8a75",
+        "Name": " Out of the Frypan",
+        "Location": "The Azim Steppe",
+        "Level": 60,
+        "JournalSection": 4,
+        "JournalCategory": 38,
+        "JournalGenre": "\n\t\t\t\t\t\t\tMain Quests\n\t\t\t\t\t\t",
+        "Url": "/lodestone/playguide/db/quest/7c9dd7d8a75/",
+        "Image": "https://img.finalfantasyxiv.com/lds/pc/global/images/itemicon/10/1083cad1b0ed0da8539f417ab3fca883dd27f3f3.png?n6.05",
+        "Icon": "function_normal",
+        "Issuer": "Gyoshin",
+        "StartLocation": {
+            "Name": "The Azim Steppe",
+            "X": "6.1",
+            "Y": "23.3"
+        },
+        "StartClass": null,
+        "Job": "",
+        "Company": "Not specified",
+        "Requirement": "Not specified",
+        "Rewards": {
+            "Gil": 1103,
+            "Exp": null,
+            "ItemsMand": [],
+            "ItemsOpt": [
+                {
+                    "Icon": "https://img.finalfantasyxiv.com/lds/pc/global/images/itemicon/d4/d49fdc4ab26dbf9b92ffca562fcc03a2f8b98446.png?n6.05",
+                    "Name": "Gatherer's Guile Materia VI",
+                    "Amount": 1,
+                    "Url": "/lodestone/playguide/db/item/79104b54e2b/"
+                },
+                {
+                    "Icon": "https://img.finalfantasyxiv.com/lds/pc/global/images/itemicon/f6/f6b4b9e71e6ea07af16668337ac28607e8e58297.png?n6.05",
+                    "Name": "Craftsman's Cunning Materia VI",
+                    "Amount": 1,
+                    "Url": "/lodestone/playguide/db/item/c9c82ae1948/"
+                },
+                {
+                    "Icon": "https://img.finalfantasyxiv.com/lds/pc/global/images/itemicon/f6/f6b4b9e71e6ea07af16668337ac28607e8e58297.png?n6.05",
+                    "Name": "Craftsman's Command Materia VI",
+                    "Amount": 1,
+                    "Url": "/lodestone/playguide/db/item/c61ed952535/"
+                }
+            ]
+        },
+        "Infos": {
+            "PrerequisiteQuest": [
+                {
+                    "Name": " Waiting for Gyodo",
+                    "Url": "/lodestone/playguide/db/quest/7385db1f29a/",
+                    "Area": "The Azim Steppe",
+                    "Level": "60"
+                }
+            ],
+            "FollowupQuest": [
+                {
+                    "Name": " Into the Fire",
+                    "Url": "/lodestone/playguide/db/quest/1c400698842/",
+                    "Area": "The Azim Steppe",
+                    "Level": "60"
+                }
+            ],
+            "RelatedNPC": [
+                {
+                    "Name": "Cirina",
+                    "Url": "/lodestone/playguide/db/npc/npc/077102a4b03/",
+                    "Area": "The Azim Steppe (X:31.4 Y:11.3)"
+                },
+                {
+                    "Name": "Cumbersome Crate",
+                    "Url": "/lodestone/playguide/db/npc/npc/271cb54a2e3/",
+                    "Area": "The Azim Steppe (X:6.0 Y:23.1)"
+                },
+                {
+                    "Name": "Gyorei",
+                    "Url": "/lodestone/playguide/db/npc/npc/30c3f1b050a/",
+                    "Area": "The Azim Steppe (X:5.8 Y:23.5)"
+                },
+                {
+                    "Name": "Gyorei",
+                    "Url": "/lodestone/playguide/db/npc/npc/bc73ae090f7/",
+                    "Area": "The Azim Steppe (X:5.4 Y:22.6)"
+                },
+                {
+                    "Name": "Gyorei",
+                    "Url": "/lodestone/playguide/db/npc/npc/afca8723911/",
+                    "Area": "The Azim Steppe (X:6.6 Y:24.2)"
+                },
+                {
+                    "Name": "Gyoshin",
+                    "Url": "/lodestone/playguide/db/npc/npc/738575252fa/",
+                    "Area": "The Azim Steppe (X:31.4 Y:11.3)"
+                },
+                {
+                    "Name": "Gyoshin",
+                    "Url": "/lodestone/playguide/db/npc/npc/614f6bb4371/",
+                    "Area": "The Azim Steppe (X:20.7 Y:22.7)"
+                },
+                {
+                    "Name": "Gyoshin",
+                    "Url": "/lodestone/playguide/db/npc/npc/15652258178/",
+                    "Area": "The Azim Steppe (X:12.5 Y:34.0)"
+                },
+                {
+                    "Name": "Gyoshin",
+                    "Url": "/lodestone/playguide/db/npc/npc/0278901d619/",
+                    "Area": "The Azim Steppe (X:5.4 Y:22.2)"
+                },
+                {
+                    "Name": "Gyoshin",
+                    "Url": "/lodestone/playguide/db/npc/npc/2478992c5dd/",
+                    "Area": "The Azim Steppe (X:6.6 Y:24.2)"
+                },
+                {
+                    "Name": "Magnai",
+                    "Url": "/lodestone/playguide/db/npc/npc/89c029f2d8a/",
+                    "Area": "The Azim Steppe (X:20.6 Y:22.7)"
+                },
+                {
+                    "Name": "Sadu",
+                    "Url": "/lodestone/playguide/db/npc/npc/2b121b486a0/",
+                    "Area": "The Azim Steppe (X:12.5 Y:34.1)"
+                },
+                {
+                    "Name": "Temulun",
+                    "Url": "/lodestone/playguide/db/npc/npc/2ceef072c55/",
+                    "Area": "The Azim Steppe (X:31.4 Y:11.2)"
+                }
+            ]
+        },
+        "Seq": 4,
+        "StartDependency": false
+    },
+    {
+        "ID": "875f1deb9cf",
+        "Name": " Catching Catfish",
+        "Location": "The Azim Steppe",
+        "Level": 60,
+        "JournalSection": 4,
+        "JournalCategory": 38,
+        "JournalGenre": "\n\t\t\t\t\t\t\tDaily Quests\n\t\t\t\t\t\t",
+        "Url": "/lodestone/playguide/db/quest/875f1deb9cf/",
+        "Image": null,
+        "Icon": "common_repeat",
+        "Issuer": "Seigetsu The Enlightened",
+        "StartLocation": {
+            "Name": "The Azim Steppe",
+            "X": "5.8",
+            "Y": "23.4"
+        },
+        "StartClass": null,
+        "Job": "",
+        "Company": "Not specified",
+        "Requirement": "Not specified",
+        "Rewards": {
+            "Gil": 550,
+            "Exp": null,
+            "ItemsMand": [
+                {
+                    "Icon": "https://img.finalfantasyxiv.com/lds/pc/global/images/itemicon/0d/0dd4af1f23b8f1d782bacfb905a67b491688414c.png?n6.05",
+                    "Name": "Wind Crystal",
+                    "Amount": 20,
+                    "Url": "/lodestone/playguide/db/item/5db117cd77b/"
+                },
+                {
+                    "Icon": "https://img.finalfantasyxiv.com/lds/pc/global/images/itemicon/d9/d9a4b77a07bb95bf2713ae233a0eececdf211e8b.png?n6.05",
+                    "Name": "Fire Crystal",
+                    "Amount": 20,
+                    "Url": "/lodestone/playguide/db/item/75403105d7f/"
+                },
+                {
+                    "Icon": "https://img.finalfantasyxiv.com/lds/pc/global/images/itemicon/a7/a71da2eb489188dbbfadd582938a0e761a9a0585.png?n6.05",
+                    "Name": "Ice Crystal",
+                    "Amount": 20,
+                    "Url": "/lodestone/playguide/db/item/2d800a06851/"
+                },
+                {
+                    "Icon": "https://img.finalfantasyxiv.com/lds/pc/global/images/itemicon/0d/0dd4af1f23b8f1d782bacfb905a67b491688414c.png?n6.05",
+                    "Name": "Wind Crystal",
+                    "Amount": 20,
+                    "Url": "/lodestone/playguide/db/item/5db117cd77b/"
+                },
+                {
+                    "Icon": "https://img.finalfantasyxiv.com/lds/pc/global/images/itemicon/16/16cd107e2bd1c45cee59e6b96ef02f2f6f68eac5.png?n6.05",
+                    "Name": "Earth Crystal",
+                    "Amount": 20,
+                    "Url": "/lodestone/playguide/db/item/ff6eae7bdcb/"
+                },
+                {
+                    "Icon": "https://img.finalfantasyxiv.com/lds/pc/global/images/itemicon/5d/5dd42eb2385a5e0d158b8fa81b63a09e4b25c821.png?n6.05",
+                    "Name": "Lightning Crystal",
+                    "Amount": 20,
+                    "Url": "/lodestone/playguide/db/item/b21a951916e/"
+                },
+                {
+                    "Icon": "https://img.finalfantasyxiv.com/lds/pc/global/images/itemicon/b5/b5eb0d9131d8f735a91286bdf2f877f0495e8235.png?n6.05",
+                    "Name": "Water Crystal",
+                    "Amount": 20,
+                    "Url": "/lodestone/playguide/db/item/44d3f4cb26b/"
+                },
+                {
+                    "Icon": "https://img.finalfantasyxiv.com/lds/pc/global/images/itemicon/d9/d9a4b77a07bb95bf2713ae233a0eececdf211e8b.png?n6.05",
+                    "Name": "Fire Crystal",
+                    "Amount": 20,
+                    "Url": "/lodestone/playguide/db/item/75403105d7f/"
+                },
+                {
+                    "Icon": "https://img.finalfantasyxiv.com/lds/pc/global/images/itemicon/d9/d9beff495b00ab597dbd0b268530571d803e6a2d.png?n6.05",
+                    "Name": "Cordial",
+                    "Amount": null,
+                    "Url": "/lodestone/playguide/db/item/2ff3e7e028c/"
+                },
+                {
+                    "Icon": "https://img.finalfantasyxiv.com/lds/pc/global/images/itemicon/d9/d9beff495b00ab597dbd0b268530571d803e6a2d.png?n6.05",
+                    "Name": "Cordial",
+                    "Amount": null,
+                    "Url": "/lodestone/playguide/db/item/2ff3e7e028c/"
+                },
+                {
+                    "Icon": "https://img.finalfantasyxiv.com/lds/pc/global/images/itemicon/d9/d9beff495b00ab597dbd0b268530571d803e6a2d.png?n6.05",
+                    "Name": "Cordial",
+                    "Amount": null,
+                    "Url": "/lodestone/playguide/db/item/2ff3e7e028c/"
+                }
+            ],
+            "ItemsOpt": []
+        },
+        "Infos": {
+            "RelatedNPC": [
+                {
+                    "Name": "Cumbersome Crate",
+                    "Url": "/lodestone/playguide/db/npc/npc/a8a267cde5b/",
+                    "Area": "The Azim Steppe (X:25.3 Y:23.9)"
+                },
+                {
+                    "Name": "Namazu Fisher",
+                    "Url": "/lodestone/playguide/db/npc/npc/0bf756951e2/",
+                    "Area": "The Azim Steppe (X:25.3 Y:23.8)"
+                }
+            ]
+        },
+        "Seq": 13,
+        "StartDependency": false
+    },
+    {
+        "ID": "88b39b6328a",
+        "Name": " Carving a Niche",
+        "Location": "The Azim Steppe",
+        "Level": 60,
+        "JournalSection": 4,
+        "JournalCategory": 38,
+        "JournalGenre": "\n\t\t\t\t\t\t\tDaily Quests\n\t\t\t\t\t\t",
+        "Url": "/lodestone/playguide/db/quest/88b39b6328a/",
+        "Image": null,
+        "Icon": "common_repeat",
+        "Issuer": "Seigetsu The Enlightened",
+        "StartLocation": {
+            "Name": "The Azim Steppe",
+            "X": "5.8",
+            "Y": "23.4"
+        },
+        "StartClass": null,
+        "Job": "",
+        "Company": "Not specified",
+        "Requirement": "Not specified",
+        "Rewards": {
+            "Gil": 615,
+            "Exp": null,
+            "ItemsMand": [
+                {
+                    "Icon": "https://img.finalfantasyxiv.com/lds/pc/global/images/itemicon/0d/0dd4af1f23b8f1d782bacfb905a67b491688414c.png?n6.05",
+                    "Name": "Wind Crystal",
+                    "Amount": 20,
+                    "Url": "/lodestone/playguide/db/item/5db117cd77b/"
+                },
+                {
+                    "Icon": "https://img.finalfantasyxiv.com/lds/pc/global/images/itemicon/d9/d9a4b77a07bb95bf2713ae233a0eececdf211e8b.png?n6.05",
+                    "Name": "Fire Crystal",
+                    "Amount": 20,
+                    "Url": "/lodestone/playguide/db/item/75403105d7f/"
+                },
+                {
+                    "Icon": "https://img.finalfantasyxiv.com/lds/pc/global/images/itemicon/a7/a71da2eb489188dbbfadd582938a0e761a9a0585.png?n6.05",
+                    "Name": "Ice Crystal",
+                    "Amount": 20,
+                    "Url": "/lodestone/playguide/db/item/2d800a06851/"
+                },
+                {
+                    "Icon": "https://img.finalfantasyxiv.com/lds/pc/global/images/itemicon/0d/0dd4af1f23b8f1d782bacfb905a67b491688414c.png?n6.05",
+                    "Name": "Wind Crystal",
+                    "Amount": 20,
+                    "Url": "/lodestone/playguide/db/item/5db117cd77b/"
+                },
+                {
+                    "Icon": "https://img.finalfantasyxiv.com/lds/pc/global/images/itemicon/16/16cd107e2bd1c45cee59e6b96ef02f2f6f68eac5.png?n6.05",
+                    "Name": "Earth Crystal",
+                    "Amount": 20,
+                    "Url": "/lodestone/playguide/db/item/ff6eae7bdcb/"
+                },
+                {
+                    "Icon": "https://img.finalfantasyxiv.com/lds/pc/global/images/itemicon/5d/5dd42eb2385a5e0d158b8fa81b63a09e4b25c821.png?n6.05",
+                    "Name": "Lightning Crystal",
+                    "Amount": 20,
+                    "Url": "/lodestone/playguide/db/item/b21a951916e/"
+                },
+                {
+                    "Icon": "https://img.finalfantasyxiv.com/lds/pc/global/images/itemicon/b5/b5eb0d9131d8f735a91286bdf2f877f0495e8235.png?n6.05",
+                    "Name": "Water Crystal",
+                    "Amount": 20,
+                    "Url": "/lodestone/playguide/db/item/44d3f4cb26b/"
+                },
+                {
+                    "Icon": "https://img.finalfantasyxiv.com/lds/pc/global/images/itemicon/d9/d9a4b77a07bb95bf2713ae233a0eececdf211e8b.png?n6.05",
+                    "Name": "Fire Crystal",
+                    "Amount": 20,
+                    "Url": "/lodestone/playguide/db/item/75403105d7f/"
+                },
+                {
+                    "Icon": "https://img.finalfantasyxiv.com/lds/pc/global/images/itemicon/d9/d9beff495b00ab597dbd0b268530571d803e6a2d.png?n6.05",
+                    "Name": "Cordial",
+                    "Amount": null,
+                    "Url": "/lodestone/playguide/db/item/2ff3e7e028c/"
+                },
+                {
+                    "Icon": "https://img.finalfantasyxiv.com/lds/pc/global/images/itemicon/d9/d9beff495b00ab597dbd0b268530571d803e6a2d.png?n6.05",
+                    "Name": "Cordial",
+                    "Amount": null,
+                    "Url": "/lodestone/playguide/db/item/2ff3e7e028c/"
+                },
+                {
+                    "Icon": "https://img.finalfantasyxiv.com/lds/pc/global/images/itemicon/d9/d9beff495b00ab597dbd0b268530571d803e6a2d.png?n6.05",
+                    "Name": "Cordial",
+                    "Amount": null,
+                    "Url": "/lodestone/playguide/db/item/2ff3e7e028c/"
+                }
+            ],
+            "ItemsOpt": []
+        },
+        "Infos": {
+            "RelatedNPC": [
+                {
+                    "Name": "Cumbersome Crate",
+                    "Url": "/lodestone/playguide/db/npc/npc/c0f4f3cd0f9/",
+                    "Area": "The Azim Steppe (X:22.9 Y:21.2)"
+                },
+                {
+                    "Name": "Oroniri Dzoherd",
+                    "Url": "/lodestone/playguide/db/npc/npc/215bf52290c/",
+                    "Area": "The Azim Steppe (X:23.0 Y:21.3)"
+                }
+            ]
+        },
+        "Seq": 19,
+        "StartDependency": false
+    },
+    {
+        "ID": "8fd713ebadc",
+        "Name": " The Deadliest Sport",
+        "Location": "The Azim Steppe",
+        "Level": 60,
+        "JournalSection": 4,
+        "JournalCategory": 38,
+        "JournalGenre": "\n\t\t\t\t\t\t\tDaily Quests\n\t\t\t\t\t\t",
+        "Url": "/lodestone/playguide/db/quest/8fd713ebadc/",
+        "Image": null,
+        "Icon": "common_repeat",
+        "Issuer": "Seigetsu The Enlightened",
+        "StartLocation": {
+            "Name": "The Azim Steppe",
+            "X": "5.8",
+            "Y": "23.4"
+        },
+        "StartClass": null,
+        "Job": "",
+        "Company": "Not specified",
+        "Requirement": "Not specified",
+        "Rewards": {
+            "Gil": 615,
+            "Exp": null,
+            "ItemsMand": [
+                {
+                    "Icon": "https://img.finalfantasyxiv.com/lds/pc/global/images/itemicon/0d/0dd4af1f23b8f1d782bacfb905a67b491688414c.png?n6.05",
+                    "Name": "Wind Crystal",
+                    "Amount": 20,
+                    "Url": "/lodestone/playguide/db/item/5db117cd77b/"
+                },
+                {
+                    "Icon": "https://img.finalfantasyxiv.com/lds/pc/global/images/itemicon/d9/d9a4b77a07bb95bf2713ae233a0eececdf211e8b.png?n6.05",
+                    "Name": "Fire Crystal",
+                    "Amount": 20,
+                    "Url": "/lodestone/playguide/db/item/75403105d7f/"
+                },
+                {
+                    "Icon": "https://img.finalfantasyxiv.com/lds/pc/global/images/itemicon/a7/a71da2eb489188dbbfadd582938a0e761a9a0585.png?n6.05",
+                    "Name": "Ice Crystal",
+                    "Amount": 20,
+                    "Url": "/lodestone/playguide/db/item/2d800a06851/"
+                },
+                {
+                    "Icon": "https://img.finalfantasyxiv.com/lds/pc/global/images/itemicon/0d/0dd4af1f23b8f1d782bacfb905a67b491688414c.png?n6.05",
+                    "Name": "Wind Crystal",
+                    "Amount": 20,
+                    "Url": "/lodestone/playguide/db/item/5db117cd77b/"
+                },
+                {
+                    "Icon": "https://img.finalfantasyxiv.com/lds/pc/global/images/itemicon/16/16cd107e2bd1c45cee59e6b96ef02f2f6f68eac5.png?n6.05",
+                    "Name": "Earth Crystal",
+                    "Amount": 20,
+                    "Url": "/lodestone/playguide/db/item/ff6eae7bdcb/"
+                },
+                {
+                    "Icon": "https://img.finalfantasyxiv.com/lds/pc/global/images/itemicon/5d/5dd42eb2385a5e0d158b8fa81b63a09e4b25c821.png?n6.05",
+                    "Name": "Lightning Crystal",
+                    "Amount": 20,
+                    "Url": "/lodestone/playguide/db/item/b21a951916e/"
+                },
+                {
+                    "Icon": "https://img.finalfantasyxiv.com/lds/pc/global/images/itemicon/b5/b5eb0d9131d8f735a91286bdf2f877f0495e8235.png?n6.05",
+                    "Name": "Water Crystal",
+                    "Amount": 20,
+                    "Url": "/lodestone/playguide/db/item/44d3f4cb26b/"
+                },
+                {
+                    "Icon": "https://img.finalfantasyxiv.com/lds/pc/global/images/itemicon/d9/d9a4b77a07bb95bf2713ae233a0eececdf211e8b.png?n6.05",
+                    "Name": "Fire Crystal",
+                    "Amount": 20,
+                    "Url": "/lodestone/playguide/db/item/75403105d7f/"
+                },
+                {
+                    "Icon": "https://img.finalfantasyxiv.com/lds/pc/global/images/itemicon/d9/d9beff495b00ab597dbd0b268530571d803e6a2d.png?n6.05",
+                    "Name": "Cordial",
+                    "Amount": null,
+                    "Url": "/lodestone/playguide/db/item/2ff3e7e028c/"
+                },
+                {
+                    "Icon": "https://img.finalfantasyxiv.com/lds/pc/global/images/itemicon/d9/d9beff495b00ab597dbd0b268530571d803e6a2d.png?n6.05",
+                    "Name": "Cordial",
+                    "Amount": null,
+                    "Url": "/lodestone/playguide/db/item/2ff3e7e028c/"
+                },
+                {
+                    "Icon": "https://img.finalfantasyxiv.com/lds/pc/global/images/itemicon/d9/d9beff495b00ab597dbd0b268530571d803e6a2d.png?n6.05",
+                    "Name": "Cordial",
+                    "Amount": null,
+                    "Url": "/lodestone/playguide/db/item/2ff3e7e028c/"
+                }
+            ],
+            "ItemsOpt": []
+        },
+        "Infos": {
+            "RelatedNPC": [
+                {
+                    "Name": "Cumbersome Crate",
+                    "Url": "/lodestone/playguide/db/npc/npc/57f365a992f/",
+                    "Area": "The Azim Steppe (X:10.7 Y:13.2)"
+                },
+                {
+                    "Name": "Gyoka",
+                    "Url": "/lodestone/playguide/db/npc/npc/e87f9d44688/",
+                    "Area": "The Azim Steppe (X:6.4 Y:24.3)"
+                },
+                {
+                    "Name": "Namazu Gatherer",
+                    "Url": "/lodestone/playguide/db/npc/npc/478242cc531/",
+                    "Area": "The Azim Steppe (X:10.7 Y:13.2)"
+                }
+            ]
+        },
+        "Seq": 34,
+        "StartDependency": false
+    },
+    {
+        "ID": "a39317e23a3",
+        "Name": " Beat of the Drum",
+        "Location": "The Azim Steppe",
+        "Level": 60,
+        "JournalSection": 4,
+        "JournalCategory": 38,
+        "JournalGenre": "\n\t\t\t\t\t\t\tDaily Quests\n\t\t\t\t\t\t",
+        "Url": "/lodestone/playguide/db/quest/a39317e23a3/",
+        "Image": null,
+        "Icon": "common_repeat",
+        "Issuer": "Seigetsu The Enlightened",
+        "StartLocation": {
+            "Name": "The Azim Steppe",
+            "X": "5.8",
+            "Y": "23.4"
+        },
+        "StartClass": null,
+        "Job": "",
+        "Company": "Not specified",
+        "Requirement": "Not specified",
+        "Rewards": {
+            "Gil": 550,
+            "Exp": null,
+            "ItemsMand": [
+                {
+                    "Icon": "https://img.finalfantasyxiv.com/lds/pc/global/images/itemicon/0d/0dd4af1f23b8f1d782bacfb905a67b491688414c.png?n6.05",
+                    "Name": "Wind Crystal",
+                    "Amount": 20,
+                    "Url": "/lodestone/playguide/db/item/5db117cd77b/"
+                },
+                {
+                    "Icon": "https://img.finalfantasyxiv.com/lds/pc/global/images/itemicon/d9/d9a4b77a07bb95bf2713ae233a0eececdf211e8b.png?n6.05",
+                    "Name": "Fire Crystal",
+                    "Amount": 20,
+                    "Url": "/lodestone/playguide/db/item/75403105d7f/"
+                },
+                {
+                    "Icon": "https://img.finalfantasyxiv.com/lds/pc/global/images/itemicon/a7/a71da2eb489188dbbfadd582938a0e761a9a0585.png?n6.05",
+                    "Name": "Ice Crystal",
+                    "Amount": 20,
+                    "Url": "/lodestone/playguide/db/item/2d800a06851/"
+                },
+                {
+                    "Icon": "https://img.finalfantasyxiv.com/lds/pc/global/images/itemicon/0d/0dd4af1f23b8f1d782bacfb905a67b491688414c.png?n6.05",
+                    "Name": "Wind Crystal",
+                    "Amount": 20,
+                    "Url": "/lodestone/playguide/db/item/5db117cd77b/"
+                },
+                {
+                    "Icon": "https://img.finalfantasyxiv.com/lds/pc/global/images/itemicon/16/16cd107e2bd1c45cee59e6b96ef02f2f6f68eac5.png?n6.05",
+                    "Name": "Earth Crystal",
+                    "Amount": 20,
+                    "Url": "/lodestone/playguide/db/item/ff6eae7bdcb/"
+                },
+                {
+                    "Icon": "https://img.finalfantasyxiv.com/lds/pc/global/images/itemicon/5d/5dd42eb2385a5e0d158b8fa81b63a09e4b25c821.png?n6.05",
+                    "Name": "Lightning Crystal",
+                    "Amount": 20,
+                    "Url": "/lodestone/playguide/db/item/b21a951916e/"
+                },
+                {
+                    "Icon": "https://img.finalfantasyxiv.com/lds/pc/global/images/itemicon/b5/b5eb0d9131d8f735a91286bdf2f877f0495e8235.png?n6.05",
+                    "Name": "Water Crystal",
+                    "Amount": 20,
+                    "Url": "/lodestone/playguide/db/item/44d3f4cb26b/"
+                },
+                {
+                    "Icon": "https://img.finalfantasyxiv.com/lds/pc/global/images/itemicon/d9/d9a4b77a07bb95bf2713ae233a0eececdf211e8b.png?n6.05",
+                    "Name": "Fire Crystal",
+                    "Amount": 20,
+                    "Url": "/lodestone/playguide/db/item/75403105d7f/"
+                },
+                {
+                    "Icon": "https://img.finalfantasyxiv.com/lds/pc/global/images/itemicon/d9/d9beff495b00ab597dbd0b268530571d803e6a2d.png?n6.05",
+                    "Name": "Cordial",
+                    "Amount": null,
+                    "Url": "/lodestone/playguide/db/item/2ff3e7e028c/"
+                },
+                {
+                    "Icon": "https://img.finalfantasyxiv.com/lds/pc/global/images/itemicon/d9/d9beff495b00ab597dbd0b268530571d803e6a2d.png?n6.05",
+                    "Name": "Cordial",
+                    "Amount": null,
+                    "Url": "/lodestone/playguide/db/item/2ff3e7e028c/"
+                },
+                {
+                    "Icon": "https://img.finalfantasyxiv.com/lds/pc/global/images/itemicon/d9/d9beff495b00ab597dbd0b268530571d803e6a2d.png?n6.05",
+                    "Name": "Cordial",
+                    "Amount": null,
+                    "Url": "/lodestone/playguide/db/item/2ff3e7e028c/"
+                }
+            ],
+            "ItemsOpt": []
+        },
+        "Infos": {
+            "RelatedNPC": [
+                {
+                    "Name": "Cumbersome Crate",
+                    "Url": "/lodestone/playguide/db/npc/npc/f5c545cf006/",
+                    "Area": "The Azim Steppe (X:18.0 Y:12.7)"
+                },
+                {
+                    "Name": "Namazu Artisan",
+                    "Url": "/lodestone/playguide/db/npc/npc/1414c3a3c93/",
+                    "Area": "The Azim Steppe (X:17.9 Y:12.7)"
+                }
+            ]
+        },
+        "Seq": 21,
+        "StartDependency": false
+    },
+    {
+        "ID": "ad6c666fbbc",
+        "Name": " Ghosts of Honor",
+        "Location": "The Azim Steppe",
+        "Level": 60,
+        "JournalSection": 4,
+        "JournalCategory": 38,
+        "JournalGenre": "\n\t\t\t\t\t\t\tDaily Quests\n\t\t\t\t\t\t",
+        "Url": "/lodestone/playguide/db/quest/ad6c666fbbc/",
+        "Image": null,
+        "Icon": "common_repeat",
+        "Issuer": "Seigetsu The Enlightened",
+        "StartLocation": {
+            "Name": "The Azim Steppe",
+            "X": "5.8",
+            "Y": "23.4"
+        },
+        "StartClass": null,
+        "Job": "",
+        "Company": "Not specified",
+        "Requirement": "Not specified",
+        "Rewards": {
+            "Gil": 550,
+            "Exp": null,
+            "ItemsMand": [
+                {
+                    "Icon": "https://img.finalfantasyxiv.com/lds/pc/global/images/itemicon/0d/0dd4af1f23b8f1d782bacfb905a67b491688414c.png?n6.05",
+                    "Name": "Wind Crystal",
+                    "Amount": 20,
+                    "Url": "/lodestone/playguide/db/item/5db117cd77b/"
+                },
+                {
+                    "Icon": "https://img.finalfantasyxiv.com/lds/pc/global/images/itemicon/d9/d9a4b77a07bb95bf2713ae233a0eececdf211e8b.png?n6.05",
+                    "Name": "Fire Crystal",
+                    "Amount": 20,
+                    "Url": "/lodestone/playguide/db/item/75403105d7f/"
+                },
+                {
+                    "Icon": "https://img.finalfantasyxiv.com/lds/pc/global/images/itemicon/a7/a71da2eb489188dbbfadd582938a0e761a9a0585.png?n6.05",
+                    "Name": "Ice Crystal",
+                    "Amount": 20,
+                    "Url": "/lodestone/playguide/db/item/2d800a06851/"
+                },
+                {
+                    "Icon": "https://img.finalfantasyxiv.com/lds/pc/global/images/itemicon/0d/0dd4af1f23b8f1d782bacfb905a67b491688414c.png?n6.05",
+                    "Name": "Wind Crystal",
+                    "Amount": 20,
+                    "Url": "/lodestone/playguide/db/item/5db117cd77b/"
+                },
+                {
+                    "Icon": "https://img.finalfantasyxiv.com/lds/pc/global/images/itemicon/16/16cd107e2bd1c45cee59e6b96ef02f2f6f68eac5.png?n6.05",
+                    "Name": "Earth Crystal",
+                    "Amount": 20,
+                    "Url": "/lodestone/playguide/db/item/ff6eae7bdcb/"
+                },
+                {
+                    "Icon": "https://img.finalfantasyxiv.com/lds/pc/global/images/itemicon/5d/5dd42eb2385a5e0d158b8fa81b63a09e4b25c821.png?n6.05",
+                    "Name": "Lightning Crystal",
+                    "Amount": 20,
+                    "Url": "/lodestone/playguide/db/item/b21a951916e/"
+                },
+                {
+                    "Icon": "https://img.finalfantasyxiv.com/lds/pc/global/images/itemicon/b5/b5eb0d9131d8f735a91286bdf2f877f0495e8235.png?n6.05",
+                    "Name": "Water Crystal",
+                    "Amount": 20,
+                    "Url": "/lodestone/playguide/db/item/44d3f4cb26b/"
+                },
+                {
+                    "Icon": "https://img.finalfantasyxiv.com/lds/pc/global/images/itemicon/d9/d9a4b77a07bb95bf2713ae233a0eececdf211e8b.png?n6.05",
+                    "Name": "Fire Crystal",
+                    "Amount": 20,
+                    "Url": "/lodestone/playguide/db/item/75403105d7f/"
+                },
+                {
+                    "Icon": "https://img.finalfantasyxiv.com/lds/pc/global/images/itemicon/d9/d9beff495b00ab597dbd0b268530571d803e6a2d.png?n6.05",
+                    "Name": "Cordial",
+                    "Amount": null,
+                    "Url": "/lodestone/playguide/db/item/2ff3e7e028c/"
+                },
+                {
+                    "Icon": "https://img.finalfantasyxiv.com/lds/pc/global/images/itemicon/d9/d9beff495b00ab597dbd0b268530571d803e6a2d.png?n6.05",
+                    "Name": "Cordial",
+                    "Amount": null,
+                    "Url": "/lodestone/playguide/db/item/2ff3e7e028c/"
+                },
+                {
+                    "Icon": "https://img.finalfantasyxiv.com/lds/pc/global/images/itemicon/d9/d9beff495b00ab597dbd0b268530571d803e6a2d.png?n6.05",
+                    "Name": "Cordial",
+                    "Amount": null,
+                    "Url": "/lodestone/playguide/db/item/2ff3e7e028c/"
+                }
+            ],
+            "ItemsOpt": []
+        },
+        "Infos": {
+            "RelatedNPC": [
+                {
+                    "Name": "Cumbersome Crate",
+                    "Url": "/lodestone/playguide/db/npc/npc/8f7b6de0fff/",
+                    "Area": "The Azim Steppe (X:23.9 Y:14.7)"
+                },
+                {
+                    "Name": "Namazu Steward",
+                    "Url": "/lodestone/playguide/db/npc/npc/5052b21c3b7/",
+                    "Area": "The Azim Steppe (X:23.9 Y:14.7)"
+                }
+            ]
+        },
+        "Seq": 15,
+        "StartDependency": false
+    },
+    {
+        "ID": "aeeef7bf164",
+        "Name": " Give till It Hurts",
+        "Location": "The Azim Steppe",
+        "Level": 60,
+        "JournalSection": 4,
+        "JournalCategory": 38,
+        "JournalGenre": "\n\t\t\t\t\t\t\tDaily Quests\n\t\t\t\t\t\t",
+        "Url": "/lodestone/playguide/db/quest/aeeef7bf164/",
+        "Image": null,
+        "Icon": "common_repeat",
+        "Issuer": "Seigetsu The Enlightened",
+        "StartLocation": {
+            "Name": "The Azim Steppe",
+            "X": "5.8",
+            "Y": "23.4"
+        },
+        "StartClass": null,
+        "Job": "",
+        "Company": "Not specified",
+        "Requirement": "Not specified",
+        "Rewards": {
+            "Gil": 550,
+            "Exp": null,
+            "ItemsMand": [
+                {
+                    "Icon": "https://img.finalfantasyxiv.com/lds/pc/global/images/itemicon/0d/0dd4af1f23b8f1d782bacfb905a67b491688414c.png?n6.05",
+                    "Name": "Wind Crystal",
+                    "Amount": 20,
+                    "Url": "/lodestone/playguide/db/item/5db117cd77b/"
+                },
+                {
+                    "Icon": "https://img.finalfantasyxiv.com/lds/pc/global/images/itemicon/d9/d9a4b77a07bb95bf2713ae233a0eececdf211e8b.png?n6.05",
+                    "Name": "Fire Crystal",
+                    "Amount": 20,
+                    "Url": "/lodestone/playguide/db/item/75403105d7f/"
+                },
+                {
+                    "Icon": "https://img.finalfantasyxiv.com/lds/pc/global/images/itemicon/a7/a71da2eb489188dbbfadd582938a0e761a9a0585.png?n6.05",
+                    "Name": "Ice Crystal",
+                    "Amount": 20,
+                    "Url": "/lodestone/playguide/db/item/2d800a06851/"
+                },
+                {
+                    "Icon": "https://img.finalfantasyxiv.com/lds/pc/global/images/itemicon/0d/0dd4af1f23b8f1d782bacfb905a67b491688414c.png?n6.05",
+                    "Name": "Wind Crystal",
+                    "Amount": 20,
+                    "Url": "/lodestone/playguide/db/item/5db117cd77b/"
+                },
+                {
+                    "Icon": "https://img.finalfantasyxiv.com/lds/pc/global/images/itemicon/16/16cd107e2bd1c45cee59e6b96ef02f2f6f68eac5.png?n6.05",
+                    "Name": "Earth Crystal",
+                    "Amount": 20,
+                    "Url": "/lodestone/playguide/db/item/ff6eae7bdcb/"
+                },
+                {
+                    "Icon": "https://img.finalfantasyxiv.com/lds/pc/global/images/itemicon/5d/5dd42eb2385a5e0d158b8fa81b63a09e4b25c821.png?n6.05",
+                    "Name": "Lightning Crystal",
+                    "Amount": 20,
+                    "Url": "/lodestone/playguide/db/item/b21a951916e/"
+                },
+                {
+                    "Icon": "https://img.finalfantasyxiv.com/lds/pc/global/images/itemicon/b5/b5eb0d9131d8f735a91286bdf2f877f0495e8235.png?n6.05",
+                    "Name": "Water Crystal",
+                    "Amount": 20,
+                    "Url": "/lodestone/playguide/db/item/44d3f4cb26b/"
+                },
+                {
+                    "Icon": "https://img.finalfantasyxiv.com/lds/pc/global/images/itemicon/d9/d9a4b77a07bb95bf2713ae233a0eececdf211e8b.png?n6.05",
+                    "Name": "Fire Crystal",
+                    "Amount": 20,
+                    "Url": "/lodestone/playguide/db/item/75403105d7f/"
+                },
+                {
+                    "Icon": "https://img.finalfantasyxiv.com/lds/pc/global/images/itemicon/d9/d9beff495b00ab597dbd0b268530571d803e6a2d.png?n6.05",
+                    "Name": "Cordial",
+                    "Amount": null,
+                    "Url": "/lodestone/playguide/db/item/2ff3e7e028c/"
+                },
+                {
+                    "Icon": "https://img.finalfantasyxiv.com/lds/pc/global/images/itemicon/d9/d9beff495b00ab597dbd0b268530571d803e6a2d.png?n6.05",
+                    "Name": "Cordial",
+                    "Amount": null,
+                    "Url": "/lodestone/playguide/db/item/2ff3e7e028c/"
+                },
+                {
+                    "Icon": "https://img.finalfantasyxiv.com/lds/pc/global/images/itemicon/d9/d9beff495b00ab597dbd0b268530571d803e6a2d.png?n6.05",
+                    "Name": "Cordial",
+                    "Amount": null,
+                    "Url": "/lodestone/playguide/db/item/2ff3e7e028c/"
+                }
+            ],
+            "ItemsOpt": []
+        },
+        "Infos": {
+            "RelatedNPC": [
+                {
+                    "Name": "Cumbersome Crate",
+                    "Url": "/lodestone/playguide/db/npc/npc/db19e049bba/",
+                    "Area": "The Azim Steppe (X:32.3 Y:17.6)"
+                },
+                {
+                    "Name": "Namazu Sculptor",
+                    "Url": "/lodestone/playguide/db/npc/npc/c9796e5ab82/",
+                    "Area": "The Azim Steppe (X:32.3 Y:17.6)"
+                }
+            ]
+        },
+        "Seq": 32,
+        "StartDependency": false
+    },
+    {
+        "ID": "bd14595c25f",
+        "Name": " Ready the Confetti",
+        "Location": "The Azim Steppe",
+        "Level": 60,
+        "JournalSection": 4,
+        "JournalCategory": 38,
+        "JournalGenre": "\n\t\t\t\t\t\t\tDaily Quests\n\t\t\t\t\t\t",
+        "Url": "/lodestone/playguide/db/quest/bd14595c25f/",
+        "Image": null,
+        "Icon": "common_repeat",
+        "Issuer": "Seigetsu The Enlightened",
+        "StartLocation": {
+            "Name": "The Azim Steppe",
+            "X": "5.8",
+            "Y": "23.4"
+        },
+        "StartClass": null,
+        "Job": "",
+        "Company": "Not specified",
+        "Requirement": "Not specified",
+        "Rewards": {
+            "Gil": 615,
+            "Exp": null,
+            "ItemsMand": [
+                {
+                    "Icon": "https://img.finalfantasyxiv.com/lds/pc/global/images/itemicon/0d/0dd4af1f23b8f1d782bacfb905a67b491688414c.png?n6.05",
+                    "Name": "Wind Crystal",
+                    "Amount": 20,
+                    "Url": "/lodestone/playguide/db/item/5db117cd77b/"
+                },
+                {
+                    "Icon": "https://img.finalfantasyxiv.com/lds/pc/global/images/itemicon/d9/d9a4b77a07bb95bf2713ae233a0eececdf211e8b.png?n6.05",
+                    "Name": "Fire Crystal",
+                    "Amount": 20,
+                    "Url": "/lodestone/playguide/db/item/75403105d7f/"
+                },
+                {
+                    "Icon": "https://img.finalfantasyxiv.com/lds/pc/global/images/itemicon/a7/a71da2eb489188dbbfadd582938a0e761a9a0585.png?n6.05",
+                    "Name": "Ice Crystal",
+                    "Amount": 20,
+                    "Url": "/lodestone/playguide/db/item/2d800a06851/"
+                },
+                {
+                    "Icon": "https://img.finalfantasyxiv.com/lds/pc/global/images/itemicon/0d/0dd4af1f23b8f1d782bacfb905a67b491688414c.png?n6.05",
+                    "Name": "Wind Crystal",
+                    "Amount": 20,
+                    "Url": "/lodestone/playguide/db/item/5db117cd77b/"
+                },
+                {
+                    "Icon": "https://img.finalfantasyxiv.com/lds/pc/global/images/itemicon/16/16cd107e2bd1c45cee59e6b96ef02f2f6f68eac5.png?n6.05",
+                    "Name": "Earth Crystal",
+                    "Amount": 20,
+                    "Url": "/lodestone/playguide/db/item/ff6eae7bdcb/"
+                },
+                {
+                    "Icon": "https://img.finalfantasyxiv.com/lds/pc/global/images/itemicon/5d/5dd42eb2385a5e0d158b8fa81b63a09e4b25c821.png?n6.05",
+                    "Name": "Lightning Crystal",
+                    "Amount": 20,
+                    "Url": "/lodestone/playguide/db/item/b21a951916e/"
+                },
+                {
+                    "Icon": "https://img.finalfantasyxiv.com/lds/pc/global/images/itemicon/b5/b5eb0d9131d8f735a91286bdf2f877f0495e8235.png?n6.05",
+                    "Name": "Water Crystal",
+                    "Amount": 20,
+                    "Url": "/lodestone/playguide/db/item/44d3f4cb26b/"
+                },
+                {
+                    "Icon": "https://img.finalfantasyxiv.com/lds/pc/global/images/itemicon/d9/d9a4b77a07bb95bf2713ae233a0eececdf211e8b.png?n6.05",
+                    "Name": "Fire Crystal",
+                    "Amount": 20,
+                    "Url": "/lodestone/playguide/db/item/75403105d7f/"
+                },
+                {
+                    "Icon": "https://img.finalfantasyxiv.com/lds/pc/global/images/itemicon/d9/d9beff495b00ab597dbd0b268530571d803e6a2d.png?n6.05",
+                    "Name": "Cordial",
+                    "Amount": null,
+                    "Url": "/lodestone/playguide/db/item/2ff3e7e028c/"
+                },
+                {
+                    "Icon": "https://img.finalfantasyxiv.com/lds/pc/global/images/itemicon/d9/d9beff495b00ab597dbd0b268530571d803e6a2d.png?n6.05",
+                    "Name": "Cordial",
+                    "Amount": null,
+                    "Url": "/lodestone/playguide/db/item/2ff3e7e028c/"
+                },
+                {
+                    "Icon": "https://img.finalfantasyxiv.com/lds/pc/global/images/itemicon/d9/d9beff495b00ab597dbd0b268530571d803e6a2d.png?n6.05",
+                    "Name": "Cordial",
+                    "Amount": null,
+                    "Url": "/lodestone/playguide/db/item/2ff3e7e028c/"
+                }
+            ],
+            "ItemsOpt": []
+        },
+        "Infos": {
+            "RelatedNPC": [
+                {
+                    "Name": "Cumbersome Crate",
+                    "Url": "/lodestone/playguide/db/npc/npc/c371980f894/",
+                    "Area": "The Azim Steppe (X:26.9 Y:27.0)"
+                },
+                {
+                    "Name": "Namazu Papermaker",
+                    "Url": "/lodestone/playguide/db/npc/npc/1e415fd5b28/",
+                    "Area": "The Azim Steppe (X:26.9 Y:27.0)"
+                }
+            ]
+        },
+        "Seq": 22,
+        "StartDependency": false
+    },
+    {
+        "ID": "c6cb3ea9741",
+        "Name": " Pilgrim's Regress",
+        "Location": "The Azim Steppe",
+        "Level": 60,
+        "JournalSection": 4,
+        "JournalCategory": 38,
+        "JournalGenre": "\n\t\t\t\t\t\t\tDaily Quests\n\t\t\t\t\t\t",
+        "Url": "/lodestone/playguide/db/quest/c6cb3ea9741/",
+        "Image": null,
+        "Icon": "common_repeat",
+        "Issuer": "Seigetsu The Enlightened",
+        "StartLocation": {
+            "Name": "The Azim Steppe",
+            "X": "5.8",
+            "Y": "23.4"
+        },
+        "StartClass": null,
+        "Job": "",
+        "Company": "Not specified",
+        "Requirement": "Not specified",
+        "Rewards": {
+            "Gil": 550,
+            "Exp": null,
+            "ItemsMand": [],
+            "ItemsOpt": []
+        },
+        "Infos": {
+            "RelatedNPC": [
+                {
+                    "Name": "Chakha Zoh Guard",
+                    "Url": "/lodestone/playguide/db/npc/npc/4aa5e100ef3/",
+                    "Area": "The Azim Steppe (X:19.9 Y:13.0)"
+                },
+                {
+                    "Name": "Namazu Pilgrim",
+                    "Url": "/lodestone/playguide/db/npc/npc/1d285eeb081/",
+                    "Area": "The Azim Steppe (X:35.9 Y:12.9)"
+                }
+            ]
+        },
+        "Seq": 8,
+        "StartDependency": false
+    },
+    {
+        "ID": "cc69384e776",
+        "Name": " Disciples of Creation",
+        "Location": "The Azim Steppe",
+        "Level": 60,
+        "JournalSection": 4,
+        "JournalCategory": 38,
+        "JournalGenre": "\n\t\t\t\t\t\t\tMain Quests\n\t\t\t\t\t\t",
+        "Url": "/lodestone/playguide/db/quest/cc69384e776/",
+        "Image": "https://img.finalfantasyxiv.com/lds/pc/global/images/itemicon/8a/8ab813a7bb49b99132af398a8af3eba92ca95a64.png?n6.05",
+        "Icon": "function_normal",
+        "Issuer": "Gyoshin",
+        "StartLocation": {
+            "Name": "The Azim Steppe",
+            "X": "6.1",
+            "Y": "23.3"
+        },
+        "StartClass": null,
+        "Job": "",
+        "Company": "Not specified",
+        "Requirement": "Not specified",
+        "Rewards": {
+            "Gil": 810,
+            "Exp": null,
+            "ItemsMand": [
+                {
+                    "Icon": "https://img.finalfantasyxiv.com/lds/pc/global/images/itemicon/fb/fb000afa3b641a86f1f443904fff67f28e2c5b11.png?n6.05",
+                    "Name": "",
+                    "Amount": null
+                }
+            ],
+            "ItemsOpt": []
+        },
+        "Infos": {
+            "PrerequisiteQuest": [
+                {
+                    "Name": " Into the Fire",
+                    "Url": "/lodestone/playguide/db/quest/1c400698842/",
+                    "Area": "The Azim Steppe",
+                    "Level": "60"
+                }
+            ],
+            "FollowupQuest": [
+                {
+                    "Name": "The Ananta Maid's Tail",
+                    "Url": "/lodestone/playguide/db/quest/cd6b17e9dfb/",
+                    "Area": "Kugane",
+                    "Level": "70"
+                }
+            ],
+            "RelatedNPC": [
+                {
+                    "Name": "Cirina",
+                    "Url": "/lodestone/playguide/db/npc/npc/077102a4b03/",
+                    "Area": "The Azim Steppe (X:31.4 Y:11.3)"
+                },
+                {
+                    "Name": "Gyorei",
+                    "Url": "/lodestone/playguide/db/npc/npc/30c3f1b050a/",
+                    "Area": "The Azim Steppe (X:5.8 Y:23.5)"
+                },
+                {
+                    "Name": "Gyoshin",
+                    "Url": "/lodestone/playguide/db/npc/npc/738575252fa/",
+                    "Area": "The Azim Steppe (X:31.4 Y:11.3)"
+                },
+                {
+                    "Name": "Gyoshin",
+                    "Url": "/lodestone/playguide/db/npc/npc/614f6bb4371/",
+                    "Area": "The Azim Steppe (X:20.7 Y:22.7)"
+                },
+                {
+                    "Name": "Gyoshin",
+                    "Url": "/lodestone/playguide/db/npc/npc/15652258178/",
+                    "Area": "The Azim Steppe (X:12.5 Y:34.0)"
+                },
+                {
+                    "Name": "Gyoshin",
+                    "Url": "/lodestone/playguide/db/npc/npc/ab221b27c35/",
+                    "Area": "The Azim Steppe (X:5.6 Y:23.9)"
+                },
+                {
+                    "Name": "Magnai",
+                    "Url": "/lodestone/playguide/db/npc/npc/89c029f2d8a/",
+                    "Area": "The Azim Steppe (X:20.6 Y:22.7)"
+                },
+                {
+                    "Name": "Sadu",
+                    "Url": "/lodestone/playguide/db/npc/npc/2b121b486a0/",
+                    "Area": "The Azim Steppe (X:12.5 Y:34.1)"
+                }
+            ]
+        },
+        "Seq": 6,
+        "StartDependency": false
+    },
+    {
+        "ID": "d5db4b1a1f3",
+        "Name": " A Favor Repaid",
+        "Location": "The Azim Steppe",
+        "Level": 60,
+        "JournalSection": 4,
+        "JournalCategory": 38,
+        "JournalGenre": "\n\t\t\t\t\t\t\tDaily Quests\n\t\t\t\t\t\t",
+        "Url": "/lodestone/playguide/db/quest/d5db4b1a1f3/",
+        "Image": null,
+        "Icon": "common_repeat",
+        "Issuer": "Seigetsu The Enlightened",
+        "StartLocation": {
+            "Name": "The Azim Steppe",
+            "X": "5.8",
+            "Y": "23.4"
+        },
+        "StartClass": null,
+        "Job": "",
+        "Company": "Not specified",
+        "Requirement": "Not specified",
+        "Rewards": {
+            "Gil": 615,
+            "Exp": null,
+            "ItemsMand": [
+                {
+                    "Icon": "https://img.finalfantasyxiv.com/lds/pc/global/images/itemicon/0d/0dd4af1f23b8f1d782bacfb905a67b491688414c.png?n6.05",
+                    "Name": "Wind Crystal",
+                    "Amount": 20,
+                    "Url": "/lodestone/playguide/db/item/5db117cd77b/"
+                },
+                {
+                    "Icon": "https://img.finalfantasyxiv.com/lds/pc/global/images/itemicon/d9/d9a4b77a07bb95bf2713ae233a0eececdf211e8b.png?n6.05",
+                    "Name": "Fire Crystal",
+                    "Amount": 20,
+                    "Url": "/lodestone/playguide/db/item/75403105d7f/"
+                },
+                {
+                    "Icon": "https://img.finalfantasyxiv.com/lds/pc/global/images/itemicon/a7/a71da2eb489188dbbfadd582938a0e761a9a0585.png?n6.05",
+                    "Name": "Ice Crystal",
+                    "Amount": 20,
+                    "Url": "/lodestone/playguide/db/item/2d800a06851/"
+                },
+                {
+                    "Icon": "https://img.finalfantasyxiv.com/lds/pc/global/images/itemicon/0d/0dd4af1f23b8f1d782bacfb905a67b491688414c.png?n6.05",
+                    "Name": "Wind Crystal",
+                    "Amount": 20,
+                    "Url": "/lodestone/playguide/db/item/5db117cd77b/"
+                },
+                {
+                    "Icon": "https://img.finalfantasyxiv.com/lds/pc/global/images/itemicon/16/16cd107e2bd1c45cee59e6b96ef02f2f6f68eac5.png?n6.05",
+                    "Name": "Earth Crystal",
+                    "Amount": 20,
+                    "Url": "/lodestone/playguide/db/item/ff6eae7bdcb/"
+                },
+                {
+                    "Icon": "https://img.finalfantasyxiv.com/lds/pc/global/images/itemicon/5d/5dd42eb2385a5e0d158b8fa81b63a09e4b25c821.png?n6.05",
+                    "Name": "Lightning Crystal",
+                    "Amount": 20,
+                    "Url": "/lodestone/playguide/db/item/b21a951916e/"
+                },
+                {
+                    "Icon": "https://img.finalfantasyxiv.com/lds/pc/global/images/itemicon/b5/b5eb0d9131d8f735a91286bdf2f877f0495e8235.png?n6.05",
+                    "Name": "Water Crystal",
+                    "Amount": 20,
+                    "Url": "/lodestone/playguide/db/item/44d3f4cb26b/"
+                },
+                {
+                    "Icon": "https://img.finalfantasyxiv.com/lds/pc/global/images/itemicon/d9/d9a4b77a07bb95bf2713ae233a0eececdf211e8b.png?n6.05",
+                    "Name": "Fire Crystal",
+                    "Amount": 20,
+                    "Url": "/lodestone/playguide/db/item/75403105d7f/"
+                },
+                {
+                    "Icon": "https://img.finalfantasyxiv.com/lds/pc/global/images/itemicon/d9/d9beff495b00ab597dbd0b268530571d803e6a2d.png?n6.05",
+                    "Name": "Cordial",
+                    "Amount": null,
+                    "Url": "/lodestone/playguide/db/item/2ff3e7e028c/"
+                },
+                {
+                    "Icon": "https://img.finalfantasyxiv.com/lds/pc/global/images/itemicon/d9/d9beff495b00ab597dbd0b268530571d803e6a2d.png?n6.05",
+                    "Name": "Cordial",
+                    "Amount": null,
+                    "Url": "/lodestone/playguide/db/item/2ff3e7e028c/"
+                },
+                {
+                    "Icon": "https://img.finalfantasyxiv.com/lds/pc/global/images/itemicon/d9/d9beff495b00ab597dbd0b268530571d803e6a2d.png?n6.05",
+                    "Name": "Cordial",
+                    "Amount": null,
+                    "Url": "/lodestone/playguide/db/item/2ff3e7e028c/"
+                }
+            ],
+            "ItemsOpt": []
+        },
+        "Infos": {
+            "RelatedNPC": [
+                {
+                    "Name": "Cumbersome Crate",
+                    "Url": "/lodestone/playguide/db/npc/npc/1734d3eccb1/",
+                    "Area": "The Azim Steppe (X:23.2 Y:34.5)"
+                },
+                {
+                    "Name": "Namazu Culinarian",
+                    "Url": "/lodestone/playguide/db/npc/npc/f98ff324ce3/",
+                    "Area": "The Azim Steppe (X:23.2 Y:34.5)"
+                }
+            ]
+        },
+        "Seq": 29,
+        "StartDependency": false
+    },
+    {
+        "ID": "ecab3e4a2c7",
+        "Name": " Cannot Say Neigh",
+        "Location": "The Azim Steppe",
+        "Level": 60,
+        "JournalSection": 4,
+        "JournalCategory": 38,
+        "JournalGenre": "\n\t\t\t\t\t\t\tDaily Quests\n\t\t\t\t\t\t",
+        "Url": "/lodestone/playguide/db/quest/ecab3e4a2c7/",
+        "Image": null,
+        "Icon": "common_repeat",
+        "Issuer": "Seigetsu The Enlightened",
+        "StartLocation": {
+            "Name": "The Azim Steppe",
+            "X": "5.8",
+            "Y": "23.4"
+        },
+        "StartClass": null,
+        "Job": "",
+        "Company": "Not specified",
+        "Requirement": "Not specified",
+        "Rewards": {
+            "Gil": 615,
+            "Exp": null,
+            "ItemsMand": [],
+            "ItemsOpt": []
+        },
+        "Infos": {
+            "RelatedNPC": [
+                {
+                    "Name": "Mol Horse Handler",
+                    "Url": "/lodestone/playguide/db/npc/npc/a3d26b362bb/",
+                    "Area": "The Azim Steppe (X:16.8 Y:14.8)"
+                },
+                {
+                    "Name": "Namazu Horse Enthusiast",
+                    "Url": "/lodestone/playguide/db/npc/npc/d13d9c3e71d/",
+                    "Area": "The Azim Steppe (X:9.2 Y:24.2)"
+                }
+            ]
+        },
+        "Seq": 27,
+        "StartDependency": false
+    },
+    {
+        "ID": "f41e68b8c6d",
+        "Name": " Wood You Believe It",
+        "Location": "The Azim Steppe",
+        "Level": 60,
+        "JournalSection": 4,
+        "JournalCategory": 38,
+        "JournalGenre": "\n\t\t\t\t\t\t\tDaily Quests\n\t\t\t\t\t\t",
+        "Url": "/lodestone/playguide/db/quest/f41e68b8c6d/",
+        "Image": null,
+        "Icon": "common_repeat",
+        "Issuer": "Seigetsu The Enlightened",
+        "StartLocation": {
+            "Name": "The Azim Steppe",
+            "X": "5.8",
+            "Y": "23.4"
+        },
+        "StartClass": null,
+        "Job": "",
+        "Company": "Not specified",
+        "Requirement": "Not specified",
+        "Rewards": {
+            "Gil": 680,
+            "Exp": null,
+            "ItemsMand": [
+                {
+                    "Icon": "https://img.finalfantasyxiv.com/lds/pc/global/images/itemicon/0d/0dd4af1f23b8f1d782bacfb905a67b491688414c.png?n6.05",
+                    "Name": "Wind Crystal",
+                    "Amount": 20,
+                    "Url": "/lodestone/playguide/db/item/5db117cd77b/"
+                },
+                {
+                    "Icon": "https://img.finalfantasyxiv.com/lds/pc/global/images/itemicon/d9/d9a4b77a07bb95bf2713ae233a0eececdf211e8b.png?n6.05",
+                    "Name": "Fire Crystal",
+                    "Amount": 20,
+                    "Url": "/lodestone/playguide/db/item/75403105d7f/"
+                },
+                {
+                    "Icon": "https://img.finalfantasyxiv.com/lds/pc/global/images/itemicon/a7/a71da2eb489188dbbfadd582938a0e761a9a0585.png?n6.05",
+                    "Name": "Ice Crystal",
+                    "Amount": 20,
+                    "Url": "/lodestone/playguide/db/item/2d800a06851/"
+                },
+                {
+                    "Icon": "https://img.finalfantasyxiv.com/lds/pc/global/images/itemicon/0d/0dd4af1f23b8f1d782bacfb905a67b491688414c.png?n6.05",
+                    "Name": "Wind Crystal",
+                    "Amount": 20,
+                    "Url": "/lodestone/playguide/db/item/5db117cd77b/"
+                },
+                {
+                    "Icon": "https://img.finalfantasyxiv.com/lds/pc/global/images/itemicon/16/16cd107e2bd1c45cee59e6b96ef02f2f6f68eac5.png?n6.05",
+                    "Name": "Earth Crystal",
+                    "Amount": 20,
+                    "Url": "/lodestone/playguide/db/item/ff6eae7bdcb/"
+                },
+                {
+                    "Icon": "https://img.finalfantasyxiv.com/lds/pc/global/images/itemicon/5d/5dd42eb2385a5e0d158b8fa81b63a09e4b25c821.png?n6.05",
+                    "Name": "Lightning Crystal",
+                    "Amount": 20,
+                    "Url": "/lodestone/playguide/db/item/b21a951916e/"
+                },
+                {
+                    "Icon": "https://img.finalfantasyxiv.com/lds/pc/global/images/itemicon/b5/b5eb0d9131d8f735a91286bdf2f877f0495e8235.png?n6.05",
+                    "Name": "Water Crystal",
+                    "Amount": 20,
+                    "Url": "/lodestone/playguide/db/item/44d3f4cb26b/"
+                },
+                {
+                    "Icon": "https://img.finalfantasyxiv.com/lds/pc/global/images/itemicon/d9/d9a4b77a07bb95bf2713ae233a0eececdf211e8b.png?n6.05",
+                    "Name": "Fire Crystal",
+                    "Amount": 20,
+                    "Url": "/lodestone/playguide/db/item/75403105d7f/"
+                },
+                {
+                    "Icon": "https://img.finalfantasyxiv.com/lds/pc/global/images/itemicon/d9/d9beff495b00ab597dbd0b268530571d803e6a2d.png?n6.05",
+                    "Name": "Cordial",
+                    "Amount": null,
+                    "Url": "/lodestone/playguide/db/item/2ff3e7e028c/"
+                },
+                {
+                    "Icon": "https://img.finalfantasyxiv.com/lds/pc/global/images/itemicon/d9/d9beff495b00ab597dbd0b268530571d803e6a2d.png?n6.05",
+                    "Name": "Cordial",
+                    "Amount": null,
+                    "Url": "/lodestone/playguide/db/item/2ff3e7e028c/"
+                },
+                {
+                    "Icon": "https://img.finalfantasyxiv.com/lds/pc/global/images/itemicon/d9/d9beff495b00ab597dbd0b268530571d803e6a2d.png?n6.05",
+                    "Name": "Cordial",
+                    "Amount": null,
+                    "Url": "/lodestone/playguide/db/item/2ff3e7e028c/"
+                }
+            ],
+            "ItemsOpt": []
+        },
+        "Infos": {
+            "RelatedNPC": [
+                {
+                    "Name": "Cumbersome Crate",
+                    "Url": "/lodestone/playguide/db/npc/npc/8218690aeee/",
+                    "Area": "The Azim Steppe (X:32.9 Y:30.0)"
+                },
+                {
+                    "Name": "Gyorin",
+                    "Url": "/lodestone/playguide/db/npc/npc/045692b537a/",
+                    "Area": "The Azim Steppe (X:32.9 Y:30.0)"
+                }
+            ]
+        },
+        "Seq": 14,
+        "StartDependency": false
+    },
+    {
+        "ID": "fce2567ed72",
+        "Name": " Taking the Plunge",
+        "Location": "The Azim Steppe",
+        "Level": 60,
+        "JournalSection": 4,
+        "JournalCategory": 38,
+        "JournalGenre": "\n\t\t\t\t\t\t\tDaily Quests\n\t\t\t\t\t\t",
+        "Url": "/lodestone/playguide/db/quest/fce2567ed72/",
+        "Image": null,
+        "Icon": "common_repeat",
+        "Issuer": "Seigetsu The Enlightened",
+        "StartLocation": {
+            "Name": "The Azim Steppe",
+            "X": "5.8",
+            "Y": "23.4"
+        },
+        "StartClass": null,
+        "Job": "",
+        "Company": "Not specified",
+        "Requirement": "Not specified",
+        "Rewards": {
+            "Gil": 615,
+            "Exp": null,
+            "ItemsMand": [
+                {
+                    "Icon": "https://img.finalfantasyxiv.com/lds/pc/global/images/itemicon/0d/0dd4af1f23b8f1d782bacfb905a67b491688414c.png?n6.05",
+                    "Name": "Wind Crystal",
+                    "Amount": 20,
+                    "Url": "/lodestone/playguide/db/item/5db117cd77b/"
+                },
+                {
+                    "Icon": "https://img.finalfantasyxiv.com/lds/pc/global/images/itemicon/d9/d9a4b77a07bb95bf2713ae233a0eececdf211e8b.png?n6.05",
+                    "Name": "Fire Crystal",
+                    "Amount": 20,
+                    "Url": "/lodestone/playguide/db/item/75403105d7f/"
+                },
+                {
+                    "Icon": "https://img.finalfantasyxiv.com/lds/pc/global/images/itemicon/a7/a71da2eb489188dbbfadd582938a0e761a9a0585.png?n6.05",
+                    "Name": "Ice Crystal",
+                    "Amount": 20,
+                    "Url": "/lodestone/playguide/db/item/2d800a06851/"
+                },
+                {
+                    "Icon": "https://img.finalfantasyxiv.com/lds/pc/global/images/itemicon/0d/0dd4af1f23b8f1d782bacfb905a67b491688414c.png?n6.05",
+                    "Name": "Wind Crystal",
+                    "Amount": 20,
+                    "Url": "/lodestone/playguide/db/item/5db117cd77b/"
+                },
+                {
+                    "Icon": "https://img.finalfantasyxiv.com/lds/pc/global/images/itemicon/16/16cd107e2bd1c45cee59e6b96ef02f2f6f68eac5.png?n6.05",
+                    "Name": "Earth Crystal",
+                    "Amount": 20,
+                    "Url": "/lodestone/playguide/db/item/ff6eae7bdcb/"
+                },
+                {
+                    "Icon": "https://img.finalfantasyxiv.com/lds/pc/global/images/itemicon/5d/5dd42eb2385a5e0d158b8fa81b63a09e4b25c821.png?n6.05",
+                    "Name": "Lightning Crystal",
+                    "Amount": 20,
+                    "Url": "/lodestone/playguide/db/item/b21a951916e/"
+                },
+                {
+                    "Icon": "https://img.finalfantasyxiv.com/lds/pc/global/images/itemicon/b5/b5eb0d9131d8f735a91286bdf2f877f0495e8235.png?n6.05",
+                    "Name": "Water Crystal",
+                    "Amount": 20,
+                    "Url": "/lodestone/playguide/db/item/44d3f4cb26b/"
+                },
+                {
+                    "Icon": "https://img.finalfantasyxiv.com/lds/pc/global/images/itemicon/d9/d9a4b77a07bb95bf2713ae233a0eececdf211e8b.png?n6.05",
+                    "Name": "Fire Crystal",
+                    "Amount": 20,
+                    "Url": "/lodestone/playguide/db/item/75403105d7f/"
+                },
+                {
+                    "Icon": "https://img.finalfantasyxiv.com/lds/pc/global/images/itemicon/d9/d9beff495b00ab597dbd0b268530571d803e6a2d.png?n6.05",
+                    "Name": "Cordial",
+                    "Amount": null,
+                    "Url": "/lodestone/playguide/db/item/2ff3e7e028c/"
+                },
+                {
+                    "Icon": "https://img.finalfantasyxiv.com/lds/pc/global/images/itemicon/d9/d9beff495b00ab597dbd0b268530571d803e6a2d.png?n6.05",
+                    "Name": "Cordial",
+                    "Amount": null,
+                    "Url": "/lodestone/playguide/db/item/2ff3e7e028c/"
+                },
+                {
+                    "Icon": "https://img.finalfantasyxiv.com/lds/pc/global/images/itemicon/d9/d9beff495b00ab597dbd0b268530571d803e6a2d.png?n6.05",
+                    "Name": "Cordial",
+                    "Amount": null,
+                    "Url": "/lodestone/playguide/db/item/2ff3e7e028c/"
+                }
+            ],
+            "ItemsOpt": []
+        },
+        "Infos": {
+            "RelatedNPC": [
+                {
+                    "Name": "Cumbersome Crate",
+                    "Url": "/lodestone/playguide/db/npc/npc/ed18d56979e/",
+                    "Area": "The Azim Steppe (X:23.3 Y:24.3)"
+                },
+                {
+                    "Name": "Nervous Namazu",
+                    "Url": "/lodestone/playguide/db/npc/npc/ca08b460462/",
+                    "Area": "The Azim Steppe (X:25.4 Y:22.3)"
+                },
+                {
+                    "Name": "Nervous Namazu",
+                    "Url": "/lodestone/playguide/db/npc/npc/b876cc02966/",
+                    "Area": "The Azim Steppe (X:23.3 Y:24.3)"
+                },
+                {
+                    "Name": "Nervous Namazu",
+                    "Url": "/lodestone/playguide/db/npc/npc/8daabff01e5/",
+                    "Area": "The Azim Steppe (X:21.4 Y:25.9)"
+                },
+                {
+                    "Name": "Nervous Namazu",
+                    "Url": "/lodestone/playguide/db/npc/npc/88316410122/",
+                    "Area": "The Azim Steppe (X:18.5 Y:26.2)"
+                }
+            ]
+        },
+        "Seq": 33,
+        "StartDependency": false
+    }
+]

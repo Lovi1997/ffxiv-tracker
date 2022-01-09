@@ -1,0 +1,3067 @@
+[
+    {
+        "ID": "03649a948f2",
+        "Name": "Das Zepter aufnehmen",
+        "Location": "Ul'dah",
+        "Level": 1,
+        "JournalSection": 6,
+        "JournalCategory": 65,
+        "JournalGenre": "\n\t\t\t\t\t\t\tGildenaufträge der Thaumaturgen\n\t\t\t\t\t\t",
+        "Url": "/lodestone/playguide/db/quest/03649a948f2/",
+        "Image": "https://img.finalfantasyxiv.com/lds/pc/global/images/itemicon/1d/1d1b5d0c860020b0cc0010c1e27fdadc20978d0d.png?n6.05",
+        "Icon": "function_normal",
+        "Issuer": "Cocobuki",
+        "StartLocation": {
+            "Name": "Nald-Kreuzgang",
+            "X": "6.2",
+            "Y": "12.8"
+        },
+        "StartClass": null,
+        "Job": "",
+        "Company": "Keine Angabe",
+        "Requirement": "Keine Angabe",
+        "Rewards": {
+            "Gil": 115,
+            "Exp": 400,
+            "ItemsMand": [],
+            "ItemsOpt": []
+        },
+        "Infos": {
+            "PrerequisiteQuest": [
+                {
+                    "Name": "Der Weg des Thaumaturgen",
+                    "Url": "/lodestone/playguide/db/quest/eb9c9e119b8/",
+                    "Area": "Ul'dah",
+                    "Level": "1"
+                }
+            ],
+            "FollowupQuest": [
+                {
+                    "Name": "Die Gefahr der Nähe",
+                    "Url": "/lodestone/playguide/db/quest/dcd9ff9ecab/",
+                    "Area": "Ul'dah",
+                    "Level": "5"
+                },
+                {
+                    "Name": "Die Gefahr des Mangels",
+                    "Url": "/lodestone/playguide/db/quest/f76d7f00695/",
+                    "Area": "Ul'dah",
+                    "Level": "10"
+                }
+            ]
+        },
+        "Seq": 12,
+        "StartDependency": false
+    },
+    {
+        "ID": "04b16d95faa",
+        "Name": "Schwing das Tanzbein",
+        "Location": "Limsa Lominsa",
+        "Level": 25,
+        "JournalSection": 6,
+        "JournalCategory": 65,
+        "JournalGenre": "\n\t\t\t\t\t\t\tGildenaufträge der Hermetiker\n\t\t\t\t\t\t",
+        "Url": "/lodestone/playguide/db/quest/04b16d95faa/",
+        "Image": "https://img.finalfantasyxiv.com/lds/pc/global/images/itemicon/37/37a8d65a8cae978d922a694a4d310979ed6e119d.png?n6.05",
+        "Icon": "function_normal",
+        "Issuer": "Thubyrgeim",
+        "StartLocation": {
+            "Name": "Untere Decks",
+            "X": "4.7",
+            "Y": "11.4"
+        },
+        "StartClass": null,
+        "Job": "",
+        "Company": "Keine Angabe",
+        "Requirement": "Keine Angabe",
+        "Rewards": {
+            "Gil": 0,
+            "Exp": 8160,
+            "ItemsMand": [
+                {
+                    "Icon": "https://img.finalfantasyxiv.com/lds/pc/global/images/itemicon/8e/8eba20d8125b8d43739b3827129668f01a939b3f.png?n6.05",
+                    "Name": "Eiben-Picatrix",
+                    "Amount": 1,
+                    "Url": "/lodestone/playguide/db/item/cd79e0f8bfe/"
+                }
+            ],
+            "ItemsOpt": [
+                {
+                    "Icon": "https://img.finalfantasyxiv.com/lds/pc/global/images/itemicon/41/41deb8902fa97efbe336bca0ad88d21e90222af4.png?n6.05",
+                    "Name": "Baumwollhalbrobe",
+                    "Amount": 1,
+                    "Url": "/lodestone/playguide/db/item/481569f6b36/"
+                },
+                {
+                    "Icon": "https://img.finalfantasyxiv.com/lds/pc/global/images/itemicon/a8/a89462b016b37b75e217594745efcaeb8ee9d979.png?n6.05",
+                    "Name": "Steinbockleder-Ringbänder",
+                    "Amount": 1,
+                    "Url": "/lodestone/playguide/db/item/daab61f0e7a/"
+                },
+                {
+                    "Icon": "https://img.finalfantasyxiv.com/lds/pc/global/images/itemicon/9f/9f2a05a9e40f5f2df851b84971b0886ed3c1c168.png?n6.05",
+                    "Name": "Bearbeitete Steinbockleder-Mokassins",
+                    "Amount": 1,
+                    "Url": "/lodestone/playguide/db/item/0fbd132df7a/"
+                },
+                {
+                    "Icon": "https://img.finalfantasyxiv.com/lds/pc/global/images/itemicon/27/2701179b695926afcb6298e45a9283633fda5365.png?n6.05",
+                    "Name": "Silberbrille",
+                    "Amount": 1,
+                    "Url": "/lodestone/playguide/db/item/cee1b0ae6d4/"
+                },
+                {
+                    "Icon": "https://img.finalfantasyxiv.com/lds/pc/global/images/itemicon/ba/baa2341dd17414fae7fd62ae7bc62c64589b67be.png?n6.05",
+                    "Name": "Allagisches Silberstück",
+                    "Amount": 1,
+                    "Url": "/lodestone/playguide/db/item/a3ac3ba4b00/"
+                }
+            ]
+        },
+        "Infos": {
+            "PrerequisiteQuest": [
+                {
+                    "Name": "Auf eigene Faust",
+                    "Url": "/lodestone/playguide/db/quest/12096c4c006/",
+                    "Area": "Limsa Lominsa",
+                    "Level": "20"
+                }
+            ],
+            "FollowupQuest": [
+                {
+                    "Name": "Geschickt eingefädelt",
+                    "Url": "/lodestone/playguide/db/quest/45ea45aff3a/",
+                    "Area": "Limsa Lominsa",
+                    "Level": "30"
+                }
+            ],
+            "RelatedNPC": [
+                {
+                    "Name": "K'lyhia",
+                    "Url": "/lodestone/playguide/db/npc/npc/26a5a0f2b8f/",
+                    "Area": "Obere Decks (X:7.4 Y:14.7)"
+                },
+                {
+                    "Name": "Augenzeuge",
+                    "Url": "/lodestone/playguide/db/npc/npc/4e076e7d712/",
+                    "Area": "Oberes La Noscea (X:15.2 Y:24.0)"
+                },
+                {
+                    "Name": "Memeroon",
+                    "Url": "/lodestone/playguide/db/npc/npc/f6c42e1cd57/",
+                    "Area": "Oberes La Noscea (X:14.7 Y:24.3)"
+                },
+                {
+                    "Name": "Tanga Tonga",
+                    "Url": "/lodestone/playguide/db/npc/npc/3d622b62881/",
+                    "Area": "Oberes La Noscea (X:12.4 Y:22.9)"
+                }
+            ]
+        },
+        "Seq": 29,
+        "StartDependency": false
+    },
+    {
+        "ID": "12096c4c006",
+        "Name": "Auf eigene Faust",
+        "Location": "Limsa Lominsa",
+        "Level": 20,
+        "JournalSection": 6,
+        "JournalCategory": 65,
+        "JournalGenre": "\n\t\t\t\t\t\t\tGildenaufträge der Hermetiker\n\t\t\t\t\t\t",
+        "Url": "/lodestone/playguide/db/quest/12096c4c006/",
+        "Image": "https://img.finalfantasyxiv.com/lds/pc/global/images/itemicon/37/37a8d65a8cae978d922a694a4d310979ed6e119d.png?n6.05",
+        "Icon": "function_normal",
+        "Issuer": "Thubyrgeim",
+        "StartLocation": {
+            "Name": "Untere Decks",
+            "X": "4.7",
+            "Y": "11.4"
+        },
+        "StartClass": null,
+        "Job": "",
+        "Company": "Keine Angabe",
+        "Requirement": "Keine Angabe",
+        "Rewards": {
+            "Gil": 0,
+            "Exp": 6960,
+            "ItemsMand": [
+                {
+                    "Icon": "https://img.finalfantasyxiv.com/lds/pc/global/images/itemicon/4f/4fa675a3a143dc9208677e23e0a730217bc2d594.png?n6.05",
+                    "Name": "Verziertes Juchleder-Grimoire",
+                    "Amount": 1,
+                    "Url": "/lodestone/playguide/db/item/f3feed6403c/"
+                }
+            ],
+            "ItemsOpt": [
+                {
+                    "Icon": "https://img.finalfantasyxiv.com/lds/pc/global/images/itemicon/74/74537f0e8b1c6cbe81537ec7e7fc6025a3ef15bc.png?n6.05",
+                    "Name": "Bearbeitete Baumwoll-Dalmatika",
+                    "Amount": 1,
+                    "Url": "/lodestone/playguide/db/item/8b9402ac099/"
+                },
+                {
+                    "Icon": "https://img.finalfantasyxiv.com/lds/pc/global/images/itemicon/d6/d65d413859c8abe42910311fa769a4b597dd92e0.png?n6.05",
+                    "Name": "Lapislazuli-Eschenmaske",
+                    "Amount": 1,
+                    "Url": "/lodestone/playguide/db/item/2fee071d2ba/"
+                },
+                {
+                    "Icon": "https://img.finalfantasyxiv.com/lds/pc/global/images/itemicon/60/60115f75612a55f769aa69e85881fd0ce7db6602.png?n6.05",
+                    "Name": "Baumwoll-Galahandschuhe",
+                    "Amount": 1,
+                    "Url": "/lodestone/playguide/db/item/7a2235916a2/"
+                },
+                {
+                    "Icon": "https://img.finalfantasyxiv.com/lds/pc/global/images/itemicon/cb/cbec7f73f54c894a93f0d0e4e123011ab7691069.png?n6.05",
+                    "Name": "Baumwoll-Galaschuhe",
+                    "Amount": 1,
+                    "Url": "/lodestone/playguide/db/item/cd59c1eadea/"
+                },
+                {
+                    "Icon": "https://img.finalfantasyxiv.com/lds/pc/global/images/itemicon/ba/baa2341dd17414fae7fd62ae7bc62c64589b67be.png?n6.05",
+                    "Name": "Allagisches Bronzestück",
+                    "Amount": 5,
+                    "Url": "/lodestone/playguide/db/item/ce2e67f0442/"
+                }
+            ]
+        },
+        "Infos": {
+            "PrerequisiteQuest": [
+                {
+                    "Name": "Ankunft der Morgenstern",
+                    "Url": "/lodestone/playguide/db/quest/f9107663c73/",
+                    "Area": "Limsa Lominsa",
+                    "Level": "15"
+                }
+            ],
+            "FollowupQuest": [
+                {
+                    "Name": "Schwing das Tanzbein",
+                    "Url": "/lodestone/playguide/db/quest/04b16d95faa/",
+                    "Area": "Limsa Lominsa",
+                    "Level": "25"
+                }
+            ],
+            "RelatedNPC": [
+                {
+                    "Name": "Ginnade",
+                    "Url": "/lodestone/playguide/db/npc/npc/05f52f5c89d/",
+                    "Area": "Obere Decks (X:11.1 Y:6.4)"
+                },
+                {
+                    "Name": "Dodozan",
+                    "Url": "/lodestone/playguide/db/npc/npc/ecb389ed83a/",
+                    "Area": "Untere Decks (X:7.5 Y:12.3)"
+                },
+                {
+                    "Name": "Aersthota",
+                    "Url": "/lodestone/playguide/db/npc/npc/b4672e8e608/",
+                    "Area": "Unteres La Noscea (X:21.4 Y:29.7)"
+                },
+                {
+                    "Name": "Geissfryn",
+                    "Url": "/lodestone/playguide/db/npc/npc/1475a24ec09/",
+                    "Area": "Unteres La Noscea (X:21.4 Y:29.8)"
+                },
+                {
+                    "Name": "Thubyrgeim",
+                    "Url": "/lodestone/playguide/db/npc/npc/c7fbb38dba6/",
+                    "Area": "Unteres La Noscea (X:23.5 Y:28.0)"
+                },
+                {
+                    "Name": "K'lyhia",
+                    "Url": "/lodestone/playguide/db/npc/npc/f953da80133/",
+                    "Area": "Westliches La Noscea (X:25.0 Y:26.7)"
+                }
+            ]
+        },
+        "Seq": 28,
+        "StartDependency": false
+    },
+    {
+        "ID": "1655c23d64e",
+        "Name": "Prüfung der Erde",
+        "Location": "Gridania",
+        "Level": 5,
+        "JournalSection": 6,
+        "JournalCategory": 65,
+        "JournalGenre": "\n\t\t\t\t\t\t\tGildenaufträge der Druiden\n\t\t\t\t\t\t",
+        "Url": "/lodestone/playguide/db/quest/1655c23d64e/",
+        "Image": "https://img.finalfantasyxiv.com/lds/pc/global/images/itemicon/e7/e7ada40313a99bd2680cb75423308ed4057cbf11.png?n6.05",
+        "Icon": "function_normal",
+        "Issuer": "E-Sumi-Yan",
+        "StartLocation": {
+            "Name": "Alt-Gridania",
+            "X": "6.0",
+            "Y": "10.6"
+        },
+        "StartClass": null,
+        "Job": "",
+        "Company": "Keine Angabe",
+        "Requirement": "Keine Angabe",
+        "Rewards": {
+            "Gil": 0,
+            "Exp": 1400,
+            "ItemsMand": [
+                {
+                    "Icon": "https://img.finalfantasyxiv.com/lds/pc/global/images/itemicon/bb/bb442c85579b8abaf404491b4c008ff35941d47e.png?n6.05",
+                    "Name": "Ahornzweig",
+                    "Amount": 1,
+                    "Url": "/lodestone/playguide/db/item/d3caa881f08/"
+                },
+                {
+                    "Icon": "https://img.finalfantasyxiv.com/lds/pc/global/images/itemicon/b6/b68858d7689c3d1a89049dc3f08e55903c499520.png?n6.05",
+                    "Name": "Ahorn-Plankenschild",
+                    "Amount": 1,
+                    "Url": "/lodestone/playguide/db/item/af04edbaf84/"
+                }
+            ],
+            "ItemsOpt": [
+                {
+                    "Icon": "https://img.finalfantasyxiv.com/lds/pc/global/images/itemicon/ac/acdbf831141eee77821f6b76290e3f8859c8af0e.png?n6.05",
+                    "Name": "Maßgeschneiderte Robe der Heilung",
+                    "Amount": 1,
+                    "Url": "/lodestone/playguide/db/item/79f3e5c1220/"
+                },
+                {
+                    "Icon": "https://img.finalfantasyxiv.com/lds/pc/global/images/itemicon/25/25b94364f1072db0349138ac7708d96092ee5018.png?n6.05",
+                    "Name": "Hanfhut",
+                    "Amount": 1,
+                    "Url": "/lodestone/playguide/db/item/27fc1a1f28c/"
+                },
+                {
+                    "Icon": "https://img.finalfantasyxiv.com/lds/pc/global/images/itemicon/99/994f4be6f730e5d5389c2bfe57dfabe737358e20.png?n6.05",
+                    "Name": "Knochen-Ring",
+                    "Amount": 1,
+                    "Url": "/lodestone/playguide/db/item/a0de9889c4a/"
+                },
+                {
+                    "Icon": "https://img.finalfantasyxiv.com/lds/pc/global/images/itemicon/ca/ca9396ae6351b2c260042541db6280473c2927a5.png?n6.05",
+                    "Name": "Kupferarmbänder",
+                    "Amount": 1,
+                    "Url": "/lodestone/playguide/db/item/712e7211081/"
+                },
+                {
+                    "Icon": "https://img.finalfantasyxiv.com/lds/pc/global/images/itemicon/ba/baa2341dd17414fae7fd62ae7bc62c64589b67be.png?n6.05",
+                    "Name": "Allagisches Zinnstück",
+                    "Amount": 5,
+                    "Url": "/lodestone/playguide/db/item/a5fd38903c4/"
+                }
+            ]
+        },
+        "Infos": {
+            "PrerequisiteQuest": [
+                {
+                    "Name": "Der Weg des Druiden",
+                    "Url": "/lodestone/playguide/db/quest/db04bbe7dbd/",
+                    "Area": "Gridania",
+                    "Level": "1"
+                },
+                {
+                    "Name": "Den Stock aufnehmen",
+                    "Url": "/lodestone/playguide/db/quest/b5d05a159bb/",
+                    "Area": "Gridania",
+                    "Level": "1"
+                }
+            ],
+            "FollowupQuest": [
+                {
+                    "Name": "Prüfung des Winds",
+                    "Url": "/lodestone/playguide/db/quest/6861bfea77f/",
+                    "Area": "Gridania",
+                    "Level": "10"
+                },
+                {
+                    "Name": "Prüfung des Winds",
+                    "Url": "/lodestone/playguide/db/quest/9d21b92b555/",
+                    "Area": "Gridania",
+                    "Level": "10"
+                }
+            ],
+            "RelatedNPC": [
+                {
+                    "Name": "Nolanel",
+                    "Url": "/lodestone/playguide/db/npc/npc/0050a899aff/",
+                    "Area": "Nordwald (X:25.8 Y:28.2)"
+                }
+            ]
+        },
+        "Seq": 3,
+        "StartDependency": false
+    },
+    {
+        "ID": "2e5314cfa56",
+        "Name": "Der Weg des Thaumaturgen",
+        "Location": "Ul'dah",
+        "Level": 1,
+        "JournalSection": 6,
+        "JournalCategory": 65,
+        "JournalGenre": "\n\t\t\t\t\t\t\tGildenaufträge der Thaumaturgen\n\t\t\t\t\t\t",
+        "Url": "/lodestone/playguide/db/quest/2e5314cfa56/",
+        "Image": "https://img.finalfantasyxiv.com/lds/pc/global/images/itemicon/1d/1d1b5d0c860020b0cc0010c1e27fdadc20978d0d.png?n6.05",
+        "Icon": "function_normal",
+        "Issuer": "Yayake",
+        "StartLocation": {
+            "Name": "Nald-Kreuzgang",
+            "X": "7.3",
+            "Y": "12.4"
+        },
+        "StartClass": "Thaumaturg",
+        "Job": "",
+        "Company": "Keine Angabe",
+        "Requirement": "Keine Angabe",
+        "Rewards": {
+            "Gil": 0,
+            "Exp": 400,
+            "ItemsMand": [
+                {
+                    "Icon": "https://img.finalfantasyxiv.com/lds/pc/global/images/itemicon/57/5724619b941357bf06ecb9de8595e71bfddff1e1.png?n6.05",
+                    "Name": "Rosinen",
+                    "Amount": 5,
+                    "Url": "/lodestone/playguide/db/item/049fcfa2e21/"
+                },
+                {
+                    "Icon": "https://img.finalfantasyxiv.com/lds/pc/global/images/itemicon/b6/b68858d7689c3d1a89049dc3f08e55903c499520.png?n6.05",
+                    "Name": "Ahorn-Plankenschild",
+                    "Amount": 1,
+                    "Url": "/lodestone/playguide/db/item/af04edbaf84/"
+                }
+            ],
+            "ItemsOpt": []
+        },
+        "Infos": {
+            "FollowupQuest": [
+                {
+                    "Name": "Die Gefahr der Nähe",
+                    "Url": "/lodestone/playguide/db/quest/dcd9ff9ecab/",
+                    "Area": "Ul'dah",
+                    "Level": "5"
+                },
+                {
+                    "Name": "Die Gefahr des Mangels",
+                    "Url": "/lodestone/playguide/db/quest/a8a6c57536c/",
+                    "Area": "Ul'dah",
+                    "Level": "10"
+                }
+            ],
+            "RelatedNPC": [
+                {
+                    "Name": "Cocobuki",
+                    "Url": "/lodestone/playguide/db/npc/npc/dc8b8565234/",
+                    "Area": "Nald-Kreuzgang (X:6.2 Y:12.8)"
+                },
+                {
+                    "Name": "Cocobygo",
+                    "Url": "/lodestone/playguide/db/npc/npc/a256d62038e/",
+                    "Area": "Nald-Kreuzgang (X:6.4 Y:12.9)"
+                }
+            ]
+        },
+        "Seq": 11,
+        "StartDependency": false
+    },
+    {
+        "ID": "2f136560df9",
+        "Name": "Der Weg des Hermetikers",
+        "Location": "Limsa Lominsa",
+        "Level": 1,
+        "JournalSection": 6,
+        "JournalCategory": 65,
+        "JournalGenre": "\n\t\t\t\t\t\t\tGildenaufträge der Hermetiker\n\t\t\t\t\t\t",
+        "Url": "/lodestone/playguide/db/quest/2f136560df9/",
+        "Image": "https://img.finalfantasyxiv.com/lds/pc/global/images/itemicon/37/37a8d65a8cae978d922a694a4d310979ed6e119d.png?n6.05",
+        "Icon": "function_normal",
+        "Issuer": "Murie",
+        "StartLocation": {
+            "Name": "Untere Decks",
+            "X": "4.5",
+            "Y": "11.2"
+        },
+        "StartClass": "Hermetiker",
+        "Job": "",
+        "Company": "Keine Angabe",
+        "Requirement": "Keine Angabe",
+        "Rewards": {
+            "Gil": 0,
+            "Exp": 400,
+            "ItemsMand": [
+                {
+                    "Icon": "https://img.finalfantasyxiv.com/lds/pc/global/images/itemicon/57/5724619b941357bf06ecb9de8595e71bfddff1e1.png?n6.05",
+                    "Name": "Rosinen",
+                    "Amount": 5,
+                    "Url": "/lodestone/playguide/db/item/049fcfa2e21/"
+                }
+            ],
+            "ItemsOpt": []
+        },
+        "Infos": {
+            "FollowupQuest": [
+                {
+                    "Name": "Eine unerwartete Begegnung",
+                    "Url": "/lodestone/playguide/db/quest/a8e4c161337/",
+                    "Area": "Limsa Lominsa",
+                    "Level": "5"
+                },
+                {
+                    "Name": "Die Brodelsocken",
+                    "Url": "/lodestone/playguide/db/quest/5a269538124/",
+                    "Area": "Limsa Lominsa",
+                    "Level": "10"
+                }
+            ],
+            "RelatedNPC": [
+                {
+                    "Name": "Thubyrgeim",
+                    "Url": "/lodestone/playguide/db/npc/npc/dec3b66e353/",
+                    "Area": "Untere Decks (X:4.7 Y:11.4)"
+                }
+            ]
+        },
+        "Seq": 21,
+        "StartDependency": false
+    },
+    {
+        "ID": "3321be3cd92",
+        "Name": "Wie die Mutter, so die Tochter",
+        "Location": "Gridania",
+        "Level": 25,
+        "JournalSection": 6,
+        "JournalCategory": 65,
+        "JournalGenre": "\n\t\t\t\t\t\t\tGildenaufträge der Druiden\n\t\t\t\t\t\t",
+        "Url": "/lodestone/playguide/db/quest/3321be3cd92/",
+        "Image": "https://img.finalfantasyxiv.com/lds/pc/global/images/itemicon/e7/e7ada40313a99bd2680cb75423308ed4057cbf11.png?n6.05",
+        "Icon": "function_normal",
+        "Issuer": "E-Sumi-Yan",
+        "StartLocation": {
+            "Name": "Alt-Gridania",
+            "X": "6.0",
+            "Y": "10.6"
+        },
+        "StartClass": null,
+        "Job": "",
+        "Company": "Keine Angabe",
+        "Requirement": "Keine Angabe",
+        "Rewards": {
+            "Gil": 0,
+            "Exp": 8160,
+            "ItemsMand": [
+                {
+                    "Icon": "https://img.finalfantasyxiv.com/lds/pc/global/images/itemicon/0b/0b2699e4da857079e4dbad2fec4ab0817e7aa9ce.png?n6.05",
+                    "Name": "Flüsternder Eschenzweig",
+                    "Amount": 1,
+                    "Url": "/lodestone/playguide/db/item/100c7fe3448/"
+                }
+            ],
+            "ItemsOpt": [
+                {
+                    "Icon": "https://img.finalfantasyxiv.com/lds/pc/global/images/itemicon/41/41deb8902fa97efbe336bca0ad88d21e90222af4.png?n6.05",
+                    "Name": "Baumwollhalbrobe",
+                    "Amount": 1,
+                    "Url": "/lodestone/playguide/db/item/481569f6b36/"
+                },
+                {
+                    "Icon": "https://img.finalfantasyxiv.com/lds/pc/global/images/itemicon/a8/a89462b016b37b75e217594745efcaeb8ee9d979.png?n6.05",
+                    "Name": "Steinbockleder-Ringbänder",
+                    "Amount": 1,
+                    "Url": "/lodestone/playguide/db/item/daab61f0e7a/"
+                },
+                {
+                    "Icon": "https://img.finalfantasyxiv.com/lds/pc/global/images/itemicon/9f/9f2a05a9e40f5f2df851b84971b0886ed3c1c168.png?n6.05",
+                    "Name": "Bearbeitete Steinbockleder-Mokassins",
+                    "Amount": 1,
+                    "Url": "/lodestone/playguide/db/item/0fbd132df7a/"
+                },
+                {
+                    "Icon": "https://img.finalfantasyxiv.com/lds/pc/global/images/itemicon/27/2701179b695926afcb6298e45a9283633fda5365.png?n6.05",
+                    "Name": "Silberbrille",
+                    "Amount": 1,
+                    "Url": "/lodestone/playguide/db/item/cee1b0ae6d4/"
+                },
+                {
+                    "Icon": "https://img.finalfantasyxiv.com/lds/pc/global/images/itemicon/ba/baa2341dd17414fae7fd62ae7bc62c64589b67be.png?n6.05",
+                    "Name": "Allagisches Silberstück",
+                    "Amount": 1,
+                    "Url": "/lodestone/playguide/db/item/a3ac3ba4b00/"
+                }
+            ]
+        },
+        "Infos": {
+            "PrerequisiteQuest": [
+                {
+                    "Name": "Sylphies Prüfungen",
+                    "Url": "/lodestone/playguide/db/quest/4475bfec9fe/",
+                    "Area": "Gridania",
+                    "Level": "20"
+                }
+            ],
+            "FollowupQuest": [
+                {
+                    "Name": "Im Schoß der Natur",
+                    "Url": "/lodestone/playguide/db/quest/a02c1c29571/",
+                    "Area": "Gridania",
+                    "Level": "30"
+                }
+            ],
+            "RelatedNPC": [
+                {
+                    "Name": "Joacin",
+                    "Url": "/lodestone/playguide/db/npc/npc/14008e29d80/",
+                    "Area": "Südwald (X:18.0 Y:20.3)"
+                },
+                {
+                    "Name": "Joacin",
+                    "Url": "/lodestone/playguide/db/npc/npc/a624d6e1b23/",
+                    "Area": "Südwald (X:22.3 Y:22.1)"
+                },
+                {
+                    "Name": "Nolanel",
+                    "Url": "/lodestone/playguide/db/npc/npc/24e81d326a3/",
+                    "Area": "Südwald (X:18.0 Y:20.3)"
+                },
+                {
+                    "Name": "Nolanel",
+                    "Url": "/lodestone/playguide/db/npc/npc/8e851715202/",
+                    "Area": "Südwald (X:22.3 Y:22.1)"
+                },
+                {
+                    "Name": "Sylphie",
+                    "Url": "/lodestone/playguide/db/npc/npc/a932ebbc112/",
+                    "Area": "Südwald (X:17.8 Y:19.9)"
+                },
+                {
+                    "Name": "Sylphie",
+                    "Url": "/lodestone/playguide/db/npc/npc/ed45dc91b62/",
+                    "Area": "Südwald (X:22.0 Y:22.1)"
+                },
+                {
+                    "Name": "Sylphie",
+                    "Url": "/lodestone/playguide/db/npc/npc/835ed45f13d/",
+                    "Area": "Südwald (X:22.3 Y:22.1)"
+                },
+                {
+                    "Name": "Wulfiue",
+                    "Url": "/lodestone/playguide/db/npc/npc/0857343ddbc/",
+                    "Area": "Südwald (X:18.0 Y:20.3)"
+                },
+                {
+                    "Name": "Wulfiue",
+                    "Url": "/lodestone/playguide/db/npc/npc/6526d324e59/",
+                    "Area": "Südwald (X:22.3 Y:22.1)"
+                }
+            ]
+        },
+        "Seq": 8,
+        "StartDependency": false
+    },
+    {
+        "ID": "4100af4d4b8",
+        "Name": "Der Weg des Hermetikers",
+        "Location": "Limsa Lominsa",
+        "Level": 1,
+        "JournalSection": 6,
+        "JournalCategory": 65,
+        "JournalGenre": "\n\t\t\t\t\t\t\tGildenaufträge der Hermetiker\n\t\t\t\t\t\t",
+        "Url": "/lodestone/playguide/db/quest/4100af4d4b8/",
+        "Image": "https://img.finalfantasyxiv.com/lds/pc/global/images/itemicon/37/37a8d65a8cae978d922a694a4d310979ed6e119d.png?n6.05",
+        "Icon": "function_normal",
+        "Issuer": "Murie",
+        "StartLocation": {
+            "Name": "Untere Decks",
+            "X": "4.5",
+            "Y": "11.2"
+        },
+        "StartClass": null,
+        "Job": "",
+        "Company": "Keine Angabe",
+        "Requirement": "Keine Angabe",
+        "Rewards": {
+            "Gil": 0,
+            "Exp": 400,
+            "ItemsMand": [
+                {
+                    "Icon": "https://img.finalfantasyxiv.com/lds/pc/global/images/itemicon/c3/c34d195303c3b6c53258ea737ed4e7317a56df55.png?n6.05",
+                    "Name": "Verschlissenes Grimoire",
+                    "Amount": 1,
+                    "Url": "/lodestone/playguide/db/item/189057f4905/"
+                }
+            ],
+            "ItemsOpt": []
+        },
+        "Infos": {
+            "FollowupQuest": [
+                {
+                    "Name": "Das Grimoire aufnehmen",
+                    "Url": "/lodestone/playguide/db/quest/cb1c8b16a34/",
+                    "Area": "Limsa Lominsa",
+                    "Level": "1"
+                }
+            ],
+            "RelatedNPC": [
+                {
+                    "Name": "Thubyrgeim",
+                    "Url": "/lodestone/playguide/db/npc/npc/dec3b66e353/",
+                    "Area": "Untere Decks (X:4.7 Y:11.4)"
+                }
+            ]
+        },
+        "Seq": 20,
+        "StartDependency": false
+    },
+    {
+        "ID": "4475bfec9fe",
+        "Name": "Sylphies Prüfungen",
+        "Location": "Gridania",
+        "Level": 20,
+        "JournalSection": 6,
+        "JournalCategory": 65,
+        "JournalGenre": "\n\t\t\t\t\t\t\tGildenaufträge der Druiden\n\t\t\t\t\t\t",
+        "Url": "/lodestone/playguide/db/quest/4475bfec9fe/",
+        "Image": "https://img.finalfantasyxiv.com/lds/pc/global/images/itemicon/e7/e7ada40313a99bd2680cb75423308ed4057cbf11.png?n6.05",
+        "Icon": "function_normal",
+        "Issuer": "E-Sumi-Yan",
+        "StartLocation": {
+            "Name": "Alt-Gridania",
+            "X": "6.0",
+            "Y": "10.6"
+        },
+        "StartClass": null,
+        "Job": "",
+        "Company": "Keine Angabe",
+        "Requirement": "Keine Angabe",
+        "Rewards": {
+            "Gil": 0,
+            "Exp": 6960,
+            "ItemsMand": [
+                {
+                    "Icon": "https://img.finalfantasyxiv.com/lds/pc/global/images/itemicon/dc/dc49c8d3d58f330cef2a7396ebcb06fb46603511.png?n6.05",
+                    "Name": "Ulmenhirtenstock",
+                    "Amount": 1,
+                    "Url": "/lodestone/playguide/db/item/b0b475dc01d/"
+                }
+            ],
+            "ItemsOpt": [
+                {
+                    "Icon": "https://img.finalfantasyxiv.com/lds/pc/global/images/itemicon/74/74537f0e8b1c6cbe81537ec7e7fc6025a3ef15bc.png?n6.05",
+                    "Name": "Bearbeitete Baumwoll-Dalmatika",
+                    "Amount": 1,
+                    "Url": "/lodestone/playguide/db/item/8b9402ac099/"
+                },
+                {
+                    "Icon": "https://img.finalfantasyxiv.com/lds/pc/global/images/itemicon/d6/d65d413859c8abe42910311fa769a4b597dd92e0.png?n6.05",
+                    "Name": "Lapislazuli-Eschenmaske",
+                    "Amount": 1,
+                    "Url": "/lodestone/playguide/db/item/2fee071d2ba/"
+                },
+                {
+                    "Icon": "https://img.finalfantasyxiv.com/lds/pc/global/images/itemicon/60/60115f75612a55f769aa69e85881fd0ce7db6602.png?n6.05",
+                    "Name": "Baumwoll-Galahandschuhe",
+                    "Amount": 1,
+                    "Url": "/lodestone/playguide/db/item/7a2235916a2/"
+                },
+                {
+                    "Icon": "https://img.finalfantasyxiv.com/lds/pc/global/images/itemicon/cb/cbec7f73f54c894a93f0d0e4e123011ab7691069.png?n6.05",
+                    "Name": "Baumwoll-Galaschuhe",
+                    "Amount": 1,
+                    "Url": "/lodestone/playguide/db/item/cd59c1eadea/"
+                },
+                {
+                    "Icon": "https://img.finalfantasyxiv.com/lds/pc/global/images/itemicon/ba/baa2341dd17414fae7fd62ae7bc62c64589b67be.png?n6.05",
+                    "Name": "Allagisches Bronzestück",
+                    "Amount": 5,
+                    "Url": "/lodestone/playguide/db/item/ce2e67f0442/"
+                }
+            ]
+        },
+        "Infos": {
+            "PrerequisiteQuest": [
+                {
+                    "Name": "Prüfung des Wassers",
+                    "Url": "/lodestone/playguide/db/quest/cc938dbb781/",
+                    "Area": "Gridania",
+                    "Level": "15"
+                }
+            ],
+            "FollowupQuest": [
+                {
+                    "Name": "Wie die Mutter, so die Tochter",
+                    "Url": "/lodestone/playguide/db/quest/3321be3cd92/",
+                    "Area": "Gridania",
+                    "Level": "25"
+                }
+            ],
+            "RelatedNPC": [
+                {
+                    "Name": "Sylphie",
+                    "Url": "/lodestone/playguide/db/npc/npc/6ba5dcf5d52/",
+                    "Area": "Tiefer Wald (X:20.1 Y:20.7)"
+                },
+                {
+                    "Name": "Sylphie",
+                    "Url": "/lodestone/playguide/db/npc/npc/616ad9b7ca0/",
+                    "Area": "Tiefer Wald (X:24.5 Y:20.7)"
+                },
+                {
+                    "Name": "Sylphie",
+                    "Url": "/lodestone/playguide/db/npc/npc/c77552a5b1f/",
+                    "Area": "Tiefer Wald (X:28.1 Y:29.9)"
+                }
+            ]
+        },
+        "Seq": 7,
+        "StartDependency": false
+    },
+    {
+        "ID": "45ea45aff3a",
+        "Name": "Geschickt eingefädelt",
+        "Location": "Limsa Lominsa",
+        "Level": 30,
+        "JournalSection": 6,
+        "JournalCategory": 65,
+        "JournalGenre": "\n\t\t\t\t\t\t\tGildenaufträge der Hermetiker\n\t\t\t\t\t\t",
+        "Url": "/lodestone/playguide/db/quest/45ea45aff3a/",
+        "Image": "https://img.finalfantasyxiv.com/lds/pc/global/images/itemicon/37/37a8d65a8cae978d922a694a4d310979ed6e119d.png?n6.05",
+        "Icon": "function_normal",
+        "Issuer": "Thubyrgeim",
+        "StartLocation": {
+            "Name": "Untere Decks",
+            "X": "4.7",
+            "Y": "11.4"
+        },
+        "StartClass": null,
+        "Job": "",
+        "Company": "Keine Angabe",
+        "Requirement": "Keine Angabe",
+        "Rewards": {
+            "Gil": 0,
+            "Exp": 12480,
+            "ItemsMand": [
+                {
+                    "Icon": "https://img.finalfantasyxiv.com/lds/pc/global/images/itemicon/bc/bcf832b4cd9206b7110b432e26285785672f989d.png?n6.05",
+                    "Name": "Verziertes Steinbockleder-Grimoire",
+                    "Amount": 1,
+                    "Url": "/lodestone/playguide/db/item/08765e03bcb/"
+                },
+                {
+                    "Icon": "https://img.finalfantasyxiv.com/lds/pc/global/images/itemicon/eb/ebb83ea83306115d92341fbe5029e19342c09bba.png?n6.05",
+                    "Name": "",
+                    "Amount": null
+                },
+                {
+                    "Icon": "https://img.finalfantasyxiv.com/lds/pc/global/images/itemicon/fc/fcdcf46337746cee6f3d04d4746c4b6217ccfffa.png?n6.05",
+                    "Name": "",
+                    "Amount": null
+                }
+            ],
+            "ItemsOpt": [
+                {
+                    "Icon": "https://img.finalfantasyxiv.com/lds/pc/global/images/itemicon/7b/7b4a6a59aad14209bd090709006bb9b025c96200.png?n6.05",
+                    "Name": "Samt-Bliaud",
+                    "Amount": 1,
+                    "Url": "/lodestone/playguide/db/item/16ce086f201/"
+                },
+                {
+                    "Icon": "https://img.finalfantasyxiv.com/lds/pc/global/images/itemicon/32/32874ec54b7b6e83c5407a347bec04887297e3c1.png?n6.05",
+                    "Name": "Bearbeitete Samtreiterhose",
+                    "Amount": 1,
+                    "Url": "/lodestone/playguide/db/item/679acc9260a/"
+                },
+                {
+                    "Icon": "https://img.finalfantasyxiv.com/lds/pc/global/images/itemicon/97/97feca3cff59501ccd44029120221f86d276e69c.png?n6.05",
+                    "Name": "Samthandschuhe",
+                    "Amount": 1,
+                    "Url": "/lodestone/playguide/db/item/b11e7ccd9bc/"
+                },
+                {
+                    "Icon": "https://img.finalfantasyxiv.com/lds/pc/global/images/itemicon/23/237939e762d58afb704fc1be4e13ea98c7975a62.png?n6.05",
+                    "Name": "Dodo-Stiefel",
+                    "Amount": 1,
+                    "Url": "/lodestone/playguide/db/item/73ee923accf/"
+                },
+                {
+                    "Icon": "https://img.finalfantasyxiv.com/lds/pc/global/images/itemicon/ba/baa2341dd17414fae7fd62ae7bc62c64589b67be.png?n6.05",
+                    "Name": "Allagisches Silberstück",
+                    "Amount": 3,
+                    "Url": "/lodestone/playguide/db/item/a3ac3ba4b00/"
+                }
+            ]
+        },
+        "Infos": {
+            "PrerequisiteQuest": [
+                {
+                    "Name": "Schwing das Tanzbein",
+                    "Url": "/lodestone/playguide/db/quest/04b16d95faa/",
+                    "Area": "Limsa Lominsa",
+                    "Level": "25"
+                }
+            ],
+            "FollowupQuest": [
+                {
+                    "Name": "Das Spiel mit dem Feuer",
+                    "Url": "/lodestone/playguide/db/quest/4bb5af1e8a9/",
+                    "Area": "Limsa Lominsa",
+                    "Level": "30"
+                },
+                {
+                    "Name": "Reise in die Vergangenheit",
+                    "Url": "/lodestone/playguide/db/quest/2f077612950/",
+                    "Area": "Limsa Lominsa",
+                    "Level": "30"
+                }
+            ],
+            "RelatedNPC": [
+                {
+                    "Name": "Drogo",
+                    "Url": "/lodestone/playguide/db/npc/npc/a05c0b06037/",
+                    "Area": "Östliches La Noscea (X:30.3 Y:28.8)"
+                },
+                {
+                    "Name": "Ealdgyth",
+                    "Url": "/lodestone/playguide/db/npc/npc/a6afc913d48/",
+                    "Area": "Östliches La Noscea (X:32.7 Y:31.5)"
+                },
+                {
+                    "Name": "Gegeruju",
+                    "Url": "/lodestone/playguide/db/npc/npc/b00951fccc8/",
+                    "Area": "Östliches La Noscea (X:33.8 Y:30.5)"
+                },
+                {
+                    "Name": "Gelbjacke",
+                    "Url": "/lodestone/playguide/db/npc/npc/21b0f559b11/",
+                    "Area": "Östliches La Noscea (X:35.2 Y:29.4)"
+                },
+                {
+                    "Name": "Hirskskrat",
+                    "Url": "/lodestone/playguide/db/npc/npc/eaac8ef13ad/",
+                    "Area": "Östliches La Noscea (X:31.9 Y:30.6)"
+                },
+                {
+                    "Name": "Hirskskrat",
+                    "Url": "/lodestone/playguide/db/npc/npc/8d9fb75d232/",
+                    "Area": "Östliches La Noscea (X:35.1 Y:29.7)"
+                },
+                {
+                    "Name": "K'lyhia",
+                    "Url": "/lodestone/playguide/db/npc/npc/e217d4853d9/",
+                    "Area": "Östliches La Noscea (X:35.1 Y:29.6)"
+                },
+                {
+                    "Name": "Ofpilona",
+                    "Url": "/lodestone/playguide/db/npc/npc/27ad71680cb/",
+                    "Area": "Östliches La Noscea (X:33.2 Y:29.0)"
+                },
+                {
+                    "Name": "Rhylzirn",
+                    "Url": "/lodestone/playguide/db/npc/npc/3d07a5036e7/",
+                    "Area": "Östliches La Noscea (X:32.4 Y:25.8)"
+                }
+            ],
+            "RelatedAchievements": [
+                {
+                    "Name": "Man wird nur einmal Stufe 30",
+                    "Url": "/lodestone/playguide/db/achievement/ce7e69895dc/",
+                    "Reward": "-",
+                    "Points": "5"
+                },
+                {
+                    "Name": "Ode an die Magier",
+                    "Url": "/lodestone/playguide/db/achievement/5c94e109800/",
+                    "Reward": "Titel",
+                    "Points": "10"
+                }
+            ]
+        },
+        "Seq": 30,
+        "StartDependency": false
+    },
+    {
+        "ID": "5026eee3cc4",
+        "Name": "Die Gefahr der Umzinglung",
+        "Location": "Ul'dah",
+        "Level": 20,
+        "JournalSection": 6,
+        "JournalCategory": 65,
+        "JournalGenre": "\n\t\t\t\t\t\t\tGildenaufträge der Thaumaturgen\n\t\t\t\t\t\t",
+        "Url": "/lodestone/playguide/db/quest/5026eee3cc4/",
+        "Image": "https://img.finalfantasyxiv.com/lds/pc/global/images/itemicon/1d/1d1b5d0c860020b0cc0010c1e27fdadc20978d0d.png?n6.05",
+        "Icon": "function_normal",
+        "Issuer": "Cocobuki",
+        "StartLocation": {
+            "Name": "Nald-Kreuzgang",
+            "X": "6.2",
+            "Y": "12.8"
+        },
+        "StartClass": null,
+        "Job": "",
+        "Company": "Keine Angabe",
+        "Requirement": "Keine Angabe",
+        "Rewards": {
+            "Gil": 0,
+            "Exp": 6960,
+            "ItemsMand": [
+                {
+                    "Icon": "https://img.finalfantasyxiv.com/lds/pc/global/images/itemicon/46/46d6a3963ae8969c9c2e11a64ed64d3b58cd9262.png?n6.05",
+                    "Name": "Antilopenhornstab",
+                    "Amount": 1,
+                    "Url": "/lodestone/playguide/db/item/d94c64d0a5b/"
+                }
+            ],
+            "ItemsOpt": [
+                {
+                    "Icon": "https://img.finalfantasyxiv.com/lds/pc/global/images/itemicon/74/74537f0e8b1c6cbe81537ec7e7fc6025a3ef15bc.png?n6.05",
+                    "Name": "Bearbeitete Baumwoll-Dalmatika",
+                    "Amount": 1,
+                    "Url": "/lodestone/playguide/db/item/8b9402ac099/"
+                },
+                {
+                    "Icon": "https://img.finalfantasyxiv.com/lds/pc/global/images/itemicon/d6/d65d413859c8abe42910311fa769a4b597dd92e0.png?n6.05",
+                    "Name": "Lapislazuli-Eschenmaske",
+                    "Amount": 1,
+                    "Url": "/lodestone/playguide/db/item/2fee071d2ba/"
+                },
+                {
+                    "Icon": "https://img.finalfantasyxiv.com/lds/pc/global/images/itemicon/60/60115f75612a55f769aa69e85881fd0ce7db6602.png?n6.05",
+                    "Name": "Baumwoll-Galahandschuhe",
+                    "Amount": 1,
+                    "Url": "/lodestone/playguide/db/item/7a2235916a2/"
+                },
+                {
+                    "Icon": "https://img.finalfantasyxiv.com/lds/pc/global/images/itemicon/cb/cbec7f73f54c894a93f0d0e4e123011ab7691069.png?n6.05",
+                    "Name": "Baumwoll-Galaschuhe",
+                    "Amount": 1,
+                    "Url": "/lodestone/playguide/db/item/cd59c1eadea/"
+                },
+                {
+                    "Icon": "https://img.finalfantasyxiv.com/lds/pc/global/images/itemicon/ba/baa2341dd17414fae7fd62ae7bc62c64589b67be.png?n6.05",
+                    "Name": "Allagisches Bronzestück",
+                    "Amount": 5,
+                    "Url": "/lodestone/playguide/db/item/ce2e67f0442/"
+                }
+            ]
+        },
+        "Infos": {
+            "PrerequisiteQuest": [
+                {
+                    "Name": "Die Gefahr der Übermacht",
+                    "Url": "/lodestone/playguide/db/quest/82cdaaebcce/",
+                    "Area": "Ul'dah",
+                    "Level": "15"
+                }
+            ],
+            "FollowupQuest": [
+                {
+                    "Name": "Das Licht am Boden des Abgrunds",
+                    "Url": "/lodestone/playguide/db/quest/71336abaf74/",
+                    "Area": "Ul'dah",
+                    "Level": "25"
+                }
+            ],
+            "RelatedNPC": [
+                {
+                    "Name": "Cocoboha",
+                    "Url": "/lodestone/playguide/db/npc/npc/2fd5ea54f1c/",
+                    "Area": "Nald-Kreuzgang (X:6.4 Y:12.9)"
+                },
+                {
+                    "Name": "Cocobusi",
+                    "Url": "/lodestone/playguide/db/npc/npc/38787c00fea/",
+                    "Area": "Westliches Thanalan (X:21.7 Y:22.9)"
+                },
+                {
+                    "Name": "Kräftiger Gladiator",
+                    "Url": "/lodestone/playguide/db/npc/npc/0aa03064cc1/",
+                    "Area": "Westliches Thanalan (X:21.7 Y:22.8)"
+                },
+                {
+                    "Name": "Thaumaturgenleiche",
+                    "Url": "/lodestone/playguide/db/npc/npc/fc89884eb64/",
+                    "Area": "Westliches Thanalan (X:23.8 Y:21.7)"
+                },
+                {
+                    "Name": "Thaumaturgenleiche",
+                    "Url": "/lodestone/playguide/db/npc/npc/a04530cb211/",
+                    "Area": "Westliches Thanalan (X:24.1 Y:21.6)"
+                },
+                {
+                    "Name": "Thaumaturginnenleiche",
+                    "Url": "/lodestone/playguide/db/npc/npc/e6e5dac4af7/",
+                    "Area": "Westliches Thanalan (X:23.7 Y:22.1)"
+                }
+            ]
+        },
+        "Seq": 17,
+        "StartDependency": false
+    },
+    {
+        "ID": "5a269538124",
+        "Name": "Die Brodelsocken",
+        "Location": "Limsa Lominsa",
+        "Level": 10,
+        "JournalSection": 6,
+        "JournalCategory": 65,
+        "JournalGenre": "\n\t\t\t\t\t\t\tGildenaufträge der Hermetiker\n\t\t\t\t\t\t",
+        "Url": "/lodestone/playguide/db/quest/5a269538124/",
+        "Image": "https://img.finalfantasyxiv.com/lds/pc/global/images/itemicon/37/37a8d65a8cae978d922a694a4d310979ed6e119d.png?n6.05",
+        "Icon": "function_normal",
+        "Issuer": "Thubyrgeim",
+        "StartLocation": {
+            "Name": "Untere Decks",
+            "X": "4.7",
+            "Y": "11.4"
+        },
+        "StartClass": null,
+        "Job": "",
+        "Company": "Keine Angabe",
+        "Requirement": "Keine Angabe",
+        "Rewards": {
+            "Gil": 0,
+            "Exp": 3420,
+            "ItemsMand": [
+                {
+                    "Icon": "https://img.finalfantasyxiv.com/lds/pc/global/images/itemicon/08/08a251b764121abe67d3ecb7d9d9754863bacd56.png?n6.05",
+                    "Name": "Verziertes Leder-Grimoire",
+                    "Amount": 1,
+                    "Url": "/lodestone/playguide/db/item/70359df22c0/"
+                }
+            ],
+            "ItemsOpt": [
+                {
+                    "Icon": "https://img.finalfantasyxiv.com/lds/pc/global/images/itemicon/2b/2b8e2da79ff4845b187f5e5a7eb8e1358fe099b8.png?n6.05",
+                    "Name": "Laien-Dalmatika",
+                    "Amount": 1,
+                    "Url": "/lodestone/playguide/db/item/019305b4ff1/"
+                },
+                {
+                    "Icon": "https://img.finalfantasyxiv.com/lds/pc/global/images/itemicon/fc/fc9fea75329659f3b969aa4d350154efff3be7cf.png?n6.05",
+                    "Name": "Laien-Hanfbundhaube",
+                    "Amount": 1,
+                    "Url": "/lodestone/playguide/db/item/b7de935079f/"
+                },
+                {
+                    "Icon": "https://img.finalfantasyxiv.com/lds/pc/global/images/itemicon/34/34119f4265fbd7015dbce0de495ee276f3184fe3.png?n6.05",
+                    "Name": "Hanf-Galahandschuhe",
+                    "Amount": 1,
+                    "Url": "/lodestone/playguide/db/item/9d65800aa15/"
+                },
+                {
+                    "Icon": "https://img.finalfantasyxiv.com/lds/pc/global/images/itemicon/cc/cce1137ec8868ea2a5dba679084197f030dce8ec.png?n6.05",
+                    "Name": "Laien-Schnabelschuhe",
+                    "Amount": 1,
+                    "Url": "/lodestone/playguide/db/item/3cb6f21b282/"
+                },
+                {
+                    "Icon": "https://img.finalfantasyxiv.com/lds/pc/global/images/itemicon/ba/baa2341dd17414fae7fd62ae7bc62c64589b67be.png?n6.05",
+                    "Name": "Allagisches Bronzestück",
+                    "Amount": 2,
+                    "Url": "/lodestone/playguide/db/item/ce2e67f0442/"
+                }
+            ]
+        },
+        "Infos": {
+            "PrerequisiteQuest": [
+                {
+                    "Name": "Der Weg des Hermetikers",
+                    "Url": "/lodestone/playguide/db/quest/2f136560df9/",
+                    "Area": "Limsa Lominsa",
+                    "Level": "1"
+                },
+                {
+                    "Name": "Eine unerwartete Begegnung",
+                    "Url": "/lodestone/playguide/db/quest/a8e4c161337/",
+                    "Area": "Limsa Lominsa",
+                    "Level": "5"
+                }
+            ],
+            "FollowupQuest": [
+                {
+                    "Name": "Ein neuer Gefährte",
+                    "Url": "/lodestone/playguide/db/quest/c6975b0e58d/",
+                    "Area": "Limsa Lominsa",
+                    "Level": "15"
+                }
+            ],
+            "RelatedNPC": [
+                {
+                    "Name": "K'lyhia",
+                    "Url": "/lodestone/playguide/db/npc/npc/055c6e8389b/",
+                    "Area": "Untere Decks (X:4.2 Y:11.4)"
+                },
+                {
+                    "Name": "K'lyhia",
+                    "Url": "/lodestone/playguide/db/npc/npc/7bd061d1bf7/",
+                    "Area": "Zentrales La Noscea (X:19.3 Y:16.4)"
+                },
+                {
+                    "Name": "K'lyhia",
+                    "Url": "/lodestone/playguide/db/npc/npc/934dac54341/",
+                    "Area": "Zentrales La Noscea (X:19.5 Y:16.2)"
+                }
+            ]
+        },
+        "Seq": 24,
+        "StartDependency": false
+    },
+    {
+        "ID": "6861bfea77f",
+        "Name": "Prüfung des Winds",
+        "Location": "Gridania",
+        "Level": 10,
+        "JournalSection": 6,
+        "JournalCategory": 65,
+        "JournalGenre": "\n\t\t\t\t\t\t\tGildenaufträge der Druiden\n\t\t\t\t\t\t",
+        "Url": "/lodestone/playguide/db/quest/6861bfea77f/",
+        "Image": "https://img.finalfantasyxiv.com/lds/pc/global/images/itemicon/e7/e7ada40313a99bd2680cb75423308ed4057cbf11.png?n6.05",
+        "Icon": "function_normal",
+        "Issuer": "E-Sumi-Yan",
+        "StartLocation": {
+            "Name": "Alt-Gridania",
+            "X": "6.0",
+            "Y": "10.6"
+        },
+        "StartClass": null,
+        "Job": "",
+        "Company": "Keine Angabe",
+        "Requirement": "Keine Angabe",
+        "Rewards": {
+            "Gil": 0,
+            "Exp": 3420,
+            "ItemsMand": [
+                {
+                    "Icon": "https://img.finalfantasyxiv.com/lds/pc/global/images/itemicon/3c/3c5d00b68b7a65e4a1129bf54ce982a506790965.png?n6.05",
+                    "Name": "Ahornhirtenstock",
+                    "Amount": 1,
+                    "Url": "/lodestone/playguide/db/item/8f4128a3d64/"
+                }
+            ],
+            "ItemsOpt": [
+                {
+                    "Icon": "https://img.finalfantasyxiv.com/lds/pc/global/images/itemicon/2b/2b8e2da79ff4845b187f5e5a7eb8e1358fe099b8.png?n6.05",
+                    "Name": "Laien-Dalmatika",
+                    "Amount": 1,
+                    "Url": "/lodestone/playguide/db/item/019305b4ff1/"
+                },
+                {
+                    "Icon": "https://img.finalfantasyxiv.com/lds/pc/global/images/itemicon/fc/fc9fea75329659f3b969aa4d350154efff3be7cf.png?n6.05",
+                    "Name": "Laien-Hanfbundhaube",
+                    "Amount": 1,
+                    "Url": "/lodestone/playguide/db/item/b7de935079f/"
+                },
+                {
+                    "Icon": "https://img.finalfantasyxiv.com/lds/pc/global/images/itemicon/34/34119f4265fbd7015dbce0de495ee276f3184fe3.png?n6.05",
+                    "Name": "Hanf-Galahandschuhe",
+                    "Amount": 1,
+                    "Url": "/lodestone/playguide/db/item/9d65800aa15/"
+                },
+                {
+                    "Icon": "https://img.finalfantasyxiv.com/lds/pc/global/images/itemicon/cc/cce1137ec8868ea2a5dba679084197f030dce8ec.png?n6.05",
+                    "Name": "Laien-Schnabelschuhe",
+                    "Amount": 1,
+                    "Url": "/lodestone/playguide/db/item/3cb6f21b282/"
+                },
+                {
+                    "Icon": "https://img.finalfantasyxiv.com/lds/pc/global/images/itemicon/ba/baa2341dd17414fae7fd62ae7bc62c64589b67be.png?n6.05",
+                    "Name": "Allagisches Bronzestück",
+                    "Amount": 1,
+                    "Url": "/lodestone/playguide/db/item/ce2e67f0442/"
+                }
+            ]
+        },
+        "Infos": {
+            "PrerequisiteQuest": [
+                {
+                    "Name": "Der Weg des Druiden",
+                    "Url": "/lodestone/playguide/db/quest/db04bbe7dbd/",
+                    "Area": "Gridania",
+                    "Level": "1"
+                },
+                {
+                    "Name": "Prüfung der Erde",
+                    "Url": "/lodestone/playguide/db/quest/1655c23d64e/",
+                    "Area": "Gridania",
+                    "Level": "5"
+                }
+            ],
+            "FollowupQuest": [
+                {
+                    "Name": "Prüfung des Wassers",
+                    "Url": "/lodestone/playguide/db/quest/cc938dbb781/",
+                    "Area": "Gridania",
+                    "Level": "15"
+                }
+            ],
+            "RelatedNPC": [
+                {
+                    "Name": "Wulfiue",
+                    "Url": "/lodestone/playguide/db/npc/npc/e718f5ca4c5/",
+                    "Area": "Ostwald (X:11.8 Y:25.6)"
+                }
+            ]
+        },
+        "Seq": 4,
+        "StartDependency": false
+    },
+    {
+        "ID": "71336abaf74",
+        "Name": "Das Licht am Boden des Abgrunds",
+        "Location": "Ul'dah",
+        "Level": 25,
+        "JournalSection": 6,
+        "JournalCategory": 65,
+        "JournalGenre": "\n\t\t\t\t\t\t\tGildenaufträge der Thaumaturgen\n\t\t\t\t\t\t",
+        "Url": "/lodestone/playguide/db/quest/71336abaf74/",
+        "Image": "https://img.finalfantasyxiv.com/lds/pc/global/images/itemicon/1d/1d1b5d0c860020b0cc0010c1e27fdadc20978d0d.png?n6.05",
+        "Icon": "function_normal",
+        "Issuer": "Cocobygo",
+        "StartLocation": {
+            "Name": "Nald-Kreuzgang",
+            "X": "6.4",
+            "Y": "12.9"
+        },
+        "StartClass": null,
+        "Job": "",
+        "Company": "Keine Angabe",
+        "Requirement": "Keine Angabe",
+        "Rewards": {
+            "Gil": 0,
+            "Exp": 8160,
+            "ItemsMand": [
+                {
+                    "Icon": "https://img.finalfantasyxiv.com/lds/pc/global/images/itemicon/46/46d6a3963ae8969c9c2e11a64ed64d3b58cd9262.png?n6.05",
+                    "Name": "Prunk-Antilopenhornstab",
+                    "Amount": 1,
+                    "Url": "/lodestone/playguide/db/item/390de86b1dd/"
+                }
+            ],
+            "ItemsOpt": [
+                {
+                    "Icon": "https://img.finalfantasyxiv.com/lds/pc/global/images/itemicon/41/41deb8902fa97efbe336bca0ad88d21e90222af4.png?n6.05",
+                    "Name": "Baumwollhalbrobe",
+                    "Amount": 1,
+                    "Url": "/lodestone/playguide/db/item/481569f6b36/"
+                },
+                {
+                    "Icon": "https://img.finalfantasyxiv.com/lds/pc/global/images/itemicon/a8/a89462b016b37b75e217594745efcaeb8ee9d979.png?n6.05",
+                    "Name": "Steinbockleder-Ringbänder",
+                    "Amount": 1,
+                    "Url": "/lodestone/playguide/db/item/daab61f0e7a/"
+                },
+                {
+                    "Icon": "https://img.finalfantasyxiv.com/lds/pc/global/images/itemicon/9f/9f2a05a9e40f5f2df851b84971b0886ed3c1c168.png?n6.05",
+                    "Name": "Bearbeitete Steinbockleder-Mokassins",
+                    "Amount": 1,
+                    "Url": "/lodestone/playguide/db/item/0fbd132df7a/"
+                },
+                {
+                    "Icon": "https://img.finalfantasyxiv.com/lds/pc/global/images/itemicon/27/2701179b695926afcb6298e45a9283633fda5365.png?n6.05",
+                    "Name": "Silberbrille",
+                    "Amount": 1,
+                    "Url": "/lodestone/playguide/db/item/cee1b0ae6d4/"
+                },
+                {
+                    "Icon": "https://img.finalfantasyxiv.com/lds/pc/global/images/itemicon/ba/baa2341dd17414fae7fd62ae7bc62c64589b67be.png?n6.05",
+                    "Name": "Allagisches Silberstück",
+                    "Amount": 1,
+                    "Url": "/lodestone/playguide/db/item/a3ac3ba4b00/"
+                }
+            ]
+        },
+        "Infos": {
+            "PrerequisiteQuest": [
+                {
+                    "Name": "Die Gefahr der Umzinglung",
+                    "Url": "/lodestone/playguide/db/quest/5026eee3cc4/",
+                    "Area": "Ul'dah",
+                    "Level": "20"
+                }
+            ],
+            "FollowupQuest": [
+                {
+                    "Name": "Ein Äther für alle Fälle",
+                    "Url": "/lodestone/playguide/db/quest/efb4d31dbd3/",
+                    "Area": "Ul'dah",
+                    "Level": "30"
+                }
+            ],
+            "RelatedNPC": [
+                {
+                    "Name": "Cocobuki",
+                    "Url": "/lodestone/playguide/db/npc/npc/dc8b8565234/",
+                    "Area": "Nald-Kreuzgang (X:6.2 Y:12.8)"
+                },
+                {
+                    "Name": "Aufgeregte Geisterforscherin",
+                    "Url": "/lodestone/playguide/db/npc/npc/666630a3efc/",
+                    "Area": "Östliches Thanalan (X:13.7 Y:24.8)"
+                },
+                {
+                    "Name": "Cocobani",
+                    "Url": "/lodestone/playguide/db/npc/npc/9443cb2bbec/",
+                    "Area": "Östliches Thanalan (X:25.1 Y:14.6)"
+                },
+                {
+                    "Name": "Cocobezi",
+                    "Url": "/lodestone/playguide/db/npc/npc/42363ad2b55/",
+                    "Area": "Östliches Thanalan (X:25.0 Y:14.7)"
+                },
+                {
+                    "Name": "Cocoboha",
+                    "Url": "/lodestone/playguide/db/npc/npc/7a0b874e787/",
+                    "Area": "Östliches Thanalan (X:25.1 Y:14.6)"
+                },
+                {
+                    "Name": "Cocobuki",
+                    "Url": "/lodestone/playguide/db/npc/npc/b5faadb2b20/",
+                    "Area": "Östliches Thanalan (X:25.1 Y:14.7)"
+                },
+                {
+                    "Name": "Cocobygo",
+                    "Url": "/lodestone/playguide/db/npc/npc/34462b2fc74/",
+                    "Area": "Östliches Thanalan (X:25.1 Y:14.6)"
+                },
+                {
+                    "Name": "Sonderbarer Geisterforscher",
+                    "Url": "/lodestone/playguide/db/npc/npc/f0db17e1e61/",
+                    "Area": "Östliches Thanalan (X:13.5 Y:23.4)"
+                },
+                {
+                    "Name": "Unheimliche Geisterforscherin",
+                    "Url": "/lodestone/playguide/db/npc/npc/91d7aba1f9f/",
+                    "Area": "Östliches Thanalan (X:13.9 Y:24.3)"
+                }
+            ]
+        },
+        "Seq": 18,
+        "StartDependency": false
+    },
+    {
+        "ID": "82cdaaebcce",
+        "Name": "Die Gefahr der Übermacht",
+        "Location": "Ul'dah",
+        "Level": 15,
+        "JournalSection": 6,
+        "JournalCategory": 65,
+        "JournalGenre": "\n\t\t\t\t\t\t\tGildenaufträge der Thaumaturgen\n\t\t\t\t\t\t",
+        "Url": "/lodestone/playguide/db/quest/82cdaaebcce/",
+        "Image": "https://img.finalfantasyxiv.com/lds/pc/global/images/itemicon/1d/1d1b5d0c860020b0cc0010c1e27fdadc20978d0d.png?n6.05",
+        "Icon": "function_normal",
+        "Issuer": "Cocobuki",
+        "StartLocation": {
+            "Name": "Nald-Kreuzgang",
+            "X": "6.2",
+            "Y": "12.8"
+        },
+        "StartClass": null,
+        "Job": "",
+        "Company": "Keine Angabe",
+        "Requirement": "Keine Angabe",
+        "Rewards": {
+            "Gil": 0,
+            "Exp": 5760,
+            "ItemsMand": [
+                {
+                    "Icon": "https://img.finalfantasyxiv.com/lds/pc/global/images/itemicon/93/93ab4690a8d2fdcb8d666e8461c5b55047c7360d.png?n6.05",
+                    "Name": "Bronze-Schlägel",
+                    "Amount": 1,
+                    "Url": "/lodestone/playguide/db/item/6cd7c13feeb/"
+                },
+                {
+                    "Icon": "https://img.finalfantasyxiv.com/lds/pc/global/images/itemicon/d3/d3466a099e1ef32d47a440a4baccb7a059e6def6.png?n6.05",
+                    "Name": "Eschen-Plankenschild",
+                    "Amount": 1,
+                    "Url": "/lodestone/playguide/db/item/a1328f332f3/"
+                },
+                {
+                    "Icon": "https://img.finalfantasyxiv.com/lds/pc/global/images/itemicon/f8/f8dff8917a9b8f85078e5db2f226104bb3c6b83d.png?n6.05",
+                    "Name": "",
+                    "Amount": null
+                }
+            ],
+            "ItemsOpt": [
+                {
+                    "Icon": "https://img.finalfantasyxiv.com/lds/pc/global/images/itemicon/88/883c25cbad8a9d167ea5b4c8f62433b0eb17987c.png?n6.05",
+                    "Name": "Baumwollkukulle",
+                    "Amount": 1,
+                    "Url": "/lodestone/playguide/db/item/36d014c8772/"
+                },
+                {
+                    "Icon": "https://img.finalfantasyxiv.com/lds/pc/global/images/itemicon/4c/4c6fa2d2f278cb67fbb40527926da5541faa3577.png?n6.05",
+                    "Name": "Juchleder-Ringbänder",
+                    "Amount": 1,
+                    "Url": "/lodestone/playguide/db/item/17157ce9447/"
+                },
+                {
+                    "Icon": "https://img.finalfantasyxiv.com/lds/pc/global/images/itemicon/f1/f11b2bdc726435b29fa16ed7ee166b48beeed349.png?n6.05",
+                    "Name": "Baumwollstrumpfhose",
+                    "Amount": 1,
+                    "Url": "/lodestone/playguide/db/item/7b5a01b81df/"
+                },
+                {
+                    "Icon": "https://img.finalfantasyxiv.com/lds/pc/global/images/itemicon/ad/ada27e660b073d01c0a4159361c788a31aea4dd6.png?n6.05",
+                    "Name": "Juchlederstiefel",
+                    "Amount": 1,
+                    "Url": "/lodestone/playguide/db/item/7ada831af20/"
+                },
+                {
+                    "Icon": "https://img.finalfantasyxiv.com/lds/pc/global/images/itemicon/ba/baa2341dd17414fae7fd62ae7bc62c64589b67be.png?n6.05",
+                    "Name": "Allagisches Bronzestück",
+                    "Amount": 2,
+                    "Url": "/lodestone/playguide/db/item/ce2e67f0442/"
+                }
+            ]
+        },
+        "Infos": {
+            "PrerequisiteQuest": [
+                {
+                    "Name": "Die Gefahr des Mangels",
+                    "Url": "/lodestone/playguide/db/quest/a8a6c57536c/",
+                    "Area": "Ul'dah",
+                    "Level": "10"
+                },
+                {
+                    "Name": "Die Gefahr des Mangels",
+                    "Url": "/lodestone/playguide/db/quest/f76d7f00695/",
+                    "Area": "Ul'dah",
+                    "Level": "10"
+                }
+            ],
+            "FollowupQuest": [
+                {
+                    "Name": "Die Gefahr der Umzinglung",
+                    "Url": "/lodestone/playguide/db/quest/5026eee3cc4/",
+                    "Area": "Ul'dah",
+                    "Level": "20"
+                }
+            ],
+            "RelatedNPC": [
+                {
+                    "Name": "Aufgeregter Kaufmann",
+                    "Url": "/lodestone/playguide/db/npc/npc/900d5634803/",
+                    "Area": "Nald-Kreuzgang (X:7.7 Y:12.5)"
+                },
+                {
+                    "Name": "Cocobezi",
+                    "Url": "/lodestone/playguide/db/npc/npc/12906da8363/",
+                    "Area": "Nald-Kreuzgang (X:6.4 Y:12.9)"
+                },
+                {
+                    "Name": "Erboster Kaufmann",
+                    "Url": "/lodestone/playguide/db/npc/npc/f39e6bb0361/",
+                    "Area": "Nald-Kreuzgang (X:7.7 Y:12.4)"
+                },
+                {
+                    "Name": "Zeternde Kauffrau",
+                    "Url": "/lodestone/playguide/db/npc/npc/d5eccf869be/",
+                    "Area": "Nald-Kreuzgang (X:7.6 Y:12.4)"
+                }
+            ]
+        },
+        "Seq": 16,
+        "StartDependency": false
+    },
+    {
+        "ID": "9d21b92b555",
+        "Name": "Prüfung des Winds",
+        "Location": "Gridania",
+        "Level": 10,
+        "JournalSection": 6,
+        "JournalCategory": 65,
+        "JournalGenre": "\n\t\t\t\t\t\t\tGildenaufträge der Druiden\n\t\t\t\t\t\t",
+        "Url": "/lodestone/playguide/db/quest/9d21b92b555/",
+        "Image": "https://img.finalfantasyxiv.com/lds/pc/global/images/itemicon/e7/e7ada40313a99bd2680cb75423308ed4057cbf11.png?n6.05",
+        "Icon": "function_normal",
+        "Issuer": "E-Sumi-Yan",
+        "StartLocation": {
+            "Name": "Alt-Gridania",
+            "X": "6.0",
+            "Y": "10.6"
+        },
+        "StartClass": null,
+        "Job": "",
+        "Company": "Keine Angabe",
+        "Requirement": "Keine Angabe",
+        "Rewards": {
+            "Gil": 0,
+            "Exp": 3420,
+            "ItemsMand": [
+                {
+                    "Icon": "https://img.finalfantasyxiv.com/lds/pc/global/images/itemicon/3c/3c5d00b68b7a65e4a1129bf54ce982a506790965.png?n6.05",
+                    "Name": "Ahornhirtenstock",
+                    "Amount": 1,
+                    "Url": "/lodestone/playguide/db/item/8f4128a3d64/"
+                }
+            ],
+            "ItemsOpt": [
+                {
+                    "Icon": "https://img.finalfantasyxiv.com/lds/pc/global/images/itemicon/2b/2b8e2da79ff4845b187f5e5a7eb8e1358fe099b8.png?n6.05",
+                    "Name": "Laien-Dalmatika",
+                    "Amount": 1,
+                    "Url": "/lodestone/playguide/db/item/019305b4ff1/"
+                },
+                {
+                    "Icon": "https://img.finalfantasyxiv.com/lds/pc/global/images/itemicon/fc/fc9fea75329659f3b969aa4d350154efff3be7cf.png?n6.05",
+                    "Name": "Laien-Hanfbundhaube",
+                    "Amount": 1,
+                    "Url": "/lodestone/playguide/db/item/b7de935079f/"
+                },
+                {
+                    "Icon": "https://img.finalfantasyxiv.com/lds/pc/global/images/itemicon/34/34119f4265fbd7015dbce0de495ee276f3184fe3.png?n6.05",
+                    "Name": "Hanf-Galahandschuhe",
+                    "Amount": 1,
+                    "Url": "/lodestone/playguide/db/item/9d65800aa15/"
+                },
+                {
+                    "Icon": "https://img.finalfantasyxiv.com/lds/pc/global/images/itemicon/cc/cce1137ec8868ea2a5dba679084197f030dce8ec.png?n6.05",
+                    "Name": "Laien-Schnabelschuhe",
+                    "Amount": 1,
+                    "Url": "/lodestone/playguide/db/item/3cb6f21b282/"
+                },
+                {
+                    "Icon": "https://img.finalfantasyxiv.com/lds/pc/global/images/itemicon/ba/baa2341dd17414fae7fd62ae7bc62c64589b67be.png?n6.05",
+                    "Name": "Allagisches Bronzestück",
+                    "Amount": 2,
+                    "Url": "/lodestone/playguide/db/item/ce2e67f0442/"
+                }
+            ]
+        },
+        "Infos": {
+            "PrerequisiteQuest": [
+                {
+                    "Name": "Der Weg des Druiden",
+                    "Url": "/lodestone/playguide/db/quest/b4758d83d19/",
+                    "Area": "Gridania",
+                    "Level": "1"
+                },
+                {
+                    "Name": "Prüfung der Erde",
+                    "Url": "/lodestone/playguide/db/quest/1655c23d64e/",
+                    "Area": "Gridania",
+                    "Level": "5"
+                }
+            ],
+            "FollowupQuest": [
+                {
+                    "Name": "Prüfung des Wassers",
+                    "Url": "/lodestone/playguide/db/quest/cc938dbb781/",
+                    "Area": "Gridania",
+                    "Level": "15"
+                }
+            ],
+            "RelatedNPC": [
+                {
+                    "Name": "Wulfiue",
+                    "Url": "/lodestone/playguide/db/npc/npc/e718f5ca4c5/",
+                    "Area": "Ostwald (X:11.8 Y:25.6)"
+                }
+            ]
+        },
+        "Seq": 5,
+        "StartDependency": false
+    },
+    {
+        "ID": "a02c1c29571",
+        "Name": "Im Schoß der Natur",
+        "Location": "Gridania",
+        "Level": 30,
+        "JournalSection": 6,
+        "JournalCategory": 65,
+        "JournalGenre": "\n\t\t\t\t\t\t\tGildenaufträge der Druiden\n\t\t\t\t\t\t",
+        "Url": "/lodestone/playguide/db/quest/a02c1c29571/",
+        "Image": "https://img.finalfantasyxiv.com/lds/pc/global/images/itemicon/e7/e7ada40313a99bd2680cb75423308ed4057cbf11.png?n6.05",
+        "Icon": "function_normal",
+        "Issuer": "E-Sumi-Yan",
+        "StartLocation": {
+            "Name": "Alt-Gridania",
+            "X": "6.0",
+            "Y": "10.6"
+        },
+        "StartClass": null,
+        "Job": "",
+        "Company": "Keine Angabe",
+        "Requirement": "Keine Angabe",
+        "Rewards": {
+            "Gil": 0,
+            "Exp": 12480,
+            "ItemsMand": [
+                {
+                    "Icon": "https://img.finalfantasyxiv.com/lds/pc/global/images/itemicon/c0/c0c574c664b95da125c84dadacd28ed0783d6f4e.png?n6.05",
+                    "Name": "Walnuss-Stock",
+                    "Amount": 1,
+                    "Url": "/lodestone/playguide/db/item/968d06f134c/"
+                },
+                {
+                    "Icon": "https://img.finalfantasyxiv.com/lds/pc/global/images/itemicon/ee/ee3897648be787f6f60c736718a75397bf8c2ce0.png?n6.05",
+                    "Name": "",
+                    "Amount": null
+                }
+            ],
+            "ItemsOpt": [
+                {
+                    "Icon": "https://img.finalfantasyxiv.com/lds/pc/global/images/itemicon/7b/7b4a6a59aad14209bd090709006bb9b025c96200.png?n6.05",
+                    "Name": "Samt-Bliaud",
+                    "Amount": 1,
+                    "Url": "/lodestone/playguide/db/item/16ce086f201/"
+                },
+                {
+                    "Icon": "https://img.finalfantasyxiv.com/lds/pc/global/images/itemicon/32/32874ec54b7b6e83c5407a347bec04887297e3c1.png?n6.05",
+                    "Name": "Bearbeitete Samtreiterhose",
+                    "Amount": 1,
+                    "Url": "/lodestone/playguide/db/item/679acc9260a/"
+                },
+                {
+                    "Icon": "https://img.finalfantasyxiv.com/lds/pc/global/images/itemicon/97/97feca3cff59501ccd44029120221f86d276e69c.png?n6.05",
+                    "Name": "Samthandschuhe",
+                    "Amount": 1,
+                    "Url": "/lodestone/playguide/db/item/b11e7ccd9bc/"
+                },
+                {
+                    "Icon": "https://img.finalfantasyxiv.com/lds/pc/global/images/itemicon/23/237939e762d58afb704fc1be4e13ea98c7975a62.png?n6.05",
+                    "Name": "Dodo-Stiefel",
+                    "Amount": 1,
+                    "Url": "/lodestone/playguide/db/item/73ee923accf/"
+                },
+                {
+                    "Icon": "https://img.finalfantasyxiv.com/lds/pc/global/images/itemicon/ba/baa2341dd17414fae7fd62ae7bc62c64589b67be.png?n6.05",
+                    "Name": "Allagisches Silberstück",
+                    "Amount": 3,
+                    "Url": "/lodestone/playguide/db/item/a3ac3ba4b00/"
+                }
+            ]
+        },
+        "Infos": {
+            "PrerequisiteQuest": [
+                {
+                    "Name": "Wie die Mutter, so die Tochter",
+                    "Url": "/lodestone/playguide/db/quest/3321be3cd92/",
+                    "Area": "Gridania",
+                    "Level": "25"
+                }
+            ],
+            "FollowupQuest": [
+                {
+                    "Name": "Ein einzigartiges Pferd",
+                    "Url": "/lodestone/playguide/db/quest/8fa605dd35d/",
+                    "Area": "Gridania",
+                    "Level": "30"
+                },
+                {
+                    "Name": "Wächter der Tradition",
+                    "Url": "/lodestone/playguide/db/quest/e3eba90aefc/",
+                    "Area": "Gridania",
+                    "Level": "30"
+                }
+            ],
+            "RelatedNPC": [
+                {
+                    "Name": "Sylphie",
+                    "Url": "/lodestone/playguide/db/npc/npc/930c093393b/",
+                    "Area": "Südwald (X:22.4 Y:21.4)"
+                },
+                {
+                    "Name": "Sylphie",
+                    "Url": "/lodestone/playguide/db/npc/npc/415bbfda0e9/",
+                    "Area": "Südwald (X:23.9 Y:18.8)"
+                },
+                {
+                    "Name": "Sylphie",
+                    "Url": "/lodestone/playguide/db/npc/npc/73efcfeeecc/",
+                    "Area": "Südwald (X:27.3 Y:19.2)"
+                },
+                {
+                    "Name": "Sylphie",
+                    "Url": "/lodestone/playguide/db/npc/npc/c3804b714b4/",
+                    "Area": "Südwald (X:28.1 Y:19.7)"
+                }
+            ],
+            "RelatedAchievements": [
+                {
+                    "Name": "Man wird nur einmal Stufe 30",
+                    "Url": "/lodestone/playguide/db/achievement/ce7e69895dc/",
+                    "Reward": "-",
+                    "Points": "5"
+                },
+                {
+                    "Name": "Ode an die Magier",
+                    "Url": "/lodestone/playguide/db/achievement/5c94e109800/",
+                    "Reward": "Titel",
+                    "Points": "10"
+                }
+            ]
+        },
+        "Seq": 9,
+        "StartDependency": false
+    },
+    {
+        "ID": "a8a6c57536c",
+        "Name": "Die Gefahr des Mangels",
+        "Location": "Ul'dah",
+        "Level": 10,
+        "JournalSection": 6,
+        "JournalCategory": 65,
+        "JournalGenre": "\n\t\t\t\t\t\t\tGildenaufträge der Thaumaturgen\n\t\t\t\t\t\t",
+        "Url": "/lodestone/playguide/db/quest/a8a6c57536c/",
+        "Image": "https://img.finalfantasyxiv.com/lds/pc/global/images/itemicon/1d/1d1b5d0c860020b0cc0010c1e27fdadc20978d0d.png?n6.05",
+        "Icon": "function_normal",
+        "Issuer": "Cocobuki",
+        "StartLocation": {
+            "Name": "Nald-Kreuzgang",
+            "X": "6.2",
+            "Y": "12.8"
+        },
+        "StartClass": null,
+        "Job": "",
+        "Company": "Keine Angabe",
+        "Requirement": "Keine Angabe",
+        "Rewards": {
+            "Gil": 0,
+            "Exp": 3420,
+            "ItemsMand": [
+                {
+                    "Icon": "https://img.finalfantasyxiv.com/lds/pc/global/images/itemicon/fa/fa28567681e313b85fdb2c596117930cb6760725.png?n6.05",
+                    "Name": "Kupferzepter",
+                    "Amount": 1,
+                    "Url": "/lodestone/playguide/db/item/b2d2432086e/"
+                }
+            ],
+            "ItemsOpt": [
+                {
+                    "Icon": "https://img.finalfantasyxiv.com/lds/pc/global/images/itemicon/2b/2b8e2da79ff4845b187f5e5a7eb8e1358fe099b8.png?n6.05",
+                    "Name": "Laien-Dalmatika",
+                    "Amount": 1,
+                    "Url": "/lodestone/playguide/db/item/019305b4ff1/"
+                },
+                {
+                    "Icon": "https://img.finalfantasyxiv.com/lds/pc/global/images/itemicon/fc/fc9fea75329659f3b969aa4d350154efff3be7cf.png?n6.05",
+                    "Name": "Laien-Hanfbundhaube",
+                    "Amount": 1,
+                    "Url": "/lodestone/playguide/db/item/b7de935079f/"
+                },
+                {
+                    "Icon": "https://img.finalfantasyxiv.com/lds/pc/global/images/itemicon/34/34119f4265fbd7015dbce0de495ee276f3184fe3.png?n6.05",
+                    "Name": "Hanf-Galahandschuhe",
+                    "Amount": 1,
+                    "Url": "/lodestone/playguide/db/item/9d65800aa15/"
+                },
+                {
+                    "Icon": "https://img.finalfantasyxiv.com/lds/pc/global/images/itemicon/cc/cce1137ec8868ea2a5dba679084197f030dce8ec.png?n6.05",
+                    "Name": "Laien-Schnabelschuhe",
+                    "Amount": 1,
+                    "Url": "/lodestone/playguide/db/item/3cb6f21b282/"
+                },
+                {
+                    "Icon": "https://img.finalfantasyxiv.com/lds/pc/global/images/itemicon/ba/baa2341dd17414fae7fd62ae7bc62c64589b67be.png?n6.05",
+                    "Name": "Allagisches Bronzestück",
+                    "Amount": 2,
+                    "Url": "/lodestone/playguide/db/item/ce2e67f0442/"
+                }
+            ]
+        },
+        "Infos": {
+            "PrerequisiteQuest": [
+                {
+                    "Name": "Der Weg des Thaumaturgen",
+                    "Url": "/lodestone/playguide/db/quest/2e5314cfa56/",
+                    "Area": "Ul'dah",
+                    "Level": "1"
+                },
+                {
+                    "Name": "Die Gefahr der Nähe",
+                    "Url": "/lodestone/playguide/db/quest/dcd9ff9ecab/",
+                    "Area": "Ul'dah",
+                    "Level": "5"
+                }
+            ],
+            "FollowupQuest": [
+                {
+                    "Name": "Die Gefahr der Übermacht",
+                    "Url": "/lodestone/playguide/db/quest/82cdaaebcce/",
+                    "Area": "Ul'dah",
+                    "Level": "15"
+                }
+            ],
+            "RelatedNPC": [
+                {
+                    "Name": "Cocobani",
+                    "Url": "/lodestone/playguide/db/npc/npc/f9ee59b5cfb/",
+                    "Area": "Nald-Kreuzgang (X:6.4 Y:12.9)"
+                }
+            ]
+        },
+        "Seq": 14,
+        "StartDependency": false
+    },
+    {
+        "ID": "a8e4c161337",
+        "Name": "Eine unerwartete Begegnung",
+        "Location": "Limsa Lominsa",
+        "Level": 5,
+        "JournalSection": 6,
+        "JournalCategory": 65,
+        "JournalGenre": "\n\t\t\t\t\t\t\tGildenaufträge der Hermetiker\n\t\t\t\t\t\t",
+        "Url": "/lodestone/playguide/db/quest/a8e4c161337/",
+        "Image": "https://img.finalfantasyxiv.com/lds/pc/global/images/itemicon/37/37a8d65a8cae978d922a694a4d310979ed6e119d.png?n6.05",
+        "Icon": "function_normal",
+        "Issuer": "Thubyrgeim",
+        "StartLocation": {
+            "Name": "Untere Decks",
+            "X": "4.7",
+            "Y": "11.4"
+        },
+        "StartClass": null,
+        "Job": "",
+        "Company": "Keine Angabe",
+        "Requirement": "Keine Angabe",
+        "Rewards": {
+            "Gil": 0,
+            "Exp": 1400,
+            "ItemsMand": [
+                {
+                    "Icon": "https://img.finalfantasyxiv.com/lds/pc/global/images/itemicon/08/08a251b764121abe67d3ecb7d9d9754863bacd56.png?n6.05",
+                    "Name": "Leder-Grimoire",
+                    "Amount": 1,
+                    "Url": "/lodestone/playguide/db/item/a2abfbc4586/"
+                }
+            ],
+            "ItemsOpt": [
+                {
+                    "Icon": "https://img.finalfantasyxiv.com/lds/pc/global/images/itemicon/fe/fe785decf99e06c3142485caa203ba5fcf601300.png?n6.05",
+                    "Name": "Maßgeschneiderte Robe der Magie",
+                    "Amount": 1,
+                    "Url": "/lodestone/playguide/db/item/8ff2590c2e3/"
+                },
+                {
+                    "Icon": "https://img.finalfantasyxiv.com/lds/pc/global/images/itemicon/25/25b94364f1072db0349138ac7708d96092ee5018.png?n6.05",
+                    "Name": "Hanfhut",
+                    "Amount": 1,
+                    "Url": "/lodestone/playguide/db/item/27fc1a1f28c/"
+                },
+                {
+                    "Icon": "https://img.finalfantasyxiv.com/lds/pc/global/images/itemicon/99/994f4be6f730e5d5389c2bfe57dfabe737358e20.png?n6.05",
+                    "Name": "Knochen-Ring",
+                    "Amount": 1,
+                    "Url": "/lodestone/playguide/db/item/a0de9889c4a/"
+                },
+                {
+                    "Icon": "https://img.finalfantasyxiv.com/lds/pc/global/images/itemicon/ca/ca9396ae6351b2c260042541db6280473c2927a5.png?n6.05",
+                    "Name": "Kupferarmbänder",
+                    "Amount": 1,
+                    "Url": "/lodestone/playguide/db/item/712e7211081/"
+                },
+                {
+                    "Icon": "https://img.finalfantasyxiv.com/lds/pc/global/images/itemicon/ba/baa2341dd17414fae7fd62ae7bc62c64589b67be.png?n6.05",
+                    "Name": "Allagisches Zinnstück",
+                    "Amount": 5,
+                    "Url": "/lodestone/playguide/db/item/a5fd38903c4/"
+                }
+            ]
+        },
+        "Infos": {
+            "PrerequisiteQuest": [
+                {
+                    "Name": "Der Weg des Hermetikers",
+                    "Url": "/lodestone/playguide/db/quest/2f136560df9/",
+                    "Area": "Limsa Lominsa",
+                    "Level": "1"
+                },
+                {
+                    "Name": "Das Grimoire aufnehmen",
+                    "Url": "/lodestone/playguide/db/quest/cb1c8b16a34/",
+                    "Area": "Limsa Lominsa",
+                    "Level": "1"
+                }
+            ],
+            "FollowupQuest": [
+                {
+                    "Name": "Die Brodelsocken",
+                    "Url": "/lodestone/playguide/db/quest/5a269538124/",
+                    "Area": "Limsa Lominsa",
+                    "Level": "10"
+                },
+                {
+                    "Name": "Die Brodelsocken",
+                    "Url": "/lodestone/playguide/db/quest/d1fa143287b/",
+                    "Area": "Limsa Lominsa",
+                    "Level": "10"
+                }
+            ]
+        },
+        "Seq": 23,
+        "StartDependency": false
+    },
+    {
+        "ID": "b4758d83d19",
+        "Name": "Der Weg des Druiden",
+        "Location": "Gridania",
+        "Level": 1,
+        "JournalSection": 6,
+        "JournalCategory": 65,
+        "JournalGenre": "\n\t\t\t\t\t\t\tGildenaufträge der Druiden\n\t\t\t\t\t\t",
+        "Url": "/lodestone/playguide/db/quest/b4758d83d19/",
+        "Image": "https://img.finalfantasyxiv.com/lds/pc/global/images/itemicon/e7/e7ada40313a99bd2680cb75423308ed4057cbf11.png?n6.05",
+        "Icon": "function_normal",
+        "Issuer": "Madelle",
+        "StartLocation": {
+            "Name": "Alt-Gridania",
+            "X": "6.5",
+            "Y": "11.0"
+        },
+        "StartClass": null,
+        "Job": "",
+        "Company": "Keine Angabe",
+        "Requirement": "Keine Angabe",
+        "Rewards": {
+            "Gil": 0,
+            "Exp": 400,
+            "ItemsMand": [
+                {
+                    "Icon": "https://img.finalfantasyxiv.com/lds/pc/global/images/itemicon/0a/0aeca35ea6c41acf87a33d1ae394e722544353e8.png?n6.05",
+                    "Name": "Verschlissener Stock",
+                    "Amount": 1,
+                    "Url": "/lodestone/playguide/db/item/1f1af1de88f/"
+                }
+            ],
+            "ItemsOpt": []
+        },
+        "Infos": {
+            "FollowupQuest": [
+                {
+                    "Name": "Den Stock aufnehmen",
+                    "Url": "/lodestone/playguide/db/quest/b5d05a159bb/",
+                    "Area": "Gridania",
+                    "Level": "1"
+                },
+                {
+                    "Name": "Prüfung des Winds",
+                    "Url": "/lodestone/playguide/db/quest/9d21b92b555/",
+                    "Area": "Gridania",
+                    "Level": "10"
+                }
+            ],
+            "RelatedNPC": [
+                {
+                    "Name": "E-Sumi-Yan",
+                    "Url": "/lodestone/playguide/db/npc/npc/208d50d33b5/",
+                    "Area": "Alt-Gridania (X:6.0 Y:10.6)"
+                }
+            ]
+        },
+        "Seq": 19,
+        "StartDependency": false
+    },
+    {
+        "ID": "b5d05a159bb",
+        "Name": "Den Stock aufnehmen",
+        "Location": "Gridania",
+        "Level": 1,
+        "JournalSection": 6,
+        "JournalCategory": 65,
+        "JournalGenre": "\n\t\t\t\t\t\t\tGildenaufträge der Druiden\n\t\t\t\t\t\t",
+        "Url": "/lodestone/playguide/db/quest/b5d05a159bb/",
+        "Image": "https://img.finalfantasyxiv.com/lds/pc/global/images/itemicon/e7/e7ada40313a99bd2680cb75423308ed4057cbf11.png?n6.05",
+        "Icon": "function_normal",
+        "Issuer": "E-Sumi-Yan",
+        "StartLocation": {
+            "Name": "Alt-Gridania",
+            "X": "6.0",
+            "Y": "10.6"
+        },
+        "StartClass": null,
+        "Job": "",
+        "Company": "Keine Angabe",
+        "Requirement": "Keine Angabe",
+        "Rewards": {
+            "Gil": 115,
+            "Exp": 400,
+            "ItemsMand": [],
+            "ItemsOpt": []
+        },
+        "Infos": {
+            "PrerequisiteQuest": [
+                {
+                    "Name": "Der Weg des Druiden",
+                    "Url": "/lodestone/playguide/db/quest/b4758d83d19/",
+                    "Area": "Gridania",
+                    "Level": "1"
+                }
+            ],
+            "FollowupQuest": [
+                {
+                    "Name": "Prüfung der Erde",
+                    "Url": "/lodestone/playguide/db/quest/1655c23d64e/",
+                    "Area": "Gridania",
+                    "Level": "5"
+                }
+            ]
+        },
+        "Seq": 2,
+        "StartDependency": false
+    },
+    {
+        "ID": "c6975b0e58d",
+        "Name": "Ein neuer Gefährte",
+        "Location": "Limsa Lominsa",
+        "Level": 15,
+        "JournalSection": 6,
+        "JournalCategory": 65,
+        "JournalGenre": "\n\t\t\t\t\t\t\tGildenaufträge der Hermetiker\n\t\t\t\t\t\t",
+        "Url": "/lodestone/playguide/db/quest/c6975b0e58d/",
+        "Image": "https://img.finalfantasyxiv.com/lds/pc/global/images/itemicon/37/37a8d65a8cae978d922a694a4d310979ed6e119d.png?n6.05",
+        "Icon": "function_normal",
+        "Issuer": "Thubyrgeim",
+        "StartLocation": {
+            "Name": "Untere Decks",
+            "X": "4.7",
+            "Y": "11.4"
+        },
+        "StartClass": null,
+        "Job": "",
+        "Company": "Keine Angabe",
+        "Requirement": "Keine Angabe",
+        "Rewards": {
+            "Gil": 0,
+            "Exp": 2880,
+            "ItemsMand": [
+                {
+                    "Icon": "https://img.finalfantasyxiv.com/lds/pc/global/images/itemicon/ac/acc9bedd0fb1446bb57686a08dc6d1bfc2d349d1.png?n6.05",
+                    "Name": "",
+                    "Amount": null
+                },
+                {
+                    "Icon": "https://img.finalfantasyxiv.com/lds/pc/global/images/itemicon/b8/b891f6de8656f13b72cfec04c3c68851bbaba3d9.png?n6.05",
+                    "Name": "",
+                    "Amount": null
+                }
+            ],
+            "ItemsOpt": []
+        },
+        "Infos": {
+            "PrerequisiteQuest": [
+                {
+                    "Name": "Die Brodelsocken",
+                    "Url": "/lodestone/playguide/db/quest/5a269538124/",
+                    "Area": "Limsa Lominsa",
+                    "Level": "10"
+                },
+                {
+                    "Name": "Die Brodelsocken",
+                    "Url": "/lodestone/playguide/db/quest/d1fa143287b/",
+                    "Area": "Limsa Lominsa",
+                    "Level": "10"
+                }
+            ],
+            "FollowupQuest": [
+                {
+                    "Name": "Ankunft der Morgenstern",
+                    "Url": "/lodestone/playguide/db/quest/f9107663c73/",
+                    "Area": "Limsa Lominsa",
+                    "Level": "15"
+                }
+            ],
+            "RelatedNPC": [
+                {
+                    "Name": "K'lyhia",
+                    "Url": "/lodestone/playguide/db/npc/npc/055c6e8389b/",
+                    "Area": "Untere Decks (X:4.2 Y:11.4)"
+                }
+            ]
+        },
+        "Seq": 26,
+        "StartDependency": false
+    },
+    {
+        "ID": "cb1c8b16a34",
+        "Name": "Das Grimoire aufnehmen",
+        "Location": "Limsa Lominsa",
+        "Level": 1,
+        "JournalSection": 6,
+        "JournalCategory": 65,
+        "JournalGenre": "\n\t\t\t\t\t\t\tGildenaufträge der Hermetiker\n\t\t\t\t\t\t",
+        "Url": "/lodestone/playguide/db/quest/cb1c8b16a34/",
+        "Image": "https://img.finalfantasyxiv.com/lds/pc/global/images/itemicon/37/37a8d65a8cae978d922a694a4d310979ed6e119d.png?n6.05",
+        "Icon": "function_normal",
+        "Issuer": "Thubyrgeim",
+        "StartLocation": {
+            "Name": "Untere Decks",
+            "X": "4.7",
+            "Y": "11.4"
+        },
+        "StartClass": null,
+        "Job": "",
+        "Company": "Keine Angabe",
+        "Requirement": "Keine Angabe",
+        "Rewards": {
+            "Gil": 115,
+            "Exp": 400,
+            "ItemsMand": [],
+            "ItemsOpt": []
+        },
+        "Infos": {
+            "PrerequisiteQuest": [
+                {
+                    "Name": "Der Weg des Hermetikers",
+                    "Url": "/lodestone/playguide/db/quest/4100af4d4b8/",
+                    "Area": "Limsa Lominsa",
+                    "Level": "1"
+                }
+            ],
+            "FollowupQuest": [
+                {
+                    "Name": "Eine unerwartete Begegnung",
+                    "Url": "/lodestone/playguide/db/quest/a8e4c161337/",
+                    "Area": "Limsa Lominsa",
+                    "Level": "5"
+                },
+                {
+                    "Name": "Die Brodelsocken",
+                    "Url": "/lodestone/playguide/db/quest/d1fa143287b/",
+                    "Area": "Limsa Lominsa",
+                    "Level": "10"
+                }
+            ]
+        },
+        "Seq": 22,
+        "StartDependency": false
+    },
+    {
+        "ID": "cc938dbb781",
+        "Name": "Prüfung des Wassers",
+        "Location": "Gridania",
+        "Level": 15,
+        "JournalSection": 6,
+        "JournalCategory": 65,
+        "JournalGenre": "\n\t\t\t\t\t\t\tGildenaufträge der Druiden\n\t\t\t\t\t\t",
+        "Url": "/lodestone/playguide/db/quest/cc938dbb781/",
+        "Image": "https://img.finalfantasyxiv.com/lds/pc/global/images/itemicon/e7/e7ada40313a99bd2680cb75423308ed4057cbf11.png?n6.05",
+        "Icon": "function_normal",
+        "Issuer": "E-Sumi-Yan",
+        "StartLocation": {
+            "Name": "Alt-Gridania",
+            "X": "6.0",
+            "Y": "10.6"
+        },
+        "StartClass": null,
+        "Job": "",
+        "Company": "Keine Angabe",
+        "Requirement": "Keine Angabe",
+        "Rewards": {
+            "Gil": 0,
+            "Exp": 5760,
+            "ItemsMand": [
+                {
+                    "Icon": "https://img.finalfantasyxiv.com/lds/pc/global/images/itemicon/0b/0b2699e4da857079e4dbad2fec4ab0817e7aa9ce.png?n6.05",
+                    "Name": "Eschenzweig",
+                    "Amount": 1,
+                    "Url": "/lodestone/playguide/db/item/eadbea80388/"
+                },
+                {
+                    "Icon": "https://img.finalfantasyxiv.com/lds/pc/global/images/itemicon/d3/d3466a099e1ef32d47a440a4baccb7a059e6def6.png?n6.05",
+                    "Name": "Eschen-Plankenschild",
+                    "Amount": 1,
+                    "Url": "/lodestone/playguide/db/item/a1328f332f3/"
+                }
+            ],
+            "ItemsOpt": [
+                {
+                    "Icon": "https://img.finalfantasyxiv.com/lds/pc/global/images/itemicon/88/883c25cbad8a9d167ea5b4c8f62433b0eb17987c.png?n6.05",
+                    "Name": "Baumwollkukulle",
+                    "Amount": 1,
+                    "Url": "/lodestone/playguide/db/item/36d014c8772/"
+                },
+                {
+                    "Icon": "https://img.finalfantasyxiv.com/lds/pc/global/images/itemicon/4c/4c6fa2d2f278cb67fbb40527926da5541faa3577.png?n6.05",
+                    "Name": "Juchleder-Ringbänder",
+                    "Amount": 1,
+                    "Url": "/lodestone/playguide/db/item/17157ce9447/"
+                },
+                {
+                    "Icon": "https://img.finalfantasyxiv.com/lds/pc/global/images/itemicon/f1/f11b2bdc726435b29fa16ed7ee166b48beeed349.png?n6.05",
+                    "Name": "Baumwollstrumpfhose",
+                    "Amount": 1,
+                    "Url": "/lodestone/playguide/db/item/7b5a01b81df/"
+                },
+                {
+                    "Icon": "https://img.finalfantasyxiv.com/lds/pc/global/images/itemicon/ad/ada27e660b073d01c0a4159361c788a31aea4dd6.png?n6.05",
+                    "Name": "Juchlederstiefel",
+                    "Amount": 1,
+                    "Url": "/lodestone/playguide/db/item/7ada831af20/"
+                },
+                {
+                    "Icon": "https://img.finalfantasyxiv.com/lds/pc/global/images/itemicon/ba/baa2341dd17414fae7fd62ae7bc62c64589b67be.png?n6.05",
+                    "Name": "Allagisches Bronzestück",
+                    "Amount": 3,
+                    "Url": "/lodestone/playguide/db/item/ce2e67f0442/"
+                }
+            ]
+        },
+        "Infos": {
+            "PrerequisiteQuest": [
+                {
+                    "Name": "Prüfung des Winds",
+                    "Url": "/lodestone/playguide/db/quest/6861bfea77f/",
+                    "Area": "Gridania",
+                    "Level": "10"
+                },
+                {
+                    "Name": "Prüfung des Winds",
+                    "Url": "/lodestone/playguide/db/quest/9d21b92b555/",
+                    "Area": "Gridania",
+                    "Level": "10"
+                }
+            ],
+            "FollowupQuest": [
+                {
+                    "Name": "Sylphies Prüfungen",
+                    "Url": "/lodestone/playguide/db/quest/4475bfec9fe/",
+                    "Area": "Gridania",
+                    "Level": "20"
+                }
+            ],
+            "RelatedNPC": [
+                {
+                    "Name": "Aniud",
+                    "Url": "/lodestone/playguide/db/npc/npc/95b7cb22f62/",
+                    "Area": "Ostwald (X:17.2 Y:26.3)"
+                },
+                {
+                    "Name": "Draufgängerische Druidin",
+                    "Url": "/lodestone/playguide/db/npc/npc/9e552908243/",
+                    "Area": "Ostwald (X:16.7 Y:26.3)"
+                },
+                {
+                    "Name": "Joacin",
+                    "Url": "/lodestone/playguide/db/npc/npc/c542a4787e3/",
+                    "Area": "Ostwald (X:16.8 Y:27.0)"
+                },
+                {
+                    "Name": "Soldat von Nophicas Schar",
+                    "Url": "/lodestone/playguide/db/npc/npc/7549f3c1e56/",
+                    "Area": "Ostwald (X:20.1 Y:26.1)"
+                },
+                {
+                    "Name": "Sylphie",
+                    "Url": "/lodestone/playguide/db/npc/npc/8c5c82b4069/",
+                    "Area": "Ostwald (X:20.1 Y:26.1)"
+                },
+                {
+                    "Name": "Sylphie",
+                    "Url": "/lodestone/playguide/db/npc/npc/e138695e60a/",
+                    "Area": "Ostwald (X:19.9 Y:27.1)"
+                },
+                {
+                    "Name": "Verwundeter Soldat",
+                    "Url": "/lodestone/playguide/db/npc/npc/8881ea576fa/",
+                    "Area": "Ostwald (X:16.7 Y:26.3)"
+                }
+            ]
+        },
+        "Seq": 6,
+        "StartDependency": false
+    },
+    {
+        "ID": "d1fa143287b",
+        "Name": "Die Brodelsocken",
+        "Location": "Limsa Lominsa",
+        "Level": 10,
+        "JournalSection": 6,
+        "JournalCategory": 65,
+        "JournalGenre": "\n\t\t\t\t\t\t\tGildenaufträge der Hermetiker\n\t\t\t\t\t\t",
+        "Url": "/lodestone/playguide/db/quest/d1fa143287b/",
+        "Image": "https://img.finalfantasyxiv.com/lds/pc/global/images/itemicon/37/37a8d65a8cae978d922a694a4d310979ed6e119d.png?n6.05",
+        "Icon": "function_normal",
+        "Issuer": "Thubyrgeim",
+        "StartLocation": {
+            "Name": "Untere Decks",
+            "X": "4.7",
+            "Y": "11.4"
+        },
+        "StartClass": null,
+        "Job": "",
+        "Company": "Keine Angabe",
+        "Requirement": "Keine Angabe",
+        "Rewards": {
+            "Gil": 0,
+            "Exp": 3420,
+            "ItemsMand": [
+                {
+                    "Icon": "https://img.finalfantasyxiv.com/lds/pc/global/images/itemicon/08/08a251b764121abe67d3ecb7d9d9754863bacd56.png?n6.05",
+                    "Name": "Verziertes Leder-Grimoire",
+                    "Amount": 1,
+                    "Url": "/lodestone/playguide/db/item/70359df22c0/"
+                }
+            ],
+            "ItemsOpt": [
+                {
+                    "Icon": "https://img.finalfantasyxiv.com/lds/pc/global/images/itemicon/2b/2b8e2da79ff4845b187f5e5a7eb8e1358fe099b8.png?n6.05",
+                    "Name": "Laien-Dalmatika",
+                    "Amount": 1,
+                    "Url": "/lodestone/playguide/db/item/019305b4ff1/"
+                },
+                {
+                    "Icon": "https://img.finalfantasyxiv.com/lds/pc/global/images/itemicon/fc/fc9fea75329659f3b969aa4d350154efff3be7cf.png?n6.05",
+                    "Name": "Laien-Hanfbundhaube",
+                    "Amount": 1,
+                    "Url": "/lodestone/playguide/db/item/b7de935079f/"
+                },
+                {
+                    "Icon": "https://img.finalfantasyxiv.com/lds/pc/global/images/itemicon/34/34119f4265fbd7015dbce0de495ee276f3184fe3.png?n6.05",
+                    "Name": "Hanf-Galahandschuhe",
+                    "Amount": 1,
+                    "Url": "/lodestone/playguide/db/item/9d65800aa15/"
+                },
+                {
+                    "Icon": "https://img.finalfantasyxiv.com/lds/pc/global/images/itemicon/cc/cce1137ec8868ea2a5dba679084197f030dce8ec.png?n6.05",
+                    "Name": "Laien-Schnabelschuhe",
+                    "Amount": 1,
+                    "Url": "/lodestone/playguide/db/item/3cb6f21b282/"
+                },
+                {
+                    "Icon": "https://img.finalfantasyxiv.com/lds/pc/global/images/itemicon/ba/baa2341dd17414fae7fd62ae7bc62c64589b67be.png?n6.05",
+                    "Name": "Allagisches Bronzestück",
+                    "Amount": 2,
+                    "Url": "/lodestone/playguide/db/item/ce2e67f0442/"
+                }
+            ]
+        },
+        "Infos": {
+            "PrerequisiteQuest": [
+                {
+                    "Name": "Das Grimoire aufnehmen",
+                    "Url": "/lodestone/playguide/db/quest/cb1c8b16a34/",
+                    "Area": "Limsa Lominsa",
+                    "Level": "1"
+                },
+                {
+                    "Name": "Eine unerwartete Begegnung",
+                    "Url": "/lodestone/playguide/db/quest/a8e4c161337/",
+                    "Area": "Limsa Lominsa",
+                    "Level": "5"
+                }
+            ],
+            "FollowupQuest": [
+                {
+                    "Name": "Ein neuer Gefährte",
+                    "Url": "/lodestone/playguide/db/quest/c6975b0e58d/",
+                    "Area": "Limsa Lominsa",
+                    "Level": "15"
+                }
+            ],
+            "RelatedNPC": [
+                {
+                    "Name": "K'lyhia",
+                    "Url": "/lodestone/playguide/db/npc/npc/055c6e8389b/",
+                    "Area": "Untere Decks (X:4.2 Y:11.4)"
+                },
+                {
+                    "Name": "K'lyhia",
+                    "Url": "/lodestone/playguide/db/npc/npc/7bd061d1bf7/",
+                    "Area": "Zentrales La Noscea (X:19.3 Y:16.4)"
+                },
+                {
+                    "Name": "K'lyhia",
+                    "Url": "/lodestone/playguide/db/npc/npc/934dac54341/",
+                    "Area": "Zentrales La Noscea (X:19.5 Y:16.2)"
+                }
+            ]
+        },
+        "Seq": 25,
+        "StartDependency": false
+    },
+    {
+        "ID": "db04bbe7dbd",
+        "Name": "Der Weg des Druiden",
+        "Location": "Gridania",
+        "Level": 1,
+        "JournalSection": 6,
+        "JournalCategory": 65,
+        "JournalGenre": "\n\t\t\t\t\t\t\tGildenaufträge der Druiden\n\t\t\t\t\t\t",
+        "Url": "/lodestone/playguide/db/quest/db04bbe7dbd/",
+        "Image": "https://img.finalfantasyxiv.com/lds/pc/global/images/itemicon/e7/e7ada40313a99bd2680cb75423308ed4057cbf11.png?n6.05",
+        "Icon": "function_normal",
+        "Issuer": "Madelle",
+        "StartLocation": {
+            "Name": "Alt-Gridania",
+            "X": "6.5",
+            "Y": "11.0"
+        },
+        "StartClass": "Druide",
+        "Job": "",
+        "Company": "Keine Angabe",
+        "Requirement": "Keine Angabe",
+        "Rewards": {
+            "Gil": 0,
+            "Exp": 400,
+            "ItemsMand": [
+                {
+                    "Icon": "https://img.finalfantasyxiv.com/lds/pc/global/images/itemicon/57/5724619b941357bf06ecb9de8595e71bfddff1e1.png?n6.05",
+                    "Name": "Rosinen",
+                    "Amount": 5,
+                    "Url": "/lodestone/playguide/db/item/049fcfa2e21/"
+                }
+            ],
+            "ItemsOpt": []
+        },
+        "Infos": {
+            "FollowupQuest": [
+                {
+                    "Name": "Prüfung der Erde",
+                    "Url": "/lodestone/playguide/db/quest/1655c23d64e/",
+                    "Area": "Gridania",
+                    "Level": "5"
+                },
+                {
+                    "Name": "Prüfung des Winds",
+                    "Url": "/lodestone/playguide/db/quest/6861bfea77f/",
+                    "Area": "Gridania",
+                    "Level": "10"
+                }
+            ],
+            "RelatedNPC": [
+                {
+                    "Name": "E-Sumi-Yan",
+                    "Url": "/lodestone/playguide/db/npc/npc/208d50d33b5/",
+                    "Area": "Alt-Gridania (X:6.0 Y:10.6)"
+                }
+            ]
+        },
+        "Seq": 1,
+        "StartDependency": false
+    },
+    {
+        "ID": "dcd9ff9ecab",
+        "Name": "Die Gefahr der Nähe",
+        "Location": "Ul'dah",
+        "Level": 5,
+        "JournalSection": 6,
+        "JournalCategory": 65,
+        "JournalGenre": "\n\t\t\t\t\t\t\tGildenaufträge der Thaumaturgen\n\t\t\t\t\t\t",
+        "Url": "/lodestone/playguide/db/quest/dcd9ff9ecab/",
+        "Image": "https://img.finalfantasyxiv.com/lds/pc/global/images/itemicon/1d/1d1b5d0c860020b0cc0010c1e27fdadc20978d0d.png?n6.05",
+        "Icon": "function_normal",
+        "Issuer": "Cocobuki",
+        "StartLocation": {
+            "Name": "Nald-Kreuzgang",
+            "X": "6.2",
+            "Y": "12.8"
+        },
+        "StartClass": null,
+        "Job": "",
+        "Company": "Keine Angabe",
+        "Requirement": "Keine Angabe",
+        "Rewards": {
+            "Gil": 0,
+            "Exp": 1400,
+            "ItemsMand": [
+                {
+                    "Icon": "https://img.finalfantasyxiv.com/lds/pc/global/images/itemicon/3e/3e318abde6e82042c2d518ab6dff274478d45ff2.png?n6.05",
+                    "Name": "Knochenstab",
+                    "Amount": 1,
+                    "Url": "/lodestone/playguide/db/item/bb9cb3dd0a3/"
+                }
+            ],
+            "ItemsOpt": [
+                {
+                    "Icon": "https://img.finalfantasyxiv.com/lds/pc/global/images/itemicon/fe/fe785decf99e06c3142485caa203ba5fcf601300.png?n6.05",
+                    "Name": "Maßgeschneiderte Robe der Magie",
+                    "Amount": 1,
+                    "Url": "/lodestone/playguide/db/item/8ff2590c2e3/"
+                },
+                {
+                    "Icon": "https://img.finalfantasyxiv.com/lds/pc/global/images/itemicon/25/25b94364f1072db0349138ac7708d96092ee5018.png?n6.05",
+                    "Name": "Hanfhut",
+                    "Amount": 1,
+                    "Url": "/lodestone/playguide/db/item/27fc1a1f28c/"
+                },
+                {
+                    "Icon": "https://img.finalfantasyxiv.com/lds/pc/global/images/itemicon/99/994f4be6f730e5d5389c2bfe57dfabe737358e20.png?n6.05",
+                    "Name": "Knochen-Ring",
+                    "Amount": 1,
+                    "Url": "/lodestone/playguide/db/item/a0de9889c4a/"
+                },
+                {
+                    "Icon": "https://img.finalfantasyxiv.com/lds/pc/global/images/itemicon/ca/ca9396ae6351b2c260042541db6280473c2927a5.png?n6.05",
+                    "Name": "Kupferarmbänder",
+                    "Amount": 1,
+                    "Url": "/lodestone/playguide/db/item/712e7211081/"
+                },
+                {
+                    "Icon": "https://img.finalfantasyxiv.com/lds/pc/global/images/itemicon/ba/baa2341dd17414fae7fd62ae7bc62c64589b67be.png?n6.05",
+                    "Name": "Allagisches Zinnstück",
+                    "Amount": 5,
+                    "Url": "/lodestone/playguide/db/item/a5fd38903c4/"
+                }
+            ]
+        },
+        "Infos": {
+            "PrerequisiteQuest": [
+                {
+                    "Name": "Der Weg des Thaumaturgen",
+                    "Url": "/lodestone/playguide/db/quest/2e5314cfa56/",
+                    "Area": "Ul'dah",
+                    "Level": "1"
+                },
+                {
+                    "Name": "Das Zepter aufnehmen",
+                    "Url": "/lodestone/playguide/db/quest/03649a948f2/",
+                    "Area": "Ul'dah",
+                    "Level": "1"
+                }
+            ],
+            "FollowupQuest": [
+                {
+                    "Name": "Die Gefahr des Mangels",
+                    "Url": "/lodestone/playguide/db/quest/a8a6c57536c/",
+                    "Area": "Ul'dah",
+                    "Level": "10"
+                },
+                {
+                    "Name": "Die Gefahr des Mangels",
+                    "Url": "/lodestone/playguide/db/quest/f76d7f00695/",
+                    "Area": "Ul'dah",
+                    "Level": "10"
+                }
+            ],
+            "RelatedNPC": [
+                {
+                    "Name": "Cocobygo",
+                    "Url": "/lodestone/playguide/db/npc/npc/a256d62038e/",
+                    "Area": "Nald-Kreuzgang (X:6.4 Y:12.9)"
+                },
+                {
+                    "Name": "Fafafono",
+                    "Url": "/lodestone/playguide/db/npc/npc/6b4634a04d1/",
+                    "Area": "Westliches Thanalan (X:16.3 Y:29.6)"
+                }
+            ]
+        },
+        "Seq": 13,
+        "StartDependency": false
+    },
+    {
+        "ID": "eb9c9e119b8",
+        "Name": "Der Weg des Thaumaturgen",
+        "Location": "Ul'dah",
+        "Level": 1,
+        "JournalSection": 6,
+        "JournalCategory": 65,
+        "JournalGenre": "\n\t\t\t\t\t\t\tGildenaufträge der Thaumaturgen\n\t\t\t\t\t\t",
+        "Url": "/lodestone/playguide/db/quest/eb9c9e119b8/",
+        "Image": "https://img.finalfantasyxiv.com/lds/pc/global/images/itemicon/1d/1d1b5d0c860020b0cc0010c1e27fdadc20978d0d.png?n6.05",
+        "Icon": "function_normal",
+        "Issuer": "Yayake",
+        "StartLocation": {
+            "Name": "Nald-Kreuzgang",
+            "X": "7.3",
+            "Y": "12.4"
+        },
+        "StartClass": null,
+        "Job": "",
+        "Company": "Keine Angabe",
+        "Requirement": "Keine Angabe",
+        "Rewards": {
+            "Gil": 0,
+            "Exp": 400,
+            "ItemsMand": [
+                {
+                    "Icon": "https://img.finalfantasyxiv.com/lds/pc/global/images/itemicon/3c/3c623c96c5f52dacc6d1b940bf1225a6c4608aa7.png?n6.05",
+                    "Name": "Verschlissenes Zepter",
+                    "Amount": 1,
+                    "Url": "/lodestone/playguide/db/item/bd4b0a5b333/"
+                },
+                {
+                    "Icon": "https://img.finalfantasyxiv.com/lds/pc/global/images/itemicon/b6/b68858d7689c3d1a89049dc3f08e55903c499520.png?n6.05",
+                    "Name": "Ahorn-Plankenschild",
+                    "Amount": 1,
+                    "Url": "/lodestone/playguide/db/item/af04edbaf84/"
+                }
+            ],
+            "ItemsOpt": []
+        },
+        "Infos": {
+            "FollowupQuest": [
+                {
+                    "Name": "Das Zepter aufnehmen",
+                    "Url": "/lodestone/playguide/db/quest/03649a948f2/",
+                    "Area": "Ul'dah",
+                    "Level": "1"
+                }
+            ],
+            "RelatedNPC": [
+                {
+                    "Name": "Cocobygo",
+                    "Url": "/lodestone/playguide/db/npc/npc/a256d62038e/",
+                    "Area": "Nald-Kreuzgang (X:6.4 Y:12.9)"
+                }
+            ]
+        },
+        "Seq": 10,
+        "StartDependency": false
+    },
+    {
+        "ID": "efb4d31dbd3",
+        "Name": "Ein Äther für alle Fälle",
+        "Location": "Ul'dah",
+        "Level": 30,
+        "JournalSection": 6,
+        "JournalCategory": 65,
+        "JournalGenre": "\n\t\t\t\t\t\t\tGildenaufträge der Thaumaturgen\n\t\t\t\t\t\t",
+        "Url": "/lodestone/playguide/db/quest/efb4d31dbd3/",
+        "Image": "https://img.finalfantasyxiv.com/lds/pc/global/images/itemicon/1d/1d1b5d0c860020b0cc0010c1e27fdadc20978d0d.png?n6.05",
+        "Icon": "function_normal",
+        "Issuer": "Cocobuki",
+        "StartLocation": {
+            "Name": "Nald-Kreuzgang",
+            "X": "6.2",
+            "Y": "12.8"
+        },
+        "StartClass": null,
+        "Job": "",
+        "Company": "Keine Angabe",
+        "Requirement": "Keine Angabe",
+        "Rewards": {
+            "Gil": 0,
+            "Exp": 12480,
+            "ItemsMand": [
+                {
+                    "Icon": "https://img.finalfantasyxiv.com/lds/pc/global/images/itemicon/98/98e129bed5d91bda16fcee361a026c5fda434b64.png?n6.05",
+                    "Name": "Silberzepter",
+                    "Amount": 1,
+                    "Url": "/lodestone/playguide/db/item/a3ed58c6012/"
+                },
+                {
+                    "Icon": "https://img.finalfantasyxiv.com/lds/pc/global/images/itemicon/47/4760bf8354e2c34e20472c6b60e5f1f628574fc2.png?n6.05",
+                    "Name": "",
+                    "Amount": null
+                }
+            ],
+            "ItemsOpt": [
+                {
+                    "Icon": "https://img.finalfantasyxiv.com/lds/pc/global/images/itemicon/7b/7b4a6a59aad14209bd090709006bb9b025c96200.png?n6.05",
+                    "Name": "Samt-Bliaud",
+                    "Amount": 1,
+                    "Url": "/lodestone/playguide/db/item/16ce086f201/"
+                },
+                {
+                    "Icon": "https://img.finalfantasyxiv.com/lds/pc/global/images/itemicon/32/32874ec54b7b6e83c5407a347bec04887297e3c1.png?n6.05",
+                    "Name": "Bearbeitete Samtreiterhose",
+                    "Amount": 1,
+                    "Url": "/lodestone/playguide/db/item/679acc9260a/"
+                },
+                {
+                    "Icon": "https://img.finalfantasyxiv.com/lds/pc/global/images/itemicon/97/97feca3cff59501ccd44029120221f86d276e69c.png?n6.05",
+                    "Name": "Samthandschuhe",
+                    "Amount": 1,
+                    "Url": "/lodestone/playguide/db/item/b11e7ccd9bc/"
+                },
+                {
+                    "Icon": "https://img.finalfantasyxiv.com/lds/pc/global/images/itemicon/23/237939e762d58afb704fc1be4e13ea98c7975a62.png?n6.05",
+                    "Name": "Dodo-Stiefel",
+                    "Amount": 1,
+                    "Url": "/lodestone/playguide/db/item/73ee923accf/"
+                },
+                {
+                    "Icon": "https://img.finalfantasyxiv.com/lds/pc/global/images/itemicon/ba/baa2341dd17414fae7fd62ae7bc62c64589b67be.png?n6.05",
+                    "Name": "Allagisches Silberstück",
+                    "Amount": 3,
+                    "Url": "/lodestone/playguide/db/item/a3ac3ba4b00/"
+                }
+            ]
+        },
+        "Infos": {
+            "PrerequisiteQuest": [
+                {
+                    "Name": "Das Licht am Boden des Abgrunds",
+                    "Url": "/lodestone/playguide/db/quest/71336abaf74/",
+                    "Area": "Ul'dah",
+                    "Level": "25"
+                }
+            ],
+            "FollowupQuest": [
+                {
+                    "Name": "Wer die Stimme hört",
+                    "Url": "/lodestone/playguide/db/quest/eec832efc26/",
+                    "Area": "Ul'dah",
+                    "Level": "30"
+                }
+            ],
+            "RelatedNPC": [
+                {
+                    "Name": "Cocobani",
+                    "Url": "/lodestone/playguide/db/npc/npc/8b0e4f1d330/",
+                    "Area": "Westliches Thanalan (X:16.0 Y:7.1)"
+                },
+                {
+                    "Name": "Cocobezi",
+                    "Url": "/lodestone/playguide/db/npc/npc/b06b06b6538/",
+                    "Area": "Westliches Thanalan (X:16.0 Y:7.1)"
+                },
+                {
+                    "Name": "Cocoboha",
+                    "Url": "/lodestone/playguide/db/npc/npc/93b6d4b40bb/",
+                    "Area": "Westliches Thanalan (X:16.1 Y:7.1)"
+                },
+                {
+                    "Name": "Cocobuki",
+                    "Url": "/lodestone/playguide/db/npc/npc/0926310be3b/",
+                    "Area": "Westliches Thanalan (X:12.7 Y:14.4)"
+                },
+                {
+                    "Name": "Cocobuki",
+                    "Url": "/lodestone/playguide/db/npc/npc/569a9687e0d/",
+                    "Area": "Westliches Thanalan (X:16.0 Y:7.1)"
+                },
+                {
+                    "Name": "Cocobygo",
+                    "Url": "/lodestone/playguide/db/npc/npc/25b59c8dfdf/",
+                    "Area": "Westliches Thanalan (X:16.0 Y:7.1)"
+                },
+                {
+                    "Name": "Folclind",
+                    "Url": "/lodestone/playguide/db/npc/npc/1203173df29/",
+                    "Area": "Westliches Thanalan (X:12.5 Y:14.9)"
+                },
+                {
+                    "Name": "Gebhard",
+                    "Url": "/lodestone/playguide/db/npc/npc/d50163ad96f/",
+                    "Area": "Westliches Thanalan (X:12.3 Y:14.9)"
+                },
+                {
+                    "Name": "Verlegener Geysir",
+                    "Url": "/lodestone/playguide/db/npc/npc/adb775d1832/",
+                    "Area": "Westliches Thanalan (X:13.2 Y:13.8)"
+                },
+                {
+                    "Name": "Verletzter Marodeur",
+                    "Url": "/lodestone/playguide/db/npc/npc/261963648a6/",
+                    "Area": "Westliches Thanalan (X:13.6 Y:10.5)"
+                }
+            ],
+            "RelatedAchievements": [
+                {
+                    "Name": "Man wird nur einmal Stufe 30",
+                    "Url": "/lodestone/playguide/db/achievement/ce7e69895dc/",
+                    "Reward": "-",
+                    "Points": "5"
+                },
+                {
+                    "Name": "Ode an die Magier",
+                    "Url": "/lodestone/playguide/db/achievement/5c94e109800/",
+                    "Reward": "Titel",
+                    "Points": "10"
+                }
+            ]
+        },
+        "Seq": 19,
+        "StartDependency": false
+    },
+    {
+        "ID": "f76d7f00695",
+        "Name": "Die Gefahr des Mangels",
+        "Location": "Ul'dah",
+        "Level": 10,
+        "JournalSection": 6,
+        "JournalCategory": 65,
+        "JournalGenre": "\n\t\t\t\t\t\t\tGildenaufträge der Thaumaturgen\n\t\t\t\t\t\t",
+        "Url": "/lodestone/playguide/db/quest/f76d7f00695/",
+        "Image": "https://img.finalfantasyxiv.com/lds/pc/global/images/itemicon/1d/1d1b5d0c860020b0cc0010c1e27fdadc20978d0d.png?n6.05",
+        "Icon": "function_normal",
+        "Issuer": "Cocobuki",
+        "StartLocation": {
+            "Name": "Nald-Kreuzgang",
+            "X": "6.2",
+            "Y": "12.8"
+        },
+        "StartClass": null,
+        "Job": "",
+        "Company": "Keine Angabe",
+        "Requirement": "Keine Angabe",
+        "Rewards": {
+            "Gil": 0,
+            "Exp": 3420,
+            "ItemsMand": [
+                {
+                    "Icon": "https://img.finalfantasyxiv.com/lds/pc/global/images/itemicon/fa/fa28567681e313b85fdb2c596117930cb6760725.png?n6.05",
+                    "Name": "Kupferzepter",
+                    "Amount": 1,
+                    "Url": "/lodestone/playguide/db/item/b2d2432086e/"
+                }
+            ],
+            "ItemsOpt": [
+                {
+                    "Icon": "https://img.finalfantasyxiv.com/lds/pc/global/images/itemicon/2b/2b8e2da79ff4845b187f5e5a7eb8e1358fe099b8.png?n6.05",
+                    "Name": "Laien-Dalmatika",
+                    "Amount": 1,
+                    "Url": "/lodestone/playguide/db/item/019305b4ff1/"
+                },
+                {
+                    "Icon": "https://img.finalfantasyxiv.com/lds/pc/global/images/itemicon/fc/fc9fea75329659f3b969aa4d350154efff3be7cf.png?n6.05",
+                    "Name": "Laien-Hanfbundhaube",
+                    "Amount": 1,
+                    "Url": "/lodestone/playguide/db/item/b7de935079f/"
+                },
+                {
+                    "Icon": "https://img.finalfantasyxiv.com/lds/pc/global/images/itemicon/34/34119f4265fbd7015dbce0de495ee276f3184fe3.png?n6.05",
+                    "Name": "Hanf-Galahandschuhe",
+                    "Amount": 1,
+                    "Url": "/lodestone/playguide/db/item/9d65800aa15/"
+                },
+                {
+                    "Icon": "https://img.finalfantasyxiv.com/lds/pc/global/images/itemicon/cc/cce1137ec8868ea2a5dba679084197f030dce8ec.png?n6.05",
+                    "Name": "Laien-Schnabelschuhe",
+                    "Amount": 1,
+                    "Url": "/lodestone/playguide/db/item/3cb6f21b282/"
+                },
+                {
+                    "Icon": "https://img.finalfantasyxiv.com/lds/pc/global/images/itemicon/ba/baa2341dd17414fae7fd62ae7bc62c64589b67be.png?n6.05",
+                    "Name": "Allagisches Bronzestück",
+                    "Amount": 2,
+                    "Url": "/lodestone/playguide/db/item/ce2e67f0442/"
+                }
+            ]
+        },
+        "Infos": {
+            "PrerequisiteQuest": [
+                {
+                    "Name": "Das Zepter aufnehmen",
+                    "Url": "/lodestone/playguide/db/quest/03649a948f2/",
+                    "Area": "Ul'dah",
+                    "Level": "1"
+                },
+                {
+                    "Name": "Die Gefahr der Nähe",
+                    "Url": "/lodestone/playguide/db/quest/dcd9ff9ecab/",
+                    "Area": "Ul'dah",
+                    "Level": "5"
+                }
+            ],
+            "FollowupQuest": [
+                {
+                    "Name": "Die Gefahr der Übermacht",
+                    "Url": "/lodestone/playguide/db/quest/82cdaaebcce/",
+                    "Area": "Ul'dah",
+                    "Level": "15"
+                }
+            ],
+            "RelatedNPC": [
+                {
+                    "Name": "Cocobani",
+                    "Url": "/lodestone/playguide/db/npc/npc/f9ee59b5cfb/",
+                    "Area": "Nald-Kreuzgang (X:6.4 Y:12.9)"
+                }
+            ]
+        },
+        "Seq": 15,
+        "StartDependency": false
+    },
+    {
+        "ID": "f9107663c73",
+        "Name": "Ankunft der Morgenstern",
+        "Location": "Limsa Lominsa",
+        "Level": 15,
+        "JournalSection": 6,
+        "JournalCategory": 65,
+        "JournalGenre": "\n\t\t\t\t\t\t\tGildenaufträge der Hermetiker\n\t\t\t\t\t\t",
+        "Url": "/lodestone/playguide/db/quest/f9107663c73/",
+        "Image": "https://img.finalfantasyxiv.com/lds/pc/global/images/itemicon/37/37a8d65a8cae978d922a694a4d310979ed6e119d.png?n6.05",
+        "Icon": "function_normal",
+        "Issuer": "Thubyrgeim",
+        "StartLocation": {
+            "Name": "Untere Decks",
+            "X": "4.7",
+            "Y": "11.4"
+        },
+        "StartClass": null,
+        "Job": "",
+        "Company": "Keine Angabe",
+        "Requirement": "Keine Angabe",
+        "Rewards": {
+            "Gil": 0,
+            "Exp": 2880,
+            "ItemsMand": [
+                {
+                    "Icon": "https://img.finalfantasyxiv.com/lds/pc/global/images/itemicon/4f/4fa675a3a143dc9208677e23e0a730217bc2d594.png?n6.05",
+                    "Name": "Juchleder-Grimoire",
+                    "Amount": 1,
+                    "Url": "/lodestone/playguide/db/item/34f9322875e/"
+                }
+            ],
+            "ItemsOpt": [
+                {
+                    "Icon": "https://img.finalfantasyxiv.com/lds/pc/global/images/itemicon/88/883c25cbad8a9d167ea5b4c8f62433b0eb17987c.png?n6.05",
+                    "Name": "Baumwollkukulle",
+                    "Amount": 1,
+                    "Url": "/lodestone/playguide/db/item/36d014c8772/"
+                },
+                {
+                    "Icon": "https://img.finalfantasyxiv.com/lds/pc/global/images/itemicon/4c/4c6fa2d2f278cb67fbb40527926da5541faa3577.png?n6.05",
+                    "Name": "Juchleder-Ringbänder",
+                    "Amount": 1,
+                    "Url": "/lodestone/playguide/db/item/17157ce9447/"
+                },
+                {
+                    "Icon": "https://img.finalfantasyxiv.com/lds/pc/global/images/itemicon/f1/f11b2bdc726435b29fa16ed7ee166b48beeed349.png?n6.05",
+                    "Name": "Baumwollstrumpfhose",
+                    "Amount": 1,
+                    "Url": "/lodestone/playguide/db/item/7b5a01b81df/"
+                },
+                {
+                    "Icon": "https://img.finalfantasyxiv.com/lds/pc/global/images/itemicon/ad/ada27e660b073d01c0a4159361c788a31aea4dd6.png?n6.05",
+                    "Name": "Juchlederstiefel",
+                    "Amount": 1,
+                    "Url": "/lodestone/playguide/db/item/7ada831af20/"
+                },
+                {
+                    "Icon": "https://img.finalfantasyxiv.com/lds/pc/global/images/itemicon/ba/baa2341dd17414fae7fd62ae7bc62c64589b67be.png?n6.05",
+                    "Name": "Allagisches Bronzestück",
+                    "Amount": 2,
+                    "Url": "/lodestone/playguide/db/item/ce2e67f0442/"
+                }
+            ]
+        },
+        "Infos": {
+            "PrerequisiteQuest": [
+                {
+                    "Name": "Ein neuer Gefährte",
+                    "Url": "/lodestone/playguide/db/quest/c6975b0e58d/",
+                    "Area": "Limsa Lominsa",
+                    "Level": "15"
+                }
+            ],
+            "FollowupQuest": [
+                {
+                    "Name": "Auf eigene Faust",
+                    "Url": "/lodestone/playguide/db/quest/12096c4c006/",
+                    "Area": "Limsa Lominsa",
+                    "Level": "20"
+                }
+            ],
+            "RelatedNPC": [
+                {
+                    "Name": "Aersthota",
+                    "Url": "/lodestone/playguide/db/npc/npc/6f5f28380cf/",
+                    "Area": "Westliches La Noscea (X:27.7 Y:25.6)"
+                },
+                {
+                    "Name": "Aersthota",
+                    "Url": "/lodestone/playguide/db/npc/npc/4b997225394/",
+                    "Area": "Westliches La Noscea (X:25.0 Y:27.0)"
+                },
+                {
+                    "Name": "Geissfryn",
+                    "Url": "/lodestone/playguide/db/npc/npc/9922186c517/",
+                    "Area": "Westliches La Noscea (X:27.7 Y:25.6)"
+                },
+                {
+                    "Name": "K'lyhia",
+                    "Url": "/lodestone/playguide/db/npc/npc/5f160897970/",
+                    "Area": "Westliches La Noscea (X:27.8 Y:25.7)"
+                },
+                {
+                    "Name": "Kapitän",
+                    "Url": "/lodestone/playguide/db/npc/npc/e6f4bfad61c/",
+                    "Area": "Westliches La Noscea (X:25.5 Y:27.6)"
+                }
+            ]
+        },
+        "Seq": 27,
+        "StartDependency": false
+    }
+]

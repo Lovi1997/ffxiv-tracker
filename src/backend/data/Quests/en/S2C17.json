@@ -1,132 +1,27 @@
 [
     {
-        "ID": "0e431130121",
-        "Name": "An Unfinished Masterpiece",
-        "Location": "The Interdimensional Rift",
-        "Level": 70,
+        "ID": "766bb92612a",
+        "Name": "Freedom for Our Skies",
+        "Location": "The Parrock",
+        "Level": 60,
         "JournalSection": 2,
         "JournalCategory": 17,
-        "JournalGenre": "Chronicles of a New Era - Omega",
-        "Url": "/lodestone/playguide/db/quest/0e431130121/",
-        "Image": "https://img.finalfantasyxiv.com/lds/pc/global/images/itemicon/51/51880ba8b5f70cfe8804e93e96b156d44cf18082.png?n5.55",
+        "JournalGenre": "Chronicles of a New Era - The Shadow of Mhach",
+        "Url": "/lodestone/playguide/db/quest/766bb92612a/",
+        "Image": "https://img.finalfantasyxiv.com/lds/pc/global/images/itemicon/f2/f2505219bd37d9b488760692f01e85bfb1dab0d5.png?n6.05",
         "Icon": "function_normal",
-        "Issuer": "Cid",
+        "Issuer": "Leofard",
         "StartLocation": {
-            "Name": "The Interdimensional Rift",
-            "X": "19.7",
-            "Y": "25.1"
+            "Name": "The Parrock",
+            "X": "7.0",
+            "Y": "6.9"
         },
         "StartClass": null,
         "Job": "",
         "Company": "Not specified",
         "Requirement": "Not specified",
         "Rewards": {
-            "Gil": 0,
-            "Exp": 0,
-            "ItemsMand": [
-                {
-                    "Icon": "https://img.finalfantasyxiv.com/lds/pc/global/images/itemicon/fb/fb000afa3b641a86f1f443904fff67f28e2c5b11.png?n5.55",
-                    "Name": "",
-                    "Amount": null
-                }
-            ],
-            "ItemsOpt": []
-        },
-        "Infos": {
-            "PrerequisiteQuest": [
-                {
-                    "Name": "No Slowing Down",
-                    "Url": "/lodestone/playguide/db/quest/33e0fa73a67/",
-                    "Area": "The Interdimensional Rift",
-                    "Level": "70"
-                }
-            ],
-            "FollowupQuest": [
-                {
-                    "Name": "Won't Let You Pass",
-                    "Url": "/lodestone/playguide/db/quest/ef8621fb81a/",
-                    "Area": "The Fringes",
-                    "Level": "70"
-                }
-            ],
-            "RelatedNPC": [
-                {
-                    "Name": "Alpha",
-                    "Url": "/lodestone/playguide/db/npc/npc/d77deb2cfef/",
-                    "Area": "The Fringes (X:30.8 Y:31.8)"
-                },
-                {
-                    "Name": "Biggs",
-                    "Url": "/lodestone/playguide/db/npc/npc/4b8d9a1aa13/",
-                    "Area": "The Fringes (X:30.7 Y:31.8)"
-                },
-                {
-                    "Name": "Cid",
-                    "Url": "/lodestone/playguide/db/npc/npc/3c0873322b6/",
-                    "Area": "The Fringes (X:30.7 Y:31.8)"
-                },
-                {
-                    "Name": "Ironworks Hand",
-                    "Url": "/lodestone/playguide/db/npc/npc/c7903e98d40/",
-                    "Area": "The Fringes (X:31.0 Y:32.0)"
-                },
-                {
-                    "Name": "Wedge",
-                    "Url": "/lodestone/playguide/db/npc/npc/e89d6cb20e6/",
-                    "Area": "The Fringes (X:30.7 Y:31.8)"
-                },
-                {
-                    "Name": "Alpha",
-                    "Url": "/lodestone/playguide/db/npc/npc/fb29f4a62e1/",
-                    "Area": "The Interdimensional Rift (X:19.7 Y:24.8)"
-                },
-                {
-                    "Name": "Alpha",
-                    "Url": "/lodestone/playguide/db/npc/npc/3f6e95fc299/",
-                    "Area": "The Interdimensional Rift (X:19.8 Y:24.9)"
-                },
-                {
-                    "Name": "Nero",
-                    "Url": "/lodestone/playguide/db/npc/npc/8da6a79baff/",
-                    "Area": "The Interdimensional Rift (X:19.8 Y:24.8)"
-                },
-                {
-                    "Name": "Nero",
-                    "Url": "/lodestone/playguide/db/npc/npc/09d22d1cc7f/",
-                    "Area": "The Interdimensional Rift (X:19.7 Y:25.0)"
-                }
-            ]
-        },
-        "Seq": 8,
-        "oldID": 68569,
-        "Map": {
-            "ID": 444
-        },
-        "StartDependency": false
-    },
-    {
-        "ID": "1976a3554f3",
-        "Name": "A Catastrophe Waiting",
-        "Location": "The Interdimensional Rift",
-        "Level": 70,
-        "JournalSection": 2,
-        "JournalCategory": 17,
-        "JournalGenre": "Chronicles of a New Era - Omega",
-        "Url": "/lodestone/playguide/db/quest/1976a3554f3/",
-        "Image": "https://img.finalfantasyxiv.com/lds/pc/global/images/itemicon/e3/e362372cbfc0d468f2269dd70d3c3b857f092712.png?n5.55",
-        "Icon": "function_normal",
-        "Issuer": "Cid",
-        "StartLocation": {
-            "Name": "The Interdimensional Rift",
-            "X": "17.3",
-            "Y": "18.9"
-        },
-        "StartClass": null,
-        "Job": "",
-        "Company": "Not specified",
-        "Requirement": "Not specified",
-        "Rewards": {
-            "Gil": 1809,
+            "Gil": 615,
             "Exp": 0,
             "ItemsMand": [],
             "ItemsOpt": []
@@ -134,140 +29,311 @@
         "Infos": {
             "PrerequisiteQuest": [
                 {
-                    "Name": "Into the Deltascape",
-                    "Url": "/lodestone/playguide/db/quest/4c37b9b749c/",
-                    "Area": "The Interdimensional Rift",
-                    "Level": "70"
+                    "Name": "The Weeping City",
+                    "Url": "/lodestone/playguide/db/quest/cabdde01fbe/",
+                    "Area": "The Sea of Clouds",
+                    "Level": "60"
                 }
             ],
             "FollowupQuest": [
                 {
-                    "Name": "The Croak Queen",
-                    "Url": "/lodestone/playguide/db/quest/b58d125e9dd/",
-                    "Area": "The Interdimensional Rift",
-                    "Level": "70"
+                    "Name": "Where Shadows Reign",
+                    "Url": "/lodestone/playguide/db/quest/8db37428183/",
+                    "Area": "The Sea of Clouds",
+                    "Level": "60"
+                },
+                {
+                    "Name": "Unidentified Flying Object",
+                    "Url": "/lodestone/playguide/db/quest/e69707dd011/",
+                    "Area": "Idyllshire",
+                    "Level": "60"
                 }
             ],
             "RelatedNPC": [
                 {
-                    "Name": "Ironworks Hand",
-                    "Url": "/lodestone/playguide/db/npc/npc/c7903e98d40/",
-                    "Area": "The Fringes (X:31.0 Y:32.0)"
+                    "Name": "Leofard",
+                    "Url": "/lodestone/playguide/db/npc/npc/1d93e107950/",
+                    "Area": "Leofard's Chambers (X:3.4 Y:3.6)"
                 },
                 {
-                    "Name": "Alpha",
-                    "Url": "/lodestone/playguide/db/npc/npc/f428b8c1d6c/",
-                    "Area": "The Interdimensional Rift (X:17.2 Y:19.1)"
+                    "Name": "Cait Sith",
+                    "Url": "/lodestone/playguide/db/npc/npc/4f40e1d005c/",
+                    "Area": "The Parrock (X:7.0 Y:7.0)"
                 },
                 {
-                    "Name": "Nero Tol Scaeva",
-                    "Url": "/lodestone/playguide/db/npc/npc/67cbfd23864/",
-                    "Area": "The Interdimensional Rift (X:17.3 Y:18.9)"
+                    "Name": "Stacia",
+                    "Url": "/lodestone/playguide/db/npc/npc/5bc4fcfb3e6/",
+                    "Area": "The Parrock (X:7.0 Y:6.8)"
+                }
+            ]
+        },
+        "Seq": 3,
+        "StartDependency": false
+    },
+    {
+        "ID": "8db37428183",
+        "Name": "Where Shadows Reign",
+        "Location": "The Sea of Clouds",
+        "Level": 60,
+        "JournalSection": 2,
+        "JournalCategory": 17,
+        "JournalGenre": "Chronicles of a New Era - The Shadow of Mhach",
+        "Url": "/lodestone/playguide/db/quest/8db37428183/",
+        "Image": "https://img.finalfantasyxiv.com/lds/pc/global/images/itemicon/e0/e004d33120a37c6ba9439795bf60fa17ed841061.png?n6.05",
+        "Icon": "function_normal",
+        "Issuer": "Stacia",
+        "StartLocation": {
+            "Name": "The Sea of Clouds",
+            "X": "6.2",
+            "Y": "5.8"
+        },
+        "StartClass": null,
+        "Job": "",
+        "Company": "Not specified",
+        "Requirement": "Not specified",
+        "Rewards": {
+            "Gil": 7500,
+            "Exp": 0,
+            "ItemsMand": [
+                {
+                    "Icon": "https://img.finalfantasyxiv.com/lds/pc/global/images/itemicon/7e/7eaa53e1fe9e2bd80f81d9ce69c98c24f6223b0b.png?n6.05",
+                    "Name": "Promises Orchestrion Roll",
+                    "Amount": 1,
+                    "Url": "/lodestone/playguide/db/item/4b9ea147558/"
+                },
+                {
+                    "Icon": "https://img.finalfantasyxiv.com/lds/pc/global/images/itemicon/7e/7eaa53e1fe9e2bd80f81d9ce69c98c24f6223b0b.png?n6.05",
+                    "Name": "Shadow of the Body Orchestrion Roll",
+                    "Amount": 1,
+                    "Url": "/lodestone/playguide/db/item/ceea0f179e3/"
+                }
+            ],
+            "ItemsOpt": []
+        },
+        "Infos": {
+            "PrerequisiteQuest": [
+                {
+                    "Name": "Freedom for Our Skies",
+                    "Url": "/lodestone/playguide/db/quest/766bb92612a/",
+                    "Area": "The Parrock",
+                    "Level": "60"
+                }
+            ],
+            "FollowupQuest": [
+                {
+                    "Name": "A Redbill Farewell",
+                    "Url": "/lodestone/playguide/db/quest/d1467b768c6/",
+                    "Area": "The Parrock",
+                    "Level": "60"
+                }
+            ],
+            "RelatedNPC": [
+                {
+                    "Name": "Cait Sith",
+                    "Url": "/lodestone/playguide/db/npc/npc/0abc62a565f/",
+                    "Area": "Leofard's Chambers (X:3.5 Y:3.6)"
+                },
+                {
+                    "Name": "Leofard",
+                    "Url": "/lodestone/playguide/db/npc/npc/ea07ca03a68/",
+                    "Area": "Leofard's Chambers (X:3.5 Y:3.5)"
+                },
+                {
+                    "Name": "Stacia",
+                    "Url": "/lodestone/playguide/db/npc/npc/567348c10ff/",
+                    "Area": "Leofard's Chambers (X:3.5 Y:3.6)"
+                },
+                {
+                    "Name": "Utata",
+                    "Url": "/lodestone/playguide/db/npc/npc/7ae09c26c3a/",
+                    "Area": "Leofard's Chambers (X:3.6 Y:3.6)"
+                },
+                {
+                    "Name": "Cait Sith",
+                    "Url": "/lodestone/playguide/db/npc/npc/bfaec37868f/",
+                    "Area": "The Parrock (X:6.2 Y:6.2)"
+                },
+                {
+                    "Name": "Cait Sith",
+                    "Url": "/lodestone/playguide/db/npc/npc/82a1b7eed3c/",
+                    "Area": "The Parrock (X:7.0 Y:7.0)"
+                },
+                {
+                    "Name": "Cait Sith",
+                    "Url": "/lodestone/playguide/db/npc/npc/dda4453cb28/",
+                    "Area": "The Parrock (X:7.0 Y:6.9)"
+                },
+                {
+                    "Name": "Leofard",
+                    "Url": "/lodestone/playguide/db/npc/npc/22074eb3ecf/",
+                    "Area": "The Parrock (X:6.2 Y:6.2)"
+                },
+                {
+                    "Name": "Leofard",
+                    "Url": "/lodestone/playguide/db/npc/npc/dff285d087f/",
+                    "Area": "The Parrock (X:7.0 Y:6.9)"
+                },
+                {
+                    "Name": "Leofard",
+                    "Url": "/lodestone/playguide/db/npc/npc/3fbe77ee5ed/",
+                    "Area": "The Parrock (X:7.0 Y:6.9)"
+                },
+                {
+                    "Name": "Radlia",
+                    "Url": "/lodestone/playguide/db/npc/npc/c8a04983457/",
+                    "Area": "The Parrock (X:6.2 Y:6.3)"
+                },
+                {
+                    "Name": "Radlia",
+                    "Url": "/lodestone/playguide/db/npc/npc/b1f464c11b9/",
+                    "Area": "The Parrock (X:7.0 Y:7.0)"
+                },
+                {
+                    "Name": "Radlia",
+                    "Url": "/lodestone/playguide/db/npc/npc/95edcf3a003/",
+                    "Area": "The Parrock (X:7.0 Y:6.9)"
+                },
+                {
+                    "Name": "Stacia",
+                    "Url": "/lodestone/playguide/db/npc/npc/4b62c5983a8/",
+                    "Area": "The Parrock (X:6.2 Y:6.2)"
+                },
+                {
+                    "Name": "Stacia",
+                    "Url": "/lodestone/playguide/db/npc/npc/7dbba66e040/",
+                    "Area": "The Parrock (X:7.0 Y:7.1)"
+                },
+                {
+                    "Name": "Stacia",
+                    "Url": "/lodestone/playguide/db/npc/npc/628d5ef401b/",
+                    "Area": "The Parrock (X:7.0 Y:6.9)"
+                },
+                {
+                    "Name": "Talons Deckswab",
+                    "Url": "/lodestone/playguide/db/npc/npc/030d429a362/",
+                    "Area": "The Parrock (X:6.2 Y:6.3)"
+                },
+                {
+                    "Name": "Utata",
+                    "Url": "/lodestone/playguide/db/npc/npc/c5a1789a330/",
+                    "Area": "The Parrock (X:6.2 Y:6.2)"
+                },
+                {
+                    "Name": "Utata",
+                    "Url": "/lodestone/playguide/db/npc/npc/ea7d3f34f75/",
+                    "Area": "The Parrock (X:7.0 Y:6.9)"
+                }
+            ]
+        },
+        "Seq": 4,
+        "StartDependency": false
+    },
+    {
+        "ID": "c7a49946613",
+        "Name": "Sky Pirates",
+        "Location": "Ishgard",
+        "Level": 60,
+        "JournalSection": 2,
+        "JournalCategory": 17,
+        "JournalGenre": "Chronicles of a New Era - The Shadow of Mhach",
+        "Url": "/lodestone/playguide/db/quest/c7a49946613/",
+        "Image": "https://img.finalfantasyxiv.com/lds/pc/global/images/itemicon/b7/b72a597a5f76d4cb9ef936e4f0b5e1d0557a96ab.png?n6.05",
+        "Icon": "function_normal",
+        "Issuer": "Unquiet Trader",
+        "StartLocation": {
+            "Name": "The Pillars",
+            "X": "14.1",
+            "Y": "10.6"
+        },
+        "StartClass": null,
+        "Job": "",
+        "Company": "Not specified",
+        "Requirement": "Not specified",
+        "Rewards": {
+            "Gil": 778,
+            "Exp": 0,
+            "ItemsMand": [],
+            "ItemsOpt": []
+        },
+        "Infos": {
+            "PrerequisiteQuest": [
+                {
+                    "Name": "Heavensward",
+                    "Url": "/lodestone/playguide/db/quest/29fa56153f5/",
+                    "Area": "Azys Lla",
+                    "Level": "60"
+                }
+            ],
+            "FollowupQuest": [
+                {
+                    "Name": "To Rule the Skies",
+                    "Url": "/lodestone/playguide/db/quest/e1591301403/",
+                    "Area": "The Sea of Clouds",
+                    "Level": "60"
+                }
+            ],
+            "RelatedNPC": [
+                {
+                    "Name": "Cargo Ship Helmsman",
+                    "Url": "/lodestone/playguide/db/npc/npc/8da587f4eb4/",
+                    "Area": "The Sea of Clouds (X:4.7 Y:22.7)"
+                },
+                {
+                    "Name": "Leofard",
+                    "Url": "/lodestone/playguide/db/npc/npc/97712ba8a7d/",
+                    "Area": "The Sea of Clouds (X:25.4 Y:5.2)"
+                },
+                {
+                    "Name": "Redbill Deckhand",
+                    "Url": "/lodestone/playguide/db/npc/npc/07c91ac9ac0/",
+                    "Area": "The Sea of Clouds (X:25.5 Y:5.2)"
+                },
+                {
+                    "Name": "Rontremont",
+                    "Url": "/lodestone/playguide/db/npc/npc/a2144218aa5/",
+                    "Area": "The Sea of Clouds (X:9.4 Y:32.4)"
+                },
+                {
+                    "Name": "Sky Pirate",
+                    "Url": "/lodestone/playguide/db/npc/npc/f6598d0df77/",
+                    "Area": "The Sea of Clouds (X:4.8 Y:22.8)"
+                },
+                {
+                    "Name": "Stacia",
+                    "Url": "/lodestone/playguide/db/npc/npc/8aa4fbebb85/",
+                    "Area": "The Sea of Clouds (X:25.5 Y:5.2)"
+                },
+                {
+                    "Name": "Stacia",
+                    "Url": "/lodestone/playguide/db/npc/npc/68a27680c92/",
+                    "Area": "The Sea of Clouds (X:6.2 Y:5.8)"
+                },
+                {
+                    "Name": "Utata",
+                    "Url": "/lodestone/playguide/db/npc/npc/c5b985c9132/",
+                    "Area": "The Sea of Clouds (X:25.5 Y:5.2)"
                 }
             ]
         },
         "Seq": 2,
-        "oldID": 68466,
-        "Map": {
-            "ID": 395
-        },
         "StartDependency": false
     },
     {
-        "ID": "33e0fa73a67",
-        "Name": "No Slowing Down",
-        "Location": "The Interdimensional Rift",
-        "Level": 70,
+        "ID": "cabdde01fbe",
+        "Name": "The Weeping City",
+        "Location": "The Sea of Clouds",
+        "Level": 60,
         "JournalSection": 2,
         "JournalCategory": 17,
-        "JournalGenre": "Chronicles of a New Era - Omega",
-        "Url": "/lodestone/playguide/db/quest/33e0fa73a67/",
-        "Image": "https://img.finalfantasyxiv.com/lds/pc/global/images/itemicon/e2/e2a2629d60290b05e0e591f88ef35304649be2f4.png?n5.55",
+        "JournalGenre": "Chronicles of a New Era - The Shadow of Mhach",
+        "Url": "/lodestone/playguide/db/quest/cabdde01fbe/",
+        "Image": "https://img.finalfantasyxiv.com/lds/pc/global/images/itemicon/ec/ec8f1b447a9ee8b1401e06f763997e153f11c638.png?n6.05",
         "Icon": "function_normal",
-        "Issuer": "Cid",
+        "Issuer": "Stacia",
         "StartLocation": {
-            "Name": "The Interdimensional Rift",
-            "X": "19.7",
-            "Y": "25.1"
-        },
-        "StartClass": null,
-        "Job": "",
-        "Company": "Not specified",
-        "Requirement": "Not specified",
-        "Rewards": {
-            "Gil": 4252,
-            "Exp": 0,
-            "ItemsMand": [],
-            "ItemsOpt": []
-        },
-        "Infos": {
-            "PrerequisiteQuest": [
-                {
-                    "Name": "Return to the Rift",
-                    "Url": "/lodestone/playguide/db/quest/54822075402/",
-                    "Area": "Rhalgr's Reach",
-                    "Level": "70"
-                }
-            ],
-            "FollowupQuest": [
-                {
-                    "Name": "An Unfinished Masterpiece",
-                    "Url": "/lodestone/playguide/db/quest/0e431130121/",
-                    "Area": "The Interdimensional Rift",
-                    "Level": "70"
-                }
-            ],
-            "RelatedNPC": [
-                {
-                    "Name": "Ironworks Hand",
-                    "Url": "/lodestone/playguide/db/npc/npc/c7903e98d40/",
-                    "Area": "The Fringes (X:31.0 Y:32.0)"
-                },
-                {
-                    "Name": "Alpha",
-                    "Url": "/lodestone/playguide/db/npc/npc/fb29f4a62e1/",
-                    "Area": "The Interdimensional Rift (X:19.7 Y:24.8)"
-                },
-                {
-                    "Name": "Alpha",
-                    "Url": "/lodestone/playguide/db/npc/npc/fb0e687eda0/",
-                    "Area": "The Interdimensional Rift (X:19.7 Y:25.0)"
-                },
-                {
-                    "Name": "Nero",
-                    "Url": "/lodestone/playguide/db/npc/npc/8da6a79baff/",
-                    "Area": "The Interdimensional Rift (X:19.8 Y:24.8)"
-                },
-                {
-                    "Name": "Nero",
-                    "Url": "/lodestone/playguide/db/npc/npc/09d22d1cc7f/",
-                    "Area": "The Interdimensional Rift (X:19.7 Y:25.0)"
-                }
-            ]
-        },
-        "Seq": 7,
-        "oldID": 68568,
-        "Map": {
-            "ID": 444
-        },
-        "StartDependency": false
-    },
-    {
-        "ID": "38ff3e7d7ea",
-        "Name": "In the End, There Is Omega",
-        "Location": "The Interdimensional Rift",
-        "Level": 70,
-        "JournalSection": 2,
-        "JournalCategory": 17,
-        "JournalGenre": "Chronicles of a New Era - Omega",
-        "Url": "/lodestone/playguide/db/quest/38ff3e7d7ea/",
-        "Image": "https://img.finalfantasyxiv.com/lds/pc/global/images/itemicon/e1/e1984cbea4f17b01ff5859577aae25d0e632487a.png?n5.55",
-        "Icon": "function_normal",
-        "Issuer": "Cid",
-        "StartLocation": {
-            "Name": "The Interdimensional Rift",
-            "X": "20.7",
-            "Y": "24.6"
+            "Name": "The Sea of Clouds",
+            "X": "6.2",
+            "Y": "5.8"
         },
         "StartClass": null,
         "Job": "",
@@ -282,640 +348,146 @@
         "Infos": {
             "PrerequisiteQuest": [
                 {
-                    "Name": "And Like Fire Was His Mane",
-                    "Url": "/lodestone/playguide/db/quest/9f51d44bd73/",
-                    "Area": "The Interdimensional Rift",
-                    "Level": "70"
+                    "Name": "To Rule the Skies",
+                    "Url": "/lodestone/playguide/db/quest/e1591301403/",
+                    "Area": "The Sea of Clouds",
+                    "Level": "60"
                 }
             ],
             "FollowupQuest": [
                 {
-                    "Name": "To Kweh under Distant Skies",
-                    "Url": "/lodestone/playguide/db/quest/c4a02b89d32/",
-                    "Area": "The Fringes",
-                    "Level": "70"
+                    "Name": "Freedom for Our Skies",
+                    "Url": "/lodestone/playguide/db/quest/766bb92612a/",
+                    "Area": "The Parrock",
+                    "Level": "60"
                 }
             ],
             "RelatedNPC": [
                 {
-                    "Name": "Alpha",
-                    "Url": "/lodestone/playguide/db/npc/npc/ad8283a7739/",
-                    "Area": "Rhalgr's Reach (X:13.3 Y:12.0)"
+                    "Name": "Cait Sith",
+                    "Url": "/lodestone/playguide/db/npc/npc/378889326b1/",
+                    "Area": "Leofard's Chambers (X:3.6 Y:3.5)"
                 },
                 {
-                    "Name": "Alpha",
-                    "Url": "/lodestone/playguide/db/npc/npc/ff857133bc1/",
-                    "Area": "Rhalgr's Reach (X:13.5 Y:12.1)"
+                    "Name": "Cait Sith",
+                    "Url": "/lodestone/playguide/db/npc/npc/9a2c9bd6aeb/",
+                    "Area": "Leofard's Chambers (X:3.5 Y:3.6)"
                 },
                 {
-                    "Name": "Cid",
-                    "Url": "/lodestone/playguide/db/npc/npc/9de847446a8/",
-                    "Area": "Rhalgr's Reach (X:13.5 Y:12.1)"
+                    "Name": "Leofard",
+                    "Url": "/lodestone/playguide/db/npc/npc/6cd53d8c0d0/",
+                    "Area": "Leofard's Chambers (X:3.5 Y:3.5)"
                 },
                 {
-                    "Name": "Jessie",
-                    "Url": "/lodestone/playguide/db/npc/npc/6492c662d27/",
-                    "Area": "Rhalgr's Reach (X:13.4 Y:12.4)"
+                    "Name": "Leofard",
+                    "Url": "/lodestone/playguide/db/npc/npc/baf2fd0aece/",
+                    "Area": "Leofard's Chambers (X:3.5 Y:3.5)"
                 },
                 {
-                    "Name": "Alpha",
-                    "Url": "/lodestone/playguide/db/npc/npc/040f2d3ab7c/",
-                    "Area": "The Fringes (X:30.7 Y:31.9)"
+                    "Name": "Stacia",
+                    "Url": "/lodestone/playguide/db/npc/npc/d8e444d8821/",
+                    "Area": "Leofard's Chambers (X:3.6 Y:3.5)"
                 },
                 {
-                    "Name": "Alpha",
-                    "Url": "/lodestone/playguide/db/npc/npc/d77deb2cfef/",
-                    "Area": "The Fringes (X:30.8 Y:31.8)"
+                    "Name": "Stacia",
+                    "Url": "/lodestone/playguide/db/npc/npc/f6217438ab5/",
+                    "Area": "Leofard's Chambers (X:3.5 Y:3.6)"
                 },
                 {
-                    "Name": "Biggs",
-                    "Url": "/lodestone/playguide/db/npc/npc/0560b5863c6/",
-                    "Area": "The Fringes (X:30.7 Y:31.9)"
+                    "Name": "Cait Sith",
+                    "Url": "/lodestone/playguide/db/npc/npc/1c1b9aaa794/",
+                    "Area": "The Parrock (X:6.7 Y:6.6)"
                 },
                 {
-                    "Name": "Cid",
-                    "Url": "/lodestone/playguide/db/npc/npc/3c0873322b6/",
-                    "Area": "The Fringes (X:30.7 Y:31.8)"
+                    "Name": "Cait Sith",
+                    "Url": "/lodestone/playguide/db/npc/npc/d3e64df1718/",
+                    "Area": "The Parrock (X:7.0 Y:7.0)"
                 },
                 {
-                    "Name": "Ironworks Hand",
-                    "Url": "/lodestone/playguide/db/npc/npc/c7903e98d40/",
-                    "Area": "The Fringes (X:31.0 Y:32.0)"
+                    "Name": "Leofard",
+                    "Url": "/lodestone/playguide/db/npc/npc/3cebd6ff497/",
+                    "Area": "The Parrock (X:6.8 Y:6.6)"
                 },
                 {
-                    "Name": "Wedge",
-                    "Url": "/lodestone/playguide/db/npc/npc/1997f43b88c/",
-                    "Area": "The Fringes (X:30.7 Y:31.9)"
+                    "Name": "Leofard",
+                    "Url": "/lodestone/playguide/db/npc/npc/fa1b98beb7a/",
+                    "Area": "The Parrock (X:7.0 Y:6.9)"
                 },
                 {
-                    "Name": "Alpha",
-                    "Url": "/lodestone/playguide/db/npc/npc/0caab258882/",
-                    "Area": "The Interdimensional Rift (X:20.7 Y:24.5)"
+                    "Name": "Stacia",
+                    "Url": "/lodestone/playguide/db/npc/npc/72fe1a88b0f/",
+                    "Area": "The Parrock (X:6.5 Y:5.8)"
                 },
                 {
-                    "Name": "Alpha",
-                    "Url": "/lodestone/playguide/db/npc/npc/2e9dfc36495/",
-                    "Area": "The Interdimensional Rift (X:21.0 Y:24.3)"
+                    "Name": "Stacia",
+                    "Url": "/lodestone/playguide/db/npc/npc/bba78bff381/",
+                    "Area": "The Parrock (X:6.8 Y:6.6)"
                 },
                 {
-                    "Name": "Alpha",
-                    "Url": "/lodestone/playguide/db/npc/npc/f0b5be98856/",
-                    "Area": "The Interdimensional Rift (X:6.0 Y:6.3)"
+                    "Name": "Stacia",
+                    "Url": "/lodestone/playguide/db/npc/npc/376cd2b1387/",
+                    "Area": "The Parrock (X:7.1 Y:6.9)"
                 },
                 {
-                    "Name": "Cid",
-                    "Url": "/lodestone/playguide/db/npc/npc/f2d5a87afc0/",
-                    "Area": "The Interdimensional Rift (X:21.0 Y:24.3)"
+                    "Name": "Stacia",
+                    "Url": "/lodestone/playguide/db/npc/npc/5bc4fcfb3e6/",
+                    "Area": "The Parrock (X:7.0 Y:6.8)"
                 },
                 {
-                    "Name": "Cid",
-                    "Url": "/lodestone/playguide/db/npc/npc/23d3063b85b/",
-                    "Area": "The Interdimensional Rift (X:6.0 Y:6.3)"
+                    "Name": "Talons Deckswab",
+                    "Url": "/lodestone/playguide/db/npc/npc/7ac4e34467a/",
+                    "Area": "The Parrock (X:6.8 Y:6.6)"
+                },
+                {
+                    "Name": "Utata",
+                    "Url": "/lodestone/playguide/db/npc/npc/f46bef986d1/",
+                    "Area": "The Parrock (X:6.7 Y:6.6)"
+                },
+                {
+                    "Name": "Cait Sith",
+                    "Url": "/lodestone/playguide/db/npc/npc/10ec59ecb88/",
+                    "Area": "The Sea of Clouds (X:25.3 Y:5.1)"
+                },
+                {
+                    "Name": "Utata",
+                    "Url": "/lodestone/playguide/db/npc/npc/6aec2377dfd/",
+                    "Area": "The Sea of Clouds (X:25.2 Y:5.1)"
                 }
             ]
         },
-        "Seq": 13,
-        "oldID": 68692,
-        "Map": {
-            "ID": 508
-        },
+        "Seq": 2,
         "StartDependency": false
     },
     {
-        "ID": "4c37b9b749c",
-        "Name": "Into the Deltascape",
-        "Location": "The Interdimensional Rift",
-        "Level": 70,
+        "ID": "d1467b768c6",
+        "Name": "A Redbill Farewell",
+        "Location": "The Parrock",
+        "Level": 60,
         "JournalSection": 2,
         "JournalCategory": 17,
-        "JournalGenre": "Chronicles of a New Era - Omega",
-        "Url": "/lodestone/playguide/db/quest/4c37b9b749c/",
-        "Image": "https://img.finalfantasyxiv.com/lds/pc/global/images/itemicon/71/71146eb23c2562e5eef15d829ad07888ae310008.png?n5.55",
+        "JournalGenre": "Chronicles of a New Era - The Shadow of Mhach",
+        "Url": "/lodestone/playguide/db/quest/d1467b768c6/",
+        "Image": "https://img.finalfantasyxiv.com/lds/pc/global/images/itemicon/32/325b5e34888497f7c1634be360359b540ac67add.png?n6.05",
         "Icon": "function_normal",
-        "Issuer": "Cid",
+        "Issuer": "Leofard",
         "StartLocation": {
-            "Name": "The Interdimensional Rift",
-            "X": "17.3",
-            "Y": "18.9"
+            "Name": "The Parrock",
+            "X": "7.0",
+            "Y": "6.9"
         },
         "StartClass": null,
         "Job": "",
         "Company": "Not specified",
         "Requirement": "Not specified",
         "Rewards": {
-            "Gil": 1736,
-            "Exp": 0,
-            "ItemsMand": [],
-            "ItemsOpt": []
-        },
-        "Infos": {
-            "PrerequisiteQuest": [
-                {
-                    "Name": "The Hunt for Omega",
-                    "Url": "/lodestone/playguide/db/quest/8908ee4f49f/",
-                    "Area": "Rhalgr's Reach",
-                    "Level": "70"
-                }
-            ],
-            "FollowupQuest": [
-                {
-                    "Name": "A Catastrophe Waiting",
-                    "Url": "/lodestone/playguide/db/quest/1976a3554f3/",
-                    "Area": "The Interdimensional Rift",
-                    "Level": "70"
-                }
-            ],
-            "RelatedNPC": [
-                {
-                    "Name": "Ironworks Hand",
-                    "Url": "/lodestone/playguide/db/npc/npc/c7903e98d40/",
-                    "Area": "The Fringes (X:31.0 Y:32.0)"
-                },
-                {
-                    "Name": "Alpha",
-                    "Url": "/lodestone/playguide/db/npc/npc/f428b8c1d6c/",
-                    "Area": "The Interdimensional Rift (X:17.2 Y:19.1)"
-                },
-                {
-                    "Name": "Biggs",
-                    "Url": "/lodestone/playguide/db/npc/npc/612f71394c4/",
-                    "Area": "The Interdimensional Rift (X:17.0 Y:19.0)"
-                },
-                {
-                    "Name": "Biggs",
-                    "Url": "/lodestone/playguide/db/npc/npc/e092c39c25e/",
-                    "Area": "The Interdimensional Rift (X:17.1 Y:19.0)"
-                },
-                {
-                    "Name": "Nero Tol Scaeva",
-                    "Url": "/lodestone/playguide/db/npc/npc/67cbfd23864/",
-                    "Area": "The Interdimensional Rift (X:17.3 Y:18.9)"
-                },
-                {
-                    "Name": "Wedge",
-                    "Url": "/lodestone/playguide/db/npc/npc/4c49109adf5/",
-                    "Area": "The Interdimensional Rift (X:17.1 Y:19.0)"
-                },
-                {
-                    "Name": "Wedge",
-                    "Url": "/lodestone/playguide/db/npc/npc/46ded6122a0/",
-                    "Area": "The Interdimensional Rift (X:17.1 Y:19.0)"
-                }
-            ]
-        },
-        "Seq": 1,
-        "oldID": 68465,
-        "Map": {
-            "ID": 395
-        },
-        "StartDependency": false
-    },
-    {
-        "ID": "54822075402",
-        "Name": "Return to the Rift",
-        "Location": "Rhalgr's Reach",
-        "Level": 70,
-        "JournalSection": 2,
-        "JournalCategory": 17,
-        "JournalGenre": "Chronicles of a New Era - Omega",
-        "Url": "/lodestone/playguide/db/quest/54822075402/",
-        "Image": "https://img.finalfantasyxiv.com/lds/pc/global/images/itemicon/60/602ef516ca0d255752950091d269d53d95344739.png?n5.55",
-        "Icon": "function_normal",
-        "Issuer": "Jessie",
-        "StartLocation": {
-            "Name": "Rhalgr's Reach",
-            "X": "13.4",
-            "Y": "12.4"
-        },
-        "StartClass": null,
-        "Job": "",
-        "Company": "Not specified",
-        "Requirement": "Not specified",
-        "Rewards": {
-            "Gil": 2174,
-            "Exp": 0,
-            "ItemsMand": [],
-            "ItemsOpt": []
-        },
-        "Infos": {
-            "PrerequisiteQuest": [
-                {
-                    "Name": "The Anomaly",
-                    "Url": "/lodestone/playguide/db/quest/c8875b1b85e/",
-                    "Area": "The Fringes",
-                    "Level": "70"
-                }
-            ],
-            "FollowupQuest": [
-                {
-                    "Name": "No Slowing Down",
-                    "Url": "/lodestone/playguide/db/quest/33e0fa73a67/",
-                    "Area": "The Interdimensional Rift",
-                    "Level": "70"
-                }
-            ],
-            "RelatedNPC": [
-                {
-                    "Name": "Alpha",
-                    "Url": "/lodestone/playguide/db/npc/npc/040f2d3ab7c/",
-                    "Area": "The Fringes (X:30.7 Y:31.9)"
-                },
-                {
-                    "Name": "Cid",
-                    "Url": "/lodestone/playguide/db/npc/npc/01251c10ead/",
-                    "Area": "The Fringes (X:30.8 Y:31.9)"
-                },
-                {
-                    "Name": "Ironworks Hand",
-                    "Url": "/lodestone/playguide/db/npc/npc/c7903e98d40/",
-                    "Area": "The Fringes (X:31.0 Y:32.0)"
-                },
-                {
-                    "Name": "Nero Tol Scaeva",
-                    "Url": "/lodestone/playguide/db/npc/npc/d6f5f4df38f/",
-                    "Area": "The Fringes (X:30.7 Y:31.9)"
-                },
-                {
-                    "Name": "Alpha",
-                    "Url": "/lodestone/playguide/db/npc/npc/fb0e687eda0/",
-                    "Area": "The Interdimensional Rift (X:19.7 Y:25.0)"
-                },
-                {
-                    "Name": "Cid",
-                    "Url": "/lodestone/playguide/db/npc/npc/b06a3f3e668/",
-                    "Area": "The Interdimensional Rift (X:19.7 Y:25.1)"
-                },
-                {
-                    "Name": "Nero",
-                    "Url": "/lodestone/playguide/db/npc/npc/09d22d1cc7f/",
-                    "Area": "The Interdimensional Rift (X:19.7 Y:25.0)"
-                }
-            ]
-        },
-        "Seq": 6,
-        "oldID": 68567,
-        "Map": {
-            "ID": 366
-        },
-        "StartDependency": false
-    },
-    {
-        "ID": "6a8c5ce866a",
-        "Name": "In the Beginning, There Was Chaos",
-        "Location": "Rhalgr's Reach",
-        "Level": 70,
-        "JournalSection": 2,
-        "JournalCategory": 17,
-        "JournalGenre": "Chronicles of a New Era - Omega",
-        "Url": "/lodestone/playguide/db/quest/6a8c5ce866a/",
-        "Image": "https://img.finalfantasyxiv.com/lds/pc/global/images/itemicon/e5/e5b1e21c1e1adfc8b7a7fe751f0a7ef7865276dc.png?n5.55",
-        "Icon": "function_normal",
-        "Issuer": "Jessie",
-        "StartLocation": {
-            "Name": "Rhalgr's Reach",
-            "X": "13.4",
-            "Y": "12.4"
-        },
-        "StartClass": null,
-        "Job": "",
-        "Company": "Not specified",
-        "Requirement": "Not specified",
-        "Rewards": {
-            "Gil": 3000,
-            "Exp": 0,
-            "ItemsMand": [],
-            "ItemsOpt": []
-        },
-        "Infos": {
-            "PrerequisiteQuest": [
-                {
-                    "Name": "Test World of Ruin",
-                    "Url": "/lodestone/playguide/db/quest/c2b523b1c94/",
-                    "Area": "The Interdimensional Rift",
-                    "Level": "70"
-                }
-            ],
-            "FollowupQuest": [
-                {
-                    "Name": "And Like Fire Was His Mane",
-                    "Url": "/lodestone/playguide/db/quest/9f51d44bd73/",
-                    "Area": "The Interdimensional Rift",
-                    "Level": "70"
-                }
-            ],
-            "RelatedNPC": [
-                {
-                    "Name": "Alpha",
-                    "Url": "/lodestone/playguide/db/npc/npc/d77deb2cfef/",
-                    "Area": "The Fringes (X:30.8 Y:31.8)"
-                },
-                {
-                    "Name": "Cid",
-                    "Url": "/lodestone/playguide/db/npc/npc/3c0873322b6/",
-                    "Area": "The Fringes (X:30.7 Y:31.8)"
-                },
-                {
-                    "Name": "Ironworks Hand",
-                    "Url": "/lodestone/playguide/db/npc/npc/c7903e98d40/",
-                    "Area": "The Fringes (X:31.0 Y:32.0)"
-                },
-                {
-                    "Name": "Alpha",
-                    "Url": "/lodestone/playguide/db/npc/npc/0caab258882/",
-                    "Area": "The Interdimensional Rift (X:20.7 Y:24.5)"
-                },
-                {
-                    "Name": "Alpha",
-                    "Url": "/lodestone/playguide/db/npc/npc/2928ae8be41/",
-                    "Area": "The Interdimensional Rift (X:20.8 Y:24.3)"
-                },
-                {
-                    "Name": "Cid",
-                    "Url": "/lodestone/playguide/db/npc/npc/8631b7c4e70/",
-                    "Area": "The Interdimensional Rift (X:20.7 Y:24.6)"
-                }
-            ]
-        },
-        "Seq": 11,
-        "oldID": 68690,
-        "Map": {
-            "ID": 366
-        },
-        "StartDependency": false
-    },
-    {
-        "ID": "8908ee4f49f",
-        "Name": "The Hunt for Omega",
-        "Location": "Rhalgr's Reach",
-        "Level": 70,
-        "JournalSection": 2,
-        "JournalCategory": 17,
-        "JournalGenre": "Chronicles of a New Era - Omega",
-        "Url": "/lodestone/playguide/db/quest/8908ee4f49f/",
-        "Image": "https://img.finalfantasyxiv.com/lds/pc/global/images/itemicon/a0/a06c5bbb9c835ad54e8dac5d237c8a7851a9037e.png?n5.55",
-        "Icon": "function_normal",
-        "Issuer": "Wedge",
-        "StartLocation": {
-            "Name": "Rhalgr's Reach",
-            "X": "12.6",
-            "Y": "12.4"
-        },
-        "StartClass": null,
-        "Job": "",
-        "Company": "Not specified",
-        "Requirement": "Not specified",
-        "Rewards": {
-            "Gil": 1335,
-            "Exp": 0,
-            "ItemsMand": [],
-            "ItemsOpt": []
-        },
-        "Infos": {
-            "PrerequisiteQuest": [
-                {
-                    "Name": "Stormblood",
-                    "Url": "/lodestone/playguide/db/quest/08908744553/",
-                    "Area": "The Lochs",
-                    "Level": "70"
-                }
-            ],
-            "FollowupQuest": [
-                {
-                    "Name": "Into the Deltascape",
-                    "Url": "/lodestone/playguide/db/quest/4c37b9b749c/",
-                    "Area": "The Interdimensional Rift",
-                    "Level": "70"
-                }
-            ],
-            "RelatedNPC": [
-                {
-                    "Name": "Biggs",
-                    "Url": "/lodestone/playguide/db/npc/npc/9fdd8daefb0/",
-                    "Area": "Rhalgr's Reach (X:12.6 Y:12.3)"
-                },
-                {
-                    "Name": "Biggs",
-                    "Url": "/lodestone/playguide/db/npc/npc/55187dea527/",
-                    "Area": "Rhalgr's Reach (X:13.4 Y:12.3)"
-                },
-                {
-                    "Name": "Cid",
-                    "Url": "/lodestone/playguide/db/npc/npc/15c14e4fff9/",
-                    "Area": "Rhalgr's Reach (X:13.5 Y:12.4)"
-                },
-                {
-                    "Name": "Jessie",
-                    "Url": "/lodestone/playguide/db/npc/npc/e32dae211e0/",
-                    "Area": "Rhalgr's Reach (X:13.4 Y:12.4)"
-                },
-                {
-                    "Name": "Nero Tol Scaeva",
-                    "Url": "/lodestone/playguide/db/npc/npc/0b1065788c9/",
-                    "Area": "Rhalgr's Reach (X:13.5 Y:12.3)"
-                },
-                {
-                    "Name": "Wedge",
-                    "Url": "/lodestone/playguide/db/npc/npc/38a54f1383c/",
-                    "Area": "Rhalgr's Reach (X:13.4 Y:12.3)"
-                },
-                {
-                    "Name": "Biggs",
-                    "Url": "/lodestone/playguide/db/npc/npc/78be9ac0e65/",
-                    "Area": "The Fringes (X:30.6 Y:31.9)"
-                },
-                {
-                    "Name": "Biggs",
-                    "Url": "/lodestone/playguide/db/npc/npc/0560b5863c6/",
-                    "Area": "The Fringes (X:30.7 Y:31.9)"
-                },
-                {
-                    "Name": "Chocobo",
-                    "Url": "/lodestone/playguide/db/npc/npc/ca803a6b1b6/",
-                    "Area": "The Fringes (X:30.8 Y:31.9)"
-                },
-                {
-                    "Name": "Cid",
-                    "Url": "/lodestone/playguide/db/npc/npc/01251c10ead/",
-                    "Area": "The Fringes (X:30.8 Y:31.9)"
-                },
-                {
-                    "Name": "Cid",
-                    "Url": "/lodestone/playguide/db/npc/npc/3c0873322b6/",
-                    "Area": "The Fringes (X:30.7 Y:31.8)"
-                },
-                {
-                    "Name": "Ironworks Hand",
-                    "Url": "/lodestone/playguide/db/npc/npc/c7903e98d40/",
-                    "Area": "The Fringes (X:31.0 Y:32.0)"
-                },
-                {
-                    "Name": "Nero Tol Scaeva",
-                    "Url": "/lodestone/playguide/db/npc/npc/d6f5f4df38f/",
-                    "Area": "The Fringes (X:30.7 Y:31.9)"
-                },
-                {
-                    "Name": "Nero Tol Scaeva",
-                    "Url": "/lodestone/playguide/db/npc/npc/1d4d9c7690c/",
-                    "Area": "The Fringes (X:30.7 Y:31.8)"
-                },
-                {
-                    "Name": "Wedge",
-                    "Url": "/lodestone/playguide/db/npc/npc/ccc104191b0/",
-                    "Area": "The Fringes (X:30.7 Y:31.9)"
-                },
-                {
-                    "Name": "Wedge",
-                    "Url": "/lodestone/playguide/db/npc/npc/1997f43b88c/",
-                    "Area": "The Fringes (X:30.7 Y:31.9)"
-                },
-                {
-                    "Name": "Alpha",
-                    "Url": "/lodestone/playguide/db/npc/npc/f428b8c1d6c/",
-                    "Area": "The Interdimensional Rift (X:17.2 Y:19.1)"
-                },
-                {
-                    "Name": "Biggs",
-                    "Url": "/lodestone/playguide/db/npc/npc/612f71394c4/",
-                    "Area": "The Interdimensional Rift (X:17.0 Y:19.0)"
-                },
-                {
-                    "Name": "Cid",
-                    "Url": "/lodestone/playguide/db/npc/npc/ef2fd9e0c9b/",
-                    "Area": "The Interdimensional Rift (X:17.3 Y:18.9)"
-                },
-                {
-                    "Name": "Nero Tol Scaeva",
-                    "Url": "/lodestone/playguide/db/npc/npc/67cbfd23864/",
-                    "Area": "The Interdimensional Rift (X:17.3 Y:18.9)"
-                },
-                {
-                    "Name": "Wedge",
-                    "Url": "/lodestone/playguide/db/npc/npc/4c49109adf5/",
-                    "Area": "The Interdimensional Rift (X:17.1 Y:19.0)"
-                }
-            ]
-        },
-        "Seq": 7,
-        "oldID": 68464,
-        "Map": {
-            "ID": 366
-        },
-        "StartDependency": false
-    },
-    {
-        "ID": "9cdc5d93afb",
-        "Name": "A Void at All Costs",
-        "Location": "The Interdimensional Rift",
-        "Level": 70,
-        "JournalSection": 2,
-        "JournalCategory": 17,
-        "JournalGenre": "Chronicles of a New Era - Omega",
-        "Url": "/lodestone/playguide/db/quest/9cdc5d93afb/",
-        "Image": "https://img.finalfantasyxiv.com/lds/pc/global/images/itemicon/99/9960c3a18d23384096a114d374ef91905536f9f2.png?n5.55",
-        "Icon": "function_normal",
-        "Issuer": "Cid",
-        "StartLocation": {
-            "Name": "The Interdimensional Rift",
-            "X": "17.3",
-            "Y": "18.9"
-        },
-        "StartClass": null,
-        "Job": "",
-        "Company": "Not specified",
-        "Requirement": "Not specified",
-        "Rewards": {
-            "Gil": 1955,
-            "Exp": 0,
-            "ItemsMand": [],
-            "ItemsOpt": []
-        },
-        "Infos": {
-            "PrerequisiteQuest": [
-                {
-                    "Name": "The Croak Queen",
-                    "Url": "/lodestone/playguide/db/quest/b58d125e9dd/",
-                    "Area": "The Interdimensional Rift",
-                    "Level": "70"
-                }
-            ],
-            "FollowupQuest": [
-                {
-                    "Name": "The Anomaly",
-                    "Url": "/lodestone/playguide/db/quest/c8875b1b85e/",
-                    "Area": "The Fringes",
-                    "Level": "70"
-                }
-            ],
-            "RelatedNPC": [
-                {
-                    "Name": "Alpha",
-                    "Url": "/lodestone/playguide/db/npc/npc/b629e31b049/",
-                    "Area": "The Fringes (X:30.7 Y:31.7)"
-                },
-                {
-                    "Name": "Cid",
-                    "Url": "/lodestone/playguide/db/npc/npc/31346fbc1c6/",
-                    "Area": "The Fringes (X:30.7 Y:31.7)"
-                },
-                {
-                    "Name": "Ironworks Hand",
-                    "Url": "/lodestone/playguide/db/npc/npc/c7903e98d40/",
-                    "Area": "The Fringes (X:31.0 Y:32.0)"
-                },
-                {
-                    "Name": "Nero Tol Scaeva",
-                    "Url": "/lodestone/playguide/db/npc/npc/2e611081016/",
-                    "Area": "The Fringes (X:30.6 Y:31.7)"
-                },
-                {
-                    "Name": "Alpha",
-                    "Url": "/lodestone/playguide/db/npc/npc/f428b8c1d6c/",
-                    "Area": "The Interdimensional Rift (X:17.2 Y:19.1)"
-                },
-                {
-                    "Name": "Nero Tol Scaeva",
-                    "Url": "/lodestone/playguide/db/npc/npc/67cbfd23864/",
-                    "Area": "The Interdimensional Rift (X:17.3 Y:18.9)"
-                }
-            ]
-        },
-        "Seq": 4,
-        "oldID": 68468,
-        "Map": {
-            "ID": 395
-        },
-        "StartDependency": false
-    },
-    {
-        "ID": "9f51d44bd73",
-        "Name": "And Like Fire Was His Mane",
-        "Location": "The Interdimensional Rift",
-        "Level": 70,
-        "JournalSection": 2,
-        "JournalCategory": 17,
-        "JournalGenre": "Chronicles of a New Era - Omega",
-        "Url": "/lodestone/playguide/db/quest/9f51d44bd73/",
-        "Image": "https://img.finalfantasyxiv.com/lds/pc/global/images/itemicon/0f/0f44aa3fa96dab6d56ced954754cd5d5fede0063.png?n5.55",
-        "Icon": "function_normal",
-        "Issuer": "Cid",
-        "StartLocation": {
-            "Name": "The Interdimensional Rift",
-            "X": "20.7",
-            "Y": "24.6"
-        },
-        "StartClass": null,
-        "Job": "",
-        "Company": "Not specified",
-        "Requirement": "Not specified",
-        "Rewards": {
-            "Gil": 3000,
+            "Gil": 615,
             "Exp": 0,
             "ItemsMand": [
                 {
-                    "Icon": "https://img.finalfantasyxiv.com/lds/pc/global/images/itemicon/7e/7eaa53e1fe9e2bd80f81d9ce69c98c24f6223b0b.png?n5.55",
-                    "Name": "Deltascape Orchestrion Roll",
+                    "Icon": "https://img.finalfantasyxiv.com/lds/pc/global/images/itemicon/cd/cdb8409b7868a3307deab7a3319812ef0642abea.png?n6.05",
+                    "Name": "Redbill Scarf",
                     "Amount": 1,
-                    "Url": "/lodestone/playguide/db/item/3f42ecacf06/"
+                    "Url": "/lodestone/playguide/db/item/9c50b129eb2/"
                 }
             ],
             "ItemsOpt": []
@@ -923,68 +495,96 @@
         "Infos": {
             "PrerequisiteQuest": [
                 {
-                    "Name": "In the Beginning, There Was Chaos",
-                    "Url": "/lodestone/playguide/db/quest/6a8c5ce866a/",
-                    "Area": "Rhalgr's Reach",
-                    "Level": "70"
-                }
-            ],
-            "FollowupQuest": [
-                {
-                    "Name": "In the End, There Is Omega",
-                    "Url": "/lodestone/playguide/db/quest/38ff3e7d7ea/",
-                    "Area": "The Interdimensional Rift",
-                    "Level": "70"
+                    "Name": "Where Shadows Reign",
+                    "Url": "/lodestone/playguide/db/quest/8db37428183/",
+                    "Area": "The Sea of Clouds",
+                    "Level": "60"
                 }
             ],
             "RelatedNPC": [
                 {
-                    "Name": "Ironworks Hand",
-                    "Url": "/lodestone/playguide/db/npc/npc/c7903e98d40/",
-                    "Area": "The Fringes (X:31.0 Y:32.0)"
+                    "Name": "Cait Sith",
+                    "Url": "/lodestone/playguide/db/npc/npc/34f8ebcc67b/",
+                    "Area": "Leofard's Chambers (X:3.5 Y:3.5)"
                 },
                 {
-                    "Name": "Alpha",
-                    "Url": "/lodestone/playguide/db/npc/npc/0caab258882/",
-                    "Area": "The Interdimensional Rift (X:20.7 Y:24.5)"
+                    "Name": "Stacia",
+                    "Url": "/lodestone/playguide/db/npc/npc/b608e9e60bb/",
+                    "Area": "Leofard's Chambers (X:3.5 Y:3.5)"
                 },
                 {
-                    "Name": "Cid",
-                    "Url": "/lodestone/playguide/db/npc/npc/8631b7c4e70/",
-                    "Area": "The Interdimensional Rift (X:20.7 Y:24.6)"
+                    "Name": "Cait Sith",
+                    "Url": "/lodestone/playguide/db/npc/npc/dda4453cb28/",
+                    "Area": "The Parrock (X:7.0 Y:6.9)"
+                },
+                {
+                    "Name": "Cait Sith",
+                    "Url": "/lodestone/playguide/db/npc/npc/7616460ec99/",
+                    "Area": "The Parrock (X:7.0 Y:6.6)"
+                },
+                {
+                    "Name": "Leofard",
+                    "Url": "/lodestone/playguide/db/npc/npc/4af546c3f69/",
+                    "Area": "The Parrock (X:7.0 Y:6.6)"
+                },
+                {
+                    "Name": "Radlia",
+                    "Url": "/lodestone/playguide/db/npc/npc/95edcf3a003/",
+                    "Area": "The Parrock (X:7.0 Y:6.9)"
+                },
+                {
+                    "Name": "Radlia",
+                    "Url": "/lodestone/playguide/db/npc/npc/7579bf5e330/",
+                    "Area": "The Parrock (X:7.0 Y:7.1)"
+                },
+                {
+                    "Name": "Stacia",
+                    "Url": "/lodestone/playguide/db/npc/npc/628d5ef401b/",
+                    "Area": "The Parrock (X:7.0 Y:6.9)"
+                },
+                {
+                    "Name": "Stacia",
+                    "Url": "/lodestone/playguide/db/npc/npc/703b58fb874/",
+                    "Area": "The Parrock (X:7.0 Y:6.6)"
+                },
+                {
+                    "Name": "Utata",
+                    "Url": "/lodestone/playguide/db/npc/npc/6e4d4f2cab8/",
+                    "Area": "The Parrock (X:6.6 Y:6.7)"
+                },
+                {
+                    "Name": "Utata",
+                    "Url": "/lodestone/playguide/db/npc/npc/7373bc379f1/",
+                    "Area": "The Parrock (X:7.0 Y:6.6)"
                 }
             ]
         },
-        "Seq": 12,
-        "oldID": 68691,
-        "Map": {
-            "ID": 508
-        },
+        "Seq": 5,
         "StartDependency": false
     },
     {
-        "ID": "b58d125e9dd",
-        "Name": "The Croak Queen",
-        "Location": "The Interdimensional Rift",
-        "Level": 70,
+        "ID": "e1591301403",
+        "Name": "To Rule the Skies",
+        "Location": "The Sea of Clouds",
+        "Level": 60,
         "JournalSection": 2,
         "JournalCategory": 17,
-        "JournalGenre": "Chronicles of a New Era - Omega",
-        "Url": "/lodestone/playguide/db/quest/b58d125e9dd/",
-        "Image": "https://img.finalfantasyxiv.com/lds/pc/global/images/itemicon/3e/3e9caad0626f11effad56972367d96b22a694bca.png?n5.55",
+        "JournalGenre": "Chronicles of a New Era - The Shadow of Mhach",
+        "Url": "/lodestone/playguide/db/quest/e1591301403/",
+        "Image": "https://img.finalfantasyxiv.com/lds/pc/global/images/itemicon/1c/1c61b54626133a2ae8147e18975acb11ae08f4a4.png?n6.05",
         "Icon": "function_normal",
-        "Issuer": "Cid",
+        "Issuer": "Utata",
         "StartLocation": {
-            "Name": "The Interdimensional Rift",
-            "X": "17.3",
-            "Y": "18.9"
+            "Name": "The Sea of Clouds",
+            "X": "25.5",
+            "Y": "5.2"
         },
         "StartClass": null,
         "Job": "",
         "Company": "Not specified",
         "Requirement": "Not specified",
         "Rewards": {
-            "Gil": 1882,
+            "Gil": 7500,
             "Exp": 0,
             "ItemsMand": [],
             "ItemsOpt": []
@@ -992,440 +592,114 @@
         "Infos": {
             "PrerequisiteQuest": [
                 {
-                    "Name": "A Catastrophe Waiting",
-                    "Url": "/lodestone/playguide/db/quest/1976a3554f3/",
-                    "Area": "The Interdimensional Rift",
-                    "Level": "70"
+                    "Name": "Sky Pirates",
+                    "Url": "/lodestone/playguide/db/quest/c7a49946613/",
+                    "Area": "Ishgard",
+                    "Level": "60"
                 }
             ],
             "FollowupQuest": [
                 {
-                    "Name": "A Void at All Costs",
-                    "Url": "/lodestone/playguide/db/quest/9cdc5d93afb/",
-                    "Area": "The Interdimensional Rift",
-                    "Level": "70"
+                    "Name": "The Weeping City",
+                    "Url": "/lodestone/playguide/db/quest/cabdde01fbe/",
+                    "Area": "The Sea of Clouds",
+                    "Level": "60"
                 }
             ],
             "RelatedNPC": [
                 {
-                    "Name": "Ironworks Hand",
-                    "Url": "/lodestone/playguide/db/npc/npc/c7903e98d40/",
-                    "Area": "The Fringes (X:31.0 Y:32.0)"
+                    "Name": "Curious Cat",
+                    "Url": "/lodestone/playguide/db/npc/npc/8b9f736368e/",
+                    "Area": "The Sea of Clouds (X:25.4 Y:5.1)"
                 },
                 {
-                    "Name": "Alpha",
-                    "Url": "/lodestone/playguide/db/npc/npc/f428b8c1d6c/",
-                    "Area": "The Interdimensional Rift (X:17.2 Y:19.1)"
+                    "Name": "Leofard",
+                    "Url": "/lodestone/playguide/db/npc/npc/97712ba8a7d/",
+                    "Area": "The Sea of Clouds (X:25.4 Y:5.2)"
                 },
                 {
-                    "Name": "Nero Tol Scaeva",
-                    "Url": "/lodestone/playguide/db/npc/npc/67cbfd23864/",
-                    "Area": "The Interdimensional Rift (X:17.3 Y:18.9)"
-                }
-            ]
-        },
-        "Seq": 3,
-        "oldID": 68467,
-        "Map": {
-            "ID": 395
-        },
-        "StartDependency": false
-    },
-    {
-        "ID": "c2b523b1c94",
-        "Name": "Test World of Ruin",
-        "Location": "The Interdimensional Rift",
-        "Level": 70,
-        "JournalSection": 2,
-        "JournalCategory": 17,
-        "JournalGenre": "Chronicles of a New Era - Omega",
-        "Url": "/lodestone/playguide/db/quest/c2b523b1c94/",
-        "Image": "https://img.finalfantasyxiv.com/lds/pc/global/images/itemicon/1b/1b5ed55cecb1ea7e26f0a8aacb0f7a462fdb7336.png?n5.55",
-        "Icon": "function_normal",
-        "Issuer": "Nero",
-        "StartLocation": {
-            "Name": "The Interdimensional Rift",
-            "X": "19.7",
-            "Y": "25.0"
-        },
-        "StartClass": null,
-        "Job": "",
-        "Company": "Not specified",
-        "Requirement": "Not specified",
-        "Rewards": {
-            "Gil": 6000,
-            "Exp": 0,
-            "ItemsMand": [],
-            "ItemsOpt": []
-        },
-        "Infos": {
-            "PrerequisiteQuest": [
-                {
-                    "Name": "Won't Let You Pass",
-                    "Url": "/lodestone/playguide/db/quest/ef8621fb81a/",
-                    "Area": "The Fringes",
-                    "Level": "70"
-                }
-            ],
-            "FollowupQuest": [
-                {
-                    "Name": "In the Beginning, There Was Chaos",
-                    "Url": "/lodestone/playguide/db/quest/6a8c5ce866a/",
-                    "Area": "Rhalgr's Reach",
-                    "Level": "70"
-                }
-            ],
-            "RelatedNPC": [
-                {
-                    "Name": "Alpha",
-                    "Url": "/lodestone/playguide/db/npc/npc/3cef1aadaf7/",
-                    "Area": "Rhalgr's Reach (X:13.4 Y:12.4)"
+                    "Name": "Leofard",
+                    "Url": "/lodestone/playguide/db/npc/npc/3a4bd92dc80/",
+                    "Area": "The Sea of Clouds (X:25.4 Y:5.1)"
                 },
                 {
-                    "Name": "Jessie",
-                    "Url": "/lodestone/playguide/db/npc/npc/6492c662d27/",
-                    "Area": "Rhalgr's Reach (X:13.4 Y:12.4)"
+                    "Name": "Redbill Deckhand",
+                    "Url": "/lodestone/playguide/db/npc/npc/07c91ac9ac0/",
+                    "Area": "The Sea of Clouds (X:25.5 Y:5.2)"
                 },
                 {
-                    "Name": "Alpha",
-                    "Url": "/lodestone/playguide/db/npc/npc/4b8a42322b3/",
-                    "Area": "The Fringes (X:31.0 Y:31.9)"
+                    "Name": "Redbill Deckhand",
+                    "Url": "/lodestone/playguide/db/npc/npc/761a8d4607d/",
+                    "Area": "The Sea of Clouds (X:25.5 Y:5.2)"
                 },
                 {
-                    "Name": "Ironworks Hand",
-                    "Url": "/lodestone/playguide/db/npc/npc/c7903e98d40/",
-                    "Area": "The Fringes (X:31.0 Y:32.0)"
+                    "Name": "Stacia",
+                    "Url": "/lodestone/playguide/db/npc/npc/8aa4fbebb85/",
+                    "Area": "The Sea of Clouds (X:25.5 Y:5.2)"
                 },
                 {
-                    "Name": "Alpha",
-                    "Url": "/lodestone/playguide/db/npc/npc/fb29f4a62e1/",
-                    "Area": "The Interdimensional Rift (X:19.7 Y:24.8)"
-                },
-                {
-                    "Name": "Cid",
-                    "Url": "/lodestone/playguide/db/npc/npc/b06a3f3e668/",
-                    "Area": "The Interdimensional Rift (X:19.7 Y:25.1)"
-                }
-            ]
-        },
-        "Seq": 10,
-        "oldID": 68571,
-        "Map": {
-            "ID": 444
-        },
-        "StartDependency": false
-    },
-    {
-        "ID": "c4a02b89d32",
-        "Name": "To Kweh under Distant Skies",
-        "Location": "The Fringes",
-        "Level": 70,
-        "JournalSection": 2,
-        "JournalCategory": 17,
-        "JournalGenre": "Chronicles of a New Era - Omega",
-        "Url": "/lodestone/playguide/db/quest/c4a02b89d32/",
-        "Image": "https://img.finalfantasyxiv.com/lds/pc/global/images/itemicon/3c/3cc9490659afe2cb9cb61d2b37ed71bc17c6f399.png?n5.55",
-        "Icon": "function_normal",
-        "Issuer": "Biggs",
-        "StartLocation": {
-            "Name": "The Fringes",
-            "X": "30.7",
-            "Y": "31.9"
-        },
-        "StartClass": null,
-        "Job": "",
-        "Company": "Not specified",
-        "Requirement": "Not specified",
-        "Rewards": {
-            "Gil": 3000,
-            "Exp": 0,
-            "ItemsMand": [
-                {
-                    "Icon": "https://img.finalfantasyxiv.com/lds/pc/global/images/itemicon/fb/fb000afa3b641a86f1f443904fff67f28e2c5b11.png?n5.55",
-                    "Name": "",
-                    "Amount": null
-                }
-            ],
-            "ItemsOpt": []
-        },
-        "Infos": {
-            "PrerequisiteQuest": [
-                {
-                    "Name": "In the End, There Is Omega",
-                    "Url": "/lodestone/playguide/db/quest/38ff3e7d7ea/",
-                    "Area": "The Interdimensional Rift",
-                    "Level": "70"
-                }
-            ],
-            "RelatedNPC": [
-                {
-                    "Name": "Alpha",
-                    "Url": "/lodestone/playguide/db/npc/npc/07a78a187b1/",
-                    "Area": "Rhalgr's Reach (X:10.4 Y:11.1)"
-                },
-                {
-                    "Name": "Alpha",
-                    "Url": "/lodestone/playguide/db/npc/npc/17dd0ab4aed/",
-                    "Area": "Rhalgr's Reach (X:8.9 Y:10.5)"
-                },
-                {
-                    "Name": "Alpha",
-                    "Url": "/lodestone/playguide/db/npc/npc/5654454bddc/",
-                    "Area": "Rhalgr's Reach (X:8.2 Y:8.4)"
-                },
-                {
-                    "Name": "Alpha",
-                    "Url": "/lodestone/playguide/db/npc/npc/32a309f4150/",
-                    "Area": "Rhalgr's Reach (X:10.9 Y:12.6)"
-                },
-                {
-                    "Name": "Alpha",
-                    "Url": "/lodestone/playguide/db/npc/npc/571e4e1531e/",
-                    "Area": "Rhalgr's Reach (X:13.5 Y:12.3)"
-                },
-                {
-                    "Name": "Biggs",
-                    "Url": "/lodestone/playguide/db/npc/npc/5a635900fb4/",
-                    "Area": "Rhalgr's Reach (X:13.5 Y:12.4)"
-                },
-                {
-                    "Name": "Cid",
-                    "Url": "/lodestone/playguide/db/npc/npc/96008d486f2/",
-                    "Area": "Rhalgr's Reach (X:13.5 Y:12.4)"
-                },
-                {
-                    "Name": "Jessie",
-                    "Url": "/lodestone/playguide/db/npc/npc/6492c662d27/",
-                    "Area": "Rhalgr's Reach (X:13.4 Y:12.4)"
-                },
-                {
-                    "Name": "Wedge",
-                    "Url": "/lodestone/playguide/db/npc/npc/8ef00a427bc/",
-                    "Area": "Rhalgr's Reach (X:13.5 Y:12.3)"
-                },
-                {
-                    "Name": "Alpha",
-                    "Url": "/lodestone/playguide/db/npc/npc/040f2d3ab7c/",
-                    "Area": "The Fringes (X:30.7 Y:31.9)"
-                },
-                {
-                    "Name": "Cid",
-                    "Url": "/lodestone/playguide/db/npc/npc/3c0873322b6/",
-                    "Area": "The Fringes (X:30.7 Y:31.8)"
-                },
-                {
-                    "Name": "Wedge",
-                    "Url": "/lodestone/playguide/db/npc/npc/1997f43b88c/",
-                    "Area": "The Fringes (X:30.7 Y:31.9)"
-                }
-            ]
-        },
-        "Seq": 14,
-        "oldID": 68693,
-        "Map": {
-            "ID": 367
-        },
-        "StartDependency": false
-    },
-    {
-        "ID": "c8875b1b85e",
-        "Name": "The Anomaly",
-        "Location": "The Fringes",
-        "Level": 70,
-        "JournalSection": 2,
-        "JournalCategory": 17,
-        "JournalGenre": "Chronicles of a New Era - Omega",
-        "Url": "/lodestone/playguide/db/quest/c8875b1b85e/",
-        "Image": "https://img.finalfantasyxiv.com/lds/pc/global/images/itemicon/d1/d11ad06f6774fe9675d282be1474f4739c047846.png?n5.55",
-        "Icon": "function_normal",
-        "Issuer": "Cid",
-        "StartLocation": {
-            "Name": "The Fringes",
-            "X": "30.7",
-            "Y": "31.7"
-        },
-        "StartClass": null,
-        "Job": "",
-        "Company": "Not specified",
-        "Requirement": "Not specified",
-        "Rewards": {
-            "Gil": 2137,
-            "Exp": 0,
-            "ItemsMand": [],
-            "ItemsOpt": []
-        },
-        "Infos": {
-            "PrerequisiteQuest": [
-                {
-                    "Name": "A Void at All Costs",
-                    "Url": "/lodestone/playguide/db/quest/9cdc5d93afb/",
-                    "Area": "The Interdimensional Rift",
-                    "Level": "70"
-                }
-            ],
-            "FollowupQuest": [
-                {
-                    "Name": "Return to the Rift",
-                    "Url": "/lodestone/playguide/db/quest/54822075402/",
-                    "Area": "Rhalgr's Reach",
-                    "Level": "70"
-                }
-            ],
-            "RelatedNPC": [
-                {
-                    "Name": "Alpha",
-                    "Url": "/lodestone/playguide/db/npc/npc/070885a491a/",
-                    "Area": "New Gridania (X:12.0 Y:13.1)"
-                },
-                {
-                    "Name": "Cid",
-                    "Url": "/lodestone/playguide/db/npc/npc/7ba5ea9267e/",
-                    "Area": "New Gridania (X:12.0 Y:13.1)"
-                },
-                {
-                    "Name": "Nero Tol Scaeva",
-                    "Url": "/lodestone/playguide/db/npc/npc/78531f1d879/",
-                    "Area": "New Gridania (X:12.0 Y:13.1)"
-                },
-                {
-                    "Name": "Biggs",
-                    "Url": "/lodestone/playguide/db/npc/npc/46ee9fa317b/",
-                    "Area": "Omega Control (X:6.0 Y:6.0)"
-                },
-                {
-                    "Name": "Wedge",
-                    "Url": "/lodestone/playguide/db/npc/npc/e4b4a48a7c3/",
-                    "Area": "Omega Control (X:6.2 Y:6.1)"
-                },
-                {
-                    "Name": "Alpha",
-                    "Url": "/lodestone/playguide/db/npc/npc/45568c073b4/",
-                    "Area": "Rhalgr's Reach (X:13.5 Y:12.4)"
-                },
-                {
-                    "Name": "Cid",
-                    "Url": "/lodestone/playguide/db/npc/npc/78b8543314e/",
-                    "Area": "Rhalgr's Reach (X:13.5 Y:12.4)"
-                },
-                {
-                    "Name": "Jessie",
-                    "Url": "/lodestone/playguide/db/npc/npc/6492c662d27/",
-                    "Area": "Rhalgr's Reach (X:13.4 Y:12.4)"
-                },
-                {
-                    "Name": "Nero Tol Scaeva",
-                    "Url": "/lodestone/playguide/db/npc/npc/775aa6ec22f/",
-                    "Area": "Rhalgr's Reach (X:13.4 Y:12.4)"
-                },
-                {
-                    "Name": "Alpha",
-                    "Url": "/lodestone/playguide/db/npc/npc/b629e31b049/",
-                    "Area": "The Fringes (X:30.7 Y:31.7)"
-                },
-                {
-                    "Name": "Ironworks Hand",
-                    "Url": "/lodestone/playguide/db/npc/npc/c7903e98d40/",
-                    "Area": "The Fringes (X:31.0 Y:32.0)"
-                },
-                {
-                    "Name": "Nero Tol Scaeva",
-                    "Url": "/lodestone/playguide/db/npc/npc/2e611081016/",
-                    "Area": "The Fringes (X:30.6 Y:31.7)"
+                    "Name": "Stacia",
+                    "Url": "/lodestone/playguide/db/npc/npc/db3819d3475/",
+                    "Area": "The Sea of Clouds (X:25.4 Y:5.2)"
                 }
             ],
             "RelatedAchievements": [
                 {
-                    "Name": "Delta Force",
-                    "Url": "/lodestone/playguide/db/achievement/e07b67284ba/",
+                    "Name": "Paying the Bills",
+                    "Url": "/lodestone/playguide/db/achievement/b117eee10f1/",
                     "Reward": "Title",
                     "Points": "10"
                 }
             ]
         },
-        "Seq": 5,
-        "oldID": 68469,
-        "Map": {
-            "ID": 367
-        },
+        "Seq": 1,
         "StartDependency": false
     },
     {
-        "ID": "ef8621fb81a",
-        "Name": "Won't Let You Pass",
-        "Location": "The Fringes",
-        "Level": 70,
+        "ID": "e69707dd011",
+        "Name": "Unidentified Flying Object",
+        "Location": "Idyllshire",
+        "Level": 60,
         "JournalSection": 2,
         "JournalCategory": 17,
-        "JournalGenre": "Chronicles of a New Era - Omega",
-        "Url": "/lodestone/playguide/db/quest/ef8621fb81a/",
-        "Image": "https://img.finalfantasyxiv.com/lds/pc/global/images/itemicon/58/589513e7f0f54593e22970524357927eefc1050f.png?n5.55",
-        "Icon": "function_normal",
-        "Issuer": "Wedge",
+        "JournalGenre": "Chronicles of a New Era - The Shadow of Mhach",
+        "Url": "/lodestone/playguide/db/quest/e69707dd011/",
+        "Image": null,
+        "Icon": "function_repeat",
+        "Issuer": "Slipslix",
         "StartLocation": {
-            "Name": "The Fringes",
-            "X": "30.7",
-            "Y": "31.8"
+            "Name": "Idyllshire",
+            "X": "7.7",
+            "Y": "4.2"
         },
         "StartClass": null,
         "Job": "",
         "Company": "Not specified",
         "Requirement": "Not specified",
         "Rewards": {
-            "Gil": 4142,
+            "Gil": 0,
             "Exp": 0,
-            "ItemsMand": [],
+            "ItemsMand": [
+                {
+                    "Icon": "https://img.finalfantasyxiv.com/lds/pc/global/images/itemicon/19/19daebd4dce351e5215412ed1429039e9d9ca2bf.png?n6.05",
+                    "Name": "Proto Ultima Heat Shielding",
+                    "Amount": 1,
+                    "Url": "/lodestone/playguide/db/item/fbe0c6e5dc1/"
+                }
+            ],
             "ItemsOpt": []
         },
         "Infos": {
             "PrerequisiteQuest": [
                 {
-                    "Name": "An Unfinished Masterpiece",
-                    "Url": "/lodestone/playguide/db/quest/0e431130121/",
-                    "Area": "The Interdimensional Rift",
-                    "Level": "70"
-                }
-            ],
-            "FollowupQuest": [
-                {
-                    "Name": "Test World of Ruin",
-                    "Url": "/lodestone/playguide/db/quest/c2b523b1c94/",
-                    "Area": "The Interdimensional Rift",
-                    "Level": "70"
-                }
-            ],
-            "RelatedNPC": [
-                {
-                    "Name": "Biggs",
-                    "Url": "/lodestone/playguide/db/npc/npc/4b8d9a1aa13/",
-                    "Area": "The Fringes (X:30.7 Y:31.8)"
-                },
-                {
-                    "Name": "Ironworks Hand",
-                    "Url": "/lodestone/playguide/db/npc/npc/c7903e98d40/",
-                    "Area": "The Fringes (X:31.0 Y:32.0)"
-                },
-                {
-                    "Name": "Alpha",
-                    "Url": "/lodestone/playguide/db/npc/npc/fb29f4a62e1/",
-                    "Area": "The Interdimensional Rift (X:19.7 Y:24.8)"
-                },
-                {
-                    "Name": "Cid",
-                    "Url": "/lodestone/playguide/db/npc/npc/b06a3f3e668/",
-                    "Area": "The Interdimensional Rift (X:19.7 Y:25.1)"
-                },
-                {
-                    "Name": "Nero",
-                    "Url": "/lodestone/playguide/db/npc/npc/71e80b3228a/",
-                    "Area": "The Interdimensional Rift (X:19.7 Y:25.0)"
+                    "Name": "Freedom for Our Skies",
+                    "Url": "/lodestone/playguide/db/quest/766bb92612a/",
+                    "Area": "The Parrock",
+                    "Level": "60"
                 }
             ]
         },
-        "Seq": 9,
-        "oldID": 68570,
-        "Map": {
-            "ID": 367
-        },
+        "Seq": 6,
         "StartDependency": false
     }
 ]

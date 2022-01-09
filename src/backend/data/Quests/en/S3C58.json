@@ -1,0 +1,3352 @@
+[
+    {
+        "ID": "03ec35dc0d0",
+        "Name": " Harbinger of Breath",
+        "Location": "Labyrinthos",
+        "Level": 80,
+        "JournalSection": 3,
+        "JournalCategory": 58,
+        "JournalGenre": "Sharlayan Sidequests",
+        "Url": "/lodestone/playguide/db/quest/03ec35dc0d0/",
+        "Image": null,
+        "Icon": "common_normal",
+        "Issuer": "Tatasako",
+        "StartLocation": {
+            "Name": "Labyrinthos",
+            "X": "6.1",
+            "Y": "27.3"
+        },
+        "StartClass": null,
+        "Job": "",
+        "Company": "Not specified",
+        "Requirement": "Not specified",
+        "Rewards": {
+            "Gil": 735,
+            "Exp": null,
+            "ItemsMand": [
+                {
+                    "Icon": "https://img.finalfantasyxiv.com/lds/pc/global/images/itemicon/9b/9bd72bd6c6937fe2db3d8cf7a2c6491c2778907e.png?n6.05",
+                    "Name": "Salted Thavnairian Cod",
+                    "Amount": 2,
+                    "Url": "/lodestone/playguide/db/item/2bbdf83e22f/"
+                }
+            ],
+            "ItemsOpt": []
+        },
+        "Infos": {
+            "PrerequisiteQuest": [
+                {
+                    "Name": "Her Children, One and All",
+                    "Url": "/lodestone/playguide/db/quest/85a238cb4eb/",
+                    "Area": "Labyrinthos",
+                    "Level": "89"
+                }
+            ]
+        },
+        "Seq": 32,
+        "StartDependency": false
+    },
+    {
+        "ID": "057c34d363d",
+        "Name": " Leveilleur Philanthropy",
+        "Location": "Old Sharlayan",
+        "Level": 80,
+        "JournalSection": 3,
+        "JournalCategory": 58,
+        "JournalGenre": "Sharlayan Sidequests",
+        "Url": "/lodestone/playguide/db/quest/057c34d363d/",
+        "Image": null,
+        "Icon": "common_normal",
+        "Issuer": "House Leveilleur Servant",
+        "StartLocation": {
+            "Name": "Old Sharlayan",
+            "X": "15.4",
+            "Y": "9.0"
+        },
+        "StartClass": null,
+        "Job": "",
+        "Company": "Not specified",
+        "Requirement": "Not specified",
+        "Rewards": {
+            "Gil": 735,
+            "Exp": null,
+            "ItemsMand": [],
+            "ItemsOpt": []
+        },
+        "Infos": {
+            "PrerequisiteQuest": [
+                {
+                    "Name": "Bonds of Adamant(ite)",
+                    "Url": "/lodestone/playguide/db/quest/a9901aefc3e/",
+                    "Area": "Labyrinthos",
+                    "Level": "88"
+                }
+            ],
+            "RelatedNPC": [
+                {
+                    "Name": "House Leveilleur Housemaid",
+                    "Url": "/lodestone/playguide/db/npc/npc/1cdbc232efb/",
+                    "Area": "Old Sharlayan (X:15.6 Y:10.5)"
+                },
+                {
+                    "Name": "House Leveilleur Parlormaid",
+                    "Url": "/lodestone/playguide/db/npc/npc/4b6c6fcaafd/",
+                    "Area": "Old Sharlayan (X:15.5 Y:10.5)"
+                },
+                {
+                    "Name": "Petite Student",
+                    "Url": "/lodestone/playguide/db/npc/npc/1cbb6772a45/",
+                    "Area": "Old Sharlayan (X:14.6 Y:12.3)"
+                },
+                {
+                    "Name": "Stocky Student",
+                    "Url": "/lodestone/playguide/db/npc/npc/efee5c88048/",
+                    "Area": "Old Sharlayan (X:14.6 Y:12.3)"
+                }
+            ]
+        },
+        "Seq": 50,
+        "StartDependency": false
+    },
+    {
+        "ID": "0ce1a59fdbd",
+        "Name": " The Case of the Missing Gleaner",
+        "Location": "Labyrinthos",
+        "Level": 80,
+        "JournalSection": 3,
+        "JournalCategory": 58,
+        "JournalGenre": "Sharlayan Sidequests",
+        "Url": "/lodestone/playguide/db/quest/0ce1a59fdbd/",
+        "Image": null,
+        "Icon": "common_normal",
+        "Issuer": "Elemental Reactor Operator",
+        "StartLocation": {
+            "Name": "Labyrinthos",
+            "X": "20.6",
+            "Y": "18.6"
+        },
+        "StartClass": null,
+        "Job": "",
+        "Company": "Not specified",
+        "Requirement": "Not specified",
+        "Rewards": {
+            "Gil": 735,
+            "Exp": null,
+            "ItemsMand": [],
+            "ItemsOpt": []
+        },
+        "Infos": {
+            "PrerequisiteQuest": [
+                {
+                    "Name": "No Job Too Small",
+                    "Url": "/lodestone/playguide/db/quest/f5d7769b1c1/",
+                    "Area": "Labyrinthos",
+                    "Level": "88"
+                }
+            ],
+            "RelatedNPC": [
+                {
+                    "Name": "Seedkin Gleaner",
+                    "Url": "/lodestone/playguide/db/npc/npc/57531c3f7a7/",
+                    "Area": "Labyrinthos (X:17.8 Y:16.5)"
+                }
+            ]
+        },
+        "Seq": 20,
+        "StartDependency": false
+    },
+    {
+        "ID": "0ed9fa06017",
+        "Name": " The Creature from the Wooden Crate",
+        "Location": "Old Sharlayan",
+        "Level": 80,
+        "JournalSection": 3,
+        "JournalCategory": 58,
+        "JournalGenre": "Sharlayan Sidequests",
+        "Url": "/lodestone/playguide/db/quest/0ed9fa06017/",
+        "Image": null,
+        "Icon": "common_normal",
+        "Issuer": "Timid Student",
+        "StartLocation": {
+            "Name": "Old Sharlayan",
+            "X": "6.6",
+            "Y": "8.8"
+        },
+        "StartClass": null,
+        "Job": "",
+        "Company": "Not specified",
+        "Requirement": "Not specified",
+        "Rewards": {
+            "Gil": 735,
+            "Exp": null,
+            "ItemsMand": [],
+            "ItemsOpt": []
+        },
+        "Infos": {
+            "PrerequisiteQuest": [
+                {
+                    "Name": "Sound the Bell, School's In",
+                    "Url": "/lodestone/playguide/db/quest/c8e2a1144b9/",
+                    "Area": "Old Sharlayan",
+                    "Level": "82"
+                }
+            ],
+            "RelatedNPC": [
+                {
+                    "Name": "Strange Creature",
+                    "Url": "/lodestone/playguide/db/npc/npc/e66a380b9d1/",
+                    "Area": "Old Sharlayan (X:6.6 Y:8.8)"
+                },
+                {
+                    "Name": "Strange Creature",
+                    "Url": "/lodestone/playguide/db/npc/npc/54f29c8d5c4/",
+                    "Area": "Old Sharlayan (X:13.5 Y:8.5)"
+                }
+            ]
+        },
+        "Seq": 45,
+        "StartDependency": false
+    },
+    {
+        "ID": "0fa5c9c3640",
+        "Name": " Raised on the Fallen",
+        "Location": "Labyrinthos",
+        "Level": 80,
+        "JournalSection": 3,
+        "JournalCategory": 58,
+        "JournalGenre": "Sharlayan Sidequests",
+        "Url": "/lodestone/playguide/db/quest/0fa5c9c3640/",
+        "Image": null,
+        "Icon": "common_normal",
+        "Issuer": "N'nagali",
+        "StartLocation": {
+            "Name": "Labyrinthos",
+            "X": "28.9",
+            "Y": "13.4"
+        },
+        "StartClass": null,
+        "Job": "",
+        "Company": "Not specified",
+        "Requirement": "Not specified",
+        "Rewards": {
+            "Gil": 735,
+            "Exp": null,
+            "ItemsMand": [],
+            "ItemsOpt": []
+        },
+        "Infos": {
+            "PrerequisiteQuest": [
+                {
+                    "Name": "Glorified Ratcatcher",
+                    "Url": "/lodestone/playguide/db/quest/a39a2d0ddd7/",
+                    "Area": "Labyrinthos",
+                    "Level": "80"
+                }
+            ]
+        },
+        "Seq": 4,
+        "StartDependency": false
+    },
+    {
+        "ID": "10670d091d4",
+        "Name": " No Laughing Matter",
+        "Location": "Labyrinthos",
+        "Level": 80,
+        "JournalSection": 3,
+        "JournalCategory": 58,
+        "JournalGenre": "Sharlayan Sidequests",
+        "Url": "/lodestone/playguide/db/quest/10670d091d4/",
+        "Image": null,
+        "Icon": "common_normal",
+        "Issuer": "Nonolato",
+        "StartLocation": {
+            "Name": "Labyrinthos",
+            "X": "21.3",
+            "Y": "6.7"
+        },
+        "StartClass": null,
+        "Job": "",
+        "Company": "Not specified",
+        "Requirement": "Not specified",
+        "Rewards": {
+            "Gil": 735,
+            "Exp": null,
+            "ItemsMand": [
+                {
+                    "Icon": "https://img.finalfantasyxiv.com/lds/pc/global/images/itemicon/e3/e37fdec0415b0585949d8355ae92379da2a0c37d.png?n6.05",
+                    "Name": "Horse Chestnut Ring Coffer",
+                    "Amount": 1,
+                    "Url": "/lodestone/playguide/db/item/7a290e9517a/"
+                }
+            ],
+            "ItemsOpt": []
+        },
+        "Infos": {
+            "PrerequisiteQuest": [
+                {
+                    "Name": "Glorified Ratcatcher",
+                    "Url": "/lodestone/playguide/db/quest/a39a2d0ddd7/",
+                    "Area": "Labyrinthos",
+                    "Level": "80"
+                }
+            ],
+            "RelatedNPC": [
+                {
+                    "Name": "Senior Researcher",
+                    "Url": "/lodestone/playguide/db/npc/npc/0a071ef423b/",
+                    "Area": "Labyrinthos (X:13.5 Y:5.1)"
+                }
+            ]
+        },
+        "Seq": 1,
+        "StartDependency": false
+    },
+    {
+        "ID": "1501aac769b",
+        "Name": " A Hard Task to Digest",
+        "Location": "Labyrinthos",
+        "Level": 80,
+        "JournalSection": 3,
+        "JournalCategory": 58,
+        "JournalGenre": "Sharlayan Sidequests",
+        "Url": "/lodestone/playguide/db/quest/1501aac769b/",
+        "Image": null,
+        "Icon": "common_normal",
+        "Issuer": "Chatbert",
+        "StartLocation": {
+            "Name": "Labyrinthos",
+            "X": "30.7",
+            "Y": "12.9"
+        },
+        "StartClass": null,
+        "Job": "",
+        "Company": "Not specified",
+        "Requirement": "Not specified",
+        "Rewards": {
+            "Gil": 735,
+            "Exp": null,
+            "ItemsMand": [],
+            "ItemsOpt": []
+        },
+        "Infos": {
+            "PrerequisiteQuest": [
+                {
+                    "Name": "Glorified Ratcatcher",
+                    "Url": "/lodestone/playguide/db/quest/a39a2d0ddd7/",
+                    "Area": "Labyrinthos",
+                    "Level": "80"
+                }
+            ]
+        },
+        "Seq": 7,
+        "StartDependency": false
+    },
+    {
+        "ID": "1b07408f1e9",
+        "Name": " For the Record",
+        "Location": "Labyrinthos",
+        "Level": 80,
+        "JournalSection": 3,
+        "JournalCategory": 58,
+        "JournalGenre": "Sharlayan Sidequests",
+        "Url": "/lodestone/playguide/db/quest/1b07408f1e9/",
+        "Image": null,
+        "Icon": "common_normal",
+        "Issuer": "Asasamu",
+        "StartLocation": {
+            "Name": "Labyrinthos",
+            "X": "8.1",
+            "Y": "27.6"
+        },
+        "StartClass": null,
+        "Job": "",
+        "Company": "Not specified",
+        "Requirement": "Not specified",
+        "Rewards": {
+            "Gil": 735,
+            "Exp": null,
+            "ItemsMand": [],
+            "ItemsOpt": []
+        },
+        "Infos": {
+            "PrerequisiteQuest": [
+                {
+                    "Name": "Her Children, One and All",
+                    "Url": "/lodestone/playguide/db/quest/85a238cb4eb/",
+                    "Area": "Labyrinthos",
+                    "Level": "89"
+                }
+            ]
+        },
+        "Seq": 31,
+        "StartDependency": false
+    },
+    {
+        "ID": "1be50c3dcae",
+        "Name": " Fast Fashion",
+        "Location": "Old Sharlayan",
+        "Level": 80,
+        "JournalSection": 3,
+        "JournalCategory": 58,
+        "JournalGenre": "Sharlayan Sidequests",
+        "Url": "/lodestone/playguide/db/quest/1be50c3dcae/",
+        "Image": null,
+        "Icon": "common_normal",
+        "Issuer": "Lalafellin Student",
+        "StartLocation": {
+            "Name": "Old Sharlayan",
+            "X": "5.0",
+            "Y": "8.3"
+        },
+        "StartClass": null,
+        "Job": "",
+        "Company": "Not specified",
+        "Requirement": "Not specified",
+        "Rewards": {
+            "Gil": 895,
+            "Exp": null,
+            "ItemsMand": [],
+            "ItemsOpt": []
+        },
+        "Infos": {
+            "PrerequisiteQuest": [
+                {
+                    "Name": "Sound the Bell, School's In",
+                    "Url": "/lodestone/playguide/db/quest/c8e2a1144b9/",
+                    "Area": "Old Sharlayan",
+                    "Level": "82"
+                }
+            ],
+            "RelatedNPC": [
+                {
+                    "Name": "Kekemo",
+                    "Url": "/lodestone/playguide/db/npc/npc/2cfb07e44ce/",
+                    "Area": "Old Sharlayan (X:9.3 Y:10.4)"
+                },
+                {
+                    "Name": "Lalafellin Student",
+                    "Url": "/lodestone/playguide/db/npc/npc/68c1d720997/",
+                    "Area": "Old Sharlayan (X:7.8 Y:8.1)"
+                }
+            ]
+        },
+        "Seq": 46,
+        "StartDependency": false
+    },
+    {
+        "ID": "1c736959699",
+        "Name": " The Lad in Labyrinthos",
+        "Location": "Labyrinthos",
+        "Level": 80,
+        "JournalSection": 3,
+        "JournalCategory": 58,
+        "JournalGenre": "Sharlayan Sidequests",
+        "Url": "/lodestone/playguide/db/quest/1c736959699/",
+        "Image": "https://img.finalfantasyxiv.com/lds/pc/global/images/itemicon/3e/3ed29595b498126b6245a90763d27e3d7b96cebf.png?n6.05",
+        "Icon": "function_normal",
+        "Issuer": "Mussalfret",
+        "StartLocation": {
+            "Name": "Labyrinthos",
+            "X": "20.8",
+            "Y": "21.0"
+        },
+        "StartClass": null,
+        "Job": "",
+        "Company": "Not specified",
+        "Requirement": "Not specified",
+        "Rewards": {
+            "Gil": 935,
+            "Exp": null,
+            "ItemsMand": [
+                {
+                    "Icon": "https://img.finalfantasyxiv.com/lds/pc/global/images/itemicon/66/66e40643e0b44d9f56e8628395cdf870c5820fe6.png?n6.05",
+                    "Name": "Chondrite Necklace Coffer",
+                    "Amount": 1,
+                    "Url": "/lodestone/playguide/db/item/f71d3c61a70/"
+                },
+                {
+                    "Icon": "https://img.finalfantasyxiv.com/lds/pc/global/images/itemicon/af/af26e4b79fb1de83550f6ddbd3a170408fcfe702.png?n6.05",
+                    "Name": "",
+                    "Amount": null
+                }
+            ],
+            "ItemsOpt": []
+        },
+        "Infos": {
+            "PrerequisiteQuest": [
+                {
+                    "Name": "Hither and Yarns",
+                    "Url": "/lodestone/playguide/db/quest/3ad7155ed49/",
+                    "Area": "Labyrinthos",
+                    "Level": "88"
+                }
+            ],
+            "FollowupQuest": [
+                {
+                    "Name": " Here Comes the Sun",
+                    "Url": "/lodestone/playguide/db/quest/baacf0aa9c3/",
+                    "Area": "Labyrinthos",
+                    "Level": "80"
+                }
+            ],
+            "RelatedNPC": [
+                {
+                    "Name": "Verpaulaine",
+                    "Url": "/lodestone/playguide/db/npc/npc/2af5501de29/",
+                    "Area": "Labyrinthos (X:22.4 Y:22.0)"
+                },
+                {
+                    "Name": "Verpaulaine",
+                    "Url": "/lodestone/playguide/db/npc/npc/75f3769f366/",
+                    "Area": "Labyrinthos (X:24.5 Y:20.1)"
+                }
+            ]
+        },
+        "Seq": 33,
+        "StartDependency": false
+    },
+    {
+        "ID": "1d36358c01e",
+        "Name": " My Fair Mammet",
+        "Location": "Old Sharlayan",
+        "Level": 80,
+        "JournalSection": 3,
+        "JournalCategory": 58,
+        "JournalGenre": "Sharlayan Sidequests",
+        "Url": "/lodestone/playguide/db/quest/1d36358c01e/",
+        "Image": null,
+        "Icon": "common_normal",
+        "Issuer": "Fraisoinne",
+        "StartLocation": {
+            "Name": "Old Sharlayan",
+            "X": "4.7",
+            "Y": "8.3"
+        },
+        "StartClass": null,
+        "Job": "",
+        "Company": "Not specified",
+        "Requirement": "Not specified",
+        "Rewards": {
+            "Gil": 815,
+            "Exp": null,
+            "ItemsMand": [
+                {
+                    "Icon": "https://img.finalfantasyxiv.com/lds/pc/global/images/itemicon/30/30e88355ab778d4c7fbc9d247345deed9ba71d99.png?n6.05",
+                    "Name": "Amra Salad",
+                    "Amount": 2,
+                    "Url": "/lodestone/playguide/db/item/58b5db9ba3b/"
+                }
+            ],
+            "ItemsOpt": []
+        },
+        "Infos": {
+            "PrerequisiteQuest": [
+                {
+                    "Name": "Sound the Bell, School's In",
+                    "Url": "/lodestone/playguide/db/quest/c8e2a1144b9/",
+                    "Area": "Old Sharlayan",
+                    "Level": "82"
+                }
+            ],
+            "RelatedNPC": [
+                {
+                    "Name": "Elegant Mammet",
+                    "Url": "/lodestone/playguide/db/npc/npc/da8e0c905a9/",
+                    "Area": "Old Sharlayan (X:10.9 Y:13.7)"
+                }
+            ]
+        },
+        "Seq": 44,
+        "StartDependency": false
+    },
+    {
+        "ID": "2261fd8f4a3",
+        "Name": " Building Good Habitats",
+        "Location": "Labyrinthos",
+        "Level": 80,
+        "JournalSection": 3,
+        "JournalCategory": 58,
+        "JournalGenre": "Sharlayan Sidequests",
+        "Url": "/lodestone/playguide/db/quest/2261fd8f4a3/",
+        "Image": null,
+        "Icon": "common_normal",
+        "Issuer": "Green Gleaner",
+        "StartLocation": {
+            "Name": "Labyrinthos",
+            "X": "19.2",
+            "Y": "5.6"
+        },
+        "StartClass": null,
+        "Job": "",
+        "Company": "Not specified",
+        "Requirement": "Not specified",
+        "Rewards": {
+            "Gil": 735,
+            "Exp": null,
+            "ItemsMand": [],
+            "ItemsOpt": []
+        },
+        "Infos": {
+            "PrerequisiteQuest": [
+                {
+                    "Name": "Glorified Ratcatcher",
+                    "Url": "/lodestone/playguide/db/quest/a39a2d0ddd7/",
+                    "Area": "Labyrinthos",
+                    "Level": "80"
+                }
+            ]
+        },
+        "Seq": 2,
+        "StartDependency": false
+    },
+    {
+        "ID": "22a4da3c48a",
+        "Name": " The Hero in Labyrinthos",
+        "Location": "Labyrinthos",
+        "Level": 80,
+        "JournalSection": 3,
+        "JournalCategory": 58,
+        "JournalGenre": "Sharlayan Sidequests",
+        "Url": "/lodestone/playguide/db/quest/22a4da3c48a/",
+        "Image": "https://img.finalfantasyxiv.com/lds/pc/global/images/itemicon/3e/3ed29595b498126b6245a90763d27e3d7b96cebf.png?n6.05",
+        "Icon": "common_normal",
+        "Issuer": "Verpaulaine",
+        "StartLocation": {
+            "Name": "Labyrinthos",
+            "X": "30.5",
+            "Y": "22.7"
+        },
+        "StartClass": null,
+        "Job": "",
+        "Company": "Not specified",
+        "Requirement": "Not specified",
+        "Rewards": {
+            "Gil": 935,
+            "Exp": null,
+            "ItemsMand": [],
+            "ItemsOpt": [
+                {
+                    "Icon": "https://img.finalfantasyxiv.com/lds/pc/global/images/itemicon/9b/9bd72bd6c6937fe2db3d8cf7a2c6491c2778907e.png?n6.05",
+                    "Name": "Salted Thavnairian Cod",
+                    "Amount": 2,
+                    "Url": "/lodestone/playguide/db/item/2bbdf83e22f/"
+                },
+                {
+                    "Icon": "https://img.finalfantasyxiv.com/lds/pc/global/images/itemicon/a0/a02194449b9efb177af0cfe2f083e273a5704f03.png?n6.05",
+                    "Name": "Coconut Cod Chowder",
+                    "Amount": 2,
+                    "Url": "/lodestone/playguide/db/item/ac97918bbd7/"
+                },
+                {
+                    "Icon": "https://img.finalfantasyxiv.com/lds/pc/global/images/itemicon/e2/e29a5a675e98e74024ac3f3b03abb7d112ad1c7d.png?n6.05",
+                    "Name": "Giant Popoto Pancakes",
+                    "Amount": 2,
+                    "Url": "/lodestone/playguide/db/item/2f126461b65/"
+                },
+                {
+                    "Icon": "https://img.finalfantasyxiv.com/lds/pc/global/images/itemicon/ba/baa2341dd17414fae7fd62ae7bc62c64589b67be.png?n6.05",
+                    "Name": "Allagan Silver Piece",
+                    "Amount": 1,
+                    "Url": "/lodestone/playguide/db/item/a3ac3ba4b00/"
+                }
+            ]
+        },
+        "Infos": {
+            "PrerequisiteQuest": [
+                {
+                    "Name": " Fiery Thirst",
+                    "Url": "/lodestone/playguide/db/quest/c68c1f6a4d3/",
+                    "Area": "Labyrinthos",
+                    "Level": "80"
+                }
+            ],
+            "FollowupQuest": [
+                {
+                    "Name": " Thick as Thieves",
+                    "Url": "/lodestone/playguide/db/quest/ec5ef0ad88a/",
+                    "Area": "Labyrinthos",
+                    "Level": "80"
+                }
+            ],
+            "RelatedNPC": [
+                {
+                    "Name": "Mussalfret",
+                    "Url": "/lodestone/playguide/db/npc/npc/a5b20c8c079/",
+                    "Area": "Labyrinthos (X:27.2 Y:18.5)"
+                },
+                {
+                    "Name": "Phoibos Monitor",
+                    "Url": "/lodestone/playguide/db/npc/npc/d2611afaa9f/",
+                    "Area": "Labyrinthos (X:27.1 Y:18.5)"
+                },
+                {
+                    "Name": "Verpaulaine",
+                    "Url": "/lodestone/playguide/db/npc/npc/a4ee167008c/",
+                    "Area": "Labyrinthos (X:27.1 Y:18.5)"
+                },
+                {
+                    "Name": "Verpaulaine",
+                    "Url": "/lodestone/playguide/db/npc/npc/156bf0b6f83/",
+                    "Area": "Labyrinthos (X:20.8 Y:20.8)"
+                },
+                {
+                    "Name": "Verpaulaine's Mother",
+                    "Url": "/lodestone/playguide/db/npc/npc/52c3851826a/",
+                    "Area": "Labyrinthos (X:27.2 Y:18.5)"
+                }
+            ]
+        },
+        "Seq": 36,
+        "StartDependency": false
+    },
+    {
+        "ID": "25ce90d7307",
+        "Name": " Uncommon Scents",
+        "Location": "Labyrinthos",
+        "Level": 80,
+        "JournalSection": 3,
+        "JournalCategory": 58,
+        "JournalGenre": "Sharlayan Sidequests",
+        "Url": "/lodestone/playguide/db/quest/25ce90d7307/",
+        "Image": null,
+        "Icon": "common_normal",
+        "Issuer": "Boragchin",
+        "StartLocation": {
+            "Name": "Labyrinthos",
+            "X": "29.8",
+            "Y": "11.7"
+        },
+        "StartClass": null,
+        "Job": "",
+        "Company": "Not specified",
+        "Requirement": "Not specified",
+        "Rewards": {
+            "Gil": 735,
+            "Exp": null,
+            "ItemsMand": [],
+            "ItemsOpt": []
+        },
+        "Infos": {
+            "PrerequisiteQuest": [
+                {
+                    "Name": "Glorified Ratcatcher",
+                    "Url": "/lodestone/playguide/db/quest/a39a2d0ddd7/",
+                    "Area": "Labyrinthos",
+                    "Level": "80"
+                }
+            ]
+        },
+        "Seq": 6,
+        "StartDependency": false
+    },
+    {
+        "ID": "2679ec2bdce",
+        "Name": " A Ripe Trade",
+        "Location": "Labyrinthos",
+        "Level": 80,
+        "JournalSection": 3,
+        "JournalCategory": 58,
+        "JournalGenre": "Sharlayan Sidequests",
+        "Url": "/lodestone/playguide/db/quest/2679ec2bdce/",
+        "Image": null,
+        "Icon": "common_normal",
+        "Issuer": "Rubh'a Epocan",
+        "StartLocation": {
+            "Name": "Labyrinthos",
+            "X": "30.5",
+            "Y": "18.5"
+        },
+        "StartClass": null,
+        "Job": "",
+        "Company": "Not specified",
+        "Requirement": "Not specified",
+        "Rewards": {
+            "Gil": 735,
+            "Exp": null,
+            "ItemsMand": [
+                {
+                    "Icon": "https://img.finalfantasyxiv.com/lds/pc/global/images/itemicon/84/843354d643ab6c83c23f31bd2a381f1d947c88a6.png?n6.05",
+                    "Name": "Reunion Cheese",
+                    "Amount": 2,
+                    "Url": "/lodestone/playguide/db/item/2aa34452744/"
+                }
+            ],
+            "ItemsOpt": []
+        },
+        "Infos": {
+            "PrerequisiteQuest": [
+                {
+                    "Name": "The Full Report, Warts and All",
+                    "Url": "/lodestone/playguide/db/quest/c442a087ca3/",
+                    "Area": "Labyrinthos",
+                    "Level": "80"
+                }
+            ],
+            "RelatedNPC": [
+                {
+                    "Name": "Sibylane",
+                    "Url": "/lodestone/playguide/db/npc/npc/26f68ebcbac/",
+                    "Area": "Labyrinthos (X:15.8 Y:12.9)"
+                }
+            ]
+        },
+        "Seq": 9,
+        "StartDependency": false
+    },
+    {
+        "ID": "33d08852fbf",
+        "Name": "A Hunt for the Ages",
+        "Location": "Old Sharlayan",
+        "Level": 89,
+        "JournalSection": 3,
+        "JournalCategory": 58,
+        "JournalGenre": "Sharlayan Sidequests",
+        "Url": "/lodestone/playguide/db/quest/33d08852fbf/",
+        "Image": null,
+        "Icon": "function_normal",
+        "Issuer": "Northota",
+        "StartLocation": {
+            "Name": "Old Sharlayan",
+            "X": "11.7",
+            "Y": "13.2"
+        },
+        "StartClass": null,
+        "Job": "",
+        "Company": "Not specified",
+        "Requirement": "Not specified",
+        "Rewards": {
+            "Gil": 781,
+            "Exp": 190575,
+            "ItemsMand": [],
+            "ItemsOpt": []
+        },
+        "Infos": {
+            "PrerequisiteQuest": [
+                {
+                    "Name": "Unto the Heavens",
+                    "Url": "/lodestone/playguide/db/quest/ea0e5a3a683/",
+                    "Area": "Old Sharlayan",
+                    "Level": "89"
+                },
+                {
+                    "Name": "That Specimen Came from the Moon",
+                    "Url": "/lodestone/playguide/db/quest/d5bdffade26/",
+                    "Area": "Old Sharlayan",
+                    "Level": "83"
+                }
+            ],
+            "FollowupQuest": [
+                {
+                    "Name": "Perfect Specimens",
+                    "Url": "/lodestone/playguide/db/quest/e8580503e92/",
+                    "Area": "Old Sharlayan",
+                    "Level": "90"
+                }
+            ],
+            "RelatedNPC": [
+                {
+                    "Name": "J'lakshai",
+                    "Url": "/lodestone/playguide/db/shop/90f8f8fc808/",
+                    "Area": "Old Sharlayan (X:11.9 Y:13.2)"
+                }
+            ]
+        },
+        "Seq": 56,
+        "StartDependency": false
+    },
+    {
+        "ID": "369c7d336d3",
+        "Name": " Dream Big",
+        "Location": "Labyrinthos",
+        "Level": 80,
+        "JournalSection": 3,
+        "JournalCategory": 58,
+        "JournalGenre": "Sharlayan Sidequests",
+        "Url": "/lodestone/playguide/db/quest/369c7d336d3/",
+        "Image": "https://img.finalfantasyxiv.com/lds/pc/global/images/itemicon/08/082a34f7d02f791443f9014c42dc6070125ef0e5.png?n6.05",
+        "Icon": "common_normal",
+        "Issuer": "Shaggles",
+        "StartLocation": {
+            "Name": "Labyrinthos",
+            "X": "30.9",
+            "Y": "19.3"
+        },
+        "StartClass": null,
+        "Job": "",
+        "Company": "Not specified",
+        "Requirement": "Not specified",
+        "Rewards": {
+            "Gil": 935,
+            "Exp": null,
+            "ItemsMand": [],
+            "ItemsOpt": [
+                {
+                    "Icon": "https://img.finalfantasyxiv.com/lds/pc/global/images/itemicon/54/54b92978cb660c98a6929b6c656043ffdadfd7ae.png?n6.05",
+                    "Name": "Archon Loaf",
+                    "Amount": 2,
+                    "Url": "/lodestone/playguide/db/item/fefd3d40532/"
+                },
+                {
+                    "Icon": "https://img.finalfantasyxiv.com/lds/pc/global/images/itemicon/db/db44ca6e9ffe985d687a9d6f8a002eb83738c577.png?n6.05",
+                    "Name": "Zurek",
+                    "Amount": 2,
+                    "Url": "/lodestone/playguide/db/item/798aad50c0b/"
+                },
+                {
+                    "Icon": "https://img.finalfantasyxiv.com/lds/pc/global/images/itemicon/30/30e88355ab778d4c7fbc9d247345deed9ba71d99.png?n6.05",
+                    "Name": "Amra Salad",
+                    "Amount": 2,
+                    "Url": "/lodestone/playguide/db/item/58b5db9ba3b/"
+                },
+                {
+                    "Icon": "https://img.finalfantasyxiv.com/lds/pc/global/images/itemicon/97/971e499993f5a2d147ec0ae5a982d1e5fe7e8dc5.png?n6.05",
+                    "Name": "Amra Lassi",
+                    "Amount": 2,
+                    "Url": "/lodestone/playguide/db/item/18a8bc8502c/"
+                },
+                {
+                    "Icon": "https://img.finalfantasyxiv.com/lds/pc/global/images/itemicon/ba/baa2341dd17414fae7fd62ae7bc62c64589b67be.png?n6.05",
+                    "Name": "Allagan Silver Piece",
+                    "Amount": 1,
+                    "Url": "/lodestone/playguide/db/item/a3ac3ba4b00/"
+                }
+            ]
+        },
+        "Infos": {
+            "PrerequisiteQuest": [
+                {
+                    "Name": " Pests Be Gone",
+                    "Url": "/lodestone/playguide/db/quest/c8f927155de/",
+                    "Area": "Labyrinthos",
+                    "Level": "80"
+                }
+            ],
+            "FollowupQuest": [
+                {
+                    "Name": " Thick as Thieves",
+                    "Url": "/lodestone/playguide/db/quest/ec5ef0ad88a/",
+                    "Area": "Labyrinthos",
+                    "Level": "80"
+                }
+            ],
+            "RelatedNPC": [
+                {
+                    "Name": "N'welhi Tia",
+                    "Url": "/lodestone/playguide/db/npc/npc/0d0e15e7727/",
+                    "Area": "Labyrinthos (X:30.2 Y:12.8)"
+                },
+                {
+                    "Name": "N'welhi Tia",
+                    "Url": "/lodestone/playguide/db/npc/npc/58a859f3ece/",
+                    "Area": "Labyrinthos (X:30.9 Y:19.4)"
+                },
+                {
+                    "Name": "Shaggles",
+                    "Url": "/lodestone/playguide/db/npc/npc/2cd2a501371/",
+                    "Area": "Labyrinthos (X:30.9 Y:19.3)"
+                },
+                {
+                    "Name": "Shaggles",
+                    "Url": "/lodestone/playguide/db/npc/npc/db053ded2d7/",
+                    "Area": "Labyrinthos (X:27.4 Y:20.8)"
+                },
+                {
+                    "Name": "Shaggles",
+                    "Url": "/lodestone/playguide/db/npc/npc/1678a7fb616/",
+                    "Area": "Labyrinthos (X:30.2 Y:12.8)"
+                }
+            ]
+        },
+        "Seq": 15,
+        "StartDependency": false
+    },
+    {
+        "ID": "3de29b092e5",
+        "Name": " A Job for a Loporrit",
+        "Location": "Labyrinthos",
+        "Level": 80,
+        "JournalSection": 3,
+        "JournalCategory": 58,
+        "JournalGenre": "Sharlayan Sidequests",
+        "Url": "/lodestone/playguide/db/quest/3de29b092e5/",
+        "Image": null,
+        "Icon": "common_normal",
+        "Issuer": "Wandering Loporrit",
+        "StartLocation": {
+            "Name": "Labyrinthos",
+            "X": "22.1",
+            "Y": "19.1"
+        },
+        "StartClass": null,
+        "Job": "",
+        "Company": "Not specified",
+        "Requirement": "Not specified",
+        "Rewards": {
+            "Gil": 735,
+            "Exp": null,
+            "ItemsMand": [
+                {
+                    "Icon": "https://img.finalfantasyxiv.com/lds/pc/global/images/itemicon/f3/f357ea7ae8d550e78704823b64f7e5d104e16e2f.png?n6.05",
+                    "Name": "Chondrite Earring Coffer",
+                    "Amount": 1,
+                    "Url": "/lodestone/playguide/db/item/4ddca446d83/"
+                }
+            ],
+            "ItemsOpt": []
+        },
+        "Infos": {
+            "PrerequisiteQuest": [
+                {
+                    "Name": "Hither and Yarns",
+                    "Url": "/lodestone/playguide/db/quest/3ad7155ed49/",
+                    "Area": "Labyrinthos",
+                    "Level": "88"
+                }
+            ],
+            "RelatedNPC": [
+                {
+                    "Name": "Hamlet Resident",
+                    "Url": "/lodestone/playguide/db/npc/npc/7a726b1911d/",
+                    "Area": "Labyrinthos (X:23.3 Y:21.6)"
+                },
+                {
+                    "Name": "Wandering Loporrit",
+                    "Url": "/lodestone/playguide/db/npc/npc/79f7b52c129/",
+                    "Area": "Labyrinthos (X:23.3 Y:21.6)"
+                }
+            ]
+        },
+        "Seq": 22,
+        "StartDependency": false
+    },
+    {
+        "ID": "4b2e8decaae",
+        "Name": " Herbicidal Tendencies",
+        "Location": "Labyrinthos",
+        "Level": 80,
+        "JournalSection": 3,
+        "JournalCategory": 58,
+        "JournalGenre": "Sharlayan Sidequests",
+        "Url": "/lodestone/playguide/db/quest/4b2e8decaae/",
+        "Image": null,
+        "Icon": "common_normal",
+        "Issuer": "Charmont",
+        "StartLocation": {
+            "Name": "Labyrinthos",
+            "X": "22.3",
+            "Y": "22.3"
+        },
+        "StartClass": null,
+        "Job": "",
+        "Company": "Not specified",
+        "Requirement": "Not specified",
+        "Rewards": {
+            "Gil": 735,
+            "Exp": null,
+            "ItemsMand": [],
+            "ItemsOpt": []
+        },
+        "Infos": {
+            "PrerequisiteQuest": [
+                {
+                    "Name": "No Job Too Small",
+                    "Url": "/lodestone/playguide/db/quest/f5d7769b1c1/",
+                    "Area": "Labyrinthos",
+                    "Level": "88"
+                }
+            ]
+        },
+        "Seq": 17,
+        "StartDependency": false
+    },
+    {
+        "ID": "5e225c17a2e",
+        "Name": " A Literary Delivery",
+        "Location": "Old Sharlayan",
+        "Level": 80,
+        "JournalSection": 3,
+        "JournalCategory": 58,
+        "JournalGenre": "Sharlayan Sidequests",
+        "Url": "/lodestone/playguide/db/quest/5e225c17a2e/",
+        "Image": null,
+        "Icon": "common_normal",
+        "Issuer": "Toffwyb",
+        "StartLocation": {
+            "Name": "Old Sharlayan",
+            "X": "12.0",
+            "Y": "11.0"
+        },
+        "StartClass": null,
+        "Job": "",
+        "Company": "Not specified",
+        "Requirement": "Not specified",
+        "Rewards": {
+            "Gil": 735,
+            "Exp": null,
+            "ItemsMand": [],
+            "ItemsOpt": []
+        },
+        "Infos": {
+            "PrerequisiteQuest": [
+                {
+                    "Name": "Old Sharlayan, New to You",
+                    "Url": "/lodestone/playguide/db/quest/3cb678aa687/",
+                    "Area": "Old Sharlayan",
+                    "Level": "80"
+                }
+            ],
+            "RelatedNPC": [
+                {
+                    "Name": "Albright Manor Servant",
+                    "Url": "/lodestone/playguide/db/npc/npc/a8f54fc0080/",
+                    "Area": "Old Sharlayan (X:15.3 Y:11.6)"
+                },
+                {
+                    "Name": "Babbling Booklover",
+                    "Url": "/lodestone/playguide/db/npc/npc/6831a9f1aff/",
+                    "Area": "Old Sharlayan (X:6.4 Y:11.5)"
+                },
+                {
+                    "Name": "Unflappable Gleaner",
+                    "Url": "/lodestone/playguide/db/npc/npc/07ddf897c86/",
+                    "Area": "Old Sharlayan (X:12.6 Y:12.8)"
+                }
+            ]
+        },
+        "Seq": 40,
+        "StartDependency": false
+    },
+    {
+        "ID": "684cb242e8c",
+        "Name": " Cooler than Being Cool",
+        "Location": "Labyrinthos",
+        "Level": 80,
+        "JournalSection": 3,
+        "JournalCategory": 58,
+        "JournalGenre": "Sharlayan Sidequests",
+        "Url": "/lodestone/playguide/db/quest/684cb242e8c/",
+        "Image": null,
+        "Icon": "common_normal",
+        "Issuer": "Marvene",
+        "StartLocation": {
+            "Name": "Labyrinthos",
+            "X": "8.9",
+            "Y": "27.6"
+        },
+        "StartClass": null,
+        "Job": "",
+        "Company": "Not specified",
+        "Requirement": "Not specified",
+        "Rewards": {
+            "Gil": 735,
+            "Exp": null,
+            "ItemsMand": [
+                {
+                    "Icon": "https://img.finalfantasyxiv.com/lds/pc/global/images/itemicon/e2/e29a5a675e98e74024ac3f3b03abb7d112ad1c7d.png?n6.05",
+                    "Name": "Giant Popoto Pancakes",
+                    "Amount": 2,
+                    "Url": "/lodestone/playguide/db/item/2f126461b65/"
+                }
+            ],
+            "ItemsOpt": []
+        },
+        "Infos": {
+            "PrerequisiteQuest": [
+                {
+                    "Name": "Her Children, One and All",
+                    "Url": "/lodestone/playguide/db/quest/85a238cb4eb/",
+                    "Area": "Labyrinthos",
+                    "Level": "89"
+                }
+            ]
+        },
+        "Seq": 30,
+        "StartDependency": false
+    },
+    {
+        "ID": "6954a8a99f8",
+        "Name": " Secret in the Box",
+        "Location": "Old Sharlayan",
+        "Level": 80,
+        "JournalSection": 3,
+        "JournalCategory": 58,
+        "JournalGenre": "Sharlayan Sidequests",
+        "Url": "/lodestone/playguide/db/quest/6954a8a99f8/",
+        "Image": null,
+        "Icon": "common_normal",
+        "Issuer": "Mysterious Maiden",
+        "StartLocation": {
+            "Name": "Old Sharlayan",
+            "X": "10.5",
+            "Y": "11.0"
+        },
+        "StartClass": null,
+        "Job": "",
+        "Company": "Not specified",
+        "Requirement": "Not specified",
+        "Rewards": {
+            "Gil": 735,
+            "Exp": null,
+            "ItemsMand": [
+                {
+                    "Icon": "https://img.finalfantasyxiv.com/lds/pc/global/images/itemicon/fb/fb000afa3b641a86f1f443904fff67f28e2c5b11.png?n6.05",
+                    "Name": "",
+                    "Amount": null
+                }
+            ],
+            "ItemsOpt": []
+        },
+        "Infos": {
+            "PrerequisiteQuest": [
+                {
+                    "Name": "Outside Help",
+                    "Url": "/lodestone/playguide/db/quest/888c286bfe2/",
+                    "Area": "Garlemald",
+                    "Level": "88"
+                }
+            ],
+            "RelatedNPC": [
+                {
+                    "Name": "Former Nutkin",
+                    "Url": "/lodestone/playguide/db/npc/npc/c108aef6908/",
+                    "Area": "Old Sharlayan (X:8.8 Y:7.1)"
+                },
+                {
+                    "Name": "Izumi",
+                    "Url": "/lodestone/playguide/db/npc/npc/d332d4e7bd7/",
+                    "Area": "Old Sharlayan (X:11.5 Y:8.5)"
+                },
+                {
+                    "Name": "Nutkin",
+                    "Url": "/lodestone/playguide/db/npc/npc/41aecdd811a/",
+                    "Area": "Old Sharlayan (X:8.7 Y:7.2)"
+                },
+                {
+                    "Name": "Sleepy Student",
+                    "Url": "/lodestone/playguide/db/npc/npc/0c6f56810c9/",
+                    "Area": "Old Sharlayan (X:7.8 Y:13.8)"
+                },
+                {
+                    "Name": "Sleepy Student?",
+                    "Url": "/lodestone/playguide/db/npc/npc/e399e11c7b6/",
+                    "Area": "Old Sharlayan (X:7.8 Y:13.6)"
+                }
+            ]
+        },
+        "Seq": 49,
+        "StartDependency": false
+    },
+    {
+        "ID": "701586100d5",
+        "Name": " Scholarly Perspective",
+        "Location": "Old Sharlayan",
+        "Level": 80,
+        "JournalSection": 3,
+        "JournalCategory": 58,
+        "JournalGenre": "Sharlayan Sidequests",
+        "Url": "/lodestone/playguide/db/quest/701586100d5/",
+        "Image": null,
+        "Icon": "common_normal",
+        "Issuer": "Bhaldswys",
+        "StartLocation": {
+            "Name": "Old Sharlayan",
+            "X": "11.9",
+            "Y": "10.7"
+        },
+        "StartClass": null,
+        "Job": "",
+        "Company": "Not specified",
+        "Requirement": "Not specified",
+        "Rewards": {
+            "Gil": 815,
+            "Exp": null,
+            "ItemsMand": [],
+            "ItemsOpt": []
+        },
+        "Infos": {
+            "PrerequisiteQuest": [
+                {
+                    "Name": "Old Sharlayan, New to You",
+                    "Url": "/lodestone/playguide/db/quest/3cb678aa687/",
+                    "Area": "Old Sharlayan",
+                    "Level": "80"
+                }
+            ],
+            "RelatedNPC": [
+                {
+                    "Name": "Statue Gazer",
+                    "Url": "/lodestone/playguide/db/npc/npc/ab7b9052f74/",
+                    "Area": "Old Sharlayan (X:13.2 Y:16.7)"
+                },
+                {
+                    "Name": "Statue Gazer",
+                    "Url": "/lodestone/playguide/db/npc/npc/43886c04966/",
+                    "Area": "Old Sharlayan (X:10.2 Y:16.3)"
+                }
+            ]
+        },
+        "Seq": 39,
+        "StartDependency": false
+    },
+    {
+        "ID": "73e9d072ad0",
+        "Name": " Learning to Sow",
+        "Location": "Labyrinthos",
+        "Level": 80,
+        "JournalSection": 3,
+        "JournalCategory": 58,
+        "JournalGenre": "Sharlayan Sidequests",
+        "Url": "/lodestone/playguide/db/quest/73e9d072ad0/",
+        "Image": null,
+        "Icon": "common_normal",
+        "Issuer": "Jonquinet",
+        "StartLocation": {
+            "Name": "Labyrinthos",
+            "X": "30.0",
+            "Y": "18.4"
+        },
+        "StartClass": null,
+        "Job": "",
+        "Company": "Not specified",
+        "Requirement": "Not specified",
+        "Rewards": {
+            "Gil": 735,
+            "Exp": null,
+            "ItemsMand": [
+                {
+                    "Icon": "https://img.finalfantasyxiv.com/lds/pc/global/images/itemicon/66/66e40643e0b44d9f56e8628395cdf870c5820fe6.png?n6.05",
+                    "Name": "Horse Chestnut Necklace Coffer",
+                    "Amount": 1,
+                    "Url": "/lodestone/playguide/db/item/09d2b31fbcc/"
+                }
+            ],
+            "ItemsOpt": []
+        },
+        "Infos": {
+            "PrerequisiteQuest": [
+                {
+                    "Name": "The Full Report, Warts and All",
+                    "Url": "/lodestone/playguide/db/quest/c442a087ca3/",
+                    "Area": "Labyrinthos",
+                    "Level": "80"
+                }
+            ]
+        },
+        "Seq": 8,
+        "StartDependency": false
+    },
+    {
+        "ID": "743f9df5c4e",
+        "Name": " Seeing Red",
+        "Location": "Labyrinthos",
+        "Level": 80,
+        "JournalSection": 3,
+        "JournalCategory": 58,
+        "JournalGenre": "Sharlayan Sidequests",
+        "Url": "/lodestone/playguide/db/quest/743f9df5c4e/",
+        "Image": null,
+        "Icon": "common_normal",
+        "Issuer": "Fjola",
+        "StartLocation": {
+            "Name": "Labyrinthos",
+            "X": "21.6",
+            "Y": "19.9"
+        },
+        "StartClass": null,
+        "Job": "",
+        "Company": "Not specified",
+        "Requirement": "Not specified",
+        "Rewards": {
+            "Gil": 835,
+            "Exp": null,
+            "ItemsMand": [
+                {
+                    "Icon": "https://img.finalfantasyxiv.com/lds/pc/global/images/itemicon/61/61fb5cb5e9afbfb52b690aa68a8064f6b90de6f9.png?n6.05",
+                    "Name": "Sykon Salad",
+                    "Amount": 2,
+                    "Url": "/lodestone/playguide/db/item/941e8588331/"
+                }
+            ],
+            "ItemsOpt": []
+        },
+        "Infos": {
+            "PrerequisiteQuest": [
+                {
+                    "Name": "No Job Too Small",
+                    "Url": "/lodestone/playguide/db/quest/f5d7769b1c1/",
+                    "Area": "Labyrinthos",
+                    "Level": "88"
+                }
+            ]
+        },
+        "Seq": 16,
+        "StartDependency": false
+    },
+    {
+        "ID": "753c36bb044",
+        "Name": " Dolling out Punishment",
+        "Location": "Labyrinthos",
+        "Level": 80,
+        "JournalSection": 3,
+        "JournalCategory": 58,
+        "JournalGenre": "Sharlayan Sidequests",
+        "Url": "/lodestone/playguide/db/quest/753c36bb044/",
+        "Image": null,
+        "Icon": "common_normal",
+        "Issuer": "Jessamy",
+        "StartLocation": {
+            "Name": "Labyrinthos",
+            "X": "22.0",
+            "Y": "19.6"
+        },
+        "StartClass": null,
+        "Job": "",
+        "Company": "Not specified",
+        "Requirement": "Not specified",
+        "Rewards": {
+            "Gil": 735,
+            "Exp": null,
+            "ItemsMand": [
+                {
+                    "Icon": "https://img.finalfantasyxiv.com/lds/pc/global/images/itemicon/e3/e37fdec0415b0585949d8355ae92379da2a0c37d.png?n6.05",
+                    "Name": "Chondrite Ring Coffer",
+                    "Amount": 1,
+                    "Url": "/lodestone/playguide/db/item/c897cfb1979/"
+                }
+            ],
+            "ItemsOpt": []
+        },
+        "Infos": {
+            "PrerequisiteQuest": [
+                {
+                    "Name": "Hither and Yarns",
+                    "Url": "/lodestone/playguide/db/quest/3ad7155ed49/",
+                    "Area": "Labyrinthos",
+                    "Level": "88"
+                }
+            ]
+        },
+        "Seq": 29,
+        "StartDependency": false
+    },
+    {
+        "ID": "789b1c26e21",
+        "Name": " Don't Philter Yourself",
+        "Location": "Labyrinthos",
+        "Level": 80,
+        "JournalSection": 3,
+        "JournalCategory": 58,
+        "JournalGenre": "Sharlayan Sidequests",
+        "Url": "/lodestone/playguide/db/quest/789b1c26e21/",
+        "Image": null,
+        "Icon": "common_normal",
+        "Issuer": "Fretting Researcher",
+        "StartLocation": {
+            "Name": "Labyrinthos",
+            "X": "21.6",
+            "Y": "19.5"
+        },
+        "StartClass": null,
+        "Job": "",
+        "Company": "Not specified",
+        "Requirement": "Not specified",
+        "Rewards": {
+            "Gil": 815,
+            "Exp": null,
+            "ItemsMand": [],
+            "ItemsOpt": []
+        },
+        "Infos": {
+            "PrerequisiteQuest": [
+                {
+                    "Name": "Hither and Yarns",
+                    "Url": "/lodestone/playguide/db/quest/3ad7155ed49/",
+                    "Area": "Labyrinthos",
+                    "Level": "88"
+                }
+            ],
+            "RelatedNPC": [
+                {
+                    "Name": "Bespectacled Researcher",
+                    "Url": "/lodestone/playguide/db/npc/npc/6729353627d/",
+                    "Area": "Labyrinthos (X:22.1 Y:34.3)"
+                }
+            ]
+        },
+        "Seq": 25,
+        "StartDependency": false
+    },
+    {
+        "ID": "790cccd4d99",
+        "Name": " It's Not Mud",
+        "Location": "Labyrinthos",
+        "Level": 80,
+        "JournalSection": 3,
+        "JournalCategory": 58,
+        "JournalGenre": "Sharlayan Sidequests",
+        "Url": "/lodestone/playguide/db/quest/790cccd4d99/",
+        "Image": null,
+        "Icon": "common_normal",
+        "Issuer": "Emaniette",
+        "StartLocation": {
+            "Name": "Labyrinthos",
+            "X": "30.3",
+            "Y": "19.6"
+        },
+        "StartClass": null,
+        "Job": "",
+        "Company": "Not specified",
+        "Requirement": "Not specified",
+        "Rewards": {
+            "Gil": 735,
+            "Exp": null,
+            "ItemsMand": [],
+            "ItemsOpt": []
+        },
+        "Infos": {
+            "PrerequisiteQuest": [
+                {
+                    "Name": "The Full Report, Warts and All",
+                    "Url": "/lodestone/playguide/db/quest/c442a087ca3/",
+                    "Area": "Labyrinthos",
+                    "Level": "80"
+                }
+            ]
+        },
+        "Seq": 10,
+        "StartDependency": false
+    },
+    {
+        "ID": "7f9bb68e5bf",
+        "Name": "Where No Loporrit Has Gone Before",
+        "Location": "Old Sharlayan",
+        "Level": 90,
+        "JournalSection": 3,
+        "JournalCategory": 58,
+        "JournalGenre": "Sharlayan Sidequests",
+        "Url": "/lodestone/playguide/db/quest/7f9bb68e5bf/",
+        "Image": "https://img.finalfantasyxiv.com/lds/pc/global/images/itemicon/34/34196d12910b1cfadf14d803366fe21a23533fc3.png?n6.05",
+        "Icon": "function_normal",
+        "Issuer": "Jammingway",
+        "StartLocation": {
+            "Name": "Old Sharlayan",
+            "X": "11.0",
+            "Y": "13.7"
+        },
+        "StartClass": null,
+        "Job": "Any Disciple of War or Magic (excluding limited jobs)",
+        "Company": "Not specified",
+        "Requirement": "Not specified",
+        "Rewards": {
+            "Gil": 1087,
+            "Exp": 0,
+            "ItemsMand": [
+                {
+                    "Icon": "https://img.finalfantasyxiv.com/lds/pc/global/images/itemicon/8f/8f57251240280c4dd8b41f0b143d5a4de1a29215.png?n6.05",
+                    "Name": "Battledance Materia IX",
+                    "Amount": 1,
+                    "Url": "/lodestone/playguide/db/item/dfec39007e3/"
+                },
+                {
+                    "Icon": "https://img.finalfantasyxiv.com/lds/pc/global/images/itemicon/97/97bba01b89bead76a7f16072d2979f06a1b4d805.png?n6.05",
+                    "Name": "Quickarm Materia IX",
+                    "Amount": 1,
+                    "Url": "/lodestone/playguide/db/item/89b34b48665/"
+                }
+            ],
+            "ItemsOpt": []
+        },
+        "Infos": {
+            "PrerequisiteQuest": [
+                {
+                    "Name": "Endwalker",
+                    "Url": "/lodestone/playguide/db/quest/52a65d1961d/",
+                    "Area": "Ultima Thule",
+                    "Level": "90"
+                }
+            ],
+            "RelatedNPC": [
+                {
+                    "Name": "Jammingway",
+                    "Url": "/lodestone/playguide/db/npc/npc/d5dbbe186b2/",
+                    "Area": "Labyrinthos (X:14.4 Y:27.6)"
+                },
+                {
+                    "Name": "Gordhona Guardian",
+                    "Url": "/lodestone/playguide/db/npc/npc/dd36439ad43/",
+                    "Area": "Ultima Thule (X:25.6 Y:26.2)"
+                },
+                {
+                    "Name": "Jammingway",
+                    "Url": "/lodestone/playguide/db/npc/npc/c3ab7238a49/",
+                    "Area": "Ultima Thule (X:13.6 Y:33.5)"
+                },
+                {
+                    "Name": "Jammingway",
+                    "Url": "/lodestone/playguide/db/npc/npc/948e06c1c46/",
+                    "Area": "Ultima Thule (X:30.9 Y:27.1)"
+                },
+                {
+                    "Name": "Jammingway",
+                    "Url": "/lodestone/playguide/db/npc/npc/b9f0476ff9d/",
+                    "Area": "Ultima Thule (X:25.4 Y:26.3)"
+                },
+                {
+                    "Name": "Jammingway",
+                    "Url": "/lodestone/playguide/db/npc/npc/151da88b9c5/",
+                    "Area": "Ultima Thule (X:34.8 Y:28.8)"
+                },
+                {
+                    "Name": "N-7000",
+                    "Url": "/lodestone/playguide/db/npc/npc/fb7d9817889/",
+                    "Area": "Ultima Thule (X:30.8 Y:27.1)"
+                },
+                {
+                    "Name": "N-7000",
+                    "Url": "/lodestone/playguide/db/npc/npc/a15266a5202/",
+                    "Area": "Ultima Thule (X:25.4 Y:26.3)"
+                },
+                {
+                    "Name": "N-7000",
+                    "Url": "/lodestone/playguide/db/npc/npc/5ff126a10b7/",
+                    "Area": "Ultima Thule (X:34.7 Y:28.8)"
+                },
+                {
+                    "Name": "Stigma-4",
+                    "Url": "/lodestone/playguide/db/npc/npc/b3d1cb54294/",
+                    "Area": "Ultima Thule (X:25.5 Y:26.2)"
+                },
+                {
+                    "Name": "Stigma-4",
+                    "Url": "/lodestone/playguide/db/npc/npc/204379b92c0/",
+                    "Area": "Ultima Thule (X:34.8 Y:28.8)"
+                }
+            ]
+        },
+        "Seq": 53,
+        "StartDependency": false
+    },
+    {
+        "ID": "8041ef2ecb4",
+        "Name": " For the Love of Pudding",
+        "Location": "Old Sharlayan",
+        "Level": 80,
+        "JournalSection": 3,
+        "JournalCategory": 58,
+        "JournalGenre": "Sharlayan Sidequests",
+        "Url": "/lodestone/playguide/db/quest/8041ef2ecb4/",
+        "Image": null,
+        "Icon": "common_normal",
+        "Issuer": "Last Stand Employee",
+        "StartLocation": {
+            "Name": "Old Sharlayan",
+            "X": "10.2",
+            "Y": "13.4"
+        },
+        "StartClass": null,
+        "Job": "",
+        "Company": "Not specified",
+        "Requirement": "Not specified",
+        "Rewards": {
+            "Gil": 735,
+            "Exp": null,
+            "ItemsMand": [
+                {
+                    "Icon": "https://img.finalfantasyxiv.com/lds/pc/global/images/itemicon/a8/a800d435d3a92ffb4dbf4d9de65477b9528981c8.png?n6.05",
+                    "Name": "Baked Alien Soup",
+                    "Amount": 2,
+                    "Url": "/lodestone/playguide/db/item/37fac9af789/"
+                }
+            ],
+            "ItemsOpt": []
+        },
+        "Infos": {
+            "PrerequisiteQuest": [
+                {
+                    "Name": "Outside Help",
+                    "Url": "/lodestone/playguide/db/quest/888c286bfe2/",
+                    "Area": "Garlemald",
+                    "Level": "88"
+                }
+            ],
+            "RelatedNPC": [
+                {
+                    "Name": "Dadapu",
+                    "Url": "/lodestone/playguide/db/npc/npc/e28de8a85ac/",
+                    "Area": "Old Sharlayan (X:12.3 Y:9.7)"
+                },
+                {
+                    "Name": "Harlissand",
+                    "Url": "/lodestone/playguide/db/npc/npc/3d8b6e5e062/",
+                    "Area": "Old Sharlayan (X:12.5 Y:12.8)"
+                },
+                {
+                    "Name": "Puddingway",
+                    "Url": "/lodestone/playguide/db/npc/npc/15a3057ab80/",
+                    "Area": "Old Sharlayan (X:10.7 Y:13.0)"
+                }
+            ]
+        },
+        "Seq": 48,
+        "StartDependency": false
+    },
+    {
+        "ID": "81eb74e5651",
+        "Name": " A Waiting Love",
+        "Location": "Old Sharlayan",
+        "Level": 80,
+        "JournalSection": 3,
+        "JournalCategory": 58,
+        "JournalGenre": "Sharlayan Sidequests",
+        "Url": "/lodestone/playguide/db/quest/81eb74e5651/",
+        "Image": null,
+        "Icon": "common_normal",
+        "Issuer": "Waiting Woman",
+        "StartLocation": {
+            "Name": "Old Sharlayan",
+            "X": "7.7",
+            "Y": "12.6"
+        },
+        "StartClass": null,
+        "Job": "",
+        "Company": "Not specified",
+        "Requirement": "Not specified",
+        "Rewards": {
+            "Gil": 815,
+            "Exp": null,
+            "ItemsMand": [],
+            "ItemsOpt": []
+        },
+        "Infos": {
+            "PrerequisiteQuest": [
+                {
+                    "Name": "Old Sharlayan, New to You",
+                    "Url": "/lodestone/playguide/db/quest/3cb678aa687/",
+                    "Area": "Old Sharlayan",
+                    "Level": "80"
+                }
+            ],
+            "RelatedNPC": [
+                {
+                    "Name": "Brown-haired Councilor",
+                    "Url": "/lodestone/playguide/db/npc/npc/81ea86eecce/",
+                    "Area": "Old Sharlayan (X:8.1 Y:15.4)"
+                }
+            ]
+        },
+        "Seq": 38,
+        "StartDependency": false
+    },
+    {
+        "ID": "85b70a31c32",
+        "Name": " Wayward Carbuncle",
+        "Location": "Labyrinthos",
+        "Level": 80,
+        "JournalSection": 3,
+        "JournalCategory": 58,
+        "JournalGenre": "Sharlayan Sidequests",
+        "Url": "/lodestone/playguide/db/quest/85b70a31c32/",
+        "Image": null,
+        "Icon": "common_normal",
+        "Issuer": "Studium Researcher",
+        "StartLocation": {
+            "Name": "Labyrinthos",
+            "X": "21.8",
+            "Y": "17.1"
+        },
+        "StartClass": null,
+        "Job": "",
+        "Company": "Not specified",
+        "Requirement": "Not specified",
+        "Rewards": {
+            "Gil": 735,
+            "Exp": null,
+            "ItemsMand": [],
+            "ItemsOpt": []
+        },
+        "Infos": {
+            "PrerequisiteQuest": [
+                {
+                    "Name": "Hither and Yarns",
+                    "Url": "/lodestone/playguide/db/quest/3ad7155ed49/",
+                    "Area": "Labyrinthos",
+                    "Level": "88"
+                }
+            ],
+            "RelatedNPC": [
+                {
+                    "Name": "Wayward Carbuncle",
+                    "Url": "/lodestone/playguide/db/npc/npc/b833b0f0a8a/",
+                    "Area": "Labyrinthos (X:9.4 Y:37.1)"
+                }
+            ]
+        },
+        "Seq": 24,
+        "StartDependency": false
+    },
+    {
+        "ID": "86ee39d2327",
+        "Name": " Apple-y Ever After",
+        "Location": "Labyrinthos",
+        "Level": 80,
+        "JournalSection": 3,
+        "JournalCategory": 58,
+        "JournalGenre": "Sharlayan Sidequests",
+        "Url": "/lodestone/playguide/db/quest/86ee39d2327/",
+        "Image": null,
+        "Icon": "common_normal",
+        "Issuer": "Distressed Chef",
+        "StartLocation": {
+            "Name": "Labyrinthos",
+            "X": "21.8",
+            "Y": "21.4"
+        },
+        "StartClass": null,
+        "Job": "",
+        "Company": "Not specified",
+        "Requirement": "Not specified",
+        "Rewards": {
+            "Gil": 735,
+            "Exp": null,
+            "ItemsMand": [
+                {
+                    "Icon": "https://img.finalfantasyxiv.com/lds/pc/global/images/itemicon/30/30b5f35d0481a6e2c068d1c0488a0aa9de0d5d13.png?n6.05",
+                    "Name": "Chondrite Bracelet Coffer",
+                    "Amount": 1,
+                    "Url": "/lodestone/playguide/db/item/3b9bbe484ea/"
+                }
+            ],
+            "ItemsOpt": []
+        },
+        "Infos": {
+            "PrerequisiteQuest": [
+                {
+                    "Name": "No Job Too Small",
+                    "Url": "/lodestone/playguide/db/quest/f5d7769b1c1/",
+                    "Area": "Labyrinthos",
+                    "Level": "88"
+                }
+            ],
+            "RelatedNPC": [
+                {
+                    "Name": "Gobsmacked Garlic",
+                    "Url": "/lodestone/playguide/db/npc/npc/dbb9e75549d/",
+                    "Area": "Labyrinthos (X:19.9 Y:16.2)"
+                },
+                {
+                    "Name": "Offended Onion",
+                    "Url": "/lodestone/playguide/db/npc/npc/62365d14b73/",
+                    "Area": "Labyrinthos (X:19.2 Y:16.6)"
+                },
+                {
+                    "Name": "Quizzical Queen",
+                    "Url": "/lodestone/playguide/db/npc/npc/6d9aa0fb08a/",
+                    "Area": "Labyrinthos (X:18.5 Y:16.3)"
+                }
+            ]
+        },
+        "Seq": 19,
+        "StartDependency": false
+    },
+    {
+        "ID": "8889733e099",
+        "Name": " A Volatile Education",
+        "Location": "Old Sharlayan",
+        "Level": 80,
+        "JournalSection": 3,
+        "JournalCategory": 58,
+        "JournalGenre": "Sharlayan Sidequests",
+        "Url": "/lodestone/playguide/db/quest/8889733e099/",
+        "Image": null,
+        "Icon": "common_normal",
+        "Issuer": "Passemerrant",
+        "StartLocation": {
+            "Name": "Old Sharlayan",
+            "X": "5.0",
+            "Y": "7.7"
+        },
+        "StartClass": null,
+        "Job": "",
+        "Company": "Not specified",
+        "Requirement": "Not specified",
+        "Rewards": {
+            "Gil": 815,
+            "Exp": null,
+            "ItemsMand": [
+                {
+                    "Icon": "https://img.finalfantasyxiv.com/lds/pc/global/images/itemicon/e3/e37fdec0415b0585949d8355ae92379da2a0c37d.png?n6.05",
+                    "Name": "Pewter Ring Coffer",
+                    "Amount": 1,
+                    "Url": "/lodestone/playguide/db/item/89c447d60e8/"
+                }
+            ],
+            "ItemsOpt": []
+        },
+        "Infos": {
+            "PrerequisiteQuest": [
+                {
+                    "Name": "Sound the Bell, School's In",
+                    "Url": "/lodestone/playguide/db/quest/c8e2a1144b9/",
+                    "Area": "Old Sharlayan",
+                    "Level": "82"
+                }
+            ],
+            "RelatedNPC": [
+                {
+                    "Name": "Stocky Student",
+                    "Url": "/lodestone/playguide/db/npc/npc/59e48d544f3/",
+                    "Area": "Old Sharlayan (X:7.4 Y:7.6)"
+                }
+            ]
+        },
+        "Seq": 42,
+        "StartDependency": false
+    },
+    {
+        "ID": "9f53e0de5f9",
+        "Name": " To Care Enough to Send the Very Best",
+        "Location": "Labyrinthos",
+        "Level": 80,
+        "JournalSection": 3,
+        "JournalCategory": 58,
+        "JournalGenre": "Sharlayan Sidequests",
+        "Url": "/lodestone/playguide/db/quest/9f53e0de5f9/",
+        "Image": null,
+        "Icon": "common_normal",
+        "Issuer": "Experienced Researcher",
+        "StartLocation": {
+            "Name": "Labyrinthos",
+            "X": "20.3",
+            "Y": "19.5"
+        },
+        "StartClass": null,
+        "Job": "",
+        "Company": "Not specified",
+        "Requirement": "Not specified",
+        "Rewards": {
+            "Gil": 735,
+            "Exp": null,
+            "ItemsMand": [],
+            "ItemsOpt": []
+        },
+        "Infos": {
+            "PrerequisiteQuest": [
+                {
+                    "Name": "Hither and Yarns",
+                    "Url": "/lodestone/playguide/db/quest/3ad7155ed49/",
+                    "Area": "Labyrinthos",
+                    "Level": "88"
+                }
+            ],
+            "RelatedNPC": [
+                {
+                    "Name": "Young Gleaner",
+                    "Url": "/lodestone/playguide/db/npc/npc/ff13b06a6aa/",
+                    "Area": "Labyrinthos (X:29.6 Y:11.9)"
+                }
+            ]
+        },
+        "Seq": 27,
+        "StartDependency": false
+    },
+    {
+        "ID": "a8c7b701616",
+        "Name": " Gift for a Fan",
+        "Location": "Labyrinthos",
+        "Level": 80,
+        "JournalSection": 3,
+        "JournalCategory": 58,
+        "JournalGenre": "Sharlayan Sidequests",
+        "Url": "/lodestone/playguide/db/quest/a8c7b701616/",
+        "Image": null,
+        "Icon": "common_normal",
+        "Issuer": "Cweilsaem",
+        "StartLocation": {
+            "Name": "Labyrinthos",
+            "X": "19.6",
+            "Y": "21.1"
+        },
+        "StartClass": null,
+        "Job": "",
+        "Company": "Not specified",
+        "Requirement": "Not specified",
+        "Rewards": {
+            "Gil": 735,
+            "Exp": null,
+            "ItemsMand": [],
+            "ItemsOpt": []
+        },
+        "Infos": {
+            "PrerequisiteQuest": [
+                {
+                    "Name": "Hither and Yarns",
+                    "Url": "/lodestone/playguide/db/quest/3ad7155ed49/",
+                    "Area": "Labyrinthos",
+                    "Level": "88"
+                }
+            ],
+            "RelatedNPC": [
+                {
+                    "Name": "W'sondidi",
+                    "Url": "/lodestone/playguide/db/npc/npc/108853ecdc2/",
+                    "Area": "Labyrinthos (X:21.4 Y:33.2)"
+                }
+            ]
+        },
+        "Seq": 23,
+        "StartDependency": false
+    },
+    {
+        "ID": "ada5f22a66b",
+        "Name": " Gleaner's Wish",
+        "Location": "Labyrinthos",
+        "Level": 80,
+        "JournalSection": 3,
+        "JournalCategory": 58,
+        "JournalGenre": "Sharlayan Sidequests",
+        "Url": "/lodestone/playguide/db/quest/ada5f22a66b/",
+        "Image": null,
+        "Icon": "function_normal",
+        "Issuer": "Viera Gleaner",
+        "StartLocation": {
+            "Name": "Labyrinthos",
+            "X": "23.2",
+            "Y": "19.9"
+        },
+        "StartClass": null,
+        "Job": "",
+        "Company": "Not specified",
+        "Requirement": "Not specified",
+        "Rewards": {
+            "Gil": 735,
+            "Exp": null,
+            "ItemsMand": [
+                {
+                    "Icon": "https://img.finalfantasyxiv.com/lds/pc/global/images/itemicon/af/af26e4b79fb1de83550f6ddbd3a170408fcfe702.png?n6.05",
+                    "Name": "",
+                    "Amount": null
+                }
+            ],
+            "ItemsOpt": []
+        },
+        "Infos": {
+            "PrerequisiteQuest": [
+                {
+                    "Name": "Hither and Yarns",
+                    "Url": "/lodestone/playguide/db/quest/3ad7155ed49/",
+                    "Area": "Labyrinthos",
+                    "Level": "88"
+                }
+            ],
+            "RelatedNPC": [
+                {
+                    "Name": "Elemental Reactor Operator",
+                    "Url": "/lodestone/playguide/db/npc/npc/5ff9de9be35/",
+                    "Area": "Labyrinthos (X:23.0 Y:24.6)"
+                }
+            ]
+        },
+        "Seq": 21,
+        "StartDependency": false
+    },
+    {
+        "ID": "b0c4556d250",
+        "Name": " Problematic Pests",
+        "Location": "Labyrinthos",
+        "Level": 80,
+        "JournalSection": 3,
+        "JournalCategory": 58,
+        "JournalGenre": "Sharlayan Sidequests",
+        "Url": "/lodestone/playguide/db/quest/b0c4556d250/",
+        "Image": "https://img.finalfantasyxiv.com/lds/pc/global/images/itemicon/08/082a34f7d02f791443f9014c42dc6070125ef0e5.png?n6.05",
+        "Icon": "common_normal",
+        "Issuer": "Shaggles",
+        "StartLocation": {
+            "Name": "Labyrinthos",
+            "X": "27.1",
+            "Y": "6.8"
+        },
+        "StartClass": null,
+        "Job": "",
+        "Company": "Not specified",
+        "Requirement": "Not specified",
+        "Rewards": {
+            "Gil": 935,
+            "Exp": null,
+            "ItemsMand": [],
+            "ItemsOpt": []
+        },
+        "Infos": {
+            "PrerequisiteQuest": [
+                {
+                    "Name": " Lost Little Troll",
+                    "Url": "/lodestone/playguide/db/quest/d71ade33bd4/",
+                    "Area": "Labyrinthos",
+                    "Level": "80"
+                }
+            ],
+            "FollowupQuest": [
+                {
+                    "Name": " Pests Be Gone",
+                    "Url": "/lodestone/playguide/db/quest/c8f927155de/",
+                    "Area": "Labyrinthos",
+                    "Level": "80"
+                }
+            ],
+            "RelatedNPC": [
+                {
+                    "Name": "Agronomics Biologist",
+                    "Url": "/lodestone/playguide/db/npc/npc/84dc9a15f01/",
+                    "Area": "Labyrinthos (X:30.9 Y:19.3)"
+                },
+                {
+                    "Name": "N'welhi Tia",
+                    "Url": "/lodestone/playguide/db/npc/npc/e849f55fe66/",
+                    "Area": "Labyrinthos (X:30.9 Y:19.4)"
+                },
+                {
+                    "Name": "N'welhi Tia",
+                    "Url": "/lodestone/playguide/db/npc/npc/0c86495f329/",
+                    "Area": "Labyrinthos (X:27.9 Y:13.8)"
+                },
+                {
+                    "Name": "N'welhi Tia",
+                    "Url": "/lodestone/playguide/db/npc/npc/4dfe4a7840f/",
+                    "Area": "Labyrinthos (X:27.2 Y:6.8)"
+                },
+                {
+                    "Name": "Roegadyn Gleaner",
+                    "Url": "/lodestone/playguide/db/npc/npc/a2b5bcc27ed/",
+                    "Area": "Labyrinthos (X:28.0 Y:13.8)"
+                },
+                {
+                    "Name": "Shaggles",
+                    "Url": "/lodestone/playguide/db/npc/npc/2cd2a501371/",
+                    "Area": "Labyrinthos (X:30.9 Y:19.3)"
+                },
+                {
+                    "Name": "Shaggles",
+                    "Url": "/lodestone/playguide/db/npc/npc/36af4b94eca/",
+                    "Area": "Labyrinthos (X:27.9 Y:13.8)"
+                }
+            ]
+        },
+        "Seq": 13,
+        "StartDependency": false
+    },
+    {
+        "ID": "b5012fe780d",
+        "Name": " Booking Books",
+        "Location": "Old Sharlayan",
+        "Level": 80,
+        "JournalSection": 3,
+        "JournalCategory": 58,
+        "JournalGenre": "Sharlayan Sidequests",
+        "Url": "/lodestone/playguide/db/quest/b5012fe780d/",
+        "Image": null,
+        "Icon": "common_normal",
+        "Issuer": "Isilswys",
+        "StartLocation": {
+            "Name": "Old Sharlayan",
+            "X": "4.8",
+            "Y": "12.2"
+        },
+        "StartClass": null,
+        "Job": "",
+        "Company": "Not specified",
+        "Requirement": "Not specified",
+        "Rewards": {
+            "Gil": 735,
+            "Exp": null,
+            "ItemsMand": [],
+            "ItemsOpt": []
+        },
+        "Infos": {
+            "PrerequisiteQuest": [
+                {
+                    "Name": "Sound the Bell, School's In",
+                    "Url": "/lodestone/playguide/db/quest/c8e2a1144b9/",
+                    "Area": "Old Sharlayan",
+                    "Level": "82"
+                }
+            ],
+            "RelatedNPC": [
+                {
+                    "Name": "Vicious Volume",
+                    "Url": "/lodestone/playguide/db/npc/npc/e5fb54eceb1/",
+                    "Area": "Old Sharlayan (X:5.9 Y:13.2)"
+                },
+                {
+                    "Name": "Vicious Volume",
+                    "Url": "/lodestone/playguide/db/npc/npc/1ac2b6ebad2/",
+                    "Area": "Old Sharlayan (X:5.4 Y:13.7)"
+                },
+                {
+                    "Name": "Vicious Volume",
+                    "Url": "/lodestone/playguide/db/npc/npc/623119f4a5b/",
+                    "Area": "Old Sharlayan (X:8.1 Y:10.1)"
+                },
+                {
+                    "Name": "Vicious Volume",
+                    "Url": "/lodestone/playguide/db/npc/npc/63180c6c721/",
+                    "Area": "Old Sharlayan (X:8.2 Y:9.4)"
+                },
+                {
+                    "Name": "Vicious Volume",
+                    "Url": "/lodestone/playguide/db/npc/npc/41725da0059/",
+                    "Area": "Old Sharlayan (X:9.0 Y:9.8)"
+                }
+            ]
+        },
+        "Seq": 47,
+        "StartDependency": false
+    },
+    {
+        "ID": "baacf0aa9c3",
+        "Name": " Here Comes the Sun",
+        "Location": "Labyrinthos",
+        "Level": 80,
+        "JournalSection": 3,
+        "JournalCategory": 58,
+        "JournalGenre": "Sharlayan Sidequests",
+        "Url": "/lodestone/playguide/db/quest/baacf0aa9c3/",
+        "Image": "https://img.finalfantasyxiv.com/lds/pc/global/images/itemicon/3e/3ed29595b498126b6245a90763d27e3d7b96cebf.png?n6.05",
+        "Icon": "common_normal",
+        "Issuer": "Verpaulaine",
+        "StartLocation": {
+            "Name": "Labyrinthos",
+            "X": "24.5",
+            "Y": "20.1"
+        },
+        "StartClass": null,
+        "Job": "",
+        "Company": "Not specified",
+        "Requirement": "Not specified",
+        "Rewards": {
+            "Gil": 935,
+            "Exp": null,
+            "ItemsMand": [],
+            "ItemsOpt": []
+        },
+        "Infos": {
+            "PrerequisiteQuest": [
+                {
+                    "Name": " The Lad in Labyrinthos",
+                    "Url": "/lodestone/playguide/db/quest/1c736959699/",
+                    "Area": "Labyrinthos",
+                    "Level": "80"
+                }
+            ],
+            "FollowupQuest": [
+                {
+                    "Name": " Fiery Thirst",
+                    "Url": "/lodestone/playguide/db/quest/c68c1f6a4d3/",
+                    "Area": "Labyrinthos",
+                    "Level": "80"
+                }
+            ],
+            "RelatedNPC": [
+                {
+                    "Name": "Phoibos Monitor",
+                    "Url": "/lodestone/playguide/db/npc/npc/d2611afaa9f/",
+                    "Area": "Labyrinthos (X:27.1 Y:18.5)"
+                },
+                {
+                    "Name": "Verpaulaine",
+                    "Url": "/lodestone/playguide/db/npc/npc/facf7b745be/",
+                    "Area": "Labyrinthos (X:26.0 Y:27.4)"
+                },
+                {
+                    "Name": "Verpaulaine",
+                    "Url": "/lodestone/playguide/db/npc/npc/12d3bdb37c8/",
+                    "Area": "Labyrinthos (X:30.5 Y:26.0)"
+                },
+                {
+                    "Name": "Verpaulaine",
+                    "Url": "/lodestone/playguide/db/npc/npc/a4ee167008c/",
+                    "Area": "Labyrinthos (X:27.1 Y:18.5)"
+                }
+            ]
+        },
+        "Seq": 34,
+        "StartDependency": false
+    },
+    {
+        "ID": "c68c1f6a4d3",
+        "Name": " Fiery Thirst",
+        "Location": "Labyrinthos",
+        "Level": 80,
+        "JournalSection": 3,
+        "JournalCategory": 58,
+        "JournalGenre": "Sharlayan Sidequests",
+        "Url": "/lodestone/playguide/db/quest/c68c1f6a4d3/",
+        "Image": "https://img.finalfantasyxiv.com/lds/pc/global/images/itemicon/3e/3ed29595b498126b6245a90763d27e3d7b96cebf.png?n6.05",
+        "Icon": "common_normal",
+        "Issuer": "Verpaulaine",
+        "StartLocation": {
+            "Name": "Labyrinthos",
+            "X": "27.1",
+            "Y": "18.5"
+        },
+        "StartClass": null,
+        "Job": "",
+        "Company": "Not specified",
+        "Requirement": "Not specified",
+        "Rewards": {
+            "Gil": 1135,
+            "Exp": null,
+            "ItemsMand": [],
+            "ItemsOpt": []
+        },
+        "Infos": {
+            "PrerequisiteQuest": [
+                {
+                    "Name": " Here Comes the Sun",
+                    "Url": "/lodestone/playguide/db/quest/baacf0aa9c3/",
+                    "Area": "Labyrinthos",
+                    "Level": "80"
+                }
+            ],
+            "FollowupQuest": [
+                {
+                    "Name": " The Hero in Labyrinthos",
+                    "Url": "/lodestone/playguide/db/quest/22a4da3c48a/",
+                    "Area": "Labyrinthos",
+                    "Level": "80"
+                }
+            ],
+            "RelatedNPC": [
+                {
+                    "Name": "Verpaulaine",
+                    "Url": "/lodestone/playguide/db/npc/npc/dc33868f518/",
+                    "Area": "Labyrinthos (X:30.7 Y:18.7)"
+                },
+                {
+                    "Name": "Verpaulaine",
+                    "Url": "/lodestone/playguide/db/npc/npc/5f15f8f9360/",
+                    "Area": "Labyrinthos (X:30.5 Y:22.7)"
+                }
+            ]
+        },
+        "Seq": 35,
+        "StartDependency": false
+    },
+    {
+        "ID": "c691fe29b31",
+        "Name": " Sandwiches and Pretzels",
+        "Location": "Old Sharlayan",
+        "Level": 80,
+        "JournalSection": 3,
+        "JournalCategory": 58,
+        "JournalGenre": "Sharlayan Sidequests",
+        "Url": "/lodestone/playguide/db/quest/c691fe29b31/",
+        "Image": null,
+        "Icon": "common_normal",
+        "Issuer": "Dickon",
+        "StartLocation": {
+            "Name": "Old Sharlayan",
+            "X": "10.4",
+            "Y": "13.3"
+        },
+        "StartClass": null,
+        "Job": "",
+        "Company": "Not specified",
+        "Requirement": "Not specified",
+        "Rewards": {
+            "Gil": 735,
+            "Exp": null,
+            "ItemsMand": [
+                {
+                    "Icon": "https://img.finalfantasyxiv.com/lds/pc/global/images/itemicon/c5/c5bc15b4b203d91286026506d9d0f17340ad1332.png?n6.05",
+                    "Name": "Philosopher's Sandwich",
+                    "Amount": 2,
+                    "Url": "/lodestone/playguide/db/item/69e470db469/"
+                }
+            ],
+            "ItemsOpt": []
+        },
+        "Infos": {
+            "PrerequisiteQuest": [
+                {
+                    "Name": "Bonds of Adamant(ite)",
+                    "Url": "/lodestone/playguide/db/quest/a9901aefc3e/",
+                    "Area": "Labyrinthos",
+                    "Level": "88"
+                }
+            ],
+            "RelatedNPC": [
+                {
+                    "Name": "Distinguished Lalafell",
+                    "Url": "/lodestone/playguide/db/npc/npc/227a34ad47d/",
+                    "Area": "Old Sharlayan (X:15.0 Y:9.4)"
+                }
+            ]
+        },
+        "Seq": 51,
+        "StartDependency": false
+    },
+    {
+        "ID": "c7a63f8604e",
+        "Name": " The Dry Eyes Have It",
+        "Location": "Labyrinthos",
+        "Level": 80,
+        "JournalSection": 3,
+        "JournalCategory": 58,
+        "JournalGenre": "Sharlayan Sidequests",
+        "Url": "/lodestone/playguide/db/quest/c7a63f8604e/",
+        "Image": null,
+        "Icon": "common_normal",
+        "Issuer": "A'naidjaa",
+        "StartLocation": {
+            "Name": "Labyrinthos",
+            "X": "22.7",
+            "Y": "20.6"
+        },
+        "StartClass": null,
+        "Job": "",
+        "Company": "Not specified",
+        "Requirement": "Not specified",
+        "Rewards": {
+            "Gil": 735,
+            "Exp": null,
+            "ItemsMand": [],
+            "ItemsOpt": []
+        },
+        "Infos": {
+            "PrerequisiteQuest": [
+                {
+                    "Name": "Hither and Yarns",
+                    "Url": "/lodestone/playguide/db/quest/3ad7155ed49/",
+                    "Area": "Labyrinthos",
+                    "Level": "88"
+                }
+            ],
+            "RelatedNPC": [
+                {
+                    "Name": "Familiar Whisperer",
+                    "Url": "/lodestone/playguide/db/npc/npc/d9841ee9969/",
+                    "Area": "Labyrinthos (X:20.4 Y:16.9)"
+                },
+                {
+                    "Name": "Watchful Skatene",
+                    "Url": "/lodestone/playguide/db/npc/npc/6948ff3006c/",
+                    "Area": "Labyrinthos (X:20.3 Y:17.0)"
+                }
+            ]
+        },
+        "Seq": 28,
+        "StartDependency": false
+    },
+    {
+        "ID": "c8f927155de",
+        "Name": " Pests Be Gone",
+        "Location": "Labyrinthos",
+        "Level": 80,
+        "JournalSection": 3,
+        "JournalCategory": 58,
+        "JournalGenre": "Sharlayan Sidequests",
+        "Url": "/lodestone/playguide/db/quest/c8f927155de/",
+        "Image": "https://img.finalfantasyxiv.com/lds/pc/global/images/itemicon/08/082a34f7d02f791443f9014c42dc6070125ef0e5.png?n6.05",
+        "Icon": "common_normal",
+        "Issuer": "Agronomics Biologist",
+        "StartLocation": {
+            "Name": "Labyrinthos",
+            "X": "30.9",
+            "Y": "19.3"
+        },
+        "StartClass": null,
+        "Job": "",
+        "Company": "Not specified",
+        "Requirement": "Not specified",
+        "Rewards": {
+            "Gil": 935,
+            "Exp": null,
+            "ItemsMand": [],
+            "ItemsOpt": []
+        },
+        "Infos": {
+            "PrerequisiteQuest": [
+                {
+                    "Name": " Problematic Pests",
+                    "Url": "/lodestone/playguide/db/quest/b0c4556d250/",
+                    "Area": "Labyrinthos",
+                    "Level": "80"
+                }
+            ],
+            "FollowupQuest": [
+                {
+                    "Name": " Dream Big",
+                    "Url": "/lodestone/playguide/db/quest/369c7d336d3/",
+                    "Area": "Labyrinthos",
+                    "Level": "80"
+                }
+            ],
+            "RelatedNPC": [
+                {
+                    "Name": "N'welhi Tia",
+                    "Url": "/lodestone/playguide/db/npc/npc/e849f55fe66/",
+                    "Area": "Labyrinthos (X:30.9 Y:19.4)"
+                },
+                {
+                    "Name": "Shaggles",
+                    "Url": "/lodestone/playguide/db/npc/npc/2cd2a501371/",
+                    "Area": "Labyrinthos (X:30.9 Y:19.3)"
+                }
+            ]
+        },
+        "Seq": 14,
+        "StartDependency": false
+    },
+    {
+        "ID": "c9c581663e8",
+        "Name": " Doll Dash",
+        "Location": "Old Sharlayan",
+        "Level": 80,
+        "JournalSection": 3,
+        "JournalCategory": 58,
+        "JournalGenre": "Sharlayan Sidequests",
+        "Url": "/lodestone/playguide/db/quest/c9c581663e8/",
+        "Image": null,
+        "Icon": "common_normal",
+        "Issuer": "Mischievous Miqo'te",
+        "StartLocation": {
+            "Name": "Old Sharlayan",
+            "X": "14.5",
+            "Y": "11.6"
+        },
+        "StartClass": null,
+        "Job": "",
+        "Company": "Not specified",
+        "Requirement": "Not specified",
+        "Rewards": {
+            "Gil": 0,
+            "Exp": null,
+            "ItemsMand": [
+                {
+                    "Icon": "https://img.finalfantasyxiv.com/lds/pc/global/images/itemicon/de/de69e2ce23113764f9204782f15cc574aee8f1f7.png?n6.05",
+                    "Name": "Horse Chestnut Leg Gear Coffer",
+                    "Amount": 1,
+                    "Url": "/lodestone/playguide/db/item/00d8531d566/"
+                }
+            ],
+            "ItemsOpt": []
+        },
+        "Infos": {
+            "PrerequisiteQuest": [
+                {
+                    "Name": "Old Sharlayan, New to You",
+                    "Url": "/lodestone/playguide/db/quest/3cb678aa687/",
+                    "Area": "Old Sharlayan",
+                    "Level": "80"
+                }
+            ],
+            "RelatedNPC": [
+                {
+                    "Name": "Carbuncle Doll",
+                    "Url": "/lodestone/playguide/db/npc/npc/c03d414edf9/",
+                    "Area": "Old Sharlayan (X:13.4 Y:7.7)"
+                }
+            ]
+        },
+        "Seq": 41,
+        "StartDependency": false
+    },
+    {
+        "ID": "d41ba6e05ba",
+        "Name": "The Hunt for Specimens",
+        "Location": "Old Sharlayan",
+        "Level": 80,
+        "JournalSection": 3,
+        "JournalCategory": 58,
+        "JournalGenre": "Sharlayan Sidequests",
+        "Url": "/lodestone/playguide/db/quest/d41ba6e05ba/",
+        "Image": null,
+        "Icon": "function_normal",
+        "Issuer": "Diminutive Gleaner",
+        "StartLocation": {
+            "Name": "Old Sharlayan",
+            "X": "11.2",
+            "Y": "12.0"
+        },
+        "StartClass": null,
+        "Job": "",
+        "Company": "Not specified",
+        "Requirement": "Not specified",
+        "Rewards": {
+            "Gil": 775,
+            "Exp": 168300,
+            "ItemsMand": [],
+            "ItemsOpt": []
+        },
+        "Infos": {
+            "PrerequisiteQuest": [
+                {
+                    "Name": "Old Sharlayan, New to You",
+                    "Url": "/lodestone/playguide/db/quest/3cb678aa687/",
+                    "Area": "Old Sharlayan",
+                    "Level": "80"
+                },
+                {
+                    "Name": "Elite and Dangerous",
+                    "Url": "/lodestone/playguide/db/quest/a5faad05086/",
+                    "Area": "Ishgard",
+                    "Level": "60"
+                }
+            ],
+            "FollowupQuest": [
+                {
+                    "Name": "That Specimen Came from the Moon",
+                    "Url": "/lodestone/playguide/db/quest/d5bdffade26/",
+                    "Area": "Old Sharlayan",
+                    "Level": "83"
+                }
+            ],
+            "RelatedNPC": [
+                {
+                    "Name": "Northota",
+                    "Url": "/lodestone/playguide/db/npc/npc/ec8a2a0ef1b/",
+                    "Area": "Old Sharlayan (X:11.7 Y:13.2)"
+                }
+            ]
+        },
+        "Seq": 54,
+        "StartDependency": false
+    },
+    {
+        "ID": "d5bdffade26",
+        "Name": "That Specimen Came from the Moon",
+        "Location": "Old Sharlayan",
+        "Level": 83,
+        "JournalSection": 3,
+        "JournalCategory": 58,
+        "JournalGenre": "Sharlayan Sidequests",
+        "Url": "/lodestone/playguide/db/quest/d5bdffade26/",
+        "Image": null,
+        "Icon": "function_normal",
+        "Issuer": "Northota",
+        "StartLocation": {
+            "Name": "Old Sharlayan",
+            "X": "11.7",
+            "Y": "13.2"
+        },
+        "StartClass": null,
+        "Job": "",
+        "Company": "Not specified",
+        "Requirement": "Not specified",
+        "Rewards": {
+            "Gil": 751,
+            "Exp": 175725,
+            "ItemsMand": [],
+            "ItemsOpt": []
+        },
+        "Infos": {
+            "PrerequisiteQuest": [
+                {
+                    "Name": "A Trip to the Moon",
+                    "Url": "/lodestone/playguide/db/quest/ce5087d8e07/",
+                    "Area": "The Nethergate",
+                    "Level": "83"
+                },
+                {
+                    "Name": "The Hunt for Specimens",
+                    "Url": "/lodestone/playguide/db/quest/d41ba6e05ba/",
+                    "Area": "Old Sharlayan",
+                    "Level": "80"
+                }
+            ],
+            "FollowupQuest": [
+                {
+                    "Name": "A Hunt for the Ages",
+                    "Url": "/lodestone/playguide/db/quest/33d08852fbf/",
+                    "Area": "Old Sharlayan",
+                    "Level": "89"
+                }
+            ],
+            "RelatedNPC": [
+                {
+                    "Name": "J'lakshai",
+                    "Url": "/lodestone/playguide/db/shop/90f8f8fc808/",
+                    "Area": "Old Sharlayan (X:11.9 Y:13.2)"
+                }
+            ]
+        },
+        "Seq": 55,
+        "StartDependency": false
+    },
+    {
+        "ID": "d71ade33bd4",
+        "Name": " Lost Little Troll",
+        "Location": "Labyrinthos",
+        "Level": 80,
+        "JournalSection": 3,
+        "JournalCategory": 58,
+        "JournalGenre": "Sharlayan Sidequests",
+        "Url": "/lodestone/playguide/db/quest/d71ade33bd4/",
+        "Image": "https://img.finalfantasyxiv.com/lds/pc/global/images/itemicon/08/082a34f7d02f791443f9014c42dc6070125ef0e5.png?n6.05",
+        "Icon": "function_normal",
+        "Issuer": "Distracted Archivist",
+        "StartLocation": {
+            "Name": "Labyrinthos",
+            "X": "30.3",
+            "Y": "19.3"
+        },
+        "StartClass": null,
+        "Job": "",
+        "Company": "Not specified",
+        "Requirement": "Not specified",
+        "Rewards": {
+            "Gil": 935,
+            "Exp": null,
+            "ItemsMand": [
+                {
+                    "Icon": "https://img.finalfantasyxiv.com/lds/pc/global/images/itemicon/af/af26e4b79fb1de83550f6ddbd3a170408fcfe702.png?n6.05",
+                    "Name": "",
+                    "Amount": null
+                }
+            ],
+            "ItemsOpt": []
+        },
+        "Infos": {
+            "PrerequisiteQuest": [
+                {
+                    "Name": "The Full Report, Warts and All",
+                    "Url": "/lodestone/playguide/db/quest/c442a087ca3/",
+                    "Area": "Labyrinthos",
+                    "Level": "80"
+                }
+            ],
+            "FollowupQuest": [
+                {
+                    "Name": " Problematic Pests",
+                    "Url": "/lodestone/playguide/db/quest/b0c4556d250/",
+                    "Area": "Labyrinthos",
+                    "Level": "80"
+                }
+            ],
+            "RelatedNPC": [
+                {
+                    "Name": "N'welhi Tia",
+                    "Url": "/lodestone/playguide/db/npc/npc/1b9d0d98447/",
+                    "Area": "Labyrinthos (X:29.3 Y:8.5)"
+                },
+                {
+                    "Name": "N'welhi Tia",
+                    "Url": "/lodestone/playguide/db/npc/npc/c1f5d7ce613/",
+                    "Area": "Labyrinthos (X:27.6 Y:7.1)"
+                },
+                {
+                    "Name": "N'welhi Tia",
+                    "Url": "/lodestone/playguide/db/npc/npc/0d0e15e7727/",
+                    "Area": "Labyrinthos (X:30.2 Y:12.8)"
+                },
+                {
+                    "Name": "Shaggles",
+                    "Url": "/lodestone/playguide/db/npc/npc/ba9474279c5/",
+                    "Area": "Labyrinthos (X:27.1 Y:6.8)"
+                }
+            ]
+        },
+        "Seq": 12,
+        "StartDependency": false
+    },
+    {
+        "ID": "d73127f137b",
+        "Name": " Let the Good Times Troll",
+        "Location": "Labyrinthos",
+        "Level": 80,
+        "JournalSection": 3,
+        "JournalCategory": 58,
+        "JournalGenre": "Sharlayan Sidequests",
+        "Url": "/lodestone/playguide/db/quest/d73127f137b/",
+        "Image": null,
+        "Icon": "function_normal",
+        "Issuer": "Vexed Veterinarian",
+        "StartLocation": {
+            "Name": "Labyrinthos",
+            "X": "21.0",
+            "Y": "21.5"
+        },
+        "StartClass": null,
+        "Job": "",
+        "Company": "Not specified",
+        "Requirement": "Not specified",
+        "Rewards": {
+            "Gil": 815,
+            "Exp": null,
+            "ItemsMand": [
+                {
+                    "Icon": "https://img.finalfantasyxiv.com/lds/pc/global/images/itemicon/af/af26e4b79fb1de83550f6ddbd3a170408fcfe702.png?n6.05",
+                    "Name": "",
+                    "Amount": null
+                }
+            ],
+            "ItemsOpt": []
+        },
+        "Infos": {
+            "PrerequisiteQuest": [
+                {
+                    "Name": "No Job Too Small",
+                    "Url": "/lodestone/playguide/db/quest/f5d7769b1c1/",
+                    "Area": "Labyrinthos",
+                    "Level": "88"
+                }
+            ],
+            "RelatedNPC": [
+                {
+                    "Name": "Wayward Troll",
+                    "Url": "/lodestone/playguide/db/npc/npc/51903743d26/",
+                    "Area": "Labyrinthos (X:26.7 Y:25.2)"
+                },
+                {
+                    "Name": "Wayward Troll",
+                    "Url": "/lodestone/playguide/db/npc/npc/a9f8f270b6c/",
+                    "Area": "Labyrinthos (X:20.9 Y:21.5)"
+                }
+            ]
+        },
+        "Seq": 18,
+        "StartDependency": false
+    },
+    {
+        "ID": "da477bc5486",
+        "Name": " Not Mushroom for Error",
+        "Location": "Labyrinthos",
+        "Level": 80,
+        "JournalSection": 3,
+        "JournalCategory": 58,
+        "JournalGenre": "Sharlayan Sidequests",
+        "Url": "/lodestone/playguide/db/quest/da477bc5486/",
+        "Image": null,
+        "Icon": "common_normal",
+        "Issuer": "Parbeloix",
+        "StartLocation": {
+            "Name": "Labyrinthos",
+            "X": "29.7",
+            "Y": "19.4"
+        },
+        "StartClass": null,
+        "Job": "",
+        "Company": "Not specified",
+        "Requirement": "Not specified",
+        "Rewards": {
+            "Gil": 735,
+            "Exp": null,
+            "ItemsMand": [],
+            "ItemsOpt": []
+        },
+        "Infos": {
+            "PrerequisiteQuest": [
+                {
+                    "Name": "The Full Report, Warts and All",
+                    "Url": "/lodestone/playguide/db/quest/c442a087ca3/",
+                    "Area": "Labyrinthos",
+                    "Level": "80"
+                }
+            ]
+        },
+        "Seq": 11,
+        "StartDependency": false
+    },
+    {
+        "ID": "dcf3536c683",
+        "Name": " It's Not the Heat, It's the Humidity",
+        "Location": "Labyrinthos",
+        "Level": 80,
+        "JournalSection": 3,
+        "JournalCategory": 58,
+        "JournalGenre": "Sharlayan Sidequests",
+        "Url": "/lodestone/playguide/db/quest/dcf3536c683/",
+        "Image": null,
+        "Icon": "common_normal",
+        "Issuer": "Outer Circuit Researcher",
+        "StartLocation": {
+            "Name": "Labyrinthos",
+            "X": "21.7",
+            "Y": "6.4"
+        },
+        "StartClass": null,
+        "Job": "",
+        "Company": "Not specified",
+        "Requirement": "Not specified",
+        "Rewards": {
+            "Gil": 895,
+            "Exp": null,
+            "ItemsMand": [],
+            "ItemsOpt": []
+        },
+        "Infos": {
+            "PrerequisiteQuest": [
+                {
+                    "Name": "Glorified Ratcatcher",
+                    "Url": "/lodestone/playguide/db/quest/a39a2d0ddd7/",
+                    "Area": "Labyrinthos",
+                    "Level": "80"
+                }
+            ],
+            "RelatedNPC": [
+                {
+                    "Name": "Mistloom Technician",
+                    "Url": "/lodestone/playguide/db/npc/npc/78d18ffa8a9/",
+                    "Area": "Labyrinthos (X:29.4 Y:7.4)"
+                },
+                {
+                    "Name": "Outer Circuit Researcher",
+                    "Url": "/lodestone/playguide/db/npc/npc/93e88fff519/",
+                    "Area": "Labyrinthos (X:23.7 Y:8.0)"
+                },
+                {
+                    "Name": "Outer Circuit Researcher",
+                    "Url": "/lodestone/playguide/db/npc/npc/349f3dc1d9e/",
+                    "Area": "Labyrinthos (X:29.4 Y:7.4)"
+                }
+            ]
+        },
+        "Seq": 50,
+        "StartDependency": false
+    },
+    {
+        "ID": "dd3be670e6b",
+        "Name": "Cutting the Cheese",
+        "Location": "Old Sharlayan",
+        "Level": 90,
+        "JournalSection": 3,
+        "JournalCategory": 58,
+        "JournalGenre": "Sharlayan Sidequests",
+        "Url": "/lodestone/playguide/db/quest/dd3be670e6b/",
+        "Image": "https://img.finalfantasyxiv.com/lds/pc/global/images/itemicon/fa/fa14ee3c122fbb4e29d5965df3f9ea179f2e18c7.png?n6.05",
+        "Icon": "function_normal",
+        "Issuer": "Panic-stricken Loporrit",
+        "StartLocation": {
+            "Name": "Old Sharlayan",
+            "X": "11.7",
+            "Y": "11.4"
+        },
+        "StartClass": null,
+        "Job": "Any Disciple of War or Magic (excluding limited jobs)",
+        "Company": "Not specified",
+        "Requirement": "Not specified",
+        "Rewards": {
+            "Gil": 1087,
+            "Exp": 0,
+            "ItemsMand": [
+                {
+                    "Icon": "https://img.finalfantasyxiv.com/lds/pc/global/images/itemicon/8f/8f57251240280c4dd8b41f0b143d5a4de1a29215.png?n6.05",
+                    "Name": "Piety Materia IX",
+                    "Amount": 1,
+                    "Url": "/lodestone/playguide/db/item/b5e80dc8ce6/"
+                },
+                {
+                    "Icon": "https://img.finalfantasyxiv.com/lds/pc/global/images/itemicon/97/97bba01b89bead76a7f16072d2979f06a1b4d805.png?n6.05",
+                    "Name": "Quicktongue Materia IX",
+                    "Amount": 1,
+                    "Url": "/lodestone/playguide/db/item/7b373e9fe7c/"
+                }
+            ],
+            "ItemsOpt": []
+        },
+        "Infos": {
+            "PrerequisiteQuest": [
+                {
+                    "Name": "Endwalker",
+                    "Url": "/lodestone/playguide/db/quest/52a65d1961d/",
+                    "Area": "Ultima Thule",
+                    "Level": "90"
+                }
+            ],
+            "RelatedNPC": [
+                {
+                    "Name": "Buildingway",
+                    "Url": "/lodestone/playguide/db/npc/npc/583384d0a3d/",
+                    "Area": "Mare Lamentorum (X:11.7 Y:22.8)"
+                }
+            ]
+        },
+        "Seq": 52,
+        "StartDependency": false
+    },
+    {
+        "ID": "e8580503e92",
+        "Name": "Perfect Specimens",
+        "Location": "Old Sharlayan",
+        "Level": 90,
+        "JournalSection": 3,
+        "JournalCategory": 58,
+        "JournalGenre": "Sharlayan Sidequests",
+        "Url": "/lodestone/playguide/db/quest/e8580503e92/",
+        "Image": null,
+        "Icon": "function_normal",
+        "Issuer": "Northota",
+        "StartLocation": {
+            "Name": "Old Sharlayan",
+            "X": "11.7",
+            "Y": "13.2"
+        },
+        "StartClass": null,
+        "Job": "",
+        "Company": "Not specified",
+        "Requirement": "Not specified",
+        "Rewards": {
+            "Gil": 785,
+            "Exp": 0,
+            "ItemsMand": [],
+            "ItemsOpt": []
+        },
+        "Infos": {
+            "PrerequisiteQuest": [
+                {
+                    "Name": "A Hunt for the Ages",
+                    "Url": "/lodestone/playguide/db/quest/33d08852fbf/",
+                    "Area": "Old Sharlayan",
+                    "Level": "89"
+                }
+            ],
+            "RelatedNPC": [
+                {
+                    "Name": "J'lakshai",
+                    "Url": "/lodestone/playguide/db/shop/90f8f8fc808/",
+                    "Area": "Old Sharlayan (X:11.9 Y:13.2)"
+                }
+            ]
+        },
+        "Seq": 57,
+        "StartDependency": false
+    },
+    {
+        "ID": "ec5ef0ad88a",
+        "Name": " Thick as Thieves",
+        "Location": "Labyrinthos",
+        "Level": 80,
+        "JournalSection": 3,
+        "JournalCategory": 58,
+        "JournalGenre": "Sharlayan Sidequests",
+        "Url": "/lodestone/playguide/db/quest/ec5ef0ad88a/",
+        "Image": "https://img.finalfantasyxiv.com/lds/pc/global/images/itemicon/bc/bc7d9c6189076f8ea8977d2bfc19a6da757e9ac0.png?n6.05",
+        "Icon": "common_normal",
+        "Issuer": "Verpaulaine",
+        "StartLocation": {
+            "Name": "Labyrinthos",
+            "X": "20.8",
+            "Y": "20.8"
+        },
+        "StartClass": null,
+        "Job": "",
+        "Company": "Not specified",
+        "Requirement": "Not specified",
+        "Rewards": {
+            "Gil": 935,
+            "Exp": null,
+            "ItemsMand": [],
+            "ItemsOpt": [
+                {
+                    "Icon": "https://img.finalfantasyxiv.com/lds/pc/global/images/itemicon/d1/d100cb7a56b821be8d14db69a302122195edc056.png?n6.05",
+                    "Name": "Woad Blue Dye",
+                    "Amount": 2,
+                    "Url": "/lodestone/playguide/db/item/c864e3e34b9/"
+                },
+                {
+                    "Icon": "https://img.finalfantasyxiv.com/lds/pc/global/images/itemicon/d1/d100cb7a56b821be8d14db69a302122195edc056.png?n6.05",
+                    "Name": "Storm Blue Dye",
+                    "Amount": 2,
+                    "Url": "/lodestone/playguide/db/item/a1cab97c69f/"
+                },
+                {
+                    "Icon": "https://img.finalfantasyxiv.com/lds/pc/global/images/itemicon/d1/d100cb7a56b821be8d14db69a302122195edc056.png?n6.05",
+                    "Name": "Abyssal Blue Dye",
+                    "Amount": 2,
+                    "Url": "/lodestone/playguide/db/item/f318dace1e0/"
+                },
+                {
+                    "Icon": "https://img.finalfantasyxiv.com/lds/pc/global/images/itemicon/ba/baa2341dd17414fae7fd62ae7bc62c64589b67be.png?n6.05",
+                    "Name": "Allagan Silver Piece",
+                    "Amount": 1,
+                    "Url": "/lodestone/playguide/db/item/a3ac3ba4b00/"
+                }
+            ]
+        },
+        "Infos": {
+            "PrerequisiteQuest": [
+                {
+                    "Name": " Dream Big",
+                    "Url": "/lodestone/playguide/db/quest/369c7d336d3/",
+                    "Area": "Labyrinthos",
+                    "Level": "80"
+                },
+                {
+                    "Name": " The Hero in Labyrinthos",
+                    "Url": "/lodestone/playguide/db/quest/22a4da3c48a/",
+                    "Area": "Labyrinthos",
+                    "Level": "80"
+                }
+            ],
+            "RelatedNPC": [
+                {
+                    "Name": "Mussalfret",
+                    "Url": "/lodestone/playguide/db/npc/npc/028bfabee1d/",
+                    "Area": "Labyrinthos (X:20.8 Y:21.0)"
+                },
+                {
+                    "Name": "N'welhi Tia",
+                    "Url": "/lodestone/playguide/db/npc/npc/eacd511230b/",
+                    "Area": "Labyrinthos (X:20.9 Y:21.0)"
+                },
+                {
+                    "Name": "Shaggles",
+                    "Url": "/lodestone/playguide/db/npc/npc/04fa3be8ef4/",
+                    "Area": "Labyrinthos (X:9.2 Y:20.7)"
+                },
+                {
+                    "Name": "Shaggles",
+                    "Url": "/lodestone/playguide/db/npc/npc/9c355ca306e/",
+                    "Area": "Labyrinthos (X:25.5 Y:26.8)"
+                },
+                {
+                    "Name": "Shaggles",
+                    "Url": "/lodestone/playguide/db/npc/npc/a4713308c80/",
+                    "Area": "Labyrinthos (X:20.9 Y:21.0)"
+                },
+                {
+                    "Name": "Studium Staff",
+                    "Url": "/lodestone/playguide/db/npc/npc/3d9429ae40c/",
+                    "Area": "Labyrinthos (X:20.9 Y:20.9)"
+                },
+                {
+                    "Name": "Verpaulaine",
+                    "Url": "/lodestone/playguide/db/npc/npc/555e99e1b05/",
+                    "Area": "Labyrinthos (X:9.2 Y:20.7)"
+                },
+                {
+                    "Name": "Verpaulaine",
+                    "Url": "/lodestone/playguide/db/npc/npc/a30f4d12e70/",
+                    "Area": "Labyrinthos (X:25.5 Y:26.7)"
+                },
+                {
+                    "Name": "Verpaulaine",
+                    "Url": "/lodestone/playguide/db/npc/npc/ad3f400a2f5/",
+                    "Area": "Labyrinthos (X:20.8 Y:21.0)"
+                },
+                {
+                    "Name": "Verpaulaine's Mother",
+                    "Url": "/lodestone/playguide/db/npc/npc/7167760c0cd/",
+                    "Area": "Labyrinthos (X:20.8 Y:20.9)"
+                }
+            ]
+        },
+        "Seq": 37,
+        "StartDependency": false
+    },
+    {
+        "ID": "ef52029b64e",
+        "Name": " The Light of Progress",
+        "Location": "Old Sharlayan",
+        "Level": 80,
+        "JournalSection": 3,
+        "JournalCategory": 58,
+        "JournalGenre": "Sharlayan Sidequests",
+        "Url": "/lodestone/playguide/db/quest/ef52029b64e/",
+        "Image": null,
+        "Icon": "common_normal",
+        "Issuer": "Ash-covered Envelope",
+        "StartLocation": {
+            "Name": "Old Sharlayan",
+            "X": "9.1",
+            "Y": "8.8"
+        },
+        "StartClass": null,
+        "Job": "",
+        "Company": "Not specified",
+        "Requirement": "Not specified",
+        "Rewards": {
+            "Gil": 815,
+            "Exp": null,
+            "ItemsMand": [],
+            "ItemsOpt": []
+        },
+        "Infos": {
+            "PrerequisiteQuest": [
+                {
+                    "Name": "Sound the Bell, School's In",
+                    "Url": "/lodestone/playguide/db/quest/c8e2a1144b9/",
+                    "Area": "Old Sharlayan",
+                    "Level": "82"
+                }
+            ],
+            "RelatedNPC": [
+                {
+                    "Name": "Bookish Miqo'te",
+                    "Url": "/lodestone/playguide/db/npc/npc/f007067fa2c/",
+                    "Area": "Old Sharlayan (X:10.0 Y:10.0)"
+                },
+                {
+                    "Name": "Bookish Miqo'te",
+                    "Url": "/lodestone/playguide/db/npc/npc/f4456497897/",
+                    "Area": "Old Sharlayan (X:9.1 Y:8.8)"
+                },
+                {
+                    "Name": "Toffwyb",
+                    "Url": "/lodestone/playguide/db/npc/npc/4cfe6c8e41c/",
+                    "Area": "Old Sharlayan (X:12.0 Y:11.0)"
+                }
+            ]
+        },
+        "Seq": 43,
+        "StartDependency": false
+    },
+    {
+        "ID": "f4fcbdb55cc",
+        "Name": " Take a Look, It's in a Book",
+        "Location": "Labyrinthos",
+        "Level": 80,
+        "JournalSection": 3,
+        "JournalCategory": 58,
+        "JournalGenre": "Sharlayan Sidequests",
+        "Url": "/lodestone/playguide/db/quest/f4fcbdb55cc/",
+        "Image": null,
+        "Icon": "common_normal",
+        "Issuer": "Determined Bibliothec",
+        "StartLocation": {
+            "Name": "Labyrinthos",
+            "X": "25.7",
+            "Y": "20.6"
+        },
+        "StartClass": null,
+        "Job": "",
+        "Company": "Not specified",
+        "Requirement": "Not specified",
+        "Rewards": {
+            "Gil": 735,
+            "Exp": null,
+            "ItemsMand": [
+                {
+                    "Icon": "https://img.finalfantasyxiv.com/lds/pc/global/images/itemicon/a0/a02194449b9efb177af0cfe2f083e273a5704f03.png?n6.05",
+                    "Name": "Coconut Cod Chowder",
+                    "Amount": 2,
+                    "Url": "/lodestone/playguide/db/item/ac97918bbd7/"
+                }
+            ],
+            "ItemsOpt": []
+        },
+        "Infos": {
+            "PrerequisiteQuest": [
+                {
+                    "Name": "Hither and Yarns",
+                    "Url": "/lodestone/playguide/db/quest/3ad7155ed49/",
+                    "Area": "Labyrinthos",
+                    "Level": "88"
+                }
+            ],
+            "RelatedNPC": [
+                {
+                    "Name": "Cautious Student Of Baldesion",
+                    "Url": "/lodestone/playguide/db/npc/npc/63a0f4ea59b/",
+                    "Area": "Labyrinthos (X:25.5 Y:27.7)"
+                }
+            ]
+        },
+        "Seq": 26,
+        "StartDependency": false
+    },
+    {
+        "ID": "f8bb46d55b8",
+        "Name": " Pot Luck",
+        "Location": "Labyrinthos",
+        "Level": 80,
+        "JournalSection": 3,
+        "JournalCategory": 58,
+        "JournalGenre": "Sharlayan Sidequests",
+        "Url": "/lodestone/playguide/db/quest/f8bb46d55b8/",
+        "Image": null,
+        "Icon": "common_normal",
+        "Issuer": "Vyell",
+        "StartLocation": {
+            "Name": "Labyrinthos",
+            "X": "29.5",
+            "Y": "11.9"
+        },
+        "StartClass": null,
+        "Job": "",
+        "Company": "Not specified",
+        "Requirement": "Not specified",
+        "Rewards": {
+            "Gil": 735,
+            "Exp": null,
+            "ItemsMand": [],
+            "ItemsOpt": []
+        },
+        "Infos": {
+            "PrerequisiteQuest": [
+                {
+                    "Name": "Glorified Ratcatcher",
+                    "Url": "/lodestone/playguide/db/quest/a39a2d0ddd7/",
+                    "Area": "Labyrinthos",
+                    "Level": "80"
+                }
+            ],
+            "RelatedNPC": [
+                {
+                    "Name": "Jittery Gleaner",
+                    "Url": "/lodestone/playguide/db/npc/npc/4462c50cde5/",
+                    "Area": "Labyrinthos (X:33.7 Y:10.2)"
+                }
+            ]
+        },
+        "Seq": 5,
+        "StartDependency": false
+    },
+    {
+        "ID": "fe979f4c735",
+        "Name": " An Ore-ful Lot",
+        "Location": "Labyrinthos",
+        "Level": 80,
+        "JournalSection": 3,
+        "JournalCategory": 58,
+        "JournalGenre": "Sharlayan Sidequests",
+        "Url": "/lodestone/playguide/db/quest/fe979f4c735/",
+        "Image": null,
+        "Icon": "common_normal",
+        "Issuer": "Burly Researcher",
+        "StartLocation": {
+            "Name": "Labyrinthos",
+            "X": "28.9",
+            "Y": "12.0"
+        },
+        "StartClass": null,
+        "Job": "",
+        "Company": "Not specified",
+        "Requirement": "Not specified",
+        "Rewards": {
+            "Gil": 895,
+            "Exp": null,
+            "ItemsMand": [],
+            "ItemsOpt": []
+        },
+        "Infos": {
+            "PrerequisiteQuest": [
+                {
+                    "Name": "Glorified Ratcatcher",
+                    "Url": "/lodestone/playguide/db/quest/a39a2d0ddd7/",
+                    "Area": "Labyrinthos",
+                    "Level": "80"
+                }
+            ],
+            "RelatedNPC": [
+                {
+                    "Name": "Burly Researcher",
+                    "Url": "/lodestone/playguide/db/npc/npc/14e746027bf/",
+                    "Area": "Labyrinthos (X:32.9 Y:16.9)"
+                },
+                {
+                    "Name": "Lightly Built Lab Assistant",
+                    "Url": "/lodestone/playguide/db/npc/npc/2f109ec7b1d/",
+                    "Area": "Labyrinthos (X:32.7 Y:13.4)"
+                },
+                {
+                    "Name": "Lightly Built Lab Assistant",
+                    "Url": "/lodestone/playguide/db/npc/npc/8fe12af040f/",
+                    "Area": "Labyrinthos (X:33.0 Y:16.9)"
+                }
+            ]
+        },
+        "Seq": 3,
+        "StartDependency": false
+    }
+]

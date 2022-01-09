@@ -1,437 +1,138 @@
 [
     {
-        "ID": "0181a60cc66",
-        "Name": " Brew as the Tholl Do",
-        "Location": "Kholusia",
-        "Level": 70,
+        "ID": "019be3a7d9d",
+        "Name": "The Perfect Woman",
+        "Location": "Kugane",
+        "Level": 67,
         "JournalSection": 3,
         "JournalCategory": 51,
-        "JournalGenre": "Kholusian Sidequests",
-        "Url": "/lodestone/playguide/db/quest/0181a60cc66/",
+        "JournalGenre": "Hingan Sidequests",
+        "Url": "/lodestone/playguide/db/quest/019be3a7d9d/",
         "Image": null,
         "Icon": "common_normal",
-        "Issuer": "Xorutt",
+        "Issuer": "Ijin Merchant",
         "StartLocation": {
-            "Name": "Kholusia",
-            "X": "12.3",
-            "Y": "8.0"
+            "Name": "Kugane",
+            "X": "11.2",
+            "Y": "12.5"
         },
         "StartClass": null,
         "Job": "",
         "Company": "Not specified",
         "Requirement": "Not specified",
         "Rewards": {
-            "Gil": 606,
-            "Exp": null,
+            "Gil": 802,
+            "Exp": 26750,
             "ItemsMand": [],
             "ItemsOpt": []
         },
         "Infos": {
             "PrerequisiteQuest": [
                 {
-                    "Name": "Meet the Tholls",
-                    "Url": "/lodestone/playguide/db/quest/990b7143c29/",
-                    "Area": "Kholusia",
-                    "Level": "78"
-                }
-            ],
-            "FollowupQuest": [
-                {
-                    "Name": " Bringing the Nibbles",
-                    "Url": "/lodestone/playguide/db/quest/2cc91b7f4a6/",
-                    "Area": "Kholusia",
-                    "Level": "70"
-                }
-            ]
-        },
-        "Seq": 49,
-        "oldID": 69097,
-        "Map": {
-            "ID": 492
-        },
-        "StartDependency": false
-    },
-    {
-        "ID": "0510bba5c3e",
-        "Name": " A Rocky Relationship",
-        "Location": "Kholusia",
-        "Level": 70,
-        "JournalSection": 3,
-        "JournalCategory": 51,
-        "JournalGenre": "Kholusian Sidequests",
-        "Url": "/lodestone/playguide/db/quest/0510bba5c3e/",
-        "Image": null,
-        "Icon": "common_normal",
-        "Issuer": "Wild-looking Waif",
-        "StartLocation": {
-            "Name": "Kholusia",
-            "X": "18.1",
-            "Y": "17.9"
-        },
-        "StartClass": null,
-        "Job": "",
-        "Company": "Not specified",
-        "Requirement": "Not specified",
-        "Rewards": {
-            "Gil": 752,
-            "Exp": null,
-            "ItemsMand": [
-                {
-                    "Icon": "https://img.finalfantasyxiv.com/lds/pc/global/images/itemicon/e3/e37fdec0415b0585949d8355ae92379da2a0c37d.png?n5.55",
-                    "Name": "High Mythril Ring Coffer",
-                    "Amount": 1,
-                    "Url": "/lodestone/playguide/db/item/dfd1bda37b9/"
-                }
-            ],
-            "ItemsOpt": []
-        },
-        "Infos": {
-            "PrerequisiteQuest": [
-                {
-                    "Name": "Rich Veins of Hope",
-                    "Url": "/lodestone/playguide/db/quest/2abf0f50c3b/",
-                    "Area": "Kholusia",
-                    "Level": "78"
+                    "Name": "The World Turned Upside Down",
+                    "Url": "/lodestone/playguide/db/quest/0bbbbf89a8f/",
+                    "Area": "Yanxia",
+                    "Level": "67"
                 }
             ],
             "RelatedNPC": [
                 {
-                    "Name": "Rocky",
-                    "Url": "/lodestone/playguide/db/npc/npc/5638d84e383/",
-                    "Area": "Kholusia (X:11.4 Y:19.7)"
+                    "Name": "Agile Actor",
+                    "Url": "/lodestone/playguide/db/npc/npc/3624d01ce71/",
+                    "Area": "Kugane (X:13.7 Y:11.4)"
                 },
                 {
-                    "Name": "Wild-looking Waif",
-                    "Url": "/lodestone/playguide/db/npc/npc/699cbee84dd/",
-                    "Area": "Kholusia (X:11.3 Y:19.7)"
+                    "Name": "Athletic Actor",
+                    "Url": "/lodestone/playguide/db/npc/npc/d8710659f2c/",
+                    "Area": "Kugane (X:9.9 Y:10.0)"
+                },
+                {
+                    "Name": "Attractive Actor",
+                    "Url": "/lodestone/playguide/db/npc/npc/412d7af9496/",
+                    "Area": "Kugane (X:12.8 Y:12.3)"
+                },
+                {
+                    "Name": "Average Actor",
+                    "Url": "/lodestone/playguide/db/npc/npc/c733ef403f7/",
+                    "Area": "Kugane (X:13.2 Y:12.1)"
+                },
+                {
+                    "Name": "Ijin Merchant",
+                    "Url": "/lodestone/playguide/db/npc/npc/1d49c4e74c0/",
+                    "Area": "Kugane (X:10.9 Y:9.9)"
+                },
+                {
+                    "Name": "Ijin Merchant",
+                    "Url": "/lodestone/playguide/db/npc/npc/508ccdc551f/",
+                    "Area": "Kugane (X:13.7 Y:11.5)"
                 }
             ]
         },
-        "Seq": 39,
-        "oldID": 69082,
-        "Map": {
-            "ID": 492
-        },
+        "Seq": 11,
         "StartDependency": false
     },
     {
-        "ID": "0b91f47b91f",
-        "Name": " A Feeling in the Belly",
-        "Location": "Kholusia",
+        "ID": "1fc0b9ac272",
+        "Name": "King of the Castle",
+        "Location": "Kugane",
         "Level": 70,
         "JournalSection": 3,
         "JournalCategory": 51,
-        "JournalGenre": "Kholusian Sidequests",
-        "Url": "/lodestone/playguide/db/quest/0b91f47b91f/",
-        "Image": null,
-        "Icon": "common_normal",
-        "Issuer": "Worried Waif",
+        "JournalGenre": "Hingan Sidequests",
+        "Url": "/lodestone/playguide/db/quest/1fc0b9ac272/",
+        "Image": "https://img.finalfantasyxiv.com/lds/pc/global/images/itemicon/0b/0bd88cd0cf17865be47fffae007e49aef373f4ee.png?n6.05",
+        "Icon": "function_normal",
+        "Issuer": "East Aldenard Trading Company Associate",
         "StartLocation": {
-            "Name": "Kholusia",
-            "X": "25.3",
-            "Y": "35.2"
+            "Name": "Kugane",
+            "X": "13.9",
+            "Y": "13.3"
         },
         "StartClass": null,
         "Job": "",
         "Company": "Not specified",
         "Requirement": "Not specified",
         "Rewards": {
-            "Gil": 0,
-            "Exp": null,
-            "ItemsMand": [
-                {
-                    "Icon": "https://img.finalfantasyxiv.com/lds/pc/global/images/itemicon/e3/e37fdec0415b0585949d8355ae92379da2a0c37d.png?n5.55",
-                    "Name": "White Oak Ring Coffer",
-                    "Amount": 1,
-                    "Url": "/lodestone/playguide/db/item/b986372837a/"
-                }
-            ],
+            "Gil": 3997,
+            "Exp": 0,
+            "ItemsMand": [],
             "ItemsOpt": []
         },
         "Infos": {
             "PrerequisiteQuest": [
                 {
-                    "Name": "Open Arms, Closed Gate",
-                    "Url": "/lodestone/playguide/db/quest/361b708e12e/",
-                    "Area": "Kholusia",
+                    "Name": "Stormblood",
+                    "Url": "/lodestone/playguide/db/quest/08908744553/",
+                    "Area": "The Lochs",
                     "Level": "70"
                 }
             ],
             "RelatedNPC": [
                 {
-                    "Name": "Puissant Potion-maker",
-                    "Url": "/lodestone/playguide/db/npc/npc/6e10c61a2f9/",
-                    "Area": "Kholusia (X:27.2 Y:35.8)"
+                    "Name": "Sekiseigumi Blade",
+                    "Url": "/lodestone/playguide/db/npc/npc/8f5acfc5943/",
+                    "Area": "Kugane (X:12.6 Y:6.2)"
                 }
             ]
         },
         "Seq": 19,
-        "oldID": 68890,
-        "Map": {
-            "ID": 492
-        },
         "StartDependency": false
     },
     {
-        "ID": "10584caa13b",
-        "Name": " A Drop of Sunshine",
-        "Location": "Kholusia",
-        "Level": 70,
+        "ID": "4d158ccd272",
+        "Name": "Dedication to the Craft",
+        "Location": "Kugane",
+        "Level": 61,
         "JournalSection": 3,
         "JournalCategory": 51,
-        "JournalGenre": "Kholusian Sidequests",
-        "Url": "/lodestone/playguide/db/quest/10584caa13b/",
+        "JournalGenre": "Hingan Sidequests",
+        "Url": "/lodestone/playguide/db/quest/4d158ccd272/",
         "Image": null,
         "Icon": "common_normal",
-        "Issuer": "Bonded Servant",
+        "Issuer": "Near Eastern Merchant",
         "StartLocation": {
-            "Name": "Kholusia",
-            "X": "17.4",
-            "Y": "29.2"
-        },
-        "StartClass": null,
-        "Job": "",
-        "Company": "Not specified",
-        "Requirement": "Not specified",
-        "Rewards": {
-            "Gil": 752,
-            "Exp": null,
-            "ItemsMand": [
-                {
-                    "Icon": "https://img.finalfantasyxiv.com/lds/pc/global/images/itemicon/e3/e37fdec0415b0585949d8355ae92379da2a0c37d.png?n5.55",
-                    "Name": "White Oak Ring Coffer",
-                    "Amount": 1,
-                    "Url": "/lodestone/playguide/db/item/b986372837a/"
-                }
-            ],
-            "ItemsOpt": []
-        },
-        "Infos": {
-            "PrerequisiteQuest": [
-                {
-                    "Name": "A Fickle Existence",
-                    "Url": "/lodestone/playguide/db/quest/bb3b302a0ee/",
-                    "Area": "Kholusia",
-                    "Level": "70"
-                }
-            ],
-            "RelatedNPC": [
-                {
-                    "Name": "Venerable Villager",
-                    "Url": "/lodestone/playguide/db/npc/npc/81eb10393c4/",
-                    "Area": "Kholusia (X:16.1 Y:28.6)"
-                }
-            ]
-        },
-        "Seq": 24,
-        "oldID": 68895,
-        "Map": {
-            "ID": 492
-        },
-        "StartDependency": false
-    },
-    {
-        "ID": "1087db8623f",
-        "Name": " Witch of the Sea",
-        "Location": "Kholusia",
-        "Level": 70,
-        "JournalSection": 3,
-        "JournalCategory": 51,
-        "JournalGenre": "Kholusian Sidequests",
-        "Url": "/lodestone/playguide/db/quest/1087db8623f/",
-        "Image": null,
-        "Icon": "common_normal",
-        "Issuer": "Forthright Farmer",
-        "StartLocation": {
-            "Name": "Kholusia",
-            "X": "16.0",
-            "Y": "29.5"
-        },
-        "StartClass": null,
-        "Job": "",
-        "Company": "Not specified",
-        "Requirement": "Not specified",
-        "Rewards": {
-            "Gil": 843,
-            "Exp": null,
-            "ItemsMand": [],
-            "ItemsOpt": []
-        },
-        "Infos": {
-            "PrerequisiteQuest": [
-                {
-                    "Name": "A Fickle Existence",
-                    "Url": "/lodestone/playguide/db/quest/bb3b302a0ee/",
-                    "Area": "Kholusia",
-                    "Level": "70"
-                }
-            ],
-            "RelatedNPC": [
-                {
-                    "Name": "Forthright Farmer",
-                    "Url": "/lodestone/playguide/db/npc/npc/ecfac370640/",
-                    "Area": "Kholusia (X:21.2 Y:35.9)"
-                },
-                {
-                    "Name": "Forthright Farmer",
-                    "Url": "/lodestone/playguide/db/npc/npc/dca8abde2d9/",
-                    "Area": "Kholusia (X:20.0 Y:35.8)"
-                }
-            ]
-        },
-        "Seq": 21,
-        "oldID": 68892,
-        "Map": {
-            "ID": 492
-        },
-        "StartDependency": false
-    },
-    {
-        "ID": "10f668667db",
-        "Name": " Bridge to the Other Side",
-        "Location": "Kholusia",
-        "Level": 70,
-        "JournalSection": 3,
-        "JournalCategory": 51,
-        "JournalGenre": "Kholusian Sidequests",
-        "Url": "/lodestone/playguide/db/quest/10f668667db/",
-        "Image": null,
-        "Icon": "common_normal",
-        "Issuer": "Moa-Mosch",
-        "StartLocation": {
-            "Name": "Kholusia",
-            "X": "15.5",
-            "Y": "30.4"
-        },
-        "StartClass": null,
-        "Job": "",
-        "Company": "Not specified",
-        "Requirement": "Not specified",
-        "Rewards": {
-            "Gil": 770,
-            "Exp": null,
-            "ItemsMand": [],
-            "ItemsOpt": []
-        },
-        "Infos": {
-            "PrerequisiteQuest": [
-                {
-                    "Name": "A Fickle Existence",
-                    "Url": "/lodestone/playguide/db/quest/bb3b302a0ee/",
-                    "Area": "Kholusia",
-                    "Level": "70"
-                }
-            ]
-        },
-        "Seq": 23,
-        "oldID": 68894,
-        "Map": {
-            "ID": 492
-        },
-        "StartDependency": false
-    },
-    {
-        "ID": "1518c8118b2",
-        "Name": "Oh, Beehive Yourself",
-        "Location": "Eulmore",
-        "Level": 70,
-        "JournalSection": 3,
-        "JournalCategory": 51,
-        "JournalGenre": "Kholusian Sidequests",
-        "Url": "/lodestone/playguide/db/quest/1518c8118b2/",
-        "Image": null,
-        "Icon": "function_normal",
-        "Issuer": "Kai-Shirr",
-        "StartLocation": {
-            "Name": "Eulmore",
-            "X": "11.7",
-            "Y": "11.7"
-        },
-        "StartClass": null,
-        "Job": "",
-        "Company": "Not specified",
-        "Requirement": "Not specified",
-        "Rewards": {
-            "Gil": 0,
-            "Exp": 230000,
-            "ItemsMand": [
-                {
-                    "Icon": "https://img.finalfantasyxiv.com/lds/pc/global/images/itemicon/61/61fb5cb5e9afbfb52b690aa68a8064f6b90de6f9.png?n5.55",
-                    "Name": "Blood Tomato Salad",
-                    "Amount": 1,
-                    "Url": "/lodestone/playguide/db/item/f83b072073c/"
-                },
-                {
-                    "Icon": "https://img.finalfantasyxiv.com/lds/pc/global/images/itemicon/22/22902536234d1432aaf2702b2d50c460fbe25624.png?n5.55",
-                    "Name": "Mushroom Saute",
-                    "Amount": 1,
-                    "Url": "/lodestone/playguide/db/item/120cfbcf440/"
-                }
-            ],
-            "ItemsOpt": []
-        },
-        "Infos": {
-            "PrerequisiteQuest": [
-                {
-                    "Name": "Moving Forward",
-                    "Url": "/lodestone/playguide/db/quest/3e1ce8ad40e/",
-                    "Area": "Kholusia",
-                    "Level": "80"
-                }
-            ],
-            "FollowupQuest": [
-                {
-                    "Name": "Commercially Flyable",
-                    "Url": "/lodestone/playguide/db/quest/94544acfc2f/",
-                    "Area": "Eulmore",
-                    "Level": "70"
-                }
-            ],
-            "RelatedNPC": [
-                {
-                    "Name": "Anfrigg",
-                    "Url": "/lodestone/playguide/db/npc/npc/03b4fe31633/",
-                    "Area": "Eulmore (X:12.1 Y:9.7)"
-                },
-                {
-                    "Name": "Bosta-Zia",
-                    "Url": "/lodestone/playguide/db/npc/npc/4540086d125/",
-                    "Area": "Eulmore (X:12.2 Y:10.1)"
-                },
-                {
-                    "Name": "Kai-Shirr",
-                    "Url": "/lodestone/playguide/db/npc/npc/49710862721/",
-                    "Area": "Eulmore (X:12.2 Y:9.9)"
-                },
-                {
-                    "Name": "Mowen",
-                    "Url": "/lodestone/playguide/db/npc/npc/870e2b45256/",
-                    "Area": "Eulmore (X:11.4 Y:10.7)"
-                }
-            ]
-        },
-        "Seq": 9,
-        "oldID": 69265,
-        "Map": {
-            "ID": 555
-        },
-        "StartDependency": false
-    },
-    {
-        "ID": "18e72c744a4",
-        "Name": "Akadaemia Anyder",
-        "Location": "Eulmore",
-        "Level": 80,
-        "JournalSection": 3,
-        "JournalCategory": 51,
-        "JournalGenre": "Kholusian Sidequests",
-        "Url": "/lodestone/playguide/db/quest/18e72c744a4/",
-        "Image": "https://img.finalfantasyxiv.com/lds/pc/global/images/itemicon/53/53c2ce6db61bd8ea1cd00a0156b3d419b74e18fd.png?n5.55",
-        "Icon": "function_normal",
-        "Issuer": "Overwrought Ondo",
-        "StartLocation": {
-            "Name": "Eulmore",
-            "X": "12.9",
+            "Name": "Kugane",
+            "X": "10.5",
             "Y": "12.4"
         },
         "StartClass": null,
@@ -439,1185 +140,119 @@
         "Company": "Not specified",
         "Requirement": "Not specified",
         "Rewards": {
-            "Gil": 4917,
-            "Exp": 0,
-            "ItemsMand": [
+            "Gil": 622,
+            "Exp": 25250,
+            "ItemsMand": [],
+            "ItemsOpt": []
+        },
+        "Infos": {
+            "PrerequisiteQuest": [
                 {
-                    "Icon": "https://img.finalfantasyxiv.com/lds/pc/global/images/itemicon/a3/a37a4b7e006f3be47e7425d5912a9b772f70ad7d.png?n5.55",
-                    "Name": "Quickarm Materia VII",
-                    "Amount": 1,
-                    "Url": "/lodestone/playguide/db/item/adeb9e0a07c/"
+                    "Name": "By the Grace of Lord Lolorito",
+                    "Url": "/lodestone/playguide/db/quest/0f50e760a84/",
+                    "Area": "Kugane",
+                    "Level": "61"
+                }
+            ],
+            "RelatedNPC": [
+                {
+                    "Name": "Humble Servant",
+                    "Url": "/lodestone/playguide/db/npc/npc/cd02c5fdb52/",
+                    "Area": "Kugane (X:10.8 Y:8.2)"
                 },
                 {
-                    "Icon": "https://img.finalfantasyxiv.com/lds/pc/global/images/itemicon/eb/eb584f7fe108c91fe738789576754bcfce3e48cb.png?n5.55",
-                    "Name": "Battledance Materia VII",
-                    "Amount": 1,
-                    "Url": "/lodestone/playguide/db/item/d45e4b5e3ef/"
-                }
-            ],
-            "ItemsOpt": []
-        },
-        "Infos": {
-            "PrerequisiteQuest": [
-                {
-                    "Name": "Shadowbringers",
-                    "Url": "/lodestone/playguide/db/quest/4ed1668d377/",
-                    "Area": "The Tempest",
-                    "Level": "80"
-                }
-            ],
-            "RelatedNPC": [
-                {
-                    "Name": "Administrative Clerk",
-                    "Url": "/lodestone/playguide/db/npc/npc/971c02037a7/",
-                    "Area": "The Tempest (X:21.5 Y:26.9)"
+                    "Name": "Humble Servant",
+                    "Url": "/lodestone/playguide/db/npc/npc/4c0b257f33d/",
+                    "Area": "Kugane (X:10.5 Y:12.4)"
                 },
                 {
-                    "Name": "Akadaemia Academic",
-                    "Url": "/lodestone/playguide/db/npc/npc/27e4879812c/",
-                    "Area": "The Tempest (X:20.1 Y:33.0)"
-                }
-            ]
-        },
-        "Seq": 13,
-        "oldID": 69132,
-        "Map": {
-            "ID": 498
-        },
-        "StartDependency": false
-    },
-    {
-        "ID": "1cd8ade7a9d",
-        "Name": " With Ale Due Respect",
-        "Location": "Kholusia",
-        "Level": 70,
-        "JournalSection": 3,
-        "JournalCategory": 51,
-        "JournalGenre": "Kholusian Sidequests",
-        "Url": "/lodestone/playguide/db/quest/1cd8ade7a9d/",
-        "Image": null,
-        "Icon": "common_normal",
-        "Issuer": "Riott",
-        "StartLocation": {
-            "Name": "Kholusia",
-            "X": "12.3",
-            "Y": "8.3"
-        },
-        "StartClass": null,
-        "Job": "",
-        "Company": "Not specified",
-        "Requirement": "Not specified",
-        "Rewards": {
-            "Gil": 951,
-            "Exp": null,
-            "ItemsMand": [],
-            "ItemsOpt": []
-        },
-        "Infos": {
-            "PrerequisiteQuest": [
-                {
-                    "Name": "Meet the Tholls",
-                    "Url": "/lodestone/playguide/db/quest/990b7143c29/",
-                    "Area": "Kholusia",
-                    "Level": "78"
-                }
-            ]
-        },
-        "Seq": 48,
-        "oldID": 69091,
-        "Map": {
-            "ID": 492
-        },
-        "StartDependency": false
-    },
-    {
-        "ID": "1d08372b470",
-        "Name": " Beneath the Beard",
-        "Location": "Kholusia",
-        "Level": 70,
-        "JournalSection": 3,
-        "JournalCategory": 51,
-        "JournalGenre": "Kholusian Sidequests",
-        "Url": "/lodestone/playguide/db/quest/1d08372b470/",
-        "Image": null,
-        "Icon": "common_normal",
-        "Issuer": "Bomott",
-        "StartLocation": {
-            "Name": "Kholusia",
-            "X": "11.7",
-            "Y": "9.1"
-        },
-        "StartClass": null,
-        "Job": "",
-        "Company": "Not specified",
-        "Requirement": "Not specified",
-        "Rewards": {
-            "Gil": 805,
-            "Exp": null,
-            "ItemsMand": [
-                {
-                    "Icon": "https://img.finalfantasyxiv.com/lds/pc/global/images/itemicon/bc/bc5d818a0aef5cd74321f4a1f455e4be6abff0a1.png?n5.55",
-                    "Name": "High Mythril Hand Gear Coffer",
-                    "Amount": 1,
-                    "Url": "/lodestone/playguide/db/item/d78e64109f0/"
-                }
-            ],
-            "ItemsOpt": []
-        },
-        "Infos": {
-            "PrerequisiteQuest": [
-                {
-                    "Name": "Meet the Tholls",
-                    "Url": "/lodestone/playguide/db/quest/990b7143c29/",
-                    "Area": "Kholusia",
-                    "Level": "78"
-                }
-            ]
-        },
-        "Seq": 44,
-        "oldID": 69087,
-        "Map": {
-            "ID": 492
-        },
-        "StartDependency": false
-    },
-    {
-        "ID": "2973273d314",
-        "Name": " Too Sweet to Eat",
-        "Location": "Kholusia",
-        "Level": 70,
-        "JournalSection": 3,
-        "JournalCategory": 51,
-        "JournalGenre": "Kholusian Sidequests",
-        "Url": "/lodestone/playguide/db/quest/2973273d314/",
-        "Image": null,
-        "Icon": "common_normal",
-        "Issuer": "Tholl Gourmand",
-        "StartLocation": {
-            "Name": "Kholusia",
-            "X": "11.6",
-            "Y": "9.4"
-        },
-        "StartClass": null,
-        "Job": "",
-        "Company": "Not specified",
-        "Requirement": "Not specified",
-        "Rewards": {
-            "Gil": 878,
-            "Exp": null,
-            "ItemsMand": [],
-            "ItemsOpt": []
-        },
-        "Infos": {
-            "PrerequisiteQuest": [
-                {
-                    "Name": "Meet the Tholls",
-                    "Url": "/lodestone/playguide/db/quest/990b7143c29/",
-                    "Area": "Kholusia",
-                    "Level": "78"
-                }
-            ],
-            "RelatedNPC": [
-                {
-                    "Name": "Juvenile Cliffmole",
-                    "Url": "/lodestone/playguide/db/npc/npc/6a755dfad2e/",
-                    "Area": "Kholusia (X:29.9 Y:15.5)"
-                }
-            ]
-        },
-        "Seq": 40,
-        "oldID": 69083,
-        "Map": {
-            "ID": 492
-        },
-        "StartDependency": false
-    },
-    {
-        "ID": "2ada83e5cc3",
-        "Name": " Rebuild, Reuse, Recycle",
-        "Location": "Eulmore",
-        "Level": 70,
-        "JournalSection": 3,
-        "JournalCategory": 51,
-        "JournalGenre": "Kholusian Sidequests",
-        "Url": "/lodestone/playguide/db/quest/2ada83e5cc3/",
-        "Image": null,
-        "Icon": "common_normal",
-        "Issuer": "Tui-Shirr",
-        "StartLocation": {
-            "Name": "Eulmore",
-            "X": "12.0",
-            "Y": "9.0"
-        },
-        "StartClass": null,
-        "Job": "",
-        "Company": "Not specified",
-        "Requirement": "Not specified",
-        "Rewards": {
-            "Gil": 606,
-            "Exp": null,
-            "ItemsMand": [],
-            "ItemsOpt": []
-        },
-        "Infos": {
-            "PrerequisiteQuest": [
-                {
-                    "Name": "Paradise Fallen",
-                    "Url": "/lodestone/playguide/db/quest/4a7c9693a5b/",
-                    "Area": "Eulmore",
-                    "Level": "77"
-                }
-            ]
-        },
-        "Seq": 7,
-        "oldID": 69059,
-        "Map": {
-            "ID": 498
-        },
-        "StartDependency": false
-    },
-    {
-        "ID": "2cc91b7f4a6",
-        "Name": " Bringing the Nibbles",
-        "Location": "Kholusia",
-        "Level": 70,
-        "JournalSection": 3,
-        "JournalCategory": 51,
-        "JournalGenre": "Kholusian Sidequests",
-        "Url": "/lodestone/playguide/db/quest/2cc91b7f4a6/",
-        "Image": null,
-        "Icon": "common_normal",
-        "Issuer": "Xorutt",
-        "StartLocation": {
-            "Name": "Kholusia",
-            "X": "12.3",
-            "Y": "8.0"
-        },
-        "StartClass": null,
-        "Job": "",
-        "Company": "Not specified",
-        "Requirement": "Not specified",
-        "Rewards": {
-            "Gil": 951,
-            "Exp": null,
-            "ItemsMand": [],
-            "ItemsOpt": []
-        },
-        "Infos": {
-            "PrerequisiteQuest": [
-                {
-                    "Name": " Brew as the Tholl Do",
-                    "Url": "/lodestone/playguide/db/quest/0181a60cc66/",
-                    "Area": "Kholusia",
-                    "Level": "70"
-                }
-            ],
-            "FollowupQuest": [
-                {
-                    "Name": " You Know the Words",
-                    "Url": "/lodestone/playguide/db/quest/c7015c43d5b/",
-                    "Area": "Kholusia",
-                    "Level": "70"
-                }
-            ],
-            "RelatedNPC": [
-                {
-                    "Name": "Tholl Alewife",
-                    "Url": "/lodestone/playguide/db/npc/npc/7bab0f1b549/",
-                    "Area": "Kholusia (X:11.6 Y:9.5)"
-                }
-            ]
-        },
-        "Seq": 50,
-        "oldID": 69098,
-        "Map": {
-            "ID": 492
-        },
-        "StartDependency": false
-    },
-    {
-        "ID": "333408518d6",
-        "Name": " Fugitive of Fear",
-        "Location": "Kholusia",
-        "Level": 70,
-        "JournalSection": 3,
-        "JournalCategory": 51,
-        "JournalGenre": "Kholusian Sidequests",
-        "Url": "/lodestone/playguide/db/quest/333408518d6/",
-        "Image": null,
-        "Icon": "function_normal",
-        "Issuer": "Zumie-Shai",
-        "StartLocation": {
-            "Name": "Kholusia",
-            "X": "18.9",
-            "Y": "17.8"
-        },
-        "StartClass": null,
-        "Job": "",
-        "Company": "Not specified",
-        "Requirement": "Not specified",
-        "Rewards": {
-            "Gil": 752,
-            "Exp": null,
-            "ItemsMand": [
-                {
-                    "Icon": "https://img.finalfantasyxiv.com/lds/pc/global/images/itemicon/af/af26e4b79fb1de83550f6ddbd3a170408fcfe702.png?n5.55",
-                    "Name": "",
-                    "Amount": null
-                }
-            ],
-            "ItemsOpt": []
-        },
-        "Infos": {
-            "PrerequisiteQuest": [
-                {
-                    "Name": "Rich Veins of Hope",
-                    "Url": "/lodestone/playguide/db/quest/2abf0f50c3b/",
-                    "Area": "Kholusia",
-                    "Level": "78"
-                }
-            ],
-            "FollowupQuest": [
-                {
-                    "Name": " Rising to Her Apology",
-                    "Url": "/lodestone/playguide/db/quest/99168fc1cc9/",
-                    "Area": "Kholusia",
-                    "Level": "70"
-                }
-            ],
-            "RelatedNPC": [
-                {
-                    "Name": "Fearful Fugitive",
-                    "Url": "/lodestone/playguide/db/npc/npc/6fedb8d0596/",
-                    "Area": "Kholusia (X:11.1 Y:21.2)"
-                },
-                {
-                    "Name": "Fearful Fugitive",
-                    "Url": "/lodestone/playguide/db/npc/npc/303856e74e9/",
-                    "Area": "Kholusia (X:11.3 Y:19.2)"
-                }
-            ]
-        },
-        "Seq": 36,
-        "oldID": 69073,
-        "Map": {
-            "ID": 492
-        },
-        "StartDependency": false
-    },
-    {
-        "ID": "39d62a4ce04",
-        "Name": " Sisterly Concern",
-        "Location": "Kholusia",
-        "Level": 70,
-        "JournalSection": 3,
-        "JournalCategory": 51,
-        "JournalGenre": "Kholusian Sidequests",
-        "Url": "/lodestone/playguide/db/quest/39d62a4ce04/",
-        "Image": null,
-        "Icon": "common_normal",
-        "Issuer": "Restless Hunter",
-        "StartLocation": {
-            "Name": "Kholusia",
-            "X": "19.0",
-            "Y": "17.2"
-        },
-        "StartClass": null,
-        "Job": "",
-        "Company": "Not specified",
-        "Requirement": "Not specified",
-        "Rewards": {
-            "Gil": 679,
-            "Exp": null,
-            "ItemsMand": [],
-            "ItemsOpt": []
-        },
-        "Infos": {
-            "PrerequisiteQuest": [
-                {
-                    "Name": "The View from Above",
-                    "Url": "/lodestone/playguide/db/quest/5e2dd21bce7/",
-                    "Area": "Kholusia",
-                    "Level": "78"
-                }
-            ],
-            "RelatedNPC": [
-                {
-                    "Name": "Lanky Lass",
-                    "Url": "/lodestone/playguide/db/npc/npc/f7b446ddd40/",
-                    "Area": "Kholusia (X:23.2 Y:22.2)"
-                }
-            ]
-        },
-        "Seq": 31,
-        "oldID": 69081,
-        "Map": {
-            "ID": 492
-        },
-        "StartDependency": false
-    },
-    {
-        "ID": "4b09e48c1a2",
-        "Name": " Scattered to the Winds",
-        "Location": "Eulmore",
-        "Level": 70,
-        "JournalSection": 3,
-        "JournalCategory": 51,
-        "JournalGenre": "Kholusian Sidequests",
-        "Url": "/lodestone/playguide/db/quest/4b09e48c1a2/",
-        "Image": null,
-        "Icon": "common_normal",
-        "Issuer": "Aarner",
-        "StartLocation": {
-            "Name": "Eulmore",
-            "X": "12.2",
-            "Y": "11.5"
-        },
-        "StartClass": null,
-        "Job": "",
-        "Company": "Not specified",
-        "Requirement": "Not specified",
-        "Rewards": {
-            "Gil": 606,
-            "Exp": null,
-            "ItemsMand": [],
-            "ItemsOpt": []
-        },
-        "Infos": {
-            "PrerequisiteQuest": [
-                {
-                    "Name": "Paradise Fallen",
-                    "Url": "/lodestone/playguide/db/quest/4a7c9693a5b/",
-                    "Area": "Eulmore",
-                    "Level": "77"
+                    "Name": "Veteran Lanternmaker",
+                    "Url": "/lodestone/playguide/db/npc/npc/b8c89ace6e6/",
+                    "Area": "Kugane (X:10.9 Y:7.3)"
                 }
             ]
         },
         "Seq": 3,
-        "oldID": 69055,
-        "Map": {
-            "ID": 555
-        },
         "StartDependency": false
     },
     {
-        "ID": "546e1cea1cf",
-        "Name": " Following the Grain",
-        "Location": "Kholusia",
-        "Level": 70,
+        "ID": "5724f1b09dc",
+        "Name": "A Bleak Diagnosis",
+        "Location": "Kugane",
+        "Level": 61,
         "JournalSection": 3,
         "JournalCategory": 51,
-        "JournalGenre": "Kholusian Sidequests",
-        "Url": "/lodestone/playguide/db/quest/546e1cea1cf/",
+        "JournalGenre": "Hingan Sidequests",
+        "Url": "/lodestone/playguide/db/quest/5724f1b09dc/",
         "Image": null,
         "Icon": "common_normal",
-        "Issuer": "Hastelot",
+        "Issuer": "Yamabiko",
         "StartLocation": {
-            "Name": "Kholusia",
-            "X": "15.5",
-            "Y": "29.5"
+            "Name": "Kugane",
+            "X": "8.0",
+            "Y": "13.0"
         },
         "StartClass": null,
         "Job": "",
         "Company": "Not specified",
         "Requirement": "Not specified",
         "Rewards": {
-            "Gil": 916,
-            "Exp": null,
+            "Gil": 556,
+            "Exp": 25250,
             "ItemsMand": [],
             "ItemsOpt": []
         },
         "Infos": {
             "PrerequisiteQuest": [
                 {
-                    "Name": "A Fickle Existence",
-                    "Url": "/lodestone/playguide/db/quest/bb3b302a0ee/",
-                    "Area": "Kholusia",
-                    "Level": "70"
+                    "Name": "Making the Catfish Sing",
+                    "Url": "/lodestone/playguide/db/quest/10725d545dd/",
+                    "Area": "Kugane",
+                    "Level": "61"
                 }
             ],
             "RelatedNPC": [
                 {
-                    "Name": "Former Eulmoran Soldier",
-                    "Url": "/lodestone/playguide/db/npc/npc/9b4f88ceabc/",
-                    "Area": "Kholusia (X:22.6 Y:32.5)"
+                    "Name": "Karaku",
+                    "Url": "/lodestone/playguide/db/npc/npc/6ab90e93084/",
+                    "Area": "Kugane (X:9.5 Y:7.4)"
+                },
+                {
+                    "Name": "Kotokaze",
+                    "Url": "/lodestone/playguide/db/npc/npc/35da909f940/",
+                    "Area": "Kugane (X:10.2 Y:10.2)"
+                },
+                {
+                    "Name": "Miyamagi",
+                    "Url": "/lodestone/playguide/db/npc/npc/2366f60fb2f/",
+                    "Area": "Kugane (X:12.5 Y:7.8)"
+                },
+                {
+                    "Name": "Yamabuki",
+                    "Url": "/lodestone/playguide/db/npc/npc/6e76ed822c0/",
+                    "Area": "Kugane (X:12.8 Y:12.3)"
                 }
             ]
         },
-        "Seq": 22,
-        "oldID": 68893,
-        "Map": {
-            "ID": 492
-        },
+        "Seq": 9,
         "StartDependency": false
     },
     {
-        "ID": "548c6790d4f",
-        "Name": " The Cape in Bloom",
-        "Location": "Kholusia",
-        "Level": 70,
+        "ID": "58119a76036",
+        "Name": "Child Labor",
+        "Location": "Kugane",
+        "Level": 67,
         "JournalSection": 3,
         "JournalCategory": 51,
-        "JournalGenre": "Kholusian Sidequests",
-        "Url": "/lodestone/playguide/db/quest/548c6790d4f/",
-        "Image": "https://img.finalfantasyxiv.com/lds/pc/global/images/itemicon/be/be2f61de6ae3aa054d38aa1adc85483dbbc1c3ff.png?n5.55",
-        "Icon": "function_normal",
-        "Issuer": "Eueliss",
-        "StartLocation": {
-            "Name": "Kholusia",
-            "X": "15.7",
-            "Y": "25.5"
-        },
-        "StartClass": null,
-        "Job": "",
-        "Company": "Not specified",
-        "Requirement": "Not specified",
-        "Rewards": {
-            "Gil": 788,
-            "Exp": null,
-            "ItemsMand": [],
-            "ItemsOpt": []
-        },
-        "Infos": {
-            "PrerequisiteQuest": [
-                {
-                    "Name": " Talos, Interrupted",
-                    "Url": "/lodestone/playguide/db/quest/df3927bb2c6/",
-                    "Area": "Kholusia",
-                    "Level": "70"
-                }
-            ],
-            "FollowupQuest": [
-                {
-                    "Name": " Wright for the Job",
-                    "Url": "/lodestone/playguide/db/quest/90689c81947/",
-                    "Area": "Kholusia",
-                    "Level": "70"
-                }
-            ],
-            "RelatedNPC": [
-                {
-                    "Name": "Eueliss",
-                    "Url": "/lodestone/playguide/db/npc/npc/a3c78b32e31/",
-                    "Area": "Kholusia (X:10.5 Y:32.1)"
-                },
-                {
-                    "Name": "Eueliss",
-                    "Url": "/lodestone/playguide/db/npc/npc/73b15e72ab2/",
-                    "Area": "Kholusia (X:10.8 Y:35.1)"
-                },
-                {
-                    "Name": "Sai-Lewq",
-                    "Url": "/lodestone/playguide/db/npc/npc/1cb312f7988/",
-                    "Area": "Kholusia (X:15.7 Y:25.5)"
-                }
-            ]
-        },
-        "Seq": 27,
-        "oldID": 68909,
-        "Map": {
-            "ID": 492
-        },
-        "StartDependency": false
-    },
-    {
-        "ID": "58070121a23",
-        "Name": " Learning to Lali-ho",
-        "Location": "Kholusia",
-        "Level": 70,
-        "JournalSection": 3,
-        "JournalCategory": 51,
-        "JournalGenre": "Kholusian Sidequests",
-        "Url": "/lodestone/playguide/db/quest/58070121a23/",
-        "Image": "https://img.finalfantasyxiv.com/lds/pc/global/images/itemicon/69/695c53fffa9fab1f06edeedde081bbe2ceb48bca.png?n5.55",
-        "Icon": "function_normal",
-        "Issuer": "Ronitt",
-        "StartLocation": {
-            "Name": "Kholusia",
-            "X": "11.0",
-            "Y": "11.8"
-        },
-        "StartClass": null,
-        "Job": "",
-        "Company": "Not specified",
-        "Requirement": "Not specified",
-        "Rewards": {
-            "Gil": 788,
-            "Exp": null,
-            "ItemsMand": [
-                {
-                    "Icon": "https://img.finalfantasyxiv.com/lds/pc/global/images/itemicon/0a/0ac4085e6444a8b6359736c90bb50d7e4c481073.png?n5.55",
-                    "Name": "",
-                    "Amount": null
-                }
-            ],
-            "ItemsOpt": []
-        },
-        "Infos": {
-            "PrerequisiteQuest": [
-                {
-                    "Name": " A Practiced Greeting",
-                    "Url": "/lodestone/playguide/db/quest/9e19ff72636/",
-                    "Area": "Kholusia",
-                    "Level": "70"
-                }
-            ],
-            "FollowupQuest": [
-                {
-                    "Name": " Ronitt to the Rescue",
-                    "Url": "/lodestone/playguide/db/quest/f5908a7bf48/",
-                    "Area": "Kholusia",
-                    "Level": "70"
-                }
-            ],
-            "RelatedNPC": [
-                {
-                    "Name": "Affable Townsdwarf",
-                    "Url": "/lodestone/playguide/db/npc/npc/213f787dad7/",
-                    "Area": "Kholusia (X:12.7 Y:8.6)"
-                },
-                {
-                    "Name": "Beott",
-                    "Url": "/lodestone/playguide/db/npc/npc/4ec9396762c/",
-                    "Area": "Kholusia (X:12.4 Y:9.2)"
-                },
-                {
-                    "Name": "Ronitt",
-                    "Url": "/lodestone/playguide/db/npc/npc/b668be2fa94/",
-                    "Area": "Kholusia (X:12.7 Y:8.6)"
-                },
-                {
-                    "Name": "Ronitt",
-                    "Url": "/lodestone/playguide/db/npc/npc/f5c3bf2996f/",
-                    "Area": "Kholusia (X:13.3 Y:8.8)"
-                },
-                {
-                    "Name": "Ronitt",
-                    "Url": "/lodestone/playguide/db/npc/npc/7473c0a3316/",
-                    "Area": "Kholusia (X:11.6 Y:9.2)"
-                },
-                {
-                    "Name": "Ronitt",
-                    "Url": "/lodestone/playguide/db/npc/npc/1140d61aa6d/",
-                    "Area": "Kholusia (X:12.4 Y:9.2)"
-                },
-                {
-                    "Name": "Timid Townsdwarf",
-                    "Url": "/lodestone/playguide/db/npc/npc/9b35c3135b8/",
-                    "Area": "Kholusia (X:11.6 Y:9.2)"
-                },
-                {
-                    "Name": "Xemutt",
-                    "Url": "/lodestone/playguide/db/npc/npc/d9c7d74ab53/",
-                    "Area": "Kholusia (X:13.3 Y:8.8)"
-                }
-            ]
-        },
-        "Seq": 55,
-        "oldID": 69095,
-        "Map": {
-            "ID": 492
-        },
-        "StartDependency": false
-    },
-    {
-        "ID": "6113b15ec4a",
-        "Name": " A Clam to Die For",
-        "Location": "Kholusia",
-        "Level": 70,
-        "JournalSection": 3,
-        "JournalCategory": 51,
-        "JournalGenre": "Kholusian Sidequests",
-        "Url": "/lodestone/playguide/db/quest/6113b15ec4a/",
+        "JournalGenre": "Hingan Sidequests",
+        "Url": "/lodestone/playguide/db/quest/58119a76036/",
         "Image": null,
         "Icon": "common_normal",
-        "Issuer": "Strong-willed Wife",
+        "Issuer": "Keisetsu",
         "StartLocation": {
-            "Name": "Kholusia",
-            "X": "34.6",
-            "Y": "27.0"
-        },
-        "StartClass": null,
-        "Job": "",
-        "Company": "Not specified",
-        "Requirement": "Not specified",
-        "Rewards": {
-            "Gil": 752,
-            "Exp": null,
-            "ItemsMand": [
-                {
-                    "Icon": "https://img.finalfantasyxiv.com/lds/pc/global/images/itemicon/9c/9cba640af29374ace0cca6dd2fd34dcd92387e0e.png?n5.55",
-                    "Name": "Spaghetti al Nero",
-                    "Amount": 2,
-                    "Url": "/lodestone/playguide/db/item/ba1787c499b/"
-                }
-            ],
-            "ItemsOpt": []
-        },
-        "Infos": {
-            "PrerequisiteQuest": [
-                {
-                    "Name": "A Still Tide",
-                    "Url": "/lodestone/playguide/db/quest/242646ef15a/",
-                    "Area": "Kholusia",
-                    "Level": "70"
-                }
-            ],
-            "RelatedNPC": [
-                {
-                    "Name": "Hesitant Husband",
-                    "Url": "/lodestone/playguide/db/npc/npc/15b92952417/",
-                    "Area": "Kholusia (X:36.5 Y:26.6)"
-                },
-                {
-                    "Name": "Hesitant Husband",
-                    "Url": "/lodestone/playguide/db/npc/npc/843b7b6ff7b/",
-                    "Area": "Kholusia (X:34.6 Y:27.0)"
-                }
-            ]
-        },
-        "Seq": 16,
-        "oldID": 68887,
-        "Map": {
-            "ID": 492
-        },
-        "StartDependency": false
-    },
-    {
-        "ID": "7a34adb0c28",
-        "Name": " A Meating Long Overdue",
-        "Location": "Kholusia",
-        "Level": 70,
-        "JournalSection": 3,
-        "JournalCategory": 51,
-        "JournalGenre": "Kholusian Sidequests",
-        "Url": "/lodestone/playguide/db/quest/7a34adb0c28/",
-        "Image": null,
-        "Icon": "common_normal",
-        "Issuer": "Unfulfilled Forager",
-        "StartLocation": {
-            "Name": "Kholusia",
-            "X": "25.0",
-            "Y": "37.2"
-        },
-        "StartClass": null,
-        "Job": "",
-        "Company": "Not specified",
-        "Requirement": "Not specified",
-        "Rewards": {
-            "Gil": 679,
-            "Exp": null,
-            "ItemsMand": [
-                {
-                    "Icon": "https://img.finalfantasyxiv.com/lds/pc/global/images/itemicon/f3/f357ea7ae8d550e78704823b64f7e5d104e16e2f.png?n5.55",
-                    "Name": "White Oak Earring Coffer",
-                    "Amount": 1,
-                    "Url": "/lodestone/playguide/db/item/f5b91d75ec3/"
-                }
-            ],
-            "ItemsOpt": []
-        },
-        "Infos": {
-            "PrerequisiteQuest": [
-                {
-                    "Name": "Open Arms, Closed Gate",
-                    "Url": "/lodestone/playguide/db/quest/361b708e12e/",
-                    "Area": "Kholusia",
-                    "Level": "70"
-                }
-            ]
-        },
-        "Seq": 17,
-        "oldID": 68888,
-        "Map": {
-            "ID": 492
-        },
-        "StartDependency": false
-    },
-    {
-        "ID": "820e8f5b36c",
-        "Name": " Songstress of the Sea",
-        "Location": "Kholusia",
-        "Level": 70,
-        "JournalSection": 3,
-        "JournalCategory": 51,
-        "JournalGenre": "Kholusian Sidequests",
-        "Url": "/lodestone/playguide/db/quest/820e8f5b36c/",
-        "Image": null,
-        "Icon": "common_normal",
-        "Issuer": "Aspiring Songstress",
-        "StartLocation": {
-            "Name": "Kholusia",
-            "X": "24.5",
-            "Y": "36.2"
-        },
-        "StartClass": null,
-        "Job": "",
-        "Company": "Not specified",
-        "Requirement": "Not specified",
-        "Rewards": {
-            "Gil": 752,
-            "Exp": null,
-            "ItemsMand": [],
-            "ItemsOpt": []
-        },
-        "Infos": {
-            "PrerequisiteQuest": [
-                {
-                    "Name": "Open Arms, Closed Gate",
-                    "Url": "/lodestone/playguide/db/quest/361b708e12e/",
-                    "Area": "Kholusia",
-                    "Level": "70"
-                }
-            ],
-            "RelatedNPC": [
-                {
-                    "Name": "Aspiring Songstress",
-                    "Url": "/lodestone/playguide/db/npc/npc/2674d9fcda7/",
-                    "Area": "Kholusia (X:21.9 Y:37.4)"
-                }
-            ]
-        },
-        "Seq": 20,
-        "oldID": 68891,
-        "Map": {
-            "ID": 492
-        },
-        "StartDependency": false
-    },
-    {
-        "ID": "8714429825a",
-        "Name": " Timber for the Taking",
-        "Location": "Kholusia",
-        "Level": 70,
-        "JournalSection": 3,
-        "JournalCategory": 51,
-        "JournalGenre": "Kholusian Sidequests",
-        "Url": "/lodestone/playguide/db/quest/8714429825a/",
-        "Image": null,
-        "Icon": "common_normal",
-        "Issuer": "Jaimbert",
-        "StartLocation": {
-            "Name": "Kholusia",
-            "X": "19.2",
-            "Y": "17.9"
-        },
-        "StartClass": null,
-        "Job": "",
-        "Company": "Not specified",
-        "Requirement": "Not specified",
-        "Rewards": {
-            "Gil": 606,
-            "Exp": null,
-            "ItemsMand": [
-                {
-                    "Icon": "https://img.finalfantasyxiv.com/lds/pc/global/images/itemicon/27/2778bbc3d01f5268fe9c83919d4499b35ce991eb.png?n5.55",
-                    "Name": "High Mythril Foot Gear Coffer",
-                    "Amount": 1,
-                    "Url": "/lodestone/playguide/db/item/94ad33cb12c/"
-                }
-            ],
-            "ItemsOpt": []
-        },
-        "Infos": {
-            "PrerequisiteQuest": [
-                {
-                    "Name": "Rich Veins of Hope",
-                    "Url": "/lodestone/playguide/db/quest/2abf0f50c3b/",
-                    "Area": "Kholusia",
-                    "Level": "78"
-                }
-            ]
-        },
-        "Seq": 34,
-        "oldID": 69076,
-        "Map": {
-            "ID": 492
-        },
-        "StartDependency": false
-    },
-    {
-        "ID": "871713f3625",
-        "Name": " The Invisible Hand",
-        "Location": "Eulmore",
-        "Level": 70,
-        "JournalSection": 3,
-        "JournalCategory": 51,
-        "JournalGenre": "Kholusian Sidequests",
-        "Url": "/lodestone/playguide/db/quest/871713f3625/",
-        "Image": null,
-        "Icon": "common_normal",
-        "Issuer": "Zoi-Chorr",
-        "StartLocation": {
-            "Name": "Eulmore",
-            "X": "10.1",
-            "Y": "9.4"
-        },
-        "StartClass": null,
-        "Job": "",
-        "Company": "Not specified",
-        "Requirement": "Not specified",
-        "Rewards": {
-            "Gil": 606,
-            "Exp": null,
-            "ItemsMand": [],
-            "ItemsOpt": []
-        },
-        "Infos": {
-            "PrerequisiteQuest": [
-                {
-                    "Name": "Paradise Fallen",
-                    "Url": "/lodestone/playguide/db/quest/4a7c9693a5b/",
-                    "Area": "Eulmore",
-                    "Level": "77"
-                }
-            ],
-            "RelatedNPC": [
-                {
-                    "Name": "Bosta-Loe",
-                    "Url": "/lodestone/playguide/db/npc/npc/41b377e0419/",
-                    "Area": "Eulmore (X:10.2 Y:9.3)"
-                },
-                {
-                    "Name": "Mathisol",
-                    "Url": "/lodestone/playguide/db/npc/npc/266e1248ecf/",
-                    "Area": "Eulmore (X:12.7 Y:10.3)"
-                },
-                {
-                    "Name": "Zia-Bostt",
-                    "Url": "/lodestone/playguide/db/npc/npc/c96e5290a06/",
-                    "Area": "Eulmore (X:9.6 Y:12.0)"
-                }
-            ]
-        },
-        "Seq": 2,
-        "oldID": 69054,
-        "Map": {
-            "ID": 498
-        },
-        "StartDependency": false
-    },
-    {
-        "ID": "8a898af9b70",
-        "Name": " Good, Honest Dirt",
-        "Location": "Kholusia",
-        "Level": 70,
-        "JournalSection": 3,
-        "JournalCategory": 51,
-        "JournalGenre": "Kholusian Sidequests",
-        "Url": "/lodestone/playguide/db/quest/8a898af9b70/",
-        "Image": null,
-        "Icon": "common_normal",
-        "Issuer": "Sylgran",
-        "StartLocation": {
-            "Name": "Kholusia",
-            "X": "18.4",
-            "Y": "17.9"
-        },
-        "StartClass": null,
-        "Job": "",
-        "Company": "Not specified",
-        "Requirement": "Not specified",
-        "Rewards": {
-            "Gil": 606,
-            "Exp": null,
-            "ItemsMand": [],
-            "ItemsOpt": []
-        },
-        "Infos": {
-            "PrerequisiteQuest": [
-                {
-                    "Name": "The View from Above",
-                    "Url": "/lodestone/playguide/db/quest/5e2dd21bce7/",
-                    "Area": "Kholusia",
-                    "Level": "78"
-                }
-            ]
-        },
-        "Seq": 30,
-        "oldID": 69080,
-        "Map": {
-            "ID": 492
-        },
-        "StartDependency": false
-    },
-    {
-        "ID": "90689c81947",
-        "Name": " Wright for the Job",
-        "Location": "Kholusia",
-        "Level": 70,
-        "JournalSection": 3,
-        "JournalCategory": 51,
-        "JournalGenre": "Kholusian Sidequests",
-        "Url": "/lodestone/playguide/db/quest/90689c81947/",
-        "Image": "https://img.finalfantasyxiv.com/lds/pc/global/images/itemicon/be/be2f61de6ae3aa054d38aa1adc85483dbbc1c3ff.png?n5.55",
-        "Icon": "function_normal",
-        "Issuer": "Eueliss",
-        "StartLocation": {
-            "Name": "Kholusia",
-            "X": "15.7",
-            "Y": "25.5"
-        },
-        "StartClass": null,
-        "Job": "",
-        "Company": "Not specified",
-        "Requirement": "Not specified",
-        "Rewards": {
-            "Gil": 788,
-            "Exp": null,
-            "ItemsMand": [],
-            "ItemsOpt": [
-                {
-                    "Icon": "https://img.finalfantasyxiv.com/lds/pc/global/images/itemicon/09/09570b3c3c46b1e8a52e8475c5b16cbcca432d97.png?n5.55",
-                    "Name": "Grilled Rail",
-                    "Amount": 2,
-                    "Url": "/lodestone/playguide/db/item/aedd374afad/"
-                },
-                {
-                    "Icon": "https://img.finalfantasyxiv.com/lds/pc/global/images/itemicon/b2/b2a6274417cab57616f207bbaa55ea18d6a164fb.png?n5.55",
-                    "Name": "Purple Carrot Juice",
-                    "Amount": 2,
-                    "Url": "/lodestone/playguide/db/item/cf2ba60550f/"
-                },
-                {
-                    "Icon": "https://img.finalfantasyxiv.com/lds/pc/global/images/itemicon/87/8703f574246b8290761053ffe4e130a2b7d56125.png?n5.55",
-                    "Name": "Caramels",
-                    "Amount": 2,
-                    "Url": "/lodestone/playguide/db/item/ed88a70bb54/"
-                },
-                {
-                    "Icon": "https://img.finalfantasyxiv.com/lds/pc/global/images/itemicon/da/da6527324aacc543133f5fa88c59efe11cc0e767.png?n5.55",
-                    "Name": "Broad Bean Soup",
-                    "Amount": 2,
-                    "Url": "/lodestone/playguide/db/item/47b9501c21a/"
-                },
-                {
-                    "Icon": "https://img.finalfantasyxiv.com/lds/pc/global/images/itemicon/ba/baa2341dd17414fae7fd62ae7bc62c64589b67be.png?n5.55",
-                    "Name": "Nightworld Silver Piece",
-                    "Amount": 3,
-                    "Url": "/lodestone/playguide/db/item/50ed823230e/"
-                }
-            ]
-        },
-        "Infos": {
-            "PrerequisiteQuest": [
-                {
-                    "Name": " The Cape in Bloom",
-                    "Url": "/lodestone/playguide/db/quest/548c6790d4f/",
-                    "Area": "Kholusia",
-                    "Level": "70"
-                }
-            ],
-            "FollowupQuest": [
-                {
-                    "Name": " Ronitt to the Rescue",
-                    "Url": "/lodestone/playguide/db/quest/f5908a7bf48/",
-                    "Area": "Kholusia",
-                    "Level": "70"
-                }
-            ],
-            "RelatedNPC": [
-                {
-                    "Name": "Eueliss",
-                    "Url": "/lodestone/playguide/db/npc/npc/b181d6ef4c1/",
-                    "Area": "Kholusia (X:16.6 Y:28.5)"
-                },
-                {
-                    "Name": "Eueliss",
-                    "Url": "/lodestone/playguide/db/npc/npc/9781d2bbbed/",
-                    "Area": "Kholusia (X:15.6 Y:30.3)"
-                },
-                {
-                    "Name": "Sai-Lewq",
-                    "Url": "/lodestone/playguide/db/npc/npc/1cb312f7988/",
-                    "Area": "Kholusia (X:15.7 Y:25.5)"
-                },
-                {
-                    "Name": "Sai-Lewq",
-                    "Url": "/lodestone/playguide/db/npc/npc/5dde2fd3ca9/",
-                    "Area": "Kholusia (X:16.2 Y:28.7)"
-                },
-                {
-                    "Name": "Sai-Lewq",
-                    "Url": "/lodestone/playguide/db/npc/npc/8d03eada313/",
-                    "Area": "Kholusia (X:15.9 Y:30.1)"
-                }
-            ]
-        },
-        "Seq": 28,
-        "oldID": 68910,
-        "Map": {
-            "ID": 492
-        },
-        "StartDependency": false
-    },
-    {
-        "ID": "913455d16a5",
-        "Name": " Knocking the Knockers",
-        "Location": "Kholusia",
-        "Level": 70,
-        "JournalSection": 3,
-        "JournalCategory": 51,
-        "JournalGenre": "Kholusian Sidequests",
-        "Url": "/lodestone/playguide/db/quest/913455d16a5/",
-        "Image": null,
-        "Icon": "common_normal",
-        "Issuer": "Gratt",
-        "StartLocation": {
-            "Name": "Kholusia",
-            "X": "12.8",
-            "Y": "9.3"
-        },
-        "StartClass": null,
-        "Job": "",
-        "Company": "Not specified",
-        "Requirement": "Not specified",
-        "Rewards": {
-            "Gil": 805,
-            "Exp": null,
-            "ItemsMand": [
-                {
-                    "Icon": "https://img.finalfantasyxiv.com/lds/pc/global/images/itemicon/f3/f357ea7ae8d550e78704823b64f7e5d104e16e2f.png?n5.55",
-                    "Name": "High Mythril Earring Coffer",
-                    "Amount": 1,
-                    "Url": "/lodestone/playguide/db/item/94c84fc147f/"
-                }
-            ],
-            "ItemsOpt": []
-        },
-        "Infos": {
-            "PrerequisiteQuest": [
-                {
-                    "Name": "Meet the Tholls",
-                    "Url": "/lodestone/playguide/db/quest/990b7143c29/",
-                    "Area": "Kholusia",
-                    "Level": "78"
-                }
-            ]
-        },
-        "Seq": 46,
-        "oldID": 69089,
-        "Map": {
-            "ID": 492
-        },
-        "StartDependency": false
-    },
-    {
-        "ID": "94544acfc2f",
-        "Name": "Commercially Flyable",
-        "Location": "Eulmore",
-        "Level": 70,
-        "JournalSection": 3,
-        "JournalCategory": 51,
-        "JournalGenre": "Kholusian Sidequests",
-        "Url": "/lodestone/playguide/db/quest/94544acfc2f/",
-        "Image": null,
-        "Icon": "function_normal",
-        "Issuer": "Bosta-Zia",
-        "StartLocation": {
-            "Name": "Eulmore",
-            "X": "12.2",
-            "Y": "10.1"
+            "Name": "Kugane",
+            "X": "11.1",
+            "Y": "8.9"
         },
         "StartClass": null,
         "Job": "",
@@ -1625,19 +260,13 @@
         "Requirement": "Not specified",
         "Rewards": {
             "Gil": 0,
-            "Exp": 230000,
+            "Exp": 26750,
             "ItemsMand": [
                 {
-                    "Icon": "https://img.finalfantasyxiv.com/lds/pc/global/images/itemicon/46/4696b2f027b0b33da98c53098783aef7b1e3cb58.png?n5.55",
-                    "Name": "Blood Bouillabaisse",
+                    "Icon": "https://img.finalfantasyxiv.com/lds/pc/global/images/itemicon/5c/5cd24f7fc4686eb2ba37f9b2145ada87447de825.png?n6.05",
+                    "Name": "Baklava",
                     "Amount": 1,
-                    "Url": "/lodestone/playguide/db/item/3a08e09ab95/"
-                },
-                {
-                    "Icon": "https://img.finalfantasyxiv.com/lds/pc/global/images/itemicon/99/9966fffb538269fb56727c67250489c86e50b052.png?n5.55",
-                    "Name": "Coffee Biscuit",
-                    "Amount": 1,
-                    "Url": "/lodestone/playguide/db/item/0c95b9d9f7e/"
+                    "Url": "/lodestone/playguide/db/item/7c0e3842593/"
                 }
             ],
             "ItemsOpt": []
@@ -1645,1018 +274,311 @@
         "Infos": {
             "PrerequisiteQuest": [
                 {
-                    "Name": "Oh, Beehive Yourself",
-                    "Url": "/lodestone/playguide/db/quest/1518c8118b2/",
-                    "Area": "Eulmore",
-                    "Level": "70"
-                }
-            ],
-            "FollowupQuest": [
-                {
-                    "Name": "A Ship on His Shoulder",
-                    "Url": "/lodestone/playguide/db/quest/95e65c08b22/",
-                    "Area": "Eulmore",
-                    "Level": "70"
+                    "Name": "The World Turned Upside Down",
+                    "Url": "/lodestone/playguide/db/quest/0bbbbf89a8f/",
+                    "Area": "Yanxia",
+                    "Level": "67"
                 }
             ],
             "RelatedNPC": [
                 {
-                    "Name": "Anfrigg",
-                    "Url": "/lodestone/playguide/db/npc/npc/03b4fe31633/",
-                    "Area": "Eulmore (X:12.1 Y:9.7)"
+                    "Name": "Auri Merchant",
+                    "Url": "/lodestone/playguide/db/npc/npc/e8ab5c5d230/",
+                    "Area": "Kugane (X:12.8 Y:12.6)"
                 },
                 {
-                    "Name": "Colden",
-                    "Url": "/lodestone/playguide/db/npc/npc/d6badcf71d1/",
-                    "Area": "Eulmore (X:11.0 Y:11.5)"
+                    "Name": "Duskwight Debutante",
+                    "Url": "/lodestone/playguide/db/npc/npc/5423e0ee0e2/",
+                    "Area": "Kugane (X:9.0 Y:8.9)"
                 },
                 {
-                    "Name": "Kai-Shirr",
-                    "Url": "/lodestone/playguide/db/npc/npc/49710862721/",
-                    "Area": "Eulmore (X:12.2 Y:9.9)"
+                    "Name": "Lalafellin Deckswab",
+                    "Url": "/lodestone/playguide/db/npc/npc/a4c85c6c185/",
+                    "Area": "Kugane (X:9.4 Y:9.9)"
+                },
+                {
+                    "Name": "Lalafellin Trader",
+                    "Url": "/lodestone/playguide/db/npc/npc/7a0d4f51d3e/",
+                    "Area": "Kugane (X:11.5 Y:14.7)"
+                },
+                {
+                    "Name": "Miqo'te Traveler",
+                    "Url": "/lodestone/playguide/db/npc/npc/389d9042931/",
+                    "Area": "Kugane (X:11.8 Y:10.2)"
+                },
+                {
+                    "Name": "Roegadyn Sailor",
+                    "Url": "/lodestone/playguide/db/npc/npc/469d4b0e18f/",
+                    "Area": "Kugane (X:10.5 Y:12.6)"
                 }
             ]
         },
-        "Seq": 10,
-        "oldID": 69266,
-        "Map": {
-            "ID": 555
-        },
+        "Seq": 12,
         "StartDependency": false
     },
     {
-        "ID": "94c982bf205",
-        "Name": " My Heart Will (Not) Go On",
-        "Location": "Eulmore",
-        "Level": 70,
+        "ID": "599921f1c53",
+        "Name": "Three-star Veteran Clan Hunt",
+        "Location": "Kugane",
+        "Level": 66,
         "JournalSection": 3,
         "JournalCategory": 51,
-        "JournalGenre": "Kholusian Sidequests",
-        "Url": "/lodestone/playguide/db/quest/94c982bf205/",
-        "Image": null,
-        "Icon": "common_normal",
-        "Issuer": "Queen Bee",
-        "StartLocation": {
-            "Name": "Eulmore",
-            "X": "12.3",
-            "Y": "9.7"
-        },
-        "StartClass": null,
-        "Job": "",
-        "Company": "Not specified",
-        "Requirement": "Not specified",
-        "Rewards": {
-            "Gil": 679,
-            "Exp": null,
-            "ItemsMand": [
-                {
-                    "Icon": "https://img.finalfantasyxiv.com/lds/pc/global/images/itemicon/71/71860f9db7c2800909350796c376b286964a25c9.png?n5.55",
-                    "Name": "Paella",
-                    "Amount": 2,
-                    "Url": "/lodestone/playguide/db/item/af1118e0f5f/"
-                }
-            ],
-            "ItemsOpt": []
-        },
-        "Infos": {
-            "PrerequisiteQuest": [
-                {
-                    "Name": "Paradise Fallen",
-                    "Url": "/lodestone/playguide/db/quest/4a7c9693a5b/",
-                    "Area": "Eulmore",
-                    "Level": "77"
-                }
-            ],
-            "FollowupQuest": [
-                {
-                    "Name": " Near, Far, Wherever You Are",
-                    "Url": "/lodestone/playguide/db/quest/ee84d3369a9/",
-                    "Area": "Eulmore",
-                    "Level": "70"
-                }
-            ],
-            "RelatedNPC": [
-                {
-                    "Name": "Queen Bee",
-                    "Url": "/lodestone/playguide/db/npc/npc/c568f06f392/",
-                    "Area": "Eulmore (X:12.5 Y:14.1)"
-                },
-                {
-                    "Name": "Solina",
-                    "Url": "/lodestone/playguide/db/npc/npc/2605250eaa5/",
-                    "Area": "Eulmore (X:12.5 Y:14.1)"
-                }
-            ]
-        },
-        "Seq": 28,
-        "oldID": 69052,
-        "Map": {
-            "ID": 555
-        },
-        "StartDependency": false
-    },
-    {
-        "ID": "95e65c08b22",
-        "Name": "A Ship on His Shoulder",
-        "Location": "Eulmore",
-        "Level": 70,
-        "JournalSection": 3,
-        "JournalCategory": 51,
-        "JournalGenre": "Kholusian Sidequests",
-        "Url": "/lodestone/playguide/db/quest/95e65c08b22/",
+        "JournalGenre": "Hingan Sidequests",
+        "Url": "/lodestone/playguide/db/quest/599921f1c53/",
         "Image": null,
         "Icon": "function_normal",
-        "Issuer": "Anfrigg",
+        "Issuer": "Estrild",
         "StartLocation": {
-            "Name": "Eulmore",
-            "X": "12.1",
-            "Y": "9.7"
+            "Name": "Kugane",
+            "X": "10.3",
+            "Y": "10.2"
         },
         "StartClass": null,
         "Job": "",
         "Company": "Not specified",
         "Requirement": "Not specified",
         "Rewards": {
-            "Gil": 533,
-            "Exp": 230000,
+            "Gil": 515,
+            "Exp": 26500,
             "ItemsMand": [],
             "ItemsOpt": []
         },
         "Infos": {
             "PrerequisiteQuest": [
                 {
-                    "Name": "Commercially Flyable",
-                    "Url": "/lodestone/playguide/db/quest/94544acfc2f/",
-                    "Area": "Eulmore",
+                    "Name": "Two-star Veteran Clan Hunt",
+                    "Url": "/lodestone/playguide/db/quest/eba740d39bb/",
+                    "Area": "Kugane",
+                    "Level": "63"
+                }
+            ],
+            "FollowupQuest": [
+                {
+                    "Name": "Elite Veteran Clan Hunt",
+                    "Url": "/lodestone/playguide/db/quest/f704d1dfcc8/",
+                    "Area": "Kugane",
                     "Level": "70"
                 }
             ],
             "RelatedNPC": [
                 {
-                    "Name": "Lereberd",
-                    "Url": "/lodestone/playguide/db/npc/npc/8f3941b4f0d/",
-                    "Area": "Eulmore (X:11.1 Y:9.5)"
+                    "Name": "Wlveva",
+                    "Url": "/lodestone/playguide/db/npc/npc/70c42523340/",
+                    "Area": "Kugane (X:10.6 Y:10.3)"
                 }
             ]
         },
-        "Seq": 11,
-        "oldID": 69267,
-        "Map": {
-            "ID": 555
-        },
+        "Seq": 17,
         "StartDependency": false
     },
     {
-        "ID": "99168fc1cc9",
-        "Name": " Rising to Her Apology",
-        "Location": "Kholusia",
-        "Level": 70,
+        "ID": "5dc3579734f",
+        "Name": "The Weight of a Dream",
+        "Location": "Kugane",
+        "Level": 67,
         "JournalSection": 3,
         "JournalCategory": 51,
-        "JournalGenre": "Kholusian Sidequests",
-        "Url": "/lodestone/playguide/db/quest/99168fc1cc9/",
+        "JournalGenre": "Hingan Sidequests",
+        "Url": "/lodestone/playguide/db/quest/5dc3579734f/",
         "Image": null,
         "Icon": "common_normal",
-        "Issuer": "Well-dressed Noblewoman",
+        "Issuer": "Puissant Porter",
         "StartLocation": {
-            "Name": "Kholusia",
-            "X": "18.3",
-            "Y": "18.0"
+            "Name": "Kugane",
+            "X": "9.9",
+            "Y": "14.3"
         },
         "StartClass": null,
         "Job": "",
         "Company": "Not specified",
         "Requirement": "Not specified",
         "Rewards": {
-            "Gil": 679,
-            "Exp": null,
+            "Gil": 590,
+            "Exp": 26750,
             "ItemsMand": [],
             "ItemsOpt": []
         },
         "Infos": {
             "PrerequisiteQuest": [
                 {
-                    "Name": " Fugitive of Fear",
-                    "Url": "/lodestone/playguide/db/quest/333408518d6/",
-                    "Area": "Kholusia",
-                    "Level": "70"
+                    "Name": "The World Turned Upside Down",
+                    "Url": "/lodestone/playguide/db/quest/0bbbbf89a8f/",
+                    "Area": "Yanxia",
+                    "Level": "67"
                 }
             ],
             "RelatedNPC": [
                 {
-                    "Name": "Fearful Fugitive",
-                    "Url": "/lodestone/playguide/db/npc/npc/f9b6196fe57/",
-                    "Area": "Kholusia (X:19.1 Y:17.5)"
+                    "Name": "Accomplished Apothecary",
+                    "Url": "/lodestone/playguide/db/npc/npc/e116a8a8984/",
+                    "Area": "Kugane (X:12.0 Y:11.9)"
                 }
             ]
         },
-        "Seq": 37,
-        "oldID": 69077,
-        "Map": {
-            "ID": 492
-        },
+        "Seq": 14,
         "StartDependency": false
     },
     {
-        "ID": "9e19ff72636",
-        "Name": " A Practiced Greeting",
-        "Location": "Kholusia",
-        "Level": 70,
+        "ID": "64efec031bc",
+        "Name": "Zero Tolerance Teahouse",
+        "Location": "Kugane",
+        "Level": 61,
         "JournalSection": 3,
         "JournalCategory": 51,
-        "JournalGenre": "Kholusian Sidequests",
-        "Url": "/lodestone/playguide/db/quest/9e19ff72636/",
-        "Image": "https://img.finalfantasyxiv.com/lds/pc/global/images/itemicon/69/695c53fffa9fab1f06edeedde081bbe2ceb48bca.png?n5.55",
-        "Icon": "function_normal",
-        "Issuer": "Ronitt",
+        "JournalGenre": "Hingan Sidequests",
+        "Url": "/lodestone/playguide/db/quest/64efec031bc/",
+        "Image": null,
+        "Icon": "common_normal",
+        "Issuer": "Teahouse Serving Girl",
         "StartLocation": {
-            "Name": "Kholusia",
+            "Name": "Kugane",
+            "X": "11.2",
+            "Y": "10.1"
+        },
+        "StartClass": null,
+        "Job": "",
+        "Company": "Not specified",
+        "Requirement": "Not specified",
+        "Rewards": {
+            "Gil": 622,
+            "Exp": 25250,
+            "ItemsMand": [],
+            "ItemsOpt": []
+        },
+        "Infos": {
+            "PrerequisiteQuest": [
+                {
+                    "Name": "By the Grace of Lord Lolorito",
+                    "Url": "/lodestone/playguide/db/quest/0f50e760a84/",
+                    "Area": "Kugane",
+                    "Level": "61"
+                }
+            ],
+            "RelatedNPC": [
+                {
+                    "Name": "Fabulously Foxed Fellow",
+                    "Url": "/lodestone/playguide/db/npc/npc/07c4c8ceb7e/",
+                    "Area": "Kugane (X:11.3 Y:10.1)"
+                },
+                {
+                    "Name": "Teahouse Hireling",
+                    "Url": "/lodestone/playguide/db/npc/npc/a37451f3954/",
+                    "Area": "Kugane (X:9.6 Y:10.2)"
+                }
+            ]
+        },
+        "Seq": 7,
+        "StartDependency": false
+    },
+    {
+        "ID": "69de8024608",
+        "Name": "In the Line of Duty",
+        "Location": "Kugane",
+        "Level": 67,
+        "JournalSection": 3,
+        "JournalCategory": 51,
+        "JournalGenre": "Hingan Sidequests",
+        "Url": "/lodestone/playguide/db/quest/69de8024608/",
+        "Image": null,
+        "Icon": "common_normal",
+        "Issuer": "Injured Sekiseigumi Blade",
+        "StartLocation": {
+            "Name": "Kugane",
+            "X": "12.9",
+            "Y": "11.7"
+        },
+        "StartClass": null,
+        "Job": "",
+        "Company": "Not specified",
+        "Requirement": "Not specified",
+        "Rewards": {
+            "Gil": 590,
+            "Exp": 26750,
+            "ItemsMand": [],
+            "ItemsOpt": []
+        },
+        "Infos": {
+            "PrerequisiteQuest": [
+                {
+                    "Name": "The World Turned Upside Down",
+                    "Url": "/lodestone/playguide/db/quest/0bbbbf89a8f/",
+                    "Area": "Yanxia",
+                    "Level": "67"
+                }
+            ],
+            "RelatedNPC": [
+                {
+                    "Name": "Sekiseigumi Blade",
+                    "Url": "/lodestone/playguide/db/npc/npc/5c3c24eb221/",
+                    "Area": "Kugane (X:12.5 Y:13.1)"
+                }
+            ]
+        },
+        "Seq": 13,
+        "StartDependency": false
+    },
+    {
+        "ID": "775c2a0d798",
+        "Name": "I'll Show You Angry",
+        "Location": "Kugane",
+        "Level": 61,
+        "JournalSection": 3,
+        "JournalCategory": 51,
+        "JournalGenre": "Hingan Sidequests",
+        "Url": "/lodestone/playguide/db/quest/775c2a0d798/",
+        "Image": null,
+        "Icon": "common_normal",
+        "Issuer": "Modest Maiden",
+        "StartLocation": {
+            "Name": "Kugane",
             "X": "13.5",
-            "Y": "8.3"
+            "Y": "12.3"
         },
         "StartClass": null,
         "Job": "",
         "Company": "Not specified",
         "Requirement": "Not specified",
         "Rewards": {
-            "Gil": 788,
-            "Exp": null,
+            "Gil": 622,
+            "Exp": 25250,
             "ItemsMand": [],
             "ItemsOpt": []
         },
         "Infos": {
             "PrerequisiteQuest": [
                 {
-                    "Name": " Almost a Friend",
-                    "Url": "/lodestone/playguide/db/quest/f2b8a40128e/",
-                    "Area": "Kholusia",
-                    "Level": "70"
-                }
-            ],
-            "FollowupQuest": [
-                {
-                    "Name": " Learning to Lali-ho",
-                    "Url": "/lodestone/playguide/db/quest/58070121a23/",
-                    "Area": "Kholusia",
-                    "Level": "70"
+                    "Name": "By the Grace of Lord Lolorito",
+                    "Url": "/lodestone/playguide/db/quest/0f50e760a84/",
+                    "Area": "Kugane",
+                    "Level": "61"
                 }
             ],
             "RelatedNPC": [
                 {
-                    "Name": "Ronitt",
-                    "Url": "/lodestone/playguide/db/npc/npc/9dc0462c8e8/",
-                    "Area": "Kholusia (X:17.6 Y:15.6)"
-                },
-                {
-                    "Name": "Ronitt",
-                    "Url": "/lodestone/playguide/db/npc/npc/00118ea6090/",
-                    "Area": "Kholusia (X:13.3 Y:15.6)"
-                },
-                {
-                    "Name": "Ronitt",
-                    "Url": "/lodestone/playguide/db/npc/npc/650cffbdc27/",
-                    "Area": "Kholusia (X:11.0 Y:11.8)"
+                    "Name": "Ibara",
+                    "Url": "/lodestone/playguide/db/npc/npc/4defe7e8c69/",
+                    "Area": "Kugane (X:12.4 Y:12.5)"
                 }
             ]
         },
-        "Seq": 54,
-        "oldID": 69094,
-        "Map": {
-            "ID": 492
-        },
+        "Seq": 5,
         "StartDependency": false
     },
     {
-        "ID": "a022dce814e",
-        "Name": " Children of the Derelicts",
-        "Location": "Eulmore",
-        "Level": 70,
+        "ID": "7f595ac7692",
+        "Name": "I Dream of Shirogane",
+        "Location": "Kugane",
+        "Level": 61,
         "JournalSection": 3,
         "JournalCategory": 51,
-        "JournalGenre": "Kholusian Sidequests",
-        "Url": "/lodestone/playguide/db/quest/a022dce814e/",
-        "Image": null,
-        "Icon": "common_normal",
-        "Issuer": "Sristialla",
-        "StartLocation": {
-            "Name": "Eulmore",
-            "X": "12.1",
-            "Y": "8.8"
-        },
-        "StartClass": null,
-        "Job": "",
-        "Company": "Not specified",
-        "Requirement": "Not specified",
-        "Rewards": {
-            "Gil": 606,
-            "Exp": null,
-            "ItemsMand": [],
-            "ItemsOpt": [
-                {
-                    "Icon": "https://img.finalfantasyxiv.com/lds/pc/global/images/itemicon/7b/7bf85ff916a27cc2b17a3cbe2c9509757a2ed3fd.png?n5.55",
-                    "Name": "Cork Brown Dye",
-                    "Amount": 3,
-                    "Url": "/lodestone/playguide/db/item/5250c837f57/"
-                },
-                {
-                    "Icon": "https://img.finalfantasyxiv.com/lds/pc/global/images/itemicon/7b/7bf85ff916a27cc2b17a3cbe2c9509757a2ed3fd.png?n5.55",
-                    "Name": "Acorn Brown Dye",
-                    "Amount": 3,
-                    "Url": "/lodestone/playguide/db/item/539e80ed6a0/"
-                },
-                {
-                    "Icon": "https://img.finalfantasyxiv.com/lds/pc/global/images/itemicon/7b/7bf85ff916a27cc2b17a3cbe2c9509757a2ed3fd.png?n5.55",
-                    "Name": "Shale Brown Dye",
-                    "Amount": 3,
-                    "Url": "/lodestone/playguide/db/item/1aae57e1629/"
-                },
-                {
-                    "Icon": "https://img.finalfantasyxiv.com/lds/pc/global/images/itemicon/ba/baa2341dd17414fae7fd62ae7bc62c64589b67be.png?n5.55",
-                    "Name": "Nightworld Silver Piece",
-                    "Amount": 2,
-                    "Url": "/lodestone/playguide/db/item/50ed823230e/"
-                }
-            ]
-        },
-        "Infos": {
-            "PrerequisiteQuest": [
-                {
-                    "Name": "Paradise Fallen",
-                    "Url": "/lodestone/playguide/db/quest/4a7c9693a5b/",
-                    "Area": "Eulmore",
-                    "Level": "77"
-                }
-            ],
-            "RelatedNPC": [
-                {
-                    "Name": "Carefree Boy",
-                    "Url": "/lodestone/playguide/db/npc/npc/8001a8f92e4/",
-                    "Area": "Eulmore (X:12.0 Y:13.2)"
-                },
-                {
-                    "Name": "Determined Boy",
-                    "Url": "/lodestone/playguide/db/npc/npc/8c62efd7832/",
-                    "Area": "Eulmore (X:13.2 Y:9.6)"
-                },
-                {
-                    "Name": "Nervous Girl",
-                    "Url": "/lodestone/playguide/db/npc/npc/9a0865f9e4b/",
-                    "Area": "Eulmore (X:13.0 Y:9.7)"
-                },
-                {
-                    "Name": "Quiet Girl",
-                    "Url": "/lodestone/playguide/db/npc/npc/5e360578813/",
-                    "Area": "Eulmore (X:8.9 Y:10.2)"
-                }
-            ]
-        },
-        "Seq": 6,
-        "oldID": 69058,
-        "Map": {
-            "ID": 498
-        },
-        "StartDependency": false
-    },
-    {
-        "ID": "a469e5e9ee9",
-        "Name": " One Good Meal",
-        "Location": "Eulmore",
-        "Level": 70,
-        "JournalSection": 3,
-        "JournalCategory": 51,
-        "JournalGenre": "Kholusian Sidequests",
-        "Url": "/lodestone/playguide/db/quest/a469e5e9ee9/",
-        "Image": null,
-        "Icon": "common_normal",
-        "Issuer": "Eulmoran Soldier",
-        "StartLocation": {
-            "Name": "Eulmore",
-            "X": "11.6",
-            "Y": "11.1"
-        },
-        "StartClass": null,
-        "Job": "",
-        "Company": "Not specified",
-        "Requirement": "Not specified",
-        "Rewards": {
-            "Gil": 606,
-            "Exp": null,
-            "ItemsMand": [
-                {
-                    "Icon": "https://img.finalfantasyxiv.com/lds/pc/global/images/itemicon/9b/9bcbc49a589a34378dcea2d9d2a4e6e8f28564f4.png?n5.55",
-                    "Name": "Ovim Cordon Bleu",
-                    "Amount": 2,
-                    "Url": "/lodestone/playguide/db/item/7e79001bf0c/"
-                }
-            ],
-            "ItemsOpt": []
-        },
-        "Infos": {
-            "PrerequisiteQuest": [
-                {
-                    "Name": "Paradise Fallen",
-                    "Url": "/lodestone/playguide/db/quest/4a7c9693a5b/",
-                    "Area": "Eulmore",
-                    "Level": "77"
-                }
-            ],
-            "RelatedNPC": [
-                {
-                    "Name": "Chaddric",
-                    "Url": "/lodestone/playguide/db/npc/npc/c35d6a9f2ab/",
-                    "Area": "Eulmore (X:11.1 Y:11.7)"
-                },
-                {
-                    "Name": "Moshei-Lea",
-                    "Url": "/lodestone/playguide/db/npc/npc/50db3c39273/",
-                    "Area": "Eulmore (X:12.8 Y:12.7)"
-                },
-                {
-                    "Name": "Tatcha-Roi",
-                    "Url": "/lodestone/playguide/db/npc/npc/ac859e4b51a/",
-                    "Area": "Eulmore (X:11.7 Y:11.8)"
-                }
-            ]
-        },
-        "Seq": 4,
-        "oldID": 69056,
-        "Map": {
-            "ID": 554
-        },
-        "StartDependency": false
-    },
-    {
-        "ID": "aea4e704ac6",
-        "Name": " All for the Boom",
-        "Location": "Kholusia",
-        "Level": 70,
-        "JournalSection": 3,
-        "JournalCategory": 51,
-        "JournalGenre": "Kholusian Sidequests",
-        "Url": "/lodestone/playguide/db/quest/aea4e704ac6/",
-        "Image": null,
-        "Icon": "common_normal",
-        "Issuer": "Giritt",
-        "StartLocation": {
-            "Name": "Kholusia",
-            "X": "14.3",
-            "Y": "7.7"
-        },
-        "StartClass": null,
-        "Job": "",
-        "Company": "Not specified",
-        "Requirement": "Not specified",
-        "Rewards": {
-            "Gil": 878,
-            "Exp": null,
-            "ItemsMand": [],
-            "ItemsOpt": []
-        },
-        "Infos": {
-            "PrerequisiteQuest": [
-                {
-                    "Name": "Meet the Tholls",
-                    "Url": "/lodestone/playguide/db/quest/990b7143c29/",
-                    "Area": "Kholusia",
-                    "Level": "78"
-                }
-            ]
-        },
-        "Seq": 42,
-        "oldID": 69085,
-        "Map": {
-            "ID": 492
-        },
-        "StartDependency": false
-    },
-    {
-        "ID": "b2f7063246e",
-        "Name": " A Disagreeable Dwarf",
-        "Location": "Kholusia",
-        "Level": 70,
-        "JournalSection": 3,
-        "JournalCategory": 51,
-        "JournalGenre": "Kholusian Sidequests",
-        "Url": "/lodestone/playguide/db/quest/b2f7063246e/",
-        "Image": "https://img.finalfantasyxiv.com/lds/pc/global/images/itemicon/69/695c53fffa9fab1f06edeedde081bbe2ceb48bca.png?n5.55",
+        "JournalGenre": "Hingan Sidequests",
+        "Url": "/lodestone/playguide/db/quest/7f595ac7692/",
+        "Image": "https://img.finalfantasyxiv.com/lds/pc/global/images/itemicon/be/be0d90719e30a96ef97bb5d79d111b9b6b2c69e5.png?n6.05",
         "Icon": "function_normal",
-        "Issuer": "Beott",
+        "Issuer": "Tsurubami",
         "StartLocation": {
-            "Name": "Kholusia",
-            "X": "12.4",
-            "Y": "9.2"
-        },
-        "StartClass": null,
-        "Job": "",
-        "Company": "Not specified",
-        "Requirement": "Not specified",
-        "Rewards": {
-            "Gil": 788,
-            "Exp": null,
-            "ItemsMand": [
-                {
-                    "Icon": "https://img.finalfantasyxiv.com/lds/pc/global/images/itemicon/af/af26e4b79fb1de83550f6ddbd3a170408fcfe702.png?n5.55",
-                    "Name": "",
-                    "Amount": null
-                }
-            ],
-            "ItemsOpt": []
-        },
-        "Infos": {
-            "PrerequisiteQuest": [
-                {
-                    "Name": "Meet the Tholls",
-                    "Url": "/lodestone/playguide/db/quest/990b7143c29/",
-                    "Area": "Kholusia",
-                    "Level": "78"
-                }
-            ],
-            "FollowupQuest": [
-                {
-                    "Name": " Almost a Friend",
-                    "Url": "/lodestone/playguide/db/quest/f2b8a40128e/",
-                    "Area": "Kholusia",
-                    "Level": "70"
-                }
-            ],
-            "RelatedNPC": [
-                {
-                    "Name": "Affable Townsdwarf",
-                    "Url": "/lodestone/playguide/db/npc/npc/213f787dad7/",
-                    "Area": "Kholusia (X:12.7 Y:8.6)"
-                },
-                {
-                    "Name": "Beott",
-                    "Url": "/lodestone/playguide/db/npc/npc/f1068717e0c/",
-                    "Area": "Kholusia (X:12.8 Y:7.9)"
-                },
-                {
-                    "Name": "Beott",
-                    "Url": "/lodestone/playguide/db/npc/npc/56e5ddae0da/",
-                    "Area": "Kholusia (X:13.5 Y:8.2)"
-                },
-                {
-                    "Name": "Ronitt",
-                    "Url": "/lodestone/playguide/db/npc/npc/dc274efa057/",
-                    "Area": "Kholusia (X:12.8 Y:7.9)"
-                },
-                {
-                    "Name": "Ronitt",
-                    "Url": "/lodestone/playguide/db/npc/npc/e7bb4a25bc4/",
-                    "Area": "Kholusia (X:13.5 Y:8.3)"
-                },
-                {
-                    "Name": "Timid Townsdwarf",
-                    "Url": "/lodestone/playguide/db/npc/npc/9b35c3135b8/",
-                    "Area": "Kholusia (X:11.6 Y:9.2)"
-                }
-            ]
-        },
-        "Seq": 52,
-        "oldID": 69092,
-        "Map": {
-            "ID": 492
-        },
-        "StartDependency": false
-    },
-    {
-        "ID": "b6eef18c8d1",
-        "Name": " Fresh Off the Wing",
-        "Location": "Kholusia",
-        "Level": 70,
-        "JournalSection": 3,
-        "JournalCategory": 51,
-        "JournalGenre": "Kholusian Sidequests",
-        "Url": "/lodestone/playguide/db/quest/b6eef18c8d1/",
-        "Image": null,
-        "Icon": "common_normal",
-        "Issuer": "Bie-Zumm",
-        "StartLocation": {
-            "Name": "Kholusia",
-            "X": "18.7",
-            "Y": "17.9"
-        },
-        "StartClass": null,
-        "Job": "",
-        "Company": "Not specified",
-        "Requirement": "Not specified",
-        "Rewards": {
-            "Gil": 606,
-            "Exp": null,
-            "ItemsMand": [],
-            "ItemsOpt": []
-        },
-        "Infos": {
-            "PrerequisiteQuest": [
-                {
-                    "Name": "Rich Veins of Hope",
-                    "Url": "/lodestone/playguide/db/quest/2abf0f50c3b/",
-                    "Area": "Kholusia",
-                    "Level": "78"
-                }
-            ]
-        },
-        "Seq": 35,
-        "oldID": 69078,
-        "Map": {
-            "ID": 492
-        },
-        "StartDependency": false
-    },
-    {
-        "ID": "bb93777736e",
-        "Name": " Distract and Rescue",
-        "Location": "Kholusia",
-        "Level": 70,
-        "JournalSection": 3,
-        "JournalCategory": 51,
-        "JournalGenre": "Kholusian Sidequests",
-        "Url": "/lodestone/playguide/db/quest/bb93777736e/",
-        "Image": null,
-        "Icon": "common_normal",
-        "Issuer": "Tholl Tinkerer",
-        "StartLocation": {
-            "Name": "Kholusia",
-            "X": "12.5",
-            "Y": "9.6"
-        },
-        "StartClass": null,
-        "Job": "",
-        "Company": "Not specified",
-        "Requirement": "Not specified",
-        "Rewards": {
-            "Gil": 951,
-            "Exp": null,
-            "ItemsMand": [],
-            "ItemsOpt": []
-        },
-        "Infos": {
-            "PrerequisiteQuest": [
-                {
-                    "Name": "Meet the Tholls",
-                    "Url": "/lodestone/playguide/db/quest/990b7143c29/",
-                    "Area": "Kholusia",
-                    "Level": "78"
-                }
-            ],
-            "RelatedNPC": [
-                {
-                    "Name": "Gogg Lookout",
-                    "Url": "/lodestone/playguide/db/npc/npc/f445b4d9354/",
-                    "Area": "Kholusia (X:34.6 Y:18.8)"
-                },
-                {
-                    "Name": "Gogg Lookout",
-                    "Url": "/lodestone/playguide/db/npc/npc/2524b5ce06e/",
-                    "Area": "Kholusia (X:34.1 Y:18.7)"
-                },
-                {
-                    "Name": "Tholl Tinkerer",
-                    "Url": "/lodestone/playguide/db/npc/npc/f49c39b0473/",
-                    "Area": "Kholusia (X:35.2 Y:20.2)"
-                }
-            ]
-        },
-        "Seq": 43,
-        "oldID": 69086,
-        "Map": {
-            "ID": 492
-        },
-        "StartDependency": false
-    },
-    {
-        "ID": "bdc684ef1cd",
-        "Name": " Retaking Territory",
-        "Location": "Kholusia",
-        "Level": 70,
-        "JournalSection": 3,
-        "JournalCategory": 51,
-        "JournalGenre": "Kholusian Sidequests",
-        "Url": "/lodestone/playguide/db/quest/bdc684ef1cd/",
-        "Image": null,
-        "Icon": "common_normal",
-        "Issuer": "Catty",
-        "StartLocation": {
-            "Name": "Kholusia",
-            "X": "34.5",
-            "Y": "27.0"
-        },
-        "StartClass": null,
-        "Job": "",
-        "Company": "Not specified",
-        "Requirement": "Not specified",
-        "Rewards": {
-            "Gil": 606,
-            "Exp": null,
-            "ItemsMand": [],
-            "ItemsOpt": []
-        },
-        "Infos": {
-            "PrerequisiteQuest": [
-                {
-                    "Name": "A Still Tide",
-                    "Url": "/lodestone/playguide/db/quest/242646ef15a/",
-                    "Area": "Kholusia",
-                    "Level": "70"
-                }
-            ]
-        },
-        "Seq": 15,
-        "oldID": 68886,
-        "Map": {
-            "ID": 492
-        },
-        "StartDependency": false
-    },
-    {
-        "ID": "be9787a582e",
-        "Name": " Short on Courage",
-        "Location": "Kholusia",
-        "Level": 70,
-        "JournalSection": 3,
-        "JournalCategory": 51,
-        "JournalGenre": "Kholusian Sidequests",
-        "Url": "/lodestone/playguide/db/quest/be9787a582e/",
-        "Image": null,
-        "Icon": "common_normal",
-        "Issuer": "Lovelorn Townsdwarf",
-        "StartLocation": {
-            "Name": "Kholusia",
-            "X": "12.3",
-            "Y": "9.3"
-        },
-        "StartClass": null,
-        "Job": "",
-        "Company": "Not specified",
-        "Requirement": "Not specified",
-        "Rewards": {
-            "Gil": 951,
-            "Exp": null,
-            "ItemsMand": [],
-            "ItemsOpt": []
-        },
-        "Infos": {
-            "PrerequisiteQuest": [
-                {
-                    "Name": "Meet the Tholls",
-                    "Url": "/lodestone/playguide/db/quest/990b7143c29/",
-                    "Area": "Kholusia",
-                    "Level": "78"
-                }
-            ],
-            "RelatedNPC": [
-                {
-                    "Name": "Hume Lady",
-                    "Url": "/lodestone/playguide/db/npc/npc/ccdd037cb28/",
-                    "Area": "Kholusia (X:28.6 Y:18.3)"
-                },
-                {
-                    "Name": "Lovelorn Townsdwarf",
-                    "Url": "/lodestone/playguide/db/npc/npc/7c0da3634b4/",
-                    "Area": "Kholusia (X:27.9 Y:17.8)"
-                }
-            ]
-        },
-        "Seq": 45,
-        "oldID": 69088,
-        "Map": {
-            "ID": 492
-        },
-        "StartDependency": false
-    },
-    {
-        "ID": "c7015c43d5b",
-        "Name": " You Know the Words",
-        "Location": "Kholusia",
-        "Level": 70,
-        "JournalSection": 3,
-        "JournalCategory": 51,
-        "JournalGenre": "Kholusian Sidequests",
-        "Url": "/lodestone/playguide/db/quest/c7015c43d5b/",
-        "Image": null,
-        "Icon": "common_normal",
-        "Issuer": "Xorutt",
-        "StartLocation": {
-            "Name": "Kholusia",
-            "X": "12.3",
-            "Y": "8.0"
-        },
-        "StartClass": null,
-        "Job": "",
-        "Company": "Not specified",
-        "Requirement": "Not specified",
-        "Rewards": {
-            "Gil": 752,
-            "Exp": null,
-            "ItemsMand": [
-                {
-                    "Icon": "https://img.finalfantasyxiv.com/lds/pc/global/images/itemicon/5f/5f81fc943503b956667de93751bb06886e8e752d.png?n5.55",
-                    "Name": "High Mythril Waist Gear Coffer",
-                    "Amount": 1,
-                    "Url": "/lodestone/playguide/db/item/f790ffc3200/"
-                }
-            ],
-            "ItemsOpt": []
-        },
-        "Infos": {
-            "PrerequisiteQuest": [
-                {
-                    "Name": " Bringing the Nibbles",
-                    "Url": "/lodestone/playguide/db/quest/2cc91b7f4a6/",
-                    "Area": "Kholusia",
-                    "Level": "70"
-                }
-            ],
-            "RelatedNPC": [
-                {
-                    "Name": "Bomott",
-                    "Url": "/lodestone/playguide/db/npc/npc/a6d18d1922d/",
-                    "Area": "Kholusia (X:11.7 Y:9.1)"
-                },
-                {
-                    "Name": "Gratt",
-                    "Url": "/lodestone/playguide/db/npc/npc/61dd683be14/",
-                    "Area": "Kholusia (X:12.8 Y:9.3)"
-                },
-                {
-                    "Name": "Magutt",
-                    "Url": "/lodestone/playguide/db/npc/npc/25f462878a9/",
-                    "Area": "Kholusia (X:12.0 Y:9.3)"
-                }
-            ]
-        },
-        "Seq": 51,
-        "oldID": 69099,
-        "Map": {
-            "ID": 492
-        },
-        "StartDependency": false
-    },
-    {
-        "ID": "c89bdf76a0b",
-        "Name": " Hobgob Smacker",
-        "Location": "Kholusia",
-        "Level": 70,
-        "JournalSection": 3,
-        "JournalCategory": 51,
-        "JournalGenre": "Kholusian Sidequests",
-        "Url": "/lodestone/playguide/db/quest/c89bdf76a0b/",
-        "Image": null,
-        "Icon": "common_normal",
-        "Issuer": "Grawley",
-        "StartLocation": {
-            "Name": "Kholusia",
-            "X": "18.8",
-            "Y": "17.2"
-        },
-        "StartClass": null,
-        "Job": "",
-        "Company": "Not specified",
-        "Requirement": "Not specified",
-        "Rewards": {
-            "Gil": 679,
-            "Exp": null,
-            "ItemsMand": [],
-            "ItemsOpt": []
-        },
-        "Infos": {
-            "PrerequisiteQuest": [
-                {
-                    "Name": "Rich Veins of Hope",
-                    "Url": "/lodestone/playguide/db/quest/2abf0f50c3b/",
-                    "Area": "Kholusia",
-                    "Level": "78"
-                },
-                {
-                    "Name": " Supplying Estimates",
-                    "Url": "/lodestone/playguide/db/quest/d6d7df5d7fe/",
-                    "Area": "Kholusia",
-                    "Level": "70"
-                }
-            ]
-        },
-        "Seq": 33,
-        "oldID": 69074,
-        "Map": {
-            "ID": 492
-        },
-        "StartDependency": false
-    },
-    {
-        "ID": "c8e4cf14ca6",
-        "Name": " Small Nuisances",
-        "Location": "Kholusia",
-        "Level": 70,
-        "JournalSection": 3,
-        "JournalCategory": 51,
-        "JournalGenre": "Kholusian Sidequests",
-        "Url": "/lodestone/playguide/db/quest/c8e4cf14ca6/",
-        "Image": null,
-        "Icon": "common_normal",
-        "Issuer": "Walmet",
-        "StartLocation": {
-            "Name": "Kholusia",
-            "X": "18.4",
-            "Y": "17.7"
-        },
-        "StartClass": null,
-        "Job": "",
-        "Company": "Not specified",
-        "Requirement": "Not specified",
-        "Rewards": {
-            "Gil": 898,
-            "Exp": null,
-            "ItemsMand": [],
-            "ItemsOpt": []
-        },
-        "Infos": {
-            "PrerequisiteQuest": [
-                {
-                    "Name": "Rich Veins of Hope",
-                    "Url": "/lodestone/playguide/db/quest/2abf0f50c3b/",
-                    "Area": "Kholusia",
-                    "Level": "78"
-                }
-            ],
-            "RelatedNPC": [
-                {
-                    "Name": "Missing Mystel",
-                    "Url": "/lodestone/playguide/db/npc/npc/29c2fa7c0f0/",
-                    "Area": "Kholusia (X:27.0 Y:16.0)"
-                },
-                {
-                    "Name": "Missing Mystel",
-                    "Url": "/lodestone/playguide/db/npc/npc/16c16d1cc31/",
-                    "Area": "Kholusia (X:18.1 Y:17.1)"
-                }
-            ]
-        },
-        "Seq": 38,
-        "oldID": 69075,
-        "Map": {
-            "ID": 492
-        },
-        "StartDependency": false
-    },
-    {
-        "ID": "c92fa6c1797",
-        "Name": " Of Legacies Lost and Reclaimed",
-        "Location": "Eulmore",
-        "Level": 70,
-        "JournalSection": 3,
-        "JournalCategory": 51,
-        "JournalGenre": "Kholusian Sidequests",
-        "Url": "/lodestone/playguide/db/quest/c92fa6c1797/",
-        "Image": null,
-        "Icon": "common_normal",
-        "Issuer": "Debonair Dame",
-        "StartLocation": {
-            "Name": "Eulmore",
-            "X": "11.1",
-            "Y": "12.1"
-        },
-        "StartClass": null,
-        "Job": "",
-        "Company": "Not specified",
-        "Requirement": "Not specified",
-        "Rewards": {
-            "Gil": 606,
-            "Exp": null,
-            "ItemsMand": [],
-            "ItemsOpt": []
-        },
-        "Infos": {
-            "PrerequisiteQuest": [
-                {
-                    "Name": "Paradise Fallen",
-                    "Url": "/lodestone/playguide/db/quest/4a7c9693a5b/",
-                    "Area": "Eulmore",
-                    "Level": "77"
-                }
-            ]
-        },
-        "Seq": 8,
-        "oldID": 69060,
-        "Map": {
-            "ID": 498
-        },
-        "StartDependency": false
-    },
-    {
-        "ID": "cc708215b7a",
-        "Name": "Yet Another Striking Opportunity",
-        "Location": "Eulmore",
-        "Level": 80,
-        "JournalSection": 3,
-        "JournalCategory": 51,
-        "JournalGenre": "Kholusian Sidequests",
-        "Url": "/lodestone/playguide/db/quest/cc708215b7a/",
-        "Image": null,
-        "Icon": "function_normal",
-        "Issuer": "Weary Dockworker",
-        "StartLocation": {
-            "Name": "Eulmore",
-            "X": "9.2",
+            "Name": "Kugane",
+            "X": "12.0",
             "Y": "9.9"
         },
         "StartClass": null,
@@ -2664,7 +586,494 @@
         "Company": "Not specified",
         "Requirement": "Not specified",
         "Rewards": {
-            "Gil": 575,
+            "Gil": 490,
+            "Exp": 25250,
+            "ItemsMand": [],
+            "ItemsOpt": []
+        },
+        "Infos": {
+            "PrerequisiteQuest": [
+                {
+                    "Name": "By the Grace of Lord Lolorito",
+                    "Url": "/lodestone/playguide/db/quest/0f50e760a84/",
+                    "Area": "Kugane",
+                    "Level": "61"
+                }
+            ],
+            "RelatedNPC": [
+                {
+                    "Name": "Bugyosho Official",
+                    "Url": "/lodestone/playguide/db/npc/npc/cf8e3fa2bc1/",
+                    "Area": "Kugane (X:8.9 Y:10.4)"
+                },
+                {
+                    "Name": "District Official",
+                    "Url": "/lodestone/playguide/db/npc/npc/a2564854de6/",
+                    "Area": "Shirogane (X:9.2 Y:13.5)"
+                }
+            ]
+        },
+        "Seq": 2,
+        "StartDependency": false
+    },
+    {
+        "ID": "88e5b16cfd9",
+        "Name": "A Picture Is Worth a Thousand Moms",
+        "Location": "Kugane",
+        "Level": 61,
+        "JournalSection": 3,
+        "JournalCategory": 51,
+        "JournalGenre": "Hingan Sidequests",
+        "Url": "/lodestone/playguide/db/quest/88e5b16cfd9/",
+        "Image": null,
+        "Icon": "common_normal",
+        "Issuer": "Foreignly Lass",
+        "StartLocation": {
+            "Name": "Kugane",
+            "X": "11.7",
+            "Y": "14.4"
+        },
+        "StartClass": null,
+        "Job": "",
+        "Company": "Not specified",
+        "Requirement": "Not specified",
+        "Rewards": {
+            "Gil": 556,
+            "Exp": 25250,
+            "ItemsMand": [],
+            "ItemsOpt": []
+        },
+        "Infos": {
+            "PrerequisiteQuest": [
+                {
+                    "Name": "By the Grace of Lord Lolorito",
+                    "Url": "/lodestone/playguide/db/quest/0f50e760a84/",
+                    "Area": "Kugane",
+                    "Level": "61"
+                }
+            ]
+        },
+        "Seq": 6,
+        "StartDependency": false
+    },
+    {
+        "ID": "8c5cc6fdbc6",
+        "Name": "A Drink in the Tub",
+        "Location": "Kugane",
+        "Level": 61,
+        "JournalSection": 3,
+        "JournalCategory": 51,
+        "JournalGenre": "Hingan Sidequests",
+        "Url": "/lodestone/playguide/db/quest/8c5cc6fdbc6/",
+        "Image": null,
+        "Icon": "common_normal",
+        "Issuer": "Amaji",
+        "StartLocation": {
+            "Name": "Kugane",
+            "X": "9.3",
+            "Y": "8.2"
+        },
+        "StartClass": null,
+        "Job": "",
+        "Company": "Not specified",
+        "Requirement": "Not specified",
+        "Rewards": {
+            "Gil": 688,
+            "Exp": 25250,
+            "ItemsMand": [],
+            "ItemsOpt": []
+        },
+        "Infos": {
+            "PrerequisiteQuest": [
+                {
+                    "Name": "By the Grace of Lord Lolorito",
+                    "Url": "/lodestone/playguide/db/quest/0f50e760a84/",
+                    "Area": "Kugane",
+                    "Level": "61"
+                }
+            ],
+            "RelatedNPC": [
+                {
+                    "Name": "Kotokaze",
+                    "Url": "/lodestone/playguide/db/npc/npc/35da909f940/",
+                    "Area": "Kugane (X:10.2 Y:10.2)"
+                }
+            ]
+        },
+        "Seq": 4,
+        "StartDependency": false
+    },
+    {
+        "ID": "963e4e09410",
+        "Name": "To Bathe a Garlean",
+        "Location": "Kugane",
+        "Level": 61,
+        "JournalSection": 3,
+        "JournalCategory": 51,
+        "JournalGenre": "Hingan Sidequests",
+        "Url": "/lodestone/playguide/db/quest/963e4e09410/",
+        "Image": null,
+        "Icon": "common_normal",
+        "Issuer": "Peddler Of Peculiars",
+        "StartLocation": {
+            "Name": "Kugane",
+            "X": "11.3",
+            "Y": "11.7"
+        },
+        "StartClass": null,
+        "Job": "",
+        "Company": "Not specified",
+        "Requirement": "Not specified",
+        "Rewards": {
+            "Gil": 622,
+            "Exp": 25250,
+            "ItemsMand": [],
+            "ItemsOpt": []
+        },
+        "Infos": {
+            "PrerequisiteQuest": [
+                {
+                    "Name": "Making the Catfish Sing",
+                    "Url": "/lodestone/playguide/db/quest/10725d545dd/",
+                    "Area": "Kugane",
+                    "Level": "61"
+                }
+            ],
+            "RelatedNPC": [
+                {
+                    "Name": "Consulate Guard",
+                    "Url": "/lodestone/playguide/db/npc/npc/6c45104e569/",
+                    "Area": "Kugane (X:12.9 Y:14.3)"
+                }
+            ]
+        },
+        "Seq": 10,
+        "StartDependency": false
+    },
+    {
+        "ID": "ab400332bfd",
+        "Name": "Where the Wild Pandas Are",
+        "Location": "Kugane",
+        "Level": 61,
+        "JournalSection": 3,
+        "JournalCategory": 51,
+        "JournalGenre": "Hingan Sidequests",
+        "Url": "/lodestone/playguide/db/quest/ab400332bfd/",
+        "Image": null,
+        "Icon": "common_normal",
+        "Issuer": "Graceful Geiko",
+        "StartLocation": {
+            "Name": "Kugane",
+            "X": "11.8",
+            "Y": "9.1"
+        },
+        "StartClass": null,
+        "Job": "",
+        "Company": "Not specified",
+        "Requirement": "Not specified",
+        "Rewards": {
+            "Gil": 556,
+            "Exp": 25250,
+            "ItemsMand": [],
+            "ItemsOpt": []
+        },
+        "Infos": {
+            "PrerequisiteQuest": [
+                {
+                    "Name": "Making the Catfish Sing",
+                    "Url": "/lodestone/playguide/db/quest/10725d545dd/",
+                    "Area": "Kugane",
+                    "Level": "61"
+                }
+            ],
+            "RelatedNPC": [
+                {
+                    "Name": "Red Panda Cub",
+                    "Url": "/lodestone/playguide/db/npc/npc/7375a07ecb5/",
+                    "Area": "Kugane (X:10.1 Y:8.8)"
+                },
+                {
+                    "Name": "Red Panda Cub",
+                    "Url": "/lodestone/playguide/db/npc/npc/06f5d580bfd/",
+                    "Area": "Kugane (X:10.1 Y:12.5)"
+                }
+            ]
+        },
+        "Seq": 8,
+        "StartDependency": false
+    },
+    {
+        "ID": "e5f438b25c1",
+        "Name": "The Seaweed Is Always Greener",
+        "Location": "Kugane",
+        "Level": 62,
+        "JournalSection": 3,
+        "JournalCategory": 51,
+        "JournalGenre": "Hingan Sidequests",
+        "Url": "/lodestone/playguide/db/quest/e5f438b25c1/",
+        "Image": null,
+        "Icon": "function_normal",
+        "Issuer": "Kojin Hireling",
+        "StartLocation": {
+            "Name": "Kugane",
+            "X": "10.1",
+            "Y": "9.9"
+        },
+        "StartClass": null,
+        "Job": "",
+        "Company": "Not specified",
+        "Requirement": "Not specified",
+        "Rewards": {
+            "Gil": 0,
+            "Exp": 25500,
+            "ItemsMand": [
+                {
+                    "Icon": "https://img.finalfantasyxiv.com/lds/pc/global/images/itemicon/80/807946239db549d533cf672d2c02bd4dd74478cd.png?n6.05",
+                    "Name": "Beet Soup",
+                    "Amount": 1,
+                    "Url": "/lodestone/playguide/db/item/c22fc7acb1d/"
+                },
+                {
+                    "Icon": "https://img.finalfantasyxiv.com/lds/pc/global/images/itemicon/a4/a4106733d7c4bf400522e27ba51bff1cedc29cf5.png?n6.05",
+                    "Name": "Dhalmel Gratin",
+                    "Amount": 1,
+                    "Url": "/lodestone/playguide/db/item/aef2d96dc79/"
+                }
+            ],
+            "ItemsOpt": []
+        },
+        "Infos": {
+            "PrerequisiteQuest": [
+                {
+                    "Name": "None Forgotten, None Forsaken",
+                    "Url": "/lodestone/playguide/db/quest/6457ffd5f62/",
+                    "Area": "Rhalgr's Reach",
+                    "Level": "60"
+                },
+                {
+                    "Name": "The Two Princesses of Sui-no-Sato",
+                    "Url": "/lodestone/playguide/db/quest/55bae26f56e/",
+                    "Area": "The Ruby Sea",
+                    "Level": "63"
+                }
+            ],
+            "FollowupQuest": [
+                {
+                    "Name": "Up Where They Trade All Day in the Sun",
+                    "Url": "/lodestone/playguide/db/quest/eee969895c2/",
+                    "Area": "The Ruby Sea",
+                    "Level": "62"
+                }
+            ],
+            "RelatedNPC": [
+                {
+                    "Name": "Kurenai",
+                    "Url": "/lodestone/playguide/db/npc/npc/71364a33147/",
+                    "Area": "The Ruby Sea (X:28.3 Y:15.3)"
+                },
+                {
+                    "Name": "Sanana",
+                    "Url": "/lodestone/playguide/db/npc/npc/d336409d7ab/",
+                    "Area": "The Ruby Sea (X:28.3 Y:15.3)"
+                }
+            ]
+        },
+        "Seq": 1,
+        "StartDependency": false
+    },
+    {
+        "ID": "eba740d39bb",
+        "Name": "Two-star Veteran Clan Hunt",
+        "Location": "Kugane",
+        "Level": 63,
+        "JournalSection": 3,
+        "JournalCategory": 51,
+        "JournalGenre": "Hingan Sidequests",
+        "Url": "/lodestone/playguide/db/quest/eba740d39bb/",
+        "Image": null,
+        "Icon": "function_normal",
+        "Issuer": "Estrild",
+        "StartLocation": {
+            "Name": "Kugane",
+            "X": "10.3",
+            "Y": "10.2"
+        },
+        "StartClass": null,
+        "Job": "",
+        "Company": "Not specified",
+        "Requirement": "Not specified",
+        "Rewards": {
+            "Gil": 500,
+            "Exp": 25750,
+            "ItemsMand": [],
+            "ItemsOpt": []
+        },
+        "Infos": {
+            "PrerequisiteQuest": [
+                {
+                    "Name": "One-star Veteran Clan Hunt",
+                    "Url": "/lodestone/playguide/db/quest/f0a91b02e0b/",
+                    "Area": "Kugane",
+                    "Level": "61"
+                }
+            ],
+            "FollowupQuest": [
+                {
+                    "Name": "Three-star Veteran Clan Hunt",
+                    "Url": "/lodestone/playguide/db/quest/599921f1c53/",
+                    "Area": "Kugane",
+                    "Level": "66"
+                }
+            ],
+            "RelatedNPC": [
+                {
+                    "Name": "Wlveva",
+                    "Url": "/lodestone/playguide/db/npc/npc/70c42523340/",
+                    "Area": "Kugane (X:10.6 Y:10.3)"
+                }
+            ]
+        },
+        "Seq": 16,
+        "StartDependency": false
+    },
+    {
+        "ID": "eea8e5230e6",
+        "Name": "A Lone Wolf No More",
+        "Location": "Kugane",
+        "Level": 1,
+        "JournalSection": 3,
+        "JournalCategory": 51,
+        "JournalGenre": "Hingan Sidequests",
+        "Url": "/lodestone/playguide/db/quest/eea8e5230e6/",
+        "Image": null,
+        "Icon": "common_normal",
+        "Issuer": "News Hawker",
+        "StartLocation": {
+            "Name": "Kugane",
+            "X": "11.6",
+            "Y": "9.9"
+        },
+        "StartClass": null,
+        "Job": "",
+        "Company": "Not specified",
+        "Requirement": "Not specified",
+        "Rewards": {
+            "Gil": 552,
+            "Exp": 0,
+            "ItemsMand": [
+                {
+                    "Icon": "https://img.finalfantasyxiv.com/lds/pc/global/images/itemicon/d3/d36597ea1c4fa075299be3ebc297ce99fdc624c0.png?n6.05",
+                    "Name": "Fabled Kamuy Fife",
+                    "Amount": 1,
+                    "Url": "/lodestone/playguide/db/item/5c4d748b418/"
+                }
+            ],
+            "ItemsOpt": []
+        },
+        "Infos": {
+            "RelatedNPC": [
+                {
+                    "Name": "Wandering Minstrel",
+                    "Url": "/lodestone/playguide/db/npc/npc/0517719c175/",
+                    "Area": "Yanxia (X:30.6 Y:20.2)"
+                }
+            ],
+            "RelatedAchievements": [
+                {
+                    "Name": "Flute of the Plume",
+                    "Url": "/lodestone/playguide/db/achievement/a276c20f7e1/",
+                    "Reward": "Title",
+                    "Points": "20"
+                }
+            ]
+        },
+        "Seq": 17,
+        "StartDependency": false
+    },
+    {
+        "ID": "f0a91b02e0b",
+        "Name": "One-star Veteran Clan Hunt",
+        "Location": "Kugane",
+        "Level": 61,
+        "JournalSection": 3,
+        "JournalCategory": 51,
+        "JournalGenre": "Hingan Sidequests",
+        "Url": "/lodestone/playguide/db/quest/f0a91b02e0b/",
+        "Image": null,
+        "Icon": "function_normal",
+        "Issuer": "Estrild",
+        "StartLocation": {
+            "Name": "Kugane",
+            "X": "10.3",
+            "Y": "10.2"
+        },
+        "StartClass": null,
+        "Job": "",
+        "Company": "Not specified",
+        "Requirement": "Not specified",
+        "Rewards": {
+            "Gil": 490,
+            "Exp": 25250,
+            "ItemsMand": [],
+            "ItemsOpt": []
+        },
+        "Infos": {
+            "PrerequisiteQuest": [
+                {
+                    "Name": "By the Grace of Lord Lolorito",
+                    "Url": "/lodestone/playguide/db/quest/0f50e760a84/",
+                    "Area": "Kugane",
+                    "Level": "61"
+                },
+                {
+                    "Name": "Elite and Dangerous",
+                    "Url": "/lodestone/playguide/db/quest/a5faad05086/",
+                    "Area": "Ishgard",
+                    "Level": "60"
+                }
+            ],
+            "FollowupQuest": [
+                {
+                    "Name": "Two-star Veteran Clan Hunt",
+                    "Url": "/lodestone/playguide/db/quest/eba740d39bb/",
+                    "Area": "Kugane",
+                    "Level": "63"
+                }
+            ],
+            "RelatedNPC": [
+                {
+                    "Name": "Wlveva",
+                    "Url": "/lodestone/playguide/db/npc/npc/70c42523340/",
+                    "Area": "Kugane (X:10.6 Y:10.3)"
+                }
+            ]
+        },
+        "Seq": 15,
+        "StartDependency": false
+    },
+    {
+        "ID": "f704d1dfcc8",
+        "Name": "Elite Veteran Clan Hunt",
+        "Location": "Kugane",
+        "Level": 70,
+        "JournalSection": 3,
+        "JournalCategory": 51,
+        "JournalGenre": "Hingan Sidequests",
+        "Url": "/lodestone/playguide/db/quest/f704d1dfcc8/",
+        "Image": null,
+        "Icon": "function_normal",
+        "Issuer": "Estrild",
+        "StartLocation": {
+            "Name": "Kugane",
+            "X": "10.3",
+            "Y": "10.2"
+        },
+        "StartClass": null,
+        "Job": "",
+        "Company": "Not specified",
+        "Requirement": "Not specified",
+        "Rewards": {
+            "Gil": 533,
             "Exp": 0,
             "ItemsMand": [],
             "ItemsOpt": []
@@ -2672,823 +1081,21 @@
         "Infos": {
             "PrerequisiteQuest": [
                 {
-                    "Name": "Shadowbringers",
-                    "Url": "/lodestone/playguide/db/quest/4ed1668d377/",
-                    "Area": "The Tempest",
-                    "Level": "80"
-                },
-                {
-                    "Name": "A Striking Opportunity",
-                    "Url": "/lodestone/playguide/db/quest/2de8032fec8/",
-                    "Area": "Idyllshire",
-                    "Level": "60"
+                    "Name": "Three-star Veteran Clan Hunt",
+                    "Url": "/lodestone/playguide/db/quest/599921f1c53/",
+                    "Area": "Kugane",
+                    "Level": "66"
                 }
             ],
             "RelatedNPC": [
                 {
-                    "Name": "Soft-faced Bloke",
-                    "Url": "/lodestone/playguide/db/npc/npc/c34b6e456e0/",
-                    "Area": "Kholusia (X:23.8 Y:37.8)"
-                }
-            ]
-        },
-        "Seq": 12,
-        "oldID": 69137,
-        "Map": {
-            "ID": 498
-        },
-        "StartDependency": false
-    },
-    {
-        "ID": "d6d7df5d7fe",
-        "Name": " Supplying Estimates",
-        "Location": "Kholusia",
-        "Level": 70,
-        "JournalSection": 3,
-        "JournalCategory": 51,
-        "JournalGenre": "Kholusian Sidequests",
-        "Url": "/lodestone/playguide/db/quest/d6d7df5d7fe/",
-        "Image": null,
-        "Icon": "common_normal",
-        "Issuer": "Grawley",
-        "StartLocation": {
-            "Name": "Kholusia",
-            "X": "18.8",
-            "Y": "17.2"
-        },
-        "StartClass": null,
-        "Job": "",
-        "Company": "Not specified",
-        "Requirement": "Not specified",
-        "Rewards": {
-            "Gil": 606,
-            "Exp": null,
-            "ItemsMand": [
-                {
-                    "Icon": "https://img.finalfantasyxiv.com/lds/pc/global/images/itemicon/eb/ebc8443481fca469078390f584be615f9b156b9c.png?n5.55",
-                    "Name": "High Mythril Head Gear Coffer",
-                    "Amount": 1,
-                    "Url": "/lodestone/playguide/db/item/e5466929b8f/"
-                }
-            ],
-            "ItemsOpt": []
-        },
-        "Infos": {
-            "PrerequisiteQuest": [
-                {
-                    "Name": "The View from Above",
-                    "Url": "/lodestone/playguide/db/quest/5e2dd21bce7/",
-                    "Area": "Kholusia",
-                    "Level": "78"
-                }
-            ],
-            "FollowupQuest": [
-                {
-                    "Name": " Hobgob Smacker",
-                    "Url": "/lodestone/playguide/db/quest/c89bdf76a0b/",
-                    "Area": "Kholusia",
-                    "Level": "70"
-                }
-            ],
-            "RelatedNPC": [
-                {
-                    "Name": "Grainkeeper",
-                    "Url": "/lodestone/playguide/db/npc/npc/75870610f3b/",
-                    "Area": "Kholusia (X:19.3 Y:17.6)"
-                },
-                {
-                    "Name": "Walmet",
-                    "Url": "/lodestone/playguide/db/npc/npc/b6fe19dae14/",
-                    "Area": "Kholusia (X:18.4 Y:17.7)"
-                },
-                {
-                    "Name": "Zumie-Shai",
-                    "Url": "/lodestone/playguide/db/npc/npc/d1a8c796881/",
-                    "Area": "Kholusia (X:18.9 Y:17.8)"
-                }
-            ]
-        },
-        "Seq": 32,
-        "oldID": 69079,
-        "Map": {
-            "ID": 492
-        },
-        "StartDependency": false
-    },
-    {
-        "ID": "d7ee2dc63ed",
-        "Name": " Village of Woe",
-        "Location": "Kholusia",
-        "Level": 70,
-        "JournalSection": 3,
-        "JournalCategory": 51,
-        "JournalGenre": "Kholusian Sidequests",
-        "Url": "/lodestone/playguide/db/quest/d7ee2dc63ed/",
-        "Image": "https://img.finalfantasyxiv.com/lds/pc/global/images/itemicon/be/be2f61de6ae3aa054d38aa1adc85483dbbc1c3ff.png?n5.55",
-        "Icon": "function_normal",
-        "Issuer": "Eueliss",
-        "StartLocation": {
-            "Name": "Kholusia",
-            "X": "15.3",
-            "Y": "28.6"
-        },
-        "StartClass": null,
-        "Job": "",
-        "Company": "Not specified",
-        "Requirement": "Not specified",
-        "Rewards": {
-            "Gil": 861,
-            "Exp": null,
-            "ItemsMand": [
-                {
-                    "Icon": "https://img.finalfantasyxiv.com/lds/pc/global/images/itemicon/af/af26e4b79fb1de83550f6ddbd3a170408fcfe702.png?n5.55",
-                    "Name": "",
-                    "Amount": null
-                }
-            ],
-            "ItemsOpt": []
-        },
-        "Infos": {
-            "PrerequisiteQuest": [
-                {
-                    "Name": "A Fickle Existence",
-                    "Url": "/lodestone/playguide/db/quest/bb3b302a0ee/",
-                    "Area": "Kholusia",
-                    "Level": "70"
-                }
-            ],
-            "FollowupQuest": [
-                {
-                    "Name": " Talos, Interrupted",
-                    "Url": "/lodestone/playguide/db/quest/df3927bb2c6/",
-                    "Area": "Kholusia",
-                    "Level": "70"
-                }
-            ],
-            "RelatedNPC": [
-                {
-                    "Name": "Eueliss",
-                    "Url": "/lodestone/playguide/db/npc/npc/664ea8d9657/",
-                    "Area": "Kholusia (X:16.9 Y:27.4)"
-                },
-                {
-                    "Name": "Eueliss",
-                    "Url": "/lodestone/playguide/db/npc/npc/2296dba28a5/",
-                    "Area": "Kholusia (X:15.7 Y:25.5)"
-                },
-                {
-                    "Name": "Eueliss",
-                    "Url": "/lodestone/playguide/db/npc/npc/b8316207415/",
-                    "Area": "Kholusia (X:15.1 Y:28.4)"
-                },
-                {
-                    "Name": "Sai-Lewq",
-                    "Url": "/lodestone/playguide/db/npc/npc/1cb312f7988/",
-                    "Area": "Kholusia (X:15.7 Y:25.5)"
-                },
-                {
-                    "Name": "Vibrant Villager",
-                    "Url": "/lodestone/playguide/db/npc/npc/de5e281cb7a/",
-                    "Area": "Kholusia (X:15.1 Y:28.4)"
-                }
-            ]
-        },
-        "Seq": 25,
-        "oldID": 68907,
-        "Map": {
-            "ID": 492
-        },
-        "StartDependency": false
-    },
-    {
-        "ID": "df3927bb2c6",
-        "Name": " Talos, Interrupted",
-        "Location": "Kholusia",
-        "Level": 70,
-        "JournalSection": 3,
-        "JournalCategory": 51,
-        "JournalGenre": "Kholusian Sidequests",
-        "Url": "/lodestone/playguide/db/quest/df3927bb2c6/",
-        "Image": "https://img.finalfantasyxiv.com/lds/pc/global/images/itemicon/be/be2f61de6ae3aa054d38aa1adc85483dbbc1c3ff.png?n5.55",
-        "Icon": "function_normal",
-        "Issuer": "Eueliss",
-        "StartLocation": {
-            "Name": "Kholusia",
-            "X": "15.7",
-            "Y": "25.5"
-        },
-        "StartClass": null,
-        "Job": "",
-        "Company": "Not specified",
-        "Requirement": "Not specified",
-        "Rewards": {
-            "Gil": 715,
-            "Exp": null,
-            "ItemsMand": [],
-            "ItemsOpt": []
-        },
-        "Infos": {
-            "PrerequisiteQuest": [
-                {
-                    "Name": " Village of Woe",
-                    "Url": "/lodestone/playguide/db/quest/d7ee2dc63ed/",
-                    "Area": "Kholusia",
-                    "Level": "70"
-                }
-            ],
-            "FollowupQuest": [
-                {
-                    "Name": " The Cape in Bloom",
-                    "Url": "/lodestone/playguide/db/quest/548c6790d4f/",
-                    "Area": "Kholusia",
-                    "Level": "70"
-                }
-            ],
-            "RelatedNPC": [
-                {
-                    "Name": "Eueliss",
-                    "Url": "/lodestone/playguide/db/npc/npc/3ca6f95c6a7/",
-                    "Area": "Kholusia (X:11.9 Y:28.2)"
-                },
-                {
-                    "Name": "Sai-Lewq",
-                    "Url": "/lodestone/playguide/db/npc/npc/1cb312f7988/",
-                    "Area": "Kholusia (X:15.7 Y:25.5)"
-                }
-            ]
-        },
-        "Seq": 26,
-        "oldID": 68908,
-        "Map": {
-            "ID": 492
-        },
-        "StartDependency": false
-    },
-    {
-        "ID": "e08cc96fd81",
-        "Name": " Little and Late",
-        "Location": "Eulmore",
-        "Level": 70,
-        "JournalSection": 3,
-        "JournalCategory": 51,
-        "JournalGenre": "Kholusian Sidequests",
-        "Url": "/lodestone/playguide/db/quest/e08cc96fd81/",
-        "Image": null,
-        "Icon": "common_normal",
-        "Issuer": "Forlorn Free Citizen",
-        "StartLocation": {
-            "Name": "Eulmore",
-            "X": "11.1",
-            "Y": "10.6"
-        },
-        "StartClass": null,
-        "Job": "",
-        "Company": "Not specified",
-        "Requirement": "Not specified",
-        "Rewards": {
-            "Gil": 606,
-            "Exp": null,
-            "ItemsMand": [],
-            "ItemsOpt": []
-        },
-        "Infos": {
-            "PrerequisiteQuest": [
-                {
-                    "Name": "Paradise Fallen",
-                    "Url": "/lodestone/playguide/db/quest/4a7c9693a5b/",
-                    "Area": "Eulmore",
-                    "Level": "77"
-                }
-            ],
-            "RelatedNPC": [
-                {
-                    "Name": "Long-haired Hume",
-                    "Url": "/lodestone/playguide/db/npc/npc/fc570f837f9/",
-                    "Area": "Eulmore (X:12.5 Y:11.9)"
-                },
-                {
-                    "Name": "Mystel Manservant",
-                    "Url": "/lodestone/playguide/db/npc/npc/6464e851c64/",
-                    "Area": "Eulmore (X:12.0 Y:12.7)"
-                },
-                {
-                    "Name": "Would-be Bodyguard",
-                    "Url": "/lodestone/playguide/db/npc/npc/72b10d15eef/",
-                    "Area": "Eulmore (X:12.4 Y:8.3)"
-                }
-            ]
-        },
-        "Seq": 5,
-        "oldID": 69057,
-        "Map": {
-            "ID": 498
-        },
-        "StartDependency": false
-    },
-    {
-        "ID": "e584996c909",
-        "Name": " Before the Tide Comes",
-        "Location": "Kholusia",
-        "Level": 70,
-        "JournalSection": 3,
-        "JournalCategory": 51,
-        "JournalGenre": "Kholusian Sidequests",
-        "Url": "/lodestone/playguide/db/quest/e584996c909/",
-        "Image": null,
-        "Icon": "common_normal",
-        "Issuer": "Forlorn Fisherman",
-        "StartLocation": {
-            "Name": "Kholusia",
-            "X": "34.5",
-            "Y": "27.9"
-        },
-        "StartClass": null,
-        "Job": "",
-        "Company": "Not specified",
-        "Requirement": "Not specified",
-        "Rewards": {
-            "Gil": 606,
-            "Exp": null,
-            "ItemsMand": [],
-            "ItemsOpt": []
-        },
-        "Infos": {
-            "PrerequisiteQuest": [
-                {
-                    "Name": "A Still Tide",
-                    "Url": "/lodestone/playguide/db/quest/242646ef15a/",
-                    "Area": "Kholusia",
-                    "Level": "70"
-                }
-            ]
-        },
-        "Seq": 14,
-        "oldID": 68885,
-        "Map": {
-            "ID": 492
-        },
-        "StartDependency": false
-    },
-    {
-        "ID": "ee84d3369a9",
-        "Name": " Near, Far, Wherever You Are",
-        "Location": "Eulmore",
-        "Level": 70,
-        "JournalSection": 3,
-        "JournalCategory": 51,
-        "JournalGenre": "Kholusian Sidequests",
-        "Url": "/lodestone/playguide/db/quest/ee84d3369a9/",
-        "Image": null,
-        "Icon": "common_normal",
-        "Issuer": "Solina",
-        "StartLocation": {
-            "Name": "Eulmore",
-            "X": "12.5",
-            "Y": "14.1"
-        },
-        "StartClass": null,
-        "Job": "",
-        "Company": "Not specified",
-        "Requirement": "Not specified",
-        "Rewards": {
-            "Gil": 1035,
-            "Exp": null,
-            "ItemsMand": [],
-            "ItemsOpt": []
-        },
-        "Infos": {
-            "PrerequisiteQuest": [
-                {
-                    "Name": " My Heart Will (Not) Go On",
-                    "Url": "/lodestone/playguide/db/quest/94c982bf205/",
-                    "Area": "Eulmore",
-                    "Level": "70"
-                }
-            ],
-            "RelatedNPC": [
-                {
-                    "Name": "Silky-haired Elf",
-                    "Url": "/lodestone/playguide/db/npc/npc/5e72a2aae4e/",
-                    "Area": "Eulmore (X:10.9 Y:8.7)"
-                },
-                {
-                    "Name": "Solina",
-                    "Url": "/lodestone/playguide/db/npc/npc/7a9380faa74/",
-                    "Area": "Eulmore (X:10.9 Y:8.7)"
-                },
-                {
-                    "Name": "Kind-faced Elf",
-                    "Url": "/lodestone/playguide/db/npc/npc/64eb46f800a/",
-                    "Area": "Kholusia (X:35.0 Y:26.7)"
-                },
-                {
-                    "Name": "Silky-haired Elf",
-                    "Url": "/lodestone/playguide/db/npc/npc/f3b7f9a86fe/",
-                    "Area": "Kholusia (X:29.0 Y:33.4)"
-                },
-                {
-                    "Name": "Youthful Elf",
-                    "Url": "/lodestone/playguide/db/npc/npc/28bc8887008/",
-                    "Area": "Kholusia (X:24.0 Y:34.3)"
-                }
-            ]
-        },
-        "Seq": 1,
-        "oldID": 69053,
-        "Map": {
-            "ID": 498
-        },
-        "StartDependency": false
-    },
-    {
-        "ID": "f00704ec618",
-        "Name": " A Plankless Task",
-        "Location": "Kholusia",
-        "Level": 70,
-        "JournalSection": 3,
-        "JournalCategory": 51,
-        "JournalGenre": "Kholusian Sidequests",
-        "Url": "/lodestone/playguide/db/quest/f00704ec618/",
-        "Image": null,
-        "Icon": "function_normal",
-        "Issuer": "Thenoise",
-        "StartLocation": {
-            "Name": "Kholusia",
-            "X": "15.2",
-            "Y": "29.5"
-        },
-        "StartClass": null,
-        "Job": "",
-        "Company": "Not specified",
-        "Requirement": "Not specified",
-        "Rewards": {
-            "Gil": 916,
-            "Exp": null,
-            "ItemsMand": [
-                {
-                    "Icon": "https://img.finalfantasyxiv.com/lds/pc/global/images/itemicon/af/af26e4b79fb1de83550f6ddbd3a170408fcfe702.png?n5.55",
-                    "Name": "",
-                    "Amount": null
-                }
-            ],
-            "ItemsOpt": []
-        },
-        "Infos": {
-            "PrerequisiteQuest": [
-                {
-                    "Name": "A Fickle Existence",
-                    "Url": "/lodestone/playguide/db/quest/bb3b302a0ee/",
-                    "Area": "Kholusia",
-                    "Level": "70"
-                }
-            ],
-            "RelatedNPC": [
-                {
-                    "Name": "Well-built Woodworker",
-                    "Url": "/lodestone/playguide/db/npc/npc/51d6a0b920e/",
-                    "Area": "Kholusia (X:12.5 Y:32.2)"
-                }
-            ]
-        },
-        "Seq": 29,
-        "oldID": 68896,
-        "Map": {
-            "ID": 492
-        },
-        "StartDependency": false
-    },
-    {
-        "ID": "f0d71160c46",
-        "Name": " Goggeo and Tholliet",
-        "Location": "Kholusia",
-        "Level": 70,
-        "JournalSection": 3,
-        "JournalCategory": 51,
-        "JournalGenre": "Kholusian Sidequests",
-        "Url": "/lodestone/playguide/db/quest/f0d71160c46/",
-        "Image": null,
-        "Icon": "common_normal",
-        "Issuer": "Concerned Townsdwarf",
-        "StartLocation": {
-            "Name": "Kholusia",
-            "X": "11.9",
-            "Y": "9.4"
-        },
-        "StartClass": null,
-        "Job": "",
-        "Company": "Not specified",
-        "Requirement": "Not specified",
-        "Rewards": {
-            "Gil": 878,
-            "Exp": null,
-            "ItemsMand": [],
-            "ItemsOpt": []
-        },
-        "Infos": {
-            "PrerequisiteQuest": [
-                {
-                    "Name": "Meet the Tholls",
-                    "Url": "/lodestone/playguide/db/quest/990b7143c29/",
-                    "Area": "Kholusia",
-                    "Level": "78"
-                }
-            ],
-            "RelatedNPC": [
-                {
-                    "Name": "Sulking Townsdwarf",
-                    "Url": "/lodestone/playguide/db/npc/npc/79c7b56c8a5/",
-                    "Area": "Kholusia (X:6.0 Y:19.8)"
-                }
-            ]
-        },
-        "Seq": 47,
-        "oldID": 69090,
-        "Map": {
-            "ID": 492
-        },
-        "StartDependency": false
-    },
-    {
-        "ID": "f24ff5f0049",
-        "Name": " Killer on the Loose",
-        "Location": "Kholusia",
-        "Level": 70,
-        "JournalSection": 3,
-        "JournalCategory": 51,
-        "JournalGenre": "Kholusian Sidequests",
-        "Url": "/lodestone/playguide/db/quest/f24ff5f0049/",
-        "Image": null,
-        "Icon": "common_normal",
-        "Issuer": "Rakitt",
-        "StartLocation": {
-            "Name": "Kholusia",
-            "X": "11.7",
-            "Y": "9.7"
-        },
-        "StartClass": null,
-        "Job": "",
-        "Company": "Not specified",
-        "Requirement": "Not specified",
-        "Rewards": {
-            "Gil": 878,
-            "Exp": null,
-            "ItemsMand": [],
-            "ItemsOpt": []
-        },
-        "Infos": {
-            "PrerequisiteQuest": [
-                {
-                    "Name": "Meet the Tholls",
-                    "Url": "/lodestone/playguide/db/quest/990b7143c29/",
-                    "Area": "Kholusia",
-                    "Level": "78"
-                }
-            ]
-        },
-        "Seq": 41,
-        "oldID": 69084,
-        "Map": {
-            "ID": 492
-        },
-        "StartDependency": false
-    },
-    {
-        "ID": "f2b8a40128e",
-        "Name": " Almost a Friend",
-        "Location": "Kholusia",
-        "Level": 70,
-        "JournalSection": 3,
-        "JournalCategory": 51,
-        "JournalGenre": "Kholusian Sidequests",
-        "Url": "/lodestone/playguide/db/quest/f2b8a40128e/",
-        "Image": "https://img.finalfantasyxiv.com/lds/pc/global/images/itemicon/69/695c53fffa9fab1f06edeedde081bbe2ceb48bca.png?n5.55",
-        "Icon": "function_normal",
-        "Issuer": "Ronitt",
-        "StartLocation": {
-            "Name": "Kholusia",
-            "X": "13.5",
-            "Y": "8.3"
-        },
-        "StartClass": null,
-        "Job": "",
-        "Company": "Not specified",
-        "Requirement": "Not specified",
-        "Rewards": {
-            "Gil": 788,
-            "Exp": null,
-            "ItemsMand": [],
-            "ItemsOpt": []
-        },
-        "Infos": {
-            "PrerequisiteQuest": [
-                {
-                    "Name": " A Disagreeable Dwarf",
-                    "Url": "/lodestone/playguide/db/quest/b2f7063246e/",
-                    "Area": "Kholusia",
-                    "Level": "70"
-                }
-            ],
-            "FollowupQuest": [
-                {
-                    "Name": " A Practiced Greeting",
-                    "Url": "/lodestone/playguide/db/quest/9e19ff72636/",
-                    "Area": "Kholusia",
-                    "Level": "70"
-                }
-            ],
-            "RelatedNPC": [
-                {
-                    "Name": "Xemutt",
-                    "Url": "/lodestone/playguide/db/npc/npc/d9c7d74ab53/",
-                    "Area": "Kholusia (X:13.3 Y:8.8)"
-                }
-            ]
-        },
-        "Seq": 53,
-        "oldID": 69093,
-        "Map": {
-            "ID": 492
-        },
-        "StartDependency": false
-    },
-    {
-        "ID": "f519a024272",
-        "Name": " Redolent Refuse",
-        "Location": "Kholusia",
-        "Level": 70,
-        "JournalSection": 3,
-        "JournalCategory": 51,
-        "JournalGenre": "Kholusian Sidequests",
-        "Url": "/lodestone/playguide/db/quest/f519a024272/",
-        "Image": null,
-        "Icon": "common_normal",
-        "Issuer": "Tio-Reeq",
-        "StartLocation": {
-            "Name": "Kholusia",
-            "X": "24.6",
-            "Y": "37.1"
-        },
-        "StartClass": null,
-        "Job": "",
-        "Company": "Not specified",
-        "Requirement": "Not specified",
-        "Rewards": {
-            "Gil": 752,
-            "Exp": null,
-            "ItemsMand": [],
-            "ItemsOpt": []
-        },
-        "Infos": {
-            "PrerequisiteQuest": [
-                {
-                    "Name": "Open Arms, Closed Gate",
-                    "Url": "/lodestone/playguide/db/quest/361b708e12e/",
-                    "Area": "Kholusia",
-                    "Level": "70"
+                    "Name": "Wlveva",
+                    "Url": "/lodestone/playguide/db/npc/npc/70c42523340/",
+                    "Area": "Kugane (X:10.6 Y:10.3)"
                 }
             ]
         },
         "Seq": 18,
-        "oldID": 68889,
-        "Map": {
-            "ID": 492
-        },
-        "StartDependency": false
-    },
-    {
-        "ID": "f5908a7bf48",
-        "Name": " Ronitt to the Rescue",
-        "Location": "Kholusia",
-        "Level": 70,
-        "JournalSection": 3,
-        "JournalCategory": 51,
-        "JournalGenre": "Kholusian Sidequests",
-        "Url": "/lodestone/playguide/db/quest/f5908a7bf48/",
-        "Image": "https://img.finalfantasyxiv.com/lds/pc/global/images/itemicon/2a/2af85d5b781a1a8135bb4e3ae0dab7c76be158eb.png?n5.55",
-        "Icon": "function_normal",
-        "Issuer": "Ronitt",
-        "StartLocation": {
-            "Name": "Kholusia",
-            "X": "13.5",
-            "Y": "8.3"
-        },
-        "StartClass": null,
-        "Job": "",
-        "Company": "Not specified",
-        "Requirement": "Not specified",
-        "Rewards": {
-            "Gil": 1733,
-            "Exp": null,
-            "ItemsMand": [],
-            "ItemsOpt": [
-                {
-                    "Icon": "https://img.finalfantasyxiv.com/lds/pc/global/images/itemicon/e8/e88d404bd56effa8df06cb3cd5b9dad699693de2.png?n5.55",
-                    "Name": "Masala Chai",
-                    "Amount": 2,
-                    "Url": "/lodestone/playguide/db/item/2d4fb73f2dd/"
-                },
-                {
-                    "Icon": "https://img.finalfantasyxiv.com/lds/pc/global/images/itemicon/77/77ee72d6d84cf5dcd91052f60ff70cbb93314d8e.png?n5.55",
-                    "Name": "Risotto al Nero",
-                    "Amount": 2,
-                    "Url": "/lodestone/playguide/db/item/6eca851ed67/"
-                },
-                {
-                    "Icon": "https://img.finalfantasyxiv.com/lds/pc/global/images/itemicon/8a/8a7b7e68ab6fdb5284cf36875daf25e66850aae7.png?n5.55",
-                    "Name": "Espresso con Panna",
-                    "Amount": 2,
-                    "Url": "/lodestone/playguide/db/item/229a4ccc590/"
-                },
-                {
-                    "Icon": "https://img.finalfantasyxiv.com/lds/pc/global/images/itemicon/a3/a3338de4d76f7bc287266918f682238d2d698d3d.png?n5.55",
-                    "Name": "Mist Spinach Saute",
-                    "Amount": 2,
-                    "Url": "/lodestone/playguide/db/item/ff887b25579/"
-                },
-                {
-                    "Icon": "https://img.finalfantasyxiv.com/lds/pc/global/images/itemicon/ba/baa2341dd17414fae7fd62ae7bc62c64589b67be.png?n5.55",
-                    "Name": "Nightworld Silver Piece",
-                    "Amount": 3,
-                    "Url": "/lodestone/playguide/db/item/50ed823230e/"
-                }
-            ]
-        },
-        "Infos": {
-            "PrerequisiteQuest": [
-                {
-                    "Name": " Wright for the Job",
-                    "Url": "/lodestone/playguide/db/quest/90689c81947/",
-                    "Area": "Kholusia",
-                    "Level": "70"
-                },
-                {
-                    "Name": " Learning to Lali-ho",
-                    "Url": "/lodestone/playguide/db/quest/58070121a23/",
-                    "Area": "Kholusia",
-                    "Level": "70"
-                }
-            ],
-            "FollowupQuest": [
-                {
-                    "Name": "It's Dwarfin' Time",
-                    "Url": "/lodestone/playguide/db/quest/dd23813c3e1/",
-                    "Area": "Kholusia",
-                    "Level": "70"
-                }
-            ],
-            "RelatedNPC": [
-                {
-                    "Name": "Amity Resident",
-                    "Url": "/lodestone/playguide/db/npc/npc/5fa7b4d3282/",
-                    "Area": "Kholusia (X:18.1 Y:17.3)"
-                },
-                {
-                    "Name": "Eueliss",
-                    "Url": "/lodestone/playguide/db/npc/npc/d3391b9a49c/",
-                    "Area": "Kholusia (X:16.2 Y:28.9)"
-                },
-                {
-                    "Name": "Ronitt",
-                    "Url": "/lodestone/playguide/db/npc/npc/f5c3bf2996f/",
-                    "Area": "Kholusia (X:13.3 Y:8.8)"
-                },
-                {
-                    "Name": "Ronitt",
-                    "Url": "/lodestone/playguide/db/npc/npc/bdc4cc6ac9e/",
-                    "Area": "Kholusia (X:10.8 Y:10.1)"
-                },
-                {
-                    "Name": "Ronitt",
-                    "Url": "/lodestone/playguide/db/npc/npc/66ccd1ee81b/",
-                    "Area": "Kholusia (X:18.1 Y:17.3)"
-                },
-                {
-                    "Name": "Ronitt",
-                    "Url": "/lodestone/playguide/db/npc/npc/dd1b8601e8d/",
-                    "Area": "Kholusia (X:18.4 Y:17.4)"
-                },
-                {
-                    "Name": "Ronitt",
-                    "Url": "/lodestone/playguide/db/npc/npc/79d1a3eb00c/",
-                    "Area": "Kholusia (X:16.2 Y:28.8)"
-                },
-                {
-                    "Name": "Sai-Lewq",
-                    "Url": "/lodestone/playguide/db/npc/npc/4ad9c125c1b/",
-                    "Area": "Kholusia (X:16.2 Y:28.8)"
-                },
-                {
-                    "Name": "Xemutt",
-                    "Url": "/lodestone/playguide/db/npc/npc/d9c7d74ab53/",
-                    "Area": "Kholusia (X:13.3 Y:8.8)"
-                }
-            ]
-        },
-        "Seq": 56,
-        "oldID": 69096,
-        "Map": {
-            "ID": 492
-        },
         "StartDependency": false
     }
 ]

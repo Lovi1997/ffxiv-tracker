@@ -1,2098 +1,1739 @@
 [
     {
-        "ID": "09fd9a22f9f",
-        "Name": " Wildwort and Sundrop",
-        "Location": "The Sea of Clouds",
-        "Level": 50,
+        "ID": "0107dd8f66c",
+        "Name": "Plunder Fire",
+        "Location": "Western La Noscea",
+        "Level": 48,
         "JournalSection": 4,
         "JournalCategory": 31,
         "JournalGenre": "\n\t\t\t\t\t\t\tDaily Quests\n\t\t\t\t\t\t",
-        "Url": "/lodestone/playguide/db/quest/09fd9a22f9f/",
+        "Url": "/lodestone/playguide/db/quest/0107dd8f66c/",
         "Image": null,
         "Icon": "common_repeat",
-        "Issuer": "Muna Vanu",
+        "Issuer": "Seww",
         "StartLocation": {
-            "Name": "The Sea of Clouds",
-            "X": "6.5",
-            "Y": "14.4"
+            "Name": "Western La Noscea",
+            "X": "16.9",
+            "Y": "22.6"
         },
         "StartClass": null,
         "Job": "",
         "Company": "Not specified",
         "Requirement": "Not specified",
         "Rewards": {
-            "Gil": 609,
-            "Exp": null,
+            "Gil": 780,
+            "Exp": 5130,
             "ItemsMand": [],
-            "ItemsOpt": []
-        },
-        "Infos": {
-            "RelatedNPC": [
+            "ItemsOpt": [
                 {
-                    "Name": "Linu Vanu",
-                    "Url": "/lodestone/playguide/db/npc/npc/8532267b028/",
-                    "Area": "The Sea of Clouds (X:6.1 Y:14.2)"
+                    "Icon": "https://img.finalfantasyxiv.com/lds/pc/global/images/itemicon/59/591709d485ebd155ba018c8cd773fe3c662caed3.png?n6.05",
+                    "Name": "Piety Materia IV",
+                    "Amount": 1,
+                    "Url": "/lodestone/playguide/db/item/905d47601dd/"
+                },
+                {
+                    "Icon": "https://img.finalfantasyxiv.com/lds/pc/global/images/itemicon/06/06bd35b3df19cbc5d80eed3ed99c67a366c835aa.png?n6.05",
+                    "Name": "Heavens' Eye Materia IV",
+                    "Amount": 1,
+                    "Url": "/lodestone/playguide/db/item/93fe1786b70/"
+                },
+                {
+                    "Icon": "https://img.finalfantasyxiv.com/lds/pc/global/images/itemicon/60/6072436b0c90d22b6a9d7da93f356256a04be53d.png?n6.05",
+                    "Name": "Quickarm Materia IV",
+                    "Amount": 1,
+                    "Url": "/lodestone/playguide/db/item/1162b3fcc58/"
                 }
             ]
         },
-        "Seq": 36,
-        "oldID": 67735,
-        "Map": {
-            "ID": 215
-        },
-        "StartDependency": false
-    },
-    {
-        "ID": "0ce9a613a6b",
-        "Name": " Pestered Ancestors",
-        "Location": "The Sea of Clouds",
-        "Level": 50,
-        "JournalSection": 4,
-        "JournalCategory": 31,
-        "JournalGenre": "\n\t\t\t\t\t\t\tDaily Quests\n\t\t\t\t\t\t",
-        "Url": "/lodestone/playguide/db/quest/0ce9a613a6b/",
-        "Image": null,
-        "Icon": "common_repeat",
-        "Issuer": "Muna Vanu",
-        "StartLocation": {
-            "Name": "The Sea of Clouds",
-            "X": "6.5",
-            "Y": "14.4"
-        },
-        "StartClass": null,
-        "Job": "",
-        "Company": "Not specified",
-        "Requirement": "Not specified",
-        "Rewards": {
-            "Gil": 737,
-            "Exp": null,
-            "ItemsMand": [],
-            "ItemsOpt": []
-        },
         "Infos": {
             "RelatedNPC": [
                 {
-                    "Name": "Linu Vanu",
-                    "Url": "/lodestone/playguide/db/npc/npc/8532267b028/",
-                    "Area": "The Sea of Clouds (X:6.1 Y:14.2)"
-                }
-            ]
-        },
-        "Seq": 27,
-        "oldID": 67726,
-        "Map": {
-            "ID": 215
-        },
-        "StartDependency": false
-    },
-    {
-        "ID": "0f69d12daed",
-        "Name": " Shady Premonitions",
-        "Location": "The Sea of Clouds",
-        "Level": 50,
-        "JournalSection": 4,
-        "JournalCategory": 31,
-        "JournalGenre": "\n\t\t\t\t\t\t\tDaily Quests\n\t\t\t\t\t\t",
-        "Url": "/lodestone/playguide/db/quest/0f69d12daed/",
-        "Image": null,
-        "Icon": "common_repeat",
-        "Issuer": "Muna Vanu",
-        "StartLocation": {
-            "Name": "The Sea of Clouds",
-            "X": "6.5",
-            "Y": "14.4"
-        },
-        "StartClass": null,
-        "Job": "",
-        "Company": "Not specified",
-        "Requirement": "Not specified",
-        "Rewards": {
-            "Gil": 609,
-            "Exp": null,
-            "ItemsMand": [],
-            "ItemsOpt": []
-        },
-        "Infos": {
-            "RelatedNPC": [
-                {
-                    "Name": "Cowering Zundu",
-                    "Url": "/lodestone/playguide/db/npc/npc/fbf76b43528/",
-                    "Area": "The Sea of Clouds (X:11.6 Y:11.5)"
-                },
-                {
-                    "Name": "Cowering Zundu",
-                    "Url": "/lodestone/playguide/db/npc/npc/d793ebd7680/",
-                    "Area": "The Sea of Clouds (X:15.1 Y:10.4)"
-                },
-                {
-                    "Name": "Cowering Zundu",
-                    "Url": "/lodestone/playguide/db/npc/npc/f7bdb534fb7/",
-                    "Area": "The Sea of Clouds (X:20.2 Y:9.5)"
-                },
-                {
-                    "Name": "Linu Vanu",
-                    "Url": "/lodestone/playguide/db/npc/npc/8532267b028/",
-                    "Area": "The Sea of Clouds (X:6.1 Y:14.2)"
-                }
-            ]
-        },
-        "Seq": 26,
-        "oldID": 67725,
-        "Map": {
-            "ID": 215
-        },
-        "StartDependency": false
-    },
-    {
-        "ID": "1ed98830151",
-        "Name": " The Cat's Meow",
-        "Location": "The Sea of Clouds",
-        "Level": 50,
-        "JournalSection": 4,
-        "JournalCategory": 31,
-        "JournalGenre": "\n\t\t\t\t\t\t\tDaily Quests\n\t\t\t\t\t\t",
-        "Url": "/lodestone/playguide/db/quest/1ed98830151/",
-        "Image": null,
-        "Icon": "common_repeat",
-        "Issuer": "Muna Vanu",
-        "StartLocation": {
-            "Name": "The Sea of Clouds",
-            "X": "6.5",
-            "Y": "14.4"
-        },
-        "StartClass": null,
-        "Job": "",
-        "Company": "Not specified",
-        "Requirement": "Not specified",
-        "Rewards": {
-            "Gil": 709,
-            "Exp": null,
-            "ItemsMand": [],
-            "ItemsOpt": []
-        },
-        "Infos": {
-            "RelatedNPC": [
-                {
-                    "Name": "Laniaitte",
-                    "Url": "/lodestone/playguide/db/npc/npc/eceacc0b266/",
-                    "Area": "The Sea of Clouds (X:17.0 Y:37.3)"
-                },
-                {
-                    "Name": "Linu Vanu",
-                    "Url": "/lodestone/playguide/db/npc/npc/8532267b028/",
-                    "Area": "The Sea of Clouds (X:6.1 Y:14.2)"
-                },
-                {
-                    "Name": "Nodding-off Knight",
-                    "Url": "/lodestone/playguide/db/npc/npc/8e14d180632/",
-                    "Area": "The Sea of Clouds (X:36.6 Y:30.3)"
-                },
-                {
-                    "Name": "Unnerved Knight",
-                    "Url": "/lodestone/playguide/db/npc/npc/8403e08b208/",
-                    "Area": "The Sea of Clouds (X:12.1 Y:28.1)"
-                },
-                {
-                    "Name": "Unoccupied Knight",
-                    "Url": "/lodestone/playguide/db/npc/npc/02390f90495/",
-                    "Area": "The Sea of Clouds (X:28.0 Y:30.3)"
-                }
-            ]
-        },
-        "Seq": 32,
-        "oldID": 67731,
-        "Map": {
-            "ID": 215
-        },
-        "StartDependency": false
-    },
-    {
-        "ID": "24a34687170",
-        "Name": " Three Beaks to the Wind",
-        "Location": "The Sea of Clouds",
-        "Level": 50,
-        "JournalSection": 4,
-        "JournalCategory": 31,
-        "JournalGenre": "\n\t\t\t\t\t\t\tMain Quests\n\t\t\t\t\t\t",
-        "Url": "/lodestone/playguide/db/quest/24a34687170/",
-        "Image": "https://img.finalfantasyxiv.com/lds/pc/global/images/itemicon/e7/e711e2eb0dfc5c5ef1a9324c964ce84095df8e4d.png?n5.55",
-        "Icon": "function_normal",
-        "Issuer": "Sonu Vanu",
-        "StartLocation": {
-            "Name": "The Sea of Clouds",
-            "X": "11.7",
-            "Y": "14.8"
-        },
-        "StartClass": null,
-        "Job": "",
-        "Company": "Not specified",
-        "Requirement": "Not specified",
-        "Rewards": {
-            "Gil": 658,
-            "Exp": null,
-            "ItemsMand": [],
-            "ItemsOpt": []
-        },
-        "Infos": {
-            "PrerequisiteQuest": [
-                {
-                    "Name": "A Difference of Opinion",
-                    "Url": "/lodestone/playguide/db/quest/7080153619d/",
-                    "Area": "The Sea of Clouds",
-                    "Level": "57"
-                }
-            ],
-            "FollowupQuest": [
-                {
-                    "Name": " A Tribal Reunion",
-                    "Url": "/lodestone/playguide/db/quest/c581ccac535/",
-                    "Area": "The Sea of Clouds",
-                    "Level": "50"
-                }
-            ],
-            "RelatedNPC": [
-                {
-                    "Name": "Linu Vali",
-                    "Url": "/lodestone/playguide/db/npc/npc/9c1cbdec080/",
-                    "Area": "The Sea of Clouds (X:6.6 Y:14.3)"
-                },
-                {
-                    "Name": "Linu Vali",
-                    "Url": "/lodestone/playguide/db/npc/npc/05344e1fa45/",
-                    "Area": "The Sea of Clouds (X:13.9 Y:18.0)"
-                },
-                {
-                    "Name": "Luna Vanu",
-                    "Url": "/lodestone/playguide/db/shop/db55434d5e1/",
-                    "Area": "The Sea of Clouds (X:7.0 Y:14.2)"
-                },
-                {
-                    "Name": "Midge Cloud",
-                    "Url": "/lodestone/playguide/db/npc/npc/7349b6bf1b9/",
-                    "Area": "The Sea of Clouds (X:5.3 Y:14.9)"
-                },
-                {
-                    "Name": "Midge Cloud",
-                    "Url": "/lodestone/playguide/db/npc/npc/169d5880e74/",
-                    "Area": "The Sea of Clouds (X:6.2 Y:13.8)"
-                },
-                {
-                    "Name": "Midge Cloud",
-                    "Url": "/lodestone/playguide/db/npc/npc/b1defea4bf5/",
-                    "Area": "The Sea of Clouds (X:6.9 Y:14.6)"
-                },
-                {
-                    "Name": "Sanu Vanu",
-                    "Url": "/lodestone/playguide/db/npc/npc/45819fcc9d6/",
-                    "Area": "The Sea of Clouds (X:11.7 Y:14.9)"
-                },
-                {
-                    "Name": "Vanu Elder",
-                    "Url": "/lodestone/playguide/db/npc/npc/da0c941053f/",
-                    "Area": "The Sea of Clouds (X:13.9 Y:18.1)"
-                }
-            ]
-        },
-        "Seq": 4,
-        "oldID": 67700,
-        "Map": {
-            "ID": 215
-        },
-        "StartDependency": false
-    },
-    {
-        "ID": "30e56042ea3",
-        "Name": " Gaelicat's Out of the Bag",
-        "Location": "The Sea of Clouds",
-        "Level": 50,
-        "JournalSection": 4,
-        "JournalCategory": 31,
-        "JournalGenre": "\n\t\t\t\t\t\t\tDaily Quests\n\t\t\t\t\t\t",
-        "Url": "/lodestone/playguide/db/quest/30e56042ea3/",
-        "Image": null,
-        "Icon": "common_repeat",
-        "Issuer": "Muna Vanu",
-        "StartLocation": {
-            "Name": "The Sea of Clouds",
-            "X": "6.5",
-            "Y": "14.4"
-        },
-        "StartClass": null,
-        "Job": "",
-        "Company": "Not specified",
-        "Requirement": "Not specified",
-        "Rewards": {
-            "Gil": 709,
-            "Exp": null,
-            "ItemsMand": [],
-            "ItemsOpt": []
-        },
-        "Infos": {
-            "RelatedNPC": [
-                {
-                    "Name": "Ginu Vanu",
-                    "Url": "/lodestone/playguide/db/npc/npc/8a693063ee5/",
-                    "Area": "The Sea of Clouds (X:6.7 Y:14.0)"
-                },
-                {
-                    "Name": "Stray Gaelicat",
-                    "Url": "/lodestone/playguide/db/npc/npc/a8b9b949ead/",
-                    "Area": "The Sea of Clouds (X:15.8 Y:35.0)"
-                },
-                {
-                    "Name": "Stray Gaelicat",
-                    "Url": "/lodestone/playguide/db/npc/npc/8f546324876/",
-                    "Area": "The Sea of Clouds (X:13.5 Y:37.2)"
-                },
-                {
-                    "Name": "Stray Gaelicat",
-                    "Url": "/lodestone/playguide/db/npc/npc/89f175e8f0b/",
-                    "Area": "The Sea of Clouds (X:15.3 Y:38.4)"
-                },
-                {
-                    "Name": "Stray Gaelicat",
-                    "Url": "/lodestone/playguide/db/npc/npc/8bb0347469a/",
-                    "Area": "The Sea of Clouds (X:15.6 Y:37.9)"
-                },
-                {
-                    "Name": "Stray Gaelicat",
-                    "Url": "/lodestone/playguide/db/npc/npc/996d18f3ee2/",
-                    "Area": "The Sea of Clouds (X:10.0 Y:32.1)"
-                }
-            ]
-        },
-        "Seq": 29,
-        "oldID": 67728,
-        "Map": {
-            "ID": 215
-        },
-        "StartDependency": false
-    },
-    {
-        "ID": "356431a63f2",
-        "Name": " Hard-boiled Hustle",
-        "Location": "The Sea of Clouds",
-        "Level": 50,
-        "JournalSection": 4,
-        "JournalCategory": 31,
-        "JournalGenre": "\n\t\t\t\t\t\t\tDaily Quests\n\t\t\t\t\t\t",
-        "Url": "/lodestone/playguide/db/quest/356431a63f2/",
-        "Image": null,
-        "Icon": "common_repeat",
-        "Issuer": "Muna Vanu",
-        "StartLocation": {
-            "Name": "The Sea of Clouds",
-            "X": "6.5",
-            "Y": "14.4"
-        },
-        "StartClass": null,
-        "Job": "",
-        "Company": "Not specified",
-        "Requirement": "Not specified",
-        "Rewards": {
-            "Gil": 737,
-            "Exp": null,
-            "ItemsMand": [],
-            "ItemsOpt": []
-        },
-        "Infos": {},
-        "Seq": 14,
-        "oldID": 67713,
-        "Map": {
-            "ID": 215
-        },
-        "StartDependency": false
-    },
-    {
-        "ID": "358e3bfa893",
-        "Name": "The Nest of Honor",
-        "Location": "The Sea of Clouds",
-        "Level": 50,
-        "JournalSection": 4,
-        "JournalCategory": 31,
-        "JournalGenre": "\n\t\t\t\t\t\t\tMain Quests\n\t\t\t\t\t\t",
-        "Url": "/lodestone/playguide/db/quest/358e3bfa893/",
-        "Image": null,
-        "Icon": "function_normal",
-        "Issuer": "Linu Vali",
-        "StartLocation": {
-            "Name": "The Sea of Clouds",
-            "X": "6.6",
-            "Y": "14.3"
-        },
-        "StartClass": null,
-        "Job": "",
-        "Company": "Not specified",
-        "Requirement": "Not specified",
-        "Rewards": {
-            "Gil": 405,
-            "Exp": 0,
-            "ItemsMand": [],
-            "ItemsOpt": []
-        },
-        "Infos": {
-            "PrerequisiteQuest": [
-                {
-                    "Name": " Nest Side Story",
-                    "Url": "/lodestone/playguide/db/quest/eff343d24bb/",
-                    "Area": "The Sea of Clouds",
-                    "Level": "50"
-                }
-            ],
-            "RelatedNPC": [
-                {
-                    "Name": "Linu Vanu",
-                    "Url": "/lodestone/playguide/db/npc/npc/8532267b028/",
-                    "Area": "The Sea of Clouds (X:6.1 Y:14.2)"
-                }
-            ]
-        },
-        "Seq": 7,
-        "oldID": 67761,
-        "Map": {
-            "ID": 215
-        },
-        "StartDependency": false
-    },
-    {
-        "ID": "46c30fee547",
-        "Name": " Pilfering Pots from the Pantry",
-        "Location": "The Sea of Clouds",
-        "Level": 50,
-        "JournalSection": 4,
-        "JournalCategory": 31,
-        "JournalGenre": "\n\t\t\t\t\t\t\tDaily Quests\n\t\t\t\t\t\t",
-        "Url": "/lodestone/playguide/db/quest/46c30fee547/",
-        "Image": null,
-        "Icon": "common_repeat",
-        "Issuer": "Muna Vanu",
-        "StartLocation": {
-            "Name": "The Sea of Clouds",
-            "X": "6.5",
-            "Y": "14.4"
-        },
-        "StartClass": null,
-        "Job": "",
-        "Company": "Not specified",
-        "Requirement": "Not specified",
-        "Rewards": {
-            "Gil": 637,
-            "Exp": null,
-            "ItemsMand": [],
-            "ItemsOpt": []
-        },
-        "Infos": {},
-        "Seq": 11,
-        "oldID": 67710,
-        "Map": {
-            "ID": 215
-        },
-        "StartDependency": false
-    },
-    {
-        "ID": "470b64273a1",
-        "Name": " Vanish, Vile Vundu",
-        "Location": "The Sea of Clouds",
-        "Level": 50,
-        "JournalSection": 4,
-        "JournalCategory": 31,
-        "JournalGenre": "\n\t\t\t\t\t\t\tDaily Quests\n\t\t\t\t\t\t",
-        "Url": "/lodestone/playguide/db/quest/470b64273a1/",
-        "Image": null,
-        "Icon": "common_repeat",
-        "Issuer": "Muna Vanu",
-        "StartLocation": {
-            "Name": "The Sea of Clouds",
-            "X": "6.5",
-            "Y": "14.4"
-        },
-        "StartClass": null,
-        "Job": "",
-        "Company": "Not specified",
-        "Requirement": "Not specified",
-        "Rewards": {
-            "Gil": 609,
-            "Exp": null,
-            "ItemsMand": [],
-            "ItemsOpt": []
-        },
-        "Infos": {
-            "RelatedNPC": [
-                {
-                    "Name": "Linu Vanu",
-                    "Url": "/lodestone/playguide/db/npc/npc/8532267b028/",
-                    "Area": "The Sea of Clouds (X:6.1 Y:14.2)"
-                },
-                {
-                    "Name": "Luna Vanu",
-                    "Url": "/lodestone/playguide/db/shop/db55434d5e1/",
-                    "Area": "The Sea of Clouds (X:7.0 Y:14.2)"
-                },
-                {
-                    "Name": "Vundu Brute",
-                    "Url": "/lodestone/playguide/db/npc/npc/e67291dffaa/",
-                    "Area": "The Sea of Clouds (X:28.2 Y:9.8)"
-                },
-                {
-                    "Name": "Vundu Brute",
-                    "Url": "/lodestone/playguide/db/npc/npc/49b02ded6a2/",
-                    "Area": "The Sea of Clouds (X:29.3 Y:11.3)"
-                },
-                {
-                    "Name": "Vundu Brute",
-                    "Url": "/lodestone/playguide/db/npc/npc/5e0aada470d/",
-                    "Area": "The Sea of Clouds (X:32.5 Y:18.8)"
-                }
-            ]
-        },
-        "Seq": 37,
-        "oldID": 67736,
-        "Map": {
-            "ID": 215
-        },
-        "StartDependency": false
-    },
-    {
-        "ID": "4b46011b439",
-        "Name": " Pussyfooting About",
-        "Location": "The Sea of Clouds",
-        "Level": 50,
-        "JournalSection": 4,
-        "JournalCategory": 31,
-        "JournalGenre": "\n\t\t\t\t\t\t\tDaily Quests\n\t\t\t\t\t\t",
-        "Url": "/lodestone/playguide/db/quest/4b46011b439/",
-        "Image": null,
-        "Icon": "common_repeat",
-        "Issuer": "Muna Vanu",
-        "StartLocation": {
-            "Name": "The Sea of Clouds",
-            "X": "6.5",
-            "Y": "14.4"
-        },
-        "StartClass": null,
-        "Job": "",
-        "Company": "Not specified",
-        "Requirement": "Not specified",
-        "Rewards": {
-            "Gil": 489,
-            "Exp": null,
-            "ItemsMand": [],
-            "ItemsOpt": []
-        },
-        "Infos": {
-            "RelatedNPC": [
-                {
-                    "Name": "Caribault",
-                    "Url": "/lodestone/playguide/db/npc/npc/7dcf222383b/",
-                    "Area": "The Sea of Clouds (X:9.3 Y:35.0)"
-                }
-            ]
-        },
-        "Seq": 9,
-        "oldID": 67708,
-        "Map": {
-            "ID": 215
-        },
-        "StartDependency": false
-    },
-    {
-        "ID": "5624690669e",
-        "Name": " Smooth as Silk, Cool as Air",
-        "Location": "The Sea of Clouds",
-        "Level": 50,
-        "JournalSection": 4,
-        "JournalCategory": 31,
-        "JournalGenre": "\n\t\t\t\t\t\t\tDaily Quests\n\t\t\t\t\t\t",
-        "Url": "/lodestone/playguide/db/quest/5624690669e/",
-        "Image": null,
-        "Icon": "common_repeat",
-        "Issuer": "Muna Vanu",
-        "StartLocation": {
-            "Name": "The Sea of Clouds",
-            "X": "6.5",
-            "Y": "14.4"
-        },
-        "StartClass": null,
-        "Job": "",
-        "Company": "Not specified",
-        "Requirement": "Not specified",
-        "Rewards": {
-            "Gil": 461,
-            "Exp": null,
-            "ItemsMand": [],
-            "ItemsOpt": []
-        },
-        "Infos": {
-            "RelatedNPC": [
-                {
-                    "Name": "Linu Vanu",
-                    "Url": "/lodestone/playguide/db/npc/npc/8532267b028/",
-                    "Area": "The Sea of Clouds (X:6.1 Y:14.2)"
-                }
-            ]
-        },
-        "Seq": 28,
-        "oldID": 67727,
-        "Map": {
-            "ID": 215
-        },
-        "StartDependency": false
-    },
-    {
-        "ID": "611fdab284b",
-        "Name": " Easy as Paissa",
-        "Location": "The Sea of Clouds",
-        "Level": 50,
-        "JournalSection": 4,
-        "JournalCategory": 31,
-        "JournalGenre": "\n\t\t\t\t\t\t\tDaily Quests\n\t\t\t\t\t\t",
-        "Url": "/lodestone/playguide/db/quest/611fdab284b/",
-        "Image": null,
-        "Icon": "common_repeat",
-        "Issuer": "Muna Vanu",
-        "StartLocation": {
-            "Name": "The Sea of Clouds",
-            "X": "6.5",
-            "Y": "14.4"
-        },
-        "StartClass": null,
-        "Job": "",
-        "Company": "Not specified",
-        "Requirement": "Not specified",
-        "Rewards": {
-            "Gil": 681,
-            "Exp": null,
-            "ItemsMand": [],
-            "ItemsOpt": []
-        },
-        "Infos": {
-            "RelatedNPC": [
-                {
-                    "Name": "Perky Paissa",
-                    "Url": "/lodestone/playguide/db/npc/npc/e2722ad309a/",
-                    "Area": "The Sea of Clouds (X:21.9 Y:31.6)"
+                    "Name": "Pahh",
+                    "Url": "/lodestone/playguide/db/npc/npc/e1731c57a26/",
+                    "Area": "Western La Noscea (X:16.6 Y:21.7)"
                 }
             ]
         },
         "Seq": 33,
-        "oldID": 67732,
-        "Map": {
-            "ID": 215
-        },
         "StartDependency": false
     },
     {
-        "ID": "663eea48b6b",
-        "Name": " Chigoe Cha-cha",
-        "Location": "The Sea of Clouds",
-        "Level": 50,
+        "ID": "01c86d656d9",
+        "Name": "An Enthralling Engagement",
+        "Location": "Western La Noscea",
+        "Level": 48,
         "JournalSection": 4,
         "JournalCategory": 31,
         "JournalGenre": "\n\t\t\t\t\t\t\tDaily Quests\n\t\t\t\t\t\t",
-        "Url": "/lodestone/playguide/db/quest/663eea48b6b/",
+        "Url": "/lodestone/playguide/db/quest/01c86d656d9/",
         "Image": null,
         "Icon": "common_repeat",
-        "Issuer": "Muna Vanu",
+        "Issuer": "Seww",
         "StartLocation": {
-            "Name": "The Sea of Clouds",
-            "X": "6.5",
-            "Y": "14.4"
+            "Name": "Western La Noscea",
+            "X": "16.9",
+            "Y": "22.6"
         },
         "StartClass": null,
         "Job": "",
         "Company": "Not specified",
         "Requirement": "Not specified",
         "Rewards": {
-            "Gil": 581,
-            "Exp": null,
+            "Gil": 780,
+            "Exp": 5130,
             "ItemsMand": [],
-            "ItemsOpt": []
+            "ItemsOpt": [
+                {
+                    "Icon": "https://img.finalfantasyxiv.com/lds/pc/global/images/itemicon/59/591709d485ebd155ba018c8cd773fe3c662caed3.png?n6.05",
+                    "Name": "Piety Materia IV",
+                    "Amount": 1,
+                    "Url": "/lodestone/playguide/db/item/905d47601dd/"
+                },
+                {
+                    "Icon": "https://img.finalfantasyxiv.com/lds/pc/global/images/itemicon/06/06bd35b3df19cbc5d80eed3ed99c67a366c835aa.png?n6.05",
+                    "Name": "Savage Aim Materia IV",
+                    "Amount": 1,
+                    "Url": "/lodestone/playguide/db/item/dce3a5f3467/"
+                },
+                {
+                    "Icon": "https://img.finalfantasyxiv.com/lds/pc/global/images/itemicon/60/6072436b0c90d22b6a9d7da93f356256a04be53d.png?n6.05",
+                    "Name": "Quicktongue Materia IV",
+                    "Amount": 1,
+                    "Url": "/lodestone/playguide/db/item/5bbb25ff7dd/"
+                }
+            ]
         },
         "Infos": {
             "RelatedNPC": [
                 {
-                    "Name": "Luna Vanu",
-                    "Url": "/lodestone/playguide/db/shop/db55434d5e1/",
-                    "Area": "The Sea of Clouds (X:7.0 Y:14.2)"
+                    "Name": "Imprisoned Soldier",
+                    "Url": "/lodestone/playguide/db/npc/npc/9352609ff79/",
+                    "Area": "Western La Noscea (X:14.2 Y:14.0)"
+                },
+                {
+                    "Name": "Imprisoned Soldier",
+                    "Url": "/lodestone/playguide/db/npc/npc/365b267d97d/",
+                    "Area": "Western La Noscea (X:14.1 Y:14.3)"
+                },
+                {
+                    "Name": "Imprisoned Soldier",
+                    "Url": "/lodestone/playguide/db/npc/npc/5d559c8889a/",
+                    "Area": "Western La Noscea (X:13.9 Y:14.4)"
+                },
+                {
+                    "Name": "Imprisoned Soldier",
+                    "Url": "/lodestone/playguide/db/npc/npc/25b8b7d4bfe/",
+                    "Area": "Western La Noscea (X:14.3 Y:13.9)"
+                },
+                {
+                    "Name": "Imprisoned Soldier",
+                    "Url": "/lodestone/playguide/db/npc/npc/ef08ad37a51/",
+                    "Area": "Western La Noscea (X:14.2 Y:14.2)"
+                },
+                {
+                    "Name": "Imprisoned Soldier",
+                    "Url": "/lodestone/playguide/db/npc/npc/a97497539a1/",
+                    "Area": "Western La Noscea (X:14.2 Y:14.0)"
+                },
+                {
+                    "Name": "Imprisoned Soldier",
+                    "Url": "/lodestone/playguide/db/npc/npc/5ec1a7dc3f9/",
+                    "Area": "Western La Noscea (X:14.1 Y:14.3)"
                 }
             ]
         },
-        "Seq": 12,
-        "oldID": 67711,
-        "Map": {
-            "ID": 215
-        },
+        "Seq": 26,
         "StartDependency": false
     },
     {
-        "ID": "6a13d4c340c",
-        "Name": " Water Crystal Waltz",
-        "Location": "The Sea of Clouds",
-        "Level": 50,
+        "ID": "0584a8da1d0",
+        "Name": "Violence of the Clams",
+        "Location": "Western La Noscea",
+        "Level": 44,
         "JournalSection": 4,
         "JournalCategory": 31,
         "JournalGenre": "\n\t\t\t\t\t\t\tDaily Quests\n\t\t\t\t\t\t",
-        "Url": "/lodestone/playguide/db/quest/6a13d4c340c/",
+        "Url": "/lodestone/playguide/db/quest/0584a8da1d0/",
         "Image": null,
         "Icon": "common_repeat",
-        "Issuer": "Muna Vanu",
+        "Issuer": "Fyuu",
         "StartLocation": {
-            "Name": "The Sea of Clouds",
-            "X": "6.5",
-            "Y": "14.4"
+            "Name": "Western La Noscea",
+            "X": "17.0",
+            "Y": "22.2"
         },
         "StartClass": null,
         "Job": "",
         "Company": "Not specified",
         "Requirement": "Not specified",
         "Rewards": {
-            "Gil": 681,
-            "Exp": null,
+            "Gil": 540,
+            "Exp": 4372,
             "ItemsMand": [],
             "ItemsOpt": []
         },
         "Infos": {
             "RelatedNPC": [
                 {
-                    "Name": "Laniaitte",
-                    "Url": "/lodestone/playguide/db/npc/npc/eceacc0b266/",
-                    "Area": "The Sea of Clouds (X:17.0 Y:37.3)"
+                    "Name": "Pahh",
+                    "Url": "/lodestone/playguide/db/npc/npc/e1731c57a26/",
+                    "Area": "Western La Noscea (X:16.6 Y:21.7)"
                 }
             ]
         },
-        "Seq": 13,
-        "oldID": 67712,
-        "Map": {
-            "ID": 215
-        },
+        "Seq": 7,
         "StartDependency": false
     },
     {
-        "ID": "6b36f9d1f1d",
-        "Name": " A Hut to Dye For",
-        "Location": "The Sea of Clouds",
-        "Level": 50,
+        "ID": "19fb403a1d6",
+        "Name": "A Quick Snip",
+        "Location": "Western La Noscea",
+        "Level": 44,
         "JournalSection": 4,
         "JournalCategory": 31,
         "JournalGenre": "\n\t\t\t\t\t\t\tDaily Quests\n\t\t\t\t\t\t",
-        "Url": "/lodestone/playguide/db/quest/6b36f9d1f1d/",
+        "Url": "/lodestone/playguide/db/quest/19fb403a1d6/",
         "Image": null,
         "Icon": "common_repeat",
-        "Issuer": "Muna Vanu",
+        "Issuer": "Fyuu",
         "StartLocation": {
-            "Name": "The Sea of Clouds",
-            "X": "6.5",
-            "Y": "14.4"
+            "Name": "Western La Noscea",
+            "X": "17.0",
+            "Y": "22.2"
         },
         "StartClass": null,
         "Job": "",
         "Company": "Not specified",
         "Requirement": "Not specified",
         "Rewards": {
-            "Gil": 609,
-            "Exp": null,
+            "Gil": 540,
+            "Exp": 4372,
             "ItemsMand": [],
             "ItemsOpt": []
         },
         "Infos": {
             "RelatedNPC": [
                 {
-                    "Name": "Ginu Vanu",
-                    "Url": "/lodestone/playguide/db/npc/npc/8a693063ee5/",
-                    "Area": "The Sea of Clouds (X:6.7 Y:14.0)"
+                    "Name": "Pahh",
+                    "Url": "/lodestone/playguide/db/npc/npc/e1731c57a26/",
+                    "Area": "Western La Noscea (X:16.6 Y:21.7)"
                 }
             ]
         },
-        "Seq": 25,
-        "oldID": 67724,
-        "Map": {
-            "ID": 215
-        },
+        "Seq": 9,
         "StartDependency": false
     },
     {
-        "ID": "6e1c4455faa",
-        "Name": " Bird Watching",
-        "Location": "The Sea of Clouds",
-        "Level": 50,
+        "ID": "1bf827a03ab",
+        "Name": "Wind from Their Sails",
+        "Location": "Western La Noscea",
+        "Level": 44,
         "JournalSection": 4,
         "JournalCategory": 31,
         "JournalGenre": "\n\t\t\t\t\t\t\tDaily Quests\n\t\t\t\t\t\t",
-        "Url": "/lodestone/playguide/db/quest/6e1c4455faa/",
+        "Url": "/lodestone/playguide/db/quest/1bf827a03ab/",
         "Image": null,
         "Icon": "common_repeat",
-        "Issuer": "Muna Vanu",
+        "Issuer": "Fyuu",
         "StartLocation": {
-            "Name": "The Sea of Clouds",
-            "X": "6.5",
-            "Y": "14.4"
+            "Name": "Western La Noscea",
+            "X": "17.0",
+            "Y": "22.2"
         },
         "StartClass": null,
         "Job": "",
         "Company": "Not specified",
         "Requirement": "Not specified",
         "Rewards": {
-            "Gil": 665,
-            "Exp": null,
+            "Gil": 540,
+            "Exp": 4372,
             "ItemsMand": [],
             "ItemsOpt": []
         },
         "Infos": {
             "RelatedNPC": [
                 {
-                    "Name": "Harmiette",
-                    "Url": "/lodestone/playguide/db/npc/npc/333abc0f493/",
-                    "Area": "The Sea of Clouds (X:10.5 Y:33.7)"
-                },
-                {
-                    "Name": "Rontremont",
-                    "Url": "/lodestone/playguide/db/npc/npc/a2144218aa5/",
-                    "Area": "The Sea of Clouds (X:9.4 Y:32.4)"
-                },
-                {
-                    "Name": "Rose Knight Sentry",
-                    "Url": "/lodestone/playguide/db/npc/npc/bb37d52e6a4/",
-                    "Area": "The Sea of Clouds (X:16.9 Y:37.8)"
+                    "Name": "Pahh",
+                    "Url": "/lodestone/playguide/db/npc/npc/e1731c57a26/",
+                    "Area": "Western La Noscea (X:16.6 Y:21.7)"
                 }
             ]
         },
-        "Seq": 16,
-        "oldID": 67715,
-        "Map": {
-            "ID": 215
-        },
+        "Seq": 14,
         "StartDependency": false
     },
     {
-        "ID": "7827aef19a8",
-        "Name": " Reeling in the Vundu",
-        "Location": "The Sea of Clouds",
-        "Level": 50,
+        "ID": "20327a16283",
+        "Name": "Get a Lode of This",
+        "Location": "Western La Noscea",
+        "Level": 46,
         "JournalSection": 4,
         "JournalCategory": 31,
         "JournalGenre": "\n\t\t\t\t\t\t\tDaily Quests\n\t\t\t\t\t\t",
-        "Url": "/lodestone/playguide/db/quest/7827aef19a8/",
+        "Url": "/lodestone/playguide/db/quest/20327a16283/",
         "Image": null,
         "Icon": "common_repeat",
-        "Issuer": "Muna Vanu",
+        "Issuer": "Houu",
         "StartLocation": {
-            "Name": "The Sea of Clouds",
-            "X": "6.5",
-            "Y": "14.4"
+            "Name": "Western La Noscea",
+            "X": "16.5",
+            "Y": "22.5"
         },
         "StartClass": null,
         "Job": "",
         "Company": "Not specified",
         "Requirement": "Not specified",
         "Rewards": {
-            "Gil": 609,
-            "Exp": null,
-            "ItemsMand": [],
-            "ItemsOpt": []
-        },
-        "Infos": {
-            "RelatedNPC": [
-                {
-                    "Name": "Eenu Vanu",
-                    "Url": "/lodestone/playguide/db/npc/npc/0c596067904/",
-                    "Area": "The Sea of Clouds (X:5.8 Y:14.8)"
-                },
-                {
-                    "Name": "Luna Vanu",
-                    "Url": "/lodestone/playguide/db/shop/db55434d5e1/",
-                    "Area": "The Sea of Clouds (X:7.0 Y:14.2)"
-                },
-                {
-                    "Name": "Vundu Cloudfisher",
-                    "Url": "/lodestone/playguide/db/npc/npc/8d08e40a59a/",
-                    "Area": "The Sea of Clouds (X:36.7 Y:7.7)"
-                },
-                {
-                    "Name": "Vundu Cloudfisher",
-                    "Url": "/lodestone/playguide/db/npc/npc/196e17ef29f/",
-                    "Area": "The Sea of Clouds (X:32.0 Y:12.0)"
-                }
-            ]
-        },
-        "Seq": 21,
-        "oldID": 67720,
-        "Map": {
-            "ID": 215
-        },
-        "StartDependency": false
-    },
-    {
-        "ID": "8d7f1ddba1a",
-        "Name": " Electric Gunduloo",
-        "Location": "The Sea of Clouds",
-        "Level": 50,
-        "JournalSection": 4,
-        "JournalCategory": 31,
-        "JournalGenre": "\n\t\t\t\t\t\t\tDaily Quests\n\t\t\t\t\t\t",
-        "Url": "/lodestone/playguide/db/quest/8d7f1ddba1a/",
-        "Image": null,
-        "Icon": "common_repeat",
-        "Issuer": "Muna Vanu",
-        "StartLocation": {
-            "Name": "The Sea of Clouds",
-            "X": "6.5",
-            "Y": "14.4"
-        },
-        "StartClass": null,
-        "Job": "",
-        "Company": "Not specified",
-        "Requirement": "Not specified",
-        "Rewards": {
-            "Gil": 637,
-            "Exp": null,
-            "ItemsMand": [],
-            "ItemsOpt": []
-        },
-        "Infos": {
-            "RelatedNPC": [
-                {
-                    "Name": "Linu Vanu",
-                    "Url": "/lodestone/playguide/db/npc/npc/8532267b028/",
-                    "Area": "The Sea of Clouds (X:6.1 Y:14.2)"
-                },
-                {
-                    "Name": "Vundu Dancer",
-                    "Url": "/lodestone/playguide/db/npc/npc/245259da836/",
-                    "Area": "The Sea of Clouds (X:21.2 Y:24.5)"
-                },
-                {
-                    "Name": "Vundu Dancer",
-                    "Url": "/lodestone/playguide/db/npc/npc/f88980192c4/",
-                    "Area": "The Sea of Clouds (X:27.2 Y:24.9)"
-                },
-                {
-                    "Name": "Vundu Dancer",
-                    "Url": "/lodestone/playguide/db/npc/npc/4863c165b0f/",
-                    "Area": "The Sea of Clouds (X:18.8 Y:26.6)"
-                }
-            ]
-        },
-        "Seq": 35,
-        "oldID": 67734,
-        "Map": {
-            "ID": 215
-        },
-        "StartDependency": false
-    },
-    {
-        "ID": "96d6a14f11d",
-        "Name": " The House That Ginu Built",
-        "Location": "The Sea of Clouds",
-        "Level": 50,
-        "JournalSection": 4,
-        "JournalCategory": 31,
-        "JournalGenre": "\n\t\t\t\t\t\t\tDaily Quests\n\t\t\t\t\t\t",
-        "Url": "/lodestone/playguide/db/quest/96d6a14f11d/",
-        "Image": null,
-        "Icon": "common_repeat",
-        "Issuer": "Muna Vanu",
-        "StartLocation": {
-            "Name": "The Sea of Clouds",
-            "X": "6.5",
-            "Y": "14.4"
-        },
-        "StartClass": null,
-        "Job": "",
-        "Company": "Not specified",
-        "Requirement": "Not specified",
-        "Rewards": {
-            "Gil": 609,
-            "Exp": null,
-            "ItemsMand": [],
-            "ItemsOpt": []
-        },
-        "Infos": {
-            "RelatedNPC": [
-                {
-                    "Name": "Ginu Vanu",
-                    "Url": "/lodestone/playguide/db/npc/npc/8a693063ee5/",
-                    "Area": "The Sea of Clouds (X:6.7 Y:14.0)"
-                }
-            ]
-        },
-        "Seq": 23,
-        "oldID": 67722,
-        "Map": {
-            "ID": 215
-        },
-        "StartDependency": false
-    },
-    {
-        "ID": "9b9c6c8842e",
-        "Name": " Gastornis Groove",
-        "Location": "The Sea of Clouds",
-        "Level": 50,
-        "JournalSection": 4,
-        "JournalCategory": 31,
-        "JournalGenre": "\n\t\t\t\t\t\t\tDaily Quests\n\t\t\t\t\t\t",
-        "Url": "/lodestone/playguide/db/quest/9b9c6c8842e/",
-        "Image": null,
-        "Icon": "common_repeat",
-        "Issuer": "Muna Vanu",
-        "StartLocation": {
-            "Name": "The Sea of Clouds",
-            "X": "6.5",
-            "Y": "14.4"
-        },
-        "StartClass": null,
-        "Job": "",
-        "Company": "Not specified",
-        "Requirement": "Not specified",
-        "Rewards": {
-            "Gil": 681,
-            "Exp": null,
-            "ItemsMand": [],
-            "ItemsOpt": []
-        },
-        "Infos": {
-            "RelatedNPC": [
-                {
-                    "Name": "Luna Vanu",
-                    "Url": "/lodestone/playguide/db/shop/db55434d5e1/",
-                    "Area": "The Sea of Clouds (X:7.0 Y:14.2)"
-                }
-            ]
-        },
-        "Seq": 31,
-        "oldID": 67730,
-        "Map": {
-            "ID": 215
-        },
-        "StartDependency": false
-    },
-    {
-        "ID": "a25111c3f17",
-        "Name": " A Bone to Pick",
-        "Location": "The Sea of Clouds",
-        "Level": 50,
-        "JournalSection": 4,
-        "JournalCategory": 31,
-        "JournalGenre": "\n\t\t\t\t\t\t\tDaily Quests\n\t\t\t\t\t\t",
-        "Url": "/lodestone/playguide/db/quest/a25111c3f17/",
-        "Image": null,
-        "Icon": "common_repeat",
-        "Issuer": "Muna Vanu",
-        "StartLocation": {
-            "Name": "The Sea of Clouds",
-            "X": "6.5",
-            "Y": "14.4"
-        },
-        "StartClass": null,
-        "Job": "",
-        "Company": "Not specified",
-        "Requirement": "Not specified",
-        "Rewards": {
-            "Gil": 709,
-            "Exp": null,
-            "ItemsMand": [],
-            "ItemsOpt": []
-        },
-        "Infos": {
-            "RelatedNPC": [
-                {
-                    "Name": "Ginu Vanu",
-                    "Url": "/lodestone/playguide/db/npc/npc/8a693063ee5/",
-                    "Area": "The Sea of Clouds (X:6.7 Y:14.0)"
-                }
-            ]
-        },
-        "Seq": 24,
-        "oldID": 67723,
-        "Map": {
-            "ID": 215
-        },
-        "StartDependency": false
-    },
-    {
-        "ID": "a3856325169",
-        "Name": " In the Skycage over the Sea",
-        "Location": "The Sea of Clouds",
-        "Level": 50,
-        "JournalSection": 4,
-        "JournalCategory": 31,
-        "JournalGenre": "\n\t\t\t\t\t\t\tMain Quests\n\t\t\t\t\t\t",
-        "Url": "/lodestone/playguide/db/quest/a3856325169/",
-        "Image": "https://img.finalfantasyxiv.com/lds/pc/global/images/itemicon/e3/e3ce6811f7ebebb7d1c89da9558685786ce8d396.png?n5.55",
-        "Icon": "function_normal",
-        "Issuer": "Linu Vali",
-        "StartLocation": {
-            "Name": "The Sea of Clouds",
-            "X": "6.6",
-            "Y": "14.3"
-        },
-        "StartClass": null,
-        "Job": "",
-        "Company": "Not specified",
-        "Requirement": "Not specified",
-        "Rewards": {
-            "Gil": 602,
-            "Exp": null,
-            "ItemsMand": [],
-            "ItemsOpt": []
-        },
-        "Infos": {
-            "PrerequisiteQuest": [
-                {
-                    "Name": " Linu's Lovely Bones",
-                    "Url": "/lodestone/playguide/db/quest/c70bd54f40e/",
-                    "Area": "The Sea of Clouds",
-                    "Level": "50"
-                }
-            ],
-            "FollowupQuest": [
-                {
-                    "Name": " Fishing for Friendship",
-                    "Url": "/lodestone/playguide/db/quest/df37b7e6984/",
-                    "Area": "The Sea of Clouds",
-                    "Level": "50"
-                }
-            ],
-            "RelatedNPC": [
-                {
-                    "Name": "Linu Vali",
-                    "Url": "/lodestone/playguide/db/npc/npc/7591fbb0418/",
-                    "Area": "The Sea of Clouds (X:16.4 Y:18.0)"
-                },
-                {
-                    "Name": "Linu Vanu",
-                    "Url": "/lodestone/playguide/db/npc/npc/1dbfeab4394/",
-                    "Area": "The Sea of Clouds (X:16.2 Y:17.9)"
-                },
-                {
-                    "Name": "Sanu Vanu",
-                    "Url": "/lodestone/playguide/db/npc/npc/45819fcc9d6/",
-                    "Area": "The Sea of Clouds (X:11.7 Y:14.9)"
-                },
-                {
-                    "Name": "Sonu Vanu",
-                    "Url": "/lodestone/playguide/db/npc/npc/86fa51a3d8e/",
-                    "Area": "The Sea of Clouds (X:11.7 Y:14.8)"
-                }
-            ]
-        },
-        "Seq": 3,
-        "oldID": 67703,
-        "Map": {
-            "ID": 215
-        },
-        "StartDependency": false
-    },
-    {
-        "ID": "ae199759e07",
-        "Name": " Flight of the Midges",
-        "Location": "The Sea of Clouds",
-        "Level": 50,
-        "JournalSection": 4,
-        "JournalCategory": 31,
-        "JournalGenre": "\n\t\t\t\t\t\t\tDaily Quests\n\t\t\t\t\t\t",
-        "Url": "/lodestone/playguide/db/quest/ae199759e07/",
-        "Image": null,
-        "Icon": "common_repeat",
-        "Issuer": "Muna Vanu",
-        "StartLocation": {
-            "Name": "The Sea of Clouds",
-            "X": "6.5",
-            "Y": "14.4"
-        },
-        "StartClass": null,
-        "Job": "",
-        "Company": "Not specified",
-        "Requirement": "Not specified",
-        "Rewards": {
-            "Gil": 461,
-            "Exp": null,
-            "ItemsMand": [],
-            "ItemsOpt": []
-        },
-        "Infos": {
-            "RelatedNPC": [
-                {
-                    "Name": "Luna Vanu",
-                    "Url": "/lodestone/playguide/db/shop/db55434d5e1/",
-                    "Area": "The Sea of Clouds (X:7.0 Y:14.2)"
-                },
-                {
-                    "Name": "Midge Cloud",
-                    "Url": "/lodestone/playguide/db/npc/npc/7b8fceb2713/",
-                    "Area": "The Sea of Clouds (X:13.4 Y:10.3)"
-                },
-                {
-                    "Name": "Midge Cloud",
-                    "Url": "/lodestone/playguide/db/npc/npc/081f60a9c3f/",
-                    "Area": "The Sea of Clouds (X:11.0 Y:11.6)"
-                },
-                {
-                    "Name": "Midge Cloud",
-                    "Url": "/lodestone/playguide/db/npc/npc/282b42937bb/",
-                    "Area": "The Sea of Clouds (X:5.4 Y:18.0)"
-                },
-                {
-                    "Name": "Ranu Vali",
-                    "Url": "/lodestone/playguide/db/npc/npc/87954d16c3a/",
-                    "Area": "The Sea of Clouds (X:6.4 Y:14.7)"
-                }
-            ]
-        },
-        "Seq": 19,
-        "oldID": 67718,
-        "Map": {
-            "ID": 215
-        },
-        "StartDependency": false
-    },
-    {
-        "ID": "aea9d22dab8",
-        "Name": " Rotten to the Korrigan",
-        "Location": "The Sea of Clouds",
-        "Level": 50,
-        "JournalSection": 4,
-        "JournalCategory": 31,
-        "JournalGenre": "\n\t\t\t\t\t\t\tDaily Quests\n\t\t\t\t\t\t",
-        "Url": "/lodestone/playguide/db/quest/aea9d22dab8/",
-        "Image": null,
-        "Icon": "common_repeat",
-        "Issuer": "Muna Vanu",
-        "StartLocation": {
-            "Name": "The Sea of Clouds",
-            "X": "6.5",
-            "Y": "14.4"
-        },
-        "StartClass": null,
-        "Job": "",
-        "Company": "Not specified",
-        "Requirement": "Not specified",
-        "Rewards": {
-            "Gil": 709,
-            "Exp": null,
-            "ItemsMand": [],
-            "ItemsOpt": []
-        },
-        "Infos": {
-            "RelatedNPC": [
-                {
-                    "Name": "Comely Korrigan",
-                    "Url": "/lodestone/playguide/db/npc/npc/cd559b9d0a2/",
-                    "Area": "The Sea of Clouds (X:17.4 Y:29.3)"
-                },
-                {
-                    "Name": "Comely Korrigan",
-                    "Url": "/lodestone/playguide/db/npc/npc/04b3ee23d4c/",
-                    "Area": "The Sea of Clouds (X:17.9 Y:30.9)"
-                },
-                {
-                    "Name": "Comely Korrigan",
-                    "Url": "/lodestone/playguide/db/npc/npc/37de4faee22/",
-                    "Area": "The Sea of Clouds (X:18.6 Y:29.2)"
-                },
-                {
-                    "Name": "Comely Korrigan",
-                    "Url": "/lodestone/playguide/db/npc/npc/b3af8141cfc/",
-                    "Area": "The Sea of Clouds (X:17.3 Y:30.3)"
-                },
-                {
-                    "Name": "Ranu Vali",
-                    "Url": "/lodestone/playguide/db/npc/npc/87954d16c3a/",
-                    "Area": "The Sea of Clouds (X:6.4 Y:14.7)"
-                }
-            ]
-        },
-        "Seq": 30,
-        "oldID": 67729,
-        "Map": {
-            "ID": 215
-        },
-        "StartDependency": false
-    },
-    {
-        "ID": "b3952f9b240",
-        "Name": " The Binding Soil",
-        "Location": "The Sea of Clouds",
-        "Level": 50,
-        "JournalSection": 4,
-        "JournalCategory": 31,
-        "JournalGenre": "\n\t\t\t\t\t\t\tDaily Quests\n\t\t\t\t\t\t",
-        "Url": "/lodestone/playguide/db/quest/b3952f9b240/",
-        "Image": null,
-        "Icon": "common_repeat",
-        "Issuer": "Muna Vanu",
-        "StartLocation": {
-            "Name": "The Sea of Clouds",
-            "X": "6.5",
-            "Y": "14.4"
-        },
-        "StartClass": null,
-        "Job": "",
-        "Company": "Not specified",
-        "Requirement": "Not specified",
-        "Rewards": {
-            "Gil": 609,
-            "Exp": null,
-            "ItemsMand": [],
-            "ItemsOpt": []
-        },
-        "Infos": {
-            "RelatedNPC": [
-                {
-                    "Name": "Ranu Vali",
-                    "Url": "/lodestone/playguide/db/npc/npc/87954d16c3a/",
-                    "Area": "The Sea of Clouds (X:6.4 Y:14.7)"
-                }
-            ]
-        },
-        "Seq": 18,
-        "oldID": 67717,
-        "Map": {
-            "ID": 215
-        },
-        "StartDependency": false
-    },
-    {
-        "ID": "b50d0949a18",
-        "Name": " Sundrop the Beat",
-        "Location": "The Sea of Clouds",
-        "Level": 50,
-        "JournalSection": 4,
-        "JournalCategory": 31,
-        "JournalGenre": "\n\t\t\t\t\t\t\tMain Quests\n\t\t\t\t\t\t",
-        "Url": "/lodestone/playguide/db/quest/b50d0949a18/",
-        "Image": "https://img.finalfantasyxiv.com/lds/pc/global/images/itemicon/fb/fbd76069b75973402f293aa8c2eeca44f5d1a795.png?n5.55",
-        "Icon": "function_normal",
-        "Issuer": "Linu Vali",
-        "StartLocation": {
-            "Name": "The Sea of Clouds",
-            "X": "6.6",
-            "Y": "14.3"
-        },
-        "StartClass": null,
-        "Job": "",
-        "Company": "Not specified",
-        "Requirement": "Not specified",
-        "Rewards": {
-            "Gil": 602,
-            "Exp": null,
-            "ItemsMand": [
-                {
-                    "Icon": "https://img.finalfantasyxiv.com/lds/pc/global/images/itemicon/6e/6ebf595c03fa55509991ad4f614bf3a4fa72fcac.png?n5.55",
-                    "Name": "",
-                    "Amount": null
-                }
-            ],
-            "ItemsOpt": []
-        },
-        "Infos": {
-            "PrerequisiteQuest": [
-                {
-                    "Name": " Fishing for Friendship",
-                    "Url": "/lodestone/playguide/db/quest/df37b7e6984/",
-                    "Area": "The Sea of Clouds",
-                    "Level": "50"
-                }
-            ],
-            "FollowupQuest": [
-                {
-                    "Name": " Nest Side Story",
-                    "Url": "/lodestone/playguide/db/quest/eff343d24bb/",
-                    "Area": "The Sea of Clouds",
-                    "Level": "50"
-                }
-            ],
-            "RelatedNPC": [
-                {
-                    "Name": "Linu Vali",
-                    "Url": "/lodestone/playguide/db/npc/npc/83a780d4d36/",
-                    "Area": "The Sea of Clouds (X:10.4 Y:15.1)"
-                },
-                {
-                    "Name": "Linu Vali",
-                    "Url": "/lodestone/playguide/db/npc/npc/c91a408d167/",
-                    "Area": "The Sea of Clouds (X:35.7 Y:28.7)"
-                },
-                {
-                    "Name": "Linu Vanu",
-                    "Url": "/lodestone/playguide/db/npc/npc/8532267b028/",
-                    "Area": "The Sea of Clouds (X:6.1 Y:14.2)"
-                },
-                {
-                    "Name": "Sanu Vanu",
-                    "Url": "/lodestone/playguide/db/npc/npc/45819fcc9d6/",
-                    "Area": "The Sea of Clouds (X:11.7 Y:14.9)"
-                },
-                {
-                    "Name": "Sonu Vanu",
-                    "Url": "/lodestone/playguide/db/npc/npc/86fa51a3d8e/",
-                    "Area": "The Sea of Clouds (X:11.7 Y:14.8)"
-                }
-            ]
-        },
-        "Seq": 5,
-        "oldID": 67705,
-        "Map": {
-            "ID": 215
-        },
-        "StartDependency": false
-    },
-    {
-        "ID": "c581ccac535",
-        "Name": " A Tribal Reunion",
-        "Location": "The Sea of Clouds",
-        "Level": 50,
-        "JournalSection": 4,
-        "JournalCategory": 31,
-        "JournalGenre": "\n\t\t\t\t\t\t\tMain Quests\n\t\t\t\t\t\t",
-        "Url": "/lodestone/playguide/db/quest/c581ccac535/",
-        "Image": "https://img.finalfantasyxiv.com/lds/pc/global/images/itemicon/ac/ac1b5ce5b8e7155a18ce6a71bedaee9777e0ebd0.png?n5.55",
-        "Icon": "function_normal",
-        "Issuer": "Linu Vali",
-        "StartLocation": {
-            "Name": "The Sea of Clouds",
-            "X": "6.6",
-            "Y": "14.3"
-        },
-        "StartClass": null,
-        "Job": "",
-        "Company": "Not specified",
-        "Requirement": "Not specified",
-        "Rewards": {
-            "Gil": 822,
-            "Exp": null,
-            "ItemsMand": [],
-            "ItemsOpt": []
-        },
-        "Infos": {
-            "PrerequisiteQuest": [
-                {
-                    "Name": " Three Beaks to the Wind",
-                    "Url": "/lodestone/playguide/db/quest/24a34687170/",
-                    "Area": "The Sea of Clouds",
-                    "Level": "50"
-                }
-            ],
-            "FollowupQuest": [
-                {
-                    "Name": " Linu's Lovely Bones",
-                    "Url": "/lodestone/playguide/db/quest/c70bd54f40e/",
-                    "Area": "The Sea of Clouds",
-                    "Level": "50"
-                }
-            ],
-            "RelatedNPC": [
-                {
-                    "Name": "Eenu Vanu",
-                    "Url": "/lodestone/playguide/db/npc/npc/4fe7e422ec4/",
-                    "Area": "The Sea of Clouds (X:24.7 Y:32.4)"
-                },
-                {
-                    "Name": "Eenu Vanu",
-                    "Url": "/lodestone/playguide/db/npc/npc/977368f698e/",
-                    "Area": "The Sea of Clouds (X:24.8 Y:32.2)"
-                },
-                {
-                    "Name": "Eenu Vanu",
-                    "Url": "/lodestone/playguide/db/npc/npc/3a743776891/",
-                    "Area": "The Sea of Clouds (X:24.8 Y:32.2)"
-                },
-                {
-                    "Name": "Linu Vali",
-                    "Url": "/lodestone/playguide/db/npc/npc/d0700f03479/",
-                    "Area": "The Sea of Clouds (X:24.8 Y:32.1)"
-                },
-                {
-                    "Name": "Linu Vali",
-                    "Url": "/lodestone/playguide/db/npc/npc/337578c590b/",
-                    "Area": "The Sea of Clouds (X:24.8 Y:32.1)"
-                },
-                {
-                    "Name": "Ranu Vali",
-                    "Url": "/lodestone/playguide/db/npc/npc/a0d18417d22/",
-                    "Area": "The Sea of Clouds (X:24.8 Y:32.1)"
-                },
-                {
-                    "Name": "Ranu Vali",
-                    "Url": "/lodestone/playguide/db/npc/npc/acbb4fe373e/",
-                    "Area": "The Sea of Clouds (X:24.8 Y:32.1)"
-                },
-                {
-                    "Name": "Sanu Vanu",
-                    "Url": "/lodestone/playguide/db/npc/npc/45819fcc9d6/",
-                    "Area": "The Sea of Clouds (X:11.7 Y:14.9)"
-                },
-                {
-                    "Name": "Sonu Vanu",
-                    "Url": "/lodestone/playguide/db/npc/npc/86fa51a3d8e/",
-                    "Area": "The Sea of Clouds (X:11.7 Y:14.8)"
-                }
-            ]
-        },
-        "Seq": 1,
-        "oldID": 67701,
-        "Map": {
-            "ID": 215
-        },
-        "StartDependency": false
-    },
-    {
-        "ID": "c70bd54f40e",
-        "Name": " Linu's Lovely Bones",
-        "Location": "The Sea of Clouds",
-        "Level": 50,
-        "JournalSection": 4,
-        "JournalCategory": 31,
-        "JournalGenre": "\n\t\t\t\t\t\t\tMain Quests\n\t\t\t\t\t\t",
-        "Url": "/lodestone/playguide/db/quest/c70bd54f40e/",
-        "Image": "https://img.finalfantasyxiv.com/lds/pc/global/images/itemicon/06/0640532cedccd4808db411cd45c3a5171cc01b5e.png?n5.55",
-        "Icon": "function_normal",
-        "Issuer": "Linu Vali",
-        "StartLocation": {
-            "Name": "The Sea of Clouds",
-            "X": "6.6",
-            "Y": "14.3"
-        },
-        "StartClass": null,
-        "Job": "",
-        "Company": "Not specified",
-        "Requirement": "Not specified",
-        "Rewards": {
-            "Gil": 724,
-            "Exp": null,
-            "ItemsMand": [],
-            "ItemsOpt": []
-        },
-        "Infos": {
-            "PrerequisiteQuest": [
-                {
-                    "Name": " A Tribal Reunion",
-                    "Url": "/lodestone/playguide/db/quest/c581ccac535/",
-                    "Area": "The Sea of Clouds",
-                    "Level": "50"
-                }
-            ],
-            "FollowupQuest": [
-                {
-                    "Name": " In the Skycage over the Sea",
-                    "Url": "/lodestone/playguide/db/quest/a3856325169/",
-                    "Area": "The Sea of Clouds",
-                    "Level": "50"
-                }
-            ],
-            "RelatedNPC": [
-                {
-                    "Name": "Ginu Vanu",
-                    "Url": "/lodestone/playguide/db/npc/npc/178b1505217/",
-                    "Area": "The Sea of Clouds (X:33.7 Y:28.2)"
-                },
-                {
-                    "Name": "Linu Vali",
-                    "Url": "/lodestone/playguide/db/npc/npc/408a30c33fd/",
-                    "Area": "The Sea of Clouds (X:33.7 Y:28.2)"
-                },
-                {
-                    "Name": "Sanu Vanu",
-                    "Url": "/lodestone/playguide/db/npc/npc/45819fcc9d6/",
-                    "Area": "The Sea of Clouds (X:11.7 Y:14.9)"
-                },
-                {
-                    "Name": "Sonu Vanu",
-                    "Url": "/lodestone/playguide/db/npc/npc/86fa51a3d8e/",
-                    "Area": "The Sea of Clouds (X:11.7 Y:14.8)"
-                }
-            ]
-        },
-        "Seq": 2,
-        "oldID": 67702,
-        "Map": {
-            "ID": 215
-        },
-        "StartDependency": false
-    },
-    {
-        "ID": "d575abfd912",
-        "Name": " Nailed Down",
-        "Location": "The Sea of Clouds",
-        "Level": 50,
-        "JournalSection": 4,
-        "JournalCategory": 31,
-        "JournalGenre": "\n\t\t\t\t\t\t\tDaily Quests\n\t\t\t\t\t\t",
-        "Url": "/lodestone/playguide/db/quest/d575abfd912/",
-        "Image": null,
-        "Icon": "common_repeat",
-        "Issuer": "Muna Vanu",
-        "StartLocation": {
-            "Name": "The Sea of Clouds",
-            "X": "6.5",
-            "Y": "14.4"
-        },
-        "StartClass": null,
-        "Job": "",
-        "Company": "Not specified",
-        "Requirement": "Not specified",
-        "Rewards": {
-            "Gil": 665,
-            "Exp": null,
-            "ItemsMand": [],
-            "ItemsOpt": []
-        },
-        "Infos": {
-            "RelatedNPC": [
-                {
-                    "Name": "Fabrellet",
-                    "Url": "/lodestone/playguide/db/npc/npc/864646bd557/",
-                    "Area": "The Sea of Clouds (X:9.7 Y:31.9)"
-                },
-                {
-                    "Name": "Ginu Vanu",
-                    "Url": "/lodestone/playguide/db/npc/npc/8a693063ee5/",
-                    "Area": "The Sea of Clouds (X:6.7 Y:14.0)"
-                }
-            ]
-        },
-        "Seq": 22,
-        "oldID": 67721,
-        "Map": {
-            "ID": 215
-        },
-        "StartDependency": false
-    },
-    {
-        "ID": "df37b7e6984",
-        "Name": " Fishing for Friendship",
-        "Location": "The Sea of Clouds",
-        "Level": 50,
-        "JournalSection": 4,
-        "JournalCategory": 31,
-        "JournalGenre": "\n\t\t\t\t\t\t\tMain Quests\n\t\t\t\t\t\t",
-        "Url": "/lodestone/playguide/db/quest/df37b7e6984/",
-        "Image": "https://img.finalfantasyxiv.com/lds/pc/global/images/itemicon/d2/d23b55ffdc1893128a023d3eb531ded8dbff63f9.png?n5.55",
-        "Icon": "function_normal",
-        "Issuer": "Linu Vali",
-        "StartLocation": {
-            "Name": "The Sea of Clouds",
-            "X": "6.6",
-            "Y": "14.3"
-        },
-        "StartClass": null,
-        "Job": "",
-        "Company": "Not specified",
-        "Requirement": "Not specified",
-        "Rewards": {
-            "Gil": 814,
-            "Exp": null,
-            "ItemsMand": [],
-            "ItemsOpt": []
-        },
-        "Infos": {
-            "PrerequisiteQuest": [
-                {
-                    "Name": " In the Skycage over the Sea",
-                    "Url": "/lodestone/playguide/db/quest/a3856325169/",
-                    "Area": "The Sea of Clouds",
-                    "Level": "50"
-                }
-            ],
-            "FollowupQuest": [
-                {
-                    "Name": " Sundrop the Beat",
-                    "Url": "/lodestone/playguide/db/quest/b50d0949a18/",
-                    "Area": "The Sea of Clouds",
-                    "Level": "50"
-                }
-            ],
-            "RelatedNPC": [
-                {
-                    "Name": "Linu Vali",
-                    "Url": "/lodestone/playguide/db/npc/npc/2bc1ff0545b/",
-                    "Area": "The Sea of Clouds (X:26.6 Y:31.0)"
-                },
-                {
-                    "Name": "Linu Vanu",
-                    "Url": "/lodestone/playguide/db/npc/npc/8532267b028/",
-                    "Area": "The Sea of Clouds (X:6.1 Y:14.2)"
-                }
-            ]
-        },
-        "Seq": 4,
-        "oldID": 67704,
-        "Map": {
-            "ID": 215
-        },
-        "StartDependency": false
-    },
-    {
-        "ID": "e9a2478e573",
-        "Name": " Comb and Get It",
-        "Location": "The Sea of Clouds",
-        "Level": 50,
-        "JournalSection": 4,
-        "JournalCategory": 31,
-        "JournalGenre": "\n\t\t\t\t\t\t\tDaily Quests\n\t\t\t\t\t\t",
-        "Url": "/lodestone/playguide/db/quest/e9a2478e573/",
-        "Image": null,
-        "Icon": "common_repeat",
-        "Issuer": "Muna Vanu",
-        "StartLocation": {
-            "Name": "The Sea of Clouds",
-            "X": "6.5",
-            "Y": "14.4"
-        },
-        "StartClass": null,
-        "Job": "",
-        "Company": "Not specified",
-        "Requirement": "Not specified",
-        "Rewards": {
-            "Gil": 461,
-            "Exp": null,
-            "ItemsMand": [],
-            "ItemsOpt": []
-        },
-        "Infos": {
-            "RelatedNPC": [
-                {
-                    "Name": "Guna Vanu",
-                    "Url": "/lodestone/playguide/db/npc/npc/bc70123b282/",
-                    "Area": "The Sea of Clouds (X:10.6 Y:14.8)"
-                }
-            ]
-        },
-        "Seq": 17,
-        "oldID": 67716,
-        "Map": {
-            "ID": 215
-        },
-        "StartDependency": false
-    },
-    {
-        "ID": "e9c4e71f07e",
-        "Name": " Endymion Disco",
-        "Location": "The Sea of Clouds",
-        "Level": 50,
-        "JournalSection": 4,
-        "JournalCategory": 31,
-        "JournalGenre": "\n\t\t\t\t\t\t\tDaily Quests\n\t\t\t\t\t\t",
-        "Url": "/lodestone/playguide/db/quest/e9c4e71f07e/",
-        "Image": null,
-        "Icon": "common_repeat",
-        "Issuer": "Muna Vanu",
-        "StartLocation": {
-            "Name": "The Sea of Clouds",
-            "X": "6.5",
-            "Y": "14.4"
-        },
-        "StartClass": null,
-        "Job": "",
-        "Company": "Not specified",
-        "Requirement": "Not specified",
-        "Rewards": {
-            "Gil": 581,
-            "Exp": null,
-            "ItemsMand": [],
-            "ItemsOpt": []
-        },
-        "Infos": {
-            "RelatedNPC": [
-                {
-                    "Name": "Luna Vanu",
-                    "Url": "/lodestone/playguide/db/shop/db55434d5e1/",
-                    "Area": "The Sea of Clouds (X:7.0 Y:14.2)"
-                }
-            ]
-        },
-        "Seq": 10,
-        "oldID": 67709,
-        "Map": {
-            "ID": 215
-        },
-        "StartDependency": false
-    },
-    {
-        "ID": "e9d36c979a6",
-        "Name": " Veni, Vundu, Vici",
-        "Location": "The Sea of Clouds",
-        "Level": 50,
-        "JournalSection": 4,
-        "JournalCategory": 31,
-        "JournalGenre": "\n\t\t\t\t\t\t\tDaily Quests\n\t\t\t\t\t\t",
-        "Url": "/lodestone/playguide/db/quest/e9d36c979a6/",
-        "Image": null,
-        "Icon": "common_repeat",
-        "Issuer": "Muna Vanu",
-        "StartLocation": {
-            "Name": "The Sea of Clouds",
-            "X": "6.5",
-            "Y": "14.4"
-        },
-        "StartClass": null,
-        "Job": "",
-        "Company": "Not specified",
-        "Requirement": "Not specified",
-        "Rewards": {
-            "Gil": 609,
-            "Exp": null,
+            "Gil": 660,
+            "Exp": 4743,
             "ItemsMand": [],
             "ItemsOpt": []
         },
         "Infos": {},
-        "Seq": 8,
-        "oldID": 67707,
-        "Map": {
-            "ID": 215
-        },
+        "Seq": 18,
         "StartDependency": false
     },
     {
-        "ID": "eeea1619d32",
-        "Name": " Fishing in Troubled Waters",
-        "Location": "The Sea of Clouds",
-        "Level": 50,
+        "ID": "3e8aa2e4ad7",
+        "Name": "Spawning Ground Salvation",
+        "Location": "Western La Noscea",
+        "Level": 44,
         "JournalSection": 4,
         "JournalCategory": 31,
         "JournalGenre": "\n\t\t\t\t\t\t\tDaily Quests\n\t\t\t\t\t\t",
-        "Url": "/lodestone/playguide/db/quest/eeea1619d32/",
+        "Url": "/lodestone/playguide/db/quest/3e8aa2e4ad7/",
         "Image": null,
         "Icon": "common_repeat",
-        "Issuer": "Muna Vanu",
+        "Issuer": "Fyuu",
         "StartLocation": {
-            "Name": "The Sea of Clouds",
-            "X": "6.5",
-            "Y": "14.4"
+            "Name": "Western La Noscea",
+            "X": "17.0",
+            "Y": "22.2"
         },
         "StartClass": null,
         "Job": "",
         "Company": "Not specified",
         "Requirement": "Not specified",
         "Rewards": {
-            "Gil": 609,
-            "Exp": null,
+            "Gil": 540,
+            "Exp": 4372,
             "ItemsMand": [],
             "ItemsOpt": []
         },
         "Infos": {
             "RelatedNPC": [
                 {
-                    "Name": "Eenu Vanu",
-                    "Url": "/lodestone/playguide/db/npc/npc/0c596067904/",
-                    "Area": "The Sea of Clouds (X:5.8 Y:14.8)"
+                    "Name": "Captive Storm Recruit",
+                    "Url": "/lodestone/playguide/db/npc/npc/9e66768e3ea/",
+                    "Area": "Western La Noscea (X:17.2 Y:19.4)"
                 },
                 {
-                    "Name": "Zundu Cloudfisher",
-                    "Url": "/lodestone/playguide/db/npc/npc/95484902a87/",
-                    "Area": "The Sea of Clouds (X:39.2 Y:7.7)"
+                    "Name": "Captive Storm Recruit",
+                    "Url": "/lodestone/playguide/db/npc/npc/1cff6c7baac/",
+                    "Area": "Western La Noscea (X:17.2 Y:19.3)"
+                },
+                {
+                    "Name": "Captive Storm Recruit",
+                    "Url": "/lodestone/playguide/db/npc/npc/1f6eff4630a/",
+                    "Area": "Western La Noscea (X:17.2 Y:19.4)"
+                },
+                {
+                    "Name": "Sahagin Sentry",
+                    "Url": "/lodestone/playguide/db/npc/npc/c01e495e262/",
+                    "Area": "Western La Noscea (X:17.0 Y:19.2)"
+                },
+                {
+                    "Name": "Sahagin Sentry",
+                    "Url": "/lodestone/playguide/db/npc/npc/cd477dcab44/",
+                    "Area": "Western La Noscea (X:17.5 Y:19.0)"
+                },
+                {
+                    "Name": "Sahagin Sentry",
+                    "Url": "/lodestone/playguide/db/npc/npc/4fce5552846/",
+                    "Area": "Western La Noscea (X:17.7 Y:20.6)"
+                },
+                {
+                    "Name": "Sahagin Sentry",
+                    "Url": "/lodestone/playguide/db/npc/npc/09df174688b/",
+                    "Area": "Western La Noscea (X:18.3 Y:20.4)"
+                },
+                {
+                    "Name": "Sahagin Sentry",
+                    "Url": "/lodestone/playguide/db/npc/npc/e48873d5e94/",
+                    "Area": "Western La Noscea (X:18.4 Y:20.0)"
+                },
+                {
+                    "Name": "Sahagin Sentry",
+                    "Url": "/lodestone/playguide/db/npc/npc/df547c0f982/",
+                    "Area": "Western La Noscea (X:18.0 Y:19.5)"
+                },
+                {
+                    "Name": "Sahagin Sentry",
+                    "Url": "/lodestone/playguide/db/npc/npc/99df0b6e7a3/",
+                    "Area": "Western La Noscea (X:18.6 Y:19.3)"
                 }
             ]
         },
-        "Seq": 20,
-        "oldID": 67719,
-        "Map": {
-            "ID": 215
-        },
+        "Seq": 13,
         "StartDependency": false
     },
     {
-        "ID": "eff343d24bb",
-        "Name": " Nest Side Story",
-        "Location": "The Sea of Clouds",
-        "Level": 50,
+        "ID": "4677a08c329",
+        "Name": "The Scarlet Bloodletter",
+        "Location": "Western La Noscea",
+        "Level": 46,
         "JournalSection": 4,
         "JournalCategory": 31,
         "JournalGenre": "\n\t\t\t\t\t\t\tMain Quests\n\t\t\t\t\t\t",
-        "Url": "/lodestone/playguide/db/quest/eff343d24bb/",
-        "Image": "https://img.finalfantasyxiv.com/lds/pc/global/images/itemicon/b7/b7d42773ffb93720a13f0eb0a10d93a9dec88bb2.png?n5.55",
+        "Url": "/lodestone/playguide/db/quest/4677a08c329/",
+        "Image": "https://img.finalfantasyxiv.com/lds/pc/global/images/itemicon/5e/5ed0a40fe5594ed2926dcc08a0cc5a3cd14dbf7b.png?n6.05",
         "Icon": "function_normal",
-        "Issuer": "Linu Vali",
+        "Issuer": "Novv",
         "StartLocation": {
-            "Name": "The Sea of Clouds",
-            "X": "6.6",
-            "Y": "14.3"
+            "Name": "Western La Noscea",
+            "X": "16.7",
+            "Y": "22.8"
         },
         "StartClass": null,
         "Job": "",
         "Company": "Not specified",
         "Requirement": "Not specified",
         "Rewards": {
-            "Gil": 630,
-            "Exp": null,
+            "Gil": 753,
+            "Exp": 6325,
             "ItemsMand": [],
             "ItemsOpt": []
         },
         "Infos": {
             "PrerequisiteQuest": [
                 {
-                    "Name": " Sundrop the Beat",
-                    "Url": "/lodestone/playguide/db/quest/b50d0949a18/",
-                    "Area": "The Sea of Clouds",
-                    "Level": "50"
+                    "Name": "Clutch and Kin",
+                    "Url": "/lodestone/playguide/db/quest/5f36f9fc938/",
+                    "Area": "Western La Noscea",
+                    "Level": "44"
                 }
             ],
             "FollowupQuest": [
                 {
-                    "Name": "The Nest of Honor",
-                    "Url": "/lodestone/playguide/db/quest/358e3bfa893/",
-                    "Area": "The Sea of Clouds",
-                    "Level": "50"
+                    "Name": "Watching the Spawn",
+                    "Url": "/lodestone/playguide/db/quest/7138516f230/",
+                    "Area": "Western La Noscea",
+                    "Level": "48"
                 }
             ],
             "RelatedNPC": [
                 {
-                    "Name": "Eenu Vanu",
-                    "Url": "/lodestone/playguide/db/npc/npc/0c596067904/",
-                    "Area": "The Sea of Clouds (X:5.8 Y:14.8)"
+                    "Name": "Pahh",
+                    "Url": "/lodestone/playguide/db/npc/npc/e1731c57a26/",
+                    "Area": "Western La Noscea (X:16.6 Y:21.7)"
                 },
                 {
-                    "Name": "Ginu Vanu",
-                    "Url": "/lodestone/playguide/db/npc/npc/8a693063ee5/",
-                    "Area": "The Sea of Clouds (X:6.7 Y:14.0)"
+                    "Name": "Swallow Captain",
+                    "Url": "/lodestone/playguide/db/npc/npc/6aecb6ab217/",
+                    "Area": "Western La Noscea (X:3.6 Y:40.0)"
                 },
                 {
-                    "Name": "Linu Vanu",
-                    "Url": "/lodestone/playguide/db/npc/npc/8532267b028/",
-                    "Area": "The Sea of Clouds (X:6.1 Y:14.2)"
-                },
-                {
-                    "Name": "Ranu Vali",
-                    "Url": "/lodestone/playguide/db/npc/npc/87954d16c3a/",
-                    "Area": "The Sea of Clouds (X:6.4 Y:14.7)"
-                },
-                {
-                    "Name": "Sanu Vanu",
-                    "Url": "/lodestone/playguide/db/npc/npc/45819fcc9d6/",
-                    "Area": "The Sea of Clouds (X:11.7 Y:14.9)"
-                },
-                {
-                    "Name": "Sonu Vanu",
-                    "Url": "/lodestone/playguide/db/npc/npc/86fa51a3d8e/",
-                    "Area": "The Sea of Clouds (X:11.7 Y:14.8)"
+                    "Name": "Swallow Captain",
+                    "Url": "/lodestone/playguide/db/npc/npc/7d52da9967f/",
+                    "Area": "Western La Noscea (X:27.8 Y:26.9)"
                 }
             ]
         },
-        "Seq": 6,
-        "oldID": 67706,
-        "Map": {
-            "ID": 215
-        },
+        "Seq": 2,
         "StartDependency": false
     },
     {
-        "ID": "f58748e29a0",
-        "Name": " Sanuwa Samba",
-        "Location": "The Sea of Clouds",
-        "Level": 50,
+        "ID": "5f36f9fc938",
+        "Name": "Clutch and Kin",
+        "Location": "Western La Noscea",
+        "Level": 44,
         "JournalSection": 4,
         "JournalCategory": 31,
-        "JournalGenre": "\n\t\t\t\t\t\t\tDaily Quests\n\t\t\t\t\t\t",
-        "Url": "/lodestone/playguide/db/quest/f58748e29a0/",
-        "Image": null,
-        "Icon": "common_repeat",
-        "Issuer": "Muna Vanu",
+        "JournalGenre": "\n\t\t\t\t\t\t\tMain Quests\n\t\t\t\t\t\t",
+        "Url": "/lodestone/playguide/db/quest/5f36f9fc938/",
+        "Image": "https://img.finalfantasyxiv.com/lds/pc/global/images/itemicon/7f/7f89a4c7327b3177642f66bf29ef8ce8b67fc502.png?n6.05",
+        "Icon": "function_normal",
+        "Issuer": "Novv",
         "StartLocation": {
-            "Name": "The Sea of Clouds",
-            "X": "6.5",
-            "Y": "14.4"
+            "Name": "Western La Noscea",
+            "X": "16.7",
+            "Y": "22.8"
         },
         "StartClass": null,
         "Job": "",
         "Company": "Not specified",
         "Requirement": "Not specified",
         "Rewards": {
-            "Gil": 581,
-            "Exp": null,
+            "Gil": 729,
+            "Exp": 5830,
+            "ItemsMand": [],
+            "ItemsOpt": []
+        },
+        "Infos": {
+            "PrerequisiteQuest": [
+                {
+                    "Name": "They Came from the Deep",
+                    "Url": "/lodestone/playguide/db/quest/f6cfe116e17/",
+                    "Area": "Limsa Lominsa",
+                    "Level": "44"
+                }
+            ],
+            "FollowupQuest": [
+                {
+                    "Name": "The Scarlet Bloodletter",
+                    "Url": "/lodestone/playguide/db/quest/4677a08c329/",
+                    "Area": "Western La Noscea",
+                    "Level": "46"
+                }
+            ],
+            "RelatedNPC": [
+                {
+                    "Name": "Pyuu",
+                    "Url": "/lodestone/playguide/db/npc/npc/72ee839fcc7/",
+                    "Area": "Western La Noscea (X:20.7 Y:19.7)"
+                },
+                {
+                    "Name": "Seww",
+                    "Url": "/lodestone/playguide/db/npc/npc/c083c166190/",
+                    "Area": "Western La Noscea (X:16.9 Y:22.6)"
+                }
+            ]
+        },
+        "Seq": 1,
+        "StartDependency": false
+    },
+    {
+        "ID": "644e43bcf56",
+        "Name": "Like Clutchfather, Like Son",
+        "Location": "Western La Noscea",
+        "Level": 48,
+        "JournalSection": 4,
+        "JournalCategory": 31,
+        "JournalGenre": "\n\t\t\t\t\t\t\tMain Quests\n\t\t\t\t\t\t",
+        "Url": "/lodestone/playguide/db/quest/644e43bcf56/",
+        "Image": "https://img.finalfantasyxiv.com/lds/pc/global/images/itemicon/38/383e91479ecd1caaf2201fa152e4ed69accabba4.png?n6.05",
+        "Icon": "function_normal",
+        "Issuer": "Novv",
+        "StartLocation": {
+            "Name": "Western La Noscea",
+            "X": "16.7",
+            "Y": "22.8"
+        },
+        "StartClass": null,
+        "Job": "",
+        "Company": "Not specified",
+        "Requirement": "Not specified",
+        "Rewards": {
+            "Gil": 1184,
+            "Exp": 6840,
+            "ItemsMand": [],
+            "ItemsOpt": []
+        },
+        "Infos": {
+            "PrerequisiteQuest": [
+                {
+                    "Name": "Watching the Spawn",
+                    "Url": "/lodestone/playguide/db/quest/7138516f230/",
+                    "Area": "Western La Noscea",
+                    "Level": "48"
+                }
+            ],
+            "RelatedNPC": [
+                {
+                    "Name": "R'ashaht Rhiki",
+                    "Url": "/lodestone/playguide/db/npc/npc/18feb495b80/",
+                    "Area": "Limsa Lominsa Upper Decks (X:13.1 Y:12.8)"
+                },
+                {
+                    "Name": "Councillor Turstin",
+                    "Url": "/lodestone/playguide/db/npc/npc/5b98b895a6c/",
+                    "Area": "Western La Noscea (X:3.1 Y:37.7)"
+                },
+                {
+                    "Name": "Councillor Turstin",
+                    "Url": "/lodestone/playguide/db/npc/npc/8cbd88ed7b0/",
+                    "Area": "Western La Noscea (X:27.9 Y:28.4)"
+                },
+                {
+                    "Name": "Falkbryda",
+                    "Url": "/lodestone/playguide/db/npc/npc/732bca1d47a/",
+                    "Area": "Western La Noscea (X:22.7 Y:22.7)"
+                },
+                {
+                    "Name": "Novv",
+                    "Url": "/lodestone/playguide/db/npc/npc/dd20fc604a7/",
+                    "Area": "Western La Noscea (X:3.1 Y:37.7)"
+                },
+                {
+                    "Name": "Pahh",
+                    "Url": "/lodestone/playguide/db/npc/npc/e1731c57a26/",
+                    "Area": "Western La Noscea (X:16.6 Y:21.7)"
+                }
+            ]
+        },
+        "Seq": 4,
+        "StartDependency": false
+    },
+    {
+        "ID": "6e60286092d",
+        "Name": "A Nap Before Drowning",
+        "Location": "Western La Noscea",
+        "Level": 46,
+        "JournalSection": 4,
+        "JournalCategory": 31,
+        "JournalGenre": "\n\t\t\t\t\t\t\tDaily Quests\n\t\t\t\t\t\t",
+        "Url": "/lodestone/playguide/db/quest/6e60286092d/",
+        "Image": null,
+        "Icon": "common_repeat",
+        "Issuer": "Houu",
+        "StartLocation": {
+            "Name": "Western La Noscea",
+            "X": "16.5",
+            "Y": "22.5"
+        },
+        "StartClass": null,
+        "Job": "",
+        "Company": "Not specified",
+        "Requirement": "Not specified",
+        "Rewards": {
+            "Gil": 660,
+            "Exp": 4743,
             "ItemsMand": [],
             "ItemsOpt": []
         },
         "Infos": {
             "RelatedNPC": [
                 {
-                    "Name": "Luna Vanu",
-                    "Url": "/lodestone/playguide/db/shop/db55434d5e1/",
-                    "Area": "The Sea of Clouds (X:7.0 Y:14.2)"
+                    "Name": "Captive Storm Recruit",
+                    "Url": "/lodestone/playguide/db/npc/npc/5c2984fabad/",
+                    "Area": "Western La Noscea (X:18.2 Y:16.0)"
                 },
                 {
-                    "Name": "Vundu Youth",
-                    "Url": "/lodestone/playguide/db/npc/npc/6bf30a69032/",
-                    "Area": "The Sea of Clouds (X:24.5 Y:31.8)"
+                    "Name": "Captive Storm Recruit",
+                    "Url": "/lodestone/playguide/db/npc/npc/dbc6a0f7b58/",
+                    "Area": "Western La Noscea (X:17.1 Y:14.8)"
                 },
                 {
-                    "Name": "Vundu Youth",
-                    "Url": "/lodestone/playguide/db/npc/npc/6a35d27ebb8/",
-                    "Area": "The Sea of Clouds (X:25.3 Y:31.2)"
+                    "Name": "Captive Storm Recruit",
+                    "Url": "/lodestone/playguide/db/npc/npc/04b5e5ac8d1/",
+                    "Area": "Western La Noscea (X:16.0 Y:16.2)"
                 },
                 {
-                    "Name": "Vundu Youth",
-                    "Url": "/lodestone/playguide/db/npc/npc/d345f6ec647/",
-                    "Area": "The Sea of Clouds (X:22.8 Y:30.8)"
+                    "Name": "Captive Storm Recruit",
+                    "Url": "/lodestone/playguide/db/npc/npc/ed958667fe2/",
+                    "Area": "Western La Noscea (X:17.6 Y:17.2)"
                 }
             ]
         },
+        "Seq": 23,
+        "StartDependency": false
+    },
+    {
+        "ID": "7138516f230",
+        "Name": "Watching the Spawn",
+        "Location": "Western La Noscea",
+        "Level": 48,
+        "JournalSection": 4,
+        "JournalCategory": 31,
+        "JournalGenre": "\n\t\t\t\t\t\t\tMain Quests\n\t\t\t\t\t\t",
+        "Url": "/lodestone/playguide/db/quest/7138516f230/",
+        "Image": "https://img.finalfantasyxiv.com/lds/pc/global/images/itemicon/29/2974b74ed085e1a61852450b8016b3826990b736.png?n6.05",
+        "Icon": "function_normal",
+        "Issuer": "Novv",
+        "StartLocation": {
+            "Name": "Western La Noscea",
+            "X": "16.7",
+            "Y": "22.8"
+        },
+        "StartClass": null,
+        "Job": "",
+        "Company": "Not specified",
+        "Requirement": "Not specified",
+        "Rewards": {
+            "Gil": 776,
+            "Exp": 6840,
+            "ItemsMand": [],
+            "ItemsOpt": []
+        },
+        "Infos": {
+            "PrerequisiteQuest": [
+                {
+                    "Name": "The Scarlet Bloodletter",
+                    "Url": "/lodestone/playguide/db/quest/4677a08c329/",
+                    "Area": "Western La Noscea",
+                    "Level": "46"
+                }
+            ],
+            "FollowupQuest": [
+                {
+                    "Name": "Like Clutchfather, Like Son",
+                    "Url": "/lodestone/playguide/db/quest/644e43bcf56/",
+                    "Area": "Western La Noscea",
+                    "Level": "48"
+                }
+            ],
+            "RelatedNPC": [
+                {
+                    "Name": "Pahh",
+                    "Url": "/lodestone/playguide/db/npc/npc/e1731c57a26/",
+                    "Area": "Western La Noscea (X:16.6 Y:21.7)"
+                },
+                {
+                    "Name": "Seww",
+                    "Url": "/lodestone/playguide/db/npc/npc/c083c166190/",
+                    "Area": "Western La Noscea (X:16.9 Y:22.6)"
+                },
+                {
+                    "Name": "Silverfin Sahagin",
+                    "Url": "/lodestone/playguide/db/npc/npc/56f4bf27ddf/",
+                    "Area": "Western La Noscea (X:18.4 Y:15.5)"
+                },
+                {
+                    "Name": "Silverfin Sahagin",
+                    "Url": "/lodestone/playguide/db/npc/npc/a2037807a6f/",
+                    "Area": "Western La Noscea (X:14.3 Y:12.9)"
+                },
+                {
+                    "Name": "Silverfin Sahagin",
+                    "Url": "/lodestone/playguide/db/npc/npc/bc8366e4a49/",
+                    "Area": "Western La Noscea (X:5.6 Y:35.8)"
+                }
+            ]
+        },
+        "Seq": 3,
+        "StartDependency": false
+    },
+    {
+        "ID": "7151f260deb",
+        "Name": "The Tail's the Best Part",
+        "Location": "Western La Noscea",
+        "Level": 48,
+        "JournalSection": 4,
+        "JournalCategory": 31,
+        "JournalGenre": "\n\t\t\t\t\t\t\tDaily Quests\n\t\t\t\t\t\t",
+        "Url": "/lodestone/playguide/db/quest/7151f260deb/",
+        "Image": null,
+        "Icon": "common_repeat",
+        "Issuer": "Seww",
+        "StartLocation": {
+            "Name": "Western La Noscea",
+            "X": "16.9",
+            "Y": "22.6"
+        },
+        "StartClass": null,
+        "Job": "",
+        "Company": "Not specified",
+        "Requirement": "Not specified",
+        "Rewards": {
+            "Gil": 780,
+            "Exp": 5130,
+            "ItemsMand": [],
+            "ItemsOpt": [
+                {
+                    "Icon": "https://img.finalfantasyxiv.com/lds/pc/global/images/itemicon/06/06bd35b3df19cbc5d80eed3ed99c67a366c835aa.png?n6.05",
+                    "Name": "Heavens' Eye Materia IV",
+                    "Amount": 1,
+                    "Url": "/lodestone/playguide/db/item/93fe1786b70/"
+                },
+                {
+                    "Icon": "https://img.finalfantasyxiv.com/lds/pc/global/images/itemicon/06/06bd35b3df19cbc5d80eed3ed99c67a366c835aa.png?n6.05",
+                    "Name": "Savage Might Materia IV",
+                    "Amount": 1,
+                    "Url": "/lodestone/playguide/db/item/1bc25f58180/"
+                },
+                {
+                    "Icon": "https://img.finalfantasyxiv.com/lds/pc/global/images/itemicon/60/6072436b0c90d22b6a9d7da93f356256a04be53d.png?n6.05",
+                    "Name": "Quicktongue Materia IV",
+                    "Amount": 1,
+                    "Url": "/lodestone/playguide/db/item/5bbb25ff7dd/"
+                }
+            ]
+        },
+        "Infos": {},
+        "Seq": 30,
+        "StartDependency": false
+    },
+    {
+        "ID": "77a5e4d9039",
+        "Name": "Move Along, Nothing to Heal Here",
+        "Location": "Western La Noscea",
+        "Level": 46,
+        "JournalSection": 4,
+        "JournalCategory": 31,
+        "JournalGenre": "\n\t\t\t\t\t\t\tDaily Quests\n\t\t\t\t\t\t",
+        "Url": "/lodestone/playguide/db/quest/77a5e4d9039/",
+        "Image": null,
+        "Icon": "common_repeat",
+        "Issuer": "Houu",
+        "StartLocation": {
+            "Name": "Western La Noscea",
+            "X": "16.5",
+            "Y": "22.5"
+        },
+        "StartClass": null,
+        "Job": "",
+        "Company": "Not specified",
+        "Requirement": "Not specified",
+        "Rewards": {
+            "Gil": 660,
+            "Exp": 4743,
+            "ItemsMand": [],
+            "ItemsOpt": []
+        },
+        "Infos": {},
         "Seq": 15,
-        "oldID": 67714,
-        "Map": {
-            "ID": 215
-        },
         "StartDependency": false
     },
     {
-        "ID": "f77c3f49ca1",
-        "Name": " Dance Commander",
-        "Location": "The Sea of Clouds",
-        "Level": 50,
+        "ID": "7c0814d1f67",
+        "Name": "A Killer Strategy",
+        "Location": "Western La Noscea",
+        "Level": 44,
         "JournalSection": 4,
         "JournalCategory": 31,
         "JournalGenre": "\n\t\t\t\t\t\t\tDaily Quests\n\t\t\t\t\t\t",
-        "Url": "/lodestone/playguide/db/quest/f77c3f49ca1/",
+        "Url": "/lodestone/playguide/db/quest/7c0814d1f67/",
         "Image": null,
         "Icon": "common_repeat",
-        "Issuer": "Muna Vanu",
+        "Issuer": "Fyuu",
         "StartLocation": {
-            "Name": "The Sea of Clouds",
-            "X": "6.5",
-            "Y": "14.4"
+            "Name": "Western La Noscea",
+            "X": "17.0",
+            "Y": "22.2"
         },
         "StartClass": null,
         "Job": "",
         "Company": "Not specified",
         "Requirement": "Not specified",
         "Rewards": {
-            "Gil": 637,
-            "Exp": null,
+            "Gil": 540,
+            "Exp": 4372,
+            "ItemsMand": [],
+            "ItemsOpt": []
+        },
+        "Infos": {},
+        "Seq": 12,
+        "StartDependency": false
+    },
+    {
+        "ID": "84703bb20e8",
+        "Name": "Shellfish Schemes",
+        "Location": "Western La Noscea",
+        "Level": 48,
+        "JournalSection": 4,
+        "JournalCategory": 31,
+        "JournalGenre": "\n\t\t\t\t\t\t\tDaily Quests\n\t\t\t\t\t\t",
+        "Url": "/lodestone/playguide/db/quest/84703bb20e8/",
+        "Image": null,
+        "Icon": "common_repeat",
+        "Issuer": "Seww",
+        "StartLocation": {
+            "Name": "Western La Noscea",
+            "X": "16.9",
+            "Y": "22.6"
+        },
+        "StartClass": null,
+        "Job": "",
+        "Company": "Not specified",
+        "Requirement": "Not specified",
+        "Rewards": {
+            "Gil": 780,
+            "Exp": 5130,
+            "ItemsMand": [],
+            "ItemsOpt": [
+                {
+                    "Icon": "https://img.finalfantasyxiv.com/lds/pc/global/images/itemicon/06/06bd35b3df19cbc5d80eed3ed99c67a366c835aa.png?n6.05",
+                    "Name": "Savage Aim Materia IV",
+                    "Amount": 1,
+                    "Url": "/lodestone/playguide/db/item/dce3a5f3467/"
+                },
+                {
+                    "Icon": "https://img.finalfantasyxiv.com/lds/pc/global/images/itemicon/06/06bd35b3df19cbc5d80eed3ed99c67a366c835aa.png?n6.05",
+                    "Name": "Savage Might Materia IV",
+                    "Amount": 1,
+                    "Url": "/lodestone/playguide/db/item/1bc25f58180/"
+                },
+                {
+                    "Icon": "https://img.finalfantasyxiv.com/lds/pc/global/images/itemicon/60/6072436b0c90d22b6a9d7da93f356256a04be53d.png?n6.05",
+                    "Name": "Quicktongue Materia IV",
+                    "Amount": 1,
+                    "Url": "/lodestone/playguide/db/item/5bbb25ff7dd/"
+                }
+            ]
+        },
+        "Infos": {},
+        "Seq": 28,
+        "StartDependency": false
+    },
+    {
+        "ID": "85dce8264eb",
+        "Name": "Ain't Got Time to Breed",
+        "Location": "Western La Noscea",
+        "Level": 46,
+        "JournalSection": 4,
+        "JournalCategory": 31,
+        "JournalGenre": "\n\t\t\t\t\t\t\tDaily Quests\n\t\t\t\t\t\t",
+        "Url": "/lodestone/playguide/db/quest/85dce8264eb/",
+        "Image": null,
+        "Icon": "common_repeat",
+        "Issuer": "Houu",
+        "StartLocation": {
+            "Name": "Western La Noscea",
+            "X": "16.5",
+            "Y": "22.5"
+        },
+        "StartClass": null,
+        "Job": "",
+        "Company": "Not specified",
+        "Requirement": "Not specified",
+        "Rewards": {
+            "Gil": 660,
+            "Exp": 4743,
+            "ItemsMand": [],
+            "ItemsOpt": []
+        },
+        "Infos": {},
+        "Seq": 16,
+        "StartDependency": false
+    },
+    {
+        "ID": "86901de1ee5",
+        "Name": "Reaving in a Hurry",
+        "Location": "Western La Noscea",
+        "Level": 48,
+        "JournalSection": 4,
+        "JournalCategory": 31,
+        "JournalGenre": "\n\t\t\t\t\t\t\tDaily Quests\n\t\t\t\t\t\t",
+        "Url": "/lodestone/playguide/db/quest/86901de1ee5/",
+        "Image": null,
+        "Icon": "common_repeat",
+        "Issuer": "Seww",
+        "StartLocation": {
+            "Name": "Western La Noscea",
+            "X": "16.9",
+            "Y": "22.6"
+        },
+        "StartClass": null,
+        "Job": "",
+        "Company": "Not specified",
+        "Requirement": "Not specified",
+        "Rewards": {
+            "Gil": 780,
+            "Exp": 5130,
+            "ItemsMand": [],
+            "ItemsOpt": [
+                {
+                    "Icon": "https://img.finalfantasyxiv.com/lds/pc/global/images/itemicon/59/591709d485ebd155ba018c8cd773fe3c662caed3.png?n6.05",
+                    "Name": "Piety Materia IV",
+                    "Amount": 1,
+                    "Url": "/lodestone/playguide/db/item/905d47601dd/"
+                },
+                {
+                    "Icon": "https://img.finalfantasyxiv.com/lds/pc/global/images/itemicon/59/591709d485ebd155ba018c8cd773fe3c662caed3.png?n6.05",
+                    "Name": "Battledance Materia IV",
+                    "Amount": 1,
+                    "Url": "/lodestone/playguide/db/item/37f25043bf3/"
+                },
+                {
+                    "Icon": "https://img.finalfantasyxiv.com/lds/pc/global/images/itemicon/60/6072436b0c90d22b6a9d7da93f356256a04be53d.png?n6.05",
+                    "Name": "Quicktongue Materia IV",
+                    "Amount": 1,
+                    "Url": "/lodestone/playguide/db/item/5bbb25ff7dd/"
+                }
+            ]
+        },
+        "Infos": {},
+        "Seq": 27,
+        "StartDependency": false
+    },
+    {
+        "ID": "8c42fe21873",
+        "Name": "Clutchfather Knows Best",
+        "Location": "Western La Noscea",
+        "Level": 46,
+        "JournalSection": 4,
+        "JournalCategory": 31,
+        "JournalGenre": "\n\t\t\t\t\t\t\tDaily Quests\n\t\t\t\t\t\t",
+        "Url": "/lodestone/playguide/db/quest/8c42fe21873/",
+        "Image": null,
+        "Icon": "common_repeat",
+        "Issuer": "Houu",
+        "StartLocation": {
+            "Name": "Western La Noscea",
+            "X": "16.5",
+            "Y": "22.5"
+        },
+        "StartClass": null,
+        "Job": "",
+        "Company": "Not specified",
+        "Requirement": "Not specified",
+        "Rewards": {
+            "Gil": 660,
+            "Exp": 4743,
             "ItemsMand": [],
             "ItemsOpt": []
         },
         "Infos": {
             "RelatedNPC": [
                 {
-                    "Name": "Gundu Youth",
-                    "Url": "/lodestone/playguide/db/npc/npc/bf1788a94f0/",
-                    "Area": "The Sea of Clouds (X:35.5 Y:16.5)"
-                },
-                {
-                    "Name": "Gundu Youth",
-                    "Url": "/lodestone/playguide/db/npc/npc/bd286d029cb/",
-                    "Area": "The Sea of Clouds (X:38.0 Y:11.7)"
-                },
-                {
-                    "Name": "Gundu Youth",
-                    "Url": "/lodestone/playguide/db/npc/npc/84ed0344adc/",
-                    "Area": "The Sea of Clouds (X:38.5 Y:14.2)"
-                },
-                {
-                    "Name": "Gundu Youth",
-                    "Url": "/lodestone/playguide/db/npc/npc/746b68a408f/",
-                    "Area": "The Sea of Clouds (X:36.2 Y:14.5)"
-                },
-                {
-                    "Name": "Linu Vanu",
-                    "Url": "/lodestone/playguide/db/npc/npc/8532267b028/",
-                    "Area": "The Sea of Clouds (X:6.1 Y:14.2)"
+                    "Name": "Fyuu",
+                    "Url": "/lodestone/playguide/db/npc/npc/85021401d63/",
+                    "Area": "Western La Noscea (X:17.0 Y:22.2)"
                 }
             ]
         },
-        "Seq": 34,
-        "oldID": 67733,
-        "Map": {
-            "ID": 215
+        "Seq": 22,
+        "StartDependency": false
+    },
+    {
+        "ID": "8c5b9d8f475",
+        "Name": "Put a Shhhock in It",
+        "Location": "Western La Noscea",
+        "Level": 46,
+        "JournalSection": 4,
+        "JournalCategory": 31,
+        "JournalGenre": "\n\t\t\t\t\t\t\tDaily Quests\n\t\t\t\t\t\t",
+        "Url": "/lodestone/playguide/db/quest/8c5b9d8f475/",
+        "Image": null,
+        "Icon": "common_repeat",
+        "Issuer": "Houu",
+        "StartLocation": {
+            "Name": "Western La Noscea",
+            "X": "16.5",
+            "Y": "22.5"
         },
+        "StartClass": null,
+        "Job": "",
+        "Company": "Not specified",
+        "Requirement": "Not specified",
+        "Rewards": {
+            "Gil": 660,
+            "Exp": 4743,
+            "ItemsMand": [],
+            "ItemsOpt": []
+        },
+        "Infos": {},
+        "Seq": 17,
+        "StartDependency": false
+    },
+    {
+        "ID": "8eeacebd265",
+        "Name": "In the Shadow of the Moon",
+        "Location": "Western La Noscea",
+        "Level": 46,
+        "JournalSection": 4,
+        "JournalCategory": 31,
+        "JournalGenre": "\n\t\t\t\t\t\t\tDaily Quests\n\t\t\t\t\t\t",
+        "Url": "/lodestone/playguide/db/quest/8eeacebd265/",
+        "Image": null,
+        "Icon": "common_repeat",
+        "Issuer": "Houu",
+        "StartLocation": {
+            "Name": "Western La Noscea",
+            "X": "16.5",
+            "Y": "22.5"
+        },
+        "StartClass": null,
+        "Job": "",
+        "Company": "Not specified",
+        "Requirement": "Not specified",
+        "Rewards": {
+            "Gil": 660,
+            "Exp": 4743,
+            "ItemsMand": [],
+            "ItemsOpt": []
+        },
+        "Infos": {
+            "RelatedNPC": [
+                {
+                    "Name": "Pahh",
+                    "Url": "/lodestone/playguide/db/npc/npc/e1731c57a26/",
+                    "Area": "Western La Noscea (X:16.6 Y:21.7)"
+                }
+            ]
+        },
+        "Seq": 21,
+        "StartDependency": false
+    },
+    {
+        "ID": "a846d86b215",
+        "Name": "Learn by Destroying",
+        "Location": "Western La Noscea",
+        "Level": 46,
+        "JournalSection": 4,
+        "JournalCategory": 31,
+        "JournalGenre": "\n\t\t\t\t\t\t\tDaily Quests\n\t\t\t\t\t\t",
+        "Url": "/lodestone/playguide/db/quest/a846d86b215/",
+        "Image": null,
+        "Icon": "common_repeat",
+        "Issuer": "Houu",
+        "StartLocation": {
+            "Name": "Western La Noscea",
+            "X": "16.5",
+            "Y": "22.5"
+        },
+        "StartClass": null,
+        "Job": "",
+        "Company": "Not specified",
+        "Requirement": "Not specified",
+        "Rewards": {
+            "Gil": 660,
+            "Exp": 4743,
+            "ItemsMand": [],
+            "ItemsOpt": []
+        },
+        "Infos": {
+            "RelatedNPC": [
+                {
+                    "Name": "Pahh",
+                    "Url": "/lodestone/playguide/db/npc/npc/e1731c57a26/",
+                    "Area": "Western La Noscea (X:16.6 Y:21.7)"
+                }
+            ]
+        },
+        "Seq": 24,
+        "StartDependency": false
+    },
+    {
+        "ID": "aa484852896",
+        "Name": "Skullduggery",
+        "Location": "Western La Noscea",
+        "Level": 44,
+        "JournalSection": 4,
+        "JournalCategory": 31,
+        "JournalGenre": "\n\t\t\t\t\t\t\tDaily Quests\n\t\t\t\t\t\t",
+        "Url": "/lodestone/playguide/db/quest/aa484852896/",
+        "Image": null,
+        "Icon": "common_repeat",
+        "Issuer": "Fyuu",
+        "StartLocation": {
+            "Name": "Western La Noscea",
+            "X": "17.0",
+            "Y": "22.2"
+        },
+        "StartClass": null,
+        "Job": "",
+        "Company": "Not specified",
+        "Requirement": "Not specified",
+        "Rewards": {
+            "Gil": 540,
+            "Exp": 4372,
+            "ItemsMand": [],
+            "ItemsOpt": []
+        },
+        "Infos": {
+            "RelatedNPC": [
+                {
+                    "Name": "Sahagin Infiltrator",
+                    "Url": "/lodestone/playguide/db/npc/npc/6cfd9d643bf/",
+                    "Area": "Western La Noscea (X:20.3 Y:22.2)"
+                },
+                {
+                    "Name": "Sahagin Infiltrator",
+                    "Url": "/lodestone/playguide/db/npc/npc/93f5c938334/",
+                    "Area": "Western La Noscea (X:19.2 Y:23.1)"
+                },
+                {
+                    "Name": "Sahagin Infiltrator",
+                    "Url": "/lodestone/playguide/db/npc/npc/c1ce763f2e7/",
+                    "Area": "Western La Noscea (X:23.3 Y:22.1)"
+                },
+                {
+                    "Name": "Sahagin Infiltrator",
+                    "Url": "/lodestone/playguide/db/npc/npc/90df05034b3/",
+                    "Area": "Western La Noscea (X:22.4 Y:22.5)"
+                }
+            ]
+        },
+        "Seq": 11,
+        "StartDependency": false
+    },
+    {
+        "ID": "afe48630a77",
+        "Name": "Up in Shhhmoke",
+        "Location": "Western La Noscea",
+        "Level": 48,
+        "JournalSection": 4,
+        "JournalCategory": 31,
+        "JournalGenre": "\n\t\t\t\t\t\t\tDaily Quests\n\t\t\t\t\t\t",
+        "Url": "/lodestone/playguide/db/quest/afe48630a77/",
+        "Image": null,
+        "Icon": "common_repeat",
+        "Issuer": "Seww",
+        "StartLocation": {
+            "Name": "Western La Noscea",
+            "X": "16.9",
+            "Y": "22.6"
+        },
+        "StartClass": null,
+        "Job": "",
+        "Company": "Not specified",
+        "Requirement": "Not specified",
+        "Rewards": {
+            "Gil": 780,
+            "Exp": 5130,
+            "ItemsMand": [],
+            "ItemsOpt": [
+                {
+                    "Icon": "https://img.finalfantasyxiv.com/lds/pc/global/images/itemicon/06/06bd35b3df19cbc5d80eed3ed99c67a366c835aa.png?n6.05",
+                    "Name": "Heavens' Eye Materia IV",
+                    "Amount": 1,
+                    "Url": "/lodestone/playguide/db/item/93fe1786b70/"
+                },
+                {
+                    "Icon": "https://img.finalfantasyxiv.com/lds/pc/global/images/itemicon/06/06bd35b3df19cbc5d80eed3ed99c67a366c835aa.png?n6.05",
+                    "Name": "Savage Aim Materia IV",
+                    "Amount": 1,
+                    "Url": "/lodestone/playguide/db/item/dce3a5f3467/"
+                },
+                {
+                    "Icon": "https://img.finalfantasyxiv.com/lds/pc/global/images/itemicon/60/6072436b0c90d22b6a9d7da93f356256a04be53d.png?n6.05",
+                    "Name": "Quicktongue Materia IV",
+                    "Amount": 1,
+                    "Url": "/lodestone/playguide/db/item/5bbb25ff7dd/"
+                }
+            ]
+        },
+        "Infos": {},
+        "Seq": 29,
+        "StartDependency": false
+    },
+    {
+        "ID": "b38fa4477e8",
+        "Name": "Unfair Trading",
+        "Location": "Western La Noscea",
+        "Level": 48,
+        "JournalSection": 4,
+        "JournalCategory": 31,
+        "JournalGenre": "\n\t\t\t\t\t\t\tDaily Quests\n\t\t\t\t\t\t",
+        "Url": "/lodestone/playguide/db/quest/b38fa4477e8/",
+        "Image": null,
+        "Icon": "common_repeat",
+        "Issuer": "Seww",
+        "StartLocation": {
+            "Name": "Western La Noscea",
+            "X": "16.9",
+            "Y": "22.6"
+        },
+        "StartClass": null,
+        "Job": "",
+        "Company": "Not specified",
+        "Requirement": "Not specified",
+        "Rewards": {
+            "Gil": 780,
+            "Exp": 5130,
+            "ItemsMand": [],
+            "ItemsOpt": [
+                {
+                    "Icon": "https://img.finalfantasyxiv.com/lds/pc/global/images/itemicon/06/06bd35b3df19cbc5d80eed3ed99c67a366c835aa.png?n6.05",
+                    "Name": "Savage Might Materia IV",
+                    "Amount": 1,
+                    "Url": "/lodestone/playguide/db/item/1bc25f58180/"
+                },
+                {
+                    "Icon": "https://img.finalfantasyxiv.com/lds/pc/global/images/itemicon/59/591709d485ebd155ba018c8cd773fe3c662caed3.png?n6.05",
+                    "Name": "Battledance Materia IV",
+                    "Amount": 1,
+                    "Url": "/lodestone/playguide/db/item/37f25043bf3/"
+                },
+                {
+                    "Icon": "https://img.finalfantasyxiv.com/lds/pc/global/images/itemicon/60/6072436b0c90d22b6a9d7da93f356256a04be53d.png?n6.05",
+                    "Name": "Quickarm Materia IV",
+                    "Amount": 1,
+                    "Url": "/lodestone/playguide/db/item/1162b3fcc58/"
+                }
+            ]
+        },
+        "Infos": {
+            "RelatedNPC": [
+                {
+                    "Name": "Pahh",
+                    "Url": "/lodestone/playguide/db/npc/npc/e1731c57a26/",
+                    "Area": "Western La Noscea (X:16.6 Y:21.7)"
+                }
+            ]
+        },
+        "Seq": 31,
+        "StartDependency": false
+    },
+    {
+        "ID": "b8d4cc0234d",
+        "Name": "Enemy at the Tidegates",
+        "Location": "Western La Noscea",
+        "Level": 44,
+        "JournalSection": 4,
+        "JournalCategory": 31,
+        "JournalGenre": "\n\t\t\t\t\t\t\tDaily Quests\n\t\t\t\t\t\t",
+        "Url": "/lodestone/playguide/db/quest/b8d4cc0234d/",
+        "Image": null,
+        "Icon": "common_repeat",
+        "Issuer": "Fyuu",
+        "StartLocation": {
+            "Name": "Western La Noscea",
+            "X": "17.0",
+            "Y": "22.2"
+        },
+        "StartClass": null,
+        "Job": "",
+        "Company": "Not specified",
+        "Requirement": "Not specified",
+        "Rewards": {
+            "Gil": 540,
+            "Exp": 4372,
+            "ItemsMand": [],
+            "ItemsOpt": []
+        },
+        "Infos": {
+            "RelatedNPC": [
+                {
+                    "Name": "Novv",
+                    "Url": "/lodestone/playguide/db/npc/npc/b381ff33ab9/",
+                    "Area": "Western La Noscea (X:16.7 Y:22.8)"
+                }
+            ]
+        },
+        "Seq": 8,
+        "StartDependency": false
+    },
+    {
+        "ID": "bb50f7a4475",
+        "Name": "Better Ash than Blood",
+        "Location": "Western La Noscea",
+        "Level": 46,
+        "JournalSection": 4,
+        "JournalCategory": 31,
+        "JournalGenre": "\n\t\t\t\t\t\t\tDaily Quests\n\t\t\t\t\t\t",
+        "Url": "/lodestone/playguide/db/quest/bb50f7a4475/",
+        "Image": null,
+        "Icon": "common_repeat",
+        "Issuer": "Houu",
+        "StartLocation": {
+            "Name": "Western La Noscea",
+            "X": "16.5",
+            "Y": "22.5"
+        },
+        "StartClass": null,
+        "Job": "",
+        "Company": "Not specified",
+        "Requirement": "Not specified",
+        "Rewards": {
+            "Gil": 660,
+            "Exp": 4743,
+            "ItemsMand": [],
+            "ItemsOpt": []
+        },
+        "Infos": {},
+        "Seq": 20,
+        "StartDependency": false
+    },
+    {
+        "ID": "c70927cd63a",
+        "Name": "A Taste for Paste",
+        "Location": "Western La Noscea",
+        "Level": 44,
+        "JournalSection": 4,
+        "JournalCategory": 31,
+        "JournalGenre": "\n\t\t\t\t\t\t\tDaily Quests\n\t\t\t\t\t\t",
+        "Url": "/lodestone/playguide/db/quest/c70927cd63a/",
+        "Image": null,
+        "Icon": "common_repeat",
+        "Issuer": "Fyuu",
+        "StartLocation": {
+            "Name": "Western La Noscea",
+            "X": "17.0",
+            "Y": "22.2"
+        },
+        "StartClass": null,
+        "Job": "",
+        "Company": "Not specified",
+        "Requirement": "Not specified",
+        "Rewards": {
+            "Gil": 540,
+            "Exp": 4372,
+            "ItemsMand": [],
+            "ItemsOpt": []
+        },
+        "Infos": {},
+        "Seq": 6,
+        "StartDependency": false
+    },
+    {
+        "ID": "d699a126ba5",
+        "Name": "A Crate-ful Response",
+        "Location": "Western La Noscea",
+        "Level": 44,
+        "JournalSection": 4,
+        "JournalCategory": 31,
+        "JournalGenre": "\n\t\t\t\t\t\t\tDaily Quests\n\t\t\t\t\t\t",
+        "Url": "/lodestone/playguide/db/quest/d699a126ba5/",
+        "Image": null,
+        "Icon": "common_repeat",
+        "Issuer": "Fyuu",
+        "StartLocation": {
+            "Name": "Western La Noscea",
+            "X": "17.0",
+            "Y": "22.2"
+        },
+        "StartClass": null,
+        "Job": "",
+        "Company": "Not specified",
+        "Requirement": "Not specified",
+        "Rewards": {
+            "Gil": 540,
+            "Exp": 4372,
+            "ItemsMand": [],
+            "ItemsOpt": []
+        },
+        "Infos": {
+            "RelatedNPC": [
+                {
+                    "Name": "Pahh",
+                    "Url": "/lodestone/playguide/db/npc/npc/e1731c57a26/",
+                    "Area": "Western La Noscea (X:16.6 Y:21.7)"
+                }
+            ]
+        },
+        "Seq": 10,
+        "StartDependency": false
+    },
+    {
+        "ID": "db63cc7f527",
+        "Name": "Standard Procedure",
+        "Location": "Western La Noscea",
+        "Level": 44,
+        "JournalSection": 4,
+        "JournalCategory": 31,
+        "JournalGenre": "\n\t\t\t\t\t\t\tDaily Quests\n\t\t\t\t\t\t",
+        "Url": "/lodestone/playguide/db/quest/db63cc7f527/",
+        "Image": null,
+        "Icon": "common_repeat",
+        "Issuer": "Fyuu",
+        "StartLocation": {
+            "Name": "Western La Noscea",
+            "X": "17.0",
+            "Y": "22.2"
+        },
+        "StartClass": null,
+        "Job": "",
+        "Company": "Not specified",
+        "Requirement": "Not specified",
+        "Rewards": {
+            "Gil": 540,
+            "Exp": 4372,
+            "ItemsMand": [],
+            "ItemsOpt": []
+        },
+        "Infos": {},
+        "Seq": 5,
+        "StartDependency": false
+    },
+    {
+        "ID": "dba9f4fbec1",
+        "Name": "Sea Scraps",
+        "Location": "Western La Noscea",
+        "Level": 48,
+        "JournalSection": 4,
+        "JournalCategory": 31,
+        "JournalGenre": "\n\t\t\t\t\t\t\tDaily Quests\n\t\t\t\t\t\t",
+        "Url": "/lodestone/playguide/db/quest/dba9f4fbec1/",
+        "Image": null,
+        "Icon": "common_repeat",
+        "Issuer": "Seww",
+        "StartLocation": {
+            "Name": "Western La Noscea",
+            "X": "16.9",
+            "Y": "22.6"
+        },
+        "StartClass": null,
+        "Job": "",
+        "Company": "Not specified",
+        "Requirement": "Not specified",
+        "Rewards": {
+            "Gil": 780,
+            "Exp": 5130,
+            "ItemsMand": [],
+            "ItemsOpt": [
+                {
+                    "Icon": "https://img.finalfantasyxiv.com/lds/pc/global/images/itemicon/06/06bd35b3df19cbc5d80eed3ed99c67a366c835aa.png?n6.05",
+                    "Name": "Heavens' Eye Materia IV",
+                    "Amount": 1,
+                    "Url": "/lodestone/playguide/db/item/93fe1786b70/"
+                },
+                {
+                    "Icon": "https://img.finalfantasyxiv.com/lds/pc/global/images/itemicon/06/06bd35b3df19cbc5d80eed3ed99c67a366c835aa.png?n6.05",
+                    "Name": "Savage Might Materia IV",
+                    "Amount": 1,
+                    "Url": "/lodestone/playguide/db/item/1bc25f58180/"
+                },
+                {
+                    "Icon": "https://img.finalfantasyxiv.com/lds/pc/global/images/itemicon/60/6072436b0c90d22b6a9d7da93f356256a04be53d.png?n6.05",
+                    "Name": "Quickarm Materia IV",
+                    "Amount": 1,
+                    "Url": "/lodestone/playguide/db/item/1162b3fcc58/"
+                }
+            ]
+        },
+        "Infos": {
+            "RelatedNPC": [
+                {
+                    "Name": "Captive Soldier",
+                    "Url": "/lodestone/playguide/db/npc/npc/18b0de1849e/",
+                    "Area": "Western La Noscea (X:5.0 Y:40.9)"
+                },
+                {
+                    "Name": "Captive Soldier",
+                    "Url": "/lodestone/playguide/db/npc/npc/32156506014/",
+                    "Area": "Western La Noscea (X:5.5 Y:40.9)"
+                },
+                {
+                    "Name": "Captive Soldier",
+                    "Url": "/lodestone/playguide/db/npc/npc/3ef9843b3ec/",
+                    "Area": "Western La Noscea (X:4.5 Y:40.7)"
+                },
+                {
+                    "Name": "Captive Soldier",
+                    "Url": "/lodestone/playguide/db/npc/npc/e5870c86f6f/",
+                    "Area": "Western La Noscea (X:4.2 Y:40.8)"
+                },
+                {
+                    "Name": "Pahh",
+                    "Url": "/lodestone/playguide/db/npc/npc/e1731c57a26/",
+                    "Area": "Western La Noscea (X:16.6 Y:21.7)"
+                }
+            ]
+        },
+        "Seq": 32,
+        "StartDependency": false
+    },
+    {
+        "ID": "e37a5e4c8ca",
+        "Name": "Removing the Stain",
+        "Location": "Western La Noscea",
+        "Level": 48,
+        "JournalSection": 4,
+        "JournalCategory": 31,
+        "JournalGenre": "\n\t\t\t\t\t\t\tDaily Quests\n\t\t\t\t\t\t",
+        "Url": "/lodestone/playguide/db/quest/e37a5e4c8ca/",
+        "Image": null,
+        "Icon": "common_repeat",
+        "Issuer": "Seww",
+        "StartLocation": {
+            "Name": "Western La Noscea",
+            "X": "16.9",
+            "Y": "22.6"
+        },
+        "StartClass": null,
+        "Job": "",
+        "Company": "Not specified",
+        "Requirement": "Not specified",
+        "Rewards": {
+            "Gil": 780,
+            "Exp": 5130,
+            "ItemsMand": [],
+            "ItemsOpt": [
+                {
+                    "Icon": "https://img.finalfantasyxiv.com/lds/pc/global/images/itemicon/06/06bd35b3df19cbc5d80eed3ed99c67a366c835aa.png?n6.05",
+                    "Name": "Savage Aim Materia IV",
+                    "Amount": 1,
+                    "Url": "/lodestone/playguide/db/item/dce3a5f3467/"
+                },
+                {
+                    "Icon": "https://img.finalfantasyxiv.com/lds/pc/global/images/itemicon/59/591709d485ebd155ba018c8cd773fe3c662caed3.png?n6.05",
+                    "Name": "Battledance Materia IV",
+                    "Amount": 1,
+                    "Url": "/lodestone/playguide/db/item/37f25043bf3/"
+                },
+                {
+                    "Icon": "https://img.finalfantasyxiv.com/lds/pc/global/images/itemicon/60/6072436b0c90d22b6a9d7da93f356256a04be53d.png?n6.05",
+                    "Name": "Quickarm Materia IV",
+                    "Amount": 1,
+                    "Url": "/lodestone/playguide/db/item/1162b3fcc58/"
+                }
+            ]
+        },
+        "Infos": {},
+        "Seq": 34,
+        "StartDependency": false
+    },
+    {
+        "ID": "e5a9990b5b6",
+        "Name": "Tines of the Trident",
+        "Location": "Western La Noscea",
+        "Level": 48,
+        "JournalSection": 4,
+        "JournalCategory": 31,
+        "JournalGenre": "\n\t\t\t\t\t\t\tDaily Quests\n\t\t\t\t\t\t",
+        "Url": "/lodestone/playguide/db/quest/e5a9990b5b6/",
+        "Image": null,
+        "Icon": "common_repeat",
+        "Issuer": "Seww",
+        "StartLocation": {
+            "Name": "Western La Noscea",
+            "X": "16.9",
+            "Y": "22.6"
+        },
+        "StartClass": null,
+        "Job": "",
+        "Company": "Not specified",
+        "Requirement": "Not specified",
+        "Rewards": {
+            "Gil": 780,
+            "Exp": 5130,
+            "ItemsMand": [],
+            "ItemsOpt": [
+                {
+                    "Icon": "https://img.finalfantasyxiv.com/lds/pc/global/images/itemicon/59/591709d485ebd155ba018c8cd773fe3c662caed3.png?n6.05",
+                    "Name": "Piety Materia IV",
+                    "Amount": 1,
+                    "Url": "/lodestone/playguide/db/item/905d47601dd/"
+                },
+                {
+                    "Icon": "https://img.finalfantasyxiv.com/lds/pc/global/images/itemicon/59/591709d485ebd155ba018c8cd773fe3c662caed3.png?n6.05",
+                    "Name": "Battledance Materia IV",
+                    "Amount": 1,
+                    "Url": "/lodestone/playguide/db/item/37f25043bf3/"
+                },
+                {
+                    "Icon": "https://img.finalfantasyxiv.com/lds/pc/global/images/itemicon/60/6072436b0c90d22b6a9d7da93f356256a04be53d.png?n6.05",
+                    "Name": "Quickarm Materia IV",
+                    "Amount": 1,
+                    "Url": "/lodestone/playguide/db/item/1162b3fcc58/"
+                }
+            ]
+        },
+        "Infos": {},
+        "Seq": 25,
+        "StartDependency": false
+    },
+    {
+        "ID": "f6cfe116e17",
+        "Name": "They Came from the Deep",
+        "Location": "Limsa Lominsa",
+        "Level": 44,
+        "JournalSection": 4,
+        "JournalCategory": 31,
+        "JournalGenre": "\n\t\t\t\t\t\t\tMain Quests\n\t\t\t\t\t\t",
+        "Url": "/lodestone/playguide/db/quest/f6cfe116e17/",
+        "Image": "https://img.finalfantasyxiv.com/lds/pc/global/images/itemicon/fb/fb1a481c27de5b350b4e441076478481313136fd.png?n6.05",
+        "Icon": "function_normal",
+        "Issuer": "R'ashaht Rhiki",
+        "StartLocation": {
+            "Name": "Limsa Lominsa Upper Decks",
+            "X": "13.1",
+            "Y": "12.8"
+        },
+        "StartClass": null,
+        "Job": "",
+        "Company": "Not specified",
+        "Requirement": "Not specified",
+        "Rewards": {
+            "Gil": 729,
+            "Exp": 5830,
+            "ItemsMand": [],
+            "ItemsOpt": []
+        },
+        "Infos": {
+            "PrerequisiteQuest": [
+                {
+                    "Name": "In Pursuit of the Past",
+                    "Url": "/lodestone/playguide/db/quest/4bb6ef83f13/",
+                    "Area": "Coerthas Central Highlands",
+                    "Level": "41"
+                }
+            ],
+            "FollowupQuest": [
+                {
+                    "Name": "Clutch and Kin",
+                    "Url": "/lodestone/playguide/db/quest/5f36f9fc938/",
+                    "Area": "Western La Noscea",
+                    "Level": "44"
+                }
+            ],
+            "RelatedNPC": [
+                {
+                    "Name": "Bedraggled Woman",
+                    "Url": "/lodestone/playguide/db/npc/npc/24bb3ebcad7/",
+                    "Area": "Eastern La Noscea (X:31.6 Y:26.4)"
+                },
+                {
+                    "Name": "Bedraggled Woman",
+                    "Url": "/lodestone/playguide/db/npc/npc/2925cd3ccba/",
+                    "Area": "Eastern La Noscea (X:31.6 Y:26.4)"
+                },
+                {
+                    "Name": "Injured Survivor",
+                    "Url": "/lodestone/playguide/db/npc/npc/b8f8193917d/",
+                    "Area": "Eastern La Noscea (X:31.4 Y:26.3)"
+                },
+                {
+                    "Name": "Injured Survivor",
+                    "Url": "/lodestone/playguide/db/npc/npc/1a54756b906/",
+                    "Area": "Eastern La Noscea (X:31.8 Y:26.3)"
+                },
+                {
+                    "Name": "Robyn",
+                    "Url": "/lodestone/playguide/db/npc/npc/912ca202485/",
+                    "Area": "Eastern La Noscea (X:31.6 Y:26.4)"
+                },
+                {
+                    "Name": "Wilfalk",
+                    "Url": "/lodestone/playguide/db/npc/npc/b73cf2d4186/",
+                    "Area": "Eastern La Noscea (X:31.6 Y:26.5)"
+                },
+                {
+                    "Name": "Wounded Survivor",
+                    "Url": "/lodestone/playguide/db/npc/npc/abfc98cc1a6/",
+                    "Area": "Eastern La Noscea (X:31.7 Y:26.5)"
+                },
+                {
+                    "Name": "Wounded Survivor",
+                    "Url": "/lodestone/playguide/db/npc/npc/a867e85839e/",
+                    "Area": "Eastern La Noscea (X:31.6 Y:26.6)"
+                },
+                {
+                    "Name": "Novv",
+                    "Url": "/lodestone/playguide/db/npc/npc/b381ff33ab9/",
+                    "Area": "Western La Noscea (X:16.7 Y:22.8)"
+                },
+                {
+                    "Name": "Sahagin Spawnling",
+                    "Url": "/lodestone/playguide/db/npc/npc/f3b8da9fc0e/",
+                    "Area": "Western La Noscea (X:17.3 Y:21.9)"
+                }
+            ]
+        },
+        "Seq": 33,
+        "StartDependency": false
+    },
+    {
+        "ID": "fcd897d8044",
+        "Name": "Ballista Bust-up",
+        "Location": "Western La Noscea",
+        "Level": 46,
+        "JournalSection": 4,
+        "JournalCategory": 31,
+        "JournalGenre": "\n\t\t\t\t\t\t\tDaily Quests\n\t\t\t\t\t\t",
+        "Url": "/lodestone/playguide/db/quest/fcd897d8044/",
+        "Image": null,
+        "Icon": "common_repeat",
+        "Issuer": "Houu",
+        "StartLocation": {
+            "Name": "Western La Noscea",
+            "X": "16.5",
+            "Y": "22.5"
+        },
+        "StartClass": null,
+        "Job": "",
+        "Company": "Not specified",
+        "Requirement": "Not specified",
+        "Rewards": {
+            "Gil": 660,
+            "Exp": 4743,
+            "ItemsMand": [],
+            "ItemsOpt": []
+        },
+        "Infos": {},
+        "Seq": 19,
         "StartDependency": false
     }
 ]

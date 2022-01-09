@@ -1,27 +1,27 @@
 [
     {
-        "ID": "2027759876a",
-        "Name": " Misdelivered",
-        "Location": "The Ruby Sea",
-        "Level": 60,
+        "ID": "01da161e6f0",
+        "Name": " Your Enemy and Mine",
+        "Location": "The Dravanian Forelands",
+        "Level": 50,
         "JournalSection": 4,
         "JournalCategory": 34,
         "JournalGenre": "\n\t\t\t\t\t\t\tMain Quests\n\t\t\t\t\t\t",
-        "Url": "/lodestone/playguide/db/quest/2027759876a/",
-        "Image": "https://img.finalfantasyxiv.com/lds/pc/global/images/itemicon/2d/2dc69826341e97d321d85fae30df0e58d9493e0a.png?n5.55",
+        "Url": "/lodestone/playguide/db/quest/01da161e6f0/",
+        "Image": "https://img.finalfantasyxiv.com/lds/pc/global/images/itemicon/c8/c895a69047d79bd6db235d60e0174533c5b5bc23.png?n6.05",
         "Icon": "function_normal",
-        "Issuer": "Kabuto",
+        "Issuer": "Vath Deftarm",
         "StartLocation": {
-            "Name": "The Ruby Sea",
-            "X": "29.4",
-            "Y": "16.5"
+            "Name": "The Dravanian Forelands",
+            "X": "23.6",
+            "Y": "19.1"
         },
         "StartClass": null,
         "Job": "",
         "Company": "Not specified",
         "Requirement": "Not specified",
         "Rewards": {
-            "Gil": 2272,
+            "Gil": 924,
             "Exp": null,
             "ItemsMand": [],
             "ItemsOpt": []
@@ -29,88 +29,69 @@
         "Infos": {
             "PrerequisiteQuest": [
                 {
-                    "Name": " The Value of Silence",
-                    "Url": "/lodestone/playguide/db/quest/638eb03979a/",
-                    "Area": "The Ruby Sea",
-                    "Level": "60"
+                    "Name": " An Acquired Taste",
+                    "Url": "/lodestone/playguide/db/quest/0f6fd8c9925/",
+                    "Area": "The Dravanian Forelands",
+                    "Level": "50"
                 }
             ],
             "FollowupQuest": [
                 {
-                    "Name": " A Test of Courage",
-                    "Url": "/lodestone/playguide/db/quest/91e029c93cd/",
-                    "Area": "The Ruby Sea",
-                    "Level": "60"
+                    "Name": " Resistance Is Futile",
+                    "Url": "/lodestone/playguide/db/quest/ff787aa9c77/",
+                    "Area": "The Dravanian Forelands",
+                    "Level": "50"
                 }
             ],
             "RelatedNPC": [
                 {
-                    "Name": "Cowering Courier",
-                    "Url": "/lodestone/playguide/db/npc/npc/c8a5afb13c7/",
-                    "Area": "The Ruby Sea (X:26.4 Y:34.4)"
+                    "Name": "Vath Deftarm",
+                    "Url": "/lodestone/playguide/db/npc/npc/feac9e9b41f/",
+                    "Area": "The Dravanian Forelands (X:18.3 Y:27.0)"
                 },
                 {
-                    "Name": "Kabuto",
-                    "Url": "/lodestone/playguide/db/npc/npc/1314b332514/",
-                    "Area": "The Ruby Sea (X:26.4 Y:34.5)"
+                    "Name": "Vath Deftarm",
+                    "Url": "/lodestone/playguide/db/npc/npc/e19f6d7c22c/",
+                    "Area": "The Dravanian Forelands (X:18.8 Y:21.1)"
                 },
                 {
-                    "Name": "Kabuto",
-                    "Url": "/lodestone/playguide/db/npc/npc/231a5bde55d/",
-                    "Area": "The Ruby Sea (X:26.4 Y:34.5)"
+                    "Name": "Vath Storyteller",
+                    "Url": "/lodestone/playguide/db/npc/npc/41a0c5ab8cb/",
+                    "Area": "The Dravanian Forelands (X:24.0 Y:19.7)"
                 },
                 {
-                    "Name": "Kabuto",
-                    "Url": "/lodestone/playguide/db/npc/npc/9ad4c9c9149/",
-                    "Area": "Kugane (X:8.6 Y:14.8)"
-                },
-                {
-                    "Name": "Shihoumi",
-                    "Url": "/lodestone/playguide/db/npc/npc/0f0694a872b/",
-                    "Area": "Kugane (X:8.6 Y:14.9)"
-                },
-                {
-                    "Name": "Shihoumi",
-                    "Url": "/lodestone/playguide/db/npc/npc/17287d86e1f/",
-                    "Area": "Kugane (X:8.6 Y:14.9)"
-                },
-                {
-                    "Name": "Tsukumo",
-                    "Url": "/lodestone/playguide/db/npc/npc/5d0727ece88/",
-                    "Area": "Kugane (X:8.6 Y:14.8)"
+                    "Name": "Vidofnir",
+                    "Url": "/lodestone/playguide/db/npc/npc/40cd529c034/",
+                    "Area": "The Dravanian Forelands (X:16.8 Y:23.6)"
                 }
             ]
         },
         "Seq": 3,
-        "oldID": 68512,
-        "Map": {
-            "ID": 371
-        },
         "StartDependency": false
     },
     {
-        "ID": "2336732df69",
-        "Name": " You Have the Rite",
-        "Location": "The Ruby Sea",
-        "Level": 60,
+        "ID": "075351207e5",
+        "Name": " Breath of Fresh Air",
+        "Location": "The Dravanian Forelands",
+        "Level": 50,
         "JournalSection": 4,
         "JournalCategory": 34,
         "JournalGenre": "\n\t\t\t\t\t\t\tDaily Quests\n\t\t\t\t\t\t",
-        "Url": "/lodestone/playguide/db/quest/2336732df69/",
+        "Url": "/lodestone/playguide/db/quest/075351207e5/",
         "Image": null,
         "Icon": "common_repeat",
-        "Issuer": "Zukin",
+        "Issuer": "Vath Keeneye",
         "StartLocation": {
-            "Name": "The Ruby Sea",
-            "X": "29.3",
-            "Y": "16.8"
+            "Name": "The Dravanian Forelands",
+            "X": "23.7",
+            "Y": "19.0"
         },
         "StartClass": null,
         "Job": "",
         "Company": "Not specified",
         "Requirement": "Not specified",
         "Rewards": {
-            "Gil": 680,
+            "Gil": 489,
             "Exp": null,
             "ItemsMand": [],
             "ItemsOpt": []
@@ -118,117 +99,43 @@
         "Infos": {
             "RelatedNPC": [
                 {
-                    "Name": "Placid Priestess",
-                    "Url": "/lodestone/playguide/db/npc/npc/edc38d7ad74/",
-                    "Area": "The Ruby Sea (X:20.9 Y:18.7)"
+                    "Name": "Grimold",
+                    "Url": "/lodestone/playguide/db/npc/npc/5062bdbf8eb/",
+                    "Area": "The Dravanian Forelands (X:31.5 Y:24.7)"
                 },
                 {
-                    "Name": "Urokuzu",
-                    "Url": "/lodestone/playguide/db/npc/npc/e8b2f898d12/",
-                    "Area": "The Ruby Sea (X:28.8 Y:15.6)"
+                    "Name": "Loupard",
+                    "Url": "/lodestone/playguide/db/npc/npc/50c12c642a8/",
+                    "Area": "The Dravanian Forelands (X:33.2 Y:23.8)"
                 }
             ]
         },
-        "Seq": 8,
-        "oldID": 68517,
-        "Map": {
-            "ID": 371
-        },
+        "Seq": 7,
         "StartDependency": false
     },
     {
-        "ID": "2a8b3ac5db8",
-        "Name": " Tentacles of Trade",
-        "Location": "The Ruby Sea",
-        "Level": 60,
+        "ID": "07922a011b0",
+        "Name": " Ploughing Ahead",
+        "Location": "The Dravanian Forelands",
+        "Level": 50,
         "JournalSection": 4,
         "JournalCategory": 34,
         "JournalGenre": "\n\t\t\t\t\t\t\tDaily Quests\n\t\t\t\t\t\t",
-        "Url": "/lodestone/playguide/db/quest/2a8b3ac5db8/",
+        "Url": "/lodestone/playguide/db/quest/07922a011b0/",
         "Image": null,
         "Icon": "common_repeat",
-        "Issuer": "Zukin",
+        "Issuer": "Vath Keeneye",
         "StartLocation": {
-            "Name": "The Ruby Sea",
-            "X": "29.3",
-            "Y": "16.8"
+            "Name": "The Dravanian Forelands",
+            "X": "23.7",
+            "Y": "19.0"
         },
         "StartClass": null,
         "Job": "",
         "Company": "Not specified",
         "Requirement": "Not specified",
         "Rewards": {
-            "Gil": 550,
-            "Exp": null,
-            "ItemsMand": [],
-            "ItemsOpt": []
-        },
-        "Infos": {},
-        "Seq": 27,
-        "oldID": 68536,
-        "Map": {
-            "ID": 371
-        },
-        "StartDependency": false
-    },
-    {
-        "ID": "2f0fe89ae5a",
-        "Name": " Deep Turquoise Sea",
-        "Location": "The Ruby Sea",
-        "Level": 60,
-        "JournalSection": 4,
-        "JournalCategory": 34,
-        "JournalGenre": "\n\t\t\t\t\t\t\tDaily Quests\n\t\t\t\t\t\t",
-        "Url": "/lodestone/playguide/db/quest/2f0fe89ae5a/",
-        "Image": null,
-        "Icon": "common_repeat",
-        "Issuer": "Zukin",
-        "StartLocation": {
-            "Name": "The Ruby Sea",
-            "X": "29.3",
-            "Y": "16.8"
-        },
-        "StartClass": null,
-        "Job": "",
-        "Company": "Not specified",
-        "Requirement": "Not specified",
-        "Rewards": {
-            "Gil": 550,
-            "Exp": null,
-            "ItemsMand": [],
-            "ItemsOpt": []
-        },
-        "Infos": {},
-        "Seq": 21,
-        "oldID": 68530,
-        "Map": {
-            "ID": 371
-        },
-        "StartDependency": false
-    },
-    {
-        "ID": "4159c25d912",
-        "Name": " Pickles of Partnership",
-        "Location": "The Ruby Sea",
-        "Level": 60,
-        "JournalSection": 4,
-        "JournalCategory": 34,
-        "JournalGenre": "\n\t\t\t\t\t\t\tDaily Quests\n\t\t\t\t\t\t",
-        "Url": "/lodestone/playguide/db/quest/4159c25d912/",
-        "Image": null,
-        "Icon": "common_repeat",
-        "Issuer": "Zukin",
-        "StartLocation": {
-            "Name": "The Ruby Sea",
-            "X": "29.3",
-            "Y": "16.8"
-        },
-        "StartClass": null,
-        "Job": "",
-        "Company": "Not specified",
-        "Requirement": "Not specified",
-        "Rewards": {
-            "Gil": 550,
+            "Gil": 489,
             "Exp": null,
             "ItemsMand": [],
             "ItemsOpt": []
@@ -236,559 +143,53 @@
         "Infos": {
             "RelatedNPC": [
                 {
-                    "Name": "Conscientious Confederate",
-                    "Url": "/lodestone/playguide/db/npc/npc/43af09e78ea/",
-                    "Area": "The Ruby Sea (X:35.9 Y:5.1)"
+                    "Name": "Vath Kintamer",
+                    "Url": "/lodestone/playguide/db/npc/npc/4c7d235d7c8/",
+                    "Area": "The Dravanian Forelands (X:24.0 Y:19.1)"
                 },
                 {
-                    "Name": "Rikufu",
-                    "Url": "/lodestone/playguide/db/npc/npc/4d1b209b2d2/",
-                    "Area": "The Ruby Sea (X:32.2 Y:5.2)"
+                    "Name": "Wasteland Wyvern",
+                    "Url": "/lodestone/playguide/db/npc/npc/8887b74e1b2/",
+                    "Area": "The Dravanian Forelands (X:24.4 Y:34.8)"
                 },
                 {
-                    "Name": "Tipsy Confederate",
-                    "Url": "/lodestone/playguide/db/npc/npc/ffc34faf730/",
-                    "Area": "The Ruby Sea (X:33.0 Y:6.8)"
-                }
-            ]
-        },
-        "Seq": 11,
-        "oldID": 68520,
-        "Map": {
-            "ID": 371
-        },
-        "StartDependency": false
-    },
-    {
-        "ID": "5ec93c18f91",
-        "Name": " Much at Steak",
-        "Location": "The Ruby Sea",
-        "Level": 60,
-        "JournalSection": 4,
-        "JournalCategory": 34,
-        "JournalGenre": "\n\t\t\t\t\t\t\tDaily Quests\n\t\t\t\t\t\t",
-        "Url": "/lodestone/playguide/db/quest/5ec93c18f91/",
-        "Image": null,
-        "Icon": "common_repeat",
-        "Issuer": "Zukin",
-        "StartLocation": {
-            "Name": "The Ruby Sea",
-            "X": "29.3",
-            "Y": "16.8"
-        },
-        "StartClass": null,
-        "Job": "",
-        "Company": "Not specified",
-        "Requirement": "Not specified",
-        "Rewards": {
-            "Gil": 550,
-            "Exp": null,
-            "ItemsMand": [],
-            "ItemsOpt": []
-        },
-        "Infos": {},
-        "Seq": 13,
-        "oldID": 68522,
-        "Map": {
-            "ID": 371
-        },
-        "StartDependency": false
-    },
-    {
-        "ID": "62aef1ae192",
-        "Name": " The Hot-blooded Kojin",
-        "Location": "The Ruby Sea",
-        "Level": 60,
-        "JournalSection": 4,
-        "JournalCategory": 34,
-        "JournalGenre": "\n\t\t\t\t\t\t\tDaily Quests\n\t\t\t\t\t\t",
-        "Url": "/lodestone/playguide/db/quest/62aef1ae192/",
-        "Image": null,
-        "Icon": "common_repeat",
-        "Issuer": "Zukin",
-        "StartLocation": {
-            "Name": "The Ruby Sea",
-            "X": "29.3",
-            "Y": "16.8"
-        },
-        "StartClass": null,
-        "Job": "",
-        "Company": "Not specified",
-        "Requirement": "Not specified",
-        "Rewards": {
-            "Gil": 550,
-            "Exp": null,
-            "ItemsMand": [],
-            "ItemsOpt": []
-        },
-        "Infos": {
-            "RelatedNPC": [
-                {
-                    "Name": "Hot-headed Kojin",
-                    "Url": "/lodestone/playguide/db/npc/npc/bc56d3f985c/",
-                    "Area": "The Ruby Sea (X:9.3 Y:25.1)"
+                    "Name": "Wasteland Wyvern",
+                    "Url": "/lodestone/playguide/db/npc/npc/3b118662ce5/",
+                    "Area": "The Dravanian Forelands (X:19.5 Y:33.3)"
                 },
                 {
-                    "Name": "Hot-headed Kojin",
-                    "Url": "/lodestone/playguide/db/npc/npc/d49def3c61f/",
-                    "Area": "The Ruby Sea (X:6.9 Y:25.2)"
-                },
-                {
-                    "Name": "Hot-headed Kojin",
-                    "Url": "/lodestone/playguide/db/npc/npc/74737c24196/",
-                    "Area": "The Ruby Sea (X:4.0 Y:27.0)"
-                }
-            ]
-        },
-        "Seq": 28,
-        "oldID": 68537,
-        "Map": {
-            "ID": 371
-        },
-        "StartDependency": false
-    },
-    {
-        "ID": "638eb03979a",
-        "Name": " The Value of Silence",
-        "Location": "The Ruby Sea",
-        "Level": 60,
-        "JournalSection": 4,
-        "JournalCategory": 34,
-        "JournalGenre": "\n\t\t\t\t\t\t\tMain Quests\n\t\t\t\t\t\t",
-        "Url": "/lodestone/playguide/db/quest/638eb03979a/",
-        "Image": "https://img.finalfantasyxiv.com/lds/pc/global/images/itemicon/22/22235921990709bb661acc5bd2ed6f857397ba2d.png?n5.55",
-        "Icon": "function_normal",
-        "Issuer": "Kabuto",
-        "StartLocation": {
-            "Name": "The Ruby Sea",
-            "X": "29.4",
-            "Y": "16.5"
-        },
-        "StartClass": null,
-        "Job": "",
-        "Company": "Not specified",
-        "Requirement": "Not specified",
-        "Rewards": {
-            "Gil": 1415,
-            "Exp": null,
-            "ItemsMand": [],
-            "ItemsOpt": []
-        },
-        "Infos": {
-            "PrerequisiteQuest": [
-                {
-                    "Name": " Under Wraps",
-                    "Url": "/lodestone/playguide/db/quest/97de9dddf33/",
-                    "Area": "The Ruby Sea",
-                    "Level": "60"
-                }
-            ],
-            "FollowupQuest": [
-                {
-                    "Name": " Misdelivered",
-                    "Url": "/lodestone/playguide/db/quest/2027759876a/",
-                    "Area": "The Ruby Sea",
-                    "Level": "60"
-                }
-            ],
-            "RelatedNPC": [
-                {
-                    "Name": "Arrogant Oronir",
-                    "Url": "/lodestone/playguide/db/npc/npc/96668f54c01/",
-                    "Area": "The Azim Steppe (X:32.9 Y:27.4)"
-                },
-                {
-                    "Name": "Bold Buduga",
-                    "Url": "/lodestone/playguide/db/npc/npc/4253bc5fb1f/",
-                    "Area": "The Azim Steppe (X:32.5 Y:27.7)"
-                },
-                {
-                    "Name": "Daunting Dotharl",
-                    "Url": "/lodestone/playguide/db/npc/npc/b547be10e5c/",
-                    "Area": "The Azim Steppe (X:32.7 Y:28.7)"
-                },
-                {
-                    "Name": "Kabuto",
-                    "Url": "/lodestone/playguide/db/npc/npc/9878524e89d/",
-                    "Area": "The Azim Steppe (X:32.2 Y:29.8)"
-                },
-                {
-                    "Name": "Kabuto",
-                    "Url": "/lodestone/playguide/db/npc/npc/398038b7a92/",
-                    "Area": "The Azim Steppe (X:28.6 Y:30.8)"
-                },
-                {
-                    "Name": "Tsukumo",
-                    "Url": "/lodestone/playguide/db/npc/npc/aba63982760/",
-                    "Area": "The Azim Steppe (X:32.2 Y:29.8)"
-                },
-                {
-                    "Name": "Tsukumo",
-                    "Url": "/lodestone/playguide/db/npc/npc/010dea95bec/",
-                    "Area": "The Azim Steppe (X:28.6 Y:30.8)"
-                },
-                {
-                    "Name": "Uchikin",
-                    "Url": "/lodestone/playguide/db/npc/npc/191024e1f3c/",
-                    "Area": "The Azim Steppe (X:28.5 Y:30.9)"
-                },
-                {
-                    "Name": "Uchikin",
-                    "Url": "/lodestone/playguide/db/npc/npc/b5a9db48d8b/",
-                    "Area": "The Azim Steppe (X:28.5 Y:30.8)"
-                },
-                {
-                    "Name": "Uchikin's Father",
-                    "Url": "/lodestone/playguide/db/npc/npc/d5213331f86/",
-                    "Area": "The Azim Steppe (X:28.5 Y:30.9)"
-                },
-                {
-                    "Name": "Tsukumo",
-                    "Url": "/lodestone/playguide/db/npc/npc/6b1723f5c67/",
-                    "Area": "The Ruby Sea (X:29.4 Y:16.4)"
-                }
-            ]
-        },
-        "Seq": 2,
-        "oldID": 68511,
-        "Map": {
-            "ID": 371
-        },
-        "StartDependency": false
-    },
-    {
-        "ID": "66533e5f796",
-        "Name": " Little Kojin Lost",
-        "Location": "The Ruby Sea",
-        "Level": 60,
-        "JournalSection": 4,
-        "JournalCategory": 34,
-        "JournalGenre": "\n\t\t\t\t\t\t\tDaily Quests\n\t\t\t\t\t\t",
-        "Url": "/lodestone/playguide/db/quest/66533e5f796/",
-        "Image": null,
-        "Icon": "common_repeat",
-        "Issuer": "Zukin",
-        "StartLocation": {
-            "Name": "The Ruby Sea",
-            "X": "29.3",
-            "Y": "16.8"
-        },
-        "StartClass": null,
-        "Job": "",
-        "Company": "Not specified",
-        "Requirement": "Not specified",
-        "Rewards": {
-            "Gil": 615,
-            "Exp": null,
-            "ItemsMand": [],
-            "ItemsOpt": []
-        },
-        "Infos": {
-            "RelatedNPC": [
-                {
-                    "Name": "Itomaki",
-                    "Url": "/lodestone/playguide/db/npc/npc/e9e63a7e895/",
-                    "Area": "The Ruby Sea (X:38.7 Y:10.5)"
-                },
-                {
-                    "Name": "Itomaki",
-                    "Url": "/lodestone/playguide/db/npc/npc/90f17187342/",
-                    "Area": "The Ruby Sea (X:38.2 Y:3.2)"
-                },
-                {
-                    "Name": "Itomaki",
-                    "Url": "/lodestone/playguide/db/npc/npc/4eabcdfbcd2/",
-                    "Area": "The Ruby Sea (X:39.3 Y:5.5)"
-                }
-            ]
-        },
-        "Seq": 12,
-        "oldID": 68521,
-        "Map": {
-            "ID": 371
-        },
-        "StartDependency": false
-    },
-    {
-        "ID": "6a7d9849c90",
-        "Name": " Buoyant Bounty",
-        "Location": "The Ruby Sea",
-        "Level": 60,
-        "JournalSection": 4,
-        "JournalCategory": 34,
-        "JournalGenre": "\n\t\t\t\t\t\t\tDaily Quests\n\t\t\t\t\t\t",
-        "Url": "/lodestone/playguide/db/quest/6a7d9849c90/",
-        "Image": null,
-        "Icon": "common_repeat",
-        "Issuer": "Zukin",
-        "StartLocation": {
-            "Name": "The Ruby Sea",
-            "X": "29.3",
-            "Y": "16.8"
-        },
-        "StartClass": null,
-        "Job": "",
-        "Company": "Not specified",
-        "Requirement": "Not specified",
-        "Rewards": {
-            "Gil": 615,
-            "Exp": null,
-            "ItemsMand": [],
-            "ItemsOpt": []
-        },
-        "Infos": {
-            "RelatedNPC": [
-                {
-                    "Name": "Makura",
-                    "Url": "/lodestone/playguide/db/npc/npc/538af947d67/",
-                    "Area": "The Ruby Sea (X:29.2 Y:16.3)"
-                }
-            ]
-        },
-        "Seq": 15,
-        "oldID": 68524,
-        "Map": {
-            "ID": 371
-        },
-        "StartDependency": false
-    },
-    {
-        "ID": "6d2ac7da282",
-        "Name": " Flotsam and Jetsam",
-        "Location": "The Ruby Sea",
-        "Level": 60,
-        "JournalSection": 4,
-        "JournalCategory": 34,
-        "JournalGenre": "\n\t\t\t\t\t\t\tDaily Quests\n\t\t\t\t\t\t",
-        "Url": "/lodestone/playguide/db/quest/6d2ac7da282/",
-        "Image": null,
-        "Icon": "common_repeat",
-        "Issuer": "Zukin",
-        "StartLocation": {
-            "Name": "The Ruby Sea",
-            "X": "29.3",
-            "Y": "16.8"
-        },
-        "StartClass": null,
-        "Job": "",
-        "Company": "Not specified",
-        "Requirement": "Not specified",
-        "Rewards": {
-            "Gil": 550,
-            "Exp": null,
-            "ItemsMand": [],
-            "ItemsOpt": []
-        },
-        "Infos": {},
-        "Seq": 23,
-        "oldID": 68532,
-        "Map": {
-            "ID": 371
-        },
-        "StartDependency": false
-    },
-    {
-        "ID": "722ef804360",
-        "Name": " No, Not the Boo Box",
-        "Location": "The Ruby Sea",
-        "Level": 60,
-        "JournalSection": 4,
-        "JournalCategory": 34,
-        "JournalGenre": "\n\t\t\t\t\t\t\tDaily Quests\n\t\t\t\t\t\t",
-        "Url": "/lodestone/playguide/db/quest/722ef804360/",
-        "Image": null,
-        "Icon": "common_repeat",
-        "Issuer": "Zukin",
-        "StartLocation": {
-            "Name": "The Ruby Sea",
-            "X": "29.3",
-            "Y": "16.8"
-        },
-        "StartClass": null,
-        "Job": "",
-        "Company": "Not specified",
-        "Requirement": "Not specified",
-        "Rewards": {
-            "Gil": 550,
-            "Exp": null,
-            "ItemsMand": [],
-            "ItemsOpt": []
-        },
-        "Infos": {},
-        "Seq": 19,
-        "oldID": 68528,
-        "Map": {
-            "ID": 371
-        },
-        "StartDependency": false
-    },
-    {
-        "ID": "725bde2e214",
-        "Name": " Clammed Up",
-        "Location": "The Ruby Sea",
-        "Level": 60,
-        "JournalSection": 4,
-        "JournalCategory": 34,
-        "JournalGenre": "\n\t\t\t\t\t\t\tDaily Quests\n\t\t\t\t\t\t",
-        "Url": "/lodestone/playguide/db/quest/725bde2e214/",
-        "Image": null,
-        "Icon": "common_repeat",
-        "Issuer": "Zukin",
-        "StartLocation": {
-            "Name": "The Ruby Sea",
-            "X": "29.3",
-            "Y": "16.8"
-        },
-        "StartClass": null,
-        "Job": "",
-        "Company": "Not specified",
-        "Requirement": "Not specified",
-        "Rewards": {
-            "Gil": 550,
-            "Exp": null,
-            "ItemsMand": [],
-            "ItemsOpt": []
-        },
-        "Infos": {},
-        "Seq": 24,
-        "oldID": 68533,
-        "Map": {
-            "ID": 371
-        },
-        "StartDependency": false
-    },
-    {
-        "ID": "76c3813d096",
-        "Name": " You Blow It Up",
-        "Location": "The Ruby Sea",
-        "Level": 60,
-        "JournalSection": 4,
-        "JournalCategory": 34,
-        "JournalGenre": "\n\t\t\t\t\t\t\tDaily Quests\n\t\t\t\t\t\t",
-        "Url": "/lodestone/playguide/db/quest/76c3813d096/",
-        "Image": null,
-        "Icon": "common_repeat",
-        "Issuer": "Zukin",
-        "StartLocation": {
-            "Name": "The Ruby Sea",
-            "X": "29.3",
-            "Y": "16.8"
-        },
-        "StartClass": null,
-        "Job": "",
-        "Company": "Not specified",
-        "Requirement": "Not specified",
-        "Rewards": {
-            "Gil": 550,
-            "Exp": null,
-            "ItemsMand": [],
-            "ItemsOpt": []
-        },
-        "Infos": {},
-        "Seq": 26,
-        "oldID": 68535,
-        "Map": {
-            "ID": 371
-        },
-        "StartDependency": false
-    },
-    {
-        "ID": "8fe752d366d",
-        "Name": " Heaven-sent",
-        "Location": "The Ruby Sea",
-        "Level": 60,
-        "JournalSection": 4,
-        "JournalCategory": 34,
-        "JournalGenre": "\n\t\t\t\t\t\t\tMain Quests\n\t\t\t\t\t\t",
-        "Url": "/lodestone/playguide/db/quest/8fe752d366d/",
-        "Image": "https://img.finalfantasyxiv.com/lds/pc/global/images/itemicon/ff/ff24c83cd559ce2d2444f1a743e46c5b5fb39fc5.png?n5.55",
-        "Icon": "function_normal",
-        "Issuer": "Vexed Villager",
-        "StartLocation": {
-            "Name": "The Ruby Sea",
-            "X": "6.8",
-            "Y": "13.3"
-        },
-        "StartClass": null,
-        "Job": "",
-        "Company": "Not specified",
-        "Requirement": "Not specified",
-        "Rewards": {
-            "Gil": 940,
-            "Exp": null,
-            "ItemsMand": [],
-            "ItemsOpt": []
-        },
-        "Infos": {
-            "PrerequisiteQuest": [
-                {
-                    "Name": "Tide Goes in, Imperials Go Out",
-                    "Url": "/lodestone/playguide/db/quest/d87d68f83e8/",
-                    "Area": "The Ruby Sea",
-                    "Level": "63"
-                }
-            ],
-            "FollowupQuest": [
-                {
-                    "Name": " Under Wraps",
-                    "Url": "/lodestone/playguide/db/quest/97de9dddf33/",
-                    "Area": "The Ruby Sea",
-                    "Level": "60"
-                }
-            ],
-            "RelatedNPC": [
-                {
-                    "Name": "Kabuto",
-                    "Url": "/lodestone/playguide/db/npc/npc/922209ba499/",
-                    "Area": "The Ruby Sea (X:34.5 Y:20.2)"
-                },
-                {
-                    "Name": "Overconfident Kojin",
-                    "Url": "/lodestone/playguide/db/npc/npc/08774335371/",
-                    "Area": "The Ruby Sea (X:27.7 Y:30.8)"
-                },
-                {
-                    "Name": "Overconfident Kojin",
-                    "Url": "/lodestone/playguide/db/npc/npc/876b8098400/",
-                    "Area": "The Ruby Sea (X:23.8 Y:32.7)"
-                },
-                {
-                    "Name": "Shihoumi",
-                    "Url": "/lodestone/playguide/db/npc/npc/ab16a945053/",
-                    "Area": "The Ruby Sea (X:27.7 Y:30.8)"
+                    "Name": "Wasteland Wyvern",
+                    "Url": "/lodestone/playguide/db/npc/npc/10662c8a9a1/",
+                    "Area": "The Dravanian Forelands (X:10.0 Y:32.3)"
                 }
             ]
         },
         "Seq": 14,
-        "oldID": 68509,
-        "Map": {
-            "ID": 371
-        },
         "StartDependency": false
     },
     {
-        "ID": "91e029c93cd",
-        "Name": " A Test of Courage",
-        "Location": "The Ruby Sea",
-        "Level": 60,
+        "ID": "0f6fd8c9925",
+        "Name": " An Acquired Taste",
+        "Location": "The Dravanian Forelands",
+        "Level": 50,
         "JournalSection": 4,
         "JournalCategory": 34,
         "JournalGenre": "\n\t\t\t\t\t\t\tMain Quests\n\t\t\t\t\t\t",
-        "Url": "/lodestone/playguide/db/quest/91e029c93cd/",
-        "Image": "https://img.finalfantasyxiv.com/lds/pc/global/images/itemicon/75/75a05c0d1fb1f8323a2bcbc8371f36478f927c1b.png?n5.55",
+        "Url": "/lodestone/playguide/db/quest/0f6fd8c9925/",
+        "Image": "https://img.finalfantasyxiv.com/lds/pc/global/images/itemicon/2c/2c2e9611b782132b2352259e797cddba8fcea36a.png?n6.05",
         "Icon": "function_normal",
-        "Issuer": "Kabuto",
+        "Issuer": "Vath Deftarm",
         "StartLocation": {
-            "Name": "The Ruby Sea",
-            "X": "29.4",
-            "Y": "16.5"
+            "Name": "The Dravanian Forelands",
+            "X": "23.6",
+            "Y": "19.1"
         },
         "StartClass": null,
         "Job": "",
         "Company": "Not specified",
         "Requirement": "Not specified",
         "Rewards": {
-            "Gil": 1135,
+            "Gil": 1022,
             "Exp": null,
             "ItemsMand": [],
             "ItemsOpt": []
@@ -796,270 +197,151 @@
         "Infos": {
             "PrerequisiteQuest": [
                 {
-                    "Name": " Misdelivered",
-                    "Url": "/lodestone/playguide/db/quest/2027759876a/",
-                    "Area": "The Ruby Sea",
-                    "Level": "60"
+                    "Name": " Adventurers Don't Get Cold Feet",
+                    "Url": "/lodestone/playguide/db/quest/b51e087b571/",
+                    "Area": "The Dravanian Forelands",
+                    "Level": "50"
                 }
             ],
             "FollowupQuest": [
                 {
-                    "Name": " True-blue",
-                    "Url": "/lodestone/playguide/db/quest/d59782ef216/",
-                    "Area": "The Ruby Sea",
-                    "Level": "60"
+                    "Name": " Your Enemy and Mine",
+                    "Url": "/lodestone/playguide/db/quest/01da161e6f0/",
+                    "Area": "The Dravanian Forelands",
+                    "Level": "50"
                 }
             ],
             "RelatedNPC": [
                 {
-                    "Name": "Bunchin",
-                    "Url": "/lodestone/playguide/db/npc/npc/8d3f9089f39/",
-                    "Area": "The Ruby Sea (X:27.8 Y:16.4)"
+                    "Name": "Drydox",
+                    "Url": "/lodestone/playguide/db/npc/npc/a68d403d980/",
+                    "Area": "Idyllshire (X:6.9 Y:7.2)"
                 },
                 {
-                    "Name": "Candid Kojin",
-                    "Url": "/lodestone/playguide/db/npc/npc/dfcba3d290f/",
-                    "Area": "The Ruby Sea (X:28.0 Y:17.4)"
+                    "Name": "Slowfix",
+                    "Url": "/lodestone/playguide/db/npc/npc/08e18ef5e1e/",
+                    "Area": "Idyllshire (X:7.5 Y:6.5)"
                 },
                 {
-                    "Name": "Kabuto",
-                    "Url": "/lodestone/playguide/db/npc/npc/87148b3f6f6/",
-                    "Area": "The Ruby Sea (X:28.0 Y:17.4)"
+                    "Name": "Vath Deftarm",
+                    "Url": "/lodestone/playguide/db/npc/npc/ee9dbb64c2d/",
+                    "Area": "Idyllshire (X:7.5 Y:6.5)"
                 },
                 {
-                    "Name": "Kabuto",
-                    "Url": "/lodestone/playguide/db/npc/npc/ff99cee6f2c/",
-                    "Area": "The Ruby Sea (X:8.1 Y:26.8)"
+                    "Name": "Vath Deftarm",
+                    "Url": "/lodestone/playguide/db/npc/npc/b68d9387484/",
+                    "Area": "The Dravanian Forelands (X:7.6 Y:34.0)"
+                },
+                {
+                    "Name": "Vath Deftarm",
+                    "Url": "/lodestone/playguide/db/npc/npc/53e348c64d3/",
+                    "Area": "The Dravanian Forelands (X:28.2 Y:31.0)"
+                },
+                {
+                    "Name": "Vath Storyteller",
+                    "Url": "/lodestone/playguide/db/npc/npc/41a0c5ab8cb/",
+                    "Area": "The Dravanian Forelands (X:24.0 Y:19.7)"
+                },
+                {
+                    "Name": "Vath Deftarm",
+                    "Url": "/lodestone/playguide/db/npc/npc/a9af7430274/",
+                    "Area": "The Dravanian Hinterlands (X:32.7 Y:24.9)"
+                },
+                {
+                    "Name": "Vath Deftarm",
+                    "Url": "/lodestone/playguide/db/npc/npc/0d8bfbfbea9/",
+                    "Area": "The Dravanian Hinterlands (X:20.8 Y:16.0)"
                 }
             ]
         },
-        "Seq": 4,
-        "oldID": 68513,
-        "Map": {
-            "ID": 371
-        },
+        "Seq": 2,
         "StartDependency": false
     },
     {
-        "ID": "9315c38cf29",
-        "Name": " Krilled to Pieces",
-        "Location": "The Ruby Sea",
-        "Level": 60,
+        "ID": "11e7c4bd628",
+        "Name": " Where the Silver Dew Grows",
+        "Location": "The Dravanian Forelands",
+        "Level": 50,
         "JournalSection": 4,
         "JournalCategory": 34,
         "JournalGenre": "\n\t\t\t\t\t\t\tDaily Quests\n\t\t\t\t\t\t",
-        "Url": "/lodestone/playguide/db/quest/9315c38cf29/",
+        "Url": "/lodestone/playguide/db/quest/11e7c4bd628/",
         "Image": null,
         "Icon": "common_repeat",
-        "Issuer": "Zukin",
+        "Issuer": "Vath Keeneye",
         "StartLocation": {
-            "Name": "The Ruby Sea",
-            "X": "29.3",
-            "Y": "16.8"
+            "Name": "The Dravanian Forelands",
+            "X": "23.7",
+            "Y": "19.0"
         },
         "StartClass": null,
         "Job": "",
         "Company": "Not specified",
         "Requirement": "Not specified",
         "Rewards": {
-            "Gil": 615,
+            "Gil": 545,
             "Exp": null,
             "ItemsMand": [],
             "ItemsOpt": []
         },
-        "Infos": {
-            "RelatedNPC": [
-                {
-                    "Name": "Makura",
-                    "Url": "/lodestone/playguide/db/npc/npc/538af947d67/",
-                    "Area": "The Ruby Sea (X:29.2 Y:16.3)"
-                }
-            ]
-        },
-        "Seq": 9,
-        "oldID": 68518,
-        "Map": {
-            "ID": 371
-        },
+        "Infos": {},
+        "Seq": 12,
         "StartDependency": false
     },
     {
-        "ID": "97de9dddf33",
-        "Name": " Under Wraps",
-        "Location": "The Ruby Sea",
-        "Level": 60,
-        "JournalSection": 4,
-        "JournalCategory": 34,
-        "JournalGenre": "\n\t\t\t\t\t\t\tMain Quests\n\t\t\t\t\t\t",
-        "Url": "/lodestone/playguide/db/quest/97de9dddf33/",
-        "Image": "https://img.finalfantasyxiv.com/lds/pc/global/images/itemicon/b4/b471e63f0f05117ef64c7e4aed2118312ea41ee3.png?n5.55",
-        "Icon": "function_normal",
-        "Issuer": "Kabuto",
-        "StartLocation": {
-            "Name": "The Ruby Sea",
-            "X": "29.4",
-            "Y": "16.5"
-        },
-        "StartClass": null,
-        "Job": "",
-        "Company": "Not specified",
-        "Requirement": "Not specified",
-        "Rewards": {
-            "Gil": 1516,
-            "Exp": null,
-            "ItemsMand": [],
-            "ItemsOpt": []
-        },
-        "Infos": {
-            "PrerequisiteQuest": [
-                {
-                    "Name": " Heaven-sent",
-                    "Url": "/lodestone/playguide/db/quest/8fe752d366d/",
-                    "Area": "The Ruby Sea",
-                    "Level": "60"
-                }
-            ],
-            "FollowupQuest": [
-                {
-                    "Name": " The Value of Silence",
-                    "Url": "/lodestone/playguide/db/quest/638eb03979a/",
-                    "Area": "The Ruby Sea",
-                    "Level": "60"
-                }
-            ],
-            "RelatedNPC": [
-                {
-                    "Name": "Tsukumo",
-                    "Url": "/lodestone/playguide/db/npc/npc/6b1723f5c67/",
-                    "Area": "The Ruby Sea (X:29.4 Y:16.4)"
-                },
-                {
-                    "Name": "Gyokei",
-                    "Url": "/lodestone/playguide/db/npc/npc/b1b7d848627/",
-                    "Area": "Yanxia (X:27.5 Y:36.1)"
-                },
-                {
-                    "Name": "Kabuto",
-                    "Url": "/lodestone/playguide/db/npc/npc/18d30262183/",
-                    "Area": "Yanxia (X:30.7 Y:18.3)"
-                },
-                {
-                    "Name": "Kabuto",
-                    "Url": "/lodestone/playguide/db/npc/npc/8bd6bfa0658/",
-                    "Area": "Yanxia (X:24.4 Y:30.5)"
-                },
-                {
-                    "Name": "Kabuto",
-                    "Url": "/lodestone/playguide/db/npc/npc/dce2b01ada0/",
-                    "Area": "Yanxia (X:25.5 Y:35.6)"
-                },
-                {
-                    "Name": "Kabuto",
-                    "Url": "/lodestone/playguide/db/npc/npc/0ed7103b0aa/",
-                    "Area": "Yanxia (X:27.5 Y:36.1)"
-                },
-                {
-                    "Name": "Kabuto",
-                    "Url": "/lodestone/playguide/db/npc/npc/951958b9e9d/",
-                    "Area": "Yanxia (X:25.1 Y:32.5)"
-                },
-                {
-                    "Name": "Nervous Namazu",
-                    "Url": "/lodestone/playguide/db/npc/npc/4d6160111b2/",
-                    "Area": "Yanxia (X:27.5 Y:36.1)"
-                },
-                {
-                    "Name": "Reluctant Resident",
-                    "Url": "/lodestone/playguide/db/npc/npc/7e6205a6f06/",
-                    "Area": "Yanxia (X:30.7 Y:18.2)"
-                },
-                {
-                    "Name": "Tsukumo",
-                    "Url": "/lodestone/playguide/db/npc/npc/bbcdcd30a20/",
-                    "Area": "Yanxia (X:30.7 Y:18.2)"
-                },
-                {
-                    "Name": "Tsukumo",
-                    "Url": "/lodestone/playguide/db/npc/npc/5e80abcb527/",
-                    "Area": "Yanxia (X:24.4 Y:30.5)"
-                },
-                {
-                    "Name": "Tsukumo",
-                    "Url": "/lodestone/playguide/db/npc/npc/f5aae52343e/",
-                    "Area": "Yanxia (X:25.5 Y:35.7)"
-                },
-                {
-                    "Name": "Tsukumo",
-                    "Url": "/lodestone/playguide/db/npc/npc/f1389773960/",
-                    "Area": "Yanxia (X:27.5 Y:36.1)"
-                }
-            ]
-        },
-        "Seq": 1,
-        "oldID": 68510,
-        "Map": {
-            "ID": 371
-        },
-        "StartDependency": false
-    },
-    {
-        "ID": "ae6404692f3",
-        "Name": " Tonight We Dine in Shells",
-        "Location": "The Ruby Sea",
-        "Level": 60,
+        "ID": "22aa6e4d37a",
+        "Name": " The Foodstuff of Champions",
+        "Location": "The Dravanian Forelands",
+        "Level": 50,
         "JournalSection": 4,
         "JournalCategory": 34,
         "JournalGenre": "\n\t\t\t\t\t\t\tDaily Quests\n\t\t\t\t\t\t",
-        "Url": "/lodestone/playguide/db/quest/ae6404692f3/",
+        "Url": "/lodestone/playguide/db/quest/22aa6e4d37a/",
         "Image": null,
         "Icon": "common_repeat",
-        "Issuer": "Zukin",
+        "Issuer": "Vath Keeneye",
         "StartLocation": {
-            "Name": "The Ruby Sea",
-            "X": "29.3",
-            "Y": "16.8"
+            "Name": "The Dravanian Forelands",
+            "X": "23.7",
+            "Y": "19.0"
         },
         "StartClass": null,
         "Job": "",
         "Company": "Not specified",
         "Requirement": "Not specified",
         "Rewards": {
-            "Gil": 550,
+            "Gil": 489,
             "Exp": null,
             "ItemsMand": [],
             "ItemsOpt": []
         },
         "Infos": {},
         "Seq": 10,
-        "oldID": 68519,
-        "Map": {
-            "ID": 371
-        },
         "StartDependency": false
     },
     {
-        "ID": "bb447d28fc3",
-        "Name": " Forever Blowing Bubbles",
-        "Location": "The Ruby Sea",
-        "Level": 60,
+        "ID": "3f64f73a078",
+        "Name": " Flea Troubles",
+        "Location": "The Dravanian Forelands",
+        "Level": 50,
         "JournalSection": 4,
         "JournalCategory": 34,
         "JournalGenre": "\n\t\t\t\t\t\t\tDaily Quests\n\t\t\t\t\t\t",
-        "Url": "/lodestone/playguide/db/quest/bb447d28fc3/",
+        "Url": "/lodestone/playguide/db/quest/3f64f73a078/",
         "Image": null,
         "Icon": "common_repeat",
-        "Issuer": "Zukin",
+        "Issuer": "Vath Keeneye",
         "StartLocation": {
-            "Name": "The Ruby Sea",
-            "X": "29.3",
-            "Y": "16.8"
+            "Name": "The Dravanian Forelands",
+            "X": "23.7",
+            "Y": "19.0"
         },
         "StartClass": null,
         "Job": "",
         "Company": "Not specified",
         "Requirement": "Not specified",
         "Rewards": {
-            "Gil": 583,
+            "Gil": 461,
             "Exp": null,
             "ItemsMand": [],
             "ItemsOpt": []
@@ -1067,47 +349,84 @@
         "Infos": {
             "RelatedNPC": [
                 {
-                    "Name": "Male Striped Ray",
-                    "Url": "/lodestone/playguide/db/npc/npc/29252c8bfed/",
-                    "Area": "The Ruby Sea (X:22.0 Y:20.9)"
+                    "Name": "Distressed Dragon",
+                    "Url": "/lodestone/playguide/db/npc/npc/760c25d8f26/",
+                    "Area": "The Dravanian Forelands (X:18.9 Y:22.6)"
                 },
                 {
-                    "Name": "Ray Handler",
-                    "Url": "/lodestone/playguide/db/npc/npc/e3b2a571f34/",
-                    "Area": "The Ruby Sea (X:21.9 Y:21.0)"
+                    "Name": "Distressed Dragon",
+                    "Url": "/lodestone/playguide/db/npc/npc/ceefd940dd7/",
+                    "Area": "The Dravanian Forelands (X:16.2 Y:24.6)"
+                },
+                {
+                    "Name": "Distressed Dragon",
+                    "Url": "/lodestone/playguide/db/npc/npc/89fd8057fe2/",
+                    "Area": "The Dravanian Forelands (X:16.3 Y:25.4)"
+                },
+                {
+                    "Name": "Vath Kintamer",
+                    "Url": "/lodestone/playguide/db/npc/npc/4c7d235d7c8/",
+                    "Area": "The Dravanian Forelands (X:24.0 Y:19.1)"
                 }
             ]
         },
-        "Seq": 18,
-        "oldID": 68527,
-        "Map": {
-            "ID": 371
-        },
+        "Seq": 21,
         "StartDependency": false
     },
     {
-        "ID": "bdcf81655f5",
-        "Name": " Pleasure Doing Business",
-        "Location": "The Ruby Sea",
-        "Level": 60,
+        "ID": "55769feee22",
+        "Name": " Too Much to Bear",
+        "Location": "The Dravanian Forelands",
+        "Level": 50,
         "JournalSection": 4,
         "JournalCategory": 34,
         "JournalGenre": "\n\t\t\t\t\t\t\tDaily Quests\n\t\t\t\t\t\t",
-        "Url": "/lodestone/playguide/db/quest/bdcf81655f5/",
+        "Url": "/lodestone/playguide/db/quest/55769feee22/",
         "Image": null,
         "Icon": "common_repeat",
-        "Issuer": "Zukin",
+        "Issuer": "Vath Keeneye",
         "StartLocation": {
-            "Name": "The Ruby Sea",
-            "X": "29.3",
-            "Y": "16.8"
+            "Name": "The Dravanian Forelands",
+            "X": "23.7",
+            "Y": "19.0"
         },
         "StartClass": null,
         "Job": "",
         "Company": "Not specified",
         "Requirement": "Not specified",
         "Rewards": {
-            "Gil": 550,
+            "Gil": 489,
+            "Exp": null,
+            "ItemsMand": [],
+            "ItemsOpt": []
+        },
+        "Infos": {},
+        "Seq": 9,
+        "StartDependency": false
+    },
+    {
+        "ID": "5b10abf1a8c",
+        "Name": " Smells Like Trouble",
+        "Location": "The Dravanian Forelands",
+        "Level": 50,
+        "JournalSection": 4,
+        "JournalCategory": 34,
+        "JournalGenre": "\n\t\t\t\t\t\t\tDaily Quests\n\t\t\t\t\t\t",
+        "Url": "/lodestone/playguide/db/quest/5b10abf1a8c/",
+        "Image": null,
+        "Icon": "common_repeat",
+        "Issuer": "Vath Keeneye",
+        "StartLocation": {
+            "Name": "The Dravanian Forelands",
+            "X": "23.7",
+            "Y": "19.0"
+        },
+        "StartClass": null,
+        "Job": "",
+        "Company": "Not specified",
+        "Requirement": "Not specified",
+        "Rewards": {
+            "Gil": 489,
             "Exp": null,
             "ItemsMand": [],
             "ItemsOpt": []
@@ -1115,67 +434,173 @@
         "Infos": {
             "RelatedNPC": [
                 {
-                    "Name": "Isari Basket Weaver",
-                    "Url": "/lodestone/playguide/db/npc/npc/df3cb5e210a/",
-                    "Area": "The Ruby Sea (X:5.7 Y:12.3)"
+                    "Name": "Goblin Herbalist",
+                    "Url": "/lodestone/playguide/db/npc/npc/fc098e046b3/",
+                    "Area": "The Dravanian Forelands (X:23.9 Y:19.1)"
+                }
+            ]
+        },
+        "Seq": 19,
+        "StartDependency": false
+    },
+    {
+        "ID": "68f1a2fdfc9",
+        "Name": " Failure to Deliver",
+        "Location": "The Dravanian Forelands",
+        "Level": 50,
+        "JournalSection": 4,
+        "JournalCategory": 34,
+        "JournalGenre": "\n\t\t\t\t\t\t\tDaily Quests\n\t\t\t\t\t\t",
+        "Url": "/lodestone/playguide/db/quest/68f1a2fdfc9/",
+        "Image": null,
+        "Icon": "common_repeat",
+        "Issuer": "Vath Keeneye",
+        "StartLocation": {
+            "Name": "The Dravanian Forelands",
+            "X": "23.7",
+            "Y": "19.0"
+        },
+        "StartClass": null,
+        "Job": "",
+        "Company": "Not specified",
+        "Requirement": "Not specified",
+        "Rewards": {
+            "Gil": 517,
+            "Exp": null,
+            "ItemsMand": [],
+            "ItemsOpt": []
+        },
+        "Infos": {
+            "RelatedNPC": [
+                {
+                    "Name": "Vath Farwalker",
+                    "Url": "/lodestone/playguide/db/npc/npc/45ec887f970/",
+                    "Area": "The Dravanian Forelands (X:11.2 Y:32.1)"
+                }
+            ]
+        },
+        "Seq": 16,
+        "StartDependency": false
+    },
+    {
+        "ID": "708cb8cd579",
+        "Name": "A Symbiotic Friendship",
+        "Location": "The Dravanian Forelands",
+        "Level": 50,
+        "JournalSection": 4,
+        "JournalCategory": 34,
+        "JournalGenre": "\n\t\t\t\t\t\t\tMain Quests\n\t\t\t\t\t\t",
+        "Url": "/lodestone/playguide/db/quest/708cb8cd579/",
+        "Image": null,
+        "Icon": "function_normal",
+        "Issuer": "Vath Deftarm",
+        "StartLocation": {
+            "Name": "The Dravanian Forelands",
+            "X": "23.6",
+            "Y": "19.1"
+        },
+        "StartClass": null,
+        "Job": "",
+        "Company": "Not specified",
+        "Requirement": "Not specified",
+        "Rewards": {
+            "Gil": 405,
+            "Exp": 0,
+            "ItemsMand": [],
+            "ItemsOpt": []
+        },
+        "Infos": {
+            "PrerequisiteQuest": [
+                {
+                    "Name": " Resistance Is Futile",
+                    "Url": "/lodestone/playguide/db/quest/ff787aa9c77/",
+                    "Area": "The Dravanian Forelands",
+                    "Level": "50"
+                }
+            ],
+            "RelatedNPC": [
+                {
+                    "Name": "Vath Storyteller",
+                    "Url": "/lodestone/playguide/db/npc/npc/41a0c5ab8cb/",
+                    "Area": "The Dravanian Forelands (X:24.0 Y:19.7)"
+                }
+            ]
+        },
+        "Seq": 5,
+        "StartDependency": false
+    },
+    {
+        "ID": "8957ae9fb7d",
+        "Name": " When Hunting Goes Wrong",
+        "Location": "The Dravanian Forelands",
+        "Level": 50,
+        "JournalSection": 4,
+        "JournalCategory": 34,
+        "JournalGenre": "\n\t\t\t\t\t\t\tDaily Quests\n\t\t\t\t\t\t",
+        "Url": "/lodestone/playguide/db/quest/8957ae9fb7d/",
+        "Image": null,
+        "Icon": "common_repeat",
+        "Issuer": "Vath Keeneye",
+        "StartLocation": {
+            "Name": "The Dravanian Forelands",
+            "X": "23.7",
+            "Y": "19.0"
+        },
+        "StartClass": null,
+        "Job": "",
+        "Company": "Not specified",
+        "Requirement": "Not specified",
+        "Rewards": {
+            "Gil": 489,
+            "Exp": null,
+            "ItemsMand": [],
+            "ItemsOpt": []
+        },
+        "Infos": {
+            "RelatedNPC": [
+                {
+                    "Name": "Fortuitous Treasure Hunter",
+                    "Url": "/lodestone/playguide/db/npc/npc/24301ddf887/",
+                    "Area": "The Dravanian Forelands (X:17.1 Y:26.9)"
                 },
                 {
-                    "Name": "Isari Basket Weaver",
-                    "Url": "/lodestone/playguide/db/npc/npc/5a698ff985d/",
-                    "Area": "The Ruby Sea (X:5.5 Y:13.1)"
+                    "Name": "Hapless Treasure Hunter",
+                    "Url": "/lodestone/playguide/db/npc/npc/e7031314695/",
+                    "Area": "The Dravanian Forelands (X:14.6 Y:27.4)"
                 },
                 {
-                    "Name": "Isari Cooper's Daughter",
-                    "Url": "/lodestone/playguide/db/npc/npc/f838322ee02/",
-                    "Area": "The Ruby Sea (X:5.6 Y:12.5)"
-                },
-                {
-                    "Name": "Isari Cooper's Daughter",
-                    "Url": "/lodestone/playguide/db/npc/npc/cfc0ff912b2/",
-                    "Area": "The Ruby Sea (X:6.1 Y:12.6)"
-                },
-                {
-                    "Name": "Isari Fisherman",
-                    "Url": "/lodestone/playguide/db/npc/npc/caf689ef31c/",
-                    "Area": "The Ruby Sea (X:5.5 Y:12.1)"
-                },
-                {
-                    "Name": "Isari Fisherman",
-                    "Url": "/lodestone/playguide/db/npc/npc/d30df6952cf/",
-                    "Area": "The Ruby Sea (X:6.4 Y:11.8)"
+                    "Name": "Woeful Treasure Hunter",
+                    "Url": "/lodestone/playguide/db/npc/npc/2901b63191f/",
+                    "Area": "The Dravanian Forelands (X:13.5 Y:26.0)"
                 }
             ]
         },
         "Seq": 20,
-        "oldID": 68529,
-        "Map": {
-            "ID": 371
-        },
         "StartDependency": false
     },
     {
-        "ID": "cc6ae55758e",
-        "Name": " Holy Mother of Pearl",
-        "Location": "The Ruby Sea",
-        "Level": 60,
+        "ID": "8a029799685",
+        "Name": " Not for the Faint of Heart",
+        "Location": "The Dravanian Forelands",
+        "Level": 50,
         "JournalSection": 4,
         "JournalCategory": 34,
         "JournalGenre": "\n\t\t\t\t\t\t\tDaily Quests\n\t\t\t\t\t\t",
-        "Url": "/lodestone/playguide/db/quest/cc6ae55758e/",
+        "Url": "/lodestone/playguide/db/quest/8a029799685/",
         "Image": null,
         "Icon": "common_repeat",
-        "Issuer": "Zukin",
+        "Issuer": "Vath Keeneye",
         "StartLocation": {
-            "Name": "The Ruby Sea",
-            "X": "29.3",
-            "Y": "16.8"
+            "Name": "The Dravanian Forelands",
+            "X": "23.7",
+            "Y": "19.0"
         },
         "StartClass": null,
         "Job": "",
         "Company": "Not specified",
         "Requirement": "Not specified",
         "Rewards": {
-            "Gil": 680,
+            "Gil": 545,
             "Exp": null,
             "ItemsMand": [],
             "ItemsOpt": []
@@ -1183,100 +608,38 @@
         "Infos": {
             "RelatedNPC": [
                 {
-                    "Name": "Blue Artisan",
-                    "Url": "/lodestone/playguide/db/npc/npc/7fd5dc9b338/",
-                    "Area": "The Ruby Sea (X:35.7 Y:24.2)"
+                    "Name": "Vath Braveheart",
+                    "Url": "/lodestone/playguide/db/npc/npc/dc8cc4eecd0/",
+                    "Area": "The Dravanian Forelands (X:14.3 Y:19.6)"
                 }
             ]
         },
-        "Seq": 22,
-        "oldID": 68531,
-        "Map": {
-            "ID": 371
-        },
+        "Seq": 25,
         "StartDependency": false
     },
     {
-        "ID": "d4749f955bb",
-        "Name": " Confused Courier",
-        "Location": "The Ruby Sea",
-        "Level": 60,
-        "JournalSection": 4,
-        "JournalCategory": 34,
-        "JournalGenre": "\n\t\t\t\t\t\t\tDaily Quests\n\t\t\t\t\t\t",
-        "Url": "/lodestone/playguide/db/quest/d4749f955bb/",
-        "Image": null,
-        "Icon": "common_repeat",
-        "Issuer": "Zukin",
-        "StartLocation": {
-            "Name": "The Ruby Sea",
-            "X": "29.3",
-            "Y": "16.8"
-        },
-        "StartClass": null,
-        "Job": "",
-        "Company": "Not specified",
-        "Requirement": "Not specified",
-        "Rewards": {
-            "Gil": 615,
-            "Exp": null,
-            "ItemsMand": [],
-            "ItemsOpt": []
-        },
-        "Infos": {
-            "RelatedNPC": [
-                {
-                    "Name": "Long-haired Pirate",
-                    "Url": "/lodestone/playguide/db/npc/npc/f034b13bd54/",
-                    "Area": "The Ruby Sea (X:21.2 Y:9.0)"
-                },
-                {
-                    "Name": "Long-haired Pirate",
-                    "Url": "/lodestone/playguide/db/npc/npc/7413bb47857/",
-                    "Area": "The Ruby Sea (X:22.3 Y:9.0)"
-                },
-                {
-                    "Name": "Long-haired Pirate",
-                    "Url": "/lodestone/playguide/db/npc/npc/36f2b1514d5/",
-                    "Area": "The Ruby Sea (X:22.0 Y:10.8)"
-                },
-                {
-                    "Name": "Wizened Kojin",
-                    "Url": "/lodestone/playguide/db/npc/npc/e96b3e6a6e0/",
-                    "Area": "The Ruby Sea (X:24.2 Y:9.9)"
-                }
-            ]
-        },
-        "Seq": 14,
-        "oldID": 68523,
-        "Map": {
-            "ID": 371
-        },
-        "StartDependency": false
-    },
-    {
-        "ID": "d59782ef216",
-        "Name": " True-blue",
-        "Location": "The Ruby Sea",
-        "Level": 60,
+        "ID": "b51e087b571",
+        "Name": " Adventurers Don't Get Cold Feet",
+        "Location": "The Dravanian Forelands",
+        "Level": 50,
         "JournalSection": 4,
         "JournalCategory": 34,
         "JournalGenre": "\n\t\t\t\t\t\t\tMain Quests\n\t\t\t\t\t\t",
-        "Url": "/lodestone/playguide/db/quest/d59782ef216/",
-        "Image": "https://img.finalfantasyxiv.com/lds/pc/global/images/itemicon/f5/f5cb1d838d389796c7ef03b2cd6821ea83436652.png?n5.55",
+        "Url": "/lodestone/playguide/db/quest/b51e087b571/",
+        "Image": "https://img.finalfantasyxiv.com/lds/pc/global/images/itemicon/15/15a1a14d3fed9aa30f9785994bdd0311655c1b33.png?n6.05",
         "Icon": "function_normal",
-        "Issuer": "Kabuto",
+        "Issuer": "Vath Deftarm",
         "StartLocation": {
-            "Name": "The Ruby Sea",
-            "X": "29.4",
-            "Y": "16.5"
+            "Name": "The Dravanian Forelands",
+            "X": "23.6",
+            "Y": "19.1"
         },
         "StartClass": null,
         "Job": "",
         "Company": "Not specified",
         "Requirement": "Not specified",
         "Rewards": {
-            "Gil": 1950,
+            "Gil": 1064,
             "Exp": null,
             "ItemsMand": [],
             "ItemsOpt": []
@@ -1284,98 +647,116 @@
         "Infos": {
             "PrerequisiteQuest": [
                 {
-                    "Name": " A Test of Courage",
-                    "Url": "/lodestone/playguide/db/quest/91e029c93cd/",
-                    "Area": "The Ruby Sea",
-                    "Level": "60"
+                    "Name": " The Naming of Vath",
+                    "Url": "/lodestone/playguide/db/quest/e06ff99cc03/",
+                    "Area": "The Dravanian Forelands",
+                    "Level": "50"
                 }
             ],
             "FollowupQuest": [
                 {
-                    "Name": "The Ananta Maid's Tail",
-                    "Url": "/lodestone/playguide/db/quest/cd6b17e9dfb/",
-                    "Area": "Kugane",
-                    "Level": "70"
+                    "Name": "Adventurers and Admirers",
+                    "Url": "/lodestone/playguide/db/quest/0366ac0fb9c/",
+                    "Area": "The Firmament",
+                    "Level": "60"
+                },
+                {
+                    "Name": " An Acquired Taste",
+                    "Url": "/lodestone/playguide/db/quest/0f6fd8c9925/",
+                    "Area": "The Dravanian Forelands",
+                    "Level": "50"
                 }
             ],
             "RelatedNPC": [
                 {
-                    "Name": "Kabuto",
-                    "Url": "/lodestone/playguide/db/npc/npc/80db9d81965/",
-                    "Area": "The Azim Steppe (X:32.1 Y:27.8)"
+                    "Name": "Jantellot",
+                    "Url": "/lodestone/playguide/db/npc/npc/c906fdfe1f2/",
+                    "Area": "Coerthas Western Highlands (X:16.7 Y:22.8)"
                 },
                 {
-                    "Name": "Uchikin",
-                    "Url": "/lodestone/playguide/db/npc/npc/9896c47959e/",
-                    "Area": "The Azim Steppe (X:32.1 Y:27.8)"
+                    "Name": "Vath Deftarm",
+                    "Url": "/lodestone/playguide/db/npc/npc/32e4b87c140/",
+                    "Area": "Coerthas Western Highlands (X:6.7 Y:10.0)"
                 },
                 {
-                    "Name": "Uchikin's Father",
-                    "Url": "/lodestone/playguide/db/npc/npc/a6a270660bd/",
-                    "Area": "The Azim Steppe (X:32.1 Y:27.8)"
+                    "Name": "Vath Deftarm",
+                    "Url": "/lodestone/playguide/db/npc/npc/44f0df29fa9/",
+                    "Area": "Coerthas Western Highlands (X:17.0 Y:21.6)"
                 },
                 {
-                    "Name": "Bunchin",
-                    "Url": "/lodestone/playguide/db/npc/npc/8d3f9089f39/",
-                    "Area": "The Ruby Sea (X:27.8 Y:16.4)"
+                    "Name": "Vath Deftarm",
+                    "Url": "/lodestone/playguide/db/npc/npc/e163a8bb3ec/",
+                    "Area": "The Dravanian Forelands (X:39.4 Y:29.3)"
                 },
                 {
-                    "Name": "Kabuto",
-                    "Url": "/lodestone/playguide/db/npc/npc/16ebfe1471b/",
-                    "Area": "The Ruby Sea (X:27.9 Y:16.4)"
+                    "Name": "Vath Deftarm",
+                    "Url": "/lodestone/playguide/db/npc/npc/3a0fa10d7bd/",
+                    "Area": "The Dravanian Forelands (X:24.6 Y:18.8)"
                 },
                 {
-                    "Name": "Gyokei",
-                    "Url": "/lodestone/playguide/db/npc/npc/9e1b6c3621f/",
-                    "Area": "Yanxia (X:16.0 Y:31.2)"
-                },
-                {
-                    "Name": "Kabuto",
-                    "Url": "/lodestone/playguide/db/npc/npc/327be3fff60/",
-                    "Area": "Yanxia (X:15.9 Y:31.3)"
-                },
-                {
-                    "Name": "Kabuto",
-                    "Url": "/lodestone/playguide/db/npc/npc/a32e5171b03/",
-                    "Area": "Kugane (X:8.6 Y:14.8)"
-                },
-                {
-                    "Name": "Shihoumi",
-                    "Url": "/lodestone/playguide/db/npc/npc/6676988e415/",
-                    "Area": "Kugane (X:8.6 Y:14.9)"
+                    "Name": "Vath Storyteller",
+                    "Url": "/lodestone/playguide/db/npc/npc/41a0c5ab8cb/",
+                    "Area": "The Dravanian Forelands (X:24.0 Y:19.7)"
                 }
             ]
         },
-        "Seq": 5,
-        "oldID": 68514,
-        "Map": {
-            "ID": 371
-        },
+        "Seq": 1,
         "StartDependency": false
     },
     {
-        "ID": "dca46b35b2d",
-        "Name": " Sand-sifting Specialist",
-        "Location": "The Ruby Sea",
-        "Level": 60,
+        "ID": "b9d0ab7fc43",
+        "Name": " A Long Shot",
+        "Location": "The Dravanian Forelands",
+        "Level": 50,
         "JournalSection": 4,
         "JournalCategory": 34,
         "JournalGenre": "\n\t\t\t\t\t\t\tDaily Quests\n\t\t\t\t\t\t",
-        "Url": "/lodestone/playguide/db/quest/dca46b35b2d/",
+        "Url": "/lodestone/playguide/db/quest/b9d0ab7fc43/",
         "Image": null,
         "Icon": "common_repeat",
-        "Issuer": "Zukin",
+        "Issuer": "Vath Keeneye",
         "StartLocation": {
-            "Name": "The Ruby Sea",
-            "X": "29.3",
-            "Y": "16.8"
+            "Name": "The Dravanian Forelands",
+            "X": "23.7",
+            "Y": "19.0"
         },
         "StartClass": null,
         "Job": "",
         "Company": "Not specified",
         "Requirement": "Not specified",
         "Rewards": {
-            "Gil": 615,
+            "Gil": 489,
+            "Exp": null,
+            "ItemsMand": [],
+            "ItemsOpt": []
+        },
+        "Infos": {},
+        "Seq": 11,
+        "StartDependency": false
+    },
+    {
+        "ID": "c766556122d",
+        "Name": " A Romp around the Foothills",
+        "Location": "The Dravanian Forelands",
+        "Level": 50,
+        "JournalSection": 4,
+        "JournalCategory": 34,
+        "JournalGenre": "\n\t\t\t\t\t\t\tDaily Quests\n\t\t\t\t\t\t",
+        "Url": "/lodestone/playguide/db/quest/c766556122d/",
+        "Image": null,
+        "Icon": "common_repeat",
+        "Issuer": "Vath Keeneye",
+        "StartLocation": {
+            "Name": "The Dravanian Forelands",
+            "X": "23.7",
+            "Y": "19.0"
+        },
+        "StartClass": null,
+        "Job": "",
+        "Company": "Not specified",
+        "Requirement": "Not specified",
+        "Rewards": {
+            "Gil": 642,
             "Exp": null,
             "ItemsMand": [],
             "ItemsOpt": []
@@ -1383,216 +764,521 @@
         "Infos": {
             "RelatedNPC": [
                 {
-                    "Name": "Makura",
-                    "Url": "/lodestone/playguide/db/npc/npc/538af947d67/",
-                    "Area": "The Ruby Sea (X:29.2 Y:16.3)"
+                    "Name": "Concerned Mother",
+                    "Url": "/lodestone/playguide/db/npc/npc/b4692ca198e/",
+                    "Area": "The Dravanian Forelands (X:17.0 Y:23.0)"
+                },
+                {
+                    "Name": "Playful Pup",
+                    "Url": "/lodestone/playguide/db/npc/npc/e7d9982637c/",
+                    "Area": "The Dravanian Forelands (X:25.5 Y:9.6)"
+                },
+                {
+                    "Name": "Playful Pup",
+                    "Url": "/lodestone/playguide/db/npc/npc/1bc7190cd56/",
+                    "Area": "The Dravanian Forelands (X:26.8 Y:7.0)"
+                },
+                {
+                    "Name": "Playful Pup",
+                    "Url": "/lodestone/playguide/db/npc/npc/fc5512c2aca/",
+                    "Area": "The Dravanian Forelands (X:26.7 Y:4.1)"
+                }
+            ]
+        },
+        "Seq": 23,
+        "StartDependency": false
+    },
+    {
+        "ID": "cbc999a8f49",
+        "Name": " Neighborhood Squabbles",
+        "Location": "The Dravanian Forelands",
+        "Level": 50,
+        "JournalSection": 4,
+        "JournalCategory": 34,
+        "JournalGenre": "\n\t\t\t\t\t\t\tDaily Quests\n\t\t\t\t\t\t",
+        "Url": "/lodestone/playguide/db/quest/cbc999a8f49/",
+        "Image": null,
+        "Icon": "common_repeat",
+        "Issuer": "Vath Keeneye",
+        "StartLocation": {
+            "Name": "The Dravanian Forelands",
+            "X": "23.7",
+            "Y": "19.0"
+        },
+        "StartClass": null,
+        "Job": "",
+        "Company": "Not specified",
+        "Requirement": "Not specified",
+        "Rewards": {
+            "Gil": 517,
+            "Exp": null,
+            "ItemsMand": [],
+            "ItemsOpt": []
+        },
+        "Infos": {},
+        "Seq": 24,
+        "StartDependency": false
+    },
+    {
+        "ID": "e0166ca1a13",
+        "Name": " Getting the Shaft",
+        "Location": "The Dravanian Forelands",
+        "Level": 50,
+        "JournalSection": 4,
+        "JournalCategory": 34,
+        "JournalGenre": "\n\t\t\t\t\t\t\tDaily Quests\n\t\t\t\t\t\t",
+        "Url": "/lodestone/playguide/db/quest/e0166ca1a13/",
+        "Image": null,
+        "Icon": "common_repeat",
+        "Issuer": "Vath Keeneye",
+        "StartLocation": {
+            "Name": "The Dravanian Forelands",
+            "X": "23.7",
+            "Y": "19.0"
+        },
+        "StartClass": null,
+        "Job": "",
+        "Company": "Not specified",
+        "Requirement": "Not specified",
+        "Rewards": {
+            "Gil": 489,
+            "Exp": null,
+            "ItemsMand": [],
+            "ItemsOpt": []
+        },
+        "Infos": {},
+        "Seq": 6,
+        "StartDependency": false
+    },
+    {
+        "ID": "e06ff99cc03",
+        "Name": " The Naming of Vath",
+        "Location": "The Dravanian Forelands",
+        "Level": 50,
+        "JournalSection": 4,
+        "JournalCategory": 34,
+        "JournalGenre": "\n\t\t\t\t\t\t\tMain Quests\n\t\t\t\t\t\t",
+        "Url": "/lodestone/playguide/db/quest/e06ff99cc03/",
+        "Image": "https://img.finalfantasyxiv.com/lds/pc/global/images/itemicon/e8/e88bc661bce9669a08cdd6e9fbb5d78d7194ee5e.png?n6.05",
+        "Icon": "function_normal",
+        "Issuer": "Vath Storyteller",
+        "StartLocation": {
+            "Name": "The Dravanian Forelands",
+            "X": "24.0",
+            "Y": "19.7"
+        },
+        "StartClass": null,
+        "Job": "",
+        "Company": "Not specified",
+        "Requirement": "Not specified",
+        "Rewards": {
+            "Gil": 1027,
+            "Exp": null,
+            "ItemsMand": [],
+            "ItemsOpt": []
+        },
+        "Infos": {
+            "PrerequisiteQuest": [
+                {
+                    "Name": "Lord of the Hive",
+                    "Url": "/lodestone/playguide/db/quest/cd62fea9f11/",
+                    "Area": "The Dravanian Forelands",
+                    "Level": "53"
+                }
+            ],
+            "FollowupQuest": [
+                {
+                    "Name": " Adventurers Don't Get Cold Feet",
+                    "Url": "/lodestone/playguide/db/quest/b51e087b571/",
+                    "Area": "The Dravanian Forelands",
+                    "Level": "50"
+                }
+            ],
+            "RelatedNPC": [
+                {
+                    "Name": "Daring Dragon",
+                    "Url": "/lodestone/playguide/db/npc/npc/97184f48425/",
+                    "Area": "The Dravanian Forelands (X:26.8 Y:26.8)"
+                },
+                {
+                    "Name": "Defiant Dragon",
+                    "Url": "/lodestone/playguide/db/npc/npc/05263cba510/",
+                    "Area": "The Dravanian Forelands (X:26.8 Y:26.9)"
+                },
+                {
+                    "Name": "Grimold",
+                    "Url": "/lodestone/playguide/db/npc/npc/5062bdbf8eb/",
+                    "Area": "The Dravanian Forelands (X:31.5 Y:24.7)"
+                },
+                {
+                    "Name": "Marcechamp",
+                    "Url": "/lodestone/playguide/db/npc/npc/7a3fbf03e28/",
+                    "Area": "The Dravanian Forelands (X:31.9 Y:22.9)"
+                },
+                {
+                    "Name": "Nameless One",
+                    "Url": "/lodestone/playguide/db/npc/npc/6b5b11755fb/",
+                    "Area": "The Dravanian Forelands (X:31.5 Y:24.7)"
+                },
+                {
+                    "Name": "Nameless One",
+                    "Url": "/lodestone/playguide/db/npc/npc/bf29872cb7d/",
+                    "Area": "The Dravanian Forelands (X:26.8 Y:17.9)"
+                },
+                {
+                    "Name": "Nameless One",
+                    "Url": "/lodestone/playguide/db/npc/npc/2cda1e9ce82/",
+                    "Area": "The Dravanian Forelands (X:23.7 Y:19.1)"
+                },
+                {
+                    "Name": "Vath Fleetfoot",
+                    "Url": "/lodestone/playguide/db/npc/npc/94a00b21757/",
+                    "Area": "The Dravanian Forelands (X:23.9 Y:19.7)"
+                },
+                {
+                    "Name": "Vath Keeneye",
+                    "Url": "/lodestone/playguide/db/npc/npc/9f81e2de80a/",
+                    "Area": "The Dravanian Forelands (X:23.6 Y:19.1)"
+                },
+                {
+                    "Name": "Vath Stickpeddler",
+                    "Url": "/lodestone/playguide/db/npc/npc/a1e6c7c04a7/",
+                    "Area": "The Dravanian Forelands (X:23.7 Y:19.1)"
+                }
+            ]
+        },
+        "Seq": 18,
+        "StartDependency": false
+    },
+    {
+        "ID": "e616d702bd9",
+        "Name": " The Caelumtree Wine Spree",
+        "Location": "The Dravanian Forelands",
+        "Level": 50,
+        "JournalSection": 4,
+        "JournalCategory": 34,
+        "JournalGenre": "\n\t\t\t\t\t\t\tDaily Quests\n\t\t\t\t\t\t",
+        "Url": "/lodestone/playguide/db/quest/e616d702bd9/",
+        "Image": null,
+        "Icon": "common_repeat",
+        "Issuer": "Vath Keeneye",
+        "StartLocation": {
+            "Name": "The Dravanian Forelands",
+            "X": "23.7",
+            "Y": "19.0"
+        },
+        "StartClass": null,
+        "Job": "",
+        "Company": "Not specified",
+        "Requirement": "Not specified",
+        "Rewards": {
+            "Gil": 461,
+            "Exp": null,
+            "ItemsMand": [],
+            "ItemsOpt": []
+        },
+        "Infos": {
+            "RelatedNPC": [
+                {
+                    "Name": "Convictor Knight",
+                    "Url": "/lodestone/playguide/db/npc/npc/26a57ff57b4/",
+                    "Area": "The Dravanian Forelands (X:24.0 Y:19.0)"
+                }
+            ]
+        },
+        "Seq": 13,
+        "StartDependency": false
+    },
+    {
+        "ID": "eb582e25936",
+        "Name": " All about the Eggs",
+        "Location": "The Dravanian Forelands",
+        "Level": 50,
+        "JournalSection": 4,
+        "JournalCategory": 34,
+        "JournalGenre": "\n\t\t\t\t\t\t\tDaily Quests\n\t\t\t\t\t\t",
+        "Url": "/lodestone/playguide/db/quest/eb582e25936/",
+        "Image": null,
+        "Icon": "common_repeat",
+        "Issuer": "Vath Keeneye",
+        "StartLocation": {
+            "Name": "The Dravanian Forelands",
+            "X": "23.7",
+            "Y": "19.0"
+        },
+        "StartClass": null,
+        "Job": "",
+        "Company": "Not specified",
+        "Requirement": "Not specified",
+        "Rewards": {
+            "Gil": 489,
+            "Exp": null,
+            "ItemsMand": [],
+            "ItemsOpt": []
+        },
+        "Infos": {},
+        "Seq": 18,
+        "StartDependency": false
+    },
+    {
+        "ID": "ec419e7b0e9",
+        "Name": " Fifty Shades of Yellow",
+        "Location": "The Dravanian Forelands",
+        "Level": 50,
+        "JournalSection": 4,
+        "JournalCategory": 34,
+        "JournalGenre": "\n\t\t\t\t\t\t\tDaily Quests\n\t\t\t\t\t\t",
+        "Url": "/lodestone/playguide/db/quest/ec419e7b0e9/",
+        "Image": null,
+        "Icon": "common_repeat",
+        "Issuer": "Vath Keeneye",
+        "StartLocation": {
+            "Name": "The Dravanian Forelands",
+            "X": "23.7",
+            "Y": "19.0"
+        },
+        "StartClass": null,
+        "Job": "",
+        "Company": "Not specified",
+        "Requirement": "Not specified",
+        "Rewards": {
+            "Gil": 461,
+            "Exp": null,
+            "ItemsMand": [],
+            "ItemsOpt": []
+        },
+        "Infos": {
+            "RelatedNPC": [
+                {
+                    "Name": "Yellow Dragon",
+                    "Url": "/lodestone/playguide/db/npc/npc/27f008f5390/",
+                    "Area": "The Dravanian Forelands (X:20.2 Y:18.4)"
+                },
+                {
+                    "Name": "Yellow Dragon",
+                    "Url": "/lodestone/playguide/db/npc/npc/acdf53d1287/",
+                    "Area": "The Dravanian Forelands (X:21.6 Y:22.0)"
+                },
+                {
+                    "Name": "Yellow Dragon",
+                    "Url": "/lodestone/playguide/db/npc/npc/e86732965c9/",
+                    "Area": "The Dravanian Forelands (X:18.9 Y:20.9)"
+                },
+                {
+                    "Name": "Yellow Dragon",
+                    "Url": "/lodestone/playguide/db/npc/npc/3535f873879/",
+                    "Area": "The Dravanian Forelands (X:14.5 Y:21.6)"
+                }
+            ]
+        },
+        "Seq": 22,
+        "StartDependency": false
+    },
+    {
+        "ID": "eeeee2d41af",
+        "Name": " At Full Pelt",
+        "Location": "The Dravanian Forelands",
+        "Level": 50,
+        "JournalSection": 4,
+        "JournalCategory": 34,
+        "JournalGenre": "\n\t\t\t\t\t\t\tDaily Quests\n\t\t\t\t\t\t",
+        "Url": "/lodestone/playguide/db/quest/eeeee2d41af/",
+        "Image": null,
+        "Icon": "common_repeat",
+        "Issuer": "Vath Keeneye",
+        "StartLocation": {
+            "Name": "The Dravanian Forelands",
+            "X": "23.7",
+            "Y": "19.0"
+        },
+        "StartClass": null,
+        "Job": "",
+        "Company": "Not specified",
+        "Requirement": "Not specified",
+        "Rewards": {
+            "Gil": 545,
+            "Exp": null,
+            "ItemsMand": [],
+            "ItemsOpt": []
+        },
+        "Infos": {
+            "RelatedNPC": [
+                {
+                    "Name": "Grimold",
+                    "Url": "/lodestone/playguide/db/npc/npc/5062bdbf8eb/",
+                    "Area": "The Dravanian Forelands (X:31.5 Y:24.7)"
+                }
+            ]
+        },
+        "Seq": 15,
+        "StartDependency": false
+    },
+    {
+        "ID": "f390d657b36",
+        "Name": " Bugging the Bugs",
+        "Location": "The Dravanian Forelands",
+        "Level": 50,
+        "JournalSection": 4,
+        "JournalCategory": 34,
+        "JournalGenre": "\n\t\t\t\t\t\t\tDaily Quests\n\t\t\t\t\t\t",
+        "Url": "/lodestone/playguide/db/quest/f390d657b36/",
+        "Image": null,
+        "Icon": "common_repeat",
+        "Issuer": "Vath Keeneye",
+        "StartLocation": {
+            "Name": "The Dravanian Forelands",
+            "X": "23.7",
+            "Y": "19.0"
+        },
+        "StartClass": null,
+        "Job": "",
+        "Company": "Not specified",
+        "Requirement": "Not specified",
+        "Rewards": {
+            "Gil": 461,
+            "Exp": null,
+            "ItemsMand": [],
+            "ItemsOpt": []
+        },
+        "Infos": {
+            "RelatedNPC": [
+                {
+                    "Name": "Louisonet",
+                    "Url": "/lodestone/playguide/db/npc/npc/e575c6c6804/",
+                    "Area": "The Dravanian Forelands (X:32.9 Y:24.3)"
+                },
+                {
+                    "Name": "Vath Kintamer",
+                    "Url": "/lodestone/playguide/db/npc/npc/4c7d235d7c8/",
+                    "Area": "The Dravanian Forelands (X:24.0 Y:19.1)"
+                }
+            ]
+        },
+        "Seq": 8,
+        "StartDependency": false
+    },
+    {
+        "ID": "fc21801f33d",
+        "Name": " Shoo Fly, Don't Bother Me",
+        "Location": "The Dravanian Forelands",
+        "Level": 50,
+        "JournalSection": 4,
+        "JournalCategory": 34,
+        "JournalGenre": "\n\t\t\t\t\t\t\tDaily Quests\n\t\t\t\t\t\t",
+        "Url": "/lodestone/playguide/db/quest/fc21801f33d/",
+        "Image": null,
+        "Icon": "common_repeat",
+        "Issuer": "Vath Keeneye",
+        "StartLocation": {
+            "Name": "The Dravanian Forelands",
+            "X": "23.7",
+            "Y": "19.0"
+        },
+        "StartClass": null,
+        "Job": "",
+        "Company": "Not specified",
+        "Requirement": "Not specified",
+        "Rewards": {
+            "Gil": 461,
+            "Exp": null,
+            "ItemsMand": [],
+            "ItemsOpt": []
+        },
+        "Infos": {
+            "RelatedNPC": [
+                {
+                    "Name": "Goblin Scavenger",
+                    "Url": "/lodestone/playguide/db/npc/npc/5b626be3663/",
+                    "Area": "The Dravanian Forelands (X:18.7 Y:32.8)"
+                },
+                {
+                    "Name": "Goblin Scavenger",
+                    "Url": "/lodestone/playguide/db/npc/npc/47a44fd9339/",
+                    "Area": "The Dravanian Forelands (X:22.2 Y:36.8)"
+                },
+                {
+                    "Name": "Goblin Scavenger",
+                    "Url": "/lodestone/playguide/db/npc/npc/4bc2ad96a7f/",
+                    "Area": "The Dravanian Forelands (X:23.4 Y:36.2)"
+                },
+                {
+                    "Name": "Vath Kintamer",
+                    "Url": "/lodestone/playguide/db/npc/npc/4c7d235d7c8/",
+                    "Area": "The Dravanian Forelands (X:24.0 Y:19.1)"
                 }
             ]
         },
         "Seq": 17,
-        "oldID": 68526,
-        "Map": {
-            "ID": 371
-        },
         "StartDependency": false
     },
     {
-        "ID": "e332b2ad56b",
-        "Name": " Disciplinary Action",
-        "Location": "The Ruby Sea",
-        "Level": 60,
+        "ID": "ff787aa9c77",
+        "Name": " Resistance Is Futile",
+        "Location": "The Dravanian Forelands",
+        "Level": 50,
         "JournalSection": 4,
         "JournalCategory": 34,
-        "JournalGenre": "\n\t\t\t\t\t\t\tDaily Quests\n\t\t\t\t\t\t",
-        "Url": "/lodestone/playguide/db/quest/e332b2ad56b/",
-        "Image": null,
-        "Icon": "common_repeat",
-        "Issuer": "Zukin",
+        "JournalGenre": "\n\t\t\t\t\t\t\tMain Quests\n\t\t\t\t\t\t",
+        "Url": "/lodestone/playguide/db/quest/ff787aa9c77/",
+        "Image": "https://img.finalfantasyxiv.com/lds/pc/global/images/itemicon/0d/0d17ddac8b1f8924ba7c3ee1140fc801de8034b7.png?n6.05",
+        "Icon": "function_normal",
+        "Issuer": "Vath Deftarm",
         "StartLocation": {
-            "Name": "The Ruby Sea",
-            "X": "29.3",
-            "Y": "16.8"
+            "Name": "The Dravanian Forelands",
+            "X": "23.6",
+            "Y": "19.1"
         },
         "StartClass": null,
         "Job": "",
         "Company": "Not specified",
         "Requirement": "Not specified",
         "Rewards": {
-            "Gil": 550,
-            "Exp": null,
-            "ItemsMand": [],
-            "ItemsOpt": []
-        },
-        "Infos": {},
-        "Seq": 29,
-        "oldID": 68538,
-        "Map": {
-            "ID": 371
-        },
-        "StartDependency": false
-    },
-    {
-        "ID": "e59b7bf30e4",
-        "Name": " Anala-lyze This",
-        "Location": "The Ruby Sea",
-        "Level": 60,
-        "JournalSection": 4,
-        "JournalCategory": 34,
-        "JournalGenre": "\n\t\t\t\t\t\t\tDaily Quests\n\t\t\t\t\t\t",
-        "Url": "/lodestone/playguide/db/quest/e59b7bf30e4/",
-        "Image": null,
-        "Icon": "common_repeat",
-        "Issuer": "Zukin",
-        "StartLocation": {
-            "Name": "The Ruby Sea",
-            "X": "29.3",
-            "Y": "16.8"
-        },
-        "StartClass": null,
-        "Job": "",
-        "Company": "Not specified",
-        "Requirement": "Not specified",
-        "Rewards": {
-            "Gil": 550,
-            "Exp": null,
-            "ItemsMand": [],
-            "ItemsOpt": []
-        },
-        "Infos": {},
-        "Seq": 16,
-        "oldID": 68525,
-        "Map": {
-            "ID": 371
-        },
-        "StartDependency": false
-    },
-    {
-        "ID": "ee9a800535f",
-        "Name": " A Real Pearler",
-        "Location": "The Ruby Sea",
-        "Level": 60,
-        "JournalSection": 4,
-        "JournalCategory": 34,
-        "JournalGenre": "\n\t\t\t\t\t\t\tDaily Quests\n\t\t\t\t\t\t",
-        "Url": "/lodestone/playguide/db/quest/ee9a800535f/",
-        "Image": null,
-        "Icon": "common_repeat",
-        "Issuer": "Zukin",
-        "StartLocation": {
-            "Name": "The Ruby Sea",
-            "X": "29.3",
-            "Y": "16.8"
-        },
-        "StartClass": null,
-        "Job": "",
-        "Company": "Not specified",
-        "Requirement": "Not specified",
-        "Rewards": {
-            "Gil": 615,
+            "Gil": 742,
             "Exp": null,
             "ItemsMand": [],
             "ItemsOpt": []
         },
         "Infos": {
+            "PrerequisiteQuest": [
+                {
+                    "Name": " Your Enemy and Mine",
+                    "Url": "/lodestone/playguide/db/quest/01da161e6f0/",
+                    "Area": "The Dravanian Forelands",
+                    "Level": "50"
+                }
+            ],
+            "FollowupQuest": [
+                {
+                    "Name": "A Symbiotic Friendship",
+                    "Url": "/lodestone/playguide/db/quest/708cb8cd579/",
+                    "Area": "The Dravanian Forelands",
+                    "Level": "50"
+                }
+            ],
             "RelatedNPC": [
                 {
-                    "Name": "East Aldenard Trading Company Associate",
-                    "Url": "/lodestone/playguide/db/npc/npc/6ad1027e85f/",
-                    "Area": "The Ruby Sea (X:38.9 Y:38.5)"
+                    "Name": "Vath Deftarm",
+                    "Url": "/lodestone/playguide/db/npc/npc/d643a4a427b/",
+                    "Area": "The Dravanian Forelands (X:27.1 Y:34.3)"
+                },
+                {
+                    "Name": "Vath Deftarm",
+                    "Url": "/lodestone/playguide/db/npc/npc/2eaca5a08a3/",
+                    "Area": "The Dravanian Forelands (X:28.5 Y:36.1)"
+                },
+                {
+                    "Name": "Vath Fleetfoot",
+                    "Url": "/lodestone/playguide/db/npc/npc/94a00b21757/",
+                    "Area": "The Dravanian Forelands (X:23.9 Y:19.7)"
+                },
+                {
+                    "Name": "Vath Storyteller",
+                    "Url": "/lodestone/playguide/db/npc/npc/41a0c5ab8cb/",
+                    "Area": "The Dravanian Forelands (X:24.0 Y:19.7)"
                 }
             ]
         },
-        "Seq": 7,
-        "oldID": 68516,
-        "Map": {
-            "ID": 371
-        },
-        "StartDependency": false
-    },
-    {
-        "ID": "fdfe6d4776d",
-        "Name": " Best Served Foul",
-        "Location": "The Ruby Sea",
-        "Level": 60,
-        "JournalSection": 4,
-        "JournalCategory": 34,
-        "JournalGenre": "\n\t\t\t\t\t\t\tDaily Quests\n\t\t\t\t\t\t",
-        "Url": "/lodestone/playguide/db/quest/fdfe6d4776d/",
-        "Image": null,
-        "Icon": "common_repeat",
-        "Issuer": "Zukin",
-        "StartLocation": {
-            "Name": "The Ruby Sea",
-            "X": "29.3",
-            "Y": "16.8"
-        },
-        "StartClass": null,
-        "Job": "",
-        "Company": "Not specified",
-        "Requirement": "Not specified",
-        "Rewards": {
-            "Gil": 680,
-            "Exp": null,
-            "ItemsMand": [],
-            "ItemsOpt": []
-        },
-        "Infos": {
-            "RelatedNPC": [
-                {
-                    "Name": "Cranky Kojin",
-                    "Url": "/lodestone/playguide/db/npc/npc/4f837c3a757/",
-                    "Area": "The Ruby Sea (X:35.5 Y:20.9)"
-                }
-            ]
-        },
-        "Seq": 6,
-        "oldID": 68515,
-        "Map": {
-            "ID": 371
-        },
-        "StartDependency": false
-    },
-    {
-        "ID": "ff41d6a5203",
-        "Name": " Tale of Roe",
-        "Location": "The Ruby Sea",
-        "Level": 60,
-        "JournalSection": 4,
-        "JournalCategory": 34,
-        "JournalGenre": "\n\t\t\t\t\t\t\tDaily Quests\n\t\t\t\t\t\t",
-        "Url": "/lodestone/playguide/db/quest/ff41d6a5203/",
-        "Image": null,
-        "Icon": "common_repeat",
-        "Issuer": "Zukin",
-        "StartLocation": {
-            "Name": "The Ruby Sea",
-            "X": "29.3",
-            "Y": "16.8"
-        },
-        "StartClass": null,
-        "Job": "",
-        "Company": "Not specified",
-        "Requirement": "Not specified",
-        "Rewards": {
-            "Gil": 615,
-            "Exp": null,
-            "ItemsMand": [],
-            "ItemsOpt": []
-        },
-        "Infos": {
-            "RelatedNPC": [
-                {
-                    "Name": "Ruby Price Cook",
-                    "Url": "/lodestone/playguide/db/npc/npc/388d162ad58/",
-                    "Area": "The Ruby Sea (X:37.9 Y:38.8)"
-                }
-            ]
-        },
-        "Seq": 25,
-        "oldID": 68534,
-        "Map": {
-            "ID": 371
-        },
+        "Seq": 4,
         "StartDependency": false
     }
 ]

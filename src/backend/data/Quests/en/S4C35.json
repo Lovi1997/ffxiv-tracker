@@ -1,1485 +1,477 @@
 [
     {
-        "ID": "0bc4f1bcc7a",
-        "Name": " It Can Be Cruel Sometimes",
-        "Location": "The Fringes",
-        "Level": 60,
+        "ID": "0434aa4bf6a",
+        "Name": " Hasty Conclusions",
+        "Location": "The Churning Mists",
+        "Level": 50,
         "JournalSection": 4,
         "JournalCategory": 35,
-        "JournalGenre": "\n\t\t\t\t\t\t\tMain Quests\n\t\t\t\t\t\t",
-        "Url": "/lodestone/playguide/db/quest/0bc4f1bcc7a/",
-        "Image": "https://img.finalfantasyxiv.com/lds/pc/global/images/itemicon/8a/8ae11ee224676c0f78b1728e71f88ae2bf1fa418.png?n5.55",
-        "Icon": "function_normal",
-        "Issuer": "Alpa",
+        "JournalGenre": "\n\t\t\t\t\t\t\tDaily Quests\n\t\t\t\t\t\t",
+        "Url": "/lodestone/playguide/db/quest/0434aa4bf6a/",
+        "Image": null,
+        "Icon": "common_repeat",
+        "Issuer": "Mogek The Marvelous",
         "StartLocation": {
-            "Name": "The Fringes",
-            "X": "21.7",
-            "Y": "26.2"
+            "Name": "The Churning Mists",
+            "X": "15.8",
+            "Y": "28.8"
         },
         "StartClass": null,
         "Job": "",
         "Company": "Not specified",
         "Requirement": "Not specified",
         "Rewards": {
-            "Gil": 1523,
+            "Gil": 600,
             "Exp": null,
-            "ItemsMand": [],
-            "ItemsOpt": []
-        },
-        "Infos": {
-            "PrerequisiteQuest": [
+            "ItemsMand": [
                 {
-                    "Name": " Chance of Gales",
-                    "Url": "/lodestone/playguide/db/quest/df9a1804ad1/",
-                    "Area": "The Fringes",
-                    "Level": "60"
+                    "Icon": "https://img.finalfantasyxiv.com/lds/pc/global/images/itemicon/16/16cd107e2bd1c45cee59e6b96ef02f2f6f68eac5.png?n6.05",
+                    "Name": "Earth Crystal",
+                    "Amount": 20,
+                    "Url": "/lodestone/playguide/db/item/ff6eae7bdcb/"
                 }
             ],
-            "FollowupQuest": [
+            "ItemsOpt": []
+        },
+        "Infos": {
+            "RelatedNPC": [
                 {
-                    "Name": " Schism between Sisters",
-                    "Url": "/lodestone/playguide/db/quest/21fa2258d32/",
-                    "Area": "The Fringes",
-                    "Level": "60"
+                    "Name": "Mettlesome Moogle",
+                    "Url": "/lodestone/playguide/db/npc/npc/d5bbfc1a867/",
+                    "Area": "The Churning Mists (X:36.0 Y:22.7)"
+                }
+            ]
+        },
+        "Seq": 9,
+        "StartDependency": false
+    },
+    {
+        "ID": "0adb72515ae",
+        "Name": " Stumbling Blocks",
+        "Location": "The Churning Mists",
+        "Level": 50,
+        "JournalSection": 4,
+        "JournalCategory": 35,
+        "JournalGenre": "\n\t\t\t\t\t\t\tDaily Quests\n\t\t\t\t\t\t",
+        "Url": "/lodestone/playguide/db/quest/0adb72515ae/",
+        "Image": null,
+        "Icon": "common_repeat",
+        "Issuer": "Mogek The Marvelous",
+        "StartLocation": {
+            "Name": "The Churning Mists",
+            "X": "15.8",
+            "Y": "28.8"
+        },
+        "StartClass": null,
+        "Job": "",
+        "Company": "Not specified",
+        "Requirement": "Not specified",
+        "Rewards": {
+            "Gil": 517,
+            "Exp": null,
+            "ItemsMand": [
+                {
+                    "Icon": "https://img.finalfantasyxiv.com/lds/pc/global/images/itemicon/5d/5dd42eb2385a5e0d158b8fa81b63a09e4b25c821.png?n6.05",
+                    "Name": "Lightning Crystal",
+                    "Amount": 20,
+                    "Url": "/lodestone/playguide/db/item/b21a951916e/"
                 }
             ],
-            "RelatedNPC": [
-                {
-                    "Name": "Alpa",
-                    "Url": "/lodestone/playguide/db/npc/npc/e751471fff8/",
-                    "Area": "Rhalgr's Reach (X:8.8 Y:10.0)"
-                },
-                {
-                    "Name": "J'olhmyn",
-                    "Url": "/lodestone/playguide/db/npc/npc/b65c04cb84f/",
-                    "Area": "Rhalgr's Reach (X:8.8 Y:10.1)"
-                },
-                {
-                    "Name": "Orella",
-                    "Url": "/lodestone/playguide/db/npc/npc/09dd7592447/",
-                    "Area": "Rhalgr's Reach (X:8.9 Y:10.1)"
-                },
-                {
-                    "Name": "Alpa",
-                    "Url": "/lodestone/playguide/db/npc/npc/b0deb82168c/",
-                    "Area": "The Fringes (X:19.0 Y:21.6)"
-                },
-                {
-                    "Name": "Alpa",
-                    "Url": "/lodestone/playguide/db/npc/npc/a613b7961b9/",
-                    "Area": "The Fringes (X:11.5 Y:12.9)"
-                },
-                {
-                    "Name": "Alpa",
-                    "Url": "/lodestone/playguide/db/npc/npc/8c46d6685fb/",
-                    "Area": "The Fringes (X:21.7 Y:26.2)"
-                },
-                {
-                    "Name": "Gales",
-                    "Url": "/lodestone/playguide/db/npc/npc/10a7fc66342/",
-                    "Area": "The Fringes (X:22.1 Y:26.8)"
-                },
-                {
-                    "Name": "Gales",
-                    "Url": "/lodestone/playguide/db/npc/npc/4fe269c0c9c/",
-                    "Area": "The Fringes (X:18.9 Y:21.6)"
-                },
-                {
-                    "Name": "J'olhmyn",
-                    "Url": "/lodestone/playguide/db/npc/npc/2941596de9e/",
-                    "Area": "The Fringes (X:19.0 Y:21.7)"
-                },
-                {
-                    "Name": "M'zhet Tia",
-                    "Url": "/lodestone/playguide/db/npc/npc/3e417d89d0d/",
-                    "Area": "The Fringes (X:18.9 Y:21.6)"
-                },
-                {
-                    "Name": "M'zhet Tia",
-                    "Url": "/lodestone/playguide/db/npc/npc/8f3f59d242a/",
-                    "Area": "The Fringes (X:18.9 Y:21.6)"
-                },
-                {
-                    "Name": "M'zhet Tia",
-                    "Url": "/lodestone/playguide/db/npc/npc/b1923151849/",
-                    "Area": "The Fringes (X:21.6 Y:26.1)"
-                }
-            ]
-        },
-        "Seq": 3,
-        "oldID": 68575,
-        "Map": {
-            "ID": 367
-        },
-        "StartDependency": false
-    },
-    {
-        "ID": "14419873983",
-        "Name": " Deep-rooted Problems",
-        "Location": "The Fringes",
-        "Level": 60,
-        "JournalSection": 4,
-        "JournalCategory": 35,
-        "JournalGenre": "\n\t\t\t\t\t\t\tDaily Quests\n\t\t\t\t\t\t",
-        "Url": "/lodestone/playguide/db/quest/14419873983/",
-        "Image": null,
-        "Icon": "common_repeat",
-        "Issuer": "Eshana",
-        "StartLocation": {
-            "Name": "The Fringes",
-            "X": "20.9",
-            "Y": "26.2"
-        },
-        "StartClass": null,
-        "Job": "",
-        "Company": "Not specified",
-        "Requirement": "Not specified",
-        "Rewards": {
-            "Gil": 550,
-            "Exp": null,
-            "ItemsMand": [],
-            "ItemsOpt": []
-        },
-        "Infos": {},
-        "Seq": 8,
-        "oldID": 68581,
-        "Map": {
-            "ID": 367
-        },
-        "StartDependency": false
-    },
-    {
-        "ID": "147876e3b3f",
-        "Name": " Snack between Meals",
-        "Location": "The Fringes",
-        "Level": 60,
-        "JournalSection": 4,
-        "JournalCategory": 35,
-        "JournalGenre": "\n\t\t\t\t\t\t\tDaily Quests\n\t\t\t\t\t\t",
-        "Url": "/lodestone/playguide/db/quest/147876e3b3f/",
-        "Image": null,
-        "Icon": "common_repeat",
-        "Issuer": "Eshana",
-        "StartLocation": {
-            "Name": "The Fringes",
-            "X": "20.9",
-            "Y": "26.2"
-        },
-        "StartClass": null,
-        "Job": "",
-        "Company": "Not specified",
-        "Requirement": "Not specified",
-        "Rewards": {
-            "Gil": 550,
-            "Exp": null,
-            "ItemsMand": [],
-            "ItemsOpt": []
-        },
-        "Infos": {},
-        "Seq": 12,
-        "oldID": 68585,
-        "Map": {
-            "ID": 367
-        },
-        "StartDependency": false
-    },
-    {
-        "ID": "21fa2258d32",
-        "Name": " Schism between Sisters",
-        "Location": "The Fringes",
-        "Level": 60,
-        "JournalSection": 4,
-        "JournalCategory": 35,
-        "JournalGenre": "\n\t\t\t\t\t\t\tMain Quests\n\t\t\t\t\t\t",
-        "Url": "/lodestone/playguide/db/quest/21fa2258d32/",
-        "Image": "https://img.finalfantasyxiv.com/lds/pc/global/images/itemicon/70/70187809d2280ec992b20d91f8525ddcaf7a92a1.png?n5.55",
-        "Icon": "function_normal",
-        "Issuer": "Alpa",
-        "StartLocation": {
-            "Name": "The Fringes",
-            "X": "21.7",
-            "Y": "26.2"
-        },
-        "StartClass": null,
-        "Job": "",
-        "Company": "Not specified",
-        "Requirement": "Not specified",
-        "Rewards": {
-            "Gil": 2045,
-            "Exp": null,
-            "ItemsMand": [],
-            "ItemsOpt": []
-        },
-        "Infos": {
-            "PrerequisiteQuest": [
-                {
-                    "Name": " It Can Be Cruel Sometimes",
-                    "Url": "/lodestone/playguide/db/quest/0bc4f1bcc7a/",
-                    "Area": "The Fringes",
-                    "Level": "60"
-                }
-            ],
-            "FollowupQuest": [
-                {
-                    "Name": " Celebratory Smorgasbord",
-                    "Url": "/lodestone/playguide/db/quest/b47825bd164/",
-                    "Area": "The Fringes",
-                    "Level": "60"
-                }
-            ],
-            "RelatedNPC": [
-                {
-                    "Name": "Alpa",
-                    "Url": "/lodestone/playguide/db/npc/npc/5d01c046586/",
-                    "Area": "The Fringes (X:24.3 Y:29.6)"
-                },
-                {
-                    "Name": "Alpa",
-                    "Url": "/lodestone/playguide/db/npc/npc/5afef760ab1/",
-                    "Area": "The Fringes (X:26.9 Y:28.3)"
-                },
-                {
-                    "Name": "Alpa",
-                    "Url": "/lodestone/playguide/db/npc/npc/8c46d6685fb/",
-                    "Area": "The Fringes (X:21.7 Y:26.2)"
-                },
-                {
-                    "Name": "J'olhmyn",
-                    "Url": "/lodestone/playguide/db/npc/npc/7cd3e00094d/",
-                    "Area": "The Fringes (X:21.7 Y:26.1)"
-                },
-                {
-                    "Name": "J'olhmyn",
-                    "Url": "/lodestone/playguide/db/npc/npc/9a4358a0de6/",
-                    "Area": "The Fringes (X:24.2 Y:29.7)"
-                },
-                {
-                    "Name": "J'olhmyn",
-                    "Url": "/lodestone/playguide/db/npc/npc/f385198a13f/",
-                    "Area": "The Fringes (X:26.9 Y:28.3)"
-                },
-                {
-                    "Name": "M'zhet Tia",
-                    "Url": "/lodestone/playguide/db/npc/npc/06f641bf203/",
-                    "Area": "The Fringes (X:21.5 Y:26.5)"
-                },
-                {
-                    "Name": "Qalyana Battlemaid",
-                    "Url": "/lodestone/playguide/db/npc/npc/39d1667ce75/",
-                    "Area": "The Fringes (X:23.8 Y:33.4)"
-                },
-                {
-                    "Name": "Qalyana Separatist",
-                    "Url": "/lodestone/playguide/db/npc/npc/6072f628afe/",
-                    "Area": "The Fringes (X:26.9 Y:28.3)"
-                },
-                {
-                    "Name": "Qalyana Survivor",
-                    "Url": "/lodestone/playguide/db/npc/npc/30eade5e4b2/",
-                    "Area": "The Fringes (X:22.6 Y:26.6)"
-                },
-                {
-                    "Name": "Tahla Molkoh",
-                    "Url": "/lodestone/playguide/db/npc/npc/27dadb09927/",
-                    "Area": "The Fringes (X:21.4 Y:26.5)"
-                }
-            ]
-        },
-        "Seq": 4,
-        "oldID": 68576,
-        "Map": {
-            "ID": 367
-        },
-        "StartDependency": false
-    },
-    {
-        "ID": "2e1fe8a8d08",
-        "Name": " Thin-skinned",
-        "Location": "The Fringes",
-        "Level": 60,
-        "JournalSection": 4,
-        "JournalCategory": 35,
-        "JournalGenre": "\n\t\t\t\t\t\t\tDaily Quests\n\t\t\t\t\t\t",
-        "Url": "/lodestone/playguide/db/quest/2e1fe8a8d08/",
-        "Image": null,
-        "Icon": "common_repeat",
-        "Issuer": "Eshana",
-        "StartLocation": {
-            "Name": "The Fringes",
-            "X": "20.9",
-            "Y": "26.2"
-        },
-        "StartClass": null,
-        "Job": "",
-        "Company": "Not specified",
-        "Requirement": "Not specified",
-        "Rewards": {
-            "Gil": 615,
-            "Exp": null,
-            "ItemsMand": [],
             "ItemsOpt": []
         },
         "Infos": {
             "RelatedNPC": [
                 {
-                    "Name": "Jagranti",
-                    "Url": "/lodestone/playguide/db/npc/npc/91ef4a13de1/",
-                    "Area": "The Fringes (X:21.3 Y:26.4)"
-                }
-            ]
-        },
-        "Seq": 28,
-        "oldID": 68600,
-        "Map": {
-            "ID": 367
-        },
-        "StartDependency": false
-    },
-    {
-        "ID": "316d6b32f90",
-        "Name": " Ants in the Pants",
-        "Location": "The Fringes",
-        "Level": 60,
-        "JournalSection": 4,
-        "JournalCategory": 35,
-        "JournalGenre": "\n\t\t\t\t\t\t\tDaily Quests\n\t\t\t\t\t\t",
-        "Url": "/lodestone/playguide/db/quest/316d6b32f90/",
-        "Image": null,
-        "Icon": "common_repeat",
-        "Issuer": "Eshana",
-        "StartLocation": {
-            "Name": "The Fringes",
-            "X": "20.9",
-            "Y": "26.2"
-        },
-        "StartClass": null,
-        "Job": "",
-        "Company": "Not specified",
-        "Requirement": "Not specified",
-        "Rewards": {
-            "Gil": 615,
-            "Exp": null,
-            "ItemsMand": [],
-            "ItemsOpt": []
-        },
-        "Infos": {
-            "RelatedNPC": [
-                {
-                    "Name": "Dakshina",
-                    "Url": "/lodestone/playguide/db/npc/npc/9add07e7c4d/",
-                    "Area": "The Fringes (X:20.6 Y:25.7)"
-                }
-            ]
-        },
-        "Seq": 24,
-        "oldID": 68597,
-        "Map": {
-            "ID": 367
-        },
-        "StartDependency": false
-    },
-    {
-        "ID": "31ca72dc841",
-        "Name": " A Sluggish Endeavor",
-        "Location": "The Fringes",
-        "Level": 60,
-        "JournalSection": 4,
-        "JournalCategory": 35,
-        "JournalGenre": "\n\t\t\t\t\t\t\tDaily Quests\n\t\t\t\t\t\t",
-        "Url": "/lodestone/playguide/db/quest/31ca72dc841/",
-        "Image": null,
-        "Icon": "common_repeat",
-        "Issuer": "Eshana",
-        "StartLocation": {
-            "Name": "The Fringes",
-            "X": "20.9",
-            "Y": "26.2"
-        },
-        "StartClass": null,
-        "Job": "",
-        "Company": "Not specified",
-        "Requirement": "Not specified",
-        "Rewards": {
-            "Gil": 550,
-            "Exp": null,
-            "ItemsMand": [],
-            "ItemsOpt": []
-        },
-        "Infos": {},
-        "Seq": 7,
-        "oldID": 68580,
-        "Map": {
-            "ID": 367
-        },
-        "StartDependency": false
-    },
-    {
-        "ID": "3c40d102e8f",
-        "Name": " Keeping an Eye off Things",
-        "Location": "The Fringes",
-        "Level": 60,
-        "JournalSection": 4,
-        "JournalCategory": 35,
-        "JournalGenre": "\n\t\t\t\t\t\t\tDaily Quests\n\t\t\t\t\t\t",
-        "Url": "/lodestone/playguide/db/quest/3c40d102e8f/",
-        "Image": null,
-        "Icon": "common_repeat",
-        "Issuer": "Eshana",
-        "StartLocation": {
-            "Name": "The Fringes",
-            "X": "20.9",
-            "Y": "26.2"
-        },
-        "StartClass": null,
-        "Job": "",
-        "Company": "Not specified",
-        "Requirement": "Not specified",
-        "Rewards": {
-            "Gil": 550,
-            "Exp": null,
-            "ItemsMand": [],
-            "ItemsOpt": []
-        },
-        "Infos": {},
-        "Seq": 19,
-        "oldID": 68592,
-        "Map": {
-            "ID": 367
-        },
-        "StartDependency": false
-    },
-    {
-        "ID": "3f8f00fd66e",
-        "Name": " A Business Proposal",
-        "Location": "The Fringes",
-        "Level": 60,
-        "JournalSection": 4,
-        "JournalCategory": 35,
-        "JournalGenre": "\n\t\t\t\t\t\t\tDaily Quests\n\t\t\t\t\t\t",
-        "Url": "/lodestone/playguide/db/quest/3f8f00fd66e/",
-        "Image": null,
-        "Icon": "common_repeat",
-        "Issuer": "Eshana",
-        "StartLocation": {
-            "Name": "The Fringes",
-            "X": "20.9",
-            "Y": "26.2"
-        },
-        "StartClass": null,
-        "Job": "",
-        "Company": "Not specified",
-        "Requirement": "Not specified",
-        "Rewards": {
-            "Gil": 615,
-            "Exp": null,
-            "ItemsMand": [],
-            "ItemsOpt": []
-        },
-        "Infos": {
-            "RelatedNPC": [
-                {
-                    "Name": "Miqo'te Merchant",
-                    "Url": "/lodestone/playguide/db/npc/npc/92eb1e8e3a0/",
-                    "Area": "The Fringes (X:29.4 Y:25.2)"
+                    "Name": "Masonry Moogle",
+                    "Url": "/lodestone/playguide/db/npc/npc/a80fbebc392/",
+                    "Area": "The Churning Mists (X:9.4 Y:26.9)"
                 },
                 {
-                    "Name": "Resistance Guard",
-                    "Url": "/lodestone/playguide/db/npc/npc/c70d30d904a/",
-                    "Area": "The Fringes (X:24.1 Y:27.5)"
-                }
-            ]
-        },
-        "Seq": 30,
-        "oldID": 68602,
-        "Map": {
-            "ID": 367
-        },
-        "StartDependency": false
-    },
-    {
-        "ID": "42fbcdb96b9",
-        "Name": " Out for Delivery",
-        "Location": "The Fringes",
-        "Level": 60,
-        "JournalSection": 4,
-        "JournalCategory": 35,
-        "JournalGenre": "\n\t\t\t\t\t\t\tDaily Quests\n\t\t\t\t\t\t",
-        "Url": "/lodestone/playguide/db/quest/42fbcdb96b9/",
-        "Image": null,
-        "Icon": "common_repeat",
-        "Issuer": "Eshana",
-        "StartLocation": {
-            "Name": "The Fringes",
-            "X": "20.9",
-            "Y": "26.2"
-        },
-        "StartClass": null,
-        "Job": "",
-        "Company": "Not specified",
-        "Requirement": "Not specified",
-        "Rewards": {
-            "Gil": 550,
-            "Exp": null,
-            "ItemsMand": [],
-            "ItemsOpt": []
-        },
-        "Infos": {
-            "RelatedNPC": [
-                {
-                    "Name": "Cowering Carrier",
-                    "Url": "/lodestone/playguide/db/npc/npc/68278583d5a/",
-                    "Area": "The Fringes (X:12.6 Y:24.3)"
+                    "Name": "Muzzing Moogle",
+                    "Url": "/lodestone/playguide/db/npc/npc/e894a2a96c1/",
+                    "Area": "The Churning Mists (X:9.5 Y:26.9)"
                 },
                 {
-                    "Name": "Cowering Carrier",
-                    "Url": "/lodestone/playguide/db/npc/npc/510a9718632/",
-                    "Area": "The Fringes (X:11.6 Y:14.8)"
-                },
-                {
-                    "Name": "Cowering Carrier",
-                    "Url": "/lodestone/playguide/db/npc/npc/e3b20bc5994/",
-                    "Area": "The Fringes (X:16.0 Y:13.9)"
-                }
-            ]
-        },
-        "Seq": 10,
-        "oldID": 68583,
-        "Map": {
-            "ID": 367
-        },
-        "StartDependency": false
-    },
-    {
-        "ID": "4e9b464f0be",
-        "Name": " Up Sheet Creek",
-        "Location": "The Fringes",
-        "Level": 60,
-        "JournalSection": 4,
-        "JournalCategory": 35,
-        "JournalGenre": "\n\t\t\t\t\t\t\tDaily Quests\n\t\t\t\t\t\t",
-        "Url": "/lodestone/playguide/db/quest/4e9b464f0be/",
-        "Image": null,
-        "Icon": "common_repeat",
-        "Issuer": "Eshana",
-        "StartLocation": {
-            "Name": "The Fringes",
-            "X": "20.9",
-            "Y": "26.2"
-        },
-        "StartClass": null,
-        "Job": "",
-        "Company": "Not specified",
-        "Requirement": "Not specified",
-        "Rewards": {
-            "Gil": 680,
-            "Exp": null,
-            "ItemsMand": [],
-            "ItemsOpt": []
-        },
-        "Infos": {},
-        "Seq": 25,
-        "oldID": 68598,
-        "Map": {
-            "ID": 367
-        },
-        "StartDependency": false
-    },
-    {
-        "ID": "5530a95258c",
-        "Name": " A Bit of Home Cooking",
-        "Location": "The Fringes",
-        "Level": 60,
-        "JournalSection": 4,
-        "JournalCategory": 35,
-        "JournalGenre": "\n\t\t\t\t\t\t\tDaily Quests\n\t\t\t\t\t\t",
-        "Url": "/lodestone/playguide/db/quest/5530a95258c/",
-        "Image": null,
-        "Icon": "common_repeat",
-        "Issuer": "Eshana",
-        "StartLocation": {
-            "Name": "The Fringes",
-            "X": "20.9",
-            "Y": "26.2"
-        },
-        "StartClass": null,
-        "Job": "",
-        "Company": "Not specified",
-        "Requirement": "Not specified",
-        "Rewards": {
-            "Gil": 615,
-            "Exp": null,
-            "ItemsMand": [],
-            "ItemsOpt": []
-        },
-        "Infos": {
-            "RelatedNPC": [
-                {
-                    "Name": "Anuraga",
-                    "Url": "/lodestone/playguide/db/npc/npc/f81f1c797fb/",
-                    "Area": "The Fringes (X:21.7 Y:26.6)"
-                }
-            ]
-        },
-        "Seq": 11,
-        "oldID": 68584,
-        "Map": {
-            "ID": 367
-        },
-        "StartDependency": false
-    },
-    {
-        "ID": "6c65f9e9ccf",
-        "Name": " Let There Be Lard",
-        "Location": "The Fringes",
-        "Level": 60,
-        "JournalSection": 4,
-        "JournalCategory": 35,
-        "JournalGenre": "\n\t\t\t\t\t\t\tDaily Quests\n\t\t\t\t\t\t",
-        "Url": "/lodestone/playguide/db/quest/6c65f9e9ccf/",
-        "Image": null,
-        "Icon": "common_repeat",
-        "Issuer": "Eshana",
-        "StartLocation": {
-            "Name": "The Fringes",
-            "X": "20.9",
-            "Y": "26.2"
-        },
-        "StartClass": null,
-        "Job": "",
-        "Company": "Not specified",
-        "Requirement": "Not specified",
-        "Rewards": {
-            "Gil": 550,
-            "Exp": null,
-            "ItemsMand": [],
-            "ItemsOpt": []
-        },
-        "Infos": {},
-        "Seq": 26,
-        "oldID": 68599,
-        "Map": {
-            "ID": 367
-        },
-        "StartDependency": false
-    },
-    {
-        "ID": "7f999b6d2f6",
-        "Name": " Hearts of Precious Stone",
-        "Location": "The Fringes",
-        "Level": 60,
-        "JournalSection": 4,
-        "JournalCategory": 35,
-        "JournalGenre": "\n\t\t\t\t\t\t\tDaily Quests\n\t\t\t\t\t\t",
-        "Url": "/lodestone/playguide/db/quest/7f999b6d2f6/",
-        "Image": null,
-        "Icon": "common_repeat",
-        "Issuer": "Eshana",
-        "StartLocation": {
-            "Name": "The Fringes",
-            "X": "20.9",
-            "Y": "26.2"
-        },
-        "StartClass": null,
-        "Job": "",
-        "Company": "Not specified",
-        "Requirement": "Not specified",
-        "Rewards": {
-            "Gil": 680,
-            "Exp": null,
-            "ItemsMand": [],
-            "ItemsOpt": []
-        },
-        "Infos": {
-            "RelatedNPC": [
-                {
-                    "Name": "Resistance Captain",
-                    "Url": "/lodestone/playguide/db/npc/npc/7bd974d0c5d/",
-                    "Area": "The Fringes (X:35.3 Y:31.0)"
-                }
-            ]
-        },
-        "Seq": 23,
-        "oldID": 68596,
-        "Map": {
-            "ID": 367
-        },
-        "StartDependency": false
-    },
-    {
-        "ID": "8077cb3dd46",
-        "Name": " Sparring Lesson",
-        "Location": "The Fringes",
-        "Level": 60,
-        "JournalSection": 4,
-        "JournalCategory": 35,
-        "JournalGenre": "\n\t\t\t\t\t\t\tDaily Quests\n\t\t\t\t\t\t",
-        "Url": "/lodestone/playguide/db/quest/8077cb3dd46/",
-        "Image": null,
-        "Icon": "common_repeat",
-        "Issuer": "Eshana",
-        "StartLocation": {
-            "Name": "The Fringes",
-            "X": "20.9",
-            "Y": "26.2"
-        },
-        "StartClass": null,
-        "Job": "",
-        "Company": "Not specified",
-        "Requirement": "Not specified",
-        "Rewards": {
-            "Gil": 615,
-            "Exp": null,
-            "ItemsMand": [],
-            "ItemsOpt": []
-        },
-        "Infos": {
-            "RelatedNPC": [
-                {
-                    "Name": "Ananta Instructor",
-                    "Url": "/lodestone/playguide/db/npc/npc/589c66112ab/",
-                    "Area": "The Fringes (X:22.3 Y:17.1)"
-                },
-                {
-                    "Name": "Ananta Recruit",
-                    "Url": "/lodestone/playguide/db/npc/npc/5aaf13eaae5/",
-                    "Area": "The Fringes (X:22.2 Y:17.0)"
-                }
-            ]
-        },
-        "Seq": 16,
-        "oldID": 68589,
-        "Map": {
-            "ID": 367
-        },
-        "StartDependency": false
-    },
-    {
-        "ID": "83773aa891b",
-        "Name": " Soothing the Sting",
-        "Location": "The Fringes",
-        "Level": 60,
-        "JournalSection": 4,
-        "JournalCategory": 35,
-        "JournalGenre": "\n\t\t\t\t\t\t\tDaily Quests\n\t\t\t\t\t\t",
-        "Url": "/lodestone/playguide/db/quest/83773aa891b/",
-        "Image": null,
-        "Icon": "common_repeat",
-        "Issuer": "Eshana",
-        "StartLocation": {
-            "Name": "The Fringes",
-            "X": "20.9",
-            "Y": "26.2"
-        },
-        "StartClass": null,
-        "Job": "",
-        "Company": "Not specified",
-        "Requirement": "Not specified",
-        "Rewards": {
-            "Gil": 550,
-            "Exp": null,
-            "ItemsMand": [],
-            "ItemsOpt": []
-        },
-        "Infos": {},
-        "Seq": 32,
-        "oldID": 68604,
-        "Map": {
-            "ID": 367
-        },
-        "StartDependency": false
-    },
-    {
-        "ID": "87f76e3fdc3",
-        "Name": " Criminal Crossings",
-        "Location": "The Fringes",
-        "Level": 60,
-        "JournalSection": 4,
-        "JournalCategory": 35,
-        "JournalGenre": "\n\t\t\t\t\t\t\tDaily Quests\n\t\t\t\t\t\t",
-        "Url": "/lodestone/playguide/db/quest/87f76e3fdc3/",
-        "Image": null,
-        "Icon": "common_repeat",
-        "Issuer": "Eshana",
-        "StartLocation": {
-            "Name": "The Fringes",
-            "X": "20.9",
-            "Y": "26.2"
-        },
-        "StartClass": null,
-        "Job": "",
-        "Company": "Not specified",
-        "Requirement": "Not specified",
-        "Rewards": {
-            "Gil": 550,
-            "Exp": null,
-            "ItemsMand": [],
-            "ItemsOpt": []
-        },
-        "Infos": {
-            "RelatedNPC": [
-                {
-                    "Name": "Dubious Dandy",
-                    "Url": "/lodestone/playguide/db/npc/npc/ad338f5473a/",
-                    "Area": "The Fringes (X:14.5 Y:25.0)"
-                },
-                {
-                    "Name": "Dubious Dandy",
-                    "Url": "/lodestone/playguide/db/npc/npc/65ae7f1cd9c/",
-                    "Area": "The Fringes (X:14.8 Y:21.0)"
-                },
-                {
-                    "Name": "Questionable Quester",
-                    "Url": "/lodestone/playguide/db/npc/npc/ddc1ea23e59/",
-                    "Area": "The Fringes (X:10.0 Y:16.8)"
-                },
-                {
-                    "Name": "Questionable Quester",
-                    "Url": "/lodestone/playguide/db/npc/npc/7b53aa95234/",
-                    "Area": "The Fringes (X:10.0 Y:16.8)"
-                },
-                {
-                    "Name": "Suspicious Stalker",
-                    "Url": "/lodestone/playguide/db/npc/npc/c8266d74f29/",
-                    "Area": "The Fringes (X:11.7 Y:17.6)"
-                },
-                {
-                    "Name": "Suspicious Stalker",
-                    "Url": "/lodestone/playguide/db/npc/npc/16619e77f51/",
-                    "Area": "The Fringes (X:11.7 Y:17.6)"
-                }
-            ]
-        },
-        "Seq": 14,
-        "oldID": 68587,
-        "Map": {
-            "ID": 367
-        },
-        "StartDependency": false
-    },
-    {
-        "ID": "8880453990e",
-        "Name": " Funnel and Games",
-        "Location": "The Fringes",
-        "Level": 60,
-        "JournalSection": 4,
-        "JournalCategory": 35,
-        "JournalGenre": "\n\t\t\t\t\t\t\tDaily Quests\n\t\t\t\t\t\t",
-        "Url": "/lodestone/playguide/db/quest/8880453990e/",
-        "Image": null,
-        "Icon": "common_repeat",
-        "Issuer": "Eshana",
-        "StartLocation": {
-            "Name": "The Fringes",
-            "X": "20.9",
-            "Y": "26.2"
-        },
-        "StartClass": null,
-        "Job": "",
-        "Company": "Not specified",
-        "Requirement": "Not specified",
-        "Rewards": {
-            "Gil": 550,
-            "Exp": null,
-            "ItemsMand": [],
-            "ItemsOpt": []
-        },
-        "Infos": {},
-        "Seq": 17,
-        "oldID": 68590,
-        "Map": {
-            "ID": 367
-        },
-        "StartDependency": false
-    },
-    {
-        "ID": "8cf2d03c89a",
-        "Name": " For Fast, Temporary Relief",
-        "Location": "The Fringes",
-        "Level": 60,
-        "JournalSection": 4,
-        "JournalCategory": 35,
-        "JournalGenre": "\n\t\t\t\t\t\t\tDaily Quests\n\t\t\t\t\t\t",
-        "Url": "/lodestone/playguide/db/quest/8cf2d03c89a/",
-        "Image": null,
-        "Icon": "common_repeat",
-        "Issuer": "Eshana",
-        "StartLocation": {
-            "Name": "The Fringes",
-            "X": "20.9",
-            "Y": "26.2"
-        },
-        "StartClass": null,
-        "Job": "",
-        "Company": "Not specified",
-        "Requirement": "Not specified",
-        "Rewards": {
-            "Gil": 550,
-            "Exp": null,
-            "ItemsMand": [],
-            "ItemsOpt": []
-        },
-        "Infos": {
-            "RelatedNPC": [
-                {
-                    "Name": "Bleeding Scout",
-                    "Url": "/lodestone/playguide/db/npc/npc/001a6964450/",
-                    "Area": "The Fringes (X:26.9 Y:23.4)"
-                },
-                {
-                    "Name": "Wincing Scout",
-                    "Url": "/lodestone/playguide/db/npc/npc/336a393c9ff/",
-                    "Area": "The Fringes (X:28.7 Y:22.9)"
-                },
-                {
-                    "Name": "Wounded Scout",
-                    "Url": "/lodestone/playguide/db/npc/npc/1b20bc25eed/",
-                    "Area": "The Fringes (X:32.5 Y:21.6)"
-                }
-            ]
-        },
-        "Seq": 31,
-        "oldID": 68603,
-        "Map": {
-            "ID": 367
-        },
-        "StartDependency": false
-    },
-    {
-        "ID": "9d637784009",
-        "Name": " The Antlion's Share",
-        "Location": "The Fringes",
-        "Level": 60,
-        "JournalSection": 4,
-        "JournalCategory": 35,
-        "JournalGenre": "\n\t\t\t\t\t\t\tDaily Quests\n\t\t\t\t\t\t",
-        "Url": "/lodestone/playguide/db/quest/9d637784009/",
-        "Image": null,
-        "Icon": "common_repeat",
-        "Issuer": "Eshana",
-        "StartLocation": {
-            "Name": "The Fringes",
-            "X": "20.9",
-            "Y": "26.2"
-        },
-        "StartClass": null,
-        "Job": "",
-        "Company": "Not specified",
-        "Requirement": "Not specified",
-        "Rewards": {
-            "Gil": 615,
-            "Exp": null,
-            "ItemsMand": [],
-            "ItemsOpt": []
-        },
-        "Infos": {},
-        "Seq": 22,
-        "oldID": 68595,
-        "Map": {
-            "ID": 367
-        },
-        "StartDependency": false
-    },
-    {
-        "ID": "9d675807c2e",
-        "Name": " Bhoot Camps",
-        "Location": "The Fringes",
-        "Level": 60,
-        "JournalSection": 4,
-        "JournalCategory": 35,
-        "JournalGenre": "\n\t\t\t\t\t\t\tDaily Quests\n\t\t\t\t\t\t",
-        "Url": "/lodestone/playguide/db/quest/9d675807c2e/",
-        "Image": null,
-        "Icon": "common_repeat",
-        "Issuer": "Eshana",
-        "StartLocation": {
-            "Name": "The Fringes",
-            "X": "20.9",
-            "Y": "26.2"
-        },
-        "StartClass": null,
-        "Job": "",
-        "Company": "Not specified",
-        "Requirement": "Not specified",
-        "Rewards": {
-            "Gil": 550,
-            "Exp": null,
-            "ItemsMand": [],
-            "ItemsOpt": []
-        },
-        "Infos": {},
-        "Seq": 27,
-        "oldID": 68593,
-        "Map": {
-            "ID": 367
-        },
-        "StartDependency": false
-    },
-    {
-        "ID": "9fbe3eda8b2",
-        "Name": " Have I Got News for You",
-        "Location": "The Fringes",
-        "Level": 60,
-        "JournalSection": 4,
-        "JournalCategory": 35,
-        "JournalGenre": "\n\t\t\t\t\t\t\tDaily Quests\n\t\t\t\t\t\t",
-        "Url": "/lodestone/playguide/db/quest/9fbe3eda8b2/",
-        "Image": null,
-        "Icon": "common_repeat",
-        "Issuer": "Eshana",
-        "StartLocation": {
-            "Name": "The Fringes",
-            "X": "20.9",
-            "Y": "26.2"
-        },
-        "StartClass": null,
-        "Job": "",
-        "Company": "Not specified",
-        "Requirement": "Not specified",
-        "Rewards": {
-            "Gil": 615,
-            "Exp": null,
-            "ItemsMand": [],
-            "ItemsOpt": []
-        },
-        "Infos": {
-            "RelatedNPC": [
-                {
-                    "Name": "Ananta Whispermaid",
-                    "Url": "/lodestone/playguide/db/npc/npc/d361dfaa802/",
-                    "Area": "The Fringes (X:22.4 Y:27.4)"
-                }
-            ]
-        },
-        "Seq": 20,
-        "oldID": 68578,
-        "Map": {
-            "ID": 367
-        },
-        "StartDependency": false
-    },
-    {
-        "ID": "a82f292c10b",
-        "Name": " A Real Fixer-upper",
-        "Location": "The Fringes",
-        "Level": 60,
-        "JournalSection": 4,
-        "JournalCategory": 35,
-        "JournalGenre": "\n\t\t\t\t\t\t\tDaily Quests\n\t\t\t\t\t\t",
-        "Url": "/lodestone/playguide/db/quest/a82f292c10b/",
-        "Image": null,
-        "Icon": "common_repeat",
-        "Issuer": "Eshana",
-        "StartLocation": {
-            "Name": "The Fringes",
-            "X": "20.9",
-            "Y": "26.2"
-        },
-        "StartClass": null,
-        "Job": "",
-        "Company": "Not specified",
-        "Requirement": "Not specified",
-        "Rewards": {
-            "Gil": 550,
-            "Exp": null,
-            "ItemsMand": [],
-            "ItemsOpt": []
-        },
-        "Infos": {},
-        "Seq": 6,
-        "oldID": 68579,
-        "Map": {
-            "ID": 367
-        },
-        "StartDependency": false
-    },
-    {
-        "ID": "b47825bd164",
-        "Name": " Celebratory Smorgasbord",
-        "Location": "The Fringes",
-        "Level": 60,
-        "JournalSection": 4,
-        "JournalCategory": 35,
-        "JournalGenre": "\n\t\t\t\t\t\t\tMain Quests\n\t\t\t\t\t\t",
-        "Url": "/lodestone/playguide/db/quest/b47825bd164/",
-        "Image": "https://img.finalfantasyxiv.com/lds/pc/global/images/itemicon/a2/a2a21231ac40f8336dd87b6df4b050c96a353e54.png?n5.55",
-        "Icon": "function_normal",
-        "Issuer": "Alpa",
-        "StartLocation": {
-            "Name": "The Fringes",
-            "X": "21.7",
-            "Y": "26.2"
-        },
-        "StartClass": null,
-        "Job": "",
-        "Company": "Not specified",
-        "Requirement": "Not specified",
-        "Rewards": {
-            "Gil": 1075,
-            "Exp": null,
-            "ItemsMand": [],
-            "ItemsOpt": []
-        },
-        "Infos": {
-            "PrerequisiteQuest": [
-                {
-                    "Name": " Schism between Sisters",
-                    "Url": "/lodestone/playguide/db/quest/21fa2258d32/",
-                    "Area": "The Fringes",
-                    "Level": "60"
-                }
-            ],
-            "FollowupQuest": [
-                {
-                    "Name": "The Ananta Maid's Tail",
-                    "Url": "/lodestone/playguide/db/quest/cd6b17e9dfb/",
-                    "Area": "Kugane",
-                    "Level": "70"
-                }
-            ],
-            "RelatedNPC": [
-                {
-                    "Name": "Alpa",
-                    "Url": "/lodestone/playguide/db/npc/npc/8c46d6685fb/",
-                    "Area": "The Fringes (X:21.7 Y:26.2)"
-                },
-                {
-                    "Name": "Alpa",
-                    "Url": "/lodestone/playguide/db/npc/npc/f92a315986a/",
-                    "Area": "The Fringes (X:18.3 Y:24.6)"
-                },
-                {
-                    "Name": "Gales",
-                    "Url": "/lodestone/playguide/db/npc/npc/10a7fc66342/",
-                    "Area": "The Fringes (X:22.1 Y:26.8)"
-                },
-                {
-                    "Name": "Injured Ala Mhigan",
-                    "Url": "/lodestone/playguide/db/npc/npc/3cf8d7576cc/",
-                    "Area": "The Fringes (X:18.4 Y:24.6)"
-                },
-                {
-                    "Name": "J'olhmyn",
-                    "Url": "/lodestone/playguide/db/npc/npc/7cd3e00094d/",
-                    "Area": "The Fringes (X:21.7 Y:26.1)"
-                },
-                {
-                    "Name": "J'olhmyn",
-                    "Url": "/lodestone/playguide/db/npc/npc/bac630472d3/",
-                    "Area": "The Fringes (X:18.4 Y:24.6)"
-                },
-                {
-                    "Name": "M'zhet Tia",
-                    "Url": "/lodestone/playguide/db/npc/npc/a339ac1287b/",
-                    "Area": "The Fringes (X:30.4 Y:26.1)"
-                },
-                {
-                    "Name": "Qalyana Sentry",
-                    "Url": "/lodestone/playguide/db/npc/npc/1afbef6ff2b/",
-                    "Area": "The Fringes (X:18.3 Y:24.6)"
-                },
-                {
-                    "Name": "Tahla Molkoh",
-                    "Url": "/lodestone/playguide/db/npc/npc/45356cdf9b2/",
-                    "Area": "The Fringes (X:8.6 Y:10.7)"
-                }
-            ]
-        },
-        "Seq": 5,
-        "oldID": 68577,
-        "Map": {
-            "ID": 367
-        },
-        "StartDependency": false
-    },
-    {
-        "ID": "b49267c62ad",
-        "Name": " A Swarm Welcome",
-        "Location": "The Fringes",
-        "Level": 60,
-        "JournalSection": 4,
-        "JournalCategory": 35,
-        "JournalGenre": "\n\t\t\t\t\t\t\tDaily Quests\n\t\t\t\t\t\t",
-        "Url": "/lodestone/playguide/db/quest/b49267c62ad/",
-        "Image": null,
-        "Icon": "common_repeat",
-        "Issuer": "Eshana",
-        "StartLocation": {
-            "Name": "The Fringes",
-            "X": "20.9",
-            "Y": "26.2"
-        },
-        "StartClass": null,
-        "Job": "",
-        "Company": "Not specified",
-        "Requirement": "Not specified",
-        "Rewards": {
-            "Gil": 615,
-            "Exp": null,
-            "ItemsMand": [],
-            "ItemsOpt": []
-        },
-        "Infos": {
-            "RelatedNPC": [
-                {
-                    "Name": "Ananta Sentry",
-                    "Url": "/lodestone/playguide/db/npc/npc/db59751feaf/",
-                    "Area": "The Fringes (X:26.5 Y:29.8)"
-                },
-                {
-                    "Name": "Ananta Sentry",
-                    "Url": "/lodestone/playguide/db/npc/npc/5bc076c9db4/",
-                    "Area": "The Fringes (X:28.4 Y:26.0)"
-                },
-                {
-                    "Name": "Frenzied Swarm",
-                    "Url": "/lodestone/playguide/db/npc/npc/f0bf64b5e75/",
-                    "Area": "The Fringes (X:26.5 Y:29.8)"
-                },
-                {
-                    "Name": "Frenzied Swarm",
-                    "Url": "/lodestone/playguide/db/npc/npc/4dbc93e3da1/",
-                    "Area": "The Fringes (X:28.4 Y:26.0)"
-                },
-                {
-                    "Name": "Giff",
-                    "Url": "/lodestone/playguide/db/npc/npc/bb3a81c0886/",
-                    "Area": "The Fringes (X:20.7 Y:25.7)"
-                },
-                {
-                    "Name": "Highlander Soldier",
-                    "Url": "/lodestone/playguide/db/npc/npc/cbc7de528cf/",
-                    "Area": "The Fringes (X:26.5 Y:29.8)"
-                },
-                {
-                    "Name": "Highlander Soldier",
-                    "Url": "/lodestone/playguide/db/npc/npc/61f6303bb73/",
-                    "Area": "The Fringes (X:28.5 Y:26.0)"
+                    "Name": "Muzzing Moogle",
+                    "Url": "/lodestone/playguide/db/npc/npc/223b30da236/",
+                    "Area": "The Churning Mists (X:21.3 Y:26.2)"
                 }
             ]
         },
         "Seq": 18,
-        "oldID": 68591,
-        "Map": {
-            "ID": 367
-        },
         "StartDependency": false
     },
     {
-        "ID": "b5b8233b0db",
-        "Name": " Brooding Broodmother",
-        "Location": "The Fringes",
-        "Level": 60,
+        "ID": "13b5c5187a4",
+        "Name": " A Crystalline Solution",
+        "Location": "The Churning Mists",
+        "Level": 50,
         "JournalSection": 4,
         "JournalCategory": 35,
         "JournalGenre": "\n\t\t\t\t\t\t\tMain Quests\n\t\t\t\t\t\t",
-        "Url": "/lodestone/playguide/db/quest/b5b8233b0db/",
-        "Image": "https://img.finalfantasyxiv.com/lds/pc/global/images/itemicon/a6/a6a7fc520aba841419f19e4615b6f5362a79208c.png?n5.55",
+        "Url": "/lodestone/playguide/db/quest/13b5c5187a4/",
+        "Image": "https://img.finalfantasyxiv.com/lds/pc/global/images/itemicon/85/850aef037a8ab797843987a7fab10c699dc917d1.png?n6.05",
         "Icon": "function_normal",
-        "Issuer": "M'rahz Nunh",
+        "Issuer": "Master Mogzin",
         "StartLocation": {
-            "Name": "The Fringes",
-            "X": "30.2",
-            "Y": "25.7"
+            "Name": "The Churning Mists",
+            "X": "15.7",
+            "Y": "28.8"
         },
         "StartClass": null,
         "Job": "",
         "Company": "Not specified",
         "Requirement": "Not specified",
         "Rewards": {
-            "Gil": 1158,
+            "Gil": 936,
             "Exp": null,
             "ItemsMand": [],
-            "ItemsOpt": []
+            "ItemsOpt": [
+                {
+                    "Icon": "https://img.finalfantasyxiv.com/lds/pc/global/images/itemicon/05/050fda3f7c55f511b31bda3f9fa0731dcd5a54cb.png?n6.05",
+                    "Name": "Gatherer's Guerdon Materia V",
+                    "Amount": 1,
+                    "Url": "/lodestone/playguide/db/item/b3fa9f1136c/"
+                },
+                {
+                    "Icon": "https://img.finalfantasyxiv.com/lds/pc/global/images/itemicon/05/050fda3f7c55f511b31bda3f9fa0731dcd5a54cb.png?n6.05",
+                    "Name": "Gatherer's Grasp Materia V",
+                    "Amount": 1,
+                    "Url": "/lodestone/playguide/db/item/aaf024009df/"
+                },
+                {
+                    "Icon": "https://img.finalfantasyxiv.com/lds/pc/global/images/itemicon/6c/6c28ac35293bc5cd065ca1da849891b2ff436b18.png?n6.05",
+                    "Name": "Craftsman's Competence Materia V",
+                    "Amount": 1,
+                    "Url": "/lodestone/playguide/db/item/341799aa68e/"
+                }
+            ]
         },
         "Infos": {
             "PrerequisiteQuest": [
                 {
-                    "Name": "The Rose Blooms Twice",
-                    "Url": "/lodestone/playguide/db/quest/1d63c997677/",
-                    "Area": "The Fringes",
-                    "Level": "67"
+                    "Name": " Trying Times",
+                    "Url": "/lodestone/playguide/db/quest/57b94bc91d5/",
+                    "Area": "The Churning Mists",
+                    "Level": "50"
                 }
             ],
             "FollowupQuest": [
                 {
-                    "Name": " Griffins Rampant",
-                    "Url": "/lodestone/playguide/db/quest/d496db08988/",
-                    "Area": "The Fringes",
-                    "Level": "60"
+                    "Name": " The Tools Make the Moogle",
+                    "Url": "/lodestone/playguide/db/quest/5e2ecf15a4b/",
+                    "Area": "The Churning Mists",
+                    "Level": "50"
                 }
             ],
             "RelatedNPC": [
                 {
-                    "Name": "Alpa",
-                    "Url": "/lodestone/playguide/db/npc/npc/0a73757feab/",
-                    "Area": "Rhalgr's Reach (X:11.6 Y:11.5)"
+                    "Name": "Gullinbursti",
+                    "Url": "/lodestone/playguide/db/npc/npc/48037077888/",
+                    "Area": "The Churning Mists (X:9.9 Y:25.2)"
                 },
                 {
-                    "Name": "J'olhmyn",
-                    "Url": "/lodestone/playguide/db/npc/npc/cc7855ee176/",
-                    "Area": "Rhalgr's Reach (X:11.6 Y:11.5)"
+                    "Name": "Master Mogzin",
+                    "Url": "/lodestone/playguide/db/npc/npc/22df41c9404/",
+                    "Area": "The Churning Mists (X:9.8 Y:25.3)"
                 },
                 {
-                    "Name": "Alpa",
-                    "Url": "/lodestone/playguide/db/npc/npc/18c3e64cd4b/",
-                    "Area": "The Fringes (X:21.7 Y:26.2)"
+                    "Name": "Master Mogzin",
+                    "Url": "/lodestone/playguide/db/npc/npc/d9f91ccc5b5/",
+                    "Area": "The Churning Mists (X:9.5 Y:7.1)"
                 },
                 {
-                    "Name": "J'olhmyn",
-                    "Url": "/lodestone/playguide/db/npc/npc/7cd3e00094d/",
-                    "Area": "The Fringes (X:21.7 Y:26.1)"
+                    "Name": "Master Mogzin",
+                    "Url": "/lodestone/playguide/db/npc/npc/424686e9b0d/",
+                    "Area": "The Churning Mists (X:9.5 Y:7.2)"
                 },
                 {
-                    "Name": "Sarisha",
-                    "Url": "/lodestone/playguide/db/npc/npc/c6c2b4c5102/",
-                    "Area": "The Fringes (X:28.0 Y:19.4)"
+                    "Name": "Ohl Deeh",
+                    "Url": "/lodestone/playguide/db/npc/npc/07f2542ec37/",
+                    "Area": "The Churning Mists (X:15.2 Y:28.6)"
+                },
+                {
+                    "Name": "Ohl Deeh",
+                    "Url": "/lodestone/playguide/db/npc/npc/19b94951204/",
+                    "Area": "The Churning Mists (X:7.7 Y:30.0)"
+                },
+                {
+                    "Name": "Ohl Deeh",
+                    "Url": "/lodestone/playguide/db/npc/npc/fb0cb682bbe/",
+                    "Area": "The Churning Mists (X:9.8 Y:25.3)"
+                },
+                {
+                    "Name": "Ohl Deeh",
+                    "Url": "/lodestone/playguide/db/npc/npc/014e2656a55/",
+                    "Area": "The Churning Mists (X:15.6 Y:28.9)"
+                },
+                {
+                    "Name": "Ohl Deeh",
+                    "Url": "/lodestone/playguide/db/npc/npc/811e45ca0bd/",
+                    "Area": "The Churning Mists (X:9.5 Y:7.2)"
+                },
+                {
+                    "Name": "Tarresson",
+                    "Url": "/lodestone/playguide/db/npc/npc/95de84e369a/",
+                    "Area": "The Churning Mists (X:15.6 Y:28.9)"
+                },
+                {
+                    "Name": "Tarresson",
+                    "Url": "/lodestone/playguide/db/npc/npc/6348d987fb7/",
+                    "Area": "The Churning Mists (X:9.8 Y:25.4)"
+                },
+                {
+                    "Name": "Whei Ahf",
+                    "Url": "/lodestone/playguide/db/npc/npc/ee34a054adf/",
+                    "Area": "The Churning Mists (X:7.6 Y:30.0)"
+                }
+            ]
+        },
+        "Seq": 3,
+        "StartDependency": false
+    },
+    {
+        "ID": "19be9c78ce0",
+        "Name": " Rare Refreshments",
+        "Location": "The Churning Mists",
+        "Level": 50,
+        "JournalSection": 4,
+        "JournalCategory": 35,
+        "JournalGenre": "\n\t\t\t\t\t\t\tDaily Quests\n\t\t\t\t\t\t",
+        "Url": "/lodestone/playguide/db/quest/19be9c78ce0/",
+        "Image": null,
+        "Icon": "common_repeat",
+        "Issuer": "Mogek The Marvelous",
+        "StartLocation": {
+            "Name": "The Churning Mists",
+            "X": "15.8",
+            "Y": "28.8"
+        },
+        "StartClass": null,
+        "Job": "",
+        "Company": "Not specified",
+        "Requirement": "Not specified",
+        "Rewards": {
+            "Gil": 700,
+            "Exp": null,
+            "ItemsMand": [
+                {
+                    "Icon": "https://img.finalfantasyxiv.com/lds/pc/global/images/itemicon/a7/a71da2eb489188dbbfadd582938a0e761a9a0585.png?n6.05",
+                    "Name": "Ice Crystal",
+                    "Amount": 20,
+                    "Url": "/lodestone/playguide/db/item/2d800a06851/"
+                }
+            ],
+            "ItemsOpt": []
+        },
+        "Infos": {
+            "RelatedNPC": [
+                {
+                    "Name": "Hildeth",
+                    "Url": "/lodestone/playguide/db/npc/npc/a623f746909/",
+                    "Area": "The Churning Mists (X:15.0 Y:28.9)"
+                },
+                {
+                    "Name": "Meticulous Moogle",
+                    "Url": "/lodestone/playguide/db/npc/npc/18b0604c284/",
+                    "Area": "The Churning Mists (X:30.6 Y:35.2)"
+                },
+                {
+                    "Name": "Mincing Moogle",
+                    "Url": "/lodestone/playguide/db/npc/npc/47fd96bacf8/",
+                    "Area": "The Churning Mists (X:30.5 Y:35.6)"
                 }
             ]
         },
         "Seq": 25,
-        "oldID": 68572,
-        "Map": {
-            "ID": 367
-        },
         "StartDependency": false
     },
     {
-        "ID": "d496db08988",
-        "Name": " Griffins Rampant",
-        "Location": "The Fringes",
-        "Level": 60,
-        "JournalSection": 4,
-        "JournalCategory": 35,
-        "JournalGenre": "\n\t\t\t\t\t\t\tMain Quests\n\t\t\t\t\t\t",
-        "Url": "/lodestone/playguide/db/quest/d496db08988/",
-        "Image": "https://img.finalfantasyxiv.com/lds/pc/global/images/itemicon/01/01a8cf7486f4de5ddfdf23701ac3c99488a1f432.png?n5.55",
-        "Icon": "function_normal",
-        "Issuer": "Alpa",
-        "StartLocation": {
-            "Name": "The Fringes",
-            "X": "21.7",
-            "Y": "26.2"
-        },
-        "StartClass": null,
-        "Job": "",
-        "Company": "Not specified",
-        "Requirement": "Not specified",
-        "Rewards": {
-            "Gil": 1681,
-            "Exp": null,
-            "ItemsMand": [],
-            "ItemsOpt": []
-        },
-        "Infos": {
-            "PrerequisiteQuest": [
-                {
-                    "Name": " Brooding Broodmother",
-                    "Url": "/lodestone/playguide/db/quest/b5b8233b0db/",
-                    "Area": "The Fringes",
-                    "Level": "60"
-                }
-            ],
-            "FollowupQuest": [
-                {
-                    "Name": " Chance of Gales",
-                    "Url": "/lodestone/playguide/db/quest/df9a1804ad1/",
-                    "Area": "The Fringes",
-                    "Level": "60"
-                }
-            ],
-            "RelatedNPC": [
-                {
-                    "Name": "Giff",
-                    "Url": "/lodestone/playguide/db/npc/npc/c71f5bf214b/",
-                    "Area": "Rhalgr's Reach (X:9.7 Y:10.2)"
-                },
-                {
-                    "Name": "Alpa",
-                    "Url": "/lodestone/playguide/db/npc/npc/b3b67ce4a7d/",
-                    "Area": "The Fringes (X:19.8 Y:26.1)"
-                },
-                {
-                    "Name": "Alpa",
-                    "Url": "/lodestone/playguide/db/npc/npc/8c46d6685fb/",
-                    "Area": "The Fringes (X:21.7 Y:26.2)"
-                },
-                {
-                    "Name": "Giff",
-                    "Url": "/lodestone/playguide/db/npc/npc/2a55716f868/",
-                    "Area": "The Fringes (X:20.4 Y:25.8)"
-                },
-                {
-                    "Name": "Tahla Molkoh",
-                    "Url": "/lodestone/playguide/db/npc/npc/99715293638/",
-                    "Area": "The Fringes (X:8.8 Y:12.4)"
-                }
-            ]
-        },
-        "Seq": 1,
-        "oldID": 68573,
-        "Map": {
-            "ID": 367
-        },
-        "StartDependency": false
-    },
-    {
-        "ID": "d7ffdb1c48e",
-        "Name": " Catching and Fletching",
-        "Location": "The Fringes",
-        "Level": 60,
+        "ID": "1a85dd5d011",
+        "Name": " Moogle on the Wall",
+        "Location": "The Churning Mists",
+        "Level": 50,
         "JournalSection": 4,
         "JournalCategory": 35,
         "JournalGenre": "\n\t\t\t\t\t\t\tDaily Quests\n\t\t\t\t\t\t",
-        "Url": "/lodestone/playguide/db/quest/d7ffdb1c48e/",
+        "Url": "/lodestone/playguide/db/quest/1a85dd5d011/",
         "Image": null,
         "Icon": "common_repeat",
-        "Issuer": "Eshana",
+        "Issuer": "Mogek The Marvelous",
         "StartLocation": {
-            "Name": "The Fringes",
-            "X": "20.9",
-            "Y": "26.2"
+            "Name": "The Churning Mists",
+            "X": "15.8",
+            "Y": "28.8"
         },
         "StartClass": null,
         "Job": "",
         "Company": "Not specified",
         "Requirement": "Not specified",
         "Rewards": {
-            "Gil": 550,
+            "Gil": 600,
             "Exp": null,
-            "ItemsMand": [],
+            "ItemsMand": [
+                {
+                    "Icon": "https://img.finalfantasyxiv.com/lds/pc/global/images/itemicon/5d/5dd42eb2385a5e0d158b8fa81b63a09e4b25c821.png?n6.05",
+                    "Name": "Lightning Crystal",
+                    "Amount": 20,
+                    "Url": "/lodestone/playguide/db/item/b21a951916e/"
+                }
+            ],
             "ItemsOpt": []
         },
-        "Infos": {},
-        "Seq": 33,
-        "oldID": 68605,
-        "Map": {
-            "ID": 367
+        "Infos": {
+            "RelatedNPC": [
+                {
+                    "Name": "Rummaging Moogle",
+                    "Url": "/lodestone/playguide/db/npc/npc/3e77623743f/",
+                    "Area": "The Churning Mists (X:32.9 Y:24.2)"
+                }
+            ]
         },
+        "Seq": 12,
         "StartDependency": false
     },
     {
-        "ID": "df9a1804ad1",
-        "Name": " Chance of Gales",
-        "Location": "The Fringes",
-        "Level": 60,
+        "ID": "1db56d464b7",
+        "Name": " A Fish for His Favors",
+        "Location": "The Churning Mists",
+        "Level": 50,
         "JournalSection": 4,
         "JournalCategory": 35,
-        "JournalGenre": "\n\t\t\t\t\t\t\tMain Quests\n\t\t\t\t\t\t",
-        "Url": "/lodestone/playguide/db/quest/df9a1804ad1/",
-        "Image": "https://img.finalfantasyxiv.com/lds/pc/global/images/itemicon/27/270f3a61affbc453bc366a1369f7c035a6ce9853.png?n5.55",
-        "Icon": "function_normal",
-        "Issuer": "Alpa",
+        "JournalGenre": "\n\t\t\t\t\t\t\tDaily Quests\n\t\t\t\t\t\t",
+        "Url": "/lodestone/playguide/db/quest/1db56d464b7/",
+        "Image": null,
+        "Icon": "common_repeat",
+        "Issuer": "Mogek The Marvelous",
         "StartLocation": {
-            "Name": "The Fringes",
-            "X": "21.7",
-            "Y": "26.2"
+            "Name": "The Churning Mists",
+            "X": "15.8",
+            "Y": "28.8"
         },
         "StartClass": null,
         "Job": "",
         "Company": "Not specified",
         "Requirement": "Not specified",
         "Rewards": {
-            "Gil": 1585,
+            "Gil": 628,
+            "Exp": null,
+            "ItemsMand": [
+                {
+                    "Icon": "https://img.finalfantasyxiv.com/lds/pc/global/images/itemicon/d9/d9a4b77a07bb95bf2713ae233a0eececdf211e8b.png?n6.05",
+                    "Name": "Fire Crystal",
+                    "Amount": 20,
+                    "Url": "/lodestone/playguide/db/item/75403105d7f/"
+                }
+            ],
+            "ItemsOpt": []
+        },
+        "Infos": {
+            "RelatedNPC": [
+                {
+                    "Name": "Dextrous Dragonet",
+                    "Url": "/lodestone/playguide/db/npc/npc/dda8dc04341/",
+                    "Area": "The Churning Mists (X:15.4 Y:28.5)"
+                },
+                {
+                    "Name": "Mellow Moogle",
+                    "Url": "/lodestone/playguide/db/npc/npc/6c380a22dfd/",
+                    "Area": "The Churning Mists (X:22.5 Y:25.4)"
+                },
+                {
+                    "Name": "Mellow Moogle",
+                    "Url": "/lodestone/playguide/db/npc/npc/3af6cca63e2/",
+                    "Area": "The Churning Mists (X:19.5 Y:7.1)"
+                },
+                {
+                    "Name": "Mogwon",
+                    "Url": "/lodestone/playguide/db/npc/npc/934aa14e47d/",
+                    "Area": "The Churning Mists (X:21.0 Y:25.7)"
+                }
+            ]
+        },
+        "Seq": 32,
+        "StartDependency": false
+    },
+    {
+        "ID": "1f7a7a0ae51",
+        "Name": " Built to Last",
+        "Location": "The Churning Mists",
+        "Level": 50,
+        "JournalSection": 4,
+        "JournalCategory": 35,
+        "JournalGenre": "\n\t\t\t\t\t\t\tDaily Quests\n\t\t\t\t\t\t",
+        "Url": "/lodestone/playguide/db/quest/1f7a7a0ae51/",
+        "Image": null,
+        "Icon": "common_repeat",
+        "Issuer": "Mogek The Marvelous",
+        "StartLocation": {
+            "Name": "The Churning Mists",
+            "X": "15.8",
+            "Y": "28.8"
+        },
+        "StartClass": null,
+        "Job": "",
+        "Company": "Not specified",
+        "Requirement": "Not specified",
+        "Rewards": {
+            "Gil": 545,
+            "Exp": null,
+            "ItemsMand": [
+                {
+                    "Icon": "https://img.finalfantasyxiv.com/lds/pc/global/images/itemicon/b5/b5eb0d9131d8f735a91286bdf2f877f0495e8235.png?n6.05",
+                    "Name": "Water Crystal",
+                    "Amount": 20,
+                    "Url": "/lodestone/playguide/db/item/44d3f4cb26b/"
+                }
+            ],
+            "ItemsOpt": []
+        },
+        "Infos": {
+            "RelatedNPC": [
+                {
+                    "Name": "Helpmeet Moogle",
+                    "Url": "/lodestone/playguide/db/npc/npc/b639aef0a41/",
+                    "Area": "The Churning Mists (X:17.6 Y:37.7)"
+                },
+                {
+                    "Name": "Methodical Moogle",
+                    "Url": "/lodestone/playguide/db/npc/npc/50f6ef81f25/",
+                    "Area": "The Churning Mists (X:17.4 Y:37.3)"
+                },
+                {
+                    "Name": "Mindful Moogle",
+                    "Url": "/lodestone/playguide/db/npc/npc/58f884de052/",
+                    "Area": "The Churning Mists (X:14.7 Y:28.6)"
+                }
+            ]
+        },
+        "Seq": 23,
+        "StartDependency": false
+    },
+    {
+        "ID": "2004e9cbf20",
+        "Name": " Tricks and Stones",
+        "Location": "The Churning Mists",
+        "Level": 50,
+        "JournalSection": 4,
+        "JournalCategory": 35,
+        "JournalGenre": "\n\t\t\t\t\t\t\tMain Quests\n\t\t\t\t\t\t",
+        "Url": "/lodestone/playguide/db/quest/2004e9cbf20/",
+        "Image": "https://img.finalfantasyxiv.com/lds/pc/global/images/itemicon/c4/c45a4ecd40bb0316dd98f49638857c2f460a1946.png?n6.05",
+        "Icon": "function_normal",
+        "Issuer": "Seething Stonemason",
+        "StartLocation": {
+            "Name": "The Churning Mists",
+            "X": "27.2",
+            "Y": "34.5"
+        },
+        "StartClass": null,
+        "Job": "",
+        "Company": "Not specified",
+        "Requirement": "Not specified",
+        "Rewards": {
+            "Gil": 1483,
             "Exp": null,
             "ItemsMand": [],
             "ItemsOpt": []
@@ -1487,319 +479,2037 @@
         "Infos": {
             "PrerequisiteQuest": [
                 {
-                    "Name": " Griffins Rampant",
-                    "Url": "/lodestone/playguide/db/quest/d496db08988/",
-                    "Area": "The Fringes",
-                    "Level": "60"
+                    "Name": "Into the Aery",
+                    "Url": "/lodestone/playguide/db/quest/afdf4608d31/",
+                    "Area": "Ishgard",
+                    "Level": "55"
+                },
+                {
+                    "Name": "Laying the First Brick",
+                    "Url": "/lodestone/playguide/db/quest/bc3fe3ff9e1/",
+                    "Area": "The Churning Mists",
+                    "Level": "56"
                 }
             ],
             "FollowupQuest": [
                 {
-                    "Name": " It Can Be Cruel Sometimes",
-                    "Url": "/lodestone/playguide/db/quest/0bc4f1bcc7a/",
-                    "Area": "The Fringes",
-                    "Level": "60"
+                    "Name": " The Milk of Moogle Kindness",
+                    "Url": "/lodestone/playguide/db/quest/6d2e9b7587e/",
+                    "Area": "The Churning Mists",
+                    "Level": "50"
                 }
             ],
             "RelatedNPC": [
                 {
-                    "Name": "Alpa",
-                    "Url": "/lodestone/playguide/db/npc/npc/415be2e4397/",
-                    "Area": "The Fringes (X:23.5 Y:27.4)"
+                    "Name": "Handeloup",
+                    "Url": "/lodestone/playguide/db/npc/npc/ec3496b94e2/",
+                    "Area": "Foundation (X:13.8 Y:11.2)"
                 },
                 {
-                    "Name": "Alpa",
-                    "Url": "/lodestone/playguide/db/npc/npc/8c46d6685fb/",
-                    "Area": "The Fringes (X:21.7 Y:26.2)"
+                    "Name": "Mathye",
+                    "Url": "/lodestone/playguide/db/npc/npc/fc8d4b38c34/",
+                    "Area": "The Pillars (X:6.2 Y:9.4)"
                 },
                 {
-                    "Name": "Dakshina",
-                    "Url": "/lodestone/playguide/db/npc/npc/0589a1b283e/",
-                    "Area": "The Fringes (X:19.6 Y:25.2)"
+                    "Name": "Tarresson",
+                    "Url": "/lodestone/playguide/db/npc/npc/a976042005c/",
+                    "Area": "The Pillars (X:6.3 Y:9.4)"
                 },
                 {
-                    "Name": "Eager Gatekeeper",
-                    "Url": "/lodestone/playguide/db/npc/npc/b4ca1c0c4f9/",
-                    "Area": "The Fringes (X:17.3 Y:18.4)"
+                    "Name": "Master Mogzin",
+                    "Url": "/lodestone/playguide/db/npc/npc/e2d56bfe807/",
+                    "Area": "The Churning Mists (X:10.2 Y:29.0)"
                 },
                 {
-                    "Name": "Forthright Gatekeeper",
-                    "Url": "/lodestone/playguide/db/npc/npc/71cf4cd259f/",
-                    "Area": "The Fringes (X:17.2 Y:18.3)"
+                    "Name": "Master Mogzin",
+                    "Url": "/lodestone/playguide/db/npc/npc/3eaf8be8265/",
+                    "Area": "The Churning Mists (X:15.1 Y:28.7)"
                 },
                 {
-                    "Name": "Gales",
-                    "Url": "/lodestone/playguide/db/npc/npc/7a644ff8416/",
-                    "Area": "The Fringes (X:21.6 Y:26.2)"
+                    "Name": "Mogek The Marvelous",
+                    "Url": "/lodestone/playguide/db/npc/npc/c633bc04ad6/",
+                    "Area": "The Churning Mists (X:15.0 Y:28.7)"
                 },
                 {
-                    "Name": "Gridanian Merchant",
-                    "Url": "/lodestone/playguide/db/npc/npc/7c675bb8d16/",
-                    "Area": "The Fringes (X:23.7 Y:27.4)"
+                    "Name": "Mogkul",
+                    "Url": "/lodestone/playguide/db/npc/npc/45e951de345/",
+                    "Area": "The Churning Mists (X:29.5 Y:35.1)"
                 },
                 {
-                    "Name": "J'olhmyn",
-                    "Url": "/lodestone/playguide/db/npc/npc/7cd3e00094d/",
-                    "Area": "The Fringes (X:21.7 Y:26.1)"
+                    "Name": "Mogkul",
+                    "Url": "/lodestone/playguide/db/npc/npc/f8cd846d97d/",
+                    "Area": "The Churning Mists (X:15.1 Y:28.8)"
                 },
                 {
-                    "Name": "J'olhmyn",
-                    "Url": "/lodestone/playguide/db/npc/npc/3e553c38fe7/",
-                    "Area": "The Fringes (X:23.5 Y:27.4)"
+                    "Name": "Mogmul Mogbelly",
+                    "Url": "/lodestone/playguide/db/npc/npc/7c830ea1571/",
+                    "Area": "The Churning Mists (X:15.1 Y:28.6)"
                 },
                 {
-                    "Name": "Alpa",
-                    "Url": "/lodestone/playguide/db/npc/npc/afa655bd505/",
-                    "Area": "The Peaks (X:16.6 Y:37.1)"
+                    "Name": "Tarresson",
+                    "Url": "/lodestone/playguide/db/npc/npc/20f286d1ca2/",
+                    "Area": "The Churning Mists (X:15.2 Y:28.8)"
                 },
                 {
-                    "Name": "Alpa",
-                    "Url": "/lodestone/playguide/db/npc/npc/725155bc17c/",
-                    "Area": "The Peaks (X:16.6 Y:31.6)"
+                    "Name": "Tarresson",
+                    "Url": "/lodestone/playguide/db/npc/npc/2679bb2bb1e/",
+                    "Area": "The Churning Mists (X:10.3 Y:29.0)"
+                }
+            ]
+        },
+        "Seq": 7,
+        "StartDependency": false
+    },
+    {
+        "ID": "2a6e35174b1",
+        "Name": " A Stone's Throw Away",
+        "Location": "The Churning Mists",
+        "Level": 50,
+        "JournalSection": 4,
+        "JournalCategory": 35,
+        "JournalGenre": "\n\t\t\t\t\t\t\tDaily Quests\n\t\t\t\t\t\t",
+        "Url": "/lodestone/playguide/db/quest/2a6e35174b1/",
+        "Image": null,
+        "Icon": "common_repeat",
+        "Issuer": "Mogek The Marvelous",
+        "StartLocation": {
+            "Name": "The Churning Mists",
+            "X": "15.8",
+            "Y": "28.8"
+        },
+        "StartClass": null,
+        "Job": "",
+        "Company": "Not specified",
+        "Requirement": "Not specified",
+        "Rewards": {
+            "Gil": 828,
+            "Exp": null,
+            "ItemsMand": [
+                {
+                    "Icon": "https://img.finalfantasyxiv.com/lds/pc/global/images/itemicon/d9/d9a4b77a07bb95bf2713ae233a0eececdf211e8b.png?n6.05",
+                    "Name": "Fire Crystal",
+                    "Amount": 20,
+                    "Url": "/lodestone/playguide/db/item/75403105d7f/"
+                }
+            ],
+            "ItemsOpt": []
+        },
+        "Infos": {
+            "RelatedNPC": [
+                {
+                    "Name": "Mirthful Moogle",
+                    "Url": "/lodestone/playguide/db/npc/npc/6a8837d5920/",
+                    "Area": "The Churning Mists (X:30.9 Y:36.6)"
+                }
+            ]
+        },
+        "Seq": 26,
+        "StartDependency": false
+    },
+    {
+        "ID": "2b92f260c7d",
+        "Name": " A Revivifying Roar",
+        "Location": "The Churning Mists",
+        "Level": 50,
+        "JournalSection": 4,
+        "JournalCategory": 35,
+        "JournalGenre": "\n\t\t\t\t\t\t\tDaily Quests\n\t\t\t\t\t\t",
+        "Url": "/lodestone/playguide/db/quest/2b92f260c7d/",
+        "Image": null,
+        "Icon": "common_repeat",
+        "Issuer": "Mogek The Marvelous",
+        "StartLocation": {
+            "Name": "The Churning Mists",
+            "X": "15.8",
+            "Y": "28.8"
+        },
+        "StartClass": null,
+        "Job": "",
+        "Company": "Not specified",
+        "Requirement": "Not specified",
+        "Rewards": {
+            "Gil": 628,
+            "Exp": null,
+            "ItemsMand": [
+                {
+                    "Icon": "https://img.finalfantasyxiv.com/lds/pc/global/images/itemicon/16/16cd107e2bd1c45cee59e6b96ef02f2f6f68eac5.png?n6.05",
+                    "Name": "Earth Crystal",
+                    "Amount": 20,
+                    "Url": "/lodestone/playguide/db/item/ff6eae7bdcb/"
+                }
+            ],
+            "ItemsOpt": []
+        },
+        "Infos": {
+            "RelatedNPC": [
+                {
+                    "Name": "Dextrous Dragonet",
+                    "Url": "/lodestone/playguide/db/npc/npc/dda8dc04341/",
+                    "Area": "The Churning Mists (X:15.4 Y:28.5)"
                 },
                 {
-                    "Name": "Gales",
-                    "Url": "/lodestone/playguide/db/npc/npc/40e94026e56/",
-                    "Area": "The Peaks (X:16.7 Y:31.6)"
+                    "Name": "Mystified Moogle",
+                    "Url": "/lodestone/playguide/db/npc/npc/52061109ff8/",
+                    "Area": "The Churning Mists (X:21.9 Y:17.8)"
+                }
+            ]
+        },
+        "Seq": 27,
+        "StartDependency": false
+    },
+    {
+        "ID": "2c4e95ecf46",
+        "Name": " The Mining Mishap",
+        "Location": "The Churning Mists",
+        "Level": 50,
+        "JournalSection": 4,
+        "JournalCategory": 35,
+        "JournalGenre": "\n\t\t\t\t\t\t\tDaily Quests\n\t\t\t\t\t\t",
+        "Url": "/lodestone/playguide/db/quest/2c4e95ecf46/",
+        "Image": null,
+        "Icon": "common_repeat",
+        "Issuer": "Mogek The Marvelous",
+        "StartLocation": {
+            "Name": "The Churning Mists",
+            "X": "15.8",
+            "Y": "28.8"
+        },
+        "StartClass": null,
+        "Job": "",
+        "Company": "Not specified",
+        "Requirement": "Not specified",
+        "Rewards": {
+            "Gil": 572,
+            "Exp": null,
+            "ItemsMand": [
+                {
+                    "Icon": "https://img.finalfantasyxiv.com/lds/pc/global/images/itemicon/b5/b5eb0d9131d8f735a91286bdf2f877f0495e8235.png?n6.05",
+                    "Name": "Water Crystal",
+                    "Amount": 20,
+                    "Url": "/lodestone/playguide/db/item/44d3f4cb26b/"
+                }
+            ],
+            "ItemsOpt": []
+        },
+        "Infos": {
+            "RelatedNPC": [
+                {
+                    "Name": "Malaised Moogle",
+                    "Url": "/lodestone/playguide/db/npc/npc/8ff8610319f/",
+                    "Area": "The Churning Mists (X:19.1 Y:7.0)"
                 },
                 {
-                    "Name": "Gerbod",
-                    "Url": "/lodestone/playguide/db/npc/npc/5ccd1a9fe7c/",
-                    "Area": "The Peaks (X:15.9 Y:37.1)"
+                    "Name": "Muddled Moogle",
+                    "Url": "/lodestone/playguide/db/npc/npc/5303500af1a/",
+                    "Area": "The Churning Mists (X:18.8 Y:7.3)"
+                }
+            ]
+        },
+        "Seq": 17,
+        "StartDependency": false
+    },
+    {
+        "ID": "34adcdb0ac9",
+        "Name": " The Moogle Motivator",
+        "Location": "The Churning Mists",
+        "Level": 50,
+        "JournalSection": 4,
+        "JournalCategory": 35,
+        "JournalGenre": "\n\t\t\t\t\t\t\tDaily Quests\n\t\t\t\t\t\t",
+        "Url": "/lodestone/playguide/db/quest/34adcdb0ac9/",
+        "Image": null,
+        "Icon": "common_repeat",
+        "Issuer": "Mogek The Marvelous",
+        "StartLocation": {
+            "Name": "The Churning Mists",
+            "X": "15.8",
+            "Y": "28.8"
+        },
+        "StartClass": null,
+        "Job": "",
+        "Company": "Not specified",
+        "Requirement": "Not specified",
+        "Rewards": {
+            "Gil": 517,
+            "Exp": null,
+            "ItemsMand": [
+                {
+                    "Icon": "https://img.finalfantasyxiv.com/lds/pc/global/images/itemicon/5d/5dd42eb2385a5e0d158b8fa81b63a09e4b25c821.png?n6.05",
+                    "Name": "Lightning Crystal",
+                    "Amount": 20,
+                    "Url": "/lodestone/playguide/db/item/b21a951916e/"
+                }
+            ],
+            "ItemsOpt": []
+        },
+        "Infos": {
+            "RelatedNPC": [
+                {
+                    "Name": "Malingering Moogle",
+                    "Url": "/lodestone/playguide/db/npc/npc/f79807d0adc/",
+                    "Area": "The Churning Mists (X:21.7 Y:26.6)"
                 },
                 {
-                    "Name": "J'nairoh",
-                    "Url": "/lodestone/playguide/db/npc/npc/1b87a6a15d1/",
-                    "Area": "The Peaks (X:17.2 Y:36.8)"
+                    "Name": "Malingering Moogle",
+                    "Url": "/lodestone/playguide/db/npc/npc/4132daf8fd3/",
+                    "Area": "The Churning Mists (X:21.0 Y:26.8)"
                 },
                 {
-                    "Name": "J'olhmyn",
-                    "Url": "/lodestone/playguide/db/npc/npc/d84a54f45b8/",
-                    "Area": "The Peaks (X:16.6 Y:37.1)"
+                    "Name": "Malingering Moogle",
+                    "Url": "/lodestone/playguide/db/npc/npc/3309316add7/",
+                    "Area": "The Churning Mists (X:21.6 Y:27.4)"
                 },
                 {
-                    "Name": "J'olhmyn",
-                    "Url": "/lodestone/playguide/db/npc/npc/4edfb052861/",
-                    "Area": "The Peaks (X:16.7 Y:31.5)"
+                    "Name": "Mogwon",
+                    "Url": "/lodestone/playguide/db/npc/npc/934aa14e47d/",
+                    "Area": "The Churning Mists (X:21.0 Y:25.7)"
+                }
+            ]
+        },
+        "Seq": 36,
+        "StartDependency": false
+    },
+    {
+        "ID": "57b94bc91d5",
+        "Name": " Trying Times",
+        "Location": "The Churning Mists",
+        "Level": 50,
+        "JournalSection": 4,
+        "JournalCategory": 35,
+        "JournalGenre": "\n\t\t\t\t\t\t\tMain Quests\n\t\t\t\t\t\t",
+        "Url": "/lodestone/playguide/db/quest/57b94bc91d5/",
+        "Image": "https://img.finalfantasyxiv.com/lds/pc/global/images/itemicon/0f/0f67db21601edf3e1e96243f40cff909a92c028c.png?n6.05",
+        "Icon": "function_normal",
+        "Issuer": "Master Mogzin",
+        "StartLocation": {
+            "Name": "The Churning Mists",
+            "X": "15.7",
+            "Y": "28.8"
+        },
+        "StartClass": null,
+        "Job": "",
+        "Company": "Not specified",
+        "Requirement": "Not specified",
+        "Rewards": {
+            "Gil": 658,
+            "Exp": null,
+            "ItemsMand": [],
+            "ItemsOpt": [
+                {
+                    "Icon": "https://img.finalfantasyxiv.com/lds/pc/global/images/itemicon/db/dbdfccf07fabcc6220a8b0cb3f839ec877699b3c.png?n6.05",
+                    "Name": "Craftsman's Command Materia IV",
+                    "Amount": 3,
+                    "Url": "/lodestone/playguide/db/item/d41572dcfd9/"
                 },
                 {
-                    "Name": "Weidheri",
-                    "Url": "/lodestone/playguide/db/npc/npc/039d8ba396e/",
-                    "Area": "The Peaks (X:16.7 Y:36.3)"
+                    "Icon": "https://img.finalfantasyxiv.com/lds/pc/global/images/itemicon/db/dbdfccf07fabcc6220a8b0cb3f839ec877699b3c.png?n6.05",
+                    "Name": "Craftsman's Cunning Materia IV",
+                    "Amount": 3,
+                    "Url": "/lodestone/playguide/db/item/caa6eaeeb0e/"
+                },
+                {
+                    "Icon": "https://img.finalfantasyxiv.com/lds/pc/global/images/itemicon/63/633fd862144850ca113c67712245acdc6cd80454.png?n6.05",
+                    "Name": "Gatherer's Guile Materia IV",
+                    "Amount": 3,
+                    "Url": "/lodestone/playguide/db/item/23a75b80dac/"
+                }
+            ]
+        },
+        "Infos": {
+            "PrerequisiteQuest": [
+                {
+                    "Name": " The Milk of Moogle Kindness",
+                    "Url": "/lodestone/playguide/db/quest/6d2e9b7587e/",
+                    "Area": "The Churning Mists",
+                    "Level": "50"
+                }
+            ],
+            "FollowupQuest": [
+                {
+                    "Name": " A Crystalline Solution",
+                    "Url": "/lodestone/playguide/db/quest/13b5c5187a4/",
+                    "Area": "The Churning Mists",
+                    "Level": "50"
+                }
+            ],
+            "RelatedNPC": [
+                {
+                    "Name": "Master Mogzin",
+                    "Url": "/lodestone/playguide/db/npc/npc/11ed2251751/",
+                    "Area": "The Churning Mists (X:7.7 Y:29.8)"
+                },
+                {
+                    "Name": "Mogmul Mogbelly",
+                    "Url": "/lodestone/playguide/db/shop/d1029996df5/",
+                    "Area": "The Churning Mists (X:15.9 Y:28.5)"
+                },
+                {
+                    "Name": "Ohl Deeh",
+                    "Url": "/lodestone/playguide/db/npc/npc/19b94951204/",
+                    "Area": "The Churning Mists (X:7.7 Y:30.0)"
+                },
+                {
+                    "Name": "Ohl Deeh",
+                    "Url": "/lodestone/playguide/db/npc/npc/22fd1aca4f6/",
+                    "Area": "The Churning Mists (X:15.7 Y:28.8)"
+                },
+                {
+                    "Name": "Tarresson",
+                    "Url": "/lodestone/playguide/db/npc/npc/95de84e369a/",
+                    "Area": "The Churning Mists (X:15.6 Y:28.9)"
+                },
+                {
+                    "Name": "Whei Ahf",
+                    "Url": "/lodestone/playguide/db/npc/npc/ee34a054adf/",
+                    "Area": "The Churning Mists (X:7.6 Y:30.0)"
+                },
+                {
+                    "Name": "Whei Ahf",
+                    "Url": "/lodestone/playguide/db/npc/npc/07a45b54411/",
+                    "Area": "The Churning Mists (X:15.7 Y:29.0)"
                 }
             ]
         },
         "Seq": 2,
-        "oldID": 68574,
-        "Map": {
-            "ID": 367
-        },
         "StartDependency": false
     },
     {
-        "ID": "efbf54835a5",
-        "Name": " A Delicate Operation",
-        "Location": "The Fringes",
-        "Level": 60,
+        "ID": "585fa118bfa",
+        "Name": " From Lax to Max",
+        "Location": "The Churning Mists",
+        "Level": 50,
         "JournalSection": 4,
         "JournalCategory": 35,
         "JournalGenre": "\n\t\t\t\t\t\t\tDaily Quests\n\t\t\t\t\t\t",
-        "Url": "/lodestone/playguide/db/quest/efbf54835a5/",
+        "Url": "/lodestone/playguide/db/quest/585fa118bfa/",
         "Image": null,
         "Icon": "common_repeat",
-        "Issuer": "Eshana",
+        "Issuer": "Mogek The Marvelous",
         "StartLocation": {
-            "Name": "The Fringes",
-            "X": "20.9",
-            "Y": "26.2"
+            "Name": "The Churning Mists",
+            "X": "15.8",
+            "Y": "28.8"
         },
         "StartClass": null,
         "Job": "",
         "Company": "Not specified",
         "Requirement": "Not specified",
         "Rewards": {
-            "Gil": 550,
+            "Gil": 728,
             "Exp": null,
-            "ItemsMand": [],
-            "ItemsOpt": []
-        },
-        "Infos": {},
-        "Seq": 29,
-        "oldID": 68601,
-        "Map": {
-            "ID": 367
-        },
-        "StartDependency": false
-    },
-    {
-        "ID": "f14253a077d",
-        "Name": " The Very Hungry Marid",
-        "Location": "The Fringes",
-        "Level": 60,
-        "JournalSection": 4,
-        "JournalCategory": 35,
-        "JournalGenre": "\n\t\t\t\t\t\t\tDaily Quests\n\t\t\t\t\t\t",
-        "Url": "/lodestone/playguide/db/quest/f14253a077d/",
-        "Image": null,
-        "Icon": "common_repeat",
-        "Issuer": "Eshana",
-        "StartLocation": {
-            "Name": "The Fringes",
-            "X": "20.9",
-            "Y": "26.2"
-        },
-        "StartClass": null,
-        "Job": "",
-        "Company": "Not specified",
-        "Requirement": "Not specified",
-        "Rewards": {
-            "Gil": 745,
-            "Exp": null,
-            "ItemsMand": [],
+            "ItemsMand": [
+                {
+                    "Icon": "https://img.finalfantasyxiv.com/lds/pc/global/images/itemicon/16/16cd107e2bd1c45cee59e6b96ef02f2f6f68eac5.png?n6.05",
+                    "Name": "Earth Crystal",
+                    "Amount": 20,
+                    "Url": "/lodestone/playguide/db/item/ff6eae7bdcb/"
+                }
+            ],
             "ItemsOpt": []
         },
         "Infos": {
             "RelatedNPC": [
                 {
-                    "Name": "Ancient Marid",
-                    "Url": "/lodestone/playguide/db/npc/npc/22132c4be21/",
-                    "Area": "The Fringes (X:23.3 Y:29.0)"
+                    "Name": "Maundering Moogle",
+                    "Url": "/lodestone/playguide/db/npc/npc/a206d0fca63/",
+                    "Area": "The Churning Mists (X:10.1 Y:26.8)"
+                },
+                {
+                    "Name": "Maundering Moogle",
+                    "Url": "/lodestone/playguide/db/npc/npc/be366f1c231/",
+                    "Area": "The Churning Mists (X:10.1 Y:26.7)"
+                },
+                {
+                    "Name": "Maundering Moogle",
+                    "Url": "/lodestone/playguide/db/npc/npc/2a95da98528/",
+                    "Area": "The Churning Mists (X:10.3 Y:26.7)"
+                },
+                {
+                    "Name": "Maundering Moogle",
+                    "Url": "/lodestone/playguide/db/npc/npc/1f2a2607be9/",
+                    "Area": "The Churning Mists (X:8.7 Y:27.8)"
+                },
+                {
+                    "Name": "Maundering Moogle",
+                    "Url": "/lodestone/playguide/db/npc/npc/67f889179e0/",
+                    "Area": "The Churning Mists (X:24.1 Y:20.0)"
+                },
+                {
+                    "Name": "Maundering Moogle",
+                    "Url": "/lodestone/playguide/db/npc/npc/69926b3010c/",
+                    "Area": "The Churning Mists (X:12.9 Y:20.3)"
+                },
+                {
+                    "Name": "Moguppo",
+                    "Url": "/lodestone/playguide/db/npc/npc/621fccb892e/",
+                    "Area": "The Churning Mists (X:21.4 Y:25.7)"
                 }
             ]
         },
-        "Seq": 21,
-        "oldID": 68594,
-        "Map": {
-            "ID": 367
-        },
+        "Seq": 33,
         "StartDependency": false
     },
     {
-        "ID": "f599ad98290",
-        "Name": " Beating the Heat",
-        "Location": "The Fringes",
-        "Level": 60,
+        "ID": "5e2ecf15a4b",
+        "Name": " The Tools Make the Moogle",
+        "Location": "The Churning Mists",
+        "Level": 50,
         "JournalSection": 4,
         "JournalCategory": 35,
-        "JournalGenre": "\n\t\t\t\t\t\t\tDaily Quests\n\t\t\t\t\t\t",
-        "Url": "/lodestone/playguide/db/quest/f599ad98290/",
-        "Image": null,
-        "Icon": "common_repeat",
-        "Issuer": "Eshana",
+        "JournalGenre": "\n\t\t\t\t\t\t\tMain Quests\n\t\t\t\t\t\t",
+        "Url": "/lodestone/playguide/db/quest/5e2ecf15a4b/",
+        "Image": "https://img.finalfantasyxiv.com/lds/pc/global/images/itemicon/35/35baf2096e4d543ac6154302dda4918fabaf0dee.png?n6.05",
+        "Icon": "function_normal",
+        "Issuer": "Master Mogzin",
         "StartLocation": {
-            "Name": "The Fringes",
-            "X": "20.9",
-            "Y": "26.2"
+            "Name": "The Churning Mists",
+            "X": "15.7",
+            "Y": "28.8"
         },
         "StartClass": null,
         "Job": "",
         "Company": "Not specified",
         "Requirement": "Not specified",
         "Rewards": {
-            "Gil": 550,
+            "Gil": 574,
             "Exp": null,
             "ItemsMand": [],
-            "ItemsOpt": []
+            "ItemsOpt": [
+                {
+                    "Icon": "https://img.finalfantasyxiv.com/lds/pc/global/images/itemicon/6c/6c28ac35293bc5cd065ca1da849891b2ff436b18.png?n6.05",
+                    "Name": "Craftsman's Command Materia V",
+                    "Amount": 1,
+                    "Url": "/lodestone/playguide/db/item/5275c679fe1/"
+                },
+                {
+                    "Icon": "https://img.finalfantasyxiv.com/lds/pc/global/images/itemicon/6c/6c28ac35293bc5cd065ca1da849891b2ff436b18.png?n6.05",
+                    "Name": "Craftsman's Cunning Materia V",
+                    "Amount": 1,
+                    "Url": "/lodestone/playguide/db/item/1c7d17024e6/"
+                },
+                {
+                    "Icon": "https://img.finalfantasyxiv.com/lds/pc/global/images/itemicon/05/050fda3f7c55f511b31bda3f9fa0731dcd5a54cb.png?n6.05",
+                    "Name": "Gatherer's Guile Materia V",
+                    "Amount": 1,
+                    "Url": "/lodestone/playguide/db/item/495ec449b8e/"
+                }
+            ]
         },
-        "Infos": {},
-        "Seq": 9,
-        "oldID": 68582,
-        "Map": {
-            "ID": 367
+        "Infos": {
+            "PrerequisiteQuest": [
+                {
+                    "Name": " A Crystalline Solution",
+                    "Url": "/lodestone/playguide/db/quest/13b5c5187a4/",
+                    "Area": "The Churning Mists",
+                    "Level": "50"
+                }
+            ],
+            "FollowupQuest": [
+                {
+                    "Name": " A Monumental Task",
+                    "Url": "/lodestone/playguide/db/quest/6a1d267aaf3/",
+                    "Area": "The Churning Mists",
+                    "Level": "50"
+                }
+            ],
+            "RelatedNPC": [
+                {
+                    "Name": "Master Mogzin",
+                    "Url": "/lodestone/playguide/db/npc/npc/ac92455b8bd/",
+                    "Area": "The Churning Mists (X:20.4 Y:26.8)"
+                },
+                {
+                    "Name": "Mogmul Mogbelly",
+                    "Url": "/lodestone/playguide/db/shop/d1029996df5/",
+                    "Area": "The Churning Mists (X:15.9 Y:28.5)"
+                },
+                {
+                    "Name": "Moogle Mailer",
+                    "Url": "/lodestone/playguide/db/npc/npc/df8241b6851/",
+                    "Area": "The Churning Mists (X:20.5 Y:26.8)"
+                },
+                {
+                    "Name": "Tarresson",
+                    "Url": "/lodestone/playguide/db/npc/npc/95de84e369a/",
+                    "Area": "The Churning Mists (X:15.6 Y:28.9)"
+                }
+            ]
         },
+        "Seq": 4,
         "StartDependency": false
     },
     {
-        "ID": "f6daac2aa09",
-        "Name": " A Signal for the Senses",
-        "Location": "The Fringes",
-        "Level": 60,
+        "ID": "6907260884d",
+        "Name": " Mine and Craft",
+        "Location": "The Churning Mists",
+        "Level": 50,
         "JournalSection": 4,
         "JournalCategory": 35,
         "JournalGenre": "\n\t\t\t\t\t\t\tDaily Quests\n\t\t\t\t\t\t",
-        "Url": "/lodestone/playguide/db/quest/f6daac2aa09/",
+        "Url": "/lodestone/playguide/db/quest/6907260884d/",
         "Image": null,
         "Icon": "common_repeat",
-        "Issuer": "Eshana",
+        "Issuer": "Mogek The Marvelous",
         "StartLocation": {
-            "Name": "The Fringes",
-            "X": "20.9",
-            "Y": "26.2"
+            "Name": "The Churning Mists",
+            "X": "15.8",
+            "Y": "28.8"
         },
         "StartClass": null,
         "Job": "",
         "Company": "Not specified",
         "Requirement": "Not specified",
         "Rewards": {
-            "Gil": 615,
+            "Gil": 600,
             "Exp": null,
-            "ItemsMand": [],
-            "ItemsOpt": []
-        },
-        "Infos": {},
-        "Seq": 13,
-        "oldID": 68586,
-        "Map": {
-            "ID": 367
-        },
-        "StartDependency": false
-    },
-    {
-        "ID": "fe1088d4d3f",
-        "Name": " When Feathers Fly",
-        "Location": "The Fringes",
-        "Level": 60,
-        "JournalSection": 4,
-        "JournalCategory": 35,
-        "JournalGenre": "\n\t\t\t\t\t\t\tDaily Quests\n\t\t\t\t\t\t",
-        "Url": "/lodestone/playguide/db/quest/fe1088d4d3f/",
-        "Image": null,
-        "Icon": "common_repeat",
-        "Issuer": "Eshana",
-        "StartLocation": {
-            "Name": "The Fringes",
-            "X": "20.9",
-            "Y": "26.2"
-        },
-        "StartClass": null,
-        "Job": "",
-        "Company": "Not specified",
-        "Requirement": "Not specified",
-        "Rewards": {
-            "Gil": 550,
-            "Exp": null,
-            "ItemsMand": [],
+            "ItemsMand": [
+                {
+                    "Icon": "https://img.finalfantasyxiv.com/lds/pc/global/images/itemicon/b5/b5eb0d9131d8f735a91286bdf2f877f0495e8235.png?n6.05",
+                    "Name": "Water Crystal",
+                    "Amount": 20,
+                    "Url": "/lodestone/playguide/db/item/44d3f4cb26b/"
+                }
+            ],
             "ItemsOpt": []
         },
         "Infos": {
             "RelatedNPC": [
                 {
-                    "Name": "Juvenile Griffin",
-                    "Url": "/lodestone/playguide/db/npc/npc/4a6ad87ee15/",
-                    "Area": "The Fringes (X:27.3 Y:11.5)"
+                    "Name": "Mentee Moogle",
+                    "Url": "/lodestone/playguide/db/npc/npc/bdbd1ee6246/",
+                    "Area": "The Churning Mists (X:26.0 Y:11.1)"
                 },
                 {
-                    "Name": "Juvenile Griffin",
-                    "Url": "/lodestone/playguide/db/npc/npc/ac58a2278ac/",
-                    "Area": "The Fringes (X:25.1 Y:14.0)"
+                    "Name": "Mining Moogle",
+                    "Url": "/lodestone/playguide/db/npc/npc/4c3116993a2/",
+                    "Area": "The Churning Mists (X:26.6 Y:11.0)"
+                }
+            ]
+        },
+        "Seq": 35,
+        "StartDependency": false
+    },
+    {
+        "ID": "6a1d267aaf3",
+        "Name": " A Monumental Task",
+        "Location": "The Churning Mists",
+        "Level": 50,
+        "JournalSection": 4,
+        "JournalCategory": 35,
+        "JournalGenre": "\n\t\t\t\t\t\t\tMain Quests\n\t\t\t\t\t\t",
+        "Url": "/lodestone/playguide/db/quest/6a1d267aaf3/",
+        "Image": "https://img.finalfantasyxiv.com/lds/pc/global/images/itemicon/e4/e49bbaa6594f76302abf9cc074c5294e557787bb.png?n6.05",
+        "Icon": "function_normal",
+        "Issuer": "Master Mogzin",
+        "StartLocation": {
+            "Name": "The Churning Mists",
+            "X": "15.7",
+            "Y": "28.8"
+        },
+        "StartClass": null,
+        "Job": "",
+        "Company": "Not specified",
+        "Requirement": "Not specified",
+        "Rewards": {
+            "Gil": 1455,
+            "Exp": null,
+            "ItemsMand": [],
+            "ItemsOpt": [
+                {
+                    "Icon": "https://img.finalfantasyxiv.com/lds/pc/global/images/itemicon/05/050fda3f7c55f511b31bda3f9fa0731dcd5a54cb.png?n6.05",
+                    "Name": "Gatherer's Guerdon Materia V",
+                    "Amount": 2,
+                    "Url": "/lodestone/playguide/db/item/b3fa9f1136c/"
                 },
                 {
-                    "Name": "Juvenile Griffin",
-                    "Url": "/lodestone/playguide/db/npc/npc/d28be5b9ddf/",
-                    "Area": "The Fringes (X:20.0 Y:3.9)"
+                    "Icon": "https://img.finalfantasyxiv.com/lds/pc/global/images/itemicon/05/050fda3f7c55f511b31bda3f9fa0731dcd5a54cb.png?n6.05",
+                    "Name": "Gatherer's Grasp Materia V",
+                    "Amount": 2,
+                    "Url": "/lodestone/playguide/db/item/aaf024009df/"
                 },
                 {
-                    "Name": "Juvenile Griffin",
-                    "Url": "/lodestone/playguide/db/npc/npc/5ed24d3c046/",
-                    "Area": "The Fringes (X:18.3 Y:14.1)"
+                    "Icon": "https://img.finalfantasyxiv.com/lds/pc/global/images/itemicon/6c/6c28ac35293bc5cd065ca1da849891b2ff436b18.png?n6.05",
+                    "Name": "Craftsman's Competence Materia V",
+                    "Amount": 2,
+                    "Url": "/lodestone/playguide/db/item/341799aa68e/"
+                }
+            ]
+        },
+        "Infos": {
+            "PrerequisiteQuest": [
+                {
+                    "Name": " The Tools Make the Moogle",
+                    "Url": "/lodestone/playguide/db/quest/5e2ecf15a4b/",
+                    "Area": "The Churning Mists",
+                    "Level": "50"
+                }
+            ],
+            "FollowupQuest": [
+                {
+                    "Name": " Piecing Together the Past",
+                    "Url": "/lodestone/playguide/db/quest/c20fa5bfa9c/",
+                    "Area": "The Churning Mists",
+                    "Level": "50"
+                }
+            ],
+            "RelatedNPC": [
+                {
+                    "Name": "Handeloup",
+                    "Url": "/lodestone/playguide/db/npc/npc/ec3496b94e2/",
+                    "Area": "Foundation (X:13.8 Y:11.2)"
+                },
+                {
+                    "Name": "Vaincannet",
+                    "Url": "/lodestone/playguide/db/npc/npc/5f9a8a545e7/",
+                    "Area": "Foundation (X:13.9 Y:11.4)"
+                },
+                {
+                    "Name": "Mogmul Mogbelly",
+                    "Url": "/lodestone/playguide/db/shop/d1029996df5/",
+                    "Area": "The Churning Mists (X:15.9 Y:28.5)"
+                },
+                {
+                    "Name": "Ohl Deeh",
+                    "Url": "/lodestone/playguide/db/npc/npc/07f2542ec37/",
+                    "Area": "The Churning Mists (X:15.2 Y:28.6)"
+                },
+                {
+                    "Name": "Tarresson",
+                    "Url": "/lodestone/playguide/db/npc/npc/95de84e369a/",
+                    "Area": "The Churning Mists (X:15.6 Y:28.9)"
+                }
+            ]
+        },
+        "Seq": 5,
+        "StartDependency": false
+    },
+    {
+        "ID": "6d2e9b7587e",
+        "Name": " The Milk of Moogle Kindness",
+        "Location": "The Churning Mists",
+        "Level": 50,
+        "JournalSection": 4,
+        "JournalCategory": 35,
+        "JournalGenre": "\n\t\t\t\t\t\t\tMain Quests\n\t\t\t\t\t\t",
+        "Url": "/lodestone/playguide/db/quest/6d2e9b7587e/",
+        "Image": "https://img.finalfantasyxiv.com/lds/pc/global/images/itemicon/41/410ec5fb442c5156ed0815363d3119cf1affff10.png?n6.05",
+        "Icon": "function_normal",
+        "Issuer": "Master Mogzin",
+        "StartLocation": {
+            "Name": "The Churning Mists",
+            "X": "15.7",
+            "Y": "28.8"
+        },
+        "StartClass": null,
+        "Job": "",
+        "Company": "Not specified",
+        "Requirement": "Not specified",
+        "Rewards": {
+            "Gil": 814,
+            "Exp": null,
+            "ItemsMand": [],
+            "ItemsOpt": [
+                {
+                    "Icon": "https://img.finalfantasyxiv.com/lds/pc/global/images/itemicon/63/633fd862144850ca113c67712245acdc6cd80454.png?n6.05",
+                    "Name": "Gatherer's Guerdon Materia IV",
+                    "Amount": 3,
+                    "Url": "/lodestone/playguide/db/item/8b1d678f751/"
+                },
+                {
+                    "Icon": "https://img.finalfantasyxiv.com/lds/pc/global/images/itemicon/63/633fd862144850ca113c67712245acdc6cd80454.png?n6.05",
+                    "Name": "Gatherer's Grasp Materia IV",
+                    "Amount": 3,
+                    "Url": "/lodestone/playguide/db/item/143c7ec25ce/"
+                },
+                {
+                    "Icon": "https://img.finalfantasyxiv.com/lds/pc/global/images/itemicon/db/dbdfccf07fabcc6220a8b0cb3f839ec877699b3c.png?n6.05",
+                    "Name": "Craftsman's Competence Materia IV",
+                    "Amount": 3,
+                    "Url": "/lodestone/playguide/db/item/1ec7fa0ef9d/"
+                }
+            ]
+        },
+        "Infos": {
+            "PrerequisiteQuest": [
+                {
+                    "Name": " Tricks and Stones",
+                    "Url": "/lodestone/playguide/db/quest/2004e9cbf20/",
+                    "Area": "The Churning Mists",
+                    "Level": "50"
+                }
+            ],
+            "FollowupQuest": [
+                {
+                    "Name": " Trying Times",
+                    "Url": "/lodestone/playguide/db/quest/57b94bc91d5/",
+                    "Area": "The Churning Mists",
+                    "Level": "50"
+                }
+            ],
+            "RelatedNPC": [
+                {
+                    "Name": "Master Mogzin",
+                    "Url": "/lodestone/playguide/db/npc/npc/d56f25eedf1/",
+                    "Area": "The Churning Mists (X:20.4 Y:25.9)"
+                },
+                {
+                    "Name": "Master Mogzin",
+                    "Url": "/lodestone/playguide/db/npc/npc/c7f023f13f8/",
+                    "Area": "The Churning Mists (X:20.7 Y:26.0)"
+                },
+                {
+                    "Name": "Master Mogzin",
+                    "Url": "/lodestone/playguide/db/npc/npc/9f11b13470f/",
+                    "Area": "The Churning Mists (X:27.1 Y:23.4)"
+                },
+                {
+                    "Name": "Master Mogzin",
+                    "Url": "/lodestone/playguide/db/npc/npc/b8c0b4566ac/",
+                    "Area": "The Churning Mists (X:15.0 Y:28.7)"
+                },
+                {
+                    "Name": "Moghan",
+                    "Url": "/lodestone/playguide/db/npc/npc/8576e801691/",
+                    "Area": "The Churning Mists (X:30.0 Y:36.4)"
+                },
+                {
+                    "Name": "Mogupp",
+                    "Url": "/lodestone/playguide/db/npc/npc/856faad5cfe/",
+                    "Area": "The Churning Mists (X:20.4 Y:25.9)"
+                },
+                {
+                    "Name": "Mogupp",
+                    "Url": "/lodestone/playguide/db/npc/npc/f99768402b5/",
+                    "Area": "The Churning Mists (X:14.9 Y:28.6)"
+                },
+                {
+                    "Name": "Mogupp",
+                    "Url": "/lodestone/playguide/db/npc/npc/64161ae1a9f/",
+                    "Area": "The Churning Mists (X:15.1 Y:28.5)"
+                },
+                {
+                    "Name": "Moofy Moogle",
+                    "Url": "/lodestone/playguide/db/npc/npc/b80c71816db/",
+                    "Area": "The Churning Mists (X:15.9 Y:29.0)"
+                },
+                {
+                    "Name": "Tarresson",
+                    "Url": "/lodestone/playguide/db/npc/npc/95de84e369a/",
+                    "Area": "The Churning Mists (X:15.6 Y:28.9)"
+                }
+            ]
+        },
+        "Seq": 1,
+        "StartDependency": false
+    },
+    {
+        "ID": "7ccb134f532",
+        "Name": " Journey of a Thousand Hews",
+        "Location": "The Churning Mists",
+        "Level": 50,
+        "JournalSection": 4,
+        "JournalCategory": 35,
+        "JournalGenre": "\n\t\t\t\t\t\t\tDaily Quests\n\t\t\t\t\t\t",
+        "Url": "/lodestone/playguide/db/quest/7ccb134f532/",
+        "Image": null,
+        "Icon": "common_repeat",
+        "Issuer": "Mogek The Marvelous",
+        "StartLocation": {
+            "Name": "The Churning Mists",
+            "X": "15.8",
+            "Y": "28.8"
+        },
+        "StartClass": null,
+        "Job": "",
+        "Company": "Not specified",
+        "Requirement": "Not specified",
+        "Rewards": {
+            "Gil": 839,
+            "Exp": null,
+            "ItemsMand": [
+                {
+                    "Icon": "https://img.finalfantasyxiv.com/lds/pc/global/images/itemicon/0d/0dd4af1f23b8f1d782bacfb905a67b491688414c.png?n6.05",
+                    "Name": "Wind Crystal",
+                    "Amount": 20,
+                    "Url": "/lodestone/playguide/db/item/5db117cd77b/"
+                }
+            ],
+            "ItemsOpt": []
+        },
+        "Infos": {
+            "RelatedNPC": [
+                {
+                    "Name": "Marveling Moogle",
+                    "Url": "/lodestone/playguide/db/npc/npc/efe721e5c4c/",
+                    "Area": "The Churning Mists (X:8.6 Y:36.7)"
+                },
+                {
+                    "Name": "Mongering Moogle",
+                    "Url": "/lodestone/playguide/db/npc/npc/6fa704680e2/",
+                    "Area": "The Churning Mists (X:26.9 Y:36.9)"
+                }
+            ]
+        },
+        "Seq": 28,
+        "StartDependency": false
+    },
+    {
+        "ID": "81b5c4e4b59",
+        "Name": " A Little Pick-me-up",
+        "Location": "The Churning Mists",
+        "Level": 50,
+        "JournalSection": 4,
+        "JournalCategory": 35,
+        "JournalGenre": "\n\t\t\t\t\t\t\tDaily Quests\n\t\t\t\t\t\t",
+        "Url": "/lodestone/playguide/db/quest/81b5c4e4b59/",
+        "Image": null,
+        "Icon": "common_repeat",
+        "Issuer": "Mogek The Marvelous",
+        "StartLocation": {
+            "Name": "The Churning Mists",
+            "X": "15.8",
+            "Y": "28.8"
+        },
+        "StartClass": null,
+        "Job": "",
+        "Company": "Not specified",
+        "Requirement": "Not specified",
+        "Rewards": {
+            "Gil": 572,
+            "Exp": null,
+            "ItemsMand": [
+                {
+                    "Icon": "https://img.finalfantasyxiv.com/lds/pc/global/images/itemicon/16/16cd107e2bd1c45cee59e6b96ef02f2f6f68eac5.png?n6.05",
+                    "Name": "Earth Crystal",
+                    "Amount": 20,
+                    "Url": "/lodestone/playguide/db/item/ff6eae7bdcb/"
+                }
+            ],
+            "ItemsOpt": []
+        },
+        "Infos": {
+            "RelatedNPC": [
+                {
+                    "Name": "Mirthless Moogle",
+                    "Url": "/lodestone/playguide/db/npc/npc/0bee9e40911/",
+                    "Area": "The Churning Mists (X:7.7 Y:31.1)"
+                },
+                {
+                    "Name": "Mirthless Moogle",
+                    "Url": "/lodestone/playguide/db/npc/npc/0b02dfe825e/",
+                    "Area": "The Churning Mists (X:21.6 Y:17.2)"
+                },
+                {
+                    "Name": "Moofy Moogle",
+                    "Url": "/lodestone/playguide/db/npc/npc/b80c71816db/",
+                    "Area": "The Churning Mists (X:15.9 Y:29.0)"
                 }
             ]
         },
         "Seq": 15,
-        "oldID": 68588,
-        "Map": {
-            "ID": 367
+        "StartDependency": false
+    },
+    {
+        "ID": "8da8a05d3a6",
+        "Name": " Deep into the Weeds",
+        "Location": "The Churning Mists",
+        "Level": 50,
+        "JournalSection": 4,
+        "JournalCategory": 35,
+        "JournalGenre": "\n\t\t\t\t\t\t\tDaily Quests\n\t\t\t\t\t\t",
+        "Url": "/lodestone/playguide/db/quest/8da8a05d3a6/",
+        "Image": null,
+        "Icon": "common_repeat",
+        "Issuer": "Mogek The Marvelous",
+        "StartLocation": {
+            "Name": "The Churning Mists",
+            "X": "15.8",
+            "Y": "28.8"
         },
+        "StartClass": null,
+        "Job": "",
+        "Company": "Not specified",
+        "Requirement": "Not specified",
+        "Rewards": {
+            "Gil": 700,
+            "Exp": null,
+            "ItemsMand": [
+                {
+                    "Icon": "https://img.finalfantasyxiv.com/lds/pc/global/images/itemicon/b5/b5eb0d9131d8f735a91286bdf2f877f0495e8235.png?n6.05",
+                    "Name": "Water Crystal",
+                    "Amount": 20,
+                    "Url": "/lodestone/playguide/db/item/44d3f4cb26b/"
+                }
+            ],
+            "ItemsOpt": []
+        },
+        "Infos": {
+            "RelatedNPC": [
+                {
+                    "Name": "Managing Moogle",
+                    "Url": "/lodestone/playguide/db/npc/npc/f1dbc8028cd/",
+                    "Area": "The Churning Mists (X:30.4 Y:34.3)"
+                },
+                {
+                    "Name": "Mendicant Moogle",
+                    "Url": "/lodestone/playguide/db/npc/npc/8c581a272bf/",
+                    "Area": "The Churning Mists (X:30.5 Y:34.1)"
+                },
+                {
+                    "Name": "Sankchinni Shoot",
+                    "Url": "/lodestone/playguide/db/npc/npc/c91954edcfa/",
+                    "Area": "The Churning Mists (X:26.1 Y:32.2)"
+                },
+                {
+                    "Name": "Sankchinni Shoot",
+                    "Url": "/lodestone/playguide/db/npc/npc/651e79e08fd/",
+                    "Area": "The Churning Mists (X:28.1 Y:32.3)"
+                },
+                {
+                    "Name": "Sankchinni Shoot",
+                    "Url": "/lodestone/playguide/db/npc/npc/034d44d8dfd/",
+                    "Area": "The Churning Mists (X:28.9 Y:31.3)"
+                }
+            ]
+        },
+        "Seq": 11,
+        "StartDependency": false
+    },
+    {
+        "ID": "928f5be3d43",
+        "Name": " Ship of Dreams",
+        "Location": "The Churning Mists",
+        "Level": 50,
+        "JournalSection": 4,
+        "JournalCategory": 35,
+        "JournalGenre": "\n\t\t\t\t\t\t\tDaily Quests\n\t\t\t\t\t\t",
+        "Url": "/lodestone/playguide/db/quest/928f5be3d43/",
+        "Image": null,
+        "Icon": "common_repeat",
+        "Issuer": "Mogek The Marvelous",
+        "StartLocation": {
+            "Name": "The Churning Mists",
+            "X": "15.8",
+            "Y": "28.8"
+        },
+        "StartClass": null,
+        "Job": "",
+        "Company": "Not specified",
+        "Requirement": "Not specified",
+        "Rewards": {
+            "Gil": 572,
+            "Exp": null,
+            "ItemsMand": [
+                {
+                    "Icon": "https://img.finalfantasyxiv.com/lds/pc/global/images/itemicon/b5/b5eb0d9131d8f735a91286bdf2f877f0495e8235.png?n6.05",
+                    "Name": "Water Crystal",
+                    "Amount": 20,
+                    "Url": "/lodestone/playguide/db/item/44d3f4cb26b/"
+                }
+            ],
+            "ItemsOpt": []
+        },
+        "Infos": {
+            "RelatedNPC": [
+                {
+                    "Name": "Delighted Dragonet",
+                    "Url": "/lodestone/playguide/db/npc/npc/07dd9fd35ef/",
+                    "Area": "The Churning Mists (X:22.7 Y:16.1)"
+                },
+                {
+                    "Name": "Tense Temple Knight",
+                    "Url": "/lodestone/playguide/db/npc/npc/eed0a6a1b75/",
+                    "Area": "The Churning Mists (X:22.3 Y:16.3)"
+                }
+            ]
+        },
+        "Seq": 29,
+        "StartDependency": false
+    },
+    {
+        "ID": "993bcbc0a6a",
+        "Name": " A Fundamentally Important Task",
+        "Location": "The Churning Mists",
+        "Level": 50,
+        "JournalSection": 4,
+        "JournalCategory": 35,
+        "JournalGenre": "\n\t\t\t\t\t\t\tDaily Quests\n\t\t\t\t\t\t",
+        "Url": "/lodestone/playguide/db/quest/993bcbc0a6a/",
+        "Image": null,
+        "Icon": "common_repeat",
+        "Issuer": "Mogek The Marvelous",
+        "StartLocation": {
+            "Name": "The Churning Mists",
+            "X": "15.8",
+            "Y": "28.8"
+        },
+        "StartClass": null,
+        "Job": "",
+        "Company": "Not specified",
+        "Requirement": "Not specified",
+        "Rewards": {
+            "Gil": 600,
+            "Exp": null,
+            "ItemsMand": [
+                {
+                    "Icon": "https://img.finalfantasyxiv.com/lds/pc/global/images/itemicon/0d/0dd4af1f23b8f1d782bacfb905a67b491688414c.png?n6.05",
+                    "Name": "Wind Crystal",
+                    "Amount": 20,
+                    "Url": "/lodestone/playguide/db/item/5db117cd77b/"
+                }
+            ],
+            "ItemsOpt": []
+        },
+        "Infos": {
+            "RelatedNPC": [
+                {
+                    "Name": "Mindful Moogle",
+                    "Url": "/lodestone/playguide/db/npc/npc/58f884de052/",
+                    "Area": "The Churning Mists (X:14.7 Y:28.6)"
+                },
+                {
+                    "Name": "Minikin Moogle",
+                    "Url": "/lodestone/playguide/db/npc/npc/0c06720312e/",
+                    "Area": "The Churning Mists (X:39.3 Y:26.7)"
+                },
+                {
+                    "Name": "Moiling Moogle",
+                    "Url": "/lodestone/playguide/db/npc/npc/cf55ebaaad6/",
+                    "Area": "The Churning Mists (X:28.8 Y:24.3)"
+                }
+            ]
+        },
+        "Seq": 10,
+        "StartDependency": false
+    },
+    {
+        "ID": "a103a3040d7",
+        "Name": " An Ishgardian Treat",
+        "Location": "The Churning Mists",
+        "Level": 50,
+        "JournalSection": 4,
+        "JournalCategory": 35,
+        "JournalGenre": "\n\t\t\t\t\t\t\tDaily Quests\n\t\t\t\t\t\t",
+        "Url": "/lodestone/playguide/db/quest/a103a3040d7/",
+        "Image": null,
+        "Icon": "common_repeat",
+        "Issuer": "Mogek The Marvelous",
+        "StartLocation": {
+            "Name": "The Churning Mists",
+            "X": "15.8",
+            "Y": "28.8"
+        },
+        "StartClass": null,
+        "Job": "",
+        "Company": "Not specified",
+        "Requirement": "Not specified",
+        "Rewards": {
+            "Gil": 617,
+            "Exp": null,
+            "ItemsMand": [
+                {
+                    "Icon": "https://img.finalfantasyxiv.com/lds/pc/global/images/itemicon/0d/0dd4af1f23b8f1d782bacfb905a67b491688414c.png?n6.05",
+                    "Name": "Wind Crystal",
+                    "Amount": 20,
+                    "Url": "/lodestone/playguide/db/item/5db117cd77b/"
+                }
+            ],
+            "ItemsOpt": []
+        },
+        "Infos": {
+            "RelatedNPC": [
+                {
+                    "Name": "Hildeth",
+                    "Url": "/lodestone/playguide/db/npc/npc/a623f746909/",
+                    "Area": "The Churning Mists (X:15.0 Y:28.9)"
+                },
+                {
+                    "Name": "Mobilized Moogle",
+                    "Url": "/lodestone/playguide/db/npc/npc/1da4d3ffc9d/",
+                    "Area": "The Churning Mists (X:20.1 Y:25.8)"
+                },
+                {
+                    "Name": "Mogwon",
+                    "Url": "/lodestone/playguide/db/npc/npc/934aa14e47d/",
+                    "Area": "The Churning Mists (X:21.0 Y:25.7)"
+                },
+                {
+                    "Name": "Motivated Moogle",
+                    "Url": "/lodestone/playguide/db/npc/npc/7cacee65ab6/",
+                    "Area": "The Churning Mists (X:14.9 Y:28.1)"
+                }
+            ]
+        },
+        "Seq": 34,
+        "StartDependency": false
+    },
+    {
+        "ID": "b3918f68618",
+        "Name": " For Moogles in Peril",
+        "Location": "The Churning Mists",
+        "Level": 50,
+        "JournalSection": 4,
+        "JournalCategory": 35,
+        "JournalGenre": "\n\t\t\t\t\t\t\tDaily Quests\n\t\t\t\t\t\t",
+        "Url": "/lodestone/playguide/db/quest/b3918f68618/",
+        "Image": null,
+        "Icon": "common_repeat",
+        "Issuer": "Mogek The Marvelous",
+        "StartLocation": {
+            "Name": "The Churning Mists",
+            "X": "15.8",
+            "Y": "28.8"
+        },
+        "StartClass": null,
+        "Job": "",
+        "Company": "Not specified",
+        "Requirement": "Not specified",
+        "Rewards": {
+            "Gil": 472,
+            "Exp": null,
+            "ItemsMand": [
+                {
+                    "Icon": "https://img.finalfantasyxiv.com/lds/pc/global/images/itemicon/d9/d9a4b77a07bb95bf2713ae233a0eececdf211e8b.png?n6.05",
+                    "Name": "Fire Crystal",
+                    "Amount": 20,
+                    "Url": "/lodestone/playguide/db/item/75403105d7f/"
+                }
+            ],
+            "ItemsOpt": []
+        },
+        "Infos": {
+            "RelatedNPC": [
+                {
+                    "Name": "Dextrous Dragonet",
+                    "Url": "/lodestone/playguide/db/npc/npc/dda8dc04341/",
+                    "Area": "The Churning Mists (X:15.4 Y:28.5)"
+                },
+                {
+                    "Name": "Timorous Moogle",
+                    "Url": "/lodestone/playguide/db/npc/npc/5ed95946ab7/",
+                    "Area": "The Churning Mists (X:28.6 Y:24.7)"
+                },
+                {
+                    "Name": "Timorous Moogle",
+                    "Url": "/lodestone/playguide/db/npc/npc/53fca0403bd/",
+                    "Area": "The Churning Mists (X:31.1 Y:24.8)"
+                },
+                {
+                    "Name": "Timorous Moogle",
+                    "Url": "/lodestone/playguide/db/npc/npc/f504cd233d2/",
+                    "Area": "The Churning Mists (X:30.3 Y:27.6)"
+                }
+            ]
+        },
+        "Seq": 20,
+        "StartDependency": false
+    },
+    {
+        "ID": "b67d286be2f",
+        "Name": " The Negotiator",
+        "Location": "The Churning Mists",
+        "Level": 50,
+        "JournalSection": 4,
+        "JournalCategory": 35,
+        "JournalGenre": "\n\t\t\t\t\t\t\tDaily Quests\n\t\t\t\t\t\t",
+        "Url": "/lodestone/playguide/db/quest/b67d286be2f/",
+        "Image": null,
+        "Icon": "common_repeat",
+        "Issuer": "Mogek The Marvelous",
+        "StartLocation": {
+            "Name": "The Churning Mists",
+            "X": "15.8",
+            "Y": "28.8"
+        },
+        "StartClass": null,
+        "Job": "",
+        "Company": "Not specified",
+        "Requirement": "Not specified",
+        "Rewards": {
+            "Gil": 517,
+            "Exp": null,
+            "ItemsMand": [
+                {
+                    "Icon": "https://img.finalfantasyxiv.com/lds/pc/global/images/itemicon/16/16cd107e2bd1c45cee59e6b96ef02f2f6f68eac5.png?n6.05",
+                    "Name": "Earth Crystal",
+                    "Amount": 20,
+                    "Url": "/lodestone/playguide/db/item/ff6eae7bdcb/"
+                }
+            ],
+            "ItemsOpt": []
+        },
+        "Infos": {
+            "RelatedNPC": [
+                {
+                    "Name": "Daunting Dragon",
+                    "Url": "/lodestone/playguide/db/npc/npc/ab8bca10183/",
+                    "Area": "The Churning Mists (X:9.3 Y:25.5)"
+                },
+                {
+                    "Name": "Disgruntled Dragon",
+                    "Url": "/lodestone/playguide/db/npc/npc/b714788f842/",
+                    "Area": "The Churning Mists (X:9.1 Y:25.7)"
+                },
+                {
+                    "Name": "Helpmeet Moogle",
+                    "Url": "/lodestone/playguide/db/npc/npc/a7b25693e48/",
+                    "Area": "The Churning Mists (X:9.3 Y:25.7)"
+                },
+                {
+                    "Name": "Mediating Moogle",
+                    "Url": "/lodestone/playguide/db/npc/npc/1428f9788c0/",
+                    "Area": "The Churning Mists (X:8.8 Y:25.8)"
+                }
+            ]
+        },
+        "Seq": 21,
+        "StartDependency": false
+    },
+    {
+        "ID": "bd38c40c560",
+        "Name": " Let There Be Light",
+        "Location": "The Churning Mists",
+        "Level": 50,
+        "JournalSection": 4,
+        "JournalCategory": 35,
+        "JournalGenre": "\n\t\t\t\t\t\t\tDaily Quests\n\t\t\t\t\t\t",
+        "Url": "/lodestone/playguide/db/quest/bd38c40c560/",
+        "Image": null,
+        "Icon": "common_repeat",
+        "Issuer": "Mogek The Marvelous",
+        "StartLocation": {
+            "Name": "The Churning Mists",
+            "X": "15.8",
+            "Y": "28.8"
+        },
+        "StartClass": null,
+        "Job": "",
+        "Company": "Not specified",
+        "Requirement": "Not specified",
+        "Rewards": {
+            "Gil": 572,
+            "Exp": null,
+            "ItemsMand": [
+                {
+                    "Icon": "https://img.finalfantasyxiv.com/lds/pc/global/images/itemicon/5d/5dd42eb2385a5e0d158b8fa81b63a09e4b25c821.png?n6.05",
+                    "Name": "Lightning Crystal",
+                    "Amount": 20,
+                    "Url": "/lodestone/playguide/db/item/b21a951916e/"
+                }
+            ],
+            "ItemsOpt": []
+        },
+        "Infos": {
+            "RelatedNPC": [
+                {
+                    "Name": "Dextrous Dragonet",
+                    "Url": "/lodestone/playguide/db/npc/npc/dda8dc04341/",
+                    "Area": "The Churning Mists (X:15.4 Y:28.5)"
+                },
+                {
+                    "Name": "Mystified Moogle",
+                    "Url": "/lodestone/playguide/db/npc/npc/86cff9afa42/",
+                    "Area": "The Churning Mists (X:33.5 Y:14.7)"
+                }
+            ]
+        },
+        "Seq": 24,
+        "StartDependency": false
+    },
+    {
+        "ID": "bd7300250a4",
+        "Name": " A Fine Finish",
+        "Location": "The Churning Mists",
+        "Level": 50,
+        "JournalSection": 4,
+        "JournalCategory": 35,
+        "JournalGenre": "\n\t\t\t\t\t\t\tDaily Quests\n\t\t\t\t\t\t",
+        "Url": "/lodestone/playguide/db/quest/bd7300250a4/",
+        "Image": null,
+        "Icon": "common_repeat",
+        "Issuer": "Mogek The Marvelous",
+        "StartLocation": {
+            "Name": "The Churning Mists",
+            "X": "15.8",
+            "Y": "28.8"
+        },
+        "StartClass": null,
+        "Job": "",
+        "Company": "Not specified",
+        "Requirement": "Not specified",
+        "Rewards": {
+            "Gil": 600,
+            "Exp": null,
+            "ItemsMand": [
+                {
+                    "Icon": "https://img.finalfantasyxiv.com/lds/pc/global/images/itemicon/0d/0dd4af1f23b8f1d782bacfb905a67b491688414c.png?n6.05",
+                    "Name": "Wind Crystal",
+                    "Amount": 20,
+                    "Url": "/lodestone/playguide/db/item/5db117cd77b/"
+                }
+            ],
+            "ItemsOpt": []
+        },
+        "Infos": {
+            "RelatedNPC": [
+                {
+                    "Name": "Moping Moogle",
+                    "Url": "/lodestone/playguide/db/npc/npc/4fc6b11eee3/",
+                    "Area": "The Churning Mists (X:33.6 Y:14.8)"
+                },
+                {
+                    "Name": "Mosaicist Moogle",
+                    "Url": "/lodestone/playguide/db/npc/npc/1aaf2d020dd/",
+                    "Area": "The Churning Mists (X:33.7 Y:15.1)"
+                }
+            ]
+        },
+        "Seq": 16,
+        "StartDependency": false
+    },
+    {
+        "ID": "bd951163e63",
+        "Name": " With a Little Help",
+        "Location": "The Churning Mists",
+        "Level": 50,
+        "JournalSection": 4,
+        "JournalCategory": 35,
+        "JournalGenre": "\n\t\t\t\t\t\t\tDaily Quests\n\t\t\t\t\t\t",
+        "Url": "/lodestone/playguide/db/quest/bd951163e63/",
+        "Image": null,
+        "Icon": "common_repeat",
+        "Issuer": "Mogek The Marvelous",
+        "StartLocation": {
+            "Name": "The Churning Mists",
+            "X": "15.8",
+            "Y": "28.8"
+        },
+        "StartClass": null,
+        "Job": "",
+        "Company": "Not specified",
+        "Requirement": "Not specified",
+        "Rewards": {
+            "Gil": 517,
+            "Exp": null,
+            "ItemsMand": [
+                {
+                    "Icon": "https://img.finalfantasyxiv.com/lds/pc/global/images/itemicon/d9/d9a4b77a07bb95bf2713ae233a0eececdf211e8b.png?n6.05",
+                    "Name": "Fire Crystal",
+                    "Amount": 20,
+                    "Url": "/lodestone/playguide/db/item/75403105d7f/"
+                }
+            ],
+            "ItemsOpt": []
+        },
+        "Infos": {
+            "RelatedNPC": [
+                {
+                    "Name": "Mentee Moogle",
+                    "Url": "/lodestone/playguide/db/npc/npc/85f790e86c3/",
+                    "Area": "The Churning Mists (X:21.8 Y:25.8)"
+                },
+                {
+                    "Name": "Mentee Moogle",
+                    "Url": "/lodestone/playguide/db/npc/npc/d3b1b3906a3/",
+                    "Area": "The Churning Mists (X:20.4 Y:26.4)"
+                },
+                {
+                    "Name": "Mentee Moogle",
+                    "Url": "/lodestone/playguide/db/npc/npc/ced73ad297b/",
+                    "Area": "The Churning Mists (X:20.3 Y:27.5)"
+                },
+                {
+                    "Name": "Moguppo",
+                    "Url": "/lodestone/playguide/db/npc/npc/621fccb892e/",
+                    "Area": "The Churning Mists (X:21.4 Y:25.7)"
+                },
+                {
+                    "Name": "Mogwon",
+                    "Url": "/lodestone/playguide/db/npc/npc/934aa14e47d/",
+                    "Area": "The Churning Mists (X:21.0 Y:25.7)"
+                }
+            ]
+        },
+        "Seq": 8,
+        "StartDependency": false
+    },
+    {
+        "ID": "c20fa5bfa9c",
+        "Name": " Piecing Together the Past",
+        "Location": "The Churning Mists",
+        "Level": 50,
+        "JournalSection": 4,
+        "JournalCategory": 35,
+        "JournalGenre": "\n\t\t\t\t\t\t\tMain Quests\n\t\t\t\t\t\t",
+        "Url": "/lodestone/playguide/db/quest/c20fa5bfa9c/",
+        "Image": "https://img.finalfantasyxiv.com/lds/pc/global/images/itemicon/55/55d44c059218aadbfc7c2a26b5fa9812c2c24ef5.png?n6.05",
+        "Icon": "function_normal",
+        "Issuer": "Master Mogzin",
+        "StartLocation": {
+            "Name": "The Churning Mists",
+            "X": "15.7",
+            "Y": "28.8"
+        },
+        "StartClass": null,
+        "Job": "",
+        "Company": "Not specified",
+        "Requirement": "Not specified",
+        "Rewards": {
+            "Gil": 1044,
+            "Exp": null,
+            "ItemsMand": [
+                {
+                    "Icon": "https://img.finalfantasyxiv.com/lds/pc/global/images/itemicon/a7/a7da0de44dacf6ee851cd882b095f8a0a335e189.png?n6.05",
+                    "Name": "",
+                    "Amount": null
+                }
+            ],
+            "ItemsOpt": [
+                {
+                    "Icon": "https://img.finalfantasyxiv.com/lds/pc/global/images/itemicon/6c/6c28ac35293bc5cd065ca1da849891b2ff436b18.png?n6.05",
+                    "Name": "Craftsman's Command Materia V",
+                    "Amount": 2,
+                    "Url": "/lodestone/playguide/db/item/5275c679fe1/"
+                },
+                {
+                    "Icon": "https://img.finalfantasyxiv.com/lds/pc/global/images/itemicon/6c/6c28ac35293bc5cd065ca1da849891b2ff436b18.png?n6.05",
+                    "Name": "Craftsman's Cunning Materia V",
+                    "Amount": 2,
+                    "Url": "/lodestone/playguide/db/item/1c7d17024e6/"
+                },
+                {
+                    "Icon": "https://img.finalfantasyxiv.com/lds/pc/global/images/itemicon/05/050fda3f7c55f511b31bda3f9fa0731dcd5a54cb.png?n6.05",
+                    "Name": "Gatherer's Guile Materia V",
+                    "Amount": 2,
+                    "Url": "/lodestone/playguide/db/item/495ec449b8e/"
+                }
+            ]
+        },
+        "Infos": {
+            "PrerequisiteQuest": [
+                {
+                    "Name": " A Monumental Task",
+                    "Url": "/lodestone/playguide/db/quest/6a1d267aaf3/",
+                    "Area": "The Churning Mists",
+                    "Level": "50"
+                }
+            ],
+            "FollowupQuest": [
+                {
+                    "Name": "The Zenith of Craftsmanship",
+                    "Url": "/lodestone/playguide/db/quest/cf15b759857/",
+                    "Area": "The Churning Mists",
+                    "Level": "50"
+                }
+            ],
+            "RelatedNPC": [
+                {
+                    "Name": "Master Mogzin",
+                    "Url": "/lodestone/playguide/db/npc/npc/5512c521b48/",
+                    "Area": "The Churning Mists (X:15.0 Y:29.3)"
+                },
+                {
+                    "Name": "Master Mogzin",
+                    "Url": "/lodestone/playguide/db/npc/npc/11d2ace5fa5/",
+                    "Area": "The Churning Mists (X:14.8 Y:28.5)"
+                },
+                {
+                    "Name": "Mogmul Mogbelly",
+                    "Url": "/lodestone/playguide/db/shop/d1029996df5/",
+                    "Area": "The Churning Mists (X:15.9 Y:28.5)"
+                },
+                {
+                    "Name": "Ohl Deeh",
+                    "Url": "/lodestone/playguide/db/npc/npc/07f2542ec37/",
+                    "Area": "The Churning Mists (X:15.2 Y:28.6)"
+                },
+                {
+                    "Name": "Ohl Deeh",
+                    "Url": "/lodestone/playguide/db/npc/npc/6323e1f350e/",
+                    "Area": "The Churning Mists (X:15.1 Y:29.3)"
+                },
+                {
+                    "Name": "Tarresson",
+                    "Url": "/lodestone/playguide/db/npc/npc/95de84e369a/",
+                    "Area": "The Churning Mists (X:15.6 Y:28.9)"
+                },
+                {
+                    "Name": "Tarresson",
+                    "Url": "/lodestone/playguide/db/npc/npc/460fa6f4ce1/",
+                    "Area": "The Churning Mists (X:15.1 Y:29.3)"
+                },
+                {
+                    "Name": "Vidofnir",
+                    "Url": "/lodestone/playguide/db/npc/npc/40cd529c034/",
+                    "Area": "The Dravanian Forelands (X:16.8 Y:23.6)"
+                }
+            ]
+        },
+        "Seq": 6,
+        "StartDependency": false
+    },
+    {
+        "ID": "c4f1211947b",
+        "Name": " Dragon Draff for Their Behalf",
+        "Location": "The Churning Mists",
+        "Level": 50,
+        "JournalSection": 4,
+        "JournalCategory": 35,
+        "JournalGenre": "\n\t\t\t\t\t\t\tDaily Quests\n\t\t\t\t\t\t",
+        "Url": "/lodestone/playguide/db/quest/c4f1211947b/",
+        "Image": null,
+        "Icon": "common_repeat",
+        "Issuer": "Mogek The Marvelous",
+        "StartLocation": {
+            "Name": "The Churning Mists",
+            "X": "15.8",
+            "Y": "28.8"
+        },
+        "StartClass": null,
+        "Job": "",
+        "Company": "Not specified",
+        "Requirement": "Not specified",
+        "Rewards": {
+            "Gil": 572,
+            "Exp": null,
+            "ItemsMand": [
+                {
+                    "Icon": "https://img.finalfantasyxiv.com/lds/pc/global/images/itemicon/a7/a71da2eb489188dbbfadd582938a0e761a9a0585.png?n6.05",
+                    "Name": "Ice Crystal",
+                    "Amount": 20,
+                    "Url": "/lodestone/playguide/db/item/2d800a06851/"
+                }
+            ],
+            "ItemsOpt": []
+        },
+        "Infos": {
+            "RelatedNPC": [
+                {
+                    "Name": "Managerial Moogle",
+                    "Url": "/lodestone/playguide/db/npc/npc/aaebd5340bb/",
+                    "Area": "The Churning Mists (X:5.7 Y:32.1)"
+                },
+                {
+                    "Name": "Modest Moogle",
+                    "Url": "/lodestone/playguide/db/npc/npc/5d482433767/",
+                    "Area": "The Churning Mists (X:5.8 Y:31.7)"
+                },
+                {
+                    "Name": "Twitching Wyvern",
+                    "Url": "/lodestone/playguide/db/npc/npc/6cc13c4c845/",
+                    "Area": "The Churning Mists (X:5.6 Y:32.1)"
+                }
+            ]
+        },
+        "Seq": 31,
+        "StartDependency": false
+    },
+    {
+        "ID": "ce3e02fc330",
+        "Name": " Back to the Drawing Board",
+        "Location": "The Churning Mists",
+        "Level": 50,
+        "JournalSection": 4,
+        "JournalCategory": 35,
+        "JournalGenre": "\n\t\t\t\t\t\t\tDaily Quests\n\t\t\t\t\t\t",
+        "Url": "/lodestone/playguide/db/quest/ce3e02fc330/",
+        "Image": null,
+        "Icon": "common_repeat",
+        "Issuer": "Mogek The Marvelous",
+        "StartLocation": {
+            "Name": "The Churning Mists",
+            "X": "15.8",
+            "Y": "28.8"
+        },
+        "StartClass": null,
+        "Job": "",
+        "Company": "Not specified",
+        "Requirement": "Not specified",
+        "Rewards": {
+            "Gil": 628,
+            "Exp": null,
+            "ItemsMand": [
+                {
+                    "Icon": "https://img.finalfantasyxiv.com/lds/pc/global/images/itemicon/0d/0dd4af1f23b8f1d782bacfb905a67b491688414c.png?n6.05",
+                    "Name": "Wind Crystal",
+                    "Amount": 20,
+                    "Url": "/lodestone/playguide/db/item/5db117cd77b/"
+                }
+            ],
+            "ItemsOpt": []
+        },
+        "Infos": {
+            "RelatedNPC": [
+                {
+                    "Name": "Helpmeet Moogle",
+                    "Url": "/lodestone/playguide/db/npc/npc/18c7d5a1e6b/",
+                    "Area": "The Churning Mists (X:20.3 Y:16.1)"
+                },
+                {
+                    "Name": "Masterful Moogle",
+                    "Url": "/lodestone/playguide/db/npc/npc/875fd4eb14c/",
+                    "Area": "The Churning Mists (X:20.6 Y:16.5)"
+                },
+                {
+                    "Name": "Miffed Moogle",
+                    "Url": "/lodestone/playguide/db/npc/npc/2d420f655b0/",
+                    "Area": "The Churning Mists (X:19.9 Y:16.2)"
+                }
+            ]
+        },
+        "Seq": 22,
+        "StartDependency": false
+    },
+    {
+        "ID": "cf15b759857",
+        "Name": "The Zenith of Craftsmanship",
+        "Location": "The Churning Mists",
+        "Level": 50,
+        "JournalSection": 4,
+        "JournalCategory": 35,
+        "JournalGenre": "\n\t\t\t\t\t\t\tMain Quests\n\t\t\t\t\t\t",
+        "Url": "/lodestone/playguide/db/quest/cf15b759857/",
+        "Image": null,
+        "Icon": "function_normal",
+        "Issuer": "Master Mogzin",
+        "StartLocation": {
+            "Name": "The Churning Mists",
+            "X": "15.7",
+            "Y": "28.8"
+        },
+        "StartClass": null,
+        "Job": "",
+        "Company": "Not specified",
+        "Requirement": "Not specified",
+        "Rewards": {
+            "Gil": 0,
+            "Exp": 0,
+            "ItemsMand": [],
+            "ItemsOpt": []
+        },
+        "Infos": {
+            "PrerequisiteQuest": [
+                {
+                    "Name": " Piecing Together the Past",
+                    "Url": "/lodestone/playguide/db/quest/c20fa5bfa9c/",
+                    "Area": "The Churning Mists",
+                    "Level": "50"
+                }
+            ],
+            "RelatedNPC": [
+                {
+                    "Name": "Ohl Deeh",
+                    "Url": "/lodestone/playguide/db/npc/npc/07f2542ec37/",
+                    "Area": "The Churning Mists (X:15.2 Y:28.6)"
+                },
+                {
+                    "Name": "Tarresson",
+                    "Url": "/lodestone/playguide/db/npc/npc/95de84e369a/",
+                    "Area": "The Churning Mists (X:15.6 Y:28.9)"
+                }
+            ]
+        },
+        "Seq": 7,
+        "StartDependency": false
+    },
+    {
+        "ID": "cfc20dcca2d",
+        "Name": " Stirring by Sternutation",
+        "Location": "The Churning Mists",
+        "Level": 50,
+        "JournalSection": 4,
+        "JournalCategory": 35,
+        "JournalGenre": "\n\t\t\t\t\t\t\tDaily Quests\n\t\t\t\t\t\t",
+        "Url": "/lodestone/playguide/db/quest/cfc20dcca2d/",
+        "Image": null,
+        "Icon": "common_repeat",
+        "Issuer": "Mogek The Marvelous",
+        "StartLocation": {
+            "Name": "The Churning Mists",
+            "X": "15.8",
+            "Y": "28.8"
+        },
+        "StartClass": null,
+        "Job": "",
+        "Company": "Not specified",
+        "Requirement": "Not specified",
+        "Rewards": {
+            "Gil": 461,
+            "Exp": null,
+            "ItemsMand": [
+                {
+                    "Icon": "https://img.finalfantasyxiv.com/lds/pc/global/images/itemicon/5d/5dd42eb2385a5e0d158b8fa81b63a09e4b25c821.png?n6.05",
+                    "Name": "Lightning Crystal",
+                    "Amount": 20,
+                    "Url": "/lodestone/playguide/db/item/b21a951916e/"
+                }
+            ],
+            "ItemsOpt": []
+        },
+        "Infos": {
+            "RelatedNPC": [
+                {
+                    "Name": "Dozing Dragon",
+                    "Url": "/lodestone/playguide/db/npc/npc/967450d0053/",
+                    "Area": "The Churning Mists (X:15.0 Y:22.0)"
+                },
+                {
+                    "Name": "Dreaming Dragon",
+                    "Url": "/lodestone/playguide/db/npc/npc/55c94bccfd9/",
+                    "Area": "The Churning Mists (X:21.4 Y:20.1)"
+                },
+                {
+                    "Name": "Drowsy Dragon",
+                    "Url": "/lodestone/playguide/db/npc/npc/fd2a8d17c13/",
+                    "Area": "The Churning Mists (X:12.8 Y:25.7)"
+                },
+                {
+                    "Name": "Meek Moogle",
+                    "Url": "/lodestone/playguide/db/npc/npc/41043699786/",
+                    "Area": "The Churning Mists (X:12.7 Y:25.8)"
+                },
+                {
+                    "Name": "Meek Moogle",
+                    "Url": "/lodestone/playguide/db/npc/npc/419363cd55c/",
+                    "Area": "The Churning Mists (X:14.9 Y:22.1)"
+                },
+                {
+                    "Name": "Meek Moogle",
+                    "Url": "/lodestone/playguide/db/npc/npc/fa97f123ca7/",
+                    "Area": "The Churning Mists (X:21.5 Y:20.2)"
+                },
+                {
+                    "Name": "Moofy Moogle",
+                    "Url": "/lodestone/playguide/db/npc/npc/b80c71816db/",
+                    "Area": "The Churning Mists (X:15.9 Y:29.0)"
+                }
+            ]
+        },
+        "Seq": 30,
+        "StartDependency": false
+    },
+    {
+        "ID": "de320996ece",
+        "Name": " Tricks without Treats",
+        "Location": "The Churning Mists",
+        "Level": 50,
+        "JournalSection": 4,
+        "JournalCategory": 35,
+        "JournalGenre": "\n\t\t\t\t\t\t\tDaily Quests\n\t\t\t\t\t\t",
+        "Url": "/lodestone/playguide/db/quest/de320996ece/",
+        "Image": null,
+        "Icon": "common_repeat",
+        "Issuer": "Mogek The Marvelous",
+        "StartLocation": {
+            "Name": "The Churning Mists",
+            "X": "15.8",
+            "Y": "28.8"
+        },
+        "StartClass": null,
+        "Job": "",
+        "Company": "Not specified",
+        "Requirement": "Not specified",
+        "Rewards": {
+            "Gil": 600,
+            "Exp": null,
+            "ItemsMand": [
+                {
+                    "Icon": "https://img.finalfantasyxiv.com/lds/pc/global/images/itemicon/a7/a71da2eb489188dbbfadd582938a0e761a9a0585.png?n6.05",
+                    "Name": "Ice Crystal",
+                    "Amount": 20,
+                    "Url": "/lodestone/playguide/db/item/2d800a06851/"
+                }
+            ],
+            "ItemsOpt": []
+        },
+        "Infos": {
+            "RelatedNPC": [
+                {
+                    "Name": "Hildeth",
+                    "Url": "/lodestone/playguide/db/npc/npc/a623f746909/",
+                    "Area": "The Churning Mists (X:15.0 Y:28.9)"
+                },
+                {
+                    "Name": "Temple Knight Sapper",
+                    "Url": "/lodestone/playguide/db/npc/npc/250a4734075/",
+                    "Area": "The Churning Mists (X:15.0 Y:28.9)"
+                },
+                {
+                    "Name": "Temple Knight Sapper",
+                    "Url": "/lodestone/playguide/db/npc/npc/6723c7b630f/",
+                    "Area": "The Churning Mists (X:24.8 Y:25.9)"
+                }
+            ]
+        },
+        "Seq": 19,
+        "StartDependency": false
+    },
+    {
+        "ID": "e2863fc72d6",
+        "Name": " Work That Mallow",
+        "Location": "The Churning Mists",
+        "Level": 50,
+        "JournalSection": 4,
+        "JournalCategory": 35,
+        "JournalGenre": "\n\t\t\t\t\t\t\tDaily Quests\n\t\t\t\t\t\t",
+        "Url": "/lodestone/playguide/db/quest/e2863fc72d6/",
+        "Image": null,
+        "Icon": "common_repeat",
+        "Issuer": "Mogek The Marvelous",
+        "StartLocation": {
+            "Name": "The Churning Mists",
+            "X": "15.8",
+            "Y": "28.8"
+        },
+        "StartClass": null,
+        "Job": "",
+        "Company": "Not specified",
+        "Requirement": "Not specified",
+        "Rewards": {
+            "Gil": 700,
+            "Exp": null,
+            "ItemsMand": [
+                {
+                    "Icon": "https://img.finalfantasyxiv.com/lds/pc/global/images/itemicon/d9/d9a4b77a07bb95bf2713ae233a0eececdf211e8b.png?n6.05",
+                    "Name": "Fire Crystal",
+                    "Amount": 20,
+                    "Url": "/lodestone/playguide/db/item/75403105d7f/"
+                }
+            ],
+            "ItemsOpt": []
+        },
+        "Infos": {
+            "RelatedNPC": [
+                {
+                    "Name": "Malcontent Moogle",
+                    "Url": "/lodestone/playguide/db/npc/npc/75f6e693fba/",
+                    "Area": "The Churning Mists (X:31.6 Y:36.0)"
+                },
+                {
+                    "Name": "Mournful Moogle",
+                    "Url": "/lodestone/playguide/db/npc/npc/3428f22e7e9/",
+                    "Area": "The Churning Mists (X:31.4 Y:35.6)"
+                }
+            ]
+        },
+        "Seq": 14,
+        "StartDependency": false
+    },
+    {
+        "ID": "f5d4ccef522",
+        "Name": " Kupo for Kupo Nuts",
+        "Location": "The Churning Mists",
+        "Level": 50,
+        "JournalSection": 4,
+        "JournalCategory": 35,
+        "JournalGenre": "\n\t\t\t\t\t\t\tDaily Quests\n\t\t\t\t\t\t",
+        "Url": "/lodestone/playguide/db/quest/f5d4ccef522/",
+        "Image": null,
+        "Icon": "common_repeat",
+        "Issuer": "Mogek The Marvelous",
+        "StartLocation": {
+            "Name": "The Churning Mists",
+            "X": "15.8",
+            "Y": "28.8"
+        },
+        "StartClass": null,
+        "Job": "",
+        "Company": "Not specified",
+        "Requirement": "Not specified",
+        "Rewards": {
+            "Gil": 700,
+            "Exp": null,
+            "ItemsMand": [
+                {
+                    "Icon": "https://img.finalfantasyxiv.com/lds/pc/global/images/itemicon/a7/a71da2eb489188dbbfadd582938a0e761a9a0585.png?n6.05",
+                    "Name": "Ice Crystal",
+                    "Amount": 20,
+                    "Url": "/lodestone/playguide/db/item/2d800a06851/"
+                }
+            ],
+            "ItemsOpt": []
+        },
+        "Infos": {
+            "RelatedNPC": [
+                {
+                    "Name": "Meager Moogle",
+                    "Url": "/lodestone/playguide/db/npc/npc/524754bff0a/",
+                    "Area": "The Churning Mists (X:32.2 Y:36.8)"
+                },
+                {
+                    "Name": "Mellow Moogle",
+                    "Url": "/lodestone/playguide/db/npc/npc/8114023b5b9/",
+                    "Area": "The Churning Mists (X:27.6 Y:35.3)"
+                },
+                {
+                    "Name": "Mindless Moogle",
+                    "Url": "/lodestone/playguide/db/npc/npc/5ec40778ed9/",
+                    "Area": "The Churning Mists (X:28.4 Y:36.0)"
+                },
+                {
+                    "Name": "Musing Moogle",
+                    "Url": "/lodestone/playguide/db/npc/npc/ee49a23e72f/",
+                    "Area": "The Churning Mists (X:31.5 Y:35.5)"
+                }
+            ]
+        },
+        "Seq": 13,
+        "StartDependency": false
+    },
+    {
+        "ID": "fb9fdc2c42d",
+        "Name": " Tremble Finishing",
+        "Location": "The Churning Mists",
+        "Level": 50,
+        "JournalSection": 4,
+        "JournalCategory": 35,
+        "JournalGenre": "\n\t\t\t\t\t\t\tDaily Quests\n\t\t\t\t\t\t",
+        "Url": "/lodestone/playguide/db/quest/fb9fdc2c42d/",
+        "Image": null,
+        "Icon": "common_repeat",
+        "Issuer": "Mogek The Marvelous",
+        "StartLocation": {
+            "Name": "The Churning Mists",
+            "X": "15.8",
+            "Y": "28.8"
+        },
+        "StartClass": null,
+        "Job": "",
+        "Company": "Not specified",
+        "Requirement": "Not specified",
+        "Rewards": {
+            "Gil": 600,
+            "Exp": null,
+            "ItemsMand": [
+                {
+                    "Icon": "https://img.finalfantasyxiv.com/lds/pc/global/images/itemicon/a7/a71da2eb489188dbbfadd582938a0e761a9a0585.png?n6.05",
+                    "Name": "Ice Crystal",
+                    "Amount": 20,
+                    "Url": "/lodestone/playguide/db/item/2d800a06851/"
+                }
+            ],
+            "ItemsOpt": []
+        },
+        "Infos": {
+            "RelatedNPC": [
+                {
+                    "Name": "Dextrous Dragonet",
+                    "Url": "/lodestone/playguide/db/npc/npc/dda8dc04341/",
+                    "Area": "The Churning Mists (X:15.4 Y:28.5)"
+                },
+                {
+                    "Name": "Monitoring Moogle",
+                    "Url": "/lodestone/playguide/db/npc/npc/efb00e3dc59/",
+                    "Area": "The Churning Mists (X:19.0 Y:23.6)"
+                },
+                {
+                    "Name": "Monitoring Moogle",
+                    "Url": "/lodestone/playguide/db/npc/npc/64266c3eba8/",
+                    "Area": "The Churning Mists (X:16.1 Y:8.4)"
+                }
+            ]
+        },
+        "Seq": 37,
         "StartDependency": false
     }
 ]

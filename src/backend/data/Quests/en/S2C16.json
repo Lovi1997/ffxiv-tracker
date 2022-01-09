@@ -1,27 +1,27 @@
 [
     {
-        "ID": "766bb92612a",
-        "Name": "Freedom for Our Skies",
-        "Location": "The Parrock",
+        "ID": "40020a8a0b5",
+        "Name": "A Fiendish Likeness",
+        "Location": "The Rising Stones",
         "Level": 60,
         "JournalSection": 2,
         "JournalCategory": 16,
-        "JournalGenre": "Chronicles of a New Era - The Shadow of Mhach",
-        "Url": "/lodestone/playguide/db/quest/766bb92612a/",
-        "Image": "https://img.finalfantasyxiv.com/lds/pc/global/images/itemicon/f2/f2505219bd37d9b488760692f01e85bfb1dab0d5.png?n5.55",
+        "JournalGenre": "Chronicles of a New Era - The Warring Triad",
+        "Url": "/lodestone/playguide/db/quest/40020a8a0b5/",
+        "Image": "https://img.finalfantasyxiv.com/lds/pc/global/images/itemicon/f3/f3fdd0d726b2103598e8db0fad33b229f2242943.png?n6.05",
         "Icon": "function_normal",
-        "Issuer": "Leofard",
+        "Issuer": "Unukalhai",
         "StartLocation": {
-            "Name": "The Parrock",
-            "X": "7.0",
-            "Y": "6.9"
+            "Name": "The Rising Stones",
+            "X": "6.1",
+            "Y": "5.2"
         },
         "StartClass": null,
         "Job": "",
         "Company": "Not specified",
         "Requirement": "Not specified",
         "Rewards": {
-            "Gil": 615,
+            "Gil": 934,
             "Exp": 0,
             "ItemsMand": [],
             "ItemsOpt": []
@@ -29,236 +29,54 @@
         "Infos": {
             "PrerequisiteQuest": [
                 {
-                    "Name": "The Weeping City",
-                    "Url": "/lodestone/playguide/db/quest/cabdde01fbe/",
-                    "Area": "The Sea of Clouds",
+                    "Name": "When the Bough Wakes",
+                    "Url": "/lodestone/playguide/db/quest/71fe495b79d/",
+                    "Area": "The Rising Stones",
                     "Level": "60"
                 }
             ],
             "FollowupQuest": [
                 {
-                    "Name": "Where Shadows Reign",
-                    "Url": "/lodestone/playguide/db/quest/8db37428183/",
-                    "Area": "The Sea of Clouds",
-                    "Level": "60"
-                },
-                {
-                    "Name": "Unidentified Flying Object",
-                    "Url": "/lodestone/playguide/db/quest/e69707dd011/",
-                    "Area": "Idyllshire",
-                    "Level": "60"
+                    "Name": "The Hero's Journey",
+                    "Url": "/lodestone/playguide/db/quest/f3f792f1b91/",
+                    "Area": "The Crystarium",
+                    "Level": "80"
                 }
             ],
             "RelatedNPC": [
                 {
-                    "Name": "Leofard",
-                    "Url": "/lodestone/playguide/db/npc/npc/1d93e107950/",
-                    "Area": "Leofard's Chambers (X:3.4 Y:3.6)"
-                },
-                {
-                    "Name": "Cait Sith",
-                    "Url": "/lodestone/playguide/db/npc/npc/4f40e1d005c/",
-                    "Area": "The Parrock (X:7.0 Y:7.0)"
-                },
-                {
-                    "Name": "Stacia",
-                    "Url": "/lodestone/playguide/db/npc/npc/5bc4fcfb3e6/",
-                    "Area": "The Parrock (X:7.0 Y:6.8)"
+                    "Name": "Verification Node",
+                    "Url": "/lodestone/playguide/db/npc/npc/758d22a0954/",
+                    "Area": "Azys Lla (X:25.6 Y:22.4)"
                 }
             ]
         },
-        "Seq": 3,
-        "oldID": 67822,
-        "Map": {
-            "ID": 305
-        },
+        "Seq": 7,
         "StartDependency": false
     },
     {
-        "ID": "8db37428183",
-        "Name": "Where Shadows Reign",
-        "Location": "The Sea of Clouds",
-        "Level": 60,
-        "JournalSection": 2,
-        "JournalCategory": 16,
-        "JournalGenre": "Chronicles of a New Era - The Shadow of Mhach",
-        "Url": "/lodestone/playguide/db/quest/8db37428183/",
-        "Image": "https://img.finalfantasyxiv.com/lds/pc/global/images/itemicon/e0/e004d33120a37c6ba9439795bf60fa17ed841061.png?n5.55",
-        "Icon": "function_normal",
-        "Issuer": "Stacia",
-        "StartLocation": {
-            "Name": "The Sea of Clouds",
-            "X": "6.2",
-            "Y": "5.8"
-        },
-        "StartClass": null,
-        "Job": "",
-        "Company": "Not specified",
-        "Requirement": "Not specified",
-        "Rewards": {
-            "Gil": 7500,
-            "Exp": 0,
-            "ItemsMand": [
-                {
-                    "Icon": "https://img.finalfantasyxiv.com/lds/pc/global/images/itemicon/7e/7eaa53e1fe9e2bd80f81d9ce69c98c24f6223b0b.png?n5.55",
-                    "Name": "Promises Orchestrion Roll",
-                    "Amount": 1,
-                    "Url": "/lodestone/playguide/db/item/4b9ea147558/"
-                },
-                {
-                    "Icon": "https://img.finalfantasyxiv.com/lds/pc/global/images/itemicon/7e/7eaa53e1fe9e2bd80f81d9ce69c98c24f6223b0b.png?n5.55",
-                    "Name": "Shadow of the Body Orchestrion Roll",
-                    "Amount": 1,
-                    "Url": "/lodestone/playguide/db/item/ceea0f179e3/"
-                }
-            ],
-            "ItemsOpt": []
-        },
-        "Infos": {
-            "PrerequisiteQuest": [
-                {
-                    "Name": "Freedom for Our Skies",
-                    "Url": "/lodestone/playguide/db/quest/766bb92612a/",
-                    "Area": "The Parrock",
-                    "Level": "60"
-                }
-            ],
-            "FollowupQuest": [
-                {
-                    "Name": "A Redbill Farewell",
-                    "Url": "/lodestone/playguide/db/quest/d1467b768c6/",
-                    "Area": "The Parrock",
-                    "Level": "60"
-                }
-            ],
-            "RelatedNPC": [
-                {
-                    "Name": "Cait Sith",
-                    "Url": "/lodestone/playguide/db/npc/npc/0abc62a565f/",
-                    "Area": "Leofard's Chambers (X:3.5 Y:3.6)"
-                },
-                {
-                    "Name": "Leofard",
-                    "Url": "/lodestone/playguide/db/npc/npc/ea07ca03a68/",
-                    "Area": "Leofard's Chambers (X:3.5 Y:3.5)"
-                },
-                {
-                    "Name": "Stacia",
-                    "Url": "/lodestone/playguide/db/npc/npc/567348c10ff/",
-                    "Area": "Leofard's Chambers (X:3.5 Y:3.6)"
-                },
-                {
-                    "Name": "Utata",
-                    "Url": "/lodestone/playguide/db/npc/npc/7ae09c26c3a/",
-                    "Area": "Leofard's Chambers (X:3.6 Y:3.6)"
-                },
-                {
-                    "Name": "Cait Sith",
-                    "Url": "/lodestone/playguide/db/npc/npc/bfaec37868f/",
-                    "Area": "The Parrock (X:6.2 Y:6.2)"
-                },
-                {
-                    "Name": "Cait Sith",
-                    "Url": "/lodestone/playguide/db/npc/npc/82a1b7eed3c/",
-                    "Area": "The Parrock (X:7.0 Y:7.0)"
-                },
-                {
-                    "Name": "Cait Sith",
-                    "Url": "/lodestone/playguide/db/npc/npc/dda4453cb28/",
-                    "Area": "The Parrock (X:7.0 Y:6.9)"
-                },
-                {
-                    "Name": "Leofard",
-                    "Url": "/lodestone/playguide/db/npc/npc/22074eb3ecf/",
-                    "Area": "The Parrock (X:6.2 Y:6.2)"
-                },
-                {
-                    "Name": "Leofard",
-                    "Url": "/lodestone/playguide/db/npc/npc/dff285d087f/",
-                    "Area": "The Parrock (X:7.0 Y:6.9)"
-                },
-                {
-                    "Name": "Leofard",
-                    "Url": "/lodestone/playguide/db/npc/npc/3fbe77ee5ed/",
-                    "Area": "The Parrock (X:7.0 Y:6.9)"
-                },
-                {
-                    "Name": "Radlia",
-                    "Url": "/lodestone/playguide/db/npc/npc/c8a04983457/",
-                    "Area": "The Parrock (X:6.2 Y:6.3)"
-                },
-                {
-                    "Name": "Radlia",
-                    "Url": "/lodestone/playguide/db/npc/npc/b1f464c11b9/",
-                    "Area": "The Parrock (X:7.0 Y:7.0)"
-                },
-                {
-                    "Name": "Radlia",
-                    "Url": "/lodestone/playguide/db/npc/npc/95edcf3a003/",
-                    "Area": "The Parrock (X:7.0 Y:6.9)"
-                },
-                {
-                    "Name": "Stacia",
-                    "Url": "/lodestone/playguide/db/npc/npc/4b62c5983a8/",
-                    "Area": "The Parrock (X:6.2 Y:6.2)"
-                },
-                {
-                    "Name": "Stacia",
-                    "Url": "/lodestone/playguide/db/npc/npc/7dbba66e040/",
-                    "Area": "The Parrock (X:7.0 Y:7.1)"
-                },
-                {
-                    "Name": "Stacia",
-                    "Url": "/lodestone/playguide/db/npc/npc/628d5ef401b/",
-                    "Area": "The Parrock (X:7.0 Y:6.9)"
-                },
-                {
-                    "Name": "Talons Deckswab",
-                    "Url": "/lodestone/playguide/db/npc/npc/030d429a362/",
-                    "Area": "The Parrock (X:6.2 Y:6.3)"
-                },
-                {
-                    "Name": "Utata",
-                    "Url": "/lodestone/playguide/db/npc/npc/c5a1789a330/",
-                    "Area": "The Parrock (X:6.2 Y:6.2)"
-                },
-                {
-                    "Name": "Utata",
-                    "Url": "/lodestone/playguide/db/npc/npc/ea7d3f34f75/",
-                    "Area": "The Parrock (X:7.0 Y:6.9)"
-                }
-            ]
-        },
-        "Seq": 4,
-        "oldID": 67909,
-        "Map": {
-            "ID": 215
-        },
-        "StartDependency": false
-    },
-    {
-        "ID": "c7a49946613",
-        "Name": "Sky Pirates",
+        "ID": "4188c7ded61",
+        "Name": "Gods of Eld",
         "Location": "Ishgard",
         "Level": 60,
         "JournalSection": 2,
         "JournalCategory": 16,
-        "JournalGenre": "Chronicles of a New Era - The Shadow of Mhach",
-        "Url": "/lodestone/playguide/db/quest/c7a49946613/",
-        "Image": "https://img.finalfantasyxiv.com/lds/pc/global/images/itemicon/b7/b72a597a5f76d4cb9ef936e4f0b5e1d0557a96ab.png?n5.55",
+        "JournalGenre": "Chronicles of a New Era - The Warring Triad",
+        "Url": "/lodestone/playguide/db/quest/4188c7ded61/",
+        "Image": "https://img.finalfantasyxiv.com/lds/pc/global/images/itemicon/cd/cd7151b7a638fe8a3e5c7e1a5bb1b698723335c9.png?n6.05",
         "Icon": "function_normal",
-        "Issuer": "Unquiet Trader",
+        "Issuer": "Torsefers",
         "StartLocation": {
             "Name": "The Pillars",
-            "X": "14.1",
-            "Y": "10.6"
+            "X": "11.7",
+            "Y": "11.6"
         },
         "StartClass": null,
         "Job": "",
         "Company": "Not specified",
         "Requirement": "Not specified",
         "Rewards": {
-            "Gil": 778,
+            "Gil": 5000,
             "Exp": 0,
             "ItemsMand": [],
             "ItemsOpt": []
@@ -274,329 +92,43 @@
             ],
             "FollowupQuest": [
                 {
-                    "Name": "To Rule the Skies",
-                    "Url": "/lodestone/playguide/db/quest/e1591301403/",
-                    "Area": "The Sea of Clouds",
+                    "Name": "When the Bough Wakes",
+                    "Url": "/lodestone/playguide/db/quest/71fe495b79d/",
+                    "Area": "The Rising Stones",
                     "Level": "60"
-                }
-            ],
-            "RelatedNPC": [
-                {
-                    "Name": "Cargo Ship Helmsman",
-                    "Url": "/lodestone/playguide/db/npc/npc/8da587f4eb4/",
-                    "Area": "The Sea of Clouds (X:4.7 Y:22.7)"
                 },
                 {
-                    "Name": "Leofard",
-                    "Url": "/lodestone/playguide/db/npc/npc/97712ba8a7d/",
-                    "Area": "The Sea of Clouds (X:25.4 Y:5.2)"
+                    "Name": "The Diabolical Bismarck",
+                    "Url": "/lodestone/playguide/db/quest/5d671001b22/",
+                    "Area": "The Rising Stones",
+                    "Level": "60"
                 },
                 {
-                    "Name": "Redbill Deckhand",
-                    "Url": "/lodestone/playguide/db/npc/npc/07c91ac9ac0/",
-                    "Area": "The Sea of Clouds (X:25.5 Y:5.2)"
-                },
-                {
-                    "Name": "Rontremont",
-                    "Url": "/lodestone/playguide/db/npc/npc/a2144218aa5/",
-                    "Area": "The Sea of Clouds (X:9.4 Y:32.4)"
-                },
-                {
-                    "Name": "Sky Pirate",
-                    "Url": "/lodestone/playguide/db/npc/npc/f6598d0df77/",
-                    "Area": "The Sea of Clouds (X:4.8 Y:22.8)"
-                },
-                {
-                    "Name": "Stacia",
-                    "Url": "/lodestone/playguide/db/npc/npc/8aa4fbebb85/",
-                    "Area": "The Sea of Clouds (X:25.5 Y:5.2)"
-                },
-                {
-                    "Name": "Stacia",
-                    "Url": "/lodestone/playguide/db/npc/npc/68a27680c92/",
-                    "Area": "The Sea of Clouds (X:6.2 Y:5.8)"
-                },
-                {
-                    "Name": "Utata",
-                    "Url": "/lodestone/playguide/db/npc/npc/c5b985c9132/",
-                    "Area": "The Sea of Clouds (X:25.5 Y:5.2)"
+                    "Name": "Thok Around the Clock",
+                    "Url": "/lodestone/playguide/db/quest/fe1cf47259a/",
+                    "Area": "The Rising Stones",
+                    "Level": "60"
                 }
             ]
         },
-        "Seq": 2,
-        "oldID": 67740,
-        "Map": {
-            "ID": 219
-        },
+        "Seq": 1,
         "StartDependency": false
     },
     {
-        "ID": "cabdde01fbe",
-        "Name": "The Weeping City",
-        "Location": "The Sea of Clouds",
+        "ID": "4ef025cf458",
+        "Name": "The Last Pillar to Fall",
+        "Location": "The Rising Stones",
         "Level": 60,
         "JournalSection": 2,
         "JournalCategory": 16,
-        "JournalGenre": "Chronicles of a New Era - The Shadow of Mhach",
-        "Url": "/lodestone/playguide/db/quest/cabdde01fbe/",
-        "Image": "https://img.finalfantasyxiv.com/lds/pc/global/images/itemicon/ec/ec8f1b447a9ee8b1401e06f763997e153f11c638.png?n5.55",
+        "JournalGenre": "Chronicles of a New Era - The Warring Triad",
+        "Url": "/lodestone/playguide/db/quest/4ef025cf458/",
+        "Image": "https://img.finalfantasyxiv.com/lds/pc/global/images/itemicon/39/39dc5230f42f21c2419bba43879db4bd9d163bbb.png?n6.05",
         "Icon": "function_normal",
-        "Issuer": "Stacia",
+        "Issuer": "Unukalhai",
         "StartLocation": {
-            "Name": "The Sea of Clouds",
-            "X": "6.2",
-            "Y": "5.8"
-        },
-        "StartClass": null,
-        "Job": "",
-        "Company": "Not specified",
-        "Requirement": "Not specified",
-        "Rewards": {
-            "Gil": 7500,
-            "Exp": 0,
-            "ItemsMand": [],
-            "ItemsOpt": []
-        },
-        "Infos": {
-            "PrerequisiteQuest": [
-                {
-                    "Name": "To Rule the Skies",
-                    "Url": "/lodestone/playguide/db/quest/e1591301403/",
-                    "Area": "The Sea of Clouds",
-                    "Level": "60"
-                }
-            ],
-            "FollowupQuest": [
-                {
-                    "Name": "Freedom for Our Skies",
-                    "Url": "/lodestone/playguide/db/quest/766bb92612a/",
-                    "Area": "The Parrock",
-                    "Level": "60"
-                }
-            ],
-            "RelatedNPC": [
-                {
-                    "Name": "Cait Sith",
-                    "Url": "/lodestone/playguide/db/npc/npc/378889326b1/",
-                    "Area": "Leofard's Chambers (X:3.6 Y:3.5)"
-                },
-                {
-                    "Name": "Cait Sith",
-                    "Url": "/lodestone/playguide/db/npc/npc/9a2c9bd6aeb/",
-                    "Area": "Leofard's Chambers (X:3.5 Y:3.6)"
-                },
-                {
-                    "Name": "Leofard",
-                    "Url": "/lodestone/playguide/db/npc/npc/6cd53d8c0d0/",
-                    "Area": "Leofard's Chambers (X:3.5 Y:3.5)"
-                },
-                {
-                    "Name": "Leofard",
-                    "Url": "/lodestone/playguide/db/npc/npc/baf2fd0aece/",
-                    "Area": "Leofard's Chambers (X:3.5 Y:3.5)"
-                },
-                {
-                    "Name": "Stacia",
-                    "Url": "/lodestone/playguide/db/npc/npc/d8e444d8821/",
-                    "Area": "Leofard's Chambers (X:3.6 Y:3.5)"
-                },
-                {
-                    "Name": "Stacia",
-                    "Url": "/lodestone/playguide/db/npc/npc/f6217438ab5/",
-                    "Area": "Leofard's Chambers (X:3.5 Y:3.6)"
-                },
-                {
-                    "Name": "Cait Sith",
-                    "Url": "/lodestone/playguide/db/npc/npc/1c1b9aaa794/",
-                    "Area": "The Parrock (X:6.7 Y:6.6)"
-                },
-                {
-                    "Name": "Cait Sith",
-                    "Url": "/lodestone/playguide/db/npc/npc/d3e64df1718/",
-                    "Area": "The Parrock (X:7.0 Y:7.0)"
-                },
-                {
-                    "Name": "Leofard",
-                    "Url": "/lodestone/playguide/db/npc/npc/3cebd6ff497/",
-                    "Area": "The Parrock (X:6.8 Y:6.6)"
-                },
-                {
-                    "Name": "Leofard",
-                    "Url": "/lodestone/playguide/db/npc/npc/fa1b98beb7a/",
-                    "Area": "The Parrock (X:7.0 Y:6.9)"
-                },
-                {
-                    "Name": "Stacia",
-                    "Url": "/lodestone/playguide/db/npc/npc/72fe1a88b0f/",
-                    "Area": "The Parrock (X:6.5 Y:5.8)"
-                },
-                {
-                    "Name": "Stacia",
-                    "Url": "/lodestone/playguide/db/npc/npc/bba78bff381/",
-                    "Area": "The Parrock (X:6.8 Y:6.6)"
-                },
-                {
-                    "Name": "Stacia",
-                    "Url": "/lodestone/playguide/db/npc/npc/376cd2b1387/",
-                    "Area": "The Parrock (X:7.1 Y:6.9)"
-                },
-                {
-                    "Name": "Stacia",
-                    "Url": "/lodestone/playguide/db/npc/npc/5bc4fcfb3e6/",
-                    "Area": "The Parrock (X:7.0 Y:6.8)"
-                },
-                {
-                    "Name": "Talons Deckswab",
-                    "Url": "/lodestone/playguide/db/npc/npc/7ac4e34467a/",
-                    "Area": "The Parrock (X:6.8 Y:6.6)"
-                },
-                {
-                    "Name": "Utata",
-                    "Url": "/lodestone/playguide/db/npc/npc/f46bef986d1/",
-                    "Area": "The Parrock (X:6.7 Y:6.6)"
-                },
-                {
-                    "Name": "Cait Sith",
-                    "Url": "/lodestone/playguide/db/npc/npc/10ec59ecb88/",
-                    "Area": "The Sea of Clouds (X:25.3 Y:5.1)"
-                },
-                {
-                    "Name": "Utata",
-                    "Url": "/lodestone/playguide/db/npc/npc/6aec2377dfd/",
-                    "Area": "The Sea of Clouds (X:25.2 Y:5.1)"
-                }
-            ]
-        },
-        "Seq": 2,
-        "oldID": 67821,
-        "Map": {
-            "ID": 215
-        },
-        "StartDependency": false
-    },
-    {
-        "ID": "d1467b768c6",
-        "Name": "A Redbill Farewell",
-        "Location": "The Parrock",
-        "Level": 60,
-        "JournalSection": 2,
-        "JournalCategory": 16,
-        "JournalGenre": "Chronicles of a New Era - The Shadow of Mhach",
-        "Url": "/lodestone/playguide/db/quest/d1467b768c6/",
-        "Image": "https://img.finalfantasyxiv.com/lds/pc/global/images/itemicon/32/325b5e34888497f7c1634be360359b540ac67add.png?n5.55",
-        "Icon": "function_normal",
-        "Issuer": "Leofard",
-        "StartLocation": {
-            "Name": "The Parrock",
-            "X": "7.0",
-            "Y": "6.9"
-        },
-        "StartClass": null,
-        "Job": "",
-        "Company": "Not specified",
-        "Requirement": "Not specified",
-        "Rewards": {
-            "Gil": 615,
-            "Exp": 0,
-            "ItemsMand": [
-                {
-                    "Icon": "https://img.finalfantasyxiv.com/lds/pc/global/images/itemicon/55/557f6743b74c2d01e023d0b6051856a91c098d39.png?n5.55",
-                    "Name": "Redbill Scarf",
-                    "Amount": 1,
-                    "Url": "/lodestone/playguide/db/item/9c50b129eb2/"
-                }
-            ],
-            "ItemsOpt": []
-        },
-        "Infos": {
-            "PrerequisiteQuest": [
-                {
-                    "Name": "Where Shadows Reign",
-                    "Url": "/lodestone/playguide/db/quest/8db37428183/",
-                    "Area": "The Sea of Clouds",
-                    "Level": "60"
-                }
-            ],
-            "RelatedNPC": [
-                {
-                    "Name": "Cait Sith",
-                    "Url": "/lodestone/playguide/db/npc/npc/34f8ebcc67b/",
-                    "Area": "Leofard's Chambers (X:3.5 Y:3.5)"
-                },
-                {
-                    "Name": "Stacia",
-                    "Url": "/lodestone/playguide/db/npc/npc/b608e9e60bb/",
-                    "Area": "Leofard's Chambers (X:3.5 Y:3.5)"
-                },
-                {
-                    "Name": "Cait Sith",
-                    "Url": "/lodestone/playguide/db/npc/npc/dda4453cb28/",
-                    "Area": "The Parrock (X:7.0 Y:6.9)"
-                },
-                {
-                    "Name": "Cait Sith",
-                    "Url": "/lodestone/playguide/db/npc/npc/7616460ec99/",
-                    "Area": "The Parrock (X:7.0 Y:6.6)"
-                },
-                {
-                    "Name": "Leofard",
-                    "Url": "/lodestone/playguide/db/npc/npc/4af546c3f69/",
-                    "Area": "The Parrock (X:7.0 Y:6.6)"
-                },
-                {
-                    "Name": "Radlia",
-                    "Url": "/lodestone/playguide/db/npc/npc/95edcf3a003/",
-                    "Area": "The Parrock (X:7.0 Y:6.9)"
-                },
-                {
-                    "Name": "Radlia",
-                    "Url": "/lodestone/playguide/db/npc/npc/7579bf5e330/",
-                    "Area": "The Parrock (X:7.0 Y:7.1)"
-                },
-                {
-                    "Name": "Stacia",
-                    "Url": "/lodestone/playguide/db/npc/npc/628d5ef401b/",
-                    "Area": "The Parrock (X:7.0 Y:6.9)"
-                },
-                {
-                    "Name": "Stacia",
-                    "Url": "/lodestone/playguide/db/npc/npc/703b58fb874/",
-                    "Area": "The Parrock (X:7.0 Y:6.6)"
-                },
-                {
-                    "Name": "Utata",
-                    "Url": "/lodestone/playguide/db/npc/npc/6e4d4f2cab8/",
-                    "Area": "The Parrock (X:6.6 Y:6.7)"
-                },
-                {
-                    "Name": "Utata",
-                    "Url": "/lodestone/playguide/db/npc/npc/7373bc379f1/",
-                    "Area": "The Parrock (X:7.0 Y:6.6)"
-                }
-            ]
-        },
-        "Seq": 5,
-        "oldID": 67910,
-        "Map": {
-            "ID": 305
-        },
-        "StartDependency": false
-    },
-    {
-        "ID": "e1591301403",
-        "Name": "To Rule the Skies",
-        "Location": "The Sea of Clouds",
-        "Level": 60,
-        "JournalSection": 2,
-        "JournalCategory": 16,
-        "JournalGenre": "Chronicles of a New Era - The Shadow of Mhach",
-        "Url": "/lodestone/playguide/db/quest/e1591301403/",
-        "Image": "https://img.finalfantasyxiv.com/lds/pc/global/images/itemicon/1c/1c61b54626133a2ae8147e18975acb11ae08f4a4.png?n5.55",
-        "Icon": "function_normal",
-        "Issuer": "Utata",
-        "StartLocation": {
-            "Name": "The Sea of Clouds",
-            "X": "25.5",
+            "Name": "The Rising Stones",
+            "X": "6.1",
             "Y": "5.2"
         },
         "StartClass": null,
@@ -604,7 +136,7 @@
         "Company": "Not specified",
         "Requirement": "Not specified",
         "Rewards": {
-            "Gil": 7500,
+            "Gil": 5000,
             "Exp": 0,
             "ItemsMand": [],
             "ItemsOpt": []
@@ -612,122 +144,515 @@
         "Infos": {
             "PrerequisiteQuest": [
                 {
-                    "Name": "Sky Pirates",
-                    "Url": "/lodestone/playguide/db/quest/c7a49946613/",
-                    "Area": "Ishgard",
+                    "Name": "Balance unto All",
+                    "Url": "/lodestone/playguide/db/quest/599e73dcbc2/",
+                    "Area": "The Rising Stones",
                     "Level": "60"
                 }
             ],
             "FollowupQuest": [
                 {
-                    "Name": "The Weeping City",
-                    "Url": "/lodestone/playguide/db/quest/cabdde01fbe/",
-                    "Area": "The Sea of Clouds",
+                    "Name": "A Demonic Duplicate",
+                    "Url": "/lodestone/playguide/db/quest/7be61701434/",
+                    "Area": "The Rising Stones",
                     "Level": "60"
                 }
             ],
             "RelatedNPC": [
                 {
-                    "Name": "Curious Cat",
-                    "Url": "/lodestone/playguide/db/npc/npc/8b9f736368e/",
-                    "Area": "The Sea of Clouds (X:25.4 Y:5.1)"
+                    "Name": "Unukalhai",
+                    "Url": "/lodestone/playguide/db/npc/npc/d8ae16b75d6/",
+                    "Area": "Azys Lla (X:25.5 Y:22.4)"
                 },
                 {
-                    "Name": "Leofard",
-                    "Url": "/lodestone/playguide/db/npc/npc/97712ba8a7d/",
-                    "Area": "The Sea of Clouds (X:25.4 Y:5.2)"
+                    "Name": "Verification Node",
+                    "Url": "/lodestone/playguide/db/npc/npc/758d22a0954/",
+                    "Area": "Azys Lla (X:25.6 Y:22.4)"
                 },
                 {
-                    "Name": "Leofard",
-                    "Url": "/lodestone/playguide/db/npc/npc/3a4bd92dc80/",
-                    "Area": "The Sea of Clouds (X:25.4 Y:5.1)"
+                    "Name": "6th Legion Decurion",
+                    "Url": "/lodestone/playguide/db/npc/npc/108ea48eb1e/",
+                    "Area": "Central Azys Lla (X:6.3 Y:6.1)"
                 },
                 {
-                    "Name": "Redbill Deckhand",
-                    "Url": "/lodestone/playguide/db/npc/npc/07c91ac9ac0/",
-                    "Area": "The Sea of Clouds (X:25.5 Y:5.2)"
+                    "Name": "6th Legion Soldier",
+                    "Url": "/lodestone/playguide/db/npc/npc/3d891cc1743/",
+                    "Area": "Central Azys Lla (X:6.3 Y:6.1)"
                 },
                 {
-                    "Name": "Redbill Deckhand",
-                    "Url": "/lodestone/playguide/db/npc/npc/761a8d4607d/",
-                    "Area": "The Sea of Clouds (X:25.5 Y:5.2)"
+                    "Name": "Krile",
+                    "Url": "/lodestone/playguide/db/npc/npc/2276bea72b0/",
+                    "Area": "Central Azys Lla (X:6.2 Y:6.2)"
                 },
                 {
-                    "Name": "Stacia",
-                    "Url": "/lodestone/playguide/db/npc/npc/8aa4fbebb85/",
-                    "Area": "The Sea of Clouds (X:25.5 Y:5.2)"
+                    "Name": "Krile",
+                    "Url": "/lodestone/playguide/db/npc/npc/31b28d7b525/",
+                    "Area": "Central Azys Lla (X:6.1 Y:6.2)"
                 },
                 {
-                    "Name": "Stacia",
-                    "Url": "/lodestone/playguide/db/npc/npc/db3819d3475/",
-                    "Area": "The Sea of Clouds (X:25.4 Y:5.2)"
-                }
-            ],
-            "RelatedAchievements": [
+                    "Name": "Unukalhai",
+                    "Url": "/lodestone/playguide/db/npc/npc/1b2605af4e3/",
+                    "Area": "Central Azys Lla (X:6.0 Y:6.2)"
+                },
                 {
-                    "Name": "Paying the Bills",
-                    "Url": "/lodestone/playguide/db/achievement/b117eee10f1/",
-                    "Reward": "Title",
-                    "Points": "10"
+                    "Name": "Urianger",
+                    "Url": "/lodestone/playguide/db/npc/npc/a0d7dd20f03/",
+                    "Area": "Central Azys Lla (X:6.1 Y:6.3)"
+                },
+                {
+                    "Name": "Y'shtola",
+                    "Url": "/lodestone/playguide/db/npc/npc/0a1adefd596/",
+                    "Area": "Central Azys Lla (X:6.1 Y:6.3)"
                 }
             ]
         },
-        "Seq": 1,
-        "oldID": 67741,
-        "Map": {
-            "ID": 215
-        },
+        "Seq": 4,
         "StartDependency": false
     },
     {
-        "ID": "e69707dd011",
-        "Name": "Unidentified Flying Object",
-        "Location": "Idyllshire",
+        "ID": "599e73dcbc2",
+        "Name": "Balance unto All",
+        "Location": "The Rising Stones",
         "Level": 60,
         "JournalSection": 2,
         "JournalCategory": 16,
-        "JournalGenre": "Chronicles of a New Era - The Shadow of Mhach",
-        "Url": "/lodestone/playguide/db/quest/e69707dd011/",
-        "Image": null,
-        "Icon": "function_repeat",
-        "Issuer": "Slipslix",
+        "JournalGenre": "Chronicles of a New Era - The Warring Triad",
+        "Url": "/lodestone/playguide/db/quest/599e73dcbc2/",
+        "Image": "https://img.finalfantasyxiv.com/lds/pc/global/images/itemicon/1f/1f77e7b1196d08743b1806f91cf7d89f324f430a.png?n6.05",
+        "Icon": "function_normal",
+        "Issuer": "Unukalhai",
         "StartLocation": {
-            "Name": "Idyllshire",
-            "X": "7.7",
-            "Y": "4.2"
+            "Name": "The Rising Stones",
+            "X": "6.1",
+            "Y": "5.2"
         },
         "StartClass": null,
         "Job": "",
         "Company": "Not specified",
         "Requirement": "Not specified",
         "Rewards": {
-            "Gil": 0,
+            "Gil": 5000,
             "Exp": 0,
-            "ItemsMand": [
-                {
-                    "Icon": "https://img.finalfantasyxiv.com/lds/pc/global/images/itemicon/19/19daebd4dce351e5215412ed1429039e9d9ca2bf.png?n5.55",
-                    "Name": "Proto Ultima Heat Shielding",
-                    "Amount": 1,
-                    "Url": "/lodestone/playguide/db/item/fbe0c6e5dc1/"
-                }
-            ],
+            "ItemsMand": [],
             "ItemsOpt": []
         },
         "Infos": {
             "PrerequisiteQuest": [
                 {
-                    "Name": "Freedom for Our Skies",
-                    "Url": "/lodestone/playguide/db/quest/766bb92612a/",
-                    "Area": "The Parrock",
+                    "Name": "The Fate of Stars",
+                    "Url": "/lodestone/playguide/db/quest/7271488252e/",
+                    "Area": "The Rising Stones",
                     "Level": "60"
+                }
+            ],
+            "FollowupQuest": [
+                {
+                    "Name": "The Last Pillar to Fall",
+                    "Url": "/lodestone/playguide/db/quest/4ef025cf458/",
+                    "Area": "The Rising Stones",
+                    "Level": "60"
+                },
+                {
+                    "Name": "A Deific Simulacrum",
+                    "Url": "/lodestone/playguide/db/quest/fb6d1706a94/",
+                    "Area": "The Rising Stones",
+                    "Level": "60"
+                }
+            ],
+            "RelatedNPC": [
+                {
+                    "Name": "Unukalhai",
+                    "Url": "/lodestone/playguide/db/npc/npc/5e736a08c7b/",
+                    "Area": "Azys Lla (X:26.7 Y:22.6)"
+                }
+            ]
+        },
+        "Seq": 3,
+        "StartDependency": false
+    },
+    {
+        "ID": "5d671001b22",
+        "Name": "The Diabolical Bismarck",
+        "Location": "The Rising Stones",
+        "Level": 60,
+        "JournalSection": 2,
+        "JournalCategory": 16,
+        "JournalGenre": "Chronicles of a New Era - The Warring Triad",
+        "Url": "/lodestone/playguide/db/quest/5d671001b22/",
+        "Image": "https://img.finalfantasyxiv.com/lds/pc/global/images/itemicon/d4/d4e1086911e97cd7fd9255fb9c500d69f103bec9.png?n6.05",
+        "Icon": "function_normal",
+        "Issuer": "Unukalhai",
+        "StartLocation": {
+            "Name": "The Rising Stones",
+            "X": "6.1",
+            "Y": "5.2"
+        },
+        "StartClass": null,
+        "Job": "",
+        "Company": "Not specified",
+        "Requirement": "Not specified",
+        "Rewards": {
+            "Gil": 5000,
+            "Exp": 0,
+            "ItemsMand": [],
+            "ItemsOpt": []
+        },
+        "Infos": {
+            "PrerequisiteQuest": [
+                {
+                    "Name": "Heavensward",
+                    "Url": "/lodestone/playguide/db/quest/29fa56153f5/",
+                    "Area": "Azys Lla",
+                    "Level": "60"
+                },
+                {
+                    "Name": "Gods of Eld",
+                    "Url": "/lodestone/playguide/db/quest/4188c7ded61/",
+                    "Area": "Ishgard",
+                    "Level": "60"
+                }
+            ],
+            "FollowupQuest": [
+                {
+                    "Name": "The Hero's Journey",
+                    "Url": "/lodestone/playguide/db/quest/f3f792f1b91/",
+                    "Area": "The Crystarium",
+                    "Level": "80"
+                }
+            ],
+            "RelatedNPC": [
+                {
+                    "Name": "Cid",
+                    "Url": "/lodestone/playguide/db/npc/npc/6378e03118e/",
+                    "Area": "The Sea of Clouds (X:6.3 Y:25.7)"
+                },
+                {
+                    "Name": "Sonu Vanu",
+                    "Url": "/lodestone/playguide/db/npc/npc/86fa51a3d8e/",
+                    "Area": "The Sea of Clouds (X:11.7 Y:14.8)"
+                }
+            ],
+            "RelatedAchievements": [
+                {
+                    "Name": "The War Still Wageth On",
+                    "Url": "/lodestone/playguide/db/achievement/4fa0131f0f6/",
+                    "Reward": "Title",
+                    "Points": "10"
+                }
+            ]
+        },
+        "Seq": 5,
+        "StartDependency": false
+    },
+    {
+        "ID": "71fe495b79d",
+        "Name": "When the Bough Wakes",
+        "Location": "The Rising Stones",
+        "Level": 60,
+        "JournalSection": 2,
+        "JournalCategory": 16,
+        "JournalGenre": "Chronicles of a New Era - The Warring Triad",
+        "Url": "/lodestone/playguide/db/quest/71fe495b79d/",
+        "Image": "https://img.finalfantasyxiv.com/lds/pc/global/images/itemicon/3a/3aa4f907910565763bf64dc8aabcbc249c2378f2.png?n6.05",
+        "Icon": "function_normal",
+        "Issuer": "Unukalhai",
+        "StartLocation": {
+            "Name": "The Rising Stones",
+            "X": "6.1",
+            "Y": "5.2"
+        },
+        "StartClass": null,
+        "Job": "",
+        "Company": "Not specified",
+        "Requirement": "Not specified",
+        "Rewards": {
+            "Gil": 3722,
+            "Exp": 0,
+            "ItemsMand": [],
+            "ItemsOpt": []
+        },
+        "Infos": {
+            "PrerequisiteQuest": [
+                {
+                    "Name": "As Goes Light, So Goes Darkness",
+                    "Url": "/lodestone/playguide/db/quest/02f039d7119/",
+                    "Area": "Ishgard",
+                    "Level": "60"
+                },
+                {
+                    "Name": "Gods of Eld",
+                    "Url": "/lodestone/playguide/db/quest/4188c7ded61/",
+                    "Area": "Ishgard",
+                    "Level": "60"
+                }
+            ],
+            "FollowupQuest": [
+                {
+                    "Name": "The Fate of Stars",
+                    "Url": "/lodestone/playguide/db/quest/7271488252e/",
+                    "Area": "The Rising Stones",
+                    "Level": "60"
+                },
+                {
+                    "Name": "A Fiendish Likeness",
+                    "Url": "/lodestone/playguide/db/quest/40020a8a0b5/",
+                    "Area": "The Rising Stones",
+                    "Level": "60"
+                }
+            ],
+            "RelatedNPC": [
+                {
+                    "Name": "Unukalhai",
+                    "Url": "/lodestone/playguide/db/npc/npc/091f01f305d/",
+                    "Area": "Azys Lla (X:26.7 Y:22.4)"
+                },
+                {
+                    "Name": "Verification Node",
+                    "Url": "/lodestone/playguide/db/npc/npc/758d22a0954/",
+                    "Area": "Azys Lla (X:25.6 Y:22.4)"
+                }
+            ]
+        },
+        "Seq": 1,
+        "StartDependency": false
+    },
+    {
+        "ID": "7271488252e",
+        "Name": "The Fate of Stars",
+        "Location": "The Rising Stones",
+        "Level": 60,
+        "JournalSection": 2,
+        "JournalCategory": 16,
+        "JournalGenre": "Chronicles of a New Era - The Warring Triad",
+        "Url": "/lodestone/playguide/db/quest/7271488252e/",
+        "Image": "https://img.finalfantasyxiv.com/lds/pc/global/images/itemicon/90/90acbafdf95a6be15d9ed5d2f6326136bc5e67aa.png?n6.05",
+        "Icon": "function_normal",
+        "Issuer": "Unukalhai",
+        "StartLocation": {
+            "Name": "The Rising Stones",
+            "X": "6.1",
+            "Y": "5.2"
+        },
+        "StartClass": null,
+        "Job": "",
+        "Company": "Not specified",
+        "Requirement": "Not specified",
+        "Rewards": {
+            "Gil": 1935,
+            "Exp": 0,
+            "ItemsMand": [],
+            "ItemsOpt": []
+        },
+        "Infos": {
+            "PrerequisiteQuest": [
+                {
+                    "Name": "When the Bough Wakes",
+                    "Url": "/lodestone/playguide/db/quest/71fe495b79d/",
+                    "Area": "The Rising Stones",
+                    "Level": "60"
+                }
+            ],
+            "FollowupQuest": [
+                {
+                    "Name": "Balance unto All",
+                    "Url": "/lodestone/playguide/db/quest/599e73dcbc2/",
+                    "Area": "The Rising Stones",
+                    "Level": "60"
+                }
+            ],
+            "RelatedNPC": [
+                {
+                    "Name": "Unukalhai",
+                    "Url": "/lodestone/playguide/db/npc/npc/d30486a8c26/",
+                    "Area": "Azys Lla (X:21.3 Y:22.6)"
+                },
+                {
+                    "Name": "Unukalhai",
+                    "Url": "/lodestone/playguide/db/npc/npc/c842800e8ae/",
+                    "Area": "Azys Lla (X:21.2 Y:22.6)"
+                }
+            ]
+        },
+        "Seq": 2,
+        "StartDependency": false
+    },
+    {
+        "ID": "7be61701434",
+        "Name": "A Demonic Duplicate",
+        "Location": "The Rising Stones",
+        "Level": 60,
+        "JournalSection": 2,
+        "JournalCategory": 16,
+        "JournalGenre": "Chronicles of a New Era - The Warring Triad",
+        "Url": "/lodestone/playguide/db/quest/7be61701434/",
+        "Image": "https://img.finalfantasyxiv.com/lds/pc/global/images/itemicon/86/86457584b68e8c8354ca75b8c6ef22d6249e7035.png?n6.05",
+        "Icon": "function_normal",
+        "Issuer": "Unukalhai",
+        "StartLocation": {
+            "Name": "The Rising Stones",
+            "X": "6.1",
+            "Y": "5.2"
+        },
+        "StartClass": null,
+        "Job": "",
+        "Company": "Not specified",
+        "Requirement": "Not specified",
+        "Rewards": {
+            "Gil": 934,
+            "Exp": 0,
+            "ItemsMand": [],
+            "ItemsOpt": []
+        },
+        "Infos": {
+            "PrerequisiteQuest": [
+                {
+                    "Name": "The Last Pillar to Fall",
+                    "Url": "/lodestone/playguide/db/quest/4ef025cf458/",
+                    "Area": "The Rising Stones",
+                    "Level": "60"
+                }
+            ],
+            "FollowupQuest": [
+                {
+                    "Name": "The Hero's Journey",
+                    "Url": "/lodestone/playguide/db/quest/f3f792f1b91/",
+                    "Area": "The Crystarium",
+                    "Level": "80"
+                }
+            ],
+            "RelatedNPC": [
+                {
+                    "Name": "Verification Node",
+                    "Url": "/lodestone/playguide/db/npc/npc/758d22a0954/",
+                    "Area": "Azys Lla (X:25.6 Y:22.4)"
+                }
+            ]
+        },
+        "Seq": 9,
+        "StartDependency": false
+    },
+    {
+        "ID": "fb6d1706a94",
+        "Name": "A Deific Simulacrum",
+        "Location": "The Rising Stones",
+        "Level": 60,
+        "JournalSection": 2,
+        "JournalCategory": 16,
+        "JournalGenre": "Chronicles of a New Era - The Warring Triad",
+        "Url": "/lodestone/playguide/db/quest/fb6d1706a94/",
+        "Image": "https://img.finalfantasyxiv.com/lds/pc/global/images/itemicon/c2/c292c93da52d530f99438b782c7f2f3f6762975a.png?n6.05",
+        "Icon": "function_normal",
+        "Issuer": "Unukalhai",
+        "StartLocation": {
+            "Name": "The Rising Stones",
+            "X": "6.1",
+            "Y": "5.2"
+        },
+        "StartClass": null,
+        "Job": "",
+        "Company": "Not specified",
+        "Requirement": "Not specified",
+        "Rewards": {
+            "Gil": 934,
+            "Exp": 0,
+            "ItemsMand": [],
+            "ItemsOpt": []
+        },
+        "Infos": {
+            "PrerequisiteQuest": [
+                {
+                    "Name": "Balance unto All",
+                    "Url": "/lodestone/playguide/db/quest/599e73dcbc2/",
+                    "Area": "The Rising Stones",
+                    "Level": "60"
+                }
+            ],
+            "FollowupQuest": [
+                {
+                    "Name": "The Hero's Journey",
+                    "Url": "/lodestone/playguide/db/quest/f3f792f1b91/",
+                    "Area": "The Crystarium",
+                    "Level": "80"
+                }
+            ],
+            "RelatedNPC": [
+                {
+                    "Name": "Verification Node",
+                    "Url": "/lodestone/playguide/db/npc/npc/758d22a0954/",
+                    "Area": "Azys Lla (X:25.6 Y:22.4)"
+                }
+            ]
+        },
+        "Seq": 8,
+        "StartDependency": false
+    },
+    {
+        "ID": "fe1cf47259a",
+        "Name": "Thok Around the Clock",
+        "Location": "The Rising Stones",
+        "Level": 60,
+        "JournalSection": 2,
+        "JournalCategory": 16,
+        "JournalGenre": "Chronicles of a New Era - The Warring Triad",
+        "Url": "/lodestone/playguide/db/quest/fe1cf47259a/",
+        "Image": "https://img.finalfantasyxiv.com/lds/pc/global/images/itemicon/7c/7cb11f04a84be46de4fab2bd8fe91e2bd507065e.png?n6.05",
+        "Icon": "function_normal",
+        "Issuer": "Unukalhai",
+        "StartLocation": {
+            "Name": "The Rising Stones",
+            "X": "6.1",
+            "Y": "5.2"
+        },
+        "StartClass": null,
+        "Job": "",
+        "Company": "Not specified",
+        "Requirement": "Not specified",
+        "Rewards": {
+            "Gil": 5000,
+            "Exp": 0,
+            "ItemsMand": [],
+            "ItemsOpt": []
+        },
+        "Infos": {
+            "PrerequisiteQuest": [
+                {
+                    "Name": "Heavensward",
+                    "Url": "/lodestone/playguide/db/quest/29fa56153f5/",
+                    "Area": "Azys Lla",
+                    "Level": "60"
+                },
+                {
+                    "Name": "Gods of Eld",
+                    "Url": "/lodestone/playguide/db/quest/4188c7ded61/",
+                    "Area": "Ishgard",
+                    "Level": "60"
+                }
+            ],
+            "FollowupQuest": [
+                {
+                    "Name": "The Hero's Journey",
+                    "Url": "/lodestone/playguide/db/quest/f3f792f1b91/",
+                    "Area": "The Crystarium",
+                    "Level": "80"
+                }
+            ],
+            "RelatedNPC": [
+                {
+                    "Name": "Vath Storyteller",
+                    "Url": "/lodestone/playguide/db/npc/npc/41a0c5ab8cb/",
+                    "Area": "The Dravanian Forelands (X:24.0 Y:19.7)"
+                }
+            ],
+            "RelatedAchievements": [
+                {
+                    "Name": "The War Still Wageth On",
+                    "Url": "/lodestone/playguide/db/achievement/4fa0131f0f6/",
+                    "Reward": "Title",
+                    "Points": "10"
                 }
             ]
         },
         "Seq": 6,
-        "oldID": 67016,
-        "Map": {
-            "ID": 257
-        },
         "StartDependency": false
     }
 ]

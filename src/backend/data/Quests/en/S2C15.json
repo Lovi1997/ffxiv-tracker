@@ -1,27 +1,27 @@
 [
     {
-        "ID": "40020a8a0b5",
-        "Name": "A Fiendish Likeness",
-        "Location": "The Rising Stones",
+        "ID": "17fc37d0397",
+        "Name": "Biggs and Wedge's Excellent Adventure",
+        "Location": "The Dravanian Hinterlands",
         "Level": 60,
         "JournalSection": 2,
         "JournalCategory": 15,
-        "JournalGenre": "Chronicles of a New Era - The Warring Triad",
-        "Url": "/lodestone/playguide/db/quest/40020a8a0b5/",
-        "Image": "https://img.finalfantasyxiv.com/lds/pc/global/images/itemicon/f3/f3fdd0d726b2103598e8db0fad33b229f2242943.png?n5.55",
+        "JournalGenre": "Chronicles of a New Era - Alexander",
+        "Url": "/lodestone/playguide/db/quest/17fc37d0397/",
+        "Image": "https://img.finalfantasyxiv.com/lds/pc/global/images/itemicon/14/140831b51813fa5bb339eda3e727b17553ddbd07.png?n6.05",
         "Icon": "function_normal",
-        "Issuer": "Unukalhai",
+        "Issuer": "Biggs",
         "StartLocation": {
-            "Name": "The Rising Stones",
-            "X": "6.1",
-            "Y": "5.2"
+            "Name": "The Dravanian Hinterlands",
+            "X": "23.5",
+            "Y": "23.9"
         },
         "StartClass": null,
         "Job": "",
         "Company": "Not specified",
         "Requirement": "Not specified",
         "Rewards": {
-            "Gil": 934,
+            "Gil": 3508,
             "Exp": 0,
             "ItemsMand": [],
             "ItemsOpt": []
@@ -29,51 +29,67 @@
         "Infos": {
             "PrerequisiteQuest": [
                 {
-                    "Name": "When the Bough Wakes",
-                    "Url": "/lodestone/playguide/db/quest/71fe495b79d/",
-                    "Area": "The Rising Stones",
+                    "Name": "The Coeurl and the Colossus",
+                    "Url": "/lodestone/playguide/db/quest/b4ee65bf49a/",
+                    "Area": "The Dravanian Hinterlands",
                     "Level": "60"
                 }
             ],
             "FollowupQuest": [
                 {
-                    "Name": "The Hero's Journey",
-                    "Url": "/lodestone/playguide/db/quest/f3f792f1b91/",
-                    "Area": "The Crystarium",
-                    "Level": "80"
+                    "Name": "Thus Spake Quickthinx",
+                    "Url": "/lodestone/playguide/db/quest/4ef04b0db1c/",
+                    "Area": "The Dravanian Hinterlands",
+                    "Level": "60"
                 }
             ],
             "RelatedNPC": [
                 {
-                    "Name": "Verification Node",
-                    "Url": "/lodestone/playguide/db/npc/npc/758d22a0954/",
-                    "Area": "Azys Lla (X:25.6 Y:22.4)"
+                    "Name": "Backrix",
+                    "Url": "/lodestone/playguide/db/npc/npc/060e6a3d283/",
+                    "Area": "The Dravanian Hinterlands (X:22.2 Y:27.7)"
+                },
+                {
+                    "Name": "Biggs",
+                    "Url": "/lodestone/playguide/db/npc/npc/eecb1d21ecf/",
+                    "Area": "The Dravanian Hinterlands (X:22.2 Y:27.6)"
+                },
+                {
+                    "Name": "Mide",
+                    "Url": "/lodestone/playguide/db/npc/npc/9eff2d4fee1/",
+                    "Area": "The Dravanian Hinterlands (X:23.5 Y:23.8)"
+                },
+                {
+                    "Name": "Wedge",
+                    "Url": "/lodestone/playguide/db/npc/npc/146554449d6/",
+                    "Area": "The Dravanian Hinterlands (X:23.5 Y:23.9)"
+                },
+                {
+                    "Name": "Wedge",
+                    "Url": "/lodestone/playguide/db/npc/npc/347af340fb1/",
+                    "Area": "The Dravanian Hinterlands (X:22.1 Y:27.6)"
                 }
             ]
         },
-        "Seq": 7,
-        "oldID": 67817,
-        "Map": {
-            "ID": 136
-        },
+        "Seq": 11,
         "StartDependency": false
     },
     {
-        "ID": "4188c7ded61",
-        "Name": "Gods of Eld",
-        "Location": "Ishgard",
+        "ID": "3862b01959f",
+        "Name": "Tinker, Seeker, Soldier, Spy",
+        "Location": "The Dravanian Hinterlands",
         "Level": 60,
         "JournalSection": 2,
         "JournalCategory": 15,
-        "JournalGenre": "Chronicles of a New Era - The Warring Triad",
-        "Url": "/lodestone/playguide/db/quest/4188c7ded61/",
-        "Image": "https://img.finalfantasyxiv.com/lds/pc/global/images/itemicon/cd/cd7151b7a638fe8a3e5c7e1a5bb1b698723335c9.png?n5.55",
+        "JournalGenre": "Chronicles of a New Era - Alexander",
+        "Url": "/lodestone/playguide/db/quest/3862b01959f/",
+        "Image": "https://img.finalfantasyxiv.com/lds/pc/global/images/itemicon/47/47925fc8d470ee7c6cd2079a4d967670b1ed89b4.png?n6.05",
         "Icon": "function_normal",
-        "Issuer": "Torsefers",
+        "Issuer": "Biggs",
         "StartLocation": {
-            "Name": "The Pillars",
-            "X": "11.7",
-            "Y": "11.6"
+            "Name": "The Dravanian Hinterlands",
+            "X": "21.7",
+            "Y": "18.8"
         },
         "StartClass": null,
         "Job": "",
@@ -88,445 +104,146 @@
         "Infos": {
             "PrerequisiteQuest": [
                 {
-                    "Name": "Heavensward",
-                    "Url": "/lodestone/playguide/db/quest/29fa56153f5/",
-                    "Area": "Azys Lla",
+                    "Name": "Steel and Steam",
+                    "Url": "/lodestone/playguide/db/quest/ef2efbe411f/",
+                    "Area": "The Dravanian Hinterlands",
                     "Level": "60"
                 }
             ],
             "FollowupQuest": [
                 {
-                    "Name": "When the Bough Wakes",
-                    "Url": "/lodestone/playguide/db/quest/71fe495b79d/",
-                    "Area": "The Rising Stones",
-                    "Level": "60"
-                },
-                {
-                    "Name": "The Diabolical Bismarck",
-                    "Url": "/lodestone/playguide/db/quest/5d671001b22/",
-                    "Area": "The Rising Stones",
-                    "Level": "60"
-                },
-                {
-                    "Name": "Thok Around the Clock",
-                    "Url": "/lodestone/playguide/db/quest/fe1cf47259a/",
-                    "Area": "The Rising Stones",
-                    "Level": "60"
-                }
-            ]
-        },
-        "Seq": 1,
-        "oldID": 67650,
-        "Map": {
-            "ID": 219
-        },
-        "StartDependency": false
-    },
-    {
-        "ID": "4ef025cf458",
-        "Name": "The Last Pillar to Fall",
-        "Location": "The Rising Stones",
-        "Level": 60,
-        "JournalSection": 2,
-        "JournalCategory": 15,
-        "JournalGenre": "Chronicles of a New Era - The Warring Triad",
-        "Url": "/lodestone/playguide/db/quest/4ef025cf458/",
-        "Image": "https://img.finalfantasyxiv.com/lds/pc/global/images/itemicon/39/39dc5230f42f21c2419bba43879db4bd9d163bbb.png?n5.55",
-        "Icon": "function_normal",
-        "Issuer": "Unukalhai",
-        "StartLocation": {
-            "Name": "The Rising Stones",
-            "X": "6.1",
-            "Y": "5.2"
-        },
-        "StartClass": null,
-        "Job": "",
-        "Company": "Not specified",
-        "Requirement": "Not specified",
-        "Rewards": {
-            "Gil": 5000,
-            "Exp": 0,
-            "ItemsMand": [],
-            "ItemsOpt": []
-        },
-        "Infos": {
-            "PrerequisiteQuest": [
-                {
-                    "Name": "Balance unto All",
-                    "Url": "/lodestone/playguide/db/quest/599e73dcbc2/",
-                    "Area": "The Rising Stones",
-                    "Level": "60"
-                }
-            ],
-            "FollowupQuest": [
-                {
-                    "Name": "A Demonic Duplicate",
-                    "Url": "/lodestone/playguide/db/quest/7be61701434/",
-                    "Area": "The Rising Stones",
+                    "Name": "The Pulsing Heart",
+                    "Url": "/lodestone/playguide/db/quest/b08d71e821e/",
+                    "Area": "The Dravanian Hinterlands",
                     "Level": "60"
                 }
             ],
             "RelatedNPC": [
                 {
-                    "Name": "Unukalhai",
-                    "Url": "/lodestone/playguide/db/npc/npc/d8ae16b75d6/",
-                    "Area": "Azys Lla (X:25.5 Y:22.4)"
+                    "Name": "Mide",
+                    "Url": "/lodestone/playguide/db/npc/npc/bb5dee62305/",
+                    "Area": "The Dravanian Hinterlands (X:21.7 Y:18.9)"
                 },
                 {
-                    "Name": "Verification Node",
-                    "Url": "/lodestone/playguide/db/npc/npc/758d22a0954/",
-                    "Area": "Azys Lla (X:25.6 Y:22.4)"
+                    "Name": "Roundrox",
+                    "Url": "/lodestone/playguide/db/npc/npc/db244314c29/",
+                    "Area": "The Dravanian Hinterlands (X:21.7 Y:18.8)"
                 },
                 {
-                    "Name": "6th Legion Decurion",
-                    "Url": "/lodestone/playguide/db/npc/npc/108ea48eb1e/",
-                    "Area": "Central Azys Lla (X:6.3 Y:6.1)"
-                },
-                {
-                    "Name": "6th Legion Soldier",
-                    "Url": "/lodestone/playguide/db/npc/npc/3d891cc1743/",
-                    "Area": "Central Azys Lla (X:6.3 Y:6.1)"
-                },
-                {
-                    "Name": "Krile",
-                    "Url": "/lodestone/playguide/db/npc/npc/2276bea72b0/",
-                    "Area": "Central Azys Lla (X:6.2 Y:6.2)"
-                },
-                {
-                    "Name": "Krile",
-                    "Url": "/lodestone/playguide/db/npc/npc/31b28d7b525/",
-                    "Area": "Central Azys Lla (X:6.1 Y:6.2)"
-                },
-                {
-                    "Name": "Unukalhai",
-                    "Url": "/lodestone/playguide/db/npc/npc/1b2605af4e3/",
-                    "Area": "Central Azys Lla (X:6.0 Y:6.2)"
-                },
-                {
-                    "Name": "Urianger",
-                    "Url": "/lodestone/playguide/db/npc/npc/a0d7dd20f03/",
-                    "Area": "Central Azys Lla (X:6.1 Y:6.3)"
-                },
-                {
-                    "Name": "Y'shtola",
-                    "Url": "/lodestone/playguide/db/npc/npc/0a1adefd596/",
-                    "Area": "Central Azys Lla (X:6.1 Y:6.3)"
-                }
-            ]
-        },
-        "Seq": 4,
-        "oldID": 67930,
-        "Map": {
-            "ID": 136
-        },
-        "StartDependency": false
-    },
-    {
-        "ID": "599e73dcbc2",
-        "Name": "Balance unto All",
-        "Location": "The Rising Stones",
-        "Level": 60,
-        "JournalSection": 2,
-        "JournalCategory": 15,
-        "JournalGenre": "Chronicles of a New Era - The Warring Triad",
-        "Url": "/lodestone/playguide/db/quest/599e73dcbc2/",
-        "Image": "https://img.finalfantasyxiv.com/lds/pc/global/images/itemicon/1f/1f77e7b1196d08743b1806f91cf7d89f324f430a.png?n5.55",
-        "Icon": "function_normal",
-        "Issuer": "Unukalhai",
-        "StartLocation": {
-            "Name": "The Rising Stones",
-            "X": "6.1",
-            "Y": "5.2"
-        },
-        "StartClass": null,
-        "Job": "",
-        "Company": "Not specified",
-        "Requirement": "Not specified",
-        "Rewards": {
-            "Gil": 5000,
-            "Exp": 0,
-            "ItemsMand": [],
-            "ItemsOpt": []
-        },
-        "Infos": {
-            "PrerequisiteQuest": [
-                {
-                    "Name": "The Fate of Stars",
-                    "Url": "/lodestone/playguide/db/quest/7271488252e/",
-                    "Area": "The Rising Stones",
-                    "Level": "60"
-                }
-            ],
-            "FollowupQuest": [
-                {
-                    "Name": "The Last Pillar to Fall",
-                    "Url": "/lodestone/playguide/db/quest/4ef025cf458/",
-                    "Area": "The Rising Stones",
-                    "Level": "60"
-                },
-                {
-                    "Name": "A Deific Simulacrum",
-                    "Url": "/lodestone/playguide/db/quest/fb6d1706a94/",
-                    "Area": "The Rising Stones",
-                    "Level": "60"
-                }
-            ],
-            "RelatedNPC": [
-                {
-                    "Name": "Unukalhai",
-                    "Url": "/lodestone/playguide/db/npc/npc/5e736a08c7b/",
-                    "Area": "Azys Lla (X:26.7 Y:22.6)"
-                }
-            ]
-        },
-        "Seq": 3,
-        "oldID": 67868,
-        "Map": {
-            "ID": 136
-        },
-        "StartDependency": false
-    },
-    {
-        "ID": "5d671001b22",
-        "Name": "The Diabolical Bismarck",
-        "Location": "The Rising Stones",
-        "Level": 60,
-        "JournalSection": 2,
-        "JournalCategory": 15,
-        "JournalGenre": "Chronicles of a New Era - The Warring Triad",
-        "Url": "/lodestone/playguide/db/quest/5d671001b22/",
-        "Image": "https://img.finalfantasyxiv.com/lds/pc/global/images/itemicon/d4/d4e1086911e97cd7fd9255fb9c500d69f103bec9.png?n5.55",
-        "Icon": "function_normal",
-        "Issuer": "Unukalhai",
-        "StartLocation": {
-            "Name": "The Rising Stones",
-            "X": "6.1",
-            "Y": "5.2"
-        },
-        "StartClass": null,
-        "Job": "",
-        "Company": "Not specified",
-        "Requirement": "Not specified",
-        "Rewards": {
-            "Gil": 5000,
-            "Exp": 0,
-            "ItemsMand": [],
-            "ItemsOpt": []
-        },
-        "Infos": {
-            "PrerequisiteQuest": [
-                {
-                    "Name": "Heavensward",
-                    "Url": "/lodestone/playguide/db/quest/29fa56153f5/",
-                    "Area": "Azys Lla",
-                    "Level": "60"
-                },
-                {
-                    "Name": "Gods of Eld",
-                    "Url": "/lodestone/playguide/db/quest/4188c7ded61/",
-                    "Area": "Ishgard",
-                    "Level": "60"
-                }
-            ],
-            "FollowupQuest": [
-                {
-                    "Name": "The Hero's Journey",
-                    "Url": "/lodestone/playguide/db/quest/f3f792f1b91/",
-                    "Area": "The Crystarium",
-                    "Level": "80"
-                }
-            ],
-            "RelatedNPC": [
-                {
-                    "Name": "Cid",
-                    "Url": "/lodestone/playguide/db/npc/npc/6378e03118e/",
-                    "Area": "The Sea of Clouds (X:6.3 Y:25.7)"
-                },
-                {
-                    "Name": "Sonu Vanu",
-                    "Url": "/lodestone/playguide/db/npc/npc/86fa51a3d8e/",
-                    "Area": "The Sea of Clouds (X:11.7 Y:14.8)"
-                }
-            ],
-            "RelatedAchievements": [
-                {
-                    "Name": "The War Still Wageth On",
-                    "Url": "/lodestone/playguide/db/achievement/4fa0131f0f6/",
-                    "Reward": "Title",
-                    "Points": "10"
-                }
-            ]
-        },
-        "Seq": 5,
-        "oldID": 67651,
-        "Map": {
-            "ID": 136
-        },
-        "StartDependency": false
-    },
-    {
-        "ID": "71fe495b79d",
-        "Name": "When the Bough Wakes",
-        "Location": "The Rising Stones",
-        "Level": 60,
-        "JournalSection": 2,
-        "JournalCategory": 15,
-        "JournalGenre": "Chronicles of a New Era - The Warring Triad",
-        "Url": "/lodestone/playguide/db/quest/71fe495b79d/",
-        "Image": "https://img.finalfantasyxiv.com/lds/pc/global/images/itemicon/3a/3aa4f907910565763bf64dc8aabcbc249c2378f2.png?n5.55",
-        "Icon": "function_normal",
-        "Issuer": "Unukalhai",
-        "StartLocation": {
-            "Name": "The Rising Stones",
-            "X": "6.1",
-            "Y": "5.2"
-        },
-        "StartClass": null,
-        "Job": "",
-        "Company": "Not specified",
-        "Requirement": "Not specified",
-        "Rewards": {
-            "Gil": 3722,
-            "Exp": 0,
-            "ItemsMand": [],
-            "ItemsOpt": []
-        },
-        "Infos": {
-            "PrerequisiteQuest": [
-                {
-                    "Name": "As Goes Light, So Goes Darkness",
-                    "Url": "/lodestone/playguide/db/quest/02f039d7119/",
-                    "Area": "Ishgard",
-                    "Level": "60"
-                },
-                {
-                    "Name": "Gods of Eld",
-                    "Url": "/lodestone/playguide/db/quest/4188c7ded61/",
-                    "Area": "Ishgard",
-                    "Level": "60"
-                }
-            ],
-            "FollowupQuest": [
-                {
-                    "Name": "The Fate of Stars",
-                    "Url": "/lodestone/playguide/db/quest/7271488252e/",
-                    "Area": "The Rising Stones",
-                    "Level": "60"
-                },
-                {
-                    "Name": "A Fiendish Likeness",
-                    "Url": "/lodestone/playguide/db/quest/40020a8a0b5/",
-                    "Area": "The Rising Stones",
-                    "Level": "60"
-                }
-            ],
-            "RelatedNPC": [
-                {
-                    "Name": "Unukalhai",
-                    "Url": "/lodestone/playguide/db/npc/npc/091f01f305d/",
-                    "Area": "Azys Lla (X:26.7 Y:22.4)"
-                },
-                {
-                    "Name": "Verification Node",
-                    "Url": "/lodestone/playguide/db/npc/npc/758d22a0954/",
-                    "Area": "Azys Lla (X:25.6 Y:22.4)"
-                }
-            ]
-        },
-        "Seq": 1,
-        "oldID": 67766,
-        "Map": {
-            "ID": 136
-        },
-        "StartDependency": false
-    },
-    {
-        "ID": "7271488252e",
-        "Name": "The Fate of Stars",
-        "Location": "The Rising Stones",
-        "Level": 60,
-        "JournalSection": 2,
-        "JournalCategory": 15,
-        "JournalGenre": "Chronicles of a New Era - The Warring Triad",
-        "Url": "/lodestone/playguide/db/quest/7271488252e/",
-        "Image": "https://img.finalfantasyxiv.com/lds/pc/global/images/itemicon/90/90acbafdf95a6be15d9ed5d2f6326136bc5e67aa.png?n5.55",
-        "Icon": "function_normal",
-        "Issuer": "Unukalhai",
-        "StartLocation": {
-            "Name": "The Rising Stones",
-            "X": "6.1",
-            "Y": "5.2"
-        },
-        "StartClass": null,
-        "Job": "",
-        "Company": "Not specified",
-        "Requirement": "Not specified",
-        "Rewards": {
-            "Gil": 1935,
-            "Exp": 0,
-            "ItemsMand": [],
-            "ItemsOpt": []
-        },
-        "Infos": {
-            "PrerequisiteQuest": [
-                {
-                    "Name": "When the Bough Wakes",
-                    "Url": "/lodestone/playguide/db/quest/71fe495b79d/",
-                    "Area": "The Rising Stones",
-                    "Level": "60"
-                }
-            ],
-            "FollowupQuest": [
-                {
-                    "Name": "Balance unto All",
-                    "Url": "/lodestone/playguide/db/quest/599e73dcbc2/",
-                    "Area": "The Rising Stones",
-                    "Level": "60"
-                }
-            ],
-            "RelatedNPC": [
-                {
-                    "Name": "Unukalhai",
-                    "Url": "/lodestone/playguide/db/npc/npc/d30486a8c26/",
-                    "Area": "Azys Lla (X:21.3 Y:22.6)"
-                },
-                {
-                    "Name": "Unukalhai",
-                    "Url": "/lodestone/playguide/db/npc/npc/c842800e8ae/",
-                    "Area": "Azys Lla (X:21.2 Y:22.6)"
+                    "Name": "Wedge",
+                    "Url": "/lodestone/playguide/db/npc/npc/d7775371779/",
+                    "Area": "The Dravanian Hinterlands (X:21.8 Y:18.9)"
                 }
             ]
         },
         "Seq": 2,
-        "oldID": 67824,
-        "Map": {
-            "ID": 136
-        },
         "StartDependency": false
     },
     {
-        "ID": "7be61701434",
-        "Name": "A Demonic Duplicate",
-        "Location": "The Rising Stones",
+        "ID": "4ef04b0db1c",
+        "Name": "Thus Spake Quickthinx",
+        "Location": "The Dravanian Hinterlands",
         "Level": 60,
         "JournalSection": 2,
         "JournalCategory": 15,
-        "JournalGenre": "Chronicles of a New Era - The Warring Triad",
-        "Url": "/lodestone/playguide/db/quest/7be61701434/",
-        "Image": "https://img.finalfantasyxiv.com/lds/pc/global/images/itemicon/86/86457584b68e8c8354ca75b8c6ef22d6249e7035.png?n5.55",
+        "JournalGenre": "Chronicles of a New Era - Alexander",
+        "Url": "/lodestone/playguide/db/quest/4ef04b0db1c/",
+        "Image": "https://img.finalfantasyxiv.com/lds/pc/global/images/itemicon/c7/c737eaf2d2905fe87797a0d8438928001fff47ff.png?n6.05",
         "Icon": "function_normal",
-        "Issuer": "Unukalhai",
+        "Issuer": "Biggs",
         "StartLocation": {
-            "Name": "The Rising Stones",
-            "X": "6.1",
-            "Y": "5.2"
+            "Name": "The Dravanian Hinterlands",
+            "X": "21.5",
+            "Y": "19.5"
         },
         "StartClass": null,
         "Job": "",
         "Company": "Not specified",
         "Requirement": "Not specified",
         "Rewards": {
-            "Gil": 934,
+            "Gil": 3508,
+            "Exp": 0,
+            "ItemsMand": [
+                {
+                    "Icon": "https://img.finalfantasyxiv.com/lds/pc/global/images/itemicon/7e/7eaa53e1fe9e2bd80f81d9ce69c98c24f6223b0b.png?n6.05",
+                    "Name": "Exponential Entropy Orchestrion Roll",
+                    "Amount": 1,
+                    "Url": "/lodestone/playguide/db/item/474235ce978/"
+                }
+            ],
+            "ItemsOpt": []
+        },
+        "Infos": {
+            "PrerequisiteQuest": [
+                {
+                    "Name": "Biggs and Wedge's Excellent Adventure",
+                    "Url": "/lodestone/playguide/db/quest/17fc37d0397/",
+                    "Area": "The Dravanian Hinterlands",
+                    "Level": "60"
+                }
+            ],
+            "FollowupQuest": [
+                {
+                    "Name": "Judgment Day",
+                    "Url": "/lodestone/playguide/db/quest/fb49c3f6128/",
+                    "Area": "The Dravanian Hinterlands",
+                    "Level": "60"
+                }
+            ],
+            "RelatedNPC": [
+                {
+                    "Name": "Backrix",
+                    "Url": "/lodestone/playguide/db/npc/npc/4986a71548e/",
+                    "Area": "The Dravanian Hinterlands (X:21.6 Y:19.6)"
+                },
+                {
+                    "Name": "Biggs",
+                    "Url": "/lodestone/playguide/db/npc/npc/bd4752151a7/",
+                    "Area": "The Dravanian Hinterlands (X:21.7 Y:18.8)"
+                },
+                {
+                    "Name": "Wedge",
+                    "Url": "/lodestone/playguide/db/npc/npc/d7775371779/",
+                    "Area": "The Dravanian Hinterlands (X:21.8 Y:18.9)"
+                },
+                {
+                    "Name": "Wedge",
+                    "Url": "/lodestone/playguide/db/npc/npc/60b226fa602/",
+                    "Area": "The Dravanian Hinterlands (X:21.5 Y:19.5)"
+                },
+                {
+                    "Name": "Wedge",
+                    "Url": "/lodestone/playguide/db/npc/npc/196564c41a3/",
+                    "Area": "The Dravanian Hinterlands (X:21.8 Y:18.8)"
+                }
+            ]
+        },
+        "Seq": 12,
+        "StartDependency": false
+    },
+    {
+        "ID": "6f5072b0464",
+        "Name": "A Gob in the Machine",
+        "Location": "The Dravanian Hinterlands",
+        "Level": 60,
+        "JournalSection": 2,
+        "JournalCategory": 15,
+        "JournalGenre": "Chronicles of a New Era - Alexander",
+        "Url": "/lodestone/playguide/db/quest/6f5072b0464/",
+        "Image": "https://img.finalfantasyxiv.com/lds/pc/global/images/itemicon/7e/7ed6373ce017255b507228418853754787c3a7ee.png?n6.05",
+        "Icon": "function_normal",
+        "Issuer": "Backrix",
+        "StartLocation": {
+            "Name": "The Dravanian Hinterlands",
+            "X": "21.8",
+            "Y": "18.9"
+        },
+        "StartClass": null,
+        "Job": "",
+        "Company": "Not specified",
+        "Requirement": "Not specified",
+        "Rewards": {
+            "Gil": 745,
             "Exp": 0,
             "ItemsMand": [],
             "ItemsOpt": []
@@ -534,58 +251,98 @@
         "Infos": {
             "PrerequisiteQuest": [
                 {
-                    "Name": "The Last Pillar to Fall",
-                    "Url": "/lodestone/playguide/db/quest/4ef025cf458/",
-                    "Area": "The Rising Stones",
+                    "Name": "One Step Behind",
+                    "Url": "/lodestone/playguide/db/quest/957dbbb403d/",
+                    "Area": "The Dravanian Hinterlands",
                     "Level": "60"
                 }
             ],
             "FollowupQuest": [
                 {
-                    "Name": "The Hero's Journey",
-                    "Url": "/lodestone/playguide/db/quest/f3f792f1b91/",
-                    "Area": "The Crystarium",
-                    "Level": "80"
+                    "Name": "The Coeurl and the Colossus",
+                    "Url": "/lodestone/playguide/db/quest/b4ee65bf49a/",
+                    "Area": "The Dravanian Hinterlands",
+                    "Level": "60"
+                },
+                {
+                    "Name": "A Refrain for the Undaunted",
+                    "Url": "/lodestone/playguide/db/quest/c36477b1baf/",
+                    "Area": "Mor Dhona",
+                    "Level": "60"
                 }
             ],
             "RelatedNPC": [
                 {
-                    "Name": "Verification Node",
-                    "Url": "/lodestone/playguide/db/npc/npc/758d22a0954/",
-                    "Area": "Azys Lla (X:25.6 Y:22.4)"
+                    "Name": "Biggs",
+                    "Url": "/lodestone/playguide/db/npc/npc/d90236226e8/",
+                    "Area": "The Dravanian Hinterlands (X:21.7 Y:18.8)"
+                },
+                {
+                    "Name": "Biggs",
+                    "Url": "/lodestone/playguide/db/npc/npc/2e441b54c7e/",
+                    "Area": "The Dravanian Hinterlands (X:21.5 Y:19.5)"
+                },
+                {
+                    "Name": "Mide",
+                    "Url": "/lodestone/playguide/db/npc/npc/18bf436290d/",
+                    "Area": "The Dravanian Hinterlands (X:21.7 Y:18.8)"
+                },
+                {
+                    "Name": "Mide",
+                    "Url": "/lodestone/playguide/db/npc/npc/6c1875fc58e/",
+                    "Area": "The Dravanian Hinterlands (X:21.5 Y:19.6)"
+                },
+                {
+                    "Name": "Mide",
+                    "Url": "/lodestone/playguide/db/npc/npc/e14957174d1/",
+                    "Area": "The Dravanian Hinterlands (X:21.7 Y:18.9)"
+                },
+                {
+                    "Name": "Wedge",
+                    "Url": "/lodestone/playguide/db/npc/npc/d7775371779/",
+                    "Area": "The Dravanian Hinterlands (X:21.8 Y:18.9)"
+                },
+                {
+                    "Name": "Wedge",
+                    "Url": "/lodestone/playguide/db/npc/npc/60b226fa602/",
+                    "Area": "The Dravanian Hinterlands (X:21.5 Y:19.5)"
+                }
+            ],
+            "RelatedAchievements": [
+                {
+                    "Name": "The Midas Touch",
+                    "Url": "/lodestone/playguide/db/achievement/2ef0ccb79ba/",
+                    "Reward": "Title",
+                    "Points": "10"
                 }
             ]
         },
         "Seq": 9,
-        "oldID": 67931,
-        "Map": {
-            "ID": 136
-        },
         "StartDependency": false
     },
     {
-        "ID": "fb6d1706a94",
-        "Name": "A Deific Simulacrum",
-        "Location": "The Rising Stones",
+        "ID": "957dbbb403d",
+        "Name": "One Step Behind",
+        "Location": "The Dravanian Hinterlands",
         "Level": 60,
         "JournalSection": 2,
         "JournalCategory": 15,
-        "JournalGenre": "Chronicles of a New Era - The Warring Triad",
-        "Url": "/lodestone/playguide/db/quest/fb6d1706a94/",
-        "Image": "https://img.finalfantasyxiv.com/lds/pc/global/images/itemicon/c2/c292c93da52d530f99438b782c7f2f3f6762975a.png?n5.55",
+        "JournalGenre": "Chronicles of a New Era - Alexander",
+        "Url": "/lodestone/playguide/db/quest/957dbbb403d/",
+        "Image": "https://img.finalfantasyxiv.com/lds/pc/global/images/itemicon/0d/0de9d4f0d7c3f6b2901ec8dae41d5d211ff2810a.png?n6.05",
         "Icon": "function_normal",
-        "Issuer": "Unukalhai",
+        "Issuer": "Backrix",
         "StartLocation": {
-            "Name": "The Rising Stones",
-            "X": "6.1",
-            "Y": "5.2"
+            "Name": "The Dravanian Hinterlands",
+            "X": "21.8",
+            "Y": "18.9"
         },
         "StartClass": null,
         "Job": "",
         "Company": "Not specified",
         "Requirement": "Not specified",
         "Rewards": {
-            "Gil": 934,
+            "Gil": 3573,
             "Exp": 0,
             "ItemsMand": [],
             "ItemsOpt": []
@@ -593,51 +350,223 @@
         "Infos": {
             "PrerequisiteQuest": [
                 {
-                    "Name": "Balance unto All",
-                    "Url": "/lodestone/playguide/db/quest/599e73dcbc2/",
-                    "Area": "The Rising Stones",
+                    "Name": "Toppling the Tyrant",
+                    "Url": "/lodestone/playguide/db/quest/aa17121e0f8/",
+                    "Area": "The Dravanian Hinterlands",
                     "Level": "60"
                 }
             ],
             "FollowupQuest": [
                 {
-                    "Name": "The Hero's Journey",
-                    "Url": "/lodestone/playguide/db/quest/f3f792f1b91/",
-                    "Area": "The Crystarium",
-                    "Level": "80"
+                    "Name": "A Gob in the Machine",
+                    "Url": "/lodestone/playguide/db/quest/6f5072b0464/",
+                    "Area": "The Dravanian Hinterlands",
+                    "Level": "60"
                 }
             ],
             "RelatedNPC": [
                 {
-                    "Name": "Verification Node",
-                    "Url": "/lodestone/playguide/db/npc/npc/758d22a0954/",
-                    "Area": "Azys Lla (X:25.6 Y:22.4)"
+                    "Name": "Biggs",
+                    "Url": "/lodestone/playguide/db/npc/npc/d90236226e8/",
+                    "Area": "The Dravanian Hinterlands (X:21.7 Y:18.8)"
+                },
+                {
+                    "Name": "Lightkix Eyesfixed",
+                    "Url": "/lodestone/playguide/db/npc/npc/e1211fe0f13/",
+                    "Area": "The Dravanian Hinterlands (X:20.6 Y:26.1)"
+                },
+                {
+                    "Name": "Mide",
+                    "Url": "/lodestone/playguide/db/npc/npc/e14957174d1/",
+                    "Area": "The Dravanian Hinterlands (X:21.7 Y:18.9)"
+                },
+                {
+                    "Name": "Wedge",
+                    "Url": "/lodestone/playguide/db/npc/npc/d7775371779/",
+                    "Area": "The Dravanian Hinterlands (X:21.8 Y:18.9)"
                 }
             ]
         },
         "Seq": 8,
-        "oldID": 67869,
-        "Map": {
-            "ID": 136
-        },
         "StartDependency": false
     },
     {
-        "ID": "fe1cf47259a",
-        "Name": "Thok Around the Clock",
-        "Location": "The Rising Stones",
+        "ID": "9aff08a4f0e",
+        "Name": "Enigma",
+        "Location": "The Dravanian Hinterlands",
         "Level": 60,
         "JournalSection": 2,
         "JournalCategory": 15,
-        "JournalGenre": "Chronicles of a New Era - The Warring Triad",
-        "Url": "/lodestone/playguide/db/quest/fe1cf47259a/",
-        "Image": "https://img.finalfantasyxiv.com/lds/pc/global/images/itemicon/7c/7cb11f04a84be46de4fab2bd8fe91e2bd507065e.png?n5.55",
+        "JournalGenre": "Chronicles of a New Era - Alexander",
+        "Url": "/lodestone/playguide/db/quest/9aff08a4f0e/",
+        "Image": "https://img.finalfantasyxiv.com/lds/pc/global/images/itemicon/d1/d1d505cebd4b69812b77f54637898a419679d9f8.png?n6.05",
         "Icon": "function_normal",
-        "Issuer": "Unukalhai",
+        "Issuer": "Redbrix",
         "StartLocation": {
-            "Name": "The Rising Stones",
-            "X": "6.1",
-            "Y": "5.2"
+            "Name": "The Dravanian Hinterlands",
+            "X": "23.9",
+            "Y": "26.5"
+        },
+        "StartClass": null,
+        "Job": "",
+        "Company": "Not specified",
+        "Requirement": "Not specified",
+        "Rewards": {
+            "Gil": 5000,
+            "Exp": 0,
+            "ItemsMand": [
+                {
+                    "Icon": "https://img.finalfantasyxiv.com/lds/pc/global/images/itemicon/10/10262a2036e2fae36ab0f0202dd7af7bd32fa721.png?n6.05",
+                    "Name": "Tarnished Gordian Bolt",
+                    "Amount": 1,
+                    "Url": "/lodestone/playguide/db/item/18b1116384f/"
+                }
+            ],
+            "ItemsOpt": []
+        },
+        "Infos": {
+            "PrerequisiteQuest": [
+                {
+                    "Name": "The Pulsing Heart",
+                    "Url": "/lodestone/playguide/db/quest/b08d71e821e/",
+                    "Area": "The Dravanian Hinterlands",
+                    "Level": "60"
+                }
+            ],
+            "FollowupQuest": [
+                {
+                    "Name": "Rearmed",
+                    "Url": "/lodestone/playguide/db/quest/a32aa59b312/",
+                    "Area": "The Dravanian Hinterlands",
+                    "Level": "60"
+                },
+                {
+                    "Name": "A Song of Steam and Steel",
+                    "Url": "/lodestone/playguide/db/quest/6fce5387fb6/",
+                    "Area": "Mor Dhona",
+                    "Level": "60"
+                }
+            ],
+            "RelatedNPC": [
+                {
+                    "Name": "Mide",
+                    "Url": "/lodestone/playguide/db/npc/npc/bb5dee62305/",
+                    "Area": "The Dravanian Hinterlands (X:21.7 Y:18.9)"
+                },
+                {
+                    "Name": "Roundrox",
+                    "Url": "/lodestone/playguide/db/npc/npc/db244314c29/",
+                    "Area": "The Dravanian Hinterlands (X:21.7 Y:18.8)"
+                }
+            ],
+            "RelatedAchievements": [
+                {
+                    "Name": "Awake the Metal",
+                    "Url": "/lodestone/playguide/db/achievement/68c3e662b57/",
+                    "Reward": "Title",
+                    "Points": "10"
+                }
+            ]
+        },
+        "Seq": 4,
+        "StartDependency": false
+    },
+    {
+        "ID": "a32aa59b312",
+        "Name": "Rearmed",
+        "Location": "The Dravanian Hinterlands",
+        "Level": 60,
+        "JournalSection": 2,
+        "JournalCategory": 15,
+        "JournalGenre": "Chronicles of a New Era - Alexander",
+        "Url": "/lodestone/playguide/db/quest/a32aa59b312/",
+        "Image": "https://img.finalfantasyxiv.com/lds/pc/global/images/itemicon/ef/efe35428cbdcfcbe7d2f7d62855d2106ea633356.png?n6.05",
+        "Icon": "function_normal",
+        "Issuer": "Roundrox",
+        "StartLocation": {
+            "Name": "The Dravanian Hinterlands",
+            "X": "21.7",
+            "Y": "18.8"
+        },
+        "StartClass": null,
+        "Job": "",
+        "Company": "Not specified",
+        "Requirement": "Not specified",
+        "Rewards": {
+            "Gil": 3800,
+            "Exp": 0,
+            "ItemsMand": [],
+            "ItemsOpt": []
+        },
+        "Infos": {
+            "PrerequisiteQuest": [
+                {
+                    "Name": "Enigma",
+                    "Url": "/lodestone/playguide/db/quest/9aff08a4f0e/",
+                    "Area": "The Dravanian Hinterlands",
+                    "Level": "60"
+                }
+            ],
+            "FollowupQuest": [
+                {
+                    "Name": "The Folly of Youth",
+                    "Url": "/lodestone/playguide/db/quest/ed61451ed4e/",
+                    "Area": "The Dravanian Hinterlands",
+                    "Level": "60"
+                }
+            ],
+            "RelatedNPC": [
+                {
+                    "Name": "Backrix",
+                    "Url": "/lodestone/playguide/db/npc/npc/1749b664a8c/",
+                    "Area": "The Dravanian Hinterlands (X:21.8 Y:18.9)"
+                },
+                {
+                    "Name": "Biggs",
+                    "Url": "/lodestone/playguide/db/npc/npc/d90236226e8/",
+                    "Area": "The Dravanian Hinterlands (X:21.7 Y:18.8)"
+                },
+                {
+                    "Name": "Biggs",
+                    "Url": "/lodestone/playguide/db/npc/npc/9874916cc28/",
+                    "Area": "The Dravanian Hinterlands (X:23.6 Y:24.0)"
+                },
+                {
+                    "Name": "Lightkix Eyesfixed",
+                    "Url": "/lodestone/playguide/db/npc/npc/e1211fe0f13/",
+                    "Area": "The Dravanian Hinterlands (X:20.6 Y:26.1)"
+                },
+                {
+                    "Name": "Mide",
+                    "Url": "/lodestone/playguide/db/npc/npc/1f8cbda5efd/",
+                    "Area": "The Dravanian Hinterlands (X:17.8 Y:18.3)"
+                },
+                {
+                    "Name": "Wedge",
+                    "Url": "/lodestone/playguide/db/npc/npc/d7775371779/",
+                    "Area": "The Dravanian Hinterlands (X:21.8 Y:18.9)"
+                }
+            ]
+        },
+        "Seq": 5,
+        "StartDependency": false
+    },
+    {
+        "ID": "a91452a04be",
+        "Name": "Disarmed",
+        "Location": "Idyllshire",
+        "Level": 60,
+        "JournalSection": 2,
+        "JournalCategory": 15,
+        "JournalGenre": "Chronicles of a New Era - Alexander",
+        "Url": "/lodestone/playguide/db/quest/a91452a04be/",
+        "Image": "https://img.finalfantasyxiv.com/lds/pc/global/images/itemicon/89/89bf954b38b70d4d9bd2b7a02ff2e029ee6d09f8.png?n6.05",
+        "Icon": "function_normal",
+        "Issuer": "Slowfix",
+        "StartLocation": {
+            "Name": "Idyllshire",
+            "X": "7.5",
+            "Y": "6.5"
         },
         "StartClass": null,
         "Job": "",
@@ -656,43 +585,620 @@
                     "Url": "/lodestone/playguide/db/quest/29fa56153f5/",
                     "Area": "Azys Lla",
                     "Level": "60"
+                }
+            ],
+            "FollowupQuest": [
+                {
+                    "Name": "Steel and Steam",
+                    "Url": "/lodestone/playguide/db/quest/ef2efbe411f/",
+                    "Area": "The Dravanian Hinterlands",
+                    "Level": "60"
+                }
+            ],
+            "RelatedNPC": [
+                {
+                    "Name": "Backrix",
+                    "Url": "/lodestone/playguide/db/npc/npc/1749b664a8c/",
+                    "Area": "The Dravanian Hinterlands (X:21.8 Y:18.9)"
                 },
                 {
-                    "Name": "Gods of Eld",
-                    "Url": "/lodestone/playguide/db/quest/4188c7ded61/",
-                    "Area": "Ishgard",
+                    "Name": "Biggs",
+                    "Url": "/lodestone/playguide/db/npc/npc/63190d01844/",
+                    "Area": "The Dravanian Hinterlands (X:23.9 Y:26.5)"
+                },
+                {
+                    "Name": "Biggs",
+                    "Url": "/lodestone/playguide/db/npc/npc/d90236226e8/",
+                    "Area": "The Dravanian Hinterlands (X:21.7 Y:18.8)"
+                },
+                {
+                    "Name": "Mide",
+                    "Url": "/lodestone/playguide/db/npc/npc/c5893c0b1f2/",
+                    "Area": "The Dravanian Hinterlands (X:23.8 Y:26.5)"
+                },
+                {
+                    "Name": "Mide",
+                    "Url": "/lodestone/playguide/db/npc/npc/bb5dee62305/",
+                    "Area": "The Dravanian Hinterlands (X:21.7 Y:18.9)"
+                },
+                {
+                    "Name": "Roundrox",
+                    "Url": "/lodestone/playguide/db/npc/npc/db244314c29/",
+                    "Area": "The Dravanian Hinterlands (X:21.7 Y:18.8)"
+                },
+                {
+                    "Name": "Wedge",
+                    "Url": "/lodestone/playguide/db/npc/npc/0066bbc61e5/",
+                    "Area": "The Dravanian Hinterlands (X:23.9 Y:26.5)"
+                },
+                {
+                    "Name": "Wedge",
+                    "Url": "/lodestone/playguide/db/npc/npc/d7775371779/",
+                    "Area": "The Dravanian Hinterlands (X:21.8 Y:18.9)"
+                }
+            ]
+        },
+        "Seq": 7,
+        "StartDependency": false
+    },
+    {
+        "ID": "aa17121e0f8",
+        "Name": "Toppling the Tyrant",
+        "Location": "The Dravanian Hinterlands",
+        "Level": 60,
+        "JournalSection": 2,
+        "JournalCategory": 15,
+        "JournalGenre": "Chronicles of a New Era - Alexander",
+        "Url": "/lodestone/playguide/db/quest/aa17121e0f8/",
+        "Image": "https://img.finalfantasyxiv.com/lds/pc/global/images/itemicon/bb/bbd45c0d28c979c27619ab464bfcd12dfe5e9733.png?n6.05",
+        "Icon": "function_normal",
+        "Issuer": "Mide",
+        "StartLocation": {
+            "Name": "The Dravanian Hinterlands",
+            "X": "21.7",
+            "Y": "18.9"
+        },
+        "StartClass": null,
+        "Job": "",
+        "Company": "Not specified",
+        "Requirement": "Not specified",
+        "Rewards": {
+            "Gil": 3508,
+            "Exp": 0,
+            "ItemsMand": [],
+            "ItemsOpt": []
+        },
+        "Infos": {
+            "PrerequisiteQuest": [
+                {
+                    "Name": "The Folly of Youth",
+                    "Url": "/lodestone/playguide/db/quest/ed61451ed4e/",
+                    "Area": "The Dravanian Hinterlands",
                     "Level": "60"
                 }
             ],
             "FollowupQuest": [
                 {
-                    "Name": "The Hero's Journey",
-                    "Url": "/lodestone/playguide/db/quest/f3f792f1b91/",
-                    "Area": "The Crystarium",
-                    "Level": "80"
+                    "Name": "One Step Behind",
+                    "Url": "/lodestone/playguide/db/quest/957dbbb403d/",
+                    "Area": "The Dravanian Hinterlands",
+                    "Level": "60"
                 }
             ],
             "RelatedNPC": [
                 {
-                    "Name": "Vath Storyteller",
-                    "Url": "/lodestone/playguide/db/npc/npc/41a0c5ab8cb/",
-                    "Area": "The Dravanian Forelands (X:24.0 Y:19.7)"
+                    "Name": "Backrix",
+                    "Url": "/lodestone/playguide/db/npc/npc/1749b664a8c/",
+                    "Area": "The Dravanian Hinterlands (X:21.8 Y:18.9)"
+                },
+                {
+                    "Name": "Biggs",
+                    "Url": "/lodestone/playguide/db/npc/npc/d90236226e8/",
+                    "Area": "The Dravanian Hinterlands (X:21.7 Y:18.8)"
+                },
+                {
+                    "Name": "Biggs",
+                    "Url": "/lodestone/playguide/db/npc/npc/faa58d66d22/",
+                    "Area": "The Dravanian Hinterlands (X:21.7 Y:18.8)"
+                },
+                {
+                    "Name": "Mide",
+                    "Url": "/lodestone/playguide/db/npc/npc/18bf436290d/",
+                    "Area": "The Dravanian Hinterlands (X:21.7 Y:18.8)"
+                },
+                {
+                    "Name": "Wedge",
+                    "Url": "/lodestone/playguide/db/npc/npc/d7775371779/",
+                    "Area": "The Dravanian Hinterlands (X:21.8 Y:18.9)"
+                },
+                {
+                    "Name": "Wedge",
+                    "Url": "/lodestone/playguide/db/npc/npc/12a3c84914e/",
+                    "Area": "The Dravanian Hinterlands (X:21.7 Y:18.8)"
+                }
+            ]
+        },
+        "Seq": 7,
+        "StartDependency": false
+    },
+    {
+        "ID": "b08d71e821e",
+        "Name": "The Pulsing Heart",
+        "Location": "The Dravanian Hinterlands",
+        "Level": 60,
+        "JournalSection": 2,
+        "JournalCategory": 15,
+        "JournalGenre": "Chronicles of a New Era - Alexander",
+        "Url": "/lodestone/playguide/db/quest/b08d71e821e/",
+        "Image": "https://img.finalfantasyxiv.com/lds/pc/global/images/itemicon/a5/a5519f5017d7ec5286e4ac296fed3dbbbb4fda1b.png?n6.05",
+        "Icon": "function_normal",
+        "Issuer": "Mide",
+        "StartLocation": {
+            "Name": "The Dravanian Hinterlands",
+            "X": "21.7",
+            "Y": "18.9"
+        },
+        "StartClass": null,
+        "Job": "",
+        "Company": "Not specified",
+        "Requirement": "Not specified",
+        "Rewards": {
+            "Gil": 5000,
+            "Exp": 0,
+            "ItemsMand": [],
+            "ItemsOpt": []
+        },
+        "Infos": {
+            "PrerequisiteQuest": [
+                {
+                    "Name": "Tinker, Seeker, Soldier, Spy",
+                    "Url": "/lodestone/playguide/db/quest/3862b01959f/",
+                    "Area": "The Dravanian Hinterlands",
+                    "Level": "60"
+                }
+            ],
+            "FollowupQuest": [
+                {
+                    "Name": "Enigma",
+                    "Url": "/lodestone/playguide/db/quest/9aff08a4f0e/",
+                    "Area": "The Dravanian Hinterlands",
+                    "Level": "60"
+                }
+            ],
+            "RelatedNPC": [
+                {
+                    "Name": "Biggs",
+                    "Url": "/lodestone/playguide/db/npc/npc/63190d01844/",
+                    "Area": "The Dravanian Hinterlands (X:23.9 Y:26.5)"
+                },
+                {
+                    "Name": "Biggs",
+                    "Url": "/lodestone/playguide/db/npc/npc/d90236226e8/",
+                    "Area": "The Dravanian Hinterlands (X:21.7 Y:18.8)"
+                },
+                {
+                    "Name": "Mide",
+                    "Url": "/lodestone/playguide/db/npc/npc/c5893c0b1f2/",
+                    "Area": "The Dravanian Hinterlands (X:23.8 Y:26.5)"
+                },
+                {
+                    "Name": "Redbrix",
+                    "Url": "/lodestone/playguide/db/npc/npc/808678eb5ae/",
+                    "Area": "The Dravanian Hinterlands (X:23.9 Y:26.5)"
+                },
+                {
+                    "Name": "Roundrox",
+                    "Url": "/lodestone/playguide/db/npc/npc/db244314c29/",
+                    "Area": "The Dravanian Hinterlands (X:21.7 Y:18.8)"
+                },
+                {
+                    "Name": "Wedge",
+                    "Url": "/lodestone/playguide/db/npc/npc/0066bbc61e5/",
+                    "Area": "The Dravanian Hinterlands (X:23.9 Y:26.5)"
+                },
+                {
+                    "Name": "Wedge",
+                    "Url": "/lodestone/playguide/db/npc/npc/d7775371779/",
+                    "Area": "The Dravanian Hinterlands (X:21.8 Y:18.9)"
+                }
+            ]
+        },
+        "Seq": 3,
+        "StartDependency": false
+    },
+    {
+        "ID": "b4ee65bf49a",
+        "Name": "The Coeurl and the Colossus",
+        "Location": "The Dravanian Hinterlands",
+        "Level": 60,
+        "JournalSection": 2,
+        "JournalCategory": 15,
+        "JournalGenre": "Chronicles of a New Era - Alexander",
+        "Url": "/lodestone/playguide/db/quest/b4ee65bf49a/",
+        "Image": "https://img.finalfantasyxiv.com/lds/pc/global/images/itemicon/2a/2ae2f19152a7a37bce35ac620ee82f689b49a669.png?n6.05",
+        "Icon": "function_normal",
+        "Issuer": "Mide",
+        "StartLocation": {
+            "Name": "The Dravanian Hinterlands",
+            "X": "21.7",
+            "Y": "18.8"
+        },
+        "StartClass": null,
+        "Job": "",
+        "Company": "Not specified",
+        "Requirement": "Not specified",
+        "Rewards": {
+            "Gil": 3508,
+            "Exp": 0,
+            "ItemsMand": [],
+            "ItemsOpt": []
+        },
+        "Infos": {
+            "PrerequisiteQuest": [
+                {
+                    "Name": "A Gob in the Machine",
+                    "Url": "/lodestone/playguide/db/quest/6f5072b0464/",
+                    "Area": "The Dravanian Hinterlands",
+                    "Level": "60"
+                }
+            ],
+            "FollowupQuest": [
+                {
+                    "Name": "Biggs and Wedge's Excellent Adventure",
+                    "Url": "/lodestone/playguide/db/quest/17fc37d0397/",
+                    "Area": "The Dravanian Hinterlands",
+                    "Level": "60"
+                }
+            ],
+            "RelatedNPC": [
+                {
+                    "Name": "Biggs",
+                    "Url": "/lodestone/playguide/db/npc/npc/bffbaae6bf9/",
+                    "Area": "The Dravanian Hinterlands (X:23.5 Y:23.9)"
+                },
+                {
+                    "Name": "Mide",
+                    "Url": "/lodestone/playguide/db/npc/npc/ce14961b645/",
+                    "Area": "The Dravanian Hinterlands (X:20.1 Y:19.9)"
+                },
+                {
+                    "Name": "Mide",
+                    "Url": "/lodestone/playguide/db/npc/npc/9eff2d4fee1/",
+                    "Area": "The Dravanian Hinterlands (X:23.5 Y:23.8)"
+                },
+                {
+                    "Name": "Wedge",
+                    "Url": "/lodestone/playguide/db/npc/npc/146554449d6/",
+                    "Area": "The Dravanian Hinterlands (X:23.5 Y:23.9)"
+                }
+            ]
+        },
+        "Seq": 10,
+        "StartDependency": false
+    },
+    {
+        "ID": "ed61451ed4e",
+        "Name": "The Folly of Youth",
+        "Location": "The Dravanian Hinterlands",
+        "Level": 60,
+        "JournalSection": 2,
+        "JournalCategory": 15,
+        "JournalGenre": "Chronicles of a New Era - Alexander",
+        "Url": "/lodestone/playguide/db/quest/ed61451ed4e/",
+        "Image": "https://img.finalfantasyxiv.com/lds/pc/global/images/itemicon/01/01cbb00da1fe632ddc7b4ef25f3cd2a35f04e50f.png?n6.05",
+        "Icon": "function_normal",
+        "Issuer": "Biggs",
+        "StartLocation": {
+            "Name": "The Dravanian Hinterlands",
+            "X": "21.7",
+            "Y": "18.8"
+        },
+        "StartClass": null,
+        "Job": "",
+        "Company": "Not specified",
+        "Requirement": "Not specified",
+        "Rewards": {
+            "Gil": 3573,
+            "Exp": 0,
+            "ItemsMand": [],
+            "ItemsOpt": []
+        },
+        "Infos": {
+            "PrerequisiteQuest": [
+                {
+                    "Name": "Rearmed",
+                    "Url": "/lodestone/playguide/db/quest/a32aa59b312/",
+                    "Area": "The Dravanian Hinterlands",
+                    "Level": "60"
+                }
+            ],
+            "FollowupQuest": [
+                {
+                    "Name": "Toppling the Tyrant",
+                    "Url": "/lodestone/playguide/db/quest/aa17121e0f8/",
+                    "Area": "The Dravanian Hinterlands",
+                    "Level": "60"
+                }
+            ],
+            "RelatedNPC": [
+                {
+                    "Name": "Mide",
+                    "Url": "/lodestone/playguide/db/npc/npc/bb5dee62305/",
+                    "Area": "The Dravanian Hinterlands (X:21.7 Y:18.9)"
+                }
+            ]
+        },
+        "Seq": 6,
+        "StartDependency": false
+    },
+    {
+        "ID": "ef2efbe411f",
+        "Name": "Steel and Steam",
+        "Location": "The Dravanian Hinterlands",
+        "Level": 60,
+        "JournalSection": 2,
+        "JournalCategory": 15,
+        "JournalGenre": "Chronicles of a New Era - Alexander",
+        "Url": "/lodestone/playguide/db/quest/ef2efbe411f/",
+        "Image": "https://img.finalfantasyxiv.com/lds/pc/global/images/itemicon/9e/9ecd1cff06f2bd7f53c147f03d56d20fbfa45d21.png?n6.05",
+        "Icon": "function_normal",
+        "Issuer": "Biggs",
+        "StartLocation": {
+            "Name": "The Dravanian Hinterlands",
+            "X": "21.7",
+            "Y": "18.8"
+        },
+        "StartClass": null,
+        "Job": "",
+        "Company": "Not specified",
+        "Requirement": "Not specified",
+        "Rewards": {
+            "Gil": 5000,
+            "Exp": 0,
+            "ItemsMand": [],
+            "ItemsOpt": []
+        },
+        "Infos": {
+            "PrerequisiteQuest": [
+                {
+                    "Name": "Disarmed",
+                    "Url": "/lodestone/playguide/db/quest/a91452a04be/",
+                    "Area": "Idyllshire",
+                    "Level": "60"
+                }
+            ],
+            "FollowupQuest": [
+                {
+                    "Name": "Tinker, Seeker, Soldier, Spy",
+                    "Url": "/lodestone/playguide/db/quest/3862b01959f/",
+                    "Area": "The Dravanian Hinterlands",
+                    "Level": "60"
+                }
+            ],
+            "RelatedNPC": [
+                {
+                    "Name": "Mide",
+                    "Url": "/lodestone/playguide/db/npc/npc/bb5dee62305/",
+                    "Area": "The Dravanian Hinterlands (X:21.7 Y:18.9)"
+                },
+                {
+                    "Name": "Roundrox",
+                    "Url": "/lodestone/playguide/db/npc/npc/db244314c29/",
+                    "Area": "The Dravanian Hinterlands (X:21.7 Y:18.8)"
+                },
+                {
+                    "Name": "Wedge",
+                    "Url": "/lodestone/playguide/db/npc/npc/d7775371779/",
+                    "Area": "The Dravanian Hinterlands (X:21.8 Y:18.9)"
+                }
+            ]
+        },
+        "Seq": 1,
+        "StartDependency": false
+    },
+    {
+        "ID": "efd4a3439d3",
+        "Name": "Of Endings and Beginnings",
+        "Location": "The Dravanian Hinterlands",
+        "Level": 60,
+        "JournalSection": 2,
+        "JournalCategory": 15,
+        "JournalGenre": "Chronicles of a New Era - Alexander",
+        "Url": "/lodestone/playguide/db/quest/efd4a3439d3/",
+        "Image": "https://img.finalfantasyxiv.com/lds/pc/global/images/itemicon/cc/cc8ee53aae2bd9a7debc6bd5b1ca03154a4672e8.png?n6.05",
+        "Icon": "function_normal",
+        "Issuer": "Biggs",
+        "StartLocation": {
+            "Name": "The Dravanian Hinterlands",
+            "X": "17.8",
+            "Y": "22.4"
+        },
+        "StartClass": null,
+        "Job": "",
+        "Company": "Not specified",
+        "Requirement": "Not specified",
+        "Rewards": {
+            "Gil": 745,
+            "Exp": 0,
+            "ItemsMand": [
+                {
+                    "Icon": "https://img.finalfantasyxiv.com/lds/pc/global/images/itemicon/7e/7eaa53e1fe9e2bd80f81d9ce69c98c24f6223b0b.png?n6.05",
+                    "Name": "Sins of the Father, Sins of the Son Orchestrion Roll",
+                    "Amount": 1,
+                    "Url": "/lodestone/playguide/db/item/98123db7d65/"
+                },
+                {
+                    "Icon": "https://img.finalfantasyxiv.com/lds/pc/global/images/itemicon/7e/7eaa53e1fe9e2bd80f81d9ce69c98c24f6223b0b.png?n6.05",
+                    "Name": "Locus Orchestrion Roll",
+                    "Amount": 1,
+                    "Url": "/lodestone/playguide/db/item/8bcb97a6775/"
+                },
+                {
+                    "Icon": "https://img.finalfantasyxiv.com/lds/pc/global/images/itemicon/7e/7eaa53e1fe9e2bd80f81d9ce69c98c24f6223b0b.png?n6.05",
+                    "Name": "Metal Orchestrion Roll",
+                    "Amount": 1,
+                    "Url": "/lodestone/playguide/db/item/c497f596092/"
+                },
+                {
+                    "Icon": "https://img.finalfantasyxiv.com/lds/pc/global/images/itemicon/7e/7eaa53e1fe9e2bd80f81d9ce69c98c24f6223b0b.png?n6.05",
+                    "Name": "Metal - Brute Justice Mode Orchestrion Roll",
+                    "Amount": 1,
+                    "Url": "/lodestone/playguide/db/item/07f69db07de/"
+                }
+            ],
+            "ItemsOpt": []
+        },
+        "Infos": {
+            "PrerequisiteQuest": [
+                {
+                    "Name": "Judgment Day",
+                    "Url": "/lodestone/playguide/db/quest/fb49c3f6128/",
+                    "Area": "The Dravanian Hinterlands",
+                    "Level": "60"
+                }
+            ],
+            "FollowupQuest": [
+                {
+                    "Name": "Who Lives, Who Dies, Who Retells Your Story",
+                    "Url": "/lodestone/playguide/db/quest/0393ad9ce2d/",
+                    "Area": "Mor Dhona",
+                    "Level": "60"
+                }
+            ],
+            "RelatedNPC": [
+                {
+                    "Name": "Backrix",
+                    "Url": "/lodestone/playguide/db/npc/npc/1749b664a8c/",
+                    "Area": "The Dravanian Hinterlands (X:21.8 Y:18.9)"
+                },
+                {
+                    "Name": "Biggs",
+                    "Url": "/lodestone/playguide/db/npc/npc/faa58d66d22/",
+                    "Area": "The Dravanian Hinterlands (X:21.7 Y:18.8)"
+                },
+                {
+                    "Name": "Roundrox",
+                    "Url": "/lodestone/playguide/db/npc/npc/db244314c29/",
+                    "Area": "The Dravanian Hinterlands (X:21.7 Y:18.8)"
+                },
+                {
+                    "Name": "Roundrox",
+                    "Url": "/lodestone/playguide/db/npc/npc/6f91a3a4b25/",
+                    "Area": "The Dravanian Hinterlands (X:17.8 Y:18.3)"
+                },
+                {
+                    "Name": "Wedge",
+                    "Url": "/lodestone/playguide/db/npc/npc/12a3c84914e/",
+                    "Area": "The Dravanian Hinterlands (X:21.7 Y:18.8)"
+                },
+                {
+                    "Name": "Wedge",
+                    "Url": "/lodestone/playguide/db/npc/npc/dea1d3e7509/",
+                    "Area": "The Dravanian Hinterlands (X:17.9 Y:22.3)"
                 }
             ],
             "RelatedAchievements": [
                 {
-                    "Name": "The War Still Wageth On",
-                    "Url": "/lodestone/playguide/db/achievement/4fa0131f0f6/",
+                    "Name": "Back in Time",
+                    "Url": "/lodestone/playguide/db/achievement/e31dee1d9ba/",
                     "Reward": "Title",
                     "Points": "10"
                 }
             ]
         },
-        "Seq": 6,
-        "oldID": 67652,
-        "Map": {
-            "ID": 136
+        "Seq": 14,
+        "StartDependency": false
+    },
+    {
+        "ID": "fb49c3f6128",
+        "Name": "Judgment Day",
+        "Location": "The Dravanian Hinterlands",
+        "Level": 60,
+        "JournalSection": 2,
+        "JournalCategory": 15,
+        "JournalGenre": "Chronicles of a New Era - Alexander",
+        "Url": "/lodestone/playguide/db/quest/fb49c3f6128/",
+        "Image": "https://img.finalfantasyxiv.com/lds/pc/global/images/itemicon/b5/b524b7ab88eee718b19fbc80601bc98aa6be41db.png?n6.05",
+        "Icon": "function_normal",
+        "Issuer": "Biggs",
+        "StartLocation": {
+            "Name": "The Dravanian Hinterlands",
+            "X": "21.7",
+            "Y": "18.8"
         },
+        "StartClass": null,
+        "Job": "",
+        "Company": "Not specified",
+        "Requirement": "Not specified",
+        "Rewards": {
+            "Gil": 3508,
+            "Exp": 0,
+            "ItemsMand": [
+                {
+                    "Icon": "https://img.finalfantasyxiv.com/lds/pc/global/images/itemicon/7e/7eaa53e1fe9e2bd80f81d9ce69c98c24f6223b0b.png?n6.05",
+                    "Name": "Rise Orchestrion Roll",
+                    "Amount": 1,
+                    "Url": "/lodestone/playguide/db/item/c1791fb075e/"
+                }
+            ],
+            "ItemsOpt": []
+        },
+        "Infos": {
+            "PrerequisiteQuest": [
+                {
+                    "Name": "Thus Spake Quickthinx",
+                    "Url": "/lodestone/playguide/db/quest/4ef04b0db1c/",
+                    "Area": "The Dravanian Hinterlands",
+                    "Level": "60"
+                }
+            ],
+            "FollowupQuest": [
+                {
+                    "Name": "Of Endings and Beginnings",
+                    "Url": "/lodestone/playguide/db/quest/efd4a3439d3/",
+                    "Area": "The Dravanian Hinterlands",
+                    "Level": "60"
+                }
+            ],
+            "RelatedNPC": [
+                {
+                    "Name": "Biggs",
+                    "Url": "/lodestone/playguide/db/npc/npc/69ab95d8d40/",
+                    "Area": "Heart of the Creator (X:11.3 Y:12.0)"
+                },
+                {
+                    "Name": "Cid",
+                    "Url": "/lodestone/playguide/db/npc/npc/13d656822fd/",
+                    "Area": "Heart of the Creator (X:11.1 Y:12.0)"
+                },
+                {
+                    "Name": "Wedge",
+                    "Url": "/lodestone/playguide/db/npc/npc/eaf258d426d/",
+                    "Area": "Heart of the Creator (X:11.2 Y:12.0)"
+                },
+                {
+                    "Name": "Biggs",
+                    "Url": "/lodestone/playguide/db/npc/npc/5579ef55d7c/",
+                    "Area": "The Dravanian Hinterlands (X:17.8 Y:22.4)"
+                },
+                {
+                    "Name": "Snapclix",
+                    "Url": "/lodestone/playguide/db/npc/npc/61c23054d2c/",
+                    "Area": "The Dravanian Hinterlands (X:23.5 Y:24.0)"
+                },
+                {
+                    "Name": "Wedge",
+                    "Url": "/lodestone/playguide/db/npc/npc/d7775371779/",
+                    "Area": "The Dravanian Hinterlands (X:21.8 Y:18.9)"
+                },
+                {
+                    "Name": "Wedge",
+                    "Url": "/lodestone/playguide/db/npc/npc/dea1d3e7509/",
+                    "Area": "The Dravanian Hinterlands (X:17.9 Y:22.3)"
+                }
+            ]
+        },
+        "Seq": 13,
         "StartDependency": false
     }
 ]

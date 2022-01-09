@@ -1,27 +1,27 @@
 [
     {
-        "ID": "4adf2560fdd",
-        "Name": "Syrcus Tower",
-        "Location": "Mor Dhona",
+        "ID": "0c47c665c78",
+        "Name": "Fragments of Truth",
+        "Location": "The Waking Sands",
         "Level": 50,
         "JournalSection": 2,
         "JournalCategory": 13,
-        "JournalGenre": "Chronicles of a New Era - The Crystal Tower",
-        "Url": "/lodestone/playguide/db/quest/4adf2560fdd/",
-        "Image": "https://img.finalfantasyxiv.com/lds/pc/global/images/itemicon/4c/4cddfd27aa1e94f561b4c2e4bd1ae2b2f4d6872c.png?n5.55",
+        "JournalGenre": "Chronicles of a New Era - Bahamut",
+        "Url": "/lodestone/playguide/db/quest/0c47c665c78/",
+        "Image": "https://img.finalfantasyxiv.com/lds/pc/global/images/itemicon/ef/eff536e86ddf0f383546f4ca474065a9423aa81e.png?n6.05",
         "Icon": "function_normal",
-        "Issuer": "Rammbroes",
+        "Issuer": "Urianger",
         "StartLocation": {
-            "Name": "Mor Dhona",
-            "X": "30.4",
-            "Y": "12.1"
+            "Name": "The Waking Sands",
+            "X": "6.0",
+            "Y": "4.9"
         },
         "StartClass": null,
         "Job": "",
         "Company": "Not specified",
         "Requirement": "Not specified",
         "Rewards": {
-            "Gil": 3752,
+            "Gil": 1018,
             "Exp": 0,
             "ItemsMand": [],
             "ItemsOpt": []
@@ -29,496 +29,265 @@
         "Infos": {
             "PrerequisiteQuest": [
                 {
-                    "Name": "For Prosperity",
-                    "Url": "/lodestone/playguide/db/quest/c8805dfa3b8/",
-                    "Area": "Mor Dhona",
-                    "Level": "50"
-                }
-            ],
-            "FollowupQuest": [
-                {
-                    "Name": "The World of Darkness",
-                    "Url": "/lodestone/playguide/db/quest/c95217ea0fd/",
-                    "Area": "Mor Dhona",
-                    "Level": "50"
-                }
-            ],
-            "RelatedNPC": [
-                {
-                    "Name": "Biggs",
-                    "Url": "/lodestone/playguide/db/npc/npc/136242c70ec/",
-                    "Area": "Mor Dhona (X:30.1 Y:12.3)"
-                },
-                {
-                    "Name": "Biggs",
-                    "Url": "/lodestone/playguide/db/npc/npc/7b78ae9032e/",
-                    "Area": "Mor Dhona (X:34.2 Y:18.7)"
-                },
-                {
-                    "Name": "Biggs",
-                    "Url": "/lodestone/playguide/db/npc/npc/b382e9868ac/",
-                    "Area": "Mor Dhona (X:35.9 Y:20.2)"
-                },
-                {
-                    "Name": "Cid",
-                    "Url": "/lodestone/playguide/db/npc/npc/3b521f3767e/",
-                    "Area": "Mor Dhona (X:30.1 Y:12.4)"
-                },
-                {
-                    "Name": "Cid",
-                    "Url": "/lodestone/playguide/db/npc/npc/af1dbc008e3/",
-                    "Area": "Mor Dhona (X:36.0 Y:20.3)"
-                },
-                {
-                    "Name": "Doga",
-                    "Url": "/lodestone/playguide/db/npc/npc/a67395f9d57/",
-                    "Area": "Mor Dhona (X:36.1 Y:20.3)"
-                },
-                {
-                    "Name": "G'raha Tia",
-                    "Url": "/lodestone/playguide/db/npc/npc/7be9c85dc39/",
-                    "Area": "Mor Dhona (X:30.4 Y:12.1)"
-                },
-                {
-                    "Name": "G'raha Tia",
-                    "Url": "/lodestone/playguide/db/npc/npc/14c3306a3bd/",
-                    "Area": "Mor Dhona (X:36.0 Y:20.3)"
-                },
-                {
-                    "Name": "Nero",
-                    "Url": "/lodestone/playguide/db/npc/npc/779e8dad61d/",
-                    "Area": "Mor Dhona (X:35.9 Y:20.5)"
-                },
-                {
-                    "Name": "Unei",
-                    "Url": "/lodestone/playguide/db/npc/npc/616e1f6a120/",
-                    "Area": "Mor Dhona (X:36.1 Y:20.3)"
-                },
-                {
-                    "Name": "Wedge",
-                    "Url": "/lodestone/playguide/db/npc/npc/a5fc4475555/",
-                    "Area": "Mor Dhona (X:30.2 Y:12.4)"
-                },
-                {
-                    "Name": "Wedge",
-                    "Url": "/lodestone/playguide/db/npc/npc/b95910f4ad0/",
-                    "Area": "Mor Dhona (X:34.0 Y:18.6)"
-                },
-                {
-                    "Name": "Wedge",
-                    "Url": "/lodestone/playguide/db/npc/npc/6e118f9d7b5/",
-                    "Area": "Mor Dhona (X:35.9 Y:20.3)"
-                }
-            ]
-        },
-        "Seq": 5,
-        "oldID": 67010,
-        "Map": {
-            "ID": 25
-        },
-        "StartDependency": false
-    },
-    {
-        "ID": "71f858c9360",
-        "Name": "A Performance for the Ages",
-        "Location": "Mor Dhona",
-        "Level": 50,
-        "JournalSection": 2,
-        "JournalCategory": 13,
-        "JournalGenre": "Chronicles of a New Era - The Crystal Tower",
-        "Url": "/lodestone/playguide/db/quest/71f858c9360/",
-        "Image": null,
-        "Icon": "function_normal",
-        "Issuer": "Rammbroes",
-        "StartLocation": {
-            "Name": "Mor Dhona",
-            "X": "30.4",
-            "Y": "12.1"
-        },
-        "StartClass": null,
-        "Job": "",
-        "Company": "Not specified",
-        "Requirement": "Not specified",
-        "Rewards": {
-            "Gil": 1220,
-            "Exp": 0,
-            "ItemsMand": [],
-            "ItemsOpt": [
-                {
-                    "Icon": "https://img.finalfantasyxiv.com/lds/pc/global/images/itemicon/de/de478eac5995aeff260b0e6eaf52fef8ac0086d8.png?n5.55",
-                    "Name": "X-Potion",
-                    "Amount": 3,
-                    "Url": "/lodestone/playguide/db/item/11f603e31f2/"
-                },
-                {
-                    "Icon": "https://img.finalfantasyxiv.com/lds/pc/global/images/itemicon/59/5964f8ab3a877d7a58d391b912e8e67204dc9ba5.png?n5.55",
-                    "Name": "X-Ether",
-                    "Amount": 3,
-                    "Url": "/lodestone/playguide/db/item/054f77ecc81/"
-                },
-                {
-                    "Icon": "https://img.finalfantasyxiv.com/lds/pc/global/images/itemicon/60/60ab5df609901e4ca4a73fd1922931e538cede62.png?n5.55",
-                    "Name": "Hi-Elixir",
-                    "Amount": 3,
-                    "Url": "/lodestone/playguide/db/item/7d95edb06ef/"
-                },
-                {
-                    "Icon": "https://img.finalfantasyxiv.com/lds/pc/global/images/itemicon/ba/baa2341dd17414fae7fd62ae7bc62c64589b67be.png?n5.55",
-                    "Name": "Allagan Silver Piece",
-                    "Amount": 1,
-                    "Url": "/lodestone/playguide/db/item/a3ac3ba4b00/"
-                }
-            ]
-        },
-        "Infos": {
-            "PrerequisiteQuest": [
-                {
-                    "Name": "Sanding It Down",
-                    "Url": "/lodestone/playguide/db/quest/8291860f8d9/",
-                    "Area": "Mor Dhona",
-                    "Level": "50"
-                }
-            ],
-            "FollowupQuest": [
-                {
-                    "Name": "Labyrinth of the Ancients",
-                    "Url": "/lodestone/playguide/db/quest/c8031463e5b/",
-                    "Area": "Mor Dhona",
-                    "Level": "50"
-                }
-            ],
-            "RelatedNPC": [
-                {
-                    "Name": "Parsemontret",
-                    "Url": "/lodestone/playguide/db/npc/npc/3f5f88f851b/",
-                    "Area": "Old Gridania (X:14.6 Y:9.4)"
-                }
-            ]
-        },
-        "Seq": 2,
-        "oldID": 66737,
-        "Map": {
-            "ID": 25
-        },
-        "StartDependency": false
-    },
-    {
-        "ID": "810119f8166",
-        "Name": "The Gift of the Archmagus",
-        "Location": "Mor Dhona",
-        "Level": 50,
-        "JournalSection": 2,
-        "JournalCategory": 13,
-        "JournalGenre": "Chronicles of a New Era - The Crystal Tower",
-        "Url": "/lodestone/playguide/db/quest/810119f8166/",
-        "Image": "https://img.finalfantasyxiv.com/lds/pc/global/images/itemicon/80/80b7719eed92e12b87fc379ce0a8116adc68de62.png?n5.55",
-        "Icon": "function_repeat",
-        "Issuer": "Koh Rabntah",
-        "StartLocation": {
-            "Name": "Mor Dhona",
-            "X": "21.8",
-            "Y": "8.1"
-        },
-        "StartClass": null,
-        "Job": "",
-        "Company": "Not specified",
-        "Requirement": "Not specified",
-        "Rewards": {
-            "Gil": 0,
-            "Exp": 0,
-            "ItemsMand": [
-                {
-                    "Icon": "https://img.finalfantasyxiv.com/lds/pc/global/images/itemicon/7a/7a0da9967f7e663f7a759f8916105f9273b144ee.png?n5.55",
-                    "Name": "Allagan Catalyst",
-                    "Amount": 1,
-                    "Url": "/lodestone/playguide/db/item/63433b65bb1/"
-                },
-                {
-                    "Icon": "https://img.finalfantasyxiv.com/lds/pc/global/images/itemicon/b3/b32fd3223732ecfb6e5df9ed8b299dbef3d0196e.png?n5.55",
-                    "Name": "Aether Oil",
-                    "Amount": 1,
-                    "Url": "/lodestone/playguide/db/item/333e194da24/"
-                }
-            ],
-            "ItemsOpt": []
-        },
-        "Infos": {
-            "PrerequisiteQuest": [
-                {
-                    "Name": "But I Hardly Noah",
-                    "Url": "/lodestone/playguide/db/quest/e2b06cb25d9/",
-                    "Area": "Mor Dhona",
-                    "Level": "50"
-                }
-            ]
-        },
-        "Seq": 9,
-        "oldID": 66034,
-        "Map": {
-            "ID": 25
-        },
-        "StartDependency": false
-    },
-    {
-        "ID": "8291860f8d9",
-        "Name": "Sanding It Down",
-        "Location": "Mor Dhona",
-        "Level": 50,
-        "JournalSection": 2,
-        "JournalCategory": 13,
-        "JournalGenre": "Chronicles of a New Era - The Crystal Tower",
-        "Url": "/lodestone/playguide/db/quest/8291860f8d9/",
-        "Image": null,
-        "Icon": "function_normal",
-        "Issuer": "Rammbroes",
-        "StartLocation": {
-            "Name": "Mor Dhona",
-            "X": "30.4",
-            "Y": "12.1"
-        },
-        "StartClass": null,
-        "Job": "",
-        "Company": "Not specified",
-        "Requirement": "Not specified",
-        "Rewards": {
-            "Gil": 1220,
-            "Exp": 0,
-            "ItemsMand": [],
-            "ItemsOpt": [
-                {
-                    "Icon": "https://img.finalfantasyxiv.com/lds/pc/global/images/itemicon/06/06bd35b3df19cbc5d80eed3ed99c67a366c835aa.png?n5.55",
-                    "Name": "Heavens' Eye Materia IV",
-                    "Amount": 1,
-                    "Url": "/lodestone/playguide/db/item/93fe1786b70/"
-                },
-                {
-                    "Icon": "https://img.finalfantasyxiv.com/lds/pc/global/images/itemicon/06/06bd35b3df19cbc5d80eed3ed99c67a366c835aa.png?n5.55",
-                    "Name": "Savage Aim Materia IV",
-                    "Amount": 1,
-                    "Url": "/lodestone/playguide/db/item/dce3a5f3467/"
-                },
-                {
-                    "Icon": "https://img.finalfantasyxiv.com/lds/pc/global/images/itemicon/06/06bd35b3df19cbc5d80eed3ed99c67a366c835aa.png?n5.55",
-                    "Name": "Savage Might Materia IV",
-                    "Amount": 1,
-                    "Url": "/lodestone/playguide/db/item/1bc25f58180/"
-                },
-                {
-                    "Icon": "https://img.finalfantasyxiv.com/lds/pc/global/images/itemicon/ba/baa2341dd17414fae7fd62ae7bc62c64589b67be.png?n5.55",
-                    "Name": "Allagan Silver Piece",
-                    "Amount": 1,
-                    "Url": "/lodestone/playguide/db/item/a3ac3ba4b00/"
-                }
-            ]
-        },
-        "Infos": {
-            "PrerequisiteQuest": [
-                {
-                    "Name": "Legacy of Allag",
-                    "Url": "/lodestone/playguide/db/quest/a2873d209ec/",
-                    "Area": "Mor Dhona",
-                    "Level": "50"
-                }
-            ],
-            "FollowupQuest": [
-                {
-                    "Name": "A Performance for the Ages",
-                    "Url": "/lodestone/playguide/db/quest/71f858c9360/",
-                    "Area": "Mor Dhona",
-                    "Level": "50"
-                }
-            ],
-            "RelatedNPC": [
-                {
-                    "Name": "Experienced Adventurer",
-                    "Url": "/lodestone/playguide/db/npc/npc/26d76811d87/",
-                    "Area": "Northern Thanalan (X:21.5 Y:29.7)"
-                },
-                {
-                    "Name": "Wedge",
-                    "Url": "/lodestone/playguide/db/npc/npc/8257a5af8f8/",
-                    "Area": "Northern Thanalan (X:26.4 Y:23.1)"
-                },
-                {
-                    "Name": "Biggs",
-                    "Url": "/lodestone/playguide/db/npc/npc/abd7dc97bff/",
-                    "Area": "Ul'dah - Steps of Thal (X:10.5 Y:13.2)"
-                },
-                {
-                    "Name": "Serendipity",
-                    "Url": "/lodestone/playguide/db/npc/npc/7dfbcb52c51/",
-                    "Area": "Ul'dah - Steps of Thal (X:10.7 Y:13.4)"
-                }
-            ]
-        },
-        "Seq": 1,
-        "oldID": 66736,
-        "Map": {
-            "ID": 25
-        },
-        "StartDependency": false
-    },
-    {
-        "ID": "a2873d209ec",
-        "Name": "Legacy of Allag",
-        "Location": "Mor Dhona",
-        "Level": 50,
-        "JournalSection": 2,
-        "JournalCategory": 13,
-        "JournalGenre": "Chronicles of a New Era - The Crystal Tower",
-        "Url": "/lodestone/playguide/db/quest/a2873d209ec/",
-        "Image": "https://img.finalfantasyxiv.com/lds/pc/global/images/itemicon/7d/7d4cee627cc765cc427f778f543e63b2912275dd.png?n5.55",
-        "Icon": "function_normal",
-        "Issuer": "Outlandish Man",
-        "StartLocation": {
-            "Name": "Mor Dhona",
-            "X": "21.8",
-            "Y": "8.1"
-        },
-        "StartClass": null,
-        "Job": "",
-        "Company": "Not specified",
-        "Requirement": "Not specified",
-        "Rewards": {
-            "Gil": 1220,
-            "Exp": 0,
-            "ItemsMand": [
-                {
-                    "Icon": "https://img.finalfantasyxiv.com/lds/pc/global/images/itemicon/07/073f858f432cad89e7a287cd90bf4ffdb990b079.png?n5.55",
-                    "Name": "Grade 5 Dark Matter",
-                    "Amount": 3,
-                    "Url": "/lodestone/playguide/db/item/bc12c674d66/"
-                }
-            ],
-            "ItemsOpt": []
-        },
-        "Infos": {
-            "PrerequisiteQuest": [
-                {
-                    "Name": "The Ultimate Weapon",
-                    "Url": "/lodestone/playguide/db/quest/3ab32cfebf8/",
+                    "Name": "Alisaie's Resolve",
+                    "Url": "/lodestone/playguide/db/quest/8c0f312af46/",
                     "Area": "Northern Thanalan",
                     "Level": "50"
                 }
             ],
             "FollowupQuest": [
                 {
-                    "Name": "Sanding It Down",
-                    "Url": "/lodestone/playguide/db/quest/8291860f8d9/",
-                    "Area": "Mor Dhona",
+                    "Name": "Alisaie's Path",
+                    "Url": "/lodestone/playguide/db/quest/540aa672655/",
+                    "Area": "Northern Thanalan",
                     "Level": "50"
                 }
             ],
             "RelatedNPC": [
                 {
-                    "Name": "Rammbroes",
-                    "Url": "/lodestone/playguide/db/npc/npc/3ceba4171d3/",
-                    "Area": "Mor Dhona (X:30.4 Y:12.1)"
+                    "Name": "Alisaie's Assistant",
+                    "Url": "/lodestone/playguide/db/npc/npc/64d655e9773/",
+                    "Area": "Eastern Thanalan (X:30.0 Y:24.9)"
+                },
+                {
+                    "Name": "Alisaie",
+                    "Url": "/lodestone/playguide/db/npc/npc/1136d776df0/",
+                    "Area": "Northern Thanalan (X:20.1 Y:17.6)"
+                },
+                {
+                    "Name": "Erkenrad",
+                    "Url": "/lodestone/playguide/db/npc/npc/fa31252b61b/",
+                    "Area": "Northern Thanalan (X:19.4 Y:20.3)"
+                },
+                {
+                    "Name": "Urianger",
+                    "Url": "/lodestone/playguide/db/npc/npc/c5335f3519d/",
+                    "Area": "Northern Thanalan (X:20.0 Y:20.4)"
+                },
+                {
+                    "Name": "Urianger",
+                    "Url": "/lodestone/playguide/db/npc/npc/7b433d764d5/",
+                    "Area": "Northern Thanalan (X:20.1 Y:17.6)"
+                },
+                {
+                    "Name": "Alisaie's Assistant",
+                    "Url": "/lodestone/playguide/db/npc/npc/076246cbbab/",
+                    "Area": "Mor Dhona (X:30.8 Y:5.8)"
+                },
+                {
+                    "Name": "Alisaie's Assistant",
+                    "Url": "/lodestone/playguide/db/npc/npc/f2031c985e8/",
+                    "Area": "Mor Dhona (X:30.8 Y:5.8)"
                 }
             ]
         },
         "Seq": 4,
-        "oldID": 67245,
-        "Map": {
-            "ID": 25
-        },
         "StartDependency": false
     },
     {
-        "ID": "abeb33d0875",
-        "Name": "The Light of Hope",
-        "Location": "Mor Dhona",
+        "ID": "33b59cfa29e",
+        "Name": "Alisaie's Pledge",
+        "Location": "The Waking Sands",
         "Level": 50,
         "JournalSection": 2,
         "JournalCategory": 13,
-        "JournalGenre": "Chronicles of a New Era - The Crystal Tower",
-        "Url": "/lodestone/playguide/db/quest/abeb33d0875/",
-        "Image": "https://img.finalfantasyxiv.com/lds/pc/global/images/itemicon/1e/1e7e03c5c5c025a0c2d90facad9e2c74a4de34ff.png?n5.55",
+        "JournalGenre": "Chronicles of a New Era - Bahamut",
+        "Url": "/lodestone/playguide/db/quest/33b59cfa29e/",
+        "Image": "https://img.finalfantasyxiv.com/lds/pc/global/images/itemicon/80/80a221c4e8026601e6fa4750dc52967b85b8044f.png?n6.05",
         "Icon": "function_normal",
-        "Issuer": "Rammbroes",
+        "Issuer": "Urianger",
         "StartLocation": {
-            "Name": "Mor Dhona",
-            "X": "30.4",
-            "Y": "12.1"
+            "Name": "The Waking Sands",
+            "X": "6.0",
+            "Y": "4.9"
         },
         "StartClass": null,
         "Job": "",
         "Company": "Not specified",
-        "Requirement": "Not specified",
+        "Requirement": "The Binding Coil of Bahamut - Turn 5",
         "Rewards": {
-            "Gil": 658,
+            "Gil": 3752,
             "Exp": 0,
-            "ItemsMand": [
-                {
-                    "Icon": "https://img.finalfantasyxiv.com/lds/pc/global/images/itemicon/7a/7a0da9967f7e663f7a759f8916105f9273b144ee.png?n5.55",
-                    "Name": "Allagan Catalyst",
-                    "Amount": 1,
-                    "Url": "/lodestone/playguide/db/item/63433b65bb1/"
-                }
-            ],
+            "ItemsMand": [],
             "ItemsOpt": []
         },
         "Infos": {
             "PrerequisiteQuest": [
                 {
-                    "Name": "The World of Darkness",
-                    "Url": "/lodestone/playguide/db/quest/c95217ea0fd/",
-                    "Area": "Mor Dhona",
+                    "Name": "Primal Awakening",
+                    "Url": "/lodestone/playguide/db/quest/37c727ddab3/",
+                    "Area": "The Waking Sands",
                     "Level": "50"
                 }
             ],
             "FollowupQuest": [
                 {
-                    "Name": "But I Hardly Noah",
-                    "Url": "/lodestone/playguide/db/quest/e2b06cb25d9/",
-                    "Area": "Mor Dhona",
+                    "Name": "Another Turn in the Coil",
+                    "Url": "/lodestone/playguide/db/quest/d04a0280ec0/",
+                    "Area": "The Waking Sands",
                     "Level": "50"
                 }
             ],
             "RelatedNPC": [
                 {
-                    "Name": "Son Of Saint Coinach",
-                    "Url": "/lodestone/playguide/db/npc/npc/d4875f21ce2/",
-                    "Area": "Mor Dhona (X:35.6 Y:20.0)"
+                    "Name": "Alisaie",
+                    "Url": "/lodestone/playguide/db/npc/npc/4d810451d0f/",
+                    "Area": "The Waking Sands (X:6.0 Y:5.0)"
                 }
             ],
             "RelatedAchievements": [
                 {
-                    "Name": "Out of the Dark",
-                    "Url": "/lodestone/playguide/db/achievement/3ecd0add529/",
+                    "Name": "The Truth Is Down There",
+                    "Url": "/lodestone/playguide/db/achievement/c601ed315e6/",
+                    "Reward": "-",
+                    "Points": "10"
+                }
+            ]
+        },
+        "Seq": 1,
+        "StartDependency": false
+    },
+    {
+        "ID": "37c727ddab3",
+        "Name": "Primal Awakening",
+        "Location": "The Waking Sands",
+        "Level": 50,
+        "JournalSection": 2,
+        "JournalCategory": 13,
+        "JournalGenre": "Chronicles of a New Era - Bahamut",
+        "Url": "/lodestone/playguide/db/quest/37c727ddab3/",
+        "Image": "https://img.finalfantasyxiv.com/lds/pc/global/images/itemicon/f4/f4b6c4b9bf3c8aca25cfae88ade8e167702ac781.png?n6.05",
+        "Icon": "function_normal",
+        "Issuer": "Urianger",
+        "StartLocation": {
+            "Name": "The Waking Sands",
+            "X": "6.0",
+            "Y": "4.9"
+        },
+        "StartClass": null,
+        "Job": "",
+        "Company": "Not specified",
+        "Requirement": "The Navel (Hard)",
+        "Rewards": {
+            "Gil": 1659,
+            "Exp": 0,
+            "ItemsMand": [],
+            "ItemsOpt": []
+        },
+        "Infos": {
+            "PrerequisiteQuest": [
+                {
+                    "Name": "In a Titan Spot",
+                    "Url": "/lodestone/playguide/db/quest/3fe58aa572c/",
+                    "Area": "The Waking Sands",
+                    "Level": "50"
+                }
+            ],
+            "FollowupQuest": [
+                {
+                    "Name": "Alisaie's Pledge",
+                    "Url": "/lodestone/playguide/db/quest/33b59cfa29e/",
+                    "Area": "The Waking Sands",
+                    "Level": "50"
+                }
+            ],
+            "RelatedNPC": [
+                {
+                    "Name": "Alisaie",
+                    "Url": "/lodestone/playguide/db/npc/npc/54af48b91ec/",
+                    "Area": "Eastern La Noscea (X:21.1 Y:21.8)"
+                },
+                {
+                    "Name": "J'brohka",
+                    "Url": "/lodestone/playguide/db/npc/npc/cbfcb7f0342/",
+                    "Area": "Eastern La Noscea (X:21.7 Y:22.3)"
+                }
+            ]
+        },
+        "Seq": 2,
+        "StartDependency": false
+    },
+    {
+        "ID": "540aa672655",
+        "Name": "Alisaie's Path",
+        "Location": "Northern Thanalan",
+        "Level": 50,
+        "JournalSection": 2,
+        "JournalCategory": 13,
+        "JournalGenre": "Chronicles of a New Era - Bahamut",
+        "Url": "/lodestone/playguide/db/quest/540aa672655/",
+        "Image": "https://img.finalfantasyxiv.com/lds/pc/global/images/itemicon/12/12687e9268fed8070f01937e970bf13a0d6a8429.png?n6.05",
+        "Icon": "function_normal",
+        "Issuer": "Alisaie",
+        "StartLocation": {
+            "Name": "Northern Thanalan",
+            "X": "20.2",
+            "Y": "17.3"
+        },
+        "StartClass": null,
+        "Job": "",
+        "Company": "Not specified",
+        "Requirement": "The Final Coil of Bahamut - Turn 4",
+        "Rewards": {
+            "Gil": 5000,
+            "Exp": 0,
+            "ItemsMand": [],
+            "ItemsOpt": []
+        },
+        "Infos": {
+            "PrerequisiteQuest": [
+                {
+                    "Name": "Fragments of Truth",
+                    "Url": "/lodestone/playguide/db/quest/0c47c665c78/",
+                    "Area": "The Waking Sands",
+                    "Level": "50"
+                }
+            ],
+            "RelatedNPC": [
+                {
+                    "Name": "Alphinaud",
+                    "Url": "/lodestone/playguide/db/npc/npc/dcf5dfcf696/",
+                    "Area": "Northern Thanalan (X:20.3 Y:17.3)"
+                },
+                {
+                    "Name": "Urianger",
+                    "Url": "/lodestone/playguide/db/npc/npc/c5335f3519d/",
+                    "Area": "Northern Thanalan (X:20.0 Y:20.4)"
+                }
+            ],
+            "RelatedAchievements": [
+                {
+                    "Name": "Uncoiled",
+                    "Url": "/lodestone/playguide/db/achievement/8d9467a18ac/",
                     "Reward": "Title",
                     "Points": "20"
                 }
             ]
         },
-        "Seq": 7,
-        "oldID": 66031,
-        "Map": {
-            "ID": 25
-        },
+        "Seq": 5,
         "StartDependency": false
     },
     {
-        "ID": "c8031463e5b",
-        "Name": "Labyrinth of the Ancients",
-        "Location": "Mor Dhona",
+        "ID": "8c0f312af46",
+        "Name": "Alisaie's Resolve",
+        "Location": "Northern Thanalan",
         "Level": 50,
         "JournalSection": 2,
         "JournalCategory": 13,
-        "JournalGenre": "Chronicles of a New Era - The Crystal Tower",
-        "Url": "/lodestone/playguide/db/quest/c8031463e5b/",
-        "Image": "https://img.finalfantasyxiv.com/lds/pc/global/images/itemicon/d1/d136fd6a9946dc1f101118746ac8bc457fa428ab.png?n5.55",
+        "JournalGenre": "Chronicles of a New Era - Bahamut",
+        "Url": "/lodestone/playguide/db/quest/8c0f312af46/",
+        "Image": "https://img.finalfantasyxiv.com/lds/pc/global/images/itemicon/a7/a79cb63ce2f232357f9e1d6ffcff38e6cf4701ec.png?n6.05",
         "Icon": "function_normal",
-        "Issuer": "G'raha Tia",
+        "Issuer": "Alisaie",
         "StartLocation": {
-            "Name": "Mor Dhona",
-            "X": "30.4",
-            "Y": "12.1"
+            "Name": "Northern Thanalan",
+            "X": "20.2",
+            "Y": "17.4"
         },
         "StartClass": null,
         "Job": "",
         "Company": "Not specified",
-        "Requirement": "Not specified",
+        "Requirement": "The Second Coil of Bahamut - Turn 4",
         "Rewards": {
             "Gil": 3752,
             "Exp": 0,
@@ -528,135 +297,62 @@
         "Infos": {
             "PrerequisiteQuest": [
                 {
-                    "Name": "A Performance for the Ages",
-                    "Url": "/lodestone/playguide/db/quest/71f858c9360/",
-                    "Area": "Mor Dhona",
+                    "Name": "Another Turn in the Coil",
+                    "Url": "/lodestone/playguide/db/quest/d04a0280ec0/",
+                    "Area": "The Waking Sands",
                     "Level": "50"
                 }
             ],
             "FollowupQuest": [
                 {
-                    "Name": "For Prosperity",
-                    "Url": "/lodestone/playguide/db/quest/c8805dfa3b8/",
-                    "Area": "Mor Dhona",
+                    "Name": "Fragments of Truth",
+                    "Url": "/lodestone/playguide/db/quest/0c47c665c78/",
+                    "Area": "The Waking Sands",
                     "Level": "50"
+                }
+            ],
+            "RelatedNPC": [
+                {
+                    "Name": "Urianger",
+                    "Url": "/lodestone/playguide/db/npc/npc/f64497fe8b0/",
+                    "Area": "The Waking Sands (X:6.0 Y:4.9)"
+                }
+            ],
+            "RelatedAchievements": [
+                {
+                    "Name": "You Can Handle the Truth",
+                    "Url": "/lodestone/playguide/db/achievement/11f7fa6533a/",
+                    "Reward": "-",
+                    "Points": "20"
                 }
             ]
         },
         "Seq": 3,
-        "oldID": 66738,
-        "Map": {
-            "ID": 25
-        },
         "StartDependency": false
     },
     {
-        "ID": "c8805dfa3b8",
-        "Name": "For Prosperity",
-        "Location": "Mor Dhona",
+        "ID": "d04a0280ec0",
+        "Name": "Another Turn in the Coil",
+        "Location": "The Waking Sands",
         "Level": 50,
         "JournalSection": 2,
         "JournalCategory": 13,
-        "JournalGenre": "Chronicles of a New Era - The Crystal Tower",
-        "Url": "/lodestone/playguide/db/quest/c8805dfa3b8/",
-        "Image": "https://img.finalfantasyxiv.com/lds/pc/global/images/itemicon/20/20d07c5ca8160dda4815fbfa52418f9bcee5f178.png?n5.55",
+        "JournalGenre": "Chronicles of a New Era - Bahamut",
+        "Url": "/lodestone/playguide/db/quest/d04a0280ec0/",
+        "Image": "https://img.finalfantasyxiv.com/lds/pc/global/images/itemicon/b8/b86eb70ed320e7f1b41201570bbd43b7cb5de53e.png?n6.05",
         "Icon": "function_normal",
-        "Issuer": "G'raha Tia",
+        "Issuer": "Urianger",
         "StartLocation": {
-            "Name": "Mor Dhona",
-            "X": "30.4",
-            "Y": "12.1"
+            "Name": "The Waking Sands",
+            "X": "6.0",
+            "Y": "4.9"
         },
         "StartClass": null,
         "Job": "",
         "Company": "Not specified",
         "Requirement": "Not specified",
         "Rewards": {
-            "Gil": 0,
-            "Exp": 0,
-            "ItemsMand": [],
-            "ItemsOpt": [
-                {
-                    "Icon": "https://img.finalfantasyxiv.com/lds/pc/global/images/itemicon/59/591709d485ebd155ba018c8cd773fe3c662caed3.png?n5.55",
-                    "Name": "Battledance Materia IV",
-                    "Amount": 1,
-                    "Url": "/lodestone/playguide/db/item/37f25043bf3/"
-                },
-                {
-                    "Icon": "https://img.finalfantasyxiv.com/lds/pc/global/images/itemicon/60/6072436b0c90d22b6a9d7da93f356256a04be53d.png?n5.55",
-                    "Name": "Quickarm Materia IV",
-                    "Amount": 1,
-                    "Url": "/lodestone/playguide/db/item/1162b3fcc58/"
-                },
-                {
-                    "Icon": "https://img.finalfantasyxiv.com/lds/pc/global/images/itemicon/60/6072436b0c90d22b6a9d7da93f356256a04be53d.png?n5.55",
-                    "Name": "Quicktongue Materia IV",
-                    "Amount": 1,
-                    "Url": "/lodestone/playguide/db/item/5bbb25ff7dd/"
-                },
-                {
-                    "Icon": "https://img.finalfantasyxiv.com/lds/pc/global/images/itemicon/ba/baa2341dd17414fae7fd62ae7bc62c64589b67be.png?n5.55",
-                    "Name": "Allagan Silver Piece",
-                    "Amount": 1,
-                    "Url": "/lodestone/playguide/db/item/a3ac3ba4b00/"
-                }
-            ]
-        },
-        "Infos": {
-            "PrerequisiteQuest": [
-                {
-                    "Name": "Labyrinth of the Ancients",
-                    "Url": "/lodestone/playguide/db/quest/c8031463e5b/",
-                    "Area": "Mor Dhona",
-                    "Level": "50"
-                }
-            ],
-            "FollowupQuest": [
-                {
-                    "Name": "Syrcus Tower",
-                    "Url": "/lodestone/playguide/db/quest/4adf2560fdd/",
-                    "Area": "Mor Dhona",
-                    "Level": "50"
-                }
-            ],
-            "RelatedNPC": [
-                {
-                    "Name": "Rammbroes",
-                    "Url": "/lodestone/playguide/db/npc/npc/3ceba4171d3/",
-                    "Area": "Mor Dhona (X:30.4 Y:12.1)"
-                }
-            ]
-        },
-        "Seq": 4,
-        "oldID": 66739,
-        "Map": {
-            "ID": 25
-        },
-        "StartDependency": false
-    },
-    {
-        "ID": "c95217ea0fd",
-        "Name": "The World of Darkness",
-        "Location": "Mor Dhona",
-        "Level": 50,
-        "JournalSection": 2,
-        "JournalCategory": 13,
-        "JournalGenre": "Chronicles of a New Era - The Crystal Tower",
-        "Url": "/lodestone/playguide/db/quest/c95217ea0fd/",
-        "Image": "https://img.finalfantasyxiv.com/lds/pc/global/images/itemicon/94/94ad1ac993d1a2dc3850def9b307bf9490230172.png?n5.55",
-        "Icon": "function_normal",
-        "Issuer": "Rammbroes",
-        "StartLocation": {
-            "Name": "Mor Dhona",
-            "X": "30.4",
-            "Y": "12.1"
-        },
-        "StartClass": null,
-        "Job": "",
-        "Company": "Not specified",
-        "Requirement": "Not specified",
-        "Rewards": {
-            "Gil": 3752,
+            "Gil": 2064,
             "Exp": 0,
             "ItemsMand": [],
             "ItemsOpt": []
@@ -664,122 +360,42 @@
         "Infos": {
             "PrerequisiteQuest": [
                 {
-                    "Name": "Syrcus Tower",
-                    "Url": "/lodestone/playguide/db/quest/4adf2560fdd/",
-                    "Area": "Mor Dhona",
+                    "Name": "Alisaie's Pledge",
+                    "Url": "/lodestone/playguide/db/quest/33b59cfa29e/",
+                    "Area": "The Waking Sands",
                     "Level": "50"
                 }
             ],
             "FollowupQuest": [
                 {
-                    "Name": "The Light of Hope",
-                    "Url": "/lodestone/playguide/db/quest/abeb33d0875/",
-                    "Area": "Mor Dhona",
+                    "Name": "Alisaie's Resolve",
+                    "Url": "/lodestone/playguide/db/quest/8c0f312af46/",
+                    "Area": "Northern Thanalan",
                     "Level": "50"
                 }
             ],
             "RelatedNPC": [
                 {
-                    "Name": "Biggs",
-                    "Url": "/lodestone/playguide/db/npc/npc/136242c70ec/",
-                    "Area": "Mor Dhona (X:30.1 Y:12.3)"
+                    "Name": "Anaelle",
+                    "Url": "/lodestone/playguide/db/npc/npc/3da910313ba/",
+                    "Area": "North Shroud (X:20.7 Y:27.3)"
                 },
                 {
-                    "Name": "Biggs",
-                    "Url": "/lodestone/playguide/db/npc/npc/759980c62b6/",
-                    "Area": "Mor Dhona (X:34.7 Y:19.3)"
-                },
+                    "Name": "Sharp-eyed Serpent Private",
+                    "Url": "/lodestone/playguide/db/npc/npc/07d09f2cabb/",
+                    "Area": "North Shroud (X:16.7 Y:29.9)"
+                }
+            ],
+            "RelatedAchievements": [
                 {
-                    "Name": "Cid",
-                    "Url": "/lodestone/playguide/db/npc/npc/3b521f3767e/",
-                    "Area": "Mor Dhona (X:30.1 Y:12.4)"
-                },
-                {
-                    "Name": "G'raha Tia",
-                    "Url": "/lodestone/playguide/db/npc/npc/7be9c85dc39/",
-                    "Area": "Mor Dhona (X:30.4 Y:12.1)"
-                },
-                {
-                    "Name": "G'raha Tia",
-                    "Url": "/lodestone/playguide/db/npc/npc/735f31f7624/",
-                    "Area": "Mor Dhona (X:36.1 Y:20.1)"
-                },
-                {
-                    "Name": "Wedge",
-                    "Url": "/lodestone/playguide/db/npc/npc/a5fc4475555/",
-                    "Area": "Mor Dhona (X:30.2 Y:12.4)"
-                },
-                {
-                    "Name": "Wedge",
-                    "Url": "/lodestone/playguide/db/npc/npc/c50b206da72/",
-                    "Area": "Mor Dhona (X:34.7 Y:19.3)"
+                    "Name": "The Truth Is Down There",
+                    "Url": "/lodestone/playguide/db/achievement/c601ed315e6/",
+                    "Reward": "-",
+                    "Points": "10"
                 }
             ]
         },
-        "Seq": 6,
-        "oldID": 66030,
-        "Map": {
-            "ID": 25
-        },
-        "StartDependency": false
-    },
-    {
-        "ID": "e2b06cb25d9",
-        "Name": "But I Hardly Noah",
-        "Location": "Mor Dhona",
-        "Level": 50,
-        "JournalSection": 2,
-        "JournalCategory": 13,
-        "JournalGenre": "Chronicles of a New Era - The Crystal Tower",
-        "Url": "/lodestone/playguide/db/quest/e2b06cb25d9/",
-        "Image": "https://img.finalfantasyxiv.com/lds/pc/global/images/itemicon/80/80b7719eed92e12b87fc379ce0a8116adc68de62.png?n5.55",
-        "Icon": "function_normal",
-        "Issuer": "Syele",
-        "StartLocation": {
-            "Name": "Mor Dhona",
-            "X": "30.3",
-            "Y": "12.4"
-        },
-        "StartClass": null,
-        "Job": "",
-        "Company": "Not specified",
-        "Requirement": "Not specified",
-        "Rewards": {
-            "Gil": 758,
-            "Exp": 0,
-            "ItemsMand": [],
-            "ItemsOpt": []
-        },
-        "Infos": {
-            "PrerequisiteQuest": [
-                {
-                    "Name": "The Light of Hope",
-                    "Url": "/lodestone/playguide/db/quest/abeb33d0875/",
-                    "Area": "Mor Dhona",
-                    "Level": "50"
-                }
-            ],
-            "FollowupQuest": [
-                {
-                    "Name": "The Gift of the Archmagus",
-                    "Url": "/lodestone/playguide/db/quest/810119f8166/",
-                    "Area": "Mor Dhona",
-                    "Level": "50"
-                }
-            ],
-            "RelatedNPC": [
-                {
-                    "Name": "Koh Rabntah",
-                    "Url": "/lodestone/playguide/db/npc/npc/8eb0d83c09b/",
-                    "Area": "Mor Dhona (X:21.8 Y:8.1)"
-                }
-            ]
-        },
-        "Seq": 8,
-        "oldID": 66033,
-        "Map": {
-            "ID": 25
-        },
+        "Seq": 2,
         "StartDependency": false
     }
 ]

@@ -1,0 +1,1183 @@
+[
+    {
+        "ID": "1be33b11029",
+        "Name": " One Way or Another",
+        "Location": "Mare Lamentorum",
+        "Level": 80,
+        "JournalSection": 3,
+        "JournalCategory": 61,
+        "JournalGenre": "Mare Lamentorum Sidequests",
+        "Url": "/lodestone/playguide/db/quest/1be33b11029/",
+        "Image": "https://img.finalfantasyxiv.com/lds/pc/global/images/itemicon/a9/a915b47b905d4eb58b6f22ff043942c62ca1c401.png?n6.05",
+        "Icon": "common_normal",
+        "Issuer": "Dreamingway",
+        "StartLocation": {
+            "Name": "Mare Lamentorum",
+            "X": "27.3",
+            "Y": "11.9"
+        },
+        "StartClass": null,
+        "Job": "",
+        "Company": "Not specified",
+        "Requirement": "Not specified",
+        "Rewards": {
+            "Gil": 935,
+            "Exp": null,
+            "ItemsMand": [],
+            "ItemsOpt": []
+        },
+        "Infos": {
+            "PrerequisiteQuest": [
+                {
+                    "Name": " A Way to Make a Living",
+                    "Url": "/lodestone/playguide/db/quest/b2c09281f6a/",
+                    "Area": "Mare Lamentorum",
+                    "Level": "80"
+                }
+            ],
+            "FollowupQuest": [
+                {
+                    "Name": " Dream a Little Dream",
+                    "Url": "/lodestone/playguide/db/quest/5d78c966db6/",
+                    "Area": "Mare Lamentorum",
+                    "Level": "80"
+                }
+            ],
+            "RelatedNPC": [
+                {
+                    "Name": "Dreamingway",
+                    "Url": "/lodestone/playguide/db/npc/npc/dee58698d66/",
+                    "Area": "Mare Lamentorum (X:27.5 Y:22.2)"
+                },
+                {
+                    "Name": "Dreamingway",
+                    "Url": "/lodestone/playguide/db/npc/npc/17500acfaad/",
+                    "Area": "Mare Lamentorum (X:33.9 Y:22.6)"
+                },
+                {
+                    "Name": "Dreamingway",
+                    "Url": "/lodestone/playguide/db/npc/npc/674c5eaf28d/",
+                    "Area": "Mare Lamentorum (X:14.7 Y:9.2)"
+                },
+                {
+                    "Name": "Dreamingway",
+                    "Url": "/lodestone/playguide/db/npc/npc/0884fd3fa49/",
+                    "Area": "Mare Lamentorum (X:31.0 Y:23.6)"
+                },
+                {
+                    "Name": "Thinkingway",
+                    "Url": "/lodestone/playguide/db/npc/npc/cf31cc245f5/",
+                    "Area": "Mare Lamentorum (X:27.3 Y:11.9)"
+                }
+            ]
+        },
+        "Seq": 18,
+        "StartDependency": false
+    },
+    {
+        "ID": "55a3b274fc0",
+        "Name": " Name That Way",
+        "Location": "Mare Lamentorum",
+        "Level": 80,
+        "JournalSection": 3,
+        "JournalCategory": 61,
+        "JournalGenre": "Mare Lamentorum Sidequests",
+        "Url": "/lodestone/playguide/db/quest/55a3b274fc0/",
+        "Image": "https://img.finalfantasyxiv.com/lds/pc/global/images/itemicon/a9/a915b47b905d4eb58b6f22ff043942c62ca1c401.png?n6.05",
+        "Icon": "function_normal",
+        "Issuer": "Knockingway",
+        "StartLocation": {
+            "Name": "Mare Lamentorum",
+            "X": "22.0",
+            "Y": "10.7"
+        },
+        "StartClass": null,
+        "Job": "",
+        "Company": "Not specified",
+        "Requirement": "Not specified",
+        "Rewards": {
+            "Gil": 855,
+            "Exp": null,
+            "ItemsMand": [
+                {
+                    "Icon": "https://img.finalfantasyxiv.com/lds/pc/global/images/itemicon/af/af26e4b79fb1de83550f6ddbd3a170408fcfe702.png?n6.05",
+                    "Name": "",
+                    "Amount": null
+                }
+            ],
+            "ItemsOpt": []
+        },
+        "Infos": {
+            "PrerequisiteQuest": [
+                {
+                    "Name": "Setting Things Straight",
+                    "Url": "/lodestone/playguide/db/quest/620eb781eee/",
+                    "Area": "Mare Lamentorum",
+                    "Level": "84"
+                }
+            ],
+            "FollowupQuest": [
+                {
+                    "Name": " A Way to Make a Living",
+                    "Url": "/lodestone/playguide/db/quest/b2c09281f6a/",
+                    "Area": "Mare Lamentorum",
+                    "Level": "80"
+                }
+            ],
+            "RelatedNPC": [
+                {
+                    "Name": "Cheerful Loporrit",
+                    "Url": "/lodestone/playguide/db/npc/npc/ec2f944c8a6/",
+                    "Area": "Mare Lamentorum (X:22.8 Y:12.8)"
+                },
+                {
+                    "Name": "Dreamingway",
+                    "Url": "/lodestone/playguide/db/npc/npc/06529e960df/",
+                    "Area": "Mare Lamentorum (X:23.7 Y:12.1)"
+                },
+                {
+                    "Name": "Easygoing Loporrit",
+                    "Url": "/lodestone/playguide/db/npc/npc/89b7ebf8590/",
+                    "Area": "Mare Lamentorum (X:19.2 Y:10.3)"
+                },
+                {
+                    "Name": "Stern Loporrit",
+                    "Url": "/lodestone/playguide/db/npc/npc/394a7438341/",
+                    "Area": "Mare Lamentorum (X:19.7 Y:11.3)"
+                }
+            ]
+        },
+        "Seq": 16,
+        "StartDependency": false
+    },
+    {
+        "ID": "5d78c966db6",
+        "Name": " Dream a Little Dream",
+        "Location": "Mare Lamentorum",
+        "Level": 80,
+        "JournalSection": 3,
+        "JournalCategory": 61,
+        "JournalGenre": "Mare Lamentorum Sidequests",
+        "Url": "/lodestone/playguide/db/quest/5d78c966db6/",
+        "Image": "https://img.finalfantasyxiv.com/lds/pc/global/images/itemicon/a9/a915b47b905d4eb58b6f22ff043942c62ca1c401.png?n6.05",
+        "Icon": "common_normal",
+        "Issuer": "Dreamingway",
+        "StartLocation": {
+            "Name": "Mare Lamentorum",
+            "X": "14.8",
+            "Y": "9.2"
+        },
+        "StartClass": null,
+        "Job": "",
+        "Company": "Not specified",
+        "Requirement": "Not specified",
+        "Rewards": {
+            "Gil": 1015,
+            "Exp": null,
+            "ItemsMand": [],
+            "ItemsOpt": [
+                {
+                    "Icon": "https://img.finalfantasyxiv.com/lds/pc/global/images/itemicon/81/8155ad42553a503a6c18c3196a60ee99a29e2c5b.png?n6.05",
+                    "Name": "Wine-dark Soup",
+                    "Amount": 2,
+                    "Url": "/lodestone/playguide/db/item/96ace1b323e/"
+                },
+                {
+                    "Icon": "https://img.finalfantasyxiv.com/lds/pc/global/images/itemicon/82/82ac41fe2b7da3a3a2d06bd361c49a0e292e55d0.png?n6.05",
+                    "Name": "Glory Be Soup",
+                    "Amount": 2,
+                    "Url": "/lodestone/playguide/db/item/9d1358fceb8/"
+                },
+                {
+                    "Icon": "https://img.finalfantasyxiv.com/lds/pc/global/images/itemicon/44/44848386f9871f5654fddcafb2a8e9210e6a96b0.png?n6.05",
+                    "Name": "Hamsa Curry",
+                    "Amount": 2,
+                    "Url": "/lodestone/playguide/db/item/3d802e935a9/"
+                },
+                {
+                    "Icon": "https://img.finalfantasyxiv.com/lds/pc/global/images/itemicon/a6/a65f7cd4dcf658cc637ccacd182c2ef92948c490.png?n6.05",
+                    "Name": "Karniyarik",
+                    "Amount": 2,
+                    "Url": "/lodestone/playguide/db/item/0d5a52aaf25/"
+                },
+                {
+                    "Icon": "https://img.finalfantasyxiv.com/lds/pc/global/images/itemicon/ba/baa2341dd17414fae7fd62ae7bc62c64589b67be.png?n6.05",
+                    "Name": "Allagan Silver Piece",
+                    "Amount": 1,
+                    "Url": "/lodestone/playguide/db/item/a3ac3ba4b00/"
+                }
+            ]
+        },
+        "Infos": {
+            "PrerequisiteQuest": [
+                {
+                    "Name": " One Way or Another",
+                    "Url": "/lodestone/playguide/db/quest/1be33b11029/",
+                    "Area": "Mare Lamentorum",
+                    "Level": "80"
+                }
+            ],
+            "RelatedNPC": [
+                {
+                    "Name": "Dreamingway",
+                    "Url": "/lodestone/playguide/db/npc/npc/674c5eaf28d/",
+                    "Area": "Mare Lamentorum (X:14.7 Y:9.2)"
+                },
+                {
+                    "Name": "Dreamingway",
+                    "Url": "/lodestone/playguide/db/npc/npc/492fe33f357/",
+                    "Area": "Mare Lamentorum (X:12.3 Y:9.7)"
+                },
+                {
+                    "Name": "Dreamingway",
+                    "Url": "/lodestone/playguide/db/npc/npc/aa15a4ae3b0/",
+                    "Area": "Mare Lamentorum (X:12.4 Y:7.5)"
+                },
+                {
+                    "Name": "Dreamingway",
+                    "Url": "/lodestone/playguide/db/npc/npc/bb5634e776c/",
+                    "Area": "Mare Lamentorum (X:15.5 Y:10.5)"
+                },
+                {
+                    "Name": "Knockingway",
+                    "Url": "/lodestone/playguide/db/npc/npc/677af708194/",
+                    "Area": "Mare Lamentorum (X:15.5 Y:10.5)"
+                }
+            ]
+        },
+        "Seq": 19,
+        "StartDependency": false
+    },
+    {
+        "ID": "67e958c7fd9",
+        "Name": " Lone Loporrit",
+        "Location": "Mare Lamentorum",
+        "Level": 80,
+        "JournalSection": 3,
+        "JournalCategory": 61,
+        "JournalGenre": "Mare Lamentorum Sidequests",
+        "Url": "/lodestone/playguide/db/quest/67e958c7fd9/",
+        "Image": null,
+        "Icon": "common_normal",
+        "Issuer": "Bashful Loporrit",
+        "StartLocation": {
+            "Name": "Mare Lamentorum",
+            "X": "21.0",
+            "Y": "9.1"
+        },
+        "StartClass": null,
+        "Job": "",
+        "Company": "Not specified",
+        "Requirement": "Not specified",
+        "Rewards": {
+            "Gil": 815,
+            "Exp": null,
+            "ItemsMand": [],
+            "ItemsOpt": []
+        },
+        "Infos": {
+            "PrerequisiteQuest": [
+                {
+                    "Name": "Setting Things Straight",
+                    "Url": "/lodestone/playguide/db/quest/620eb781eee/",
+                    "Area": "Mare Lamentorum",
+                    "Level": "84"
+                }
+            ],
+            "RelatedNPC": [
+                {
+                    "Name": "Bashful Loporrit",
+                    "Url": "/lodestone/playguide/db/npc/npc/a986691d05a/",
+                    "Area": "Mare Lamentorum (X:19.7 Y:20.8)"
+                },
+                {
+                    "Name": "Bashful Loporrit",
+                    "Url": "/lodestone/playguide/db/npc/npc/991cc7b8e5d/",
+                    "Area": "Mare Lamentorum (X:18.8 Y:19.5)"
+                },
+                {
+                    "Name": "Goingmyway",
+                    "Url": "/lodestone/playguide/db/npc/npc/a7f8d5f2eb2/",
+                    "Area": "Mare Lamentorum (X:18.8 Y:19.6)"
+                }
+            ]
+        },
+        "Seq": 12,
+        "StartDependency": false
+    },
+    {
+        "ID": "6f676d13237",
+        "Name": " Overexcited Admirer",
+        "Location": "Mare Lamentorum",
+        "Level": 80,
+        "JournalSection": 3,
+        "JournalCategory": 61,
+        "JournalGenre": "Mare Lamentorum Sidequests",
+        "Url": "/lodestone/playguide/db/quest/6f676d13237/",
+        "Image": null,
+        "Icon": "common_normal",
+        "Issuer": "Agitated Loporrit",
+        "StartLocation": {
+            "Name": "Mare Lamentorum",
+            "X": "22.2",
+            "Y": "11.4"
+        },
+        "StartClass": null,
+        "Job": "",
+        "Company": "Not specified",
+        "Requirement": "Not specified",
+        "Rewards": {
+            "Gil": 815,
+            "Exp": null,
+            "ItemsMand": [],
+            "ItemsOpt": []
+        },
+        "Infos": {
+            "PrerequisiteQuest": [
+                {
+                    "Name": "Setting Things Straight",
+                    "Url": "/lodestone/playguide/db/quest/620eb781eee/",
+                    "Area": "Mare Lamentorum",
+                    "Level": "84"
+                }
+            ],
+            "RelatedNPC": [
+                {
+                    "Name": "Agitated Loporrit",
+                    "Url": "/lodestone/playguide/db/npc/npc/29d5f706382/",
+                    "Area": "Mare Lamentorum (X:27.4 Y:28.1)"
+                },
+                {
+                    "Name": "Agitated Loporrit",
+                    "Url": "/lodestone/playguide/db/npc/npc/93888800df4/",
+                    "Area": "Mare Lamentorum (X:22.5 Y:21.5)"
+                }
+            ]
+        },
+        "Seq": 14,
+        "StartDependency": false
+    },
+    {
+        "ID": "6fda969ad6a",
+        "Name": " Unfortunate Fortune-telling",
+        "Location": "Mare Lamentorum",
+        "Level": 80,
+        "JournalSection": 3,
+        "JournalCategory": 61,
+        "JournalGenre": "Mare Lamentorum Sidequests",
+        "Url": "/lodestone/playguide/db/quest/6fda969ad6a/",
+        "Image": null,
+        "Icon": "common_normal",
+        "Issuer": "Learningway",
+        "StartLocation": {
+            "Name": "Mare Lamentorum",
+            "X": "27.8",
+            "Y": "11.8"
+        },
+        "StartClass": null,
+        "Job": "",
+        "Company": "Not specified",
+        "Requirement": "Not specified",
+        "Rewards": {
+            "Gil": 815,
+            "Exp": null,
+            "ItemsMand": [
+                {
+                    "Icon": "https://img.finalfantasyxiv.com/lds/pc/global/images/itemicon/30/30b5f35d0481a6e2c068d1c0488a0aa9de0d5d13.png?n6.05",
+                    "Name": "Phrygian Bracelet Coffer",
+                    "Amount": 1,
+                    "Url": "/lodestone/playguide/db/item/bb4f5e6c540/"
+                }
+            ],
+            "ItemsOpt": []
+        },
+        "Infos": {
+            "PrerequisiteQuest": [
+                {
+                    "Name": "Setting Things Straight",
+                    "Url": "/lodestone/playguide/db/quest/620eb781eee/",
+                    "Area": "Mare Lamentorum",
+                    "Level": "84"
+                }
+            ],
+            "RelatedNPC": [
+                {
+                    "Name": "Shaky Loporrit",
+                    "Url": "/lodestone/playguide/db/npc/npc/1d86c64c80a/",
+                    "Area": "Mare Lamentorum (X:27.6 Y:6.6)"
+                }
+            ]
+        },
+        "Seq": 8,
+        "StartDependency": false
+    },
+    {
+        "ID": "78b1deb9ac3",
+        "Name": " For a Greater Garden",
+        "Location": "Mare Lamentorum",
+        "Level": 80,
+        "JournalSection": 3,
+        "JournalCategory": 61,
+        "JournalGenre": "Mare Lamentorum Sidequests",
+        "Url": "/lodestone/playguide/db/quest/78b1deb9ac3/",
+        "Image": null,
+        "Icon": "common_normal",
+        "Issuer": "Bouncy Loporrit",
+        "StartLocation": {
+            "Name": "Mare Lamentorum",
+            "X": "27.0",
+            "Y": "10.9"
+        },
+        "StartClass": null,
+        "Job": "",
+        "Company": "Not specified",
+        "Requirement": "Not specified",
+        "Rewards": {
+            "Gil": 735,
+            "Exp": null,
+            "ItemsMand": [],
+            "ItemsOpt": []
+        },
+        "Infos": {
+            "PrerequisiteQuest": [
+                {
+                    "Name": "Setting Things Straight",
+                    "Url": "/lodestone/playguide/db/quest/620eb781eee/",
+                    "Area": "Mare Lamentorum",
+                    "Level": "84"
+                }
+            ],
+            "RelatedNPC": [
+                {
+                    "Name": "Bouncy Loporrit",
+                    "Url": "/lodestone/playguide/db/npc/npc/25dab2a9f36/",
+                    "Area": "Mare Lamentorum (X:25.9 Y:20.2)"
+                }
+            ]
+        },
+        "Seq": 11,
+        "StartDependency": false
+    },
+    {
+        "ID": "7b08ac16fb7",
+        "Name": " A Strange New Moon",
+        "Location": "Mare Lamentorum",
+        "Level": 80,
+        "JournalSection": 3,
+        "JournalCategory": 61,
+        "JournalGenre": "Mare Lamentorum Sidequests",
+        "Url": "/lodestone/playguide/db/quest/7b08ac16fb7/",
+        "Image": null,
+        "Icon": "common_normal",
+        "Issuer": "Recordingway",
+        "StartLocation": {
+            "Name": "Mare Lamentorum",
+            "X": "19.2",
+            "Y": "12.1"
+        },
+        "StartClass": null,
+        "Job": "",
+        "Company": "Not specified",
+        "Requirement": "Not specified",
+        "Rewards": {
+            "Gil": 655,
+            "Exp": null,
+            "ItemsMand": [
+                {
+                    "Icon": "https://img.finalfantasyxiv.com/lds/pc/global/images/itemicon/e3/e37fdec0415b0585949d8355ae92379da2a0c37d.png?n6.05",
+                    "Name": "Phrygian Ring Coffer",
+                    "Amount": 1,
+                    "Url": "/lodestone/playguide/db/item/414dc886302/"
+                }
+            ],
+            "ItemsOpt": []
+        },
+        "Infos": {
+            "PrerequisiteQuest": [
+                {
+                    "Name": "Styled a Hero",
+                    "Url": "/lodestone/playguide/db/quest/506a58b1ca6/",
+                    "Area": "Mare Lamentorum",
+                    "Level": "84"
+                }
+            ]
+        },
+        "Seq": 2,
+        "StartDependency": false
+    },
+    {
+        "ID": "8723e7a3831",
+        "Name": " Carrots: It's What's for Dinner",
+        "Location": "Mare Lamentorum",
+        "Level": 80,
+        "JournalSection": 3,
+        "JournalCategory": 61,
+        "JournalGenre": "Mare Lamentorum Sidequests",
+        "Url": "/lodestone/playguide/db/quest/8723e7a3831/",
+        "Image": null,
+        "Icon": "function_normal",
+        "Issuer": "Yawningway",
+        "StartLocation": {
+            "Name": "Mare Lamentorum",
+            "X": "15.7",
+            "Y": "11.0"
+        },
+        "StartClass": null,
+        "Job": "",
+        "Company": "Not specified",
+        "Requirement": "Not specified",
+        "Rewards": {
+            "Gil": 655,
+            "Exp": null,
+            "ItemsMand": [
+                {
+                    "Icon": "https://img.finalfantasyxiv.com/lds/pc/global/images/itemicon/af/af26e4b79fb1de83550f6ddbd3a170408fcfe702.png?n6.05",
+                    "Name": "",
+                    "Amount": null
+                }
+            ],
+            "ItemsOpt": []
+        },
+        "Infos": {
+            "PrerequisiteQuest": [
+                {
+                    "Name": "Styled a Hero",
+                    "Url": "/lodestone/playguide/db/quest/506a58b1ca6/",
+                    "Area": "Mare Lamentorum",
+                    "Level": "84"
+                }
+            ],
+            "RelatedNPC": [
+                {
+                    "Name": "Drooling Loporrit",
+                    "Url": "/lodestone/playguide/db/npc/npc/b75135059ea/",
+                    "Area": "Mare Lamentorum (X:13.2 Y:12.9)"
+                },
+                {
+                    "Name": "Hungry Loporrit",
+                    "Url": "/lodestone/playguide/db/npc/npc/95ae5873ee0/",
+                    "Area": "Mare Lamentorum (X:14.8 Y:8.3)"
+                },
+                {
+                    "Name": "Peckish Loporrit",
+                    "Url": "/lodestone/playguide/db/npc/npc/dfa0d292aba/",
+                    "Area": "Mare Lamentorum (X:11.8 Y:10.5)"
+                }
+            ]
+        },
+        "Seq": 1,
+        "StartDependency": false
+    },
+    {
+        "ID": "b20b4ed803f",
+        "Name": " Troubled Waters",
+        "Location": "Mare Lamentorum",
+        "Level": 80,
+        "JournalSection": 3,
+        "JournalCategory": 61,
+        "JournalGenre": "Mare Lamentorum Sidequests",
+        "Url": "/lodestone/playguide/db/quest/b20b4ed803f/",
+        "Image": null,
+        "Icon": "common_normal",
+        "Issuer": "Mopingway",
+        "StartLocation": {
+            "Name": "Mare Lamentorum",
+            "X": "27.3",
+            "Y": "10.7"
+        },
+        "StartClass": null,
+        "Job": "",
+        "Company": "Not specified",
+        "Requirement": "Not specified",
+        "Rewards": {
+            "Gil": 655,
+            "Exp": null,
+            "ItemsMand": [],
+            "ItemsOpt": []
+        },
+        "Infos": {
+            "PrerequisiteQuest": [
+                {
+                    "Name": "Setting Things Straight",
+                    "Url": "/lodestone/playguide/db/quest/620eb781eee/",
+                    "Area": "Mare Lamentorum",
+                    "Level": "84"
+                }
+            ]
+        },
+        "Seq": 15,
+        "StartDependency": false
+    },
+    {
+        "ID": "b2c09281f6a",
+        "Name": " A Way to Make a Living",
+        "Location": "Mare Lamentorum",
+        "Level": 80,
+        "JournalSection": 3,
+        "JournalCategory": 61,
+        "JournalGenre": "Mare Lamentorum Sidequests",
+        "Url": "/lodestone/playguide/db/quest/b2c09281f6a/",
+        "Image": "https://img.finalfantasyxiv.com/lds/pc/global/images/itemicon/a9/a915b47b905d4eb58b6f22ff043942c62ca1c401.png?n6.05",
+        "Icon": "common_normal",
+        "Issuer": "Dreamingway",
+        "StartLocation": {
+            "Name": "Mare Lamentorum",
+            "X": "23.7",
+            "Y": "12.1"
+        },
+        "StartClass": null,
+        "Job": "",
+        "Company": "Not specified",
+        "Requirement": "Not specified",
+        "Rewards": {
+            "Gil": 935,
+            "Exp": null,
+            "ItemsMand": [
+                {
+                    "Icon": "https://img.finalfantasyxiv.com/lds/pc/global/images/itemicon/e3/e37fdec0415b0585949d8355ae92379da2a0c37d.png?n6.05",
+                    "Name": "Phrygian Ring Coffer",
+                    "Amount": 1,
+                    "Url": "/lodestone/playguide/db/item/414dc886302/"
+                }
+            ],
+            "ItemsOpt": []
+        },
+        "Infos": {
+            "PrerequisiteQuest": [
+                {
+                    "Name": " Name That Way",
+                    "Url": "/lodestone/playguide/db/quest/55a3b274fc0/",
+                    "Area": "Mare Lamentorum",
+                    "Level": "80"
+                }
+            ],
+            "FollowupQuest": [
+                {
+                    "Name": " One Way or Another",
+                    "Url": "/lodestone/playguide/db/quest/1be33b11029/",
+                    "Area": "Mare Lamentorum",
+                    "Level": "80"
+                }
+            ],
+            "RelatedNPC": [
+                {
+                    "Name": "Dreamingway",
+                    "Url": "/lodestone/playguide/db/npc/npc/3eae9c0d968/",
+                    "Area": "Mare Lamentorum (X:27.3 Y:11.9)"
+                },
+                {
+                    "Name": "Dreamingway",
+                    "Url": "/lodestone/playguide/db/npc/npc/f9ea763369a/",
+                    "Area": "Mare Lamentorum (X:21.6 Y:30.4)"
+                },
+                {
+                    "Name": "Thinkingway",
+                    "Url": "/lodestone/playguide/db/npc/npc/cf31cc245f5/",
+                    "Area": "Mare Lamentorum (X:27.3 Y:11.9)"
+                }
+            ]
+        },
+        "Seq": 17,
+        "StartDependency": false
+    },
+    {
+        "ID": "b31da2469ec",
+        "Name": " Material Woes",
+        "Location": "Mare Lamentorum",
+        "Level": 80,
+        "JournalSection": 3,
+        "JournalCategory": 61,
+        "JournalGenre": "Mare Lamentorum Sidequests",
+        "Url": "/lodestone/playguide/db/quest/b31da2469ec/",
+        "Image": null,
+        "Icon": "common_normal",
+        "Issuer": "Guidingway",
+        "StartLocation": {
+            "Name": "Mare Lamentorum",
+            "X": "23.9",
+            "Y": "10.9"
+        },
+        "StartClass": null,
+        "Job": "",
+        "Company": "Not specified",
+        "Requirement": "Not specified",
+        "Rewards": {
+            "Gil": 655,
+            "Exp": null,
+            "ItemsMand": [],
+            "ItemsOpt": []
+        },
+        "Infos": {
+            "PrerequisiteQuest": [
+                {
+                    "Name": "Setting Things Straight",
+                    "Url": "/lodestone/playguide/db/quest/620eb781eee/",
+                    "Area": "Mare Lamentorum",
+                    "Level": "84"
+                }
+            ]
+        },
+        "Seq": 10,
+        "StartDependency": false
+    },
+    {
+        "ID": "bb5381c7582",
+        "Name": " Alluring Allag",
+        "Location": "Mare Lamentorum",
+        "Level": 80,
+        "JournalSection": 3,
+        "JournalCategory": 61,
+        "JournalGenre": "Mare Lamentorum Sidequests",
+        "Url": "/lodestone/playguide/db/quest/bb5381c7582/",
+        "Image": null,
+        "Icon": "function_normal",
+        "Issuer": "Brusque Loporrit",
+        "StartLocation": {
+            "Name": "Mare Lamentorum",
+            "X": "19.8",
+            "Y": "11.0"
+        },
+        "StartClass": null,
+        "Job": "",
+        "Company": "Not specified",
+        "Requirement": "Not specified",
+        "Rewards": {
+            "Gil": 895,
+            "Exp": null,
+            "ItemsMand": [
+                {
+                    "Icon": "https://img.finalfantasyxiv.com/lds/pc/global/images/itemicon/af/af26e4b79fb1de83550f6ddbd3a170408fcfe702.png?n6.05",
+                    "Name": "",
+                    "Amount": null
+                }
+            ],
+            "ItemsOpt": []
+        },
+        "Infos": {
+            "PrerequisiteQuest": [
+                {
+                    "Name": "Setting Things Straight",
+                    "Url": "/lodestone/playguide/db/quest/620eb781eee/",
+                    "Area": "Mare Lamentorum",
+                    "Level": "84"
+                }
+            ],
+            "RelatedNPC": [
+                {
+                    "Name": "Brusque Loporrit",
+                    "Url": "/lodestone/playguide/db/npc/npc/1ea3ca09948/",
+                    "Area": "Mare Lamentorum (X:32.2 Y:26.1)"
+                },
+                {
+                    "Name": "Fascinating Remnant",
+                    "Url": "/lodestone/playguide/db/npc/npc/ed04fad3c0f/",
+                    "Area": "Mare Lamentorum (X:36.1 Y:25.2)"
+                },
+                {
+                    "Name": "Systems Cube",
+                    "Url": "/lodestone/playguide/db/npc/npc/649d861f505/",
+                    "Area": "Mare Lamentorum (X:34.7 Y:25.2)"
+                }
+            ]
+        },
+        "Seq": 13,
+        "StartDependency": false
+    },
+    {
+        "ID": "c1d583af3e2",
+        "Name": " Clothes Maketh the Man",
+        "Location": "Mare Lamentorum",
+        "Level": 80,
+        "JournalSection": 3,
+        "JournalCategory": 61,
+        "JournalGenre": "Mare Lamentorum Sidequests",
+        "Url": "/lodestone/playguide/db/quest/c1d583af3e2/",
+        "Image": null,
+        "Icon": "common_normal",
+        "Issuer": "Vacillating Loporrit",
+        "StartLocation": {
+            "Name": "Mare Lamentorum",
+            "X": "24.0",
+            "Y": "10.3"
+        },
+        "StartClass": null,
+        "Job": "",
+        "Company": "Not specified",
+        "Requirement": "Not specified",
+        "Rewards": {
+            "Gil": 735,
+            "Exp": null,
+            "ItemsMand": [
+                {
+                    "Icon": "https://img.finalfantasyxiv.com/lds/pc/global/images/itemicon/66/66e40643e0b44d9f56e8628395cdf870c5820fe6.png?n6.05",
+                    "Name": "Phrygian Necklace Coffer",
+                    "Amount": 1,
+                    "Url": "/lodestone/playguide/db/item/4cc2dc9715b/"
+                }
+            ],
+            "ItemsOpt": []
+        },
+        "Infos": {
+            "PrerequisiteQuest": [
+                {
+                    "Name": "Styled a Hero",
+                    "Url": "/lodestone/playguide/db/quest/506a58b1ca6/",
+                    "Area": "Mare Lamentorum",
+                    "Level": "84"
+                }
+            ],
+            "RelatedNPC": [
+                {
+                    "Name": "Loporrit Tailor",
+                    "Url": "/lodestone/playguide/db/npc/npc/0abcca1d9a8/",
+                    "Area": "Mare Lamentorum (X:25.3 Y:13.4)"
+                },
+                {
+                    "Name": "Vacillating Loporrit",
+                    "Url": "/lodestone/playguide/db/npc/npc/4b59ef82045/",
+                    "Area": "Mare Lamentorum (X:25.3 Y:13.4)"
+                }
+            ]
+        },
+        "Seq": 6,
+        "StartDependency": false
+    },
+    {
+        "ID": "c41fd0c02b6",
+        "Name": " Dangerous Work",
+        "Location": "Mare Lamentorum",
+        "Level": 80,
+        "JournalSection": 3,
+        "JournalCategory": 61,
+        "JournalGenre": "Mare Lamentorum Sidequests",
+        "Url": "/lodestone/playguide/db/quest/c41fd0c02b6/",
+        "Image": null,
+        "Icon": "common_normal",
+        "Issuer": "Spritely Loporrit",
+        "StartLocation": {
+            "Name": "Mare Lamentorum",
+            "X": "21.7",
+            "Y": "10.0"
+        },
+        "StartClass": null,
+        "Job": "",
+        "Company": "Not specified",
+        "Requirement": "Not specified",
+        "Rewards": {
+            "Gil": 815,
+            "Exp": null,
+            "ItemsMand": [],
+            "ItemsOpt": []
+        },
+        "Infos": {
+            "PrerequisiteQuest": [
+                {
+                    "Name": "Setting Things Straight",
+                    "Url": "/lodestone/playguide/db/quest/620eb781eee/",
+                    "Area": "Mare Lamentorum",
+                    "Level": "84"
+                }
+            ],
+            "RelatedNPC": [
+                {
+                    "Name": "Dozing Loporrit",
+                    "Url": "/lodestone/playguide/db/npc/npc/fec9795d627/",
+                    "Area": "Mare Lamentorum (X:23.5 Y:28.8)"
+                },
+                {
+                    "Name": "Dozing Loporrit",
+                    "Url": "/lodestone/playguide/db/npc/npc/07f7eed3be8/",
+                    "Area": "Mare Lamentorum (X:28.5 Y:31.9)"
+                },
+                {
+                    "Name": "Preoccupied Loporrit",
+                    "Url": "/lodestone/playguide/db/npc/npc/81965f5fc14/",
+                    "Area": "Mare Lamentorum (X:31.0 Y:30.4)"
+                },
+                {
+                    "Name": "Preoccupied Loporrit",
+                    "Url": "/lodestone/playguide/db/npc/npc/a27d0f86f2f/",
+                    "Area": "Mare Lamentorum (X:28.5 Y:32.0)"
+                },
+                {
+                    "Name": "Reeling Loporrit",
+                    "Url": "/lodestone/playguide/db/npc/npc/5728e7841a3/",
+                    "Area": "Mare Lamentorum (X:28.5 Y:32.0)"
+                },
+                {
+                    "Name": "Reeling Loporrit",
+                    "Url": "/lodestone/playguide/db/npc/npc/0ab01b09178/",
+                    "Area": "Mare Lamentorum (X:28.5 Y:32.0)"
+                },
+                {
+                    "Name": "Sleepy Loporrit",
+                    "Url": "/lodestone/playguide/db/npc/npc/ac6bc99d58c/",
+                    "Area": "Mare Lamentorum (X:31.3 Y:32.1)"
+                },
+                {
+                    "Name": "Sleepy Loporrit",
+                    "Url": "/lodestone/playguide/db/npc/npc/332131a8788/",
+                    "Area": "Mare Lamentorum (X:28.5 Y:32.0)"
+                },
+                {
+                    "Name": "Spritely Loporrit",
+                    "Url": "/lodestone/playguide/db/npc/npc/61b5b19655b/",
+                    "Area": "Mare Lamentorum (X:28.5 Y:32.0)"
+                }
+            ]
+        },
+        "Seq": 9,
+        "StartDependency": false
+    },
+    {
+        "ID": "c92e3445acd",
+        "Name": " Getting to Know You",
+        "Location": "Mare Lamentorum",
+        "Level": 80,
+        "JournalSection": 3,
+        "JournalCategory": 61,
+        "JournalGenre": "Mare Lamentorum Sidequests",
+        "Url": "/lodestone/playguide/db/quest/c92e3445acd/",
+        "Image": null,
+        "Icon": "common_normal",
+        "Issuer": "Inquisitive Loporrit",
+        "StartLocation": {
+            "Name": "Mare Lamentorum",
+            "X": "16.0",
+            "Y": "11.9"
+        },
+        "StartClass": null,
+        "Job": "",
+        "Company": "Not specified",
+        "Requirement": "Not specified",
+        "Rewards": {
+            "Gil": 655,
+            "Exp": null,
+            "ItemsMand": [],
+            "ItemsOpt": []
+        },
+        "Infos": {
+            "PrerequisiteQuest": [
+                {
+                    "Name": "Styled a Hero",
+                    "Url": "/lodestone/playguide/db/quest/506a58b1ca6/",
+                    "Area": "Mare Lamentorum",
+                    "Level": "84"
+                }
+            ]
+        },
+        "Seq": 3,
+        "StartDependency": false
+    },
+    {
+        "ID": "cb333e33c07",
+        "Name": " All Fun and Games",
+        "Location": "Mare Lamentorum",
+        "Level": 80,
+        "JournalSection": 3,
+        "JournalCategory": 61,
+        "JournalGenre": "Mare Lamentorum Sidequests",
+        "Url": "/lodestone/playguide/db/quest/cb333e33c07/",
+        "Image": null,
+        "Icon": "common_normal",
+        "Issuer": "Playful Loporrit",
+        "StartLocation": {
+            "Name": "Mare Lamentorum",
+            "X": "20.6",
+            "Y": "10.6"
+        },
+        "StartClass": null,
+        "Job": "",
+        "Company": "Not specified",
+        "Requirement": "Not specified",
+        "Rewards": {
+            "Gil": 815,
+            "Exp": null,
+            "ItemsMand": [],
+            "ItemsOpt": []
+        },
+        "Infos": {
+            "PrerequisiteQuest": [
+                {
+                    "Name": "Styled a Hero",
+                    "Url": "/lodestone/playguide/db/quest/506a58b1ca6/",
+                    "Area": "Mare Lamentorum",
+                    "Level": "84"
+                }
+            ],
+            "RelatedNPC": [
+                {
+                    "Name": "Playful Loporrit",
+                    "Url": "/lodestone/playguide/db/npc/npc/5e2d8df4658/",
+                    "Area": "Mare Lamentorum (X:11.4 Y:9.2)"
+                }
+            ]
+        },
+        "Seq": 5,
+        "StartDependency": false
+    },
+    {
+        "ID": "e940fc1222d",
+        "Name": " True Carrot Crimes",
+        "Location": "Mare Lamentorum",
+        "Level": 80,
+        "JournalSection": 3,
+        "JournalCategory": 61,
+        "JournalGenre": "Mare Lamentorum Sidequests",
+        "Url": "/lodestone/playguide/db/quest/e940fc1222d/",
+        "Image": null,
+        "Icon": "function_normal",
+        "Issuer": "Watchingway",
+        "StartLocation": {
+            "Name": "Mare Lamentorum",
+            "X": "15.4",
+            "Y": "11.6"
+        },
+        "StartClass": null,
+        "Job": "",
+        "Company": "Not specified",
+        "Requirement": "Not specified",
+        "Rewards": {
+            "Gil": 655,
+            "Exp": null,
+            "ItemsMand": [
+                {
+                    "Icon": "https://img.finalfantasyxiv.com/lds/pc/global/images/itemicon/af/af26e4b79fb1de83550f6ddbd3a170408fcfe702.png?n6.05",
+                    "Name": "",
+                    "Amount": null
+                }
+            ],
+            "ItemsOpt": []
+        },
+        "Infos": {
+            "PrerequisiteQuest": [
+                {
+                    "Name": "Styled a Hero",
+                    "Url": "/lodestone/playguide/db/quest/506a58b1ca6/",
+                    "Area": "Mare Lamentorum",
+                    "Level": "84"
+                }
+            ],
+            "RelatedNPC": [
+                {
+                    "Name": "Carrot Supporter",
+                    "Url": "/lodestone/playguide/db/npc/npc/234c49976cf/",
+                    "Area": "Mare Lamentorum (X:10.3 Y:11.9)"
+                },
+                {
+                    "Name": "Muttering Loporrit",
+                    "Url": "/lodestone/playguide/db/npc/npc/56eace6836d/",
+                    "Area": "Mare Lamentorum (X:11.3 Y:14.0)"
+                }
+            ]
+        },
+        "Seq": 17,
+        "StartDependency": false
+    },
+    {
+        "ID": "f35c9e1fa64",
+        "Name": " Over the Rainbow Crystal",
+        "Location": "Mare Lamentorum",
+        "Level": 80,
+        "JournalSection": 3,
+        "JournalCategory": 61,
+        "JournalGenre": "Mare Lamentorum Sidequests",
+        "Url": "/lodestone/playguide/db/quest/f35c9e1fa64/",
+        "Image": null,
+        "Icon": "common_normal",
+        "Issuer": "Sparkling-eyed Loporrit",
+        "StartLocation": {
+            "Name": "Mare Lamentorum",
+            "X": "14.3",
+            "Y": "9.3"
+        },
+        "StartClass": null,
+        "Job": "",
+        "Company": "Not specified",
+        "Requirement": "Not specified",
+        "Rewards": {
+            "Gil": 655,
+            "Exp": null,
+            "ItemsMand": [
+                {
+                    "Icon": "https://img.finalfantasyxiv.com/lds/pc/global/images/itemicon/f3/f357ea7ae8d550e78704823b64f7e5d104e16e2f.png?n6.05",
+                    "Name": "Phrygian Earring Coffer",
+                    "Amount": 1,
+                    "Url": "/lodestone/playguide/db/item/ac9738cbbb2/"
+                }
+            ],
+            "ItemsOpt": []
+        },
+        "Infos": {
+            "PrerequisiteQuest": [
+                {
+                    "Name": "Styled a Hero",
+                    "Url": "/lodestone/playguide/db/quest/506a58b1ca6/",
+                    "Area": "Mare Lamentorum",
+                    "Level": "84"
+                }
+            ],
+            "RelatedNPC": [
+                {
+                    "Name": "Hoppingway",
+                    "Url": "/lodestone/playguide/db/npc/npc/d71066f1310/",
+                    "Area": "Mare Lamentorum (X:15.7 Y:11.4)"
+                },
+                {
+                    "Name": "Shine Supervisor",
+                    "Url": "/lodestone/playguide/db/npc/npc/b0c55f121f7/",
+                    "Area": "Mare Lamentorum (X:13.1 Y:6.6)"
+                }
+            ]
+        },
+        "Seq": 4,
+        "StartDependency": false
+    },
+    {
+        "ID": "fc49cb0b837",
+        "Name": " A Test of Mettle",
+        "Location": "Mare Lamentorum",
+        "Level": 80,
+        "JournalSection": 3,
+        "JournalCategory": 61,
+        "JournalGenre": "Mare Lamentorum Sidequests",
+        "Url": "/lodestone/playguide/db/quest/fc49cb0b837/",
+        "Image": null,
+        "Icon": "common_normal",
+        "Issuer": "Brawny Loporrit",
+        "StartLocation": {
+            "Name": "Mare Lamentorum",
+            "X": "22.3",
+            "Y": "9.2"
+        },
+        "StartClass": null,
+        "Job": "",
+        "Company": "Not specified",
+        "Requirement": "Not specified",
+        "Rewards": {
+            "Gil": 815,
+            "Exp": null,
+            "ItemsMand": [],
+            "ItemsOpt": []
+        },
+        "Infos": {
+            "PrerequisiteQuest": [
+                {
+                    "Name": "Setting Things Straight",
+                    "Url": "/lodestone/playguide/db/quest/620eb781eee/",
+                    "Area": "Mare Lamentorum",
+                    "Level": "84"
+                }
+            ],
+            "RelatedNPC": [
+                {
+                    "Name": "Brawny Loporrit",
+                    "Url": "/lodestone/playguide/db/npc/npc/a423e95934c/",
+                    "Area": "Mare Lamentorum (X:32.0 Y:7.2)"
+                }
+            ]
+        },
+        "Seq": 7,
+        "StartDependency": false
+    }
+]

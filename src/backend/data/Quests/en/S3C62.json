@@ -1,0 +1,2887 @@
+[
+    {
+        "ID": "0ad3d2de056",
+        "Name": " A Colorful Concept",
+        "Location": "Elpis",
+        "Level": 80,
+        "JournalSection": 3,
+        "JournalCategory": 62,
+        "JournalGenre": "Elpis Sidequests",
+        "Url": "/lodestone/playguide/db/quest/0ad3d2de056/",
+        "Image": null,
+        "Icon": "common_normal",
+        "Issuer": "Impatient Observer",
+        "StartLocation": {
+            "Name": "Elpis",
+            "X": "24.2",
+            "Y": "27.1"
+        },
+        "StartClass": null,
+        "Job": "",
+        "Company": "Not specified",
+        "Requirement": "Not specified",
+        "Rewards": {
+            "Gil": 735,
+            "Exp": null,
+            "ItemsMand": [],
+            "ItemsOpt": []
+        },
+        "Infos": {
+            "PrerequisiteQuest": [
+                {
+                    "Name": "Ponder, Warrant, Cherish, Welcome",
+                    "Url": "/lodestone/playguide/db/quest/bb0143637cc/",
+                    "Area": "Elpis",
+                    "Level": "86"
+                }
+            ],
+            "RelatedNPC": [
+                {
+                    "Name": "Avian Observer",
+                    "Url": "/lodestone/playguide/db/npc/npc/34f23152d53/",
+                    "Area": "Elpis (X:27.5 Y:29.8)"
+                },
+                {
+                    "Name": "Blue-haired Observer",
+                    "Url": "/lodestone/playguide/db/npc/npc/2f7669d1fca/",
+                    "Area": "Elpis (X:25.7 Y:33.5)"
+                },
+                {
+                    "Name": "Blue-haired Observer",
+                    "Url": "/lodestone/playguide/db/npc/npc/904fcbfc343/",
+                    "Area": "Elpis (X:24.1 Y:27.1)"
+                }
+            ]
+        },
+        "Seq": 1,
+        "StartDependency": false
+    },
+    {
+        "ID": "0b9ae6adb4b",
+        "Name": " Every Rose",
+        "Location": "Elpis",
+        "Level": 80,
+        "JournalSection": 3,
+        "JournalCategory": 62,
+        "JournalGenre": "Elpis Sidequests",
+        "Url": "/lodestone/playguide/db/quest/0b9ae6adb4b/",
+        "Image": null,
+        "Icon": "common_normal",
+        "Issuer": "Chloris",
+        "StartLocation": {
+            "Name": "Elpis",
+            "X": "9.1",
+            "Y": "32.7"
+        },
+        "StartClass": null,
+        "Job": "",
+        "Company": "Not specified",
+        "Requirement": "Not specified",
+        "Rewards": {
+            "Gil": 735,
+            "Exp": null,
+            "ItemsMand": [
+                {
+                    "Icon": "https://img.finalfantasyxiv.com/lds/pc/global/images/itemicon/af/af90f4865384dffebf10cbb2e0b435c5e24139b4.png?n6.05",
+                    "Name": "Spicy Shakshouka",
+                    "Amount": 2,
+                    "Url": "/lodestone/playguide/db/item/e0ba510a710/"
+                }
+            ],
+            "ItemsOpt": []
+        },
+        "Infos": {
+            "PrerequisiteQuest": [
+                {
+                    "Name": "A Sentimental Gift",
+                    "Url": "/lodestone/playguide/db/quest/3ef02f2d789/",
+                    "Area": "Elpis",
+                    "Level": "86"
+                }
+            ]
+        },
+        "Seq": 20,
+        "StartDependency": false
+    },
+    {
+        "ID": "0faad1d6646",
+        "Name": " An Expected Guest",
+        "Location": "Elpis",
+        "Level": 80,
+        "JournalSection": 3,
+        "JournalCategory": 62,
+        "JournalGenre": "Elpis Sidequests",
+        "Url": "/lodestone/playguide/db/quest/0faad1d6646/",
+        "Image": "https://img.finalfantasyxiv.com/lds/pc/global/images/itemicon/da/dad349ee2ba1d20146ffcd6471a493606b3e1672.png?n6.05",
+        "Icon": "function_normal",
+        "Issuer": "Maira",
+        "StartLocation": {
+            "Name": "Elpis",
+            "X": "8.6",
+            "Y": "17.6"
+        },
+        "StartClass": null,
+        "Job": "",
+        "Company": "Not specified",
+        "Requirement": "Not specified",
+        "Rewards": {
+            "Gil": 855,
+            "Exp": null,
+            "ItemsMand": [
+                {
+                    "Icon": "https://img.finalfantasyxiv.com/lds/pc/global/images/itemicon/af/af26e4b79fb1de83550f6ddbd3a170408fcfe702.png?n6.05",
+                    "Name": "",
+                    "Amount": null
+                }
+            ],
+            "ItemsOpt": []
+        },
+        "Infos": {
+            "PrerequisiteQuest": [
+                {
+                    "Name": "A Flower upon Your Return",
+                    "Url": "/lodestone/playguide/db/quest/7c78994d56b/",
+                    "Area": "Elpis",
+                    "Level": "87"
+                }
+            ],
+            "FollowupQuest": [
+                {
+                    "Name": " A Better Batrachoi",
+                    "Url": "/lodestone/playguide/db/quest/9432d8e17f3/",
+                    "Area": "Elpis",
+                    "Level": "80"
+                }
+            ],
+            "RelatedNPC": [
+                {
+                    "Name": "Kleon",
+                    "Url": "/lodestone/playguide/db/npc/npc/f5ed9d10221/",
+                    "Area": "Elpis (X:15.0 Y:20.8)"
+                },
+                {
+                    "Name": "Kleon",
+                    "Url": "/lodestone/playguide/db/npc/npc/d09bf9daa5b/",
+                    "Area": "Elpis (X:8.7 Y:17.6)"
+                }
+            ]
+        },
+        "Seq": 44,
+        "StartDependency": false
+    },
+    {
+        "ID": "124e94a9bca",
+        "Name": " You and the Ailouros",
+        "Location": "Elpis",
+        "Level": 80,
+        "JournalSection": 3,
+        "JournalCategory": 62,
+        "JournalGenre": "Elpis Sidequests",
+        "Url": "/lodestone/playguide/db/quest/124e94a9bca/",
+        "Image": null,
+        "Icon": "function_normal",
+        "Issuer": "Hippothoe",
+        "StartLocation": {
+            "Name": "Elpis",
+            "X": "9.2",
+            "Y": "31.6"
+        },
+        "StartClass": null,
+        "Job": "",
+        "Company": "Not specified",
+        "Requirement": "Not specified",
+        "Rewards": {
+            "Gil": 895,
+            "Exp": null,
+            "ItemsMand": [
+                {
+                    "Icon": "https://img.finalfantasyxiv.com/lds/pc/global/images/itemicon/af/af26e4b79fb1de83550f6ddbd3a170408fcfe702.png?n6.05",
+                    "Name": "",
+                    "Amount": null
+                }
+            ],
+            "ItemsOpt": []
+        },
+        "Infos": {
+            "PrerequisiteQuest": [
+                {
+                    "Name": "A Sentimental Gift",
+                    "Url": "/lodestone/playguide/db/quest/3ef02f2d789/",
+                    "Area": "Elpis",
+                    "Level": "86"
+                }
+            ],
+            "FollowupQuest": [
+                {
+                    "Name": " Sing, O Mews",
+                    "Url": "/lodestone/playguide/db/quest/1f33d472fa4/",
+                    "Area": "Elpis",
+                    "Level": "80"
+                }
+            ],
+            "RelatedNPC": [
+                {
+                    "Name": "Ailouros",
+                    "Url": "/lodestone/playguide/db/npc/npc/21652484226/",
+                    "Area": "Elpis (X:5.0 Y:31.6)"
+                },
+                {
+                    "Name": "Ailouros",
+                    "Url": "/lodestone/playguide/db/npc/npc/7a2977a8a97/",
+                    "Area": "Elpis (X:9.1 Y:31.6)"
+                }
+            ]
+        },
+        "Seq": 16,
+        "StartDependency": false
+    },
+    {
+        "ID": "13efb8c9d8f",
+        "Name": " Familiar vs. Familiar",
+        "Location": "Elpis",
+        "Level": 80,
+        "JournalSection": 3,
+        "JournalCategory": 62,
+        "JournalGenre": "Elpis Sidequests",
+        "Url": "/lodestone/playguide/db/quest/13efb8c9d8f/",
+        "Image": null,
+        "Icon": "common_normal",
+        "Issuer": "Erinna",
+        "StartLocation": {
+            "Name": "Elpis",
+            "X": "8.7",
+            "Y": "18.2"
+        },
+        "StartClass": null,
+        "Job": "",
+        "Company": "Not specified",
+        "Requirement": "Not specified",
+        "Rewards": {
+            "Gil": 655,
+            "Exp": null,
+            "ItemsMand": [],
+            "ItemsOpt": []
+        },
+        "Infos": {
+            "PrerequisiteQuest": [
+                {
+                    "Name": "A Flower upon Your Return",
+                    "Url": "/lodestone/playguide/db/quest/7c78994d56b/",
+                    "Area": "Elpis",
+                    "Level": "87"
+                }
+            ]
+        },
+        "Seq": 28,
+        "StartDependency": false
+    },
+    {
+        "ID": "1be7f8a349e",
+        "Name": " The Abyss Stares Back",
+        "Location": "Elpis",
+        "Level": 80,
+        "JournalSection": 3,
+        "JournalCategory": 62,
+        "JournalGenre": "Elpis Sidequests",
+        "Url": "/lodestone/playguide/db/quest/1be7f8a349e/",
+        "Image": null,
+        "Icon": "common_normal",
+        "Issuer": "Perikles",
+        "StartLocation": {
+            "Name": "Elpis",
+            "X": "11.3",
+            "Y": "18.0"
+        },
+        "StartClass": null,
+        "Job": "",
+        "Company": "Not specified",
+        "Requirement": "Not specified",
+        "Rewards": {
+            "Gil": 895,
+            "Exp": null,
+            "ItemsMand": [],
+            "ItemsOpt": []
+        },
+        "Infos": {
+            "PrerequisiteQuest": [
+                {
+                    "Name": "A Flower upon Your Return",
+                    "Url": "/lodestone/playguide/db/quest/7c78994d56b/",
+                    "Area": "Elpis",
+                    "Level": "87"
+                }
+            ],
+            "RelatedNPC": [
+                {
+                    "Name": "Abyssus",
+                    "Url": "/lodestone/playguide/db/npc/npc/d152265dd9d/",
+                    "Area": "Elpis (X:13.8 Y:14.8)"
+                },
+                {
+                    "Name": "Avian Specialist",
+                    "Url": "/lodestone/playguide/db/npc/npc/4a0a8e30c7c/",
+                    "Area": "Elpis (X:13.8 Y:14.8)"
+                }
+            ]
+        },
+        "Seq": 36,
+        "StartDependency": false
+    },
+    {
+        "ID": "1f33d472fa4",
+        "Name": " Sing, O Mews",
+        "Location": "Elpis",
+        "Level": 80,
+        "JournalSection": 3,
+        "JournalCategory": 62,
+        "JournalGenre": "Elpis Sidequests",
+        "Url": "/lodestone/playguide/db/quest/1f33d472fa4/",
+        "Image": null,
+        "Icon": "common_normal",
+        "Issuer": "Hippothoe",
+        "StartLocation": {
+            "Name": "Elpis",
+            "X": "9.2",
+            "Y": "31.6"
+        },
+        "StartClass": null,
+        "Job": "",
+        "Company": "Not specified",
+        "Requirement": "Not specified",
+        "Rewards": {
+            "Gil": 735,
+            "Exp": null,
+            "ItemsMand": [
+                {
+                    "Icon": "https://img.finalfantasyxiv.com/lds/pc/global/images/itemicon/e3/e37fdec0415b0585949d8355ae92379da2a0c37d.png?n6.05",
+                    "Name": "Ironwood Ring Coffer",
+                    "Amount": 1,
+                    "Url": "/lodestone/playguide/db/item/f151e4af5ac/"
+                }
+            ],
+            "ItemsOpt": []
+        },
+        "Infos": {
+            "PrerequisiteQuest": [
+                {
+                    "Name": "A Sentimental Gift",
+                    "Url": "/lodestone/playguide/db/quest/3ef02f2d789/",
+                    "Area": "Elpis",
+                    "Level": "86"
+                },
+                {
+                    "Name": " You and the Ailouros",
+                    "Url": "/lodestone/playguide/db/quest/124e94a9bca/",
+                    "Area": "Elpis",
+                    "Level": "80"
+                }
+            ],
+            "RelatedNPC": [
+                {
+                    "Name": "Ailouros",
+                    "Url": "/lodestone/playguide/db/npc/npc/7a2977a8a97/",
+                    "Area": "Elpis (X:9.1 Y:31.6)"
+                },
+                {
+                    "Name": "Chloris",
+                    "Url": "/lodestone/playguide/db/npc/npc/15951c3eedd/",
+                    "Area": "Elpis (X:9.1 Y:32.7)"
+                },
+                {
+                    "Name": "Deukalion",
+                    "Url": "/lodestone/playguide/db/npc/npc/576b6ea2db1/",
+                    "Area": "Elpis (X:8.3 Y:32.5)"
+                },
+                {
+                    "Name": "Oloros",
+                    "Url": "/lodestone/playguide/db/npc/npc/1cf4f684251/",
+                    "Area": "Elpis (X:7.8 Y:32.8)"
+                }
+            ]
+        },
+        "Seq": 17,
+        "StartDependency": false
+    },
+    {
+        "ID": "21fe55c7db3",
+        "Name": " Familiar Fate",
+        "Location": "Elpis",
+        "Level": 80,
+        "JournalSection": 3,
+        "JournalCategory": 62,
+        "JournalGenre": "Elpis Sidequests",
+        "Url": "/lodestone/playguide/db/quest/21fe55c7db3/",
+        "Image": "https://img.finalfantasyxiv.com/lds/pc/global/images/itemicon/fc/fc2032d07da14851bd6ebc887b90ed4fdb42e2f3.png?n6.05",
+        "Icon": "common_normal",
+        "Issuer": "Charmion",
+        "StartLocation": {
+            "Name": "Elpis",
+            "X": "24.7",
+            "Y": "26.1"
+        },
+        "StartClass": null,
+        "Job": "",
+        "Company": "Not specified",
+        "Requirement": "Not specified",
+        "Rewards": {
+            "Gil": 895,
+            "Exp": null,
+            "ItemsMand": [],
+            "ItemsOpt": []
+        },
+        "Infos": {
+            "PrerequisiteQuest": [
+                {
+                    "Name": " Familiar Food",
+                    "Url": "/lodestone/playguide/db/quest/bd93ddbbd4a/",
+                    "Area": "Elpis",
+                    "Level": "80"
+                }
+            ],
+            "FollowupQuest": [
+                {
+                    "Name": " Methods of Mourning",
+                    "Url": "/lodestone/playguide/db/quest/b2537eea946/",
+                    "Area": "Elpis",
+                    "Level": "80"
+                }
+            ],
+            "RelatedNPC": [
+                {
+                    "Name": "Charmion",
+                    "Url": "/lodestone/playguide/db/npc/npc/f93187f6190/",
+                    "Area": "Elpis (X:23.3 Y:23.6)"
+                },
+                {
+                    "Name": "Charmion",
+                    "Url": "/lodestone/playguide/db/npc/npc/4e5667fe65f/",
+                    "Area": "Elpis (X:25.1 Y:24.7)"
+                },
+                {
+                    "Name": "Sokles",
+                    "Url": "/lodestone/playguide/db/npc/npc/ceb0195ba6d/",
+                    "Area": "Elpis (X:24.8 Y:26.2)"
+                }
+            ]
+        },
+        "Seq": 15,
+        "StartDependency": false
+    },
+    {
+        "ID": "2846560f07a",
+        "Name": " Sweet Temptations",
+        "Location": "Elpis",
+        "Level": 80,
+        "JournalSection": 3,
+        "JournalCategory": 62,
+        "JournalGenre": "Elpis Sidequests",
+        "Url": "/lodestone/playguide/db/quest/2846560f07a/",
+        "Image": null,
+        "Icon": "common_normal",
+        "Issuer": "Earnest Observer",
+        "StartLocation": {
+            "Name": "Elpis",
+            "X": "23.8",
+            "Y": "24.7"
+        },
+        "StartClass": null,
+        "Job": "",
+        "Company": "Not specified",
+        "Requirement": "Not specified",
+        "Rewards": {
+            "Gil": 655,
+            "Exp": null,
+            "ItemsMand": [
+                {
+                    "Icon": "https://img.finalfantasyxiv.com/lds/pc/global/images/itemicon/66/66e40643e0b44d9f56e8628395cdf870c5820fe6.png?n6.05",
+                    "Name": "Ironwood Necklace Coffer",
+                    "Amount": 1,
+                    "Url": "/lodestone/playguide/db/item/5b77f44f7ca/"
+                }
+            ],
+            "ItemsOpt": []
+        },
+        "Infos": {
+            "PrerequisiteQuest": [
+                {
+                    "Name": "Ponder, Warrant, Cherish, Welcome",
+                    "Url": "/lodestone/playguide/db/quest/bb0143637cc/",
+                    "Area": "Elpis",
+                    "Level": "86"
+                }
+            ],
+            "RelatedNPC": [
+                {
+                    "Name": "Agavoides Young",
+                    "Url": "/lodestone/playguide/db/npc/npc/ca90d3d2b64/",
+                    "Area": "Elpis (X:23.2 Y:26.7)"
+                },
+                {
+                    "Name": "Agavoides Young",
+                    "Url": "/lodestone/playguide/db/npc/npc/9f4cc689a94/",
+                    "Area": "Elpis (X:22.9 Y:25.9)"
+                },
+                {
+                    "Name": "Agavoides Young",
+                    "Url": "/lodestone/playguide/db/npc/npc/6ae1fad16f8/",
+                    "Area": "Elpis (X:22.3 Y:26.1)"
+                }
+            ]
+        },
+        "Seq": 4,
+        "StartDependency": false
+    },
+    {
+        "ID": "3d2d579fcc5",
+        "Name": " A Most Succulent Name",
+        "Location": "Elpis",
+        "Level": 80,
+        "JournalSection": 3,
+        "JournalCategory": 62,
+        "JournalGenre": "Elpis Sidequests",
+        "Url": "/lodestone/playguide/db/quest/3d2d579fcc5/",
+        "Image": null,
+        "Icon": "common_normal",
+        "Issuer": "Priggish Taxonomist",
+        "StartLocation": {
+            "Name": "Elpis",
+            "X": "10.9",
+            "Y": "18.2"
+        },
+        "StartClass": null,
+        "Job": "",
+        "Company": "Not specified",
+        "Requirement": "Not specified",
+        "Rewards": {
+            "Gil": 895,
+            "Exp": null,
+            "ItemsMand": [],
+            "ItemsOpt": []
+        },
+        "Infos": {
+            "PrerequisiteQuest": [
+                {
+                    "Name": "Witness to the Spectacle",
+                    "Url": "/lodestone/playguide/db/quest/eb95a0d0e4d/",
+                    "Area": "Elpis",
+                    "Level": "87"
+                }
+            ],
+            "RelatedNPC": [
+                {
+                    "Name": "Euros 310",
+                    "Url": "/lodestone/playguide/db/npc/npc/d11910fb2ad/",
+                    "Area": "Elpis (X:10.9 Y:18.2)"
+                },
+                {
+                    "Name": "Euros 310",
+                    "Url": "/lodestone/playguide/db/npc/npc/c0451eb4d6d/",
+                    "Area": "Elpis (X:11.8 Y:22.1)"
+                },
+                {
+                    "Name": "Euros 310",
+                    "Url": "/lodestone/playguide/db/npc/npc/07f20a7f5a3/",
+                    "Area": "Elpis (X:7.0 Y:19.6)"
+                },
+                {
+                    "Name": "Priggish Taxonomist",
+                    "Url": "/lodestone/playguide/db/npc/npc/b9c01bb57e4/",
+                    "Area": "Elpis (X:11.8 Y:22.1)"
+                },
+                {
+                    "Name": "Priggish Taxonomist",
+                    "Url": "/lodestone/playguide/db/npc/npc/52dc55b95c8/",
+                    "Area": "Elpis (X:7.0 Y:19.6)"
+                }
+            ]
+        },
+        "Seq": 40,
+        "StartDependency": false
+    },
+    {
+        "ID": "420e8ec3523",
+        "Name": " Terror on Two Legs",
+        "Location": "Elpis",
+        "Level": 80,
+        "JournalSection": 3,
+        "JournalCategory": 62,
+        "JournalGenre": "Elpis Sidequests",
+        "Url": "/lodestone/playguide/db/quest/420e8ec3523/",
+        "Image": null,
+        "Icon": "common_normal",
+        "Issuer": "Glaphyra",
+        "StartLocation": {
+            "Name": "Elpis",
+            "X": "11.5",
+            "Y": "18.8"
+        },
+        "StartClass": null,
+        "Job": "",
+        "Company": "Not specified",
+        "Requirement": "Not specified",
+        "Rewards": {
+            "Gil": 895,
+            "Exp": null,
+            "ItemsMand": [],
+            "ItemsOpt": []
+        },
+        "Infos": {
+            "PrerequisiteQuest": [
+                {
+                    "Name": "Witness to the Spectacle",
+                    "Url": "/lodestone/playguide/db/quest/eb95a0d0e4d/",
+                    "Area": "Elpis",
+                    "Level": "87"
+                }
+            ],
+            "RelatedNPC": [
+                {
+                    "Name": "Red-haired Researcher",
+                    "Url": "/lodestone/playguide/db/npc/npc/173e8618728/",
+                    "Area": "Elpis (X:10.0 Y:21.0)"
+                },
+                {
+                    "Name": "Sleeping Creature",
+                    "Url": "/lodestone/playguide/db/npc/npc/b1f0302265c/",
+                    "Area": "Elpis (X:10.9 Y:24.3)"
+                }
+            ]
+        },
+        "Seq": 43,
+        "StartDependency": false
+    },
+    {
+        "ID": "442a7ea54cf",
+        "Name": " Rolling Bryons Gather No Moss",
+        "Location": "Elpis",
+        "Level": 80,
+        "JournalSection": 3,
+        "JournalCategory": 62,
+        "JournalGenre": "Elpis Sidequests",
+        "Url": "/lodestone/playguide/db/quest/442a7ea54cf/",
+        "Image": null,
+        "Icon": "common_normal",
+        "Issuer": "Euaion",
+        "StartLocation": {
+            "Name": "Elpis",
+            "X": "10.9",
+            "Y": "17.8"
+        },
+        "StartClass": null,
+        "Job": "",
+        "Company": "Not specified",
+        "Requirement": "Not specified",
+        "Rewards": {
+            "Gil": 655,
+            "Exp": null,
+            "ItemsMand": [],
+            "ItemsOpt": []
+        },
+        "Infos": {
+            "PrerequisiteQuest": [
+                {
+                    "Name": "A Flower upon Your Return",
+                    "Url": "/lodestone/playguide/db/quest/7c78994d56b/",
+                    "Area": "Elpis",
+                    "Level": "87"
+                }
+            ],
+            "RelatedNPC": [
+                {
+                    "Name": "Overgrown Bryon",
+                    "Url": "/lodestone/playguide/db/npc/npc/06e7770465b/",
+                    "Area": "Elpis (X:15.3 Y:16.8)"
+                }
+            ]
+        },
+        "Seq": 37,
+        "StartDependency": false
+    },
+    {
+        "ID": "45231259622",
+        "Name": " Background Research",
+        "Location": "Elpis",
+        "Level": 80,
+        "JournalSection": 3,
+        "JournalCategory": 62,
+        "JournalGenre": "Elpis Sidequests",
+        "Url": "/lodestone/playguide/db/quest/45231259622/",
+        "Image": null,
+        "Icon": "common_normal",
+        "Issuer": "Isle Designer",
+        "StartLocation": {
+            "Name": "Elpis",
+            "X": "8.4",
+            "Y": "33.5"
+        },
+        "StartClass": null,
+        "Job": "",
+        "Company": "Not specified",
+        "Requirement": "Not specified",
+        "Rewards": {
+            "Gil": 655,
+            "Exp": null,
+            "ItemsMand": [],
+            "ItemsOpt": []
+        },
+        "Infos": {
+            "PrerequisiteQuest": [
+                {
+                    "Name": "A Sentimental Gift",
+                    "Url": "/lodestone/playguide/db/quest/3ef02f2d789/",
+                    "Area": "Elpis",
+                    "Level": "86"
+                }
+            ],
+            "RelatedNPC": [
+                {
+                    "Name": "Eukleides",
+                    "Url": "/lodestone/playguide/db/npc/npc/487d45ce4a2/",
+                    "Area": "Elpis (X:25.1 Y:25.2)"
+                },
+                {
+                    "Name": "Nikias",
+                    "Url": "/lodestone/playguide/db/npc/npc/53ed500b021/",
+                    "Area": "Elpis (X:23.7 Y:27.6)"
+                },
+                {
+                    "Name": "Paramonos",
+                    "Url": "/lodestone/playguide/db/npc/npc/0ab329685a4/",
+                    "Area": "Elpis (X:24.3 Y:25.5)"
+                }
+            ]
+        },
+        "Seq": 22,
+        "StartDependency": false
+    },
+    {
+        "ID": "46a5b2b6579",
+        "Name": " We'll Meet Again",
+        "Location": "Elpis",
+        "Level": 80,
+        "JournalSection": 3,
+        "JournalCategory": 62,
+        "JournalGenre": "Elpis Sidequests",
+        "Url": "/lodestone/playguide/db/quest/46a5b2b6579/",
+        "Image": null,
+        "Icon": "common_normal",
+        "Issuer": "Blaste",
+        "StartLocation": {
+            "Name": "Elpis",
+            "X": "25.0",
+            "Y": "23.7"
+        },
+        "StartClass": null,
+        "Job": "",
+        "Company": "Not specified",
+        "Requirement": "Not specified",
+        "Rewards": {
+            "Gil": 655,
+            "Exp": null,
+            "ItemsMand": [],
+            "ItemsOpt": []
+        },
+        "Infos": {
+            "PrerequisiteQuest": [
+                {
+                    "Name": "Their Greatest Contribution",
+                    "Url": "/lodestone/playguide/db/quest/dd751eb0299/",
+                    "Area": "Elpis",
+                    "Level": "86"
+                }
+            ],
+            "RelatedNPC": [
+                {
+                    "Name": "Chestnut-haired Researcher",
+                    "Url": "/lodestone/playguide/db/npc/npc/5e132764544/",
+                    "Area": "Elpis (X:23.6 Y:30.4)"
+                }
+            ]
+        },
+        "Seq": 11,
+        "StartDependency": false
+    },
+    {
+        "ID": "4829620ebf9",
+        "Name": " Taking the Minutes: Ktisis Hyperboreia",
+        "Location": "Elpis",
+        "Level": 80,
+        "JournalSection": 3,
+        "JournalCategory": 62,
+        "JournalGenre": "Elpis Sidequests",
+        "Url": "/lodestone/playguide/db/quest/4829620ebf9/",
+        "Image": null,
+        "Icon": "common_normal",
+        "Issuer": "Forbearing Visitor",
+        "StartLocation": {
+            "Name": "Elpis",
+            "X": "9.1",
+            "Y": "17.7"
+        },
+        "StartClass": null,
+        "Job": "",
+        "Company": "Not specified",
+        "Requirement": "Not specified",
+        "Rewards": {
+            "Gil": 735,
+            "Exp": null,
+            "ItemsMand": [
+                {
+                    "Icon": "https://img.finalfantasyxiv.com/lds/pc/global/images/itemicon/af/af90f4865384dffebf10cbb2e0b435c5e24139b4.png?n6.05",
+                    "Name": "Spicy Shakshouka",
+                    "Amount": 2,
+                    "Url": "/lodestone/playguide/db/item/e0ba510a710/"
+                }
+            ],
+            "ItemsOpt": []
+        },
+        "Infos": {
+            "PrerequisiteQuest": [
+                {
+                    "Name": "Witness to the Spectacle",
+                    "Url": "/lodestone/playguide/db/quest/eb95a0d0e4d/",
+                    "Area": "Elpis",
+                    "Level": "87"
+                }
+            ],
+            "RelatedNPC": [
+                {
+                    "Name": "Forbearing Visitor",
+                    "Url": "/lodestone/playguide/db/npc/npc/35c32950c9e/",
+                    "Area": "Elpis (X:11.3 Y:18.7)"
+                },
+                {
+                    "Name": "Ktisis Hyperboreia Scrivener",
+                    "Url": "/lodestone/playguide/db/npc/npc/43597f8df56/",
+                    "Area": "Elpis (X:5.1 Y:19.9)"
+                }
+            ]
+        },
+        "Seq": 42,
+        "StartDependency": false
+    },
+    {
+        "ID": "4cb918ca00b",
+        "Name": " Small Size Advantage",
+        "Location": "Elpis",
+        "Level": 80,
+        "JournalSection": 3,
+        "JournalCategory": 62,
+        "JournalGenre": "Elpis Sidequests",
+        "Url": "/lodestone/playguide/db/quest/4cb918ca00b/",
+        "Image": null,
+        "Icon": "common_normal",
+        "Issuer": "Combat Concept Observer",
+        "StartLocation": {
+            "Name": "Elpis",
+            "X": "11.5",
+            "Y": "16.4"
+        },
+        "StartClass": null,
+        "Job": "",
+        "Company": "Not specified",
+        "Requirement": "Not specified",
+        "Rewards": {
+            "Gil": 815,
+            "Exp": null,
+            "ItemsMand": [],
+            "ItemsOpt": []
+        },
+        "Infos": {
+            "PrerequisiteQuest": [
+                {
+                    "Name": "A Past, Not Yet Come to Pass",
+                    "Url": "/lodestone/playguide/db/quest/5953e0a6386/",
+                    "Area": "Elpis",
+                    "Level": "87"
+                }
+            ],
+            "RelatedNPC": [
+                {
+                    "Name": "Combat Concept Observer",
+                    "Url": "/lodestone/playguide/db/npc/npc/9f386a53b0f/",
+                    "Area": "Elpis (X:15.4 Y:17.5)"
+                }
+            ]
+        },
+        "Seq": 24,
+        "StartDependency": false
+    },
+    {
+        "ID": "5363430d916",
+        "Name": " Naughty Little Ones",
+        "Location": "Elpis",
+        "Level": 80,
+        "JournalSection": 3,
+        "JournalCategory": 62,
+        "JournalGenre": "Elpis Sidequests",
+        "Url": "/lodestone/playguide/db/quest/5363430d916/",
+        "Image": null,
+        "Icon": "common_normal",
+        "Issuer": "Calm Observer",
+        "StartLocation": {
+            "Name": "Elpis",
+            "X": "9.4",
+            "Y": "18.4"
+        },
+        "StartClass": null,
+        "Job": "",
+        "Company": "Not specified",
+        "Requirement": "Not specified",
+        "Rewards": {
+            "Gil": 815,
+            "Exp": null,
+            "ItemsMand": [],
+            "ItemsOpt": []
+        },
+        "Infos": {
+            "PrerequisiteQuest": [
+                {
+                    "Name": "A Past, Not Yet Come to Pass",
+                    "Url": "/lodestone/playguide/db/quest/5953e0a6386/",
+                    "Area": "Elpis",
+                    "Level": "87"
+                }
+            ],
+            "RelatedNPC": [
+                {
+                    "Name": "Thalassai Observer",
+                    "Url": "/lodestone/playguide/db/npc/npc/3d4655fd80d/",
+                    "Area": "Elpis (X:13.8 Y:18.3)"
+                },
+                {
+                    "Name": "Thalassai Observer",
+                    "Url": "/lodestone/playguide/db/npc/npc/a223c135d40/",
+                    "Area": "Elpis (X:9.4 Y:18.4)"
+                },
+                {
+                    "Name": "Zephyros 72",
+                    "Url": "/lodestone/playguide/db/npc/npc/37acb03c1f1/",
+                    "Area": "Elpis (X:13.9 Y:17.7)"
+                },
+                {
+                    "Name": "Zephyros 72",
+                    "Url": "/lodestone/playguide/db/npc/npc/c015f835d05/",
+                    "Area": "Elpis (X:14.0 Y:18.3)"
+                },
+                {
+                    "Name": "Zephyros 72",
+                    "Url": "/lodestone/playguide/db/npc/npc/f255ff92632/",
+                    "Area": "Elpis (X:14.0 Y:17.9)"
+                },
+                {
+                    "Name": "Zephyros 72",
+                    "Url": "/lodestone/playguide/db/npc/npc/9199458bfd0/",
+                    "Area": "Elpis (X:14.3 Y:18.0)"
+                }
+            ]
+        },
+        "Seq": 26,
+        "StartDependency": false
+    },
+    {
+        "ID": "5a188dd2f64",
+        "Name": " Woken by the Familiar",
+        "Location": "Elpis",
+        "Level": 80,
+        "JournalSection": 3,
+        "JournalCategory": 62,
+        "JournalGenre": "Elpis Sidequests",
+        "Url": "/lodestone/playguide/db/quest/5a188dd2f64/",
+        "Image": null,
+        "Icon": "common_normal",
+        "Issuer": "Epiphron",
+        "StartLocation": {
+            "Name": "Elpis",
+            "X": "11.6",
+            "Y": "17.7"
+        },
+        "StartClass": null,
+        "Job": "",
+        "Company": "Not specified",
+        "Requirement": "Not specified",
+        "Rewards": {
+            "Gil": 655,
+            "Exp": null,
+            "ItemsMand": [],
+            "ItemsOpt": []
+        },
+        "Infos": {
+            "PrerequisiteQuest": [
+                {
+                    "Name": "Witness to the Spectacle",
+                    "Url": "/lodestone/playguide/db/quest/eb95a0d0e4d/",
+                    "Area": "Elpis",
+                    "Level": "87"
+                }
+            ],
+            "RelatedNPC": [
+                {
+                    "Name": "Hardworking Observer",
+                    "Url": "/lodestone/playguide/db/npc/npc/73101fa9ff7/",
+                    "Area": "Elpis (X:9.7 Y:15.2)"
+                }
+            ]
+        },
+        "Seq": 35,
+        "StartDependency": false
+    },
+    {
+        "ID": "5b9f8e3c20b",
+        "Name": " Take to the Skies",
+        "Location": "Elpis",
+        "Level": 80,
+        "JournalSection": 3,
+        "JournalCategory": 62,
+        "JournalGenre": "Elpis Sidequests",
+        "Url": "/lodestone/playguide/db/quest/5b9f8e3c20b/",
+        "Image": null,
+        "Icon": "common_normal",
+        "Issuer": "Eccentric Creator",
+        "StartLocation": {
+            "Name": "Elpis",
+            "X": "11.4",
+            "Y": "16.9"
+        },
+        "StartClass": null,
+        "Job": "",
+        "Company": "Not specified",
+        "Requirement": "Not specified",
+        "Rewards": {
+            "Gil": 655,
+            "Exp": null,
+            "ItemsMand": [
+                {
+                    "Icon": "https://img.finalfantasyxiv.com/lds/pc/global/images/itemicon/ca/ca2eb56f786901604c613177a38c1926ace1f842.png?n6.05",
+                    "Name": "Skyr",
+                    "Amount": 2,
+                    "Url": "/lodestone/playguide/db/item/567c3a6a0fa/"
+                }
+            ],
+            "ItemsOpt": []
+        },
+        "Infos": {
+            "PrerequisiteQuest": [
+                {
+                    "Name": "A Flower upon Your Return",
+                    "Url": "/lodestone/playguide/db/quest/7c78994d56b/",
+                    "Area": "Elpis",
+                    "Level": "87"
+                }
+            ],
+            "RelatedNPC": [
+                {
+                    "Name": "Restless Plant",
+                    "Url": "/lodestone/playguide/db/npc/npc/632a369841f/",
+                    "Area": "Elpis (X:14.7 Y:16.8)"
+                },
+                {
+                    "Name": "Restless Plant",
+                    "Url": "/lodestone/playguide/db/npc/npc/0cb673718a0/",
+                    "Area": "Elpis (X:14.1 Y:17.5)"
+                },
+                {
+                    "Name": "Restless Plant",
+                    "Url": "/lodestone/playguide/db/npc/npc/003f5c1f95f/",
+                    "Area": "Elpis (X:14.4 Y:19.0)"
+                },
+                {
+                    "Name": "Restless Plant",
+                    "Url": "/lodestone/playguide/db/npc/npc/155dfe5ed95/",
+                    "Area": "Elpis (X:13.7 Y:18.9)"
+                }
+            ]
+        },
+        "Seq": 25,
+        "StartDependency": false
+    },
+    {
+        "ID": "5dc110917d4",
+        "Name": " Breaking the Eyes",
+        "Location": "Elpis",
+        "Level": 80,
+        "JournalSection": 3,
+        "JournalCategory": 62,
+        "JournalGenre": "Elpis Sidequests",
+        "Url": "/lodestone/playguide/db/quest/5dc110917d4/",
+        "Image": null,
+        "Icon": "common_normal",
+        "Issuer": "Vivacious Observer",
+        "StartLocation": {
+            "Name": "Elpis",
+            "X": "25.1",
+            "Y": "23.5"
+        },
+        "StartClass": null,
+        "Job": "",
+        "Company": "Not specified",
+        "Requirement": "Not specified",
+        "Rewards": {
+            "Gil": 895,
+            "Exp": null,
+            "ItemsMand": [],
+            "ItemsOpt": []
+        },
+        "Infos": {
+            "PrerequisiteQuest": [
+                {
+                    "Name": "Ponder, Warrant, Cherish, Welcome",
+                    "Url": "/lodestone/playguide/db/quest/bb0143637cc/",
+                    "Area": "Elpis",
+                    "Level": "86"
+                }
+            ],
+            "RelatedNPC": [
+                {
+                    "Name": "Notos 666",
+                    "Url": "/lodestone/playguide/db/npc/npc/721610e7793/",
+                    "Area": "Elpis (X:24.7 Y:21.1)"
+                },
+                {
+                    "Name": "Vivacious Observer",
+                    "Url": "/lodestone/playguide/db/npc/npc/31f877bb8d8/",
+                    "Area": "Elpis (X:25.1 Y:21.2)"
+                }
+            ]
+        },
+        "Seq": 5,
+        "StartDependency": false
+    },
+    {
+        "ID": "5f089371bf9",
+        "Name": " Searching for Eidos",
+        "Location": "Elpis",
+        "Level": 80,
+        "JournalSection": 3,
+        "JournalCategory": 62,
+        "JournalGenre": "Elpis Sidequests",
+        "Url": "/lodestone/playguide/db/quest/5f089371bf9/",
+        "Image": null,
+        "Icon": "common_normal",
+        "Issuer": "Glaukon",
+        "StartLocation": {
+            "Name": "Elpis",
+            "X": "10.5",
+            "Y": "16.5"
+        },
+        "StartClass": null,
+        "Job": "",
+        "Company": "Not specified",
+        "Requirement": "Not specified",
+        "Rewards": {
+            "Gil": 655,
+            "Exp": null,
+            "ItemsMand": [],
+            "ItemsOpt": []
+        },
+        "Infos": {
+            "PrerequisiteQuest": [
+                {
+                    "Name": "A Flower upon Your Return",
+                    "Url": "/lodestone/playguide/db/quest/7c78994d56b/",
+                    "Area": "Elpis",
+                    "Level": "87"
+                }
+            ],
+            "RelatedNPC": [
+                {
+                    "Name": "Suspicious Minotaur",
+                    "Url": "/lodestone/playguide/db/npc/npc/1296bd4b9de/",
+                    "Area": "Elpis (X:15.6 Y:15.8)"
+                },
+                {
+                    "Name": "Suspicious Pegasos",
+                    "Url": "/lodestone/playguide/db/npc/npc/d4b9faf2163/",
+                    "Area": "Elpis (X:14.1 Y:13.9)"
+                },
+                {
+                    "Name": "Suspicious Pegasos",
+                    "Url": "/lodestone/playguide/db/npc/npc/7cfd225c0e1/",
+                    "Area": "Elpis (X:10.4 Y:14.1)"
+                }
+            ]
+        },
+        "Seq": 31,
+        "StartDependency": false
+    },
+    {
+        "ID": "5f552277754",
+        "Name": " Meekly Majestic",
+        "Location": "Elpis",
+        "Level": 80,
+        "JournalSection": 3,
+        "JournalCategory": 62,
+        "JournalGenre": "Elpis Sidequests",
+        "Url": "/lodestone/playguide/db/quest/5f552277754/",
+        "Image": "https://img.finalfantasyxiv.com/lds/pc/global/images/itemicon/da/dad349ee2ba1d20146ffcd6471a493606b3e1672.png?n6.05",
+        "Icon": "common_normal",
+        "Issuer": "Kleon",
+        "StartLocation": {
+            "Name": "Elpis",
+            "X": "13.1",
+            "Y": "17.3"
+        },
+        "StartClass": null,
+        "Job": "",
+        "Company": "Not specified",
+        "Requirement": "Not specified",
+        "Rewards": {
+            "Gil": 935,
+            "Exp": null,
+            "ItemsMand": [],
+            "ItemsOpt": []
+        },
+        "Infos": {
+            "PrerequisiteQuest": [
+                {
+                    "Name": " A Better Batrachoi",
+                    "Url": "/lodestone/playguide/db/quest/9432d8e17f3/",
+                    "Area": "Elpis",
+                    "Level": "80"
+                }
+            ],
+            "FollowupQuest": [
+                {
+                    "Name": " Unleash the Beast",
+                    "Url": "/lodestone/playguide/db/quest/a12fa5f943b/",
+                    "Area": "Elpis",
+                    "Level": "80"
+                }
+            ],
+            "RelatedNPC": [
+                {
+                    "Name": "Alkaios",
+                    "Url": "/lodestone/playguide/db/npc/npc/4340baaecba/",
+                    "Area": "Elpis (X:13.2 Y:17.3)"
+                },
+                {
+                    "Name": "Alkaios",
+                    "Url": "/lodestone/playguide/db/npc/npc/ee4ff8e8653/",
+                    "Area": "Elpis (X:13.7 Y:20.9)"
+                },
+                {
+                    "Name": "Alkaios",
+                    "Url": "/lodestone/playguide/db/npc/npc/acf8ad1b76a/",
+                    "Area": "Elpis (X:13.1 Y:24.4)"
+                },
+                {
+                    "Name": "Alkaios",
+                    "Url": "/lodestone/playguide/db/npc/npc/3cef84ca834/",
+                    "Area": "Elpis (X:12.3 Y:22.4)"
+                },
+                {
+                    "Name": "Io",
+                    "Url": "/lodestone/playguide/db/npc/npc/df94f4a7935/",
+                    "Area": "Elpis (X:13.1 Y:24.6)"
+                },
+                {
+                    "Name": "Kleon",
+                    "Url": "/lodestone/playguide/db/npc/npc/b82f0b43577/",
+                    "Area": "Elpis (X:13.6 Y:20.8)"
+                },
+                {
+                    "Name": "Kleon",
+                    "Url": "/lodestone/playguide/db/npc/npc/7f701aff5a4/",
+                    "Area": "Elpis (X:13.1 Y:24.4)"
+                },
+                {
+                    "Name": "Kleon",
+                    "Url": "/lodestone/playguide/db/npc/npc/969e69ea7d2/",
+                    "Area": "Elpis (X:15.4 Y:20.0)"
+                },
+                {
+                    "Name": "Maira",
+                    "Url": "/lodestone/playguide/db/npc/npc/e392c5ea037/",
+                    "Area": "Elpis (X:13.1 Y:17.3)"
+                },
+                {
+                    "Name": "Maira",
+                    "Url": "/lodestone/playguide/db/npc/npc/65e73ec32dc/",
+                    "Area": "Elpis (X:13.6 Y:20.8)"
+                },
+                {
+                    "Name": "Maira",
+                    "Url": "/lodestone/playguide/db/npc/npc/baa19318b58/",
+                    "Area": "Elpis (X:13.1 Y:24.4)"
+                },
+                {
+                    "Name": "Maira",
+                    "Url": "/lodestone/playguide/db/npc/npc/b7edd72231e/",
+                    "Area": "Elpis (X:13.7 Y:22.3)"
+                }
+            ]
+        },
+        "Seq": 46,
+        "StartDependency": false
+    },
+    {
+        "ID": "61e9b864ec9",
+        "Name": " Unresolved Mysteries",
+        "Location": "Elpis",
+        "Level": 80,
+        "JournalSection": 3,
+        "JournalCategory": 62,
+        "JournalGenre": "Elpis Sidequests",
+        "Url": "/lodestone/playguide/db/quest/61e9b864ec9/",
+        "Image": null,
+        "Icon": "common_normal",
+        "Issuer": "Hierax",
+        "StartLocation": {
+            "Name": "Elpis",
+            "X": "8.3",
+            "Y": "33.1"
+        },
+        "StartClass": null,
+        "Job": "",
+        "Company": "Not specified",
+        "Requirement": "Not specified",
+        "Rewards": {
+            "Gil": 655,
+            "Exp": null,
+            "ItemsMand": [],
+            "ItemsOpt": []
+        },
+        "Infos": {
+            "PrerequisiteQuest": [
+                {
+                    "Name": "A Sentimental Gift",
+                    "Url": "/lodestone/playguide/db/quest/3ef02f2d789/",
+                    "Area": "Elpis",
+                    "Level": "86"
+                }
+            ],
+            "RelatedNPC": [
+                {
+                    "Name": "Nymphe",
+                    "Url": "/lodestone/playguide/db/npc/npc/d084637aaad/",
+                    "Area": "Elpis (X:5.9 Y:33.8)"
+                },
+                {
+                    "Name": "Nymphe",
+                    "Url": "/lodestone/playguide/db/npc/npc/a098581f0af/",
+                    "Area": "Elpis (X:6.6 Y:33.7)"
+                },
+                {
+                    "Name": "Nymphe",
+                    "Url": "/lodestone/playguide/db/npc/npc/fe1127446c4/",
+                    "Area": "Elpis (X:7.0 Y:33.5)"
+                }
+            ]
+        },
+        "Seq": 19,
+        "StartDependency": false
+    },
+    {
+        "ID": "67d36ef8d70",
+        "Name": " Touring Anagnorisis, Part II",
+        "Location": "Elpis",
+        "Level": 80,
+        "JournalSection": 3,
+        "JournalCategory": 62,
+        "JournalGenre": "Elpis Sidequests",
+        "Url": "/lodestone/playguide/db/quest/67d36ef8d70/",
+        "Image": "https://img.finalfantasyxiv.com/lds/pc/global/images/itemicon/fc/fc2032d07da14851bd6ebc887b90ed4fdb42e2f3.png?n6.05",
+        "Icon": "common_normal",
+        "Issuer": "Sokles",
+        "StartLocation": {
+            "Name": "Elpis",
+            "X": "24.8",
+            "Y": "26.2"
+        },
+        "StartClass": null,
+        "Job": "",
+        "Company": "Not specified",
+        "Requirement": "Not specified",
+        "Rewards": {
+            "Gil": 855,
+            "Exp": null,
+            "ItemsMand": [
+                {
+                    "Icon": "https://img.finalfantasyxiv.com/lds/pc/global/images/itemicon/30/30b5f35d0481a6e2c068d1c0488a0aa9de0d5d13.png?n6.05",
+                    "Name": "Ironwood Bracelet Coffer",
+                    "Amount": 1,
+                    "Url": "/lodestone/playguide/db/item/6c2a9be92c6/"
+                }
+            ],
+            "ItemsOpt": []
+        },
+        "Infos": {
+            "PrerequisiteQuest": [
+                {
+                    "Name": " Touring Anagnorisis, Part I",
+                    "Url": "/lodestone/playguide/db/quest/9eff677f492/",
+                    "Area": "Elpis",
+                    "Level": "80"
+                }
+            ],
+            "FollowupQuest": [
+                {
+                    "Name": " Familiar Food",
+                    "Url": "/lodestone/playguide/db/quest/bd93ddbbd4a/",
+                    "Area": "Elpis",
+                    "Level": "80"
+                }
+            ],
+            "RelatedNPC": [
+                {
+                    "Name": "Charmion",
+                    "Url": "/lodestone/playguide/db/npc/npc/c7e0008db5d/",
+                    "Area": "Elpis (X:24.7 Y:26.1)"
+                },
+                {
+                    "Name": "Charmion",
+                    "Url": "/lodestone/playguide/db/npc/npc/e6ae02ef92b/",
+                    "Area": "Elpis (X:26.6 Y:27.9)"
+                },
+                {
+                    "Name": "Charmion",
+                    "Url": "/lodestone/playguide/db/npc/npc/5a9a90bf553/",
+                    "Area": "Elpis (X:27.1 Y:33.1)"
+                },
+                {
+                    "Name": "Charmion",
+                    "Url": "/lodestone/playguide/db/npc/npc/1f0dab2f6df/",
+                    "Area": "Elpis (X:34.2 Y:21.7)"
+                }
+            ]
+        },
+        "Seq": 13,
+        "StartDependency": false
+    },
+    {
+        "ID": "719bc88059b",
+        "Name": " To Name a Tale",
+        "Location": "Elpis",
+        "Level": 80,
+        "JournalSection": 3,
+        "JournalCategory": 62,
+        "JournalGenre": "Elpis Sidequests",
+        "Url": "/lodestone/playguide/db/quest/719bc88059b/",
+        "Image": null,
+        "Icon": "common_normal",
+        "Issuer": "Troubled Taxonomist",
+        "StartLocation": {
+            "Name": "Elpis",
+            "X": "10.4",
+            "Y": "16.7"
+        },
+        "StartClass": null,
+        "Job": "",
+        "Company": "Not specified",
+        "Requirement": "Not specified",
+        "Rewards": {
+            "Gil": 655,
+            "Exp": null,
+            "ItemsMand": [],
+            "ItemsOpt": []
+        },
+        "Infos": {
+            "PrerequisiteQuest": [
+                {
+                    "Name": "A Past, Not Yet Come to Pass",
+                    "Url": "/lodestone/playguide/db/quest/5953e0a6386/",
+                    "Area": "Elpis",
+                    "Level": "87"
+                }
+            ],
+            "RelatedNPC": [
+                {
+                    "Name": "Glaphyra",
+                    "Url": "/lodestone/playguide/db/npc/npc/0b03b4ccfa8/",
+                    "Area": "Elpis (X:11.5 Y:18.8)"
+                },
+                {
+                    "Name": "Lampito",
+                    "Url": "/lodestone/playguide/db/npc/npc/1509a313c0d/",
+                    "Area": "Elpis (X:10.4 Y:19.1)"
+                }
+            ]
+        },
+        "Seq": 32,
+        "StartDependency": false
+    },
+    {
+        "ID": "8139bf200a3",
+        "Name": " Very Familiar Carrots",
+        "Location": "Elpis",
+        "Level": 80,
+        "JournalSection": 3,
+        "JournalCategory": 62,
+        "JournalGenre": "Elpis Sidequests",
+        "Url": "/lodestone/playguide/db/quest/8139bf200a3/",
+        "Image": null,
+        "Icon": "common_normal",
+        "Issuer": "Rhodopis",
+        "StartLocation": {
+            "Name": "Elpis",
+            "X": "8.9",
+            "Y": "17.8"
+        },
+        "StartClass": null,
+        "Job": "",
+        "Company": "Not specified",
+        "Requirement": "Not specified",
+        "Rewards": {
+            "Gil": 895,
+            "Exp": null,
+            "ItemsMand": [],
+            "ItemsOpt": []
+        },
+        "Infos": {
+            "PrerequisiteQuest": [
+                {
+                    "Name": "Witness to the Spectacle",
+                    "Url": "/lodestone/playguide/db/quest/eb95a0d0e4d/",
+                    "Area": "Elpis",
+                    "Level": "87"
+                }
+            ],
+            "RelatedNPC": [
+                {
+                    "Name": "Long-haired Observer",
+                    "Url": "/lodestone/playguide/db/npc/npc/24630c01379/",
+                    "Area": "Elpis (X:9.5 Y:24.6)"
+                },
+                {
+                    "Name": "Rabbit Familiar",
+                    "Url": "/lodestone/playguide/db/npc/npc/15d4e2bcfb1/",
+                    "Area": "Elpis (X:9.6 Y:24.6)"
+                }
+            ]
+        },
+        "Seq": 38,
+        "StartDependency": false
+    },
+    {
+        "ID": "824cf257ddc",
+        "Name": " Coming to Gryps",
+        "Location": "Elpis",
+        "Level": 80,
+        "JournalSection": 3,
+        "JournalCategory": 62,
+        "JournalGenre": "Elpis Sidequests",
+        "Url": "/lodestone/playguide/db/quest/824cf257ddc/",
+        "Image": null,
+        "Icon": "common_normal",
+        "Issuer": "Mount Researcher",
+        "StartLocation": {
+            "Name": "Elpis",
+            "X": "9.4",
+            "Y": "33.2"
+        },
+        "StartClass": null,
+        "Job": "",
+        "Company": "Not specified",
+        "Requirement": "Not specified",
+        "Rewards": {
+            "Gil": 735,
+            "Exp": null,
+            "ItemsMand": [],
+            "ItemsOpt": []
+        },
+        "Infos": {
+            "PrerequisiteQuest": [
+                {
+                    "Name": "A Sentimental Gift",
+                    "Url": "/lodestone/playguide/db/quest/3ef02f2d789/",
+                    "Area": "Elpis",
+                    "Level": "86"
+                }
+            ]
+        },
+        "Seq": 23,
+        "StartDependency": false
+    },
+    {
+        "ID": "8266e1ade02",
+        "Name": " What's in a Name?",
+        "Location": "Elpis",
+        "Level": 80,
+        "JournalSection": 3,
+        "JournalCategory": 62,
+        "JournalGenre": "Elpis Sidequests",
+        "Url": "/lodestone/playguide/db/quest/8266e1ade02/",
+        "Image": null,
+        "Icon": "common_normal",
+        "Issuer": "Meleagros",
+        "StartLocation": {
+            "Name": "Elpis",
+            "X": "10.9",
+            "Y": "16.4"
+        },
+        "StartClass": null,
+        "Job": "",
+        "Company": "Not specified",
+        "Requirement": "Not specified",
+        "Rewards": {
+            "Gil": 655,
+            "Exp": null,
+            "ItemsMand": [],
+            "ItemsOpt": [
+                {
+                    "Icon": "https://img.finalfantasyxiv.com/lds/pc/global/images/itemicon/7b/7bf85ff916a27cc2b17a3cbe2c9509757a2ed3fd.png?n6.05",
+                    "Name": "Sunset Orange Dye",
+                    "Amount": 2,
+                    "Url": "/lodestone/playguide/db/item/90e6dc94361/"
+                },
+                {
+                    "Icon": "https://img.finalfantasyxiv.com/lds/pc/global/images/itemicon/7b/7bf85ff916a27cc2b17a3cbe2c9509757a2ed3fd.png?n6.05",
+                    "Name": "Pumpkin Orange Dye",
+                    "Amount": 2,
+                    "Url": "/lodestone/playguide/db/item/840a8a38cdb/"
+                },
+                {
+                    "Icon": "https://img.finalfantasyxiv.com/lds/pc/global/images/itemicon/7b/7bf85ff916a27cc2b17a3cbe2c9509757a2ed3fd.png?n6.05",
+                    "Name": "Loam Brown Dye",
+                    "Amount": 2,
+                    "Url": "/lodestone/playguide/db/item/d7876384acd/"
+                }
+            ]
+        },
+        "Infos": {
+            "PrerequisiteQuest": [
+                {
+                    "Name": "A Past, Not Yet Come to Pass",
+                    "Url": "/lodestone/playguide/db/quest/5953e0a6386/",
+                    "Area": "Elpis",
+                    "Level": "87"
+                }
+            ],
+            "RelatedNPC": [
+                {
+                    "Name": "Akadaemia Researcher",
+                    "Url": "/lodestone/playguide/db/npc/npc/00cb48a66ca/",
+                    "Area": "Elpis (X:11.8 Y:19.2)"
+                },
+                {
+                    "Name": "Akadaemia Researcher",
+                    "Url": "/lodestone/playguide/db/npc/npc/d2df9cddeab/",
+                    "Area": "Elpis (X:10.5 Y:18.6)"
+                }
+            ]
+        },
+        "Seq": 29,
+        "StartDependency": false
+    },
+    {
+        "ID": "8728056816f",
+        "Name": " Labors of My Fruit",
+        "Location": "Elpis",
+        "Level": 80,
+        "JournalSection": 3,
+        "JournalCategory": 62,
+        "JournalGenre": "Elpis Sidequests",
+        "Url": "/lodestone/playguide/db/quest/8728056816f/",
+        "Image": null,
+        "Icon": "common_normal",
+        "Issuer": "Pompous Creator",
+        "StartLocation": {
+            "Name": "Elpis",
+            "X": "25.2",
+            "Y": "28.5"
+        },
+        "StartClass": null,
+        "Job": "",
+        "Company": "Not specified",
+        "Requirement": "Not specified",
+        "Rewards": {
+            "Gil": 655,
+            "Exp": null,
+            "ItemsMand": [],
+            "ItemsOpt": []
+        },
+        "Infos": {
+            "PrerequisiteQuest": [
+                {
+                    "Name": "Their Greatest Contribution",
+                    "Url": "/lodestone/playguide/db/quest/dd751eb0299/",
+                    "Area": "Elpis",
+                    "Level": "86"
+                }
+            ],
+            "RelatedNPC": [
+                {
+                    "Name": "Calm Observer",
+                    "Url": "/lodestone/playguide/db/npc/npc/f9a631cceda/",
+                    "Area": "Elpis (X:23.6 Y:25.9)"
+                },
+                {
+                    "Name": "Kindly Observer",
+                    "Url": "/lodestone/playguide/db/npc/npc/d65e4b2fef6/",
+                    "Area": "Elpis (X:25.5 Y:26.8)"
+                },
+                {
+                    "Name": "Sensitive Observer",
+                    "Url": "/lodestone/playguide/db/npc/npc/176f7a392ed/",
+                    "Area": "Elpis (X:24.5 Y:25.1)"
+                }
+            ]
+        },
+        "Seq": 9,
+        "StartDependency": false
+    },
+    {
+        "ID": "904952ec20e",
+        "Name": " Kick Some Asp",
+        "Location": "Elpis",
+        "Level": 80,
+        "JournalSection": 3,
+        "JournalCategory": 62,
+        "JournalGenre": "Elpis Sidequests",
+        "Url": "/lodestone/playguide/db/quest/904952ec20e/",
+        "Image": null,
+        "Icon": "common_normal",
+        "Issuer": "Paramonos",
+        "StartLocation": {
+            "Name": "Elpis",
+            "X": "24.3",
+            "Y": "25.5"
+        },
+        "StartClass": null,
+        "Job": "",
+        "Company": "Not specified",
+        "Requirement": "Not specified",
+        "Rewards": {
+            "Gil": 655,
+            "Exp": null,
+            "ItemsMand": [
+                {
+                    "Icon": "https://img.finalfantasyxiv.com/lds/pc/global/images/itemicon/a6/a65f7cd4dcf658cc637ccacd182c2ef92948c490.png?n6.05",
+                    "Name": "Karniyarik",
+                    "Amount": 2,
+                    "Url": "/lodestone/playguide/db/item/0d5a52aaf25/"
+                }
+            ],
+            "ItemsOpt": []
+        },
+        "Infos": {
+            "PrerequisiteQuest": [
+                {
+                    "Name": "Ponder, Warrant, Cherish, Welcome",
+                    "Url": "/lodestone/playguide/db/quest/bb0143637cc/",
+                    "Area": "Elpis",
+                    "Level": "86"
+                }
+            ]
+        },
+        "Seq": 6,
+        "StartDependency": false
+    },
+    {
+        "ID": "923208def1c",
+        "Name": " Wonder-full",
+        "Location": "Elpis",
+        "Level": 80,
+        "JournalSection": 3,
+        "JournalCategory": 62,
+        "JournalGenre": "Elpis Sidequests",
+        "Url": "/lodestone/playguide/db/quest/923208def1c/",
+        "Image": null,
+        "Icon": "common_normal",
+        "Issuer": "Alkmene",
+        "StartLocation": {
+            "Name": "Elpis",
+            "X": "9.8",
+            "Y": "33.0"
+        },
+        "StartClass": null,
+        "Job": "",
+        "Company": "Not specified",
+        "Requirement": "Not specified",
+        "Rewards": {
+            "Gil": 655,
+            "Exp": null,
+            "ItemsMand": [],
+            "ItemsOpt": []
+        },
+        "Infos": {
+            "PrerequisiteQuest": [
+                {
+                    "Name": "A Sentimental Gift",
+                    "Url": "/lodestone/playguide/db/quest/3ef02f2d789/",
+                    "Area": "Elpis",
+                    "Level": "86"
+                }
+            ],
+            "RelatedNPC": [
+                {
+                    "Name": "Aetherial Mass",
+                    "Url": "/lodestone/playguide/db/npc/npc/47c028e262a/",
+                    "Area": "Elpis (X:10.1 Y:31.0)"
+                },
+                {
+                    "Name": "Aetherial Mass",
+                    "Url": "/lodestone/playguide/db/npc/npc/1c7f778a79b/",
+                    "Area": "Elpis (X:8.3 Y:30.3)"
+                }
+            ]
+        },
+        "Seq": 21,
+        "StartDependency": false
+    },
+    {
+        "ID": "9432d8e17f3",
+        "Name": " A Better Batrachoi",
+        "Location": "Elpis",
+        "Level": 80,
+        "JournalSection": 3,
+        "JournalCategory": 62,
+        "JournalGenre": "Elpis Sidequests",
+        "Url": "/lodestone/playguide/db/quest/9432d8e17f3/",
+        "Image": "https://img.finalfantasyxiv.com/lds/pc/global/images/itemicon/da/dad349ee2ba1d20146ffcd6471a493606b3e1672.png?n6.05",
+        "Icon": "common_normal",
+        "Issuer": "Kleon",
+        "StartLocation": {
+            "Name": "Elpis",
+            "X": "8.7",
+            "Y": "17.6"
+        },
+        "StartClass": null,
+        "Job": "",
+        "Company": "Not specified",
+        "Requirement": "Not specified",
+        "Rewards": {
+            "Gil": 935,
+            "Exp": null,
+            "ItemsMand": [],
+            "ItemsOpt": []
+        },
+        "Infos": {
+            "PrerequisiteQuest": [
+                {
+                    "Name": " An Expected Guest",
+                    "Url": "/lodestone/playguide/db/quest/0faad1d6646/",
+                    "Area": "Elpis",
+                    "Level": "80"
+                }
+            ],
+            "FollowupQuest": [
+                {
+                    "Name": " Meekly Majestic",
+                    "Url": "/lodestone/playguide/db/quest/5f552277754/",
+                    "Area": "Elpis",
+                    "Level": "80"
+                }
+            ],
+            "RelatedNPC": [
+                {
+                    "Name": "Alkaios",
+                    "Url": "/lodestone/playguide/db/npc/npc/4340baaecba/",
+                    "Area": "Elpis (X:13.2 Y:17.3)"
+                },
+                {
+                    "Name": "Batrachoi",
+                    "Url": "/lodestone/playguide/db/npc/npc/273c07fc9c5/",
+                    "Area": "Elpis (X:13.2 Y:17.3)"
+                },
+                {
+                    "Name": "Kleon",
+                    "Url": "/lodestone/playguide/db/npc/npc/908934ec192/",
+                    "Area": "Elpis (X:13.1 Y:17.3)"
+                },
+                {
+                    "Name": "Maira",
+                    "Url": "/lodestone/playguide/db/npc/npc/c147e032960/",
+                    "Area": "Elpis (X:8.6 Y:17.6)"
+                },
+                {
+                    "Name": "Maira",
+                    "Url": "/lodestone/playguide/db/npc/npc/e392c5ea037/",
+                    "Area": "Elpis (X:13.1 Y:17.3)"
+                }
+            ]
+        },
+        "Seq": 45,
+        "StartDependency": false
+    },
+    {
+        "ID": "95aac974232",
+        "Name": " Specializing in Sharks",
+        "Location": "Elpis",
+        "Level": 80,
+        "JournalSection": 3,
+        "JournalCategory": 62,
+        "JournalGenre": "Elpis Sidequests",
+        "Url": "/lodestone/playguide/db/quest/95aac974232/",
+        "Image": null,
+        "Icon": "common_normal",
+        "Issuer": "Mitron Creator",
+        "StartLocation": {
+            "Name": "Elpis",
+            "X": "9.3",
+            "Y": "17.1"
+        },
+        "StartClass": null,
+        "Job": "",
+        "Company": "Not specified",
+        "Requirement": "Not specified",
+        "Rewards": {
+            "Gil": 655,
+            "Exp": null,
+            "ItemsMand": [],
+            "ItemsOpt": []
+        },
+        "Infos": {
+            "PrerequisiteQuest": [
+                {
+                    "Name": "A Flower upon Your Return",
+                    "Url": "/lodestone/playguide/db/quest/7c78994d56b/",
+                    "Area": "Elpis",
+                    "Level": "87"
+                }
+            ],
+            "RelatedNPC": [
+                {
+                    "Name": "Euaion",
+                    "Url": "/lodestone/playguide/db/npc/npc/fc4ad09dab2/",
+                    "Area": "Elpis (X:10.9 Y:17.8)"
+                },
+                {
+                    "Name": "Rhodopis",
+                    "Url": "/lodestone/playguide/db/npc/npc/20d97207473/",
+                    "Area": "Elpis (X:8.9 Y:17.8)"
+                },
+                {
+                    "Name": "Telamon",
+                    "Url": "/lodestone/playguide/db/npc/npc/ab70fc59057/",
+                    "Area": "Elpis (X:7.7 Y:18.8)"
+                }
+            ]
+        },
+        "Seq": 34,
+        "StartDependency": false
+    },
+    {
+        "ID": "95f5af6879e",
+        "Name": " Siren Flower",
+        "Location": "Elpis",
+        "Level": 80,
+        "JournalSection": 3,
+        "JournalCategory": 62,
+        "JournalGenre": "Elpis Sidequests",
+        "Url": "/lodestone/playguide/db/quest/95f5af6879e/",
+        "Image": null,
+        "Icon": "common_normal",
+        "Issuer": "Familiar Aficionado",
+        "StartLocation": {
+            "Name": "Elpis",
+            "X": "10.4",
+            "Y": "16.4"
+        },
+        "StartClass": null,
+        "Job": "",
+        "Company": "Not specified",
+        "Requirement": "Not specified",
+        "Rewards": {
+            "Gil": 975,
+            "Exp": null,
+            "ItemsMand": [],
+            "ItemsOpt": []
+        },
+        "Infos": {
+            "PrerequisiteQuest": [
+                {
+                    "Name": "A Flower upon Your Return",
+                    "Url": "/lodestone/playguide/db/quest/7c78994d56b/",
+                    "Area": "Elpis",
+                    "Level": "87"
+                }
+            ],
+            "RelatedNPC": [
+                {
+                    "Name": "Familiar Aficionado",
+                    "Url": "/lodestone/playguide/db/npc/npc/5afd8c270d2/",
+                    "Area": "Elpis (X:8.0 Y:17.2)"
+                },
+                {
+                    "Name": "Familiar Aficionado",
+                    "Url": "/lodestone/playguide/db/npc/npc/95d42d46710/",
+                    "Area": "Elpis (X:5.6 Y:21.4)"
+                }
+            ]
+        },
+        "Seq": 30,
+        "StartDependency": false
+    },
+    {
+        "ID": "9a5dac2612f",
+        "Name": " I Order You to Relax",
+        "Location": "Elpis",
+        "Level": 80,
+        "JournalSection": 3,
+        "JournalCategory": 62,
+        "JournalGenre": "Elpis Sidequests",
+        "Url": "/lodestone/playguide/db/quest/9a5dac2612f/",
+        "Image": null,
+        "Icon": "common_normal",
+        "Issuer": "Serene Observer",
+        "StartLocation": {
+            "Name": "Elpis",
+            "X": "24.6",
+            "Y": "26.5"
+        },
+        "StartClass": null,
+        "Job": "",
+        "Company": "Not specified",
+        "Requirement": "Not specified",
+        "Rewards": {
+            "Gil": 735,
+            "Exp": null,
+            "ItemsMand": [],
+            "ItemsOpt": []
+        },
+        "Infos": {
+            "PrerequisiteQuest": [
+                {
+                    "Name": "Their Greatest Contribution",
+                    "Url": "/lodestone/playguide/db/quest/dd751eb0299/",
+                    "Area": "Elpis",
+                    "Level": "86"
+                }
+            ],
+            "RelatedNPC": [
+                {
+                    "Name": "Carefree Observer",
+                    "Url": "/lodestone/playguide/db/npc/npc/75c05f77217/",
+                    "Area": "Elpis (X:34.9 Y:22.4)"
+                }
+            ]
+        },
+        "Seq": 10,
+        "StartDependency": false
+    },
+    {
+        "ID": "9eff677f492",
+        "Name": " Touring Anagnorisis, Part I",
+        "Location": "Elpis",
+        "Level": 80,
+        "JournalSection": 3,
+        "JournalCategory": 62,
+        "JournalGenre": "Elpis Sidequests",
+        "Url": "/lodestone/playguide/db/quest/9eff677f492/",
+        "Image": "https://img.finalfantasyxiv.com/lds/pc/global/images/itemicon/fc/fc2032d07da14851bd6ebc887b90ed4fdb42e2f3.png?n6.05",
+        "Icon": "function_normal",
+        "Issuer": "Sokles",
+        "StartLocation": {
+            "Name": "Elpis",
+            "X": "24.8",
+            "Y": "26.2"
+        },
+        "StartClass": null,
+        "Job": "",
+        "Company": "Not specified",
+        "Requirement": "Not specified",
+        "Rewards": {
+            "Gil": 935,
+            "Exp": null,
+            "ItemsMand": [
+                {
+                    "Icon": "https://img.finalfantasyxiv.com/lds/pc/global/images/itemicon/af/af26e4b79fb1de83550f6ddbd3a170408fcfe702.png?n6.05",
+                    "Name": "",
+                    "Amount": null
+                }
+            ],
+            "ItemsOpt": []
+        },
+        "Infos": {
+            "PrerequisiteQuest": [
+                {
+                    "Name": "Their Greatest Contribution",
+                    "Url": "/lodestone/playguide/db/quest/dd751eb0299/",
+                    "Area": "Elpis",
+                    "Level": "86"
+                }
+            ],
+            "FollowupQuest": [
+                {
+                    "Name": " Touring Anagnorisis, Part II",
+                    "Url": "/lodestone/playguide/db/quest/67d36ef8d70/",
+                    "Area": "Elpis",
+                    "Level": "80"
+                }
+            ],
+            "RelatedNPC": [
+                {
+                    "Name": "Blaste",
+                    "Url": "/lodestone/playguide/db/npc/npc/b45aac5b163/",
+                    "Area": "Elpis (X:25.0 Y:23.7)"
+                },
+                {
+                    "Name": "Charmion",
+                    "Url": "/lodestone/playguide/db/npc/npc/1b2ec6a85f7/",
+                    "Area": "Elpis (X:26.1 Y:26.8)"
+                },
+                {
+                    "Name": "Nikias",
+                    "Url": "/lodestone/playguide/db/npc/npc/53ed500b021/",
+                    "Area": "Elpis (X:23.7 Y:27.6)"
+                },
+                {
+                    "Name": "Paramonos",
+                    "Url": "/lodestone/playguide/db/npc/npc/0ab329685a4/",
+                    "Area": "Elpis (X:24.3 Y:25.5)"
+                }
+            ]
+        },
+        "Seq": 12,
+        "StartDependency": false
+    },
+    {
+        "ID": "a12fa5f943b",
+        "Name": " Unleash the Beast",
+        "Location": "Elpis",
+        "Level": 80,
+        "JournalSection": 3,
+        "JournalCategory": 62,
+        "JournalGenre": "Elpis Sidequests",
+        "Url": "/lodestone/playguide/db/quest/a12fa5f943b/",
+        "Image": "https://img.finalfantasyxiv.com/lds/pc/global/images/itemicon/da/dad349ee2ba1d20146ffcd6471a493606b3e1672.png?n6.05",
+        "Icon": "common_normal",
+        "Issuer": "Kleon",
+        "StartLocation": {
+            "Name": "Elpis",
+            "X": "13.1",
+            "Y": "24.4"
+        },
+        "StartClass": null,
+        "Job": "",
+        "Company": "Not specified",
+        "Requirement": "Not specified",
+        "Rewards": {
+            "Gil": 935,
+            "Exp": null,
+            "ItemsMand": [],
+            "ItemsOpt": []
+        },
+        "Infos": {
+            "PrerequisiteQuest": [
+                {
+                    "Name": " Meekly Majestic",
+                    "Url": "/lodestone/playguide/db/quest/5f552277754/",
+                    "Area": "Elpis",
+                    "Level": "80"
+                }
+            ],
+            "FollowupQuest": [
+                {
+                    "Name": " Methods of Mourning",
+                    "Url": "/lodestone/playguide/db/quest/b2537eea946/",
+                    "Area": "Elpis",
+                    "Level": "80"
+                }
+            ],
+            "RelatedNPC": [
+                {
+                    "Name": "Alkaios",
+                    "Url": "/lodestone/playguide/db/npc/npc/acf8ad1b76a/",
+                    "Area": "Elpis (X:13.1 Y:24.4)"
+                },
+                {
+                    "Name": "Alkaios",
+                    "Url": "/lodestone/playguide/db/npc/npc/3e746c6c315/",
+                    "Area": "Elpis (X:8.6 Y:17.7)"
+                },
+                {
+                    "Name": "Io",
+                    "Url": "/lodestone/playguide/db/npc/npc/df94f4a7935/",
+                    "Area": "Elpis (X:13.1 Y:24.6)"
+                },
+                {
+                    "Name": "Maira",
+                    "Url": "/lodestone/playguide/db/npc/npc/c147e032960/",
+                    "Area": "Elpis (X:8.6 Y:17.6)"
+                },
+                {
+                    "Name": "Maira",
+                    "Url": "/lodestone/playguide/db/npc/npc/baa19318b58/",
+                    "Area": "Elpis (X:13.1 Y:24.4)"
+                }
+            ]
+        },
+        "Seq": 47,
+        "StartDependency": false
+    },
+    {
+        "ID": "abcfa708bcf",
+        "Name": " The Ore the Merrier",
+        "Location": "Elpis",
+        "Level": 80,
+        "JournalSection": 3,
+        "JournalCategory": 62,
+        "JournalGenre": "Elpis Sidequests",
+        "Url": "/lodestone/playguide/db/quest/abcfa708bcf/",
+        "Image": null,
+        "Icon": "common_normal",
+        "Issuer": "Eukleides",
+        "StartLocation": {
+            "Name": "Elpis",
+            "X": "25.1",
+            "Y": "25.2"
+        },
+        "StartClass": null,
+        "Job": "",
+        "Company": "Not specified",
+        "Requirement": "Not specified",
+        "Rewards": {
+            "Gil": 815,
+            "Exp": null,
+            "ItemsMand": [
+                {
+                    "Icon": "https://img.finalfantasyxiv.com/lds/pc/global/images/itemicon/e3/e37fdec0415b0585949d8355ae92379da2a0c37d.png?n6.05",
+                    "Name": "Ironwood Ring Coffer",
+                    "Amount": 1,
+                    "Url": "/lodestone/playguide/db/item/f151e4af5ac/"
+                }
+            ],
+            "ItemsOpt": []
+        },
+        "Infos": {
+            "PrerequisiteQuest": [
+                {
+                    "Name": "Ponder, Warrant, Cherish, Welcome",
+                    "Url": "/lodestone/playguide/db/quest/bb0143637cc/",
+                    "Area": "Elpis",
+                    "Level": "86"
+                }
+            ],
+            "RelatedNPC": [
+                {
+                    "Name": "Agitated Oreias",
+                    "Url": "/lodestone/playguide/db/npc/npc/09ccd86d8e1/",
+                    "Area": "Elpis (X:30.2 Y:21.8)"
+                },
+                {
+                    "Name": "Daydreaming Oreias",
+                    "Url": "/lodestone/playguide/db/npc/npc/2b21b31fa5c/",
+                    "Area": "Elpis (X:30.7 Y:25.6)"
+                },
+                {
+                    "Name": "Flower-gazing Oreias",
+                    "Url": "/lodestone/playguide/db/npc/npc/ea196648c15/",
+                    "Area": "Elpis (X:29.7 Y:26.8)"
+                },
+                {
+                    "Name": "Graceful Observer",
+                    "Url": "/lodestone/playguide/db/npc/npc/8f4e1a5ea59/",
+                    "Area": "Elpis (X:26.1 Y:29.1)"
+                }
+            ]
+        },
+        "Seq": 37,
+        "StartDependency": false
+    },
+    {
+        "ID": "b1e920877d9",
+        "Name": " Nothing to Sneeze At",
+        "Location": "Elpis",
+        "Level": 80,
+        "JournalSection": 3,
+        "JournalCategory": 62,
+        "JournalGenre": "Elpis Sidequests",
+        "Url": "/lodestone/playguide/db/quest/b1e920877d9/",
+        "Image": null,
+        "Icon": "common_normal",
+        "Issuer": "Pheidias",
+        "StartLocation": {
+            "Name": "Elpis",
+            "X": "24.1",
+            "Y": "25.2"
+        },
+        "StartClass": null,
+        "Job": "",
+        "Company": "Not specified",
+        "Requirement": "Not specified",
+        "Rewards": {
+            "Gil": 815,
+            "Exp": null,
+            "ItemsMand": [],
+            "ItemsOpt": []
+        },
+        "Infos": {
+            "PrerequisiteQuest": [
+                {
+                    "Name": "Their Greatest Contribution",
+                    "Url": "/lodestone/playguide/db/quest/dd751eb0299/",
+                    "Area": "Elpis",
+                    "Level": "86"
+                }
+            ],
+            "RelatedNPC": [
+                {
+                    "Name": "Anagnorisis Beastkeeper",
+                    "Url": "/lodestone/playguide/db/npc/npc/cfeec39d13d/",
+                    "Area": "Elpis (X:28.3 Y:20.6)"
+                }
+            ]
+        },
+        "Seq": 3,
+        "StartDependency": false
+    },
+    {
+        "ID": "b2537eea946",
+        "Name": " Methods of Mourning",
+        "Location": "Elpis",
+        "Level": 80,
+        "JournalSection": 3,
+        "JournalCategory": 62,
+        "JournalGenre": "Elpis Sidequests",
+        "Url": "/lodestone/playguide/db/quest/b2537eea946/",
+        "Image": "https://img.finalfantasyxiv.com/lds/pc/global/images/itemicon/80/8014602c398afd6524c20d0d489dfebbbcf163be.png?n6.05",
+        "Icon": "common_normal",
+        "Issuer": "Maira",
+        "StartLocation": {
+            "Name": "Elpis",
+            "X": "8.6",
+            "Y": "17.6"
+        },
+        "StartClass": null,
+        "Job": "",
+        "Company": "Not specified",
+        "Requirement": "Not specified",
+        "Rewards": {
+            "Gil": 1095,
+            "Exp": null,
+            "ItemsMand": [],
+            "ItemsOpt": [
+                {
+                    "Icon": "https://img.finalfantasyxiv.com/lds/pc/global/images/itemicon/7b/7bf85ff916a27cc2b17a3cbe2c9509757a2ed3fd.png?n6.05",
+                    "Name": "Cork Brown Dye",
+                    "Amount": 2,
+                    "Url": "/lodestone/playguide/db/item/5250c837f57/"
+                },
+                {
+                    "Icon": "https://img.finalfantasyxiv.com/lds/pc/global/images/itemicon/7b/7bf85ff916a27cc2b17a3cbe2c9509757a2ed3fd.png?n6.05",
+                    "Name": "Acorn Brown Dye",
+                    "Amount": 2,
+                    "Url": "/lodestone/playguide/db/item/539e80ed6a0/"
+                },
+                {
+                    "Icon": "https://img.finalfantasyxiv.com/lds/pc/global/images/itemicon/7b/7bf85ff916a27cc2b17a3cbe2c9509757a2ed3fd.png?n6.05",
+                    "Name": "Shale Brown Dye",
+                    "Amount": 2,
+                    "Url": "/lodestone/playguide/db/item/1aae57e1629/"
+                }
+            ]
+        },
+        "Infos": {
+            "PrerequisiteQuest": [
+                {
+                    "Name": " Familiar Fate",
+                    "Url": "/lodestone/playguide/db/quest/21fe55c7db3/",
+                    "Area": "Elpis",
+                    "Level": "80"
+                },
+                {
+                    "Name": " Unleash the Beast",
+                    "Url": "/lodestone/playguide/db/quest/a12fa5f943b/",
+                    "Area": "Elpis",
+                    "Level": "80"
+                }
+            ],
+            "RelatedNPC": [
+                {
+                    "Name": "Alkaios",
+                    "Url": "/lodestone/playguide/db/npc/npc/763dedeaac5/",
+                    "Area": "Elpis (X:19.6 Y:31.8)"
+                },
+                {
+                    "Name": "Alkaios",
+                    "Url": "/lodestone/playguide/db/npc/npc/da4bc1a9043/",
+                    "Area": "Elpis (X:24.8 Y:26.2)"
+                },
+                {
+                    "Name": "Alkaios",
+                    "Url": "/lodestone/playguide/db/npc/npc/3e746c6c315/",
+                    "Area": "Elpis (X:8.6 Y:17.7)"
+                },
+                {
+                    "Name": "Charmion",
+                    "Url": "/lodestone/playguide/db/npc/npc/3181b0b3e72/",
+                    "Area": "Elpis (X:19.7 Y:31.8)"
+                },
+                {
+                    "Name": "Charmion",
+                    "Url": "/lodestone/playguide/db/npc/npc/c7e0008db5d/",
+                    "Area": "Elpis (X:24.7 Y:26.1)"
+                },
+                {
+                    "Name": "Kleon",
+                    "Url": "/lodestone/playguide/db/npc/npc/d09bf9daa5b/",
+                    "Area": "Elpis (X:8.7 Y:17.6)"
+                },
+                {
+                    "Name": "Maira",
+                    "Url": "/lodestone/playguide/db/npc/npc/652e53acfbf/",
+                    "Area": "Elpis (X:19.6 Y:31.8)"
+                },
+                {
+                    "Name": "Maira",
+                    "Url": "/lodestone/playguide/db/npc/npc/73b36d95dae/",
+                    "Area": "Elpis (X:24.7 Y:26.2)"
+                },
+                {
+                    "Name": "Maira",
+                    "Url": "/lodestone/playguide/db/npc/npc/4f82e14a53a/",
+                    "Area": "Elpis (X:24.4 Y:29.7)"
+                },
+                {
+                    "Name": "Sokles",
+                    "Url": "/lodestone/playguide/db/npc/npc/6796e583f30/",
+                    "Area": "Elpis (X:19.6 Y:31.8)"
+                },
+                {
+                    "Name": "Sokles",
+                    "Url": "/lodestone/playguide/db/npc/npc/ceb0195ba6d/",
+                    "Area": "Elpis (X:24.8 Y:26.2)"
+                }
+            ]
+        },
+        "Seq": 48,
+        "StartDependency": false
+    },
+    {
+        "ID": "b8d06ddeeb8",
+        "Name": " Flight of the Charybdis",
+        "Location": "Elpis",
+        "Level": 80,
+        "JournalSection": 3,
+        "JournalCategory": 62,
+        "JournalGenre": "Elpis Sidequests",
+        "Url": "/lodestone/playguide/db/quest/b8d06ddeeb8/",
+        "Image": null,
+        "Icon": "common_normal",
+        "Issuer": "Frazzled Researcher",
+        "StartLocation": {
+            "Name": "Elpis",
+            "X": "10.6",
+            "Y": "17.5"
+        },
+        "StartClass": null,
+        "Job": "",
+        "Company": "Not specified",
+        "Requirement": "Not specified",
+        "Rewards": {
+            "Gil": 655,
+            "Exp": null,
+            "ItemsMand": [],
+            "ItemsOpt": []
+        },
+        "Infos": {
+            "PrerequisiteQuest": [
+                {
+                    "Name": "A Flower upon Your Return",
+                    "Url": "/lodestone/playguide/db/quest/7c78994d56b/",
+                    "Area": "Elpis",
+                    "Level": "87"
+                }
+            ],
+            "RelatedNPC": [
+                {
+                    "Name": "Charybdis",
+                    "Url": "/lodestone/playguide/db/npc/npc/10c52253a4e/",
+                    "Area": "Elpis (X:5.0 Y:16.8)"
+                }
+            ]
+        },
+        "Seq": 39,
+        "StartDependency": false
+    },
+    {
+        "ID": "bd93ddbbd4a",
+        "Name": " Familiar Food",
+        "Location": "Elpis",
+        "Level": 80,
+        "JournalSection": 3,
+        "JournalCategory": 62,
+        "JournalGenre": "Elpis Sidequests",
+        "Url": "/lodestone/playguide/db/quest/bd93ddbbd4a/",
+        "Image": "https://img.finalfantasyxiv.com/lds/pc/global/images/itemicon/fc/fc2032d07da14851bd6ebc887b90ed4fdb42e2f3.png?n6.05",
+        "Icon": "common_normal",
+        "Issuer": "Charmion",
+        "StartLocation": {
+            "Name": "Elpis",
+            "X": "34.2",
+            "Y": "21.7"
+        },
+        "StartClass": null,
+        "Job": "",
+        "Company": "Not specified",
+        "Requirement": "Not specified",
+        "Rewards": {
+            "Gil": 895,
+            "Exp": null,
+            "ItemsMand": [],
+            "ItemsOpt": []
+        },
+        "Infos": {
+            "PrerequisiteQuest": [
+                {
+                    "Name": " Touring Anagnorisis, Part II",
+                    "Url": "/lodestone/playguide/db/quest/67d36ef8d70/",
+                    "Area": "Elpis",
+                    "Level": "80"
+                }
+            ],
+            "FollowupQuest": [
+                {
+                    "Name": " Familiar Fate",
+                    "Url": "/lodestone/playguide/db/quest/21fe55c7db3/",
+                    "Area": "Elpis",
+                    "Level": "80"
+                }
+            ],
+            "RelatedNPC": [
+                {
+                    "Name": "Charmion",
+                    "Url": "/lodestone/playguide/db/npc/npc/c7e0008db5d/",
+                    "Area": "Elpis (X:24.7 Y:26.1)"
+                },
+                {
+                    "Name": "Sokles",
+                    "Url": "/lodestone/playguide/db/npc/npc/ceb0195ba6d/",
+                    "Area": "Elpis (X:24.8 Y:26.2)"
+                }
+            ]
+        },
+        "Seq": 14,
+        "StartDependency": false
+    },
+    {
+        "ID": "bd942abe188",
+        "Name": " Clutch Devastation",
+        "Location": "Elpis",
+        "Level": 80,
+        "JournalSection": 3,
+        "JournalCategory": 62,
+        "JournalGenre": "Elpis Sidequests",
+        "Url": "/lodestone/playguide/db/quest/bd942abe188/",
+        "Image": null,
+        "Icon": "common_normal",
+        "Issuer": "Kallias",
+        "StartLocation": {
+            "Name": "Elpis",
+            "X": "25.3",
+            "Y": "27.7"
+        },
+        "StartClass": null,
+        "Job": "",
+        "Company": "Not specified",
+        "Requirement": "Not specified",
+        "Rewards": {
+            "Gil": 655,
+            "Exp": null,
+            "ItemsMand": [],
+            "ItemsOpt": []
+        },
+        "Infos": {
+            "PrerequisiteQuest": [
+                {
+                    "Name": "Ponder, Warrant, Cherish, Welcome",
+                    "Url": "/lodestone/playguide/db/quest/bb0143637cc/",
+                    "Area": "Elpis",
+                    "Level": "86"
+                }
+            ]
+        },
+        "Seq": 7,
+        "StartDependency": false
+    },
+    {
+        "ID": "d03b5177706",
+        "Name": " The Perks of Being a Lost Flower ",
+        "Location": "Elpis",
+        "Level": 80,
+        "JournalSection": 3,
+        "JournalCategory": 62,
+        "JournalGenre": "Elpis Sidequests",
+        "Url": "/lodestone/playguide/db/quest/d03b5177706/",
+        "Image": null,
+        "Icon": "function_normal",
+        "Issuer": "Akadaemia Student",
+        "StartLocation": {
+            "Name": "Elpis",
+            "X": "11.7",
+            "Y": "19.5"
+        },
+        "StartClass": null,
+        "Job": "",
+        "Company": "Not specified",
+        "Requirement": "Not specified",
+        "Rewards": {
+            "Gil": 735,
+            "Exp": null,
+            "ItemsMand": [
+                {
+                    "Icon": "https://img.finalfantasyxiv.com/lds/pc/global/images/itemicon/af/af26e4b79fb1de83550f6ddbd3a170408fcfe702.png?n6.05",
+                    "Name": "",
+                    "Amount": null
+                }
+            ],
+            "ItemsOpt": []
+        },
+        "Infos": {
+            "PrerequisiteQuest": [
+                {
+                    "Name": "A Flower upon Your Return",
+                    "Url": "/lodestone/playguide/db/quest/7c78994d56b/",
+                    "Area": "Elpis",
+                    "Level": "87"
+                }
+            ],
+            "RelatedNPC": [
+                {
+                    "Name": "Blue-haired Student",
+                    "Url": "/lodestone/playguide/db/npc/npc/1c9ecfcf537/",
+                    "Area": "Elpis (X:26.6 Y:19.5)"
+                },
+                {
+                    "Name": "Blue-haired Student",
+                    "Url": "/lodestone/playguide/db/npc/npc/b56569ad66c/",
+                    "Area": "Elpis (X:11.7 Y:19.5)"
+                }
+            ]
+        },
+        "Seq": 41,
+        "StartDependency": false
+    },
+    {
+        "ID": "d11abc79c44",
+        "Name": " Meaningful Measurements",
+        "Location": "Elpis",
+        "Level": 80,
+        "JournalSection": 3,
+        "JournalCategory": 62,
+        "JournalGenre": "Elpis Sidequests",
+        "Url": "/lodestone/playguide/db/quest/d11abc79c44/",
+        "Image": null,
+        "Icon": "common_normal",
+        "Issuer": "Isle Surveyor",
+        "StartLocation": {
+            "Name": "Elpis",
+            "X": "8.4",
+            "Y": "17.1"
+        },
+        "StartClass": null,
+        "Job": "",
+        "Company": "Not specified",
+        "Requirement": "Not specified",
+        "Rewards": {
+            "Gil": 895,
+            "Exp": null,
+            "ItemsMand": [],
+            "ItemsOpt": []
+        },
+        "Infos": {
+            "PrerequisiteQuest": [
+                {
+                    "Name": "A Past, Not Yet Come to Pass",
+                    "Url": "/lodestone/playguide/db/quest/5953e0a6386/",
+                    "Area": "Elpis",
+                    "Level": "87"
+                }
+            ],
+            "RelatedNPC": [
+                {
+                    "Name": "Isle Surveyor",
+                    "Url": "/lodestone/playguide/db/npc/npc/c05b7021edb/",
+                    "Area": "Elpis (X:8.0 Y:20.8)"
+                }
+            ]
+        },
+        "Seq": 33,
+        "StartDependency": false
+    },
+    {
+        "ID": "d9b98f7670a",
+        "Name": " Beg Pardon?",
+        "Location": "Elpis",
+        "Level": 80,
+        "JournalSection": 3,
+        "JournalCategory": 62,
+        "JournalGenre": "Elpis Sidequests",
+        "Url": "/lodestone/playguide/db/quest/d9b98f7670a/",
+        "Image": null,
+        "Icon": "common_normal",
+        "Issuer": "Gryllos",
+        "StartLocation": {
+            "Name": "Elpis",
+            "X": "8.4",
+            "Y": "31.3"
+        },
+        "StartClass": null,
+        "Job": "",
+        "Company": "Not specified",
+        "Requirement": "Not specified",
+        "Rewards": {
+            "Gil": 655,
+            "Exp": null,
+            "ItemsMand": [],
+            "ItemsOpt": []
+        },
+        "Infos": {
+            "PrerequisiteQuest": [
+                {
+                    "Name": "A Sentimental Gift",
+                    "Url": "/lodestone/playguide/db/quest/3ef02f2d789/",
+                    "Area": "Elpis",
+                    "Level": "86"
+                }
+            ],
+            "RelatedNPC": [
+                {
+                    "Name": "Gryllos's Assistant",
+                    "Url": "/lodestone/playguide/db/npc/npc/c5682e9f47c/",
+                    "Area": "Elpis (X:7.3 Y:32.4)"
+                },
+                {
+                    "Name": "Slippery Mandragora",
+                    "Url": "/lodestone/playguide/db/npc/npc/16374e3b81d/",
+                    "Area": "Elpis (X:7.3 Y:32.5)"
+                }
+            ]
+        },
+        "Seq": 18,
+        "StartDependency": false
+    },
+    {
+        "ID": "db248b8c4d6",
+        "Name": " Second Guest",
+        "Location": "Elpis",
+        "Level": 80,
+        "JournalSection": 3,
+        "JournalCategory": 62,
+        "JournalGenre": "Elpis Sidequests",
+        "Url": "/lodestone/playguide/db/quest/db248b8c4d6/",
+        "Image": null,
+        "Icon": "common_normal",
+        "Issuer": "Eurydome",
+        "StartLocation": {
+            "Name": "Elpis",
+            "X": "24.6",
+            "Y": "24.5"
+        },
+        "StartClass": null,
+        "Job": "",
+        "Company": "Not specified",
+        "Requirement": "Not specified",
+        "Rewards": {
+            "Gil": 655,
+            "Exp": null,
+            "ItemsMand": [],
+            "ItemsOpt": []
+        },
+        "Infos": {
+            "PrerequisiteQuest": [
+                {
+                    "Name": "Their Greatest Contribution",
+                    "Url": "/lodestone/playguide/db/quest/dd751eb0299/",
+                    "Area": "Elpis",
+                    "Level": "86"
+                }
+            ],
+            "RelatedNPC": [
+                {
+                    "Name": "Bureau Of The Architect Envoy",
+                    "Url": "/lodestone/playguide/db/npc/npc/9858d3cfe23/",
+                    "Area": "Elpis (X:27.1 Y:37.4)"
+                }
+            ]
+        },
+        "Seq": 8,
+        "StartDependency": false
+    },
+    {
+        "ID": "f33d9222b67",
+        "Name": " Floating Like Clouds",
+        "Location": "Elpis",
+        "Level": 80,
+        "JournalSection": 3,
+        "JournalCategory": 62,
+        "JournalGenre": "Elpis Sidequests",
+        "Url": "/lodestone/playguide/db/quest/f33d9222b67/",
+        "Image": null,
+        "Icon": "common_normal",
+        "Issuer": "Enthusiastic Observer",
+        "StartLocation": {
+            "Name": "Elpis",
+            "X": "9.2",
+            "Y": "17.4"
+        },
+        "StartClass": null,
+        "Job": "",
+        "Company": "Not specified",
+        "Requirement": "Not specified",
+        "Rewards": {
+            "Gil": 655,
+            "Exp": null,
+            "ItemsMand": [
+                {
+                    "Icon": "https://img.finalfantasyxiv.com/lds/pc/global/images/itemicon/44/44848386f9871f5654fddcafb2a8e9210e6a96b0.png?n6.05",
+                    "Name": "Hamsa Curry",
+                    "Amount": 2,
+                    "Url": "/lodestone/playguide/db/item/3d802e935a9/"
+                }
+            ],
+            "ItemsOpt": []
+        },
+        "Infos": {
+            "PrerequisiteQuest": [
+                {
+                    "Name": "Witness to the Spectacle",
+                    "Url": "/lodestone/playguide/db/quest/eb95a0d0e4d/",
+                    "Area": "Elpis",
+                    "Level": "87"
+                }
+            ]
+        },
+        "Seq": 27,
+        "StartDependency": false
+    },
+    {
+        "ID": "fe61c44199f",
+        "Name": " Digestive Problems",
+        "Location": "Elpis",
+        "Level": 80,
+        "JournalSection": 3,
+        "JournalCategory": 62,
+        "JournalGenre": "Elpis Sidequests",
+        "Url": "/lodestone/playguide/db/quest/fe61c44199f/",
+        "Image": null,
+        "Icon": "common_normal",
+        "Issuer": "Zeuxis",
+        "StartLocation": {
+            "Name": "Elpis",
+            "X": "24.5",
+            "Y": "27.2"
+        },
+        "StartClass": null,
+        "Job": "",
+        "Company": "Not specified",
+        "Requirement": "Not specified",
+        "Rewards": {
+            "Gil": 655,
+            "Exp": null,
+            "ItemsMand": [
+                {
+                    "Icon": "https://img.finalfantasyxiv.com/lds/pc/global/images/itemicon/f3/f357ea7ae8d550e78704823b64f7e5d104e16e2f.png?n6.05",
+                    "Name": "Ironwood Earring Coffer",
+                    "Amount": 1,
+                    "Url": "/lodestone/playguide/db/item/70c38c2871e/"
+                }
+            ],
+            "ItemsOpt": []
+        },
+        "Infos": {
+            "PrerequisiteQuest": [
+                {
+                    "Name": "Ponder, Warrant, Cherish, Welcome",
+                    "Url": "/lodestone/playguide/db/quest/bb0143637cc/",
+                    "Area": "Elpis",
+                    "Level": "86"
+                }
+            ]
+        },
+        "Seq": 2,
+        "StartDependency": false
+    }
+]

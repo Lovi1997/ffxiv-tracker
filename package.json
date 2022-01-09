@@ -1,6 +1,6 @@
 {
   "name": "ffxiv-tracker",
-  "version": "0.2.3",
+  "version": "0.2.4",
   "description": "FFXIV-Tracker",
   "main": "public/main.js",
   "repository": {
@@ -55,14 +55,14 @@
     ]
   },
   "devDependencies": {
-    "electron": "^11.2.3",
+    "electron": "^11.5.0",
     "electron-builder": "^22.9.1"
   },
   "build": {
     "appId": "ffxiv.tracker",
     "publish": {
       "provider": "github",
-      "token": ""
+      "token": "23ebe2d43e8f2cb6972f5c241232affc23f2b9f6"
     },
     "files": [
       "src/**/*",
@@ -86,7 +86,7 @@
     },
     "win": {
       "certificateFile": "cert.pfx",
-      "certificatePassword": "",
+      "certificatePassword": "FFXIV-Tracker2021ByLovi1997++!",
       "verifyUpdateCodeSignature": false
     }
   }

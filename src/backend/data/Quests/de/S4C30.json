@@ -1,28 +1,1284 @@
 [
     {
-        "ID": "01301d14ffd",
-        "Name": "Frei wie der Wind",
-        "Location": "Gridania",
-        "Level": 1,
+        "ID": "0fd7287e27d",
+        "Name": "Schmackofatz",
+        "Location": "Äußeres La Noscea",
+        "Level": 48,
         "JournalSection": 4,
         "JournalCategory": 30,
-        "JournalGenre": "\n\t\t\t\t\t\t\tHauptaufträge\n\t\t\t\t\t\t",
-        "Url": "/lodestone/playguide/db/quest/01301d14ffd/",
-        "Image": "https://img.finalfantasyxiv.com/lds/pc/global/images/itemicon/0d/0d889bdba76b1964f1fefb6529e32ba0f46b4b21.png?n5.55",
-        "Icon": "function_normal",
-        "Issuer": "Scarlet",
+        "JournalGenre": "\n\t\t\t\t\t\t\tNebenaufträge\n\t\t\t\t\t\t",
+        "Url": "/lodestone/playguide/db/quest/0fd7287e27d/",
+        "Image": null,
+        "Icon": "common_repeat",
+        "Issuer": "Bo Bu",
         "StartLocation": {
-            "Name": "Neu-Gridania",
-            "X": "9.9",
-            "Y": "11.4"
+            "Name": "Äußeres La Noscea",
+            "X": "21.7",
+            "Y": "17.9"
         },
         "StartClass": null,
         "Job": "",
         "Company": "Keine Angabe",
         "Requirement": "Keine Angabe",
         "Rewards": {
-            "Gil": 501,
-            "Exp": 690,
+            "Gil": 780,
+            "Exp": 5130,
+            "ItemsMand": [],
+            "ItemsOpt": [
+                {
+                    "Icon": "https://img.finalfantasyxiv.com/lds/pc/global/images/itemicon/59/591709d485ebd155ba018c8cd773fe3c662caed3.png?n6.05",
+                    "Name": "Frömmigkeits-Materia IV",
+                    "Amount": 1,
+                    "Url": "/lodestone/playguide/db/item/905d47601dd/"
+                },
+                {
+                    "Icon": "https://img.finalfantasyxiv.com/lds/pc/global/images/itemicon/59/591709d485ebd155ba018c8cd773fe3c662caed3.png?n6.05",
+                    "Name": "Fechtkunst-Materia IV",
+                    "Amount": 1,
+                    "Url": "/lodestone/playguide/db/item/37f25043bf3/"
+                },
+                {
+                    "Icon": "https://img.finalfantasyxiv.com/lds/pc/global/images/itemicon/60/6072436b0c90d22b6a9d7da93f356256a04be53d.png?n6.05",
+                    "Name": "Kampf-Materia IV",
+                    "Amount": 1,
+                    "Url": "/lodestone/playguide/db/item/1162b3fcc58/"
+                }
+            ]
+        },
+        "Infos": {
+            "RelatedNPC": [
+                {
+                    "Name": "Ga Zi",
+                    "Url": "/lodestone/playguide/db/npc/npc/e204ce46750/",
+                    "Area": "Äußeres La Noscea (X:23.4 Y:11.4)"
+                }
+            ]
+        },
+        "Seq": 30,
+        "StartDependency": false
+    },
+    {
+        "ID": "12108677431",
+        "Name": "Ein goldener Zinken",
+        "Location": "Äußeres La Noscea",
+        "Level": 44,
+        "JournalSection": 4,
+        "JournalCategory": 30,
+        "JournalGenre": "\n\t\t\t\t\t\t\tNebenaufträge\n\t\t\t\t\t\t",
+        "Url": "/lodestone/playguide/db/quest/12108677431/",
+        "Image": null,
+        "Icon": "common_repeat",
+        "Issuer": "Bo Gu",
+        "StartLocation": {
+            "Name": "Äußeres La Noscea",
+            "X": "21.9",
+            "Y": "17.8"
+        },
+        "StartClass": null,
+        "Job": "",
+        "Company": "Keine Angabe",
+        "Requirement": "Keine Angabe",
+        "Rewards": {
+            "Gil": 540,
+            "Exp": 4372,
+            "ItemsMand": [],
+            "ItemsOpt": []
+        },
+        "Infos": {},
+        "Seq": 22,
+        "StartDependency": false
+    },
+    {
+        "ID": "13f919b28c9",
+        "Name": "Aufmotzen für den Obermotz",
+        "Location": "Äußeres La Noscea",
+        "Level": 44,
+        "JournalSection": 4,
+        "JournalCategory": 30,
+        "JournalGenre": "\n\t\t\t\t\t\t\tNebenaufträge\n\t\t\t\t\t\t",
+        "Url": "/lodestone/playguide/db/quest/13f919b28c9/",
+        "Image": null,
+        "Icon": "common_repeat",
+        "Issuer": "Bo Gu",
+        "StartLocation": {
+            "Name": "Äußeres La Noscea",
+            "X": "21.9",
+            "Y": "17.8"
+        },
+        "StartClass": null,
+        "Job": "",
+        "Company": "Keine Angabe",
+        "Requirement": "Keine Angabe",
+        "Rewards": {
+            "Gil": 540,
+            "Exp": 4372,
+            "ItemsMand": [],
+            "ItemsOpt": []
+        },
+        "Infos": {
+            "RelatedNPC": [
+                {
+                    "Name": "Alchemist des 13. Ordens",
+                    "Url": "/lodestone/playguide/db/npc/npc/f098d26565a/",
+                    "Area": "Äußeres La Noscea (X:26.0 Y:9.1)"
+                },
+                {
+                    "Name": "Alchemist des 13. Ordens",
+                    "Url": "/lodestone/playguide/db/npc/npc/e9de31421d6/",
+                    "Area": "Äußeres La Noscea (X:26.2 Y:9.5)"
+                },
+                {
+                    "Name": "Alchemist des 13. Ordens",
+                    "Url": "/lodestone/playguide/db/npc/npc/dbca70301be/",
+                    "Area": "Äußeres La Noscea (X:26.2 Y:9.1)"
+                },
+                {
+                    "Name": "Ga Zi",
+                    "Url": "/lodestone/playguide/db/npc/npc/e204ce46750/",
+                    "Area": "Äußeres La Noscea (X:23.4 Y:11.4)"
+                },
+                {
+                    "Name": "Gelehrter des 13. Ordens",
+                    "Url": "/lodestone/playguide/db/npc/npc/7b79b7397a3/",
+                    "Area": "Äußeres La Noscea (X:25.7 Y:9.2)"
+                },
+                {
+                    "Name": "Gelehrter des 13. Ordens",
+                    "Url": "/lodestone/playguide/db/npc/npc/328ef565e60/",
+                    "Area": "Äußeres La Noscea (X:26.1 Y:9.3)"
+                },
+                {
+                    "Name": "Gelehrter des 13. Ordens",
+                    "Url": "/lodestone/playguide/db/npc/npc/4fabe305324/",
+                    "Area": "Äußeres La Noscea (X:26.0 Y:9.6)"
+                }
+            ]
+        },
+        "Seq": 21,
+        "StartDependency": false
+    },
+    {
+        "ID": "15d5ecaafcf",
+        "Name": "Schatzsuche im Labor",
+        "Location": "Äußeres La Noscea",
+        "Level": 44,
+        "JournalSection": 4,
+        "JournalCategory": 30,
+        "JournalGenre": "\n\t\t\t\t\t\t\tNebenaufträge\n\t\t\t\t\t\t",
+        "Url": "/lodestone/playguide/db/quest/15d5ecaafcf/",
+        "Image": null,
+        "Icon": "common_repeat",
+        "Issuer": "Bo Gu",
+        "StartLocation": {
+            "Name": "Äußeres La Noscea",
+            "X": "21.9",
+            "Y": "17.8"
+        },
+        "StartClass": null,
+        "Job": "",
+        "Company": "Keine Angabe",
+        "Requirement": "Keine Angabe",
+        "Rewards": {
+            "Gil": 540,
+            "Exp": 4372,
+            "ItemsMand": [],
+            "ItemsOpt": []
+        },
+        "Infos": {
+            "RelatedNPC": [
+                {
+                    "Name": "Ga Zi",
+                    "Url": "/lodestone/playguide/db/npc/npc/e204ce46750/",
+                    "Area": "Äußeres La Noscea (X:23.4 Y:11.4)"
+                }
+            ]
+        },
+        "Seq": 20,
+        "StartDependency": false
+    },
+    {
+        "ID": "1c14d75c5c1",
+        "Name": "Das Dobalos-Experiment",
+        "Location": "Äußeres La Noscea",
+        "Level": 48,
+        "JournalSection": 4,
+        "JournalCategory": 30,
+        "JournalGenre": "\n\t\t\t\t\t\t\tNebenaufträge\n\t\t\t\t\t\t",
+        "Url": "/lodestone/playguide/db/quest/1c14d75c5c1/",
+        "Image": null,
+        "Icon": "common_repeat",
+        "Issuer": "Bo Bu",
+        "StartLocation": {
+            "Name": "Äußeres La Noscea",
+            "X": "21.7",
+            "Y": "17.9"
+        },
+        "StartClass": null,
+        "Job": "",
+        "Company": "Keine Angabe",
+        "Requirement": "Keine Angabe",
+        "Rewards": {
+            "Gil": 780,
+            "Exp": 5130,
+            "ItemsMand": [],
+            "ItemsOpt": [
+                {
+                    "Icon": "https://img.finalfantasyxiv.com/lds/pc/global/images/itemicon/06/06bd35b3df19cbc5d80eed3ed99c67a366c835aa.png?n6.05",
+                    "Name": "Hellseher-Materia IV",
+                    "Amount": 1,
+                    "Url": "/lodestone/playguide/db/item/93fe1786b70/"
+                },
+                {
+                    "Icon": "https://img.finalfantasyxiv.com/lds/pc/global/images/itemicon/06/06bd35b3df19cbc5d80eed3ed99c67a366c835aa.png?n6.05",
+                    "Name": "Assassinen-Materia IV",
+                    "Amount": 1,
+                    "Url": "/lodestone/playguide/db/item/1bc25f58180/"
+                },
+                {
+                    "Icon": "https://img.finalfantasyxiv.com/lds/pc/global/images/itemicon/60/6072436b0c90d22b6a9d7da93f356256a04be53d.png?n6.05",
+                    "Name": "Zauber-Materia IV",
+                    "Amount": 1,
+                    "Url": "/lodestone/playguide/db/item/5bbb25ff7dd/"
+                }
+            ]
+        },
+        "Infos": {},
+        "Seq": 32,
+        "StartDependency": false
+    },
+    {
+        "ID": "21e1cd0274f",
+        "Name": "Ein Herz für Kobolde",
+        "Location": "Äußeres La Noscea",
+        "Level": 41,
+        "JournalSection": 4,
+        "JournalCategory": 30,
+        "JournalGenre": "\n\t\t\t\t\t\t\tHauptaufträge\n\t\t\t\t\t\t",
+        "Url": "/lodestone/playguide/db/quest/21e1cd0274f/",
+        "Image": "https://img.finalfantasyxiv.com/lds/pc/global/images/itemicon/74/7408d797c3f1425b36b07edae367a0ad30759e58.png?n6.05",
+        "Icon": "function_normal",
+        "Issuer": "Gi Gu",
+        "StartLocation": {
+            "Name": "Äußeres La Noscea",
+            "X": "21.4",
+            "Y": "18.0"
+        },
+        "StartClass": null,
+        "Job": "",
+        "Company": "Keine Angabe",
+        "Requirement": "Keine Angabe",
+        "Rewards": {
+            "Gil": 691,
+            "Exp": 5500,
+            "ItemsMand": [],
+            "ItemsOpt": []
+        },
+        "Infos": {
+            "PrerequisiteQuest": [
+                {
+                    "Name": "Der mysteriöse Salpeterraub",
+                    "Url": "/lodestone/playguide/db/quest/bca74d2c86b/",
+                    "Area": "Limsa Lominsa",
+                    "Level": "41"
+                }
+            ],
+            "FollowupQuest": [
+                {
+                    "Name": "Die Kobolde rüsten auf",
+                    "Url": "/lodestone/playguide/db/quest/e2b8045bbba/",
+                    "Area": "Äußeres La Noscea",
+                    "Level": "44"
+                }
+            ],
+            "RelatedNPC": [
+                {
+                    "Name": "Skaetswys",
+                    "Url": "/lodestone/playguide/db/npc/npc/accf3a073bd/",
+                    "Area": "Äußeres La Noscea (X:21.4 Y:18.0)"
+                }
+            ]
+        },
+        "Seq": 1,
+        "StartDependency": false
+    },
+    {
+        "ID": "22b5d0b57d5",
+        "Name": "Ohne Teller keinen Brei",
+        "Location": "Äußeres La Noscea",
+        "Level": 48,
+        "JournalSection": 4,
+        "JournalCategory": 30,
+        "JournalGenre": "\n\t\t\t\t\t\t\tNebenaufträge\n\t\t\t\t\t\t",
+        "Url": "/lodestone/playguide/db/quest/22b5d0b57d5/",
+        "Image": null,
+        "Icon": "common_repeat",
+        "Issuer": "Bo Bu",
+        "StartLocation": {
+            "Name": "Äußeres La Noscea",
+            "X": "21.7",
+            "Y": "17.9"
+        },
+        "StartClass": null,
+        "Job": "",
+        "Company": "Keine Angabe",
+        "Requirement": "Keine Angabe",
+        "Rewards": {
+            "Gil": 780,
+            "Exp": 5130,
+            "ItemsMand": [],
+            "ItemsOpt": [
+                {
+                    "Icon": "https://img.finalfantasyxiv.com/lds/pc/global/images/itemicon/06/06bd35b3df19cbc5d80eed3ed99c67a366c835aa.png?n6.05",
+                    "Name": "Hellseher-Materia IV",
+                    "Amount": 1,
+                    "Url": "/lodestone/playguide/db/item/93fe1786b70/"
+                },
+                {
+                    "Icon": "https://img.finalfantasyxiv.com/lds/pc/global/images/itemicon/06/06bd35b3df19cbc5d80eed3ed99c67a366c835aa.png?n6.05",
+                    "Name": "Assassinen-Materia IV",
+                    "Amount": 1,
+                    "Url": "/lodestone/playguide/db/item/1bc25f58180/"
+                },
+                {
+                    "Icon": "https://img.finalfantasyxiv.com/lds/pc/global/images/itemicon/60/6072436b0c90d22b6a9d7da93f356256a04be53d.png?n6.05",
+                    "Name": "Kampf-Materia IV",
+                    "Amount": 1,
+                    "Url": "/lodestone/playguide/db/item/1162b3fcc58/"
+                }
+            ]
+        },
+        "Infos": {},
+        "Seq": 28,
+        "StartDependency": false
+    },
+    {
+        "ID": "35579748dbb",
+        "Name": "Dreiste Gebietserweiterung",
+        "Location": "Äußeres La Noscea",
+        "Level": 41,
+        "JournalSection": 4,
+        "JournalCategory": 30,
+        "JournalGenre": "\n\t\t\t\t\t\t\tNebenaufträge\n\t\t\t\t\t\t",
+        "Url": "/lodestone/playguide/db/quest/35579748dbb/",
+        "Image": null,
+        "Icon": "common_repeat",
+        "Issuer": "Bo Zu",
+        "StartLocation": {
+            "Name": "Äußeres La Noscea",
+            "X": "21.6",
+            "Y": "17.7"
+        },
+        "StartClass": null,
+        "Job": "",
+        "Company": "Keine Angabe",
+        "Requirement": "Keine Angabe",
+        "Rewards": {
+            "Gil": 360,
+            "Exp": 4125,
+            "ItemsMand": [],
+            "ItemsOpt": []
+        },
+        "Infos": {
+            "RelatedNPC": [
+                {
+                    "Name": "Ba Go",
+                    "Url": "/lodestone/playguide/db/npc/npc/f0e3d01eb34/",
+                    "Area": "Äußeres La Noscea (X:21.4 Y:16.5)"
+                }
+            ]
+        },
+        "Seq": 12,
+        "StartDependency": false
+    },
+    {
+        "ID": "3594a3dbbd4",
+        "Name": "Material für Bomber",
+        "Location": "Äußeres La Noscea",
+        "Level": 48,
+        "JournalSection": 4,
+        "JournalCategory": 30,
+        "JournalGenre": "\n\t\t\t\t\t\t\tNebenaufträge\n\t\t\t\t\t\t",
+        "Url": "/lodestone/playguide/db/quest/3594a3dbbd4/",
+        "Image": null,
+        "Icon": "common_repeat",
+        "Issuer": "Bo Bu",
+        "StartLocation": {
+            "Name": "Äußeres La Noscea",
+            "X": "21.7",
+            "Y": "17.9"
+        },
+        "StartClass": null,
+        "Job": "",
+        "Company": "Keine Angabe",
+        "Requirement": "Keine Angabe",
+        "Rewards": {
+            "Gil": 780,
+            "Exp": 5130,
+            "ItemsMand": [],
+            "ItemsOpt": [
+                {
+                    "Icon": "https://img.finalfantasyxiv.com/lds/pc/global/images/itemicon/59/591709d485ebd155ba018c8cd773fe3c662caed3.png?n6.05",
+                    "Name": "Frömmigkeits-Materia IV",
+                    "Amount": 1,
+                    "Url": "/lodestone/playguide/db/item/905d47601dd/"
+                },
+                {
+                    "Icon": "https://img.finalfantasyxiv.com/lds/pc/global/images/itemicon/06/06bd35b3df19cbc5d80eed3ed99c67a366c835aa.png?n6.05",
+                    "Name": "Strategen-Materia IV",
+                    "Amount": 1,
+                    "Url": "/lodestone/playguide/db/item/dce3a5f3467/"
+                },
+                {
+                    "Icon": "https://img.finalfantasyxiv.com/lds/pc/global/images/itemicon/60/6072436b0c90d22b6a9d7da93f356256a04be53d.png?n6.05",
+                    "Name": "Zauber-Materia IV",
+                    "Amount": 1,
+                    "Url": "/lodestone/playguide/db/item/5bbb25ff7dd/"
+                }
+            ]
+        },
+        "Infos": {
+            "RelatedNPC": [
+                {
+                    "Name": "Ba Go",
+                    "Url": "/lodestone/playguide/db/npc/npc/f0e3d01eb34/",
+                    "Area": "Äußeres La Noscea (X:21.4 Y:16.5)"
+                }
+            ]
+        },
+        "Seq": 27,
+        "StartDependency": false
+    },
+    {
+        "ID": "3880e42b7ab",
+        "Name": "Bomber-Produktionsstätte",
+        "Location": "Äußeres La Noscea",
+        "Level": 48,
+        "JournalSection": 4,
+        "JournalCategory": 30,
+        "JournalGenre": "\n\t\t\t\t\t\t\tNebenaufträge\n\t\t\t\t\t\t",
+        "Url": "/lodestone/playguide/db/quest/3880e42b7ab/",
+        "Image": null,
+        "Icon": "common_repeat",
+        "Issuer": "Bo Bu",
+        "StartLocation": {
+            "Name": "Äußeres La Noscea",
+            "X": "21.7",
+            "Y": "17.9"
+        },
+        "StartClass": null,
+        "Job": "",
+        "Company": "Keine Angabe",
+        "Requirement": "Keine Angabe",
+        "Rewards": {
+            "Gil": 780,
+            "Exp": 5130,
+            "ItemsMand": [],
+            "ItemsOpt": [
+                {
+                    "Icon": "https://img.finalfantasyxiv.com/lds/pc/global/images/itemicon/06/06bd35b3df19cbc5d80eed3ed99c67a366c835aa.png?n6.05",
+                    "Name": "Strategen-Materia IV",
+                    "Amount": 1,
+                    "Url": "/lodestone/playguide/db/item/dce3a5f3467/"
+                },
+                {
+                    "Icon": "https://img.finalfantasyxiv.com/lds/pc/global/images/itemicon/59/591709d485ebd155ba018c8cd773fe3c662caed3.png?n6.05",
+                    "Name": "Fechtkunst-Materia IV",
+                    "Amount": 1,
+                    "Url": "/lodestone/playguide/db/item/37f25043bf3/"
+                },
+                {
+                    "Icon": "https://img.finalfantasyxiv.com/lds/pc/global/images/itemicon/60/6072436b0c90d22b6a9d7da93f356256a04be53d.png?n6.05",
+                    "Name": "Kampf-Materia IV",
+                    "Amount": 1,
+                    "Url": "/lodestone/playguide/db/item/1162b3fcc58/"
+                }
+            ]
+        },
+        "Infos": {
+            "RelatedNPC": [
+                {
+                    "Name": "Ba Go",
+                    "Url": "/lodestone/playguide/db/npc/npc/f0e3d01eb34/",
+                    "Area": "Äußeres La Noscea (X:21.4 Y:16.5)"
+                }
+            ]
+        },
+        "Seq": 29,
+        "StartDependency": false
+    },
+    {
+        "ID": "3b8001dd37f",
+        "Name": "Eisen gegen Essen",
+        "Location": "Äußeres La Noscea",
+        "Level": 41,
+        "JournalSection": 4,
+        "JournalCategory": 30,
+        "JournalGenre": "\n\t\t\t\t\t\t\tNebenaufträge\n\t\t\t\t\t\t",
+        "Url": "/lodestone/playguide/db/quest/3b8001dd37f/",
+        "Image": null,
+        "Icon": "common_repeat",
+        "Issuer": "Bo Zu",
+        "StartLocation": {
+            "Name": "Äußeres La Noscea",
+            "X": "21.6",
+            "Y": "17.7"
+        },
+        "StartClass": null,
+        "Job": "",
+        "Company": "Keine Angabe",
+        "Requirement": "Keine Angabe",
+        "Rewards": {
+            "Gil": 360,
+            "Exp": 4125,
+            "ItemsMand": [],
+            "ItemsOpt": []
+        },
+        "Infos": {
+            "RelatedNPC": [
+                {
+                    "Name": "Versorgungssoldatin",
+                    "Url": "/lodestone/playguide/db/npc/npc/1e1c76ca1d6/",
+                    "Area": "Äußeres La Noscea (X:19.4 Y:16.9)"
+                }
+            ]
+        },
+        "Seq": 5,
+        "StartDependency": false
+    },
+    {
+        "ID": "447a8ced339",
+        "Name": "Sternstunde des 789. Ordens",
+        "Location": "Äußeres La Noscea",
+        "Level": 48,
+        "JournalSection": 4,
+        "JournalCategory": 30,
+        "JournalGenre": "\n\t\t\t\t\t\t\tHauptaufträge\n\t\t\t\t\t\t",
+        "Url": "/lodestone/playguide/db/quest/447a8ced339/",
+        "Image": "https://img.finalfantasyxiv.com/lds/pc/global/images/itemicon/1f/1f8628b54f6624709d3459725a4d10985fa81143.png?n6.05",
+        "Icon": "function_normal",
+        "Issuer": "Gi Gu",
+        "StartLocation": {
+            "Name": "Äußeres La Noscea",
+            "X": "21.4",
+            "Y": "18.0"
+        },
+        "StartClass": null,
+        "Job": "",
+        "Company": "Keine Angabe",
+        "Requirement": "Keine Angabe",
+        "Rewards": {
+            "Gil": 1184,
+            "Exp": 6840,
+            "ItemsMand": [],
+            "ItemsOpt": []
+        },
+        "Infos": {
+            "PrerequisiteQuest": [
+                {
+                    "Name": "Die Schöne und der Kobold",
+                    "Url": "/lodestone/playguide/db/quest/89575c266d9/",
+                    "Area": "Äußeres La Noscea",
+                    "Level": "48"
+                }
+            ],
+            "RelatedNPC": [
+                {
+                    "Name": "Trachraet",
+                    "Url": "/lodestone/playguide/db/npc/npc/f20c58e0588/",
+                    "Area": "Obere Decks (X:12.7 Y:12.8)"
+                },
+                {
+                    "Name": "Ba Go",
+                    "Url": "/lodestone/playguide/db/npc/npc/f0e3d01eb34/",
+                    "Area": "Äußeres La Noscea (X:21.4 Y:16.5)"
+                },
+                {
+                    "Name": "Bi Bi",
+                    "Url": "/lodestone/playguide/db/npc/npc/211b66d30d5/",
+                    "Area": "Äußeres La Noscea (X:21.7 Y:17.7)"
+                },
+                {
+                    "Name": "Gi Gu",
+                    "Url": "/lodestone/playguide/db/npc/npc/9d2561ccb92/",
+                    "Area": "Äußeres La Noscea (X:25.8 Y:9.6)"
+                },
+                {
+                    "Name": "Skaetswys",
+                    "Url": "/lodestone/playguide/db/npc/npc/accf3a073bd/",
+                    "Area": "Äußeres La Noscea (X:21.4 Y:18.0)"
+                },
+                {
+                    "Name": "Skaetswys",
+                    "Url": "/lodestone/playguide/db/npc/npc/b0fc9e226e6/",
+                    "Area": "Äußeres La Noscea (X:22.9 Y:8.1)"
+                },
+                {
+                    "Name": "Skaetswys",
+                    "Url": "/lodestone/playguide/db/npc/npc/2c0d42d785f/",
+                    "Area": "Äußeres La Noscea (X:25.0 Y:7.7)"
+                },
+                {
+                    "Name": "Skaetswys",
+                    "Url": "/lodestone/playguide/db/npc/npc/a7b59b0ccdb/",
+                    "Area": "Äußeres La Noscea (X:25.0 Y:8.6)"
+                },
+                {
+                    "Name": "Skaetswys",
+                    "Url": "/lodestone/playguide/db/npc/npc/1ad099fdbdb/",
+                    "Area": "Äußeres La Noscea (X:24.4 Y:10.4)"
+                }
+            ]
+        },
+        "Seq": 4,
+        "StartDependency": false
+    },
+    {
+        "ID": "45ef93b9241",
+        "Name": "Tunnelbohrer ade!",
+        "Location": "Äußeres La Noscea",
+        "Level": 48,
+        "JournalSection": 4,
+        "JournalCategory": 30,
+        "JournalGenre": "\n\t\t\t\t\t\t\tNebenaufträge\n\t\t\t\t\t\t",
+        "Url": "/lodestone/playguide/db/quest/45ef93b9241/",
+        "Image": null,
+        "Icon": "common_repeat",
+        "Issuer": "Bo Bu",
+        "StartLocation": {
+            "Name": "Äußeres La Noscea",
+            "X": "21.7",
+            "Y": "17.9"
+        },
+        "StartClass": null,
+        "Job": "",
+        "Company": "Keine Angabe",
+        "Requirement": "Keine Angabe",
+        "Rewards": {
+            "Gil": 780,
+            "Exp": 5130,
+            "ItemsMand": [],
+            "ItemsOpt": [
+                {
+                    "Icon": "https://img.finalfantasyxiv.com/lds/pc/global/images/itemicon/06/06bd35b3df19cbc5d80eed3ed99c67a366c835aa.png?n6.05",
+                    "Name": "Strategen-Materia IV",
+                    "Amount": 1,
+                    "Url": "/lodestone/playguide/db/item/dce3a5f3467/"
+                },
+                {
+                    "Icon": "https://img.finalfantasyxiv.com/lds/pc/global/images/itemicon/06/06bd35b3df19cbc5d80eed3ed99c67a366c835aa.png?n6.05",
+                    "Name": "Assassinen-Materia IV",
+                    "Amount": 1,
+                    "Url": "/lodestone/playguide/db/item/1bc25f58180/"
+                },
+                {
+                    "Icon": "https://img.finalfantasyxiv.com/lds/pc/global/images/itemicon/60/6072436b0c90d22b6a9d7da93f356256a04be53d.png?n6.05",
+                    "Name": "Zauber-Materia IV",
+                    "Amount": 1,
+                    "Url": "/lodestone/playguide/db/item/5bbb25ff7dd/"
+                }
+            ]
+        },
+        "Infos": {
+            "RelatedNPC": [
+                {
+                    "Name": "Ba Go",
+                    "Url": "/lodestone/playguide/db/npc/npc/f0e3d01eb34/",
+                    "Area": "Äußeres La Noscea (X:21.4 Y:16.5)"
+                }
+            ]
+        },
+        "Seq": 31,
+        "StartDependency": false
+    },
+    {
+        "ID": "4d0888d359b",
+        "Name": "Auf der faulen Kobold-Haut",
+        "Location": "Äußeres La Noscea",
+        "Level": 44,
+        "JournalSection": 4,
+        "JournalCategory": 30,
+        "JournalGenre": "\n\t\t\t\t\t\t\tNebenaufträge\n\t\t\t\t\t\t",
+        "Url": "/lodestone/playguide/db/quest/4d0888d359b/",
+        "Image": null,
+        "Icon": "common_repeat",
+        "Issuer": "Bo Gu",
+        "StartLocation": {
+            "Name": "Äußeres La Noscea",
+            "X": "21.9",
+            "Y": "17.8"
+        },
+        "StartClass": null,
+        "Job": "",
+        "Company": "Keine Angabe",
+        "Requirement": "Keine Angabe",
+        "Rewards": {
+            "Gil": 540,
+            "Exp": 4372,
+            "ItemsMand": [],
+            "ItemsOpt": []
+        },
+        "Infos": {
+            "RelatedNPC": [
+                {
+                    "Name": "Ba Go",
+                    "Url": "/lodestone/playguide/db/npc/npc/f0e3d01eb34/",
+                    "Area": "Äußeres La Noscea (X:21.4 Y:16.5)"
+                }
+            ]
+        },
+        "Seq": 16,
+        "StartDependency": false
+    },
+    {
+        "ID": "4f5f1ba984e",
+        "Name": "Sprengen aus Leidenschaft",
+        "Location": "Äußeres La Noscea",
+        "Level": 44,
+        "JournalSection": 4,
+        "JournalCategory": 30,
+        "JournalGenre": "\n\t\t\t\t\t\t\tNebenaufträge\n\t\t\t\t\t\t",
+        "Url": "/lodestone/playguide/db/quest/4f5f1ba984e/",
+        "Image": null,
+        "Icon": "common_repeat",
+        "Issuer": "Bo Gu",
+        "StartLocation": {
+            "Name": "Äußeres La Noscea",
+            "X": "21.9",
+            "Y": "17.8"
+        },
+        "StartClass": null,
+        "Job": "",
+        "Company": "Keine Angabe",
+        "Requirement": "Keine Angabe",
+        "Rewards": {
+            "Gil": 540,
+            "Exp": 4372,
+            "ItemsMand": [],
+            "ItemsOpt": []
+        },
+        "Infos": {
+            "RelatedNPC": [
+                {
+                    "Name": "Ba Go",
+                    "Url": "/lodestone/playguide/db/npc/npc/f0e3d01eb34/",
+                    "Area": "Äußeres La Noscea (X:21.4 Y:16.5)"
+                },
+                {
+                    "Name": "Ga Zi",
+                    "Url": "/lodestone/playguide/db/npc/npc/e204ce46750/",
+                    "Area": "Äußeres La Noscea (X:23.4 Y:11.4)"
+                }
+            ]
+        },
+        "Seq": 19,
+        "StartDependency": false
+    },
+    {
+        "ID": "549494b70de",
+        "Name": "Express-Bomber",
+        "Location": "Äußeres La Noscea",
+        "Level": 44,
+        "JournalSection": 4,
+        "JournalCategory": 30,
+        "JournalGenre": "\n\t\t\t\t\t\t\tNebenaufträge\n\t\t\t\t\t\t",
+        "Url": "/lodestone/playguide/db/quest/549494b70de/",
+        "Image": null,
+        "Icon": "common_repeat",
+        "Issuer": "Bo Gu",
+        "StartLocation": {
+            "Name": "Äußeres La Noscea",
+            "X": "21.9",
+            "Y": "17.8"
+        },
+        "StartClass": null,
+        "Job": "",
+        "Company": "Keine Angabe",
+        "Requirement": "Keine Angabe",
+        "Rewards": {
+            "Gil": 540,
+            "Exp": 4372,
+            "ItemsMand": [],
+            "ItemsOpt": []
+        },
+        "Infos": {
+            "RelatedNPC": [
+                {
+                    "Name": "Ba Go",
+                    "Url": "/lodestone/playguide/db/npc/npc/f0e3d01eb34/",
+                    "Area": "Äußeres La Noscea (X:21.4 Y:16.5)"
+                }
+            ]
+        },
+        "Seq": 24,
+        "StartDependency": false
+    },
+    {
+        "ID": "6c447525093",
+        "Name": "Aufgedrehte Bomber",
+        "Location": "Äußeres La Noscea",
+        "Level": 41,
+        "JournalSection": 4,
+        "JournalCategory": 30,
+        "JournalGenre": "\n\t\t\t\t\t\t\tNebenaufträge\n\t\t\t\t\t\t",
+        "Url": "/lodestone/playguide/db/quest/6c447525093/",
+        "Image": null,
+        "Icon": "common_repeat",
+        "Issuer": "Bo Zu",
+        "StartLocation": {
+            "Name": "Äußeres La Noscea",
+            "X": "21.6",
+            "Y": "17.7"
+        },
+        "StartClass": null,
+        "Job": "",
+        "Company": "Keine Angabe",
+        "Requirement": "Keine Angabe",
+        "Rewards": {
+            "Gil": 360,
+            "Exp": 4125,
+            "ItemsMand": [],
+            "ItemsOpt": []
+        },
+        "Infos": {
+            "RelatedNPC": [
+                {
+                    "Name": "Ba Go",
+                    "Url": "/lodestone/playguide/db/npc/npc/f0e3d01eb34/",
+                    "Area": "Äußeres La Noscea (X:21.4 Y:16.5)"
+                },
+                {
+                    "Name": "Mini-Bomber",
+                    "Url": "/lodestone/playguide/db/npc/npc/9656a2c3910/",
+                    "Area": "Äußeres La Noscea (X:21.1 Y:14.4)"
+                },
+                {
+                    "Name": "Mini-Bomber",
+                    "Url": "/lodestone/playguide/db/npc/npc/1bfb5def6ec/",
+                    "Area": "Äußeres La Noscea (X:22.4 Y:14.9)"
+                },
+                {
+                    "Name": "Mini-Bomber",
+                    "Url": "/lodestone/playguide/db/npc/npc/d0df44fd616/",
+                    "Area": "Äußeres La Noscea (X:21.7 Y:15.0)"
+                },
+                {
+                    "Name": "Mini-Bomber",
+                    "Url": "/lodestone/playguide/db/npc/npc/83744f3459c/",
+                    "Area": "Äußeres La Noscea (X:21.2 Y:15.6)"
+                },
+                {
+                    "Name": "Mini-Bomber",
+                    "Url": "/lodestone/playguide/db/npc/npc/9e2f18e04ee/",
+                    "Area": "Äußeres La Noscea (X:20.9 Y:14.8)"
+                }
+            ]
+        },
+        "Seq": 11,
+        "StartDependency": false
+    },
+    {
+        "ID": "75d86de91e6",
+        "Name": "Bombiger Betrug",
+        "Location": "Äußeres La Noscea",
+        "Level": 41,
+        "JournalSection": 4,
+        "JournalCategory": 30,
+        "JournalGenre": "\n\t\t\t\t\t\t\tNebenaufträge\n\t\t\t\t\t\t",
+        "Url": "/lodestone/playguide/db/quest/75d86de91e6/",
+        "Image": null,
+        "Icon": "common_repeat",
+        "Issuer": "Bo Zu",
+        "StartLocation": {
+            "Name": "Äußeres La Noscea",
+            "X": "21.6",
+            "Y": "17.7"
+        },
+        "StartClass": null,
+        "Job": "",
+        "Company": "Keine Angabe",
+        "Requirement": "Keine Angabe",
+        "Rewards": {
+            "Gil": 360,
+            "Exp": 4125,
+            "ItemsMand": [],
+            "ItemsOpt": []
+        },
+        "Infos": {
+            "RelatedNPC": [
+                {
+                    "Name": "Ba Go",
+                    "Url": "/lodestone/playguide/db/npc/npc/f0e3d01eb34/",
+                    "Area": "Äußeres La Noscea (X:21.4 Y:16.5)"
+                },
+                {
+                    "Name": "Gi Gu",
+                    "Url": "/lodestone/playguide/db/npc/npc/13496a3d66a/",
+                    "Area": "Äußeres La Noscea (X:21.4 Y:18.0)"
+                }
+            ]
+        },
+        "Seq": 14,
+        "StartDependency": false
+    },
+    {
+        "ID": "76ecf38fe24",
+        "Name": "Immer auf die Schwachen",
+        "Location": "Äußeres La Noscea",
+        "Level": 41,
+        "JournalSection": 4,
+        "JournalCategory": 30,
+        "JournalGenre": "\n\t\t\t\t\t\t\tNebenaufträge\n\t\t\t\t\t\t",
+        "Url": "/lodestone/playguide/db/quest/76ecf38fe24/",
+        "Image": null,
+        "Icon": "common_repeat",
+        "Issuer": "Bo Zu",
+        "StartLocation": {
+            "Name": "Äußeres La Noscea",
+            "X": "21.6",
+            "Y": "17.7"
+        },
+        "StartClass": null,
+        "Job": "",
+        "Company": "Keine Angabe",
+        "Requirement": "Keine Angabe",
+        "Rewards": {
+            "Gil": 360,
+            "Exp": 4125,
+            "ItemsMand": [],
+            "ItemsOpt": []
+        },
+        "Infos": {},
+        "Seq": 8,
+        "StartDependency": false
+    },
+    {
+        "ID": "82c6d9eb64d",
+        "Name": "Bomber grün wie Grünspan",
+        "Location": "Äußeres La Noscea",
+        "Level": 44,
+        "JournalSection": 4,
+        "JournalCategory": 30,
+        "JournalGenre": "\n\t\t\t\t\t\t\tNebenaufträge\n\t\t\t\t\t\t",
+        "Url": "/lodestone/playguide/db/quest/82c6d9eb64d/",
+        "Image": null,
+        "Icon": "common_repeat",
+        "Issuer": "Bo Gu",
+        "StartLocation": {
+            "Name": "Äußeres La Noscea",
+            "X": "21.9",
+            "Y": "17.8"
+        },
+        "StartClass": null,
+        "Job": "",
+        "Company": "Keine Angabe",
+        "Requirement": "Keine Angabe",
+        "Rewards": {
+            "Gil": 540,
+            "Exp": 4372,
+            "ItemsMand": [],
+            "ItemsOpt": []
+        },
+        "Infos": {
+            "RelatedNPC": [
+                {
+                    "Name": "Ba Go",
+                    "Url": "/lodestone/playguide/db/npc/npc/f0e3d01eb34/",
+                    "Area": "Äußeres La Noscea (X:21.4 Y:16.5)"
+                },
+                {
+                    "Name": "Ga Zi",
+                    "Url": "/lodestone/playguide/db/npc/npc/e204ce46750/",
+                    "Area": "Äußeres La Noscea (X:23.4 Y:11.4)"
+                }
+            ]
+        },
+        "Seq": 23,
+        "StartDependency": false
+    },
+    {
+        "ID": "873d0e48fde",
+        "Name": "Demütigung des 59. Ordens",
+        "Location": "Äußeres La Noscea",
+        "Level": 48,
+        "JournalSection": 4,
+        "JournalCategory": 30,
+        "JournalGenre": "\n\t\t\t\t\t\t\tNebenaufträge\n\t\t\t\t\t\t",
+        "Url": "/lodestone/playguide/db/quest/873d0e48fde/",
+        "Image": null,
+        "Icon": "common_repeat",
+        "Issuer": "Bo Bu",
+        "StartLocation": {
+            "Name": "Äußeres La Noscea",
+            "X": "21.7",
+            "Y": "17.9"
+        },
+        "StartClass": null,
+        "Job": "",
+        "Company": "Keine Angabe",
+        "Requirement": "Keine Angabe",
+        "Rewards": {
+            "Gil": 780,
+            "Exp": 5130,
+            "ItemsMand": [],
+            "ItemsOpt": [
+                {
+                    "Icon": "https://img.finalfantasyxiv.com/lds/pc/global/images/itemicon/06/06bd35b3df19cbc5d80eed3ed99c67a366c835aa.png?n6.05",
+                    "Name": "Hellseher-Materia IV",
+                    "Amount": 1,
+                    "Url": "/lodestone/playguide/db/item/93fe1786b70/"
+                },
+                {
+                    "Icon": "https://img.finalfantasyxiv.com/lds/pc/global/images/itemicon/06/06bd35b3df19cbc5d80eed3ed99c67a366c835aa.png?n6.05",
+                    "Name": "Strategen-Materia IV",
+                    "Amount": 1,
+                    "Url": "/lodestone/playguide/db/item/dce3a5f3467/"
+                },
+                {
+                    "Icon": "https://img.finalfantasyxiv.com/lds/pc/global/images/itemicon/60/6072436b0c90d22b6a9d7da93f356256a04be53d.png?n6.05",
+                    "Name": "Zauber-Materia IV",
+                    "Amount": 1,
+                    "Url": "/lodestone/playguide/db/item/5bbb25ff7dd/"
+                }
+            ]
+        },
+        "Infos": {},
+        "Seq": 33,
+        "StartDependency": false
+    },
+    {
+        "ID": "882e74fd830",
+        "Name": "Golem-Sprengkommando",
+        "Location": "Äußeres La Noscea",
+        "Level": 44,
+        "JournalSection": 4,
+        "JournalCategory": 30,
+        "JournalGenre": "\n\t\t\t\t\t\t\tNebenaufträge\n\t\t\t\t\t\t",
+        "Url": "/lodestone/playguide/db/quest/882e74fd830/",
+        "Image": null,
+        "Icon": "common_repeat",
+        "Issuer": "Bo Gu",
+        "StartLocation": {
+            "Name": "Äußeres La Noscea",
+            "X": "21.9",
+            "Y": "17.8"
+        },
+        "StartClass": null,
+        "Job": "",
+        "Company": "Keine Angabe",
+        "Requirement": "Keine Angabe",
+        "Rewards": {
+            "Gil": 540,
+            "Exp": 4372,
+            "ItemsMand": [],
+            "ItemsOpt": []
+        },
+        "Infos": {
+            "RelatedNPC": [
+                {
+                    "Name": "Ga Zi",
+                    "Url": "/lodestone/playguide/db/npc/npc/e204ce46750/",
+                    "Area": "Äußeres La Noscea (X:23.4 Y:11.4)"
+                }
+            ]
+        },
+        "Seq": 18,
+        "StartDependency": false
+    },
+    {
+        "ID": "89575c266d9",
+        "Name": "Die Schöne und der Kobold",
+        "Location": "Äußeres La Noscea",
+        "Level": 48,
+        "JournalSection": 4,
+        "JournalCategory": 30,
+        "JournalGenre": "\n\t\t\t\t\t\t\tHauptaufträge\n\t\t\t\t\t\t",
+        "Url": "/lodestone/playguide/db/quest/89575c266d9/",
+        "Image": "https://img.finalfantasyxiv.com/lds/pc/global/images/itemicon/e6/e635d4bffe2a34e657f276613e3cd89012cac6cc.png?n6.05",
+        "Icon": "function_normal",
+        "Issuer": "Skaetswys",
+        "StartLocation": {
+            "Name": "Äußeres La Noscea",
+            "X": "21.4",
+            "Y": "18.0"
+        },
+        "StartClass": null,
+        "Job": "",
+        "Company": "Keine Angabe",
+        "Requirement": "Keine Angabe",
+        "Rewards": {
+            "Gil": 776,
+            "Exp": 6840,
+            "ItemsMand": [],
+            "ItemsOpt": []
+        },
+        "Infos": {
+            "PrerequisiteQuest": [
+                {
+                    "Name": "Die Kobolde rüsten auf",
+                    "Url": "/lodestone/playguide/db/quest/e2b8045bbba/",
+                    "Area": "Äußeres La Noscea",
+                    "Level": "44"
+                }
+            ],
+            "FollowupQuest": [
+                {
+                    "Name": "Sternstunde des 789. Ordens",
+                    "Url": "/lodestone/playguide/db/quest/447a8ced339/",
+                    "Area": "Äußeres La Noscea",
+                    "Level": "48"
+                }
+            ],
+            "RelatedNPC": [
+                {
+                    "Name": "Bi Bi",
+                    "Url": "/lodestone/playguide/db/npc/npc/fe4a1576b63/",
+                    "Area": "Äußeres La Noscea (X:25.8 Y:16.8)"
+                },
+                {
+                    "Name": "Bi Bi",
+                    "Url": "/lodestone/playguide/db/npc/npc/dd6247f1a4f/",
+                    "Area": "Äußeres La Noscea (X:25.8 Y:16.8)"
+                },
+                {
+                    "Name": "Bloeidin",
+                    "Url": "/lodestone/playguide/db/npc/npc/485ce80f0e6/",
+                    "Area": "Äußeres La Noscea (X:18.6 Y:17.2)"
+                },
+                {
+                    "Name": "Gi Gu",
+                    "Url": "/lodestone/playguide/db/npc/npc/13496a3d66a/",
+                    "Area": "Äußeres La Noscea (X:21.4 Y:18.0)"
+                }
+            ]
+        },
+        "Seq": 3,
+        "StartDependency": false
+    },
+    {
+        "ID": "89980d20e14",
+        "Name": "Unlauterer Wettbewerb",
+        "Location": "Äußeres La Noscea",
+        "Level": 41,
+        "JournalSection": 4,
+        "JournalCategory": 30,
+        "JournalGenre": "\n\t\t\t\t\t\t\tNebenaufträge\n\t\t\t\t\t\t",
+        "Url": "/lodestone/playguide/db/quest/89980d20e14/",
+        "Image": null,
+        "Icon": "common_repeat",
+        "Issuer": "Bo Zu",
+        "StartLocation": {
+            "Name": "Äußeres La Noscea",
+            "X": "21.6",
+            "Y": "17.7"
+        },
+        "StartClass": null,
+        "Job": "",
+        "Company": "Keine Angabe",
+        "Requirement": "Keine Angabe",
+        "Rewards": {
+            "Gil": 360,
+            "Exp": 4125,
+            "ItemsMand": [],
+            "ItemsOpt": []
+        },
+        "Infos": {},
+        "Seq": 10,
+        "StartDependency": false
+    },
+    {
+        "ID": "8ad3a6fb670",
+        "Name": "Aus dem Rennen gesprengt",
+        "Location": "Äußeres La Noscea",
+        "Level": 41,
+        "JournalSection": 4,
+        "JournalCategory": 30,
+        "JournalGenre": "\n\t\t\t\t\t\t\tNebenaufträge\n\t\t\t\t\t\t",
+        "Url": "/lodestone/playguide/db/quest/8ad3a6fb670/",
+        "Image": null,
+        "Icon": "common_repeat",
+        "Issuer": "Bo Zu",
+        "StartLocation": {
+            "Name": "Äußeres La Noscea",
+            "X": "21.6",
+            "Y": "17.7"
+        },
+        "StartClass": null,
+        "Job": "",
+        "Company": "Keine Angabe",
+        "Requirement": "Keine Angabe",
+        "Rewards": {
+            "Gil": 360,
+            "Exp": 4125,
+            "ItemsMand": [],
+            "ItemsOpt": []
+        },
+        "Infos": {
+            "RelatedNPC": [
+                {
+                    "Name": "Ba Go",
+                    "Url": "/lodestone/playguide/db/npc/npc/f0e3d01eb34/",
+                    "Area": "Äußeres La Noscea (X:21.4 Y:16.5)"
+                }
+            ]
+        },
+        "Seq": 13,
+        "StartDependency": false
+    },
+    {
+        "ID": "ae3aa31fed9",
+        "Name": "Auf die Finger geschaut",
+        "Location": "Äußeres La Noscea",
+        "Level": 44,
+        "JournalSection": 4,
+        "JournalCategory": 30,
+        "JournalGenre": "\n\t\t\t\t\t\t\tNebenaufträge\n\t\t\t\t\t\t",
+        "Url": "/lodestone/playguide/db/quest/ae3aa31fed9/",
+        "Image": null,
+        "Icon": "common_repeat",
+        "Issuer": "Bo Gu",
+        "StartLocation": {
+            "Name": "Äußeres La Noscea",
+            "X": "21.9",
+            "Y": "17.8"
+        },
+        "StartClass": null,
+        "Job": "",
+        "Company": "Keine Angabe",
+        "Requirement": "Keine Angabe",
+        "Rewards": {
+            "Gil": 540,
+            "Exp": 4372,
+            "ItemsMand": [],
+            "ItemsOpt": []
+        },
+        "Infos": {},
+        "Seq": 15,
+        "StartDependency": false
+    },
+    {
+        "ID": "bca74d2c86b",
+        "Name": "Der mysteriöse Salpeterraub",
+        "Location": "Limsa Lominsa",
+        "Level": 41,
+        "JournalSection": 4,
+        "JournalCategory": 30,
+        "JournalGenre": "\n\t\t\t\t\t\t\tHauptaufträge\n\t\t\t\t\t\t",
+        "Url": "/lodestone/playguide/db/quest/bca74d2c86b/",
+        "Image": "https://img.finalfantasyxiv.com/lds/pc/global/images/itemicon/2f/2f2daf28d6c9096b9e82399eebc47756deb7e9bb.png?n6.05",
+        "Icon": "function_normal",
+        "Issuer": "Trachraet",
+        "StartLocation": {
+            "Name": "Obere Decks",
+            "X": "12.7",
+            "Y": "12.8"
+        },
+        "StartClass": null,
+        "Job": "",
+        "Company": "Keine Angabe",
+        "Requirement": "Keine Angabe",
+        "Rewards": {
+            "Gil": 691,
+            "Exp": 5500,
             "ItemsMand": [],
             "ItemsOpt": []
         },
@@ -37,2471 +1293,452 @@
             ],
             "FollowupQuest": [
                 {
-                    "Name": " Griff nach den Sternen",
-                    "Url": "/lodestone/playguide/db/quest/4116644c3ae/",
-                    "Area": "Nordwald",
-                    "Level": "1"
+                    "Name": "Ein Herz für Kobolde",
+                    "Url": "/lodestone/playguide/db/quest/21e1cd0274f/",
+                    "Area": "Äußeres La Noscea",
+                    "Level": "41"
                 }
             ],
             "RelatedNPC": [
                 {
-                    "Name": "Guithrit",
-                    "Url": "/lodestone/playguide/db/npc/npc/c8768ef895c/",
-                    "Area": "Nordwald (X:28.6 Y:25.7)"
+                    "Name": "Bedrückter Soldat",
+                    "Url": "/lodestone/playguide/db/npc/npc/3c3a0f1572d/",
+                    "Area": "Westliches La Noscea (X:34.5 Y:31.1)"
                 },
                 {
-                    "Name": "Sezul Totoloq",
-                    "Url": "/lodestone/playguide/db/npc/npc/ed44e373c10/",
-                    "Area": "Nordwald (X:24.4 Y:23.4)"
-                }
-            ]
-        },
-        "Seq": 0,
-        "oldID": 67022,
-        "Map": {
-            "ID": 2
-        },
-        "StartDependency": false
-    },
-    {
-        "ID": "02d5abf3e40",
-        "Name": " Lieferauftrag",
-        "Location": "Nordwald",
-        "Level": 1,
-        "JournalSection": 4,
-        "JournalCategory": 30,
-        "JournalGenre": "\n\t\t\t\t\t\t\tNebenaufträge\n\t\t\t\t\t\t",
-        "Url": "/lodestone/playguide/db/quest/02d5abf3e40/",
-        "Image": null,
-        "Icon": "common_repeat",
-        "Issuer": "Wolkengleiter-Verwalter",
-        "StartLocation": {
-            "Name": "Nordwald",
-            "X": "25.0",
-            "Y": "23.1"
-        },
-        "StartClass": null,
-        "Job": "",
-        "Company": "Keine Angabe",
-        "Requirement": "Keine Angabe",
-        "Rewards": {
-            "Gil": 600,
-            "Exp": null,
-            "ItemsMand": [
-                {
-                    "Icon": "https://img.finalfantasyxiv.com/lds/pc/global/images/itemicon/7d/7dd9c23ea9ac01d21028a699be2526c1bf8aa6ea.png?n5.55",
-                    "Name": "Mondstein",
-                    "Amount": 1,
-                    "Url": "/lodestone/playguide/db/item/5644024b2cb/"
-                }
-            ],
-            "ItemsOpt": []
-        },
-        "Infos": {
-            "PrerequisiteQuest": [
-                {
-                    "Name": " Griff nach den Sternen",
-                    "Url": "/lodestone/playguide/db/quest/4116644c3ae/",
-                    "Area": "Nordwald",
-                    "Level": "1"
-                }
-            ],
-            "RelatedNPC": [
-                {
-                    "Name": "Wolkengleiter-Vorarbeiter",
-                    "Url": "/lodestone/playguide/db/npc/npc/ddd07a4feff/",
-                    "Area": "Nordwald (X:24.9 Y:23.0)"
-                }
-            ]
-        },
-        "Seq": 8,
-        "oldID": 67105,
-        "Map": {
-            "ID": 7
-        },
-        "StartDependency": false
-    },
-    {
-        "ID": "02dc55e7d03",
-        "Name": " Auf Reserve",
-        "Location": "Nordwald",
-        "Level": 16,
-        "JournalSection": 4,
-        "JournalCategory": 30,
-        "JournalGenre": "\n\t\t\t\t\t\t\tNebenaufträge\n\t\t\t\t\t\t",
-        "Url": "/lodestone/playguide/db/quest/02dc55e7d03/",
-        "Image": null,
-        "Icon": "common_repeat",
-        "Issuer": "Jezul Ahuatan",
-        "StartLocation": {
-            "Name": "Nordwald",
-            "X": "24.7",
-            "Y": "23.7"
-        },
-        "StartClass": null,
-        "Job": "",
-        "Company": "Keine Angabe",
-        "Requirement": "Keine Angabe",
-        "Rewards": {
-            "Gil": 769,
-            "Exp": null,
-            "ItemsMand": [],
-            "ItemsOpt": [
-                {
-                    "Icon": "https://img.finalfantasyxiv.com/lds/pc/global/images/itemicon/63/633fd862144850ca113c67712245acdc6cd80454.png?n5.55",
-                    "Name": "Sammlersinn-Materia IV",
-                    "Amount": 1,
-                    "Url": "/lodestone/playguide/db/item/143c7ec25ce/"
+                    "Name": "Fassungsloser Soldat",
+                    "Url": "/lodestone/playguide/db/npc/npc/05839da8ee8/",
+                    "Area": "Westliches La Noscea (X:34.4 Y:31.1)"
                 },
                 {
-                    "Icon": "https://img.finalfantasyxiv.com/lds/pc/global/images/itemicon/63/633fd862144850ca113c67712245acdc6cd80454.png?n5.55",
-                    "Name": "Sammlerschlich-Materia IV",
-                    "Amount": 1,
-                    "Url": "/lodestone/playguide/db/item/23a75b80dac/"
+                    "Name": "Skaetswys",
+                    "Url": "/lodestone/playguide/db/npc/npc/cdcc731ea2d/",
+                    "Area": "Westliches La Noscea (X:34.5 Y:31.1)"
                 },
                 {
-                    "Icon": "https://img.finalfantasyxiv.com/lds/pc/global/images/itemicon/db/dbdfccf07fabcc6220a8b0cb3f839ec877699b3c.png?n5.55",
-                    "Name": "Fachkenntnis-Materia IV",
-                    "Amount": 1,
-                    "Url": "/lodestone/playguide/db/item/d41572dcfd9/"
-                }
-            ]
-        },
-        "Infos": {
-            "RelatedNPC": [
-                {
-                    "Name": "Melancholischer Schankwirt",
-                    "Url": "/lodestone/playguide/db/npc/npc/06249579b49/",
-                    "Area": "Zentrales Hochland von Coerthas (X:26.4 Y:16.3)"
+                    "Name": "Bloeidin",
+                    "Url": "/lodestone/playguide/db/npc/npc/485ce80f0e6/",
+                    "Area": "Äußeres La Noscea (X:18.6 Y:17.2)"
                 },
                 {
-                    "Name": "Norbettaux",
-                    "Url": "/lodestone/playguide/db/npc/npc/12e0479f66b/",
-                    "Area": "Zentrales Hochland von Coerthas (X:25.5 Y:16.4)"
-                }
-            ]
-        },
-        "Seq": 36,
-        "oldID": 67057,
-        "Map": {
-            "ID": 7
-        },
-        "StartDependency": false
-    },
-    {
-        "ID": "0abc48cd6e9",
-        "Name": " Raubnager",
-        "Location": "Nordwald",
-        "Level": 3,
-        "JournalSection": 4,
-        "JournalCategory": 30,
-        "JournalGenre": "\n\t\t\t\t\t\t\tNebenaufträge\n\t\t\t\t\t\t",
-        "Url": "/lodestone/playguide/db/quest/0abc48cd6e9/",
-        "Image": null,
-        "Icon": "common_repeat",
-        "Issuer": "Methuli Cattlan",
-        "StartLocation": {
-            "Name": "Nordwald",
-            "X": "24.5",
-            "Y": "23.0"
-        },
-        "StartClass": null,
-        "Job": "",
-        "Company": "Keine Angabe",
-        "Requirement": "Keine Angabe",
-        "Rewards": {
-            "Gil": 563,
-            "Exp": null,
-            "ItemsMand": [
-                {
-                    "Icon": "https://img.finalfantasyxiv.com/lds/pc/global/images/itemicon/d7/d7cd9e93ff5bbad9a1027a39e32d1e5bce1f8f50.png?n5.55",
-                    "Name": "Wasserscherbe",
-                    "Amount": 15,
-                    "Url": "/lodestone/playguide/db/item/9f967ad6b5a/"
-                }
-            ],
-            "ItemsOpt": []
-        },
-        "Infos": {
-            "RelatedNPC": [
-                {
-                    "Name": "Hildeyerd",
-                    "Url": "/lodestone/playguide/db/npc/npc/0377ff8fd12/",
-                    "Area": "Nordwald (X:21.3 Y:25.0)"
-                }
-            ]
-        },
-        "Seq": 14,
-        "oldID": 67041,
-        "Map": {
-            "ID": 7
-        },
-        "StartDependency": false
-    },
-    {
-        "ID": "0e5bbb01199",
-        "Name": " Noch mehr Raubvögel",
-        "Location": "Nordwald",
-        "Level": 3,
-        "JournalSection": 4,
-        "JournalCategory": 30,
-        "JournalGenre": "\n\t\t\t\t\t\t\tNebenaufträge\n\t\t\t\t\t\t",
-        "Url": "/lodestone/playguide/db/quest/0e5bbb01199/",
-        "Image": null,
-        "Icon": "common_repeat",
-        "Issuer": "Methuli Cattlan",
-        "StartLocation": {
-            "Name": "Nordwald",
-            "X": "24.5",
-            "Y": "23.0"
-        },
-        "StartClass": null,
-        "Job": "",
-        "Company": "Keine Angabe",
-        "Requirement": "Keine Angabe",
-        "Rewards": {
-            "Gil": 623,
-            "Exp": null,
-            "ItemsMand": [
-                {
-                    "Icon": "https://img.finalfantasyxiv.com/lds/pc/global/images/itemicon/cb/cbe6b67a35df341fab595a866de9cc4d8f48911d.png?n5.55",
-                    "Name": "Blitzscherbe",
-                    "Amount": 15,
-                    "Url": "/lodestone/playguide/db/item/6fed6129996/"
-                }
-            ],
-            "ItemsOpt": []
-        },
-        "Infos": {
-            "RelatedNPC": [
-                {
-                    "Name": "Hildeyerd",
-                    "Url": "/lodestone/playguide/db/npc/npc/0377ff8fd12/",
-                    "Area": "Nordwald (X:21.3 Y:25.0)"
-                }
-            ]
-        },
-        "Seq": 13,
-        "oldID": 67040,
-        "Map": {
-            "ID": 7
-        },
-        "StartDependency": false
-    },
-    {
-        "ID": "177e964848c",
-        "Name": " Hoch hinaus!",
-        "Location": "Nordwald",
-        "Level": 3,
-        "JournalSection": 4,
-        "JournalCategory": 30,
-        "JournalGenre": "\n\t\t\t\t\t\t\tNebenaufträge\n\t\t\t\t\t\t",
-        "Url": "/lodestone/playguide/db/quest/177e964848c/",
-        "Image": null,
-        "Icon": "common_repeat",
-        "Issuer": "Methuli Cattlan",
-        "StartLocation": {
-            "Name": "Nordwald",
-            "X": "24.5",
-            "Y": "23.0"
-        },
-        "StartClass": null,
-        "Job": "",
-        "Company": "Keine Angabe",
-        "Requirement": "Keine Angabe",
-        "Rewards": {
-            "Gil": 503,
-            "Exp": null,
-            "ItemsMand": [
-                {
-                    "Icon": "https://img.finalfantasyxiv.com/lds/pc/global/images/itemicon/19/196a3df5b436323fab479cc87d09ce15d20a8560.png?n5.55",
-                    "Name": "Eisscherbe",
-                    "Amount": 15,
-                    "Url": "/lodestone/playguide/db/item/f2dfd367f1e/"
-                }
-            ],
-            "ItemsOpt": []
-        },
-        "Infos": {
-            "RelatedNPC": [
-                {
-                    "Name": "Hildeyerd",
-                    "Url": "/lodestone/playguide/db/npc/npc/0377ff8fd12/",
-                    "Area": "Nordwald (X:21.3 Y:25.0)"
+                    "Name": "Gefesselter Kobold",
+                    "Url": "/lodestone/playguide/db/npc/npc/fbc5ee3d5bb/",
+                    "Area": "Äußeres La Noscea (X:18.6 Y:17.2)"
                 },
                 {
-                    "Name": "Ehcatl-Träger",
-                    "Url": "/lodestone/playguide/db/npc/npc/ea575468fe9/",
-                    "Area": "Tiefer Wald (X:13.2 Y:16.6)"
-                }
-            ]
-        },
-        "Seq": 16,
-        "oldID": 67043,
-        "Map": {
-            "ID": 7
-        },
-        "StartDependency": false
-    },
-    {
-        "ID": "1b55ad50218",
-        "Name": " Die Parolen der Urväter",
-        "Location": "Nordwald",
-        "Level": 16,
-        "JournalSection": 4,
-        "JournalCategory": 30,
-        "JournalGenre": "\n\t\t\t\t\t\t\tNebenaufträge\n\t\t\t\t\t\t",
-        "Url": "/lodestone/playguide/db/quest/1b55ad50218/",
-        "Image": null,
-        "Icon": "common_repeat",
-        "Issuer": "Jezul Ahuatan",
-        "StartLocation": {
-            "Name": "Nordwald",
-            "X": "24.7",
-            "Y": "23.7"
-        },
-        "StartClass": null,
-        "Job": "",
-        "Company": "Keine Angabe",
-        "Requirement": "Keine Angabe",
-        "Rewards": {
-            "Gil": 769,
-            "Exp": null,
-            "ItemsMand": [],
-            "ItemsOpt": [
-                {
-                    "Icon": "https://img.finalfantasyxiv.com/lds/pc/global/images/itemicon/db/dbdfccf07fabcc6220a8b0cb3f839ec877699b3c.png?n5.55",
-                    "Name": "Fachkenntnis-Materia IV",
-                    "Amount": 1,
-                    "Url": "/lodestone/playguide/db/item/d41572dcfd9/"
+                    "Name": "Gi Gu",
+                    "Url": "/lodestone/playguide/db/npc/npc/13496a3d66a/",
+                    "Area": "Äußeres La Noscea (X:21.4 Y:18.0)"
                 },
                 {
-                    "Icon": "https://img.finalfantasyxiv.com/lds/pc/global/images/itemicon/db/dbdfccf07fabcc6220a8b0cb3f839ec877699b3c.png?n5.55",
-                    "Name": "Fachwissen-Materia IV",
-                    "Amount": 1,
-                    "Url": "/lodestone/playguide/db/item/caa6eaeeb0e/"
-                },
-                {
-                    "Icon": "https://img.finalfantasyxiv.com/lds/pc/global/images/itemicon/63/633fd862144850ca113c67712245acdc6cd80454.png?n5.55",
-                    "Name": "Sammlersold-Materia IV",
-                    "Amount": 1,
-                    "Url": "/lodestone/playguide/db/item/8b1d678f751/"
-                }
-            ]
-        },
-        "Infos": {
-            "RelatedNPC": [
-                {
-                    "Name": "Ehcatl-Schleicher",
-                    "Url": "/lodestone/playguide/db/npc/npc/056b56187fa/",
-                    "Area": "Zentrales Hochland von Coerthas (X:34.0 Y:21.1)"
-                },
-                {
-                    "Name": "Norbettaux",
-                    "Url": "/lodestone/playguide/db/npc/npc/12e0479f66b/",
-                    "Area": "Zentrales Hochland von Coerthas (X:25.5 Y:16.4)"
-                }
-            ]
-        },
-        "Seq": 41,
-        "oldID": 67104,
-        "Map": {
-            "ID": 7
-        },
-        "StartDependency": false
-    },
-    {
-        "ID": "1b77e5c8c9a",
-        "Name": " Gutes Rad ist teuer",
-        "Location": "Nordwald",
-        "Level": 10,
-        "JournalSection": 4,
-        "JournalCategory": 30,
-        "JournalGenre": "\n\t\t\t\t\t\t\tHauptaufträge\n\t\t\t\t\t\t",
-        "Url": "/lodestone/playguide/db/quest/1b77e5c8c9a/",
-        "Image": "https://img.finalfantasyxiv.com/lds/pc/global/images/itemicon/e4/e4ff7602483a29d34f89e119b72cf21410a7ca32.png?n5.55",
-        "Icon": "function_normal",
-        "Issuer": "Sezul Totoloq",
-        "StartLocation": {
-            "Name": "Nordwald",
-            "X": "24.4",
-            "Y": "23.4"
-        },
-        "StartClass": null,
-        "Job": "",
-        "Company": "Keine Angabe",
-        "Requirement": "Keine Angabe",
-        "Rewards": {
-            "Gil": 971,
-            "Exp": null,
-            "ItemsMand": [],
-            "ItemsOpt": []
-        },
-        "Infos": {
-            "PrerequisiteQuest": [
-                {
-                    "Name": " Der Traum vom Fliegen",
-                    "Url": "/lodestone/playguide/db/quest/46c1fa6046e/",
-                    "Area": "Nordwald",
-                    "Level": "6"
-                }
-            ],
-            "FollowupQuest": [
-                {
-                    "Name": " Im Schatten des Vaters",
-                    "Url": "/lodestone/playguide/db/quest/2520e41e2b7/",
-                    "Area": "Nordwald",
-                    "Level": "15"
-                }
-            ],
-            "RelatedNPC": [
-                {
-                    "Name": "Colson",
-                    "Url": "/lodestone/playguide/db/npc/npc/504c2e3cb17/",
-                    "Area": "Neu-Gridania (X:11.7 Y:13.9)"
-                },
-                {
-                    "Name": "Aeluuin",
-                    "Url": "/lodestone/playguide/db/npc/npc/66bb8b55fd2/",
-                    "Area": "Nordwald (X:20.9 Y:24.9)"
-                },
-                {
-                    "Name": "Tataramu",
-                    "Url": "/lodestone/playguide/db/npc/npc/05817e457a0/",
-                    "Area": "Nordwald (X:24.5 Y:23.4)"
-                }
-            ]
-        },
-        "Seq": 4,
-        "oldID": 67026,
-        "Map": {
-            "ID": 7
-        },
-        "StartDependency": false
-    },
-    {
-        "ID": "1f9c7c3fa73",
-        "Name": " Hals- und Schwingenbruch",
-        "Location": "Nordwald",
-        "Level": 10,
-        "JournalSection": 4,
-        "JournalCategory": 30,
-        "JournalGenre": "\n\t\t\t\t\t\t\tNebenaufträge\n\t\t\t\t\t\t",
-        "Url": "/lodestone/playguide/db/quest/1f9c7c3fa73/",
-        "Image": null,
-        "Icon": "common_repeat",
-        "Issuer": "Tazel Meyean",
-        "StartLocation": {
-            "Name": "Nordwald",
-            "X": "24.6",
-            "Y": "22.8"
-        },
-        "StartClass": null,
-        "Job": "",
-        "Company": "Keine Angabe",
-        "Requirement": "Keine Angabe",
-        "Rewards": {
-            "Gil": 703,
-            "Exp": null,
-            "ItemsMand": [
-                {
-                    "Icon": "https://img.finalfantasyxiv.com/lds/pc/global/images/itemicon/f6/f6ea3d0de2ddc0317246259a7cbb09c7044352da.png?n5.55",
-                    "Name": "Erdscherbe",
-                    "Amount": 25,
-                    "Url": "/lodestone/playguide/db/item/ef4394eb49b/"
-                }
-            ],
-            "ItemsOpt": []
-        },
-        "Infos": {
-            "RelatedNPC": [
-                {
-                    "Name": "Ehcatl-Schleicher",
-                    "Url": "/lodestone/playguide/db/npc/npc/8333d33c209/",
-                    "Area": "Nordwald (X:18.3 Y:19.6)"
-                },
-                {
-                    "Name": "Hildeyerd",
-                    "Url": "/lodestone/playguide/db/npc/npc/0377ff8fd12/",
-                    "Area": "Nordwald (X:21.3 Y:25.0)"
+                    "Name": "Skaetswys",
+                    "Url": "/lodestone/playguide/db/npc/npc/94ea55f15be/",
+                    "Area": "Äußeres La Noscea (X:21.8 Y:17.5)"
                 }
             ]
         },
         "Seq": 26,
-        "oldID": 67037,
-        "Map": {
-            "ID": 7
-        },
         "StartDependency": false
     },
     {
-        "ID": "2520e41e2b7",
-        "Name": " Im Schatten des Vaters",
-        "Location": "Nordwald",
-        "Level": 15,
-        "JournalSection": 4,
-        "JournalCategory": 30,
-        "JournalGenre": "\n\t\t\t\t\t\t\tHauptaufträge\n\t\t\t\t\t\t",
-        "Url": "/lodestone/playguide/db/quest/2520e41e2b7/",
-        "Image": "https://img.finalfantasyxiv.com/lds/pc/global/images/itemicon/95/9534d8042bf0a9467061309424b584617f0a9a85.png?n5.55",
-        "Icon": "function_normal",
-        "Issuer": "Tataramu",
-        "StartLocation": {
-            "Name": "Nordwald",
-            "X": "24.5",
-            "Y": "23.4"
-        },
-        "StartClass": null,
-        "Job": "",
-        "Company": "Keine Angabe",
-        "Requirement": "Keine Angabe",
-        "Rewards": {
-            "Gil": 630,
-            "Exp": null,
-            "ItemsMand": [],
-            "ItemsOpt": []
-        },
-        "Infos": {
-            "PrerequisiteQuest": [
-                {
-                    "Name": " Gutes Rad ist teuer",
-                    "Url": "/lodestone/playguide/db/quest/1b77e5c8c9a/",
-                    "Area": "Nordwald",
-                    "Level": "10"
-                }
-            ],
-            "FollowupQuest": [
-                {
-                    "Name": " Hinter schimmernden Gipfeln",
-                    "Url": "/lodestone/playguide/db/quest/50135f35f69/",
-                    "Area": "Nordwald",
-                    "Level": "16"
-                }
-            ],
-            "RelatedNPC": [
-                {
-                    "Name": "Drake",
-                    "Url": "/lodestone/playguide/db/shop/f2cb98f29d2/",
-                    "Area": "Nordwald (X:30.3 Y:20.1)"
-                },
-                {
-                    "Name": "Gerolt",
-                    "Url": "/lodestone/playguide/db/npc/npc/c385edb82f2/",
-                    "Area": "Nordwald (X:30.2 Y:20.2)"
-                },
-                {
-                    "Name": "Sezul Totoloq",
-                    "Url": "/lodestone/playguide/db/npc/npc/ed44e373c10/",
-                    "Area": "Nordwald (X:24.4 Y:23.4)"
-                }
-            ]
-        },
-        "Seq": 5,
-        "oldID": 67027,
-        "Map": {
-            "ID": 7
-        },
-        "StartDependency": false
-    },
-    {
-        "ID": "27729414927",
-        "Name": " Räumt den Ogerbauch auf",
-        "Location": "Nordwald",
-        "Level": 16,
+        "ID": "c441aded3ce",
+        "Name": "Delikate Würmer",
+        "Location": "Äußeres La Noscea",
+        "Level": 41,
         "JournalSection": 4,
         "JournalCategory": 30,
         "JournalGenre": "\n\t\t\t\t\t\t\tNebenaufträge\n\t\t\t\t\t\t",
-        "Url": "/lodestone/playguide/db/quest/27729414927/",
+        "Url": "/lodestone/playguide/db/quest/c441aded3ce/",
         "Image": null,
         "Icon": "common_repeat",
-        "Issuer": "Jezul Ahuatan",
+        "Issuer": "Bo Zu",
         "StartLocation": {
-            "Name": "Nordwald",
-            "X": "24.7",
-            "Y": "23.7"
+            "Name": "Äußeres La Noscea",
+            "X": "21.6",
+            "Y": "17.7"
         },
         "StartClass": null,
         "Job": "",
         "Company": "Keine Angabe",
         "Requirement": "Keine Angabe",
         "Rewards": {
-            "Gil": 769,
-            "Exp": null,
-            "ItemsMand": [],
-            "ItemsOpt": [
-                {
-                    "Icon": "https://img.finalfantasyxiv.com/lds/pc/global/images/itemicon/db/dbdfccf07fabcc6220a8b0cb3f839ec877699b3c.png?n5.55",
-                    "Name": "Fachwissen-Materia IV",
-                    "Amount": 1,
-                    "Url": "/lodestone/playguide/db/item/caa6eaeeb0e/"
-                },
-                {
-                    "Icon": "https://img.finalfantasyxiv.com/lds/pc/global/images/itemicon/db/dbdfccf07fabcc6220a8b0cb3f839ec877699b3c.png?n5.55",
-                    "Name": "Fachkenntnis-Materia IV",
-                    "Amount": 1,
-                    "Url": "/lodestone/playguide/db/item/d41572dcfd9/"
-                },
-                {
-                    "Icon": "https://img.finalfantasyxiv.com/lds/pc/global/images/itemicon/63/633fd862144850ca113c67712245acdc6cd80454.png?n5.55",
-                    "Name": "Sammlersold-Materia IV",
-                    "Amount": 1,
-                    "Url": "/lodestone/playguide/db/item/8b1d678f751/"
-                }
-            ]
-        },
-        "Infos": {
-            "RelatedNPC": [
-                {
-                    "Name": "Norbettaux",
-                    "Url": "/lodestone/playguide/db/npc/npc/12e0479f66b/",
-                    "Area": "Zentrales Hochland von Coerthas (X:25.5 Y:16.4)"
-                }
-            ]
-        },
-        "Seq": 39,
-        "oldID": 67102,
-        "Map": {
-            "ID": 7
-        },
-        "StartDependency": false
-    },
-    {
-        "ID": "2a11837ac8a",
-        "Name": " So hoch wie nie jemand zuvor",
-        "Location": "Nordwald",
-        "Level": 18,
-        "JournalSection": 4,
-        "JournalCategory": 30,
-        "JournalGenre": "\n\t\t\t\t\t\t\tHauptaufträge\n\t\t\t\t\t\t",
-        "Url": "/lodestone/playguide/db/quest/2a11837ac8a/",
-        "Image": "https://img.finalfantasyxiv.com/lds/pc/global/images/itemicon/45/45a0d6288a27b08de5bfc7fe51266df61370336d.png?n5.55",
-        "Icon": "function_normal",
-        "Issuer": "Sezul Totoloq",
-        "StartLocation": {
-            "Name": "Nordwald",
-            "X": "24.4",
-            "Y": "23.4"
-        },
-        "StartClass": null,
-        "Job": "",
-        "Company": "Keine Angabe",
-        "Requirement": "Keine Angabe",
-        "Rewards": {
-            "Gil": 3000,
-            "Exp": null,
+            "Gil": 360,
+            "Exp": 4125,
             "ItemsMand": [],
             "ItemsOpt": []
         },
-        "Infos": {
-            "PrerequisiteQuest": [
-                {
-                    "Name": " Hinter schimmernden Gipfeln",
-                    "Url": "/lodestone/playguide/db/quest/50135f35f69/",
-                    "Area": "Nordwald",
-                    "Level": "16"
-                }
-            ],
-            "RelatedNPC": [
-                {
-                    "Name": "Scarlet",
-                    "Url": "/lodestone/playguide/db/npc/npc/dbaf4b4266d/",
-                    "Area": "Neu-Gridania (X:9.9 Y:11.4)"
-                },
-                {
-                    "Name": "Hildeyerd",
-                    "Url": "/lodestone/playguide/db/npc/npc/0377ff8fd12/",
-                    "Area": "Nordwald (X:21.3 Y:25.0)"
-                },
-                {
-                    "Name": "Tatabaru",
-                    "Url": "/lodestone/playguide/db/npc/npc/bfd5532aa1a/",
-                    "Area": "Nordwald (X:24.5 Y:23.5)"
-                },
-                {
-                    "Name": "Tatabarus Sekretärin",
-                    "Url": "/lodestone/playguide/db/npc/npc/ea21d894a27/",
-                    "Area": "Nordwald (X:24.5 Y:23.4)"
-                },
-                {
-                    "Name": "Tataramu",
-                    "Url": "/lodestone/playguide/db/npc/npc/05817e457a0/",
-                    "Area": "Nordwald (X:24.5 Y:23.4)"
-                },
-                {
-                    "Name": "Tataramu",
-                    "Url": "/lodestone/playguide/db/npc/npc/cd6b4b06eca/",
-                    "Area": "Nordwald (X:24.6 Y:23.8)"
-                },
-                {
-                    "Name": "Tataramu",
-                    "Url": "/lodestone/playguide/db/npc/npc/a23c0628f96/",
-                    "Area": "Zentrales Hochland von Coerthas (X:25.5 Y:29.9)"
-                },
-                {
-                    "Name": "Tuzal Toltan",
-                    "Url": "/lodestone/playguide/db/npc/npc/f4bafdfaa63/",
-                    "Area": "Zentrales Hochland von Coerthas (X:33.2 Y:18.0)"
-                }
-            ]
-        },
-        "Seq": 7,
-        "oldID": 67029,
-        "Map": {
-            "ID": 7
-        },
-        "StartDependency": false
-    },
-    {
-        "ID": "3433af3d2f5",
-        "Name": " Raubvögel",
-        "Location": "Nordwald",
-        "Level": 1,
-        "JournalSection": 4,
-        "JournalCategory": 30,
-        "JournalGenre": "\n\t\t\t\t\t\t\tNebenaufträge\n\t\t\t\t\t\t",
-        "Url": "/lodestone/playguide/db/quest/3433af3d2f5/",
-        "Image": null,
-        "Icon": "common_repeat",
-        "Issuer": "Yazel Ahuatan",
-        "StartLocation": {
-            "Name": "Nordwald",
-            "X": "24.5",
-            "Y": "23.0"
-        },
-        "StartClass": null,
-        "Job": "",
-        "Company": "Keine Angabe",
-        "Requirement": "Keine Angabe",
-        "Rewards": {
-            "Gil": 549,
-            "Exp": null,
-            "ItemsMand": [
-                {
-                    "Icon": "https://img.finalfantasyxiv.com/lds/pc/global/images/itemicon/74/74f4055bc83205ac7de7e6ba06c29c246281b31d.png?n5.55",
-                    "Name": "Windscherbe",
-                    "Amount": 10,
-                    "Url": "/lodestone/playguide/db/item/843899bc8f6/"
-                }
-            ],
-            "ItemsOpt": []
-        },
-        "Infos": {
-            "RelatedNPC": [
-                {
-                    "Name": "Nellemond",
-                    "Url": "/lodestone/playguide/db/npc/npc/4415f3d85f4/",
-                    "Area": "Nordwald (X:28.7 Y:28.4)"
-                }
-            ]
-        },
-        "Seq": 11,
-        "oldID": 67032,
-        "Map": {
-            "ID": 7
-        },
-        "StartDependency": false
-    },
-    {
-        "ID": "3b5a98de725",
-        "Name": " Holz vor der Hütte",
-        "Location": "Nordwald",
-        "Level": 10,
-        "JournalSection": 4,
-        "JournalCategory": 30,
-        "JournalGenre": "\n\t\t\t\t\t\t\tNebenaufträge\n\t\t\t\t\t\t",
-        "Url": "/lodestone/playguide/db/quest/3b5a98de725/",
-        "Image": null,
-        "Icon": "common_repeat",
-        "Issuer": "Tazel Meyean",
-        "StartLocation": {
-            "Name": "Nordwald",
-            "X": "24.6",
-            "Y": "22.8"
-        },
-        "StartClass": null,
-        "Job": "",
-        "Company": "Keine Angabe",
-        "Requirement": "Keine Angabe",
-        "Rewards": {
-            "Gil": 763,
-            "Exp": null,
-            "ItemsMand": [
-                {
-                    "Icon": "https://img.finalfantasyxiv.com/lds/pc/global/images/itemicon/59/591b42918709d06aa8fdba7ee637bb0e85a9f029.png?n5.55",
-                    "Name": "Feuerscherbe",
-                    "Amount": 25,
-                    "Url": "/lodestone/playguide/db/item/27623d06a42/"
-                }
-            ],
-            "ItemsOpt": []
-        },
-        "Infos": {
-            "RelatedNPC": [
-                {
-                    "Name": "Hildeyerd",
-                    "Url": "/lodestone/playguide/db/npc/npc/0377ff8fd12/",
-                    "Area": "Nordwald (X:21.3 Y:25.0)"
-                },
-                {
-                    "Name": "Händler vom Schwarzen Hasen",
-                    "Url": "/lodestone/playguide/db/npc/npc/0f9fbc2f216/",
-                    "Area": "Nordwald (X:21.7 Y:26.1)"
-                }
-            ]
-        },
-        "Seq": 23,
-        "oldID": 67034,
-        "Map": {
-            "ID": 7
-        },
-        "StartDependency": false
-    },
-    {
-        "ID": "4116644c3ae",
-        "Name": " Griff nach den Sternen",
-        "Location": "Nordwald",
-        "Level": 1,
-        "JournalSection": 4,
-        "JournalCategory": 30,
-        "JournalGenre": "\n\t\t\t\t\t\t\tHauptaufträge\n\t\t\t\t\t\t",
-        "Url": "/lodestone/playguide/db/quest/4116644c3ae/",
-        "Image": "https://img.finalfantasyxiv.com/lds/pc/global/images/itemicon/e8/e8913765eb06c317d50ae2ec9056d585bfbc608f.png?n5.55",
-        "Icon": "function_normal",
-        "Issuer": "Sezul Totoloq",
-        "StartLocation": {
-            "Name": "Nordwald",
-            "X": "24.4",
-            "Y": "23.4"
-        },
-        "StartClass": null,
-        "Job": "",
-        "Company": "Keine Angabe",
-        "Requirement": "Keine Angabe",
-        "Rewards": {
-            "Gil": 572,
-            "Exp": null,
-            "ItemsMand": [],
-            "ItemsOpt": []
-        },
-        "Infos": {
-            "PrerequisiteQuest": [
-                {
-                    "Name": "Frei wie der Wind",
-                    "Url": "/lodestone/playguide/db/quest/01301d14ffd/",
-                    "Area": "Gridania",
-                    "Level": "1"
-                }
-            ],
-            "FollowupQuest": [
-                {
-                    "Name": " Pechvogel",
-                    "Url": "/lodestone/playguide/db/quest/d6a15a26a3e/",
-                    "Area": "Nordwald",
-                    "Level": "3"
-                },
-                {
-                    "Name": " Lieferauftrag",
-                    "Url": "/lodestone/playguide/db/quest/02d5abf3e40/",
-                    "Area": "Nordwald",
-                    "Level": "1"
-                }
-            ],
-            "RelatedNPC": [
-                {
-                    "Name": "Hildeyerd",
-                    "Url": "/lodestone/playguide/db/npc/npc/0377ff8fd12/",
-                    "Area": "Nordwald (X:21.3 Y:25.0)"
-                },
-                {
-                    "Name": "Qiqirn-Händler",
-                    "Url": "/lodestone/playguide/db/npc/npc/454a24fe439/",
-                    "Area": "Nordwald (X:21.0 Y:27.2)"
-                },
-                {
-                    "Name": "Tataramu",
-                    "Url": "/lodestone/playguide/db/npc/npc/05817e457a0/",
-                    "Area": "Nordwald (X:24.5 Y:23.4)"
-                },
-                {
-                    "Name": "Tataramu",
-                    "Url": "/lodestone/playguide/db/npc/npc/5f18e73a883/",
-                    "Area": "Nordwald (X:21.4 Y:25.0)"
-                },
-                {
-                    "Name": "Tazel Meyean",
-                    "Url": "/lodestone/playguide/db/npc/npc/461d9c357a4/",
-                    "Area": "Nordwald (X:24.6 Y:22.8)"
-                }
-            ]
-        },
-        "Seq": 1,
-        "oldID": 67023,
-        "Map": {
-            "ID": 7
-        },
-        "StartDependency": false
-    },
-    {
-        "ID": "46c1fa6046e",
-        "Name": " Der Traum vom Fliegen",
-        "Location": "Nordwald",
-        "Level": 6,
-        "JournalSection": 4,
-        "JournalCategory": 30,
-        "JournalGenre": "\n\t\t\t\t\t\t\tHauptaufträge\n\t\t\t\t\t\t",
-        "Url": "/lodestone/playguide/db/quest/46c1fa6046e/",
-        "Image": "https://img.finalfantasyxiv.com/lds/pc/global/images/itemicon/27/27506165f68c6059540a6665559cc7a8a5ddf458.png?n5.55",
-        "Icon": "function_normal",
-        "Issuer": "Tataramu",
-        "StartLocation": {
-            "Name": "Nordwald",
-            "X": "24.5",
-            "Y": "23.4"
-        },
-        "StartClass": null,
-        "Job": "",
-        "Company": "Keine Angabe",
-        "Requirement": "Keine Angabe",
-        "Rewards": {
-            "Gil": 952,
-            "Exp": null,
-            "ItemsMand": [],
-            "ItemsOpt": []
-        },
-        "Infos": {
-            "PrerequisiteQuest": [
-                {
-                    "Name": " Pechvogel",
-                    "Url": "/lodestone/playguide/db/quest/d6a15a26a3e/",
-                    "Area": "Nordwald",
-                    "Level": "3"
-                }
-            ],
-            "FollowupQuest": [
-                {
-                    "Name": " Gutes Rad ist teuer",
-                    "Url": "/lodestone/playguide/db/quest/1b77e5c8c9a/",
-                    "Area": "Nordwald",
-                    "Level": "10"
-                }
-            ],
-            "RelatedNPC": [
-                {
-                    "Name": "Chansteloup",
-                    "Url": "/lodestone/playguide/db/npc/npc/5c4e9faacc7/",
-                    "Area": "Neu-Gridania (X:15.1 Y:12.3)"
-                },
-                {
-                    "Name": "Colson",
-                    "Url": "/lodestone/playguide/db/npc/npc/8ba43951dc9/",
-                    "Area": "Neu-Gridania (X:15.0 Y:12.1)"
-                },
-                {
-                    "Name": "Hida",
-                    "Url": "/lodestone/playguide/db/npc/npc/689162957d0/",
-                    "Area": "Neu-Gridania (X:11.7 Y:13.3)"
-                },
-                {
-                    "Name": "Hildeyerd",
-                    "Url": "/lodestone/playguide/db/npc/npc/0377ff8fd12/",
-                    "Area": "Nordwald (X:21.3 Y:25.0)"
-                }
-            ]
-        },
-        "Seq": 3,
-        "oldID": 67025,
-        "Map": {
-            "ID": 7
-        },
-        "StartDependency": false
-    },
-    {
-        "ID": "4a0c02b3e16",
-        "Name": " Vom Lastschlitten gefallen",
-        "Location": "Nordwald",
-        "Level": 16,
-        "JournalSection": 4,
-        "JournalCategory": 30,
-        "JournalGenre": "\n\t\t\t\t\t\t\tNebenaufträge\n\t\t\t\t\t\t",
-        "Url": "/lodestone/playguide/db/quest/4a0c02b3e16/",
-        "Image": null,
-        "Icon": "common_repeat",
-        "Issuer": "Jezul Ahuatan",
-        "StartLocation": {
-            "Name": "Nordwald",
-            "X": "24.7",
-            "Y": "23.7"
-        },
-        "StartClass": null,
-        "Job": "",
-        "Company": "Keine Angabe",
-        "Requirement": "Keine Angabe",
-        "Rewards": {
-            "Gil": 829,
-            "Exp": null,
-            "ItemsMand": [],
-            "ItemsOpt": [
-                {
-                    "Icon": "https://img.finalfantasyxiv.com/lds/pc/global/images/itemicon/db/dbdfccf07fabcc6220a8b0cb3f839ec877699b3c.png?n5.55",
-                    "Name": "Facharbeiter-Materia IV",
-                    "Amount": 1,
-                    "Url": "/lodestone/playguide/db/item/1ec7fa0ef9d/"
-                },
-                {
-                    "Icon": "https://img.finalfantasyxiv.com/lds/pc/global/images/itemicon/db/dbdfccf07fabcc6220a8b0cb3f839ec877699b3c.png?n5.55",
-                    "Name": "Fachwissen-Materia IV",
-                    "Amount": 1,
-                    "Url": "/lodestone/playguide/db/item/caa6eaeeb0e/"
-                },
-                {
-                    "Icon": "https://img.finalfantasyxiv.com/lds/pc/global/images/itemicon/63/633fd862144850ca113c67712245acdc6cd80454.png?n5.55",
-                    "Name": "Sammlerschlich-Materia IV",
-                    "Amount": 1,
-                    "Url": "/lodestone/playguide/db/item/23a75b80dac/"
-                }
-            ]
-        },
-        "Infos": {
-            "RelatedNPC": [
-                {
-                    "Name": "Tataramu",
-                    "Url": "/lodestone/playguide/db/npc/npc/05817e457a0/",
-                    "Area": "Nordwald (X:24.5 Y:23.4)"
-                },
-                {
-                    "Name": "Ishgarder Händler",
-                    "Url": "/lodestone/playguide/db/npc/npc/6eddbe887b6/",
-                    "Area": "Zentrales Hochland von Coerthas (X:17.9 Y:15.0)"
-                },
-                {
-                    "Name": "Norbettaux",
-                    "Url": "/lodestone/playguide/db/npc/npc/12e0479f66b/",
-                    "Area": "Zentrales Hochland von Coerthas (X:25.5 Y:16.4)"
-                }
-            ]
-        },
-        "Seq": 38,
-        "oldID": 67059,
-        "Map": {
-            "ID": 7
-        },
-        "StartDependency": false
-    },
-    {
-        "ID": "4c9e1748b41",
-        "Name": " Schwanzfedern in Gefahr",
-        "Location": "Nordwald",
-        "Level": 1,
-        "JournalSection": 4,
-        "JournalCategory": 30,
-        "JournalGenre": "\n\t\t\t\t\t\t\tNebenaufträge\n\t\t\t\t\t\t",
-        "Url": "/lodestone/playguide/db/quest/4c9e1748b41/",
-        "Image": null,
-        "Icon": "common_repeat",
-        "Issuer": "Yazel Ahuatan",
-        "StartLocation": {
-            "Name": "Nordwald",
-            "X": "24.5",
-            "Y": "23.0"
-        },
-        "StartClass": null,
-        "Job": "",
-        "Company": "Keine Angabe",
-        "Requirement": "Keine Angabe",
-        "Rewards": {
-            "Gil": 489,
-            "Exp": null,
-            "ItemsMand": [
-                {
-                    "Icon": "https://img.finalfantasyxiv.com/lds/pc/global/images/itemicon/19/196a3df5b436323fab479cc87d09ce15d20a8560.png?n5.55",
-                    "Name": "Eisscherbe",
-                    "Amount": 10,
-                    "Url": "/lodestone/playguide/db/item/f2dfd367f1e/"
-                }
-            ],
-            "ItemsOpt": []
-        },
-        "Infos": {
-            "RelatedNPC": [
-                {
-                    "Name": "Dametta",
-                    "Url": "/lodestone/playguide/db/npc/npc/3e85d3575cf/",
-                    "Area": "Nordwald (X:29.4 Y:19.3)"
-                },
-                {
-                    "Name": "Paulemont",
-                    "Url": "/lodestone/playguide/db/npc/npc/f456ec065d0/",
-                    "Area": "Nordwald (X:28.6 Y:26.1)"
-                },
-                {
-                    "Name": "Wolkengleiter-Vorarbeiter",
-                    "Url": "/lodestone/playguide/db/npc/npc/ddd07a4feff/",
-                    "Area": "Nordwald (X:24.9 Y:23.0)"
-                }
-            ]
-        },
-        "Seq": 10,
-        "oldID": 67031,
-        "Map": {
-            "ID": 7
-        },
-        "StartDependency": false
-    },
-    {
-        "ID": "50135f35f69",
-        "Name": " Hinter schimmernden Gipfeln",
-        "Location": "Nordwald",
-        "Level": 16,
-        "JournalSection": 4,
-        "JournalCategory": 30,
-        "JournalGenre": "\n\t\t\t\t\t\t\tHauptaufträge\n\t\t\t\t\t\t",
-        "Url": "/lodestone/playguide/db/quest/50135f35f69/",
-        "Image": "https://img.finalfantasyxiv.com/lds/pc/global/images/itemicon/c4/c41a38d1130dce82b076a770ba784739ff636728.png?n5.55",
-        "Icon": "function_normal",
-        "Issuer": "Sezul Totoloq",
-        "StartLocation": {
-            "Name": "Nordwald",
-            "X": "24.4",
-            "Y": "23.4"
-        },
-        "StartClass": null,
-        "Job": "",
-        "Company": "Keine Angabe",
-        "Requirement": "Keine Angabe",
-        "Rewards": {
-            "Gil": 1352,
-            "Exp": null,
-            "ItemsMand": [],
-            "ItemsOpt": []
-        },
-        "Infos": {
-            "PrerequisiteQuest": [
-                {
-                    "Name": " Im Schatten des Vaters",
-                    "Url": "/lodestone/playguide/db/quest/2520e41e2b7/",
-                    "Area": "Nordwald",
-                    "Level": "15"
-                }
-            ],
-            "FollowupQuest": [
-                {
-                    "Name": " So hoch wie nie jemand zuvor",
-                    "Url": "/lodestone/playguide/db/quest/2a11837ac8a/",
-                    "Area": "Nordwald",
-                    "Level": "18"
-                }
-            ],
-            "RelatedNPC": [
-                {
-                    "Name": "Tatabarus Sekretärin",
-                    "Url": "/lodestone/playguide/db/npc/npc/b2321cd6d2c/",
-                    "Area": "Neu-Gridania (X:11.7 Y:13.4)"
-                },
-                {
-                    "Name": "Portelaine",
-                    "Url": "/lodestone/playguide/db/npc/npc/ca67e3e9549/",
-                    "Area": "Zentrales Hochland von Coerthas (X:24.8 Y:28.8)"
-                },
-                {
-                    "Name": "Tatabaru",
-                    "Url": "/lodestone/playguide/db/npc/npc/1594bd1b346/",
-                    "Area": "Zentrales Hochland von Coerthas (X:24.8 Y:28.7)"
-                },
-                {
-                    "Name": "Tatabarus Sekretärin",
-                    "Url": "/lodestone/playguide/db/npc/npc/bae0371e382/",
-                    "Area": "Zentrales Hochland von Coerthas (X:24.8 Y:28.7)"
-                },
-                {
-                    "Name": "Tataramu",
-                    "Url": "/lodestone/playguide/db/npc/npc/4005d1ae646/",
-                    "Area": "Zentrales Hochland von Coerthas (X:25.1 Y:28.0)"
-                },
-                {
-                    "Name": "Tataramu",
-                    "Url": "/lodestone/playguide/db/npc/npc/4c0b74fa2fc/",
-                    "Area": "Zentrales Hochland von Coerthas (X:24.7 Y:28.2)"
-                },
-                {
-                    "Name": "Templeton",
-                    "Url": "/lodestone/playguide/db/npc/npc/a2483132eb7/",
-                    "Area": "Zentrales Hochland von Coerthas (X:26.5 Y:28.8)"
-                }
-            ]
-        },
+        "Infos": {},
         "Seq": 6,
-        "oldID": 67028,
-        "Map": {
-            "ID": 7
-        },
         "StartDependency": false
     },
     {
-        "ID": "5a7e60907e7",
-        "Name": " Innovationsschub",
-        "Location": "Nordwald",
-        "Level": 15,
+        "ID": "c86da1b2c86",
+        "Name": "Haftung ausgeschlossen",
+        "Location": "Äußeres La Noscea",
+        "Level": 48,
         "JournalSection": 4,
         "JournalCategory": 30,
         "JournalGenre": "\n\t\t\t\t\t\t\tNebenaufträge\n\t\t\t\t\t\t",
-        "Url": "/lodestone/playguide/db/quest/5a7e60907e7/",
+        "Url": "/lodestone/playguide/db/quest/c86da1b2c86/",
         "Image": null,
         "Icon": "common_repeat",
-        "Issuer": "Duzal Meyean",
+        "Issuer": "Bo Bu",
         "StartLocation": {
-            "Name": "Nordwald",
-            "X": "24.8",
-            "Y": "23.6"
+            "Name": "Äußeres La Noscea",
+            "X": "21.7",
+            "Y": "17.9"
         },
         "StartClass": null,
         "Job": "",
         "Company": "Keine Angabe",
         "Requirement": "Keine Angabe",
         "Rewards": {
-            "Gil": 700,
-            "Exp": null,
-            "ItemsMand": [],
-            "ItemsOpt": []
-        },
-        "Infos": {
-            "RelatedNPC": [
-                {
-                    "Name": "Fyrbryda",
-                    "Url": "/lodestone/playguide/db/npc/npc/ec41caa41d5/",
-                    "Area": "Mor Dhona (X:22.2 Y:5.5)"
-                }
-            ]
-        },
-        "Seq": 33,
-        "oldID": 67049,
-        "Map": {
-            "ID": 7
-        },
-        "StartDependency": false
-    },
-    {
-        "ID": "5b073b15dea",
-        "Name": " Steinhartes Material",
-        "Location": "Nordwald",
-        "Level": 3,
-        "JournalSection": 4,
-        "JournalCategory": 30,
-        "JournalGenre": "\n\t\t\t\t\t\t\tNebenaufträge\n\t\t\t\t\t\t",
-        "Url": "/lodestone/playguide/db/quest/5b073b15dea/",
-        "Image": null,
-        "Icon": "common_repeat",
-        "Issuer": "Methuli Cattlan",
-        "StartLocation": {
-            "Name": "Nordwald",
-            "X": "24.5",
-            "Y": "23.0"
-        },
-        "StartClass": null,
-        "Job": "",
-        "Company": "Keine Angabe",
-        "Requirement": "Keine Angabe",
-        "Rewards": {
-            "Gil": 503,
-            "Exp": null,
-            "ItemsMand": [
-                {
-                    "Icon": "https://img.finalfantasyxiv.com/lds/pc/global/images/itemicon/59/591b42918709d06aa8fdba7ee637bb0e85a9f029.png?n5.55",
-                    "Name": "Feuerscherbe",
-                    "Amount": 15,
-                    "Url": "/lodestone/playguide/db/item/27623d06a42/"
-                }
-            ],
-            "ItemsOpt": []
-        },
-        "Infos": {
-            "RelatedNPC": [
-                {
-                    "Name": "Hildeyerd",
-                    "Url": "/lodestone/playguide/db/npc/npc/0377ff8fd12/",
-                    "Area": "Nordwald (X:21.3 Y:25.0)"
-                }
-            ]
-        },
-        "Seq": 15,
-        "oldID": 67042,
-        "Map": {
-            "ID": 7
-        },
-        "StartDependency": false
-    },
-    {
-        "ID": "5b2b644afda",
-        "Name": " Ab durch die Wolken!",
-        "Location": "Nordwald",
-        "Level": 6,
-        "JournalSection": 4,
-        "JournalCategory": 30,
-        "JournalGenre": "\n\t\t\t\t\t\t\tNebenaufträge\n\t\t\t\t\t\t",
-        "Url": "/lodestone/playguide/db/quest/5b2b644afda/",
-        "Image": null,
-        "Icon": "common_repeat",
-        "Issuer": "Rozol Cattlan",
-        "StartLocation": {
-            "Name": "Nordwald",
-            "X": "24.6",
-            "Y": "22.7"
-        },
-        "StartClass": null,
-        "Job": "",
-        "Company": "Keine Angabe",
-        "Requirement": "Keine Angabe",
-        "Rewards": {
-            "Gil": 628,
-            "Exp": null,
-            "ItemsMand": [
-                {
-                    "Icon": "https://img.finalfantasyxiv.com/lds/pc/global/images/itemicon/cb/cbe6b67a35df341fab595a866de9cc4d8f48911d.png?n5.55",
-                    "Name": "Blitzscherbe",
-                    "Amount": 20,
-                    "Url": "/lodestone/playguide/db/item/6fed6129996/"
-                }
-            ],
-            "ItemsOpt": []
-        },
-        "Infos": {
-            "RelatedNPC": [
-                {
-                    "Name": "Ehcatl-Träger",
-                    "Url": "/lodestone/playguide/db/npc/npc/8d604deef6c/",
-                    "Area": "Zentrales Hochland von Coerthas (X:22.6 Y:25.0)"
-                },
-                {
-                    "Name": "Roiteloin",
-                    "Url": "/lodestone/playguide/db/npc/npc/8742522e851/",
-                    "Area": "Zentrales Hochland von Coerthas (X:23.7 Y:24.3)"
-                },
-                {
-                    "Name": "Templeton",
-                    "Url": "/lodestone/playguide/db/npc/npc/a2483132eb7/",
-                    "Area": "Zentrales Hochland von Coerthas (X:26.5 Y:28.8)"
-                }
-            ]
-        },
-        "Seq": 19,
-        "oldID": 67051,
-        "Map": {
-            "ID": 7
-        },
-        "StartDependency": false
-    },
-    {
-        "ID": "616e9bed228",
-        "Name": " Mit einem Bein im Nest",
-        "Location": "Nordwald",
-        "Level": 16,
-        "JournalSection": 4,
-        "JournalCategory": 30,
-        "JournalGenre": "\n\t\t\t\t\t\t\tNebenaufträge\n\t\t\t\t\t\t",
-        "Url": "/lodestone/playguide/db/quest/616e9bed228/",
-        "Image": null,
-        "Icon": "common_repeat",
-        "Issuer": "Jezul Ahuatan",
-        "StartLocation": {
-            "Name": "Nordwald",
-            "X": "24.7",
-            "Y": "23.7"
-        },
-        "StartClass": null,
-        "Job": "",
-        "Company": "Keine Angabe",
-        "Requirement": "Keine Angabe",
-        "Rewards": {
-            "Gil": 709,
-            "Exp": null,
+            "Gil": 780,
+            "Exp": 5130,
             "ItemsMand": [],
             "ItemsOpt": [
                 {
-                    "Icon": "https://img.finalfantasyxiv.com/lds/pc/global/images/itemicon/db/dbdfccf07fabcc6220a8b0cb3f839ec877699b3c.png?n5.55",
-                    "Name": "Facharbeiter-Materia IV",
+                    "Icon": "https://img.finalfantasyxiv.com/lds/pc/global/images/itemicon/59/591709d485ebd155ba018c8cd773fe3c662caed3.png?n6.05",
+                    "Name": "Frömmigkeits-Materia IV",
                     "Amount": 1,
-                    "Url": "/lodestone/playguide/db/item/1ec7fa0ef9d/"
+                    "Url": "/lodestone/playguide/db/item/905d47601dd/"
                 },
                 {
-                    "Icon": "https://img.finalfantasyxiv.com/lds/pc/global/images/itemicon/db/dbdfccf07fabcc6220a8b0cb3f839ec877699b3c.png?n5.55",
-                    "Name": "Fachkenntnis-Materia IV",
+                    "Icon": "https://img.finalfantasyxiv.com/lds/pc/global/images/itemicon/59/591709d485ebd155ba018c8cd773fe3c662caed3.png?n6.05",
+                    "Name": "Fechtkunst-Materia IV",
                     "Amount": 1,
-                    "Url": "/lodestone/playguide/db/item/d41572dcfd9/"
+                    "Url": "/lodestone/playguide/db/item/37f25043bf3/"
                 },
                 {
-                    "Icon": "https://img.finalfantasyxiv.com/lds/pc/global/images/itemicon/63/633fd862144850ca113c67712245acdc6cd80454.png?n5.55",
-                    "Name": "Sammlersinn-Materia IV",
+                    "Icon": "https://img.finalfantasyxiv.com/lds/pc/global/images/itemicon/60/6072436b0c90d22b6a9d7da93f356256a04be53d.png?n6.05",
+                    "Name": "Zauber-Materia IV",
                     "Amount": 1,
-                    "Url": "/lodestone/playguide/db/item/143c7ec25ce/"
+                    "Url": "/lodestone/playguide/db/item/5bbb25ff7dd/"
                 }
             ]
         },
         "Infos": {
             "RelatedNPC": [
                 {
-                    "Name": "Norbettaux",
-                    "Url": "/lodestone/playguide/db/npc/npc/12e0479f66b/",
-                    "Area": "Zentrales Hochland von Coerthas (X:25.5 Y:16.4)"
-                }
-            ]
-        },
-        "Seq": 40,
-        "oldID": 67103,
-        "Map": {
-            "ID": 7
-        },
-        "StartDependency": false
-    },
-    {
-        "ID": "620f68c3598",
-        "Name": " Und danke für den Fisch",
-        "Location": "Nordwald",
-        "Level": 6,
-        "JournalSection": 4,
-        "JournalCategory": 30,
-        "JournalGenre": "\n\t\t\t\t\t\t\tNebenaufträge\n\t\t\t\t\t\t",
-        "Url": "/lodestone/playguide/db/quest/620f68c3598/",
-        "Image": null,
-        "Icon": "common_repeat",
-        "Issuer": "Rozol Cattlan",
-        "StartLocation": {
-            "Name": "Nordwald",
-            "X": "24.6",
-            "Y": "22.7"
-        },
-        "StartClass": null,
-        "Job": "",
-        "Company": "Keine Angabe",
-        "Requirement": "Keine Angabe",
-        "Rewards": {
-            "Gil": 628,
-            "Exp": null,
-            "ItemsMand": [
-                {
-                    "Icon": "https://img.finalfantasyxiv.com/lds/pc/global/images/itemicon/f6/f6ea3d0de2ddc0317246259a7cbb09c7044352da.png?n5.55",
-                    "Name": "Erdscherbe",
-                    "Amount": 20,
-                    "Url": "/lodestone/playguide/db/item/ef4394eb49b/"
-                }
-            ],
-            "ItemsOpt": []
-        },
-        "Infos": {
-            "RelatedNPC": [
-                {
-                    "Name": "Templeton",
-                    "Url": "/lodestone/playguide/db/npc/npc/a2483132eb7/",
-                    "Area": "Zentrales Hochland von Coerthas (X:26.5 Y:28.8)"
-                }
-            ]
-        },
-        "Seq": 18,
-        "oldID": 67050,
-        "Map": {
-            "ID": 7
-        },
-        "StartDependency": false
-    },
-    {
-        "ID": "6677bcd7e73",
-        "Name": " Handwerker unter sich",
-        "Location": "Nordwald",
-        "Level": 3,
-        "JournalSection": 4,
-        "JournalCategory": 30,
-        "JournalGenre": "\n\t\t\t\t\t\t\tNebenaufträge\n\t\t\t\t\t\t",
-        "Url": "/lodestone/playguide/db/quest/6677bcd7e73/",
-        "Image": null,
-        "Icon": "common_repeat",
-        "Issuer": "Methuli Cattlan",
-        "StartLocation": {
-            "Name": "Nordwald",
-            "X": "24.5",
-            "Y": "23.0"
-        },
-        "StartClass": null,
-        "Job": "",
-        "Company": "Keine Angabe",
-        "Requirement": "Keine Angabe",
-        "Rewards": {
-            "Gil": 563,
-            "Exp": null,
-            "ItemsMand": [
-                {
-                    "Icon": "https://img.finalfantasyxiv.com/lds/pc/global/images/itemicon/74/74f4055bc83205ac7de7e6ba06c29c246281b31d.png?n5.55",
-                    "Name": "Windscherbe",
-                    "Amount": 15,
-                    "Url": "/lodestone/playguide/db/item/843899bc8f6/"
-                }
-            ],
-            "ItemsOpt": []
-        },
-        "Infos": {
-            "RelatedNPC": [
-                {
-                    "Name": "Ademar",
-                    "Url": "/lodestone/playguide/db/npc/npc/a31cf89d921/",
-                    "Area": "Nordwald (X:16.5 Y:29.3)"
+                    "Name": "Ba Go",
+                    "Url": "/lodestone/playguide/db/npc/npc/f0e3d01eb34/",
+                    "Area": "Äußeres La Noscea (X:21.4 Y:16.5)"
                 },
                 {
-                    "Name": "Hildeyerd",
-                    "Url": "/lodestone/playguide/db/npc/npc/0377ff8fd12/",
-                    "Area": "Nordwald (X:21.3 Y:25.0)"
-                }
-            ]
-        },
-        "Seq": 17,
-        "oldID": 67044,
-        "Map": {
-            "ID": 7
-        },
-        "StartDependency": false
-    },
-    {
-        "ID": "6fd2026fe12",
-        "Name": " Abgasinstallation",
-        "Location": "Nordwald",
-        "Level": 15,
-        "JournalSection": 4,
-        "JournalCategory": 30,
-        "JournalGenre": "\n\t\t\t\t\t\t\tNebenaufträge\n\t\t\t\t\t\t",
-        "Url": "/lodestone/playguide/db/quest/6fd2026fe12/",
-        "Image": null,
-        "Icon": "common_repeat",
-        "Issuer": "Duzal Meyean",
-        "StartLocation": {
-            "Name": "Nordwald",
-            "X": "24.8",
-            "Y": "23.6"
-        },
-        "StartClass": null,
-        "Job": "",
-        "Company": "Keine Angabe",
-        "Requirement": "Keine Angabe",
-        "Rewards": {
-            "Gil": 700,
-            "Exp": null,
-            "ItemsMand": [],
-            "ItemsOpt": []
-        },
-        "Infos": {
-            "RelatedNPC": [
-                {
-                    "Name": "Fyrbryda",
-                    "Url": "/lodestone/playguide/db/npc/npc/ec41caa41d5/",
-                    "Area": "Mor Dhona (X:22.2 Y:5.5)"
-                }
-            ]
-        },
-        "Seq": 31,
-        "oldID": 67047,
-        "Map": {
-            "ID": 7
-        },
-        "StartDependency": false
-    },
-    {
-        "ID": "7d0352119f0",
-        "Name": " Eine Hand wäscht die andere",
-        "Location": "Nordwald",
-        "Level": 6,
-        "JournalSection": 4,
-        "JournalCategory": 30,
-        "JournalGenre": "\n\t\t\t\t\t\t\tNebenaufträge\n\t\t\t\t\t\t",
-        "Url": "/lodestone/playguide/db/quest/7d0352119f0/",
-        "Image": null,
-        "Icon": "common_repeat",
-        "Issuer": "Rozol Cattlan",
-        "StartLocation": {
-            "Name": "Nordwald",
-            "X": "24.6",
-            "Y": "22.7"
-        },
-        "StartClass": null,
-        "Job": "",
-        "Company": "Keine Angabe",
-        "Requirement": "Keine Angabe",
-        "Rewards": {
-            "Gil": 568,
-            "Exp": null,
-            "ItemsMand": [
-                {
-                    "Icon": "https://img.finalfantasyxiv.com/lds/pc/global/images/itemicon/59/591b42918709d06aa8fdba7ee637bb0e85a9f029.png?n5.55",
-                    "Name": "Feuerscherbe",
-                    "Amount": 20,
-                    "Url": "/lodestone/playguide/db/item/27623d06a42/"
-                }
-            ],
-            "ItemsOpt": []
-        },
-        "Infos": {
-            "RelatedNPC": [
-                {
-                    "Name": "Templeton",
-                    "Url": "/lodestone/playguide/db/npc/npc/a2483132eb7/",
-                    "Area": "Zentrales Hochland von Coerthas (X:26.5 Y:28.8)"
-                }
-            ]
-        },
-        "Seq": 21,
-        "oldID": 67053,
-        "Map": {
-            "ID": 7
-        },
-        "StartDependency": false
-    },
-    {
-        "ID": "7f3d36a8917",
-        "Name": " Krallen aus meiner Urne, kah!",
-        "Location": "Nordwald",
-        "Level": 10,
-        "JournalSection": 4,
-        "JournalCategory": 30,
-        "JournalGenre": "\n\t\t\t\t\t\t\tNebenaufträge\n\t\t\t\t\t\t",
-        "Url": "/lodestone/playguide/db/quest/7f3d36a8917/",
-        "Image": null,
-        "Icon": "common_repeat",
-        "Issuer": "Tazel Meyean",
-        "StartLocation": {
-            "Name": "Nordwald",
-            "X": "24.6",
-            "Y": "22.8"
-        },
-        "StartClass": null,
-        "Job": "",
-        "Company": "Keine Angabe",
-        "Requirement": "Keine Angabe",
-        "Rewards": {
-            "Gil": 583,
-            "Exp": null,
-            "ItemsMand": [
-                {
-                    "Icon": "https://img.finalfantasyxiv.com/lds/pc/global/images/itemicon/74/74f4055bc83205ac7de7e6ba06c29c246281b31d.png?n5.55",
-                    "Name": "Windscherbe",
-                    "Amount": 25,
-                    "Url": "/lodestone/playguide/db/item/843899bc8f6/"
-                }
-            ],
-            "ItemsOpt": []
-        },
-        "Infos": {
-            "RelatedNPC": [
-                {
-                    "Name": "Hildeyerd",
-                    "Url": "/lodestone/playguide/db/npc/npc/0377ff8fd12/",
-                    "Area": "Nordwald (X:21.3 Y:25.0)"
-                }
-            ]
-        },
-        "Seq": 25,
-        "oldID": 67036,
-        "Map": {
-            "ID": 7
-        },
-        "StartDependency": false
-    },
-    {
-        "ID": "8142df3495d",
-        "Name": " Treppauf, treppab",
-        "Location": "Nordwald",
-        "Level": 6,
-        "JournalSection": 4,
-        "JournalCategory": 30,
-        "JournalGenre": "\n\t\t\t\t\t\t\tNebenaufträge\n\t\t\t\t\t\t",
-        "Url": "/lodestone/playguide/db/quest/8142df3495d/",
-        "Image": null,
-        "Icon": "common_repeat",
-        "Issuer": "Rozol Cattlan",
-        "StartLocation": {
-            "Name": "Nordwald",
-            "X": "24.6",
-            "Y": "22.7"
-        },
-        "StartClass": null,
-        "Job": "",
-        "Company": "Keine Angabe",
-        "Requirement": "Keine Angabe",
-        "Rewards": {
-            "Gil": 568,
-            "Exp": null,
-            "ItemsMand": [
-                {
-                    "Icon": "https://img.finalfantasyxiv.com/lds/pc/global/images/itemicon/19/196a3df5b436323fab479cc87d09ce15d20a8560.png?n5.55",
-                    "Name": "Eisscherbe",
-                    "Amount": 20,
-                    "Url": "/lodestone/playguide/db/item/f2dfd367f1e/"
-                }
-            ],
-            "ItemsOpt": []
-        },
-        "Infos": {
-            "RelatedNPC": [
-                {
-                    "Name": "Jocea",
-                    "Url": "/lodestone/playguide/db/npc/npc/187aaa2663a/",
-                    "Area": "Zentrales Hochland von Coerthas (X:25.5 Y:29.8)"
-                },
-                {
-                    "Name": "Templeton",
-                    "Url": "/lodestone/playguide/db/npc/npc/a2483132eb7/",
-                    "Area": "Zentrales Hochland von Coerthas (X:26.5 Y:28.8)"
-                }
-            ]
-        },
-        "Seq": 22,
-        "oldID": 67054,
-        "Map": {
-            "ID": 7
-        },
-        "StartDependency": false
-    },
-    {
-        "ID": "899b67fabfc",
-        "Name": " Dullahan-Stahl",
-        "Location": "Nordwald",
-        "Level": 10,
-        "JournalSection": 4,
-        "JournalCategory": 30,
-        "JournalGenre": "\n\t\t\t\t\t\t\tNebenaufträge\n\t\t\t\t\t\t",
-        "Url": "/lodestone/playguide/db/quest/899b67fabfc/",
-        "Image": null,
-        "Icon": "common_repeat",
-        "Issuer": "Tazel Meyean",
-        "StartLocation": {
-            "Name": "Nordwald",
-            "X": "24.6",
-            "Y": "22.8"
-        },
-        "StartClass": null,
-        "Job": "",
-        "Company": "Keine Angabe",
-        "Requirement": "Keine Angabe",
-        "Rewards": {
-            "Gil": 763,
-            "Exp": null,
-            "ItemsMand": [
-                {
-                    "Icon": "https://img.finalfantasyxiv.com/lds/pc/global/images/itemicon/d7/d7cd9e93ff5bbad9a1027a39e32d1e5bce1f8f50.png?n5.55",
-                    "Name": "Wasserscherbe",
-                    "Amount": 25,
-                    "Url": "/lodestone/playguide/db/item/9f967ad6b5a/"
-                }
-            ],
-            "ItemsOpt": []
-        },
-        "Infos": {
-            "RelatedNPC": [
-                {
-                    "Name": "Drake",
-                    "Url": "/lodestone/playguide/db/shop/f2cb98f29d2/",
-                    "Area": "Nordwald (X:30.3 Y:20.1)"
-                }
-            ]
-        },
-        "Seq": 28,
-        "oldID": 67039,
-        "Map": {
-            "ID": 7
-        },
-        "StartDependency": false
-    },
-    {
-        "ID": "89dbab54cef",
-        "Name": " Mit Bohnen fängt man Affen",
-        "Location": "Nordwald",
-        "Level": 1,
-        "JournalSection": 4,
-        "JournalCategory": 30,
-        "JournalGenre": "\n\t\t\t\t\t\t\tNebenaufträge\n\t\t\t\t\t\t",
-        "Url": "/lodestone/playguide/db/quest/89dbab54cef/",
-        "Image": null,
-        "Icon": "common_repeat",
-        "Issuer": "Yazel Ahuatan",
-        "StartLocation": {
-            "Name": "Nordwald",
-            "X": "24.5",
-            "Y": "23.0"
-        },
-        "StartClass": null,
-        "Job": "",
-        "Company": "Keine Angabe",
-        "Requirement": "Keine Angabe",
-        "Rewards": {
-            "Gil": 489,
-            "Exp": null,
-            "ItemsMand": [
-                {
-                    "Icon": "https://img.finalfantasyxiv.com/lds/pc/global/images/itemicon/59/591b42918709d06aa8fdba7ee637bb0e85a9f029.png?n5.55",
-                    "Name": "Feuerscherbe",
-                    "Amount": 10,
-                    "Url": "/lodestone/playguide/db/item/27623d06a42/"
-                }
-            ],
-            "ItemsOpt": []
-        },
-        "Infos": {
-            "RelatedNPC": [
-                {
-                    "Name": "Dametta",
-                    "Url": "/lodestone/playguide/db/npc/npc/3e85d3575cf/",
-                    "Area": "Nordwald (X:29.4 Y:19.3)"
-                },
-                {
-                    "Name": "Sezul Totoloq",
-                    "Url": "/lodestone/playguide/db/npc/npc/ed44e373c10/",
-                    "Area": "Nordwald (X:24.4 Y:23.4)"
-                },
-                {
-                    "Name": "Wolkengleiter-Vorarbeiter",
-                    "Url": "/lodestone/playguide/db/npc/npc/ddd07a4feff/",
-                    "Area": "Nordwald (X:24.9 Y:23.0)"
-                }
-            ]
-        },
-        "Seq": 9,
-        "oldID": 67030,
-        "Map": {
-            "ID": 7
-        },
-        "StartDependency": false
-    },
-    {
-        "ID": "9f8f51232d9",
-        "Name": " Der Steinschweiger",
-        "Location": "Nordwald",
-        "Level": 10,
-        "JournalSection": 4,
-        "JournalCategory": 30,
-        "JournalGenre": "\n\t\t\t\t\t\t\tNebenaufträge\n\t\t\t\t\t\t",
-        "Url": "/lodestone/playguide/db/quest/9f8f51232d9/",
-        "Image": null,
-        "Icon": "common_repeat",
-        "Issuer": "Tazel Meyean",
-        "StartLocation": {
-            "Name": "Nordwald",
-            "X": "24.6",
-            "Y": "22.8"
-        },
-        "StartClass": null,
-        "Job": "",
-        "Company": "Keine Angabe",
-        "Requirement": "Keine Angabe",
-        "Rewards": {
-            "Gil": 763,
-            "Exp": null,
-            "ItemsMand": [
-                {
-                    "Icon": "https://img.finalfantasyxiv.com/lds/pc/global/images/itemicon/19/196a3df5b436323fab479cc87d09ce15d20a8560.png?n5.55",
-                    "Name": "Eisscherbe",
-                    "Amount": 25,
-                    "Url": "/lodestone/playguide/db/item/f2dfd367f1e/"
-                }
-            ],
-            "ItemsOpt": []
-        },
-        "Infos": {
-            "RelatedNPC": [
-                {
-                    "Name": "Freier Händler",
-                    "Url": "/lodestone/playguide/db/npc/npc/820523da018/",
-                    "Area": "Nordwald (X:21.4 Y:26.4)"
-                },
-                {
-                    "Name": "Hildeyerd",
-                    "Url": "/lodestone/playguide/db/npc/npc/0377ff8fd12/",
-                    "Area": "Nordwald (X:21.3 Y:25.0)"
-                }
-            ]
-        },
-        "Seq": 24,
-        "oldID": 67035,
-        "Map": {
-            "ID": 7
-        },
-        "StartDependency": false
-    },
-    {
-        "ID": "b208674515f",
-        "Name": " Der geschorene Domigator",
-        "Location": "Nordwald",
-        "Level": 6,
-        "JournalSection": 4,
-        "JournalCategory": 30,
-        "JournalGenre": "\n\t\t\t\t\t\t\tNebenaufträge\n\t\t\t\t\t\t",
-        "Url": "/lodestone/playguide/db/quest/b208674515f/",
-        "Image": null,
-        "Icon": "common_repeat",
-        "Issuer": "Rozol Cattlan",
-        "StartLocation": {
-            "Name": "Nordwald",
-            "X": "24.6",
-            "Y": "22.7"
-        },
-        "StartClass": null,
-        "Job": "",
-        "Company": "Keine Angabe",
-        "Requirement": "Keine Angabe",
-        "Rewards": {
-            "Gil": 568,
-            "Exp": null,
-            "ItemsMand": [
-                {
-                    "Icon": "https://img.finalfantasyxiv.com/lds/pc/global/images/itemicon/d7/d7cd9e93ff5bbad9a1027a39e32d1e5bce1f8f50.png?n5.55",
-                    "Name": "Wasserscherbe",
-                    "Amount": 20,
-                    "Url": "/lodestone/playguide/db/item/9f967ad6b5a/"
-                }
-            ],
-            "ItemsOpt": []
-        },
-        "Infos": {
-            "RelatedNPC": [
-                {
-                    "Name": "Duvicauroix",
-                    "Url": "/lodestone/playguide/db/npc/npc/2d4c2de06c8/",
-                    "Area": "Zentrales Hochland von Coerthas (X:26.3 Y:27.9)"
-                },
-                {
-                    "Name": "Templeton",
-                    "Url": "/lodestone/playguide/db/npc/npc/a2483132eb7/",
-                    "Area": "Zentrales Hochland von Coerthas (X:26.5 Y:28.8)"
-                }
-            ]
-        },
-        "Seq": 20,
-        "oldID": 67052,
-        "Map": {
-            "ID": 7
-        },
-        "StartDependency": false
-    },
-    {
-        "ID": "c8151c83c4b",
-        "Name": " Ehrliche Diebe",
-        "Location": "Nordwald",
-        "Level": 10,
-        "JournalSection": 4,
-        "JournalCategory": 30,
-        "JournalGenre": "\n\t\t\t\t\t\t\tNebenaufträge\n\t\t\t\t\t\t",
-        "Url": "/lodestone/playguide/db/quest/c8151c83c4b/",
-        "Image": null,
-        "Icon": "common_repeat",
-        "Issuer": "Tazel Meyean",
-        "StartLocation": {
-            "Name": "Nordwald",
-            "X": "24.6",
-            "Y": "22.8"
-        },
-        "StartClass": null,
-        "Job": "",
-        "Company": "Keine Angabe",
-        "Requirement": "Keine Angabe",
-        "Rewards": {
-            "Gil": 643,
-            "Exp": null,
-            "ItemsMand": [
-                {
-                    "Icon": "https://img.finalfantasyxiv.com/lds/pc/global/images/itemicon/cb/cbe6b67a35df341fab595a866de9cc4d8f48911d.png?n5.55",
-                    "Name": "Blitzscherbe",
-                    "Amount": 25,
-                    "Url": "/lodestone/playguide/db/item/6fed6129996/"
-                }
-            ],
-            "ItemsOpt": []
-        },
-        "Infos": {
-            "RelatedNPC": [
-                {
-                    "Name": "Hildeyerd",
-                    "Url": "/lodestone/playguide/db/npc/npc/0377ff8fd12/",
-                    "Area": "Nordwald (X:21.3 Y:25.0)"
-                },
-                {
-                    "Name": "Miah Molkot",
-                    "Url": "/lodestone/playguide/db/npc/npc/036204f228b/",
-                    "Area": "Nordwald (X:22.7 Y:24.2)"
-                },
-                {
-                    "Name": "Qiqirn-Unhold",
-                    "Url": "/lodestone/playguide/db/npc/npc/a8b5e5ec287/",
-                    "Area": "Nordwald (X:21.5 Y:19.7)"
-                },
-                {
-                    "Name": "Qiqirn-Unhold",
-                    "Url": "/lodestone/playguide/db/npc/npc/cf7f59624c7/",
-                    "Area": "Nordwald (X:22.4 Y:20.5)"
-                },
-                {
-                    "Name": "Qiqirn-Unhold",
-                    "Url": "/lodestone/playguide/db/npc/npc/939858be6e9/",
-                    "Area": "Nordwald (X:23.9 Y:20.0)"
-                },
-                {
-                    "Name": "Qiqirn-Unhold",
-                    "Url": "/lodestone/playguide/db/npc/npc/5a1bf260d7a/",
-                    "Area": "Nordwald (X:24.2 Y:20.4)"
-                },
-                {
-                    "Name": "Qiqirn-Unhold",
-                    "Url": "/lodestone/playguide/db/npc/npc/33b3bf26eb6/",
-                    "Area": "Nordwald (X:24.6 Y:21.0)"
-                }
-            ]
-        },
-        "Seq": 27,
-        "oldID": 67038,
-        "Map": {
-            "ID": 7
-        },
-        "StartDependency": false
-    },
-    {
-        "ID": "d6a15a26a3e",
-        "Name": " Pechvogel",
-        "Location": "Nordwald",
-        "Level": 3,
-        "JournalSection": 4,
-        "JournalCategory": 30,
-        "JournalGenre": "\n\t\t\t\t\t\t\tHauptaufträge\n\t\t\t\t\t\t",
-        "Url": "/lodestone/playguide/db/quest/d6a15a26a3e/",
-        "Image": "https://img.finalfantasyxiv.com/lds/pc/global/images/itemicon/b2/b2f62ec393c302c8bfbe31cbbc92e321592a0e5e.png?n5.55",
-        "Icon": "function_normal",
-        "Issuer": "Sezul Totoloq",
-        "StartLocation": {
-            "Name": "Nordwald",
-            "X": "24.4",
-            "Y": "23.4"
-        },
-        "StartClass": null,
-        "Job": "",
-        "Company": "Keine Angabe",
-        "Requirement": "Keine Angabe",
-        "Rewards": {
-            "Gil": 572,
-            "Exp": null,
-            "ItemsMand": [],
-            "ItemsOpt": []
-        },
-        "Infos": {
-            "PrerequisiteQuest": [
-                {
-                    "Name": " Griff nach den Sternen",
-                    "Url": "/lodestone/playguide/db/quest/4116644c3ae/",
-                    "Area": "Nordwald",
-                    "Level": "1"
-                }
-            ],
-            "FollowupQuest": [
-                {
-                    "Name": " Der Traum vom Fliegen",
-                    "Url": "/lodestone/playguide/db/quest/46c1fa6046e/",
-                    "Area": "Nordwald",
-                    "Level": "6"
-                }
-            ],
-            "RelatedNPC": [
-                {
-                    "Name": "Bozol Eduan",
-                    "Url": "/lodestone/playguide/db/npc/npc/c433c37aaf7/",
-                    "Area": "Nordwald (X:23.9 Y:27.5)"
-                },
-                {
-                    "Name": "Nellemond",
-                    "Url": "/lodestone/playguide/db/npc/npc/4415f3d85f4/",
-                    "Area": "Nordwald (X:28.7 Y:28.4)"
-                }
-            ]
-        },
-        "Seq": 2,
-        "oldID": 67024,
-        "Map": {
-            "ID": 7
-        },
-        "StartDependency": false
-    },
-    {
-        "ID": "db9290765f4",
-        "Name": " Uneinsichtige Häretiker",
-        "Location": "Nordwald",
-        "Level": 15,
-        "JournalSection": 4,
-        "JournalCategory": 30,
-        "JournalGenre": "\n\t\t\t\t\t\t\tNebenaufträge\n\t\t\t\t\t\t",
-        "Url": "/lodestone/playguide/db/quest/db9290765f4/",
-        "Image": null,
-        "Icon": "common_repeat",
-        "Issuer": "Duzal Meyean",
-        "StartLocation": {
-            "Name": "Nordwald",
-            "X": "24.8",
-            "Y": "23.6"
-        },
-        "StartClass": null,
-        "Job": "",
-        "Company": "Keine Angabe",
-        "Requirement": "Keine Angabe",
-        "Rewards": {
-            "Gil": 760,
-            "Exp": null,
-            "ItemsMand": [],
-            "ItemsOpt": []
-        },
-        "Infos": {
-            "RelatedNPC": [
-                {
-                    "Name": "Fyrbryda",
-                    "Url": "/lodestone/playguide/db/npc/npc/ec41caa41d5/",
-                    "Area": "Mor Dhona (X:22.2 Y:5.5)"
-                },
-                {
-                    "Name": "Mutmaßlicher Häretiker",
-                    "Url": "/lodestone/playguide/db/npc/npc/1baa7523b8f/",
-                    "Area": "Mor Dhona (X:18.6 Y:8.2)"
-                },
-                {
-                    "Name": "Mutmaßlicher Häretiker",
-                    "Url": "/lodestone/playguide/db/npc/npc/0e161166515/",
-                    "Area": "Mor Dhona (X:18.7 Y:8.7)"
-                },
-                {
-                    "Name": "Mutmaßlicher Häretiker",
-                    "Url": "/lodestone/playguide/db/npc/npc/193cb982ce0/",
-                    "Area": "Mor Dhona (X:17.6 Y:8.3)"
-                },
-                {
-                    "Name": "Mutmaßlicher Häretiker",
-                    "Url": "/lodestone/playguide/db/npc/npc/04c11f80e80/",
-                    "Area": "Mor Dhona (X:17.4 Y:9.0)"
-                },
-                {
-                    "Name": "Mutmaßlicher Häretiker",
-                    "Url": "/lodestone/playguide/db/npc/npc/e53a5b32260/",
-                    "Area": "Mor Dhona (X:18.0 Y:9.3)"
+                    "Name": "Bomber-Inkubatorprototyp",
+                    "Url": "/lodestone/playguide/db/npc/npc/fca27fda286/",
+                    "Area": "Äußeres La Noscea (X:21.8 Y:10.2)"
                 }
             ]
         },
         "Seq": 34,
-        "oldID": 67055,
-        "Map": {
-            "ID": 7
-        },
         "StartDependency": false
     },
     {
-        "ID": "e2685347498",
-        "Name": " Nur die Suppe zählt",
-        "Location": "Nordwald",
-        "Level": 16,
+        "ID": "d2792b389dd",
+        "Name": "Elitäre Stinker",
+        "Location": "Äußeres La Noscea",
+        "Level": 48,
         "JournalSection": 4,
         "JournalCategory": 30,
         "JournalGenre": "\n\t\t\t\t\t\t\tNebenaufträge\n\t\t\t\t\t\t",
-        "Url": "/lodestone/playguide/db/quest/e2685347498/",
+        "Url": "/lodestone/playguide/db/quest/d2792b389dd/",
         "Image": null,
         "Icon": "common_repeat",
-        "Issuer": "Jezul Ahuatan",
+        "Issuer": "Bo Bu",
         "StartLocation": {
-            "Name": "Nordwald",
-            "X": "24.7",
-            "Y": "23.7"
+            "Name": "Äußeres La Noscea",
+            "X": "21.7",
+            "Y": "17.9"
         },
         "StartClass": null,
         "Job": "",
         "Company": "Keine Angabe",
         "Requirement": "Keine Angabe",
         "Rewards": {
-            "Gil": 769,
-            "Exp": null,
+            "Gil": 780,
+            "Exp": 5130,
             "ItemsMand": [],
             "ItemsOpt": [
                 {
-                    "Icon": "https://img.finalfantasyxiv.com/lds/pc/global/images/itemicon/63/633fd862144850ca113c67712245acdc6cd80454.png?n5.55",
-                    "Name": "Sammlersold-Materia IV",
+                    "Icon": "https://img.finalfantasyxiv.com/lds/pc/global/images/itemicon/06/06bd35b3df19cbc5d80eed3ed99c67a366c835aa.png?n6.05",
+                    "Name": "Assassinen-Materia IV",
                     "Amount": 1,
-                    "Url": "/lodestone/playguide/db/item/8b1d678f751/"
+                    "Url": "/lodestone/playguide/db/item/1bc25f58180/"
                 },
                 {
-                    "Icon": "https://img.finalfantasyxiv.com/lds/pc/global/images/itemicon/63/633fd862144850ca113c67712245acdc6cd80454.png?n5.55",
-                    "Name": "Sammlerschlich-Materia IV",
+                    "Icon": "https://img.finalfantasyxiv.com/lds/pc/global/images/itemicon/59/591709d485ebd155ba018c8cd773fe3c662caed3.png?n6.05",
+                    "Name": "Fechtkunst-Materia IV",
                     "Amount": 1,
-                    "Url": "/lodestone/playguide/db/item/23a75b80dac/"
+                    "Url": "/lodestone/playguide/db/item/37f25043bf3/"
                 },
                 {
-                    "Icon": "https://img.finalfantasyxiv.com/lds/pc/global/images/itemicon/db/dbdfccf07fabcc6220a8b0cb3f839ec877699b3c.png?n5.55",
-                    "Name": "Facharbeiter-Materia IV",
+                    "Icon": "https://img.finalfantasyxiv.com/lds/pc/global/images/itemicon/60/6072436b0c90d22b6a9d7da93f356256a04be53d.png?n6.05",
+                    "Name": "Kampf-Materia IV",
                     "Amount": 1,
-                    "Url": "/lodestone/playguide/db/item/1ec7fa0ef9d/"
+                    "Url": "/lodestone/playguide/db/item/1162b3fcc58/"
                 }
             ]
         },
-        "Infos": {
-            "RelatedNPC": [
-                {
-                    "Name": "Munterer Schankwirt",
-                    "Url": "/lodestone/playguide/db/npc/npc/40b88613c0c/",
-                    "Area": "Zentrales Hochland von Coerthas (X:25.5 Y:16.4)"
-                },
-                {
-                    "Name": "Norbettaux",
-                    "Url": "/lodestone/playguide/db/npc/npc/12e0479f66b/",
-                    "Area": "Zentrales Hochland von Coerthas (X:25.5 Y:16.4)"
-                }
-            ]
-        },
-        "Seq": 37,
-        "oldID": 67058,
-        "Map": {
-            "ID": 7
-        },
+        "Infos": {},
+        "Seq": 25,
         "StartDependency": false
     },
     {
-        "ID": "e99d967333b",
-        "Name": " Sei eins mit dem Wind!",
-        "Location": "Nordwald",
-        "Level": 1,
+        "ID": "da42369c04e",
+        "Name": "Missratene Bomber",
+        "Location": "Äußeres La Noscea",
+        "Level": 41,
         "JournalSection": 4,
         "JournalCategory": 30,
         "JournalGenre": "\n\t\t\t\t\t\t\tNebenaufträge\n\t\t\t\t\t\t",
-        "Url": "/lodestone/playguide/db/quest/e99d967333b/",
+        "Url": "/lodestone/playguide/db/quest/da42369c04e/",
         "Image": null,
         "Icon": "common_repeat",
-        "Issuer": "Yazel Ahuatan",
+        "Issuer": "Bo Zu",
         "StartLocation": {
-            "Name": "Nordwald",
-            "X": "24.5",
-            "Y": "23.0"
+            "Name": "Äußeres La Noscea",
+            "X": "21.6",
+            "Y": "17.7"
         },
         "StartClass": null,
         "Job": "",
         "Company": "Keine Angabe",
         "Requirement": "Keine Angabe",
         "Rewards": {
-            "Gil": 609,
-            "Exp": null,
-            "ItemsMand": [
+            "Gil": 360,
+            "Exp": 4125,
+            "ItemsMand": [],
+            "ItemsOpt": []
+        },
+        "Infos": {},
+        "Seq": 9,
+        "StartDependency": false
+    },
+    {
+        "ID": "e2b8045bbba",
+        "Name": "Die Kobolde rüsten auf",
+        "Location": "Äußeres La Noscea",
+        "Level": 44,
+        "JournalSection": 4,
+        "JournalCategory": 30,
+        "JournalGenre": "\n\t\t\t\t\t\t\tHauptaufträge\n\t\t\t\t\t\t",
+        "Url": "/lodestone/playguide/db/quest/e2b8045bbba/",
+        "Image": "https://img.finalfantasyxiv.com/lds/pc/global/images/itemicon/19/19d2ecbf1d07b338996b1f86979704136f1dbd3d.png?n6.05",
+        "Icon": "function_normal",
+        "Issuer": "Gi Gu",
+        "StartLocation": {
+            "Name": "Äußeres La Noscea",
+            "X": "21.4",
+            "Y": "18.0"
+        },
+        "StartClass": null,
+        "Job": "",
+        "Company": "Keine Angabe",
+        "Requirement": "Keine Angabe",
+        "Rewards": {
+            "Gil": 729,
+            "Exp": 5830,
+            "ItemsMand": [],
+            "ItemsOpt": []
+        },
+        "Infos": {
+            "PrerequisiteQuest": [
                 {
-                    "Icon": "https://img.finalfantasyxiv.com/lds/pc/global/images/itemicon/f6/f6ea3d0de2ddc0317246259a7cbb09c7044352da.png?n5.55",
-                    "Name": "Erdscherbe",
-                    "Amount": 10,
-                    "Url": "/lodestone/playguide/db/item/ef4394eb49b/"
+                    "Name": "Ein Herz für Kobolde",
+                    "Url": "/lodestone/playguide/db/quest/21e1cd0274f/",
+                    "Area": "Äußeres La Noscea",
+                    "Level": "41"
                 }
             ],
-            "ItemsOpt": []
-        },
-        "Infos": {
+            "FollowupQuest": [
+                {
+                    "Name": "Die Schöne und der Kobold",
+                    "Url": "/lodestone/playguide/db/quest/89575c266d9/",
+                    "Area": "Äußeres La Noscea",
+                    "Level": "48"
+                }
+            ],
             "RelatedNPC": [
                 {
-                    "Name": "Ehcatl-Träger",
-                    "Url": "/lodestone/playguide/db/npc/npc/f136781ce96/",
-                    "Area": "Nordwald (X:26.5 Y:28.5)"
+                    "Name": "Ba Go",
+                    "Url": "/lodestone/playguide/db/npc/npc/f0e3d01eb34/",
+                    "Area": "Äußeres La Noscea (X:21.4 Y:16.5)"
                 },
                 {
-                    "Name": "Nellemond",
-                    "Url": "/lodestone/playguide/db/npc/npc/4415f3d85f4/",
-                    "Area": "Nordwald (X:28.7 Y:28.4)"
+                    "Name": "Ba Go",
+                    "Url": "/lodestone/playguide/db/npc/npc/fe7f555e7d8/",
+                    "Area": "Äußeres La Noscea (X:25.9 Y:9.8)"
+                },
+                {
+                    "Name": "Ba Go",
+                    "Url": "/lodestone/playguide/db/npc/npc/f3f2d03cf0c/",
+                    "Area": "Äußeres La Noscea (X:24.4 Y:10.3)"
+                },
+                {
+                    "Name": "Ga Zi",
+                    "Url": "/lodestone/playguide/db/npc/npc/e204ce46750/",
+                    "Area": "Äußeres La Noscea (X:23.4 Y:11.4)"
+                },
+                {
+                    "Name": "Skaetswys",
+                    "Url": "/lodestone/playguide/db/npc/npc/e9803fc2b08/",
+                    "Area": "Äußeres La Noscea (X:19.6 Y:16.5)"
+                },
+                {
+                    "Name": "Verletzter Sturmmaat",
+                    "Url": "/lodestone/playguide/db/npc/npc/f10efcb0177/",
+                    "Area": "Äußeres La Noscea (X:19.6 Y:16.5)"
+                },
+                {
+                    "Name": "Verwundeter Sturmmariner",
+                    "Url": "/lodestone/playguide/db/npc/npc/2cc03ee4475/",
+                    "Area": "Äußeres La Noscea (X:19.6 Y:16.5)"
+                },
+                {
+                    "Name": "Zugerichteter Sturmmariner",
+                    "Url": "/lodestone/playguide/db/npc/npc/1cae2270186/",
+                    "Area": "Äußeres La Noscea (X:19.7 Y:16.4)"
                 }
             ]
         },
-        "Seq": 12,
-        "oldID": 67033,
-        "Map": {
-            "ID": 7
-        },
+        "Seq": 2,
         "StartDependency": false
     },
     {
-        "ID": "eb7672cc9c9",
-        "Name": " Fischt fette Fische",
-        "Location": "Nordwald",
-        "Level": 16,
+        "ID": "e7cb15cd11b",
+        "Name": "Ebenso faul wie zornig",
+        "Location": "Äußeres La Noscea",
+        "Level": 44,
         "JournalSection": 4,
         "JournalCategory": 30,
         "JournalGenre": "\n\t\t\t\t\t\t\tNebenaufträge\n\t\t\t\t\t\t",
-        "Url": "/lodestone/playguide/db/quest/eb7672cc9c9/",
+        "Url": "/lodestone/playguide/db/quest/e7cb15cd11b/",
         "Image": null,
         "Icon": "common_repeat",
-        "Issuer": "Jezul Ahuatan",
+        "Issuer": "Bo Gu",
         "StartLocation": {
-            "Name": "Nordwald",
-            "X": "24.7",
-            "Y": "23.7"
+            "Name": "Äußeres La Noscea",
+            "X": "21.9",
+            "Y": "17.8"
         },
         "StartClass": null,
         "Job": "",
         "Company": "Keine Angabe",
         "Requirement": "Keine Angabe",
         "Rewards": {
-            "Gil": 709,
-            "Exp": null,
+            "Gil": 540,
+            "Exp": 4372,
+            "ItemsMand": [],
+            "ItemsOpt": []
+        },
+        "Infos": {
+            "RelatedNPC": [
+                {
+                    "Name": "Gi Gu",
+                    "Url": "/lodestone/playguide/db/npc/npc/13496a3d66a/",
+                    "Area": "Äußeres La Noscea (X:21.4 Y:18.0)"
+                }
+            ]
+        },
+        "Seq": 17,
+        "StartDependency": false
+    },
+    {
+        "ID": "ea47cd03b4e",
+        "Name": "Verwöhnte Bomber",
+        "Location": "Äußeres La Noscea",
+        "Level": 48,
+        "JournalSection": 4,
+        "JournalCategory": 30,
+        "JournalGenre": "\n\t\t\t\t\t\t\tNebenaufträge\n\t\t\t\t\t\t",
+        "Url": "/lodestone/playguide/db/quest/ea47cd03b4e/",
+        "Image": null,
+        "Icon": "common_repeat",
+        "Issuer": "Bo Bu",
+        "StartLocation": {
+            "Name": "Äußeres La Noscea",
+            "X": "21.7",
+            "Y": "17.9"
+        },
+        "StartClass": null,
+        "Job": "",
+        "Company": "Keine Angabe",
+        "Requirement": "Keine Angabe",
+        "Rewards": {
+            "Gil": 780,
+            "Exp": 5130,
             "ItemsMand": [],
             "ItemsOpt": [
                 {
-                    "Icon": "https://img.finalfantasyxiv.com/lds/pc/global/images/itemicon/63/633fd862144850ca113c67712245acdc6cd80454.png?n5.55",
-                    "Name": "Sammlersold-Materia IV",
+                    "Icon": "https://img.finalfantasyxiv.com/lds/pc/global/images/itemicon/59/591709d485ebd155ba018c8cd773fe3c662caed3.png?n6.05",
+                    "Name": "Frömmigkeits-Materia IV",
                     "Amount": 1,
-                    "Url": "/lodestone/playguide/db/item/8b1d678f751/"
+                    "Url": "/lodestone/playguide/db/item/905d47601dd/"
                 },
                 {
-                    "Icon": "https://img.finalfantasyxiv.com/lds/pc/global/images/itemicon/63/633fd862144850ca113c67712245acdc6cd80454.png?n5.55",
-                    "Name": "Sammlersinn-Materia IV",
+                    "Icon": "https://img.finalfantasyxiv.com/lds/pc/global/images/itemicon/06/06bd35b3df19cbc5d80eed3ed99c67a366c835aa.png?n6.05",
+                    "Name": "Hellseher-Materia IV",
                     "Amount": 1,
-                    "Url": "/lodestone/playguide/db/item/143c7ec25ce/"
+                    "Url": "/lodestone/playguide/db/item/93fe1786b70/"
                 },
                 {
-                    "Icon": "https://img.finalfantasyxiv.com/lds/pc/global/images/itemicon/db/dbdfccf07fabcc6220a8b0cb3f839ec877699b3c.png?n5.55",
-                    "Name": "Fachwissen-Materia IV",
+                    "Icon": "https://img.finalfantasyxiv.com/lds/pc/global/images/itemicon/60/6072436b0c90d22b6a9d7da93f356256a04be53d.png?n6.05",
+                    "Name": "Kampf-Materia IV",
                     "Amount": 1,
-                    "Url": "/lodestone/playguide/db/item/caa6eaeeb0e/"
+                    "Url": "/lodestone/playguide/db/item/1162b3fcc58/"
                 }
             ]
         },
         "Infos": {
             "RelatedNPC": [
                 {
-                    "Name": "Norbettaux",
-                    "Url": "/lodestone/playguide/db/npc/npc/12e0479f66b/",
-                    "Area": "Zentrales Hochland von Coerthas (X:25.5 Y:16.4)"
-                },
-                {
-                    "Name": "Sture Schankwirtin",
-                    "Url": "/lodestone/playguide/db/npc/npc/1b1835d6cbb/",
-                    "Area": "Zentrales Hochland von Coerthas (X:26.2 Y:16.3)"
+                    "Name": "Ba Go",
+                    "Url": "/lodestone/playguide/db/npc/npc/f0e3d01eb34/",
+                    "Area": "Äußeres La Noscea (X:21.4 Y:16.5)"
                 }
             ]
         },
-        "Seq": 35,
-        "oldID": 67056,
-        "Map": {
-            "ID": 7
-        },
+        "Seq": 26,
         "StartDependency": false
     },
     {
-        "ID": "f2abb6ed642",
-        "Name": " Fischgalle gegen Pocken",
-        "Location": "Nordwald",
-        "Level": 15,
+        "ID": "fd75f4df07d",
+        "Name": "Explosive Vorräte",
+        "Location": "Äußeres La Noscea",
+        "Level": 41,
         "JournalSection": 4,
         "JournalCategory": 30,
         "JournalGenre": "\n\t\t\t\t\t\t\tNebenaufträge\n\t\t\t\t\t\t",
-        "Url": "/lodestone/playguide/db/quest/f2abb6ed642/",
+        "Url": "/lodestone/playguide/db/quest/fd75f4df07d/",
         "Image": null,
         "Icon": "common_repeat",
-        "Issuer": "Duzal Meyean",
+        "Issuer": "Bo Zu",
         "StartLocation": {
-            "Name": "Nordwald",
-            "X": "24.8",
-            "Y": "23.6"
+            "Name": "Äußeres La Noscea",
+            "X": "21.6",
+            "Y": "17.7"
         },
         "StartClass": null,
         "Job": "",
         "Company": "Keine Angabe",
         "Requirement": "Keine Angabe",
         "Rewards": {
-            "Gil": 700,
-            "Exp": null,
+            "Gil": 360,
+            "Exp": 4125,
             "ItemsMand": [],
             "ItemsOpt": []
         },
         "Infos": {
             "RelatedNPC": [
                 {
-                    "Name": "Fyrbryda",
-                    "Url": "/lodestone/playguide/db/npc/npc/ec41caa41d5/",
-                    "Area": "Mor Dhona (X:22.2 Y:5.5)"
+                    "Name": "Ba Go",
+                    "Url": "/lodestone/playguide/db/npc/npc/f0e3d01eb34/",
+                    "Area": "Äußeres La Noscea (X:21.4 Y:16.5)"
                 }
             ]
         },
-        "Seq": 29,
-        "oldID": 67045,
-        "Map": {
-            "ID": 7
-        },
-        "StartDependency": false
-    },
-    {
-        "ID": "f428e70817d",
-        "Name": " Luftschiffscheinwerfer",
-        "Location": "Nordwald",
-        "Level": 15,
-        "JournalSection": 4,
-        "JournalCategory": 30,
-        "JournalGenre": "\n\t\t\t\t\t\t\tNebenaufträge\n\t\t\t\t\t\t",
-        "Url": "/lodestone/playguide/db/quest/f428e70817d/",
-        "Image": null,
-        "Icon": "common_repeat",
-        "Issuer": "Duzal Meyean",
-        "StartLocation": {
-            "Name": "Nordwald",
-            "X": "24.8",
-            "Y": "23.6"
-        },
-        "StartClass": null,
-        "Job": "",
-        "Company": "Keine Angabe",
-        "Requirement": "Keine Angabe",
-        "Rewards": {
-            "Gil": 760,
-            "Exp": null,
-            "ItemsMand": [],
-            "ItemsOpt": []
-        },
-        "Infos": {
-            "RelatedNPC": [
-                {
-                    "Name": "Fyrbryda",
-                    "Url": "/lodestone/playguide/db/npc/npc/ec41caa41d5/",
-                    "Area": "Mor Dhona (X:22.2 Y:5.5)"
-                }
-            ]
-        },
-        "Seq": 30,
-        "oldID": 67046,
-        "Map": {
-            "ID": 7
-        },
-        "StartDependency": false
-    },
-    {
-        "ID": "fe4bbee2797",
-        "Name": " Stinkeluft an Bord",
-        "Location": "Nordwald",
-        "Level": 15,
-        "JournalSection": 4,
-        "JournalCategory": 30,
-        "JournalGenre": "\n\t\t\t\t\t\t\tNebenaufträge\n\t\t\t\t\t\t",
-        "Url": "/lodestone/playguide/db/quest/fe4bbee2797/",
-        "Image": null,
-        "Icon": "common_repeat",
-        "Issuer": "Duzal Meyean",
-        "StartLocation": {
-            "Name": "Nordwald",
-            "X": "24.8",
-            "Y": "23.6"
-        },
-        "StartClass": null,
-        "Job": "",
-        "Company": "Keine Angabe",
-        "Requirement": "Keine Angabe",
-        "Rewards": {
-            "Gil": 760,
-            "Exp": null,
-            "ItemsMand": [],
-            "ItemsOpt": []
-        },
-        "Infos": {
-            "RelatedNPC": [
-                {
-                    "Name": "Fyrbryda",
-                    "Url": "/lodestone/playguide/db/npc/npc/ec41caa41d5/",
-                    "Area": "Mor Dhona (X:22.2 Y:5.5)"
-                }
-            ]
-        },
-        "Seq": 32,
-        "oldID": 67048,
-        "Map": {
-            "ID": 7
-        },
+        "Seq": 7,
         "StartDependency": false
     }
 ]

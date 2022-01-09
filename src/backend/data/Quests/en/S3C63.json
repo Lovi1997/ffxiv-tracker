@@ -1,0 +1,978 @@
+[
+    {
+        "ID": "18816e4c4f0",
+        "Name": " Work Woes",
+        "Location": "Ultima Thule",
+        "Level": 80,
+        "JournalSection": 3,
+        "JournalCategory": 63,
+        "JournalGenre": "Ultima Thule Sidequests",
+        "Url": "/lodestone/playguide/db/quest/18816e4c4f0/",
+        "Image": "https://img.finalfantasyxiv.com/lds/pc/global/images/itemicon/52/52546bd20c6294c3734543a76d7e88c9d70e82d4.png?n6.05",
+        "Icon": "common_normal",
+        "Issuer": "Omicron Guard",
+        "StartLocation": {
+            "Name": "Ultima Thule",
+            "X": "31.1",
+            "Y": "27.7"
+        },
+        "StartClass": null,
+        "Job": "",
+        "Company": "Not specified",
+        "Requirement": "Not specified",
+        "Rewards": {
+            "Gil": 775,
+            "Exp": null,
+            "ItemsMand": [],
+            "ItemsOpt": [
+                {
+                    "Icon": "https://img.finalfantasyxiv.com/lds/pc/global/images/itemicon/a8/a800d435d3a92ffb4dbf4d9de65477b9528981c8.png?n6.05",
+                    "Name": "Baked Alien Soup",
+                    "Amount": 2,
+                    "Url": "/lodestone/playguide/db/item/37fac9af789/"
+                },
+                {
+                    "Icon": "https://img.finalfantasyxiv.com/lds/pc/global/images/itemicon/61/61fb5cb5e9afbfb52b690aa68a8064f6b90de6f9.png?n6.05",
+                    "Name": "Sykon Salad",
+                    "Amount": 2,
+                    "Url": "/lodestone/playguide/db/item/941e8588331/"
+                },
+                {
+                    "Icon": "https://img.finalfantasyxiv.com/lds/pc/global/images/itemicon/d7/d71842fe1562ec9134d467c3a18ccda2f456feff.png?n6.05",
+                    "Name": "Sykon Compote",
+                    "Amount": 2,
+                    "Url": "/lodestone/playguide/db/item/1adacdf79f9/"
+                },
+                {
+                    "Icon": "https://img.finalfantasyxiv.com/lds/pc/global/images/itemicon/89/896b6d25e79a314791e8ac1ad9ef427c38019f38.png?n6.05",
+                    "Name": "Sykon Bavarois",
+                    "Amount": 2,
+                    "Url": "/lodestone/playguide/db/item/997edd435a2/"
+                }
+            ]
+        },
+        "Infos": {
+            "PrerequisiteQuest": [
+                {
+                    "Name": "Endwalker",
+                    "Url": "/lodestone/playguide/db/quest/52a65d1961d/",
+                    "Area": "Ultima Thule",
+                    "Level": "90"
+                }
+            ],
+            "RelatedNPC": [
+                {
+                    "Name": "Omicron Guard",
+                    "Url": "/lodestone/playguide/db/npc/npc/ae365d922a2/",
+                    "Area": "Ultima Thule (X:33.8 Y:29.1)"
+                }
+            ]
+        },
+        "Seq": 19,
+        "StartDependency": false
+    },
+    {
+        "ID": "240d143f7a6",
+        "Name": " Loud and Proud",
+        "Location": "Ultima Thule",
+        "Level": 80,
+        "JournalSection": 3,
+        "JournalCategory": 63,
+        "JournalGenre": "Ultima Thule Sidequests",
+        "Url": "/lodestone/playguide/db/quest/240d143f7a6/",
+        "Image": "https://img.finalfantasyxiv.com/lds/pc/global/images/itemicon/cb/cbefd7d92d8f34170a5908de0862c9de0eb3f096.png?n6.05",
+        "Icon": "common_normal",
+        "Issuer": "Old Wyrm",
+        "StartLocation": {
+            "Name": "Ultima Thule",
+            "X": "10.1",
+            "Y": "27.1"
+        },
+        "StartClass": null,
+        "Job": "",
+        "Company": "Not specified",
+        "Requirement": "Not specified",
+        "Rewards": {
+            "Gil": 935,
+            "Exp": null,
+            "ItemsMand": [],
+            "ItemsOpt": []
+        },
+        "Infos": {
+            "PrerequisiteQuest": [
+                {
+                    "Name": "Endwalker",
+                    "Url": "/lodestone/playguide/db/quest/52a65d1961d/",
+                    "Area": "Ultima Thule",
+                    "Level": "90"
+                }
+            ],
+            "RelatedNPC": [
+                {
+                    "Name": "Bloodthirsty Dragon",
+                    "Url": "/lodestone/playguide/db/npc/npc/7b466704f24/",
+                    "Area": "Ultima Thule (X:9.2 Y:22.6)"
+                }
+            ]
+        },
+        "Seq": 6,
+        "StartDependency": false
+    },
+    {
+        "ID": "284998aea79",
+        "Name": " Ending as One",
+        "Location": "Ultima Thule",
+        "Level": 80,
+        "JournalSection": 3,
+        "JournalCategory": 63,
+        "JournalGenre": "Ultima Thule Sidequests",
+        "Url": "/lodestone/playguide/db/quest/284998aea79/",
+        "Image": null,
+        "Icon": "function_normal",
+        "Issuer": "Thinking Ea",
+        "StartLocation": {
+            "Name": "Ultima Thule",
+            "X": "22.4",
+            "Y": "11.0"
+        },
+        "StartClass": null,
+        "Job": "",
+        "Company": "Not specified",
+        "Requirement": "Not specified",
+        "Rewards": {
+            "Gil": 735,
+            "Exp": null,
+            "ItemsMand": [
+                {
+                    "Icon": "https://img.finalfantasyxiv.com/lds/pc/global/images/itemicon/af/af26e4b79fb1de83550f6ddbd3a170408fcfe702.png?n6.05",
+                    "Name": "",
+                    "Amount": null
+                }
+            ],
+            "ItemsOpt": [
+                {
+                    "Icon": "https://img.finalfantasyxiv.com/lds/pc/global/images/itemicon/87/8766a615ce1f564836948df8c194a9c33b733b45.png?n6.05",
+                    "Name": "Deepwood Green Dye",
+                    "Amount": 2,
+                    "Url": "/lodestone/playguide/db/item/a17514d0143/"
+                },
+                {
+                    "Icon": "https://img.finalfantasyxiv.com/lds/pc/global/images/itemicon/87/8766a615ce1f564836948df8c194a9c33b733b45.png?n6.05",
+                    "Name": "Celeste Green Dye",
+                    "Amount": 2,
+                    "Url": "/lodestone/playguide/db/item/f4d228923fb/"
+                },
+                {
+                    "Icon": "https://img.finalfantasyxiv.com/lds/pc/global/images/itemicon/87/8766a615ce1f564836948df8c194a9c33b733b45.png?n6.05",
+                    "Name": "Lime Green Dye",
+                    "Amount": 2,
+                    "Url": "/lodestone/playguide/db/item/afb669a9590/"
+                }
+            ]
+        },
+        "Infos": {
+            "PrerequisiteQuest": [
+                {
+                    "Name": "Where Kn∞wledge Leads",
+                    "Url": "/lodestone/playguide/db/quest/ee463909a20/",
+                    "Area": "Ultima Thule",
+                    "Level": "89"
+                }
+            ]
+        },
+        "Seq": 8,
+        "StartDependency": false
+    },
+    {
+        "ID": "3d6324250c3",
+        "Name": " Learn to Love",
+        "Location": "Ultima Thule",
+        "Level": 80,
+        "JournalSection": 3,
+        "JournalCategory": 63,
+        "JournalGenre": "Ultima Thule Sidequests",
+        "Url": "/lodestone/playguide/db/quest/3d6324250c3/",
+        "Image": "https://img.finalfantasyxiv.com/lds/pc/global/images/itemicon/52/52546bd20c6294c3734543a76d7e88c9d70e82d4.png?n6.05",
+        "Icon": "function_normal",
+        "Issuer": "Inquisitive Omicron",
+        "StartLocation": {
+            "Name": "Ultima Thule",
+            "X": "31.6",
+            "Y": "27.6"
+        },
+        "StartClass": null,
+        "Job": "",
+        "Company": "Not specified",
+        "Requirement": "Not specified",
+        "Rewards": {
+            "Gil": 855,
+            "Exp": null,
+            "ItemsMand": [
+                {
+                    "Icon": "https://img.finalfantasyxiv.com/lds/pc/global/images/itemicon/af/af26e4b79fb1de83550f6ddbd3a170408fcfe702.png?n6.05",
+                    "Name": "",
+                    "Amount": null
+                }
+            ],
+            "ItemsOpt": []
+        },
+        "Infos": {
+            "PrerequisiteQuest": [
+                {
+                    "Name": "Vic┨οry ̈ ̈ ̈╳, │̆││ε Lost",
+                    "Url": "/lodestone/playguide/db/quest/7997e7973eb/",
+                    "Area": "Ultima Thule",
+                    "Level": "90"
+                }
+            ]
+        },
+        "Seq": 18,
+        "StartDependency": false
+    },
+    {
+        "ID": "434164bc23f",
+        "Name": " Aimless Protector",
+        "Location": "Ultima Thule",
+        "Level": 80,
+        "JournalSection": 3,
+        "JournalCategory": 63,
+        "JournalGenre": "Ultima Thule Sidequests",
+        "Url": "/lodestone/playguide/db/quest/434164bc23f/",
+        "Image": null,
+        "Icon": "common_normal",
+        "Issuer": "Nesh Ohr",
+        "StartLocation": {
+            "Name": "Ultima Thule",
+            "X": "9.5",
+            "Y": "26.8"
+        },
+        "StartClass": null,
+        "Job": "",
+        "Company": "Not specified",
+        "Requirement": "Not specified",
+        "Rewards": {
+            "Gil": 735,
+            "Exp": null,
+            "ItemsMand": [
+                {
+                    "Icon": "https://img.finalfantasyxiv.com/lds/pc/global/images/itemicon/89/896b6d25e79a314791e8ac1ad9ef427c38019f38.png?n6.05",
+                    "Name": "Sykon Bavarois",
+                    "Amount": 2,
+                    "Url": "/lodestone/playguide/db/item/997edd435a2/"
+                }
+            ],
+            "ItemsOpt": []
+        },
+        "Infos": {
+            "PrerequisiteQuest": [
+                {
+                    "Name": "On Burdεned ωings",
+                    "Url": "/lodestone/playguide/db/quest/6eab6679a52/",
+                    "Area": "Ultima Thule",
+                    "Level": "89"
+                }
+            ]
+        },
+        "Seq": 4,
+        "StartDependency": false
+    },
+    {
+        "ID": "4791d5e265c",
+        "Name": " A Life of Regret",
+        "Location": "Ultima Thule",
+        "Level": 80,
+        "JournalSection": 3,
+        "JournalCategory": 63,
+        "JournalGenre": "Ultima Thule Sidequests",
+        "Url": "/lodestone/playguide/db/quest/4791d5e265c/",
+        "Image": "https://img.finalfantasyxiv.com/lds/pc/global/images/itemicon/f0/f0a7db3230b4a80a6a774c69b2b3d169b539bd52.png?n6.05",
+        "Icon": "common_normal",
+        "Issuer": "Anxious Ea",
+        "StartLocation": {
+            "Name": "Ultima Thule",
+            "X": "21.5",
+            "Y": "7.8"
+        },
+        "StartClass": null,
+        "Job": "",
+        "Company": "Not specified",
+        "Requirement": "Not specified",
+        "Rewards": {
+            "Gil": 935,
+            "Exp": null,
+            "ItemsMand": [],
+            "ItemsOpt": [
+                {
+                    "Icon": "https://img.finalfantasyxiv.com/lds/pc/global/images/itemicon/f4/f469c04c64ee4243cc944300f157c3a27f1ce3ad.png?n6.05",
+                    "Name": "Snow White Dye",
+                    "Amount": 2,
+                    "Url": "/lodestone/playguide/db/item/188d2c75e07/"
+                },
+                {
+                    "Icon": "https://img.finalfantasyxiv.com/lds/pc/global/images/itemicon/bf/bf59c069ce7d97fc6fa946ec02983897d860c0aa.png?n6.05",
+                    "Name": "Soot Black Dye",
+                    "Amount": 2,
+                    "Url": "/lodestone/playguide/db/item/0c0c7f94f09/"
+                }
+            ]
+        },
+        "Infos": {
+            "PrerequisiteQuest": [
+                {
+                    "Name": "Endwalker",
+                    "Url": "/lodestone/playguide/db/quest/52a65d1961d/",
+                    "Area": "Ultima Thule",
+                    "Level": "90"
+                }
+            ]
+        },
+        "Seq": 16,
+        "StartDependency": false
+    },
+    {
+        "ID": "4e35d9f7006",
+        "Name": " Stars Like Gems",
+        "Location": "Ultima Thule",
+        "Level": 80,
+        "JournalSection": 3,
+        "JournalCategory": 63,
+        "JournalGenre": "Ultima Thule Sidequests",
+        "Url": "/lodestone/playguide/db/quest/4e35d9f7006/",
+        "Image": null,
+        "Icon": "common_normal",
+        "Issuer": "Seih Loskh",
+        "StartLocation": {
+            "Name": "Ultima Thule",
+            "X": "11.1",
+            "Y": "28.1"
+        },
+        "StartClass": null,
+        "Job": "",
+        "Company": "Not specified",
+        "Requirement": "Not specified",
+        "Rewards": {
+            "Gil": 655,
+            "Exp": null,
+            "ItemsMand": [],
+            "ItemsOpt": []
+        },
+        "Infos": {
+            "PrerequisiteQuest": [
+                {
+                    "Name": "Endwalker",
+                    "Url": "/lodestone/playguide/db/quest/52a65d1961d/",
+                    "Area": "Ultima Thule",
+                    "Level": "90"
+                }
+            ]
+        },
+        "Seq": 3,
+        "StartDependency": false
+    },
+    {
+        "ID": "5a964f05f5f",
+        "Name": " Final Words, Final Thoughts",
+        "Location": "Ultima Thule",
+        "Level": 80,
+        "JournalSection": 3,
+        "JournalCategory": 63,
+        "JournalGenre": "Ultima Thule Sidequests",
+        "Url": "/lodestone/playguide/db/quest/5a964f05f5f/",
+        "Image": null,
+        "Icon": "common_normal",
+        "Issuer": "Row-rooth",
+        "StartLocation": {
+            "Name": "Ultima Thule",
+            "X": "24.7",
+            "Y": "8.1"
+        },
+        "StartClass": null,
+        "Job": "",
+        "Company": "Not specified",
+        "Requirement": "Not specified",
+        "Rewards": {
+            "Gil": 975,
+            "Exp": null,
+            "ItemsMand": [],
+            "ItemsOpt": []
+        },
+        "Infos": {
+            "PrerequisiteQuest": [
+                {
+                    "Name": "Where Kn∞wledge Leads",
+                    "Url": "/lodestone/playguide/db/quest/ee463909a20/",
+                    "Area": "Ultima Thule",
+                    "Level": "89"
+                }
+            ]
+        },
+        "Seq": 9,
+        "StartDependency": false
+    },
+    {
+        "ID": "5e607fbbf23",
+        "Name": " Eat Like an Ea",
+        "Location": "Ultima Thule",
+        "Level": 80,
+        "JournalSection": 3,
+        "JournalCategory": 63,
+        "JournalGenre": "Ultima Thule Sidequests",
+        "Url": "/lodestone/playguide/db/quest/5e607fbbf23/",
+        "Image": null,
+        "Icon": "common_normal",
+        "Issuer": "Ceh-ceeth",
+        "StartLocation": {
+            "Name": "Ultima Thule",
+            "X": "22.3",
+            "Y": "8.1"
+        },
+        "StartClass": null,
+        "Job": "",
+        "Company": "Not specified",
+        "Requirement": "Not specified",
+        "Rewards": {
+            "Gil": 735,
+            "Exp": null,
+            "ItemsMand": [],
+            "ItemsOpt": []
+        },
+        "Infos": {
+            "PrerequisiteQuest": [
+                {
+                    "Name": "Endwalker",
+                    "Url": "/lodestone/playguide/db/quest/52a65d1961d/",
+                    "Area": "Ultima Thule",
+                    "Level": "90"
+                }
+            ],
+            "RelatedNPC": [
+                {
+                    "Name": "Weary Ea",
+                    "Url": "/lodestone/playguide/db/npc/npc/f569f1418f2/",
+                    "Area": "Ultima Thule (X:33.1 Y:11.0)"
+                }
+            ]
+        },
+        "Seq": 11,
+        "StartDependency": false
+    },
+    {
+        "ID": "62e25086f5a",
+        "Name": " Left Alive",
+        "Location": "Ultima Thule",
+        "Level": 80,
+        "JournalSection": 3,
+        "JournalCategory": 63,
+        "JournalGenre": "Ultima Thule Sidequests",
+        "Url": "/lodestone/playguide/db/quest/62e25086f5a/",
+        "Image": "https://img.finalfantasyxiv.com/lds/pc/global/images/itemicon/cb/cbefd7d92d8f34170a5908de0862c9de0eb3f096.png?n6.05",
+        "Icon": "common_normal",
+        "Issuer": "Sehth Toskh",
+        "StartLocation": {
+            "Name": "Ultima Thule",
+            "X": "9.9",
+            "Y": "27.9"
+        },
+        "StartClass": null,
+        "Job": "",
+        "Company": "Not specified",
+        "Requirement": "Not specified",
+        "Rewards": {
+            "Gil": 855,
+            "Exp": null,
+            "ItemsMand": [],
+            "ItemsOpt": []
+        },
+        "Infos": {
+            "PrerequisiteQuest": [
+                {
+                    "Name": "Endwalker",
+                    "Url": "/lodestone/playguide/db/quest/52a65d1961d/",
+                    "Area": "Ultima Thule",
+                    "Level": "90"
+                }
+            ],
+            "RelatedNPC": [
+                {
+                    "Name": "Ehsk Kan",
+                    "Url": "/lodestone/playguide/db/npc/npc/c0ab694ceb7/",
+                    "Area": "Ultima Thule (X:8.3 Y:27.5)"
+                },
+                {
+                    "Name": "Kohl Ahleh",
+                    "Url": "/lodestone/playguide/db/npc/npc/28741aa01d7/",
+                    "Area": "Ultima Thule (X:10.4 Y:26.1)"
+                }
+            ]
+        },
+        "Seq": 5,
+        "StartDependency": false
+    },
+    {
+        "ID": "69cbfdbef2e",
+        "Name": " Remember Me",
+        "Location": "Ultima Thule",
+        "Level": 80,
+        "JournalSection": 3,
+        "JournalCategory": 63,
+        "JournalGenre": "Ultima Thule Sidequests",
+        "Url": "/lodestone/playguide/db/quest/69cbfdbef2e/",
+        "Image": "https://img.finalfantasyxiv.com/lds/pc/global/images/itemicon/f0/f0a7db3230b4a80a6a774c69b2b3d169b539bd52.png?n6.05",
+        "Icon": "common_normal",
+        "Issuer": "Boph-bookh",
+        "StartLocation": {
+            "Name": "Ultima Thule",
+            "X": "25.3",
+            "Y": "7.6"
+        },
+        "StartClass": null,
+        "Job": "",
+        "Company": "Not specified",
+        "Requirement": "Not specified",
+        "Rewards": {
+            "Gil": 775,
+            "Exp": null,
+            "ItemsMand": [],
+            "ItemsOpt": []
+        },
+        "Infos": {
+            "PrerequisiteQuest": [
+                {
+                    "Name": "Endwalker",
+                    "Url": "/lodestone/playguide/db/quest/52a65d1961d/",
+                    "Area": "Ultima Thule",
+                    "Level": "90"
+                }
+            ]
+        },
+        "Seq": 14,
+        "StartDependency": false
+    },
+    {
+        "ID": "6f0a0c0e9a2",
+        "Name": " Futures Lost",
+        "Location": "Ultima Thule",
+        "Level": 80,
+        "JournalSection": 3,
+        "JournalCategory": 63,
+        "JournalGenre": "Ultima Thule Sidequests",
+        "Url": "/lodestone/playguide/db/quest/6f0a0c0e9a2/",
+        "Image": null,
+        "Icon": "common_normal",
+        "Issuer": "Kohm Noskh",
+        "StartLocation": {
+            "Name": "Ultima Thule",
+            "X": "9.4",
+            "Y": "27.5"
+        },
+        "StartClass": null,
+        "Job": "",
+        "Company": "Not specified",
+        "Requirement": "Not specified",
+        "Rewards": {
+            "Gil": 655,
+            "Exp": null,
+            "ItemsMand": [],
+            "ItemsOpt": []
+        },
+        "Infos": {
+            "PrerequisiteQuest": [
+                {
+                    "Name": "Endwalker",
+                    "Url": "/lodestone/playguide/db/quest/52a65d1961d/",
+                    "Area": "Ultima Thule",
+                    "Level": "90"
+                }
+            ]
+        },
+        "Seq": 1,
+        "StartDependency": false
+    },
+    {
+        "ID": "7978d19fb03",
+        "Name": " Combat Evolved",
+        "Location": "Ultima Thule",
+        "Level": 80,
+        "JournalSection": 3,
+        "JournalCategory": 63,
+        "JournalGenre": "Ultima Thule Sidequests",
+        "Url": "/lodestone/playguide/db/quest/7978d19fb03/",
+        "Image": "https://img.finalfantasyxiv.com/lds/pc/global/images/itemicon/52/52546bd20c6294c3734543a76d7e88c9d70e82d4.png?n6.05",
+        "Icon": "function_normal",
+        "Issuer": "N-4486",
+        "StartLocation": {
+            "Name": "Ultima Thule",
+            "X": "30.8",
+            "Y": "27.7"
+        },
+        "StartClass": null,
+        "Job": "",
+        "Company": "Not specified",
+        "Requirement": "Not specified",
+        "Rewards": {
+            "Gil": 775,
+            "Exp": null,
+            "ItemsMand": [
+                {
+                    "Icon": "https://img.finalfantasyxiv.com/lds/pc/global/images/itemicon/af/af26e4b79fb1de83550f6ddbd3a170408fcfe702.png?n6.05",
+                    "Name": "",
+                    "Amount": null
+                }
+            ],
+            "ItemsOpt": []
+        },
+        "Infos": {
+            "PrerequisiteQuest": [
+                {
+                    "Name": "Vic┨οry ̈ ̈ ̈╳, │̆││ε Lost",
+                    "Url": "/lodestone/playguide/db/quest/7997e7973eb/",
+                    "Area": "Ultima Thule",
+                    "Level": "90"
+                }
+            ]
+        },
+        "Seq": 17,
+        "StartDependency": false
+    },
+    {
+        "ID": "8b030757ae4",
+        "Name": " Come Back to Us",
+        "Location": "Ultima Thule",
+        "Level": 80,
+        "JournalSection": 3,
+        "JournalCategory": 63,
+        "JournalGenre": "Ultima Thule Sidequests",
+        "Url": "/lodestone/playguide/db/quest/8b030757ae4/",
+        "Image": null,
+        "Icon": "common_normal",
+        "Issuer": "Jaw-jaadg",
+        "StartLocation": {
+            "Name": "Ultima Thule",
+            "X": "23.3",
+            "Y": "9.5"
+        },
+        "StartClass": null,
+        "Job": "",
+        "Company": "Not specified",
+        "Requirement": "Not specified",
+        "Rewards": {
+            "Gil": 815,
+            "Exp": null,
+            "ItemsMand": [],
+            "ItemsOpt": []
+        },
+        "Infos": {
+            "PrerequisiteQuest": [
+                {
+                    "Name": "Endwalker",
+                    "Url": "/lodestone/playguide/db/quest/52a65d1961d/",
+                    "Area": "Ultima Thule",
+                    "Level": "90"
+                }
+            ],
+            "RelatedNPC": [
+                {
+                    "Name": "Lingering Ea",
+                    "Url": "/lodestone/playguide/db/npc/npc/68b125fb11a/",
+                    "Area": "Ultima Thule (X:29.4 Y:6.6)"
+                }
+            ]
+        },
+        "Seq": 10,
+        "StartDependency": false
+    },
+    {
+        "ID": "91356cb4156",
+        "Name": " Bodily Curiosity",
+        "Location": "Ultima Thule",
+        "Level": 80,
+        "JournalSection": 3,
+        "JournalCategory": 63,
+        "JournalGenre": "Ultima Thule Sidequests",
+        "Url": "/lodestone/playguide/db/quest/91356cb4156/",
+        "Image": "https://img.finalfantasyxiv.com/lds/pc/global/images/itemicon/f0/f0a7db3230b4a80a6a774c69b2b3d169b539bd52.png?n6.05",
+        "Icon": "common_normal",
+        "Issuer": "Envious Ea",
+        "StartLocation": {
+            "Name": "Ultima Thule",
+            "X": "23.9",
+            "Y": "11.2"
+        },
+        "StartClass": null,
+        "Job": "",
+        "Company": "Not specified",
+        "Requirement": "Not specified",
+        "Rewards": {
+            "Gil": 775,
+            "Exp": null,
+            "ItemsMand": [],
+            "ItemsOpt": []
+        },
+        "Infos": {
+            "PrerequisiteQuest": [
+                {
+                    "Name": "Endwalker",
+                    "Url": "/lodestone/playguide/db/quest/52a65d1961d/",
+                    "Area": "Ultima Thule",
+                    "Level": "90"
+                }
+            ]
+        },
+        "Seq": 15,
+        "StartDependency": false
+    },
+    {
+        "ID": "c20461949b2",
+        "Name": " A Parent's Love",
+        "Location": "Ultima Thule",
+        "Level": 80,
+        "JournalSection": 3,
+        "JournalCategory": 63,
+        "JournalGenre": "Ultima Thule Sidequests",
+        "Url": "/lodestone/playguide/db/quest/c20461949b2/",
+        "Image": "https://img.finalfantasyxiv.com/lds/pc/global/images/itemicon/cb/cbefd7d92d8f34170a5908de0862c9de0eb3f096.png?n6.05",
+        "Icon": "common_normal",
+        "Issuer": "Unmourning Mother",
+        "StartLocation": {
+            "Name": "Ultima Thule",
+            "X": "9.2",
+            "Y": "26.0"
+        },
+        "StartClass": null,
+        "Job": "",
+        "Company": "Not specified",
+        "Requirement": "Not specified",
+        "Rewards": {
+            "Gil": 1015,
+            "Exp": null,
+            "ItemsMand": [],
+            "ItemsOpt": []
+        },
+        "Infos": {
+            "PrerequisiteQuest": [
+                {
+                    "Name": "Endwalker",
+                    "Url": "/lodestone/playguide/db/quest/52a65d1961d/",
+                    "Area": "Ultima Thule",
+                    "Level": "90"
+                }
+            ],
+            "RelatedNPC": [
+                {
+                    "Name": "Empty-eyed Dragon",
+                    "Url": "/lodestone/playguide/db/npc/npc/22e1280ec34/",
+                    "Area": "Ultima Thule (X:6.3 Y:20.8)"
+                },
+                {
+                    "Name": "Stoic Consort",
+                    "Url": "/lodestone/playguide/db/npc/npc/c83463b60de/",
+                    "Area": "Ultima Thule (X:12.1 Y:26.4)"
+                },
+                {
+                    "Name": "Unmourning Mother",
+                    "Url": "/lodestone/playguide/db/npc/npc/3b35ff83237/",
+                    "Area": "Ultima Thule (X:6.2 Y:20.9)"
+                }
+            ]
+        },
+        "Seq": 7,
+        "StartDependency": false
+    },
+    {
+        "ID": "d1e02b7c23d",
+        "Name": " A Most Stimulating Discussion",
+        "Location": "Ultima Thule",
+        "Level": 80,
+        "JournalSection": 3,
+        "JournalCategory": 63,
+        "JournalGenre": "Ultima Thule Sidequests",
+        "Url": "/lodestone/playguide/db/quest/d1e02b7c23d/",
+        "Image": null,
+        "Icon": "function_normal",
+        "Issuer": "Noh-nookh",
+        "StartLocation": {
+            "Name": "Ultima Thule",
+            "X": "23.5",
+            "Y": "12.3"
+        },
+        "StartClass": null,
+        "Job": "",
+        "Company": "Not specified",
+        "Requirement": "Not specified",
+        "Rewards": {
+            "Gil": 735,
+            "Exp": null,
+            "ItemsMand": [
+                {
+                    "Icon": "https://img.finalfantasyxiv.com/lds/pc/global/images/itemicon/af/af26e4b79fb1de83550f6ddbd3a170408fcfe702.png?n6.05",
+                    "Name": "",
+                    "Amount": null
+                }
+            ],
+            "ItemsOpt": []
+        },
+        "Infos": {
+            "PrerequisiteQuest": [
+                {
+                    "Name": "Where Kn∞wledge Leads",
+                    "Url": "/lodestone/playguide/db/quest/ee463909a20/",
+                    "Area": "Ultima Thule",
+                    "Level": "89"
+                }
+            ],
+            "RelatedNPC": [
+                {
+                    "Name": "Inquisitive Ea",
+                    "Url": "/lodestone/playguide/db/npc/npc/455bf4920bd/",
+                    "Area": "Ultima Thule (X:19.2 Y:7.2)"
+                },
+                {
+                    "Name": "Laid-back Ea",
+                    "Url": "/lodestone/playguide/db/npc/npc/128454bbd66/",
+                    "Area": "Ultima Thule (X:17.4 Y:12.1)"
+                },
+                {
+                    "Name": "Meditating Ea",
+                    "Url": "/lodestone/playguide/db/npc/npc/b9821a872ee/",
+                    "Area": "Ultima Thule (X:17.7 Y:15.6)"
+                }
+            ]
+        },
+        "Seq": 12,
+        "StartDependency": false
+    },
+    {
+        "ID": "d27aa5e47a8",
+        "Name": " The Sound of Fear",
+        "Location": "Ultima Thule",
+        "Level": 80,
+        "JournalSection": 3,
+        "JournalCategory": 63,
+        "JournalGenre": "Ultima Thule Sidequests",
+        "Url": "/lodestone/playguide/db/quest/d27aa5e47a8/",
+        "Image": null,
+        "Icon": "common_normal",
+        "Issuer": "Overwrought Dragon",
+        "StartLocation": {
+            "Name": "Ultima Thule",
+            "X": "8.4",
+            "Y": "26.3"
+        },
+        "StartClass": null,
+        "Job": "",
+        "Company": "Not specified",
+        "Requirement": "Not specified",
+        "Rewards": {
+            "Gil": 655,
+            "Exp": null,
+            "ItemsMand": [
+                {
+                    "Icon": "https://img.finalfantasyxiv.com/lds/pc/global/images/itemicon/d7/d71842fe1562ec9134d467c3a18ccda2f456feff.png?n6.05",
+                    "Name": "Sykon Compote",
+                    "Amount": 2,
+                    "Url": "/lodestone/playguide/db/item/1adacdf79f9/"
+                }
+            ],
+            "ItemsOpt": []
+        },
+        "Infos": {
+            "PrerequisiteQuest": [
+                {
+                    "Name": "On Burdεned ωings",
+                    "Url": "/lodestone/playguide/db/quest/6eab6679a52/",
+                    "Area": "Ultima Thule",
+                    "Level": "89"
+                }
+            ]
+        },
+        "Seq": 17,
+        "StartDependency": false
+    },
+    {
+        "ID": "d64834e9aac",
+        "Name": " The Body Beautiful",
+        "Location": "Ultima Thule",
+        "Level": 80,
+        "JournalSection": 3,
+        "JournalCategory": 63,
+        "JournalGenre": "Ultima Thule Sidequests",
+        "Url": "/lodestone/playguide/db/quest/d64834e9aac/",
+        "Image": null,
+        "Icon": "common_normal",
+        "Issuer": "Yearning Ea",
+        "StartLocation": {
+            "Name": "Ultima Thule",
+            "X": "22.7",
+            "Y": "12.5"
+        },
+        "StartClass": null,
+        "Job": "",
+        "Company": "Not specified",
+        "Requirement": "Not specified",
+        "Rewards": {
+            "Gil": 735,
+            "Exp": null,
+            "ItemsMand": [],
+            "ItemsOpt": []
+        },
+        "Infos": {
+            "PrerequisiteQuest": [
+                {
+                    "Name": "Endwalker",
+                    "Url": "/lodestone/playguide/db/quest/52a65d1961d/",
+                    "Area": "Ultima Thule",
+                    "Level": "90"
+                }
+            ]
+        },
+        "Seq": 13,
+        "StartDependency": false
+    },
+    {
+        "ID": "e55e5947d07",
+        "Name": " That Once Rang Clear",
+        "Location": "Ultima Thule",
+        "Level": 80,
+        "JournalSection": 3,
+        "JournalCategory": 63,
+        "JournalGenre": "Ultima Thule Sidequests",
+        "Url": "/lodestone/playguide/db/quest/e55e5947d07/",
+        "Image": null,
+        "Icon": "common_normal",
+        "Issuer": "Kohl Ahleh",
+        "StartLocation": {
+            "Name": "Ultima Thule",
+            "X": "10.4",
+            "Y": "26.1"
+        },
+        "StartClass": null,
+        "Job": "",
+        "Company": "Not specified",
+        "Requirement": "Not specified",
+        "Rewards": {
+            "Gil": 735,
+            "Exp": null,
+            "ItemsMand": [],
+            "ItemsOpt": []
+        },
+        "Infos": {
+            "PrerequisiteQuest": [
+                {
+                    "Name": "Endwalker",
+                    "Url": "/lodestone/playguide/db/quest/52a65d1961d/",
+                    "Area": "Ultima Thule",
+                    "Level": "90"
+                }
+            ],
+            "RelatedNPC": [
+                {
+                    "Name": "Pale Dragon",
+                    "Url": "/lodestone/playguide/db/npc/npc/0c3a4442e05/",
+                    "Area": "Ultima Thule (X:7.1 Y:19.0)"
+                }
+            ]
+        },
+        "Seq": 2,
+        "StartDependency": false
+    }
+]

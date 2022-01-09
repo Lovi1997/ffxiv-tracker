@@ -1,34 +1,40 @@
 [
     {
-        "ID": "1d5841d5d85",
-        "Name": "The Fifth Lord",
-        "Location": "The Ruby Sea",
-        "Level": 70,
+        "ID": "02bb0cc0fb2",
+        "Name": "Wok on By",
+        "Location": "Kugane",
+        "Level": 1,
         "JournalSection": 2,
         "JournalCategory": 19,
-        "JournalGenre": "Chronicles of a New Era - The Four Lords",
-        "Url": "/lodestone/playguide/db/quest/1d5841d5d85/",
-        "Image": "https://img.finalfantasyxiv.com/lds/pc/global/images/itemicon/f0/f05e8e05f51eb7acac7d4a8f8443c733b36d69b6.png?n5.55",
+        "JournalGenre": "Chronicles of a New Era - Return to Ivalice",
+        "Url": "/lodestone/playguide/db/quest/02bb0cc0fb2/",
+        "Image": "https://img.finalfantasyxiv.com/lds/pc/global/images/itemicon/78/78c9c779fcaf192324da5fbc0eeb64343bcb13e9.png?n6.05",
         "Icon": "common_normal",
-        "Issuer": "Seiryu",
+        "Issuer": "Company Belle",
         "StartLocation": {
-            "Name": "The Ruby Sea",
-            "X": "37.4",
-            "Y": "15.4"
+            "Name": "The Prima Vista Tiring Room",
+            "X": "5.8",
+            "Y": "6.2"
         },
         "StartClass": null,
         "Job": "",
         "Company": "Not specified",
         "Requirement": "Not specified",
         "Rewards": {
-            "Gil": 1277,
+            "Gil": 103,
             "Exp": 0,
             "ItemsMand": [
                 {
-                    "Icon": "https://img.finalfantasyxiv.com/lds/pc/global/images/itemicon/85/852ca2537bf90cc2838c1a81193ee70009a6c425.png?n5.55",
-                    "Name": "Four Lords",
-                    "Amount": 1,
-                    "Url": "/lodestone/playguide/db/item/b479a96b180/"
+                    "Icon": "https://img.finalfantasyxiv.com/lds/pc/global/images/itemicon/e1/e1dd23830cba46801e8ca744f0689f983028947f.png?n6.05",
+                    "Name": "Cracked Crystal",
+                    "Amount": 5,
+                    "Url": "/lodestone/playguide/db/item/d9ec534741a/"
+                },
+                {
+                    "Icon": "https://img.finalfantasyxiv.com/lds/pc/global/images/itemicon/20/20905f343791f1a036745c8e1a5fce74d83e30f5.png?n6.05",
+                    "Name": "Mhachi Demimatter",
+                    "Amount": 10,
+                    "Url": "/lodestone/playguide/db/item/2f36f8b0822/"
                 }
             ],
             "ItemsOpt": []
@@ -36,130 +42,52 @@
         "Infos": {
             "PrerequisiteQuest": [
                 {
-                    "Name": "Surpassing the Samurai",
-                    "Url": "/lodestone/playguide/db/quest/52b4a3217d3/",
-                    "Area": "The Ruby Sea",
+                    "Name": "Makin' Bacon (Bread)",
+                    "Url": "/lodestone/playguide/db/quest/34afd8f20fc/",
+                    "Area": "Kugane",
+                    "Level": "1"
+                },
+                {
+                    "Name": "In Bad Taste",
+                    "Url": "/lodestone/playguide/db/quest/5452c739e68/",
+                    "Area": "Kugane",
                     "Level": "70"
                 }
             ],
             "RelatedNPC": [
                 {
-                    "Name": "Byakko",
-                    "Url": "/lodestone/playguide/db/npc/npc/9ea260743d9/",
-                    "Area": "Reisen Temple (X:6.0 Y:6.0)"
-                },
-                {
-                    "Name": "Byakko",
-                    "Url": "/lodestone/playguide/db/npc/npc/080f141a12e/",
-                    "Area": "Reisen Temple (X:5.0 Y:6.2)"
-                },
-                {
-                    "Name": "Genbu",
-                    "Url": "/lodestone/playguide/db/npc/npc/081fd435184/",
-                    "Area": "Reisen Temple (X:6.1 Y:6.0)"
-                },
-                {
-                    "Name": "Inugami",
-                    "Url": "/lodestone/playguide/db/npc/npc/e81a0c6fecb/",
-                    "Area": "Reisen Temple (X:5.5 Y:5.9)"
-                },
-                {
-                    "Name": "Komainu",
-                    "Url": "/lodestone/playguide/db/npc/npc/cd2837664c3/",
-                    "Area": "Reisen Temple (X:6.1 Y:5.5)"
-                },
-                {
-                    "Name": "Kudagitsune",
-                    "Url": "/lodestone/playguide/db/npc/npc/209f6fac8b1/",
-                    "Area": "Reisen Temple (X:5.9 Y:5.7)"
-                },
-                {
-                    "Name": "Nue",
-                    "Url": "/lodestone/playguide/db/npc/npc/d74367cc929/",
-                    "Area": "Reisen Temple (X:6.4 Y:6.2)"
-                },
-                {
-                    "Name": "Qitian Dasheng",
-                    "Url": "/lodestone/playguide/db/npc/npc/fb68ebab3a0/",
-                    "Area": "Reisen Temple (X:6.2 Y:5.7)"
-                },
-                {
-                    "Name": "Seiryu",
-                    "Url": "/lodestone/playguide/db/npc/npc/26e43230095/",
-                    "Area": "Reisen Temple (X:6.0 Y:6.1)"
-                },
-                {
-                    "Name": "Seiryu",
-                    "Url": "/lodestone/playguide/db/npc/npc/88bee24732c/",
-                    "Area": "Reisen Temple (X:6.1 Y:6.0)"
-                },
-                {
-                    "Name": "Seiryu",
-                    "Url": "/lodestone/playguide/db/npc/npc/87d59447e80/",
-                    "Area": "Reisen Temple (X:7.1 Y:6.2)"
-                },
-                {
-                    "Name": "Soroban",
-                    "Url": "/lodestone/playguide/db/npc/npc/73c4a524df7/",
-                    "Area": "Reisen Temple (X:6.1 Y:6.0)"
-                },
-                {
-                    "Name": "Suzaku",
-                    "Url": "/lodestone/playguide/db/npc/npc/f9f1bda9692/",
-                    "Area": "Reisen Temple (X:6.0 Y:6.1)"
-                },
-                {
-                    "Name": "Suzaku",
-                    "Url": "/lodestone/playguide/db/npc/npc/cda0dbceabc/",
-                    "Area": "Reisen Temple (X:6.3 Y:6.4)"
-                },
-                {
-                    "Name": "Tataru",
-                    "Url": "/lodestone/playguide/db/npc/npc/ffe56eb5f43/",
-                    "Area": "Reisen Temple (X:6.1 Y:6.1)"
-                },
-                {
-                    "Name": "Tataru",
-                    "Url": "/lodestone/playguide/db/npc/npc/0650ab1ffcd/",
-                    "Area": "Reisen Temple (X:6.1 Y:5.3)"
-                },
-                {
-                    "Name": "Bunchin",
-                    "Url": "/lodestone/playguide/db/npc/npc/8d3f9089f39/",
-                    "Area": "The Ruby Sea (X:27.8 Y:16.4)"
+                    "Name": "Wandering Dramaturge",
+                    "Url": "/lodestone/playguide/db/npc/npc/045752899ac/",
+                    "Area": "The Prima Vista Tiring Room (X:6.1 Y:6.1)"
                 }
             ]
         },
-        "Seq": 4,
-        "oldID": 68702,
-        "Map": {
-            "ID": 371
-        },
+        "Seq": 11,
         "StartDependency": false
     },
     {
-        "ID": "52b4a3217d3",
-        "Name": "Surpassing the Samurai",
-        "Location": "The Ruby Sea",
+        "ID": "048e1f242aa",
+        "Name": "The Path of Most Resistance",
+        "Location": "Kugane",
         "Level": 70,
         "JournalSection": 2,
         "JournalCategory": 19,
-        "JournalGenre": "Chronicles of a New Era - The Four Lords",
-        "Url": "/lodestone/playguide/db/quest/52b4a3217d3/",
-        "Image": "https://img.finalfantasyxiv.com/lds/pc/global/images/itemicon/8a/8a147da2807750ce1f55ba9db5d292516eb67c4e.png?n5.55",
+        "JournalGenre": "Chronicles of a New Era - Return to Ivalice",
+        "Url": "/lodestone/playguide/db/quest/048e1f242aa/",
+        "Image": "https://img.finalfantasyxiv.com/lds/pc/global/images/itemicon/89/892b9e5c693267880dd912cc12d164dde616c077.png?n6.05",
         "Icon": "function_normal",
-        "Issuer": "Bunchin",
+        "Issuer": "Lina Mewrilah",
         "StartLocation": {
-            "Name": "The Ruby Sea",
-            "X": "27.8",
-            "Y": "16.4"
+            "Name": "Kugane",
+            "X": "10.3",
+            "Y": "12.0"
         },
         "StartClass": null,
         "Job": "",
         "Company": "Not specified",
         "Requirement": "Not specified",
         "Rewards": {
-            "Gil": 3318,
+            "Gil": 1262,
             "Exp": 0,
             "ItemsMand": [],
             "ItemsOpt": []
@@ -167,272 +95,967 @@
         "Infos": {
             "PrerequisiteQuest": [
                 {
-                    "Name": "The Fire-bird Down Below",
-                    "Url": "/lodestone/playguide/db/quest/e5023340098/",
-                    "Area": "The Ruby Sea",
-                    "Level": "70"
-                }
-            ],
-            "FollowupQuest": [
-                {
-                    "Name": "The Fifth Lord",
-                    "Url": "/lodestone/playguide/db/quest/1d5841d5d85/",
-                    "Area": "The Ruby Sea",
-                    "Level": "70"
-                }
-            ],
-            "RelatedNPC": [
-                {
-                    "Name": "Genbu",
-                    "Url": "/lodestone/playguide/db/npc/npc/081fd435184/",
-                    "Area": "Reisen Temple (X:6.1 Y:6.0)"
-                },
-                {
-                    "Name": "Inugami",
-                    "Url": "/lodestone/playguide/db/npc/npc/e81a0c6fecb/",
-                    "Area": "Reisen Temple (X:5.5 Y:5.9)"
-                },
-                {
-                    "Name": "Komainu",
-                    "Url": "/lodestone/playguide/db/npc/npc/cd2837664c3/",
-                    "Area": "Reisen Temple (X:6.1 Y:5.5)"
-                },
-                {
-                    "Name": "Kudagitsune",
-                    "Url": "/lodestone/playguide/db/npc/npc/209f6fac8b1/",
-                    "Area": "Reisen Temple (X:5.9 Y:5.7)"
-                },
-                {
-                    "Name": "Nue",
-                    "Url": "/lodestone/playguide/db/npc/npc/d74367cc929/",
-                    "Area": "Reisen Temple (X:6.4 Y:6.2)"
-                },
-                {
-                    "Name": "Qitian Dasheng",
-                    "Url": "/lodestone/playguide/db/npc/npc/fb68ebab3a0/",
-                    "Area": "Reisen Temple (X:6.2 Y:5.7)"
-                },
-                {
-                    "Name": "Tataru",
-                    "Url": "/lodestone/playguide/db/npc/npc/0650ab1ffcd/",
-                    "Area": "Reisen Temple (X:6.1 Y:5.3)"
-                },
-                {
-                    "Name": "Genbu",
-                    "Url": "/lodestone/playguide/db/npc/npc/7b64ea1f79e/",
-                    "Area": "The Ruby Sea (X:37.3 Y:15.4)"
-                },
-                {
-                    "Name": "Seiryu",
-                    "Url": "/lodestone/playguide/db/npc/npc/4406faa5a1d/",
-                    "Area": "The Ruby Sea (X:37.4 Y:15.4)"
-                }
-            ]
-        },
-        "Seq": 3,
-        "oldID": 68701,
-        "Map": {
-            "ID": 371
-        },
-        "StartDependency": false
-    },
-    {
-        "ID": "82d86206c11",
-        "Name": "An Auspicious Encounter",
-        "Location": "The Ruby Sea",
-        "Level": 70,
-        "JournalSection": 2,
-        "JournalCategory": 19,
-        "JournalGenre": "Chronicles of a New Era - The Four Lords",
-        "Url": "/lodestone/playguide/db/quest/82d86206c11/",
-        "Image": "https://img.finalfantasyxiv.com/lds/pc/global/images/itemicon/b6/b62e8284ad3a135c3f3a2f12db6b9713947bff33.png?n5.55",
-        "Icon": "function_normal",
-        "Issuer": "Soroban",
-        "StartLocation": {
-            "Name": "The Ruby Sea",
-            "X": "5.7",
-            "Y": "15.8"
-        },
-        "StartClass": null,
-        "Job": "",
-        "Company": "Not specified",
-        "Requirement": "Not specified",
-        "Rewards": {
-            "Gil": 4500,
-            "Exp": 0,
-            "ItemsMand": [
-                {
-                    "Icon": "https://img.finalfantasyxiv.com/lds/pc/global/images/itemicon/7e/7eaa53e1fe9e2bd80f81d9ce69c98c24f6223b0b.png?n5.55",
-                    "Name": "Iroha Orchestrion Roll",
-                    "Amount": 1,
-                    "Url": "/lodestone/playguide/db/item/bebe5d9c4ce/"
-                }
-            ],
-            "ItemsOpt": []
-        },
-        "Infos": {
-            "PrerequisiteQuest": [
-                {
-                    "Name": "Hope on the Waves",
-                    "Url": "/lodestone/playguide/db/quest/084fa28f651/",
+                    "Name": "Annihilation",
+                    "Url": "/lodestone/playguide/db/quest/e9499b663e4/",
                     "Area": "Kugane",
                     "Level": "70"
                 }
             ],
             "FollowupQuest": [
                 {
-                    "Name": "Tortoise in Time",
-                    "Url": "/lodestone/playguide/db/quest/c2f001b93da/",
-                    "Area": "The Ruby Sea",
+                    "Name": "Welcome to Their Jungle",
+                    "Url": "/lodestone/playguide/db/quest/7bd9d4363d1/",
+                    "Area": "Kugane",
                     "Level": "70"
                 }
             ],
             "RelatedNPC": [
                 {
-                    "Name": "Byakko",
-                    "Url": "/lodestone/playguide/db/npc/npc/f0f2f29fbc4/",
-                    "Area": "Reisen Temple (X:5.0 Y:6.2)"
+                    "Name": "Bwagi",
+                    "Url": "/lodestone/playguide/db/npc/npc/88490bea916/",
+                    "Area": "Kugane (X:10.1 Y:12.1)"
                 },
                 {
-                    "Name": "Byakko",
-                    "Url": "/lodestone/playguide/db/npc/npc/c732deb4ce7/",
-                    "Area": "Reisen Temple (X:6.3 Y:5.5)"
+                    "Name": "Gijuk",
+                    "Url": "/lodestone/playguide/db/npc/npc/b8faebaf0df/",
+                    "Area": "Kugane (X:10.1 Y:12.0)"
                 },
                 {
-                    "Name": "Genbu",
-                    "Url": "/lodestone/playguide/db/npc/npc/6fcef8bfb62/",
-                    "Area": "Reisen Temple (X:6.1 Y:6.0)"
+                    "Name": "Lina Mewrilah",
+                    "Url": "/lodestone/playguide/db/npc/npc/b7cb18b6298/",
+                    "Area": "Kugane (X:10.0 Y:12.1)"
                 },
                 {
-                    "Name": "Genbu",
-                    "Url": "/lodestone/playguide/db/npc/npc/621efb3106d/",
-                    "Area": "Reisen Temple (X:5.1 Y:6.1)"
+                    "Name": "Montblanc",
+                    "Url": "/lodestone/playguide/db/npc/npc/1c7ae25b0d9/",
+                    "Area": "Kugane (X:10.0 Y:12.1)"
                 },
                 {
-                    "Name": "Genbu",
-                    "Url": "/lodestone/playguide/db/npc/npc/d304e6338e1/",
-                    "Area": "Reisen Temple (X:6.3 Y:5.5)"
+                    "Name": "Rinok",
+                    "Url": "/lodestone/playguide/db/npc/npc/9e3a5cb60cc/",
+                    "Area": "Kugane (X:10.0 Y:12.0)"
                 },
                 {
-                    "Name": "Genbu",
-                    "Url": "/lodestone/playguide/db/npc/npc/2aac0eb68ca/",
-                    "Area": "Reisen Temple (X:6.3 Y:5.5)"
+                    "Name": "Shuttle Pilot",
+                    "Url": "/lodestone/playguide/db/npc/npc/205fd6049f0/",
+                    "Area": "Kugane (X:10.0 Y:12.1)"
                 },
                 {
-                    "Name": "Kamaitachi",
-                    "Url": "/lodestone/playguide/db/npc/npc/27f5fe8b7d6/",
-                    "Area": "Reisen Temple (X:6.8 Y:6.0)"
+                    "Name": "Mikoto",
+                    "Url": "/lodestone/playguide/db/npc/npc/07097a20a6b/",
+                    "Area": "The Prima Vista Tiring Room (X:5.9 Y:6.3)"
                 },
                 {
-                    "Name": "Kudagitsune",
-                    "Url": "/lodestone/playguide/db/npc/npc/209f6fac8b1/",
-                    "Area": "Reisen Temple (X:5.9 Y:5.7)"
+                    "Name": "Montblanc",
+                    "Url": "/lodestone/playguide/db/npc/npc/6a8826c2e38/",
+                    "Area": "The Prima Vista Tiring Room (X:5.9 Y:6.0)"
+                }
+            ]
+        },
+        "Seq": 6,
+        "StartDependency": false
+    },
+    {
+        "ID": "14847bc8932",
+        "Name": "Dramatis Personae",
+        "Location": "Kugane",
+        "Level": 70,
+        "JournalSection": 2,
+        "JournalCategory": 19,
+        "JournalGenre": "Chronicles of a New Era - Return to Ivalice",
+        "Url": "/lodestone/playguide/db/quest/14847bc8932/",
+        "Image": "https://img.finalfantasyxiv.com/lds/pc/global/images/itemicon/a9/a93961c007fe4a6f944cefbe29515e31ee76b54c.png?n6.05",
+        "Icon": "function_normal",
+        "Issuer": "Keiten",
+        "StartLocation": {
+            "Name": "Kugane",
+            "X": "12.2",
+            "Y": "12.3"
+        },
+        "StartClass": null,
+        "Job": "",
+        "Company": "Not specified",
+        "Requirement": "Not specified",
+        "Rewards": {
+            "Gil": 1200,
+            "Exp": 0,
+            "ItemsMand": [],
+            "ItemsOpt": []
+        },
+        "Infos": {
+            "PrerequisiteQuest": [
+                {
+                    "Name": "Stormblood",
+                    "Url": "/lodestone/playguide/db/quest/08908744553/",
+                    "Area": "The Lochs",
+                    "Level": "70"
+                }
+            ],
+            "FollowupQuest": [
+                {
+                    "Name": "A City Fallen",
+                    "Url": "/lodestone/playguide/db/quest/49ef739c2b4/",
+                    "Area": "Kugane",
+                    "Level": "70"
+                }
+            ],
+            "RelatedNPC": [
+                {
+                    "Name": "Alma",
+                    "Url": "/lodestone/playguide/db/npc/npc/ba081f5f519/",
+                    "Area": "Kugane (X:10.4 Y:12.1)"
                 },
                 {
-                    "Name": "Senri",
-                    "Url": "/lodestone/playguide/db/npc/npc/a325bbdd03e/",
-                    "Area": "Reisen Temple (X:5.9 Y:6.4)"
+                    "Name": "Alma",
+                    "Url": "/lodestone/playguide/db/npc/npc/bd53fe47677/",
+                    "Area": "Kugane (X:10.0 Y:12.1)"
                 },
                 {
-                    "Name": "Soroban",
-                    "Url": "/lodestone/playguide/db/npc/npc/84adc995fef/",
-                    "Area": "Reisen Temple (X:5.5 Y:5.9)"
+                    "Name": "Lina Mewrilah",
+                    "Url": "/lodestone/playguide/db/npc/npc/93b1827dc12/",
+                    "Area": "Kugane (X:10.4 Y:12.0)"
                 },
                 {
-                    "Name": "Soroban",
-                    "Url": "/lodestone/playguide/db/npc/npc/4c74b65fb8a/",
-                    "Area": "Reisen Temple (X:5.1 Y:6.1)"
+                    "Name": "Lina Mewrilah",
+                    "Url": "/lodestone/playguide/db/npc/npc/b7cb18b6298/",
+                    "Area": "Kugane (X:10.0 Y:12.1)"
                 },
                 {
-                    "Name": "Soroban",
-                    "Url": "/lodestone/playguide/db/npc/npc/01189aa15d4/",
-                    "Area": "Reisen Temple (X:6.5 Y:5.4)"
+                    "Name": "Shuttle Pilot",
+                    "Url": "/lodestone/playguide/db/npc/npc/205fd6049f0/",
+                    "Area": "Kugane (X:10.0 Y:12.1)"
                 },
                 {
-                    "Name": "Soroban",
-                    "Url": "/lodestone/playguide/db/npc/npc/9fd9c2b6a5c/",
-                    "Area": "Reisen Temple (X:6.4 Y:5.5)"
+                    "Name": "Alma Bas Lexentale",
+                    "Url": "/lodestone/playguide/db/npc/npc/f0313f43c51/",
+                    "Area": "The Prima Vista Bridge (X:6.1 Y:6.0)"
                 },
                 {
-                    "Name": "Soroban",
-                    "Url": "/lodestone/playguide/db/npc/npc/8bc6e92c6b6/",
-                    "Area": "Reisen Temple (X:6.1 Y:6.8)"
+                    "Name": "Lina Mewrilah",
+                    "Url": "/lodestone/playguide/db/npc/npc/697a5f9d63e/",
+                    "Area": "The Prima Vista Bridge (X:6.1 Y:6.0)"
                 },
                 {
-                    "Name": "Soroban",
-                    "Url": "/lodestone/playguide/db/npc/npc/98fe1d657d6/",
-                    "Area": "Reisen Temple (X:6.0 Y:6.0)"
+                    "Name": "Ramza Bas Lexentale",
+                    "Url": "/lodestone/playguide/db/npc/npc/c5176c380aa/",
+                    "Area": "The Prima Vista Bridge (X:5.8 Y:6.0)"
                 },
                 {
-                    "Name": "Tataru",
-                    "Url": "/lodestone/playguide/db/npc/npc/33c721b2f2e/",
-                    "Area": "Reisen Temple (X:6.4 Y:6.2)"
+                    "Name": "Alma",
+                    "Url": "/lodestone/playguide/db/npc/npc/701d5ebf767/",
+                    "Area": "The Prima Vista Tiring Room (X:5.8 Y:6.0)"
                 },
                 {
-                    "Name": "Tataru",
-                    "Url": "/lodestone/playguide/db/npc/npc/717d78579f9/",
-                    "Area": "Reisen Temple (X:5.0 Y:6.1)"
-                },
-                {
-                    "Name": "Tataru",
-                    "Url": "/lodestone/playguide/db/npc/npc/95d0b78d60e/",
-                    "Area": "Reisen Temple (X:6.5 Y:5.5)"
-                },
-                {
-                    "Name": "Tataru",
-                    "Url": "/lodestone/playguide/db/npc/npc/f548b8f7dd4/",
-                    "Area": "Reisen Temple (X:6.1 Y:6.1)"
-                },
-                {
-                    "Name": "Bunchin",
-                    "Url": "/lodestone/playguide/db/npc/npc/8d3f9089f39/",
-                    "Area": "The Ruby Sea (X:27.8 Y:16.4)"
-                },
-                {
-                    "Name": "Furi",
-                    "Url": "/lodestone/playguide/db/npc/npc/53cd8787562/",
-                    "Area": "The Ruby Sea (X:27.1 Y:38.4)"
-                },
-                {
-                    "Name": "Soroban",
-                    "Url": "/lodestone/playguide/db/npc/npc/bc7c2d09d56/",
-                    "Area": "The Ruby Sea (X:27.1 Y:38.4)"
-                },
-                {
-                    "Name": "Byakko",
-                    "Url": "/lodestone/playguide/db/npc/npc/c125de29d7e/",
-                    "Area": "Yanxia (X:31.6 Y:6.1)"
-                },
-                {
-                    "Name": "Byakko",
-                    "Url": "/lodestone/playguide/db/npc/npc/cf1c5aef4c6/",
-                    "Area": "Yanxia (X:31.5 Y:6.1)"
+                    "Name": "Lina Mewrilah",
+                    "Url": "/lodestone/playguide/db/npc/npc/c7cd3342f66/",
+                    "Area": "The Prima Vista Tiring Room (X:5.9 Y:6.0)"
                 }
             ]
         },
         "Seq": 2,
-        "oldID": 68551,
-        "Map": {
-            "ID": 371
-        },
         "StartDependency": false
     },
     {
-        "ID": "c2f001b93da",
-        "Name": "Tortoise in Time",
-        "Location": "The Ruby Sea",
+        "ID": "34afd8f20fc",
+        "Name": "Makin' Bacon (Bread)",
+        "Location": "Kugane",
+        "Level": 1,
+        "JournalSection": 2,
+        "JournalCategory": 19,
+        "JournalGenre": "Chronicles of a New Era - Return to Ivalice",
+        "Url": "/lodestone/playguide/db/quest/34afd8f20fc/",
+        "Image": null,
+        "Icon": "common_normal",
+        "Issuer": "Company Belle",
+        "StartLocation": {
+            "Name": "The Prima Vista Tiring Room",
+            "X": "5.8",
+            "Y": "6.2"
+        },
+        "StartClass": null,
+        "Job": "",
+        "Company": "Not specified",
+        "Requirement": "Not specified",
+        "Rewards": {
+            "Gil": 0,
+            "Exp": 0,
+            "ItemsMand": [
+                {
+                    "Icon": "https://img.finalfantasyxiv.com/lds/pc/global/images/itemicon/bf/bf86adcabb44845a92f9b4c016e90282bcb51991.png?n6.05",
+                    "Name": "Cracked Cluster",
+                    "Amount": 5,
+                    "Url": "/lodestone/playguide/db/item/a9133f968bc/"
+                },
+                {
+                    "Icon": "https://img.finalfantasyxiv.com/lds/pc/global/images/itemicon/e1/e1dd23830cba46801e8ca744f0689f983028947f.png?n6.05",
+                    "Name": "Cracked Crystal",
+                    "Amount": 3,
+                    "Url": "/lodestone/playguide/db/item/d9ec534741a/"
+                }
+            ],
+            "ItemsOpt": []
+        },
+        "Infos": {
+            "PrerequisiteQuest": [
+                {
+                    "Name": "Annihilation",
+                    "Url": "/lodestone/playguide/db/quest/e9499b663e4/",
+                    "Area": "Kugane",
+                    "Level": "70"
+                }
+            ],
+            "FollowupQuest": [
+                {
+                    "Name": "Wok on By",
+                    "Url": "/lodestone/playguide/db/quest/02bb0cc0fb2/",
+                    "Area": "Kugane",
+                    "Level": "1"
+                }
+            ],
+            "RelatedNPC": [
+                {
+                    "Name": "Wandering Dramaturge",
+                    "Url": "/lodestone/playguide/db/npc/npc/045752899ac/",
+                    "Area": "The Prima Vista Tiring Room (X:6.1 Y:6.1)"
+                }
+            ]
+        },
+        "Seq": 9,
+        "StartDependency": false
+    },
+    {
+        "ID": "49ef739c2b4",
+        "Name": "A City Fallen",
+        "Location": "Kugane",
         "Level": 70,
         "JournalSection": 2,
         "JournalCategory": 19,
-        "JournalGenre": "Chronicles of a New Era - The Four Lords",
-        "Url": "/lodestone/playguide/db/quest/c2f001b93da/",
-        "Image": "https://img.finalfantasyxiv.com/lds/pc/global/images/itemicon/e1/e1723a444e864589d33a52b203778817454c4e11.png?n5.55",
+        "JournalGenre": "Chronicles of a New Era - Return to Ivalice",
+        "Url": "/lodestone/playguide/db/quest/49ef739c2b4/",
+        "Image": "https://img.finalfantasyxiv.com/lds/pc/global/images/itemicon/f3/f34fce54b46991acedcdad32b146272858e1a852.png?n6.05",
         "Icon": "function_normal",
-        "Issuer": "Bunchin",
+        "Issuer": "Ramza Bas Lexentale",
         "StartLocation": {
-            "Name": "The Ruby Sea",
-            "X": "27.8",
-            "Y": "16.4"
+            "Name": "The Prima Vista Bridge",
+            "X": "5.8",
+            "Y": "6.0"
+        },
+        "StartClass": null,
+        "Job": "",
+        "Company": "Not specified",
+        "Requirement": "Not specified",
+        "Rewards": {
+            "Gil": 7500,
+            "Exp": 0,
+            "ItemsMand": [
+                {
+                    "Icon": "https://img.finalfantasyxiv.com/lds/pc/global/images/itemicon/7e/7eaa53e1fe9e2bd80f81d9ce69c98c24f6223b0b.png?n6.05",
+                    "Name": "Protagonist's Theme Orchestrion Roll",
+                    "Amount": 1,
+                    "Url": "/lodestone/playguide/db/item/f75b72e5e93/"
+                },
+                {
+                    "Icon": "https://img.finalfantasyxiv.com/lds/pc/global/images/itemicon/7e/7eaa53e1fe9e2bd80f81d9ce69c98c24f6223b0b.png?n6.05",
+                    "Name": "Background Story Orchestrion Roll",
+                    "Amount": 1,
+                    "Url": "/lodestone/playguide/db/item/8d54a99827d/"
+                }
+            ],
+            "ItemsOpt": []
+        },
+        "Infos": {
+            "PrerequisiteQuest": [
+                {
+                    "Name": "Dramatis Personae",
+                    "Url": "/lodestone/playguide/db/quest/14847bc8932/",
+                    "Area": "Kugane",
+                    "Level": "70"
+                }
+            ],
+            "FollowupQuest": [
+                {
+                    "Name": "Uninvited",
+                    "Url": "/lodestone/playguide/db/quest/fce5c04f86e/",
+                    "Area": "Kugane",
+                    "Level": "70"
+                }
+            ],
+            "RelatedNPC": [
+                {
+                    "Name": "Lina Mewrilah",
+                    "Url": "/lodestone/playguide/db/npc/npc/58ef028fca7/",
+                    "Area": "Kugane (X:10.3 Y:12.0)"
+                },
+                {
+                    "Name": "Alma Bas Lexentale",
+                    "Url": "/lodestone/playguide/db/npc/npc/f0313f43c51/",
+                    "Area": "The Prima Vista Bridge (X:6.1 Y:6.0)"
+                },
+                {
+                    "Name": "Lina Mewrilah",
+                    "Url": "/lodestone/playguide/db/npc/npc/697a5f9d63e/",
+                    "Area": "The Prima Vista Bridge (X:6.1 Y:6.0)"
+                },
+                {
+                    "Name": "Ramza Bas Lexentale",
+                    "Url": "/lodestone/playguide/db/npc/npc/4a3d84a04d4/",
+                    "Area": "The Prima Vista Bridge (X:6.1 Y:6.0)"
+                },
+                {
+                    "Name": "Alma Bas Lexentale",
+                    "Url": "/lodestone/playguide/db/npc/npc/6c184bb8ade/",
+                    "Area": "The Prima Vista Tiring Room (X:5.9 Y:5.9)"
+                },
+                {
+                    "Name": "Jenomis Cen Lexentale",
+                    "Url": "/lodestone/playguide/db/npc/npc/7286b8b5dfb/",
+                    "Area": "The Prima Vista Tiring Room (X:5.9 Y:5.9)"
+                },
+                {
+                    "Name": "Jenomis Cen Lexentale",
+                    "Url": "/lodestone/playguide/db/npc/npc/d2e7fb9d141/",
+                    "Area": "The Prima Vista Tiring Room (X:5.9 Y:5.9)"
+                },
+                {
+                    "Name": "Lina Mewrilah",
+                    "Url": "/lodestone/playguide/db/npc/npc/a5d2bdd0c93/",
+                    "Area": "The Prima Vista Tiring Room (X:5.9 Y:5.9)"
+                },
+                {
+                    "Name": "Ramza Bas Lexentale",
+                    "Url": "/lodestone/playguide/db/npc/npc/afac15df2e8/",
+                    "Area": "The Prima Vista Tiring Room (X:5.9 Y:5.9)"
+                }
+            ]
+        },
+        "Seq": 1,
+        "StartDependency": false
+    },
+    {
+        "ID": "4b5e7d8e71b",
+        "Name": "The City of Lost Angels",
+        "Location": "Kugane",
+        "Level": 70,
+        "JournalSection": 2,
+        "JournalCategory": 19,
+        "JournalGenre": "Chronicles of a New Era - Return to Ivalice",
+        "Url": "/lodestone/playguide/db/quest/4b5e7d8e71b/",
+        "Image": "https://img.finalfantasyxiv.com/lds/pc/global/images/itemicon/44/44ba6002d4e575a443032cc1c1d74582f449a86b.png?n6.05",
+        "Icon": "function_normal",
+        "Issuer": "Jenomis Cen Lexentale",
+        "StartLocation": {
+            "Name": "The Prima Vista Tiring Room",
+            "X": "5.9",
+            "Y": "5.9"
+        },
+        "StartClass": null,
+        "Job": "",
+        "Company": "Not specified",
+        "Requirement": "Not specified",
+        "Rewards": {
+            "Gil": 1408,
+            "Exp": 0,
+            "ItemsMand": [
+                {
+                    "Icon": "https://img.finalfantasyxiv.com/lds/pc/global/images/itemicon/7e/7eaa53e1fe9e2bd80f81d9ce69c98c24f6223b0b.png?n6.05",
+                    "Name": "Alma's Theme Orchestrion Roll",
+                    "Amount": 1,
+                    "Url": "/lodestone/playguide/db/item/f2d718dca6b/"
+                },
+                {
+                    "Icon": "https://img.finalfantasyxiv.com/lds/pc/global/images/itemicon/7e/7eaa53e1fe9e2bd80f81d9ce69c98c24f6223b0b.png?n6.05",
+                    "Name": "Staff Credits Orchestrion Roll",
+                    "Amount": 1,
+                    "Url": "/lodestone/playguide/db/item/b9eefb4a132/"
+                }
+            ],
+            "ItemsOpt": []
+        },
+        "Infos": {
+            "PrerequisiteQuest": [
+                {
+                    "Name": "Welcome to Their Jungle",
+                    "Url": "/lodestone/playguide/db/quest/7bd9d4363d1/",
+                    "Area": "Kugane",
+                    "Level": "70"
+                }
+            ],
+            "FollowupQuest": [
+                {
+                    "Name": "In Bad Taste",
+                    "Url": "/lodestone/playguide/db/quest/5452c739e68/",
+                    "Area": "Kugane",
+                    "Level": "70"
+                },
+                {
+                    "Name": "Hail to the Queen",
+                    "Url": "/lodestone/playguide/db/quest/6404990a3da/",
+                    "Area": "Kugane",
+                    "Level": "80"
+                }
+            ],
+            "RelatedNPC": [
+                {
+                    "Name": "Gijuk",
+                    "Url": "/lodestone/playguide/db/npc/npc/b8faebaf0df/",
+                    "Area": "Kugane (X:10.1 Y:12.0)"
+                },
+                {
+                    "Name": "Lina Mewrilah",
+                    "Url": "/lodestone/playguide/db/npc/npc/58ef028fca7/",
+                    "Area": "Kugane (X:10.3 Y:12.0)"
+                },
+                {
+                    "Name": "Rinok",
+                    "Url": "/lodestone/playguide/db/npc/npc/9e3a5cb60cc/",
+                    "Area": "Kugane (X:10.0 Y:12.0)"
+                },
+                {
+                    "Name": "Alma Bas Lexentale",
+                    "Url": "/lodestone/playguide/db/npc/npc/f0aa018f8aa/",
+                    "Area": "The Prima Vista Tiring Room (X:5.9 Y:5.9)"
+                },
+                {
+                    "Name": "Alma Bas Lexentale",
+                    "Url": "/lodestone/playguide/db/npc/npc/a4a684bede8/",
+                    "Area": "The Prima Vista Tiring Room (X:5.9 Y:6.1)"
+                },
+                {
+                    "Name": "Bwagi",
+                    "Url": "/lodestone/playguide/db/npc/npc/08593175c14/",
+                    "Area": "The Prima Vista Tiring Room (X:5.8 Y:6.1)"
+                },
+                {
+                    "Name": "Fran",
+                    "Url": "/lodestone/playguide/db/npc/npc/d9fb34e41c8/",
+                    "Area": "The Prima Vista Tiring Room (X:5.9 Y:6.1)"
+                },
+                {
+                    "Name": "Hurdy",
+                    "Url": "/lodestone/playguide/db/npc/npc/d3d58a609b6/",
+                    "Area": "The Prima Vista Tiring Room (X:5.8 Y:6.1)"
+                },
+                {
+                    "Name": "Jenomis Cen Lexentale",
+                    "Url": "/lodestone/playguide/db/npc/npc/cccd740bc07/",
+                    "Area": "The Prima Vista Tiring Room (X:5.8 Y:6.0)"
+                },
+                {
+                    "Name": "Jenomis Cen Lexentale",
+                    "Url": "/lodestone/playguide/db/npc/npc/be20e078827/",
+                    "Area": "The Prima Vista Tiring Room (X:5.9 Y:5.9)"
+                },
+                {
+                    "Name": "Lina Mewrilah",
+                    "Url": "/lodestone/playguide/db/npc/npc/13d8a1a09de/",
+                    "Area": "The Prima Vista Tiring Room (X:5.8 Y:6.1)"
+                },
+                {
+                    "Name": "Mikoto",
+                    "Url": "/lodestone/playguide/db/npc/npc/751dc80105b/",
+                    "Area": "The Prima Vista Tiring Room (X:5.8 Y:6.1)"
+                },
+                {
+                    "Name": "Montblanc",
+                    "Url": "/lodestone/playguide/db/npc/npc/6f30aac2e1d/",
+                    "Area": "The Prima Vista Tiring Room (X:5.8 Y:6.1)"
+                },
+                {
+                    "Name": "Ramza Bas Lexentale",
+                    "Url": "/lodestone/playguide/db/npc/npc/8ccfad3d6a1/",
+                    "Area": "The Prima Vista Tiring Room (X:5.9 Y:6.0)"
+                }
+            ]
+        },
+        "Seq": 8,
+        "StartDependency": false
+    },
+    {
+        "ID": "5452c739e68",
+        "Name": "In Bad Taste",
+        "Location": "Kugane",
+        "Level": 70,
+        "JournalSection": 2,
+        "JournalCategory": 19,
+        "JournalGenre": "Chronicles of a New Era - Return to Ivalice",
+        "Url": "/lodestone/playguide/db/quest/5452c739e68/",
+        "Image": "https://img.finalfantasyxiv.com/lds/pc/global/images/itemicon/26/26e6f3ec2ad2a386a7ff0b8948ebbdc25108f147.png?n6.05",
+        "Icon": "common_normal",
+        "Issuer": "Company Belle",
+        "StartLocation": {
+            "Name": "The Prima Vista Tiring Room",
+            "X": "5.8",
+            "Y": "6.2"
+        },
+        "StartClass": null,
+        "Job": "",
+        "Company": "Not specified",
+        "Requirement": "Not specified",
+        "Rewards": {
+            "Gil": 2604,
+            "Exp": 0,
+            "ItemsMand": [],
+            "ItemsOpt": []
+        },
+        "Infos": {
+            "PrerequisiteQuest": [
+                {
+                    "Name": "The City of Lost Angels",
+                    "Url": "/lodestone/playguide/db/quest/4b5e7d8e71b/",
+                    "Area": "Kugane",
+                    "Level": "70"
+                }
+            ],
+            "FollowupQuest": [
+                {
+                    "Name": "Wok on By",
+                    "Url": "/lodestone/playguide/db/quest/02bb0cc0fb2/",
+                    "Area": "Kugane",
+                    "Level": "1"
+                }
+            ],
+            "RelatedNPC": [
+                {
+                    "Name": "Drest",
+                    "Url": "/lodestone/playguide/db/npc/npc/4f4864adf5b/",
+                    "Area": "Eastern La Noscea (X:14.0 Y:30.3)"
+                },
+                {
+                    "Name": "Gegeruju",
+                    "Url": "/lodestone/playguide/db/npc/npc/b00951fccc8/",
+                    "Area": "Eastern La Noscea (X:33.8 Y:30.5)"
+                },
+                {
+                    "Name": "Shamani Lohmani",
+                    "Url": "/lodestone/playguide/db/npc/npc/6fd0be4579b/",
+                    "Area": "Eastern La Noscea (X:21.6 Y:21.1)"
+                },
+                {
+                    "Name": "Wandering Dramaturge",
+                    "Url": "/lodestone/playguide/db/npc/npc/045752899ac/",
+                    "Area": "The Prima Vista Tiring Room (X:6.1 Y:6.1)"
+                }
+            ],
+            "RelatedAchievements": [
+                {
+                    "Name": "Live to Serve",
+                    "Url": "/lodestone/playguide/db/achievement/fb564c95f68/",
+                    "Reward": "Title",
+                    "Points": "10"
+                }
+            ]
+        },
+        "Seq": 10,
+        "StartDependency": false
+    },
+    {
+        "ID": "66d94a94d20",
+        "Name": "Desire",
+        "Location": "Kugane",
+        "Level": 70,
+        "JournalSection": 2,
+        "JournalCategory": 19,
+        "JournalGenre": "Chronicles of a New Era - Return to Ivalice",
+        "Url": "/lodestone/playguide/db/quest/66d94a94d20/",
+        "Image": "https://img.finalfantasyxiv.com/lds/pc/global/images/itemicon/e1/e1f1838a724998459dedaae364ea25b0451596cb.png?n6.05",
+        "Icon": "function_normal",
+        "Issuer": "Jenomis Cen Lexentale",
+        "StartLocation": {
+            "Name": "The Prima Vista Tiring Room",
+            "X": "5.8",
+            "Y": "6.0"
+        },
+        "StartClass": null,
+        "Job": "",
+        "Company": "Not specified",
+        "Requirement": "Not specified",
+        "Rewards": {
+            "Gil": 1153,
+            "Exp": 0,
+            "ItemsMand": [
+                {
+                    "Icon": "https://img.finalfantasyxiv.com/lds/pc/global/images/itemicon/7e/7eaa53e1fe9e2bd80f81d9ce69c98c24f6223b0b.png?n6.05",
+                    "Name": "World Map Orchestrion Roll",
+                    "Amount": 1,
+                    "Url": "/lodestone/playguide/db/item/cc7d190d7b7/"
+                }
+            ],
+            "ItemsOpt": []
+        },
+        "Infos": {
+            "PrerequisiteQuest": [
+                {
+                    "Name": "My Power, My Pleasure, My Pain",
+                    "Url": "/lodestone/playguide/db/quest/6cfe82bbf56/",
+                    "Area": "Kugane",
+                    "Level": "70"
+                }
+            ],
+            "FollowupQuest": [
+                {
+                    "Name": "Annihilation",
+                    "Url": "/lodestone/playguide/db/quest/e9499b663e4/",
+                    "Area": "Kugane",
+                    "Level": "70"
+                }
+            ],
+            "RelatedNPC": [
+                {
+                    "Name": "Alma Bas Lexentale",
+                    "Url": "/lodestone/playguide/db/npc/npc/fb5ccaa955b/",
+                    "Area": "The Prima Vista Bridge (X:6.2 Y:5.9)"
+                },
+                {
+                    "Name": "Bwagi",
+                    "Url": "/lodestone/playguide/db/npc/npc/9db196319bb/",
+                    "Area": "The Prima Vista Bridge (X:6.2 Y:5.9)"
+                },
+                {
+                    "Name": "Gijuk",
+                    "Url": "/lodestone/playguide/db/npc/npc/f7c558b72e5/",
+                    "Area": "The Prima Vista Bridge (X:6.2 Y:5.9)"
+                },
+                {
+                    "Name": "Hurdy",
+                    "Url": "/lodestone/playguide/db/npc/npc/7c480b98584/",
+                    "Area": "The Prima Vista Bridge (X:6.1 Y:5.9)"
+                },
+                {
+                    "Name": "Jenomis Cen Lexentale",
+                    "Url": "/lodestone/playguide/db/npc/npc/9326aa8eed5/",
+                    "Area": "The Prima Vista Bridge (X:6.1 Y:5.9)"
+                },
+                {
+                    "Name": "Lina Mewrilah",
+                    "Url": "/lodestone/playguide/db/npc/npc/1a28d200dc0/",
+                    "Area": "The Prima Vista Bridge (X:6.1 Y:6.0)"
+                },
+                {
+                    "Name": "Mikoto",
+                    "Url": "/lodestone/playguide/db/npc/npc/b9bc4906a04/",
+                    "Area": "The Prima Vista Bridge (X:6.1 Y:5.9)"
+                },
+                {
+                    "Name": "Montblanc",
+                    "Url": "/lodestone/playguide/db/npc/npc/121452f4dee/",
+                    "Area": "The Prima Vista Bridge (X:6.1 Y:6.0)"
+                },
+                {
+                    "Name": "Ramza Bas Lexentale",
+                    "Url": "/lodestone/playguide/db/npc/npc/bc27c781bd1/",
+                    "Area": "The Prima Vista Bridge (X:6.1 Y:5.9)"
+                },
+                {
+                    "Name": "Rinok",
+                    "Url": "/lodestone/playguide/db/npc/npc/d9648a22cb4/",
+                    "Area": "The Prima Vista Bridge (X:6.1 Y:6.0)"
+                },
+                {
+                    "Name": "Alma Bas Lexentale",
+                    "Url": "/lodestone/playguide/db/npc/npc/ec6d98d16d9/",
+                    "Area": "The Prima Vista Tiring Room (X:5.9 Y:5.9)"
+                },
+                {
+                    "Name": "Bwagi",
+                    "Url": "/lodestone/playguide/db/npc/npc/2e7642a6637/",
+                    "Area": "The Prima Vista Tiring Room (X:5.9 Y:6.0)"
+                },
+                {
+                    "Name": "Gijuk",
+                    "Url": "/lodestone/playguide/db/npc/npc/c2e2e7f1513/",
+                    "Area": "The Prima Vista Tiring Room (X:5.9 Y:6.0)"
+                },
+                {
+                    "Name": "Hurdy",
+                    "Url": "/lodestone/playguide/db/npc/npc/886340536fe/",
+                    "Area": "The Prima Vista Tiring Room (X:5.8 Y:6.1)"
+                },
+                {
+                    "Name": "Lina Mewrilah",
+                    "Url": "/lodestone/playguide/db/npc/npc/24a03a21ead/",
+                    "Area": "The Prima Vista Tiring Room (X:5.8 Y:6.0)"
+                },
+                {
+                    "Name": "Mikoto",
+                    "Url": "/lodestone/playguide/db/npc/npc/81298a3be70/",
+                    "Area": "The Prima Vista Tiring Room (X:5.8 Y:6.0)"
+                },
+                {
+                    "Name": "Montblanc",
+                    "Url": "/lodestone/playguide/db/npc/npc/4b9d7f97df7/",
+                    "Area": "The Prima Vista Tiring Room (X:5.8 Y:6.1)"
+                },
+                {
+                    "Name": "Ramza Bas Lexentale",
+                    "Url": "/lodestone/playguide/db/npc/npc/c5ee22da0fe/",
+                    "Area": "The Prima Vista Tiring Room (X:5.9 Y:6.0)"
+                },
+                {
+                    "Name": "Rinok",
+                    "Url": "/lodestone/playguide/db/npc/npc/0557275af78/",
+                    "Area": "The Prima Vista Tiring Room (X:5.9 Y:6.1)"
+                },
+                {
+                    "Name": "Bwagi",
+                    "Url": "/lodestone/playguide/db/npc/npc/367e603e81f/",
+                    "Area": "The Ridorana Cataract (X:11.5 Y:13.8)"
+                },
+                {
+                    "Name": "Gijuk",
+                    "Url": "/lodestone/playguide/db/npc/npc/4fa5fdfd65c/",
+                    "Area": "The Ridorana Cataract (X:11.7 Y:13.7)"
+                },
+                {
+                    "Name": "Lina Mewrilah",
+                    "Url": "/lodestone/playguide/db/npc/npc/a7648ea09a4/",
+                    "Area": "The Ridorana Cataract (X:11.4 Y:14.1)"
+                },
+                {
+                    "Name": "Montblanc",
+                    "Url": "/lodestone/playguide/db/npc/npc/9bd804a717a/",
+                    "Area": "The Ridorana Cataract (X:11.7 Y:14.0)"
+                },
+                {
+                    "Name": "Rinok",
+                    "Url": "/lodestone/playguide/db/npc/npc/bd69502ec22/",
+                    "Area": "The Ridorana Cataract (X:11.3 Y:14.5)"
+                }
+            ]
+        },
+        "Seq": 4,
+        "StartDependency": false
+    },
+    {
+        "ID": "6cfe82bbf56",
+        "Name": "My Power, My Pleasure, My Pain",
+        "Location": "Kugane",
+        "Level": 70,
+        "JournalSection": 2,
+        "JournalCategory": 19,
+        "JournalGenre": "Chronicles of a New Era - Return to Ivalice",
+        "Url": "/lodestone/playguide/db/quest/6cfe82bbf56/",
+        "Image": null,
+        "Icon": "function_normal",
+        "Issuer": "Jenomis Cen Lexentale",
+        "StartLocation": {
+            "Name": "The Prima Vista Tiring Room",
+            "X": "5.8",
+            "Y": "6.0"
+        },
+        "StartClass": null,
+        "Job": "",
+        "Company": "Not specified",
+        "Requirement": "Not specified",
+        "Rewards": {
+            "Gil": 2480,
+            "Exp": 0,
+            "ItemsMand": [],
+            "ItemsOpt": []
+        },
+        "Infos": {
+            "PrerequisiteQuest": [
+                {
+                    "Name": "Uninvited",
+                    "Url": "/lodestone/playguide/db/quest/fce5c04f86e/",
+                    "Area": "Kugane",
+                    "Level": "70"
+                }
+            ],
+            "FollowupQuest": [
+                {
+                    "Name": "Desire",
+                    "Url": "/lodestone/playguide/db/quest/66d94a94d20/",
+                    "Area": "Kugane",
+                    "Level": "70"
+                }
+            ],
+            "RelatedNPC": [
+                {
+                    "Name": "Byrglaent",
+                    "Url": "/lodestone/playguide/db/npc/npc/790845e34cf/",
+                    "Area": "Eastern La Noscea (X:20.9 Y:20.7)"
+                },
+                {
+                    "Name": "Drest",
+                    "Url": "/lodestone/playguide/db/npc/npc/4f4864adf5b/",
+                    "Area": "Eastern La Noscea (X:14.0 Y:30.3)"
+                },
+                {
+                    "Name": "Gegeruju",
+                    "Url": "/lodestone/playguide/db/npc/npc/b00951fccc8/",
+                    "Area": "Eastern La Noscea (X:33.8 Y:30.5)"
+                },
+                {
+                    "Name": "Shamani Lohmani",
+                    "Url": "/lodestone/playguide/db/npc/npc/6fd0be4579b/",
+                    "Area": "Eastern La Noscea (X:21.6 Y:21.1)"
+                },
+                {
+                    "Name": "Ramza Bas Lexentale",
+                    "Url": "/lodestone/playguide/db/npc/npc/c5ee22da0fe/",
+                    "Area": "The Prima Vista Tiring Room (X:5.9 Y:6.0)"
+                },
+                {
+                    "Name": "Wandering Dramaturge",
+                    "Url": "/lodestone/playguide/db/npc/npc/cc40ea98581/",
+                    "Area": "The Prima Vista Tiring Room (X:6.1 Y:6.1)"
+                }
+            ]
+        },
+        "Seq": 3,
+        "StartDependency": false
+    },
+    {
+        "ID": "7bd9d4363d1",
+        "Name": "Welcome to Their Jungle",
+        "Location": "Kugane",
+        "Level": 70,
+        "JournalSection": 2,
+        "JournalCategory": 19,
+        "JournalGenre": "Chronicles of a New Era - Return to Ivalice",
+        "Url": "/lodestone/playguide/db/quest/7bd9d4363d1/",
+        "Image": "https://img.finalfantasyxiv.com/lds/pc/global/images/itemicon/6b/6b49b94b5166d9e80edc34b00179d12cec7bc1ec.png?n6.05",
+        "Icon": "function_normal",
+        "Issuer": "Montblanc",
+        "StartLocation": {
+            "Name": "Kugane",
+            "X": "10.0",
+            "Y": "12.1"
+        },
+        "StartClass": null,
+        "Job": "",
+        "Company": "Not specified",
+        "Requirement": "Not specified",
+        "Rewards": {
+            "Gil": 1408,
+            "Exp": 0,
+            "ItemsMand": [],
+            "ItemsOpt": []
+        },
+        "Infos": {
+            "PrerequisiteQuest": [
+                {
+                    "Name": "The Path of Most Resistance",
+                    "Url": "/lodestone/playguide/db/quest/048e1f242aa/",
+                    "Area": "Kugane",
+                    "Level": "70"
+                }
+            ],
+            "FollowupQuest": [
+                {
+                    "Name": "The City of Lost Angels",
+                    "Url": "/lodestone/playguide/db/quest/4b5e7d8e71b/",
+                    "Area": "Kugane",
+                    "Level": "70"
+                }
+            ],
+            "RelatedNPC": [
+                {
+                    "Name": "Bwagi",
+                    "Url": "/lodestone/playguide/db/npc/npc/88490bea916/",
+                    "Area": "Kugane (X:10.1 Y:12.1)"
+                },
+                {
+                    "Name": "Bwagi",
+                    "Url": "/lodestone/playguide/db/npc/npc/ca45ef33d2a/",
+                    "Area": "Kugane (X:13.5 Y:12.6)"
+                },
+                {
+                    "Name": "Gijuk",
+                    "Url": "/lodestone/playguide/db/npc/npc/b8faebaf0df/",
+                    "Area": "Kugane (X:10.1 Y:12.0)"
+                },
+                {
+                    "Name": "Lina Mewrilah",
+                    "Url": "/lodestone/playguide/db/npc/npc/b7cb18b6298/",
+                    "Area": "Kugane (X:10.0 Y:12.1)"
+                },
+                {
+                    "Name": "Lina Mewrilah",
+                    "Url": "/lodestone/playguide/db/npc/npc/77899528d44/",
+                    "Area": "Kugane (X:13.5 Y:12.6)"
+                },
+                {
+                    "Name": "Rinok",
+                    "Url": "/lodestone/playguide/db/npc/npc/9e3a5cb60cc/",
+                    "Area": "Kugane (X:10.0 Y:12.0)"
+                },
+                {
+                    "Name": "Bwagi",
+                    "Url": "/lodestone/playguide/db/npc/npc/467e4616e46/",
+                    "Area": "The Prima Vista Tiring Room (X:6.1 Y:6.0)"
+                },
+                {
+                    "Name": "Fran",
+                    "Url": "/lodestone/playguide/db/npc/npc/06929ff51f8/",
+                    "Area": "The Prima Vista Tiring Room (X:6.0 Y:6.0)"
+                },
+                {
+                    "Name": "Hurdy",
+                    "Url": "/lodestone/playguide/db/npc/npc/63d13fd2b72/",
+                    "Area": "The Prima Vista Tiring Room (X:6.0 Y:6.0)"
+                },
+                {
+                    "Name": "Jenomis Cen Lexentale",
+                    "Url": "/lodestone/playguide/db/npc/npc/c10ade4ede3/",
+                    "Area": "The Prima Vista Tiring Room (X:5.9 Y:5.9)"
+                },
+                {
+                    "Name": "Jenomis Cen Lexentale",
+                    "Url": "/lodestone/playguide/db/npc/npc/b743c8558bb/",
+                    "Area": "The Prima Vista Tiring Room (X:5.9 Y:6.0)"
+                },
+                {
+                    "Name": "Lina Mewrilah",
+                    "Url": "/lodestone/playguide/db/npc/npc/2f43adf7a7f/",
+                    "Area": "The Prima Vista Tiring Room (X:5.9 Y:6.0)"
+                },
+                {
+                    "Name": "Lina Mewrilah",
+                    "Url": "/lodestone/playguide/db/npc/npc/4a0c5e27bd5/",
+                    "Area": "The Prima Vista Tiring Room (X:5.9 Y:6.0)"
+                },
+                {
+                    "Name": "Mikoto",
+                    "Url": "/lodestone/playguide/db/npc/npc/fbd8a7fa14e/",
+                    "Area": "The Prima Vista Tiring Room (X:5.9 Y:6.0)"
+                },
+                {
+                    "Name": "Montblanc",
+                    "Url": "/lodestone/playguide/db/npc/npc/13bfdeb9561/",
+                    "Area": "The Prima Vista Tiring Room (X:5.9 Y:6.0)"
+                },
+                {
+                    "Name": "Ramza Bas Lexentale",
+                    "Url": "/lodestone/playguide/db/npc/npc/2caf5bfc315/",
+                    "Area": "The Prima Vista Tiring Room (X:5.9 Y:6.0)"
+                },
+                {
+                    "Name": "Ramza Bas Lexentale",
+                    "Url": "/lodestone/playguide/db/npc/npc/fa9096b50ec/",
+                    "Area": "The Prima Vista Tiring Room (X:6.0 Y:5.9)"
+                }
+            ]
+        },
+        "Seq": 7,
+        "StartDependency": false
+    },
+    {
+        "ID": "e9499b663e4",
+        "Name": "Annihilation",
+        "Location": "Kugane",
+        "Level": 70,
+        "JournalSection": 2,
+        "JournalCategory": 19,
+        "JournalGenre": "Chronicles of a New Era - Return to Ivalice",
+        "Url": "/lodestone/playguide/db/quest/e9499b663e4/",
+        "Image": "https://img.finalfantasyxiv.com/lds/pc/global/images/itemicon/6f/6f9af3f5c028935ed6e1eeadda471e9d2ba2f3f7.png?n6.05",
+        "Icon": "function_normal",
+        "Issuer": "Jenomis Cen Lexentale",
+        "StartLocation": {
+            "Name": "The Prima Vista Bridge",
+            "X": "6.1",
+            "Y": "5.9"
         },
         "StartClass": null,
         "Job": "",
@@ -441,143 +1064,12 @@
         "Rewards": {
             "Gil": 4500,
             "Exp": 0,
-            "ItemsMand": [],
-            "ItemsOpt": [
-                {
-                    "Icon": "https://img.finalfantasyxiv.com/lds/pc/global/images/itemicon/84/843d81d8026359df022ed32846f94e082f828d0b.png?n5.55",
-                    "Name": "Super-Potion",
-                    "Amount": 3,
-                    "Url": "/lodestone/playguide/db/item/eff2c99e50d/"
-                },
-                {
-                    "Icon": "https://img.finalfantasyxiv.com/lds/pc/global/images/itemicon/a9/a98fab68d93ca2bd6d372d999806ed6dbb6987eb.png?n5.55",
-                    "Name": "Super-Ether",
-                    "Amount": 3,
-                    "Url": "/lodestone/playguide/db/item/dc613bb9435/"
-                }
-            ]
-        },
-        "Infos": {
-            "PrerequisiteQuest": [
-                {
-                    "Name": "An Auspicious Encounter",
-                    "Url": "/lodestone/playguide/db/quest/82d86206c11/",
-                    "Area": "The Ruby Sea",
-                    "Level": "70"
-                }
-            ],
-            "FollowupQuest": [
-                {
-                    "Name": "The Fire-bird Down Below",
-                    "Url": "/lodestone/playguide/db/quest/e5023340098/",
-                    "Area": "The Ruby Sea",
-                    "Level": "70"
-                }
-            ],
-            "RelatedNPC": [
-                {
-                    "Name": "Byakko",
-                    "Url": "/lodestone/playguide/db/npc/npc/f0f2f29fbc4/",
-                    "Area": "Reisen Temple (X:5.0 Y:6.2)"
-                },
-                {
-                    "Name": "Furi",
-                    "Url": "/lodestone/playguide/db/npc/npc/01125c5ab06/",
-                    "Area": "Reisen Temple (X:6.1 Y:6.8)"
-                },
-                {
-                    "Name": "Genbu",
-                    "Url": "/lodestone/playguide/db/npc/npc/6fcef8bfb62/",
-                    "Area": "Reisen Temple (X:6.1 Y:6.0)"
-                },
-                {
-                    "Name": "Genbu",
-                    "Url": "/lodestone/playguide/db/npc/npc/23d267139d9/",
-                    "Area": "Reisen Temple (X:6.1 Y:6.0)"
-                },
-                {
-                    "Name": "Kamaitachi",
-                    "Url": "/lodestone/playguide/db/npc/npc/27f5fe8b7d6/",
-                    "Area": "Reisen Temple (X:6.8 Y:6.0)"
-                },
-                {
-                    "Name": "Qitian Dasheng",
-                    "Url": "/lodestone/playguide/db/npc/npc/fb68ebab3a0/",
-                    "Area": "Reisen Temple (X:6.2 Y:5.7)"
-                },
-                {
-                    "Name": "Soroban",
-                    "Url": "/lodestone/playguide/db/npc/npc/a39a2e92bc3/",
-                    "Area": "Reisen Temple (X:6.1 Y:6.0)"
-                },
-                {
-                    "Name": "Soroban",
-                    "Url": "/lodestone/playguide/db/npc/npc/f5bb9d87f69/",
-                    "Area": "Reisen Temple (X:6.1 Y:6.0)"
-                },
-                {
-                    "Name": "Soroban",
-                    "Url": "/lodestone/playguide/db/npc/npc/155a9e39189/",
-                    "Area": "Reisen Temple (X:6.1 Y:6.0)"
-                },
-                {
-                    "Name": "Tataru",
-                    "Url": "/lodestone/playguide/db/npc/npc/c42e7b8ec8b/",
-                    "Area": "Reisen Temple (X:6.1 Y:6.0)"
-                },
-                {
-                    "Name": "Tataru",
-                    "Url": "/lodestone/playguide/db/npc/npc/ad26ef5038a/",
-                    "Area": "Reisen Temple (X:6.1 Y:6.0)"
-                },
-                {
-                    "Name": "Furi",
-                    "Url": "/lodestone/playguide/db/npc/npc/2b876596780/",
-                    "Area": "The Ruby Sea (X:27.1 Y:38.4)"
-                },
-                {
-                    "Name": "Kamaitachi",
-                    "Url": "/lodestone/playguide/db/npc/npc/ec50adbfc9d/",
-                    "Area": "Yanxia (X:11.7 Y:26.9)"
-                }
-            ]
-        },
-        "Seq": 1,
-        "oldID": 68552,
-        "Map": {
-            "ID": 371
-        },
-        "StartDependency": false
-    },
-    {
-        "ID": "e5023340098",
-        "Name": "The Fire-bird Down Below",
-        "Location": "The Ruby Sea",
-        "Level": 70,
-        "JournalSection": 2,
-        "JournalCategory": 19,
-        "JournalGenre": "Chronicles of a New Era - The Four Lords",
-        "Url": "/lodestone/playguide/db/quest/e5023340098/",
-        "Image": "https://img.finalfantasyxiv.com/lds/pc/global/images/itemicon/24/24d0ab14644bf8ab25843f60fe188cbba5b585f5.png?n5.55",
-        "Icon": "function_normal",
-        "Issuer": "Bunchin",
-        "StartLocation": {
-            "Name": "The Ruby Sea",
-            "X": "27.8",
-            "Y": "16.4"
-        },
-        "StartClass": null,
-        "Job": "",
-        "Company": "Not specified",
-        "Requirement": "Not specified",
-        "Rewards": {
-            "Gil": 3537,
-            "Exp": 0,
             "ItemsMand": [
                 {
-                    "Icon": "https://img.finalfantasyxiv.com/lds/pc/global/images/itemicon/e4/e4b706e7565fbe0ff0950a81c6900c1b24fcf2f2.png?n5.55",
-                    "Name": "",
-                    "Amount": null
+                    "Icon": "https://img.finalfantasyxiv.com/lds/pc/global/images/itemicon/7e/7eaa53e1fe9e2bd80f81d9ce69c98c24f6223b0b.png?n6.05",
+                    "Name": "A Chapel Orchestrion Roll",
+                    "Amount": 1,
+                    "Url": "/lodestone/playguide/db/item/a2c711f9879/"
                 }
             ],
             "ItemsOpt": []
@@ -585,78 +1077,160 @@
         "Infos": {
             "PrerequisiteQuest": [
                 {
-                    "Name": "Tortoise in Time",
-                    "Url": "/lodestone/playguide/db/quest/c2f001b93da/",
-                    "Area": "The Ruby Sea",
+                    "Name": "Desire",
+                    "Url": "/lodestone/playguide/db/quest/66d94a94d20/",
+                    "Area": "Kugane",
                     "Level": "70"
                 }
             ],
             "FollowupQuest": [
                 {
-                    "Name": "Surpassing the Samurai",
-                    "Url": "/lodestone/playguide/db/quest/52b4a3217d3/",
-                    "Area": "The Ruby Sea",
+                    "Name": "The Path of Most Resistance",
+                    "Url": "/lodestone/playguide/db/quest/048e1f242aa/",
+                    "Area": "Kugane",
+                    "Level": "70"
+                },
+                {
+                    "Name": "Makin' Bacon (Bread)",
+                    "Url": "/lodestone/playguide/db/quest/34afd8f20fc/",
+                    "Area": "Kugane",
+                    "Level": "1"
+                }
+            ],
+            "RelatedNPC": [
+                {
+                    "Name": "Lina Mewrilah",
+                    "Url": "/lodestone/playguide/db/npc/npc/58ef028fca7/",
+                    "Area": "Kugane (X:10.3 Y:12.0)"
+                },
+                {
+                    "Name": "Jenomis Cen Lexentale",
+                    "Url": "/lodestone/playguide/db/npc/npc/cde31534b8d/",
+                    "Area": "The Prima Vista Tiring Room (X:5.8 Y:6.0)"
+                }
+            ]
+        },
+        "Seq": 5,
+        "StartDependency": false
+    },
+    {
+        "ID": "fce5c04f86e",
+        "Name": "Uninvited",
+        "Location": "Kugane",
+        "Level": 70,
+        "JournalSection": 2,
+        "JournalCategory": 19,
+        "JournalGenre": "Chronicles of a New Era - Return to Ivalice",
+        "Url": "/lodestone/playguide/db/quest/fce5c04f86e/",
+        "Image": "https://img.finalfantasyxiv.com/lds/pc/global/images/itemicon/a0/a0549bd0c8341e24423edcb209a955e099b73b32.png?n6.05",
+        "Icon": "function_normal",
+        "Issuer": "Lina Mewrilah",
+        "StartLocation": {
+            "Name": "Kugane",
+            "X": "10.3",
+            "Y": "12.0"
+        },
+        "StartClass": null,
+        "Job": "",
+        "Company": "Not specified",
+        "Requirement": "Not specified",
+        "Rewards": {
+            "Gil": 1853,
+            "Exp": 0,
+            "ItemsMand": [],
+            "ItemsOpt": []
+        },
+        "Infos": {
+            "PrerequisiteQuest": [
+                {
+                    "Name": "A City Fallen",
+                    "Url": "/lodestone/playguide/db/quest/49ef739c2b4/",
+                    "Area": "Kugane",
+                    "Level": "70"
+                }
+            ],
+            "FollowupQuest": [
+                {
+                    "Name": "My Power, My Pleasure, My Pain",
+                    "Url": "/lodestone/playguide/db/quest/6cfe82bbf56/",
+                    "Area": "Kugane",
                     "Level": "70"
                 }
             ],
             "RelatedNPC": [
                 {
-                    "Name": "Byakko",
-                    "Url": "/lodestone/playguide/db/npc/npc/f0f2f29fbc4/",
-                    "Area": "Reisen Temple (X:5.0 Y:6.2)"
+                    "Name": "Montblanc",
+                    "Url": "/lodestone/playguide/db/npc/npc/9929b19e71a/",
+                    "Area": "Yanxia (X:13.4 Y:32.5)"
                 },
                 {
-                    "Name": "Byakko",
-                    "Url": "/lodestone/playguide/db/npc/npc/9ea260743d9/",
-                    "Area": "Reisen Temple (X:6.0 Y:6.0)"
+                    "Name": "Hurdy",
+                    "Url": "/lodestone/playguide/db/npc/npc/e66e6f0b4e4/",
+                    "Area": "Kugane (X:8.8 Y:9.8)"
                 },
                 {
-                    "Name": "Furi",
-                    "Url": "/lodestone/playguide/db/npc/npc/01125c5ab06/",
-                    "Area": "Reisen Temple (X:6.1 Y:6.8)"
+                    "Name": "Lina Mewrilah",
+                    "Url": "/lodestone/playguide/db/npc/npc/b7cb18b6298/",
+                    "Area": "Kugane (X:10.0 Y:12.1)"
                 },
                 {
-                    "Name": "Genbu",
-                    "Url": "/lodestone/playguide/db/npc/npc/081fd435184/",
-                    "Area": "Reisen Temple (X:6.1 Y:6.0)"
+                    "Name": "Lina Mewrilah",
+                    "Url": "/lodestone/playguide/db/npc/npc/bcfb292ec80/",
+                    "Area": "Kugane (X:8.9 Y:9.8)"
                 },
                 {
-                    "Name": "Genbu",
-                    "Url": "/lodestone/playguide/db/npc/npc/4ee71eda0a7/",
-                    "Area": "Reisen Temple (X:6.1 Y:6.0)"
+                    "Name": "Shuttle Pilot",
+                    "Url": "/lodestone/playguide/db/npc/npc/205fd6049f0/",
+                    "Area": "Kugane (X:10.0 Y:12.1)"
                 },
                 {
-                    "Name": "Soroban",
-                    "Url": "/lodestone/playguide/db/npc/npc/693c25d4c96/",
-                    "Area": "Reisen Temple (X:6.2 Y:6.0)"
+                    "Name": "Alma Bas Lexentale",
+                    "Url": "/lodestone/playguide/db/npc/npc/cb04ae8c8bb/",
+                    "Area": "The Prima Vista Tiring Room (X:5.9 Y:6.0)"
                 },
                 {
-                    "Name": "Suzaku",
-                    "Url": "/lodestone/playguide/db/npc/npc/4a7ba2a0d38/",
-                    "Area": "Reisen Temple (X:6.3 Y:6.4)"
+                    "Name": "Hurdy",
+                    "Url": "/lodestone/playguide/db/npc/npc/18805548044/",
+                    "Area": "The Prima Vista Tiring Room (X:5.9 Y:6.0)"
                 },
                 {
-                    "Name": "Suzaku",
-                    "Url": "/lodestone/playguide/db/npc/npc/f9f1bda9692/",
-                    "Area": "Reisen Temple (X:6.0 Y:6.1)"
+                    "Name": "Jenomis Cen Lexentale",
+                    "Url": "/lodestone/playguide/db/npc/npc/ba36532691f/",
+                    "Area": "The Prima Vista Tiring Room (X:5.9 Y:6.0)"
                 },
                 {
-                    "Name": "Tataru",
-                    "Url": "/lodestone/playguide/db/npc/npc/ffe56eb5f43/",
-                    "Area": "Reisen Temple (X:6.1 Y:6.1)"
+                    "Name": "Jenomis Cen Lexentale",
+                    "Url": "/lodestone/playguide/db/npc/npc/cde31534b8d/",
+                    "Area": "The Prima Vista Tiring Room (X:5.8 Y:6.0)"
                 },
                 {
-                    "Name": "Furi",
-                    "Url": "/lodestone/playguide/db/npc/npc/2b876596780/",
-                    "Area": "The Ruby Sea (X:27.1 Y:38.4)"
+                    "Name": "Lina Mewrilah",
+                    "Url": "/lodestone/playguide/db/npc/npc/7d7a69ae140/",
+                    "Area": "The Prima Vista Tiring Room (X:5.8 Y:6.0)"
+                },
+                {
+                    "Name": "Mikoto",
+                    "Url": "/lodestone/playguide/db/npc/npc/d105f128beb/",
+                    "Area": "The Prima Vista Tiring Room (X:5.8 Y:6.0)"
+                },
+                {
+                    "Name": "Moogle",
+                    "Url": "/lodestone/playguide/db/npc/npc/e441ca64b6d/",
+                    "Area": "The Prima Vista Tiring Room (X:5.9 Y:6.0)"
+                },
+                {
+                    "Name": "Ramza Bas Lexentale",
+                    "Url": "/lodestone/playguide/db/npc/npc/b79f10d8b9b/",
+                    "Area": "The Prima Vista Tiring Room (X:5.9 Y:6.0)"
+                },
+                {
+                    "Name": "Ramza Bas Lexentale",
+                    "Url": "/lodestone/playguide/db/npc/npc/c5ee22da0fe/",
+                    "Area": "The Prima Vista Tiring Room (X:5.9 Y:6.0)"
                 }
             ]
         },
         "Seq": 2,
-        "oldID": 68688,
-        "Map": {
-            "ID": 371
-        },
         "StartDependency": false
     }
 ]

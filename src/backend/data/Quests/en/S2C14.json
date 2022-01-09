@@ -1,27 +1,27 @@
 [
     {
-        "ID": "17fc37d0397",
-        "Name": "Biggs and Wedge's Excellent Adventure",
-        "Location": "The Dravanian Hinterlands",
-        "Level": 60,
+        "ID": "4adf2560fdd",
+        "Name": "Syrcus Tower",
+        "Location": "Mor Dhona",
+        "Level": 50,
         "JournalSection": 2,
         "JournalCategory": 14,
-        "JournalGenre": "Chronicles of a New Era - Alexander",
-        "Url": "/lodestone/playguide/db/quest/17fc37d0397/",
-        "Image": "https://img.finalfantasyxiv.com/lds/pc/global/images/itemicon/14/140831b51813fa5bb339eda3e727b17553ddbd07.png?n5.55",
+        "JournalGenre": "Chronicles of a New Era - The Crystal Tower",
+        "Url": "/lodestone/playguide/db/quest/4adf2560fdd/",
+        "Image": "https://img.finalfantasyxiv.com/lds/pc/global/images/itemicon/4c/4cddfd27aa1e94f561b4c2e4bd1ae2b2f4d6872c.png?n6.05",
         "Icon": "function_normal",
-        "Issuer": "Biggs",
+        "Issuer": "Rammbroes",
         "StartLocation": {
-            "Name": "The Dravanian Hinterlands",
-            "X": "23.5",
-            "Y": "23.9"
+            "Name": "Mor Dhona",
+            "X": "30.4",
+            "Y": "12.1"
         },
         "StartClass": null,
         "Job": "",
         "Company": "Not specified",
         "Requirement": "Not specified",
         "Rewards": {
-            "Gil": 3508,
+            "Gil": 3752,
             "Exp": 0,
             "ItemsMand": [],
             "ItemsOpt": []
@@ -29,1073 +29,349 @@
         "Infos": {
             "PrerequisiteQuest": [
                 {
-                    "Name": "The Coeurl and the Colossus",
-                    "Url": "/lodestone/playguide/db/quest/b4ee65bf49a/",
-                    "Area": "The Dravanian Hinterlands",
-                    "Level": "60"
-                }
-            ],
-            "FollowupQuest": [
-                {
-                    "Name": "Thus Spake Quickthinx",
-                    "Url": "/lodestone/playguide/db/quest/4ef04b0db1c/",
-                    "Area": "The Dravanian Hinterlands",
-                    "Level": "60"
-                }
-            ],
-            "RelatedNPC": [
-                {
-                    "Name": "Backrix",
-                    "Url": "/lodestone/playguide/db/npc/npc/060e6a3d283/",
-                    "Area": "The Dravanian Hinterlands (X:22.2 Y:27.7)"
-                },
-                {
-                    "Name": "Biggs",
-                    "Url": "/lodestone/playguide/db/npc/npc/eecb1d21ecf/",
-                    "Area": "The Dravanian Hinterlands (X:22.2 Y:27.6)"
-                },
-                {
-                    "Name": "Mide",
-                    "Url": "/lodestone/playguide/db/npc/npc/9eff2d4fee1/",
-                    "Area": "The Dravanian Hinterlands (X:23.5 Y:23.8)"
-                },
-                {
-                    "Name": "Wedge",
-                    "Url": "/lodestone/playguide/db/npc/npc/146554449d6/",
-                    "Area": "The Dravanian Hinterlands (X:23.5 Y:23.9)"
-                },
-                {
-                    "Name": "Wedge",
-                    "Url": "/lodestone/playguide/db/npc/npc/347af340fb1/",
-                    "Area": "The Dravanian Hinterlands (X:22.1 Y:27.6)"
-                }
-            ]
-        },
-        "Seq": 11,
-        "oldID": 67872,
-        "Map": {
-            "ID": 213
-        },
-        "StartDependency": false
-    },
-    {
-        "ID": "3862b01959f",
-        "Name": "Tinker, Seeker, Soldier, Spy",
-        "Location": "The Dravanian Hinterlands",
-        "Level": 60,
-        "JournalSection": 2,
-        "JournalCategory": 14,
-        "JournalGenre": "Chronicles of a New Era - Alexander",
-        "Url": "/lodestone/playguide/db/quest/3862b01959f/",
-        "Image": "https://img.finalfantasyxiv.com/lds/pc/global/images/itemicon/47/47925fc8d470ee7c6cd2079a4d967670b1ed89b4.png?n5.55",
-        "Icon": "function_normal",
-        "Issuer": "Biggs",
-        "StartLocation": {
-            "Name": "The Dravanian Hinterlands",
-            "X": "21.7",
-            "Y": "18.8"
-        },
-        "StartClass": null,
-        "Job": "",
-        "Company": "Not specified",
-        "Requirement": "Not specified",
-        "Rewards": {
-            "Gil": 5000,
-            "Exp": 0,
-            "ItemsMand": [],
-            "ItemsOpt": []
-        },
-        "Infos": {
-            "PrerequisiteQuest": [
-                {
-                    "Name": "Steel and Steam",
-                    "Url": "/lodestone/playguide/db/quest/ef2efbe411f/",
-                    "Area": "The Dravanian Hinterlands",
-                    "Level": "60"
-                }
-            ],
-            "FollowupQuest": [
-                {
-                    "Name": "The Pulsing Heart",
-                    "Url": "/lodestone/playguide/db/quest/b08d71e821e/",
-                    "Area": "The Dravanian Hinterlands",
-                    "Level": "60"
-                }
-            ],
-            "RelatedNPC": [
-                {
-                    "Name": "Mide",
-                    "Url": "/lodestone/playguide/db/npc/npc/bb5dee62305/",
-                    "Area": "The Dravanian Hinterlands (X:21.7 Y:18.9)"
-                },
-                {
-                    "Name": "Roundrox",
-                    "Url": "/lodestone/playguide/db/npc/npc/db244314c29/",
-                    "Area": "The Dravanian Hinterlands (X:21.7 Y:18.8)"
-                },
-                {
-                    "Name": "Wedge",
-                    "Url": "/lodestone/playguide/db/npc/npc/d7775371779/",
-                    "Area": "The Dravanian Hinterlands (X:21.8 Y:18.9)"
-                }
-            ]
-        },
-        "Seq": 2,
-        "oldID": 67628,
-        "Map": {
-            "ID": 213
-        },
-        "StartDependency": false
-    },
-    {
-        "ID": "4ef04b0db1c",
-        "Name": "Thus Spake Quickthinx",
-        "Location": "The Dravanian Hinterlands",
-        "Level": 60,
-        "JournalSection": 2,
-        "JournalCategory": 14,
-        "JournalGenre": "Chronicles of a New Era - Alexander",
-        "Url": "/lodestone/playguide/db/quest/4ef04b0db1c/",
-        "Image": "https://img.finalfantasyxiv.com/lds/pc/global/images/itemicon/c7/c737eaf2d2905fe87797a0d8438928001fff47ff.png?n5.55",
-        "Icon": "function_normal",
-        "Issuer": "Biggs",
-        "StartLocation": {
-            "Name": "The Dravanian Hinterlands",
-            "X": "21.5",
-            "Y": "19.5"
-        },
-        "StartClass": null,
-        "Job": "",
-        "Company": "Not specified",
-        "Requirement": "Not specified",
-        "Rewards": {
-            "Gil": 3508,
-            "Exp": 0,
-            "ItemsMand": [
-                {
-                    "Icon": "https://img.finalfantasyxiv.com/lds/pc/global/images/itemicon/7e/7eaa53e1fe9e2bd80f81d9ce69c98c24f6223b0b.png?n5.55",
-                    "Name": "Exponential Entropy Orchestrion Roll",
-                    "Amount": 1,
-                    "Url": "/lodestone/playguide/db/item/474235ce978/"
-                }
-            ],
-            "ItemsOpt": []
-        },
-        "Infos": {
-            "PrerequisiteQuest": [
-                {
-                    "Name": "Biggs and Wedge's Excellent Adventure",
-                    "Url": "/lodestone/playguide/db/quest/17fc37d0397/",
-                    "Area": "The Dravanian Hinterlands",
-                    "Level": "60"
-                }
-            ],
-            "FollowupQuest": [
-                {
-                    "Name": "Judgment Day",
-                    "Url": "/lodestone/playguide/db/quest/fb49c3f6128/",
-                    "Area": "The Dravanian Hinterlands",
-                    "Level": "60"
-                }
-            ],
-            "RelatedNPC": [
-                {
-                    "Name": "Backrix",
-                    "Url": "/lodestone/playguide/db/npc/npc/4986a71548e/",
-                    "Area": "The Dravanian Hinterlands (X:21.6 Y:19.6)"
-                },
-                {
-                    "Name": "Biggs",
-                    "Url": "/lodestone/playguide/db/npc/npc/bd4752151a7/",
-                    "Area": "The Dravanian Hinterlands (X:21.7 Y:18.8)"
-                },
-                {
-                    "Name": "Wedge",
-                    "Url": "/lodestone/playguide/db/npc/npc/d7775371779/",
-                    "Area": "The Dravanian Hinterlands (X:21.8 Y:18.9)"
-                },
-                {
-                    "Name": "Wedge",
-                    "Url": "/lodestone/playguide/db/npc/npc/60b226fa602/",
-                    "Area": "The Dravanian Hinterlands (X:21.5 Y:19.5)"
-                },
-                {
-                    "Name": "Wedge",
-                    "Url": "/lodestone/playguide/db/npc/npc/196564c41a3/",
-                    "Area": "The Dravanian Hinterlands (X:21.8 Y:18.8)"
-                }
-            ]
-        },
-        "Seq": 12,
-        "oldID": 67873,
-        "Map": {
-            "ID": 213
-        },
-        "StartDependency": false
-    },
-    {
-        "ID": "6f5072b0464",
-        "Name": "A Gob in the Machine",
-        "Location": "The Dravanian Hinterlands",
-        "Level": 60,
-        "JournalSection": 2,
-        "JournalCategory": 14,
-        "JournalGenre": "Chronicles of a New Era - Alexander",
-        "Url": "/lodestone/playguide/db/quest/6f5072b0464/",
-        "Image": "https://img.finalfantasyxiv.com/lds/pc/global/images/itemicon/7e/7ed6373ce017255b507228418853754787c3a7ee.png?n5.55",
-        "Icon": "function_normal",
-        "Issuer": "Backrix",
-        "StartLocation": {
-            "Name": "The Dravanian Hinterlands",
-            "X": "21.8",
-            "Y": "18.9"
-        },
-        "StartClass": null,
-        "Job": "",
-        "Company": "Not specified",
-        "Requirement": "Not specified",
-        "Rewards": {
-            "Gil": 745,
-            "Exp": 0,
-            "ItemsMand": [],
-            "ItemsOpt": []
-        },
-        "Infos": {
-            "PrerequisiteQuest": [
-                {
-                    "Name": "One Step Behind",
-                    "Url": "/lodestone/playguide/db/quest/957dbbb403d/",
-                    "Area": "The Dravanian Hinterlands",
-                    "Level": "60"
-                }
-            ],
-            "FollowupQuest": [
-                {
-                    "Name": "The Coeurl and the Colossus",
-                    "Url": "/lodestone/playguide/db/quest/b4ee65bf49a/",
-                    "Area": "The Dravanian Hinterlands",
-                    "Level": "60"
-                },
-                {
-                    "Name": "A Refrain for the Undaunted",
-                    "Url": "/lodestone/playguide/db/quest/c36477b1baf/",
+                    "Name": "For Prosperity",
+                    "Url": "/lodestone/playguide/db/quest/c8805dfa3b8/",
                     "Area": "Mor Dhona",
-                    "Level": "60"
-                }
-            ],
-            "RelatedNPC": [
-                {
-                    "Name": "Biggs",
-                    "Url": "/lodestone/playguide/db/npc/npc/d90236226e8/",
-                    "Area": "The Dravanian Hinterlands (X:21.7 Y:18.8)"
-                },
-                {
-                    "Name": "Biggs",
-                    "Url": "/lodestone/playguide/db/npc/npc/2e441b54c7e/",
-                    "Area": "The Dravanian Hinterlands (X:21.5 Y:19.5)"
-                },
-                {
-                    "Name": "Mide",
-                    "Url": "/lodestone/playguide/db/npc/npc/18bf436290d/",
-                    "Area": "The Dravanian Hinterlands (X:21.7 Y:18.8)"
-                },
-                {
-                    "Name": "Mide",
-                    "Url": "/lodestone/playguide/db/npc/npc/6c1875fc58e/",
-                    "Area": "The Dravanian Hinterlands (X:21.5 Y:19.6)"
-                },
-                {
-                    "Name": "Mide",
-                    "Url": "/lodestone/playguide/db/npc/npc/e14957174d1/",
-                    "Area": "The Dravanian Hinterlands (X:21.7 Y:18.9)"
-                },
-                {
-                    "Name": "Wedge",
-                    "Url": "/lodestone/playguide/db/npc/npc/d7775371779/",
-                    "Area": "The Dravanian Hinterlands (X:21.8 Y:18.9)"
-                },
-                {
-                    "Name": "Wedge",
-                    "Url": "/lodestone/playguide/db/npc/npc/60b226fa602/",
-                    "Area": "The Dravanian Hinterlands (X:21.5 Y:19.5)"
-                }
-            ],
-            "RelatedAchievements": [
-                {
-                    "Name": "The Midas Touch",
-                    "Url": "/lodestone/playguide/db/achievement/2ef0ccb79ba/",
-                    "Reward": "Title",
-                    "Points": "10"
-                }
-            ]
-        },
-        "Seq": 9,
-        "oldID": 67789,
-        "Map": {
-            "ID": 213
-        },
-        "StartDependency": false
-    },
-    {
-        "ID": "957dbbb403d",
-        "Name": "One Step Behind",
-        "Location": "The Dravanian Hinterlands",
-        "Level": 60,
-        "JournalSection": 2,
-        "JournalCategory": 14,
-        "JournalGenre": "Chronicles of a New Era - Alexander",
-        "Url": "/lodestone/playguide/db/quest/957dbbb403d/",
-        "Image": "https://img.finalfantasyxiv.com/lds/pc/global/images/itemicon/0d/0de9d4f0d7c3f6b2901ec8dae41d5d211ff2810a.png?n5.55",
-        "Icon": "function_normal",
-        "Issuer": "Backrix",
-        "StartLocation": {
-            "Name": "The Dravanian Hinterlands",
-            "X": "21.8",
-            "Y": "18.9"
-        },
-        "StartClass": null,
-        "Job": "",
-        "Company": "Not specified",
-        "Requirement": "Not specified",
-        "Rewards": {
-            "Gil": 3573,
-            "Exp": 0,
-            "ItemsMand": [],
-            "ItemsOpt": []
-        },
-        "Infos": {
-            "PrerequisiteQuest": [
-                {
-                    "Name": "Toppling the Tyrant",
-                    "Url": "/lodestone/playguide/db/quest/aa17121e0f8/",
-                    "Area": "The Dravanian Hinterlands",
-                    "Level": "60"
+                    "Level": "50"
                 }
             ],
             "FollowupQuest": [
                 {
-                    "Name": "A Gob in the Machine",
-                    "Url": "/lodestone/playguide/db/quest/6f5072b0464/",
-                    "Area": "The Dravanian Hinterlands",
-                    "Level": "60"
-                }
-            ],
-            "RelatedNPC": [
-                {
-                    "Name": "Biggs",
-                    "Url": "/lodestone/playguide/db/npc/npc/d90236226e8/",
-                    "Area": "The Dravanian Hinterlands (X:21.7 Y:18.8)"
-                },
-                {
-                    "Name": "Lightkix Eyesfixed",
-                    "Url": "/lodestone/playguide/db/npc/npc/e1211fe0f13/",
-                    "Area": "The Dravanian Hinterlands (X:20.6 Y:26.1)"
-                },
-                {
-                    "Name": "Mide",
-                    "Url": "/lodestone/playguide/db/npc/npc/e14957174d1/",
-                    "Area": "The Dravanian Hinterlands (X:21.7 Y:18.9)"
-                },
-                {
-                    "Name": "Wedge",
-                    "Url": "/lodestone/playguide/db/npc/npc/d7775371779/",
-                    "Area": "The Dravanian Hinterlands (X:21.8 Y:18.9)"
-                }
-            ]
-        },
-        "Seq": 8,
-        "oldID": 67788,
-        "Map": {
-            "ID": 213
-        },
-        "StartDependency": false
-    },
-    {
-        "ID": "9aff08a4f0e",
-        "Name": "Enigma",
-        "Location": "The Dravanian Hinterlands",
-        "Level": 60,
-        "JournalSection": 2,
-        "JournalCategory": 14,
-        "JournalGenre": "Chronicles of a New Era - Alexander",
-        "Url": "/lodestone/playguide/db/quest/9aff08a4f0e/",
-        "Image": "https://img.finalfantasyxiv.com/lds/pc/global/images/itemicon/d1/d1d505cebd4b69812b77f54637898a419679d9f8.png?n5.55",
-        "Icon": "function_normal",
-        "Issuer": "Redbrix",
-        "StartLocation": {
-            "Name": "The Dravanian Hinterlands",
-            "X": "23.9",
-            "Y": "26.5"
-        },
-        "StartClass": null,
-        "Job": "",
-        "Company": "Not specified",
-        "Requirement": "Not specified",
-        "Rewards": {
-            "Gil": 5000,
-            "Exp": 0,
-            "ItemsMand": [
-                {
-                    "Icon": "https://img.finalfantasyxiv.com/lds/pc/global/images/itemicon/10/10262a2036e2fae36ab0f0202dd7af7bd32fa721.png?n5.55",
-                    "Name": "Tarnished Gordian Bolt",
-                    "Amount": 1,
-                    "Url": "/lodestone/playguide/db/item/18b1116384f/"
-                }
-            ],
-            "ItemsOpt": []
-        },
-        "Infos": {
-            "PrerequisiteQuest": [
-                {
-                    "Name": "The Pulsing Heart",
-                    "Url": "/lodestone/playguide/db/quest/b08d71e821e/",
-                    "Area": "The Dravanian Hinterlands",
-                    "Level": "60"
-                }
-            ],
-            "FollowupQuest": [
-                {
-                    "Name": "Rearmed",
-                    "Url": "/lodestone/playguide/db/quest/a32aa59b312/",
-                    "Area": "The Dravanian Hinterlands",
-                    "Level": "60"
-                },
-                {
-                    "Name": "A Song of Steam and Steel",
-                    "Url": "/lodestone/playguide/db/quest/6fce5387fb6/",
+                    "Name": "The World of Darkness",
+                    "Url": "/lodestone/playguide/db/quest/c95217ea0fd/",
                     "Area": "Mor Dhona",
-                    "Level": "60"
+                    "Level": "50"
                 }
             ],
             "RelatedNPC": [
                 {
-                    "Name": "Mide",
-                    "Url": "/lodestone/playguide/db/npc/npc/bb5dee62305/",
-                    "Area": "The Dravanian Hinterlands (X:21.7 Y:18.9)"
-                },
-                {
-                    "Name": "Roundrox",
-                    "Url": "/lodestone/playguide/db/npc/npc/db244314c29/",
-                    "Area": "The Dravanian Hinterlands (X:21.7 Y:18.8)"
-                }
-            ],
-            "RelatedAchievements": [
-                {
-                    "Name": "Awake the Metal",
-                    "Url": "/lodestone/playguide/db/achievement/68c3e662b57/",
-                    "Reward": "Title",
-                    "Points": "10"
-                }
-            ]
-        },
-        "Seq": 4,
-        "oldID": 67630,
-        "Map": {
-            "ID": 213
-        },
-        "StartDependency": false
-    },
-    {
-        "ID": "a32aa59b312",
-        "Name": "Rearmed",
-        "Location": "The Dravanian Hinterlands",
-        "Level": 60,
-        "JournalSection": 2,
-        "JournalCategory": 14,
-        "JournalGenre": "Chronicles of a New Era - Alexander",
-        "Url": "/lodestone/playguide/db/quest/a32aa59b312/",
-        "Image": "https://img.finalfantasyxiv.com/lds/pc/global/images/itemicon/ef/efe35428cbdcfcbe7d2f7d62855d2106ea633356.png?n5.55",
-        "Icon": "function_normal",
-        "Issuer": "Roundrox",
-        "StartLocation": {
-            "Name": "The Dravanian Hinterlands",
-            "X": "21.7",
-            "Y": "18.8"
-        },
-        "StartClass": null,
-        "Job": "",
-        "Company": "Not specified",
-        "Requirement": "Not specified",
-        "Rewards": {
-            "Gil": 3800,
-            "Exp": 0,
-            "ItemsMand": [],
-            "ItemsOpt": []
-        },
-        "Infos": {
-            "PrerequisiteQuest": [
-                {
-                    "Name": "Enigma",
-                    "Url": "/lodestone/playguide/db/quest/9aff08a4f0e/",
-                    "Area": "The Dravanian Hinterlands",
-                    "Level": "60"
-                }
-            ],
-            "FollowupQuest": [
-                {
-                    "Name": "The Folly of Youth",
-                    "Url": "/lodestone/playguide/db/quest/ed61451ed4e/",
-                    "Area": "The Dravanian Hinterlands",
-                    "Level": "60"
-                }
-            ],
-            "RelatedNPC": [
-                {
-                    "Name": "Backrix",
-                    "Url": "/lodestone/playguide/db/npc/npc/1749b664a8c/",
-                    "Area": "The Dravanian Hinterlands (X:21.8 Y:18.9)"
+                    "Name": "Biggs",
+                    "Url": "/lodestone/playguide/db/npc/npc/136242c70ec/",
+                    "Area": "Mor Dhona (X:30.1 Y:12.3)"
                 },
                 {
                     "Name": "Biggs",
-                    "Url": "/lodestone/playguide/db/npc/npc/d90236226e8/",
-                    "Area": "The Dravanian Hinterlands (X:21.7 Y:18.8)"
+                    "Url": "/lodestone/playguide/db/npc/npc/7b78ae9032e/",
+                    "Area": "Mor Dhona (X:34.2 Y:18.7)"
                 },
                 {
                     "Name": "Biggs",
-                    "Url": "/lodestone/playguide/db/npc/npc/9874916cc28/",
-                    "Area": "The Dravanian Hinterlands (X:23.6 Y:24.0)"
+                    "Url": "/lodestone/playguide/db/npc/npc/b382e9868ac/",
+                    "Area": "Mor Dhona (X:35.9 Y:20.2)"
                 },
                 {
-                    "Name": "Lightkix Eyesfixed",
-                    "Url": "/lodestone/playguide/db/npc/npc/e1211fe0f13/",
-                    "Area": "The Dravanian Hinterlands (X:20.6 Y:26.1)"
+                    "Name": "Cid",
+                    "Url": "/lodestone/playguide/db/npc/npc/3b521f3767e/",
+                    "Area": "Mor Dhona (X:30.1 Y:12.4)"
                 },
                 {
-                    "Name": "Mide",
-                    "Url": "/lodestone/playguide/db/npc/npc/1f8cbda5efd/",
-                    "Area": "The Dravanian Hinterlands (X:17.8 Y:18.3)"
+                    "Name": "Cid",
+                    "Url": "/lodestone/playguide/db/npc/npc/af1dbc008e3/",
+                    "Area": "Mor Dhona (X:36.0 Y:20.3)"
+                },
+                {
+                    "Name": "Doga",
+                    "Url": "/lodestone/playguide/db/npc/npc/a67395f9d57/",
+                    "Area": "Mor Dhona (X:36.1 Y:20.3)"
+                },
+                {
+                    "Name": "G'raha Tia",
+                    "Url": "/lodestone/playguide/db/npc/npc/7be9c85dc39/",
+                    "Area": "Mor Dhona (X:30.4 Y:12.1)"
+                },
+                {
+                    "Name": "G'raha Tia",
+                    "Url": "/lodestone/playguide/db/npc/npc/14c3306a3bd/",
+                    "Area": "Mor Dhona (X:36.0 Y:20.3)"
+                },
+                {
+                    "Name": "Nero",
+                    "Url": "/lodestone/playguide/db/npc/npc/779e8dad61d/",
+                    "Area": "Mor Dhona (X:35.9 Y:20.5)"
+                },
+                {
+                    "Name": "Unei",
+                    "Url": "/lodestone/playguide/db/npc/npc/616e1f6a120/",
+                    "Area": "Mor Dhona (X:36.1 Y:20.3)"
                 },
                 {
                     "Name": "Wedge",
-                    "Url": "/lodestone/playguide/db/npc/npc/d7775371779/",
-                    "Area": "The Dravanian Hinterlands (X:21.8 Y:18.9)"
+                    "Url": "/lodestone/playguide/db/npc/npc/a5fc4475555/",
+                    "Area": "Mor Dhona (X:30.2 Y:12.4)"
+                },
+                {
+                    "Name": "Wedge",
+                    "Url": "/lodestone/playguide/db/npc/npc/b95910f4ad0/",
+                    "Area": "Mor Dhona (X:34.0 Y:18.6)"
+                },
+                {
+                    "Name": "Wedge",
+                    "Url": "/lodestone/playguide/db/npc/npc/6e118f9d7b5/",
+                    "Area": "Mor Dhona (X:35.9 Y:20.3)"
                 }
             ]
         },
         "Seq": 5,
-        "oldID": 67785,
-        "Map": {
-            "ID": 213
-        },
         "StartDependency": false
     },
     {
-        "ID": "a91452a04be",
-        "Name": "Disarmed",
-        "Location": "Idyllshire",
-        "Level": 60,
+        "ID": "71f858c9360",
+        "Name": "A Performance for the Ages",
+        "Location": "Mor Dhona",
+        "Level": 50,
         "JournalSection": 2,
         "JournalCategory": 14,
-        "JournalGenre": "Chronicles of a New Era - Alexander",
-        "Url": "/lodestone/playguide/db/quest/a91452a04be/",
-        "Image": "https://img.finalfantasyxiv.com/lds/pc/global/images/itemicon/89/89bf954b38b70d4d9bd2b7a02ff2e029ee6d09f8.png?n5.55",
+        "JournalGenre": "Chronicles of a New Era - The Crystal Tower",
+        "Url": "/lodestone/playguide/db/quest/71f858c9360/",
+        "Image": null,
         "Icon": "function_normal",
-        "Issuer": "Slowfix",
+        "Issuer": "Rammbroes",
         "StartLocation": {
-            "Name": "Idyllshire",
-            "X": "7.5",
-            "Y": "6.5"
+            "Name": "Mor Dhona",
+            "X": "30.4",
+            "Y": "12.1"
         },
         "StartClass": null,
         "Job": "",
         "Company": "Not specified",
         "Requirement": "Not specified",
         "Rewards": {
-            "Gil": 5000,
+            "Gil": 1220,
             "Exp": 0,
             "ItemsMand": [],
-            "ItemsOpt": []
-        },
-        "Infos": {
-            "PrerequisiteQuest": [
+            "ItemsOpt": [
                 {
-                    "Name": "Heavensward",
-                    "Url": "/lodestone/playguide/db/quest/29fa56153f5/",
-                    "Area": "Azys Lla",
-                    "Level": "60"
-                }
-            ],
-            "FollowupQuest": [
-                {
-                    "Name": "Steel and Steam",
-                    "Url": "/lodestone/playguide/db/quest/ef2efbe411f/",
-                    "Area": "The Dravanian Hinterlands",
-                    "Level": "60"
-                }
-            ],
-            "RelatedNPC": [
-                {
-                    "Name": "Backrix",
-                    "Url": "/lodestone/playguide/db/npc/npc/1749b664a8c/",
-                    "Area": "The Dravanian Hinterlands (X:21.8 Y:18.9)"
+                    "Icon": "https://img.finalfantasyxiv.com/lds/pc/global/images/itemicon/de/de478eac5995aeff260b0e6eaf52fef8ac0086d8.png?n6.05",
+                    "Name": "X-Potion",
+                    "Amount": 3,
+                    "Url": "/lodestone/playguide/db/item/11f603e31f2/"
                 },
                 {
-                    "Name": "Biggs",
-                    "Url": "/lodestone/playguide/db/npc/npc/63190d01844/",
-                    "Area": "The Dravanian Hinterlands (X:23.9 Y:26.5)"
+                    "Icon": "https://img.finalfantasyxiv.com/lds/pc/global/images/itemicon/59/5964f8ab3a877d7a58d391b912e8e67204dc9ba5.png?n6.05",
+                    "Name": "X-Ether",
+                    "Amount": 3,
+                    "Url": "/lodestone/playguide/db/item/054f77ecc81/"
                 },
                 {
-                    "Name": "Biggs",
-                    "Url": "/lodestone/playguide/db/npc/npc/d90236226e8/",
-                    "Area": "The Dravanian Hinterlands (X:21.7 Y:18.8)"
+                    "Icon": "https://img.finalfantasyxiv.com/lds/pc/global/images/itemicon/60/60ab5df609901e4ca4a73fd1922931e538cede62.png?n6.05",
+                    "Name": "Hi-Elixir",
+                    "Amount": 3,
+                    "Url": "/lodestone/playguide/db/item/7d95edb06ef/"
                 },
                 {
-                    "Name": "Mide",
-                    "Url": "/lodestone/playguide/db/npc/npc/c5893c0b1f2/",
-                    "Area": "The Dravanian Hinterlands (X:23.8 Y:26.5)"
-                },
-                {
-                    "Name": "Mide",
-                    "Url": "/lodestone/playguide/db/npc/npc/bb5dee62305/",
-                    "Area": "The Dravanian Hinterlands (X:21.7 Y:18.9)"
-                },
-                {
-                    "Name": "Roundrox",
-                    "Url": "/lodestone/playguide/db/npc/npc/db244314c29/",
-                    "Area": "The Dravanian Hinterlands (X:21.7 Y:18.8)"
-                },
-                {
-                    "Name": "Wedge",
-                    "Url": "/lodestone/playguide/db/npc/npc/0066bbc61e5/",
-                    "Area": "The Dravanian Hinterlands (X:23.9 Y:26.5)"
-                },
-                {
-                    "Name": "Wedge",
-                    "Url": "/lodestone/playguide/db/npc/npc/d7775371779/",
-                    "Area": "The Dravanian Hinterlands (X:21.8 Y:18.9)"
+                    "Icon": "https://img.finalfantasyxiv.com/lds/pc/global/images/itemicon/ba/baa2341dd17414fae7fd62ae7bc62c64589b67be.png?n6.05",
+                    "Name": "Allagan Silver Piece",
+                    "Amount": 1,
+                    "Url": "/lodestone/playguide/db/item/a3ac3ba4b00/"
                 }
             ]
         },
-        "Seq": 7,
-        "oldID": 67626,
-        "Map": {
-            "ID": 257
-        },
-        "StartDependency": false
-    },
-    {
-        "ID": "aa17121e0f8",
-        "Name": "Toppling the Tyrant",
-        "Location": "The Dravanian Hinterlands",
-        "Level": 60,
-        "JournalSection": 2,
-        "JournalCategory": 14,
-        "JournalGenre": "Chronicles of a New Era - Alexander",
-        "Url": "/lodestone/playguide/db/quest/aa17121e0f8/",
-        "Image": "https://img.finalfantasyxiv.com/lds/pc/global/images/itemicon/bb/bbd45c0d28c979c27619ab464bfcd12dfe5e9733.png?n5.55",
-        "Icon": "function_normal",
-        "Issuer": "Mide",
-        "StartLocation": {
-            "Name": "The Dravanian Hinterlands",
-            "X": "21.7",
-            "Y": "18.9"
-        },
-        "StartClass": null,
-        "Job": "",
-        "Company": "Not specified",
-        "Requirement": "Not specified",
-        "Rewards": {
-            "Gil": 3508,
-            "Exp": 0,
-            "ItemsMand": [],
-            "ItemsOpt": []
-        },
         "Infos": {
             "PrerequisiteQuest": [
                 {
-                    "Name": "The Folly of Youth",
-                    "Url": "/lodestone/playguide/db/quest/ed61451ed4e/",
-                    "Area": "The Dravanian Hinterlands",
-                    "Level": "60"
+                    "Name": "Sanding It Down",
+                    "Url": "/lodestone/playguide/db/quest/8291860f8d9/",
+                    "Area": "Mor Dhona",
+                    "Level": "50"
                 }
             ],
             "FollowupQuest": [
                 {
-                    "Name": "One Step Behind",
-                    "Url": "/lodestone/playguide/db/quest/957dbbb403d/",
-                    "Area": "The Dravanian Hinterlands",
-                    "Level": "60"
+                    "Name": "Labyrinth of the Ancients",
+                    "Url": "/lodestone/playguide/db/quest/c8031463e5b/",
+                    "Area": "Mor Dhona",
+                    "Level": "50"
                 }
             ],
             "RelatedNPC": [
                 {
-                    "Name": "Backrix",
-                    "Url": "/lodestone/playguide/db/npc/npc/1749b664a8c/",
-                    "Area": "The Dravanian Hinterlands (X:21.8 Y:18.9)"
-                },
-                {
-                    "Name": "Biggs",
-                    "Url": "/lodestone/playguide/db/npc/npc/d90236226e8/",
-                    "Area": "The Dravanian Hinterlands (X:21.7 Y:18.8)"
-                },
-                {
-                    "Name": "Biggs",
-                    "Url": "/lodestone/playguide/db/npc/npc/faa58d66d22/",
-                    "Area": "The Dravanian Hinterlands (X:21.7 Y:18.8)"
-                },
-                {
-                    "Name": "Mide",
-                    "Url": "/lodestone/playguide/db/npc/npc/18bf436290d/",
-                    "Area": "The Dravanian Hinterlands (X:21.7 Y:18.8)"
-                },
-                {
-                    "Name": "Wedge",
-                    "Url": "/lodestone/playguide/db/npc/npc/d7775371779/",
-                    "Area": "The Dravanian Hinterlands (X:21.8 Y:18.9)"
-                },
-                {
-                    "Name": "Wedge",
-                    "Url": "/lodestone/playguide/db/npc/npc/12a3c84914e/",
-                    "Area": "The Dravanian Hinterlands (X:21.7 Y:18.8)"
+                    "Name": "Parsemontret",
+                    "Url": "/lodestone/playguide/db/npc/npc/3f5f88f851b/",
+                    "Area": "Old Gridania (X:14.6 Y:9.4)"
                 }
             ]
         },
-        "Seq": 7,
-        "oldID": 67787,
-        "Map": {
-            "ID": 213
-        },
+        "Seq": 2,
         "StartDependency": false
     },
     {
-        "ID": "b08d71e821e",
-        "Name": "The Pulsing Heart",
-        "Location": "The Dravanian Hinterlands",
-        "Level": 60,
+        "ID": "810119f8166",
+        "Name": "The Gift of the Archmagus",
+        "Location": "Mor Dhona",
+        "Level": 50,
         "JournalSection": 2,
         "JournalCategory": 14,
-        "JournalGenre": "Chronicles of a New Era - Alexander",
-        "Url": "/lodestone/playguide/db/quest/b08d71e821e/",
-        "Image": "https://img.finalfantasyxiv.com/lds/pc/global/images/itemicon/a5/a5519f5017d7ec5286e4ac296fed3dbbbb4fda1b.png?n5.55",
-        "Icon": "function_normal",
-        "Issuer": "Mide",
+        "JournalGenre": "Chronicles of a New Era - The Crystal Tower",
+        "Url": "/lodestone/playguide/db/quest/810119f8166/",
+        "Image": "https://img.finalfantasyxiv.com/lds/pc/global/images/itemicon/80/80b7719eed92e12b87fc379ce0a8116adc68de62.png?n6.05",
+        "Icon": "function_repeat",
+        "Issuer": "Koh Rabntah",
         "StartLocation": {
-            "Name": "The Dravanian Hinterlands",
-            "X": "21.7",
-            "Y": "18.9"
+            "Name": "Mor Dhona",
+            "X": "21.8",
+            "Y": "8.1"
         },
         "StartClass": null,
         "Job": "",
         "Company": "Not specified",
         "Requirement": "Not specified",
         "Rewards": {
-            "Gil": 5000,
+            "Gil": 0,
             "Exp": 0,
-            "ItemsMand": [],
+            "ItemsMand": [
+                {
+                    "Icon": "https://img.finalfantasyxiv.com/lds/pc/global/images/itemicon/7a/7a0da9967f7e663f7a759f8916105f9273b144ee.png?n6.05",
+                    "Name": "Allagan Catalyst",
+                    "Amount": 1,
+                    "Url": "/lodestone/playguide/db/item/63433b65bb1/"
+                },
+                {
+                    "Icon": "https://img.finalfantasyxiv.com/lds/pc/global/images/itemicon/b3/b32fd3223732ecfb6e5df9ed8b299dbef3d0196e.png?n6.05",
+                    "Name": "Aether Oil",
+                    "Amount": 1,
+                    "Url": "/lodestone/playguide/db/item/333e194da24/"
+                }
+            ],
             "ItemsOpt": []
         },
         "Infos": {
             "PrerequisiteQuest": [
                 {
-                    "Name": "Tinker, Seeker, Soldier, Spy",
-                    "Url": "/lodestone/playguide/db/quest/3862b01959f/",
-                    "Area": "The Dravanian Hinterlands",
-                    "Level": "60"
-                }
-            ],
-            "FollowupQuest": [
-                {
-                    "Name": "Enigma",
-                    "Url": "/lodestone/playguide/db/quest/9aff08a4f0e/",
-                    "Area": "The Dravanian Hinterlands",
-                    "Level": "60"
-                }
-            ],
-            "RelatedNPC": [
-                {
-                    "Name": "Biggs",
-                    "Url": "/lodestone/playguide/db/npc/npc/63190d01844/",
-                    "Area": "The Dravanian Hinterlands (X:23.9 Y:26.5)"
-                },
-                {
-                    "Name": "Biggs",
-                    "Url": "/lodestone/playguide/db/npc/npc/d90236226e8/",
-                    "Area": "The Dravanian Hinterlands (X:21.7 Y:18.8)"
-                },
-                {
-                    "Name": "Mide",
-                    "Url": "/lodestone/playguide/db/npc/npc/c5893c0b1f2/",
-                    "Area": "The Dravanian Hinterlands (X:23.8 Y:26.5)"
-                },
-                {
-                    "Name": "Redbrix",
-                    "Url": "/lodestone/playguide/db/npc/npc/808678eb5ae/",
-                    "Area": "The Dravanian Hinterlands (X:23.9 Y:26.5)"
-                },
-                {
-                    "Name": "Roundrox",
-                    "Url": "/lodestone/playguide/db/npc/npc/db244314c29/",
-                    "Area": "The Dravanian Hinterlands (X:21.7 Y:18.8)"
-                },
-                {
-                    "Name": "Wedge",
-                    "Url": "/lodestone/playguide/db/npc/npc/0066bbc61e5/",
-                    "Area": "The Dravanian Hinterlands (X:23.9 Y:26.5)"
-                },
-                {
-                    "Name": "Wedge",
-                    "Url": "/lodestone/playguide/db/npc/npc/d7775371779/",
-                    "Area": "The Dravanian Hinterlands (X:21.8 Y:18.9)"
+                    "Name": "But I Hardly Noah",
+                    "Url": "/lodestone/playguide/db/quest/e2b06cb25d9/",
+                    "Area": "Mor Dhona",
+                    "Level": "50"
                 }
             ]
         },
-        "Seq": 3,
-        "oldID": 67629,
-        "Map": {
-            "ID": 213
-        },
+        "Seq": 9,
         "StartDependency": false
     },
     {
-        "ID": "b4ee65bf49a",
-        "Name": "The Coeurl and the Colossus",
-        "Location": "The Dravanian Hinterlands",
-        "Level": 60,
+        "ID": "8291860f8d9",
+        "Name": "Sanding It Down",
+        "Location": "Mor Dhona",
+        "Level": 50,
         "JournalSection": 2,
         "JournalCategory": 14,
-        "JournalGenre": "Chronicles of a New Era - Alexander",
-        "Url": "/lodestone/playguide/db/quest/b4ee65bf49a/",
-        "Image": "https://img.finalfantasyxiv.com/lds/pc/global/images/itemicon/2a/2ae2f19152a7a37bce35ac620ee82f689b49a669.png?n5.55",
+        "JournalGenre": "Chronicles of a New Era - The Crystal Tower",
+        "Url": "/lodestone/playguide/db/quest/8291860f8d9/",
+        "Image": null,
         "Icon": "function_normal",
-        "Issuer": "Mide",
+        "Issuer": "Rammbroes",
         "StartLocation": {
-            "Name": "The Dravanian Hinterlands",
-            "X": "21.7",
-            "Y": "18.8"
+            "Name": "Mor Dhona",
+            "X": "30.4",
+            "Y": "12.1"
         },
         "StartClass": null,
         "Job": "",
         "Company": "Not specified",
         "Requirement": "Not specified",
         "Rewards": {
-            "Gil": 3508,
+            "Gil": 1220,
             "Exp": 0,
             "ItemsMand": [],
-            "ItemsOpt": []
+            "ItemsOpt": [
+                {
+                    "Icon": "https://img.finalfantasyxiv.com/lds/pc/global/images/itemicon/06/06bd35b3df19cbc5d80eed3ed99c67a366c835aa.png?n6.05",
+                    "Name": "Heavens' Eye Materia IV",
+                    "Amount": 1,
+                    "Url": "/lodestone/playguide/db/item/93fe1786b70/"
+                },
+                {
+                    "Icon": "https://img.finalfantasyxiv.com/lds/pc/global/images/itemicon/06/06bd35b3df19cbc5d80eed3ed99c67a366c835aa.png?n6.05",
+                    "Name": "Savage Aim Materia IV",
+                    "Amount": 1,
+                    "Url": "/lodestone/playguide/db/item/dce3a5f3467/"
+                },
+                {
+                    "Icon": "https://img.finalfantasyxiv.com/lds/pc/global/images/itemicon/06/06bd35b3df19cbc5d80eed3ed99c67a366c835aa.png?n6.05",
+                    "Name": "Savage Might Materia IV",
+                    "Amount": 1,
+                    "Url": "/lodestone/playguide/db/item/1bc25f58180/"
+                },
+                {
+                    "Icon": "https://img.finalfantasyxiv.com/lds/pc/global/images/itemicon/ba/baa2341dd17414fae7fd62ae7bc62c64589b67be.png?n6.05",
+                    "Name": "Allagan Silver Piece",
+                    "Amount": 1,
+                    "Url": "/lodestone/playguide/db/item/a3ac3ba4b00/"
+                }
+            ]
         },
         "Infos": {
             "PrerequisiteQuest": [
                 {
-                    "Name": "A Gob in the Machine",
-                    "Url": "/lodestone/playguide/db/quest/6f5072b0464/",
-                    "Area": "The Dravanian Hinterlands",
-                    "Level": "60"
+                    "Name": "Legacy of Allag",
+                    "Url": "/lodestone/playguide/db/quest/a2873d209ec/",
+                    "Area": "Mor Dhona",
+                    "Level": "50"
                 }
             ],
             "FollowupQuest": [
                 {
-                    "Name": "Biggs and Wedge's Excellent Adventure",
-                    "Url": "/lodestone/playguide/db/quest/17fc37d0397/",
-                    "Area": "The Dravanian Hinterlands",
-                    "Level": "60"
+                    "Name": "A Performance for the Ages",
+                    "Url": "/lodestone/playguide/db/quest/71f858c9360/",
+                    "Area": "Mor Dhona",
+                    "Level": "50"
                 }
             ],
             "RelatedNPC": [
+                {
+                    "Name": "Experienced Adventurer",
+                    "Url": "/lodestone/playguide/db/npc/npc/26d76811d87/",
+                    "Area": "Northern Thanalan (X:21.5 Y:29.7)"
+                },
+                {
+                    "Name": "Wedge",
+                    "Url": "/lodestone/playguide/db/npc/npc/8257a5af8f8/",
+                    "Area": "Northern Thanalan (X:26.4 Y:23.1)"
+                },
                 {
                     "Name": "Biggs",
-                    "Url": "/lodestone/playguide/db/npc/npc/bffbaae6bf9/",
-                    "Area": "The Dravanian Hinterlands (X:23.5 Y:23.9)"
+                    "Url": "/lodestone/playguide/db/npc/npc/abd7dc97bff/",
+                    "Area": "Ul'dah - Steps of Thal (X:10.5 Y:13.2)"
                 },
                 {
-                    "Name": "Mide",
-                    "Url": "/lodestone/playguide/db/npc/npc/ce14961b645/",
-                    "Area": "The Dravanian Hinterlands (X:20.1 Y:19.9)"
-                },
-                {
-                    "Name": "Mide",
-                    "Url": "/lodestone/playguide/db/npc/npc/9eff2d4fee1/",
-                    "Area": "The Dravanian Hinterlands (X:23.5 Y:23.8)"
-                },
-                {
-                    "Name": "Wedge",
-                    "Url": "/lodestone/playguide/db/npc/npc/146554449d6/",
-                    "Area": "The Dravanian Hinterlands (X:23.5 Y:23.9)"
-                }
-            ]
-        },
-        "Seq": 10,
-        "oldID": 67871,
-        "Map": {
-            "ID": 213
-        },
-        "StartDependency": false
-    },
-    {
-        "ID": "ed61451ed4e",
-        "Name": "The Folly of Youth",
-        "Location": "The Dravanian Hinterlands",
-        "Level": 60,
-        "JournalSection": 2,
-        "JournalCategory": 14,
-        "JournalGenre": "Chronicles of a New Era - Alexander",
-        "Url": "/lodestone/playguide/db/quest/ed61451ed4e/",
-        "Image": "https://img.finalfantasyxiv.com/lds/pc/global/images/itemicon/01/01cbb00da1fe632ddc7b4ef25f3cd2a35f04e50f.png?n5.55",
-        "Icon": "function_normal",
-        "Issuer": "Biggs",
-        "StartLocation": {
-            "Name": "The Dravanian Hinterlands",
-            "X": "21.7",
-            "Y": "18.8"
-        },
-        "StartClass": null,
-        "Job": "",
-        "Company": "Not specified",
-        "Requirement": "Not specified",
-        "Rewards": {
-            "Gil": 3573,
-            "Exp": 0,
-            "ItemsMand": [],
-            "ItemsOpt": []
-        },
-        "Infos": {
-            "PrerequisiteQuest": [
-                {
-                    "Name": "Rearmed",
-                    "Url": "/lodestone/playguide/db/quest/a32aa59b312/",
-                    "Area": "The Dravanian Hinterlands",
-                    "Level": "60"
-                }
-            ],
-            "FollowupQuest": [
-                {
-                    "Name": "Toppling the Tyrant",
-                    "Url": "/lodestone/playguide/db/quest/aa17121e0f8/",
-                    "Area": "The Dravanian Hinterlands",
-                    "Level": "60"
-                }
-            ],
-            "RelatedNPC": [
-                {
-                    "Name": "Mide",
-                    "Url": "/lodestone/playguide/db/npc/npc/bb5dee62305/",
-                    "Area": "The Dravanian Hinterlands (X:21.7 Y:18.9)"
-                }
-            ]
-        },
-        "Seq": 6,
-        "oldID": 67786,
-        "Map": {
-            "ID": 213
-        },
-        "StartDependency": false
-    },
-    {
-        "ID": "ef2efbe411f",
-        "Name": "Steel and Steam",
-        "Location": "The Dravanian Hinterlands",
-        "Level": 60,
-        "JournalSection": 2,
-        "JournalCategory": 14,
-        "JournalGenre": "Chronicles of a New Era - Alexander",
-        "Url": "/lodestone/playguide/db/quest/ef2efbe411f/",
-        "Image": "https://img.finalfantasyxiv.com/lds/pc/global/images/itemicon/9e/9ecd1cff06f2bd7f53c147f03d56d20fbfa45d21.png?n5.55",
-        "Icon": "function_normal",
-        "Issuer": "Biggs",
-        "StartLocation": {
-            "Name": "The Dravanian Hinterlands",
-            "X": "21.7",
-            "Y": "18.8"
-        },
-        "StartClass": null,
-        "Job": "",
-        "Company": "Not specified",
-        "Requirement": "Not specified",
-        "Rewards": {
-            "Gil": 5000,
-            "Exp": 0,
-            "ItemsMand": [],
-            "ItemsOpt": []
-        },
-        "Infos": {
-            "PrerequisiteQuest": [
-                {
-                    "Name": "Disarmed",
-                    "Url": "/lodestone/playguide/db/quest/a91452a04be/",
-                    "Area": "Idyllshire",
-                    "Level": "60"
-                }
-            ],
-            "FollowupQuest": [
-                {
-                    "Name": "Tinker, Seeker, Soldier, Spy",
-                    "Url": "/lodestone/playguide/db/quest/3862b01959f/",
-                    "Area": "The Dravanian Hinterlands",
-                    "Level": "60"
-                }
-            ],
-            "RelatedNPC": [
-                {
-                    "Name": "Mide",
-                    "Url": "/lodestone/playguide/db/npc/npc/bb5dee62305/",
-                    "Area": "The Dravanian Hinterlands (X:21.7 Y:18.9)"
-                },
-                {
-                    "Name": "Roundrox",
-                    "Url": "/lodestone/playguide/db/npc/npc/db244314c29/",
-                    "Area": "The Dravanian Hinterlands (X:21.7 Y:18.8)"
-                },
-                {
-                    "Name": "Wedge",
-                    "Url": "/lodestone/playguide/db/npc/npc/d7775371779/",
-                    "Area": "The Dravanian Hinterlands (X:21.8 Y:18.9)"
+                    "Name": "Serendipity",
+                    "Url": "/lodestone/playguide/db/npc/npc/7dfbcb52c51/",
+                    "Area": "Ul'dah - Steps of Thal (X:10.7 Y:13.4)"
                 }
             ]
         },
         "Seq": 1,
-        "oldID": 67627,
-        "Map": {
-            "ID": 213
-        },
         "StartDependency": false
     },
     {
-        "ID": "efd4a3439d3",
-        "Name": "Of Endings and Beginnings",
-        "Location": "The Dravanian Hinterlands",
-        "Level": 60,
+        "ID": "a2873d209ec",
+        "Name": "Legacy of Allag",
+        "Location": "Mor Dhona",
+        "Level": 50,
         "JournalSection": 2,
         "JournalCategory": 14,
-        "JournalGenre": "Chronicles of a New Era - Alexander",
-        "Url": "/lodestone/playguide/db/quest/efd4a3439d3/",
-        "Image": "https://img.finalfantasyxiv.com/lds/pc/global/images/itemicon/cc/cc8ee53aae2bd9a7debc6bd5b1ca03154a4672e8.png?n5.55",
+        "JournalGenre": "Chronicles of a New Era - The Crystal Tower",
+        "Url": "/lodestone/playguide/db/quest/a2873d209ec/",
+        "Image": "https://img.finalfantasyxiv.com/lds/pc/global/images/itemicon/7d/7d4cee627cc765cc427f778f543e63b2912275dd.png?n6.05",
         "Icon": "function_normal",
-        "Issuer": "Biggs",
+        "Issuer": "Outlandish Man",
         "StartLocation": {
-            "Name": "The Dravanian Hinterlands",
-            "X": "17.8",
-            "Y": "22.4"
+            "Name": "Mor Dhona",
+            "X": "21.8",
+            "Y": "8.1"
         },
         "StartClass": null,
         "Job": "",
         "Company": "Not specified",
         "Requirement": "Not specified",
         "Rewards": {
-            "Gil": 745,
+            "Gil": 1220,
             "Exp": 0,
             "ItemsMand": [
                 {
-                    "Icon": "https://img.finalfantasyxiv.com/lds/pc/global/images/itemicon/7e/7eaa53e1fe9e2bd80f81d9ce69c98c24f6223b0b.png?n5.55",
-                    "Name": "Sins of the Father, Sins of the Son Orchestrion Roll",
-                    "Amount": 1,
-                    "Url": "/lodestone/playguide/db/item/98123db7d65/"
-                },
-                {
-                    "Icon": "https://img.finalfantasyxiv.com/lds/pc/global/images/itemicon/7e/7eaa53e1fe9e2bd80f81d9ce69c98c24f6223b0b.png?n5.55",
-                    "Name": "Locus Orchestrion Roll",
-                    "Amount": 1,
-                    "Url": "/lodestone/playguide/db/item/8bcb97a6775/"
-                },
-                {
-                    "Icon": "https://img.finalfantasyxiv.com/lds/pc/global/images/itemicon/7e/7eaa53e1fe9e2bd80f81d9ce69c98c24f6223b0b.png?n5.55",
-                    "Name": "Metal Orchestrion Roll",
-                    "Amount": 1,
-                    "Url": "/lodestone/playguide/db/item/c497f596092/"
-                },
-                {
-                    "Icon": "https://img.finalfantasyxiv.com/lds/pc/global/images/itemicon/7e/7eaa53e1fe9e2bd80f81d9ce69c98c24f6223b0b.png?n5.55",
-                    "Name": "Metal - Brute Justice Mode Orchestrion Roll",
-                    "Amount": 1,
-                    "Url": "/lodestone/playguide/db/item/07f69db07de/"
+                    "Icon": "https://img.finalfantasyxiv.com/lds/pc/global/images/itemicon/07/073f858f432cad89e7a287cd90bf4ffdb990b079.png?n6.05",
+                    "Name": "Grade 5 Dark Matter",
+                    "Amount": 3,
+                    "Url": "/lodestone/playguide/db/item/bc12c674d66/"
                 }
             ],
             "ItemsOpt": []
@@ -1103,162 +379,379 @@
         "Infos": {
             "PrerequisiteQuest": [
                 {
-                    "Name": "Judgment Day",
-                    "Url": "/lodestone/playguide/db/quest/fb49c3f6128/",
-                    "Area": "The Dravanian Hinterlands",
-                    "Level": "60"
+                    "Name": "The Ultimate Weapon",
+                    "Url": "/lodestone/playguide/db/quest/3ab32cfebf8/",
+                    "Area": "Northern Thanalan",
+                    "Level": "50"
                 }
             ],
             "FollowupQuest": [
                 {
-                    "Name": "Who Lives, Who Dies, Who Retells Your Story",
-                    "Url": "/lodestone/playguide/db/quest/0393ad9ce2d/",
+                    "Name": "Sanding It Down",
+                    "Url": "/lodestone/playguide/db/quest/8291860f8d9/",
                     "Area": "Mor Dhona",
-                    "Level": "60"
+                    "Level": "50"
                 }
             ],
             "RelatedNPC": [
                 {
-                    "Name": "Backrix",
-                    "Url": "/lodestone/playguide/db/npc/npc/1749b664a8c/",
-                    "Area": "The Dravanian Hinterlands (X:21.8 Y:18.9)"
+                    "Name": "Rammbroes",
+                    "Url": "/lodestone/playguide/db/npc/npc/3ceba4171d3/",
+                    "Area": "Mor Dhona (X:30.4 Y:12.1)"
+                }
+            ]
+        },
+        "Seq": 4,
+        "StartDependency": false
+    },
+    {
+        "ID": "abeb33d0875",
+        "Name": "The Light of Hope",
+        "Location": "Mor Dhona",
+        "Level": 50,
+        "JournalSection": 2,
+        "JournalCategory": 14,
+        "JournalGenre": "Chronicles of a New Era - The Crystal Tower",
+        "Url": "/lodestone/playguide/db/quest/abeb33d0875/",
+        "Image": "https://img.finalfantasyxiv.com/lds/pc/global/images/itemicon/1e/1e7e03c5c5c025a0c2d90facad9e2c74a4de34ff.png?n6.05",
+        "Icon": "function_normal",
+        "Issuer": "Rammbroes",
+        "StartLocation": {
+            "Name": "Mor Dhona",
+            "X": "30.4",
+            "Y": "12.1"
+        },
+        "StartClass": null,
+        "Job": "",
+        "Company": "Not specified",
+        "Requirement": "Not specified",
+        "Rewards": {
+            "Gil": 658,
+            "Exp": 0,
+            "ItemsMand": [
+                {
+                    "Icon": "https://img.finalfantasyxiv.com/lds/pc/global/images/itemicon/7a/7a0da9967f7e663f7a759f8916105f9273b144ee.png?n6.05",
+                    "Name": "Allagan Catalyst",
+                    "Amount": 1,
+                    "Url": "/lodestone/playguide/db/item/63433b65bb1/"
+                }
+            ],
+            "ItemsOpt": []
+        },
+        "Infos": {
+            "PrerequisiteQuest": [
+                {
+                    "Name": "The World of Darkness",
+                    "Url": "/lodestone/playguide/db/quest/c95217ea0fd/",
+                    "Area": "Mor Dhona",
+                    "Level": "50"
+                }
+            ],
+            "FollowupQuest": [
+                {
+                    "Name": "A Time to Every Purpose",
+                    "Url": "/lodestone/playguide/db/quest/9d60060bffd/",
+                    "Area": "The Rising Stones",
+                    "Level": "50"
                 },
                 {
-                    "Name": "Biggs",
-                    "Url": "/lodestone/playguide/db/npc/npc/faa58d66d22/",
-                    "Area": "The Dravanian Hinterlands (X:21.7 Y:18.8)"
+                    "Name": "In the Name of the Light",
+                    "Url": "/lodestone/playguide/db/quest/edc41a99cd4/",
+                    "Area": "The Crystarium",
+                    "Level": "80"
                 },
                 {
-                    "Name": "Roundrox",
-                    "Url": "/lodestone/playguide/db/npc/npc/db244314c29/",
-                    "Area": "The Dravanian Hinterlands (X:21.7 Y:18.8)"
-                },
+                    "Name": "But I Hardly Noah",
+                    "Url": "/lodestone/playguide/db/quest/e2b06cb25d9/",
+                    "Area": "Mor Dhona",
+                    "Level": "50"
+                }
+            ],
+            "RelatedNPC": [
                 {
-                    "Name": "Roundrox",
-                    "Url": "/lodestone/playguide/db/npc/npc/6f91a3a4b25/",
-                    "Area": "The Dravanian Hinterlands (X:17.8 Y:18.3)"
-                },
-                {
-                    "Name": "Wedge",
-                    "Url": "/lodestone/playguide/db/npc/npc/12a3c84914e/",
-                    "Area": "The Dravanian Hinterlands (X:21.7 Y:18.8)"
-                },
-                {
-                    "Name": "Wedge",
-                    "Url": "/lodestone/playguide/db/npc/npc/dea1d3e7509/",
-                    "Area": "The Dravanian Hinterlands (X:17.9 Y:22.3)"
+                    "Name": "Son Of Saint Coinach",
+                    "Url": "/lodestone/playguide/db/npc/npc/d4875f21ce2/",
+                    "Area": "Mor Dhona (X:35.6 Y:20.0)"
                 }
             ],
             "RelatedAchievements": [
                 {
-                    "Name": "Back in Time",
-                    "Url": "/lodestone/playguide/db/achievement/e31dee1d9ba/",
+                    "Name": "Out of the Dark",
+                    "Url": "/lodestone/playguide/db/achievement/3ecd0add529/",
                     "Reward": "Title",
-                    "Points": "10"
+                    "Points": "20"
                 }
             ]
         },
-        "Seq": 14,
-        "oldID": 67875,
-        "Map": {
-            "ID": 213
-        },
+        "Seq": 7,
         "StartDependency": false
     },
     {
-        "ID": "fb49c3f6128",
-        "Name": "Judgment Day",
-        "Location": "The Dravanian Hinterlands",
-        "Level": 60,
+        "ID": "c8031463e5b",
+        "Name": "Labyrinth of the Ancients",
+        "Location": "Mor Dhona",
+        "Level": 50,
         "JournalSection": 2,
         "JournalCategory": 14,
-        "JournalGenre": "Chronicles of a New Era - Alexander",
-        "Url": "/lodestone/playguide/db/quest/fb49c3f6128/",
-        "Image": "https://img.finalfantasyxiv.com/lds/pc/global/images/itemicon/b5/b524b7ab88eee718b19fbc80601bc98aa6be41db.png?n5.55",
+        "JournalGenre": "Chronicles of a New Era - The Crystal Tower",
+        "Url": "/lodestone/playguide/db/quest/c8031463e5b/",
+        "Image": "https://img.finalfantasyxiv.com/lds/pc/global/images/itemicon/d1/d136fd6a9946dc1f101118746ac8bc457fa428ab.png?n6.05",
         "Icon": "function_normal",
-        "Issuer": "Biggs",
+        "Issuer": "G'raha Tia",
         "StartLocation": {
-            "Name": "The Dravanian Hinterlands",
-            "X": "21.7",
-            "Y": "18.8"
+            "Name": "Mor Dhona",
+            "X": "30.4",
+            "Y": "12.1"
         },
         "StartClass": null,
         "Job": "",
         "Company": "Not specified",
         "Requirement": "Not specified",
         "Rewards": {
-            "Gil": 3508,
+            "Gil": 3752,
             "Exp": 0,
-            "ItemsMand": [
-                {
-                    "Icon": "https://img.finalfantasyxiv.com/lds/pc/global/images/itemicon/7e/7eaa53e1fe9e2bd80f81d9ce69c98c24f6223b0b.png?n5.55",
-                    "Name": "Rise Orchestrion Roll",
-                    "Amount": 1,
-                    "Url": "/lodestone/playguide/db/item/c1791fb075e/"
-                }
-            ],
+            "ItemsMand": [],
             "ItemsOpt": []
         },
         "Infos": {
             "PrerequisiteQuest": [
                 {
-                    "Name": "Thus Spake Quickthinx",
-                    "Url": "/lodestone/playguide/db/quest/4ef04b0db1c/",
-                    "Area": "The Dravanian Hinterlands",
-                    "Level": "60"
+                    "Name": "A Performance for the Ages",
+                    "Url": "/lodestone/playguide/db/quest/71f858c9360/",
+                    "Area": "Mor Dhona",
+                    "Level": "50"
                 }
             ],
             "FollowupQuest": [
                 {
-                    "Name": "Of Endings and Beginnings",
-                    "Url": "/lodestone/playguide/db/quest/efd4a3439d3/",
-                    "Area": "The Dravanian Hinterlands",
-                    "Level": "60"
+                    "Name": "For Prosperity",
+                    "Url": "/lodestone/playguide/db/quest/c8805dfa3b8/",
+                    "Area": "Mor Dhona",
+                    "Level": "50"
+                }
+            ]
+        },
+        "Seq": 3,
+        "StartDependency": false
+    },
+    {
+        "ID": "c8805dfa3b8",
+        "Name": "For Prosperity",
+        "Location": "Mor Dhona",
+        "Level": 50,
+        "JournalSection": 2,
+        "JournalCategory": 14,
+        "JournalGenre": "Chronicles of a New Era - The Crystal Tower",
+        "Url": "/lodestone/playguide/db/quest/c8805dfa3b8/",
+        "Image": "https://img.finalfantasyxiv.com/lds/pc/global/images/itemicon/20/20d07c5ca8160dda4815fbfa52418f9bcee5f178.png?n6.05",
+        "Icon": "function_normal",
+        "Issuer": "G'raha Tia",
+        "StartLocation": {
+            "Name": "Mor Dhona",
+            "X": "30.4",
+            "Y": "12.1"
+        },
+        "StartClass": null,
+        "Job": "",
+        "Company": "Not specified",
+        "Requirement": "Not specified",
+        "Rewards": {
+            "Gil": 0,
+            "Exp": 0,
+            "ItemsMand": [],
+            "ItemsOpt": [
+                {
+                    "Icon": "https://img.finalfantasyxiv.com/lds/pc/global/images/itemicon/59/591709d485ebd155ba018c8cd773fe3c662caed3.png?n6.05",
+                    "Name": "Battledance Materia IV",
+                    "Amount": 1,
+                    "Url": "/lodestone/playguide/db/item/37f25043bf3/"
+                },
+                {
+                    "Icon": "https://img.finalfantasyxiv.com/lds/pc/global/images/itemicon/60/6072436b0c90d22b6a9d7da93f356256a04be53d.png?n6.05",
+                    "Name": "Quickarm Materia IV",
+                    "Amount": 1,
+                    "Url": "/lodestone/playguide/db/item/1162b3fcc58/"
+                },
+                {
+                    "Icon": "https://img.finalfantasyxiv.com/lds/pc/global/images/itemicon/60/6072436b0c90d22b6a9d7da93f356256a04be53d.png?n6.05",
+                    "Name": "Quicktongue Materia IV",
+                    "Amount": 1,
+                    "Url": "/lodestone/playguide/db/item/5bbb25ff7dd/"
+                },
+                {
+                    "Icon": "https://img.finalfantasyxiv.com/lds/pc/global/images/itemicon/ba/baa2341dd17414fae7fd62ae7bc62c64589b67be.png?n6.05",
+                    "Name": "Allagan Silver Piece",
+                    "Amount": 1,
+                    "Url": "/lodestone/playguide/db/item/a3ac3ba4b00/"
+                }
+            ]
+        },
+        "Infos": {
+            "PrerequisiteQuest": [
+                {
+                    "Name": "Labyrinth of the Ancients",
+                    "Url": "/lodestone/playguide/db/quest/c8031463e5b/",
+                    "Area": "Mor Dhona",
+                    "Level": "50"
+                }
+            ],
+            "FollowupQuest": [
+                {
+                    "Name": "Syrcus Tower",
+                    "Url": "/lodestone/playguide/db/quest/4adf2560fdd/",
+                    "Area": "Mor Dhona",
+                    "Level": "50"
+                }
+            ],
+            "RelatedNPC": [
+                {
+                    "Name": "Rammbroes",
+                    "Url": "/lodestone/playguide/db/npc/npc/3ceba4171d3/",
+                    "Area": "Mor Dhona (X:30.4 Y:12.1)"
+                }
+            ]
+        },
+        "Seq": 4,
+        "StartDependency": false
+    },
+    {
+        "ID": "c95217ea0fd",
+        "Name": "The World of Darkness",
+        "Location": "Mor Dhona",
+        "Level": 50,
+        "JournalSection": 2,
+        "JournalCategory": 14,
+        "JournalGenre": "Chronicles of a New Era - The Crystal Tower",
+        "Url": "/lodestone/playguide/db/quest/c95217ea0fd/",
+        "Image": "https://img.finalfantasyxiv.com/lds/pc/global/images/itemicon/94/94ad1ac993d1a2dc3850def9b307bf9490230172.png?n6.05",
+        "Icon": "function_normal",
+        "Issuer": "Rammbroes",
+        "StartLocation": {
+            "Name": "Mor Dhona",
+            "X": "30.4",
+            "Y": "12.1"
+        },
+        "StartClass": null,
+        "Job": "",
+        "Company": "Not specified",
+        "Requirement": "Not specified",
+        "Rewards": {
+            "Gil": 3752,
+            "Exp": 0,
+            "ItemsMand": [],
+            "ItemsOpt": []
+        },
+        "Infos": {
+            "PrerequisiteQuest": [
+                {
+                    "Name": "Syrcus Tower",
+                    "Url": "/lodestone/playguide/db/quest/4adf2560fdd/",
+                    "Area": "Mor Dhona",
+                    "Level": "50"
+                }
+            ],
+            "FollowupQuest": [
+                {
+                    "Name": "The Light of Hope",
+                    "Url": "/lodestone/playguide/db/quest/abeb33d0875/",
+                    "Area": "Mor Dhona",
+                    "Level": "50"
                 }
             ],
             "RelatedNPC": [
                 {
                     "Name": "Biggs",
-                    "Url": "/lodestone/playguide/db/npc/npc/69ab95d8d40/",
-                    "Area": "Heart of the Creator (X:11.3 Y:12.0)"
-                },
-                {
-                    "Name": "Cid",
-                    "Url": "/lodestone/playguide/db/npc/npc/13d656822fd/",
-                    "Area": "Heart of the Creator (X:11.1 Y:12.0)"
-                },
-                {
-                    "Name": "Wedge",
-                    "Url": "/lodestone/playguide/db/npc/npc/eaf258d426d/",
-                    "Area": "Heart of the Creator (X:11.2 Y:12.0)"
+                    "Url": "/lodestone/playguide/db/npc/npc/136242c70ec/",
+                    "Area": "Mor Dhona (X:30.1 Y:12.3)"
                 },
                 {
                     "Name": "Biggs",
-                    "Url": "/lodestone/playguide/db/npc/npc/5579ef55d7c/",
-                    "Area": "The Dravanian Hinterlands (X:17.8 Y:22.4)"
+                    "Url": "/lodestone/playguide/db/npc/npc/759980c62b6/",
+                    "Area": "Mor Dhona (X:34.7 Y:19.3)"
                 },
                 {
-                    "Name": "Snapclix",
-                    "Url": "/lodestone/playguide/db/npc/npc/61c23054d2c/",
-                    "Area": "The Dravanian Hinterlands (X:23.5 Y:24.0)"
+                    "Name": "Cid",
+                    "Url": "/lodestone/playguide/db/npc/npc/3b521f3767e/",
+                    "Area": "Mor Dhona (X:30.1 Y:12.4)"
+                },
+                {
+                    "Name": "G'raha Tia",
+                    "Url": "/lodestone/playguide/db/npc/npc/7be9c85dc39/",
+                    "Area": "Mor Dhona (X:30.4 Y:12.1)"
+                },
+                {
+                    "Name": "G'raha Tia",
+                    "Url": "/lodestone/playguide/db/npc/npc/735f31f7624/",
+                    "Area": "Mor Dhona (X:36.1 Y:20.1)"
                 },
                 {
                     "Name": "Wedge",
-                    "Url": "/lodestone/playguide/db/npc/npc/d7775371779/",
-                    "Area": "The Dravanian Hinterlands (X:21.8 Y:18.9)"
+                    "Url": "/lodestone/playguide/db/npc/npc/a5fc4475555/",
+                    "Area": "Mor Dhona (X:30.2 Y:12.4)"
                 },
                 {
                     "Name": "Wedge",
-                    "Url": "/lodestone/playguide/db/npc/npc/dea1d3e7509/",
-                    "Area": "The Dravanian Hinterlands (X:17.9 Y:22.3)"
+                    "Url": "/lodestone/playguide/db/npc/npc/c50b206da72/",
+                    "Area": "Mor Dhona (X:34.7 Y:19.3)"
                 }
             ]
         },
-        "Seq": 13,
-        "oldID": 67874,
-        "Map": {
-            "ID": 213
+        "Seq": 6,
+        "StartDependency": false
+    },
+    {
+        "ID": "e2b06cb25d9",
+        "Name": "But I Hardly Noah",
+        "Location": "Mor Dhona",
+        "Level": 50,
+        "JournalSection": 2,
+        "JournalCategory": 14,
+        "JournalGenre": "Chronicles of a New Era - The Crystal Tower",
+        "Url": "/lodestone/playguide/db/quest/e2b06cb25d9/",
+        "Image": "https://img.finalfantasyxiv.com/lds/pc/global/images/itemicon/80/80b7719eed92e12b87fc379ce0a8116adc68de62.png?n6.05",
+        "Icon": "function_normal",
+        "Issuer": "Syele",
+        "StartLocation": {
+            "Name": "Mor Dhona",
+            "X": "30.3",
+            "Y": "12.4"
         },
+        "StartClass": null,
+        "Job": "",
+        "Company": "Not specified",
+        "Requirement": "Not specified",
+        "Rewards": {
+            "Gil": 758,
+            "Exp": 0,
+            "ItemsMand": [],
+            "ItemsOpt": []
+        },
+        "Infos": {
+            "PrerequisiteQuest": [
+                {
+                    "Name": "The Light of Hope",
+                    "Url": "/lodestone/playguide/db/quest/abeb33d0875/",
+                    "Area": "Mor Dhona",
+                    "Level": "50"
+                }
+            ],
+            "FollowupQuest": [
+                {
+                    "Name": "The Gift of the Archmagus",
+                    "Url": "/lodestone/playguide/db/quest/810119f8166/",
+                    "Area": "Mor Dhona",
+                    "Level": "50"
+                }
+            ],
+            "RelatedNPC": [
+                {
+                    "Name": "Koh Rabntah",
+                    "Url": "/lodestone/playguide/db/npc/npc/8eb0d83c09b/",
+                    "Area": "Mor Dhona (X:21.8 Y:8.1)"
+                }
+            ]
+        },
+        "Seq": 8,
         "StartDependency": false
     }
 ]
